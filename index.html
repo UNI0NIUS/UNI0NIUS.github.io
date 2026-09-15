@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Personal homepage of an undergraduate in Chemistry at Peking University.">
+  <title>Home | Your Name</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="profile.js" defer></script>
+  <script src="site.js" defer></script>
+</head>
+<body data-page="home" data-title="Home" data-root="./">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <nav class="navigation" aria-label="Main navigation">
+      <a class="brand" href="index.html" data-name>Your Name</a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Open navigation menu"><span></span><span></span><span></span></button>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="index.html" class="active" aria-current="page">Home</a></li>
+        <li><a href="publications/index.html">Publications</a></li>
+        <li><a href="technical-blog/index.html">Tech Blog</a></li>
+        <li><a href="personal-blog/index.html">Personal Blog</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main class="home-layout" id="main">
+    <aside class="profile" id="home" aria-label="Profile">
+      <div class="avatar" id="avatar"><span aria-label="Profile initials">YN</span></div>
+      <h1 data-name>Your Name</h1>
+      <p class="affiliation" id="affiliation">Peking University<br>Undergraduate in Chemistry</p>
+      <div class="social-links" id="social-links"></div>
+    </aside>
+    <div class="content">
+      <section id="research" aria-labelledby="research-title">
+        <h2 id="research-title">Research Interests</h2>
+        <div id="research-copy"><p class="placeholder">I am an undergraduate student in Chemistry at Peking University.</p><p class="placeholder">[Add a short introduction to your research interests, the questions you are exploring, and any current projects.]</p></div>
+      </section>
+      <section id="education" aria-labelledby="education-title">
+        <h2 id="education-title">Education</h2>
+        <div class="experience-list" id="education-list">
+          <article class="experience-item"><div class="institution-mark has-logo" aria-hidden="true"><img src="images/pku-logo.png" alt="" width="52" height="52"></div><div class="experience-detail"><h3>Peking University</h3><p>B.S. in Chemistry</p></div></article>
+        </div>
+      </section>
+      <section id="experience" aria-labelledby="experience-title">
+        <h2 id="experience-title">Experience</h2>
+        <div class="experience-list" id="experience-list"><p class="empty-note">To be added.</p></div>
+      </section>
+      <section id="contact" aria-labelledby="contact-title">
+        <h2 id="contact-title">Contact</h2>
+        <p class="contact-line"><span class="contact-label">Email</span><span id="email" class="placeholder">To be added.</span></p>
+      </section>
+    </div>
+  </main>
+  <footer class="site-footer"><p>© <span id="year">2026</span> <span data-name>Your Name</span></p></footer>
+</body>
+</html>
