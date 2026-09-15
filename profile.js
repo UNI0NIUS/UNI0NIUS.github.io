@@ -5,9 +5,13 @@ window.PROFILE = {
   // Place your photo beside this file, then enter its filename.
   avatar: "images/photo.jpg",
   email: "unionius5734@gmail.com",
-  // Example: { label: "GitHub", url: "https://github.com/your-username" }
+  // Supported icons: github, x, scholar, linkedin. Empty URLs are not shown.
   links: [
-    { label: "GitHub", url: "https://github.com/UNI0NIUS" }
+    { label: "GitHub", icon: "github", url: "https://github.com/UNI0NIUS" },
+    { label: "X", icon: "x", url: "https://x.com/unionios" }
+    // Add your own profiles when available:
+    // , { label: "Google Scholar", icon: "scholar", url: "" }
+    // , { label: "LinkedIn", icon: "linkedin", url: "" }
   ],
   research: [
     "I am an undergraduate student in Chemistry at Peking University.",
