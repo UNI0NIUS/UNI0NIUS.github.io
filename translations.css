@@ -1,3 +1,18 @@
+@font-face{font-family:"Reading Serif";src:url("fonts/reading-serif.woff2") format("woff2");font-style:normal;font-weight:400 700;font-display:swap}
+@font-face{font-family:"Reading Serif";src:url("fonts/reading-serif-italic.woff2") format("woff2");font-style:italic;font-weight:400 700;font-display:swap}
+@font-face{font-family:"Reading CJK";src:url("fonts/reading-cjk.woff2") format("woff2");font-style:normal;font-weight:400 600;font-display:swap}
+:root{--translation-serif:"Reading Serif","Reading CJK",Georgia,"Noto Serif SC","Noto Serif CJK SC","Source Han Serif SC","Songti SC",SimSun,serif}
+.translation-card h3,.translation-reader .post-title,.chapter-sidebar .book-name{font-family:var(--translation-serif);font-synthesis:none;font-weight:600}
+.translation-reader .post-body:lang(zh){font-family:var(--translation-serif);font-synthesis:none}
+.translation-reader .post-body:lang(zh) strong,.translation-reader .post-body:lang(zh) b{font-weight:600}
+.chapter-directory .chapter-part{margin:10px 0}
+.chapter-directory .chapter-part summary{padding:9px 4px;color:var(--ink);font-size:14px;line-height:1.65;font-weight:600}
+.chapter-directory .chapter-part ol{margin-left:10px;padding-left:6px;border-left:1px solid var(--line)}
+.chapter-directory .chapter-part a{font-size:13px;padding:8px 10px}
+.original-edition{font:14px/1.75 var(--translation-serif);margin-top:16px;padding:10px 14px;border:1px solid var(--line);border-radius:4px;font-synthesis:none}
+.original-edition summary{cursor:pointer;font-weight:600}
+.original-edition p{margin-top:8px}
+.original-edition .edition-status{color:var(--muted);font-size:13px}
 .translation-reader .post-body p,.translation-reader .post-body blockquote,.translation-reader .post-body li{white-space:pre-line}
 .translation-intro{color:var(--muted);margin:-8px 0 32px;max-width:660px}
 .translation-jump{display:flex;gap:10px;margin-bottom:36px}.translation-jump a{border:1px solid var(--line);border-radius:4px;padding:5px 16px;font-size:14px}
@@ -22,7 +37,10 @@
 .parallel-body:not(.view-parallel) .parallel-row{grid-template-columns:4.6rem minmax(0,1fr);max-width:850px;margin-inline:auto}
 .printed-page{font:12px/1.6 var(--sans);color:var(--muted);padding-top:5px;position:sticky;top:95px;text-decoration:none;overflow-wrap:normal}
 .reader-cell{min-width:0;line-height:1.95;padding-bottom:18px}
-.reader-zh{font-family:"Noto Serif CJK SC","Source Han Serif SC","Songti SC",SimSun,serif}
+/* Latin/Greek precede CJK so accented words do not mix glyph families. */
+.reader-zh{font-family:var(--translation-serif);font-synthesis:none}
+.reader-zh strong,.reader-zh b{font-weight:600}
+.reader-zh h2,.reader-zh h3{font-family:inherit;font-weight:600}
 .reader-en{font-family:var(--serif)}
 .parallel-body .reader-cell>h2{margin-top:0}
 .parallel-body .reader-cell>blockquote{margin-top:0;font-style:normal}

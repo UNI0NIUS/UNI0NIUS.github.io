@@ -31,3 +31,11 @@ Chinese Markdown SHA-256: `6c7a49164067f679369ce5fe0f6cdace442e1509a9064f1359679
 Supplied EPUB SHA-256: `6587844d8dd33756107d86fe4f3c418d6f7dc633741dcd0471b952274959bdd6`.
 
 The export validates all 433 original heading/prose/note units against their source or reviewed translation, plus both editorial notes. All rights in the original work and English translation remain with their respective holders; this publication does not relicense them.
+
+## Parts, typography, and the Italian reference edition
+
+The catalog explicitly defines three `parts`; chapter `partId` fields nest the existing chapter links under those parts. The current part opens automatically; the index remains separate. IDs and paragraph anchors are unchanged. `shortTitle` and `shortOriginalTitle` avoid repeating part numerals on child links.
+
+The original Italian reference edition is *Il ricordo del presente. Saggio sul tempo storico* (Bollati Boringhieri, 1999; ISBN 9788833911335). Its bibliographic link is available in the reader header. `originalEdition.status` is `awaiting-scan`: no Italian text or downloadable scan is currently provided. Add the verified scan and source information when received; do not label the English translation as Italian or fabricate aligned Italian paragraphs.
+
+The self-hosted reading fonts include real 400–600 Chinese weights and regular/italic Latin and Greek glyphs, including combining marks and polytonic Greek. Chinese emphasis uses 600, with synthetic weight and slant disabled. Latin and Greek take precedence over CJK fonts to keep words with accents in one typeface. See `fonts/README.md` for rebuilding the Chinese subset when adding new text.

@@ -18,7 +18,7 @@
     const row = el("div", undefined, "translation-metadata");
     if (item.author) row.append(el("span", `By ${item.author}`));
     if (item.languagePair) row.append(el("span", item.languagePair));
-    if (chapterCount !== undefined) row.append(el("span", `${chapterCount} ${chapterCount === 1 ? "chapter" : "chapters"}`));
+    if (chapterCount !== undefined) row.append(el("span", `${item.parts?.length ? item.parts.length + " parts · " : ""}${chapterCount} ${item.parts?.length ? "sections" : chapterCount === 1 ? "chapter" : "chapters"}`));
     if (item.example) row.append(el("span", "Template", "example-badge"));
     return row;
   }
@@ -66,6 +66,18 @@
     if (item.englishTranslator) header.append(el("p", `English translation: ${item.englishTranslator}`, "translation-source"));
     const source = resourceLink("Original source ↗", item.sourceUrl);
     if (source) { const row = el("p", undefined, "translation-source"); row.append(source); header.append(row); }
+    if (item.originalEdition) {
+      const edition = item.originalEdition;
+      const details = el("details", undefined, "original-edition");
+      details.append(el("summary", "意大利语原版 · Italiano"));
+      const title = el("p", `${edition.title}. ${edition.subtitle || ""}`);
+      title.lang = edition.language;
+      details.append(title, el("p", `${edition.publisher}, ${edition.year} · ISBN ${edition.isbn}`));
+      const reference = resourceLink("原版书目 ↗", edition.referenceUrl);
+      if (reference) details.append(reference);
+      if (edition.status === "awaiting-scan") details.append(el("p", "扫描件待补；意大利语原文尚未上线。", "edition-status"));
+      header.append(details);
+    }
     return header;
   }
   function templateNote(item) {
@@ -116,6 +128,7 @@
       return;
     }
     const chapter = chapters[index];
+    const currentPart = (item.parts || []).find(part => part.id === chapter.partId);
     const view = ["zh", "en", "parallel"].includes(params.get("view")) ? params.get("view") : "parallel";
     const chapterTitle = entry => item.bilingual && view === "en" ? entry.originalTitle || entry.title : entry.title;
     target.append(link("← All translations", "index.html#books", "back-link"));
@@ -127,17 +140,34 @@
     directory.append(el("summary", "Chapters"));
     const nav = el("nav"); nav.setAttribute("aria-label", "Chapters");
     const list = el("ol");
-    chapters.forEach((entry, i) => {
-      const li = el("li"); const a = link(chapterTitle(entry), href("book", item, entry));
-      if (i === index) a.setAttribute("aria-current", "page");
-      li.append(a); list.append(li);
-    });
+    const chapterLink = entry => {
+      const li = el("li");
+      const title = view === "en" ? entry.shortOriginalTitle || chapterTitle(entry) : entry.shortTitle || chapterTitle(entry);
+      const a = link(title, href("book", item, entry));
+      if (entry.id === chapter.id) a.setAttribute("aria-current", "page");
+      li.append(a); return li;
+    };
+    const groups = new Map();
+    for (const entry of chapters) {
+      const part = (item.parts || []).find(part => part.id === entry.partId);
+      if (!part) { list.append(chapterLink(entry)); continue; }
+      if (!groups.has(part.id)) {
+        const li = el("li", undefined, "chapter-part");
+        const group = el("details"); group.open = chapter.partId === part.id;
+        const title = view === "en" ? part.originalTitle || part.title : part.title;
+        group.append(el("summary", title));
+        const children = el("ol");
+        group.append(children); li.append(group); list.append(li);
+        groups.set(part.id, children);
+      }
+      groups.get(part.id).append(chapterLink(entry));
+    }
     nav.append(list); directory.append(nav); sidebar.append(directory);
     const mobile = window.matchMedia("(max-width: 900px)");
     const adaptDirectory = () => { directory.open = !mobile.matches; };
     adaptDirectory(); mobile.addEventListener("change", adaptDirectory);
     const article = el("article", undefined, "chapter-article translation-reader");
-    article.append(heading(item, chapterTitle(chapter), `${item.title} · Section ${index + 1} of ${chapters.length}`));
+    article.append(heading(item, chapterTitle(chapter), `${currentPart ? (view === "en" ? currentPart.originalTitle || currentPart.title : currentPart.title) : item.title} · Section ${index + 1} of ${chapters.length}`));
     const note = templateNote(item); if (note) article.append(note);
     if (item.bilingual && window.renderParallelBook) {
       document.getElementById("main").classList.add("bilingual-book");

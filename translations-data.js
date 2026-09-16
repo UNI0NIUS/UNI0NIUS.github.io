@@ -18,157 +18,235 @@ window.TRANSLATIONS = {
           "id": "part-i-premise",
           "title": "I · 前言",
           "originalTitle": "I · Premise",
-          "dataUrl": "translations/books/deja-vu/part-i-premise.json"
+          "dataUrl": "translations/books/deja-vu/part-i-premise.json",
+          "partId": "part-i",
+          "shortTitle": "前言",
+          "shortOriginalTitle": "Premise"
         },
         {
           "id": "part-i-section-1",
           "title": "I · 1. 看着自己生活",
           "originalTitle": "I · 1. Watching Themselves Live",
-          "dataUrl": "translations/books/deja-vu/part-i-section-1.json"
+          "dataUrl": "translations/books/deja-vu/part-i-section-1.json",
+          "partId": "part-i",
+          "shortTitle": "1. 看着自己生活",
+          "shortOriginalTitle": "1. Watching Themselves Live"
         },
         {
           "id": "part-i-section-2",
           "title": "I · 2. 对当下的记忆（memory of the present）",
           "originalTitle": "I · 2. The Memory of the Present",
-          "dataUrl": "translations/books/deja-vu/part-i-section-2.json"
+          "dataUrl": "translations/books/deja-vu/part-i-section-2.json",
+          "partId": "part-i",
+          "shortTitle": "2. 对当下的记忆（memory of the present）",
+          "shortOriginalTitle": "2. The Memory of the Present"
         },
         {
           "id": "part-i-section-3",
           "title": "I · 3. 现实态与潜在态（Actual and Virtual）",
           "originalTitle": "I · 3. Actual and Virtual",
-          "dataUrl": "translations/books/deja-vu/part-i-section-3.json"
+          "dataUrl": "translations/books/deja-vu/part-i-section-3.json",
+          "partId": "part-i",
+          "shortTitle": "3. 现实态与潜在态（Actual and Virtual）",
+          "shortOriginalTitle": "3. Actual and Virtual"
         },
         {
           "id": "part-i-section-4",
           "title": "I · 4. 可能性的时间性（temporality of the possible）",
           "originalTitle": "I · 4. The Temporality of the Possible",
-          "dataUrl": "translations/books/deja-vu/part-i-section-4.json"
+          "dataUrl": "translations/books/deja-vu/part-i-section-4.json",
+          "partId": "part-i",
+          "shortTitle": "4. 可能性的时间性（temporality of the possible）",
+          "shortOriginalTitle": "4. The Temporality of the Possible"
         },
         {
           "id": "part-i-section-5",
           "title": "I · 5. 语言作为不定的过去",
           "originalTitle": "I · 5. Language as the Indefinite Past",
-          "dataUrl": "translations/books/deja-vu/part-i-section-5.json"
+          "dataUrl": "translations/books/deja-vu/part-i-section-5.json",
+          "partId": "part-i",
+          "shortTitle": "5. 语言作为不定的过去",
+          "shortOriginalTitle": "5. Language as the Indefinite Past"
         },
         {
           "id": "part-i-section-6",
           "title": "I · 6. 两种时代错置（anachronism）",
           "originalTitle": "I · 6. Two Types of Anachronism",
-          "dataUrl": "translations/books/deja-vu/part-i-section-6.json"
+          "dataUrl": "translations/books/deja-vu/part-i-section-6.json",
+          "partId": "part-i",
+          "shortTitle": "6. 两种时代错置（anachronism）",
+          "shortOriginalTitle": "6. Two Types of Anachronism"
         },
         {
           "id": "part-i-section-7",
           "title": "I · 7. 记忆的势利主义",
           "originalTitle": "I · 7. The Snobbery of Memory",
-          "dataUrl": "translations/books/deja-vu/part-i-section-7.json"
+          "dataUrl": "translations/books/deja-vu/part-i-section-7.json",
+          "partId": "part-i",
+          "shortTitle": "7. 记忆的势利主义",
+          "shortOriginalTitle": "7. The Snobbery of Memory"
         },
         {
           "id": "part-i-section-8",
           "title": "I · 8. 记忆对于历史的效用与弊害",
           "originalTitle": "I · 8. On the Utility and Liability of Memory for History",
-          "dataUrl": "translations/books/deja-vu/part-i-section-8.json"
+          "dataUrl": "translations/books/deja-vu/part-i-section-8.json",
+          "partId": "part-i",
+          "shortTitle": "8. 记忆对于历史的效用与弊害",
+          "shortOriginalTitle": "8. On the Utility and Liability of Memory for History"
         },
         {
           "id": "part-i-section-9",
           "title": "I · 9. 现代志癖（modernariat）",
           "originalTitle": "I · 9. The Modernariat",
-          "dataUrl": "translations/books/deja-vu/part-i-section-9.json"
+          "dataUrl": "translations/books/deja-vu/part-i-section-9.json",
+          "partId": "part-i",
+          "shortTitle": "9. 现代志癖（modernariat）",
+          "shortOriginalTitle": "9. The Modernariat"
         },
         {
           "id": "part-ii-premise",
           "title": "II · 前言",
           "originalTitle": "II · Premise",
-          "dataUrl": "translations/books/deja-vu/part-ii-premise.json"
+          "dataUrl": "translations/books/deja-vu/part-ii-premise.json",
+          "partId": "part-ii",
+          "shortTitle": "前言",
+          "shortOriginalTitle": "Premise"
         },
         {
           "id": "part-ii-section-1",
           "title": "II · 1. 年代推进与时间秩序",
           "originalTitle": "II · 1. Chronological Progression, Temporal Order",
-          "dataUrl": "translations/books/deja-vu/part-ii-section-1.json"
+          "dataUrl": "translations/books/deja-vu/part-ii-section-1.json",
+          "partId": "part-ii",
+          "shortTitle": "1. 年代推进与时间秩序",
+          "shortOriginalTitle": "1. Chronological Progression, Temporal Order"
         },
         {
           "id": "part-ii-section-2",
           "title": "II · 2. 在场与从未成为现实态之物",
           "originalTitle": "II · 2. Presence and the Never-Actual",
-          "dataUrl": "translations/books/deja-vu/part-ii-section-2.json"
+          "dataUrl": "translations/books/deja-vu/part-ii-section-2.json",
+          "partId": "part-ii",
+          "shortTitle": "2. 在场与从未成为现实态之物",
+          "shortOriginalTitle": "2. Presence and the Never-Actual"
         },
         {
           "id": "part-ii-section-3",
           "title": "II · 3. “永恒之物在实体上先于可朽之物”",
           "originalTitle": "II · 3. ‘Eternal things are prior in substance to perishable things’",
-          "dataUrl": "translations/books/deja-vu/part-ii-section-3.json"
+          "dataUrl": "translations/books/deja-vu/part-ii-section-3.json",
+          "partId": "part-ii",
+          "shortTitle": "3. “永恒之物在实体上先于可朽之物”",
+          "shortOriginalTitle": "3. ‘Eternal things are prior in substance to perishable things’"
         },
         {
           "id": "part-ii-section-4",
           "title": "II · 4. 不可实现的潜能（unrealisable potential）",
           "originalTitle": "II · 4. Unrealisable Potential",
-          "dataUrl": "translations/books/deja-vu/part-ii-section-4.json"
+          "dataUrl": "translations/books/deja-vu/part-ii-section-4.json",
+          "partId": "part-ii",
+          "shortTitle": "4. 不可实现的潜能（unrealisable potential）",
+          "shortOriginalTitle": "4. Unrealisable Potential"
         },
         {
           "id": "part-ii-section-5",
           "title": "II · 5. 时间的不完整性（incompleteness of time）",
           "originalTitle": "II · 5. The Incompleteness of Time",
-          "dataUrl": "translations/books/deja-vu/part-ii-section-5.json"
+          "dataUrl": "translations/books/deja-vu/part-ii-section-5.json",
+          "partId": "part-ii",
+          "shortTitle": "5. 时间的不完整性（incompleteness of time）",
+          "shortOriginalTitle": "5. The Incompleteness of Time"
         },
         {
           "id": "part-ii-section-6",
           "title": "II · 6. 康德的火炉",
           "originalTitle": "II · 6. Kant’s Stove",
-          "dataUrl": "translations/books/deja-vu/part-ii-section-6.json"
+          "dataUrl": "translations/books/deja-vu/part-ii-section-6.json",
+          "partId": "part-ii",
+          "shortTitle": "6. 康德的火炉",
+          "shortOriginalTitle": "6. Kant’s Stove"
         },
         {
           "id": "part-ii-section-7",
           "title": "II · 7. “非现在”与“现在”的同时性",
           "originalTitle": "II · 7. The Simultaneity of ‘Not-Now’ and ‘Now’",
-          "dataUrl": "translations/books/deja-vu/part-ii-section-7.json"
+          "dataUrl": "translations/books/deja-vu/part-ii-section-7.json",
+          "partId": "part-ii",
+          "shortTitle": "7. “非现在”与“现在”的同时性",
+          "shortOriginalTitle": "7. The Simultaneity of ‘Not-Now’ and ‘Now’"
         },
         {
           "id": "part-ii-section-8",
           "title": "II · 8. 潜能的在先性",
           "originalTitle": "II · 8. The Anteriority of Potential",
-          "dataUrl": "translations/books/deja-vu/part-ii-section-8.json"
+          "dataUrl": "translations/books/deja-vu/part-ii-section-8.json",
+          "partId": "part-ii",
+          "shortTitle": "8. 潜能的在先性",
+          "shortOriginalTitle": "8. The Anteriority of Potential"
         },
         {
           "id": "part-ii-section-9",
           "title": "II · 9. 双重游戏",
           "originalTitle": "II · 9. A Double Game",
-          "dataUrl": "translations/books/deja-vu/part-ii-section-9.json"
+          "dataUrl": "translations/books/deja-vu/part-ii-section-9.json",
+          "partId": "part-ii",
+          "shortTitle": "9. 双重游戏",
+          "shortOriginalTitle": "9. A Double Game"
         },
         {
           "id": "part-ii-section-10",
           "title": "II · 10. 什么是历史时刻？",
           "originalTitle": "II · 10. What Is a Historical Moment?",
-          "dataUrl": "translations/books/deja-vu/part-ii-section-10.json"
+          "dataUrl": "translations/books/deja-vu/part-ii-section-10.json",
+          "partId": "part-ii",
+          "shortTitle": "10. 什么是历史时刻？",
+          "shortOriginalTitle": "10. What Is a Historical Moment?"
         },
         {
           "id": "part-ii-section-11",
           "title": "II · 11. 死亡与历史",
           "originalTitle": "II · 11. Death and History",
-          "dataUrl": "translations/books/deja-vu/part-ii-section-11.json"
+          "dataUrl": "translations/books/deja-vu/part-ii-section-11.json",
+          "partId": "part-ii",
+          "shortTitle": "11. 死亡与历史",
+          "shortOriginalTitle": "11. Death and History"
         },
         {
           "id": "part-iii-premise",
           "title": "III · 前提",
           "originalTitle": "III · Premise",
-          "dataUrl": "translations/books/deja-vu/part-iii-premise.json"
+          "dataUrl": "translations/books/deja-vu/part-iii-premise.json",
+          "partId": "part-iii",
+          "shortTitle": "前提",
+          "shortOriginalTitle": "Premise"
         },
         {
           "id": "part-iii-section-1",
           "title": "III · 1. 论劳动力概念：身体与潜能",
           "originalTitle": "III · 1. On the Concept of Labour-Power: Body and Potential",
-          "dataUrl": "translations/books/deja-vu/part-iii-section-1.json"
+          "dataUrl": "translations/books/deja-vu/part-iii-section-1.json",
+          "partId": "part-iii",
+          "shortTitle": "1. 论劳动力概念：身体与潜能",
+          "shortOriginalTitle": "1. On the Concept of Labour-Power: Body and Potential"
         },
         {
           "id": "part-iii-section-2",
           "title": "III · 2. ‘在那个时代’：宗教符号的双重性",
           "originalTitle": "III · 2. ‘In illo tempore’: The Ambivalence of Religious Symbols",
-          "dataUrl": "translations/books/deja-vu/part-iii-section-2.json"
+          "dataUrl": "translations/books/deja-vu/part-iii-section-2.json",
+          "partId": "part-iii",
+          "shortTitle": "2. ‘在那个时代’：宗教符号的双重性",
+          "shortOriginalTitle": "2. ‘In illo tempore’: The Ambivalence of Religious Symbols"
         },
         {
           "id": "part-iii-section-3",
           "title": "III · 3. 当代前历史",
           "originalTitle": "III · 3. Contemporary pre-history",
-          "dataUrl": "translations/books/deja-vu/part-iii-section-3.json"
+          "dataUrl": "translations/books/deja-vu/part-iii-section-3.json",
+          "partId": "part-iii",
+          "shortTitle": "3. 当代前历史",
+          "shortOriginalTitle": "3. Contemporary pre-history"
         },
         {
           "id": "index",
@@ -176,7 +254,34 @@ window.TRANSLATIONS = {
           "originalTitle": "Index · Index of Names",
           "dataUrl": "translations/books/deja-vu/index.json"
         }
-      ]
+      ],
+      "parts": [
+        {
+          "id": "part-i",
+          "title": "I · 既视感与历史终结",
+          "originalTitle": "I · Déjà Vu and the End of History"
+        },
+        {
+          "id": "part-ii",
+          "title": "II · 潜能的时间性，时间的潜在性",
+          "originalTitle": "II · Temporality of Potential, Potentiality of Time"
+        },
+        {
+          "id": "part-iii",
+          "title": "III · 历史唯物主义",
+          "originalTitle": "III · Historical Materialism"
+        }
+      ],
+      "originalEdition": {
+        "language": "it",
+        "title": "Il ricordo del presente",
+        "subtitle": "Saggio sul tempo storico",
+        "publisher": "Bollati Boringhieri",
+        "year": 1999,
+        "isbn": "9788833911335",
+        "status": "awaiting-scan",
+        "referenceUrl": "https://www.ibs.it/ricordo-del-presente-libro-paolo-virno/e/9788833911335"
+      }
     }
   ],
   "articles": [
