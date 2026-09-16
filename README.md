@@ -1,5 +1,23 @@
 # UNI0NIUS.github.io
 
+## Projects
+
+The **Projects** navigation link opens `/projects/`, a responsive collection of image-led project cards. The first project is NaF / CPS Formalization; its description is public while its source remains private.
+
+Edit **`projects-data.js`** to add or update cards. Each entry supports `id`, `title`, `subtitle`, `image`, `imageAlt`, `tags`, `description`, `links`, and `sourceNote`. Entries appear in array order. Upload project figures under `images/projects/` and use a root-relative filename such as `images/projects/my-project.png`. Images are fitted without cropping; a missing or broken image falls back to the project title.
+
+For a public project, add links such as:
+
+```js
+links: [
+  { label: "View Source", url: "https://github.com/YOUR-USERNAME/YOUR-PROJECT" },
+  { label: "Read Report", url: "files/projects/report.pdf" }
+],
+sourceNote: ""
+```
+
+Leave `links: []` for private projects. Commit changes to `main` to publish through GitHub Pages. The layout uses two columns for multiple projects, centers a single project, and stacks cards on small screens.
+
 ## Translations
 
 Open `/translations/` for the books and articles library. All navigation and reader controls are in English; translation text can be in any language.
