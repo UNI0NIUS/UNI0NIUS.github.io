@@ -1,5 +1,5 @@
 "use strict";
-(() => {
+(async () => {
   const library = window.TRANSLATIONS || {};
   const books = library.books || [];
   const articles = library.articles || [];
@@ -8,6 +8,7 @@
   const href = (kind, item, chapter) => {
     const query = new URLSearchParams({ id: item.id });
     if (chapter) query.set("chapter", chapter.id);
+    if (item.bilingual && ["zh", "en", "parallel"].includes(params.get("view"))) query.set("view", params.get("view"));
     return `${kind}.html?${query}`;
   };
   const link = (text, url, className) => {
@@ -61,7 +62,8 @@
     header.append(el("h1", title, "post-title"));
     if (item.originalTitle) header.append(el("p", item.originalTitle, "translation-original"));
     header.append(metadata(item));
-    header.append(el("p", `Translated by ${item.translator || personName}`, "translation-source"));
+    header.append(el("p", `${item.englishTranslator ? "Chinese: " : "Translated by "}${item.translator || personName}`, "translation-source"));
+    if (item.englishTranslator) header.append(el("p", `English translation: ${item.englishTranslator}`, "translation-source"));
     const source = resourceLink("Original source ↗", item.sourceUrl);
     if (source) { const row = el("p", undefined, "translation-source"); row.append(source); header.append(row); }
     return header;
@@ -114,6 +116,8 @@
       return;
     }
     const chapter = chapters[index];
+    const view = ["zh", "en", "parallel"].includes(params.get("view")) ? params.get("view") : "parallel";
+    const chapterTitle = entry => item.bilingual && view === "en" ? entry.originalTitle || entry.title : entry.title;
     target.append(link("← All translations", "index.html#books", "back-link"));
     const layout = el("div", undefined, "book-layout");
     const sidebar = el("aside", undefined, "chapter-sidebar");
@@ -124,7 +128,7 @@
     const nav = el("nav"); nav.setAttribute("aria-label", "Chapters");
     const list = el("ol");
     chapters.forEach((entry, i) => {
-      const li = el("li"); const a = link(entry.title, href("book", item, entry));
+      const li = el("li"); const a = link(chapterTitle(entry), href("book", item, entry));
       if (i === index) a.setAttribute("aria-current", "page");
       li.append(a); list.append(li);
     });
@@ -133,21 +137,44 @@
     const adaptDirectory = () => { directory.open = !mobile.matches; };
     adaptDirectory(); mobile.addEventListener("change", adaptDirectory);
     const article = el("article", undefined, "chapter-article translation-reader");
-    article.append(heading(item, chapter.title, `${item.title} · Chapter ${index + 1} of ${chapters.length}`));
+    article.append(heading(item, chapterTitle(chapter), `${item.title} · Section ${index + 1} of ${chapters.length}`));
     const note = templateNote(item); if (note) article.append(note);
-    article.append(body(chapter.body, item.language));
+    if (item.bilingual && window.renderParallelBook) {
+      document.getElementById("main").classList.add("bilingual-book");
+      article.append(window.renderParallelBook.controls(view));
+      article.append(el("p", "Chinese reviewed working draft · 2026-09-16. Page labels refer to the printed English edition, not PDF sheet numbers. English wording is retained from the supplied EPUB; editorial uncertainties are flagged beside the Chinese text.", "edition-notice"));
+      const loading = el("p", "Loading section…"); loading.setAttribute("role", "status");
+      article.append(loading);
+      try {
+        const url = safeUrl(chapter.dataUrl);
+        if (!url || new URL(url).origin !== location.origin) throw new Error("Invalid chapter URL");
+        const response = await fetch(url);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const data = await response.json();
+        if (data.id !== chapter.id || !Array.isArray(data.body)) throw new Error("Invalid chapter data");
+        loading.replaceWith(window.renderParallelBook.content(data, view));
+      } catch (error) {
+        loading.textContent = "This section could not be loaded. Please reload the page to try again.";
+        loading.setAttribute("role", "alert");
+        console.error("Book section load failed", error);
+      }
+    } else article.append(body(chapter.body, item.language));
     const nextPrevious = el("nav", undefined, "chapter-navigation");
     nextPrevious.setAttribute("aria-label", "Chapter navigation");
     for (const [offset, label, className] of [[-1, "← Previous chapter", "previous-chapter"], [1, "Next chapter →", "next-chapter"]]) {
       const adjacent = chapters[index + offset];
       if (!adjacent) continue;
-      const a = link(adjacent.title, href("book", item, adjacent), className);
+      const a = link(chapterTitle(adjacent), href("book", item, adjacent), className);
       a.prepend(el("span", label)); a.rel = offset < 0 ? "prev" : "next";
       nextPrevious.append(a);
     }
     if (nextPrevious.childElementCount) article.append(nextPrevious);
     layout.append(sidebar, article); target.append(layout);
     document.title = `${chapter.title} — ${item.title} | ${personName}`;
+    if (location.hash) requestAnimationFrame(() => {
+      const anchor = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+      if (anchor) anchor.scrollIntoView();
+    });
   }
   const description = document.querySelector('meta[name="description"]');
   if (description) description.content = item.description || `A translation of ${item.title}.`;

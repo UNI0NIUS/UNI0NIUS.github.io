@@ -11,3 +11,33 @@
 .chapter-navigation{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-top:44px;padding-top:24px;border-top:1px solid var(--line)}.chapter-navigation a{display:block;font-size:15px;overflow-wrap:anywhere}.chapter-navigation a span{display:block;font-size:12px;color:var(--muted);margin-bottom:4px}.chapter-navigation .next-chapter{grid-column:2;text-align:right}
 @media(max-width:900px){.book-layout{grid-template-columns:minmax(0,1fr);gap:28px}.chapter-sidebar{position:static;border:1px solid var(--line);border-radius:6px;padding:16px 20px;background:var(--surface)}.chapter-sidebar .book-name{margin-bottom:6px;font-size:20px}.chapter-sidebar .book-label{margin-bottom:4px}.chapter-directory nav{max-height:45vh}.chapter-article{max-width:none}}
 @media(max-width:760px){.book-reader{padding:28px 22px 48px}.translation-card h3{font-size:21px}.chapter-navigation{gap:16px}.translation-jump{margin-bottom:28px}}
+.bilingual-book{max-width:1600px}
+.bilingual-book .book-layout{grid-template-columns:220px minmax(0,1fr);gap:30px}
+.bilingual-book .chapter-article{max-width:none}
+.edition-switcher{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}
+.edition-switcher a{border:1px solid var(--line);border-radius:4px;padding:7px 14px;font-size:14px}
+.edition-switcher a[aria-current=true]{background:var(--ink);border-color:var(--ink);color:#fff}
+.edition-notice{font-size:13px;line-height:1.65;color:var(--muted);max-width:850px;margin-bottom:30px}
+.parallel-row{display:grid;grid-template-columns:4.6rem minmax(0,1fr) minmax(0,1fr);gap:24px;align-items:start;scroll-margin-top:100px}
+.parallel-body:not(.view-parallel) .parallel-row{grid-template-columns:4.6rem minmax(0,1fr);max-width:850px;margin-inline:auto}
+.printed-page{font:12px/1.6 var(--sans);color:var(--muted);padding-top:5px;position:sticky;top:95px;text-decoration:none;overflow-wrap:normal}
+.reader-cell{min-width:0;line-height:1.95;padding-bottom:18px}
+.reader-zh{font-family:"Noto Serif CJK SC","Source Han Serif SC","Songti SC",SimSun,serif}
+.reader-en{font-family:var(--serif)}
+.parallel-body .reader-cell>h2{margin-top:0}
+.parallel-body .reader-cell>blockquote{margin-top:0;font-style:normal}
+.parallel-body .reader-cell p{white-space:normal}
+.parallel-body .reader-cell>blockquote{white-space:pre-line}
+.column-labels{font-size:12px;letter-spacing:.08em;color:var(--muted);border-bottom:1px solid var(--line);padding-bottom:14px;margin-bottom:25px}
+.note-ref{font-size:.7em;line-height:0;margin-inline:2px}
+.note-ref a{scroll-margin-top:110px;padding:2px}
+.paragraph-footnote{font-size:13px;line-height:1.7;color:var(--muted);border-top:1px solid var(--line);padding-top:8px;margin-top:10px;scroll-margin-top:110px}
+.paragraph-footnote p{margin-bottom:7px}.footnote-number{font-weight:600}
+.editorial-query{background:var(--surface);padding:9px 12px;font:13px/1.7 var(--sans);margin:10px 0}
+.editorial-query summary{cursor:pointer}.editorial-query p{margin:9px 0 0}
+.parallel-row:target{outline:1px solid var(--line);outline-offset:8px}
+.paragraph-footnote:target{background:#fff8dc}
+@media(max-width:1100px){.bilingual-book .book-layout{grid-template-columns:180px minmax(0,1fr);gap:22px}.parallel-row{gap:18px;grid-template-columns:3.7rem minmax(0,1fr) minmax(0,1fr)}}
+@media(max-width:900px){.bilingual-book .book-layout{grid-template-columns:minmax(0,1fr)}.parallel-row{gap:18px}}
+@media(max-width:640px){.parallel-row,.parallel-body:not(.view-parallel) .parallel-row{display:block}.printed-page{display:block;position:static;margin:8px 0 10px}.column-labels{display:none}.view-parallel .reader-cell:before{content:attr(data-language);display:block;font:11px/1.5 var(--sans);color:var(--muted);margin-bottom:10px}.view-parallel .reader-en{border-bottom:1px solid var(--line);margin-bottom:22px}.reader-cell{padding-bottom:10px}.edition-switcher a{padding:7px 10px}}
+@media print{.site-header,.site-footer,.chapter-sidebar,.edition-switcher,.back-link,.chapter-navigation{display:none}.bilingual-book .book-layout{display:block}.printed-page{position:static}.book-reader{padding:0}.paragraph-footnote{break-inside:avoid}.editorial-query[open]{display:block}}
