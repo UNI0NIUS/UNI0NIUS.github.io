@@ -19,23 +19,38 @@ window.renderParallelBook = (() => {
         const node = url ? el("a") : el("span");
         if (url) { node.href = url; node.rel = "noopener noreferrer"; }
         inline(node, token.children, language); parent.append(node);
+      } else if (token.type === "table") {
+        const wrap = el("div", undefined, "source-table-wrap");
+        const table = el("table", undefined, "source-table");
+        const tbody = el("tbody");
+        for (const cells of token.rows) {
+          const tr = el("tr");
+          for (const tokens of cells) { const td = el("td"); inline(td, tokens, language); tr.append(td); }
+          tbody.append(tr);
+        }
+        table.append(tbody); wrap.append(table); parent.append(wrap);
+      } else if (token.type === "verse") {
+        const verse = el("div", undefined, "source-verse");
+        inline(verse, token.children, language); parent.append(verse);
       }
     }
   }
   function noteIds(tokens) {
-    return (tokens || []).flatMap(t => typeof t === "string" ? [] : t.type === "note" ? [t.id] : noteIds(t.children));
+    return (tokens || []).flatMap(t => typeof t === "string" ? [] : t.type === "note" ? [t.id] : [...noteIds(t.children), ...(t.rows || []).flatMap(row => row.flatMap(noteIds))]);
   }
-  function cell(row, language, notes) {
+  function cell(row, language, notes, source) {
     const container = el("div", undefined, `reader-cell reader-${language}`);
-    container.lang = language === "zh" ? "zh-CN" : "en";
-    container.dataset.language = language === "zh" ? "中文" : "English";
+    container.lang = language === "zh" ? "zh-CN" : source.sourceLanguage || "en";
+    container.dataset.language = language === "zh" ? "中文" : source.sourceLanguageLabel || "English";
     const tag = {heading: "h2", subheading: "h3", quote: "blockquote", diagram: "pre"}[row.type] || "p";
     if (row.type === "diagram" && language === "en" && row.src) {
       const figure = el("figure"); const img = el("img");
       img.src = safeUrl(row.src); img.alt = row.en.join(""); img.loading = "lazy";
       figure.append(img); container.append(figure);
     } else {
-      const node = el(tag); inline(node, row[language], language); container.append(node);
+      const hasBlocks = (row[language] || []).some(t => t.type === "table" || t.type === "verse");
+      const node = el(hasBlocks ? "div" : tag); inline(node, row[language], language); container.append(node);
+      if (language === "en" && row.sourceItalic) node.classList.add("source-italic");
     }
     for (const id of noteIds(row[language])) {
       const note = notes[id];
@@ -43,7 +58,7 @@ window.renderParallelBook = (() => {
       const aside = el("aside", undefined, "paragraph-footnote");
       aside.id = `note-${language}-${id}`;
       aside.setAttribute("role", "doc-footnote");
-      const content = el("p");
+      const content = el("div", undefined, "footnote-content");
       const mark = el("span", `${id.split("-").at(-1)}. `, "footnote-number");
       content.append(mark); inline(content, note[language], language);
       const back = el("a", " ↩", "note-backlink");
@@ -58,10 +73,11 @@ window.renderParallelBook = (() => {
     }
     return container;
   }
-  function controls(view) {
+  function controls(view, source = {}) {
     const nav = el("nav", undefined, "edition-switcher");
     nav.setAttribute("aria-label", "Reading language");
-    for (const [mode, label] of [["parallel", "中文 / English"], ["zh", "中文"], ["en", "English"]]) {
+    const sourceLabel = source.sourceLanguageLabel || "English";
+    for (const [mode, label] of [["parallel", `中文 / ${sourceLabel}`], ["zh", "中文"], ["en", sourceLabel]]) {
       const url = new URL(location.href); url.searchParams.set("view", mode);
       const a = el("a", label); a.href = url.href;
       if (mode === view) a.setAttribute("aria-current", "true");
@@ -80,7 +96,7 @@ window.renderParallelBook = (() => {
     if (view === "parallel") {
       const labels = el("div", undefined, "parallel-row column-labels");
       labels.setAttribute("aria-hidden", "true");
-      labels.append(el("span", "Page"), el("span", "中文"), el("span", "English"));
+      labels.append(el("span", "Page"), el("span", "中文"), el("span", chapter.sourceLanguageLabel || "English"));
       container.append(labels);
     }
     for (const row of chapter.body) {
@@ -89,7 +105,7 @@ window.renderParallelBook = (() => {
       const page = el("a", row.page ? `p. ${row.page}` : "", "printed-page");
       page.href = `#${row.id}`; page.setAttribute("aria-label", `Printed edition page ${row.page || ""}`);
       wrapper.append(page);
-      for (const language of view === "parallel" ? ["zh", "en"] : [view]) wrapper.append(cell(row, language, chapter.notes || {}));
+      for (const language of view === "parallel" ? ["zh", "en"] : [view]) wrapper.append(cell(row, language, chapter.notes || {}, chapter));
       container.append(wrapper);
     }
     return container;

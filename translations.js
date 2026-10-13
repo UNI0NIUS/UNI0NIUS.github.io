@@ -171,8 +171,8 @@
     const note = templateNote(item); if (note) article.append(note);
     if (item.bilingual && window.renderParallelBook) {
       document.getElementById("main").classList.add("bilingual-book");
-      article.append(window.renderParallelBook.controls(view));
-      article.append(el("p", "Chinese reviewed working draft · 2026-09-16. Page labels refer to the printed English edition, not PDF sheet numbers. English wording is retained from the supplied EPUB; editorial uncertainties are flagged beside the Chinese text.", "edition-notice"));
+      article.append(window.renderParallelBook.controls(view, item));
+      article.append(el("p", item.editionNotice || "Chinese reviewed working draft · 2026-09-16. Page labels refer to the printed English edition, not PDF sheet numbers. English wording is retained from the supplied EPUB; editorial uncertainties are flagged beside the Chinese text.", "edition-notice"));
       const loading = el("p", "Loading section…"); loading.setAttribute("role", "status");
       article.append(loading);
       try {
@@ -183,6 +183,12 @@
         const data = await response.json();
         if (data.id !== chapter.id || !Array.isArray(data.body)) throw new Error("Invalid chapter data");
         loading.replaceWith(window.renderParallelBook.content(data, view));
+        if (data.editorialNotes?.length) {
+          const review = el("details", undefined, "editorial-query");
+          review.append(el("summary", "本节校订记录"));
+          for (const note of data.editorialNotes) review.append(el("p", note));
+          article.append(review);
+        }
       } catch (error) {
         loading.textContent = "This section could not be loaded. Please reload the page to try again.";
         loading.setAttribute("role", "alert");

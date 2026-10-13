@@ -59,3 +59,9 @@
 @media(max-width:900px){.bilingual-book .book-layout{grid-template-columns:minmax(0,1fr)}.parallel-row{gap:18px}}
 @media(max-width:640px){.parallel-row,.parallel-body:not(.view-parallel) .parallel-row{display:block}.printed-page{display:block;position:static;margin:8px 0 10px}.column-labels{display:none}.view-parallel .reader-cell:before{content:attr(data-language);display:block;font:11px/1.5 var(--sans);color:var(--muted);margin-bottom:10px}.view-parallel .reader-en{border-bottom:1px solid var(--line);margin-bottom:22px}.reader-cell{padding-bottom:10px}.edition-switcher a{padding:7px 10px}}
 @media print{.site-header,.site-footer,.chapter-sidebar,.edition-switcher,.back-link,.chapter-navigation{display:none}.bilingual-book .book-layout{display:block}.printed-page{position:static}.book-reader{padding:0}.paragraph-footnote{break-inside:avoid}.editorial-query[open]{display:block}}
+/* Preserve source verse, note paragraphs, and tabular documents. */
+.source-verse, .footnote-content, .source-table td { white-space: pre-line; }
+.source-italic { font-style: italic; }
+.source-table-wrap { max-width: 100%; overflow-x: auto; }
+.source-table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+.source-table td { border: 1px solid var(--border, #ccc); padding: .4em; vertical-align: top; overflow-wrap: anywhere; }
