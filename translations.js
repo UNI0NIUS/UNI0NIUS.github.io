@@ -178,7 +178,7 @@
       try {
         const url = safeUrl(chapter.dataUrl);
         if (!url || new URL(url).origin !== location.origin) throw new Error("Invalid chapter URL");
-        const response = await fetch(url);
+        const response = await fetch(url, { cache: "no-cache" });
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
         if (data.id !== chapter.id || !Array.isArray(data.body)) throw new Error("Invalid chapter data");

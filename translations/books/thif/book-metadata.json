@@ -10,8 +10,8 @@
   "language": "zh-CN",
   "bilingual": true,
   "example": false,
-  "description": "逐段中土对照工作译稿，现含前置文字及正文至原书第344页。全书尚未完成。",
-  "editionNotice": "未完成的校译工作稿 · 2026-10-13。以2016年增订版扫描PDF为底本，页码为原书印刷页码（PDF页序减1）。现含前置文字、第一至第三章文字和第四章至第344页；后续正文尚未译完。原注随段保留。照片、部分下划线和框文尚待恢复，译文仍待终校；当前PDF尚未通过编译与版面验收。",
+  "description": "逐段中土对照工作译稿，现含前置文字及正文至原书第346页。全书尚未完成。",
+  "editionNotice": "未完成的校译工作稿 · 2026-10-14。以2016年增订版扫描PDF为底本，页码为原书印刷页码（PDF页序减1）。现含前置文字、第一至第三章文字和第四章至第346页；后续正文尚未译完。原注随段保留。照片、部分下划线和框文尚待恢复，译文仍待终校；当前PDF尚未通过编译与版面验收。",
   "status": "in-progress",
   "wholeBookComplete": false,
   "chapters": [
@@ -847,6 +847,13 @@
       "originalTitle": "Türkiye’nin Dış ve İç Durumu konusunda Tezler Tasarısı (340–344)",
       "partId": "ch04",
       "dataUrl": "translations/books/thif/thif-ch04-situation-theses.json"
+    },
+    {
+      "id": "thif-ch04-organization-theses",
+      "title": "组织委员会的提纲与决议〔工作情况〕（345–346）",
+      "originalTitle": "Teşkilat Komisyonunun Tezleri ve Kararları [Çalışmaları] (345–346)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-organization-theses.json"
     }
   ],
   "parts": [
