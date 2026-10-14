@@ -294,8 +294,8 @@ window.TRANSLATIONS = {
       "language": "zh-CN",
       "bilingual": true,
       "example": false,
-      "description": "逐段中土对照工作译稿，现含前置文字及正文至原书第363页。全书尚未完成。",
-      "editionNotice": "未完成的校译工作稿 · 2026-10-14。以2016年增订版扫描PDF为底本，页码为原书印刷页码（PDF页序减1）。现含前置文字、第一至第三章文字和第四章至第363页；后续正文尚未译完。原注随段保留。照片、部分下划线和框文尚待恢复，译文仍待终校；当前PDF尚未通过编译与版面验收。",
+      "description": "逐段中土对照工作译稿，现含前置文字及正文至原书第372页。全书尚未完成。",
+      "editionNotice": "未完成的校译工作稿 · 2026-10-15。以2016年增订版扫描PDF为底本，页码为原书印刷页码（PDF页序减1）。现含前置文字、第一至第三章文字和第四章至第372页；后续正文尚未译完。原注随段保留。照片、部分下划线和框文尚待恢复，译文仍待终校；当前PDF尚未通过编译与版面验收。",
       "status": "in-progress",
       "wholeBookComplete": false,
       "chapters": [
@@ -1187,6 +1187,41 @@ window.TRANSLATIONS = {
           "originalTitle": "s. 361–363",
           "partId": "ch04",
           "dataUrl": "translations/books/thif/thif-ch04-congress-political-report.json"
+        },
+        {
+          "id": "thif-ch04-congress-telegrams",
+          "title": "原书第363–364页",
+          "originalTitle": "s. 363–364",
+          "partId": "ch04",
+          "dataUrl": "translations/books/thif/thif-ch04-congress-telegrams.json"
+        },
+        {
+          "id": "thif-ch04-second-session-opening",
+          "title": "原书第364–367页",
+          "originalTitle": "s. 364–367",
+          "partId": "ch04",
+          "dataUrl": "translations/books/thif/thif-ch04-second-session-opening.json"
+        },
+        {
+          "id": "thif-ch04-congress-committees-election",
+          "title": "原书第367–369页",
+          "originalTitle": "s. 367–369",
+          "partId": "ch04",
+          "dataUrl": "translations/books/thif/thif-ch04-congress-committees-election.json"
+        },
+        {
+          "id": "thif-ch04-congress-closing",
+          "title": "原书第369–371页",
+          "originalTitle": "s. 369–371",
+          "partId": "ch04",
+          "dataUrl": "translations/books/thif/thif-ch04-congress-closing.json"
+        },
+        {
+          "id": "thif-ch04-representation-victory",
+          "title": "原书第371–372页",
+          "originalTitle": "s. 371–372",
+          "partId": "ch04",
+          "dataUrl": "translations/books/thif/thif-ch04-representation-victory.json"
         }
       ],
       "parts": [
@@ -1232,7 +1267,7 @@ window.TRANSLATIONS = {
       "status": "in-progress",
       "wholeBookComplete": false,
       "description": "以2013年增订第四版为底本，目前仅完成第四版前言（原书xviii—xxi页）。全书尚未完成。",
-      "editionNotice": "未完成的校译工作稿 · 2026-10-14。目前仅含第四版前言，原书xviii—xxi页（PDF第19—22页）。以2013年2月增订第四版扫描PDF与配套EPUB为底本，采用原书印刷页码。其余前置文字及正文尚未译完。",
+      "editionNotice": "未完成的校译工作稿 · 2026-10-15。目前仅含第四版前言，原书xviii—xxi页（PDF第19—22页）。以2013年2月增订第四版扫描PDF与配套EPUB为底本，采用原书印刷页码。其余前置文字及正文尚未译完。",
       "chapters": [
         {
           "id": "preface-fourth-edition",
