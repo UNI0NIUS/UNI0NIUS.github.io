@@ -1,10 +1,10 @@
 {
   "status": "in-progress",
-  "printedThrough": 372,
+  "printedThrough": 375,
   "counts": {
-    "units": 2334,
-    "notes": 265,
-    "sections": 132
+    "units": 2351,
+    "notes": 268,
+    "sections": 135
   },
   "sourcePdfSha256": "0c934024a45469113e1b87f241ab3f6944595baa63fc19a1f25c3b67b59b9ff7",
   "batches": [
@@ -56914,6 +56914,293 @@
           "after": "Komintern",
           "count": 1,
           "authority": "2016 baseline PDF372–373 / printed371–372 visually reviewed scans; note74 enlarged crop"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-cevat-article",
+      "alignedSha256": "8cfe1110882cc38dad6230965d57bcc19d40ed93744f29bd62c8dfb28dc4f1f3",
+      "editorialNotes": [
+        {
+          "comment": "本文为阿塞拜疆语材料的拉丁字母转录，保留其词形与语法，不按现代土耳其语全面改写。8月15日、80%及52%均照原文，后两者的统计对象不同，52%未改成代表构成。Mülteciler扫描确如此，暂译流亡者并保留原词，语境待核，不默改为mürteciler。kend与kendi在本段按阿塞拜疆语村庄、乡村理解，原文kendileri保留。bir nice nefer照若干人译，不擅补千。原注76横跨两页完整保留，明确指出作者亦曾参加1920年大会。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-1",
+          "before": "THlF",
+          "after": "THİF",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-2",
+          "before": "TÜRKlYE",
+          "after": "TÜRKİYE",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-2",
+          "before": "KOMÜNiZM",
+          "after": "KOMÜNİZM",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-2",
+          "before": "HAREKET!",
+          "after": "HAREKETİ",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-3",
+          "before": "Agustos",
+          "after": "Ağustos",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-3",
+          "before": "1 5",
+          "after": "15",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-3",
+          "before": "vakt oldu.76",
+          "after": "vâkı oldu.[[FN:76]]",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-3",
+          "before": "hahse",
+          "after": "hapse",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-4",
+          "before": "unsurlannın",
+          "after": "unsurlarının",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-4",
+          "before": "olduklan",
+          "after": "oldukları",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-6",
+          "before": "muzafgeriyet",
+          "after": "muzafferiyet",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-6",
+          "before": "lstanbul",
+          "after": "İstanbul",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-6",
+          "before": "mes' elesinde",
+          "after": "mes’elesinde",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-6",
+          "before": "[yardımı)",
+          "after": "[yardımı]",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-6",
+          "before": "2l'inci",
+          "after": "21’inci",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-6",
+          "before": "S'inci maddeye",
+          "after": "8’inci maddeye",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-7",
+          "before": "demiryollan",
+          "after": "demiryolları",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-8",
+          "before": "2l'inci",
+          "after": "21’inci",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-9",
+          "before": "demiryollan",
+          "after": "demiryolları",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-9",
+          "before": "alınak",
+          "after": "almak",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-9",
+          "before": "teşkilatlan",
+          "after": "teşkilatları",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-10",
+          "before": "sübiit",
+          "after": "sübût",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "body-11",
+          "before": "toplaşdırmalıdır. 71",
+          "after": "toplaşdırmalıdır.[[FN:77]]",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "note-76",
+          "before": "kaulmış",
+          "after": "katılmış",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "note-76",
+          "before": "almışur",
+          "after": "almıştır",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "note-76",
+          "before": "THIF",
+          "after": "THİF",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        },
+        {
+          "unit": "note-77",
+          "before": "içtimai",
+          "after": "İçtimai",
+          "count": 1,
+          "authority": "2016 baseline PDF373–374 / printed372–373 visually reviewed scans and Mülteciler crop"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-survey-374",
+      "alignedSha256": "61bdbb2787c3b0c7f3306dedf78b54c05935d0f314e2b3b6bb1db67065365214",
+      "editorialNotes": [
+        {
+          "comment": "横表按每位代表展开为“题目—回答”，保留姓名栏及18个问题，共19格；问题表头为方便阅读重复，未增添新问题。“姓名／所代表地点”为译者补出的栏目说明。此批仅原书374页两名代表，其余18人待续。"
+        },
+        {
+          "comment": "原表以横线表示的未填项保留为横线，不补为否。müteehhil栏数字0和4照录，不推定为子女数。eserler仅译书籍／著作，不擅断为本人著作或阅读清单。İdadi按中学译，保留原词；姓名Edib按本表拼写，不默改成Edip。"
+        },
+        {
+          "comment": "埃迪普思想情绪栏ve dâda müheyya扫描如此，末项语义待核；未猜补为已准备起义。Şark ili按原拼保留，书名中文暂译。政治经历栏原表省略动词，中文依所属栏目补足“参加”，不增添日期。各字段均按原栏顺序展示。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-1",
+          "before": "bazı Türk- idadi lsmail amete, ahval-i hayır bilmez Eknıelı- ııuıı-.- Anide>- o Anka- yok Hayır (uzun bir l'.omO- kabul mürettib, çe eser- Ankara ruhiye fa çil* - il ba- ra merke- tarihçesi nizm bOler ekmelıçi kirlerde zı -e- zine ton dünyok) iyi zen- lıellıri yayı karginlerde <!eşleştirecek. hıaleyhtar sanlıla hizmet edecekişçilere hayat verecek",
+          "after": "[[BLOCK:survey_ismail]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF375 / printed374 enlarged four cell-group scans; manual transcription of both complete rows and all18headers"
+        },
+        {
+          "unit": "body-2",
+          "before": "Bulgaıya, 4 Edib - amele Şark ili, propa- şimendi- Bulgarca saraç Anka- Bulgar Evet Selanik'te l<omübir müd- idadi bulun- kabul Ankara Fransız- ganda, fer ame- det tev- dum Azerbay- ra merke- dar Sos- Sosya- nlzm bOlist Fırka- ton dünca eser Yeni Ha- lesi mu- kil can, Gür zine yalist Fıryat'a Mu- kasına, sına bila- yayı karhare Dar deşle,tiler, Genç hiti bu cistan, ler Dün avene! hayattan Acemis Sosyal Demok Sosyalist recek nyası usanmış tan ve dlda ve Sosyal sanlırat Partimüheyya sine Demok- Aa hizmet ederat Fırkacek lşçlsına lere hayat verecek",
+          "after": "[[BLOCK:survey_edib]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF375 / printed374 enlarged four cell-group scans; manual transcription of both complete rows and all18headers"
+        },
+        {
+          "unit": "note-78",
+          "before": "Komintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF375 / printed374 enlarged four cell-group scans; manual transcription of both complete rows and all18headers"
+        },
+        {
+          "unit": "note-78",
+          "before": "27 _36",
+          "after": "27_36",
+          "count": 1,
+          "authority": "2016 baseline PDF375 / printed374 enlarged four cell-group scans; manual transcription of both complete rows and all18headers"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-survey-375",
+      "alignedSha256": "3b9544d936b4550193af7d9cd37a5713974c8468cde8a50001eddc9c20eb1260",
+      "editorialNotes": [
+        {
+          "comment": "原书375页四名代表共76格，按原栏顺序转为双语问答表；问题标签为重复表头。各人“婚姻状况”栏0、5照印，不擅释为子女数。姓名Ahmed保持本页拼写，不改为Ahmet。"
+        },
+        {
+          "comment": "泰夫菲克政治经历栏开头“...nin”照原文省略，中文明示残缺，不补写主语或日期。工人为何入党、是否受罚等回答按历史问卷保留。语言栏hayır与职业栏hayır依栏目分别译“否”“无”。makinistlik只译机械操作，不擅限定为火车司机。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-1",
+          "before": "o hayır bulun- Ahmed- Muallim yok arazi, din, Propa- fukara taklib-i darülmu- hayır Anka- Anka- yok hayır Hayat-ı Hayat-ı kabul Ankara milliyet, ganda muhitin- hükOmet allimin dom ra muhiti, ra merke- siya siyesi beşerdeve pa- lstanbul de ahval- cürmüyle (harp zine Komünist ki müsavatı temadalra mese- i ruhiye beş sene fırkasınleleri iyidir. kürek yası) dan baş- min maklıyor. sadıyla",
+          "after": "[[BLOCK:survey_ahmed]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF376 / printed375 enlarged four cell-group scans; all4rows19cells manually transcribed"
+        },
+        {
+          "unit": "body-2",
+          "before": "idadi 4 Hilmi - inkılabçı, Kıımü- mazlum propa- ahval-i taklib-i hayır maki- bulun- Edirne, Ankara hayır hayır Hayat-ı Köh- kabul nizm Elif- beşeri ko- ganda, ruhiye ko- hükümet sınıf Ankara emekçi nistlik dum Anadolu merkezine siyaslyesi ne hayabası ve münizm beyan na- münizme cürmüyle kısmen, müessis- Komünist tı bırabazı eser- kurtara- me teşne beş sene Bulgaris- lerden fırka sın- karak yedan baş- nı bir haler cak kürek tan lıyor. yat kurmak için komünist oldum",
+          "after": "[[BLOCK:survey_hilmi_ankara]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF376 / printed375 enlarged four cell-group scans; all4rows19cells manually transcribed"
+        },
+        {
+          "unit": "body-3",
+          "before": "idadi 4 5 Osman - amele, yok mazlum Kayse- ahali çok hayır hayır hayır bulun- Anadolu Kayseri hayır hayır Hayat-ı amele sı- kabul Kayseri demirci beşeri ko- ri Merke- mutaas- sınıf dum ve Rumeli siyasiyesi nıfının münizm zinin leş- sıp kısmen Komünist gisıplarkurtara- kili fırkasın- dan kurcak dan baş- tarı iması lıyor.",
+          "after": "[[BLOCK:survey_osman]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF376 / printed375 enlarged four cell-group scans; all4rows19cells manually transcribed"
+        },
+        {
+          "unit": "body-4",
+          "before": "itti had Tevfik - muallim yok tezler, fır- propa- ahali la- hayır darülmu- hayır muhar- bulun- Anadolu Ankara hayır ... nin it- aldanan- kabul Kayseri ka prog- ganda kayddır. allimin rirlik dum kısmen Terakki tihad ve lar ile alramı terakki ve dalanlar bilahare arasında Komünist adalettefırkası sisine; istismara karşı konmak için",
+          "after": "[[BLOCK:survey_tevfik]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF376 / printed375 enlarged four cell-group scans; all4rows19cells manually transcribed"
         }
       ]
     }
