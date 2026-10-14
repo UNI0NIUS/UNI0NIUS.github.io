@@ -294,8 +294,8 @@ window.TRANSLATIONS = {
       "language": "zh-CN",
       "bilingual": true,
       "example": false,
-      "description": "逐段中土对照工作译稿，现含前置文字及正文至原书第382页。全书尚未完成。",
-      "editionNotice": "未完成的校译工作稿 · 2026-10-15。以2016年增订版扫描PDF为底本，页码为原书印刷页码（PDF页序减1）。现含前置文字、第一至第三章文字和第四章至第382页；后续正文尚未译完。原注随段保留。照片、部分下划线和框文尚待恢复，译文仍待终校；当前PDF尚未通过编译与版面验收。",
+      "description": "逐段中土对照工作译稿，现含前置文字及正文至原书第390页。全书尚未完成。",
+      "editionNotice": "未完成的校译工作稿 · 2026-10-15。以2016年增订版扫描PDF为底本，页码为原书印刷页码（PDF页序减1）。现含前置文字、第一至第三章文字和第四章至第390页；后续正文尚未译完。原注随段保留。照片、部分下划线和框文尚待恢复，译文仍待终校；当前PDF尚未通过编译与版面验收。",
       "status": "in-progress",
       "wholeBookComplete": false,
       "chapters": [
@@ -1285,6 +1285,20 @@ window.TRANSLATIONS = {
           "originalTitle": "Kongre ertesi: Hilmi’nin Moskova talebi (381–382)",
           "partId": "ch04",
           "dataUrl": "translations/books/thif/thif-ch04-hilmi-moscow.json"
+        },
+        {
+          "id": "thif-ch04-golman-september-start",
+          "title": "戈尔曼9月7日报告：大会遭禁与工人抗议（382–385）",
+          "originalTitle": "Golman’ın 7 Eylül raporu: Kongre yasağı ve işçi protestoları (382–385)",
+          "partId": "ch04",
+          "dataUrl": "translations/books/thif/thif-ch04-golman-september-start.json"
+        },
+        {
+          "id": "thif-ch04-golman-september-end",
+          "title": "戈尔曼9月7日报告：组织任务、经费与附言（386–390）",
+          "originalTitle": "Golman’ın 7 Eylül raporu: Örgüt görevleri, maddî sorunlar ve not (386–390)",
+          "partId": "ch04",
+          "dataUrl": "translations/books/thif/thif-ch04-golman-september-end.json"
         }
       ],
       "parts": [
