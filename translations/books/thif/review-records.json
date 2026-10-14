@@ -1,10 +1,10 @@
 {
   "status": "in-progress",
-  "printedThrough": 397,
+  "printedThrough": 402,
   "counts": {
-    "units": 2525,
-    "notes": 281,
-    "sections": 146
+    "units": 2598,
+    "notes": 285,
+    "sections": 149
   },
   "sourcePdfSha256": "0c934024a45469113e1b87f241ab3f6944595baa63fc19a1f25c3b67b59b9ff7",
   "batches": [
@@ -60940,6 +60940,564 @@
           "after": "TSA 1908",
           "count": 1,
           "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-september14-petition",
+      "alignedSha256": "b6f2b434c47deb2d335ab8da7ae365537f783a9e1e63e19e103f983ce04d58a2",
+      "editorialNotes": [
+        {
+          "comment": "398页开头确实重复了397页末的内容，且“Şüphesiz Fırkamız…”一段出现两次，按扫描全部保留，不当作OCR重叠删除。397页mahza milli harekat kuvvetlerini tenkis etmek maksadıyla插语照录，其与前后“农民福祉”的关系未擅改；398页efendi!的感叹亦保留。日期38/922和Marksistman原拼不扩改。文中关于三年未罢工等表述属于请愿书的自述，不是译者独立核实的结论。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-3",
+          "before": "lştirakiyun",
+          "after": "İştirakiyun",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-4",
+          "before": "karan vermiştir",
+          "after": "kararı vermiştir",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "lştirakiyun",
+          "after": "İştirakiyun",
+          "count": 3,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "serbestlsi",
+          "after": "serbestîsi",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "ilh .. .ilh.",
+          "after": "ilh... ilh.",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-8",
+          "before": "yiiz",
+          "after": "yüz",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-8",
+          "before": "sıralannda",
+          "after": "sıralarında",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-8",
+          "before": "bütiın",
+          "after": "bütün",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-9",
+          "before": "oldugunu",
+          "after": "olduğunu",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-9",
+          "before": "Büyiik",
+          "after": "Büyük",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-10",
+          "before": "Sendikalann",
+          "after": "Sendikaların",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-11",
+          "before": "nazarlan",
+          "after": "nazarları",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-11",
+          "before": "haklandır",
+          "after": "haklarıdır",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-11",
+          "before": "karanna",
+          "after": "kararına",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-14",
+          "before": "lşbu karannı",
+          "after": "İşbu kararını",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "bunlann",
+          "after": "bunların",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-23",
+          "before": "lştirakiyun",
+          "after": "İştirakiyun",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-24",
+          "before": "Hacıoğlu92",
+          "after": "Hacıoğlu[[FN:92]]",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "body-24",
+          "before": "umümisi",
+          "after": "umûmîsi",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "note-92",
+          "before": "Komintenı",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        },
+        {
+          "unit": "note-92",
+          "before": "Döküm l,",
+          "after": "Döküm 1,",
+          "count": 1,
+          "authority": "2016 baseline PDF398–400 / printed397–399 scans visually reviewed"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-september17-petition",
+      "alignedSha256": "a7ab58a97d47939f1a7655eca8ee26bb6a8eb54e698a04986d04f0a7d6779784",
+      "editorialNotes": [
+        {
+          "comment": "抬头日期17/9/922及正文13 Eylül38/922照原文保留。正文第2项tevkifat / takibat-ı kanuniye保留斜线并译出两项。前段称曾通知停止活动，末段又声明继续合法活动，按原文分别保留，不以后一项删去前述。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-2",
+          "before": "lştirakiyun",
+          "after": "İştirakiyun",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-2",
+          "before": "umOmi",
+          "after": "umûmî",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "lcra",
+          "after": "İcra",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "hükOmet",
+          "after": "hükûmet",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "hükQmet",
+          "after": "hükûmet",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "karan vechile",
+          "after": "kararı vechile",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "menafüyle",
+          "after": "menafiiyle",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "olan .bu",
+          "after": "olan bu",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "dQr u dıraz",
+          "after": "dûr u dıraz",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "Atide",
+          "after": "âtide",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "kararlan",
+          "after": "kararları",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-7",
+          "before": "lştirakiyun",
+          "after": "İştirakiyun",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-7",
+          "before": "hükQmet",
+          "after": "hükûmet",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-7",
+          "before": "l . Türkiye",
+          "after": "1. Türkiye",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-7",
+          "before": "merkez-!",
+          "after": "merkez-i",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-8",
+          "before": "HükQmet",
+          "after": "Hükûmet",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-9",
+          "before": "hükOmet",
+          "after": "hükûmet",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-9",
+          "before": "nihatye",
+          "after": "nihâye",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-11",
+          "before": "hükOmet",
+          "after": "hükûmet",
+          "count": 2,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-12",
+          "before": "Kiltib-i",
+          "after": "Kâtib-i",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "body-13",
+          "before": "Hacıoğlu93",
+          "after": "Hacıoğlu[[FN:93]]",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        },
+        {
+          "unit": "note-93",
+          "before": "Komintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF401 / printed400 scan visually reviewed"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-golman-yanush",
+      "alignedSha256": "b2895755fc0f6366711d8f464ddee477b40d28a7bde6ea1629512f7be30faa9d",
+      "editorialNotes": [
+        {
+          "comment": "收信人Yanuş任职东方部的说法在编者导语中带muhtemelen，中文保留“可能”。A[Ata]及B保持原来的明示/未明示身份，不补全B。原文“…（ödül?）”本身存疑，照录为“……〔奖励？〕”。Kuratkov所指未明确，不猜作船名、地名或人名。信中第三次与第四次大会、10月15日启程、12月底近东大会的日期和届次均照原文。TKP adayı按党组织语境暂译候补党员，原文保留以待进一步核实。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-3",
+          "before": "aynlmaksızın",
+          "after": "ayrılmaksızın",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-3",
+          "before": "bunlan",
+          "after": "bunları",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-3",
+          "before": "şunlan",
+          "after": "şunları",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "üZere",
+          "after": "üzere",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-7",
+          "before": "MerkeZi",
+          "after": "Merkezî",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-7",
+          "before": "Başansızlık",
+          "after": "Başarısızlık",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-8",
+          "before": "bunlan",
+          "after": "bunları",
+          "count": 2,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-8",
+          "before": "tutanaklannı",
+          "after": "tutanaklarını",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-8",
+          "before": "lkinci",
+          "after": "İkinci",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-9",
+          "before": "Jnebolu",
+          "after": "İnebolu",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-9",
+          "before": "Komintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-9",
+          "before": "yüzamüze",
+          "after": "yüzümüze",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-10",
+          "before": "Gomi",
+          "after": "Gorni",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-12",
+          "before": "şunlan",
+          "after": "şunları",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-13",
+          "before": "lşçilerin",
+          "after": "İşçilerin",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-14",
+          "before": "tasansının",
+          "after": "tasarısının",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-16",
+          "before": "çagnsı",
+          "after": "çağrısı",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-17",
+          "before": "tılzüğü",
+          "after": "tüzüğü",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-20",
+          "before": "ôdevleri",
+          "after": "Ödevleri",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-22",
+          "before": "Tüı:üğünün",
+          "after": "Tüzüğünün",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-24",
+          "before": "Ulusal işçi",
+          "after": "Ulusal İşçi",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-25",
+          "before": "hişi",
+          "after": "kişi",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-27",
+          "before": "l O'unda",
+          "after": "10’unda",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-29",
+          "before": "Golman94",
+          "after": "Golman[[FN:94]]",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-32",
+          "before": "temsilciligi",
+          "after": "temsilciliği",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-32",
+          "before": "haranyla",
+          "after": "kararıyla",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-33",
+          "before": "Humanitt",
+          "after": "Humanité",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "body-36",
+          "before": "Arslan95",
+          "after": "Arslan[[FN:95]]",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "note-94",
+          "before": "Komintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "note-94",
+          "before": "Döküm l,",
+          "after": "Döküm 1,",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "note-95",
+          "before": "Kornintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
+        },
+        {
+          "unit": "note-95",
+          "before": "Döküm l,",
+          "after": "Döküm 1,",
+          "count": 1,
+          "authority": "2016 baseline PDF402–403 / printed401–402 scans visually reviewed"
         }
       ]
     }
