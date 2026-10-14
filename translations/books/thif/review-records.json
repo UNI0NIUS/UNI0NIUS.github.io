@@ -1,10 +1,10 @@
 {
   "status": "in-progress",
-  "printedThrough": 390,
+  "printedThrough": 397,
   "counts": {
-    "units": 2452,
-    "notes": 276,
-    "sections": 143
+    "units": 2525,
+    "notes": 281,
+    "sections": 146
   },
   "sourcePdfSha256": "0c934024a45469113e1b87f241ab3f6944595baa63fc19a1f25c3b67b59b9ff7",
   "batches": [
@@ -59725,6 +59725,1221 @@
           "after": "Döküm",
           "count": 1,
           "authority": "2016 baseline PDF387–391 / printed386–390 scans visually reviewed"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-postcongress-budget",
+      "alignedSha256": "f330fb92b7c66376653c1b5a3cc9f5d909683a28f472b9046c653beca62335c3",
+      "editorialNotes": [
+        {
+          "comment": "原书标题为“十二个月预算”，导语称月度预算，第一列表头亦写“每月里拉”，而第4项为一年会议费用；这些口径并列保留，不重新折算。按表内13项金额直接相加为6,095，原书总计为6,100，表中仍照录6,100，不默改。150项另列直接购置车辆需700里拉，后者是备选购置金额，不另计入逐项和。"
+        },
+        {
+          "comment": "原书第2节表格b为邮费、c为信使，但说明写b信使；报纸项目和说明中的城市也不完全对应。均照原文，不替作者重编号或更改城市。第5节说明“两人每月60里拉”未明确每人还是两人合计，中文不擅补“各”。391页最低生活费原文经放大确认为evli biri〔已婚者〕，未擅补工人。纳泽姆列入主席团，与前文报告的差异及原注85一起保留。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-1",
+          "before": "izleyen",
+          "after": "İzleyen",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-1",
+          "before": "izleyen süreçte Golman Komintern'e bu kez aşağıdaki Merkez Komitesi tarafından onaylanmış aylık bütçeyi göndermiştir.",
+          "after": "İzleyen süreçte Golman Komintern'e bu kez aşağıdaki Merkez Komitesi tarafından onaylanmış aylık bütçeyi göndermiştir.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-2",
+          "before": "MK'NCE ONAYU.NMIS",
+          "after": "MK’NCE ONAYLANMIŞ",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-2",
+          "before": "T.K.P. B Ü T Ç E S l",
+          "after": "T.K.P. BÜTÇESİ",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-2",
+          "before": "MK'NCE ONAYU.NMIS 12 AYLIK T.K.P. B Ü T Ç E S l",
+          "after": "MK’NCE ONAYLANMIŞ 12 AYLIK T.K.P. BÜTÇESİ",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-3",
+          "before": "§ 1 . Temel kadro Bir ayda Lira olarak al 3 Prezidyum üyesi .................................................. 240 bl 4 Vilayet Komitesi Başkanı .................................... 320 el 2 Destekçi propagandacı. ........................................ 120",
+          "after": "[[BLOCK:budget_core]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-4",
+          "before": "§ 2. Bağlantı ve ulaşım al 2 araba ve arabacı .. . . . . . . .. . . . . . . . . . . . . . . . . .. .... . . . . ... . . . . . . .. . . . 150 (ya da doğrudan satın alınırsa- 700 Lira) b/ Posta masraflan . ... . .. . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..... ... . . 20 el Kurye . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50",
+          "after": "[[BLOCK:budget_transport]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-5",
+          "before": "§ 3. Ajitasyon ve propaganda al Devamlı yayın ve aynı zamanda Batum'da matbaa örgütlemek için . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . 1.800 b! Yeni Hayat için . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250 el Günlük Doğru Öz gazetesi için . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250 dl Zonguldak'da haftalık işçi gazetesi için . . . . . . . . . . . . . . . . . 110",
+          "after": "[[BLOCK:budget_publication]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-6",
+          "before": "§ 4 Bir yıl içinde yapılacak kongre ve konferanslar için . . 2.500 Yurtdışı IY akın-Doğul işleri !gezi, yol parası/ için . . . . . 230 §5 §6 Olağanüstü harcamalar . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55 GENEL TOPLAM 6.100",
+          "after": "[[BLOCK:budget_other]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-8",
+          "before": "§ 1 . al",
+          "after": "§ 1. a/",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-8",
+          "before": "Komintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-8",
+          "before": "omuzlanna",
+          "after": "omuzlarına",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-8",
+          "before": "SALlH",
+          "after": "SALİH",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-8",
+          "before": "NAzIM",
+          "after": "NÂZIM",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-8",
+          "before": "HILMl",
+          "after": "HİLMİ",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-8",
+          "before": "§ 1 . al Partinin gelirleri aidatlarla birlikte ayda 150 Lirayı geçmediği için, temel kadro ekibinin masraf yükü bütünüyle Komintem'in omuzlanna düşüyor. Söz konusu olan, hiçbir yerde işe alınmayan, politik haklardan yoksun, başka bir iş sahibi olamayacak Prezidyum üyeleridir. SALlH, NAzIM ve HILMl (Hilmi seferber edildi, ama biz bir yolunu bulup onu buradan çıkartacağız).",
+          "after": "§ 1. a/ Partinin gelirleri aidatlarla birlikte ayda 150 Lirayı geçmediği için, temel kadro ekibinin masraf yükü bütünüyle Komintern'in omuzlarına düşüyor. Söz konusu olan, hiçbir yerde işe alınmayan, politik haklardan yoksun, başka bir iş sahibi olamayacak Prezidyum üyeleridir. SALİH, NÂZIM ve HİLMİ (Hilmi seferber edildi, ama biz bir yolunu bulup onu buradan çıkartacağız).",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-10",
+          "before": "bl Vilayet",
+          "after": "b/ Vilayet",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-10",
+          "before": "Başkanlan",
+          "after": "Başkanları",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-10",
+          "before": "çalışmalanyla",
+          "after": "çalışmalarıyla",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-10",
+          "before": "MEHMET ALI",
+          "after": "MEHMET ALİ",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-10",
+          "before": "bl Vilayet Komiteleri Başkanlan tamamen parti çalışmalanyla meşgul olmalıdır. AHMET, AFFAN, KENAN, MEHMET ALI bunlardandır. Hepsi de vilayet komitelerinde çalışacak olan MK üyeleridir.",
+          "after": "b/ Vilayet Komiteleri Başkanları tamamen parti çalışmalarıyla meşgul olmalıdır. AHMET, AFFAN, KENAN, MEHMET ALİ bunlardandır. Hepsi de vilayet komitelerinde çalışacak olan MK üyeleridir.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-11",
+          "before": "el Biri",
+          "after": "c/ Biri",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-11",
+          "before": "ABDÜLKADiR",
+          "after": "ABDÜLKADİR",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-11",
+          "before": "henüZ",
+          "after": "henüz",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-11",
+          "before": "toplantılan",
+          "after": "toplantıları",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-11",
+          "before": "çalışmalan",
+          "after": "çalışmaları",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-11",
+          "before": "el Biri köylüler arasında çalışacak ABDÜLKADiR, diğeri işçiler arasında çalışacak (henüZ atanmadı) olmak üzere iki destekçi propagandacı Merkez Komitesi'nde bulunuyor ve talimat verilen danışma toplantılan ve propaganda çalışmalan için değişik yerleri geziyor.",
+          "after": "c/ Biri köylüler arasında çalışacak ABDÜLKADİR, diğeri işçiler arasında çalışacak (henüz atanmadı) olmak üzere iki destekçi propagandacı Merkez Komitesi'nde bulunuyor ve talimat verilen danışma toplantıları ve propaganda çalışmaları için değişik yerleri geziyor.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-12",
+          "before": "§ 2. a!Bağlantı",
+          "after": "§ 2. a/Bağlantı",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-12",
+          "before": "yolculuklann",
+          "after": "yolculukların",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-12",
+          "before": "lşi",
+          "after": "İşi",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-12",
+          "before": "düZenleyeceğiz",
+          "after": "düzenleyeceğiz",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-12",
+          "before": "bunlann",
+          "after": "bunların",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-12",
+          "before": "§ 2. a!Bağlantı ve ulaşım. Kongre deneyimi merkeze yolculuklann ve bölgelere yapılan gezilerin kaça mal olduğunu gösterdi. En iyisi doğrudan iki araba satın alıp arabacı tutarak MK'nin emrine vermek. Böylece hayli para tasarruf edeceğiz. lşi öyle düZenleyeceğiz ki, bunlann MK'ne ait olduğunu kimse bilmeyecek.",
+          "after": "§ 2. a/Bağlantı ve ulaşım. Kongre deneyimi merkeze yolculukların ve bölgelere yapılan gezilerin kaça mal olduğunu gösterdi. En iyisi doğrudan iki araba satın alıp arabacı tutarak MK'nin emrine vermek. Böylece hayli para tasarruf edeceğiz. İşi öyle düzenleyeceğiz ki, bunların MK'ne ait olduğunu kimse bilmeyecek.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-13",
+          "before": "b! Kurye",
+          "after": "b/ Kurye",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-13",
+          "before": "b! Kurye. Kurye talimat, karar ve literatür dağıtımı ve iletimi için, genellikle devamlı bağ için gereklidir.",
+          "after": "b/ Kurye. Kurye talimat, karar ve literatür dağıtımı ve iletimi için, genellikle devamlı bağ için gereklidir.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-14",
+          "before": "§ 3. al",
+          "after": "§ 3. a/",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-14",
+          "before": "maaşlan",
+          "after": "maaşları",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-14",
+          "before": "lstanbul",
+          "after": "İstanbul",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-14",
+          "before": "§ 3. al Ajitasyon ve propaganda. Matbaa harflerinin alınması ve iki işçi ile bizim bir sorumlu kadromuzun maaşlan için 1.500 Lira, vergi ve lstanbul'dan tedarik için -300 Lira gerekli.",
+          "after": "§ 3. a/ Ajitasyon ve propaganda. Matbaa harflerinin alınması ve iki işçi ile bizim bir sorumlu kadromuzun maaşları için 1.500 Lira, vergi ve İstanbul'dan tedarik için -300 Lira gerekli.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-15",
+          "before": "bl Daha",
+          "after": "b/ Daha",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-15",
+          "before": "ôdeme",
+          "after": "ödeme",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-15",
+          "before": "Kı2ğıt",
+          "after": "Kağıt",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-15",
+          "before": "bl Daha yığınsal dağıtım gerçekleşinceye kadar Yeni Hayat'ı ayakta tutmak gerekli. Dergi 32 sayfa. Redaksiyon sekreterine ve işçilere ôdeme yapılıyor. Kı2ğıt, matbaa kirası buraya dahil.",
+          "after": "b/ Daha yığınsal dağıtım gerçekleşinceye kadar Yeni Hayat'ı ayakta tutmak gerekli. Dergi 32 sayfa. Redaksiyon sekreterine ve işçilere ödeme yapılıyor. Kağıt, matbaa kirası buraya dahil.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-16",
+          "before": "d Zonguldak",
+          "after": "c/ Zonguldak",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-16",
+          "before": "d Zonguldak'ta ve Adana'daki gazeteler gereklidir. Gerekçesi, Yeni Hayat'ın gerekçeleri gibi.",
+          "after": "c/ Zonguldak'ta ve Adana'daki gazeteler gereklidir. Gerekçesi, Yeni Hayat'ın gerekçeleri gibi.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-18",
+          "before": "çalışmalan",
+          "after": "çalışmaları",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-18",
+          "before": "Suriyeye",
+          "after": "Suriye’ye",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-18",
+          "before": "masrajlan",
+          "after": "masrafları",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-18",
+          "before": "§ 5. Yurtdışı çalışmalan. Temsilcilerimizin Suriyeye gidiş ve gelişi. Yol masrajlan ve iki kişiye ayda 60 Lira ödeniyor. Miktar orta derecede.",
+          "after": "§ 5. Yurtdışı çalışmaları. Temsilcilerimizin Suriye’ye gidiş ve gelişi. Yol masrafları ve iki kişiye ayda 60 Lira ödeniyor. Miktar orta derecede.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-19",
+          "before": "Moskovaya",
+          "after": "Moskova’ya",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-19",
+          "before": "§ 6. Olağanüstü harcamalar. Gençlik arasında çalışmalar. Moskovaya gidişler vb. Miktar orta derecede.",
+          "after": "§ 6. Olağanüstü harcamalar. Gençlik arasında çalışmalar. Moskova’ya gidişler vb. Miktar orta derecede.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-20",
+          "before": "Komintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-20",
+          "before": "Dogu",
+          "after": "Doğu",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-20",
+          "before": "koşullannda",
+          "after": "koşullarında",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-20",
+          "before": "yollann",
+          "after": "yolların",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-20",
+          "before": "ağırlıgına",
+          "after": "ağırlığına",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-20",
+          "before": "Kominttm",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-20",
+          "before": "yekünunu",
+          "after": "yekûnunu",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-20",
+          "before": "düşünnemeye",
+          "after": "düşürmemeye",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-20",
+          "before": "gôndenneye",
+          "after": "göndermeye",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-20",
+          "before": "Sonunda şunu belirtmek gerekir ki, TKP gibi genç bir parti için Dogu'nun ağır koşullannda, işsizliğin çok büyük ve yollann son derece kötü olduğu şartlarda, yayım işlerine büyük ihtiyaç bulunduğu bir ortamda maddi yükün ağırlıgına karşın MK Kominttm'i bu bütçe yekünunu düşünnemeye, onu bütünüyle onaylamaya ve Komintem yetkili temsilcisinin denetimi altında harcanacak ilgili parayı düzenli bir şekilde gôndenneye davet ve rica ediyor.",
+          "after": "Sonunda şunu belirtmek gerekir ki, TKP gibi genç bir parti için Doğu'nun ağır koşullarında, işsizliğin çok büyük ve yolların son derece kötü olduğu şartlarda, yayım işlerine büyük ihtiyaç bulunduğu bir ortamda maddi yükün ağırlığına karşın MK Komintern'i bu bütçe yekûnunu düşürmemeye, onu bütünüyle onaylamaya ve Komintern yetkili temsilcisinin denetimi altında harcanacak ilgili parayı düzenli bir şekilde göndermeye davet ve rica ediyor.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-21",
+          "before": "Komintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-21",
+          "before": "aynca",
+          "after": "ayrıca",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-21",
+          "before": "gôndermesini",
+          "after": "göndermesini",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-21",
+          "before": "Biz Komintem'den aynca, kadınlar arasında çalışma yürütmek için 100-200 Lira gibi az bir para gôndermesini rica ediyoruz. Bu iş için bir komünist kadının daha büyük şehirleri gezmesi gerekecektir.",
+          "after": "Biz Komintern'den ayrıca, kadınlar arasında çalışma yürütmek için 100-200 Lira gibi az bir para göndermesini rica ediyoruz. Bu iş için bir komünist kadının daha büyük şehirleri gezmesi gerekecektir.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-22",
+          "before": "işbu bütçenin",
+          "after": "İşbu bütçenin",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-22",
+          "before": "gônderilecektir",
+          "after": "gönderilecektir",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-22",
+          "before": "işbu bütçenin Türkçe metni bir sonraki posta ile ilgili oturumun protokolünden alıntı suret şeklinde gônderilecektir.",
+          "after": "İşbu bütçenin Türkçe metni bir sonraki posta ile ilgili oturumun protokolünden alıntı suret şeklinde gönderilecektir.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-23",
+          "before": "açıklama lan",
+          "after": "açıklamaları",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-23",
+          "before": "NOT: CEVAT yoldaş işbu kısa notlar yeterli olmayacaksa, gerekli açıklama lan yapacaktır.",
+          "after": "NOT: CEVAT yoldaş işbu kısa notlar yeterli olmayacaksa, gerekli açıklamaları yapacaktır.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-24",
+          "before": "selamlanmızı sunanz",
+          "after": "selamlarımızı sunarız",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-24",
+          "before": "Komünist selamlanmızı sunanz.",
+          "after": "Komünist selamlarımızı sunarız.",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-25",
+          "before": "imza: Golman81",
+          "after": "İmza: Golman[[FN:87]]",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "body-25",
+          "before": "imza: Golman81",
+          "after": "İmza: Golman[[FN:87]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "note-87",
+          "before": "Komintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        },
+        {
+          "unit": "note-87",
+          "before": "Döküm l,",
+          "after": "Döküm 1,",
+          "count": 1,
+          "authority": "2016 baseline PDF391–393 / printed390–392, scan reviewed, minimum-cost line enlarged"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-september-letters",
+      "alignedSha256": "8cc34e3a75cbcca5a399b9e12b85048090ddae3633e569ec6e24727dcd6cf44f",
+      "editorialNotes": [
+        {
+          "comment": "两封感谢信在土文分别称受派者muharrir〔撰稿人〕和muhbir〔记者〕，按各信原文区分。通知第2项所记大会11月7日及抵达莫斯科10月20日照原文保留，不按外部日程更改。Mehmet Kadri自述在伊兹米特被捕，与前文戈尔曼所述卡斯塔莫努被捕地点不同；两份材料各自照录，不自行消解。法文报刊名Humanité的重音据扫描恢复。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-1",
+          "before": "[Kızıl Bayrak)",
+          "after": "[Kızıl Bayrak]",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-1",
+          "before": "l'Humanitt",
+          "after": "l’Humanité",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-1",
+          "before": "[lnsanlık)",
+          "after": "[İnsanlık]",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "Umümi",
+          "after": "Umûmî",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "Hacıoğlu88",
+          "after": "Hacıoğlu[[FN:88]]",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-8",
+          "before": "Humanite Gazetesi",
+          "after": "Humanité Gazetesi",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-12",
+          "before": "Umümt",
+          "after": "Umûmî",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-12",
+          "before": "Kattb-i",
+          "after": "Kâtib-i",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-12",
+          "before": "lmza89",
+          "after": "İmza[[FN:89]]",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-13",
+          "before": "TH1F",
+          "after": "THİF",
+          "count": 2,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-13",
+          "before": "mektuplan",
+          "after": "mektupları",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-13",
+          "before": "lstanbul",
+          "after": "İstanbul",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-17",
+          "before": "lstanbul",
+          "after": "İstanbul",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-18",
+          "before": "Entemasyonal",
+          "after": "Enternasyonal",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-20",
+          "before": "mikdarlan",
+          "after": "mikdarları",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-22",
+          "before": "diger",
+          "after": "diğer",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-24",
+          "before": "selAmlarıyla",
+          "after": "selâmlarıyla",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-25",
+          "before": "Umümt",
+          "after": "Umûmî",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-25",
+          "before": "Katib-!",
+          "after": "Kâtib-i",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "body-25",
+          "before": "Hacıoglu90",
+          "after": "Hacıoğlu[[FN:90]]",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "note-88",
+          "before": "Komintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        },
+        {
+          "unit": "note-89",
+          "before": "Komintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF393–395 / printed392–394 scans visually reviewed"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-closure-embassy-report",
+      "alignedSha256": "ab65ca754029a7fa63105be7b75729b315038f584b38b65c771b2567b580c227",
+      "editorialNotes": [
+        {
+          "comment": "俄文报告的作者与日期均据编者导语：使馆工作人员、看来写于1922年10月末，不擅指定姓名。报告称党成立于1919年、说埃特海姆是匪徒等，均是该文件自身说法。396页关于苏维埃革命“实现十分简单，只需农民自发运动开始”的句子，扫描确为yapıldığının及farkında değillerdi，照译而不因其与上下文的张力补否定词。10月末与10月19日的叙述顺序亦保留。"
+        },
+        {
+          "comment": "传单使用HİF，印章使用THİF，保留缩写差异。原注91的书名缩写扫描为TSA，OCR误成ISA；按扫描校正。报告原文“Genel Değerlendirme”有下划线，留待最终PDF恢复。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-1",
+          "before": "indirilen Son",
+          "after": "İndirilen Son",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-3",
+          "before": "THIF",
+          "after": "THİF",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-4",
+          "before": "KÔYLÜ",
+          "after": "KÖYLÜ",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "HlF",
+          "after": "HİF",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "karan protesto",
+          "after": "kararı protesto",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "teşkilatlanndan",
+          "after": "teşkilatlarından",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-9",
+          "before": "HlF",
+          "after": "HİF",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-12",
+          "before": "THIF",
+          "after": "THİF",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-12",
+          "before": "mühürü]91",
+          "after": "mühürü][[FN:91]]",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-13",
+          "before": "THlF",
+          "after": "THİF",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-14",
+          "before": "yazılan içeren",
+          "after": "yazıları içeren",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-14",
+          "before": "çağnsının",
+          "after": "çağrısının",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-14",
+          "before": "sonlanna",
+          "after": "sonlarına",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "sonlanna",
+          "after": "sonlarına",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "yanlılannın",
+          "after": "yanlılarının",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "suçlamalanyla",
+          "after": "suçlamalarıyla",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "lştirakiyun",
+          "after": "İştirakiyun",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "Anhara",
+          "after": "Ankara",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "aralannda",
+          "after": "aralarında",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "hişi",
+          "after": "kişi",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "ilginçtir",
+          "after": "İlginçtir",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "lmaldt",
+          "after": "İmalât",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "bazılan",
+          "after": "bazıları",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "bir çağn",
+          "after": "bir çağrı",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "yapıştınldı",
+          "after": "yapıştırıldı",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "Bu çağnda",
+          "after": "Bu çağrıda",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "Bu çağn etrafında",
+          "after": "Bu çağrı etrafında",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-17",
+          "before": "THIF",
+          "after": "THİF",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-17",
+          "before": "191 9",
+          "after": "1919",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-17",
+          "before": "adımlannda",
+          "after": "adımlarında",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-17",
+          "before": "resmf",
+          "after": "resmî",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-17",
+          "before": "wrunda",
+          "after": "zorunda",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-18",
+          "before": "THIF",
+          "after": "THİF",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-18",
+          "before": "THlF",
+          "after": "THİF",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-18",
+          "before": "wrunda",
+          "after": "zorunda",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-18",
+          "before": "hurmaya",
+          "after": "kurmaya",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-18",
+          "before": "anyor",
+          "after": "arıyor",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-18",
+          "before": "çıkarlannı",
+          "after": "çıkarlarını",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-18",
+          "before": "onlann",
+          "after": "onların",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-18",
+          "before": "Ethmı",
+          "after": "Ethem",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-19",
+          "before": "THIF",
+          "after": "THİF",
+          "count": 3,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-19",
+          "before": "onlann",
+          "after": "onların",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-19",
+          "before": "yıgınlanyla",
+          "after": "yığınlarıyla",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-19",
+          "before": "sôylenebilir",
+          "after": "söylenebilir",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-19",
+          "before": "öz:ümseye",
+          "after": "özümseye",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-19",
+          "before": "yôneticileri",
+          "after": "yöneticileri",
+          "count": 2,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-19",
+          "before": "yünlıtüler \\it",
+          "after": "yürüttüler ve",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-19",
+          "before": "basınıııda",
+          "after": "basınında",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-19",
+          "before": "başlannda",
+          "after": "başlarında",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-19",
+          "before": "gruplan",
+          "after": "grupları",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-19",
+          "before": "sayfalannda",
+          "after": "sayfalarında",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-19",
+          "before": "gôrülebillr",
+          "after": "görülebilir",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-19",
+          "before": "sıfın",
+          "after": "sıfırı",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-20",
+          "before": "uğraştıklan",
+          "after": "uğraştıkları",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-20",
+          "before": "ihtidan",
+          "after": "iktidarı",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-21",
+          "before": "THIF",
+          "after": "THİF",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-21",
+          "before": "wrunda",
+          "after": "zorunda",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-21",
+          "before": "bôylece",
+          "after": "böylece",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-21",
+          "before": "dônemde",
+          "after": "dönemde",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-21",
+          "before": "di>nemde",
+          "after": "dönemde",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-21",
+          "before": "hendi",
+          "after": "kendi",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-21",
+          "before": "boyutlannın",
+          "after": "boyutlarının",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-21",
+          "before": "kôk",
+          "after": "kök",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-21",
+          "before": "kalıntılan",
+          "after": "kalıntıları",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-21",
+          "before": "konuşmalannda",
+          "after": "konuşmalarında",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-22",
+          "before": "yığınlannın",
+          "after": "yığınlarının",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-22",
+          "before": "aydınlannın",
+          "after": "aydınlarının",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-22",
+          "before": "ihtiyaçlanna",
+          "after": "ihtiyaçlarına",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "body-23",
+          "before": "THIF",
+          "after": "THİF",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
+        },
+        {
+          "unit": "note-91",
+          "before": "ISA 1908",
+          "after": "TSA 1908",
+          "count": 1,
+          "authority": "2016 baseline PDF395–398 / printed394–397 scans visually reviewed"
         }
       ]
     }
