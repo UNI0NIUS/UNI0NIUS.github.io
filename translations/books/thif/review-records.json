@@ -1,10 +1,10 @@
 {
   "status": "in-progress",
-  "printedThrough": 375,
+  "printedThrough": 382,
   "counts": {
-    "units": 2351,
-    "notes": 268,
-    "sections": 135
+    "units": 2403,
+    "notes": 271,
+    "sections": 141
   },
   "sourcePdfSha256": "0c934024a45469113e1b87f241ab3f6944595baa63fc19a1f25c3b67b59b9ff7",
   "batches": [
@@ -57201,6 +57201,597 @@
           "after": "[[BLOCK:survey_tevfik]]",
           "method": "manual_transcription",
           "authority": "2016 baseline PDF376 / printed375 enlarged four cell-group scans; all4rows19cells manually transcribed"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-survey-376",
+      "alignedSha256": "3216d43db17aa3f918789e92650492e67ea22892ce41429d5a27aa4dc46e86db",
+      "editorialNotes": [
+        {
+          "comment": "原书376页3名代表，共57格，按原栏顺序转为双语问答表。空白保留为空白，横线保留横线；不把二者补为“否”。问题标签为重复表头。müteehhil栏数字照录，不解释为子女数。"
+        },
+        {
+          "comment": "托卡特吕特菲的教育栏为空，未补“无”；姓名/地名次序和Tokad拼写照原表。泰金政治经历仅说持续三年，不推断起始年份。贝基尔的fukarayı halk等原表措辞保留，不按现代语法重写。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-1",
+          "before": "Bekir - yok vlkrf de- lzılir ... s kom is- Hamallar ahval- hayır idadi bıılıı- Mersin hayır hayır fırbya fukarayı kabul ııa,ır ııa,ır - Atisi halkın re- Mersin yoncu lil arasın- i ruhiye duhulünden başda propa- teşkilata !ahını anganda müsaid lıyor caklıomünİZlll tesis edecelı",
+          "after": "[[BLOCK:survey_p376_r1]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF377 / printed376, enlarged left/right crops, all cells manually transcribed"
+        },
+        {
+          "unit": "body-2",
+          "before": "serrna,eçiftçi yok bulııı- 12 Meşruti- Tokad - halk bir- halk- ahval- hayır hayır ııa,ır villyt- ToUd hayır Bulgar kabul Lütfü cıu.ı 1 şarDlilderine ta birlik i ruhi- Komünist yet lnlu- nin zul- \"' Adıı111 lnkılabçı labı için hislerini ye müte- müne ArabısUn karşı konuyandır- gallibenin Teşkila- çalıştıkhavai isi dım zulmün- tında tan son- mak içln den kur- ra istila tulmak- çiftçilikle tır. iştigal",
+          "after": "[[BLOCK:survey_p376_r2]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF377 / printed376, enlarged left/right crops, all cells manually transcribed"
+        },
+        {
+          "unit": "body-3",
+          "before": "muallim, Alman- arazi me- evet darüllü- Almanca hayır bulunma- Bulgarya Kayseri Bulgar Türki- Oç se- Tekin - propa- mutaas- beşe- kabul ne devam ri korno- Kayseri dişçi ca birçok selesini ganda sıp nun dım Sosya- ye işçiler eser list Fırka- Birliği ediyor. nizm kursında taracaııına kani olduğum için",
+          "after": "[[BLOCK:survey_p376_r3]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF377 / printed376, enlarged left/right crops, all cells manually transcribed"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-survey-377",
+      "alignedSha256": "ba7f45532e2fc1b09f6bddf83b53ad440714b892498b2be01723b42670c4404f",
+      "editorialNotes": [
+        {
+          "comment": "原书377页2名代表，共38格，按原栏顺序转为双语问答表。空白保留为空白，横线保留横线；不把二者补为“否”。问题标签为重复表头。müteehhil栏数字照录，不解释为子女数。"
+        },
+        {
+          "comment": "哈利勒熟悉问题栏为空，著作栏是横线；两者分别保留。其政治经历栏只写Fırkanın，中文标出残缺，未续写。“军工医院”虽填于革命工人组织栏，仍留在原栏，不挪作任职单位。内贾蒂刑期与罪名是问卷所载，不作独立事实断言。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-1",
+          "before": "Necati - amele, şi- Fransız- işçiler propa- komü- idadi biraz perükarlık hayır Anadolu Ankara Sosyalist imalat- sosyalist Haya- kabul Ankara mendi- ca ve Al- birlikle- ganda, nizm ef- kati mad- Fran- kısmen Fırkasına, ı Harbiye fırkasına tın büferci manca ri mesele- maka- karının desin- sızca lstanbul hasta ha- duhulün- tün acıbazı eser- sini leler neşri ko- den) Komünist nesi den baş- !ıklarım ler laydır. Partisine lıyor. nefsimde gördüm. Bundan kurtulmanın çaresini komünizmde buldum",
+          "after": "[[BLOCK:survey_p377_r1]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF378 / printed377, enlarged left/right crops, all cells manually transcribed"
+        },
+        {
+          "unit": "body-2",
+          "before": "Halil - amele, propa- genç- hayır idadi biraz Motorcu- askeri sa- Anadolu Ankara hayır Almanya Fırkanın Haya- kabul Ankara ganda ler müte- Fran- luk, bö- nayi mek- garbı işçi leş- tın bütesviyeci mayii, ih- sızca rekçilik tebinde kilatla- tün acıtiyarlar rında lıklarını nefsimde müstenkifdir. gördüm. Bundan kurtulmanın çaresini komünizmde buldum",
+          "after": "[[BLOCK:survey_p377_r2]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF378 / printed377, enlarged left/right crops, all cells manually transcribed"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-survey-378",
+      "alignedSha256": "9849fecac020557bcd1245c77f24ed606766fdb422d3f9f349466cd0d359a834",
+      "editorialNotes": [
+        {
+          "comment": "原书378页5名代表，共95格，按原栏顺序转为双语问答表。空白保留为空白，横线保留横线；不把二者补为“否”。问题标签为重复表头。müteehhil栏数字照录，不解释为子女数。"
+        },
+        {
+          "comment": "姓名被涂抹的首行，从“熟悉哪些问题”栏起疑似整体左移一格，末栏为空。例如“中学”印在处罚栏，“德语”印在教育栏，“安卡拉”印在婚姻栏，“接受”印在入党原因栏。本表逐格照印，不凭语义将答案右移；待原档核对。"
+        },
+        {
+          "comment": "首行mütemasil按扫描保留并直译“态度相近”，未用邻页mütemayil替换。姓名遮盖不推断。阿塔、希尔米政治经历栏各有两行横线；卡德里革命工人组织栏为空，分别保留。"
+        },
+        {
+          "comment": "吕申处罚栏“两次（8）个月”未明确8个月是合计还是每次，中文不作推断。卡德里的31年不补为1915或其他年份。吕申入党原因按语境译“改变腐朽治理形式”，原文şekil-i idareye格尾保留，待原档核对。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-1",
+          "before": "Amele, pıopa- aenç- AllllllCI elelö- lslııJi sa- Audalu o AııUra Spar- [kara- Leııin'in hayır idadi Almanya 191Tde ilıtisa- kabul tH fırlıa- işçi leşıer müte- çilll - -- Alıunp diyat ve lanmış] - tesviyeci Fransızca gaııcla Spartak sına kilatla- fırka sın- müsai- Ankara eserleri ınasil, ih- lelıiııde ttyanar nnda da. milden mOsten- müstefid olmak kifdir. iÇin",
+          "after": "[[BLOCK:survey_p378_r1]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF379 / printed378, enlarged left/right crops, all cells manually transcribed"
+        },
+        {
+          "unit": "body-2",
+          "before": "Arapça. bulunıııa- Surı,e 4 muharrir yok neşriyat halaskar Fransızlar DaıiilV- Mersin hayır Almanya Ata - Kan Çiftçilik mazlum lıabul habs et- nun Aceıııce dıııı ııeşen,e- Mersin Marks'ın kuvve- işçi leşnazartya- te intizar miş kilatla- tin halası iÇln tına ediyor. rında pek az 3 pek az ri- Manası",
+          "after": "[[BLOCK:survey_p378_r2]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF379 / printed378, enlarged left/right crops, all cells manually transcribed"
+        },
+        {
+          "unit": "body-3",
+          "before": "darOlmu- Arapça Anadolu kapital ve lıabul Hilmi - muallim halaskar hayır muhar- Niğde hayır Almanya Mersin sale anlaşıl- kuwe- allimin ririik işçi leş- emperyale intizar kil atla- lizme karmış ediyor. rında şı nefıetimden 6 son eser- halk ve Almanya Sivas şu- Mütefes- kabul",
+          "after": "[[BLOCK:survey_p378_r3]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF379 / printed378, enlarged left/right crops, all cells manually transcribed"
+        },
+        {
+          "unit": "body-4",
+          "before": "Ruşen muallim propa- halaskar Komü- darülfü- biraz çiftçilik hayır Anadolu Sivas hayır besinin ıer köylü leş- ganda kuvve- nizm- nun fran- işçi leş- sih şekilteşkiliyle ı idarekil atına le intizar den dola- sızca kil atlaediyor. yı iki defa arazi me- nnda başlar ye tebdil (8) ay sailine için pek az ııeşen,e- pıopa- halasklr 5 sene yok",
+          "after": "[[BLOCK:survey_p378_r4]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF379 / printed378, enlarged left/right crops, all cells manually transcribed"
+        },
+        {
+          "unit": "body-5",
+          "before": "Kadri agranom darOHii- Arap- hayır Pire 8 Anlıa- hayır 31 sene- cihan in- lıabul ça Franmalıkilm nun ra'da sinden lulabını eser tin halası gaııcla kuvveyollarına teinlizllr sızca başlıyor- yapabilediyor. aid me- muş. mek iÇin sail",
+          "after": "[[BLOCK:survey_p378_r5]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF379 / printed378, enlarged left/right crops, all cells manually transcribed"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-survey-379",
+      "alignedSha256": "bfaa559da9ca0ee5f4b197d3c4bbc4b50d16552368659c1755f7d24831817a03",
+      "editorialNotes": [
+        {
+          "comment": "原书379页4名代表，共76格，按原栏顺序转为双语问答表。空白保留为空白，横线保留横线；不把二者补为“否”。问题标签为重复表头。müteehhil栏数字照录，不解释为子女数。"
+        },
+        {
+          "comment": "本页穆希丁、凯南及贝赫拉姆的部分答案与表头存在明显错位，逐格照印保留，不按语义搬移。例如穆希丁“中学”在处罚栏、“接受”在入党原因栏；凯南“监禁与流放”在思想情绪栏、“接受”在政治经历栏；贝赫拉姆“收回劳动者权利”在政治经历栏、“接受”在入党原因栏。末尾空白仍为空白，不能据此认定这些代表未接受二十一条。"
+        },
+        {
+          "comment": "穆希丁26 dan、凯南23 den未补全世纪、历法或缺省词。穆希丁18个月写作esaret，即被俘/囚禁经历，不擅改为兵役时长。阿达纳吕特菲的四项党派与政治经历等后段栏目原本空白，全部保留。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-1",
+          "before": "Alman iş- 26 dan Muhiddin tornacı, bazı imalat- irşada hayır idadi Almanca tesviyeci (18) ay Almanya Anka- hayır fukarayı kabul Fransızca ı harbiamele muhtaç- esaret ra'da çi Teş- halkın reeserler kllatlaye kursu tırlar !ahını leteşkili rında min etmek komünizm sayesinde olacağından",
+          "after": "[[BLOCK:survey_p379_r1]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF380 / printed379, enlarged left/right crops, all cells manually transcribed"
+        },
+        {
+          "unit": "body-2",
+          "before": "ata 3 Anka- İttihad ve 23 den fukarayı kabul Kenan Baytar Fransızca propa- irşada habs ve Fransızca müret- evet Anadolu asar (Ka- ganda muhtaç- nefy tiptik Rumeli ra'da Terakki halkın repital) tırlar. !ahını lemin e!- mek komünizm sayesinde olacağından",
+          "after": "[[BLOCK:survey_p379_r2]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF380 / printed379, enlarged left/right crops, all cells manually transcribed"
+        },
+        {
+          "unit": "body-3",
+          "before": "Buigarya, 5 Behram muallim Felse- cihan in- işçi gaze- irşada 3 sene darülmu- Fransız- muhar- hayır Eskişehir lttihad ve emekçi- kabul le, Sos- kılabının lesi neşri muhtaç- kürek allimin ca, Bul- rirlik Sırbtye Terakki !erin huyalizm, meydana ve propa- tırlar garca kukunu prensipler getirdiği ganda istirdad ve saire ava mil için",
+          "after": "[[BLOCK:survey_p379_r3]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF380 / printed379, enlarged left/right crops, all cells manually transcribed"
+        },
+        {
+          "unit": "body-4",
+          "before": "Adana - Fransızlar tali 4 kabul Bahçıvan program amele Bahçeci- halk Arapça yok Harp- Suriye Mersin (6) ay ha- Lütfü birlikle- ler Teşki- hüküme- te bulunrine lalı ti meyda- bs etmiş dum na getirmek istiyarlar",
+          "after": "[[BLOCK:survey_p379_r4]]",
+          "method": "manual_transcription",
+          "authority": "2016 baseline PDF380 / printed379, enlarged left/right crops, all cells manually transcribed"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-survey-summary",
+      "alignedSha256": "00c3d2b7f4fa64591454e82839196492c118628097403ebde90e45789aff52e1",
+      "editorialNotes": [
+        {
+          "comment": "原书380页在“İttihadçı, İtilafçı, gizli olarak”与“Müdafaa-i Hukuk”之间另有一行省略号，文本层未识别，按扫描补录。问卷汇总说明eserler问题实指持有的书刊，但前述逐格表仍保留表头原文。920按上下文译为1920，土文原样保留。Upmal处的使团“经过”及下一段“成立后进行”原文指代不明，不擅补具体城市、支部或活动。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-2",
+          "before": "Murahhaslann",
+          "after": "Murahhasların",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-3",
+          "before": "Zinoviyerin",
+          "after": "Zinoviyef’in",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-3",
+          "before": "Şark lli",
+          "after": "Şark İli",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-4",
+          "before": "KomQnizme",
+          "after": "Komünizme",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-4",
+          "before": "vakıfsımz",
+          "after": "vakıfsınız",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-4",
+          "before": "murahhaslannda",
+          "after": "murahhaslarında",
+          "count": 2,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-4",
+          "before": "lşçi",
+          "after": "İşçi",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-4",
+          "before": "T okat",
+          "after": "Tokat",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "murahhaslannda",
+          "after": "murahhaslarında",
+          "count": 2,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "teşkilatlan",
+          "after": "teşkilatları",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "Camlesi",
+          "after": "Cümlesi",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "Bulundugunuz",
+          "after": "Bulunduğunuz",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "muntazır.79",
+          "after": "muntazır.[[FN:79]]",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-7",
+          "before": "sorulanna",
+          "after": "sorularına",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-8",
+          "before": "inibat",
+          "after": "irtibat",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-8",
+          "before": "lştirakiyun",
+          "after": "İştirakiyun",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-8",
+          "before": "raht edildik",
+          "after": "rabt edildik",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-11",
+          "before": "hissettim .",
+          "after": "hissettim.",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-14",
+          "before": "lttihadçı",
+          "after": "İttihadçı",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-14",
+          "before": "itilafçı",
+          "after": "İtilafçı",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-17",
+          "before": "lzmir",
+          "after": "İzmir",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-17",
+          "before": "lslam",
+          "after": "İslam",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "body-20",
+          "before": "aleyhtar80",
+          "after": "aleyhtar[[FN:80]]",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "note-79",
+          "before": "Kornintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "note-80",
+          "before": "Komintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        },
+        {
+          "unit": "note-80",
+          "before": "27 _36",
+          "after": "27_36",
+          "count": 1,
+          "authority": "2016 baseline PDF381–382 / printed380–381 scan visually reviewed"
+        }
+      ]
+    },
+    {
+      "batch": "thif-ch04-hilmi-moscow",
+      "alignedSha256": "ce2a3a18a89aae447e5db8c992588333c95fd1a9060a35505b678ac019231a36",
+      "editorialNotes": [
+        {
+          "comment": "希尔米信内有关“阻止本国资本发展”的括注为原书译者注，照录而不代为修正其政治主张。公开举行大会遭禁与此前活动合法性分别保留。Gorniy扫描核正OCR的Gomiy，与前文戈尔尼为同一拼写组。信中“你当然会写到”照原文yazacaksınız译，不擅改为biliyorsunuz（你知道）。原书信题有下划线，最终PDF版式复核时恢复。"
+        }
+      ],
+      "corrections": [
+        {
+          "unit": "body-2",
+          "before": "1 922",
+          "after": "1922",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-2",
+          "before": "Doğru ôz",
+          "after": "Doğru Öz",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-2",
+          "before": "kansının",
+          "after": "karısının",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-3",
+          "before": "ESKi HAPiS ARI<ADAŞINOAN",
+          "after": "ESKİ HAPİS ARKADAŞINDAN",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "teşkilılt",
+          "after": "teşkilât",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "başanlamadı",
+          "after": "başarılamadı",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "tüzağünü",
+          "after": "tüzüğünü",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "teşkilatlan",
+          "after": "teşkilatları",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "makamlannın",
+          "after": "makamlarının",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "kovuşturmalan",
+          "after": "kovuşturmaları",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "Ankaraya",
+          "after": "Ankara’ya",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "aynntılannı",
+          "after": "ayrıntılarını",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "Komintem",
+          "after": "Komintern",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-5",
+          "before": "yoldaşlann",
+          "after": "yoldaşların",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "kanmın",
+          "after": "karımın",
+          "count": 2,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-6",
+          "before": "Moskovaya",
+          "after": "Moskova’ya",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-7",
+          "before": "Gomiy",
+          "after": "Gorniy",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-8",
+          "before": "teşkilılt",
+          "after": "teşkilât",
+          "count": 2,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-8",
+          "before": "yoldaşlann",
+          "after": "yoldaşların",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-9",
+          "before": "selamlanmı sunanm",
+          "after": "selamlarımı sunarım",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-11",
+          "before": "HlLMI GüLTEKIN",
+          "after": "HİLMİ GÜLTEKİN",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-13",
+          "before": "Ô N E R l M",
+          "after": "ÖNERİM",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-14",
+          "before": "1 921",
+          "after": "1921",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-14",
+          "before": "Doğru Oz",
+          "after": "Doğru Öz",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-14",
+          "before": "çalışmalanna",
+          "after": "çalışmalarına",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-14",
+          "before": "teşkilcıtçısı",
+          "after": "teşkilâtçısı",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "yoldaşlann",
+          "after": "yoldaşların",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "Anhara",
+          "after": "Ankara",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-15",
+          "before": "başanyla",
+          "after": "başarıyla",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-17",
+          "before": "711011922",
+          "after": "7/10/1922",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "body-18",
+          "before": "Nevşirvanov81",
+          "after": "Nevşirvanov[[FN:81]]",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
+        },
+        {
+          "unit": "note-81",
+          "before": "TüSTAV",
+          "after": "TÜSTAV",
+          "count": 1,
+          "authority": "2016 baseline PDF382–383 / printed381–382 scans visually reviewed"
         }
       ]
     }
