@@ -1,10 +1,10 @@
 {
   "status": "in-progress",
-  "scope": "Prefaces, contents, abbreviations, introduction, chapters 1–2 and chapter 3 through section III.F (in progress); through printed 192 (partial)",
+  "scope": "Prefaces, contents, abbreviations, introduction, chapters 1–2 and chapter 3 through section III.F (in progress); through printed 203 (complete)",
   "counts": {
-    "units": 811,
-    "notes": 464,
-    "sections": 78
+    "units": 843,
+    "notes": 488,
+    "sections": 83
   },
   "sourcePdfSha256": "cd3fc9691d9bd4a5b7b3f10636a84eb27a14627282f2344af2f36c53b2ee8849",
   "batches": [
@@ -845,6 +845,59 @@
         "Note79 crosspage bibliography preserved; titlewasanotherMazdak omitshe in source, spellingMoscov/Sheperdstown andpages119–128 not silently corrected.",
         "Kazova westernAnatolia identification is sourceauthors geographical inference, not established location.",
         "Three flight explanations and revolt-command uncertainty preserved."
+      ]
+    },
+    {
+      "batch": "z2013-ch03-part18",
+      "alignedSha256": "e700184a3bd71bad634803a8a7a943225382386129c744301cba5cd12808307b",
+      "editorialNotes": [
+        "Scans225–228 visually checked; original194 footer194ı excluded.",
+        "Author explicitly has no document for Cairo social-revolt project; inference and Menakib attribution retained.",
+        "Note84 second-half-year versus June contradiction preserved and annotated; nationality not independently established.",
+        "ISAM DKM020498 PDF86 bibliographic card verified title, DerIslam54 issue1(1977)118–125; downloaded dossier has no verified article full text.",
+        "Note84 missing closing parenthesis in original preserved in Turkish transcription; Chinese punctuation completed."
+      ]
+    },
+    {
+      "batch": "z2013-ch03-part19",
+      "alignedSha256": "f8cda48c47025f4341b9d37bcf45c1f725fc449ef401f55fab35382c6b8e9d34",
+      "editorialNotes": [
+        "Scans229–231 visually checked.",
+        "Calendar discrepancy fouryears versus1416/1413 preserved with crossreference to chapter note44.",
+        "All motive and social-character interpretations retained as author positions, not independent historical verification.",
+        "Source note92 unclosed parenthesis preserved in Turkish; Chinese punctuation completed.",
+        "Quoted şarabı ... dinlemeyi translated as drinking wine and listening to instruments, respecting idiomatic ellipsis."
+      ]
+    },
+    {
+      "batch": "z2013-ch03-part20",
+      "alignedSha256": "6dc7fa72411c007b2248b9ff36912c996ed3e3d606730513dc6a7a6a48dd460c",
+      "editorialNotes": [
+        "Scans231–232 visually checked; interrupted source231 line401 contains nine separate OCR fragments, all retained via one range.",
+        "Mahdi selfidentification not explicit in quoted Varidat as author concedes; preserve inference and attribution.",
+        "Bistami source1431 and abbreviatedpatronymic retained; annotate difference against TDV1454 and full name.",
+        "Quran20:108 reference verified; no claim that original text explicitly identifies Mahdi or Sahibzaman.",
+        "Original chapter interpreted movements through messianic comparison; generalization is author assertion, not editorial conclusion."
+      ]
+    },
+    {
+      "batch": "z2013-ch03-part21",
+      "alignedSha256": "ab8b49bd9aa4dbbccc583c50131a116d80c8ffa6c8606d35914650d6d8bbe72b",
+      "editorialNotes": [
+        "Scans233–234 visually checked; original isyana etmiş wording retained.",
+        "Source neitherDukasnorOttoman evidence construction translated negative without adding positive claim.",
+        "Author differentiates possible qutbmahdi association, lack ofVaridathint, speculative Seljuk genealogy, Dukas propaganda possibility and attribution toBedreddin; all retained.",
+        "Turloti monastery name preserved, not silently harmonized to previousStylarion."
+      ]
+    },
+    {
+      "batch": "z2013-ch03-part22",
+      "alignedSha256": "273ade013789880c616ac70ebe5f0775ac0f7abd0c7acffc90432ab9e9de5492",
+      "editorialNotes": [
+        "Scans234–236 visually checked; footer235y490.02 and236y491.06 outside content ranges.",
+        "Timar grant and loss, frontiergazis and Christianfeudal groups differentiated; author characterization as feudal-interest movement retained without endorsing historical conclusion.",
+        "Inalcik1958 original article pages108–109 visually read;109 discusses1416 movement as discontent in frontierprovinces and nomadTurkmen against strengtheningSunni/statistcentre; not confirmation of1993page326 pagination.",
+        "Original assertion that Bedreddin had no egalitarian evidence versus possible pre-revolt use is left as authors explicit change from evidentiary claim to hypothesis."
       ]
     }
   ],
