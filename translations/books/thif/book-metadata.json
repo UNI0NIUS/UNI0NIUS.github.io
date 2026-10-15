@@ -10,8 +10,8 @@
   "language": "zh-CN",
   "bilingual": true,
   "example": false,
-  "description": "逐段中土对照工作译稿，现含前置文字及正文至原书第402页。全书尚未完成。",
-  "editionNotice": "未完成的校译工作稿 · 2026-10-15。以2016年增订版扫描PDF为底本，页码为原书印刷页码（PDF页序减1）。现含前置文字、第一至第三章文字和第四章至第402页；后续正文尚未译完。原注随段保留。照片、部分下划线和框文尚待恢复，译文仍待终校；当前PDF尚未通过编译与版面验收。",
+  "description": "逐段中土对照工作译稿。全书文字、书目及索引已录入，终校尚未完成。",
+  "editionNotice": "未完成的校译工作稿 · 2026-10-15。以2016年增订版扫描PDF为底本，采用原书印刷页码（PDF页序减1）。全书文字、432条原注、书目与索引已录入，四幅影印已恢复。当前PDF已编译并通过文本完整性检查；语义、术语、引文和最终分页仍待复核。",
   "status": "in-progress",
   "wholeBookComplete": false,
   "chapters": [
@@ -35,6 +35,13 @@
       "originalTitle": "Yeni Baskıya Önsöz",
       "partId": "frontmatter",
       "dataUrl": "translations/books/thif/new-edition-preface.json"
+    },
+    {
+      "id": "thif-ch00-frontmatter",
+      "title": "封面、版本信息、作者简介及原书目录",
+      "originalTitle": "Kapak, künye, yazarlar ve içindekiler",
+      "partId": "ch00",
+      "dataUrl": "translations/books/thif/thif-ch00-frontmatter.json"
     },
     {
       "id": "thif-ch01-p017-021",
@@ -185,7 +192,7 @@
     },
     {
       "id": "thif-ch01-rushtu-first",
-      "title": "7）特夫菲克·吕什蒂提交共产国际执委会的两份报告（95–98）",
+      "title": "7）泰夫菲克·吕什蒂提交共产国际执委会的两份报告（95–98）",
       "originalTitle": "7) TEVFİK RÜŞTÜ'NÜN KEYK'E SUNDUĞU İKİ RAPOR (95–98)",
       "partId": "ch01",
       "dataUrl": "translations/books/thif/thif-ch01-rushtu-first.json"
@@ -199,14 +206,14 @@
     },
     {
       "id": "thif-ch01-emre-memoir",
-      "title": "8）艾哈迈德·杰瓦特·埃姆雷回忆录中的特夫菲克·吕什蒂·阿拉斯（102–103）",
+      "title": "8）艾哈迈德·杰瓦特·埃姆雷回忆录中的泰夫菲克·吕什蒂·阿拉斯（102–103）",
       "originalTitle": "8) AHMET CEVAT EMRE'NİN ANILARINDA TEVFİK RÜŞTÜ ARAS (102–103)",
       "partId": "ch01",
       "dataUrl": "translations/books/thif/thif-ch01-emre-memoir.json"
     },
     {
       "id": "thif-ch01-moscou-intro",
-      "title": "9）特夫菲克·吕什蒂在一份共产国际报纸上的文章（103）",
+      "title": "9）泰夫菲克·吕什蒂在一份共产国际报纸上的文章（103）",
       "originalTitle": "9) TEVFİK RÜŞTÜ'NÜN BİR KOMİNTERN GAZETESİNDEKİ MAKALESİ (103)",
       "partId": "ch01",
       "dataUrl": "translations/books/thif/thif-ch01-moscou-intro.json"
@@ -220,7 +227,7 @@
     },
     {
       "id": "thif-ch01-rushtu-instruction",
-      "title": "10）交给特夫菲克·吕什蒂（阿拉斯）的任务（110）",
+      "title": "10）交给泰夫菲克·吕什蒂（阿拉斯）的任务（110）",
       "originalTitle": "10) TEVFİK RÜŞTÜ'YE (ARAS) VERİLEN GÖREV (110)",
       "partId": "ch01",
       "dataUrl": "translations/books/thif/thif-ch01-rushtu-instruction.json"
@@ -360,7 +367,7 @@
     },
     {
       "id": "thif-ch01-conference",
-      "title": "a．穆罕默德·许克吕贝伊1920年12月22日演讲的开头，摘自1921年1月16日《劳动报》创刊号（152–154）",
+      "title": "a．迈赫迈特·许克吕贝伊1920年12月22日演讲的开头，摘自1921年1月16日《劳动报》创刊号（152–154）",
       "originalTitle": "a. Emek’in 16 Ocak 1921’de çıkan ilk sayısından Mehmet Şükrü Bey’in 22 Aralık 1920’de verdiği Konferansın Baş Tarafı (152–154)",
       "partId": "ch01",
       "dataUrl": "translations/books/thif/thif-ch01-conference.json"
@@ -402,7 +409,7 @@
     },
     {
       "id": "thif-ch01-sukru-reply",
-      "title": "f）穆罕默德·许克吕贝伊〈告公众〉说明（158–160）",
+      "title": "f）迈赫迈特·许克吕贝伊〈告公众〉说明（158–160）",
       "originalTitle": "f) Mehmet Şükrü Bey’in “Efkâr-ı Umumiyeye” Açıklaması (158–160)",
       "partId": "ch01",
       "dataUrl": "translations/books/thif/thif-ch01-sukru-reply.json"
@@ -1057,6 +1064,769 @@
       "originalTitle": "12 Eylül: Yanuş’a ve Ticaret Temsilciliğine mektuplar (401–402)",
       "partId": "ch04",
       "dataUrl": "translations/books/thif/thif-ch04-golman-yanush.json"
+    },
+    {
+      "id": "thif-ch04-september18-meeting-start",
+      "title": "9月18日中央委员会特别会议：开场（403–404）",
+      "originalTitle": "18 Eylül Merkez-i Umumi fevkalade içtimaı: Açılış (403–404)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-september18-meeting-start.json"
+    },
+    {
+      "id": "thif-ch04-september18-golman",
+      "title": "9月18日中央委员会特别会议：戈尔曼发言（续）（404–407）",
+      "originalTitle": "18 Eylül Merkez-i Umumi fevkalade içtimaı: Golman (devam) (404–407)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-september18-golman.json"
+    },
+    {
+      "id": "thif-ch04-september18-debate",
+      "title": "9月18日中央委员会特别会议：党纪与声明之争（407–410）",
+      "originalTitle": "18 Eylül Merkez-i Umumi fevkalade içtimaı: Disiplin ve beyanname tartışması (407–410)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-september18-debate.json"
+    },
+    {
+      "id": "thif-ch04-september18-closing",
+      "title": "9月18日中央委员会特别会议：纳泽姆答辩与表决（411–416）",
+      "originalTitle": "18 Eylül Merkez-i Umumi fevkalade içtimaı: Nâzım’ın savunması ve oylama (411–416)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-september18-closing.json"
+    },
+    {
+      "id": "thif-ch04-september25-report",
+      "title": "戈尔曼9月25日报告：党务、纳泽姆事件与经费（416–419）",
+      "originalTitle": "Golman’ın 25 Eylül raporu: Parti çalışmaları, Nâzım olayı ve mali durum (416–419)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-september25-report.json"
+    },
+    {
+      "id": "thif-ch04-salary-records",
+      "title": "薪金收据与干部薪金表（420–422）",
+      "originalTitle": "Maaş makbuzları ve kadro maaşatı listesi (420–422)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-salary-records.json"
+    },
+    {
+      "id": "thif-ch04-raevski-september-start",
+      "title": "拉耶夫斯基9月22日报告：阶级力量与平民主义（422–424）",
+      "originalTitle": "Raevski’nin 22 Eylül raporu: Sınıf güçleri ve halkçılık (422–424)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-raevski-september-start.json"
+    },
+    {
+      "id": "thif-ch04-raevski-kilikya",
+      "title": "拉耶夫斯基报告：奇里乞亚的经济、报刊与工会（424–427）",
+      "originalTitle": "Raevski raporu: Kilikya’da ekonomi, basın ve sendikalar (424–427)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-raevski-kilikya.json"
+    },
+    {
+      "id": "thif-ch04-raevski-syria",
+      "title": "拉耶夫斯基报告：叙利亚的组织工作与政治集团（427–429）",
+      "originalTitle": "Raevski raporu: Suriye’de teşkilât çalışmaları ve siyasî gruplar (427–429)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-raevski-syria.json"
+    },
+    {
+      "id": "thif-ch04-raevski-september-end",
+      "title": "拉耶夫斯基报告：希拉勒·凯末尔、出版工作与美索不达米亚（429–432）",
+      "originalTitle": "Raevski raporu: Hilâl Kemal, yayınlar ve Mezopotamya (429–432)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-raevski-september-end.json"
+    },
+    {
+      "id": "thif-ch04-october-handover",
+      "title": "戈尔曼移交工作的文件（432）",
+      "originalTitle": "Golman’ın devir teslim belgesi (432)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-october-handover.json"
+    },
+    {
+      "id": "thif-ch04-october-finance",
+      "title": "萨利赫10月9日财务报告（433–434）",
+      "originalTitle": "Salih’in 9 Ekim malî raporu (433–434)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-october-finance.json"
+    },
+    {
+      "id": "thif-ch04-departure-safarov",
+      "title": "戈尔曼致萨法罗夫的启程信（434–435）",
+      "originalTitle": "Golman’ın Safarov’a hareket mektubu (434–435)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-departure-safarov.json"
+    },
+    {
+      "id": "thif-ch04-golman-review-start",
+      "title": "戈尔曼工作总结：农民工作与合法地位（435–437）",
+      "originalTitle": "Golman’ın değerlendirmesi: Köylüler arasında çalışma ve legal durum (435–437)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-golman-review-start.json"
+    },
+    {
+      "id": "thif-ch04-golman-review-methods",
+      "title": "戈尔曼工作总结：组织方法与九项建议（437–441）",
+      "originalTitle": "Golman’ın değerlendirmesi: Çalışma yöntemleri ve dokuz öneri (437–441)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-golman-review-methods.json"
+    },
+    {
+      "id": "thif-ch04-golman-journey",
+      "title": "代表赴共产国际第四次代表大会的旅程（441–445）",
+      "originalTitle": "Delegelerin Komintern IV. Kongresine yolculuğu (441–445)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-golman-journey.json"
+    },
+    {
+      "id": "thif-ch04-huseyin-kadir",
+      "title": "三位共产主义者补充资料：侯赛因·许斯努与卡迪尔来函（445–448）",
+      "originalTitle": "Üç komünist hakkında ek bilgiler: Hüseyin Hüsnü ve Kadir’in yazıları (445–448)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-huseyin-kadir.json"
+    },
+    {
+      "id": "thif-ch04-anonymous-november-letter",
+      "title": "1921年11月16日安卡拉来信：询问巴库组织与许斯努的关系（448–449）",
+      "originalTitle": "16 Kasım 1921 Ankara mektubu: Bakü teşkilâtı ve Hüsnü ile ilişkiler (448–449)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-anonymous-november-letter.json"
+    },
+    {
+      "id": "thif-ch04-huseyin-april13",
+      "title": "许斯努1922年4月13日致萨法罗夫：近东会议建议（449–452）",
+      "originalTitle": "Hüsnü’nün 13 Nisan 1922 Safarov mektubu: Yakındoğu konferansı önerisi (449–452)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-huseyin-april13.json"
+    },
+    {
+      "id": "thif-ch04-huseyin-april20",
+      "title": "许斯努1922年4月20日来信：经济困境与组织活动（452–453）",
+      "originalTitle": "Hüsnü’nün 20 Nisan 1922 mektubu: İktisadî durum ve teşkilât faaliyeti (452–453)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-huseyin-april20.json"
+    },
+    {
+      "id": "thif-ch04-huseyin-may-letters",
+      "title": "许斯努5月6日及14日来信：五一庆祝与两组工人（454–456）",
+      "originalTitle": "Hüsnü’nün 6 ve 14 Mayıs mektupları: Mayıs bayramı ve iki işçi grubu (454–456)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-huseyin-may-letters.json"
+    },
+    {
+      "id": "thif-ch04-tufan-fragments",
+      "title": "“图凡”署名的两封残缺报告信（456–457）",
+      "originalTitle": "“Tufan” imzalı iki eksik mektup-rapor (456–457)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-tufan-fragments.json"
+    },
+    {
+      "id": "thif-ch04-huseyin-congress-letter",
+      "title": "大会后许斯努来信与迈赫迈特·阿里的缺席请示（457–459）",
+      "originalTitle": "Kongre sonrası Hüsnü mektubu ve Mehmet Ali’nin mazeret dilekçesi (457–459)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-huseyin-congress-letter.json"
+    },
+    {
+      "id": "thif-ch04-huseyin-january1923",
+      "title": "许斯努1923年1月19日来信：被捕者处境与党务支持（459–462）",
+      "originalTitle": "Hüsnü’nün 19 Ocak 1923 mektubu: Tutuklular ve partiye destek (459–462)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-huseyin-january1923.json"
+    },
+    {
+      "id": "thif-ch04-affan-hikmet",
+      "title": "阿凡·希克梅特：讣告与会议回忆的校辨（462–463）",
+      "originalTitle": "Affan Hikmet: Nekroloji ve konferans anılarının değerlendirilmesi (462–463)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-affan-hikmet.json"
+    },
+    {
+      "id": "thif-ch04-yusuf-petitions",
+      "title": "优素福·凯末尔：营救请示与1923年1月求助信（463–466）",
+      "originalTitle": "Yusuf Kemal: Tahliye dilekçeleri ve Ocak 1923 yardım mektupları (463–466)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-yusuf-petitions.json"
+    },
+    {
+      "id": "thif-ch04-yusuf-judgment",
+      "title": "优素福·凯末尔：军事法庭文书、再次求助与无罪判决（467–469）",
+      "originalTitle": "Yusuf Kemal: Askerî mahkeme mazbatası, son yardım başvurusu ve beraat (467–469)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-yusuf-judgment.json"
+    },
+    {
+      "id": "thif-ch04-kilikya-opening",
+      "title": "奇里乞亚会议：代表名单与议程（469–470）",
+      "originalTitle": "Kilikya Konferansı: Katılanlar ve gündem (469–470)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-kilikya-opening.json"
+    },
+    {
+      "id": "thif-ch04-kilikya-opening-speeches",
+      "title": "奇里乞亚会议开场发言与阿塔形势报告（470–473）",
+      "originalTitle": "Kilikya Konferansı açılış konuşmaları ve Ata’nın durum raporu (470–473)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-kilikya-opening-speeches.json"
+    },
+    {
+      "id": "thif-ch04-kilikya-history-start",
+      "title": "阿塔报告讨论与工人运动史报告开篇（473–476）",
+      "originalTitle": "Ata’nın raporunun tartışılması ve işçi hareketi tarihi raporunun başlangıcı (473–476)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-kilikya-history-start.json"
+    },
+    {
+      "id": "thif-ch04-kilikya-history-end",
+      "title": "第一国际章程与工人运动史报告结尾（476–479）",
+      "originalTitle": "Birinci Enternasyonal tüzüğü ve işçi hareketi tarihi raporunun sonu (476–479)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-kilikya-history-end.json"
+    },
+    {
+      "id": "thif-ch04-kilikya-tasks-report",
+      "title": "无产阶级专政与土耳其工人阶级的任务（479–483）",
+      "originalTitle": "Proletarya diktatorası ve Türkiye işçi sınıfının görevleri (479–483)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-kilikya-tasks-report.json"
+    },
+    {
+      "id": "thif-ch04-kilikya-decisions",
+      "title": "报告讨论、临时局选举与加入赤色职工国际（483–484）",
+      "originalTitle": "Rapor tartışması, geçici büro seçimi ve Profintern’e katılma (483–484)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-kilikya-decisions.json"
+    },
+    {
+      "id": "thif-ch04-kilikya-closing",
+      "title": "搬运工代表陈述与会议闭幕（484–487）",
+      "originalTitle": "Hamalların açıklaması ve konferansın kapanışı (484–487)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-kilikya-closing.json"
+    },
+    {
+      "id": "thif-ch04-kilikya-political-resolution",
+      "title": "会议通过的国内与国际形势决议（487–488）",
+      "originalTitle": "Konferansın kabul ettiği iç ve uluslararası durum kararı (487–488)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-kilikya-political-resolution.json"
+    },
+    {
+      "id": "thif-ch04-kilikya-demands-greetings",
+      "title": "十四项工人诉求与四封致辞（489–491）",
+      "originalTitle": "On dört işçi talebi ve dört hitabe (489–491)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-kilikya-demands-greetings.json"
+    },
+    {
+      "id": "thif-ch04-kilikya-appeal-instructions",
+      "title": "致安纳托利亚工人的呼吁及临时局指示（491–492）",
+      "originalTitle": "Anadolu işçilerine çağrı ve geçici büroya talimat (491–492)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-kilikya-appeal-instructions.json"
+    },
+    {
+      "id": "thif-ch04-near-organization-tasks",
+      "title": "大会之后：土共近期组织任务（493–495）",
+      "originalTitle": "Kongre sonrası: TKP’nin yakın teşkilât vazifeleri (493–495)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-near-organization-tasks.json"
+    },
+    {
+      "id": "thif-ch04-party-organization-system",
+      "title": "共产党的组织体系（495–498）",
+      "originalTitle": "Komünist fırkalarının teşkilât sistemi (495–498)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-party-organization-system.json"
+    },
+    {
+      "id": "thif-ch04-october9-directives",
+      "title": "10月9日组织指示与代签授权通告（498–499）",
+      "originalTitle": "9 Ekim teşkilât talimatnamesi ve imza yetkisi tamimi (498–499)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-october9-directives.json"
+    },
+    {
+      "id": "thif-ch04-guidance-pamphlet-opening",
+      "title": "两本小册子：引导工作的方法（开篇）（499–500）",
+      "originalTitle": "İki risale: İrşad tarzları, başlangıç (499–500)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-guidance-pamphlet-opening.json"
+    },
+    {
+      "id": "thif-ch04-guidance-pamphlet-end",
+      "title": "对知识分子、工人和农民的引导工作（501–503）",
+      "originalTitle": "Münevverler, ameleler ve köylüler arasında irşad (501–503)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-guidance-pamphlet-end.json"
+    },
+    {
+      "id": "thif-ch04-workers-pamphlet-opening",
+      "title": "致土耳其劳动者：社会的两个阶级（503–504）",
+      "originalTitle": "Türkiye emekçilerine: Cemiyetin iki sınıfı (503–504)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-workers-pamphlet-opening.json"
+    },
+    {
+      "id": "thif-ch04-workers-pamphlet-unions",
+      "title": "工人组织与工会的十一项诉求（505–506）",
+      "originalTitle": "İşçi teşkilâtı ve sendikaların on bir talebi (505–506)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-workers-pamphlet-unions.json"
+    },
+    {
+      "id": "thif-ch04-workers-pamphlet-end",
+      "title": "党的纲领、国际组织与加入工会和党的号召（506–508）",
+      "originalTitle": "Fırka programı, Enternasyonal ve teşkilâta katılma çağrısı (506–508)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-workers-pamphlet-end.json"
+    },
+    {
+      "id": "thif-ch04-istanbul-workers-leaflet",
+      "title": "致伊斯坦布尔全体工人，不分宗教与教派（508–510）",
+      "originalTitle": "Bilâ Tefrik-i Din ve Mezhep İstanbul Amele ve İşçilerine (508–510)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-istanbul-workers-leaflet.json"
+    },
+    {
+      "id": "thif-ch04-ankara-railworkers-leaflet",
+      "title": "安卡拉铁路工人1922年10月1日传单（511–512）",
+      "originalTitle": "Ankara demiryolcularının 1 Ekim 1922 bildirisi (511–512)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-ankara-railworkers-leaflet.json"
+    },
+    {
+      "id": "thif-ch04-ata-january6-letter",
+      "title": "安卡拉的逮捕与阿塔1923年1月6日来信（512–514）",
+      "originalTitle": "Ankara’daki tutuklamalar ve Ata’nın 6 Ocak 1923 mektubu (512–514)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-ata-january6-letter.json"
+    },
+    {
+      "id": "thif-ch04-hacioglu-october29-appeal",
+      "title": "哈哲奥卢10月29日为被捕工人请求援助（514–515）",
+      "originalTitle": "Hacıoğlu’nun 29 Ekim tutuklu işçilere yardım başvurusu (514–515)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-hacioglu-october29-appeal.json"
+    },
+    {
+      "id": "thif-ch04-orhan-arrests-statement",
+      "title": "奥尔罕关于逮捕与政府政策的声明（515–516）",
+      "originalTitle": "Orhan’ın tutuklamalar ve hükümet politikası hakkındaki açıklaması (515–516)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-orhan-arrests-statement.json"
+    },
+    {
+      "id": "thif-ch04-salih-zeki-maintenance",
+      "title": "为萨利赫·泽基申请在莫斯科的食宿（516–518）",
+      "originalTitle": "Salih Zeki’nin Moskova’da iaşe ve iskânı başvurusu (516–518)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-salih-zeki-maintenance.json"
+    },
+    {
+      "id": "thif-ch04-politburo-arrests-resolution",
+      "title": "俄共（布）政治局关于安卡拉逮捕事件的决定（518）",
+      "originalTitle": "RKP(b) Siyasî Bürosu’nun Ankara tutuklamaları kararı (518)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-politburo-arrests-resolution.json"
+    },
+    {
+      "id": "thif-ch04-january22-report-opening",
+      "title": "1月22日报告：政治局势与工人组织的处境（518–522）",
+      "originalTitle": "22 Ocak raporu: siyasal durum ve işçi örgütlerinin koşulları (518–522)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-january22-report-opening.json"
+    },
+    {
+      "id": "thif-ch04-january22-report-unions",
+      "title": "工会联合、各派竞争与组织局问题（522–524）",
+      "originalTitle": "Sendikal birleşme, siyasî rekabet ve Teşkilât Bürosu sorunu (522–524)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-january22-report-unions.json"
+    },
+    {
+      "id": "thif-ch04-january22-report-conclusion",
+      "title": "五项组织建议、出版计划与派遣学生（525–527）",
+      "originalTitle": "Beş örgütlenme önerisi, yayın planları ve öğrenci gönderilmesi (525–527)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-january22-report-conclusion.json"
+    },
+    {
+      "id": "thif-ch04-russian-december2-cover",
+      "title": "12月2日俄方报告及附件目录（528–529）",
+      "originalTitle": "2 Aralık Rus raporu ve ekler listesi (528–529)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-russian-december2-cover.json"
+    },
+    {
+      "id": "thif-ch04-hilmi-zonguldak-report",
+      "title": "希尔米的宗古尔达克调查报告（530–532）",
+      "originalTitle": "Hilmi’nin Zonguldak gezisi raporu (530–532)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-hilmi-zonguldak-report.json"
+    },
+    {
+      "id": "thif-ch04-yunus-nadi-talks",
+      "title": "与尤努斯·纳迪的两次谈话（532–534）",
+      "originalTitle": "Yunus Nadi ile iki görüşme (532–534)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-yunus-nadi-talks.json"
+    },
+    {
+      "id": "thif-ch04-ahmet-agaev-talk",
+      "title": "与艾哈迈德·阿加耶夫的交谈（534–535）",
+      "originalTitle": "Ahmet Agaev ile sohbet (534–535)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-ahmet-agaev-talk.json"
+    },
+    {
+      "id": "thif-ch04-prospects-environment",
+      "title": "前景与形势：尤努斯·纳迪谈话（535–536）",
+      "originalTitle": "Perspektifler ve ortam: Yunus Nadi ile sohbet (535–536)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-prospects-environment.json"
+    },
+    {
+      "id": "thif-ch04-salih-erzerum-talk",
+      "title": "埃尔祖鲁姆议员萨利赫的谈话（536–538）",
+      "originalTitle": "Erzurum mebusu Salih ile sohbet (536–538)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-salih-erzerum-talk.json"
+    },
+    {
+      "id": "thif-ch04-union-merger-resolution",
+      "title": "赤色工会合并决议及预算（539–541）",
+      "originalTitle": "Kızıl sendikaların birleşme kararı ve bütçesi (539–541)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-union-merger-resolution.json"
+    },
+    {
+      "id": "thif-ch04-anatolian-worker-statistics",
+      "title": "安纳托利亚工人统计（541）",
+      "originalTitle": "Anadolu işçileri istatistiği (541)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-anatolian-worker-statistics.json"
+    },
+    {
+      "id": "thif-ch04-ahmet-cevat-critique",
+      "title": "党内反对派：艾哈迈德·杰瓦特的批评报告（542–544）",
+      "originalTitle": "Parti içi muhalefet: Ahmet Cevat’ın eleştirel raporu (542–544)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-ahmet-cevat-critique.json"
+    },
+    {
+      "id": "thif-ch04-bekir-resignation",
+      "title": "贝基尔·乌卢的狱中评述与退党信（544–546）",
+      "originalTitle": "Bekir Uluğ’un değerlendirmesi ve istifa mektupları (544–546)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-bekir-resignation.json"
+    },
+    {
+      "id": "thif-ch04-bureaucracy-nazim-letters",
+      "title": "官僚作风与纳泽姆十月的两封信（547–548）",
+      "originalTitle": "Bürokrasiden yakınma ve Nâzım’ın Ekim mektupları (547–548)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-bureaucracy-nazim-letters.json"
+    },
+    {
+      "id": "thif-ch04-nazim-november21",
+      "title": "纳泽姆11月21日致共产国际的信（548–550）",
+      "originalTitle": "Nâzım’ın 21 Kasım Enternasyonal mektubu (548–550)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-nazim-november21.json"
+    },
+    {
+      "id": "thif-ch04-january6-cell-minutes",
+      "title": "安卡拉临时核心小组的1月6日会议记录（550–551）",
+      "originalTitle": "Ankara geçici nüvesinin 6 Ocak toplantı tutanağı (550–551)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-january6-cell-minutes.json"
+    },
+    {
+      "id": "thif-ch04-january18-minutes-accounts",
+      "title": "1月18—19日会议记录与阿塔账目（552–554）",
+      "originalTitle": "18–19 Ocak tutanağı ve Ata’nın hesapları (552–554)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-january18-minutes-accounts.json"
+    },
+    {
+      "id": "thif-ch04-january22-cell-minutes",
+      "title": "1月22—23日临时核心小组会议记录（554–555）",
+      "originalTitle": "22–23 Ocak geçici nüve tutanağı (554–555)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-january22-cell-minutes.json"
+    },
+    {
+      "id": "thif-ch04-february1-budget",
+      "title": "2月1日会议及人员预算说明（555–557）",
+      "originalTitle": "1 Şubat toplantısı ve kadro bütçesi gerekçesi (555–557)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-february1-budget.json"
+    },
+    {
+      "id": "thif-ch04-february12-minutes",
+      "title": "2月11—12日会议：经济大会代表与联络（557–558）",
+      "originalTitle": "11–12 Şubat toplantısı: İktisat Kongresi ve bağlantılar (557–558)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-february12-minutes.json"
+    },
+    {
+      "id": "thif-ch04-ata-mersin-return",
+      "title": "阿塔返抵梅尔辛后的来信（558–559）",
+      "originalTitle": "Ata’nın Mersin’e dönüşünden sonraki mektubu (558–559)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-ata-mersin-return.json"
+    },
+    {
+      "id": "thif-ch04-prison-open-letter",
+      "title": "致议员的公开信、吊唁与再次被捕（559–560）",
+      "originalTitle": "Açık mektup, taziye ve yeniden tutuklama (559–560)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-prison-open-letter.json"
+    },
+    {
+      "id": "thif-ch04-prison-bath-typhus-letters",
+      "title": "浴场申诉与斑疹伤寒疫情来信（561–562）",
+      "originalTitle": "Hamam talepleri ve tifüs hakkındaki mektuplar (561–562)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-prison-bath-typhus-letters.json"
+    },
+    {
+      "id": "thif-ch04-march10-report-arrests",
+      "title": "3月10日报告：逮捕与讯问（563–564）",
+      "originalTitle": "10 Mart raporu: Tutuklama ve sorgulama (563–564)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-march10-report-arrests.json"
+    },
+    {
+      "id": "thif-ch04-march10-report-conclusion",
+      "title": "3月10日报告：各地逮捕、延期审判与斡旋请求（564–567）",
+      "originalTitle": "10 Mart raporu: Taşra tutuklamaları, muhakeme ve tavassut (564–567)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-march10-report-conclusion.json"
+    },
+    {
+      "id": "thif-ch04-prison-counsel-letter",
+      "title": "狱中来信：另聘律师及检方情报材料（567–569）",
+      "originalTitle": "Hapishaneden mektup: Avukat ve istihbarat raporları (567–569)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-prison-counsel-letter.json"
+    },
+    {
+      "id": "thif-ch04-intelligence-envelopes",
+      "title": "案卷内三个信封中的文件（569–573）",
+      "originalTitle": "Dava dosyasındaki üç zarfta bulunan evrak (569–573)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-intelligence-envelopes.json"
+    },
+    {
+      "id": "thif-ch04-prison-disputes",
+      "title": "未署日期的狱中通信：争执、辩护与生活困境（573–576）",
+      "originalTitle": "Tarihsiz hapishane mektupları: İhtilâf, müdafaa ve sefalet (573–576)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-prison-disputes.json"
+    },
+    {
+      "id": "thif-ch04-nazim-after-release",
+      "title": "纳泽姆获释后致艾哈迈德·杰瓦特（576–577）",
+      "originalTitle": "Nâzım’ın tahliyeden sonra Ahmet Cevat’a mektubu (576–577)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-nazim-after-release.json"
+    },
+    {
+      "id": "thif-ch04-izmir-theses",
+      "title": "伊兹密尔经济大会：安卡拉支部提纲（577–579）",
+      "originalTitle": "İzmir İktisat Kongresi: Ankara hücresinin tezleri (577–579)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-izmir-theses.json"
+    },
+    {
+      "id": "thif-ch04-izmir-congress-report",
+      "title": "谢菲克·许斯努的经济大会报告（579–582）",
+      "originalTitle": "Şefik Hüsnü’nün İktisat Kongresi raporu (579–582)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-izmir-congress-report.json"
+    },
+    {
+      "id": "thif-ch04-investigating-judge-order",
+      "title": "1923年审判：预审法官决定书（582–586）",
+      "originalTitle": "1923 yargılamaları: Müstantik kararnamesi (582–586)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-investigating-judge-order.json"
+    },
+    {
+      "id": "thif-ch04-repeated-prison-letters",
+      "title": "本节再录的两封狱中来信（586–587）",
+      "originalTitle": "Bu bölümde yeniden verilen iki hapishane mektubu (586–587)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-repeated-prison-letters.json"
+    },
+    {
+      "id": "thif-ch04-april-hearings",
+      "title": "四月前三次庭审的报告（587–590）",
+      "originalTitle": "Nisan ayındaki ilk üç duruşmanın raporları (587–590)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-april-hearings.json"
+    },
+    {
+      "id": "thif-ch04-may-hearings",
+      "title": "五月三次庭审：优素福·凯末尔、证词与延期（590–593）",
+      "originalTitle": "Mayıs duruşmaları: Yusuf Kemal, tanıklar ve ertelemeler (590–593)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-may-hearings.json"
+    },
+    {
+      "id": "thif-ch04-august-judgment",
+      "title": "1923年8月9日判决书（594–598）",
+      "originalTitle": "9 Ağustos 1339 tarihli hüküm (594–598)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-august-judgment.json"
+    },
+    {
+      "id": "thif-ch04-prisoner-exchange-petition",
+      "title": "4月19日关于交换被拘押者的请愿书（598–600）",
+      "originalTitle": "19 Nisan tarihli tutuklu değişimi dilekçesi (598–600)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-prisoner-exchange-petition.json"
+    },
+    {
+      "id": "thif-ch04-release-correspondence",
+      "title": "获释后的纳泽姆来信与苏里茨电报（600–602）",
+      "originalTitle": "Tahliye sonrası Nâzım mektupları ve Surits telgrafı (600–602)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-release-correspondence.json"
+    },
+    {
+      "id": "thif-ch04-diplomatic-tension",
+      "title": "共产国际与苏联外交代表：第18节引言（602–604）",
+      "originalTitle": "Komintern ve Sovyet diplomatik temsilcileri: Bölüm 18 girişi (602–604)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-diplomatic-tension.json"
+    },
+    {
+      "id": "thif-ch04-aralov-january-assessment",
+      "title": "阿拉洛夫1923年1月18日致萨法罗夫：组织、经费与农民问题（604–607）",
+      "originalTitle": "Aralov’dan Safarov’a, 18 Ocak 1923: Teşkilât, para ve köylülük (604–607)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-aralov-january-assessment.json"
+    },
+    {
+      "id": "thif-ch04-aralov-january-conclusion",
+      "title": "阿拉洛夫1月长信续：政治基础、人员审查与工作建议（607–612）",
+      "originalTitle": "Aralov’un Ocak mektubu devamı: Siyasî zemin, kadrolar ve çalışma önerileri (607–612)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-aralov-january-conclusion.json"
+    },
+    {
+      "id": "thif-ch04-january-attachments",
+      "title": "阿拉洛夫长信附件：H.的报告与匿名形势评估（613–616）",
+      "originalTitle": "Aralov mektubu ekleri: H. raporu ve adsız durum değerlendirmesi (613–616)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-january-attachments.json"
+    },
+    {
+      "id": "thif-ch04-aralov-february-march",
+      "title": "阿拉洛夫2—3月通信：审判、经济大会与宣传分歧（617–621）",
+      "originalTitle": "Aralov’un Şubat–Mart yazışmaları: Dava, iktisat kongresi ve yayınlar (617–621)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-aralov-february-march.json"
+    },
+    {
+      "id": "thif-ch04-nadi-talk-rozenberg-april",
+      "title": "3月18日纳迪谈话与罗森贝格4月15日来信（621–625）",
+      "originalTitle": "18 Mart Yunus Nadi sohbeti ve Rozenberg’in 15 Nisan mektubu (621–625)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-nadi-talk-rozenberg-april.json"
+    },
+    {
+      "id": "thif-ch04-rozenberg-last-letters",
+      "title": "罗森贝格4月29日及5月28日来信（625–628）",
+      "originalTitle": "Rozenberg’in 29 Nisan ve 28 Mayıs mektupları (625–628)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-rozenberg-last-letters.json"
+    },
+    {
+      "id": "thif-ch04-istanbul-unification",
+      "title": "伊斯坦布尔小组的代表权与统一组织争论（629–634）",
+      "originalTitle": "İstanbul grubunun temsili ve birleşme tartışmaları (629–634)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-istanbul-unification.json"
+    },
+    {
+      "id": "thif-ch04-sarki-april-report",
+      "title": "沙尔基的4月报告与萨利赫后续活动（634–637）",
+      "originalTitle": "Şarki’nin Nisan raporu ve Salih’in sonraki faaliyetleri (634–637)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-sarki-april-report.json"
+    },
+    {
+      "id": "thif-ch04-salih-september-assessment",
+      "title": "萨利赫9月1日组织报告：政治局势与社会力量（638–643）",
+      "originalTitle": "Salih’in 1 Eylül örgüt raporu: siyasî vaziyet ve toplumsal güçler (638–643)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-salih-september-assessment.json"
+    },
+    {
+      "id": "thif-ch04-salih-september-conclusion",
+      "title": "萨利赫9月报告：工作策略与个人经历（644–647）",
+      "originalTitle": "Salih’in Eylül raporları: taktika ve şahsî tecrübe (644–647)",
+      "partId": "ch04",
+      "dataUrl": "translations/books/thif/thif-ch04-salih-september-conclusion.json"
+    },
+    {
+      "id": "thif-ch05-eastern-secretariat",
+      "title": "原书第649–652页",
+      "originalTitle": "s. 649–652",
+      "partId": "ch05",
+      "dataUrl": "translations/books/thif/thif-ch05-eastern-secretariat.json"
+    },
+    {
+      "id": "thif-ch06-bibliography-a-k",
+      "title": "原书第653–655页",
+      "originalTitle": "s. 653–655",
+      "partId": "ch06",
+      "dataUrl": "translations/books/thif/thif-ch06-bibliography-a-k.json"
+    },
+    {
+      "id": "thif-ch06-bibliography-l-z",
+      "title": "原书第656–657页",
+      "originalTitle": "s. 656–657",
+      "partId": "ch06",
+      "dataUrl": "translations/books/thif/thif-ch06-bibliography-l-z.json"
+    },
+    {
+      "id": "thif-ch06-articles-archives",
+      "title": "原书第658–660页",
+      "originalTitle": "s. 658–660",
+      "partId": "ch06",
+      "dataUrl": "translations/books/thif/thif-ch06-articles-archives.json"
+    },
+    {
+      "id": "thif-ch07-index-a-g",
+      "title": "原书第661–663页",
+      "originalTitle": "s. 661–663",
+      "partId": "ch07",
+      "dataUrl": "translations/books/thif/thif-ch07-index-a-g.json"
+    },
+    {
+      "id": "thif-ch07-index-g-o",
+      "title": "原书第664–666页",
+      "originalTitle": "s. 664–666",
+      "partId": "ch07",
+      "dataUrl": "translations/books/thif/thif-ch07-index-g-o.json"
+    },
+    {
+      "id": "thif-ch07-index-o-z",
+      "title": "原书第667–669页",
+      "originalTitle": "s. 667–669",
+      "partId": "ch07",
+      "dataUrl": "translations/books/thif/thif-ch07-index-o-z.json"
+    },
+    {
+      "id": "thif-ch08-backcover",
+      "title": "封底介绍（出版方文字；无印刷页码）",
+      "originalTitle": "Arka kapak yazısı (numarasız)",
+      "partId": "ch08",
+      "dataUrl": "translations/books/thif/thif-ch08-backcover.json"
     }
   ],
   "parts": [
@@ -1064,6 +1834,11 @@
       "id": "frontmatter",
       "title": "前置文字",
       "originalTitle": "Ön metinler"
+    },
+    {
+      "id": "ch00",
+      "title": "封面、版本信息、作者简介及原书目录",
+      "originalTitle": "Kapak, künye, yazarlar ve içindekiler"
     },
     {
       "id": "ch01",
@@ -1084,6 +1859,46 @@
       "id": "ch04",
       "title": "第四章　关于土耳其人民共产党第二阶段（1921—1922）的新获资料",
       "originalTitle": "DÖRDÜNCÜ BÖLÜM — THİF’NIN İKİNCİ DÖNEMİ (1921–1922) HAKKINDA YENİ ERİŞİLEN BİLGİLER"
+    },
+    {
+      "id": "ch05",
+      "title": "附录　共产国际东方书记处",
+      "originalTitle": "EK — KOMİNTERN DOĞU SEKRETERLİĞİ"
+    },
+    {
+      "id": "ch06",
+      "title": "参考文献",
+      "originalTitle": "KAYNAKÇA"
+    },
+    {
+      "id": "ch07",
+      "title": "人名索引（所列数字为原书印刷页码）",
+      "originalTitle": "AD DİZİNİ"
+    },
+    {
+      "id": "ch08",
+      "title": "封底介绍（出版方文字；无印刷页码）",
+      "originalTitle": "Arka kapak yazısı (numarasız)"
+    }
+  ],
+  "downloads": [
+    {
+      "label": "中土对照 PDF",
+      "url": "translations/books/thif/downloads/bilingual.pdf?v=115d7399a834",
+      "sha256": "115d7399a83465a19ace309a5a12768e683e43dde5f6eb8439bc4a585132b6fc",
+      "bytes": 5536017
+    },
+    {
+      "label": "土耳其语 PDF",
+      "url": "translations/books/thif/downloads/tr.pdf?v=175b875b509f",
+      "sha256": "175b875b509fdde144658d8affa01fb04d571aa597085c076f2ce658dbdf959f",
+      "bytes": 2803947
+    },
+    {
+      "label": "中文 Markdown",
+      "url": "translations/books/thif/downloads/zh.md?v=e6097ee57a0b",
+      "sha256": "e6097ee57a0b097cfbe7da65ab4ea3f2ef645562786ed96e8368ddff93a29422",
+      "bytes": 2183283
     }
   ]
 }

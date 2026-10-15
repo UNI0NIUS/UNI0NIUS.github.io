@@ -1,7 +1,710 @@
 {
   "status": "in-progress",
-  "scope": "Fourth-edition preface only; printed xviii–xxi",
+  "scope": "Prefaces, contents, abbreviations, introduction, chapters 1–2 and chapter 3 sections I–II; through printed 168",
+  "counts": {
+    "units": 743,
+    "notes": 397,
+    "sections": 65
+  },
   "sourcePdfSha256": "cd3fc9691d9bd4a5b7b3f10636a84eb27a14627282f2344af2f36c53b2ee8849",
+  "batches": [
+    {
+      "batch": "z2013-preface1-part1",
+      "alignedSha256": "bbad76fab9884c7369328cb6d65cd108ca6afa2b24e2fdd6658dc0d454686e1a",
+      "editorialNotes": [
+        "原序写于1997年；本批所述迄今、目前等时间判断均属于作者写作时的视角，不改写为2026年的研究现状。",
+        "原页码由2013版扫描确定；跨页词合并，但保留每段所涉及的全部罗马页码。PDF页序与原页码分开记录。",
+        "zendeka、ilhad作为历史指控与工作译名处理；不将作者括注中的hérésie/athéisme擅改为现代法律分类，也不一概等同于irtidad。",
+        "原书第三段附近的中心权力概念以中央权力/中央政府译出；muhalefet按语境为反抗/反对，不暗示现代政党反对派。",
+        "本批止于xi页末的研究史段落；xii—xvii的原序后半部分尚待处理，不标为完整原序。"
+      ]
+    },
+    {
+      "batch": "z2013-preface1-part2",
+      "alignedSha256": "49824ad1844d12a89ecea4d1cc38c1154bcbfc1d09801477cedded30b4901adc",
+      "editorialNotes": [
+        "原注10的正文跨PDF14—15，已按原注号接合，未误并入正文。每一原注保留原编号与原书页码。",
+        "原正文Il Fromaggio和Il Cosmodi、Domenigo，原注14的im einer、christilichen、Kontaktzione，原注15残缺题名v nacale，原注18年代1358/58-1416，原注23不配对括号均能在扫描上读到。本次照录，不凭外部记忆静默订正。",
+        "原正文Zhukov、注15Zukov，以及Fuad/Fuat、Bedreddin/Bedreddîn等异拼在土文保留；中文同一语境中的姓名保持一致。",
+        "原注10书目括号未闭合，土文保留；中文通过中文书名与括注标点处理，不将这种排印异常变成译文句法。",
+        "作者对业余研究的批评、无法利用俄语和塞尔维亚语文献的说明、对史料条件的限制均照译；不替作者补做未曾利用的研究。"
+      ]
+    },
+    {
+      "batch": "z2013-contents",
+      "alignedSha256": "ce3392f880ee17acbfc7bcd40f9fc64f36cf727740a722770d17b1464e6ee68a",
+      "editorialNotes": []
+    },
+    {
+      "batch": "z2013-abbreviations",
+      "alignedSha256": "3cd77b45c555247a44081af7b0ab75cff0beb95ff68d2e0d79e844bb39f15208",
+      "editorialNotes": []
+    },
+    {
+      "batch": "z2013-intro-part1",
+      "alignedSha256": "13b239fdc2cb604eb699b880bf926aa5f76f26ffc23d90dff895cfd1815bf0a8",
+      "editorialNotes": [
+        "Source claims and classifications are translated as the author's historical argument; note1 explicitly distinguishes politicized orthodoxy from Sunni faith and practice.",
+        "Original 'Orta Arabistan' retained as 阿拉伯中部; no geographical emendation substituted into the source.",
+        "Cross-page paragraphs kept complete: PDF34–35 and PDF35–36. Stops before the next paragraph on printed p.3, y387.8.",
+        "Introductory note numbering restarts at1, independently of the original preface notes."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part2",
+      "alignedSha256": "7639b579c0c7047d8010d954b74018dff599e1dff53bde7a6cbad2dda2dcb823",
+      "editorialNotes": [
+        "Completes introduction sectionI through printed p7 above sectionII; sectionII heading/body are not included.",
+        "All source years, volume numbers and anomalous bibliographic strings are retained. No external bibliographic verification is claimed.",
+        "Printed p4 says more than150years since1880s; printed p5 dates the el-Meşrık articles to1880s while note12 says1897/1898. Translator notes distinguish these source anomalies from OCR repairs.",
+        "Note17 crosses printed pp6–7 and is fully included, without including note18 belonging to the next section.",
+        "The author's current/latest/unmatched research assessments retain his historical point of view, not the present research situation."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part3",
+      "alignedSha256": "a5842f14dd254e5ca870f42ad8a900fe074a255d1f2885a9ec111f2a56364571",
+      "editorialNotes": [
+        "Covers sectionII heading on printed p7 through end of p11; sectionII remains incomplete.",
+        "Cross-page paragraphs and notes20/23 are complete; excludes note17 already included in part2.",
+        "Historical etymologies and author attributions are represented as the cited writers' claims. Original Mazdekizm with circaAD260 is retained and explicitly marked for historical correction in the linked external-check record.",
+        "EI¹ in note23 and EI² in note29 are distinct source editions, not OCR EP.",
+        "dehrî is explained in source p11 as denying creation and affirming eternal nature; use 达赫里论者 as a working label, not an assumed organized sect or a simple synonym for every mülhid.",
+        "Internal locator for note27 resolves to note23/Peuch p630. External bibliographic verification remains pending."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part4",
+      "alignedSha256": "e8baf7bc28280ea621bd71fdd2980e80f2c8fb248f88bdfc554d87c41766d723",
+      "editorialNotes": [
+        "Completes sectionII through printed p16 before headingIII; four cross-page paragraphs retained as single units.",
+        "II.Hisam and dates724-743 are source readings, not silently corrected; historical correspondence checked against TDVIA; source ordinal conflicts with dates.",
+        "Note33 source author Ahmed b.Muhammed el-Gazzali retained; author attribution checked against TDVIA; specific1325imprint remains unchecked.",
+        "Note41 Chinese follows quoted Turkish Qur'an rendering; does not claim an established Chinese translation.",
+        "Note43 source terininin retained. It explicitly records Kutluer's disagreement with Gabrieli, so main text is not presented as uncontested scholarship.",
+        "Internal note references39->23,43->16,44->42,46->45 resolved; external sources remain to be verified."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part5",
+      "alignedSha256": "630c8360b166cd62907f4302241cd99650b45725e112501bffd92dc35ebb5026",
+      "editorialNotes": [
+        "Completes sectionIII.A through printed p21 before B; headingIII begins on PDF49 already visually inspected.",
+        "Preserves source quote as a separate indented paragraph; cross-page original note50 fully reunited.",
+        "Source malformed Islam'a icin retained in Turkish and interpreted in Chinese with explicit editorial note.",
+        "Source claims about Mazdakism/Manichaeism social origin and Shuu biyya remain author's analytical account; no claim of independently establishing those interpretations.",
+        "Note48 J.B.Serjeant retained; KNATCOM catalog identifies English1980editor as R.B.Serjeant. Turkish1992titlepage/pages remain unchecked. Internal locators48->47 and52->49 resolved."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part6",
+      "alignedSha256": "8bd7299654aea35c965bc8c5be50b1c6c1a0ebe3f5062f454607af60fa7a8594",
+      "editorialNotes": [
+        "SectionIII.B opening and B1 complete; ends before B2 on printedp23.",
+        "Names Miklas, Deyhuri and Reca corrected against scan rather than OCR Mildas/Deyhluri/Reci.",
+        "Preserves source repeated hakli olarak in p21; Chinese renders both evaluative phrases.",
+        "Notes53->49 and56->55 resolved; note56's explicit reference54 retained. Source Abdulehuseyn b.Kub and Babil(Medayin) flagged without silent correction.",
+        "Main text Mani's halifesi rendered religious successor, not Islamic sovereign caliph."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part7",
+      "alignedSha256": "2720a754217924c2d54e585ff95cfd62409aa4ee160f92835adf8fc7b3e81055",
+      "editorialNotes": [
+        "Original pp23–27 B2 complete. Note57 belongs to part6, excluded here. Note63 continued on next source page, joined once.",
+        "All five source pages visually read; corrected OCR Borasini/Babele/Mildas-like errors against scans. Original spelling, dates and bibliography retained.",
+        "Source 841 execution and 840 revolt dates retained, with attributed editorial comparisons in notes68/70. No wholesale chronology replacement.",
+        "Source note58 unmatched parenthesis and note72 Mystèresd’Eleusis retained; note60 M.Muhsin differs from note21 and remains unverified.",
+        "Descriptions of religious beliefs retain author/source attribution; Türk İshak is described as Iranian, the epithet reflects work among Turks."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part8",
+      "alignedSha256": "d23ffdfd25b2757d66304e2debc1e5dc42f3bebeb2f7c84901baf77e9acacbc8",
+      "editorialNotes": [
+        "III.C opening p28 only; p29 list/table and following paragraphs not yet integrated.",
+        "Source760s–900s/150years retained and explicitly compared with sourcep22 Mu‘tasim833–842; no speculative replacement.",
+        "Note73 retains distinction between surviving self-authored works and indirect testimony; no blanket rejection of all source material.",
+        "Source uluhiyyet rendered concept of divinity, not a claim that every participant denies God."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part9",
+      "alignedSha256": "99dca3225c58925e2ee4b48c5583936a532f03d091a8c44c6d8aefbb654d0a48",
+      "editorialNotes": [
+        "Source pp29–30 before C1 fully scan reviewed; table has8rows3columns and3questionmarks, OCR omitted2ofthose.",
+        "Preserves source identification/classification including HammadJewish; do not replace with presumed historical belief.",
+        "Table rendered fullwidth Chinese then Turkish to retain readable3column relationships; MD adds clearly identified translator headers.",
+        "Vajda204 web transcription found but truncated; JSTOR article text unavailable, insufficient evidence for silent emendations. Keep provenance question pending.",
+        "Numbered classification preserves source extra closing parenthesis in item3; Chinese syntactic cleanup disclosed."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part10",
+      "alignedSha256": "b701644cfd570aa1eb8c81e9491fcd566c4ddd7465d29f3203ea1c92ef62df91",
+      "editorialNotes": [
+        "III.C1 complete, printed30–33 before C2. Note88 onPDF66 belongs next section, excluded.",
+        "Conflicting accounts of Walid retained, including rebuttal of zendeka label. Sexual conduct is source allegation, not modern diagnosis; Chinese renders conduct rather than equating it with religious heterodoxy.",
+        "Hadi787 chronology inconsistent with TDV785–786: retained and annotated note82; no speculative replacement date.",
+        "Kuseri name, Barmakid genealogy/relations and forged-letter story remain source-transcribed with external verification pending. Pronoun kardesi understood as Jafar brotherFadl.",
+        "Shortreferences82/84 resolved to preceding Abduhuseyin article268 and Vajda186."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part11",
+      "alignedSha256": "009ce3107b350c0486f8ac01c720078ea9a780553dfcdcc2e653b7aa0c5f0a10",
+      "editorialNotes": [
+        "III.C2 opening and Ibn alMuqaffa subsection complete; next Bashshar paragraph on printed36.",
+        "Note88 crosses PDF66–67; notes85–87 belong previous batch and excluded.",
+        "Ibn alNadim contemporary claim preserved and annotated; Ibn alMuqaffa762 death is documented variant, not declared a typo.",
+        "Book shelfmarks/editions preserved, not falsely marked independently verified. Mazdeist remains distinct from Mazdeki.",
+        "Long paragraph with notes96–100 remains one source paragraph and retains differing assessments of authorship, belief and political causes."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part12",
+      "alignedSha256": "4122daff0c04824b6ec30b6dcb274943ec3f4b14f7d9dc962c04816be7a644a7",
+      "editorialNotes": [
+        "Bashshar section complete, original36–38; three source paragraphs retained across page boundaries.",
+        "Dates778/783 and seventy-year lifespan retained as source statements; no independent chronological verification claimed.",
+        "Religious accusations and contradictory source accounts retained with attribution; author conclusions not presented as editorial findings.",
+        "Notes96–100 on PDF69 belong previous batch; note110 on PDF71 belongs this batch; notes111 onward excluded.",
+        "Bibliographic details transcribed from scans; cited original editions and authorship of note102 remain unverified."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part13",
+      "alignedSha256": "9c4ca75056aec5d664ec0d482672ac033901f3c96bbd9af5f10f117e063de481",
+      "editorialNotes": [
+        "Four source paragraphs through poet list; Ma’arri starts next packet.",
+        "Teacher appointment and alAkhtal chronology contradictions preserved and annotated, not silently corrected.",
+        "Notes110 and116–117 excluded; note115 belongs paragraph spanning printed39–40.",
+        "Original author inference of political protest retained as author argument.",
+        "Original cited essays/pages and other detailed names/dates remain pending independent verification."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part14",
+      "alignedSha256": "22d0bece7b0bb097fcc357fbb828101077801add8b88efad3814a1226a72a8f1",
+      "editorialNotes": [
+        "III.C2 literary zandaqa transcription/translation complete; III.C3 begins PDF75 printed42.",
+        "Three original prose paragraphs and notes116–122 retained, including full bibliography.",
+        "Author judgments and historic accusations remain attributed; textual fidelity does not verify their truth.",
+        "Booktitles retained in Turkish transliteration; Chinese bibliographic titles are working translations.",
+        "Cited editions, author-name spellings, manuscript holdings, death-date variants and exact references remain subject to whole-book verification."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part15",
+      "alignedSha256": "949c52482e16c2b524b2e35a50f1f27bd4c20b8a82d116b5681b63f474810770",
+      "editorialNotes": [
+        "III.C3 eastern cases complete; next Andalus paragraph at PDF77 y87.5.",
+        "Note124 internal crossreference23 verified against existing packet3; original Goldziher essay not independently read.",
+        "Source biographical dates and claimed confessions are preserved as source reports, not editorial conclusions.",
+        "Full note134 bibliography and account of fragmentary preservation retained; titles/shelfmarks not guessed."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part16",
+      "alignedSha256": "17fc5ceb86b6151e5fd8a21c170175da4e54fcf8b0ba00c2cc0de96d28a7f1d6",
+      "editorialNotes": [
+        "Completes III.C3, original42–46; next III.C4 on PDF79 y56.7.",
+        "Preserves source11th-century and1064 claims while noting internal chronology conflicts with HakemII961–976 and appendixII10th-century heading.",
+        "Baqi ray/hadith discrepancy identified against TDV; original Fierro254 unavailable, no silent replacement.",
+        "AppendixII locator393–395 and abridgment policy inspected; not marked fully translated.",
+        "Fierro original8page essay located via JSTOR/ISAM index but fulltext retrieval failed; no fulltext verification claim."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part17",
+      "alignedSha256": "44571c8cfea383fd33e38e8db3f3ce353b0b59494ba2870931b56bc503b206a1",
+      "editorialNotes": [
+        "III.C4 opening and AbuHayyan paragraph complete, including divergent assessments in notes144–145.",
+        "Next IbnRawandi paragraph PDF80 y36.4; notes146–147 excluded.",
+        "Source lifespan/death dates and bibliography retained; no claim all original editions independently verified.",
+        "Note141 internal locator119 verified; source labels and contrary scholarly assessments both translated."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part18",
+      "alignedSha256": "1f26807aabbfe67004f3b279ae6d41a792204af51dbc92e6022019f8d14776e6",
+      "editorialNotes": [
+        "IbnRawandi complete through counterargument by Kutluer, preserving deist/atheist distinctions and source attribution.",
+        "Source10th-century820/830 mismatch retained and annotated;903 versus910 deaths not silently harmonized.",
+        "Internal note150133 is wrong locator: relevant Kraus citation actually147.",
+        "Crosspage original note147 preserved whole; original cited essays and Hayyat personal-name spelling still pending independent check."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part19",
+      "alignedSha256": "db505df70782f69a02eb10669e218aba24cf410628449ce20765ba20c2e8840f",
+      "editorialNotes": [
+        "III.C4 finished; preserve deist, atheist, and dinsiz distinctions.",
+        "Note159 qualifies overbroad transmission claim via extant works list; cited original Kraus papers not yet inspected.",
+        "Note160 internal locator scanned at PDF249/original216; note161 age resolves to Fakhry1989 in152, not Corbin1964.",
+        "Gabrieli title variant zendeqa and Mehâriku title gloss preserved as printed."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part20",
+      "alignedSha256": "7b074127ca78ee44831680839ce47c32c2d9e5c21bf933e650a631fced8f895c",
+      "editorialNotes": [
+        "Preserve author’s contested historical synthesis as argument, not translator endorsement.",
+        "Two-line Fuzuli quotation retained with explicit linebreaks in both languages.",
+        "Mutasavvif/sufi distinction follows author; not generalized into universal definition.",
+        "Suhreverdi1196 and13th-century placement retained with note164 correction; IbnArabi1241 with165 correction.",
+        "Corbin1961 in162 and1971 in164 retained as source edition variants; originals not yet checked."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part21",
+      "alignedSha256": "556cea1f7ebde61d3f24457bf10354394021ce9c9796426d3a80fa7fe593a7e9",
+      "editorialNotes": [
+        "FinishIII.C5; preserve attributed accusations, opposed judgements and author’s sweeping reception claims as source text.",
+        "Original169 crossesPDF88–89;179 long complete bibliography retained.",
+        "Note167 records conflicting Junayd/Hallaj account; note174 retains thirty versus36/38 and1191 versus earlier1196.",
+        "Note179 records bibliographic title-order and year discrepancies without silently rewriting source.",
+        "All original historical sources and cited edition page claims remain subject to final reference verification."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part22",
+      "alignedSha256": "1b298246db968a03d1a890044dd369469d24c2b1e7a3f7d2447ccb0c1ac657be",
+      "editorialNotes": [
+        "SectionIV complete with historical quotation and all original notes181–194.",
+        "Note185 preserves AH163(785–786), flags calendar mismatch via163=779–780 without claiming event date verified.",
+        "Note191 retains29–30 but directs reader to original33/PDF66, scan reviewed.",
+        "Mihna institution wording retained as author interpretation, scope qualified in193; original Hitti and Masudi passages still pending.",
+        "Age188 and Egani volume/page sequence188–190 retained; do not silently replace with presumed Tabari citation."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part23",
+      "alignedSha256": "9eb20d060d85a74f46f31ba0f8f05bd89b24bbddd33d8e0e324896024fb9ec92",
+      "editorialNotes": [
+        "SectionV complete, preserving accusations as historical reports/quotes.",
+        "Note196 clarifies Hayyat full name for this paragraph and earlier147 without silently correcting source.",
+        "Note197 flags impossible Gazzali/IbnRawandi contemporaneity;204 flags Jami1495 vs1492.",
+        "Original ibaha explanatory definition preserved; distinguish ittihad(union) from hulul(indwelling).",
+        "Note203 identifies margin-printed companion work, not a vague reference to nearby text."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part24",
+      "alignedSha256": "74879f419ecded90b4c306db53f2da7b94084313eef652e750dee1585eb4f3dc",
+      "editorialNotes": [
+        "VI.A–C complete; authorial historical generalizations and causal hypotheses retained as such, not independently validated conclusions.",
+        "Preserve distinction between anti-Arabist and anti-Islamist in historical context; the latter is not translated as modern anti-Islamism.",
+        "Bıçak sırtı literal knife-back image retained, rather than silently replacing with knife edge.",
+        "Note205 is bibliographic cross-reference, cited article full text/page spans remain pending."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part25",
+      "alignedSha256": "a57b4b503905277c6bd4229069cf640c07f60fd5da51fa66954503402f3dad8d",
+      "editorialNotes": [
+        "VI.D complete. All death-penalty statements remain historical quotations, reported juristic positions or authorial interpretation; not contemporary guidance.",
+        "Notes208–209 identify verse locations and clarify two passages versus two verses without silently altering source.",
+        "Note211 preserves authorial skepticism and chronology; verified modern hadith identifier, Arabic zanadiqa term and narrator name; flags869/870, does not claim authenticity adjudicated.",
+        "Note216 flags body/bibliography attribution mismatch; original edition not consulted.",
+        "Note212 geographic generalization remains source claim pending verification; note213 unclosed parenthesis preserved in Turkish.",
+        "Note211 two original paragraphs preserved in text data."
+      ]
+    },
+    {
+      "batch": "z2013-intro-part26",
+      "alignedSha256": "1a75836dc089012b3da73c7fb7fbb00f64047af0894fdc3a0289a1ca74ce7d64",
+      "editorialNotes": [
+        "Introduction text complete throughprinted80; whole-book semantic/bibliographic final review not complete.",
+        "Original list numbering and sixa–fitems retained; source saysfive points, annotatedintranslation.",
+        "Footnote224 fullarticle17–62 versus cited17–43 may be selectedrange, not declared error.",
+        "Footnote228 preservesgeneralclaim but notesOzen specificMollaLutfiargument remainswithinHanafi.",
+        "Footnote229 flagscentury andAfshin deathdiscrepancy; sourceMasudiIV58 notconsulted.",
+        "Footnote233 Peuch/Puech spelling flagged withoutsilentlyreplacing source.",
+        "Nextchapterprinted81 resetsnotes1; must usechapter-specificunit/noteids andrenderer/audit support, notcontinueintro numbering."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part1",
+      "alignedSha256": "eec080b0db6c96d61f3aa0dfebb6cbbbf8ecefd0212d065a9016379f42387b37",
+      "editorialNotes": [
+        "SectionI complete. Distinguish ideology/mentality, official/imperial, state/religion; preserveauthorclaimsandclassicalperiodlimitationinnote3.",
+        "Sourceprinted82 ileri sürümüşlerdir andprinted84 Bu ideolojisinin retainedasprintedratherthansilentstylisticrepair.",
+        "Chaptertitleconsolidateschapterlabelandtitleononeheading, bothsourceelementsretained.",
+        "start_chapter flushespriornotesandresetsfootnotecounter; IDs andMarkdownlinks usech01namespace.",
+        "Bibliographic records partiallyverified, originaleditions/content interpretation notdeclaredverified."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part2",
+      "alignedSha256": "d70517697689e744f76598fdfc255ef713f160bb527aa1e264094e74538df5e5",
+      "editorialNotes": [
+        "II.A.1 text complete; preserve three roots and three characteristics separately.",
+        "Original Jordanes eyewitness attribution retained; source-specific translator correction in note6, checked Getica178/183.",
+        "Inalcik1976 retained with1966bibliographic correction; Ogelpublisher/Hassanfirstedition unresolved.",
+        "Retain sourceAttila/Atillaspellingvariation. Töre translated as customary norm; authorstatistinterpretationretained."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part3",
+      "alignedSha256": "8e2b34f3eaff1f74504d260f648f6aff2bb5b30c6b4609f3653fd5b8478fc204",
+      "editorialNotes": [
+        "II.A politicalrootscomplete. KeepauthorqualifiersratherthanendorsecontestedByzantineinfluenceorthree-rootssynthesis.",
+        "Note8crossreferencepoints tosamechapter note5, notintro5.",
+        "Note9preservesincompleteGaryand1994andItaliantitlevariants; translatorannotationrecords1999GaryLeiserandcatalogtitle.1931endpageunresolved.",
+        "Note10forwardreferencewillbecheckedwithfollowingchaptersections."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part4",
+      "alignedSha256": "689cfc8667e5b16ea7a6586a0798638dbf88a9aa77565698b4f066d96473f675",
+      "editorialNotes": [
+        "SectionII.B andentireIIhistoricalrootstextcomplete.",
+        "Preserveauthorinterpretiveclaimsaboutbookish/popularIslamandstatecentralizationwithoutturningthemintotranslatorassertions.",
+        "Printed90incompletesentenceretained;Chineseexplicitlystateslimitedcontextualrendering.",
+        "Printed92yaşıyorlardıretained, contradictionwithnomadic/settledcomparisonflaggedratherthansilentlynegated.",
+        "Printed91firstMuslimTurkstateandSeljukconversionchronologyqualifiedinChineseeditorialnote;distinguishadoptingSunniIslamfromfirstconversion.",
+        "Preserveoriginalnote12Literatue/DeWeewse,13Eeastern,15unclosedtitleparenthesis,16Ottomanand24/2;verifiedvariantsannotated.",
+        "Thirdgenerationclaim,Vefaiattributionsandbroadnarrativewillneedwholebooksemantic/referenceassessment."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part5",
+      "alignedSha256": "9f954ddb8c4367bf7c1ccdb2e82b3d28756f116ae2a1f5f703ae11d3660ed113",
+      "editorialNotes": [
+        "III.A.1 text complete; nextIII.A.2 printed97.",
+        "Preserveprinted1055andperiodafterfirstquotation;annotateMawardideath1058.",
+        "Mulkmeanssovereigntyandauthorityhere,milletmeansreligionratherthanmodernnation.",
+        "Dreamgenealogyisauthorinterpretation;Daniel4hasland-centeredtree,nottreefromnavel.",
+        "Originaleditionsinnotes17,18,20,21notyetfulltextverified;metadataisnotquotationverification."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part6",
+      "alignedSha256": "61078a531608180555ea5d7dbf6eab158ebe9ff96211dfac81acee175db57767",
+      "editorialNotes": [
+        "III.A.2textcomplete;III.A.3onlyfirstparagraphcomplete.",
+        "Retainauthorstatistpropertyandconfiscationclaimsasauthorinterpretation;wholebooksemanticreviewpending.",
+        "Evlatlikvakifmeansfamilyendowment,notadoption.",
+        "Nizamialemtranslatedwithauthorrestrictiontointernalimperialorder;notunqualifiedworldorder.",
+        "Note23agepointsbacktoTuranCihanHakimiyetiinnote22.",
+        "Note24printedIII/2preservedandannotatedXIII/2fromofficialjournal;89–94notnecessarilyerroneousbecausecitedsubset.",
+        "Note25InalcikPadişahquotationstillawaitsoriginalIAarticle."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part7",
+      "alignedSha256": "6c2c089d2e9ba014b4a15a8f8cccf80ccbe752bed806da1f55cd863e162b2389",
+      "editorialNotes": [
+        "III.A.3continuesatprinted102;notsectioncomplete.",
+        "PreserveKayılineageasclaimandcaliphateasauthorargument,notverifiedformaltransfer.",
+        "Cecaumenosidentityuncertain;conditionalchronologyannotationfromscholarlyKekaumenosedition.",
+        "Distinguishauthorsblanketmevzujudgmentfromhadithcollectionevidence;Bukhari7142parallelverified.",
+        "Note31Optium,13–54,11–130andstrayparenthesispreserved;authorsownbibliographylists13–52/111–129.",
+        "Note32XXI–XXIIIpreserved,annotatepublisher23.",
+        "OCRforthewordspacingcorrectedfromscan;notasourcemisprint.",
+        "Fullcitededitions26–30,33andFleischer31remainpending."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part8",
+      "alignedSha256": "074df89fc4514ff691cad47df5173d6646a66b30edb1127b2b06786972cfa07e",
+      "editorialNotes": [
+        "III.A.3textcomplete;nextIII.A.4sourceprinted105.",
+        "Retainauthorclaimsaboutcaliphate,inheritedfamilysovereigntyandpopularobedienceasinterpretation.",
+        "Lutfi1564notclassifiedaserror:TDV1563butTTKcatalogandTUBAscholarlyeditionmetadata1564.",
+        "KilicarslanIIhonorificandKeyhusrevregnalrangesnotchanged;divisionbetween11sonsconfirmedinTDVbutcitededitionspending.",
+        "Formaltransferofcaliphateisnotindependentlyverifiedhere;sourcefocusesondefactoideologicalstatus.",
+        "Originalnotes34manuscript,35documentcollectionand37bookpagesawaitfulltextverification;36shorttitleantecedentmatchesnote24."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part9",
+      "alignedSha256": "4db70b6cd6003e266af204fb5c9863d1fcf3779381f63340e987db9949447cbd",
+      "editorialNotes": [
+        "III.A.4andentireIII.Apoliticalconceptstextcomplete.",
+        "Ottomanquotationinsourcehasnoarchivalreference;transcribedfromscan,noindependentdocumentidentityclaim.",
+        "RetainvâsılinOttomanquotation,notreplacebyexpectedvâcibwithoutwitness.",
+        "Quranquotationlocator4:58verifiedandannotated.",
+        "KeepteorikolarakandexceptionsqualifiersinChinese;milletsystemnotmodernnationality.",
+        "Authorbroadclaimsaboutreligious/culturalautonomyandsocialobedienceretained;finalhistoricalreviewpending."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part10",
+      "alignedSha256": "cc32707fee0b28ca1ca0aa24f522688830075fa99ea37442ff047aa4b8c1ffe8",
+      "editorialNotes": [
+        "III.B.1textcomplete;authorinterpretationsonulema,theocracyandconversionretainedwithoutclaimingconsensus.",
+        "Source141İslâm’ınresmîideolojisininretaineddespitegrammar;Chinesecontextualreadingexplicit.",
+        "Source1395Teftazaniand1405IbnKhaldunretained;Chinesevariantannotations.",
+        "Source42pages62–870visuallyconfirmed;notguessedreplacement.",
+        "Source40title1540retained,authoritativepublishertitle1541annotated."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part11",
+      "alignedSha256": "5bdbaa1aa91706d951932048cf476780b0053d073a0cd985d173d56da5992068",
+      "editorialNotes": [
+        "III.B.2openingonly;nextOruçquotationnotyetincluded.",
+        "Note47tenverselinespreserved;İmtsâlspellingfromscan,notsilentlyregularizedtoİmtisâl.",
+        "PoemattributiontoMehmedIIIisanargumentreportedbyauthor,notindependentlyresolved.",
+        "Note45HeatandmissingEarlyandunclosedparenthesisretainedinTurkish;Chineseclarifications.",
+        "Printed112footer488.6excludedasnumericfooter,notbody.",
+        "IlayliteralwordofGodvsauthorsparentheticalnameofGodbothpreservedinChinese."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part12",
+      "alignedSha256": "adbdb16b679674e379154001a9174726cbb8340fda07c4816f5a8311f3d5ae85",
+      "editorialNotes": [
+        "III.B.2andIII.B.3textcomplete.",
+        "Oruçma‘rûfretained;Chinesecontextualreadingwithparallelmağrurfullydisclosed,noconflationwithoriginaleditionverification.",
+        "Note52crosspagesfullyincluded;sourceotoman/Dervisheand45–66preserved.",
+        "Note53Trucssourceprintingretained;correctmeaningTurcsChinese.",
+        "Authorinterpretationsandquotedpolemicalclaimsretainedasreportedhistoricalrhetoric,noteditorialendorsement.",
+        "Printed116footer489.1excluded.",
+        "Note55abbreviatedreferencebacktoFeridunMünşeat,original1265editionpagespending."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part13",
+      "alignedSha256": "23cf5642acc5d0dd6751728a60521f9159e651326d2360cfc241d92be80538de",
+      "editorialNotes": [
+        "III.B.4andentireIIItextcomplete.",
+        "Ottomanquotationtranscribedfromscan;ferâğbillah/mündefi‘retainedandcontextualChineseexplicitlyflagged.",
+        "KeepauthorpoliticalcompetitionexplanationandclaimsaboutfirstSunnivKizilbashdivisionasauthorclaims;wholebookhistoricalreviewpending.",
+        "Note59Bacqu,-GrammontandLeurVoisinssourceformsretained."
+      ]
+    },
+    {
+      "batch": "z2013-ch01-part14",
+      "alignedSha256": "fa9b40ec089f76438271bcd618f1907af0a56a3da96c382b707d5660498b3a81",
+      "editorialNotes": [
+        "ChapterIoriginal81–122textcomplete;finalsemantic/referenceQAincomplete.",
+        "AuthorcautionsoninterpretationinIVopeningfullypreserved.",
+        "Source153düzenininand154mixedsyntaxretained,Chineserenderscontextwithoutclaimingtextualemendation.",
+        "Devletçilikmeansstateprimacyhere,notmodernnationalismoreconomicstatism.",
+        "Wholebooknotcomplete;nextchapter2note numberingrestarts1."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part1",
+      "alignedSha256": "9eb94085eaa1813c6237e79fe510e9618993885a6cbf3ee33b288fe52ae43a07",
+      "editorialNotes": [
+        "ChapterlabelandtitlecombinedasinchapterI;notecounterrestarts1.",
+        "Note1spansoriginal124–125:fulltextretainedincludingunclosedsourceparenthesis;Chineseclosureexplicit.",
+        "Ruhban/rahbaniyyetdistinguishedasclergy/monasticism;authorhadithattributionretainedwithverificationpending.",
+        "Sourcevııromanpage normalizedvii.",
+        "AuthorShiiclericalchronologyandcomparativestateclaimsarenotindependentlyvalidated."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part2",
+      "alignedSha256": "a7e41b1546c3324add52f71b2705c0eded730bdd1c736ef8493ef32da6ab55b1",
+      "editorialNotes": [
+        "Crosspageparagraphs159–160and160–161joinedwithallsourceanchorsretained.",
+        "Sourcecamii/camiide/camiilerispellingsretained.",
+        "Note7source1223/FuveriretainedandcontrastedwithTDV1234/Fuvati.",
+        "AhmadibnHanbalpersecutionchronologyannotatedinChineseunit12withoutaddingoriginalnotenumber.",
+        "AuthorclaimsonNizamiyaofficialShafiischoolandstatecurriculumcontrolretained,pendinghistoricalreview."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part3",
+      "alignedSha256": "ae602277b1a3008f6c7e23d3deba5bae9e4196adc2c0c8f9680ff63228116b8e",
+      "editorialNotes": [
+        "Source129–132fullparagraphsretained;source132lastparagraphcontinuesnextpacket.",
+        "Note8and10sourcebibliographictypos/unclosedquoteexplicitlyretainedandannotated.",
+        "Note11fullqualificationofpatronageessential,notreducedtonepotism.",
+        "MollaLutfiversusLutfiPashadistinguished;authorqualificationsonMollaLutfikept.",
+        "Note13Ottomanquoteitalicsrestored;bothcitededitionsnotyetread."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part4",
+      "alignedSha256": "0a6736678b63e9a659b7fa805348bc42432ec4a416b652af5b5260cdd1fc14fe",
+      "editorialNotes": [
+        "Authorclaimsaboutdecline,perfectharmonyandstate/religionretainedasauthorargument,notendorsedasindependentfact.",
+        "Part3note13alreadyprocessed;startswithunprocessedlastparagraph132.",
+        "Hodgsonquoteunpairedclosingbracketretained;Chineseeditorialnoteexplains.",
+        "Fouradministrativefunctionsretainedasfourseparatelistitems.",
+        "SourceEnglishbooktitleİslâmicretainedwithTurkishdiacritics."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part5",
+      "alignedSha256": "6e710089eeb08fb232f67b8cfbfa59ba28569b6ba11ad2dfe6eae25ecfa6fcdd",
+      "editorialNotes": [
+        "MontaguquotationtranslatedfromprovidedTurkish,Englishletter27.2differencesexplicitlynotedwithoutreplacingauthorquotation.",
+        "AuthorMontaigueandimparatorlugununretained.",
+        "Note24fullhistoriographicalqualificationretainedincludingcriticalassessmentofKara.",
+        "SourceTeftazani1395retainedwith1390referenceannotation;source62–87crossreferencesearlier62–870withoutquietemendation.",
+        "Note24unmatchedclosingparenthesisretained.",
+        "137lastbodyparagraphnotyetprocessed;notes23–24fullyprocessed."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part6",
+      "alignedSha256": "ddbd4070a39d162296d1e4b043d3e16547ae53049e02dcfd2ba093d5fbb17820",
+      "editorialNotes": [
+        "SectionItextcomplete;nextsectionIIstartsoriginal139,notnewchapterandnoteresetnotneeded.",
+        "Authorqualificationsonrational/transmittedsciencesdeclinethesisandKatipCelebitestimonyfullypreserved.",
+        "IbnKemal1535sourcepreservedwithTDV1534annotation.",
+        "Closingparagraphquestionsremainquestions;notconvertedtohistoricalconclusions."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part7",
+      "alignedSha256": "cfd5221be09c890ef70972a20c7ed78ef56bdf81d92878349acd270d3067cc6a",
+      "editorialNotes": [
+        "SectionIIbeginswithoutchapterreset;notescontinue26.",
+        "Distinguishzuhdasceticism,tasavvufmysticism,tarikatorder;insanikamilnotmerelymatureperson.",
+        "AuthorhistoricalsynthesisandclaimaboutallSufitheoriesretainedasauthorinterpretation.",
+        "Gilani1167vsTDV1166andHamdun885vs884annotated;remainingdatespending."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part8",
+      "alignedSha256": "2790c5251dd879cf21e053e37bc4364485c130d67917556b46ea9fc4393a333e",
+      "editorialNotes": [
+        "Note30crosspage141–142fullyjoined.",
+        "Vahdetivucudandvahdetimevcudkeptdistinct;authorspantheisminterpretationpreservednotgeneralizedtoallSufism.",
+        "IbnArabideath1241vs1240andChitticktitleorderannotated.",
+        "SuhrawardiMaktul1191inthispassagecontrastsintro1196;notasamepersonastheSuhrawardiorderfounder.",
+        "Originalcontradictionnoneindigenous/majorityimmigrantsretainedasauthorwording.",
+        "Source176lastparagraphunprocessed;note33alreadyprocessed."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part9",
+      "alignedSha256": "abb1de31ee6d009ba29e789c2426161420a52fe3b0ed5bc5f3aa4a0bfc70d4db",
+      "editorialNotes": [
+        "Source177numericfooter1441excludedfrombody.",
+        "Doctrininiinunit62grammaticalformretainedasscan;notquietlycorrectedtodoctrininin.",
+        "Authorsunqualifiedclaimsaboutordersnotconflictingwithstateormedresepreservednotendorsed.",
+        "MollaIlahideath1494versus1491annotated;Halidiyye19ccronologyannotatedwithoutrewriting17csource."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part10",
+      "alignedSha256": "1df8fe9fae5dd50f8e0001ef194fbaa5c93174f94474a4eb8151ff834a186879",
+      "editorialNotes": [
+        "Note39crossoriginal146–147fullyjoined;printedFrenchlairbalkaniquesretainedandannotated.",
+        "Dissedentsourcebibliographyspellingretainedandannotated.",
+        "HaciBayram1429/1430differenceannotatedwithoutrewritingoriginal.",
+        "Unit66bothrefersauthornamedmovementsandheterodoxconception;notquietlyrewrittentoBektashiandothergroups.",
+        "Finalparagraph180y310continues181andispending."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part11",
+      "alignedSha256": "8c5cb8c7dd38ea7dfbf25cbec78dee739710e085e8c517fc66490874e7a0c11d",
+      "editorialNotes": [
+        "Crosspageunit68and71joined;originalpage149lastparagraphpending.",
+        "SourceungrammaticalBueğilimlerinretained;Chineserenderssense.",
+        "Authorcausalinterpretationsand1416chronologypreserved;specialistargumentverificationpending.",
+        "Notes42/43citededitionpagechecksremainpending."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part12",
+      "alignedSha256": "10fb5ebf22b52d70dbac586203c28872f34e3764e588118fc87b8f44f943e4c6",
+      "editorialNotes": [
+        "Crosspageunits75/76fullyjoined.",
+        "Source183footer150ıexcluded.",
+        "Authorincarnationreincarnationpantheismclaimsandstrongpoetsimitationjudgementretainedasauthorinterpretation.",
+        "CurrentTDV2022updatedentryusedonlyforbibliographicalformclarificationnotclaim2013citededitionidentical.",
+        "Source184remainingparagraphs/notes46–48notprocessed."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part13",
+      "alignedSha256": "e79d0935056b62216d0e1b3c27d19f197f8ebde024cae3db036517dd173acd65",
+      "editorialNotes": [
+        "SectionIItextcomplete;sectionIIIstarts185y370.",
+        "Internalnote46printed199doesnotmatchsubject;printed230scanverifiedandannotationadded;originalreferenceunchanged.",
+        "OriginalHudayi1623vs1628onprinted230;Bursevi1724vs1725;Ilahi1491vs1494onprinted145notquietlycorrected.",
+        "Original16centurygroupincludes17cNiyazi;annotatedusingoriginal147.",
+        "Kutupworkingterm库特卜;politicalimplicationsretainedasauthorinterpretation."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part14",
+      "alignedSha256": "21fb81d15a236e427f628c02b087113f19b828f24b4acedc3c578e3a6da00712",
+      "editorialNotes": [
+        "Source186printed153footerexcluded.",
+        "OriginalHurufilerBuradancapitalizationretained.",
+        "SourcehistorycausalstatementsandMehmedstrategicinterestareauthorinterpretation;speculativemodalspreserved.",
+        "NesimideathmultipletraditionsandJahanshah1441/1467differenceannotated.",
+        "Note50bibliographictitleHurufiyyainIranicacorrespondswebHORUFISM;sourceunchanged."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part15",
+      "alignedSha256": "5d3fb80bf5cc52b740eb0e3a78b38f15d2b0e6631982baa5b8ae2c221e28d47e",
+      "editorialNotes": [
+        "Original author questions execution story in paragraph90 and note56; both preserved without harmonization.",
+        "Note55 original Develeti and note61 Özteli retained as printed.",
+        "Note61 year1340 not silently converted without calendar verification.",
+        "Source188–189 visually read; reference full editions pending."
+      ]
+    },
+    {
+      "batch": "z2013-ch02-part16",
+      "alignedSha256": "69c0056a209e76fb22b658470ceded19de7611c0df1821ccda128a7c00c0f1fc",
+      "editorialNotes": [
+        "Chapter II text ends on original158/PDF191.",
+        "Original Hallace spelling in note64 retained.",
+        "Author’s doctrinal genealogy and Jesus–Hallaj analogy retained as explicitly qualified interpretation, not independent editorial finding.",
+        "Source190–191 visually read; cited full articles and editions remain pending."
+      ]
+    },
+    {
+      "batch": "z2013-ch03-part1",
+      "alignedSha256": "315ea3e91ddab0b4d4da34d3139701fe121e8a31ca65d20e7f6ac2a729d84319",
+      "editorialNotes": [
+        "Chapter3counterrestarts1;sectionIcomplete atsource195y220.",
+        "Fetret1402–1412sourcepreserved;TDV1402–1413differenceannotatedinnote1.",
+        "Note2twofullsourcepagesmergedwithoutloss;paragraphbreakbeforeHalilbIsmailnotnewnote.",
+        "SourceBedreddindiacriticBedreddin/Bedreddinwithcircumflexretainedaccordingtoeachprintedtitle.",
+        "Authorpresent-dayandfortyyearsclaimsreferbookwriting,not2026.",
+        "PrimaryYaltkayaissueconfirms233–256;secondary133–156claimnotadopted."
+      ]
+    },
+    {
+      "batch": "z2013-ch03-part2",
+      "alignedSha256": "b9e5dde6ab53243e2d642af8e39db3796e51c08a50fb9b2207a94a9dc66e7141",
+      "editorialNotes": [
+        "Authorpoliticaljudgmentspreservedwithattributionandmodalqualifiers;noteditorendorsement.",
+        "Note8sulus/nesihparentheticaliscorrectionbybookauthor,notneweditor.",
+        "Source196note6numberOCRat431.2iscoveredinrangeofnote7;numberbelongsnote6visually,bodytranscribedcorrectly;documentthisboundingboxartifact.",
+        "Source196note5numberOCRat398includedinnote5.",
+        "Note5source1340–1924isdualdate,notyearrange;Chinesepairedyearswithslash;calendaridentificationpending.",
+        "1936publicationconfirmedbyNazimfoundation;inprisonpublicationclaimrequiresbiographicalverification."
+      ]
+    },
+    {
+      "batch": "z2013-ch03-part3",
+      "alignedSha256": "c92834e69a940b4e333c00940d73960781b729c4e125143c990aea0f25423cbf",
+      "editorialNotes": [
+        "Authorcritiqueofleftisthistoriographyandartretainedasauthorargument.",
+        "Note9threecategoriespreservedinbothlanguages;notreducedtobibliographicselection.",
+        "OriginalHacanpublisherretainedpendingcatalogverification."
+      ]
+    },
+    {
+      "batch": "z2013-ch03-part4",
+      "alignedSha256": "bad8c5f3f20284ff157ad5d7744d3f6890830e98603d6550e782f8025c90625a",
+      "editorialNotes": [
+        "SectionIItextcompleteatPDF201y112.",
+        "MuntzerMulhouseanddeathbytormentsourcepreserved;municipalhistorycontradictionannotatednote12.",
+        "Note14spanssource199–200withauthorpolemicsintact;religiousgenealogynotindependentlyendorsed.",
+        "SourceMarsianist/Katharzim/inquisitonspellingsretained;noimplicitbibliographiccorrection.",
+        "Note15sourcehasnofinalfullstop;Chineseaddsnormalpunctuation.",
+        "Present-dayclaimsbelongauthors2013editioncontext."
+      ]
+    }
+  ],
   "corrections": [
     {
       "unit": 1,

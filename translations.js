@@ -173,6 +173,16 @@
       document.getElementById("main").classList.add("bilingual-book");
       article.append(window.renderParallelBook.controls(view, item));
       article.append(el("p", item.editionNotice || "Chinese reviewed working draft · 2026-09-16. Page labels refer to the printed English edition, not PDF sheet numbers. English wording is retained from the supplied EPUB; editorial uncertainties are flagged beside the Chinese text.", "edition-notice"));
+      if (item.downloads?.length) {
+        const downloads = el("nav", undefined, "edition-switcher");
+        downloads.setAttribute("aria-label", "Download working draft");
+        for (const file of item.downloads) {
+          const url = safeUrl(file.url); if (!url) continue;
+          const link = el("a", file.label); link.href = url; link.download = "";
+          downloads.append(link);
+        }
+        article.append(downloads);
+      }
       const loading = el("p", "Loading section…"); loading.setAttribute("role", "status");
       article.append(loading);
       try {
