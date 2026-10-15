@@ -2200,8 +2200,8 @@ window.TRANSLATIONS = {
       "example": false,
       "status": "in-progress",
       "wholeBookComplete": false,
-      "description": "以2013年增订第四版为底本，含两篇前言、目录、缩略语、导论、第一至第三章及第四章已译部分，至原书281页部分（1495年卡迪事件段落）。全书尚未完成。",
-      "editionNotice": "未完成的校译工作稿 · 2026-10-16。采用2013年增订第四版原书印刷页码。已录入两篇前言、目录、缩略语、导论、第一至第三章及第四章已译部分（已译至原书281页的1495年卡迪事件段落，未完），保留663条原注。全书后续内容、语义与引文终校尚未完成；双语PDF个别长注造成大幅留白，最终分页待调整。目录列出的后续章节不代表已经译完。",
+      "description": "以2013年增订第四版为底本，含两篇前言、目录、缩略语、导论、第一至第三章及第四章已译部分，至原书291页部分（拉里·梅赫梅德一节结束）。全书尚未完成。",
+      "editionNotice": "未完成的校译工作稿 · 2026-10-16。采用2013年增订第四版原书印刷页码。已录入两篇前言、目录、缩略语、导论、第一至第三章及第四章已译部分（已译至原书291页的拉里·梅赫梅德一节结束处，未完），保留684条原注。全书后续内容、语义与引文终校尚未完成；双语PDF个别长注造成大幅留白，最终分页待调整。目录列出的后续章节不代表已经译完。",
       "chapters": [
         {
           "id": "z2013-preface1-part1",
@@ -2986,6 +2986,27 @@ window.TRANSLATIONS = {
           "title": "第四章 · 279–281",
           "originalTitle": "Dördüncü Bölüm · 279–281",
           "dataUrl": "translations/books/zindiklar/z2013-ch04-part14.json"
+        },
+        {
+          "id": "z2013-ch04-part15",
+          "partId": "ch04",
+          "title": "第四章 · 281–285",
+          "originalTitle": "Dördüncü Bölüm · 281–285",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part15.json"
+        },
+        {
+          "id": "z2013-ch04-part16",
+          "partId": "ch04",
+          "title": "第四章 · 285–288",
+          "originalTitle": "Dördüncü Bölüm · 285–288",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part16.json"
+        },
+        {
+          "id": "z2013-ch04-part17",
+          "partId": "ch04",
+          "title": "第四章 · 288–291",
+          "originalTitle": "Dördüncü Bölüm · 288–291",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part17.json"
         }
       ],
       "parts": [
@@ -3038,21 +3059,21 @@ window.TRANSLATIONS = {
       "downloads": [
         {
           "label": "中土对照 PDF",
-          "url": "translations/books/zindiklar/downloads/bilingual.pdf?v=644784346e94",
-          "sha256": "644784346e94ca3d4778500fd41e08a9cbe342c286c6a925b818eb8dd78bd2b0",
-          "bytes": 2382684
+          "url": "translations/books/zindiklar/downloads/bilingual.pdf?v=16a5f48ba651",
+          "sha256": "16a5f48ba651b45ff4c83dd027084f13e8fd4dbdd3357d59c2e5a7cbfccd1703",
+          "bytes": 2444366
         },
         {
           "label": "土耳其语 PDF",
-          "url": "translations/books/zindiklar/downloads/tr.pdf?v=ff70f36b05d2",
-          "sha256": "ff70f36b05d2c3ab27bd241160392236b6d4a36bbd820496aa7e52de71dd6207",
-          "bytes": 972063
+          "url": "translations/books/zindiklar/downloads/tr.pdf?v=1bb68687b829",
+          "sha256": "1bb68687b82912c032d5d28611b87b9215ce4487378cd87226c15957f8f5db78",
+          "bytes": 997877
         },
         {
           "label": "中文 Markdown",
-          "url": "translations/books/zindiklar/downloads/zh.md?v=589b1a97e5e5",
-          "sha256": "589b1a97e5e52f2be57a7bd2a0297b2e246d480bd4d3abf572644d10fceb1850",
-          "bytes": 881628
+          "url": "translations/books/zindiklar/downloads/zh.md?v=df85db263147",
+          "sha256": "df85db2631472ff4d79011cbb0e9d62b4c8b20e7be703366799cfba805eac49a",
+          "bytes": 908589
         }
       ]
     }
