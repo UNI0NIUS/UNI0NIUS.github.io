@@ -2180,9 +2180,9 @@ window.TRANSLATIONS = {
         },
         {
           "label": "中文 Markdown",
-          "url": "translations/books/thif/downloads/zh.md?v=e6097ee57a0b",
-          "sha256": "e6097ee57a0b097cfbe7da65ab4ea3f2ef645562786ed96e8368ddff93a29422",
-          "bytes": 2183283
+          "url": "translations/books/thif/downloads/zh.md?v=6fa292eaf8b7",
+          "sha256": "6fa292eaf8b715954f04d9f517b7b4d66d3a1f998d60979399f2c173a1c7cfbc",
+          "bytes": 2161969
         }
       ]
     },
@@ -2716,9 +2716,9 @@ window.TRANSLATIONS = {
         },
         {
           "label": "中文 Markdown",
-          "url": "translations/books/zindiklar/downloads/zh.md?v=8ae91621edb9",
-          "sha256": "8ae91621edb937a19c513a0c164207921800c5c055219021e05e9b13f6fac468",
-          "bytes": 564335
+          "url": "translations/books/zindiklar/downloads/zh.md?v=87df97b0b850",
+          "sha256": "87df97b0b850d04f2fb28b08c88c686f63ebcb5b8ee412fa331482c5d58e69b0",
+          "bytes": 560957
         }
       ]
     }
