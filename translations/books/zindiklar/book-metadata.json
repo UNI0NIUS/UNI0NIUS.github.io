@@ -12,8 +12,8 @@
   "example": false,
   "status": "in-progress",
   "wholeBookComplete": false,
-  "description": "以2013年增订第四版为底本，含两篇前言、目录、缩略语、导论、第一至第三章，至原书235页。全书尚未完成。",
-  "editionNotice": "未完成的校译工作稿 · 2026-10-15。采用2013年增订第四版原书印刷页码。已录入两篇前言、目录、缩略语、导论、第一至第三章（至原书235页，未完），保留552条原注。全书后续内容、语义与引文终校尚未完成；双语PDF个别长注造成大幅留白，最终分页待调整。目录列出的后续章节不代表已经译完。",
+  "description": "以2013年增订第四版为底本，含两篇前言、目录、缩略语、导论、第一至第三章及第四章开头，至原书244页中段。全书尚未完成。",
+  "editionNotice": "未完成的校译工作稿 · 2026-10-15。采用2013年增订第四版原书印刷页码。已录入两篇前言、目录、缩略语、导论、第一至第三章及第四章开头（至原书244页中段，未完），保留577条原注。全书后续内容、语义与引文终校尚未完成；双语PDF个别长注造成大幅留白，最终分页待调整。目录列出的后续章节不代表已经译完。",
   "chapters": [
     {
       "id": "z2013-preface1-part1",
@@ -700,6 +700,27 @@
       "title": "第三章 · 232–235",
       "originalTitle": "Üçüncü Bölüm · 232–235",
       "dataUrl": "translations/books/zindiklar/z2013-ch03-part37.json"
+    },
+    {
+      "id": "z2013-ch04-part1",
+      "partId": "ch04",
+      "title": "第四章 · 236–241",
+      "originalTitle": "Dördüncü Bölüm · 236–241",
+      "dataUrl": "translations/books/zindiklar/z2013-ch04-part1.json"
+    },
+    {
+      "id": "z2013-ch04-part2",
+      "partId": "ch04",
+      "title": "第四章 · 241–243",
+      "originalTitle": "Dördüncü Bölüm · 241–243",
+      "dataUrl": "translations/books/zindiklar/z2013-ch04-part2.json"
+    },
+    {
+      "id": "z2013-ch04-part3",
+      "partId": "ch04",
+      "title": "第四章 · 243–244",
+      "originalTitle": "Dördüncü Bölüm · 243–244",
+      "dataUrl": "translations/books/zindiklar/z2013-ch04-part3.json"
     }
   ],
   "parts": [
@@ -742,26 +763,31 @@
       "id": "ch03",
       "title": "第三章",
       "originalTitle": "Üçüncü Bölüm"
+    },
+    {
+      "id": "ch04",
+      "title": "第四章",
+      "originalTitle": "Dördüncü Bölüm"
     }
   ],
   "downloads": [
     {
       "label": "中土对照 PDF",
-      "url": "translations/books/zindiklar/downloads/bilingual.pdf?v=5ea298ea16aa",
-      "sha256": "5ea298ea16aaec3a560c8bd7f1fa6448bfc8cf1d47e14facd83329888a7d8257",
-      "bytes": 2084599
+      "url": "translations/books/zindiklar/downloads/bilingual.pdf?v=b69b81fb9afc",
+      "sha256": "b69b81fb9afc8d16e7a32bbe192dad8e9b1f792a51bfa816140b1dd8f1d676cc",
+      "bytes": 2148037
     },
     {
       "label": "土耳其语 PDF",
-      "url": "translations/books/zindiklar/downloads/tr.pdf?v=875a42d05f7c",
-      "sha256": "875a42d05f7c34e538f9092a23dbbc354f89b13436b9f6455ad31d92b83b9b68",
-      "bytes": 845466
+      "url": "translations/books/zindiklar/downloads/tr.pdf?v=0e78b3601c56",
+      "sha256": "0e78b3601c5683468e7ebe4f155e15d6f3cc13360e75838c9dc658ad5268e7ac",
+      "bytes": 870787
     },
     {
       "label": "中文 Markdown",
-      "url": "translations/books/zindiklar/downloads/zh.md?v=b073df43a6db",
-      "sha256": "b073df43a6dbc1a0ba704b40f880dab033929c11566b2b1120a711bc41492649",
-      "bytes": 754531
+      "url": "translations/books/zindiklar/downloads/zh.md?v=6b533554f8a0",
+      "sha256": "6b533554f8a0ce4602afa42aacee78bccdcbd05fede9ec579cf40772ce1143c9",
+      "bytes": 778751
     }
   ]
 }

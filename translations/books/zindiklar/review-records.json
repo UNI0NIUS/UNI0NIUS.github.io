@@ -1,10 +1,10 @@
 {
   "status": "in-progress",
-  "scope": "Prefaces, contents, abbreviations, introduction, chapters 1–3; through printed 235. Whole book and final review incomplete.",
+  "scope": "Prefaces, contents, abbreviations, introduction, chapters 1–3 and opening of chapter 4; through middle of printed 244. Whole book and final review incomplete.",
   "counts": {
-    "units": 946,
-    "notes": 552,
-    "sections": 98
+    "units": 967,
+    "notes": 577,
+    "sections": 101
   },
   "sourcePdfSha256": "cd3fc9691d9bd4a5b7b3f10636a84eb27a14627282f2344af2f36c53b2ee8849",
   "batches": [
@@ -1063,6 +1063,36 @@
         "Fournumberedfacetsandauthorconditional/inferentiallanguagepreserved; noclaimofverifiedreadinghistoryofBedreddin.",
         "VahdetVucudandVahdetMevcuddistinguishedwithestablishedterminology.",
         "n169internalcrossreferenceverifiedagainstintroduction; external168and170requirebibliographic/originalpagechecks."
+      ]
+    },
+    {
+      "batch": "z2013-ch04-part1",
+      "alignedSha256": "2ea4d2c6baeee6c0670683ec8dd7da1525d64d563ed8b4a65e250b0af078ba0f",
+      "editorialNotes": [
+        "SourcePDF269–274 visuallyreviewed; printed236–240 complete,241 firstparagraph andnote7 only.",
+        "Preserve source felesefi, ile ve, and unmatched parenthesis in note3; do not silently modernize author syntax.",
+        "Chapter4note numbering restartsat1; longnote3continuesonprinted240.",
+        "Probabilistic historical links retained as author inferences, not newly established facts.",
+        "Reference verification record separates catalog evidence from direct page verification."
+      ]
+    },
+    {
+      "batch": "z2013-ch04-part2",
+      "alignedSha256": "9dd0fef060bcbc41f8e1be120c825bf0b31f870ee77af75fbf0754f868a49aea",
+      "editorialNotes": [
+        "Source274–276visuallyreviewed. Part1includes274topandnote7; thispacketexcludesthose.",
+        "Originalnote16lowercasekutlukandnote17page149–264retainedpendingdirectbibliographicverification.",
+        "Preserveoriginalsourcequotationsandtheirfigurativelanguage; author conjectures about readings not presented as facts."
+      ]
+    },
+    {
+      "batch": "z2013-ch04-part3",
+      "alignedSha256": "331b6dc82b0d3630a52e0456f56f4ea9a552a0f423f0468f4cb5ae93c9c0e017",
+      "editorialNotes": [
+        "Scans276–278reviewed; thispacketstopsbeforecourtcompositionparagraphat277y280.",
+        "Source277note23firstlineOCRy362.294appearsabovenote22lastliney364.897; discontiguousrangespreservebothnoteswithoutduplication.",
+        "OriginalsourcebodyattributionAsikvsnote25Taskopruluzaderetained; requiresdirectsourcecomparison.",
+        "Note24PersiancoupletandoriginalTurkishglossseparatelyrendered; quotedaccusationsremainattributed."
       ]
     }
   ],
