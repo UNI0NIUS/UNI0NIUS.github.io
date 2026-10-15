@@ -1,10 +1,10 @@
 {
   "status": "in-progress",
-  "scope": "Prefaces, contents, abbreviations, introduction, chapters 1–3 and translated portion of chapter 4; through end of printed 274. Whole book and final review incomplete.",
+  "scope": "Prefaces, contents, abbreviations, introduction, chapters 1–3 and translated portion of chapter 4; through the 1495 kadi incident paragraph on printed page 281 (partial page). Whole book and final review incomplete.",
   "counts": {
-    "units": 1058,
-    "notes": 651,
-    "sections": 110
+    "units": 1085,
+    "notes": 663,
+    "sections": 112
   },
   "sourcePdfSha256": "cd3fc9691d9bd4a5b7b3f10636a84eb27a14627282f2344af2f36c53b2ee8849",
   "batches": [
@@ -1202,6 +1202,32 @@
         "DlibdownloadreturnedHTMLcatalognotoriginalPDF; HTMLcatalogpreservedas tmp/ohsson-dlib-catalog.html andmustnotbeusedasoriginalvolume. SaltResearch1787/1790catalogsleadsnotyetpagesverified.",
         "Unit112orftranslatedascustomaryauthorityincontext,notmerelyanger; firstorderofdeathandfailuretoformallyconvictbothpreservedfromsource.",
         "MaintainestablishedKabiz卡布兹,Ustun于斯廷. NewworkingtitlesincludeKunhulAhbar史事精义andSahaifulAhbar史事篇页,withTurkishretainedonfirstuse."
+      ]
+    },
+    {
+      "batch": "z2013-ch04-part13",
+      "alignedSha256": "944cc4bf5a68ff0a31379d1644cd254853d52a7bab1d4bbd9936898d116f8190",
+      "editorialNotes": [
+        "Source308–312before347visuallycompared. Source309footer490.44and310footer491.18outsidecoverage. Note105duplicate105isprintedinthebaseline,notOCRduplication;retainedTR,explainedZH.",
+        "Unit114preservesbaselineclosingquoteonlyinTR;ZHsuppliespairedquotes. hafifarchaicphrasingtranslatedinjudicialcontext,notasmoderncriminaladvice.",
+        "Unit123Hanafilegalprocedureassessmentbelongs toOcak;unit125executionjustificationexplicitlyattributedtoDanişmend. Neitherrewrittenastranslatorendorsement.",
+        "Unit124negativecontrasttranslatedasnotabandoningMuslimidentitybeforepreferringJesus;distinguishmurted叛教者fromzindik异端者andmulhid离教者.",
+        "Unit117DohssonclaimthatIbnKemalusedBiblepreserved;unit127authorlaterquestionsit. Unit126Christianlearninginference remainsauthorclaim,withpriornote95counterpointavailable.",
+        "Yavuz2005editiondownloaded:PDF39pages;printedjournalheaderV(2005)Sayi1,whileDergiparkmetadata5/4and147–185. Esad3618identifiedamongfourcollatedmanuscriptsatprinted167;exact36a42boriginalmanuscriptnotread.",
+        "YavuzPDF39/printed185Arabicmaintextrendersmissingglyphs;notverifiedasprimaryArabictext. Yavuzprinted170–173contentdiscussioncrosschecksMuhammaduniversalmissionandabrogationreasoning;articleandcriticaleditionarenottrialminutes. OriginalcitedDohsson155–158,Balivet94–96,DanişmendII125andmanuscriptfoliosremainpending.",
+        "Chronologyfirstquarterof16thcenturyinunit129retaineddespite1527trialdate; authorbroadercontextnot silentlychanged."
+      ]
+    },
+    {
+      "batch": "z2013-ch04-part14",
+      "alignedSha256": "0471a5a91e5bff7bdad92abd2df98775df16243bd064ebf6c567bdb87b4b26c8",
+      "editorialNotes": [
+        "Source312y347through313completeand314y0–386plusnotes441–490visuallyverified;314body386–441leftfornextbatch.",
+        "Oldeditionquotation132–133preservedasquotation;oldpage238239notremappedtocurrentedition. Hakimtitlekeptasname,earlyphilosopherhypothesisdistinguishedfromlaterphysicianevidence.",
+        "2021OrtakciSAMERmodernizedNisancihistoryPDF205readvisually;preface5saysbasis1279printwithconsultationofOzdemirthesis. Original315316notread;modernizationnotamicrofilmfacsimile. Note109distinguishesquotedbiographyfromOcaksubsequentsuperiorityinference.",
+        "Imber1990originaljournalPDF2/printed59andPDF6–8/printed63–65readvisually. Page64says12recanted,12remainedandwereexecuted;nextdayordayafter,notuniquelynextday. Note111recordsdiscrepancywithoutrewritingOcakbody.",
+        "Imberpage59locatesfirststoryin1444context;late15thcenturyinunit139describeschronicle,notexecutiondate. Babingeroriginal244245notread.",
+        "Maintainuncertaintyinidentificationof24kadisasHurufisandconditionaltruthoftheItalianreport;donotpromotethoseinferencestofacts."
       ]
     }
   ],

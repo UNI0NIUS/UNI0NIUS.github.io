@@ -295,7 +295,7 @@ window.TRANSLATIONS = {
       "bilingual": true,
       "example": false,
       "description": "逐段中土对照工作译稿。全书文字、书目及索引已录入，终校尚未完成。",
-      "editionNotice": "未完成的校译工作稿 · 2026-10-15。以2016年增订版扫描PDF为底本，采用原书印刷页码（PDF页序减1）。全书文字、432条原注、书目与索引已录入，四幅影印已恢复。当前PDF已编译并通过文本完整性检查；语义、术语、引文和最终分页仍待复核。",
+      "editionNotice": "未完成的校译工作稿 · 2026-10-16。以2016年增订版扫描PDF为底本，采用原书印刷页码（PDF页序减1）。全书文字、432条原注、书目与索引已录入，四幅影印已恢复。当前PDF已编译并通过文本完整性检查；语义、术语、引文和最终分页仍待复核。",
       "status": "in-progress",
       "wholeBookComplete": false,
       "chapters": [
@@ -2200,8 +2200,8 @@ window.TRANSLATIONS = {
       "example": false,
       "status": "in-progress",
       "wholeBookComplete": false,
-      "description": "以2013年增订第四版为底本，含两篇前言、目录、缩略语、导论、第一至第三章及第四章已译部分，至原书274页末。全书尚未完成。",
-      "editionNotice": "未完成的校译工作稿 · 2026-10-15。采用2013年增订第四版原书印刷页码。已录入两篇前言、目录、缩略语、导论、第一至第三章及第四章已译部分（至原书274页末，未完），保留651条原注。全书后续内容、语义与引文终校尚未完成；双语PDF个别长注造成大幅留白，最终分页待调整。目录列出的后续章节不代表已经译完。",
+      "description": "以2013年增订第四版为底本，含两篇前言、目录、缩略语、导论、第一至第三章及第四章已译部分，至原书281页部分（1495年卡迪事件段落）。全书尚未完成。",
+      "editionNotice": "未完成的校译工作稿 · 2026-10-16。采用2013年增订第四版原书印刷页码。已录入两篇前言、目录、缩略语、导论、第一至第三章及第四章已译部分（已译至原书281页的1495年卡迪事件段落，未完），保留663条原注。全书后续内容、语义与引文终校尚未完成；双语PDF个别长注造成大幅留白，最终分页待调整。目录列出的后续章节不代表已经译完。",
       "chapters": [
         {
           "id": "z2013-preface1-part1",
@@ -2972,6 +2972,20 @@ window.TRANSLATIONS = {
           "title": "第四章 · 270–274",
           "originalTitle": "Dördüncü Bölüm · 270–274",
           "dataUrl": "translations/books/zindiklar/z2013-ch04-part12.json"
+        },
+        {
+          "id": "z2013-ch04-part13",
+          "partId": "ch04",
+          "title": "第四章 · 275–279",
+          "originalTitle": "Dördüncü Bölüm · 275–279",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part13.json"
+        },
+        {
+          "id": "z2013-ch04-part14",
+          "partId": "ch04",
+          "title": "第四章 · 279–281",
+          "originalTitle": "Dördüncü Bölüm · 279–281",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part14.json"
         }
       ],
       "parts": [
@@ -3024,21 +3038,21 @@ window.TRANSLATIONS = {
       "downloads": [
         {
           "label": "中土对照 PDF",
-          "url": "translations/books/zindiklar/downloads/bilingual.pdf?v=e2b885c2d7eb",
-          "sha256": "e2b885c2d7eb1fcbd03d56334ef0d6781f25a9d37f6919a7fbb480164e7e45b7",
-          "bytes": 2342592
+          "url": "translations/books/zindiklar/downloads/bilingual.pdf?v=644784346e94",
+          "sha256": "644784346e94ca3d4778500fd41e08a9cbe342c286c6a925b818eb8dd78bd2b0",
+          "bytes": 2382684
         },
         {
           "label": "土耳其语 PDF",
-          "url": "translations/books/zindiklar/downloads/tr.pdf?v=b0d41bb6e653",
-          "sha256": "b0d41bb6e6537529344bd49f2846bd2858b4cb1d85095f632a4ccc683ec98e09",
-          "bytes": 954203
+          "url": "translations/books/zindiklar/downloads/tr.pdf?v=ff70f36b05d2",
+          "sha256": "ff70f36b05d2c3ab27bd241160392236b6d4a36bbd820496aa7e52de71dd6207",
+          "bytes": 972063
         },
         {
           "label": "中文 Markdown",
-          "url": "translations/books/zindiklar/downloads/zh.md?v=d276721fa293",
-          "sha256": "d276721fa2933eeb846c2b6492cd8f7ecaff88232ddede89eb7c9da08fdb5702",
-          "bytes": 863163
+          "url": "translations/books/zindiklar/downloads/zh.md?v=589b1a97e5e5",
+          "sha256": "589b1a97e5e52f2be57a7bd2a0297b2e246d480bd4d3abf572644d10fceb1850",
+          "bytes": 881628
         }
       ]
     }
