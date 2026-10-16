@@ -99,7 +99,21 @@
   "notes": {
     "intro-111": {
       "en": [
-        "Hammad el-‘Acred’le ilgili kaynaklar ve hakkında geniş bilgi için msl. bkz. Sadighi, s. 99-100; Vajda, agm, s. 203-206; Süleyman Tülücü, “Hammâd Acred”, TDVİA."
+        "Hammad el-‘Acred’le ilgili kaynaklar ve hakkında geniş bilgi için msl. bkz. Sadighi, s. 99-100; Vajda, ",
+        {
+          "type": "em",
+          "children": [
+            "agm"
+          ]
+        },
+        ", s. 203-206; Süleyman Tülücü, “Hammâd Acred”, ",
+        {
+          "type": "em",
+          "children": [
+            "TDVİA"
+          ]
+        },
+        "."
       ],
       "zh": [
         "关于哈马德·阿杰拉德的史料与详细资料，例如可见萨迪基，第99—100页；瓦伊达，前引文，第203—206页；Süleyman Tülücü：“Hammâd Acred”，TDVİA。〔译校记：本段后文所述哈伦·拉希德拟聘他为艾敏教师的说法，存在年代矛盾。此处所引Tülücü条目首选哈马德卒于778年，另列772、783、784年异说，均早于Hakkı Dursun Yıldız撰“Emîn”条所记艾敏出生的787年。前一条目另记哈马德曾任萨法赫之子穆罕默德的教师，但不能据此擅改本书所述人名与事件。见 https://cdn2.islamansiklopedisi.org.tr/dosya/15/C15005427.pdf 及 https://islamansiklopedisi.org.tr/emin--abbasi 。〕"
@@ -108,7 +122,14 @@
     },
     "intro-112": {
       "en": [
-        "Hammad er-Râviye ve ilgili kaynaklar için bkz. Zülfikar Tüccar, “Hammâd er-Râviya”, TDVİA; ‘Atvân, s. 38-40."
+        "Hammad er-Râviye ve ilgili kaynaklar için bkz. Zülfikar Tüccar, “Hammâd er-Râviya”, ",
+        {
+          "type": "em",
+          "children": [
+            "TDVİA"
+          ]
+        },
+        "; ‘Atvân, s. 38-40."
       ],
       "zh": [
         "关于哈马德·拉维耶及相关史料，见Zülfikar Tüccar：“Hammâd er-Râviya”，TDVİA；阿特万，第38—40页。"
@@ -117,7 +138,14 @@
     },
     "intro-113": {
       "en": [
-        "Bkz. agm, s. 206."
+        "Bkz. ",
+        {
+          "type": "em",
+          "children": [
+            "agm"
+          ]
+        },
+        ", s. 206."
       ],
       "zh": [
         "见前引文，第206页。〔译校记：此处承接原注111所引瓦伊达论文“Les zindîqs”。〕"
@@ -126,7 +154,14 @@
     },
     "intro-114": {
       "en": [
-        "Sadighi bu faaliyet hakkında toplu bilgi verir (bkz. Les Mouvements Religieux, s. 98)."
+        "Sadighi bu faaliyet hakkında toplu bilgi verir (bkz. ",
+        {
+          "type": "em",
+          "children": [
+            "Les Mouvements Religieux"
+          ]
+        },
+        ", s. 98)."
       ],
       "zh": [
         "萨迪基对这一活动作了综合介绍，见《Les Mouvements Religieux》，第98页。"
@@ -135,7 +170,42 @@
     },
     "intro-115": {
       "en": [
-        "Mutî‘ b. İyas ve Ebu’l-‘Atâhiyye’ye dair bkz. ‘Atvân, s. 33-37, 108-142. Buraya kadar sayılanlar, Vajda tarafından geniş çapta incelenmiş olup daha fazla bilgi için yukarıda zikredilen makalesine ve bir de G. H. Sadighi’nin eserine başvurmak gerekir. Ayrıca Ebu’l-Ferec el-Isfahânî’nin Kitabü’l-Egânî’sinde, Câhiz’in Kitabü’l-Hayevân’ında, bunların şiirlerinden bol miktarda örnekler bulmak mümkündür. Bundan başka 10.-11. yüzyılın ünlü Şii âlimi Seyyid Murtaza’nın (ö. 1045) Gureru’l-Fevâid adıyla da bilinmekle beraber daha çok Kitabü’l-Emâlî diye meşhur olan eserindeki pasajlarda zendeka ile suçlanan daha birçok şairin adı bulunmaktadır. Bunların dışında ise, Afşar-ı Şirazî’nin Mütûn-i ‘Arabî ve Farisî’sinde yer alan kaynak metinlerde de bunlar hakkında geniş bilgi vardır."
+        "Mutî‘ b. İyas ve Ebu’l-‘Atâhiyye’ye dair bkz. ‘Atvân, s. 33-37, 108-142. Buraya kadar sayılanlar, Vajda tarafından geniş çapta incelenmiş olup daha fazla bilgi için yukarıda zikredilen makalesine ve bir de G. H. Sadighi’nin eserine başvurmak gerekir. Ayrıca Ebu’l-Ferec el-Isfahânî’nin ",
+        {
+          "type": "em",
+          "children": [
+            "Kitabü’l-Egânî"
+          ]
+        },
+        "’sinde, Câhiz’in ",
+        {
+          "type": "em",
+          "children": [
+            "Kitabü’l-Hayevân"
+          ]
+        },
+        "’ında, bunların şiirlerinden bol miktarda örnekler bulmak mümkündür. Bundan başka 10.-11. yüzyılın ünlü Şii âlimi Seyyid Murtaza’nın (ö. 1045) ",
+        {
+          "type": "em",
+          "children": [
+            "Gureru’l-Fevâid"
+          ]
+        },
+        " adıyla da bilinmekle beraber daha çok ",
+        {
+          "type": "em",
+          "children": [
+            "Kitabü’l-Emâlî"
+          ]
+        },
+        " diye meşhur olan eserindeki pasajlarda zendeka ile suçlanan daha birçok şairin adı bulunmaktadır. Bunların dışında ise, Afşar-ı Şirazî’nin ",
+        {
+          "type": "em",
+          "children": [
+            "Mütûn-i ‘Arabî ve Farisî"
+          ]
+        },
+        "’sinde yer alan kaynak metinlerde de bunlar hakkında geniş bilgi vardır."
       ],
       "zh": [
         "关于穆提·伊本·伊亚斯与艾布·阿塔希亚，见阿特万，第33—37、108—142页。上述人物已由瓦伊达作过广泛研究，更多资料应参考此前提及的论文，以及G. H. 萨迪基的著作。此外，在艾布·法拉吉·伊斯法哈尼的《歌集》和贾希兹的《动物书》（Kitabü’l-Hayevân）中，可以找到这些诗人的大量诗作范例。10—11世纪著名什叶派学者赛义德·穆尔塔达（卒于1045年）的著作《Gureru’l-Fevâid》，更常以《Kitabü’l-Emâlî》之名为人所知，其中一些段落还列出了许多被控异端的诗人。除此之外，阿夫沙尔·设拉子的《阿拉伯语与波斯语文本》（Mütûn-i ‘Arabî ve Farisî）所收史料中，也有关于他们的丰富资料。〔译校记：正文将阿赫塔勒列入阿拔斯时期的这一圈子。若所指为著名倭马亚诗人el-Ahtal，则有年代矛盾：Azmi Yüksel撰TDV“Ahtal”条记其卒于710—711年。正文照存，具体误指对象未能确定。见 https://islamansiklopedisi.org.tr/ahtal 。〕"

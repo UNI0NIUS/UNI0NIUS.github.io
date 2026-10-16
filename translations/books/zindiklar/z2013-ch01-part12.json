@@ -5,7 +5,7 @@
   "body": [
     {
       "id": "z2013-ch01-119",
-      "type": "paragraph",
+      "type": "quote",
       "page": "114",
       "en": [
         "… zîrâ anlar gâzîlerdir ve gâliblerdir fî sebîlillâh Hak yoluna durmuşlardır. Gazâ malını cem‘ idüb cânib-i Hakk’a harc edicilerdir. Din yoluna gayretlilerdir. Dünyâya ma‘rûf değillerdir. Şerî‘at yolunu gözedicilerdir. Ehl-i şirkden intikam alıcılardır. Garbden şarka İslâm dînin açıcılardır.",
@@ -30,7 +30,7 @@
         "Osmanlı Devleti’nin böyle bir ideolojiyi benimsemesi, yalnızca Osmanlı padişahlarının dindarlıkları veya etraflarındaki şeyhlerin cihad ve gazaya teşvikleri, yahut yalnızca ganimet ele geçirmeye yönelik maddi amaçlara dayalı tek yanlı ve eksik tezlerle açıklanamaz. Bu olgu, yukarıda da söylendiği üzere, bir defa 14. yüzyılda İslâm dünyasındaki zihniyet değişikliğiyle alakalı olduğu kadar, buna dayalı olmak üzere, Fuad Köprülü ve Halil İnalcık’ın tespitlerinin gösterdiği şekilde, devletin kuruluş döneminde uc mıntıkalarının jeopolitik, demografik, toplumsal ve kültürel yapılarıyla çok yakından ilgiliydi. Bu yapı,"
       ],
       "zh": [
-        "奥斯曼国家之所以接受这样一种意识形态，不能仅以奥斯曼帕迪沙的虔诚、身边谢赫对吉哈德与加扎的鼓励，或单纯攫取战利品的物质目的等片面而不完整的论点来解释。如前所述，这一现象既与14世纪伊斯兰世界的观念变化有关，又在这一基础上，如福阿德·克普吕律和哈利勒·伊纳尔哲的研究所揭示的，同建国时期边疆地区的地缘政治、人口、社会及文化结构有着极为密切的联系。这种结构受到以下若干因素塑造："
+        "奥斯曼国家之所以接受这样一种意识形态，不能仅以奥斯曼帕迪沙的虔诚、身边谢赫对吉哈德与加扎的鼓励，或单纯攫取战利品的物质目的等片面而不完整的论点来解释。如前所述，这一现象既与14世纪伊斯兰世界的观念变化有关，又在这一基础上，如福阿德·科普吕吕和哈利勒·伊纳尔哲克的研究所揭示的，同建国时期边疆地区的地缘政治、人口、社会及文化结构有着极为密切的联系。这种结构受到以下若干因素塑造："
       ]
     },
     {
@@ -101,12 +101,26 @@
       "type": "paragraph",
       "page": "114–115",
       "en": [
-        "İşte bütün bu faktörler, Osmanlı padişahları tarafından olduğu kadar, onların sevk ettikleri gazalara katılan gazileri dualarıyla teşvik eden şeyhler ve dervişler tarafından da çok iyi görülüp değerlendirildi. Bu kişilerin menkabevi hayatlarını ve yaptıkları cihad ve gazaları anlatan menâkıbnâmeler, bugün elimizdedir.",
+        "İşte bütün bu faktörler, Osmanlı padişahları tarafından olduğu kadar, onların sevk ettikleri gazalara katılan gazileri dualarıyla teşvik eden şeyhler ve dervişler tarafından da çok iyi görülüp değerlendirildi. Bu kişilerin menkabevi hayatlarını ve yaptıkları cihad ve gazaları anlatan ",
+        {
+          "type": "em",
+          "children": [
+            "menâkıbnâmeler"
+          ]
+        },
+        ", bugün elimizdedir.",
         {
           "type": "note",
           "id": "ch01-52"
         },
-        " Bu eserler, fetihlerin nasıl bir dinî ve manevi psikoloji içinde yapıldığını vekayinâmelerden çok daha açık bir biçimde yansıtmaktadırlar; kendilerini “küffar illeri”nde İslâm’ın bayraktarları olarak görmekten ne büyük haz duydukları açıkça görülür. İslâm dünyası onları “ehl-i küfr”e karşı İslâm’ı savunan “uc gazileri” olarak tebcil ediyor, buna karşılık Hıristiyan âlemi de, 14. yüzyılda Gregory Palamas’ın yazdığı gibi, bu gazi ve mücahidleri “Allah’ın Hıristiyanları cezalandırmaya memur kılıcı” şeklinde algılıyorlardı.",
+        " Bu eserler, fetihlerin nasıl bir dinî ve manevi psikoloji içinde yapıldığını ",
+        {
+          "type": "em",
+          "children": [
+            "vekayinâmeler"
+          ]
+        },
+        "den çok daha açık bir biçimde yansıtmaktadırlar; kendilerini “küffar illeri”nde İslâm’ın bayraktarları olarak görmekten ne büyük haz duydukları açıkça görülür. İslâm dünyası onları “ehl-i küfr”e karşı İslâm’ı savunan “uc gazileri” olarak tebcil ediyor, buna karşılık Hıristiyan âlemi de, 14. yüzyılda Gregory Palamas’ın yazdığı gibi, bu gazi ve mücahidleri “Allah’ın Hıristiyanları cezalandırmaya memur kılıcı” şeklinde algılıyorlardı.",
         {
           "type": "note",
           "id": "ch01-53"
@@ -118,7 +132,7 @@
           "type": "note",
           "id": "ch01-52"
         },
-        "这些著作比编年史更清楚地反映了征服是在怎样的宗教与精神心理状态中进行的；其中可以清晰看到，他们把自己视为“不信者之地”上的伊斯兰旗手，从中获得了多么巨大的满足。伊斯兰世界赞颂他们是抵御“不信者”、捍卫伊斯兰的“边疆加齐”；与此相对，正如14世纪格里高利·帕拉马斯所写，基督教世界则把这些加齐和吉哈德战士看作“真主派来惩罚基督徒的利剑”。",
+        "这些著作比编年史更清楚地反映了征服是在怎样的宗教与精神心理状态中进行的；其中可以清晰看到，他们把自己视为“不信者之地”上的伊斯兰旗手，从中获得了多么巨大的满足。伊斯兰世界赞颂他们是抵御“不信者”、捍卫伊斯兰的“边疆加齐”；与此相对，正如14世纪格里高利·帕拉马斯所写，基督教世界则把这些加齐和吉哈德战士看作“上帝派来惩罚基督徒的利剑”。",
         {
           "type": "note",
           "id": "ch01-53"
@@ -130,7 +144,21 @@
       "type": "paragraph",
       "page": "115",
       "en": [
-        "Osmanlıların “uc gazileri” olarak değerlendirilmesi, Fatih Sultan Mehmed devrine kadar sürmüş, Osmanlı padişahları Arap vekayinâmelerinde emîru’l-ucât diye nitelendirilmişlerdi. Bu suretle İ‘lây-ı Kelimetullâh terimi, zaman içinde Osmanlı cihad ve gaza ideolojisinde devletin nihaî maksadını simgeleyen bir formül haline geldi."
+        "Osmanlıların “uc gazileri” olarak değerlendirilmesi, Fatih Sultan Mehmed devrine kadar sürmüş, Osmanlı padişahları Arap vekayinâmelerinde ",
+        {
+          "type": "em",
+          "children": [
+            "emîru’l-ucât"
+          ]
+        },
+        " diye nitelendirilmişlerdi. Bu suretle ",
+        {
+          "type": "em",
+          "children": [
+            "İ‘lây-ı Kelimetullâh"
+          ]
+        },
+        " terimi, zaman içinde Osmanlı cihad ve gaza ideolojisinde devletin nihaî maksadını simgeleyen bir formül haline geldi."
       ],
       "zh": [
         "奥斯曼人一直到征服者苏丹穆罕默德时代，仍被视为“边疆加齐”；阿拉伯编年史把奥斯曼帕迪沙称为 emîru’l-ucât，即边疆之埃米尔。于是，随着时间推移，“弘扬真主之言”这一术语，在奥斯曼吉哈德与加扎意识形态中，成为象征国家终极目标的程式化表述。"
@@ -141,7 +169,35 @@
       "type": "paragraph",
       "page": "115",
       "en": [
-        "Osmanlı Devleti’nin daha başında yüklendiği bu misyon, önce Osmanlı padişahlarının isim ve unvanlarında kendini gösterdi. Bilindiği üzere ilk Osmanlı beyleri, Osman Gazi, Orhan Gazi, Murad Gazi şeklinde hep gazi unvanını taşıdıkları gibi, yaptırdıkları binaların kitabelerinde de bunu değişik biçimlerde kullanmaya özen göstermişlerdir. Mesela, “iftihârü’l-guzât ve’l-mücâhidîn” (yahut sultanü’l-guzât ve’l-mücâhidîn) veya “şerefü’l-guzât ve’l-mücâhidîn”, “el-gâzî ibnü’l-gâzî” bunlardan yalnızca birkaçıdır.",
+        "Osmanlı Devleti’nin daha başında yüklendiği bu misyon, önce Osmanlı padişahlarının isim ve unvanlarında kendini gösterdi. Bilindiği üzere ilk Osmanlı beyleri, Osman Gazi, Orhan Gazi, Murad Gazi şeklinde hep gazi unvanını taşıdıkları gibi, yaptırdıkları binaların kitabelerinde de bunu değişik biçimlerde kullanmaya özen göstermişlerdir. Mesela, “",
+        {
+          "type": "em",
+          "children": [
+            "iftihârü’l-guzât ve’l-mücâhidîn"
+          ]
+        },
+        "” (yahut ",
+        {
+          "type": "em",
+          "children": [
+            "sultanü’l-guzât ve’l-mücâhidîn"
+          ]
+        },
+        ") veya “",
+        {
+          "type": "em",
+          "children": [
+            "şerefü’l-guzât ve’l-mücâhidîn"
+          ]
+        },
+        "”, “",
+        {
+          "type": "em",
+          "children": [
+            "el-gâzî ibnü’l-gâzî"
+          ]
+        },
+        "” bunlardan yalnızca birkaçıdır.",
         {
           "type": "note",
           "id": "ch01-54"
@@ -160,7 +216,42 @@
       "type": "paragraph",
       "page": "115–116",
       "en": [
-        "Osmanlı Devleti’nin bu “kutsal misyon”u, 16. yüzyılın ilk çeyreğine, yani Yavuz Sultan Selim devrine kadar, İslâm âlemi adına yalnızca ehl-i küfr’e (Hıristiyan dünyaya) karşı cihad ve gaza olarak algılanmaktaydı. Gerçi bu anlayış I. Dünya Savaşı’na kadar da devam etti. Ancak 16. yüzyılın başlarında Ortadoğu’da tarih sahnesine çıkan yeni bir siyasal faktör, Osmanlı Devleti’nin bu “kutsal misyon”unda yeni bir dönemi başlattı. İran’da Şiî bir ideoloji üzerine kurulan Safevî devletinin Osmanlı topraklarında yoğun bir propagandaya başlaması ve bu propagandanın özellikle konar-göçer kesim içinde yankı bulması, Anadolu’da baş gösteren ayaklanmalar, merkezî yönetimi büyük endişelere sevk etmişti. Bunun sonucu olarak, yoğun bir karşı propaganda faaliyetine girişen Osmanlı merkezî yönetimi, Şiîliği İslâm dışı sayıp mahkûm etmek suretiyle Râfızîlik (sapkınlık, hérésie) olarak yorumladı. Sonuçta, “ehl-i küfr”ün kapsamına Râfızîleri (Ehl-i rafz) de soktu, cihad ve gaza kavramını Şiî İran’a karşı yapılacak mücadeleyi de içine alacak biçimde genişletti. Bu zihniyet değişimi, o zamana kadar Anadolu topraklarında sessiz sedasız oturan heterodoks kesimlere de şamil kılındı. İşte, Osmanlı resmî ideolojisinde Safevî faktörüyle ortaya çıkan bu değişim, Türkiye tarihinde sonuçları bugüne kadar uzanan önemli bir toplumsal kırılmanın doğmasına sebebiyet verdi."
+        "Osmanlı Devleti’nin bu “kutsal misyon”u, 16. yüzyılın ilk çeyreğine, yani Yavuz Sultan Selim devrine kadar, İslâm âlemi adına yalnızca ",
+        {
+          "type": "em",
+          "children": [
+            "ehl-i küfr"
+          ]
+        },
+        "’e (Hıristiyan dünyaya) karşı cihad ve gaza olarak algılanmaktaydı. Gerçi bu anlayış I. Dünya Savaşı’na kadar da devam etti. Ancak 16. yüzyılın başlarında Ortadoğu’da tarih sahnesine çıkan yeni bir siyasal faktör, Osmanlı Devleti’nin bu “kutsal misyon”unda yeni bir dönemi başlattı. İran’da Şiî bir ideoloji üzerine kurulan Safevî devletinin Osmanlı topraklarında yoğun bir propagandaya başlaması ve bu propagandanın özellikle konar-göçer kesim içinde yankı bulması, Anadolu’da baş gösteren ayaklanmalar, merkezî yönetimi büyük endişelere sevk etmişti. Bunun sonucu olarak, yoğun bir karşı propaganda faaliyetine girişen Osmanlı merkezî yönetimi, Şiîliği İslâm dışı sayıp mahkûm etmek suretiyle ",
+        {
+          "type": "em",
+          "children": [
+            "Râfızîlik"
+          ]
+        },
+        " (sapkınlık, ",
+        {
+          "type": "em",
+          "children": [
+            "hérésie"
+          ]
+        },
+        ") olarak yorumladı. Sonuçta, “",
+        {
+          "type": "em",
+          "children": [
+            "ehl-i küfr"
+          ]
+        },
+        "”ün kapsamına Râfızîleri (",
+        {
+          "type": "em",
+          "children": [
+            "Ehl-i rafz"
+          ]
+        },
+        ") de soktu, cihad ve gaza kavramını Şiî İran’a karşı yapılacak mücadeleyi de içine alacak biçimde genişletti. Bu zihniyet değişimi, o zamana kadar Anadolu topraklarında sessiz sedasız oturan heterodoks kesimlere de şamil kılındı. İşte, Osmanlı resmî ideolojisinde Safevî faktörüyle ortaya çıkan bu değişim, Türkiye tarihinde sonuçları bugüne kadar uzanan önemli bir toplumsal kırılmanın doğmasına sebebiyet verdi."
       ],
       "zh": [
         "直到16世纪第一个四分之一，即严峻者苏丹塞利姆时代，奥斯曼国家的这种“神圣使命”，还仅被理解为代表伊斯兰世界对不信者（基督教世界）进行吉哈德与加扎。这一理解固然一直延续到第一次世界大战，但16世纪初在中东历史舞台上出现的一个新政治因素，为奥斯曼国家的这一“神圣使命”开启了新的阶段。以什叶派意识形态为基础在伊朗建立的萨法维国家，开始在奥斯曼领土上展开密集宣传；宣传尤其在游牧及半游牧群体中引起反响，安纳托利亚又发生起义，这使中央政府极为忧虑。因此，奥斯曼中央政府展开强力反宣传，把什叶派判定为伊斯兰以外的信仰并予以谴责，将其解释为拉菲兹派，即异端。最终，政府把拉菲兹派也纳入“不信者”的范畴，并扩展吉哈德与加扎概念，使其包括对什叶派伊朗的斗争。这种观念变化也被施用于此前在安纳托利亚安静生活的非正统群体。正是萨法维因素在奥斯曼官方意识形态中引起的这一变化，导致土耳其历史上一场重要的社会断裂，其后果延续至今。"
@@ -182,7 +273,28 @@
       "type": "paragraph",
       "page": "116",
       "en": [
-        "Osmanlı Devleti’nin kendi tebaasının dışındaki Hıristiyan dünyaya bakışı büyük çapta İslâm’ın tarihî mirasının, yani teorik kaynaklarının ve tarihsel tecrübesinin oluşturduğu bir bakıştır. İslâm hukuk geleneklerine göre dünya, Dârü’l-İslâm (İslâm ülkesi, selamet memleketi) ve Dârü’l-harb (savaş ülkesi) olmak üzere iki ana kategoriye ayrılmıştır. Osmanlı resmî ideolojisinde Hıristiyan âlemi bu ikinci terimle ifade olunur. Burada gözden kaçırılmaması icap eden çok önemli nokta, fetihlerin nihaî amacının, Dârü’l-harb’in İslâm dinine değil, Osmanlılar’ın temsil ettiği İslâm egemenliğine dahil edilmesi olduğudur."
+        "Osmanlı Devleti’nin kendi tebaasının dışındaki Hıristiyan dünyaya bakışı büyük çapta İslâm’ın tarihî mirasının, yani teorik kaynaklarının ve tarihsel tecrübesinin oluşturduğu bir bakıştır. İslâm hukuk geleneklerine göre dünya, ",
+        {
+          "type": "em",
+          "children": [
+            "Dârü’l-İslâm"
+          ]
+        },
+        " (İslâm ülkesi, selamet memleketi) ve ",
+        {
+          "type": "em",
+          "children": [
+            "Dârü’l-harb"
+          ]
+        },
+        " (savaş ülkesi) olmak üzere iki ana kategoriye ayrılmıştır. Osmanlı resmî ideolojisinde Hıristiyan âlemi bu ikinci terimle ifade olunur. Burada gözden kaçırılmaması icap eden çok önemli nokta, fetihlerin nihaî amacının, ",
+        {
+          "type": "em",
+          "children": [
+            "Dârü’l-harb"
+          ]
+        },
+        "’in İslâm dinine değil, Osmanlılar’ın temsil ettiği İslâm egemenliğine dahil edilmesi olduğudur."
       ],
       "zh": [
         "奥斯曼国家对于自身臣民以外的基督教世界的看法，在很大程度上由伊斯兰的历史遗产，即其理论渊源和历史经验塑造。按照伊斯兰法律传统，世界分为两大类别：Dârü’l-İslâm，即伊斯兰之域、平安之地；以及 Dârü’l-harb，即战争之域。在奥斯曼官方意识形态中，基督教世界用第二个术语来表述。这里有一点极为重要，不应忽略：征服的最终目的，是把战争之域纳入奥斯曼人所代表的伊斯兰统治，而非使其接受伊斯兰宗教。"
@@ -193,7 +305,21 @@
       "type": "paragraph",
       "page": "116",
       "en": [
-        "Osmanlılar bu uc gaziliği misyonlarına, 16. yüzyılda hilafetin getirdiği yeni ve evrensel bir boyut eklediler. Bu, Osmanlı Devleti’nin hilâfet-penah (hilafetin sığınağı) olmak itibariyle kendine biçtiği, o zamana kadar Memlûk Devleti’nin uhdesinde bulunan İslâm’ın hamiliği misyonuydu. Bu misyon, İran hariç, hem bütün İslâm dünyasının, hem de Batılıların Osmanlı Devleti’ne yepyeni bir gözle bakması, onu İslâm dünyasının lideri olarak algılaması sebebiyle iki dünyayı da ilgilendirmesi bakımından evrenseldi. Nitekim Osmanlı Devleti bunun bilincindeydi; bundan böyle Batı Hıristiyan âlemine bu misyonun gösterdiği açıdan bakacaktı. Batı’ya karşı kazanılan her zaferden sonra, bu zaferleri İslâm âlemine müjdelemek ve böylece onların gözünde saygınlık kazanmak maksadıyla kaleme alınan fetihnâmelerde, bu bakış açısını vurgulayan tipik ifade biçimlerine bol miktarda rastlanır."
+        "Osmanlılar bu uc gaziliği misyonlarına, 16. yüzyılda hilafetin getirdiği yeni ve evrensel bir boyut eklediler. Bu, Osmanlı Devleti’nin ",
+        {
+          "type": "em",
+          "children": [
+            "hilâfet-penah"
+          ]
+        },
+        " (hilafetin sığınağı) olmak itibariyle kendine biçtiği, o zamana kadar Memlûk Devleti’nin uhdesinde bulunan İslâm’ın hamiliği misyonuydu. Bu misyon, İran hariç, hem bütün İslâm dünyasının, hem de Batılıların Osmanlı Devleti’ne yepyeni bir gözle bakması, onu İslâm dünyasının lideri olarak algılaması sebebiyle iki dünyayı da ilgilendirmesi bakımından evrenseldi. Nitekim Osmanlı Devleti bunun bilincindeydi; bundan böyle Batı Hıristiyan âlemine bu misyonun gösterdiği açıdan bakacaktı. Batı’ya karşı kazanılan her zaferden sonra, bu zaferleri İslâm âlemine müjdelemek ve böylece onların gözünde saygınlık kazanmak maksadıyla kaleme alınan ",
+        {
+          "type": "em",
+          "children": [
+            "fetihnâmelerde"
+          ]
+        },
+        ", bu bakış açısını vurgulayan tipik ifade biçimlerine bol miktarda rastlanır."
       ],
       "zh": [
         "16世纪，奥斯曼人给自身的边疆加齐使命增添了哈里发职位带来的一个新的普遍性维度。这就是奥斯曼国家以“哈里发制的庇护所”自居而赋予自己的伊斯兰护持者使命，此前这一职责由马穆鲁克国家承担。除伊朗外，整个伊斯兰世界和西方人都开始以全新的眼光看待奥斯曼国家，将其视为伊斯兰世界的领袖；因而，这一使命同时涉及两个世界，在这个意义上具有普遍性。奥斯曼国家确实意识到了这一点，此后将从这一使命所规定的角度看待西方基督教世界。每次战胜西方之后，奥斯曼人都会撰写征服捷报，向伊斯兰世界报喜，以赢得其尊重；在这些文书中，可以大量见到强调这一立场的典型措辞。"
@@ -204,7 +330,35 @@
       "type": "paragraph",
       "page": "117",
       "en": [
-        "Mesela 1521’deki Belgrad’ın fethini takiben yazılan fetihnâmede Kanuni Sultan Süleyman, “kıtâl-i müşrikîn ve ta‘zîb-i kâfirîn”i (müşrikleri katletmek ve kâfirleri azaba uğratmak) gaye edindiğini bildiriyor; 1522’deki Rodos fetihnâmesinde, İslâm’ın hamisi olarak “feth ve ref‘-i âsâr-ı küfr ü zulüm” (adayı İslâm’a açmak, küfür ve zulmün izlerini silip kaldırmak) için savaştığını anlatıyordu. 1526 Mohaç zaferini müjdeleyen fetihnâmede ise, âlem-i İslâm’ın “müeyyed ve mansûr ve a‘dây-ı dîn-i Seyyidü’l-enâm mübtezel ve makhûr” (İslâm âleminin güçlendirilip yardıma mazhar ve Halkın Efendisi’nin (Peygamber’in) dininin düşmanlarının yerle bir ve kahr) olduğu; 1541 yılında Budin’in fethiyle Macaristan topraklarının “cehennemîler elinden halâs u âzâd idilüp çâr kûşe penc nevbet-i İslâm’a müeddî” (cehennemlikler elinden kurtarılıp dört bir köşesinde beş vakit İslâm nevbetinin çalınmasına amade) kılındığı duyuruluyordu.",
+        "Mesela 1521’deki Belgrad’ın fethini takiben yazılan fetihnâmede Kanuni Sultan Süleyman, “",
+        {
+          "type": "em",
+          "children": [
+            "kıtâl-i müşrikîn ve ta‘zîb-i kâfirîn"
+          ]
+        },
+        "”i (müşrikleri katletmek ve kâfirleri azaba uğratmak) gaye edindiğini bildiriyor; 1522’deki Rodos fetihnâmesinde, İslâm’ın hamisi olarak “",
+        {
+          "type": "em",
+          "children": [
+            "feth ve ref‘-i âsâr-ı küfr ü zulüm"
+          ]
+        },
+        "” (adayı İslâm’a açmak, küfür ve zulmün izlerini silip kaldırmak) için savaştığını anlatıyordu. 1526 Mohaç zaferini müjdeleyen fetihnâmede ise, âlem-i İslâm’ın “",
+        {
+          "type": "em",
+          "children": [
+            "müeyyed ve mansûr ve a‘dây-ı dîn-i Seyyidü’l-enâm mübtezel ve makhûr"
+          ]
+        },
+        "” (İslâm âleminin güçlendirilip yardıma mazhar ve Halkın Efendisi’nin (Peygamber’in) dininin düşmanlarının yerle bir ve kahr) olduğu; 1541 yılında Budin’in fethiyle Macaristan topraklarının “",
+        {
+          "type": "em",
+          "children": [
+            "cehennemîler elinden halâs u âzâd idilüp çâr kûşe penc nevbet-i İslâm’a müeddî"
+          ]
+        },
+        "” (cehennemlikler elinden kurtarılıp dört bir köşesinde beş vakit İslâm nevbetinin çalınmasına amade) kılındığı duyuruluyordu.",
         {
           "type": "note",
           "id": "ch01-55"
@@ -231,25 +385,95 @@
     },
     "ch01-51": {
       "en": [
-        "Köprülü, Osmanlı Devleti’nin Kuruluşu, s. 67-110; İnalcık, “The Emergence of the Ottomans”, The Cambridge History of İslâm, Cambridge 1970, I, 283-284."
+        "Köprülü, ",
+        {
+          "type": "em",
+          "children": [
+            "Osmanlı Devleti’nin Kuruluşu"
+          ]
+        },
+        ", s. 67-110; İnalcık, “The Emergence of the Ottomans”, ",
+        {
+          "type": "em",
+          "children": [
+            "The Cambridge History of İslâm"
+          ]
+        },
+        ", Cambridge 1970, I, 283-284."
       ],
       "zh": [
-        "克普吕律：《奥斯曼国家的建立》，第67—110页；伊纳尔哲：《奥斯曼人的兴起》，载《剑桥伊斯兰史》，剑桥，1970年，第I卷，第283—284页。"
+        "科普吕吕：《奥斯曼国家的建立》，第67—110页；伊纳尔哲克：《奥斯曼人的兴起》，载《剑桥伊斯兰史》，剑桥，1970年，第I卷，第283—284页。"
       ],
       "page": "114"
     },
     "ch01-52": {
       "en": [
-        "Bunlara iki tipik örnek olarak, Velâyetnâme-i Seyyid Ali Sultan ile Velâyetnâme-i Otman Baba’yı zikredelim. Bunlardan ilki üzerinde Irene Beldiceanu’nun “La vita de Seyyid Ali Sultan et la conquête de la Thrace par les Turcs”, (Proceedings of the XXVIIth International Congress of Orientalists [Ann Arbor 1967], Wiesbaden 1971, s. 275-276) adlı makalesiyle, “Seyyid Ali Sultan d’après les registres ottomans: l’Installation de l’İslâm hétérodoxe en Thrace”, (The Via Egnatia under Ottoman Rule, ed. E. Zachariadou, Crete Univ. Press, Rethymnon 1996, s. 45-66) başlıklı makalesine ve özellikle Rıza Yıldırım’ın şu kitabına ve makalelerine bkz.: Seyyid Ali Sultan (Kızıldeli) ve Velâyetnâmesi, Ankara: TTK Yay., 2007 (Söz konusu kitap bu konuda yapılmış en iyi çalışmadır); “History beneath clouds of legend: Seyyid Ali Sultan and his place in early otoman history…”, International Journal of Turkish Studies, 15/1-2 (2009), pp. 21-56; İkincisi hakkında ise H. İnalcık’ın “Dervishe and Sultan: An analysis of the Otman Baba Vilâyetnâmesi” adındaki (The Middle East and the Balkans Under the Ottoman Empire: Essays on Economy and Society, Bloomington 1993, s. 19-36) alimane yazısına bakılmalıdır."
+        "Bunlara iki tipik örnek olarak, ",
+        {
+          "type": "em",
+          "children": [
+            "Velâyetnâme-i Seyyid Ali Sultan"
+          ]
+        },
+        " ile ",
+        {
+          "type": "em",
+          "children": [
+            "Velâyetnâme-i Otman Baba"
+          ]
+        },
+        "’yı zikredelim. Bunlardan ilki üzerinde Irene Beldiceanu’nun “La vita de Seyyid Ali Sultan et la conquête de la Thrace par les Turcs”, (",
+        {
+          "type": "em",
+          "children": [
+            "Proceedings of the XXVIIth International Congress of Orientalists"
+          ]
+        },
+        " [Ann Arbor 1967], Wiesbaden 1971, s. 275-276) adlı makalesiyle, “Seyyid Ali Sultan d’après les registres ottomans: l’Installation de l’İslâm hétérodoxe en Thrace”, (",
+        {
+          "type": "em",
+          "children": [
+            "The Via Egnatia under Ottoman Rule"
+          ]
+        },
+        ", ed. E. Zachariadou, Crete Univ. Press, Rethymnon 1996, s. 45-66) başlıklı makalesine ve özellikle Rıza Yıldırım’ın şu kitabına ve makalelerine bkz.: ",
+        {
+          "type": "em",
+          "children": [
+            "Seyyid Ali Sultan (Kızıldeli) ve Velâyetnâmesi"
+          ]
+        },
+        ", Ankara: TTK Yay., 2007 (Söz konusu kitap bu konuda yapılmış en iyi çalışmadır); “History beneath clouds of legend: Seyyid Ali Sultan and his place in early otoman history…”, ",
+        {
+          "type": "em",
+          "children": [
+            "International Journal of Turkish Studies"
+          ]
+        },
+        ", 15/1-2 (2009), pp. 21-56; İkincisi hakkında ise H. İnalcık’ın “Dervishe and Sultan: An analysis of the Otman Baba Vilâyetnâmesi” adındaki (",
+        {
+          "type": "em",
+          "children": [
+            "The Middle East and the Balkans Under the Ottoman Empire: Essays on Economy and Society"
+          ]
+        },
+        ", Bloomington 1993, s. 19-36) alimane yazısına bakılmalıdır."
       ],
       "zh": [
-        "这里可举两个典型例子：《赛义德·阿里苏丹圣徒传》和《奥特曼巴巴圣徒传》。关于前者，参见伊雷娜·贝尔迪恰努：《赛义德·阿里苏丹传与土耳其人征服色雷斯》，载《第二十七届国际东方学家大会论文集》〔1967年安娜堡会议〕，威斯巴登，1971年，第275—276页；以及《奥斯曼登记簿中的赛义德·阿里苏丹：非正统伊斯兰在色雷斯的扎根》，载 E.扎哈里亚杜编《奥斯曼统治下的埃格纳提亚大道》，雷西姆农：克里特大学出版社，1996年，第45—66页。尤其参见勒扎·耶尔德勒姆的以下著作与论文：《赛义德·阿里苏丹（克泽尔代利）及其圣徒传》，安卡拉：土耳其历史学会出版社，2007年（该书是这一课题上最好的研究）；《传说云雾之下的历史：赛义德·阿里苏丹及其在奥斯曼早期历史中的地位……》，《国际土耳其研究杂志》，第15卷第1—2期（2009），第21—56页。关于后者，应参看 H.伊纳尔哲的精深论文《德尔维希与苏丹：〈奥特曼巴巴圣徒传〉分析》，载《奥斯曼帝国统治下的中东与巴尔干：经济与社会论集》，布卢明顿，1993年，第19—36页。〔译校注：底本论文题名中的 otoman、Dervishe 拼写照存；贝尔迪恰努论文的第45—66页尚待核对原书。〕"
+        "这里可举两个典型例子：《赛义德·阿里苏丹圣徒传》和《奥特曼巴巴圣徒传》。关于前者，参见伊雷娜·贝尔迪恰努：《赛义德·阿里苏丹传与土耳其人征服色雷斯》，载《第二十七届国际东方学家大会论文集》〔1967年安娜堡会议〕，威斯巴登，1971年，第275—276页；以及《奥斯曼登记簿中的赛义德·阿里苏丹：非正统伊斯兰在色雷斯的扎根》，载 E.扎哈里亚杜编《奥斯曼统治下的埃格纳提亚大道》，雷西姆农：克里特大学出版社，1996年，第45—66页。尤其参见勒扎·耶尔德勒姆的以下著作与论文：《赛义德·阿里苏丹（克泽尔代利）及其圣徒传》，安卡拉：土耳其历史学会出版社，2007年（该书是这一课题上最好的研究）；《传说云雾之下的历史：赛义德·阿里苏丹及其在奥斯曼早期历史中的地位……》，《国际土耳其研究杂志》，第15卷第1—2期（2009），第21—56页。关于后者，应参看 H.伊纳尔哲克的精深论文《德尔维希与苏丹：〈奥特曼巴巴圣徒传〉分析》，载《奥斯曼帝国统治下的中东与巴尔干：经济与社会论集》，布卢明顿，1993年，第19—36页。〔译校注：底本论文题名中的 otoman、Dervishe 拼写照存；贝尔迪恰努论文的第45—66页尚待核对原书。〕"
       ],
       "page": "114–115"
     },
     "ch01-53": {
       "en": [
-        "A. Philippidis-Braat, “La captivité de Palamas chez les Trucs”, Travaux et Mémoires, 7 (1979), s. 150 vd."
+        "A. Philippidis-Braat, “La captivité de Palamas chez les Trucs”, ",
+        {
+          "type": "em",
+          "children": [
+            "Travaux et Mémoires"
+          ]
+        },
+        ", 7 (1979), s. 150 vd."
       ],
       "zh": [
         "A.菲利皮迪斯—布拉特：《帕拉马斯在土耳其人中的被俘经历》，《Travaux et Mémoires》，第7卷（1979），第150页及以下。〔译校注：底本法文题名将 Turcs 拼作 Trucs，土文书目照存。〕"
@@ -258,10 +482,17 @@
     },
     "ch01-54": {
       "en": [
-        "Msl. bkz. Ayverdi, Osmanlı Mimarisinin İlk Devri, ilgili yerlerde."
+        "Msl. bkz. Ayverdi, ",
+        {
+          "type": "em",
+          "children": [
+            "Osmanlı Mimarisinin İlk Devri"
+          ]
+        },
+        ", ilgili yerlerde."
       ],
       "zh": [
-        "例如参见阿伊韦尔迪：《奥斯曼建筑的早期》，相关各处。"
+        "例如参见艾韦尔迪：《奥斯曼建筑的早期》，相关各处。"
       ],
       "page": "115"
     },

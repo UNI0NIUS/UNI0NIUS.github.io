@@ -19,7 +19,14 @@
       "type": "paragraph",
       "page": "105",
       "en": [
-        "Osmanlı resmî ideolojisinde tebaanın statüsü, temeli eski Hind-İran siyasî düşüncesine dayalı (yukarıda özetlenen) daire-i ‘adliye prensibinde ifadesini bulur. Bu, bir devleti meydana getiren siyasal iktidar-ordu-maliye-tebaa dörtlüsü arasındaki sıkı ilişkiyi belirten ve birinin mevcudiyetini, diğerinin mevcudiyetine bağlayan bir siyaset teorisidir.",
+        "Osmanlı resmî ideolojisinde tebaanın statüsü, temeli eski Hind-İran siyasî düşüncesine dayalı (yukarıda özetlenen) ",
+        {
+          "type": "em",
+          "children": [
+            "daire-i ‘adliye"
+          ]
+        },
+        " prensibinde ifadesini bulur. Bu, bir devleti meydana getiren siyasal iktidar-ordu-maliye-tebaa dörtlüsü arasındaki sıkı ilişkiyi belirten ve birinin mevcudiyetini, diğerinin mevcudiyetine bağlayan bir siyaset teorisidir.",
         {
           "type": "note",
           "id": "ch01-39"
@@ -51,7 +58,63 @@
       "type": "paragraph",
       "page": "105–106",
       "en": [
-        "Tebaa Osmanlı resmî ideolojisinde çoğunlukla re‘âyâ (yahut bazen tekil biçimiyle raiyyet) veya re‘âyâ ve beraya (sürüler ve halklar) kelimeleriyle ifade edilmiştir. Şeriat terimiyle ulü’l-emr, yani otorite mercii olan padişah, yönettiği tebaasına adaletle muamele etmek zorundadır. Bu muamele şer‘î deyimiyle emr bi’l-ma‘rûf nehy ‘ani’l-münker (iyiliği emredip kötülükten sakındırma) prensibi çerçevesinde ve (“İnsanlar arasında hükmettiğinizde adaletle hükmediniz” ayeti uyarınca) adaleti gözeterek yapılmak zorundadır. Bu sebeple teorik olarak Osmanlı padişahı, sayesinde hükümranlığını icra edebildiği re‘âyâyı vediatullah (Allah’ın emaneti) telakki etmekle yükümlüdür. Nitekim bazı resmî belgelerde bu husus pek çok defa şu aşağıdakine benzer ifadelerle sık sık dile getirilmiştir:"
+        "Tebaa Osmanlı resmî ideolojisinde çoğunlukla ",
+        {
+          "type": "em",
+          "children": [
+            "re‘âyâ"
+          ]
+        },
+        " (yahut bazen tekil biçimiyle ",
+        {
+          "type": "em",
+          "children": [
+            "raiyyet"
+          ]
+        },
+        ") veya ",
+        {
+          "type": "em",
+          "children": [
+            "re‘âyâ ve beraya"
+          ]
+        },
+        " (sürüler ve halklar) kelimeleriyle ifade edilmiştir. Şeriat terimiyle ",
+        {
+          "type": "em",
+          "children": [
+            "ulü’l-emr"
+          ]
+        },
+        ", yani otorite mercii olan padişah, yönettiği tebaasına adaletle muamele etmek zorundadır. Bu muamele şer‘î deyimiyle ",
+        {
+          "type": "em",
+          "children": [
+            "emr bi’l-ma‘rûf nehy ‘ani’l-münker"
+          ]
+        },
+        " (iyiliği emredip kötülükten sakındırma) prensibi çerçevesinde ve (“",
+        {
+          "type": "em",
+          "children": [
+            "İnsanlar arasında hükmettiğinizde adaletle hükmediniz"
+          ]
+        },
+        "” ayeti uyarınca) adaleti gözeterek yapılmak zorundadır. Bu sebeple teorik olarak Osmanlı padişahı, sayesinde hükümranlığını icra edebildiği ",
+        {
+          "type": "em",
+          "children": [
+            "re‘âyâ"
+          ]
+        },
+        "yı ",
+        {
+          "type": "em",
+          "children": [
+            "vediatullah"
+          ]
+        },
+        " (Allah’ın emaneti) telakki etmekle yükümlüdür. Nitekim bazı resmî belgelerde bu husus pek çok defa şu aşağıdakine benzer ifadelerle sık sık dile getirilmiştir:"
       ],
       "zh": [
         "在奥斯曼官方意识形态中，臣民通常称为 re‘âyâ（有时也使用其单数形式 raiyyet），或称 re‘âyâ ve beraya（群畜与民众）。作为沙里亚所称的 ulü’l-emr，即掌权者，帕迪沙必须公正地对待其治下臣民。这种对待必须遵循教法所称的 emr bi’l-ma‘rûf nehy ‘ani’l-münker——命人行善、劝戒作恶——原则，并依照“你们在人们之间裁决时，应当公正裁决”这一经文，维护正义。因此，在理论上，奥斯曼帕迪沙有义务将支撑其统治的臣民视为 vediatullah，即真主托付之人。事实上，一些官方文书反复使用类似以下的措辞来表达这一点：〔译校注：本段所引经文见《古兰经》4:58。〕"
@@ -59,7 +122,7 @@
     },
     {
       "id": "z2013-ch01-089",
-      "type": "paragraph",
+      "type": "quote",
       "page": "106",
       "en": [
         "Re‘âyâ fukarası Hazret-i Hallâk-ı cihan tarafından Cenâb-ı hilâfet-meâb-ı hüsrevâneme vedî‘a olunmağla anlarun vücûh-i mezâlim ve ta‘addiyattan sıyânetleri ve emn ü râhat ile yerlerinde ve yurdlarında oturub kâr u kisb ve zer‘ u harsleri ile meşgûl olarak isticlâb-ı du‘â-i hayrları zimmet-i mülûkâneme vâsıl ve lâzım olmağla…"
@@ -73,7 +136,14 @@
       "type": "paragraph",
       "page": "106",
       "en": [
-        "Osmanlı resmî ideolojisinde padişahın ulü’l-emr olarak re‘âyâya bu bakışı, müslim-gayrimüslim herkes için söz konusudur. Vergisini vererek devletin hâkimiyetine boyun eğen herkes, padişah nazarında teorik olarak aynı hakka sahiptir. Genel olarak Dîvân-ı Hümayun tarafından yayınlanan çeşitli belgelerden çıkarılabildiği kadarıyla Osmanlı resmî ideolojisinde ideal re‘âyâ,"
+        "Osmanlı resmî ideolojisinde padişahın ",
+        {
+          "type": "em",
+          "children": [
+            "ulü’l-emr"
+          ]
+        },
+        " olarak re‘âyâya bu bakışı, müslim-gayrimüslim herkes için söz konusudur. Vergisini vererek devletin hâkimiyetine boyun eğen herkes, padişah nazarında teorik olarak aynı hakka sahiptir. Genel olarak Dîvân-ı Hümayun tarafından yayınlanan çeşitli belgelerden çıkarılabildiği kadarıyla Osmanlı resmî ideolojisinde ideal re‘âyâ,"
       ],
       "zh": [
         "在奥斯曼官方意识形态中，帕迪沙作为掌权者对臣民的上述看法，适用于穆斯林和非穆斯林所有人。凡缴纳赋税、服从国家统治者，在帕迪沙眼中，理论上享有同样的权利。从御前会议颁布的各种文书大体可以归纳出，奥斯曼官方意识形态中的理想臣民，是这样的人："
@@ -120,7 +190,7 @@
         "– mensubu bulunduğu toplumsal kesimden, yaşadığı yerden izinsiz ayrılmayan, kısaca her alanda mutlak anlamda boyun eğen insanlardır."
       ],
       "zh": [
-        "—不未经许可脱离所属社会阶层、离开居住地；简言之，在所有领域都绝对服从。"
+        "—未经许可不脱离所属社会阶层、不离开居住地；简言之，在所有领域都绝对服从。"
       ]
     },
     {
@@ -128,7 +198,21 @@
       "type": "paragraph",
       "page": "106",
       "en": [
-        "Osmanlı Devleti bu beklentisinde kendi mantığı içinde tutarlıydı. Çünkü din ve mezhep esasına göre cemaatler (millet sistemi) halinde düzenlenmiş Osmanlı toplumsal mozaiğinin ahenginin korunup sürdürülebilmesi yahut Osmanlı resmî ideolojisindeki deyimiyle nizâm-ı âlemin devamı, bu mutlak itaate bağlıydı. Bunun çok tabii bir sonucu olarak da, tabakalar ve cemaatler arası yer değiştirme oldukça sınırlı ve izne bağlıydı."
+        "Osmanlı Devleti bu beklentisinde kendi mantığı içinde tutarlıydı. Çünkü din ve mezhep esasına göre cemaatler (",
+        {
+          "type": "em",
+          "children": [
+            "millet sistemi"
+          ]
+        },
+        ") halinde düzenlenmiş Osmanlı toplumsal mozaiğinin ahenginin korunup sürdürülebilmesi yahut Osmanlı resmî ideolojisindeki deyimiyle ",
+        {
+          "type": "em",
+          "children": [
+            "nizâm-ı âlem"
+          ]
+        },
+        "in devamı, bu mutlak itaate bağlıydı. Bunun çok tabii bir sonucu olarak da, tabakalar ve cemaatler arası yer değiştirme oldukça sınırlı ve izne bağlıydı."
       ],
       "zh": [
         "按照自身逻辑，奥斯曼国家的这种期待是一贯的。奥斯曼社会按照宗教与教派划分为各共同体（米利特制度）；要维持这一多元社会的协调，或者用奥斯曼官方意识形态的说法，维持 nizâm-ı âlem，就依赖于这种绝对服从。由此产生的一个自然结果，是不同阶层、不同共同体之间的流动受到相当严格的限制，并须获得许可。"
@@ -149,7 +233,14 @@
   "notes": {
     "ch01-39": {
       "en": [
-        "Bkz. Kınalızâde ‘Ali Efendi, Ahlâk-ı ‘Alâyî, Kahire 1248, 3 cilt."
+        "Bkz. Kınalızâde ‘Ali Efendi, ",
+        {
+          "type": "em",
+          "children": [
+            "Ahlâk-ı ‘Alâyî"
+          ]
+        },
+        ", Kahire 1248, 3 cilt."
       ],
       "zh": [
         "参见克纳勒扎德·阿里埃芬迪：《阿拉伊伦理学》（Ahlâk-ı ‘Alâyî），开罗，1248年，3卷。"

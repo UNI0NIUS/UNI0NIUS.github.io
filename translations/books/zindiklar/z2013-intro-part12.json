@@ -23,7 +23,21 @@
           "type": "note",
           "id": "intro-103"
         },
-        " Şiirlerinin bir kısmı, İbn Kuteybe’nin Kitabü’ş-Şi‘r’i ile, Ebu’l-Ferec İsfahânî’nin Kitabü’l-Egânî’si vasıtasıyla bize ulaşmıştır.",
+        " Şiirlerinin bir kısmı, İbn Kuteybe’nin ",
+        {
+          "type": "em",
+          "children": [
+            "Kitabü’ş-Şi‘r"
+          ]
+        },
+        "’i ile, Ebu’l-Ferec İsfahânî’nin ",
+        {
+          "type": "em",
+          "children": [
+            "Kitabü’l-Egânî"
+          ]
+        },
+        "’si vasıtasıyla bize ulaşmıştır.",
         {
           "type": "note",
           "id": "intro-104"
@@ -134,7 +148,14 @@
   "notes": {
     "intro-101": {
       "en": [
-        "Bkz. Siyasi ve Kültürel İslâm Tarihi, II, 623."
+        "Bkz. ",
+        {
+          "type": "em",
+          "children": [
+            "Siyasi ve Kültürel İslâm Tarihi"
+          ]
+        },
+        ", II, 623."
       ],
       "zh": [
         "见《伊斯兰政治文化史》，第II卷，第623页。〔译校记：指P. K. 希提著、Salih Tuğ译的土耳其语版，完整版本信息见原注49。〕"
@@ -143,7 +164,14 @@
     },
     "intro-102": {
       "en": [
-        "Bu konuda şuraya bakılmalıdır: Ahmed el-Kırnî, Beşşar b. Burd, Şi‘ruhû ve Ahbaruhû, Kahire 1925."
+        "Bu konuda şuraya bakılmalıdır: Ahmed el-Kırnî, ",
+        {
+          "type": "em",
+          "children": [
+            "Beşşar b. Burd, Şi‘ruhû ve Ahbaruhû"
+          ]
+        },
+        ", Kahire 1925."
       ],
       "zh": [
         "这一问题应参见：Ahmed el-Kırnî：《巴沙尔·伊本·布尔德：诗歌与事迹》（Beşşar b. Burd, Şi‘ruhû ve Ahbaruhû），开罗，1925年。"
@@ -152,7 +180,14 @@
     },
     "intro-103": {
       "en": [
-        "Bkz. el-Bidâye ve’n-Nihâye, Kahire 1932, X, 150."
+        "Bkz. ",
+        {
+          "type": "em",
+          "children": [
+            "el-Bidâye ve’n-Nihâye"
+          ]
+        },
+        ", Kahire 1932, X, 150."
       ],
       "zh": [
         "见《始与终》（el-Bidâye ve’n-Nihâye），开罗，1932年，第X卷，第150页。"
@@ -161,7 +196,14 @@
     },
     "intro-104": {
       "en": [
-        "Bkz. Kitabü’l-Egânî, III, 19-73; IV, 47-53."
+        "Bkz. ",
+        {
+          "type": "em",
+          "children": [
+            "Kitabü’l-Egânî"
+          ]
+        },
+        ", III, 19-73; IV, 47-53."
       ],
       "zh": [
         "见《歌集》，第III卷，第19—73页；第IV卷，第47—53页。"
@@ -179,7 +221,14 @@
     },
     "intro-106": {
       "en": [
-        "Bkz. Kitabü’l-Egânî, III, 24."
+        "Bkz. ",
+        {
+          "type": "em",
+          "children": [
+            "Kitabü’l-Egânî"
+          ]
+        },
+        ", III, 24."
       ],
       "zh": [
         "见《歌集》，第III卷，第24页。"
@@ -188,7 +237,13 @@
     },
     "intro-107": {
       "en": [
-        "Age, III, 22."
+        {
+          "type": "em",
+          "children": [
+            "Age"
+          ]
+        },
+        ", III, 22."
       ],
       "zh": [
         "同上书，即《歌集》，第III卷，第22页。"
@@ -197,7 +252,13 @@
     },
     "intro-108": {
       "en": [
-        "Age, III, 70."
+        {
+          "type": "em",
+          "children": [
+            "Age"
+          ]
+        },
+        ", III, 70."
       ],
       "zh": [
         "同上书，即《歌集》，第III卷，第70页。"

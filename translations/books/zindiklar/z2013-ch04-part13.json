@@ -16,7 +16,7 @@
     },
     {
       "id": "z2013-ch04-114",
-      "type": "paragraph",
+      "type": "quote",
       "page": "275",
       "en": [
         "Bir mülhid divanımıza gelüp Peygamberimiz iki cihan fahrine -salevâtullahi aleyhi ve selâmuh- tafdîl-i Hazret-i ‘İsa eyleyüp müddeası isbatında ekâvîl-i bâtıla tenzil eyleye, şüphesi zail olmayup ve cevabı virilmeyüp niçün hakkından gelinmedi?”"
@@ -192,7 +192,7 @@
         }
       ],
       "zh": [
-        "不过，有一点不应忽视，而且必须强调：卡布兹并非放弃伊斯兰、改宗基督教的叛教者。他本人没有这样的供认或声明，史料也没有赋予他这样的身份。仔细看便会发现，他受审的罪名是异端与离教，而非叛教。也就是说，正如伊斯梅尔·哈米·丹什门德所指出的，他并非先放弃穆斯林身份，再把耶稣奉为更优越者；相反，他按照自己的理解从《古兰经》和穆罕默德的圣训中提出论据，在伊斯兰范围内，以穆斯林学者的身份为自己的主张辩护。",
+        "不过，有一点不应忽视，而且必须强调：卡布兹并非放弃伊斯兰、改宗基督教的叛教者。他本人没有这样的供认或声明，史料也没有赋予他这样的身份。仔细看便会发现，他受审的罪名是异端与离教，而非叛教。也就是说，正如伊斯梅尔·哈米·达尼什曼德所指出的，他并非先放弃穆斯林身份，再把耶稣奉为更优越者；相反，他按照自己的理解从《古兰经》和穆罕默德的圣训中提出论据，在伊斯兰范围内，以穆斯林学者的身份为自己的主张辩护。",
         {
           "type": "note",
           "id": "ch04-106"
@@ -211,7 +211,7 @@
         }
       ],
       "zh": [
-        "至于卡布兹的主张及思想的学术价值，坦率地说，不能认为它们超出了神学论战的范围，具有严肃的学术价值与独特性，也不能认为它们足以在伊斯兰思想史上开启新的视角或形成新的思潮。伊斯梅尔·哈米·丹什门德在指出这一点后，又主张卡布兹的思想与其说有什么价值，不如说具有扰乱民众信仰的性质；因此，若不惩罚卡布兹，便会产生社会危险，所以死刑是适当的。",
+        "至于卡布兹的主张及思想的学术价值，坦率地说，不能认为它们超出了神学论战的范围，具有严肃的学术价值与独特性，也不能认为它们足以在伊斯兰思想史上开启新的视角或形成新的思潮。伊斯梅尔·哈米·达尼什曼德在指出这一点后，又主张卡布兹的思想与其说有什么价值，不如说具有扰乱民众信仰的性质；因此，若不惩罚卡布兹，便会产生社会危险，所以死刑是适当的。",
         {
           "type": "note",
           "id": "ch04-107"
@@ -269,13 +269,18 @@
         "Celâlzâde, v. 173b; ‘Âlî, v. 4a; Peçevî, I, 125; Hasan Beğzâde, v. 236a; Solakzâde, s. 469; D’Ohsson, I, 155-156."
       ],
       "zh": [
-        "杰拉勒扎德，第173叶b面；阿里，第4叶a面；佩切维，第I卷，第125页；哈桑贝伊扎德，第236叶a面；索拉克扎德，第469页；d’Ohsson，第I卷，第155—156页。"
+        "杰拉勒扎德，第173叶背面；阿里，第4叶正面；佩切维，第I卷，第125页；哈桑贝伊扎德，第236叶正面；索拉克扎德，第469页；d’Ohsson，第I卷，第155—156页。"
       ],
       "page": "275"
     },
     "ch04-101": {
       "en": [
-        "Ag eserler, aynı yerlerde."
+        {
+          "type": "em",
+          "children": [
+            "Ag eserler, aynı yerlerde."
+          ]
+        }
       ],
       "zh": [
         "前引各书，同处。"
@@ -284,25 +289,46 @@
     },
     "ch04-102": {
       "en": [
-        "Celâlzâde, v. 175a; ‘Âlî, v. 4b; Peçevî, aynı yerde; Hasan Beğzâde, v. 236b; Müneccimbaşı, III, 485; ‘Atâyî, s. 89; D’Ohsson, I, 157. D’Ohsson’daki pasaj Michel Balivet’nin yukarıda zikrolunan “Chrétiens secrets...” isimli makalesinde de aynen iktibas edilmiştir (bkz. s. 94-96)."
+        "Celâlzâde, v. 175a; ‘Âlî, v. 4b; Peçevî, ",
+        {
+          "type": "em",
+          "children": [
+            "aynı yerde"
+          ]
+        },
+        "; Hasan Beğzâde, v. 236b; Müneccimbaşı, III, 485; ‘Atâyî, s. 89; D’Ohsson, I, 157. D’Ohsson’daki pasaj Michel Balivet’nin yukarıda zikrolunan “Chrétiens secrets...” isimli makalesinde de aynen iktibas edilmiştir (bkz. s. 94-96)."
       ],
       "zh": [
-        "杰拉勒扎德，第175叶a面；阿里，第4叶b面；佩切维，同处；哈桑贝伊扎德，第236叶b面；穆奈吉姆巴舍，第III卷，第485页；阿塔伊，第89页；d’Ohsson，第I卷，第157页。米歇尔·巴利韦前引〈秘密基督徒……〉一文也原样引用了d’Ohsson的这一段，见第94—96页。"
+        "杰拉勒扎德，第175叶正面；阿里，第4叶背面；佩切维，同处；哈桑贝伊扎德，第236叶背面；穆奈吉姆巴舍，第III卷，第485页；阿塔伊，第89页；d’Ohsson，第I卷，第157页。米歇尔·巴利韦前引〈秘密基督徒……〉一文也原样引用了d’Ohsson的这一段，见第94—96页。"
       ],
       "page": "276"
     },
     "ch04-103": {
       "en": [
-        "İbn Kemal, Risâle fî Efdaliyyet’i Muhammed ‘Aleyhisselâm, v. 36a-42b."
+        "İbn Kemal, ",
+        {
+          "type": "em",
+          "children": [
+            "Risâle fî Efdaliyyet’i Muhammed ‘Aleyhisselâm"
+          ]
+        },
+        ", v. 36a-42b."
       ],
       "zh": [
-        "伊本·凯末尔，《论穆罕默德的优越性》（愿他平安），第36叶a面至42叶b面。"
+        "伊本·凯末尔，《论穆罕默德的优越性》（愿他平安），第36叶正面至42叶背面。"
       ],
       "page": "276"
     },
     "ch04-104": {
       "en": [
-        "İbn Kemal, Risâle fî-mâ Yete‘allaku bi-lafzı’z-Zindîk, s. 249."
+        "İbn Kemal, ",
+        {
+          "type": "em",
+          "children": [
+            "Risâle fî-mâ Yete‘allaku bi-lafzı’z-Zindîk"
+          ]
+        },
+        ", s. 249."
       ],
       "zh": [
         "伊本·凯末尔，《论“异端者”一词所涉诸事》，第249页。"
@@ -311,25 +337,100 @@
     },
     "ch04-105": {
       "en": [
-        "105 Celâlzâde, v. 175b; ‘Âlî, aynı yerde; Peçevî, I, 125-126; Hasan Beğzâde, v. 236a-237b; Kâtip Çelebi, Takvîmü’t-Tevârîh, İstanbul 1146, s. 117; D’Ohsson, I, 158; ayrıca bkz. Hammer, V, 98-99; M. Süreyya, IV, 45; Ahmed Refik, “Osmanlı devrinde Râfızîlik ve Bektaşîlik”, DEFM, IX/2 (1932), s. 30; Adıvar, s. 104-105; T. Houtsma, “Kâbıd”, EI¹; M. T. Gökbilgin, “L’etendu du pouvoir de Soliman le Magnifique au XVIe siècle”, Recueils de la Société Jean Bodin, XX: La Monocratie, Brüksel 1970, 631; aynı yazar, “Süleyman I”, İA; Yurdaydın, “Kâbıd”, EI²; aynı yazar, “Düşünce ve Bilim Tarihi”, s. 164-166; Dânişmend, Kronoloji, II, 125; İnalcık, The Ottoman Empire, s. 174, 182."
+        "105 Celâlzâde, v. 175b; ‘Âlî, ",
+        {
+          "type": "em",
+          "children": [
+            "aynı yerde"
+          ]
+        },
+        "; Peçevî, I, 125-126; Hasan Beğzâde, v. 236a-237b; Kâtip Çelebi, ",
+        {
+          "type": "em",
+          "children": [
+            "Takvîmü’t-Tevârîh"
+          ]
+        },
+        ", İstanbul 1146, s. 117; D’Ohsson, I, 158; ayrıca bkz. Hammer, V, 98-99; M. Süreyya, IV, 45; Ahmed Refik, “Osmanlı devrinde Râfızîlik ve Bektaşîlik”, ",
+        {
+          "type": "em",
+          "children": [
+            "DEFM"
+          ]
+        },
+        ", IX/2 (1932), s. 30; Adıvar, s. 104-105; T. Houtsma, “Kâbıd”, ",
+        {
+          "type": "em",
+          "children": [
+            "EI¹"
+          ]
+        },
+        "; M. T. Gökbilgin, “L’etendu du pouvoir de Soliman le Magnifique au XVIe siècle”, ",
+        {
+          "type": "em",
+          "children": [
+            "Recueils de la Société Jean Bodin, XX: La Monocratie"
+          ]
+        },
+        ", Brüksel 1970, 631; aynı yazar, “Süleyman I”, ",
+        {
+          "type": "em",
+          "children": [
+            "İA"
+          ]
+        },
+        "; Yurdaydın, “Kâbıd”, ",
+        {
+          "type": "em",
+          "children": [
+            "EI²"
+          ]
+        },
+        "; aynı yazar, “Düşünce ve Bilim Tarihi”, s. 164-166; Dânişmend, ",
+        {
+          "type": "em",
+          "children": [
+            "Kronoloji"
+          ]
+        },
+        ", II, 125; İnalcık, ",
+        {
+          "type": "em",
+          "children": [
+            "The Ottoman Empire"
+          ]
+        },
+        ", s. 174, 182."
       ],
       "zh": [
-        "杰拉勒扎德，第175叶b面；阿里，同处；佩切维，第I卷，第125—126页；哈桑贝伊扎德，第236叶a面至237叶b面；卡蒂布·切莱比，《历史年表》，伊斯坦布尔，回历1146年，第117页；d’Ohsson，第I卷，第158页。另见哈默，第V卷，第98—99页；穆罕默德·叙雷亚，第IV卷，第45页；艾哈迈德·雷菲克，〈奥斯曼时代的拉菲兹派与贝克塔什派〉，《达吕尔菲农大学文学院杂志》（DEFM），第IX卷第2期，1932年，第30页；阿德瓦尔，第104—105页；T.霍茨马，“Kâbıd（卡布兹）”，《伊斯兰百科全书》第一版；M.塔伊布·格克比尔金，〈16世纪壮丽者苏莱曼的权力范围〉，《让·博丹学会论文集》，第XX卷：《一人统治》，布鲁塞尔，1970年，第631页；同一作者，“苏莱曼一世”，《伊斯兰百科全书》（İA）；于尔达伊登，“Kâbıd（卡布兹）”，《伊斯兰百科全书》第二版；同一作者，〈思想与科学史〉，第164—166页；丹什门德，《编年史》，第II卷，第125页；伊纳尔哲克，《奥斯曼帝国》，第174、182页。〔校注：底本在本条开头重复印有“105”，土文照录，中文不重复。〕"
+        "杰拉勒扎德，第175叶背面；阿里，同处；佩切维，第I卷，第125—126页；哈桑贝伊扎德，第236叶正面至237叶背面；卡蒂布·切莱比，《历史年表》，伊斯坦布尔，回历1146年，第117页；d’Ohsson，第I卷，第158页。另见哈默，第V卷，第98—99页；穆罕默德·叙雷亚，第IV卷，第45页；艾哈迈德·雷菲克，〈奥斯曼时代的拉菲兹派与贝克塔什派〉，《达吕尔菲农大学文学院杂志》（DEFM），第IX卷第2期，1932年，第30页；阿德瓦尔，第104—105页；T.霍茨马，“Kâbıd（卡布兹）”，《伊斯兰百科全书》第一版；M.塔伊布·格克比尔金，〈16世纪壮丽者苏莱曼的权力范围〉，《让·博丹学会论文集》，第XX卷：《一人统治》，布鲁塞尔，1970年，第631页；同一作者，“苏莱曼一世”，《伊斯兰百科全书》（İA）；于尔达伊登，“Kâbıd（卡布兹）”，《伊斯兰百科全书》第二版；同一作者，〈思想与科学史〉，第164—166页；达尼什曼德，《编年史》，第II卷，第125页；伊纳尔哲克，《奥斯曼帝国》，第174、182页。〔校注：底本在本条开头重复印有“105”，土文照录，中文不重复。〕"
       ],
       "page": "277"
     },
     "ch04-106": {
       "en": [
-        "Dânişmend, aynı yerde."
+        "Dânişmend, ",
+        {
+          "type": "em",
+          "children": [
+            "aynı yerde"
+          ]
+        },
+        "."
       ],
       "zh": [
-        "丹什门德，同处。"
+        "达尼什曼德，同处。"
       ],
       "page": "278"
     },
     "ch04-107": {
       "en": [
-        "Age, aynı yerde."
+        {
+          "type": "em",
+          "children": [
+            "Age, aynı yerde."
+          ]
+        }
       ],
       "zh": [
         "同书，同处。"

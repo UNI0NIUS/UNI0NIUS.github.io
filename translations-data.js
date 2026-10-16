@@ -2188,856 +2188,1274 @@ window.TRANSLATIONS = {
     },
     {
       "id": "zindiklar-ve-mulhidler",
-      "title": "奥斯曼社会中的异端与无神论者（15—17世纪）",
+      "title": "奥斯曼社会中的异端者与离教者（15—17世纪）",
       "originalTitle": "Osmanlı Toplumunda Zındıklar ve Mülhidler (15.–17. Yüzyıllar)",
       "author": "Ahmet Yaşar Ocak",
-      "translator": "Xiaoyang Hao (AI-assisted working translation)",
+      "translator": "Xiaoyang Hao (AI-assisted translation)",
       "languagePair": "Türkçe / 中文",
       "sourceLanguage": "tr",
       "sourceLanguageLabel": "Türkçe",
       "language": "zh-CN",
       "bilingual": true,
       "example": false,
-      "status": "in-progress",
-      "wholeBookComplete": false,
-      "description": "以2013年增订第四版为底本，含两篇前言、目录、缩略语、导论、第一至第四章及第五章开篇，正文至原书307页、原注23续至308页。全书尚未完成。",
-      "editionNotice": "未完成的校译工作稿 · 2026-10-16。采用2013年增订第四版原书印刷页码。已录入两篇前言、目录、缩略语、导论、第一至第四章及第五章开篇（含组织结构、社会基础与教义开篇，正文至原书307页、原注23续至308页），保留718条原注。全书后续内容、语义与引文终校尚未完成；双语PDF个别长注造成大幅留白，最终分页待调整。目录列出的后续章节不代表已经译完。",
+      "status": "complete",
+      "wholeBookComplete": true,
+      "description": "2013年增订第四版全书译毕，含两篇前言、导论、五章正文、结论、附录、书目、27幅照片及索引，保留957条原注和原书页码。",
+      "editionNotice": "全书完成版 · 2026-10-16。采用2013年2月增订第四版，逐段中土对照；无印刷页码的材料明确标注PDF页序。底本文字、年代与引文差异见译校记；未独立核实全部被引原典，未释读的碑铭及手稿文字保留图像和说明。",
       "chapters": [
+        {
+          "id": "z2013-frontmatter-part1",
+          "partId": "frontmatter",
+          "title": "书前材料",
+          "originalTitle": "Ön sayfalar",
+          "dataUrl": "translations/books/zindiklar/z2013-frontmatter-part1.json?v=ddd5328cf7fe"
+        },
         {
           "id": "z2013-preface1-part1",
           "partId": "preface1",
           "title": "原序 · vii–xi",
           "originalTitle": "Önsöz · vii–xi",
-          "dataUrl": "translations/books/zindiklar/z2013-preface1-part1.json"
+          "dataUrl": "translations/books/zindiklar/z2013-preface1-part1.json?v=0fa9902a047e"
         },
         {
           "id": "z2013-preface1-part2",
           "partId": "preface1",
           "title": "原序 · xii–xvii",
           "originalTitle": "Önsöz · xii–xvii",
-          "dataUrl": "translations/books/zindiklar/z2013-preface1-part2.json"
+          "dataUrl": "translations/books/zindiklar/z2013-preface1-part2.json?v=1f6659131d37"
         },
         {
           "id": "preface-fourth-edition",
           "partId": "preface4",
           "title": "第四版前言",
           "originalTitle": "Dördüncü Baskıya Önsöz",
-          "dataUrl": "translations/books/zindiklar/preface-fourth-edition.json"
+          "dataUrl": "translations/books/zindiklar/preface-fourth-edition.json?v=4dbd980a6de5"
         },
         {
           "id": "z2013-contents",
           "partId": "contents",
-          "title": "原书目录 · xxiii–xxvi",
-          "originalTitle": "İçindekiler · xxiii–xxvi",
-          "dataUrl": "translations/books/zindiklar/z2013-contents.json"
+          "title": "原书目录",
+          "originalTitle": "İçindekiler",
+          "dataUrl": "translations/books/zindiklar/z2013-contents.json?v=5576d6638320"
         },
         {
           "id": "z2013-abbreviations",
           "partId": "abbreviations",
-          "title": "缩略语 · xxvii–xxxi",
-          "originalTitle": "Kısaltmalar · xxvii–xxxi",
-          "dataUrl": "translations/books/zindiklar/z2013-abbreviations.json"
+          "title": "缩略语",
+          "originalTitle": "Kısaltmalar",
+          "dataUrl": "translations/books/zindiklar/z2013-abbreviations.json?v=530dc5bc0166"
         },
         {
           "id": "z2013-intro-part1",
           "partId": "intro",
           "title": "导论 · 1–3",
           "originalTitle": "Giriş · 1–3",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part1.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part1.json?v=61e18e5ecb7d"
         },
         {
           "id": "z2013-intro-part2",
           "partId": "intro",
-          "title": "导论 · 3–7",
-          "originalTitle": "Giriş · 3–7",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part2.json"
+          "title": "导论 · 3–4–6–7",
+          "originalTitle": "Giriş · 3–4–6–7",
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part2.json?v=f9581c66082d"
         },
         {
           "id": "z2013-intro-part3",
           "partId": "intro",
           "title": "导论 · 7–11",
           "originalTitle": "Giriş · 7–11",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part3.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part3.json?v=31ded8a2128d"
         },
         {
           "id": "z2013-intro-part4",
           "partId": "intro",
           "title": "导论 · 12–16",
           "originalTitle": "Giriş · 12–16",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part4.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part4.json?v=a59e73f00164"
         },
         {
           "id": "z2013-intro-part5",
           "partId": "intro",
           "title": "导论 · 16–21",
           "originalTitle": "Giriş · 16–21",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part5.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part5.json?v=701f8661c7fe"
         },
         {
           "id": "z2013-intro-part6",
           "partId": "intro",
-          "title": "导论 · 21–23",
-          "originalTitle": "Giriş · 21–23",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part6.json"
+          "title": "导论 · 21–22–23",
+          "originalTitle": "Giriş · 21–22–23",
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part6.json?v=1f5d15a7cd26"
         },
         {
           "id": "z2013-intro-part7",
           "partId": "intro",
           "title": "导论 · 23–27",
           "originalTitle": "Giriş · 23–27",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part7.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part7.json?v=22d8efa186d8"
         },
         {
           "id": "z2013-intro-part8",
           "partId": "intro",
           "title": "导论 · 28",
           "originalTitle": "Giriş · 28",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part8.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part8.json?v=ca14fc561af2"
         },
         {
           "id": "z2013-intro-part9",
           "partId": "intro",
           "title": "导论 · 29–30",
           "originalTitle": "Giriş · 29–30",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part9.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part9.json?v=a66fed0c41dd"
         },
         {
           "id": "z2013-intro-part10",
           "partId": "intro",
           "title": "导论 · 30–33",
           "originalTitle": "Giriş · 30–33",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part10.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part10.json?v=523c73845c5f"
         },
         {
           "id": "z2013-intro-part11",
           "partId": "intro",
-          "title": "导论 · 33–36",
-          "originalTitle": "Giriş · 33–36",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part11.json"
+          "title": "导论 · 33–35–36",
+          "originalTitle": "Giriş · 33–35–36",
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part11.json?v=877b2b62219d"
         },
         {
           "id": "z2013-intro-part12",
           "partId": "intro",
-          "title": "导论 · 36–38",
-          "originalTitle": "Giriş · 36–38",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part12.json"
+          "title": "导论 · 36–37–37–38",
+          "originalTitle": "Giriş · 36–37–37–38",
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part12.json?v=71070a30d546"
         },
         {
           "id": "z2013-intro-part13",
           "partId": "intro",
-          "title": "导论 · 38–40",
-          "originalTitle": "Giriş · 38–40",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part13.json"
+          "title": "导论 · 38–39–40",
+          "originalTitle": "Giriş · 38–39–40",
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part13.json?v=d0fc894ce9d4"
         },
         {
           "id": "z2013-intro-part14",
           "partId": "intro",
           "title": "导论 · 40–41",
           "originalTitle": "Giriş · 40–41",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part14.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part14.json?v=dad7f91e3562"
         },
         {
           "id": "z2013-intro-part15",
           "partId": "intro",
-          "title": "导论 · 42–44",
-          "originalTitle": "Giriş · 42–44",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part15.json"
+          "title": "导论 · 42–43–44",
+          "originalTitle": "Giriş · 42–43–44",
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part15.json?v=d004a596e6c6"
         },
         {
           "id": "z2013-intro-part16",
           "partId": "intro",
-          "title": "导论 · 44–46",
-          "originalTitle": "Giriş · 44–46",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part16.json"
+          "title": "导论 · 44–45–46",
+          "originalTitle": "Giriş · 44–45–46",
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part16.json?v=39703fec641a"
         },
         {
           "id": "z2013-intro-part17",
           "partId": "intro",
-          "title": "导论 · 46–47",
-          "originalTitle": "Giriş · 46–47",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part17.json"
+          "title": "导论 · 46–46–47",
+          "originalTitle": "Giriş · 46–46–47",
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part17.json?v=e5f0302d35a2"
         },
         {
           "id": "z2013-intro-part18",
           "partId": "intro",
           "title": "导论 · 47–49",
           "originalTitle": "Giriş · 47–49",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part18.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part18.json?v=18f5eeabc7af"
         },
         {
           "id": "z2013-intro-part19",
           "partId": "intro",
-          "title": "导论 · 49–51",
-          "originalTitle": "Giriş · 49–51",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part19.json"
+          "title": "导论 · 49–50–51",
+          "originalTitle": "Giriş · 49–50–51",
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part19.json?v=562ad135f7a6"
         },
         {
           "id": "z2013-intro-part20",
           "partId": "intro",
-          "title": "导论 · 51–55",
-          "originalTitle": "Giriş · 51–55",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part20.json"
+          "title": "导论 · 51–54–55",
+          "originalTitle": "Giriş · 51–54–55",
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part20.json?v=240d5802d4d5"
         },
         {
           "id": "z2013-intro-part21",
           "partId": "intro",
-          "title": "导论 · 55–59",
-          "originalTitle": "Giriş · 55–59",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part21.json"
+          "title": "导论 · 55–58–59",
+          "originalTitle": "Giriş · 55–58–59",
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part21.json?v=0a66a5f1741c"
         },
         {
           "id": "z2013-intro-part22",
           "partId": "intro",
           "title": "导论 · 59–63",
           "originalTitle": "Giriş · 59–63",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part22.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part22.json?v=15128ae1d19e"
         },
         {
           "id": "z2013-intro-part23",
           "partId": "intro",
           "title": "导论 · 63–66",
           "originalTitle": "Giriş · 63–66",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part23.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part23.json?v=61db7f3c19af"
         },
         {
           "id": "z2013-intro-part24",
           "partId": "intro",
           "title": "导论 · 66–70",
           "originalTitle": "Giriş · 66–70",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part24.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part24.json?v=3f616bfb7473"
         },
         {
           "id": "z2013-intro-part25",
           "partId": "intro",
           "title": "导论 · 70–75",
           "originalTitle": "Giriş · 70–75",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part25.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part25.json?v=7e6065663416"
         },
         {
           "id": "z2013-intro-part26",
           "partId": "intro",
           "title": "导论 · 75–80",
           "originalTitle": "Giriş · 75–80",
-          "dataUrl": "translations/books/zindiklar/z2013-intro-part26.json"
+          "dataUrl": "translations/books/zindiklar/z2013-intro-part26.json?v=1c279b42763d"
         },
         {
           "id": "z2013-ch01-part1",
           "partId": "ch01",
-          "title": "第一章 · 81–85",
-          "originalTitle": "Birinci Bölüm · 81–85",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part1.json"
+          "title": "第1章 · 81–84–85",
+          "originalTitle": "1. Bölüm · 81–84–85",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part1.json?v=c9452c02c219"
         },
         {
           "id": "z2013-ch01-part2",
           "partId": "ch01",
-          "title": "第一章 · 85–88",
-          "originalTitle": "Birinci Bölüm · 85–88",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part2.json"
+          "title": "第1章 · 85–88",
+          "originalTitle": "1. Bölüm · 85–88",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part2.json?v=741fb53f497c"
         },
         {
           "id": "z2013-ch01-part3",
           "partId": "ch01",
-          "title": "第一章 · 88–90",
-          "originalTitle": "Birinci Bölüm · 88–90",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part3.json"
+          "title": "第1章 · 88–90",
+          "originalTitle": "1. Bölüm · 88–90",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part3.json?v=b93925cbc297"
         },
         {
           "id": "z2013-ch01-part4",
           "partId": "ch01",
-          "title": "第一章 · 90–95",
-          "originalTitle": "Birinci Bölüm · 90–95",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part4.json"
+          "title": "第1章 · 90–95",
+          "originalTitle": "1. Bölüm · 90–95",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part4.json?v=d7c0e82faf9d"
         },
         {
           "id": "z2013-ch01-part5",
           "partId": "ch01",
-          "title": "第一章 · 95–97",
-          "originalTitle": "Birinci Bölüm · 95–97",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part5.json"
+          "title": "第1章 · 95–96–97",
+          "originalTitle": "1. Bölüm · 95–96–97",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part5.json?v=0c5697048b66"
         },
         {
           "id": "z2013-ch01-part6",
           "partId": "ch01",
-          "title": "第一章 · 97–98",
-          "originalTitle": "Birinci Bölüm · 97–98",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part6.json"
+          "title": "第1章 · 97–98",
+          "originalTitle": "1. Bölüm · 97–98",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part6.json?v=859569d4db1a"
         },
         {
           "id": "z2013-ch01-part7",
           "partId": "ch01",
-          "title": "第一章 · 99–101",
-          "originalTitle": "Birinci Bölüm · 99–101",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part7.json"
+          "title": "第1章 · 99–101",
+          "originalTitle": "1. Bölüm · 99–101",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part7.json?v=27465114fcc6"
         },
         {
           "id": "z2013-ch01-part8",
           "partId": "ch01",
-          "title": "第一章 · 102–105",
-          "originalTitle": "Birinci Bölüm · 102–105",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part8.json"
+          "title": "第1章 · 102–104–105",
+          "originalTitle": "1. Bölüm · 102–104–105",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part8.json?v=868576507cc0"
         },
         {
           "id": "z2013-ch01-part9",
           "partId": "ch01",
-          "title": "第一章 · 105–106",
-          "originalTitle": "Birinci Bölüm · 105–106",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part9.json"
+          "title": "第1章 · 105–106",
+          "originalTitle": "1. Bölüm · 105–106",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part9.json?v=23269e21a809"
         },
         {
           "id": "z2013-ch01-part10",
           "partId": "ch01",
-          "title": "第一章 · 107–111",
-          "originalTitle": "Birinci Bölüm · 107–111",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part10.json"
+          "title": "第1章 · 107–111",
+          "originalTitle": "1. Bölüm · 107–111",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part10.json?v=69bc13d376d8"
         },
         {
           "id": "z2013-ch01-part11",
           "partId": "ch01",
-          "title": "第一章 · 111–113",
-          "originalTitle": "Birinci Bölüm · 111–113",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part11.json"
+          "title": "第1章 · 111–113",
+          "originalTitle": "1. Bölüm · 111–113",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part11.json?v=5ee7e03210b3"
         },
         {
           "id": "z2013-ch01-part12",
           "partId": "ch01",
-          "title": "第一章 · 114–117",
-          "originalTitle": "Birinci Bölüm · 114–117",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part12.json"
+          "title": "第1章 · 114–117",
+          "originalTitle": "1. Bölüm · 114–117",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part12.json?v=0d8167422930"
         },
         {
           "id": "z2013-ch01-part13",
           "partId": "ch01",
-          "title": "第一章 · 117–120",
-          "originalTitle": "Birinci Bölüm · 117–120",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part13.json"
+          "title": "第1章 · 117–120",
+          "originalTitle": "1. Bölüm · 117–120",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part13.json?v=fd26990b39d5"
         },
         {
           "id": "z2013-ch01-part14",
           "partId": "ch01",
-          "title": "第一章 · 120–122",
-          "originalTitle": "Birinci Bölüm · 120–122",
-          "dataUrl": "translations/books/zindiklar/z2013-ch01-part14.json"
+          "title": "第1章 · 120–122",
+          "originalTitle": "1. Bölüm · 120–122",
+          "dataUrl": "translations/books/zindiklar/z2013-ch01-part14.json?v=7b716201d4bf"
         },
         {
           "id": "z2013-ch02-part1",
           "partId": "ch02",
-          "title": "第二章 · 123–125",
-          "originalTitle": "İkinci Bölüm · 123–125",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part1.json"
+          "title": "第2章 · 123–125",
+          "originalTitle": "2. Bölüm · 123–125",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part1.json?v=7edd306d0999"
         },
         {
           "id": "z2013-ch02-part2",
           "partId": "ch02",
-          "title": "第二章 · 126–128",
-          "originalTitle": "İkinci Bölüm · 126–128",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part2.json"
+          "title": "第2章 · 126–128",
+          "originalTitle": "2. Bölüm · 126–128",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part2.json?v=3f0f75cb1de8"
         },
         {
           "id": "z2013-ch02-part3",
           "partId": "ch02",
-          "title": "第二章 · 129–132",
-          "originalTitle": "İkinci Bölüm · 129–132",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part3.json"
+          "title": "第2章 · 129–132",
+          "originalTitle": "2. Bölüm · 129–132",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part3.json?v=44fa24206733"
         },
         {
           "id": "z2013-ch02-part4",
           "partId": "ch02",
-          "title": "第二章 · 132–134",
-          "originalTitle": "İkinci Bölüm · 132–134",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part4.json"
+          "title": "第2章 · 132–133–134",
+          "originalTitle": "2. Bölüm · 132–133–134",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part4.json?v=a86c00301009"
         },
         {
           "id": "z2013-ch02-part5",
           "partId": "ch02",
-          "title": "第二章 · 135–137",
-          "originalTitle": "İkinci Bölüm · 135–137",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part5.json"
+          "title": "第2章 · 135–136–137",
+          "originalTitle": "2. Bölüm · 135–136–137",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part5.json?v=174b750e78d2"
         },
         {
           "id": "z2013-ch02-part6",
           "partId": "ch02",
-          "title": "第二章 · 137–139",
-          "originalTitle": "İkinci Bölüm · 137–139",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part6.json"
+          "title": "第2章 · 137–138–138–139",
+          "originalTitle": "2. Bölüm · 137–138–138–139",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part6.json?v=ee240255daf3"
         },
         {
           "id": "z2013-ch02-part7",
           "partId": "ch02",
-          "title": "第二章 · 139–141",
-          "originalTitle": "İkinci Bölüm · 139–141",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part7.json"
+          "title": "第2章 · 139–141",
+          "originalTitle": "2. Bölüm · 139–141",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part7.json?v=0852632f01cb"
         },
         {
           "id": "z2013-ch02-part8",
           "partId": "ch02",
-          "title": "第二章 · 141–143",
-          "originalTitle": "İkinci Bölüm · 141–143",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part8.json"
+          "title": "第2章 · 141–142–143",
+          "originalTitle": "2. Bölüm · 141–142–143",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part8.json?v=a15ff397c4f8"
         },
         {
           "id": "z2013-ch02-part9",
           "partId": "ch02",
-          "title": "第二章 · 143–146",
-          "originalTitle": "İkinci Bölüm · 143–146",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part9.json"
+          "title": "第2章 · 143–144–145–146",
+          "originalTitle": "2. Bölüm · 143–144–145–146",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part9.json?v=7e2fc0d1067a"
         },
         {
           "id": "z2013-ch02-part10",
           "partId": "ch02",
-          "title": "第二章 · 146–147",
-          "originalTitle": "İkinci Bölüm · 146–147",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part10.json"
+          "title": "第2章 · 146–147",
+          "originalTitle": "2. Bölüm · 146–147",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part10.json?v=f2e827f20ccd"
         },
         {
           "id": "z2013-ch02-part11",
           "partId": "ch02",
-          "title": "第二章 · 147–149",
-          "originalTitle": "İkinci Bölüm · 147–149",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part11.json"
+          "title": "第2章 · 147–148–149",
+          "originalTitle": "2. Bölüm · 147–148–149",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part11.json?v=3bb81c6b9376"
         },
         {
           "id": "z2013-ch02-part12",
           "partId": "ch02",
-          "title": "第二章 · 149–151",
-          "originalTitle": "İkinci Bölüm · 149–151",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part12.json"
+          "title": "第2章 · 149–150–150–151",
+          "originalTitle": "2. Bölüm · 149–150–150–151",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part12.json?v=40ce0bfc9489"
         },
         {
           "id": "z2013-ch02-part13",
           "partId": "ch02",
-          "title": "第二章 · 151–152",
-          "originalTitle": "İkinci Bölüm · 151–152",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part13.json"
+          "title": "第2章 · 151–152",
+          "originalTitle": "2. Bölüm · 151–152",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part13.json?v=6753f13c0d3b"
         },
         {
           "id": "z2013-ch02-part14",
           "partId": "ch02",
-          "title": "第二章 · 152–154",
-          "originalTitle": "İkinci Bölüm · 152–154",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part14.json"
+          "title": "第2章 · 152–154",
+          "originalTitle": "2. Bölüm · 152–154",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part14.json?v=9e5e66f76dea"
         },
         {
           "id": "z2013-ch02-part15",
           "partId": "ch02",
-          "title": "第二章 · 155–156",
-          "originalTitle": "İkinci Bölüm · 155–156",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part15.json"
+          "title": "第2章 · 155–156",
+          "originalTitle": "2. Bölüm · 155–156",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part15.json?v=6ef26856a822"
         },
         {
           "id": "z2013-ch02-part16",
           "partId": "ch02",
-          "title": "第二章 · 157–158",
-          "originalTitle": "İkinci Bölüm · 157–158",
-          "dataUrl": "translations/books/zindiklar/z2013-ch02-part16.json"
+          "title": "第2章 · 157–158",
+          "originalTitle": "2. Bölüm · 157–158",
+          "dataUrl": "translations/books/zindiklar/z2013-ch02-part16.json?v=6b796fe2c6b6"
         },
         {
           "id": "z2013-ch03-part1",
           "partId": "ch03",
-          "title": "第三章 · 159–162",
-          "originalTitle": "Üçüncü Bölüm · 159–162",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part1.json"
+          "title": "第3章 · 159–162",
+          "originalTitle": "3. Bölüm · 159–162",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part1.json?v=9e83069c8a3f"
         },
         {
           "id": "z2013-ch03-part2",
           "partId": "ch03",
-          "title": "第三章 · 162–164",
-          "originalTitle": "Üçüncü Bölüm · 162–164",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part2.json"
+          "title": "第3章 · 162–164",
+          "originalTitle": "3. Bölüm · 162–164",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part2.json?v=2fb31653337b"
         },
         {
           "id": "z2013-ch03-part3",
           "partId": "ch03",
-          "title": "第三章 · 164–165",
-          "originalTitle": "Üçüncü Bölüm · 164–165",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part3.json"
+          "title": "第3章 · 164–165",
+          "originalTitle": "3. Bölüm · 164–165",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part3.json?v=fbf0bf752116"
         },
         {
           "id": "z2013-ch03-part4",
           "partId": "ch03",
-          "title": "第三章 · 165–168",
-          "originalTitle": "Üçüncü Bölüm · 165–168",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part4.json"
+          "title": "第3章 · 165–167–168",
+          "originalTitle": "3. Bölüm · 165–167–168",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part4.json?v=2c2779bdb147"
         },
         {
           "id": "z2013-ch03-part5",
           "partId": "ch03",
-          "title": "第三章 · 168–170",
-          "originalTitle": "Üçüncü Bölüm · 168–170",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part5.json"
+          "title": "第3章 · 168–169–170",
+          "originalTitle": "3. Bölüm · 168–169–170",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part5.json?v=6305832b0539"
         },
         {
           "id": "z2013-ch03-part6",
           "partId": "ch03",
-          "title": "第三章 · 170–171",
-          "originalTitle": "Üçüncü Bölüm · 170–171",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part6.json"
+          "title": "第3章 · 170–171",
+          "originalTitle": "3. Bölüm · 170–171",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part6.json?v=a5cea79f9d1b"
         },
         {
           "id": "z2013-ch03-part7",
           "partId": "ch03",
-          "title": "第三章 · 171–172",
-          "originalTitle": "Üçüncü Bölüm · 171–172",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part7.json"
+          "title": "第3章 · 171–172",
+          "originalTitle": "3. Bölüm · 171–172",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part7.json?v=b1ccb043553a"
         },
         {
           "id": "z2013-ch03-part8",
           "partId": "ch03",
-          "title": "第三章 · 173–174",
-          "originalTitle": "Üçüncü Bölüm · 173–174",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part8.json"
+          "title": "第3章 · 173–174",
+          "originalTitle": "3. Bölüm · 173–174",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part8.json?v=74ec064e80ae"
         },
         {
           "id": "z2013-ch03-part9",
           "partId": "ch03",
-          "title": "第三章 · 174–176",
-          "originalTitle": "Üçüncü Bölüm · 174–176",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part9.json"
+          "title": "第3章 · 174–175–176",
+          "originalTitle": "3. Bölüm · 174–175–176",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part9.json?v=453cb0a09d28"
         },
         {
           "id": "z2013-ch03-part10",
           "partId": "ch03",
-          "title": "第三章 · 176–178",
-          "originalTitle": "Üçüncü Bölüm · 176–178",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part10.json"
+          "title": "第3章 · 176–177–178",
+          "originalTitle": "3. Bölüm · 176–177–178",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part10.json?v=31513f7ecd05"
         },
         {
           "id": "z2013-ch03-part11",
           "partId": "ch03",
-          "title": "第三章 · 178–180",
-          "originalTitle": "Üçüncü Bölüm · 178–180",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part11.json"
+          "title": "第3章 · 178–180",
+          "originalTitle": "3. Bölüm · 178–180",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part11.json?v=57d92f440657"
         },
         {
           "id": "z2013-ch03-part12",
           "partId": "ch03",
-          "title": "第三章 · 180–182",
-          "originalTitle": "Üçüncü Bölüm · 180–182",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part12.json"
+          "title": "第3章 · 180–182",
+          "originalTitle": "3. Bölüm · 180–182",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part12.json?v=ba953e8a0e6a"
         },
         {
           "id": "z2013-ch03-part13",
           "partId": "ch03",
-          "title": "第三章 · 183–184",
-          "originalTitle": "Üçüncü Bölüm · 183–184",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part13.json"
+          "title": "第3章 · 183–184",
+          "originalTitle": "3. Bölüm · 183–184",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part13.json?v=4fca0cc6857f"
         },
         {
           "id": "z2013-ch03-part14",
           "partId": "ch03",
-          "title": "第三章 · 184–186",
-          "originalTitle": "Üçüncü Bölüm · 184–186",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part14.json"
+          "title": "第3章 · 184–185–186",
+          "originalTitle": "3. Bölüm · 184–185–186",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part14.json?v=91d18f5c3210"
         },
         {
           "id": "z2013-ch03-part15",
           "partId": "ch03",
-          "title": "第三章 · 187–188",
-          "originalTitle": "Üçüncü Bölüm · 187–188",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part15.json"
+          "title": "第3章 · 187–188",
+          "originalTitle": "3. Bölüm · 187–188",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part15.json?v=72e2a02058ac"
         },
         {
           "id": "z2013-ch03-part16",
           "partId": "ch03",
-          "title": "第三章 · 188–190",
-          "originalTitle": "Üçüncü Bölüm · 188–190",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part16.json"
+          "title": "第3章 · 188–189–190",
+          "originalTitle": "3. Bölüm · 188–189–190",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part16.json?v=4a34444a0fb8"
         },
         {
           "id": "z2013-ch03-part17",
           "partId": "ch03",
-          "title": "第三章 · 190–192",
-          "originalTitle": "Üçüncü Bölüm · 190–192",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part17.json"
+          "title": "第3章 · 190–191–192",
+          "originalTitle": "3. Bölüm · 190–191–192",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part17.json?v=2ecea4e67885"
         },
         {
           "id": "z2013-ch03-part18",
           "partId": "ch03",
-          "title": "第三章 · 192–195",
-          "originalTitle": "Üçüncü Bölüm · 192–195",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part18.json"
+          "title": "第3章 · 192–193–195",
+          "originalTitle": "3. Bölüm · 192–193–195",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part18.json?v=ccc30cc01b39"
         },
         {
           "id": "z2013-ch03-part19",
           "partId": "ch03",
-          "title": "第三章 · 196–198",
-          "originalTitle": "Üçüncü Bölüm · 196–198",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part19.json"
+          "title": "第3章 · 196–198",
+          "originalTitle": "3. Bölüm · 196–198",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part19.json?v=c10268eaffcc"
         },
         {
           "id": "z2013-ch03-part20",
           "partId": "ch03",
-          "title": "第三章 · 198–199",
-          "originalTitle": "Üçüncü Bölüm · 198–199",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part20.json"
+          "title": "第3章 · 198–199",
+          "originalTitle": "3. Bölüm · 198–199",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part20.json?v=b3a2552133ad"
         },
         {
           "id": "z2013-ch03-part21",
           "partId": "ch03",
-          "title": "第三章 · 200–201",
-          "originalTitle": "Üçüncü Bölüm · 200–201",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part21.json"
+          "title": "第3章 · 200–201",
+          "originalTitle": "3. Bölüm · 200–201",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part21.json?v=bea9a7d20111"
         },
         {
           "id": "z2013-ch03-part22",
           "partId": "ch03",
-          "title": "第三章 · 201–203",
-          "originalTitle": "Üçüncü Bölüm · 201–203",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part22.json"
+          "title": "第3章 · 201–202–203",
+          "originalTitle": "3. Bölüm · 201–202–203",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part22.json?v=b79ffd8f3975"
         },
         {
           "id": "z2013-ch03-part23",
           "partId": "ch03",
-          "title": "第三章 · 204–206",
-          "originalTitle": "Üçüncü Bölüm · 204–206",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part23.json"
+          "title": "第3章 · 204–206",
+          "originalTitle": "3. Bölüm · 204–206",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part23.json?v=6272e7f91268"
         },
         {
           "id": "z2013-ch03-part24",
           "partId": "ch03",
-          "title": "第三章 · 206–208",
-          "originalTitle": "Üçüncü Bölüm · 206–208",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part24.json"
+          "title": "第3章 · 206–207–208",
+          "originalTitle": "3. Bölüm · 206–207–208",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part24.json?v=bc5aa0dcd2a7"
         },
         {
           "id": "z2013-ch03-part25",
           "partId": "ch03",
-          "title": "第三章 · 208–210",
-          "originalTitle": "Üçüncü Bölüm · 208–210",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part25.json"
+          "title": "第3章 · 208–209–209–210",
+          "originalTitle": "3. Bölüm · 208–209–209–210",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part25.json?v=b939c241db2c"
         },
         {
           "id": "z2013-ch03-part26",
           "partId": "ch03",
-          "title": "第三章 · 210–211",
-          "originalTitle": "Üçüncü Bölüm · 210–211",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part26.json"
+          "title": "第3章 · 210–211",
+          "originalTitle": "3. Bölüm · 210–211",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part26.json?v=dc818d03b748"
         },
         {
           "id": "z2013-ch03-part27",
           "partId": "ch03",
-          "title": "第三章 · 212–213",
-          "originalTitle": "Üçüncü Bölüm · 212–213",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part27.json"
+          "title": "第3章 · 212–213",
+          "originalTitle": "3. Bölüm · 212–213",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part27.json?v=74935b2d8e6a"
         },
         {
           "id": "z2013-ch03-part28",
           "partId": "ch03",
-          "title": "第三章 · 213–215",
-          "originalTitle": "Üçüncü Bölüm · 213–215",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part28.json"
+          "title": "第3章 · 213–214–215",
+          "originalTitle": "3. Bölüm · 213–214–215",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part28.json?v=c66654f208c0"
         },
         {
           "id": "z2013-ch03-part29",
           "partId": "ch03",
-          "title": "第三章 · 216–217",
-          "originalTitle": "Üçüncü Bölüm · 216–217",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part29.json"
+          "title": "第3章 · 216–217",
+          "originalTitle": "3. Bölüm · 216–217",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part29.json?v=dfce90723133"
         },
         {
           "id": "z2013-ch03-part30",
           "partId": "ch03",
-          "title": "第三章 · 217–218",
-          "originalTitle": "Üçüncü Bölüm · 217–218",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part30.json"
+          "title": "第3章 · 217–218",
+          "originalTitle": "3. Bölüm · 217–218",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part30.json?v=5983d14eabbb"
         },
         {
           "id": "z2013-ch03-part31",
           "partId": "ch03",
-          "title": "第三章 · 219–221",
-          "originalTitle": "Üçüncü Bölüm · 219–221",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part31.json"
+          "title": "第3章 · 219–221",
+          "originalTitle": "3. Bölüm · 219–221",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part31.json?v=c61989e1967b"
         },
         {
           "id": "z2013-ch03-part32",
           "partId": "ch03",
-          "title": "第三章 · 222–224",
-          "originalTitle": "Üçüncü Bölüm · 222–224",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part32.json"
+          "title": "第3章 · 222–223–224",
+          "originalTitle": "3. Bölüm · 222–223–224",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part32.json?v=9f81923247f6"
         },
         {
           "id": "z2013-ch03-part33",
           "partId": "ch03",
-          "title": "第三章 · 224–225",
-          "originalTitle": "Üçüncü Bölüm · 224–225",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part33.json"
+          "title": "第3章 · 224–225",
+          "originalTitle": "3. Bölüm · 224–225",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part33.json?v=04fed7c26d0c"
         },
         {
           "id": "z2013-ch03-part34",
           "partId": "ch03",
-          "title": "第三章 · 226–228",
-          "originalTitle": "Üçüncü Bölüm · 226–228",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part34.json"
+          "title": "第3章 · 226–228",
+          "originalTitle": "3. Bölüm · 226–228",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part34.json?v=d8e5a4252cd2"
         },
         {
           "id": "z2013-ch03-part35",
           "partId": "ch03",
-          "title": "第三章 · 228–229",
-          "originalTitle": "Üçüncü Bölüm · 228–229",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part35.json"
+          "title": "第3章 · 228–229",
+          "originalTitle": "3. Bölüm · 228–229",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part35.json?v=cf6bffdaae42"
         },
         {
           "id": "z2013-ch03-part36",
           "partId": "ch03",
-          "title": "第三章 · 230–231",
-          "originalTitle": "Üçüncü Bölüm · 230–231",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part36.json"
+          "title": "第3章 · 230–231",
+          "originalTitle": "3. Bölüm · 230–231",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part36.json?v=e46f52916e16"
         },
         {
           "id": "z2013-ch03-part37",
           "partId": "ch03",
-          "title": "第三章 · 232–235",
-          "originalTitle": "Üçüncü Bölüm · 232–235",
-          "dataUrl": "translations/books/zindiklar/z2013-ch03-part37.json"
+          "title": "第3章 · 232–234–235",
+          "originalTitle": "3. Bölüm · 232–234–235",
+          "dataUrl": "translations/books/zindiklar/z2013-ch03-part37.json?v=12cb78656d0b"
         },
         {
           "id": "z2013-ch04-part1",
           "partId": "ch04",
-          "title": "第四章 · 236–241",
-          "originalTitle": "Dördüncü Bölüm · 236–241",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part1.json"
+          "title": "第4章 · 236–240–241",
+          "originalTitle": "4. Bölüm · 236–240–241",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part1.json?v=9f1acf5c560b"
         },
         {
           "id": "z2013-ch04-part2",
           "partId": "ch04",
-          "title": "第四章 · 241–243",
-          "originalTitle": "Dördüncü Bölüm · 241–243",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part2.json"
+          "title": "第4章 · 241–243",
+          "originalTitle": "4. Bölüm · 241–243",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part2.json?v=edb37ef3a86a"
         },
         {
           "id": "z2013-ch04-part3",
           "partId": "ch04",
-          "title": "第四章 · 243–244",
-          "originalTitle": "Dördüncü Bölüm · 243–244",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part3.json"
+          "title": "第4章 · 243–244–244",
+          "originalTitle": "4. Bölüm · 243–244–244",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part3.json?v=f1ec523f0189"
         },
         {
           "id": "z2013-ch04-part4",
           "partId": "ch04",
-          "title": "第四章 · 244–247",
-          "originalTitle": "Dördüncü Bölüm · 244–247",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part4.json"
+          "title": "第4章 · 244–245–247",
+          "originalTitle": "4. Bölüm · 244–245–247",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part4.json?v=5dbd8ef51cb6"
         },
         {
           "id": "z2013-ch04-part5",
           "partId": "ch04",
-          "title": "第四章 · 247–251",
-          "originalTitle": "Dördüncü Bölüm · 247–251",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part5.json"
+          "title": "第4章 · 247–248–250–251",
+          "originalTitle": "4. Bölüm · 247–248–250–251",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part5.json?v=3d4b3a5c6660"
         },
         {
           "id": "z2013-ch04-part6",
           "partId": "ch04",
-          "title": "第四章 · 251–254",
-          "originalTitle": "Dördüncü Bölüm · 251–254",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part6.json"
+          "title": "第4章 · 251–254",
+          "originalTitle": "4. Bölüm · 251–254",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part6.json?v=5e16df8d76a8"
         },
         {
           "id": "z2013-ch04-part7",
           "partId": "ch04",
-          "title": "第四章 · 254–257",
-          "originalTitle": "Dördüncü Bölüm · 254–257",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part7.json"
+          "title": "第4章 · 254–255–257",
+          "originalTitle": "4. Bölüm · 254–255–257",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part7.json?v=71f17a03da59"
         },
         {
           "id": "z2013-ch04-part8",
           "partId": "ch04",
-          "title": "第四章 · 257–260",
-          "originalTitle": "Dördüncü Bölüm · 257–260",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part8.json"
+          "title": "第4章 · 257–258–260",
+          "originalTitle": "4. Bölüm · 257–258–260",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part8.json?v=bce84285ca1e"
         },
         {
           "id": "z2013-ch04-part9",
           "partId": "ch04",
-          "title": "第四章 · 261–264",
-          "originalTitle": "Dördüncü Bölüm · 261–264",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part9.json"
+          "title": "第4章 · 261–264",
+          "originalTitle": "4. Bölüm · 261–264",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part9.json?v=53398c5eb343"
         },
         {
           "id": "z2013-ch04-part10",
           "partId": "ch04",
-          "title": "第四章 · 264–267",
-          "originalTitle": "Dördüncü Bölüm · 264–267",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part10.json"
+          "title": "第4章 · 264–267",
+          "originalTitle": "4. Bölüm · 264–267",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part10.json?v=1b9cfd63f590"
         },
         {
           "id": "z2013-ch04-part11",
           "partId": "ch04",
-          "title": "第四章 · 267–270",
-          "originalTitle": "Dördüncü Bölüm · 267–270",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part11.json"
+          "title": "第4章 · 267–268–270",
+          "originalTitle": "4. Bölüm · 267–268–270",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part11.json?v=d6c51cf84adc"
         },
         {
           "id": "z2013-ch04-part12",
           "partId": "ch04",
-          "title": "第四章 · 270–274",
-          "originalTitle": "Dördüncü Bölüm · 270–274",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part12.json"
+          "title": "第4章 · 270–274",
+          "originalTitle": "4. Bölüm · 270–274",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part12.json?v=5ac2e5695a27"
         },
         {
           "id": "z2013-ch04-part13",
           "partId": "ch04",
-          "title": "第四章 · 275–279",
-          "originalTitle": "Dördüncü Bölüm · 275–279",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part13.json"
+          "title": "第4章 · 275–279",
+          "originalTitle": "4. Bölüm · 275–279",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part13.json?v=e0759a6e7ca7"
         },
         {
           "id": "z2013-ch04-part14",
           "partId": "ch04",
-          "title": "第四章 · 279–281",
-          "originalTitle": "Dördüncü Bölüm · 279–281",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part14.json"
+          "title": "第4章 · 279–281",
+          "originalTitle": "4. Bölüm · 279–281",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part14.json?v=f81b2074b51c"
         },
         {
           "id": "z2013-ch04-part15",
           "partId": "ch04",
-          "title": "第四章 · 281–285",
-          "originalTitle": "Dördüncü Bölüm · 281–285",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part15.json"
+          "title": "第4章 · 281–282–285",
+          "originalTitle": "4. Bölüm · 281–282–285",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part15.json?v=15d022c49bcf"
         },
         {
           "id": "z2013-ch04-part16",
           "partId": "ch04",
-          "title": "第四章 · 285–288",
-          "originalTitle": "Dördüncü Bölüm · 285–288",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part16.json"
+          "title": "第4章 · 285–288",
+          "originalTitle": "4. Bölüm · 285–288",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part16.json?v=f14990d293ea"
         },
         {
           "id": "z2013-ch04-part17",
           "partId": "ch04",
-          "title": "第四章 · 288–291",
-          "originalTitle": "Dördüncü Bölüm · 288–291",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part17.json"
+          "title": "第4章 · 288–291",
+          "originalTitle": "4. Bölüm · 288–291",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part17.json?v=232a225481fa"
         },
         {
           "id": "z2013-ch04-part18",
           "partId": "ch04",
-          "title": "第四章 · 291–295",
-          "originalTitle": "Dördüncü Bölüm · 291–295",
-          "dataUrl": "translations/books/zindiklar/z2013-ch04-part18.json"
+          "title": "第4章 · 291–294–295",
+          "originalTitle": "4. Bölüm · 291–294–295",
+          "dataUrl": "translations/books/zindiklar/z2013-ch04-part18.json?v=6a06dc832e9d"
         },
         {
           "id": "z2013-ch05-part1",
           "partId": "ch05",
-          "title": "第五章 · 296–299",
-          "originalTitle": "Beşinci Bölüm · 296–299",
-          "dataUrl": "translations/books/zindiklar/z2013-ch05-part1.json"
+          "title": "第5章 · 296–299",
+          "originalTitle": "5. Bölüm · 296–299",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part1.json?v=05ff796edf32"
         },
         {
           "id": "z2013-ch05-part2",
           "partId": "ch05",
-          "title": "第五章 · 299–305",
-          "originalTitle": "Beşinci Bölüm · 299–305",
-          "dataUrl": "translations/books/zindiklar/z2013-ch05-part2.json"
+          "title": "第5章 · 299–304–305",
+          "originalTitle": "5. Bölüm · 299–304–305",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part2.json?v=37793e8b3587"
         },
         {
           "id": "z2013-ch05-part3",
           "partId": "ch05",
-          "title": "第五章 · 305–307",
-          "originalTitle": "Beşinci Bölüm · 305–307",
-          "dataUrl": "translations/books/zindiklar/z2013-ch05-part3.json"
+          "title": "第5章 · 305–307",
+          "originalTitle": "5. Bölüm · 305–307",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part3.json?v=66ff371ff151"
+        },
+        {
+          "id": "z2013-ch05-part4",
+          "partId": "ch05",
+          "title": "第5章 · 308–311",
+          "originalTitle": "5. Bölüm · 308–311",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part4.json?v=bb528abbff7b"
+        },
+        {
+          "id": "z2013-ch05-part5",
+          "partId": "ch05",
+          "title": "第5章 · 312–316",
+          "originalTitle": "5. Bölüm · 312–316",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part5.json?v=25105f88d46f"
+        },
+        {
+          "id": "z2013-ch05-part6",
+          "partId": "ch05",
+          "title": "第5章 · 317–319",
+          "originalTitle": "5. Bölüm · 317–319",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part6.json?v=a1e7aa1b7dea"
+        },
+        {
+          "id": "z2013-ch05-part7",
+          "partId": "ch05",
+          "title": "第5章 · 320–323–324",
+          "originalTitle": "5. Bölüm · 320–323–324",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part7.json?v=13d076732429"
+        },
+        {
+          "id": "z2013-ch05-part8",
+          "partId": "ch05",
+          "title": "第5章 · 324–333",
+          "originalTitle": "5. Bölüm · 324–333",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part8.json?v=c2822b9bcf9a"
+        },
+        {
+          "id": "z2013-ch05-part9",
+          "partId": "ch05",
+          "title": "第5章 · 334–339",
+          "originalTitle": "5. Bölüm · 334–339",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part9.json?v=ccacc47c2d5b"
+        },
+        {
+          "id": "z2013-ch05-part10",
+          "partId": "ch05",
+          "title": "第5章 · 339–340–345",
+          "originalTitle": "5. Bölüm · 339–340–345",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part10.json?v=cfa89b99b5da"
+        },
+        {
+          "id": "z2013-ch05-part11",
+          "partId": "ch05",
+          "title": "第5章 · 345–346–350",
+          "originalTitle": "5. Bölüm · 345–346–350",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part11.json?v=43e1af9ecd11"
+        },
+        {
+          "id": "z2013-ch05-part12",
+          "partId": "ch05",
+          "title": "第5章 · 350–351–355",
+          "originalTitle": "5. Bölüm · 350–351–355",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part12.json?v=9ec9bb68e21f"
+        },
+        {
+          "id": "z2013-ch05-part13",
+          "partId": "ch05",
+          "title": "第5章 · 355–356–359",
+          "originalTitle": "5. Bölüm · 355–356–359",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part13.json?v=1781e46285f1"
+        },
+        {
+          "id": "z2013-ch05-part14",
+          "partId": "ch05",
+          "title": "第5章 · 359–363",
+          "originalTitle": "5. Bölüm · 359–363",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part14.json?v=a602544723ba"
+        },
+        {
+          "id": "z2013-ch05-part15",
+          "partId": "ch05",
+          "title": "第5章 · 363–367",
+          "originalTitle": "5. Bölüm · 363–367",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part15.json?v=36caa26c7f2d"
+        },
+        {
+          "id": "z2013-ch05-part16",
+          "partId": "ch05",
+          "title": "第5章 · 367–371",
+          "originalTitle": "5. Bölüm · 367–371",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part16.json?v=f03854d7df53"
+        },
+        {
+          "id": "z2013-ch05-part17",
+          "partId": "ch05",
+          "title": "第5章 · 371–372–372",
+          "originalTitle": "5. Bölüm · 371–372–372",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part17.json?v=62185608fc55"
+        },
+        {
+          "id": "z2013-ch05-part18",
+          "partId": "ch05",
+          "title": "第5章 · 372–375–376",
+          "originalTitle": "5. Bölüm · 372–375–376",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part18.json?v=f1a6d36d9814"
+        },
+        {
+          "id": "z2013-ch05-part19",
+          "partId": "ch05",
+          "title": "第5章 · 376–377–382",
+          "originalTitle": "5. Bölüm · 376–377–382",
+          "dataUrl": "translations/books/zindiklar/z2013-ch05-part19.json?v=870da04f7ee2"
+        },
+        {
+          "id": "z2013-conclusion-part1",
+          "partId": "conclusion",
+          "title": "结论",
+          "originalTitle": "Sonuç",
+          "dataUrl": "translations/books/zindiklar/z2013-conclusion-part1.json?v=af3f31df0175"
+        },
+        {
+          "id": "z2013-appendix00-part1",
+          "partId": "appendix00",
+          "title": "附录说明",
+          "originalTitle": "Ekler",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix00-part1.json?v=497f57e3c9ae"
+        },
+        {
+          "id": "z2013-appendix01-part1",
+          "partId": "appendix01",
+          "title": "附录 1",
+          "originalTitle": "Ek 1",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix01-part1.json?v=bc04d8921cc8"
+        },
+        {
+          "id": "z2013-appendix02-part1",
+          "partId": "appendix02",
+          "title": "附录 2",
+          "originalTitle": "Ek 2",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix02-part1.json?v=185f4e6afd2d"
+        },
+        {
+          "id": "z2013-appendix03-part1",
+          "partId": "appendix03",
+          "title": "附录 3",
+          "originalTitle": "Ek 3",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix03-part1.json?v=df47e08a867f"
+        },
+        {
+          "id": "z2013-appendix04-part1",
+          "partId": "appendix04",
+          "title": "附录 4",
+          "originalTitle": "Ek 4",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix04-part1.json?v=66c372b98673"
+        },
+        {
+          "id": "z2013-appendix05-part1",
+          "partId": "appendix05",
+          "title": "附录 5",
+          "originalTitle": "Ek 5",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix05-part1.json?v=5d098ced0f50"
+        },
+        {
+          "id": "z2013-appendix06-part1",
+          "partId": "appendix06",
+          "title": "附录 6",
+          "originalTitle": "Ek 6",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix06-part1.json?v=4e721eb8b32f"
+        },
+        {
+          "id": "z2013-appendix07-part1",
+          "partId": "appendix07",
+          "title": "附录 7",
+          "originalTitle": "Ek 7",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix07-part1.json?v=6b982a0d042b"
+        },
+        {
+          "id": "z2013-appendix08-part1",
+          "partId": "appendix08",
+          "title": "附录 8",
+          "originalTitle": "Ek 8",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix08-part1.json?v=9e144fea5485"
+        },
+        {
+          "id": "z2013-appendix09-part1",
+          "partId": "appendix09",
+          "title": "附录 9",
+          "originalTitle": "Ek 9",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix09-part1.json?v=4c85507f872e"
+        },
+        {
+          "id": "z2013-appendix10-part1",
+          "partId": "appendix10",
+          "title": "附录 10",
+          "originalTitle": "Ek 10",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix10-part1.json?v=28575e9d6277"
+        },
+        {
+          "id": "z2013-appendix11-part1",
+          "partId": "appendix11",
+          "title": "附录 11",
+          "originalTitle": "Ek 11",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix11-part1.json?v=f85540047458"
+        },
+        {
+          "id": "z2013-appendix12-part1",
+          "partId": "appendix12",
+          "title": "附录 12",
+          "originalTitle": "Ek 12",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix12-part1.json?v=f0641a73699a"
+        },
+        {
+          "id": "z2013-appendix13-part1",
+          "partId": "appendix13",
+          "title": "附录 13",
+          "originalTitle": "Ek 13",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix13-part1.json?v=75ef0ef7fa15"
+        },
+        {
+          "id": "z2013-appendix14-part1",
+          "partId": "appendix14",
+          "title": "附录 14",
+          "originalTitle": "Ek 14",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix14-part1.json?v=139329d3141b"
+        },
+        {
+          "id": "z2013-appendix15-part1",
+          "partId": "appendix15",
+          "title": "附录 15",
+          "originalTitle": "Ek 15",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix15-part1.json?v=f84e2b1bebc5"
+        },
+        {
+          "id": "z2013-appendix16-part1",
+          "partId": "appendix16",
+          "title": "附录 16",
+          "originalTitle": "Ek 16",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix16-part1.json?v=379bedf6eaf1"
+        },
+        {
+          "id": "z2013-appendix17-part1",
+          "partId": "appendix17",
+          "title": "附录 17 · 446–449",
+          "originalTitle": "Ek 17 · 446–449",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix17-part1.json?v=9fe50ff4b8f8"
+        },
+        {
+          "id": "z2013-appendix17-part2",
+          "partId": "appendix17",
+          "title": "附录 17 · 449–450–455–456",
+          "originalTitle": "Ek 17 · 449–450–455–456",
+          "dataUrl": "translations/books/zindiklar/z2013-appendix17-part2.json?v=578bb98833d4"
+        },
+        {
+          "id": "z2013-bibliography-part1",
+          "partId": "bibliography",
+          "title": "书目 · 457–458",
+          "originalTitle": "Kaynakça · 457–458",
+          "dataUrl": "translations/books/zindiklar/z2013-bibliography-part1.json?v=10f12f262257"
+        },
+        {
+          "id": "z2013-bibliography-part2",
+          "partId": "bibliography",
+          "title": "书目 · 458–459",
+          "originalTitle": "Kaynakça · 458–459",
+          "dataUrl": "translations/books/zindiklar/z2013-bibliography-part2.json?v=b2797e20790f"
+        },
+        {
+          "id": "z2013-bibliography-part3",
+          "partId": "bibliography",
+          "title": "书目 · 460",
+          "originalTitle": "Kaynakça · 460",
+          "dataUrl": "translations/books/zindiklar/z2013-bibliography-part3.json?v=55075acfb54f"
+        },
+        {
+          "id": "z2013-bibliography-part4",
+          "partId": "bibliography",
+          "title": "书目 · 461–462",
+          "originalTitle": "Kaynakça · 461–462",
+          "dataUrl": "translations/books/zindiklar/z2013-bibliography-part4.json?v=fa899454618e"
+        },
+        {
+          "id": "z2013-bibliography-part5",
+          "partId": "bibliography",
+          "title": "书目 · 463–464",
+          "originalTitle": "Kaynakça · 463–464",
+          "dataUrl": "translations/books/zindiklar/z2013-bibliography-part5.json?v=e22bdecf0dda"
+        },
+        {
+          "id": "z2013-bibliography-part6",
+          "partId": "bibliography",
+          "title": "书目 · 465–466",
+          "originalTitle": "Kaynakça · 465–466",
+          "dataUrl": "translations/books/zindiklar/z2013-bibliography-part6.json?v=c50f3857c9ec"
+        },
+        {
+          "id": "z2013-bibliography-part7",
+          "partId": "bibliography",
+          "title": "书目 · 467–468",
+          "originalTitle": "Kaynakça · 467–468",
+          "dataUrl": "translations/books/zindiklar/z2013-bibliography-part7.json?v=f82749632c3a"
+        },
+        {
+          "id": "z2013-bibliography-part8",
+          "partId": "bibliography",
+          "title": "书目 · 469–470",
+          "originalTitle": "Kaynakça · 469–470",
+          "dataUrl": "translations/books/zindiklar/z2013-bibliography-part8.json?v=6d0389d825ae"
+        },
+        {
+          "id": "z2013-bibliography-part9",
+          "partId": "bibliography",
+          "title": "书目 · 471–472",
+          "originalTitle": "Kaynakça · 471–472",
+          "dataUrl": "translations/books/zindiklar/z2013-bibliography-part9.json?v=82ff499c7844"
+        },
+        {
+          "id": "z2013-bibliography-part10",
+          "partId": "bibliography",
+          "title": "书目 · 473–474",
+          "originalTitle": "Kaynakça · 473–474",
+          "dataUrl": "translations/books/zindiklar/z2013-bibliography-part10.json?v=a839a8084a19"
+        },
+        {
+          "id": "z2013-bibliography-part11",
+          "partId": "bibliography",
+          "title": "书目 · 475–477",
+          "originalTitle": "Kaynakça · 475–477",
+          "dataUrl": "translations/books/zindiklar/z2013-bibliography-part11.json?v=c848b982b1a4"
+        },
+        {
+          "id": "z2013-photos-part1",
+          "partId": "photos",
+          "title": "照片",
+          "originalTitle": "Fotoğraflar",
+          "dataUrl": "translations/books/zindiklar/z2013-photos-part1.json?v=0a5aec35ae7e"
+        },
+        {
+          "id": "z2013-index-part1",
+          "partId": "index",
+          "title": "索引 · 497–499",
+          "originalTitle": "Dizin · 497–499",
+          "dataUrl": "translations/books/zindiklar/z2013-index-part1.json?v=2a0edfa8bd6c"
+        },
+        {
+          "id": "z2013-index-part2",
+          "partId": "index",
+          "title": "索引 · 500–501",
+          "originalTitle": "Dizin · 500–501",
+          "dataUrl": "translations/books/zindiklar/z2013-index-part2.json?v=8a20195e1751"
+        },
+        {
+          "id": "z2013-index-part3",
+          "partId": "index",
+          "title": "索引 · 501–502–505",
+          "originalTitle": "Dizin · 501–502–505",
+          "dataUrl": "translations/books/zindiklar/z2013-index-part3.json?v=e21c9f185e90"
+        },
+        {
+          "id": "z2013-index-part4",
+          "partId": "index",
+          "title": "索引 · 506–507",
+          "originalTitle": "Dizin · 506–507",
+          "dataUrl": "translations/books/zindiklar/z2013-index-part4.json?v=12a32f3da55a"
+        },
+        {
+          "id": "z2013-index-part5",
+          "partId": "index",
+          "title": "索引 · 508–509",
+          "originalTitle": "Dizin · 508–509",
+          "dataUrl": "translations/books/zindiklar/z2013-index-part5.json?v=cab1fab8b5ac"
+        },
+        {
+          "id": "z2013-index-part6",
+          "partId": "index",
+          "title": "索引 · 510–512",
+          "originalTitle": "Dizin · 510–512",
+          "dataUrl": "translations/books/zindiklar/z2013-index-part6.json?v=fe6fb08344d1"
+        },
+        {
+          "id": "z2013-index-part7",
+          "partId": "index",
+          "title": "索引 · 513–514",
+          "originalTitle": "Dizin · 513–514",
+          "dataUrl": "translations/books/zindiklar/z2013-index-part7.json?v=72f409086447"
+        },
+        {
+          "id": "z2013-index-part8",
+          "partId": "index",
+          "title": "索引 · 515–516",
+          "originalTitle": "Dizin · 515–516",
+          "dataUrl": "translations/books/zindiklar/z2013-index-part8.json?v=3a863b3c944e"
+        },
+        {
+          "id": "z2013-index-part9",
+          "partId": "index",
+          "title": "索引 · 517–519",
+          "originalTitle": "Dizin · 517–519",
+          "dataUrl": "translations/books/zindiklar/z2013-index-part9.json?v=6ecbd5d9fcd5"
+        },
+        {
+          "id": "z2013-backcover-part1",
+          "partId": "backcover",
+          "title": "封底",
+          "originalTitle": "Arka kapak",
+          "dataUrl": "translations/books/zindiklar/z2013-backcover-part1.json?v=c9927f7ee8f7"
         }
       ],
       "parts": [
+        {
+          "id": "frontmatter",
+          "title": "书前材料",
+          "originalTitle": "Ön sayfalar"
+        },
         {
           "id": "preface1",
           "title": "原序",
@@ -3065,48 +3483,169 @@ window.TRANSLATIONS = {
         },
         {
           "id": "ch01",
-          "title": "第一章",
-          "originalTitle": "Birinci Bölüm"
+          "title": "第1章",
+          "originalTitle": "1. Bölüm"
         },
         {
           "id": "ch02",
-          "title": "第二章",
-          "originalTitle": "İkinci Bölüm"
+          "title": "第2章",
+          "originalTitle": "2. Bölüm"
         },
         {
           "id": "ch03",
-          "title": "第三章",
-          "originalTitle": "Üçüncü Bölüm"
+          "title": "第3章",
+          "originalTitle": "3. Bölüm"
         },
         {
           "id": "ch04",
-          "title": "第四章",
-          "originalTitle": "Dördüncü Bölüm"
+          "title": "第4章",
+          "originalTitle": "4. Bölüm"
         },
         {
           "id": "ch05",
-          "title": "第五章",
-          "originalTitle": "Beşinci Bölüm"
+          "title": "第5章",
+          "originalTitle": "5. Bölüm"
+        },
+        {
+          "id": "conclusion",
+          "title": "结论",
+          "originalTitle": "Sonuç"
+        },
+        {
+          "id": "appendix00",
+          "title": "附录说明",
+          "originalTitle": "Ekler"
+        },
+        {
+          "id": "appendix01",
+          "title": "附录 1",
+          "originalTitle": "Ek 1"
+        },
+        {
+          "id": "appendix02",
+          "title": "附录 2",
+          "originalTitle": "Ek 2"
+        },
+        {
+          "id": "appendix03",
+          "title": "附录 3",
+          "originalTitle": "Ek 3"
+        },
+        {
+          "id": "appendix04",
+          "title": "附录 4",
+          "originalTitle": "Ek 4"
+        },
+        {
+          "id": "appendix05",
+          "title": "附录 5",
+          "originalTitle": "Ek 5"
+        },
+        {
+          "id": "appendix06",
+          "title": "附录 6",
+          "originalTitle": "Ek 6"
+        },
+        {
+          "id": "appendix07",
+          "title": "附录 7",
+          "originalTitle": "Ek 7"
+        },
+        {
+          "id": "appendix08",
+          "title": "附录 8",
+          "originalTitle": "Ek 8"
+        },
+        {
+          "id": "appendix09",
+          "title": "附录 9",
+          "originalTitle": "Ek 9"
+        },
+        {
+          "id": "appendix10",
+          "title": "附录 10",
+          "originalTitle": "Ek 10"
+        },
+        {
+          "id": "appendix11",
+          "title": "附录 11",
+          "originalTitle": "Ek 11"
+        },
+        {
+          "id": "appendix12",
+          "title": "附录 12",
+          "originalTitle": "Ek 12"
+        },
+        {
+          "id": "appendix13",
+          "title": "附录 13",
+          "originalTitle": "Ek 13"
+        },
+        {
+          "id": "appendix14",
+          "title": "附录 14",
+          "originalTitle": "Ek 14"
+        },
+        {
+          "id": "appendix15",
+          "title": "附录 15",
+          "originalTitle": "Ek 15"
+        },
+        {
+          "id": "appendix16",
+          "title": "附录 16",
+          "originalTitle": "Ek 16"
+        },
+        {
+          "id": "appendix17",
+          "title": "附录 17",
+          "originalTitle": "Ek 17"
+        },
+        {
+          "id": "bibliography",
+          "title": "书目",
+          "originalTitle": "Kaynakça"
+        },
+        {
+          "id": "photos",
+          "title": "照片",
+          "originalTitle": "Fotoğraflar"
+        },
+        {
+          "id": "index",
+          "title": "索引",
+          "originalTitle": "Dizin"
+        },
+        {
+          "id": "backcover",
+          "title": "封底",
+          "originalTitle": "Arka kapak"
         }
       ],
       "downloads": [
         {
           "label": "中土对照 PDF",
-          "url": "translations/books/zindiklar/downloads/bilingual.pdf?v=71ceeb0c5b63",
-          "sha256": "71ceeb0c5b63ab72e2645f3e60d9958b74185eb26000f3fc632408a35a37019e",
-          "bytes": 2546125
+          "url": "translations/books/zindiklar/downloads/bilingual.pdf?v=550ad0f0132a",
+          "sha256": "550ad0f0132a9234fbdcc40836eb421a68ae49e6d3d0b085499b1e6c0dbffd88",
+          "bytes": 48071600
         },
         {
-          "label": "土耳其语 PDF",
-          "url": "translations/books/zindiklar/downloads/tr.pdf?v=24b3a1916deb",
-          "sha256": "24b3a1916debf260395616e40492c12433cf7218f7d83f5b16e7e12b0ca405c9",
-          "bytes": 1040581
+          "label": "土耳其文 PDF",
+          "url": "translations/books/zindiklar/downloads/tr.pdf?v=4cf655097972",
+          "sha256": "4cf655097972da422ff931a8bec5fb32e8d01cb90ad411df6684c6cf4deeb9a1",
+          "bytes": 45842641
         },
         {
           "label": "中文 Markdown",
-          "url": "translations/books/zindiklar/downloads/zh.md?v=a6ef65492b3a",
-          "sha256": "a6ef65492b3a7610000f5852df6c3cffa0e46ff9f26b7ccb624ab2d340a37cf7",
-          "bytes": 955249
+          "url": "translations/books/zindiklar/downloads/zh.md?v=4e84e766ded0",
+          "sha256": "4e84e766ded04122443b6755c9378b9d44bc85f0d828b3bd7b2ecd4f8052f9be",
+          "bytes": 1664533
+        },
+        {
+          "label": "可编辑源码包（含中文稿与图片）",
+          "url": "translations/books/zindiklar/downloads/sources.zip?v=c441d4390e06",
+          "sha256": "c441d4390e0645da20150b427d88307bd01c5640e00420ad91e3ce7028fc5d5a",
+          "bytes": 75401814
         }
       ]
     },

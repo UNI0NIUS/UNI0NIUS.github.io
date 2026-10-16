@@ -107,8 +107,9 @@ window.renderParallelBook = (() => {
     for (const row of chapter.body) {
       const wrapper = el("section", undefined, "parallel-row");
       wrapper.id = row.id;
-      const page = el("a", row.page ? `p. ${row.page}` : "", "printed-page");
-      page.href = `#${row.id}`; page.setAttribute("aria-label", `Printed edition page ${row.page || ""}`);
+      const pdfPage = row.pageKind === "pdf";
+      const page = el("a", row.page ? (pdfPage ? row.page : `p. ${row.page}`) : "", "printed-page");
+      page.href = `#${row.id}`; page.setAttribute("aria-label", pdfPage ? `Source ${row.page}` : `Printed edition page ${row.page || ""}`);
       wrapper.append(page);
       for (const language of view === "parallel" ? ["zh", "en"] : [view]) wrapper.append(cell(row, language, chapter.notes || {}, chapter));
       container.append(wrapper);

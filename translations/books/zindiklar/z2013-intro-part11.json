@@ -26,7 +26,7 @@
         }
       ],
       "zh": [
-        "阿拔斯王朝早期，居住在巴格达、巴士拉、大马士革等大城市的文人与诗人中，存在着一场相当广泛的异端运动，这一点十分引人注目。这些文人与诗人中的相当一部分，本来也担任着各种官僚职务；但如前所述，他们主要以文人、诗人的身份闻名，而非作为官僚，并且是因为著作和诗歌而受到异端指控，因此将他们放在这一标题下考察更为恰当。",
+        "阿拔斯王朝早期，居住在巴格达、巴士拉、大马士革等大城市的文人与诗人中，存在着一场相当广泛的异端运动，这一点十分引人注目。这些文人与诗人中的相当一部分，本来也担任着各种官僚职务；但如前所述，他们主要以文人、诗人的身份闻名，而非作为官僚，并且是因为著作和诗歌而受到异端指控，因此在这一类下考察他们更为妥当。",
         {
           "type": "note",
           "id": "intro-88"
@@ -67,7 +67,21 @@
       "type": "paragraph",
       "page": "34–35",
       "en": [
-        "Çok velûd bir müellif olan İbnü’l-Mukaffa‘, İslâm dünyasındaki asıl ününü Hind hayvan masalları koleksiyonu olan Pançatântra ve Tantrakhyâyka’nın, Sâsânî hükümdarı Enûşirevan zamanında meydana getirilmiş Pehlevice nüshasından Arapçaya çevirdiği meşhur Kelile ve Dimne ile yapmıştır.",
+        "Çok velûd bir müellif olan İbnü’l-Mukaffa‘, İslâm dünyasındaki asıl ününü Hind hayvan masalları koleksiyonu olan ",
+        {
+          "type": "em",
+          "children": [
+            "Pançatântra ve Tantrakhyâyka"
+          ]
+        },
+        "’nın, Sâsânî hükümdarı Enûşirevan zamanında meydana getirilmiş Pehlevice nüshasından Arapçaya çevirdiği meşhur ",
+        {
+          "type": "em",
+          "children": [
+            "Kelile ve Dimne"
+          ]
+        },
+        " ile yapmıştır.",
         {
           "type": "note",
           "id": "intro-91"
@@ -138,12 +152,26 @@
           "type": "note",
           "id": "intro-97"
         },
-        " bugüne kadar bunun doğruluğu ispatlanamamıştır. Ayrıca, içinde Kur’an-ı Kerim’e ve Hz. Muhammed’e eleştiri yöneltip meydan okuduğu ileri sürülen bir eserinden söz edilmiştir. Aslı bugüne kadar ortaya çıkmayan bu eserden bazı parçaların, Zeydiye imamlarından Tercümânüddin Kasım b. İbrahim el-Hasanî (ö. 860) tarafından esere yazılan Kitâbü’r-Redd ‘ale’z-Zindîkı’l-La‘in İbni’l-Mukaffa‘ isimli bir reddiyenin içinde bulunduğu söylenir.",
+        " bugüne kadar bunun doğruluğu ispatlanamamıştır. Ayrıca, içinde Kur’an-ı Kerim’e ve Hz. Muhammed’e eleştiri yöneltip meydan okuduğu ileri sürülen bir eserinden söz edilmiştir. Aslı bugüne kadar ortaya çıkmayan bu eserden bazı parçaların, Zeydiye imamlarından Tercümânüddin Kasım b. İbrahim el-Hasanî (ö. 860) tarafından esere yazılan ",
+        {
+          "type": "em",
+          "children": [
+            "Kitâbü’r-Redd ‘ale’z-Zindîkı’l-La‘in İbni’l-Mukaffa‘"
+          ]
+        },
+        " isimli bir reddiyenin içinde bulunduğu söylenir.",
         {
           "type": "note",
           "id": "intro-98"
         },
-        " Gabrieli bu parçaların otantik olup olmadığını tartıştıktan sonra, pek de güvenilir olmadıkları, dolayısıyla İbnü’l-Mukaffa‘a aidiyetinin şüpheli olduğu sonucuna varmakta, eseri yayımlayan M. Guidi’nin de onun bir zındık olduğu düşüncesini paylaşmadığını söylemektedir. O, bu velûd edibin eserlerinin Sâsânî kültürünü gerçekten güçlü bir şekilde yansıttığı, özellikle Kelile ve Dimne’nin eski Hind ve İran siyasî kültürünü aktardığı kanaatini taşımakta, İbnü’l-Mukaffa‘ın bu kültürü İslâm toplumuna kazandırmakla da büyük bir hizmet gördüğünü vurgulamaktadır.",
+        " Gabrieli bu parçaların otantik olup olmadığını tartıştıktan sonra, pek de güvenilir olmadıkları, dolayısıyla İbnü’l-Mukaffa‘a aidiyetinin şüpheli olduğu sonucuna varmakta, eseri yayımlayan M. Guidi’nin de onun bir zındık olduğu düşüncesini paylaşmadığını söylemektedir. O, bu velûd edibin eserlerinin Sâsânî kültürünü gerçekten güçlü bir şekilde yansıttığı, özellikle ",
+        {
+          "type": "em",
+          "children": [
+            "Kelile ve Dimne"
+          ]
+        },
+        "’nin eski Hind ve İran siyasî kültürünü aktardığı kanaatini taşımakta, İbnü’l-Mukaffa‘ın bu kültürü İslâm toplumuna kazandırmakla da büyük bir hizmet gördüğünü vurgulamaktadır.",
         {
           "type": "note",
           "id": "intro-99"
@@ -197,7 +225,21 @@
     },
     "intro-89": {
       "en": [
-        "Bkz. ‘Abdülhüseyin b. Kûb, agm, aynı yerde."
+        "Bkz. ‘Abdülhüseyin b. Kûb, ",
+        {
+          "type": "em",
+          "children": [
+            "agm"
+          ]
+        },
+        ", ",
+        {
+          "type": "em",
+          "children": [
+            "aynı yerde"
+          ]
+        },
+        "."
       ],
       "zh": [
         "见‘Abdülhüseyin b. Kûb，前引文，同处。〔译校记：承接原注81—84，即《Zendeka ve zenâdıka》第268页。〕"
@@ -206,7 +248,35 @@
     },
     "intro-90": {
       "en": [
-        "İbnü’l-Mukaffa‘ üzerinde bilhassa M. Guidi, F. Gabrieli ve sonra sırasıyla P. Kraus, C. A. Nallino, G. Richter, S. D. Goitein ve D. Sourdel çalışmışlardır. Bu geniş kadrolu araştırmalar, İbnü’l-Mukaffa‘ın büyük ölçüde ilgi çektiğini gösteriyor. İbnü’l-Mukaffa‘ın biyografisi hakkında geniş bilgi için şunlara bakılmalıdır: F. Gabrieli, “L’opera di Ibn al-Mukaffa”, RSO, XIII (1932), s.197-247; aynı yazar, “Ibn al-Mukaffa‘”, EI²; P. Kraus, “Zu ibn al-Mukaffa‘”, RSO, XIV (1934), s. 1-20; D. Sourdel, “La biographie d’Ibn al-Muqaffa‘ d’après les sources anciennes”, Arabica, I (1954), s. 307-323; ayrıca bkz. Chokr, s. 189-209. Buralarda bibliyografya da verilmiştir."
+        "İbnü’l-Mukaffa‘ üzerinde bilhassa M. Guidi, F. Gabrieli ve sonra sırasıyla P. Kraus, C. A. Nallino, G. Richter, S. D. Goitein ve D. Sourdel çalışmışlardır. Bu geniş kadrolu araştırmalar, İbnü’l-Mukaffa‘ın büyük ölçüde ilgi çektiğini gösteriyor. İbnü’l-Mukaffa‘ın biyografisi hakkında geniş bilgi için şunlara bakılmalıdır: F. Gabrieli, “L’opera di Ibn al-Mukaffa”, ",
+        {
+          "type": "em",
+          "children": [
+            "RSO"
+          ]
+        },
+        ", XIII (1932), s.197-247; aynı yazar, “Ibn al-Mukaffa‘”, ",
+        {
+          "type": "em",
+          "children": [
+            "EI²"
+          ]
+        },
+        "; P. Kraus, “Zu ibn al-Mukaffa‘”, ",
+        {
+          "type": "em",
+          "children": [
+            "RSO"
+          ]
+        },
+        ", XIV (1934), s. 1-20; D. Sourdel, “La biographie d’Ibn al-Muqaffa‘ d’après les sources anciennes”, ",
+        {
+          "type": "em",
+          "children": [
+            "Arabica"
+          ]
+        },
+        ", I (1954), s. 307-323; ayrıca bkz. Chokr, s. 189-209. Buralarda bibliyografya da verilmiştir."
       ],
       "zh": [
         "尤其是M. 圭迪、F. 加布里埃利，以及随后先后开展研究的P. 克劳斯、C. A. 纳利诺、G. 里希特、S. D. 戈伊泰因和D. 苏尔代尔，都研究过伊本·穆卡法。如此众多学者参与研究，表明他受到广泛关注。关于其生平的详细资料，应参见：F. Gabrieli：《伊本·穆卡法的著作》（“L’opera di Ibn al-Mukaffa”），RSO，第XIII卷，1932年，第197—247页；同作者：“Ibn al-Mukaffa‘”，《伊斯兰百科全书》第2版（EI²）；P. Kraus：“Zu ibn al-Mukaffa‘”，RSO，第XIV卷，1934年，第1—20页；D. Sourdel：《据古代史料论伊本·穆卡法的生平》（“La biographie d’Ibn al-Muqaffa‘ d’après les sources anciennes”），Arabica，第I卷，1954年，第307—323页；另见Chokr，第189—209页。上述文献也附有书目。〔译校记：正文采用762年卒年。İsmail Durmuş撰TDV“İbnü’l-Mukaffa‘”条首选759年，同时列出760、762年的不同记载，因此这里属于纪年异说，保留底本，不当作确定错字。见 https://islamansiklopedisi.org.tr/ibnul-mukaffa 。〕"
@@ -224,7 +294,42 @@
     },
     "intro-92": {
       "en": [
-        "Mesela Âyinnâme, Tâcnâme ve Hudaynâme’nin bazı parçaları, İbn Kuteybe’nin ‘Uyûnu’l-Ahbar’ında ve Kitabü’l-Ma’arif’inde nakledilmektedir."
+        "Mesela ",
+        {
+          "type": "em",
+          "children": [
+            "Âyinnâme"
+          ]
+        },
+        ", ",
+        {
+          "type": "em",
+          "children": [
+            "Tâcnâme"
+          ]
+        },
+        " ve ",
+        {
+          "type": "em",
+          "children": [
+            "Hudaynâme"
+          ]
+        },
+        "’nin bazı parçaları, İbn Kuteybe’nin ",
+        {
+          "type": "em",
+          "children": [
+            "‘Uyûnu’l-Ahbar"
+          ]
+        },
+        "’ında ve ",
+        {
+          "type": "em",
+          "children": [
+            "Kitabü’l-Ma’arif"
+          ]
+        },
+        "’inde nakledilmektedir."
       ],
       "zh": [
         "例如，《Âyinnâme》《Tâcnâme》和《Hudaynâme》的一些片段，被伊本·古泰拜的《‘Uyûnu’l-Ahbar》和《Kitabü’l-Ma’arif》所转引。"
@@ -233,7 +338,49 @@
     },
     "intro-93": {
       "en": [
-        "Bunlardan İstanbul Süleymaniye Kütüphanesi’nde bulunan bazı nüshaları örnek verebiliriz: Resailü’l-Bulegâ (Celal Ökten), nr. 692 (basılı nüshası: Kahire 1326); Adâbu’s-Sağîr (Celal Ökten), nr. 709 (basılı nüshası: Kahire 1331); Adâbu’l-Kebîr (İd Mehmed Efendi), nr. 36/2 (basılı nüshası: Kahire 1329); Dürretü’l-Yetîme (Reisülküttap), nr. 791; Risaletü’l-Ahlak fî’s-Siyase (Halet Efendi), nr. 756/6; Risale fî Mekarimi’l-Ahlak (Halet Efendi), nr. 391/1."
+        "Bunlardan İstanbul Süleymaniye Kütüphanesi’nde bulunan bazı nüshaları örnek verebiliriz: ",
+        {
+          "type": "em",
+          "children": [
+            "Resailü’l-Bulegâ"
+          ]
+        },
+        " (Celal Ökten), nr. 692 (basılı nüshası: Kahire 1326); ",
+        {
+          "type": "em",
+          "children": [
+            "Adâbu’s-Sağîr"
+          ]
+        },
+        " (Celal Ökten), nr. 709 (basılı nüshası: Kahire 1331); ",
+        {
+          "type": "em",
+          "children": [
+            "Adâbu’l-Kebîr"
+          ]
+        },
+        " (İd Mehmed Efendi), nr. 36/2 (basılı nüshası: Kahire 1329); ",
+        {
+          "type": "em",
+          "children": [
+            "Dürretü’l-Yetîme"
+          ]
+        },
+        " (Reisülküttap), nr. 791; ",
+        {
+          "type": "em",
+          "children": [
+            "Risaletü’l-Ahlak fî’s-Siyase"
+          ]
+        },
+        " (Halet Efendi), nr. 756/6; ",
+        {
+          "type": "em",
+          "children": [
+            "Risale fî Mekarimi’l-Ahlak"
+          ]
+        },
+        " (Halet Efendi), nr. 391/1."
       ],
       "zh": [
         "可举出其中收藏于伊斯坦布尔苏莱曼尼耶图书馆的若干本子：《Resailü’l-Bulegâ》，Celal Ökten藏书，第692号，印本为开罗1326年版；《Adâbu’s-Sağîr》，Celal Ökten藏书，第709号，印本为开罗1331年版；《Adâbu’l-Kebîr》，İd Mehmed Efendi藏书，第36/2号，印本为开罗1329年版；《Dürretü’l-Yetîme》，Reisülküttap藏书，第791号；《Risaletü’l-Ahlak fî’s-Siyase》，Halet Efendi藏书，第756/6号；《Risale fî Mekarimi’l-Ahlak》，Halet Efendi藏书，第391/1号。〔译校记：藏书分部名、架号与印本年份均依底本保留，尚未逐件核对馆藏实物或目录。〕"
@@ -242,7 +389,14 @@
     },
     "intro-94": {
       "en": [
-        "Bkz. el-Fihrist, s. 178."
+        "Bkz. ",
+        {
+          "type": "em",
+          "children": [
+            "el-Fihrist"
+          ]
+        },
+        ", s. 178."
       ],
       "zh": [
         "见《书目》（el-Fihrist），第178页。〔译校记：正文“与他同时代、对他十分熟悉的伊本·纳迪姆”照底本译出，但年代不合：TDV“İbnü’l-Mukaffa‘”条将前者置于8世纪，“İbnü’n-Nedîm”条则记后者为10世纪书目学家，倾向采用995年卒年的记载，两人并非同时代。见 https://islamansiklopedisi.org.tr/ibnul-mukaffa 与 https://islamansiklopedisi.org.tr/ibnun-nedim 。本句“由摩尼教徒和马兹达教徒所作的翻译”也按土文“Maniheist ve Mazdeistler’ce yapılan”保留；所引《书目》第178页尚未核读，不据猜测改写施事或原作归属。〕"
@@ -251,7 +405,14 @@
     },
     "intro-95": {
       "en": [
-        "Yukarıdaki dipnotta da zikredilen bu eserlerin birer özet analizi, İbnü’l-Mukaffa‘ı çok iyi incelemiş olan F. Gabrieli’nin daha önce anılan makalesinde ve EI²’deki «İbn al-Mukaffa‘» maddesinde bulunmaktadır. Daha geniş bilgi için buralardaki bibliyografik malzemeye başvurmak gerekir."
+        "Yukarıdaki dipnotta da zikredilen bu eserlerin birer özet analizi, İbnü’l-Mukaffa‘ı çok iyi incelemiş olan F. Gabrieli’nin daha önce anılan makalesinde ve ",
+        {
+          "type": "em",
+          "children": [
+            "EI²"
+          ]
+        },
+        "’deki «İbn al-Mukaffa‘» maddesinde bulunmaktadır. Daha geniş bilgi için buralardaki bibliyografik malzemeye başvurmak gerekir."
       ],
       "zh": [
         "对上述脚注中所列各书的概要分析，可见于深入研究过伊本·穆卡法的F. 加布里埃利此前提到的论文，以及他为《伊斯兰百科全书》第2版（EI²）撰写的“İbn al-Mukaffa‘”条。欲知更详细情况，应参考这些文献所列的书目资料。〔译校记：加布里埃利论文及百科条目的出处见原注90。〕"
@@ -260,7 +421,14 @@
     },
     "intro-96": {
       "en": [
-        "Bkz. ez-Zendeka ve’z-Zenâdıka, s. 185."
+        "Bkz. ",
+        {
+          "type": "em",
+          "children": [
+            "ez-Zendeka ve’z-Zenâdıka"
+          ]
+        },
+        ", s. 185."
       ],
       "zh": [
         "见《异端与异端者》（ez-Zendeka ve’z-Zenâdıka），第185页。〔译校记：此处指正文所述Ebû ‘Avz的著作。〕"
@@ -278,7 +446,14 @@
     },
     "intro-98": {
       "en": [
-        "Bu eser vaktiyle, İbnü’l-Mukaffa‘ üzerine bir incelemeyle birlikte M. Guidi tarafından yayımlanmıştır: La lotta tra l’Islâm e il Manicheismo: Un libro di Ibn al-Mukaffa‘ contro il Corano confutato da al-Qasim b. Ibrâhîm, Roma 1927."
+        "Bu eser vaktiyle, İbnü’l-Mukaffa‘ üzerine bir incelemeyle birlikte M. Guidi tarafından yayımlanmıştır: ",
+        {
+          "type": "em",
+          "children": [
+            "La lotta tra l’Islâm e il Manicheismo: Un libro di Ibn al-Mukaffa‘ contro il Corano confutato da al-Qasim b. Ibrâhîm"
+          ]
+        },
+        ", Roma 1927."
       ],
       "zh": [
         "这部作品曾由M. 圭迪刊行，并附一篇关于伊本·穆卡法的研究：《伊斯兰教与摩尼教的斗争：卡西姆·伊本·易卜拉欣所驳斥的伊本·穆卡法反〈古兰经〉之书》（La lotta tra l’Islâm e il Manicheismo: Un libro di Ibn al-Mukaffa‘ contro il Corano confutato da al-Qasim b. Ibrâhîm），罗马，1927年。"
@@ -287,7 +462,14 @@
     },
     "intro-99": {
       "en": [
-        "Msl. bkz. Gabrieli, “La zandaqa”, s. 27-31; aynı yazar, «Ibn al-Mukaffa‘», EI²."
+        "Msl. bkz. Gabrieli, “La zandaqa”, s. 27-31; aynı yazar, «Ibn al-Mukaffa‘», ",
+        {
+          "type": "em",
+          "children": [
+            "EI²"
+          ]
+        },
+        "."
       ],
       "zh": [
         "例如，见加布里埃利：《La zandaqa》，第27—31页；同作者：“Ibn al-Mukaffa‘”，《伊斯兰百科全书》第2版（EI²）。"

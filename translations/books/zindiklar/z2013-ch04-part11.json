@@ -16,7 +16,7 @@
     },
     {
       "id": "z2013-ch04-091",
-      "type": "paragraph",
+      "type": "quote",
       "page": "268",
       "en": [
         "“Kudât-ı memâlik-i mahmiye umûr-ı dînde mübâlât itmeyenlerin tevbelerine i‘tibâr itmeyüp sâir eimme mezheplerince katllerine hükm itmeğe me’mur ve me’zunlardır. Ba‘de’l-hükm ol cihetden dahî vücûb-i katl ittifakı olur.”"
@@ -38,7 +38,7 @@
     },
     {
       "id": "z2013-ch04-093",
-      "type": "paragraph",
+      "type": "quote",
       "page": "268",
       "en": [
         "“İmâm-ı A‘zam katında tevbe ve İslâm’la sâkıt olan vücûb-ı katldir, cevâz-ı katl değildir. Sâir eimme re’yleri ile ‘amelen katl olunmak câiz idüği ve hükm olundukdan sonra hatmen vâcip idüği İmâm-ı A‘zam katında mukarrer ve müsellemdir. Hükm iden hâkime Hanefî olmak zarar eylemez.”"
@@ -63,7 +63,14 @@
       "type": "heading",
       "page": "268",
       "en": [
-        "B) Başkent Uleması Arasında “İsevî Müslümanlık” yahut Müslümanlar Arasında Hz. ‘İsa Kültü (Hubmesîhîlik) (16.-17. Yüzyıllar)"
+        "B) Başkent Uleması Arasında “İsevî Müslümanlık” yahut Müslümanlar Arasında Hz. ‘İsa Kültü (",
+        {
+          "type": "em",
+          "children": [
+            "Hubmesîhîlik"
+          ]
+        },
+        ") (16.-17. Yüzyıllar)"
       ],
       "zh": [
         "B）首都乌理玛中的“耶稣式伊斯兰”，或穆斯林中的耶稣崇奉（Hubmesîhîlik，16—17世纪）"
@@ -85,7 +92,28 @@
       "type": "paragraph",
       "page": "268–269",
       "en": [
-        "İstanbul’da böyle bir Müslümanlık anlayışının 17. yüzyılda bile oldukça yaygın bulunduğunu, İngiltere Kralı II. Charles adına IV. Mehmed nezdinde fevkalade elçi olarak gönderilmiş ve bu sebeple İstanbul’da epeyce kalarak saray mensuplarını, yüksek bürokratları ve halkı tanıma imkânı elde etmiş bulunan Paul Ricaut’dan öğreniyoruz. Ricaut bu anlayışa mensup olanları, Osmanlı kaynaklarında rastlanılmayan Hubmesîhî (Chupmessahi) tabiriyle niteliyor. Kelimenin, bu inanca mensup olanların ince, zarif, kibar birini gördüklerinde ona iltifat makamında söyledikleri “Hûb mesîhîsin!” (Güzel mesîhîsin) sözlerinin bir araya gelmesinden oluştuğu anlaşılıyor. Yazar, bu isim altında anlattığı zümrenin içinde bizzat saraydan ve İstanbul’un eşrafından pek çok kişinin bulunduğunu bildiriyor.",
+        "İstanbul’da böyle bir Müslümanlık anlayışının 17. yüzyılda bile oldukça yaygın bulunduğunu, İngiltere Kralı II. Charles adına IV. Mehmed nezdinde fevkalade elçi olarak gönderilmiş ve bu sebeple İstanbul’da epeyce kalarak saray mensuplarını, yüksek bürokratları ve halkı tanıma imkânı elde etmiş bulunan Paul Ricaut’dan öğreniyoruz. Ricaut bu anlayışa mensup olanları, Osmanlı kaynaklarında rastlanılmayan ",
+        {
+          "type": "em",
+          "children": [
+            "Hubmesîhî"
+          ]
+        },
+        " (",
+        {
+          "type": "em",
+          "children": [
+            "Chupmessahi"
+          ]
+        },
+        ") tabiriyle niteliyor. Kelimenin, bu inanca mensup olanların ince, zarif, kibar birini gördüklerinde ona iltifat makamında söyledikleri “",
+        {
+          "type": "em",
+          "children": [
+            "Hûb mesîhîsin!"
+          ]
+        },
+        "” (Güzel mesîhîsin) sözlerinin bir araya gelmesinden oluştuğu anlaşılıyor. Yazar, bu isim altında anlattığı zümrenin içinde bizzat saraydan ve İstanbul’un eşrafından pek çok kişinin bulunduğunu bildiriyor.",
         {
           "type": "note",
           "id": "ch04-76"
@@ -145,7 +173,7 @@
           "type": "note",
           "id": "ch04-78"
         },
-        "但这些地区的耶稣崇奉，应当与伊斯坦布尔的情况区别看待。众所周知，无论匈牙利边境还是波斯尼亚，在中世纪都是博戈米勒派广泛分布的地区；这一群体也被称为帕塔尔派、卡塔尔派等。以这些不同名称延续的博戈米勒派中，有一部分自15世纪起成群改宗伊斯兰教，这是以往提出的说法；",
+        "但这些地区的耶稣崇奉，应当与伊斯坦布尔的情况区别看待。众所周知，无论匈牙利边境还是波斯尼亚，在中世纪都是博戈米勒派广泛分布的地区；这一群体也被称为帕塔尔派、卡特里派等。以这些不同名称延续的博戈米勒派中，有一部分自15世纪起成群改宗伊斯兰教，这是以往提出的说法；",
         {
           "type": "note",
           "id": "ch04-79"
@@ -187,7 +215,14 @@
       "type": "paragraph",
       "page": "270",
       "en": [
-        "Franz Babinger’in bir İtalyan kroniğinden naklen 1444’te Edirne’deki bir Hurûfînin idamına dair verdiği haber ile Colin Imber’in bu konudaki yorumu ve Molla Kâbız’ın Osmanlı kaynaklarında diyar-ı Şark yahut ‘Acem kökenli olarak gösterilmesi bu tezi güçlendiriyor. Gerçekten Hurûfîlik’te Hz. ‘İsa’nın güçlü bir yeri olduğu bilinmektedir. Gerek Fazlullah-ı Esterâbâdî’nin eserlerinde ve öğretisinde, gerekse onun en önde gelen halifesi ‘İmâdeddîn Nesîmî’nin Dîvân’ında bunu tespit etmek mümkündür.",
+        "Franz Babinger’in bir İtalyan kroniğinden naklen 1444’te Edirne’deki bir Hurûfînin idamına dair verdiği haber ile Colin Imber’in bu konudaki yorumu ve Molla Kâbız’ın Osmanlı kaynaklarında diyar-ı Şark yahut ‘Acem kökenli olarak gösterilmesi bu tezi güçlendiriyor. Gerçekten Hurûfîlik’te Hz. ‘İsa’nın güçlü bir yeri olduğu bilinmektedir. Gerek Fazlullah-ı Esterâbâdî’nin eserlerinde ve öğretisinde, gerekse onun en önde gelen halifesi ‘İmâdeddîn Nesîmî’nin ",
+        {
+          "type": "em",
+          "children": [
+            "Dîvân"
+          ]
+        },
+        "’ında bunu tespit etmek mümkündür.",
         {
           "type": "note",
           "id": "ch04-82"
@@ -195,7 +230,7 @@
         " Üstelik, 15. yüzyılın ilk yarısında Hurûfîliğin İran’da sıkı bir takibata maruz bırakılmasıyla birlikte, Anadolu topraklarının Hurûfî dervişlerinin akınına uğradığı, gelenlerin kimliklerini gizlemek suretiyle çeşitli tarikat çevrelerine sızarak buralarda gizlendikleri, propagandalarını sürdürdükleri ve son derece de etkili oldukları hesaba katıldığında, Balivet’ye hak vermek gerekir."
       ],
       "zh": [
-        "弗朗茨·巴宾格引述一部意大利编年史，报道了1444年埃迪尔内一名胡鲁菲派信徒被处死的事件；科林·因伯对此的解释，以及奥斯曼史料把穆拉·卡布兹说成来自东方或波斯，也增强了这一论点。事实上，耶稣在胡鲁菲派中占有重要地位，这是已知的。在法兹卢拉·埃斯特拉巴迪的著作和教义中，以及他最重要的继承者伊马德丁·奈西米的《诗集》中，都可以看到这一点。",
+        "弗朗茨·巴宾格引述一部意大利编年史，报道了1444年埃迪尔内一名胡鲁菲派信徒被处死的事件；科林·因伯对此的解释，以及奥斯曼史料把穆拉·卡布兹说成来自东方或波斯，也增强了这一论点。事实上，耶稣在胡鲁菲派中占有重要地位，这是已知的。在法兹卢拉·埃斯特拉巴迪的著作和教义中，以及他最重要的传承代表伊马德丁·奈西米的《诗集》中，都可以看到这一点。",
         {
           "type": "note",
           "id": "ch04-82"
@@ -218,7 +253,21 @@
   "notes": {
     "ch04-76": {
       "en": [
-        "Paul Ricaut, The Present State of the Ottoman Empire, London 1668, s. 129. krş. Imber, s. 66-67; Balivet, s. 99; Ricaut’nun İstanbul’da mevcut diğer gizli dinî topluluklar hakkında verdiği bilgilerin bir genel değerlendirmesine dair bkz. A. Yaşar Ocak, “Paul Ricaut ve XVII. Yüzyıl İstanbul’unda Osmanlı Resmî Düşüncesine Karşı Zümreler”, TKA (Prof. Dr. İsmail Ercümend Kuran’a Armağan), XXVII / 1-2 (1989), s. 233-244."
+        "Paul Ricaut, ",
+        {
+          "type": "em",
+          "children": [
+            "The Present State of the Ottoman Empire"
+          ]
+        },
+        ", London 1668, s. 129. krş. Imber, s. 66-67; Balivet, s. 99; Ricaut’nun İstanbul’da mevcut diğer gizli dinî topluluklar hakkında verdiği bilgilerin bir genel değerlendirmesine dair bkz. A. Yaşar Ocak, “Paul Ricaut ve XVII. Yüzyıl İstanbul’unda Osmanlı Resmî Düşüncesine Karşı Zümreler”, ",
+        {
+          "type": "em",
+          "children": [
+            "TKA"
+          ]
+        },
+        " (Prof. Dr. İsmail Ercümend Kuran’a Armağan), XXVII / 1-2 (1989), s. 233-244."
       ],
       "zh": [
         "保罗·里科，《奥斯曼帝国现状》，伦敦，1668年，第129页。参较因伯，第66—67页；巴利韦，第99页。关于里科所记伊斯坦布尔其他秘密宗教群体的综合评述，见A.亚沙尔·奥贾克，〈保罗·里科与17世纪伊斯坦布尔反对奥斯曼官方思想的群体〉，TKA（献给伊斯梅尔·埃尔居门特·库兰教授的纪念文集），第XXVII卷第1—2期，1989年，第233—244页。〔校注：1668年版第129页的相关群体记述已核读。正文称里科为特使；英国皇家学会人物档案则记他于1661年任温奇尔西伯爵赫尼奇·芬奇驻土耳其使团的秘书，故应区分使节与使节秘书。〕"
@@ -245,7 +294,21 @@
     },
     "ch04-79": {
       "en": [
-        "Msl. bkz. M. Tayyib Okiç, “Les Kristians (Bogomiles parfaits) de Bosnie d’apres les documents turcs inédits”, SF, XIX (1960), s. 108-133; Stanford J. Shaw, Osmanlı İmparatorluğu ve Modern Türkiye I, çev. M. Harmancı, İstanbul: E Yay., 1982, s. 42."
+        "Msl. bkz. M. Tayyib Okiç, “Les Kristians (Bogomiles parfaits) de Bosnie d’apres les documents turcs inédits”, ",
+        {
+          "type": "em",
+          "children": [
+            "SF"
+          ]
+        },
+        ", XIX (1960), s. 108-133; Stanford J. Shaw, ",
+        {
+          "type": "em",
+          "children": [
+            "Osmanlı İmparatorluğu ve Modern Türkiye I"
+          ]
+        },
+        ", çev. M. Harmancı, İstanbul: E Yay., 1982, s. 42."
       ],
       "zh": [
         "例如见M.塔伊布·奥基奇，〈据未刊土耳其文献考察波斯尼亚的克里斯蒂安人（博戈米勒派完人）〉，SF，第XIX卷，1960年，第108—133页；斯坦福·J.肖，《奥斯曼帝国与现代土耳其》I，M.哈尔曼哲译，伊斯坦布尔：E出版社，1982年，第42页。"
@@ -254,7 +317,14 @@
     },
     "ch04-80": {
       "en": [
-        "T. Houtsma, “Kâbıd”, EI¹."
+        "T. Houtsma, “Kâbıd”, ",
+        {
+          "type": "em",
+          "children": [
+            "EI¹"
+          ]
+        },
+        "."
       ],
       "zh": [
         "T.霍茨马，“Kâbıd（卡布兹）”，《伊斯兰百科全书》第一版。"
@@ -272,7 +342,14 @@
     },
     "ch04-82": {
       "en": [
-        "Msl. bkz. Nesîmî Dîvanı, nşr. Hüseyin Ayan, Ankara: Akçağ Yay., 1990, s. 71, 4 no’lu gazel; s. 82, 17 no’lu gazel; s. 92. 29 no’lu gazel; s. 128, 87 no’lu gazel vs."
+        "Msl. bkz. ",
+        {
+          "type": "em",
+          "children": [
+            "Nesîmî Dîvanı"
+          ]
+        },
+        ", nşr. Hüseyin Ayan, Ankara: Akçağ Yay., 1990, s. 71, 4 no’lu gazel; s. 82, 17 no’lu gazel; s. 92. 29 no’lu gazel; s. 128, 87 no’lu gazel vs."
       ],
       "zh": [
         "例如见《奈西米诗集》，侯赛因·阿扬编，安卡拉：Akçağ出版社，1990年，第71页第4首加扎勒；第82页第17首加扎勒；第92页第29首加扎勒；第128页第87首加扎勒，等等。"

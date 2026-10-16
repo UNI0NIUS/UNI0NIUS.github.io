@@ -62,7 +62,35 @@
           "type": "note",
           "id": "ch01-18"
         },
-        " Osmanlılar bu özdeşliği 14. yüzyılda eski Türk siyasal anlayışlarıyla birleştirerek devraldılar. Ancak bu özdeşlik, Fatih Sultan Mehmed’in 15. yüzyılın ikinci yarısından, yani Osmanlı İmparatorluğu’nu tam bir merkeziyetçi yapıya kavuşturmasından sonra, “din ü devlet, mülk ü millet” formülüyle resmî ideolojideki gerçek yerini buldu. Buradaki mülk teriminin, devletin sahip olduğu toprak ve servet anlamına gelmeyip, hükümranlık, otorite, hâkimiyetin tasarruf yetkisi ve gücü demek olduğunu; millet teriminin ise bugün anladığımız manaya gelmeyip din demek olduğunu hatırlayalım."
+        " Osmanlılar bu özdeşliği 14. yüzyılda eski Türk siyasal anlayışlarıyla birleştirerek devraldılar. Ancak bu özdeşlik, Fatih Sultan Mehmed’in 15. yüzyılın ikinci yarısından, yani Osmanlı İmparatorluğu’nu tam bir merkeziyetçi yapıya kavuşturmasından sonra, “",
+        {
+          "type": "em",
+          "children": [
+            "din ü devlet, mülk ü millet"
+          ]
+        },
+        "” formülüyle resmî ideolojideki gerçek yerini buldu. Buradaki ",
+        {
+          "type": "em",
+          "children": [
+            "mülk"
+          ]
+        },
+        " teriminin, devletin sahip olduğu toprak ve servet anlamına gelmeyip, hükümranlık, otorite, hâkimiyetin tasarruf yetkisi ve gücü demek olduğunu; ",
+        {
+          "type": "em",
+          "children": [
+            "millet"
+          ]
+        },
+        " teriminin ise bugün anladığımız manaya gelmeyip ",
+        {
+          "type": "em",
+          "children": [
+            "din"
+          ]
+        },
+        " demek olduğunu hatırlayalım."
       ],
       "zh": [
         "宗教与国家合为一体——也就是说，在某种意义上，伊斯兰也被建构为一种独立的制度体系，作为国家施政的工具——实际上是在阿拔斯哈里发统治时期实现的。11世纪中叶，马瓦尔迪（卒于1055年）提出“宗教与国家是不可分离的孪生兄弟”这一著名表述；",
@@ -83,12 +111,47 @@
       "type": "paragraph",
       "page": "96",
       "en": [
-        "Bu özdeşlik, Osmanlı Devleti’ne hem yöneticiler, hem halk nazarında, bir kökü zaten İslâm öncesi döneme kadar uzanan bir kutsallık veriyordu. Bu kutsallık, 16. yüzyıl başlarında kaleme alınan klasik Osmanlı vekayinamelerindeki ünlü “rüya menkabesi” ile temsil edilmekteydi. Daha önce Tabakât-ı Cüzcânî, Reşidu’d-Dîn Oğuznâmesi ve Düsturnâme-i Enverî gibi kaynaklarda da bazı değişik versiyonlarına rastlanan bu menkabenin esası, gerçekte Eski Ahid’de (Tevrat) bulunmaktadır.",
+        "Bu özdeşlik, Osmanlı Devleti’ne hem yöneticiler, hem halk nazarında, bir kökü zaten İslâm öncesi döneme kadar uzanan bir kutsallık veriyordu. Bu kutsallık, 16. yüzyıl başlarında kaleme alınan klasik Osmanlı vekayinamelerindeki ünlü “rüya menkabesi” ile temsil edilmekteydi. Daha önce ",
+        {
+          "type": "em",
+          "children": [
+            "Tabakât-ı Cüzcânî"
+          ]
+        },
+        ", ",
+        {
+          "type": "em",
+          "children": [
+            "Reşidu’d-Dîn Oğuznâmesi"
+          ]
+        },
+        " ve ",
+        {
+          "type": "em",
+          "children": [
+            "Düsturnâme-i Enverî"
+          ]
+        },
+        " gibi kaynaklarda da bazı değişik versiyonlarına rastlanan bu menkabenin esası, gerçekte ",
+        {
+          "type": "em",
+          "children": [
+            "Eski Ahid"
+          ]
+        },
+        "’de (Tevrat) bulunmaktadır.",
         {
           "type": "note",
           "id": "ch01-19"
         },
-        " Bazı kaynaklarda Osman Gazi’ye, bazılarında babası Ertuğrul Gazi’ye atfedilmekte olup, devletin, “göbekten çıkarak dalları cihana yayılan bir ulu ağaç”la temsil edildiği Eski Ahid (Tevrat) kaynaklı bu rüya menkabesi,",
+        " Bazı kaynaklarda Osman Gazi’ye, bazılarında babası Ertuğrul Gazi’ye atfedilmekte olup, devletin, “göbekten çıkarak dalları cihana yayılan bir ulu ağaç”la temsil edildiği ",
+        {
+          "type": "em",
+          "children": [
+            "Eski Ahid"
+          ]
+        },
+        " (Tevrat) kaynaklı bu rüya menkabesi,",
         {
           "type": "note",
           "id": "ch01-20"
@@ -119,7 +182,21 @@
           "type": "note",
           "id": "ch01-21"
         },
-        " İşte, Osmanlı resmî ideolojisinde bu faziletlerle donanmış, üstelik ilahî iradeyle kurulmuş “yüce Osmanlı Devleti”nin (Devlet-i ‘Aliyye-i Osmaniyye), yine bu ilahî iradeyle dünyanın sonuna kadar ayakta kalacağı varsayılmıştır. Devlet-i ebed-müddet kavramı buradan doğmuştur."
+        " İşte, Osmanlı resmî ideolojisinde bu faziletlerle donanmış, üstelik ilahî iradeyle kurulmuş “yüce Osmanlı Devleti”nin (",
+        {
+          "type": "em",
+          "children": [
+            "Devlet-i ‘Aliyye-i Osmaniyye"
+          ]
+        },
+        "), yine bu ilahî iradeyle dünyanın sonuna kadar ayakta kalacağı varsayılmıştır. ",
+        {
+          "type": "em",
+          "children": [
+            "Devlet-i ebed-müddet"
+          ]
+        },
+        " kavramı buradan doğmuştur."
       ],
       "zh": [
         "除此之外，奥斯曼官方意识形态还以某些世俗理由作为国家神圣性的依据。按16世纪著名历史学家兼谢赫伊斯兰伊本·凯末尔的表述，这些理由包括：“财富丰厚、军队众多，公平征税，以公正的法律治理臣民”，以及其中最重要的“施行伊斯兰的法度”。",
@@ -134,25 +211,44 @@
   "notes": {
     "ch01-17": {
       "en": [
-        "“Ed-dînü ve’d-devletü tev’emâni lâ yefterikan”, bkz. El-Ahkâmu’s-Sultâniyye, Kahire 1327-1909, mukaddime kısmı."
+        "“Ed-dînü ve’d-devletü tev’emâni lâ yefterikan”, bkz. ",
+        {
+          "type": "em",
+          "children": [
+            "El-Ahkâmu’s-Sultâniyye"
+          ]
+        },
+        ", Kahire 1327-1909, mukaddime kısmı."
       ],
       "zh": [
-        "“Ed-dînü ve’d-devletü tev’emâni lâ yefterikan”（宗教与国家是不可分离的孪生兄弟），参见《统治律例》（El-Ahkâmu’s-Sultâniyye），开罗，1327—1909年，导言部分。〔译校注：正文将马瓦尔迪卒年记为1055；《伊斯兰百科全书》“MÂVERDÎ”条记为1058年5月27日，土耳其文保留底本年份。此处所引1909年版导言尚未取得逐字核对。〕"
+        "“Ed-dînü ve’d-devletü tev’emâni lâ yefterikan”（宗教与国家是不可分离的孪生兄弟），参见《统治律例》（El-Ahkâmu’s-Sultâniyye），开罗，1327／1909年（底本并列纪年），导言部分。〔译校注：正文将马瓦尔迪卒年记为1055；《伊斯兰百科全书》“MÂVERDÎ”条记为1058年5月27日，土耳其文保留底本年份。此处所引1909年版导言尚未取得逐字核对。〕"
       ],
       "page": "95"
     },
     "ch01-18": {
       "en": [
-        "El-İktisad fi’l-İ‘tikad, Kahire 1382-1962, s. 119."
+        {
+          "type": "em",
+          "children": [
+            "El-İktisad fi’l-İ‘tikad"
+          ]
+        },
+        ", Kahire 1382-1962, s. 119."
       ],
       "zh": [
-        "《信仰中的中道》（El-İktisad fi’l-İ‘tikad），开罗，1382—1962年，第119页。"
+        "《信仰中的中道》（El-İktisad fi’l-İ‘tikad），开罗，1382／1962年（底本并列纪年），第119页。"
       ],
       "page": "96"
     },
     "ch01-19": {
       "en": [
-        "Kitab-ı Mukaddes, Daniel, IV/4-25. âyetler. Burada rüyayı gören Babil Kralı Nabukadnetsar, yorumlayan Beltatsar, yani Danyal Peygamber’dir."
+        {
+          "type": "em",
+          "children": [
+            "Kitab-ı Mukaddes"
+          ]
+        },
+        ", Daniel, IV/4-25. âyetler. Burada rüyayı gören Babil Kralı Nabukadnetsar, yorumlayan Beltatsar, yani Danyal Peygamber’dir."
       ],
       "zh": [
         "《圣经·但以理书》第4章第4—25节。这里做梦的是巴比伦王尼布甲尼撒，解梦的是伯提沙撒，即先知但以理。〔译校注：所引经文确有大树之梦及上述人物，但树位于大地中央，并未说从肚脐长出；后者属于正文所述奥斯曼梦境传说的具体情节。经文相似本身不足以证实直接传承关系。正文以 Tevrat 括注《旧约》，这里按其宽泛用法理解；本注所引篇章为《但以理书》。〕"
@@ -161,7 +257,21 @@
     },
     "ch01-20": {
       "en": [
-        "Msl. bkz. Die Frühosmanischen Jahrbücher des Urudsch (Tevârîh-i Âl-i Osman), nşr. Franz Babinger, Hannover 1925, s. 8-9; Âşıkpaşazâde Tarihi (Tevârîh-i Âl-i Osman), nşr. ‘Âlî Beğ, İstanbul 1332, s. 6."
+        "Msl. bkz. ",
+        {
+          "type": "em",
+          "children": [
+            "Die Frühosmanischen Jahrbücher des Urudsch"
+          ]
+        },
+        " (Tevârîh-i Âl-i Osman), nşr. Franz Babinger, Hannover 1925, s. 8-9; ",
+        {
+          "type": "em",
+          "children": [
+            "Âşıkpaşazâde Tarihi"
+          ]
+        },
+        " (Tevârîh-i Âl-i Osman), nşr. ‘Âlî Beğ, İstanbul 1332, s. 6."
       ],
       "zh": [
         "例如参见《奥鲁奇的早期奥斯曼编年史》（Die Frühosmanischen Jahrbücher des Urudsch；《奥斯曼王朝史》），弗朗茨·巴宾格校刊，汉诺威，1925年，第8—9页；《阿什克帕沙扎德史》（《奥斯曼王朝史》），阿里贝伊校刊，伊斯坦布尔，1332年，第6页。"
@@ -170,7 +280,14 @@
     },
     "ch01-21": {
       "en": [
-        "İbn Kemal, Tevârih-i Âl-i Osman, nşr. Şerafettin Turan, Ankara 1970, I, 16-23."
+        "İbn Kemal, ",
+        {
+          "type": "em",
+          "children": [
+            "Tevârih-i Âl-i Osman"
+          ]
+        },
+        ", nşr. Şerafettin Turan, Ankara 1970, I, 16-23."
       ],
       "zh": [
         "伊本·凯末尔：《奥斯曼王朝史》，谢拉费丁·图兰校刊，安卡拉，1970年，第I卷，第16—23页。"

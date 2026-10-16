@@ -25,7 +25,7 @@
           "type": "note",
           "id": "ch03-22"
         },
-        "同涉及贝德雷丁的几乎所有其他问题一样，在这个问题上，奥斯曼史料的主要依据无疑也是哈利勒·本·伊斯梅尔所写的圣传。关于此事的细节，确实见于该圣传。据圣传记载，伊斯拉伊尔的父亲阿卜杜勒阿齐兹也是一位加齐；他的家系出自沙阿阿拉丁，即阿拉丁·凯库巴德三世，家族成员还曾担任维齐尔。阿卜杜勒阿齐兹的一位身为沙阿的叔父，在旭烈兀入侵期间投奔哈里发穆尔塔西姆·比拉，凭借学识成为他的“谢赫伊斯兰”，后来却与著名学者伊本·哈吉卜一同被旭烈兀杀害殉难。",
+        "同涉及贝德雷丁的几乎所有其他问题一样，在这个问题上，奥斯曼史料的主要依据无疑也是哈利勒·本·伊斯梅尔所写的圣传。关于此事的细节，确实见于该圣传。据圣传记载，伊斯拉伊尔的父亲阿卜杜勒阿齐兹也是一位加齐；他的家系出自沙阿阿拉丁，即阿拉丁·凯库巴德三世，家族成员还曾担任维齐尔。阿卜杜勒阿齐兹的一位身为沙阿的叔父，在旭烈兀入侵期间投奔哈里发穆塔西姆·比拉，凭借学识成为他的“谢赫伊斯兰”，后来却与著名学者伊本·哈吉卜一同被旭烈兀杀害殉难。",
         {
           "type": "note",
           "id": "ch03-23"
@@ -85,7 +85,21 @@
   "notes": {
     "ch03-22": {
       "en": [
-        "Taşköprülüzâde, Mevzû‘ât, aynı yerde; aynı yazar, Şakâyık, aynı yerde; Hoca Sadeddin, II, 420-421."
+        "Taşköprülüzâde, ",
+        {
+          "type": "em",
+          "children": [
+            "Mevzû‘ât"
+          ]
+        },
+        ", aynı yerde; aynı yazar, ",
+        {
+          "type": "em",
+          "children": [
+            "Şakâyık"
+          ]
+        },
+        ", aynı yerde; Hoca Sadeddin, II, 420-421."
       ],
       "zh": [
         "塔什克普吕扎德：《诸学主题》，同上处；同一作者：《努曼的芍药》，同上处；霍贾·萨德丁，第2卷，第420—421页。〔编校说明：正文“1293—1307”照原书保留；土耳其宗教基金会《伊斯兰百科全书》“凯库巴德三世”条目将其在位年代列为1298—1302年，存在差异。〕"
@@ -103,7 +117,14 @@
     },
     "ch03-24": {
       "en": [
-        "M. Şerefeddin, age, s. 4. B. Nusret Kaygusuz ise, “zamanından önce gelmiş büyük bir müceddid” olarak hatırası önünde eğilip tebcil ettiği Şeyh Bedreddîn’in II. İzzeddîn Keykâvus’un torunu olarak Selçuklu sülalesinden geldiğini ciddiyetle savunur, hatta bir yönüyle de şeyhin soyunu Altınordu Hükümdarı Berke Han’a bağlar (bkz. Şeyh Bedreddin Simavenî, s. 30-32)."
+        "M. Şerefeddin, age, s. 4. B. Nusret Kaygusuz ise, “zamanından önce gelmiş büyük bir müceddid” olarak hatırası önünde eğilip tebcil ettiği Şeyh Bedreddîn’in II. İzzeddîn Keykâvus’un torunu olarak Selçuklu sülalesinden geldiğini ciddiyetle savunur, hatta bir yönüyle de şeyhin soyunu Altınordu Hükümdarı Berke Han’a bağlar (bkz. ",
+        {
+          "type": "em",
+          "children": [
+            "Şeyh Bedreddin Simavenî"
+          ]
+        },
+        ", s. 30-32)."
       ],
       "zh": [
         "M.谢雷费丁，前引书，第4页。B.努斯雷特·凯古苏兹则把贝德雷丁尊为“一位超越其时代而来的伟大革新者”，向他的英灵致以敬意，并郑重主张：贝德雷丁是伊泽丁·凯卡乌斯二世的孙辈，因而出自塞尔柱王朝；他甚至又从另一条谱系，把谢赫的血统同金帐汗国统治者别儿哥汗联系起来（见《西马维的谢赫贝德雷丁》，第30—32页）。"
@@ -112,10 +133,17 @@
     },
     "ch03-25": {
       "en": [
-        "Michel Balivet de bu durumun Şeyh Bedreddîn’in kişiliği açısından önemi üzerinde durmaktadır (bkz. İslâm Mystique, s. 38)."
+        "Michel Balivet de bu durumun Şeyh Bedreddîn’in kişiliği açısından önemi üzerinde durmaktadır (bkz. ",
+        {
+          "type": "em",
+          "children": [
+            "İslâm Mystique"
+          ]
+        },
+        ", s. 38)."
       ],
       "zh": [
-        "米歇尔·巴利韦也强调了这种家庭背景对于贝德雷丁人格的重要性（见《伊斯兰神秘主义》，第38页）。"
+        "米歇尔·巴利韦也强调了这种家庭背景对于贝德雷丁人格的重要性（见《神秘主义伊斯兰》，第38页）。"
       ],
       "page": "171"
     }
