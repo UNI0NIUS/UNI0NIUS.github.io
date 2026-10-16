@@ -1,0 +1,51 @@
+{
+  "id": "rule-of-experts-egypt",
+  "title": "专家的统治：埃及、技术政治与现代性（第一章）",
+  "originalTitle": "Rule of Experts: Egypt, Techno-Politics, Modernity",
+  "author": "Timothy Mitchell",
+  "translator": "Xiaoyang Hao (AI-assisted working translation)",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "languagePair": "English / 中文",
+  "language": "zh-CN",
+  "bilingual": true,
+  "example": false,
+  "chapters": [
+    {
+      "id": "egypt-ch01",
+      "title": "第一章 · 蚊子能说话吗？",
+      "originalTitle": "1 Can the Mosquito Speak?",
+      "dataUrl": "translations/books/egypt/egypt-ch01.json"
+    }
+  ],
+  "status": "chapter-1-complete",
+  "wholeBookComplete": false,
+  "description": "第一章《蚊子能说话吗？》已完成，含原书19—53页正文与全部106条章末原注。其余章节未收录。",
+  "editionNotice": "第一章完成版 · 2026-10-16。仅收录 Can the Mosquito Speak?：原书19—53页及原305—315页的106条原注。原注就近展示，正文与原注之间可跳转；完整章末排列见下载版。其余章节未翻译。",
+  "downloads": [
+    {
+      "label": "中英对照 PDF",
+      "url": "translations/books/egypt/downloads/egypt_ch01_bilingual.pdf?v=3b6488524c44",
+      "sha256": "3b6488524c44107b37c1260937f36c18a7e7b1c5bc2a1c864ddc4483f2cb34fe",
+      "bytes": 717392
+    },
+    {
+      "label": "英文 PDF",
+      "url": "translations/books/egypt/downloads/egypt_ch01_en.pdf?v=172aaab2eacd",
+      "sha256": "172aaab2eacd9b3d916adfc8c60eef34cc6d1f20a3bf4c38a2b65dda391d41bd",
+      "bytes": 254282
+    },
+    {
+      "label": "中文 Markdown",
+      "url": "translations/books/egypt/downloads/egypt_ch01_zh.md?v=dd9be7a0b778",
+      "sha256": "dd9be7a0b778b897a917517454718053b200aafae0ac0c9c1f9490e2b1737263",
+      "bytes": 124385
+    },
+    {
+      "label": "完整交付包",
+      "url": "translations/books/egypt/downloads/egypt_ch01_complete.zip?v=dfa53ab8c331",
+      "sha256": "dfa53ab8c331e35c2ad1a9c5ec1d1a8a8f81b61235baf14bc86d1d0846543ef3",
+      "bytes": 1198269
+    }
+  ]
+}

@@ -3109,6 +3109,150 @@ window.TRANSLATIONS = {
           "bytes": 955249
         }
       ]
+    },
+    {
+      "id": "plantations",
+      "title": "种植园：攫取、灭绝、涌现",
+      "originalTitle": "Plantations: Extraction, Extinction, Emergence",
+      "author": "Sophie Chao",
+      "translator": "Xiaoyang Hao (AI-assisted working translation)",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "languagePair": "English / 中文",
+      "language": "zh-CN",
+      "bilingual": true,
+      "example": false,
+      "chapters": [
+        {
+          "id": "plantations-frontmatter",
+          "title": "书前材料",
+          "originalTitle": "Front matter",
+          "dataUrl": "translations/books/plantations/plantations-frontmatter.json"
+        },
+        {
+          "id": "plantations-intro",
+          "title": "1 · 导论",
+          "originalTitle": "1 Introduction",
+          "dataUrl": "translations/books/plantations/plantations-intro.json"
+        },
+        {
+          "id": "plantations-extraction",
+          "title": "2 · 攫取",
+          "originalTitle": "2 Extraction",
+          "dataUrl": "translations/books/plantations/plantations-extraction.json"
+        },
+        {
+          "id": "plantations-extinction",
+          "title": "3 · 灭绝",
+          "originalTitle": "3 Extinction",
+          "dataUrl": "translations/books/plantations/plantations-extinction.json"
+        },
+        {
+          "id": "plantations-emergence",
+          "title": "4 · 涌现",
+          "originalTitle": "4 Emergence",
+          "dataUrl": "translations/books/plantations/plantations-emergence.json"
+        },
+        {
+          "id": "plantations-conclusion",
+          "title": "5 · 结论",
+          "originalTitle": "5 Conclusion",
+          "dataUrl": "translations/books/plantations/plantations-conclusion.json"
+        },
+        {
+          "id": "plantations-references",
+          "title": "参考文献",
+          "originalTitle": "References",
+          "dataUrl": "translations/books/plantations/plantations-references.json"
+        },
+        {
+          "id": "plantations-backmatter",
+          "title": "致谢与丛书资料",
+          "originalTitle": "Acknowledgements and series material",
+          "dataUrl": "translations/books/plantations/plantations-backmatter.json"
+        }
+      ],
+      "status": "complete",
+      "wholeBookComplete": true,
+      "description": "全书译毕：五部分正文、276条参考文献、5幅正文原图及前后附属材料。中英逐段对照，保留原书页码。",
+      "editionNotice": "全书完成版 · 2026-10-16。原书印刷页码与无页码附属页的PDF页序明确区分。底本疑点保留并加校注；未独立核实全部被引文献。",
+      "downloads": [
+        {
+          "label": "中英对照 PDF",
+          "url": "translations/books/plantations/downloads/plantations_bilingual.pdf?v=4e207e473c1d",
+          "sha256": "4e207e473c1d93e31188847c7b78fe2721d2aeb0b978ef02e9fd40528e8b33f8",
+          "bytes": 2350949
+        },
+        {
+          "label": "英文 PDF",
+          "url": "translations/books/plantations/downloads/plantations_en.pdf?v=269c97a073e9",
+          "sha256": "269c97a073e9fc87d67ac553795367ce39cec85447785a7548d2b28c3a9680bf",
+          "bytes": 1673915
+        },
+        {
+          "label": "中文 Markdown",
+          "url": "translations/books/plantations/downloads/plantations_zh.md?v=bf8e8a4cf6b6",
+          "sha256": "bf8e8a4cf6b6898deca0a489797e647d54773a565ac4a6bee11854ce96f2d01c",
+          "bytes": 245354
+        },
+        {
+          "label": "完整交付包",
+          "url": "translations/books/plantations/downloads/plantations_complete.zip?v=41dd3dab4de5",
+          "sha256": "41dd3dab4de58df7489c503b90536e60baf593b8ec5c4d1ee2ab96499e33f1e6",
+          "bytes": 5734100
+        }
+      ]
+    },
+    {
+      "id": "rule-of-experts-egypt",
+      "title": "专家的统治：埃及、技术政治与现代性（第一章）",
+      "originalTitle": "Rule of Experts: Egypt, Techno-Politics, Modernity",
+      "author": "Timothy Mitchell",
+      "translator": "Xiaoyang Hao (AI-assisted working translation)",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "languagePair": "English / 中文",
+      "language": "zh-CN",
+      "bilingual": true,
+      "example": false,
+      "chapters": [
+        {
+          "id": "egypt-ch01",
+          "title": "第一章 · 蚊子能说话吗？",
+          "originalTitle": "1 Can the Mosquito Speak?",
+          "dataUrl": "translations/books/egypt/egypt-ch01.json"
+        }
+      ],
+      "status": "chapter-1-complete",
+      "wholeBookComplete": false,
+      "description": "第一章《蚊子能说话吗？》已完成，含原书19—53页正文与全部106条章末原注。其余章节未收录。",
+      "editionNotice": "第一章完成版 · 2026-10-16。仅收录 Can the Mosquito Speak?：原书19—53页及原305—315页的106条原注。原注就近展示，正文与原注之间可跳转；完整章末排列见下载版。其余章节未翻译。",
+      "downloads": [
+        {
+          "label": "中英对照 PDF",
+          "url": "translations/books/egypt/downloads/egypt_ch01_bilingual.pdf?v=3b6488524c44",
+          "sha256": "3b6488524c44107b37c1260937f36c18a7e7b1c5bc2a1c864ddc4483f2cb34fe",
+          "bytes": 717392
+        },
+        {
+          "label": "英文 PDF",
+          "url": "translations/books/egypt/downloads/egypt_ch01_en.pdf?v=172aaab2eacd",
+          "sha256": "172aaab2eacd9b3d916adfc8c60eef34cc6d1f20a3bf4c38a2b65dda391d41bd",
+          "bytes": 254282
+        },
+        {
+          "label": "中文 Markdown",
+          "url": "translations/books/egypt/downloads/egypt_ch01_zh.md?v=dd9be7a0b778",
+          "sha256": "dd9be7a0b778b897a917517454718053b200aafae0ac0c9c1f9490e2b1737263",
+          "bytes": 124385
+        },
+        {
+          "label": "完整交付包",
+          "url": "translations/books/egypt/downloads/egypt_ch01_complete.zip?v=dfa53ab8c331",
+          "sha256": "dfa53ab8c331e35c2ad1a9c5ec1d1a8a8f81b61235baf14bc86d1d0846543ef3",
+          "bytes": 1198269
+        }
+      ]
     }
   ],
   "articles": [

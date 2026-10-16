@@ -43,7 +43,12 @@ window.renderParallelBook = (() => {
     container.lang = language === "zh" ? "zh-CN" : source.sourceLanguage || "en";
     container.dataset.language = language === "zh" ? "中文" : source.sourceLanguageLabel || "English";
     const tag = {heading: "h2", subheading: "h3", quote: "blockquote", diagram: "pre"}[row.type] || "p";
-    if (row.type === "diagram" && language === "en" && row.src) {
+    if (row.type === "figure" && row.src) {
+      const figure = el("figure"); const img = el("img");
+      img.src = safeUrl(row.src); img.alt = (row[language] || []).filter(t => typeof t === "string").join(""); img.loading = "lazy";
+      const caption = el("figcaption"); inline(caption, row[language], language);
+      figure.append(img, caption); container.append(figure);
+    } else if (row.type === "diagram" && language === "en" && row.src) {
       const figure = el("figure"); const img = el("img");
       img.src = safeUrl(row.src); img.alt = row.en.join(""); img.loading = "lazy";
       figure.append(img); container.append(figure);

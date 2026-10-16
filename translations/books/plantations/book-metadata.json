@@ -1,0 +1,93 @@
+{
+  "id": "plantations",
+  "title": "种植园：攫取、灭绝、涌现",
+  "originalTitle": "Plantations: Extraction, Extinction, Emergence",
+  "author": "Sophie Chao",
+  "translator": "Xiaoyang Hao (AI-assisted working translation)",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "languagePair": "English / 中文",
+  "language": "zh-CN",
+  "bilingual": true,
+  "example": false,
+  "chapters": [
+    {
+      "id": "plantations-frontmatter",
+      "title": "书前材料",
+      "originalTitle": "Front matter",
+      "dataUrl": "translations/books/plantations/plantations-frontmatter.json"
+    },
+    {
+      "id": "plantations-intro",
+      "title": "1 · 导论",
+      "originalTitle": "1 Introduction",
+      "dataUrl": "translations/books/plantations/plantations-intro.json"
+    },
+    {
+      "id": "plantations-extraction",
+      "title": "2 · 攫取",
+      "originalTitle": "2 Extraction",
+      "dataUrl": "translations/books/plantations/plantations-extraction.json"
+    },
+    {
+      "id": "plantations-extinction",
+      "title": "3 · 灭绝",
+      "originalTitle": "3 Extinction",
+      "dataUrl": "translations/books/plantations/plantations-extinction.json"
+    },
+    {
+      "id": "plantations-emergence",
+      "title": "4 · 涌现",
+      "originalTitle": "4 Emergence",
+      "dataUrl": "translations/books/plantations/plantations-emergence.json"
+    },
+    {
+      "id": "plantations-conclusion",
+      "title": "5 · 结论",
+      "originalTitle": "5 Conclusion",
+      "dataUrl": "translations/books/plantations/plantations-conclusion.json"
+    },
+    {
+      "id": "plantations-references",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "dataUrl": "translations/books/plantations/plantations-references.json"
+    },
+    {
+      "id": "plantations-backmatter",
+      "title": "致谢与丛书资料",
+      "originalTitle": "Acknowledgements and series material",
+      "dataUrl": "translations/books/plantations/plantations-backmatter.json"
+    }
+  ],
+  "status": "complete",
+  "wholeBookComplete": true,
+  "description": "全书译毕：五部分正文、276条参考文献、5幅正文原图及前后附属材料。中英逐段对照，保留原书页码。",
+  "editionNotice": "全书完成版 · 2026-10-16。原书印刷页码与无页码附属页的PDF页序明确区分。底本疑点保留并加校注；未独立核实全部被引文献。",
+  "downloads": [
+    {
+      "label": "中英对照 PDF",
+      "url": "translations/books/plantations/downloads/plantations_bilingual.pdf?v=4e207e473c1d",
+      "sha256": "4e207e473c1d93e31188847c7b78fe2721d2aeb0b978ef02e9fd40528e8b33f8",
+      "bytes": 2350949
+    },
+    {
+      "label": "英文 PDF",
+      "url": "translations/books/plantations/downloads/plantations_en.pdf?v=269c97a073e9",
+      "sha256": "269c97a073e9fc87d67ac553795367ce39cec85447785a7548d2b28c3a9680bf",
+      "bytes": 1673915
+    },
+    {
+      "label": "中文 Markdown",
+      "url": "translations/books/plantations/downloads/plantations_zh.md?v=bf8e8a4cf6b6",
+      "sha256": "bf8e8a4cf6b6898deca0a489797e647d54773a565ac4a6bee11854ce96f2d01c",
+      "bytes": 245354
+    },
+    {
+      "label": "完整交付包",
+      "url": "translations/books/plantations/downloads/plantations_complete.zip?v=41dd3dab4de5",
+      "sha256": "41dd3dab4de58df7489c503b90536e60baf593b8ec5c4d1ee2ab96499e33f1e6",
+      "bytes": 5734100
+    }
+  ]
+}
