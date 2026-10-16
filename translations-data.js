@@ -3792,6 +3792,119 @@ window.TRANSLATIONS = {
           "bytes": 1198269
         }
       ]
+    },
+    {
+      "id": "right-to-the-city-novels",
+      "title": "土耳其文学中的城市权利小说：从20世纪60年代至今",
+      "originalTitle": "Right to the City Novels in Turkish Literature from the 1960s to the Present",
+      "author": "N. Buket Cengiz",
+      "translator": "Xiaoyang Hao (AI-assisted working translation)",
+      "languagePair": "English / 中文",
+      "language": "zh-CN",
+      "bilingual": true,
+      "example": false,
+      "description": "城市权利、乡城迁移与伊斯坦布尔：七部土耳其小说的文学与城市研究。全书中英逐段对照，含前置材料、九章正文、57条原注、304条书目及完整索引。",
+      "editionNotice": "全书中文工作译本 · 2026-10-17。依据2021年英文原版，保留全部前置材料、九章、原注、图像、书目与索引。p.为原书印刷页码；正文引文经英文转译，底本疑点另列译校记。",
+      "chapters": [
+        {
+          "id": "front",
+          "title": "封面、出版信息、致谢与赞誉",
+          "originalTitle": "Cover, Publication Details, Acknowledgements and Praise",
+          "dataUrl": "translations/books/right-to-the-city/front.json"
+        },
+        {
+          "id": "contents",
+          "title": "目录与缩略语",
+          "originalTitle": "Contents and Abbreviations",
+          "dataUrl": "translations/books/right-to-the-city/contents.json"
+        },
+        {
+          "id": "chapter-1",
+          "title": "第1章　导论：现代土耳其小说中的城市权利小说",
+          "originalTitle": "CHAPTER 1 Introduction: Right to the City Novels in Modern Turkish Fiction",
+          "dataUrl": "translations/books/right-to-the-city/chapter-1.json"
+        },
+        {
+          "id": "chapter-2",
+          "title": "第2章　从街垒到作为艺术的城市：城市权利概念",
+          "originalTitle": "CHAPTER 2 From the Barricades to the City as Art: The Concept of the Right to the City",
+          "dataUrl": "translations/books/right-to-the-city/chapter-2.json"
+        },
+        {
+          "id": "chapter-3",
+          "title": "第3章　热切的归属与强烈的渴望：追寻伊斯坦布尔的城市权利",
+          "originalTitle": "CHAPTER 3 Passionate Belongings and Intense Longings: Tracing the Right to the City in Istanbul",
+          "dataUrl": "translations/books/right-to-the-city/chapter-3.json"
+        },
+        {
+          "id": "chapter-4",
+          "title": "第4章　伊斯坦布尔迎来新成员：从迁移视角概览伊斯坦布尔的历史",
+          "originalTitle": "CHAPTER 4 Istanbul Meets Its New Members: An Overview of Istanbul’s History as Regards Migration",
+          "dataUrl": "translations/books/right-to-the-city/chapter-4.json"
+        },
+        {
+          "id": "chapter-5",
+          "title": "第5章　想象迁移经验：人文主义取向",
+          "originalTitle": "CHAPTER 5 Imagining the Migration Experience: A Humanist Approach",
+          "dataUrl": "translations/books/right-to-the-city/chapter-5.json"
+        },
+        {
+          "id": "chapter-6",
+          "title": "第6章　内部人的知识：在伊斯坦布尔丛林中求生",
+          "originalTitle": "CHAPTER 6 Insider’s Knowledge: Survival in the Jungle of Istanbul",
+          "dataUrl": "translations/books/right-to-the-city/chapter-6.json"
+        },
+        {
+          "id": "chapter-7",
+          "title": "第7章　伊斯坦布尔的门槛：异化与边缘经验",
+          "originalTitle": "CHAPTER 7 Istanbul’s Threshold: Alienation and the Experience of the Periphery",
+          "dataUrl": "translations/books/right-to-the-city/chapter-7.json"
+        },
+        {
+          "id": "chapter-8",
+          "title": "第8章　变化中的迁入者，转型中的伊斯坦布尔：《我脑袋里的怪东西》——一个男人与他的城市的爱情故事",
+          "originalTitle": "CHAPTER 8 Changing Migrants, Transforming Istanbul: A Strangeness in My Mind as a Love Story of a Man and His City",
+          "dataUrl": "translations/books/right-to-the-city/chapter-8.json"
+        },
+        {
+          "id": "chapter-9",
+          "title": "第9章　结论：在新的伊斯坦布尔阅读城市权利小说",
+          "originalTitle": "CHAPTER 9 Conclusion: Reading the Right to the City Novels in a New Istanbul",
+          "dataUrl": "translations/books/right-to-the-city/chapter-9.json"
+        },
+        {
+          "id": "index",
+          "title": "索引",
+          "originalTitle": "Index",
+          "dataUrl": "translations/books/right-to-the-city/index.json"
+        }
+      ],
+      "downloads": [
+        {
+          "label": "中英对照 PDF",
+          "url": "translations/books/right-to-the-city/right_city_bilingual.pdf"
+        },
+        {
+          "label": "英文 PDF",
+          "url": "translations/books/right-to-the-city/right_city_en.pdf"
+        },
+        {
+          "label": "中文 Markdown",
+          "url": "translations/books/right-to-the-city/right_city_zh.md"
+        },
+        {
+          "label": "术语表",
+          "url": "translations/books/right-to-the-city/glossary.md"
+        },
+        {
+          "label": "校对记录",
+          "url": "translations/books/right-to-the-city/review.md"
+        },
+        {
+          "label": "源码包 ZIP",
+          "url": "translations/books/right-to-the-city/right_city_source.zip"
+        }
+      ]
     }
   ],
   "articles": [
