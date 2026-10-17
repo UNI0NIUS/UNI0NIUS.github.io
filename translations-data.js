@@ -4204,7 +4204,7 @@ window.TRANSLATIONS = {
     },
     {
       "id": "rule-of-experts-egypt",
-      "title": "专家的统治：埃及、技术政治与现代性（第一章）",
+      "title": "专家的统治：埃及、技术政治与现代性",
       "originalTitle": "Rule of Experts: Egypt, Techno-Politics, Modernity",
       "author": "Timothy Mitchell",
       "translator": "Xiaoyang Hao (AI-assisted working translation)",
@@ -4216,40 +4216,156 @@ window.TRANSLATIONS = {
       "example": false,
       "chapters": [
         {
+          "id": "egypt-front_ack",
+          "title": "致谢",
+          "originalTitle": "Acknowledgments",
+          "dataUrl": "translations/books/egypt/egypt-front_ack.json?v=5c29f1470e40"
+        },
+        {
+          "id": "egypt-front_translit",
+          "title": "音译说明",
+          "originalTitle": "Note on Transliteration",
+          "dataUrl": "translations/books/egypt/egypt-front_translit.json?v=fc54af041796"
+        },
+        {
+          "id": "egypt-intro",
+          "title": "导论",
+          "originalTitle": "Introduction",
+          "dataUrl": "translations/books/egypt/egypt-intro.json?v=9ded128bedfa"
+        },
+        {
           "id": "egypt-ch01",
           "title": "第一章 · 蚊子能说话吗？",
           "originalTitle": "1 Can the Mosquito Speak?",
-          "dataUrl": "translations/books/egypt/egypt-ch01.json"
+          "dataUrl": "translations/books/egypt/egypt-ch01.json",
+          "partId": "part-1"
+        },
+        {
+          "id": "egypt-ch02",
+          "title": "第二章　每个国家都成立的原理",
+          "originalTitle": "Principles True in Every Country",
+          "dataUrl": "translations/books/egypt/egypt-ch02.json?v=400be5a1fe73",
+          "partId": "part-1"
+        },
+        {
+          "id": "egypt-ch03",
+          "title": "第三章　可计算性的品格",
+          "originalTitle": "The Character of Calculability",
+          "dataUrl": "translations/books/egypt/egypt-ch03.json?v=06b70582d37e",
+          "partId": "part-1"
+        },
+        {
+          "id": "egypt-ch04",
+          "title": "4  农民的发明与再发明",
+          "originalTitle": "The Invention and Reinvention of the Peasant",
+          "dataUrl": "translations/books/egypt/egypt-ch04.json?v=f085f3e26142",
+          "partId": "part-2"
+        },
+        {
+          "id": "egypt-ch05",
+          "title": "5  没有人听穷人的话",
+          "originalTitle": "Nobody Listens to a Poor Man",
+          "dataUrl": "translations/books/egypt/egypt-ch05.json?v=631ef99844de",
+          "partId": "part-2"
+        },
+        {
+          "id": "egypt-ch06",
+          "title": "6  遗产与暴力",
+          "originalTitle": "Heritage and Violence",
+          "dataUrl": "translations/books/egypt/egypt-ch06.json?v=32351b4999d8",
+          "partId": "part-2"
+        },
+        {
+          "id": "egypt-ch07",
+          "title": "7  发展的对象",
+          "originalTitle": "The Object of Development",
+          "dataUrl": "translations/books/egypt/egypt-ch07.json?v=da1b8f43caa9",
+          "partId": "part-3"
+        },
+        {
+          "id": "egypt-ch08",
+          "title": "8  市场的位置",
+          "originalTitle": "The Market’s Place",
+          "dataUrl": "translations/books/egypt/egypt-ch08.json?v=2b023d9cbd0d",
+          "partId": "part-3"
+        },
+        {
+          "id": "egypt-ch09",
+          "title": "9  梦幻乐园",
+          "originalTitle": "Dreamland",
+          "dataUrl": "translations/books/egypt/egypt-ch09.json?v=1d1a64c1a6c0",
+          "partId": "part-3"
+        },
+        {
+          "id": "egypt-bibliography",
+          "title": "参考书目",
+          "originalTitle": "Select Bibliography",
+          "dataUrl": "translations/books/egypt/egypt-bibliography.json?v=b83e0212aff1"
         }
       ],
-      "status": "chapter-1-complete",
+      "status": "focused-review-working-edition",
       "wholeBookComplete": false,
-      "description": "第一章《蚊子能说话吗？》已完成，含原书19—53页正文与全部106条章末原注。其余章节未收录。",
-      "editionNotice": "第一章完成版 · 2026-10-16。仅收录 Can the Mosquito Speak?：原书19—53页及原305—315页的106条原注。原注就近展示，正文与原注之间可跳转；完整章末排列见下载版。其余章节未翻译。",
+      "description": "致谢、音译说明、导论、九章正文、875条原注与391条选目；补齐6幅原图。中英对照，保留原书页码。索引未收录。",
+      "editionNotice": "重点校订工作版 · 2026-10-18。第1章沿用已校版本；其余部分完成数字、单位、注号、风险语句及结构的专项校对，尚非全书逐句终校。书目保留原文。PDF下载仅含第1章；中文全稿与源码包覆盖当前收录范围。",
       "downloads": [
         {
-          "label": "中英对照 PDF",
+          "label": "全稿中文 Markdown",
+          "url": "translations/books/egypt/downloads/rule_of_experts_zh.md?v=777c91c5fcde",
+          "sha256": "777c91c5fcdea36c66059d4edcada342afa8dcbfbde3f7c346847c0832dfd3f6",
+          "bytes": 995858
+        },
+        {
+          "label": "全稿与可重建源码（含图像）",
+          "url": "translations/books/egypt/downloads/rule_of_experts_reviewed_source.zip?v=03908c064c92",
+          "sha256": "03908c064c929dc305dee7b6bae3d7e0e72a817175cd578bbfe69b18e22b6930",
+          "bytes": 2519511
+        },
+        {
+          "label": "本轮校对说明",
+          "url": "translations/books/egypt/downloads/全书校对说明.md?v=4e479edb9c18",
+          "sha256": "4e479edb9c182c1dd8cf48ad4860bbba1fba4784107108dcefb2f595673424c7",
+          "bytes": 2204
+        },
+        {
+          "label": "第1章 · 中英对照 PDF",
           "url": "translations/books/egypt/downloads/egypt_ch01_bilingual.pdf?v=3b6488524c44",
           "sha256": "3b6488524c44107b37c1260937f36c18a7e7b1c5bc2a1c864ddc4483f2cb34fe",
           "bytes": 717392
         },
         {
-          "label": "英文 PDF",
+          "label": "第1章 · 英文 PDF",
           "url": "translations/books/egypt/downloads/egypt_ch01_en.pdf?v=172aaab2eacd",
           "sha256": "172aaab2eacd9b3d916adfc8c60eef34cc6d1f20a3bf4c38a2b65dda391d41bd",
           "bytes": 254282
         },
         {
-          "label": "中文 Markdown",
+          "label": "第1章 · 中文 Markdown",
           "url": "translations/books/egypt/downloads/egypt_ch01_zh.md?v=dd9be7a0b778",
           "sha256": "dd9be7a0b778b897a917517454718053b200aafae0ac0c9c1f9490e2b1737263",
           "bytes": 124385
         },
         {
-          "label": "完整交付包",
+          "label": "第1章 · 完整交付包",
           "url": "translations/books/egypt/downloads/egypt_ch01_complete.zip?v=dfa53ab8c331",
           "sha256": "dfa53ab8c331e35c2ad1a9c5ec1d1a8a8f81b61235baf14bc86d1d0846543ef3",
           "bytes": 1198269
+        }
+      ],
+      "parts": [
+        {
+          "id": "part-1",
+          "title": "第一部　资本主义的寄生之所",
+          "originalTitle": "I · Para-Sites of Capitalism"
+        },
+        {
+          "id": "part-2",
+          "title": "第二部　农民研究",
+          "originalTitle": "II · Peasant Studies"
+        },
+        {
+          "id": "part-3",
+          "title": "第三部　锚定经济",
+          "originalTitle": "III · Fixing the Economy"
         }
       ]
     },
