@@ -1,0 +1,43 @@
+{
+  "complete": true,
+  "visual_review": "All 37 bilingual and 19 English pages reviewed. Bilingual pages 27–37 rechecked after making each bilingual reference pair an unbreakable block; source table checked on original PDF p. 18.",
+  "semantic_review": "Complete source paragraphs read and translated; five original notes checked. Formalism/antiformalism, coherence/corrigibility/collaboration, worldliness, enclosure, cousinage, and the lawfulness/willfulness contrast checked in context. All 123 original bibliography entries retained, with separately marked Chinese title glosses. No claim of independent verification of every cited work.",
+  "body_units": 231,
+  "references": 123,
+  "notes": 5,
+  "files": {
+    "article_bilingual": {
+      "pages": 37,
+      "missing_full_units": [],
+      "geometry_outliers": [],
+      "critical_log": [],
+      "sha256": "4eae9b7464fc8806ea76f47e22d134c97e6dfb967fc8ffc7c31f89c53acdbd1d",
+      "images": 1
+    },
+    "article_en": {
+      "pages": 19,
+      "missing_full_units": [],
+      "geometry_outliers": [],
+      "critical_log": [],
+      "sha256": "bfb551dd431b2c57837a2493ef6ffe345c139bc9dd2242b99c145c339c14a04b",
+      "images": 1
+    }
+  },
+  "note_references": {
+    "zh": [
+      "antiformalism-1",
+      "antiformalism-2",
+      "antiformalism-3",
+      "antiformalism-4",
+      "antiformalism-5"
+    ],
+    "en": [
+      "antiformalism-1",
+      "antiformalism-2",
+      "antiformalism-3",
+      "antiformalism-4",
+      "antiformalism-5"
+    ]
+  },
+  "source_coverage": "Publisher HTML abstract, all main-body paragraphs, headings, acknowledgements, five notes and 123 references represented. One redundant HTML accessibility description is integrated into the preserved table and its Chinese explanation. Author affiliations, corresponding author, journal, DOI, keywords, copyright and license included as metadata."
+}

@@ -4427,6 +4427,41 @@ window.TRANSLATIONS = {
           "url": "translations/articles/commissioned-micro-drama/source-package.zip"
         }
       ]
+    },
+    {
+      "id": "antiformalism",
+      "title": "反形式主义曾是什么，接下来又是什么？论连贯性、可修正性与协作",
+      "originalTitle": "What Was Antiformalism, and What Comes Next? On Coherence, Corrigibility and Collaboration",
+      "author": "Matei Candea · Paolo Heywood",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://doi.org/10.1017/S0010417526100589",
+      "editionNotice": "据 Cambridge University Press 出版方 HTML 全文翻译，并以同一论文原版PDF核准段落起始页码、表1及原注。原文27页；本版保留全文、5条原注和123条参考文献，书目保留原文并附题名译释。© The Author(s), 2026；原文及本译文采用 CC BY 4.0。中文翻译、题名译释与编者说明为本版新增。AI辅助工作译稿，不代表作者或出版社认可。",
+      "bilingual": true,
+      "language": "zh-CN",
+      "languagePair": "English / 中文",
+      "translator": "AI-assisted working translation",
+      "example": false,
+      "description": "人类学的反形式主义与形式回归：连贯性、可修正性和协作。全文中英对照，含5条原注、原表、123条书目及原刊页码。2026-09-19周报主文。",
+      "dataUrl": "translations/articles/antiformalism/article.json",
+      "downloads": [
+        {
+          "label": "中文 Markdown",
+          "url": "translations/articles/antiformalism/article_zh.md"
+        },
+        {
+          "label": "Bilingual PDF",
+          "url": "translations/articles/antiformalism/article_bilingual.pdf"
+        },
+        {
+          "label": "English PDF",
+          "url": "translations/articles/antiformalism/article_en.pdf"
+        },
+        {
+          "label": "Source package",
+          "url": "translations/articles/antiformalism/source-package.zip"
+        }
+      ]
     }
   ]
 };
