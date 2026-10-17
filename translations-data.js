@@ -4567,6 +4567,41 @@ window.TRANSLATIONS = {
           "url": "translations/articles/borders-to-courts/source-package.zip"
         }
       ]
+    },
+    {
+      "id": "culture-and-contradiction",
+      "title": "历史终结之前的文化与矛盾：从社会主义遗产到市场逻辑",
+      "originalTitle": "Culture and Contradiction Before the End of History: From Socialist Legacies to Market Logics",
+      "author": "Petrică Mogoș",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://doi.org/10.1017/S0010417526100656",
+      "editionNotice": "据Cambridge University Press出版方HTML全文翻译，并与27页原刊PDF核对结构和原刊页码。保留完整摘要、正文、致谢、资助声明及97条原注；无独立书目或图表。原注中的论述完整翻译，书目检索信息保留并附中文题名译释。© The Author(s), 2026；Cambridge University Press代表Society for the Comparative Study of Society and History出版。原文及本译文采用CC BY 4.0。翻译、译释和编者说明为本版新增；AI辅助工作译稿，不代表作者或出版社认可。",
+      "bilingual": true,
+      "language": "zh-CN",
+      "languagePair": "English / 中文",
+      "translator": "AI-assisted working translation",
+      "example": false,
+      "description": "考察社会主义晚期罗马尼亚的文化自筹经费体制、市场取向实践与危机治理。全文中英对照，含97条原注、书目译释及原刊页码。2026-10-17周报主文。",
+      "dataUrl": "translations/articles/culture-and-contradiction/article.json",
+      "downloads": [
+        {
+          "label": "中文 Markdown",
+          "url": "translations/articles/culture-and-contradiction/article_zh.md"
+        },
+        {
+          "label": "Bilingual PDF",
+          "url": "translations/articles/culture-and-contradiction/article_bilingual.pdf"
+        },
+        {
+          "label": "English PDF",
+          "url": "translations/articles/culture-and-contradiction/article_en.pdf"
+        },
+        {
+          "label": "Source package",
+          "url": "translations/articles/culture-and-contradiction/source-package.zip"
+        }
+      ]
     }
   ]
 };
