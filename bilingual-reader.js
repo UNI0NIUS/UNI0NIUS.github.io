@@ -33,6 +33,15 @@ window.renderParallelBook = (() => {
       } else if (token.type === "verse") {
         const verse = el("div", undefined, "source-verse");
         inline(verse, token.children, language, anchors); parent.append(verse);
+      } else if (token.type === "break") {
+        parent.append(document.createElement("br"), document.createElement("br"));
+      } else if (token.type === "math") {
+        const node = el("span", token.tex, "source-math");
+        if (window.katex) {
+          try { window.katex.render(token.tex, node, {displayMode: !!token.display, throwOnError: true, trust: false}); }
+          catch (error) { node.classList.add("math-error"); node.title = error.message; }
+        }
+        parent.append(node);
       }
     }
   }
@@ -49,7 +58,8 @@ window.renderParallelBook = (() => {
     const container = el("div", undefined, `reader-cell reader-${language}`);
     container.lang = language === "zh" ? "zh-CN" : source.sourceLanguage || "en";
     container.dataset.language = language === "zh" ? "中文" : source.sourceLanguageLabel || "English";
-    const tag = {heading: "h2", subheading: "h3", quote: "blockquote", diagram: "pre"}[row.type] || "p";
+    const tag = {heading: "h2", subheading: "h3", quote: "blockquote", diagram: "pre", code: "pre"}[row.type] || "p";
+    if (row.indent) container.classList.add("source-subentry");
     if (row.type === "figure" && row.src) {
       const figure = el("figure"); const img = el("img");
       img.src = safeUrl(row.src); img.alt = (row[language] || []).filter(t => typeof t === "string").join(""); img.loading = "lazy";
@@ -73,6 +83,7 @@ window.renderParallelBook = (() => {
       const content = el("div", undefined, "footnote-content");
       const mark = el("span", `${id.split("-").at(-1)}. `, "footnote-number");
       content.append(mark); inline(content, note[language], language);
+      if (language === "zh" && note.review) content.append(el("p", `校注：${note.review}`, "note-editorial"));
       const back = el("a", " ↩", "note-backlink");
       back.href = `#ref-${language}-${anchors[id]}`;
       back.setAttribute("aria-label", `Back to reference ${id}`);

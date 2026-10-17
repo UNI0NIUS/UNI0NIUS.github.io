@@ -1,0 +1,271 @@
+{
+  "id": "front",
+  "title": "封面、扉页与出版信息",
+  "originalTitle": "Cover, Title and Publication Details",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "dm-cover",
+      "type": "figure",
+      "page": "",
+      "src": "translations/books/defending-materialism/assets/source_cover.png",
+      "zh": [
+        "原书封面"
+      ],
+      "en": [
+        "Original cover"
+      ]
+    },
+    {
+      "id": "dm-front-001",
+      "type": "heading",
+      "page": "i",
+      "zh": [
+        "捍卫唯物主义"
+      ],
+      "en": [
+        "DEFENDING MATERIALISM"
+      ]
+    },
+    {
+      "id": "dm-front-002",
+      "type": "subheading",
+      "page": "ii",
+      "zh": [
+        "布卢姆斯伯里另有出版"
+      ],
+      "en": [
+        "Also Available from Bloomsbury"
+      ]
+    },
+    {
+      "id": "dm-front-003",
+      "type": "paragraph",
+      "page": "ii",
+      "zh": [
+        "《反对马克思主义的战争》，托尼·麦肯纳",
+        {
+          "type": "break"
+        },
+        "《从马克思到黑格尔，再返回马克思》，维多利亚·法雷尔德、汉内斯·库赫编"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "The War Against Marxism,"
+          ]
+        },
+        " Tony McKenna ",
+        {
+          "type": "em",
+          "children": [
+            "From Marx to Hegel and Back,"
+          ]
+        },
+        " ed. by Victoria Fareld and Hannes Kuch"
+      ]
+    },
+    {
+      "id": "dm-front-004",
+      "type": "heading",
+      "page": "iii",
+      "zh": [
+        "捍卫唯物主义"
+      ],
+      "en": [
+        "DEFENDING MATERIALISM"
+      ]
+    },
+    {
+      "id": "dm-front-005",
+      "type": "paragraph",
+      "page": "iii",
+      "zh": [
+        "原子在科学与哲学中的坎坷历程"
+      ],
+      "en": [
+        "The Uneasy History of the Atom in Science and Philosophy"
+      ]
+    },
+    {
+      "id": "dm-front-006",
+      "type": "paragraph",
+      "page": "iii",
+      "zh": [
+        "卡塔琳娜·科洛佐娃、威廉·保罗·科克肖特、格雷格·迈克尔森"
+      ],
+      "en": [
+        "Katarina Kolozova, William Paul Cockshott and, Greg Michaelson"
+      ]
+    },
+    {
+      "id": "dm-front-logo",
+      "type": "figure",
+      "page": "iii",
+      "zh": [
+        "布卢姆斯伯里"
+      ],
+      "en": [
+        "Bloomsbury"
+      ],
+      "src": "translations/books/defending-materialism/assets/publisher_logo.png"
+    },
+    {
+      "id": "dm-front-007",
+      "type": "subheading",
+      "page": "iv",
+      "zh": [
+        "布卢姆斯伯里学术出版"
+      ],
+      "en": [
+        "BLOOMSBURY ACADEMIC"
+      ]
+    },
+    {
+      "id": "dm-front-008",
+      "type": "paragraph",
+      "page": "iv",
+      "zh": [
+        "Bloomsbury Publishing Plc\n英国伦敦贝德福德广场50号，WC1B 3DP\n美国纽约百老汇1385号，NY 10018\n爱尔兰都柏林2区厄尔斯福特台29号"
+      ],
+      "en": [
+        "Bloomsbury Publishing Plc 50 Bedford Square, London, WC1B 3DP, UK 1385 Broadway, New York, NY 10018, USA 29 Earlsfort Terrace, Dublin 2, Ireland"
+      ]
+    },
+    {
+      "id": "dm-front-009",
+      "type": "paragraph",
+      "page": "iv",
+      "zh": [
+        "BLOOMSBURY、BLOOMSBURY ACADEMIC及戴安娜标志均为Bloomsbury Publishing Plc的商标。"
+      ],
+      "en": [
+        "BLOOMSBURY, BLOOMSBURY ACADEMIC and the Diana logo are trademarks of Bloomsbury Publishing Plc"
+      ]
+    },
+    {
+      "id": "dm-front-010",
+      "type": "paragraph",
+      "page": "iv",
+      "zh": [
+        "2025年首次在英国出版。"
+      ],
+      "en": [
+        "First published in Great Britain 2025"
+      ]
+    },
+    {
+      "id": "dm-front-011",
+      "type": "paragraph",
+      "page": "iv",
+      "zh": [
+        "版权所有 © 卡塔琳娜·科洛佐娃、威廉·保罗·科克肖特、格雷格·迈克尔森，2025年。"
+      ],
+      "en": [
+        "Copyright © Katarina Kolozova, William Paul Cockshott and Greg Michaelson, 2025"
+      ]
+    },
+    {
+      "id": "dm-front-012",
+      "type": "paragraph",
+      "page": "iv",
+      "zh": [
+        "卡塔琳娜·科洛佐娃、威廉·保罗·科克肖特和格雷格·迈克尔森已依据1988年《版权、外观设计和专利法》主张其作为本书作者的署名权。"
+      ],
+      "en": [
+        "Katarina Kolozova, William Paul Cockshott and Greg Michaelson have asserted their right under the Copyright, Designs and Patents Act, 1988, to be identified as Authors of this work."
+      ]
+    },
+    {
+      "id": "dm-front-013",
+      "type": "paragraph",
+      "page": "iv",
+      "zh": [
+        "丛书设计：Charlotte Daniels。\n封面图：Kohl根据Barclay的画作制作的木刻，1888年。\n图片提供：INTERFOTO / Alamy Stock Photo。"
+      ],
+      "en": [
+        "Series design by Charlotte Daniels Cover image: Wood engraving by Kohl after drawing by Barclay, 1888 Contributor: INTERFOTO / Alamy Stock Photo"
+      ]
+    },
+    {
+      "id": "dm-front-014",
+      "type": "paragraph",
+      "page": "iv",
+      "zh": [
+        "保留所有权利。未经出版者事先书面许可，不得以任何形式或手段，包括电子或机械方式，以及影印、录音或任何信息存储与检索系统，复制或传播本出版物的任何部分。"
+      ],
+      "en": [
+        "All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system, without prior permission in writing from the publishers."
+      ]
+    },
+    {
+      "id": "dm-front-015",
+      "type": "paragraph",
+      "page": "iv",
+      "zh": [
+        "Bloomsbury Publishing Plc对本书中提及或引用的任何第三方网站均无控制权，亦不承担责任。本书提供的所有网址在付印时均正确有效。若网址发生变更或网站停止存在，作者和出版者对由此造成的不便表示遗憾，但不对任何此类变化承担责任。"
+      ],
+      "en": [
+        "Bloomsbury Publishing Plc does not have any control over, or responsibility for, any third-party websites referred to or in this book. All internet addresses given in this book were correct at the time of going to press. The author and publisher regret any inconvenience caused if addresses have changed or sites have ceased to exist, but can accept no responsibility for any such changes."
+      ]
+    },
+    {
+      "id": "dm-front-016",
+      "type": "paragraph",
+      "page": "iv",
+      "zh": [
+        "英国图书馆提供本书的书目记录。"
+      ],
+      "en": [
+        "A catalogue record for this book is available from the British Library."
+      ]
+    },
+    {
+      "id": "dm-front-017",
+      "type": "paragraph",
+      "page": "iv",
+      "zh": [
+        "美国国会图书馆提供本书的书目记录。"
+      ],
+      "en": [
+        "A catalog record for this book is available from the Library of Congress."
+      ]
+    },
+    {
+      "id": "dm-front-018",
+      "type": "paragraph",
+      "page": "iv",
+      "zh": [
+        "ISBN：\n精装本：978-1-3504-4732-5\n电子PDF：978-1-3504-4734-9\n电子书：978-1-3504-4735-6"
+      ],
+      "en": [
+        "ISBN: HB: 978-1-3504-4732-5 ePDF: 978-1-3504-4734-9 eBook: 978-1-3504-4735-6"
+      ]
+    },
+    {
+      "id": "dm-front-019",
+      "type": "paragraph",
+      "page": "iv",
+      "zh": [
+        "排版：印度钦奈Deanta Global Publishing Services。"
+      ],
+      "en": [
+        "Typeset by Deanta Global Publishing Services, Chennai, India"
+      ]
+    },
+    {
+      "id": "dm-front-020",
+      "type": "paragraph",
+      "page": "iv",
+      "zh": [
+        "如需进一步了解我们的作者和图书，请访问www.bloomsbury.com，并订阅我们的通讯。"
+      ],
+      "en": [
+        "To find out more about our authors and books visit www.bloomsbury.com and sign up for our newsletters."
+      ]
+    }
+  ],
+  "notes": {}
+}
