@@ -4462,6 +4462,41 @@ window.TRANSLATIONS = {
           "url": "translations/articles/antiformalism/source-package.zip"
         }
       ]
+    },
+    {
+      "id": "coerced-labor-bengal",
+      "title": "十九世纪早期孟加拉的强制劳动、种姓与自由愿望：从南亚重审反奴隶制辩论",
+      "originalTitle": "Coerced Labor, Caste, and Aspirations for Liberty in Early Nineteenth-Century Bengal: Revisiting the Antislavery Debate from South Asia",
+      "author": "Anirban Karak",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://doi.org/10.1017/S001041752610067X",
+      "editionNotice": "据 Cambridge University Press 出版方 HTML 全文翻译，以同文原版 PDF 核对原注并定位段落起始页。原文24页，本版保留全部正文、摘要、致谢与126条原注；无独立参考文献表或图表。注内书目信息保留原文，并附中文题名译释。© The Author(s), 2026；原文与本译文采用 CC BY 4.0。翻译、题名译释与编者说明为本版新增。AI辅助工作译稿，不代表作者或出版社认可。",
+      "bilingual": true,
+      "language": "zh-CN",
+      "languagePair": "English / 中文",
+      "translator": "AI-assisted working translation",
+      "example": false,
+      "description": "通过孟加拉奴隶身份诉讼重审废奴、种姓与资本主义。全文中英对照，含126条完整原注、书目题名译释和原刊页码。2026-09-26周报主文。",
+      "dataUrl": "translations/articles/coerced-labor-bengal/article.json",
+      "downloads": [
+        {
+          "label": "中文 Markdown",
+          "url": "translations/articles/coerced-labor-bengal/article_zh.md"
+        },
+        {
+          "label": "Bilingual PDF",
+          "url": "translations/articles/coerced-labor-bengal/article_bilingual.pdf"
+        },
+        {
+          "label": "English PDF",
+          "url": "translations/articles/coerced-labor-bengal/article_en.pdf"
+        },
+        {
+          "label": "Source package",
+          "url": "translations/articles/coerced-labor-bengal/source-package.zip"
+        }
+      ]
     }
   ]
 };
