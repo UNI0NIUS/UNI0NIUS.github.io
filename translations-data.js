@@ -4602,6 +4602,41 @@ window.TRANSLATIONS = {
           "url": "translations/articles/culture-and-contradiction/source-package.zip"
         }
       ]
+    },
+    {
+      "id": "borrowed-time",
+      "title": "借来的时间：社会主义南斯拉夫的主权债务与时间失序",
+      "originalTitle": "Borrowed Time: Sovereign Debt and Temporal Disorder In Socialist Yugoslavia",
+      "author": "James M Robertson",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://doi.org/10.1017/S0010417526100723",
+      "editionNotice": "据Cambridge University Press出版方HTML完整翻译，并与22页原刊PDF核对结构及段落起始页码。保留摘要、全部正文、致谢及66条原注；无独立书目或图表。原注论述完整翻译，书目信息照录并附中文题名译释。© The Author(s), 2026；Cambridge University Press代表Society for the Comparative Study of Society and History出版。原文及本译文采用CC BY-NC 4.0，仅限非商业使用；商业使用须事先取得出版社或权利人书面许可。翻译、译释及编者说明为本版新增；AI辅助工作译稿，不代表作者或出版社认可。",
+      "bilingual": true,
+      "language": "zh-CN",
+      "languagePair": "English / 中文",
+      "translator": "AI-assisted working translation",
+      "example": false,
+      "description": "从债务危机与电影文本分析社会主义南斯拉夫的时间体验和历史性体制。全文中英对照，含66条原注及原刊页码，CC BY-NC 4.0。2026-10-17周报延伸阅读。",
+      "dataUrl": "translations/articles/borrowed-time/article.json",
+      "downloads": [
+        {
+          "label": "中文 Markdown",
+          "url": "translations/articles/borrowed-time/article_zh.md"
+        },
+        {
+          "label": "Bilingual PDF",
+          "url": "translations/articles/borrowed-time/article_bilingual.pdf"
+        },
+        {
+          "label": "English PDF",
+          "url": "translations/articles/borrowed-time/article_en.pdf"
+        },
+        {
+          "label": "Source package",
+          "url": "translations/articles/borrowed-time/source-package.zip"
+        }
+      ]
     }
   ]
 };
