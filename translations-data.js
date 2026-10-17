@@ -4392,6 +4392,41 @@ window.TRANSLATIONS = {
           "text": "[Add context, references, or notes on terminology.]"
         }
       ]
+    },
+    {
+      "id": "commissioned-micro-drama",
+      "title": "为中国短视频平台制作委托剧：权力、依赖与创作控制",
+      "originalTitle": "Producing Commissioned Drama for Chinese Short Video Platforms: Power, Dependence and Creative Control",
+      "author": "Chengyao Liu",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://journals.sagepub.com/doi/full/10.1177/15274764261461453",
+      "editionNotice": "译自出版方 HTML 全文（2026-06-25），按提取文本顺序逐段对照，保留原图、全部附属声明与23条参考文献。PDF原版未能下载，本稿不标注未经核实的印刷页码；段落可被网页提取服务拆分。原文采用 CC BY 4.0 许可，© Chengyao Liu 2026；中文翻译及编辑性说明为本版新增，亦按 CC BY 4.0 提供。AI辅助工作译稿，经逐项语义复核；不代表作者或出版社认可。",
+      "bilingual": true,
+      "language": "zh-CN",
+      "languagePair": "English / 中文",
+      "translator": "AI-assisted working translation",
+      "example": false,
+      "description": "平台委托制作、算法分发与创作劳动。完整HTML底本中英对照，含原图及23条参考文献。2026-09-12周报配套阅读。",
+      "dataUrl": "translations/articles/commissioned-micro-drama/article.json",
+      "downloads": [
+        {
+          "label": "中文 Markdown",
+          "url": "translations/articles/commissioned-micro-drama/article_zh.md"
+        },
+        {
+          "label": "Bilingual PDF",
+          "url": "translations/articles/commissioned-micro-drama/article_bilingual.pdf"
+        },
+        {
+          "label": "English PDF",
+          "url": "translations/articles/commissioned-micro-drama/article_en.pdf"
+        },
+        {
+          "label": "Source package",
+          "url": "translations/articles/commissioned-micro-drama/source-package.zip"
+        }
+      ]
     }
   ]
 };

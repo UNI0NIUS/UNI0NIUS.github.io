@@ -1,0 +1,26 @@
+{
+  "complete": true,
+  "visual_review": "All 15 bilingual and 9 English pages reviewed. Final English pages 7-9 rechecked after preventing reference-entry splitting.",
+  "body_units": 125,
+  "references": 23,
+  "source_format": "HTML; no verified printed page numbers",
+  "files": {
+    "article_bilingual": {
+      "pages": 15,
+      "missing_full_units": [],
+      "geometry_outliers": [],
+      "critical_log": [],
+      "sha256": "40b9e0a1c8a26b3f0af94feab6dea3be986e508a8c457e6b0082bfebef9d4ee5",
+      "images": 1
+    },
+    "article_en": {
+      "pages": 9,
+      "missing_full_units": [],
+      "geometry_outliers": [],
+      "critical_log": [],
+      "sha256": "0c87579f310b1fe514da050c2a0f303f8a6947d2688b2bc589c599dacca6d20b",
+      "images": 1
+    }
+  },
+  "semantic_review": "All 125 source units reviewed against translation; 23 references retained. Producer/commissioner distinction, budgets, data access, percentages, quoted speech, consent and funding scope checked. Original citation inconsistencies retained with separate editorial notes."
+}

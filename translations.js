@@ -114,9 +114,46 @@
     const article = el("article", undefined, "translation-reader");
     article.append(link("← All translations", "index.html#articles", "back-link"), heading(item, item.title));
     const note = templateNote(item); if (note) article.append(note);
-    article.append(body(item.body, item.language));
+    if (item.bilingual && item.dataUrl && window.renderParallelBook) {
+      const view = ["zh", "en", "parallel"].includes(params.get("view")) ? params.get("view") : "parallel";
+      document.getElementById("main").classList.add("bilingual-book");
+      article.append(window.renderParallelBook.controls(view, item));
+      if (item.editionNotice) article.append(el("p", item.editionNotice, "edition-notice"));
+      if (item.downloads?.length) {
+        const downloads = el("nav", undefined, "edition-switcher");
+        downloads.setAttribute("aria-label", "Download reading editions");
+        for (const file of item.downloads) {
+          const url = safeUrl(file.url); if (!url) continue;
+          const a = link(file.label, url); a.download = ""; downloads.append(a);
+        }
+        article.append(downloads);
+      }
+      const loading = el("p", "Loading article…"); loading.setAttribute("role", "status"); article.append(loading);
+      try {
+        const url = safeUrl(item.dataUrl);
+        if (!url || new URL(url).origin !== location.origin) throw new Error("Invalid article URL");
+        const response = await fetch(url, { cache: "no-cache" });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const data = await response.json();
+        if (data.id !== item.id || !Array.isArray(data.body)) throw new Error("Invalid article data");
+        loading.replaceWith(window.renderParallelBook.content(data, view));
+        if (data.figureTranslation) {
+          const figureNotes = el("details", undefined, "editorial-query");
+          figureNotes.append(el("summary", "图中文字对照"), el("p", data.figureTranslation)); article.append(figureNotes);
+        }
+        if (data.editorialNotes?.length) {
+          const notes = el("details", undefined, "editorial-query"); notes.append(el("summary", "译者说明与校订记录"));
+          for (const text of data.editorialNotes) notes.append(el("p", text));
+          article.append(notes);
+        }
+      } catch (error) {
+        loading.textContent = "This article could not be loaded. Please reload the page to try again.";
+        loading.setAttribute("role", "alert"); console.error("Article load failed", error);
+      }
+    } else article.append(body(item.body, item.language));
     target.append(article);
     document.title = `${item.title} | ${personName}`;
+    if (location.hash) requestAnimationFrame(() => document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView());
   } else {
     const chapters = item.chapters || [];
     if (!chapters.length) { missing(item.title, "Chapters will be added soon."); return; }
