@@ -4497,6 +4497,41 @@ window.TRANSLATIONS = {
           "url": "translations/articles/coerced-labor-bengal/source-package.zip"
         }
       ]
+    },
+    {
+      "id": "piracy-political-prism",
+      "title": "海盗行为作为政治棱镜：海上劫掠者与国际性大西洋的兴起",
+      "originalTitle": "Piracy as Political Prism: Sea Raiders and the Rise of the International Atlantic",
+      "author": "Lauren Benton",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://doi.org/10.1017/S0010417526100607",
+      "editionNotice": "据 Cambridge University Press 出版方 HTML 全文翻译，以同文原版 PDF 核对原注并定位段落起始页。原文28页，本版保留摘要、全部正文及124条原注；无独立参考文献表或图表。注内书目信息照录，并附中文题名译释。© The Author(s), 2026；原文与本译文采用 CC BY 4.0。翻译、题名译释与编者说明为本版新增。AI辅助工作译稿，不代表作者或出版社认可。",
+      "bilingual": true,
+      "language": "zh-CN",
+      "languagePair": "English / 中文",
+      "translator": "AI-assisted working translation",
+      "example": false,
+      "description": "围绕不可抗拒号的私掠与诉讼，考察主权、战争及大西洋国际秩序。全文中英对照，含124条原注、书目题名译释和原刊页码。2026-10-03周报主文。",
+      "dataUrl": "translations/articles/piracy-political-prism/article.json",
+      "downloads": [
+        {
+          "label": "中文 Markdown",
+          "url": "translations/articles/piracy-political-prism/article_zh.md"
+        },
+        {
+          "label": "Bilingual PDF",
+          "url": "translations/articles/piracy-political-prism/article_bilingual.pdf"
+        },
+        {
+          "label": "English PDF",
+          "url": "translations/articles/piracy-political-prism/article_en.pdf"
+        },
+        {
+          "label": "Source package",
+          "url": "translations/articles/piracy-political-prism/source-package.zip"
+        }
+      ]
     }
   ]
 };
