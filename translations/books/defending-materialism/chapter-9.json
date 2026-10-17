@@ -1,0 +1,4588 @@
+{
+  "id": "chapter-9",
+  "title": "第9章 逻辑危机与反形式主义的顶峰",
+  "originalTitle": "Chapter 9: THE CRISIS IN LOGIC AND THE APOTHEOSIS OF ANTI-FORMALISM",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "dm-ch09-001",
+      "type": "heading",
+      "page": "187",
+      "zh": [
+        "第9章 逻辑危机与反形式主义的顶峰"
+      ],
+      "en": [
+        "Chapter 9: THE CRISIS IN LOGIC AND THE APOTHEOSIS OF ANTI-FORMALISM"
+      ]
+    },
+    {
+      "id": "dm-ch09-002",
+      "type": "subheading",
+      "page": "187",
+      "zh": [
+        "引言"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Introduction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-003",
+      "type": "paragraph",
+      "page": "187",
+      "zh": [
+        "希尔伯特纲领可以简要概括为：试图确定罗素和怀特海在《数学原理》中使用的算术形式化是否"
+      ],
+      "en": [
+        "Hilbert’s programme may be conveniently summarized as seeking to establish whether or not the formalization of arithmetic used in Russell and Whitehead’s ",
+        {
+          "type": "em",
+          "children": [
+            "Principia Mathematica"
+          ]
+        },
+        ":"
+      ]
+    },
+    {
+      "id": "dm-ch09-004",
+      "type": "paragraph",
+      "page": "187",
+      "zh": [
+        "相容，即不可能证明一个公式及其否定都是定理；"
+      ],
+      "en": [
+        "is ",
+        {
+          "type": "em",
+          "children": [
+            "consistent"
+          ]
+        },
+        ", i.e., it is not possible to prove that both a formula and its negation are theorems;"
+      ]
+    },
+    {
+      "id": "dm-ch09-005",
+      "type": "paragraph",
+      "page": "187",
+      "zh": [
+        "完备，即没有不能被证明为定理的定理；"
+      ],
+      "en": [
+        "is ",
+        {
+          "type": "em",
+          "children": [
+            "complete"
+          ]
+        },
+        ", i.e., there are no theorems which cannot be proved to be so;"
+      ],
+      "review": "底本以“不能被证明的定理”说明不完备性；此处保留作者的用词，不将其静默改为“不可证的真命题”。"
+    },
+    {
+      "id": "dm-ch09-006",
+      "type": "paragraph",
+      "page": "187",
+      "zh": [
+        "具有判定程序，即一种会终止的机械程序或算法，能够确定任意公式是否为定理。"
+      ],
+      "en": [
+        "has a ",
+        {
+          "type": "em",
+          "children": [
+            "decision procedure"
+          ]
+        },
+        ", i.e., a terminating mechanical procedure or algorithm, to establish whether or not an arbitrary formula is a theorem."
+      ]
+    },
+    {
+      "id": "dm-ch09-007",
+      "type": "paragraph",
+      "page": "187",
+      "zh": [
+        "罗素悖论已经强烈暗示，数学不可能相容。随后，正如下文将要探讨的，哥德尔确立了数学不可能完备，而图灵确立了数学不可能拥有判定公式是否为定理的程序。"
+      ],
+      "en": [
+        "Russell’s paradox had already strongly suggested that mathematics could not be consistent. Subsequently, as we shall next explore, Gödel established that mathematics could not be complete, and Turing that mathematics could not have a decision procedure for theoremhood."
+      ]
+    },
+    {
+      "id": "dm-ch09-008",
+      "type": "subheading",
+      "page": "187",
+      "zh": [
+        "哥德尔与完备性"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Gödel and completeness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-009",
+      "type": "paragraph",
+      "page": "187",
+      "zh": [
+        "元数学用数学来真正谈论数学自身；其关键在于找到公式的数学表示或编码，以便用其他公式来处理它们。第7章已说明，如何依照符号和句法来定义逻辑。如果给符号赋予数值，就能把一个公式转化为一个合成的数，再用算术将其分解回符号。"
+      ],
+      "en": [
+        "The key to meta-mathematics, where mathematics is used to quite literally talk about itself, lies in finding a mathematical representation or ",
+        {
+          "type": "em",
+          "children": [
+            "encoding"
+          ]
+        },
+        ", of formulae, for manipulation by other formulae. In Chapter 7, we saw how logic may be defined in terms of its symbols and syntax. If we assign numbers to symbols, we can turn a formula into a composite number, and then decompose it back into its symbols, using arithmetic."
+      ]
+    },
+    {
+      "id": "dm-ch09-010",
+      "type": "paragraph",
+      "page": "187",
+      "zh": [
+        "在1931年一篇开创性的论文中，库尔特·哥德尔（1906—1978）用数论谓词演算的编码，证明了它是不完备的，即存在不能被证明的定理。",
+        {
+          "type": "note",
+          "id": "dm-9-1"
+        },
+        "克莱尼",
+        {
+          "type": "note",
+          "id": "dm-9-2"
+        },
+        "作了详尽的论述。"
+      ],
+      "en": [
+        "In a seminal 1931 paper, Kurt Gödel (1906–78) used an encoding of number theoretic predicate calculus to demonstrate that it was incomplete, that is, there are theorems which cannot be proved",
+        {
+          "type": "note",
+          "id": "dm-9-1"
+        },
+        ". Kleene",
+        {
+          "type": "note",
+          "id": "dm-9-2"
+        },
+        " gives a thorough account."
+      ]
+    },
+    {
+      "id": "dm-ch09-011",
+      "type": "paragraph",
+      "page": "187–188",
+      "zh": [
+        "哥德尔没有采用简单的乘法技巧，而是给符号序列中的每个位置分配一个质数。然后，把每个质数提升到该位置上符号编码所指定的幂，再将这些质数的幂相乘，从而汇合各符号的编码。"
+      ],
+      "en": [
+        "Rather than using a simple multiplication technique, Gödel assigned a prime number to each position in a symbol sequence. He then accumulated the codes for symbols by multiplying together the prime numbers, with each raised to the power of the code at its position."
+      ]
+    },
+    {
+      "id": "dm-ch09-012",
+      "type": "paragraph",
+      "page": "188",
+      "zh": [
+        "例如，假定按表9.1给符号赋予编码。那么，肯定前件式三段论的公式为："
+      ],
+      "en": [
+        "For example, suppose we give symbols for the codes shown in Table 9.1. Then the formula for the syllogism Modus Ponems is:"
+      ],
+      "review": "底本将Modus Ponens误拼为Modus Ponems；英文照录。"
+    },
+    {
+      "id": "dm-ch09-013",
+      "type": "paragraph",
+      "page": "188",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}(a\\land(a\\Rightarrow b))\\Rightarrow b\\end{aligned}",
+          "display": true
+        }
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}(a\\land(a\\Rightarrow b))\\Rightarrow b\\end{aligned}",
+          "display": true
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-014",
+      "type": "paragraph",
+      "page": "188",
+      "zh": [
+        "也就是“a，以及a蕴含b，蕴含b”，转化为："
+      ],
+      "en": [
+        "that is ‘a’, and ‘a’ implies ‘b’, implies ‘b’, becomes:"
+      ]
+    },
+    {
+      "id": "dm-ch09-015",
+      "type": "paragraph",
+      "page": "188",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}8\\quad10\\quad4\\quad8\\quad10\\quad7\\quad11\\quad9\\quad9\\quad7\\quad11\\end{aligned}",
+          "display": true
+        }
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}8\\quad10\\quad4\\quad8\\quad10\\quad7\\quad11\\quad9\\quad9\\quad7\\quad11\\end{aligned}",
+          "display": true
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-016",
+      "type": "paragraph",
+      "page": "188",
+      "zh": [
+        "这可以编码为："
+      ],
+      "en": [
+        "This could be encoded as:"
+      ]
+    },
+    {
+      "id": "dm-ch09-017",
+      "type": "paragraph",
+      "page": "188",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}2^8*3^{10}*5^4*7^8*11^{10}*13^7*17^{11}*19^9*23^9*29^7*31^{11}\\end{aligned}",
+          "display": true
+        }
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}2^8*3^{10}*5^4*7^8*11^{10}*13^7*17^{11}*19^9*23^9*29^7*31^{11}\\end{aligned}",
+          "display": true
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-018",
+      "type": "paragraph",
+      "page": "188",
+      "zh": [
+        "这一方法适用于任意数量的符号和任意长度的序列。解码要用到一种称为质因数分解的技术，它可以求出一个数中所有质因数的指数。当然，这种编码会得到难以想象的大数，但哥德尔本来就不打算直接处理这些数。"
+      ],
+      "en": [
+        "This approach works for an arbitrary number of symbols and sequences of arbitrary lengths. Decoding then involves a technique called ",
+        {
+          "type": "em",
+          "children": [
+            "prime factorization"
+          ]
+        },
+        ", which enables the exponents of all the prime factors in a number to be found. Of course, this encoding gives unimaginably large numbers, but it was not Gödel’s intention to work directly with them."
+      ]
+    },
+    {
+      "id": "dm-ch09-019",
+      "type": "paragraph",
+      "page": "188",
+      "zh": [
+        "表9.1 符号编码",
+        {
+          "type": "break"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              [],
+              []
+            ],
+            [
+              [
+                "T（真）"
+              ],
+              [
+                "1"
+              ]
+            ],
+            [
+              [
+                "F（假）"
+              ],
+              [
+                "2"
+              ]
+            ],
+            [
+              [
+                "="
+              ],
+              [
+                "3"
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "math",
+                  "tex": "\\land"
+                },
+                "（且）"
+              ],
+              [
+                "4"
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "math",
+                  "tex": "\\lor"
+                },
+                "（或）"
+              ],
+              [
+                "5"
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "math",
+                  "tex": "\\neg"
+                },
+                "（非）"
+              ],
+              [
+                "6"
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "math",
+                  "tex": "\\Rightarrow"
+                },
+                "（蕴含）"
+              ],
+              [
+                "7"
+              ]
+            ],
+            [
+              [
+                "("
+              ],
+              [
+                "8"
+              ]
+            ],
+            [
+              [
+                ")"
+              ],
+              [
+                "9"
+              ]
+            ],
+            [
+              [
+                "a"
+              ],
+              [
+                "10"
+              ]
+            ],
+            [
+              [
+                "b"
+              ],
+              [
+                "11"
+              ]
+            ],
+            [
+              [
+                "c"
+              ],
+              [
+                "12"
+              ]
+            ],
+            [
+              [
+                "…"
+              ],
+              []
+            ]
+          ]
+        }
+      ],
+      "en": [
+        "Table 9.1 Codes for Symbols",
+        {
+          "type": "break"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              [],
+              []
+            ],
+            [
+              [
+                "T (true)"
+              ],
+              [
+                "1"
+              ]
+            ],
+            [
+              [
+                "F (false)"
+              ],
+              [
+                "2"
+              ]
+            ],
+            [
+              [
+                "="
+              ],
+              [
+                "3"
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "math",
+                  "tex": "\\land"
+                },
+                " (and)"
+              ],
+              [
+                "4"
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "math",
+                  "tex": "\\lor"
+                },
+                " (or)"
+              ],
+              [
+                "5"
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "math",
+                  "tex": "\\neg"
+                },
+                " (not)"
+              ],
+              [
+                "6"
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "math",
+                  "tex": "\\Rightarrow"
+                },
+                " (implies)"
+              ],
+              [
+                "7"
+              ]
+            ],
+            [
+              [
+                "("
+              ],
+              [
+                "8"
+              ]
+            ],
+            [
+              [
+                ")"
+              ],
+              [
+                "9"
+              ]
+            ],
+            [
+              [
+                "a"
+              ],
+              [
+                "10"
+              ]
+            ],
+            [
+              [
+                "b"
+              ],
+              [
+                "11"
+              ]
+            ],
+            [
+              [
+                "c"
+              ],
+              [
+                "12"
+              ]
+            ],
+            [
+              [
+                "…"
+              ],
+              []
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-020",
+      "type": "paragraph",
+      "page": "188",
+      "zh": [
+        "哥德尔想要编码的是证明，即一系列公式，其中每个公式要么是公理或定理，要么由公理或定理应用推理规则而得。他展示了如何构造函数来拆解这些哥德尔数，不仅检查其形式是否合乎规则，也检查它们是否对应于有效证明的公式。这可以用来确定一个公式序列是否构成证明，但与检查任意公式是否存在证明，是两回事。"
+      ],
+      "en": [
+        "Gödel wanted to encode proofs, that is, sequences of formulae where each is an axiom or a theorem, or follows from an axiom or theorem by application of a rule of inference. He showed how to construct functions that would pull these ",
+        {
+          "type": "em",
+          "children": [
+            "Gödel numbers"
+          ]
+        },
+        " apart to check, not just that they were well-formed, but that they corresponded to formulae for valid proofs. This works for establishing whether a sequence of formulas is or is not a proof, but it is quite different from checking whether a proof exists for an arbitrary formula."
+      ]
+    },
+    {
+      "id": "dm-ch09-021",
+      "type": "paragraph",
+      "page": "188–189",
+      "zh": [
+        "在假定可以写出一个函数来判断公式是否为定理的前提下，哥德尔利用自指构造了一个令人想到罗素悖论的悖论。他展示了如何构造一个公式，设其哥德尔数为N，它实际上说："
+      ],
+      "en": [
+        "On the assumption that it was possible to write a function to tell whether or not a formula was a theorem, Gödel constructed a paradox using self-reference, reminiscent of Russell’s paradox. He showed how to make a formula with, say, Gödel number ",
+        {
+          "type": "em",
+          "children": [
+            "N"
+          ]
+        },
+        " that said, in effect:"
+      ]
+    },
+    {
+      "id": "dm-ch09-022",
+      "type": "quote",
+      "page": "189",
+      "zh": [
+        "哥德尔数为N的公式不是定理。"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "the formula with Gödel number N is not a theorem."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-023",
+      "type": "paragraph",
+      "page": "189",
+      "zh": [
+        "现在，如果这个公式是定理，它所断言的便是真的，因此它不可能是定理。而如果它不是定理，它所断言的便是假的，因此它必须是定理。也就是说，假定存在一个函数能够检查公式是否为定理，就会使系统不相容；去掉这一假定，则使系统不完备。"
+      ],
+      "en": [
+        "Now, if this formula is a theorem, then what it asserts is true, so it can’t be a theorem. And if it isn’t a theorem, then what it asserts is false, so it must be a theorem. That is, assuming that there could be a function to check whether or not a formula was a theorem rendered the system inconsistent. And omitting the assumption rendered it incomplete."
+      ],
+      "review": "底本第二个条件句把“不是定理”直接推为“所断言的为假”，但前一引文恰说该公式不是定理。此处按原文保留这一推论，不能把这段概述视为严格证明。"
+    },
+    {
+      "id": "dm-ch09-024",
+      "type": "paragraph",
+      "page": "189",
+      "zh": [
+        "接受排中律（LEM）的逻辑学家一致认为，宁取相容性而非完备性，是最稳妥的做法。对于不完备的系统，会有一些公式，我们无法保证判定它们是否为定理。如果简单地将它们加入系统作为公理，就可能利用它们证明矛盾。然而，对于相容的系统，一旦证明一个公式是定理，就知道无法证明它的否定。"
+      ],
+      "en": [
+        "Logicians who accept the LEM are agreed that preferring consistency to completeness is the safest course. For an incomplete system, there will be arbitrary formula whose status as theorems we cannot guarantee to determine. If they are simply added to the system as axioms, then it might be possible to use them to prove contradictions. However, for a consistent system, once we prove that a formula is a theorem, we know that we cannot prove its contrary."
+      ]
+    },
+    {
+      "id": "dm-ch09-025",
+      "type": "subheading",
+      "page": "189",
+      "zh": [
+        "图灵与终止性"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Turing and termination"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-026",
+      "type": "paragraph",
+      "page": "189",
+      "zh": [
+        "五年后，艾伦·图灵（1912—1954）证明，希尔伯特纲领的第三项要求无法得到满足。",
+        {
+          "type": "note",
+          "id": "dm-9-3"
+        },
+        "也就是说，不可能构造一种会终止的机械程序，来判定一个公式是否为定理。"
+      ],
+      "en": [
+        "Five years later, Alan Turing (1912–54) showed that the third requirement of Hilbert’s programme could not be satisfied.",
+        {
+          "type": "note",
+          "id": "dm-9-3"
+        },
+        " That is, it is not possible to construct a terminating mechanical procedure for deciding whether or not a formula is a theorem."
+      ]
+    },
+    {
+      "id": "dm-ch09-027",
+      "type": "paragraph",
+      "page": "189",
+      "zh": [
+        "图灵的进路与上文讨论的数理逻辑学家很不一样。他没有使用诸如把谓词演算应用于集合论或数论而得到的形式系统，而是考察人们怎样用手工解决问题。他设想，一个人用铅笔和方格纸，在格子里逐个字母写下问题，然后来回处理，修改已有格子的内容，并写入新的格子。"
+      ],
+      "en": [
+        "Turing’s approach was very different from that of the mathematical logicians we have considered above. Rather than using a formal system derived, say, from predicate calculus applied to set or number theory, Turing considered how people solve problems by hand. He speculated about someone using a pencil and squared paper, writing down a problem in the squares, letter by letter, and then working backwards and forwards, changing squares and writing in new ones."
+      ]
+    },
+    {
+      "id": "dm-ch09-028",
+      "type": "paragraph",
+      "page": "189",
+      "zh": [
+        "图灵把这一构想推广为现在所谓的图灵机（TM）。图灵机有一条由单元格组成的有限线性纸带，每个格子可以存放一个符号。有一个读写头，能够检查和修改格子；它位于“当前”格子的上方。例如，图9.1描绘了一台示意性的图灵机，纸带上逐个符号写着肯定前件式。"
+      ],
+      "en": [
+        "Turing generalized this conception to what is now known as a ",
+        {
+          "type": "em",
+          "children": [
+            "Turing machine (TM)"
+          ]
+        },
+        ". A TM has a finite linear tape of cells. Each cell may hold a symbol. There is a reading head that can inspect and change cells. The head is positioned over the ‘current’ cell. For example, Figure 9.1 shows a stylized TM with Modus Ponems on the tape, symbol by symbol."
+      ]
+    },
+    {
+      "id": "dm-ch09-029",
+      "type": "paragraph",
+      "page": "189",
+      "zh": [
+        "纸带可以向左或向右移动，每次移动一格。到达纸带任一端时，便添加新的空格。因此，纸带可以增长到任意长度，但在任何阶段，它总是有界的，即长度始终有限。"
+      ],
+      "en": [
+        "The tape may be moved to the left or the right, one cell at a time. New empty cells are added when either end of the tape is reached. Thus, the tape may grow to be arbitrarily long, but, at any stage, it is always bounded, that is, it is always of finite length."
+      ]
+    },
+    {
+      "id": "dm-ch09-030",
+      "type": "paragraph",
+      "page": "189",
+      "zh": [
+        "图灵机通过反复检查和修改纸带来执行操作，每次处理一个格子。机器的行为倾向，即当前符号如何结合它此前的操作来决定下一步做什么，称为当前状态。"
+      ],
+      "en": [
+        "A TM executes by repeatedly inspecting and modifying the tape, one cell at a time. The propensity of the machine, that is, how the current symbol determines what it will do next, in the light of what it has done previously, is called the current ",
+        {
+          "type": "em",
+          "children": [
+            "state"
+          ]
+        },
+        "."
+      ]
+    },
+    {
+      "id": "dm-ch09-031",
+      "type": "paragraph",
+      "page": "190",
+      "zh": [
+        "图灵机由一组各含五个组成部分的指令控制，称为五元组。每条指令规定："
+      ],
+      "en": [
+        "A TM is controlled by a set of instructions with five components, known as quintuplets. Each instruction says:"
+      ]
+    },
+    {
+      "id": "dm-ch09-032",
+      "type": "paragraph",
+      "page": "190",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\mathrm{state}_{\\mathrm{old}}"
+        },
+        "：如果机器处于这一旧状态，"
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\mathrm{state}_{\\mathrm{old}}"
+        },
+        ": if the machine is in this old state,"
+      ]
+    },
+    {
+      "id": "dm-ch09-033",
+      "type": "paragraph",
+      "page": "190",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\mathrm{symbol}_{\\mathrm{old}}"
+        },
+        "：且读写头下是这一旧符号，"
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\mathrm{symbol}_{\\mathrm{old}}"
+        },
+        ": and this old symbol is under the head,"
+      ]
+    },
+    {
+      "id": "dm-ch09-034",
+      "type": "paragraph",
+      "page": "190",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\mathrm{state}_{\\mathrm{new}}"
+        },
+        "：则切换到这一新状态，"
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\mathrm{state}_{\\mathrm{new}}"
+        },
+        ": then change to this new state,"
+      ]
+    },
+    {
+      "id": "dm-ch09-035",
+      "type": "paragraph",
+      "page": "190",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\mathrm{symbol}_{\\mathrm{new}}"
+        },
+        "：把读写头下格子的内容改为这一新符号，"
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\mathrm{symbol}_{\\mathrm{new}}"
+        },
+        ": change the cell under the head to this new symbol,"
+      ]
+    },
+    {
+      "id": "dm-ch09-036",
+      "type": "paragraph",
+      "page": "190",
+      "zh": [
+        "direction：沿这一方向移动纸带一格，即向左或向右，或者停机。"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "direction"
+          ]
+        },
+        ": and move the tape one cell in this ",
+        {
+          "type": "em",
+          "children": [
+            "direction"
+          ]
+        },
+        ", i.e., left or right, or halt."
+      ]
+    },
+    {
+      "id": "dm-ch09-037",
+      "type": "paragraph",
+      "page": "190",
+      "zh": [
+        "机器的指令设置在控制单元中。控制单元反复寻找一条指令，其",
+        {
+          "type": "math",
+          "tex": "\\mathrm{state}_{\\mathrm{old}}"
+        },
+        "和",
+        {
+          "type": "math",
+          "tex": "\\mathrm{symbol}_{\\mathrm{old}}"
+        },
+        "与当前状态及读写头下的符号相匹配，然后执行它。若不存在这样的指令，计算就失败。利用查找、修改和复制符号序列这些基本操作，可以构造复杂的图灵机。"
+      ],
+      "en": [
+        "The machine is set up with the instructions in a control unit. This repeatedly looks for an instruction whose ",
+        {
+          "type": "math",
+          "tex": "\\mathrm{state}_{\\mathrm{old}}"
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "\\mathrm{symbol}_{\\mathrm{old}}"
+        },
+        " match the current state and symbol under the head, which is then carried out. If there is no such instruction, the computation fails. Elaborate TMs may be constructed from the basic operations of searching for, changing and copying sequences of symbols."
+      ]
+    },
+    {
+      "id": "dm-ch09-038",
+      "type": "paragraph",
+      "page": "190",
+      "zh": [
+        "图灵的关键洞见是，图灵机的纸带可以存放任何符号序列，包括一组图灵机指令的符号序列。事实上，可以构造一台通用图灵机（UTM），配以适当的数据，逐个符号执行存放在其纸带上的任意图灵机。"
+      ],
+      "en": [
+        "Turing’s key insight was that a TM tape could hold any symbol sequence, including that for a set of TM instructions. Indeed, it is possible to construct a ",
+        {
+          "type": "em",
+          "children": [
+            "Universal"
+          ]
+        },
+        " TM (UTM) that will execute an arbitrary TM, held on its tape, symbol by symbol, with appropriate data."
+      ]
+    },
+    {
+      "id": "dm-ch09-039",
+      "type": "paragraph",
+      "page": "190",
+      "zh": [
+        "面对任意图灵机究竟是否会终止这一问题，图灵构造了如下悖论。假设纸带上存放一台“待测试”图灵机的符号及其数据。再假设我们能够构造一台“停机判定”图灵机，它检查纸带：如果待测试机在其数据上停机，就以一个状态停下；如果待测试机在其数据上不停机，就以另一个状态停下。"
+      ],
+      "en": [
+        "Asking whether or not an arbitrary TM will ever terminate, Turing constructed a paradox as follows: Suppose we have the symbols for a ‘test’ TM and its data on a tape. Let’s assume that we can build a ‘halting’ TM that will inspect the tape and stop in one state if the ‘test’ TM halts on its data and in another state if the ‘test’ TM doesn’t halt on its data."
+      ]
+    },
+    {
+      "id": "dm-ch09-040",
+      "type": "paragraph",
+      "page": "190",
+      "zh": [
+        "写出一台不停机的图灵机很容易。它从一个空格开始，写入0，然后向右移动一格。若右边没有格子，就增加一个。实际上，这台图灵机会永远“循环”，使纸带向无限延伸，却永远达不到无限。"
+      ],
+      "en": [
+        "It is easy to write a TM that doesn’t halt. It starts on a blank cell, writes a 0 and moves one cell to the right. If there isn’t a cell to the right, a new one is added. In effect, this TM will ‘loop’ forever, extending the tape to infinity, without ever reaching it."
+      ]
+    },
+    {
+      "id": "dm-ch09-041",
+      "type": "paragraph",
+      "page": "190",
+      "zh": [
+        "我们可以修改这台停机判定机：如果待测试机在其数据上不停机，它就以一个状态停下；如果待测试机在其数据上停机，它就执行那条循环指令。"
+      ],
+      "en": [
+        "We can modify the ‘halting’ TM to halt in one state if the ‘test’ TM doesn’t halt on its data and to execute the loop instruction if the ‘test’ TM does halt on its data."
+      ]
+    },
+    {
+      "id": "dm-ch09-042",
+      "type": "paragraph",
+      "page": "190",
+      "zh": [
+        "假设把修改后的停机判定机应用于它自身及某条纸带。如果它处理自身时不停机，那么它就会停机；如果它处理自身时停机，那么它就进入循环，不再停机。图灵得出结论：不可能构造一台图灵机来判断任意图灵机是否停机；也就是说，图灵机的停机问题不可判定。"
+      ],
+      "en": [
+        "Suppose we apply the modified ‘halting’ TM to itself and some tape. If it doesn’t halt on itself, then it halts, and if it does halt on itself, then it goes into the loop, and doesn’t halt. Turing concluded that it wasn’t possible to construct a TM to tell if an arbitrary TM halts; that is, the TM ",
+        {
+          "type": "em",
+          "children": [
+            "halting problem"
+          ]
+        },
+        " is ",
+        {
+          "type": "em",
+          "children": [
+            "undecidable"
+          ]
+        },
+        "."
+      ]
+    },
+    {
+      "id": "dm-ch09-043",
+      "type": "figure",
+      "page": "190",
+      "zh": [
+        "图9.1 图灵机。作者绘图。",
+        {
+          "type": "break"
+        },
+        "cell：单元格；head：读写头；tape：纸带。"
+      ],
+      "en": [
+        "Figure 9.1 Turing machine. Figure by authors."
+      ],
+      "src": "translations/books/defending-materialism/assets/figure-9-1.jpeg"
+    },
+    {
+      "id": "dm-ch09-044",
+      "type": "paragraph",
+      "page": "191",
+      "zh": [
+        "这一结果来自图灵在考察生成实数的图灵机时，使用康托尔对角线法作出的更详尽论证。虽然上文批评了对角线法这一整个观念，认为它涉及已完成的无限，但这并不使停机问题核心的悖论失效。"
+      ],
+      "en": [
+        "This result falls out of Turing’s more elaborate argument using Cantor diagonalization in considering TMs that generate real numbers. While above we critiqued the whole notion of diagonalization as involving completed infinities, this does not invalidate the paradox at the heart of the halting problem.."
+      ]
+    },
+    {
+      "id": "dm-ch09-045",
+      "type": "subheading",
+      "page": "191",
+      "zh": [
+        "丘奇—图灵论题"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "The Church-Turing thesis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-046",
+      "type": "paragraph",
+      "page": "191",
+      "zh": [
+        "在哥德尔和图灵开展工作的同时，人们还探索了其他几种元数学形式体系。斯蒂芬·克莱尼（1909—1994）沿着传统路线发展出递归函数论，将皮亚诺归纳法反转为一种定义数或集合上的函数的形式。",
+        {
+          "type": "note",
+          "id": "dm-9-4"
+        }
+      ],
+      "en": [
+        "Several other formalisms for meta-mathematics were explored in the same period that Gödel and Turing were working. Along traditional lines, Stephen Kleene (1909–94) developed recursive function theory, which inverted Peano’s induction into a form for defining functions over number or sets.",
+        {
+          "type": "note",
+          "id": "dm-9-4"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-047",
+      "type": "paragraph",
+      "page": "191",
+      "zh": [
+        "相比之下，摩西·舍恩芬克尔（1888—1942）早在1924年就发展了组合逻辑。",
+        {
+          "type": "note",
+          "id": "dm-9-5"
+        },
+        "哈斯克尔·柯里（1900—1982）于1929年加以完善，",
+        {
+          "type": "note",
+          "id": "dm-9-6"
+        },
+        "由此引出了阿隆佐·丘奇（1903—1995）自1932年起关于λ演算的极有影响力的工作。",
+        {
+          "type": "note",
+          "id": "dm-9-7"
+        }
+      ],
+      "en": [
+        "In contrast, Moses Schönfinkel (1888–1942) had developed combinatory logic in 1924.",
+        {
+          "type": "note",
+          "id": "dm-9-5"
+        },
+        " This was refined by Haskell Curry (1900–82) in 1929,",
+        {
+          "type": "note",
+          "id": "dm-9-6"
+        },
+        " and led to the highly influential work by Alonzo Church (1903–95) on λ calculus, from 1932.",
+        {
+          "type": "note",
+          "id": "dm-9-7"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-048",
+      "type": "paragraph",
+      "page": "191",
+      "zh": [
+        "对辩证唯物主义的拥护者而言，这些系统似乎尤其成问题。舍恩芬克尔和柯里的组合逻辑由算子构成；算子的性质通过它们如何消去或复制其他算子、从而与之相互作用来定义。丘奇的λ演算则是纯粹抽象的，其规则通过代入来组合抽象。二者都不涉及具体的值。"
+      ],
+      "en": [
+        "These systems seem particularly problematic for adherents of dialectical materialism. Schönfinkel’s and Curry’s combinatory logics are built from operators whose properties are defined by how they interact with other operators by eliminating or duplicating them. And Church’s λ calculus is one of pure abstraction, with rules for combining abstractions through substitution. Neither makes any reference to concrete values."
+      ]
+    },
+    {
+      "id": "dm-ch09-049",
+      "type": "paragraph",
+      "page": "191",
+      "zh": [
+        "不过，这些系统有一个关键性质：它们都能够表示逻辑和算术，因此都能把握希尔伯特纲领核心的定理与证明概念。这就是丘奇—图灵论题的根源：所有对数进行计算的系统都在如下意义上等价，即任一系统都能翻译成其他任一系统。换言之，没有什么能在一个系统中表达，却不能在其他系统中表达。"
+      ],
+      "en": [
+        "Nonetheless, a key property of these systems is that they are all capable of representing logic and arithmetic, so they can all capture the notions of theorem and proof at the heart of Hilbert’s programme. This is the root of the Church-Turing thesis: that all systems for performing calculations on numbers are equivalent in the sense that any may be translated into any other. That is, there is nothing that can be expressed in one system that cannot be expressed in any other system."
+      ]
+    },
+    {
+      "id": "dm-ch09-050",
+      "type": "paragraph",
+      "page": "191",
+      "zh": [
+        "递归函数论、λ演算和图灵机在提出后不久，就被证明相互等价。",
+        {
+          "type": "note",
+          "id": "dm-9-8"
+        },
+        "后来，人们证明它们与冯·诺伊曼机，即一般化的数字计算机等价，因而与任意编程语言等价。模拟计算和量子计算",
+        {
+          "type": "note",
+          "id": "dm-9-9"
+        },
+        "的形式化也被证明满足丘奇—图灵论题。"
+      ],
+      "en": [
+        "Recursive function theory, λ calculus and TMs were all demonstrated to be equivalent soon after they were developed.",
+        {
+          "type": "note",
+          "id": "dm-9-8"
+        },
+        " Subsequently, they were shown to be equivalent to von Neuman machines, that is, generalized digital computers, and, hence, to arbitrary programming languages. Formalizations of analogue computing, and of quantum computing,",
+        {
+          "type": "note",
+          "id": "dm-9-9"
+        },
+        " have also been shown to satisfy the Church-Turing thesis."
+      ]
+    },
+    {
+      "id": "dm-ch09-051",
+      "type": "paragraph",
+      "page": "191",
+      "zh": [
+        "请注意，这是一个推测性的论题，而不是能够证明的理论。我们不知道可能有多少种不同的等价系统。不过，它是可证伪的：某个新系统仍可能被证明具有不同于当前已知系统的性质，因而无法相互翻译。也就是说，丘奇—图灵论题可以作为经验性的常规科学的一部分接受实验研究。事实上，我们将在后文论证，它对于更广泛地理解现实具有核心意义。"
+      ],
+      "en": [
+        "Note that this is a speculative ",
+        {
+          "type": "em",
+          "children": [
+            "thesis"
+          ]
+        },
+        " not a provable ",
+        {
+          "type": "em",
+          "children": [
+            "theory"
+          ]
+        },
+        ". We do not know how many different equivalent systems there might be. Nonetheless, it is a falsifiable ",
+        {
+          "type": "em",
+          "children": [
+            "thesis"
+          ]
+        },
+        ", as it may yet be proved that some new system has different properties to those that are currently known, and so there is no mutual translation. That is, the Church-Turing ",
+        {
+          "type": "em",
+          "children": [
+            "thesis"
+          ]
+        },
+        " is subject to experimental investigation as part of empirical normal science. Indeed, we will argue subsequently that it is central to a wider understanding of reality."
+      ]
+    },
+    {
+      "id": "dm-ch09-052",
+      "type": "paragraph",
+      "page": "191",
+      "zh": [
+        "从根本上说，所有这些系统都能够实现计算。这在图灵机中十分明确：机器处理纸带上的数据。对于组合子和λ演算，指令与数据没有明显的区分，规则作用于公式，直到公式无法再简化。"
+      ],
+      "en": [
+        "At heart, all these systems enable computation. This is explicit in TMs, where the machine manipulates the data on the tape. For combinators and λ calculus, where there is no obvious separation of instructions and data, rules are applied to formula until they cannot be simplified any further."
+      ]
+    },
+    {
+      "id": "dm-ch09-053",
+      "type": "paragraph",
+      "page": "192",
+      "zh": [
+        "图灵机与其他形式体系的根本区别就在这里。一组图灵机指令是建造实际机器的蓝图；这种机器能像数字计算机一样，自主地处理其数据。相反，其他形式系统需要人或解释装置来执行规则。我们认为，这是支持图灵机在阐述唯物主义时具有首要地位的有力论据，后文还会讨论。"
+      ],
+      "en": [
+        "Herein lies the fundamental difference between TMs and other formalisms. A set of TM instructions is a blueprint for building an actual machine which, like a digital computer, will run autonomously on its data. In contrast, other formal systems require a human being, or an interpreting device, to carry out their rules. We think that this is a strong argument for the primacy of TMs in elaborating a materialism, and will return to this subsequently."
+      ]
+    },
+    {
+      "id": "dm-ch09-054",
+      "type": "subheading",
+      "page": "192",
+      "zh": [
+        "英国辩证唯物主义者的回应"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "British dialectical materialist responses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-055",
+      "type": "paragraph",
+      "page": "192",
+      "zh": [
+        "对辩证唯物主义者来说，哥德尔和图灵的成果进一步证明了没有辩证法的逻辑所具有的局限。1938年，",
+        {
+          "type": "note",
+          "id": "dm-9-10"
+        },
+        "共产主义数学家阿利斯特·沃森（1908—1982）",
+        {
+          "type": "note",
+          "id": "dm-9-11"
+        },
+        "撰文认为，一切悖论"
+      ],
+      "en": [
+        "For the dialectical materialists, Gödel’s and Turing’s results were further demonstrations of the limitations of logic without dialectics. Writing in 1938,",
+        {
+          "type": "note",
+          "id": "dm-9-10"
+        },
+        " the Communist mathematician Alister Watson (1908–82)",
+        {
+          "type": "note",
+          "id": "dm-9-11"
+        },
+        " thought that all the paradoxes"
+      ]
+    },
+    {
+      "id": "dm-ch09-056",
+      "type": "quote",
+      "page": "192",
+      "zh": [
+        "不过以这样或那样的方式表达了那种众所周知的困难：当我们试图把一个无限过程看作已经完成时，就会出现这种困难。（第450页）"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "merely express in one way or another the well-known difficulties which arise when we attempt to treat an infinite process as completed."
+          ]
+        },
+        " (p450)"
+      ]
+    },
+    {
+      "id": "dm-ch09-057",
+      "type": "paragraph",
+      "page": "192",
+      "zh": [
+        "沃森指的是亚里士多德对潜无限与实无限的区分。我们同意沃森：假定实无限存在，会使康托尔对角线法之类的方法成问题。不过，如果沃森把图灵机的纸带认作已完成的无限，那就错了。无论如何，图灵关于停机问题不可判定的结果，可以不依靠对角线法来确立。"
+      ],
+      "en": [
+        "Watson is referring to Aristotle’s distinction between potential and actualized infinity. We agree with Watson that the assumption of actualized infinities makes, for example, Cantor diagonalization problematic. However, Watson would be wrong to identify TM tapes as completed infinities. In any case, Turing’s result of the undecidability of the halting problem may be established without diagonalization."
+      ]
+    },
+    {
+      "id": "dm-ch09-058",
+      "type": "paragraph",
+      "page": "192",
+      "zh": [
+        "沃森对元数学的怀疑十分清楚："
+      ],
+      "en": [
+        "Watson’s scepticism about meta-mathematics is clear:"
+      ]
+    },
+    {
+      "id": "dm-ch09-059",
+      "type": "quote",
+      "page": "192",
+      "zh": [
+        "在数学基础这一领域，试图为抽象看待的数学论证辩护或加以否定的种种尝试，造成了大量混乱；人们付出极其巨大的劳动，才摆脱这些混乱。（第451页）"
+      ],
+      "en": [
+        "The attempts which have been made in the subject of the Foundations of Mathematics to justify or condemn mathematical arguments taken in the abstract, have given rise to a host of confusions, from which it has taken the most immense labour to escape. (p451)"
+      ]
+    },
+    {
+      "id": "dm-ch09-060",
+      "type": "paragraph",
+      "page": "192",
+      "zh": [
+        "他没有直接运用辩证唯物主义对形式逻辑的批判。不过，他在这段话的脚注中说，自己所反对的是戴德金的主张：数学基础不需要提及“可测量的量”。这令人想到马克思主义者对不从已知量导出的变量所持的反对意见。"
+      ],
+      "en": [
+        "He does not directly deploy the dialectical materialist critique of formal logic. However, in a footnote to this passage, he says that he was writing in opposition to Dedekind’s claim that the foundations of mathematics did not require any mention of ‘measurable quantities’. This is reminiscent of the Marxist objection to variables that are not derived from known quantities."
+      ]
+    },
+    {
+      "id": "dm-ch09-061",
+      "type": "paragraph",
+      "page": "192",
+      "zh": [
+        "1938年，进化生物学家J. B. S. 霍尔丹（1892—1964）在《马克思主义哲学与科学》",
+        {
+          "type": "note",
+          "id": "dm-9-12"
+        },
+        "中指出："
+      ],
+      "en": [
+        "In 1938, in ",
+        {
+          "type": "em",
+          "children": [
+            "The Marxist Philosophy and the Sciences"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-9-12"
+        },
+        " the evolutionary biologist J. B. S. Haldane (1892–1964) observed:"
+      ]
+    },
+    {
+      "id": "dm-ch09-062",
+      "type": "quote",
+      "page": "192",
+      "zh": [
+        "总体上，我们可以认为，马克思主义者对那些抱负更大的逻辑理论颇为怀疑。例如，只要能够作出足够清晰的分类，罗素和怀特海在《数学原理》中的体系无疑就是真的，或大体是真的。"
+      ],
+      "en": [
+        "On the whole we may take it that Marxists are rather sceptical of the more ambitious logical theories. For example, the system of Russell and Whitehead, in the ",
+        {
+          "type": "em",
+          "children": [
+            "Principia Mathematica"
+          ]
+        },
+        " is doubtless true, or largely true, if sufficiently sharp classification is possible."
+      ]
+    },
+    {
+      "id": "dm-ch09-063",
+      "type": "paragraph",
+      "page": "192–193",
+      "zh": [
+        "也就是说，这一逻辑系统的真假取决于能否建立按类排列的具体“存在物”“关系”和“命题”，从中再抽象出更多的类。不过，霍尔丹怀疑是否可能建立这样的本体论："
+      ],
+      "en": [
+        "That is, the truth or falsity of this logical system depends on the ability to elaborate concrete ‘existents’, ‘relations’ and ‘propositions’ arranged in classes, such that further classes may be abstracted. However, Haldane doubts the possibility of setting up such ontologies:"
+      ]
+    },
+    {
+      "id": "dm-ch09-064",
+      "type": "quote",
+      "page": "193",
+      "zh": [
+        "很可能，人们过分强调了某些逻辑系统；这些系统只适用于具有某些高度抽象性质的材料，而现实世界所体现的这些性质，远比逻辑学家愿意相信的更少见、更不完整。"
+      ],
+      "en": [
+        "it is probable that too great an emphasis has been attached to logical systems which will only work for material that has certain highly abstract properties, which are rather less frequently and much less completely exemplified in the real world than logicians would like to think."
+      ]
+    },
+    {
+      "id": "dm-ch09-065",
+      "type": "paragraph",
+      "page": "193",
+      "zh": [
+        "1939年，霍尔丹在《自然辩证法》英译本序言",
+        {
+          "type": "note",
+          "id": "dm-9-13"
+        },
+        "中，谈及数学家声称已消除了恩格斯六十年前指出的数学矛盾时写道："
+      ],
+      "en": [
+        "In 1939, in the Preface to the English translation of ",
+        {
+          "type": "em",
+          "children": [
+            "Dialectics of Nature"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-9-13"
+        },
+        " Haldane wrote of the mathematicians’ claims to have removed contradictions in mathematics, noted by Engels sixty years earlier:"
+      ]
+    },
+    {
+      "id": "dm-ch09-066",
+      "type": "quote",
+      "page": "193",
+      "zh": [
+        "实际上，他们只是把矛盾推到了后台，矛盾仍然存在于数理逻辑领域。不仅从一组公理及其应用规则推导全部数学的每一次努力都失败了，而且哥德尔还证明，这些努力必定失败。"
+      ],
+      "en": [
+        "Actually they have only pushed the contradictions into the background, where they remain in the field of mathematical logic. Not only has every effort to deduce all mathematics from a set of axioms, and rules for applying them, failed, but Gödel has proved that they must."
+      ]
+    },
+    {
+      "id": "dm-ch09-067",
+      "type": "paragraph",
+      "page": "193",
+      "zh": [
+        "这忽略了关键一点：哥德尔的结果虽然限定了能够证明什么，却没有告诉我们如何确立单个公式的性质。事实上，基于公理系统的自动化技术，正越来越多地适用于现实世界中的重要问题，例如数字计算机设计。"
+      ],
+      "en": [
+        "This is missing the key point that, while Gödel’s results circumscribe what can be proved, they tell us nothing about establishing properties of individual formula. Indeed, automated techniques based on axiomatic systems are proving increasingly applicable to substantial real-world problems, like digital computer design."
+      ]
+    },
+    {
+      "id": "dm-ch09-068",
+      "type": "paragraph",
+      "page": "193",
+      "zh": [
+        "与沃森一样，霍尔丹没有直接使用辩证唯物主义的语言。不过，与他评论哥德尔结果时一样，他暗示逻辑不足以把握具体现实，而这需要辩证法。"
+      ],
+      "en": [
+        "Like Watson, Haldane does not use the language of dialectical materialism directly. Nonetheless, his implication, as for his comments on Gödel’s results, is that logic is not adequate for concrete reality, for which dialectics is required."
+      ]
+    },
+    {
+      "id": "dm-ch09-069",
+      "type": "subheading",
+      "page": "193",
+      "zh": [
+        "孟什维克化的唯心主义之后的苏联逻辑学"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Soviet logic after Menshevizing Idealism"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-070",
+      "type": "paragraph",
+      "page": "193",
+      "zh": [
+        "20世纪30年代以来苏联数学的命运已有广泛记述，尽管并非总是冷静客观的，例如武西尼奇、",
+        {
+          "type": "note",
+          "id": "dm-9-14"
+        },
+        "洛伦兹、",
+        {
+          "type": "note",
+          "id": "dm-9-15"
+        },
+        "塞内塔",
+        {
+          "type": "note",
+          "id": "dm-9-16"
+        },
+        "和库塔特拉泽",
+        {
+          "type": "note",
+          "id": "dm-9-17"
+        },
+        "的著作。马蒂亚斯那篇标题耸动的《逻辑与恐怖》",
+        {
+          "type": "note",
+          "id": "dm-9-18"
+        },
+        "讨论了1950年以前的苏联逻辑学。阿内利斯",
+        {
+          "type": "note",
+          "id": "dm-9-19"
+        },
+        "批评马蒂亚斯依赖菲利波夫",
+        {
+          "type": "note",
+          "id": "dm-9-20"
+        },
+        "的“论战性且有偏见的叙述”。不过，马蒂亚斯仍引用了当时出版物中一些颇能说明问题的文字，虽然出处标注不充分："
+      ],
+      "en": [
+        "The fortunes of Soviet mathematics, from the 1930s onwards, have been widely documented, though not always dispassionately, for example, in Vucinich,",
+        {
+          "type": "note",
+          "id": "dm-9-14"
+        },
+        " Lorentz,",
+        {
+          "type": "note",
+          "id": "dm-9-15"
+        },
+        " Seneta",
+        {
+          "type": "note",
+          "id": "dm-9-16"
+        },
+        " and Kutateldze.",
+        {
+          "type": "note",
+          "id": "dm-9-17"
+        },
+        " Mathias’s egregiously titled ‘Logic and Terror’",
+        {
+          "type": "note",
+          "id": "dm-9-18"
+        },
+        " discusses Soviet logic to 1950. Anellis",
+        {
+          "type": "note",
+          "id": "dm-9-19"
+        },
+        " criticizes Mathias for relying on the ‘polemical and prejudiced account’ in Philipov.",
+        {
+          "type": "note",
+          "id": "dm-9-20"
+        },
+        " Nonetheless, Mathias contains telling, if poorly referenced, quotes from period publications:"
+      ]
+    },
+    {
+      "id": "dm-ch09-071",
+      "type": "quote",
+      "page": "193",
+      "zh": [
+        "形式逻辑始终是占统治地位的剥削阶级手中最可靠的武器。是宗教和蒙昧主义的堡垒。（引自1934年一部关于辩证唯物主义和历史唯物主义的著作）"
+      ],
+      "en": [
+        "Formal logic is always a most trustworthy weapon in the hands of the predominant exploiting classes. a bastion of religion and obscurantism. (from a 1934 work on Dialectical and Historical Materialism)"
+      ]
+    },
+    {
+      "id": "dm-ch09-072",
+      "type": "quote",
+      "page": "193",
+      "zh": [
+        "形式逻辑的规律与辩证逻辑的规律相对立。形式逻辑是空洞、贫乏、抽象的，因为它所建立的规律和范畴不符合客观现实。（《简明哲学词典》，1940）（第7页）"
+      ],
+      "en": [
+        "the laws of formal logic are opposed to the law of dialectical logic. formal logic is empty, poor, abstract, for the laws and categories which it sets up do not correspond to objective reality. (Concise philosophical Dictionary, 1940) (p7)"
+      ]
+    },
+    {
+      "id": "dm-ch09-073",
+      "type": "paragraph",
+      "page": "194",
+      "zh": [
+        "其中还包括1936年的《苏联大百科全书》（1936）："
+      ],
+      "en": [
+        "including the 1936 ",
+        {
+          "type": "em",
+          "children": [
+            "Large Soviet Encyclopedia"
+          ]
+        },
+        " (1936):"
+      ]
+    },
+    {
+      "id": "dm-ch09-074",
+      "type": "quote",
+      "page": "194",
+      "zh": [
+        "形式逻辑是一种形而上学的思维形式……是人类知识发展的最低阶段，被作为最高思维形式的辩证法所取代。"
+      ],
+      "en": [
+        "formal logic is a metaphysical form of thinking . . . the lowest stage in the development of human knowledge, replaced by dialectic as the highest form of thinking."
+      ]
+    },
+    {
+      "id": "dm-ch09-075",
+      "type": "quote",
+      "page": "194",
+      "zh": [
+        "正如我们所见，形式逻辑并非包含在辩证法中，而是被辩证法取代、驳斥和克服。"
+      ],
+      "en": [
+        "Formal logic, as we have seen, is not included in dialectic, but is displaced refuted and overcome by it."
+      ]
+    },
+    {
+      "id": "dm-ch09-076",
+      "type": "quote",
+      "page": "194",
+      "zh": [
+        "……全联盟共产党（VKP(b)）内的反列宁主义偏向。形式逻辑思维是孟什维主义的一个特征，列宁曾经多次指出；他对孟什维克的三段论和诡辩的形式逻辑推演，进行了毁灭性的辩证批判。（第7页）"
+      ],
+      "en": [
+        ". . . the anti-Leninist deviations in the All-Union Communist Party (VKP(b)). Formal logic thinking is a characteristic trait of Menshevism frequently noted by Lenin who levelled devastating dialectical criticisms at the Menshevik formal-logical deductions of syllogisms and sophisms. (p7)"
+      ]
+    },
+    {
+      "id": "dm-ch09-077",
+      "type": "paragraph",
+      "page": "194",
+      "zh": [
+        "虽然逻辑学的广泛研究受到限制，柯尔莫哥洛夫、亚诺夫斯卡娅等“红色专家”仍能研究和教授逻辑，并接触西方研究。例如，亚诺夫斯卡娅于1936年开始在莫斯科国立大学教授数理逻辑，1943年获任数理逻辑研讨班主任。",
+        {
+          "type": "note",
+          "id": "dm-9-21"
+        }
+      ],
+      "en": [
+        "While the broad study of logic was curtailed, ‘Red experts’ like Kolmogorov and Yanovskaya were still able to explore and teach logic, and had access to western research. For example, Yanovskaya started to teach mathematical logic in 1936 at Moscow State University and, in 1943, was appointed Director of the Seminar in Mathematical Logic.",
+        {
+          "type": "note",
+          "id": "dm-9-21"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-078",
+      "type": "paragraph",
+      "page": "194",
+      "zh": [
+        "第二次世界大战后，逻辑学在苏联的地位得到恢复，尽管围绕它与辩证法的关系仍有持续的激烈争论，下文将予讨论。"
+      ],
+      "en": [
+        "The fortunes of logic in the Soviet Union were restored after World War Two, though not without continued fierce dispute over its relationship to dialectics, as we shall discuss below."
+      ]
+    },
+    {
+      "id": "dm-ch09-079",
+      "type": "subheading",
+      "page": "194",
+      "zh": [
+        "数字计算机"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Digital computers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-080",
+      "type": "paragraph",
+      "page": "194",
+      "zh": [
+        "数字计算机的发展很可能被证明是20世纪的关键进展。可以肯定，没有它们，21世纪初的生活几乎难以想象。计算机史同样已有详尽记述。这里将非常简要地关注其中几个突出方面。"
+      ],
+      "en": [
+        "The key development of the twentieth century may well prove to have been that of digital computers. Certainly, early twenty-first-century life would be pretty well unthinkable without them. The history of computers is again thoroughly documented. Here, we will focus on salient aspects, albeit very briefly."
+      ]
+    },
+    {
+      "id": "dm-ch09-081",
+      "type": "paragraph",
+      "page": "194",
+      "zh": [
+        "第二次世界大战造成空前的大规模残酷杀戮与贫困，也加速了现代计算机的发展。",
+        {
+          "type": "note",
+          "id": "dm-9-22"
+        },
+        "哈佛Mark 1由霍华德·艾肯（1900—1973）于1937年设计，IBM以自动顺序控制计算器（ASCC）的名称建造，于1944年首次运行。它是机电式的，能存储数据，却不能存储程序。",
+        {
+          "type": "note",
+          "id": "dm-9-23"
+        },
+        "指令编码在穿孔纸带上，控制线性排列的操作序列。循环程序靠重复纸带实现，分支靠更换纸带实现。约翰·冯·诺伊曼（1903—1957）曾用Mark 1为研制最初原子弹的曼哈顿计划进行计算。"
+      ],
+      "en": [
+        "The Second World War, unprecedented in mass cruelty and immiseration, hastened the development of modern computers.",
+        {
+          "type": "note",
+          "id": "dm-9-22"
+        },
+        " The Harvard Mark 1, built by IBM as the Automatic Sequence Controlled Calculator (ASCC), was designed by Howard Aitken (1900–73) in 1937, and first ran in 1944. It was electro-mechanical and could store data, but lacked the capability to store programs.",
+        {
+          "type": "note",
+          "id": "dm-9-23"
+        },
+        " Instructions were encoded on punched paper tape to control a linear sequence of operations. Looping programs were accomplished by repeating the tape, and branching by changing tapes. The Mark 1 was used by John von Neumann (1903– 57) to perform calculations for the Manhattan Project, developing the first atomic bombs."
+      ]
+    },
+    {
+      "id": "dm-ch09-082",
+      "type": "paragraph",
+      "page": "194",
+      "zh": [
+        "电子数字积分计算机（ENIAC）是最早的全电子通用计算机之一，于1945年完成。它比哈佛Mark 1快得多，通过将部件按适当配置插接起来进行编程。ENIAC的用途包括为最初的氢弹进行计算。"
+      ],
+      "en": [
+        "The Electronic Numerical Integrator and Computer (ENIAC), among the first all electronic general-purpose computers, was completed in 1945. Much faster than the Harvard Mark 1, it was programmed by plugging components together in appropriate configurations. ENIAC was used, among other things, in the calculations for the first hydrogen bombs."
+      ]
+    },
+    {
+      "id": "dm-ch09-083",
+      "type": "paragraph",
+      "page": "195",
+      "zh": [
+        "冯·诺伊曼在1925年的博士研究中从事集合论，并于20世纪30年代初与哥德尔交流不完备性结果。他深受图灵关于通用图灵机的思想影响：数据与指令共用同一存储器。他把这一现在称为冯·诺伊曼架构的设计，纳入影响深远的《EDVAC报告初稿》。",
+        {
+          "type": "note",
+          "id": "dm-9-24"
+        },
+        {
+          "type": "note",
+          "id": "dm-9-25"
+        },
+        "这份报告自由流传，影响了世界各地早期数字计算机的发展。到世纪中叶，已有许多公司开发和销售冯·诺伊曼架构的计算机，尤其是在美国和英国。"
+      ],
+      "en": [
+        "von Neumann had worked on set theory for his 1925 PhD, and had communicated with Gödel in the early 1930s about the incompleteness results. Strongly influenced by Turing’s ideas about the UTM, where data and instructions share the same memory, von Neumann included this design, now known as the von Neumann architecture, in the highly influential ",
+        {
+          "type": "em",
+          "children": [
+            "First Draft of a Report on the EDVAC."
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-9-24"
+        },
+        {
+          "type": "note",
+          "id": "dm-9-25"
+        },
+        " The report was circulated freely, influencing early digital computer development worldwide. Mid-century, there were numerous firms developing and selling von Neumann architecture computers, particularly in the USA and the UK."
+      ]
+    },
+    {
+      "id": "dm-ch09-084",
+      "type": "paragraph",
+      "page": "195",
+      "zh": [
+        "因此，尽管辩证唯物主义者和西欧哲学家都把希尔伯特纲领的失败视为对数学能力范围的限制，这一纲领仍产生了深远而持久的影响。此外，数理逻辑学家在20世纪30年代发展的形式体系，尤其是递归函数论和λ演算，长期以来一直是实用编程语言语义和设计的基础。"
+      ],
+      "en": [
+        "Thus, while dialectical materialists, and Western European philosophers alike, saw the failure of Hilbert’s programme as limiting the reach of mathematics, nonetheless it had profound and very long-lasting influences. Furthermore, the 1930s formalisms developed by mathematical logicians, especially recursive function theory and λ calculus, have long been the basis of the semantics, and the design, of practical programming languages."
+      ]
+    },
+    {
+      "id": "dm-ch09-085",
+      "type": "subheading",
+      "page": "195",
+      "zh": [
+        "控制论"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Cybernetics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-086",
+      "type": "paragraph",
+      "page": "195",
+      "zh": [
+        "控制论研究“动物和机器中的控制与通信”，是二战后与计算机发展并行的一个重要研究领域。诺伯特·维纳（1894—1964）影响深远的著作",
+        {
+          "type": "note",
+          "id": "dm-9-26"
+        },
+        "阐述了其关键原理，借助信息论、统计力学和巴甫洛夫的行为心理学，说明机器如何通过反馈来学习，并根据观察到的结果优化活动。"
+      ],
+      "en": [
+        "Cybernetics, the study of ‘control and communication in the animal and the machine’, was an area of major activity after WW2, alongside the development of computers. Norbert Wiener’s (1894–1964) highly influential book",
+        {
+          "type": "note",
+          "id": "dm-9-26"
+        },
+        " set out the key principles, drawing on information theory, statistical mechanics and Pavlovian behavioural psychology to elaborate on how machines might learn through feedback to optimize activities against observed outcomes."
+      ]
+    },
+    {
+      "id": "dm-ch09-087",
+      "type": "paragraph",
+      "page": "195",
+      "zh": [
+        "与图灵一样，维纳的工作以对人类行为的抽象为基础，但侧重神经系统层面，而非高级认知。他观察到，在需要不断预测未来行为的活动中，例如操纵航行器或追踪移动目标，反馈对调节活动十分重要，而且这种调节是自主进行的（第6—8页）。维纳也承认数理逻辑对控制论的强大影响。他指出，无论对形式主义者还是直觉主义者而言："
+      ],
+      "en": [
+        "Like Turing’s, Wiener’s work was based on abstracting from human behaviour, but at the level of the nervous system rather than higher cognition. Wiener observed the importance of feedback in governing activity that involved continuously predicting future behaviour, for example, in steering a craft, or following a moving target, and that this was carried out autonomously (pp6–8). Wiener also acknowledged the strong influence of mathematical logic on cybernetics. He observes that, for both formalists and intuitionists:"
+      ]
+    },
+    {
+      "id": "dm-ch09-088",
+      "type": "quote",
+      "page": "195",
+      "zh": [
+        "数理逻辑理论的发展，受到的约束与限制计算机器性能的约束属于同一种类。正如下文将看到的，甚至康托尔悖论和罗素悖论也可以这样解释。（第13页）"
+      ],
+      "en": [
+        "the development of a mathematico-logical theory is subject to the same sort of restrictions as those that limit the performance of a computing machine. As we shall see later, it is even possible to interpret in this way the paradoxes of Cantor and of Russell. (p13)"
+      ]
+    },
+    {
+      "id": "dm-ch09-089",
+      "type": "paragraph",
+      "page": "195",
+      "zh": [
+        "也就是说，维纳认为，这些悖论限制的是一般的人类推理，而不只是数学，因为大脑就是机器。他引用图灵写道："
+      ],
+      "en": [
+        "That is, Wiener saw the paradoxes as limiting human reasoning in general, not just mathematics, because brains are machines. Citing Turing, he wrote:"
+      ]
+    },
+    {
+      "id": "dm-ch09-090",
+      "type": "quote",
+      "page": "195",
+      "zh": [
+        "逻辑研究必须归结为逻辑机器的研究，无论它是神经性的还是机械性的，都必须包括它所有不可消除的局限和缺陷。（第125页）"
+      ],
+      "en": [
+        "the study of logic must reduce to the study of the logical machine, whether nervous or mechanical, with all its non-removable limitations and imperfections. (p125)"
+      ]
+    },
+    {
+      "id": "dm-ch09-091",
+      "type": "paragraph",
+      "page": "196",
+      "zh": [
+        "然而，维纳认为信息既不是物质，也不是能量。因此，我们强烈反对他的如下主张："
+      ],
+      "en": [
+        "Nonetheless, Wiener saw information as neither matter nor energy. Hence, we strongly contest his claim that:"
+      ]
+    },
+    {
+      "id": "dm-ch09-092",
+      "type": "quote",
+      "page": "196",
+      "zh": [
+        "任何不承认这一点的唯物主义，在今天都不可能生存。（第132页）"
+      ],
+      "en": [
+        "No materialism which does not admit this can survive at the present day. (p132)"
+      ]
+    },
+    {
+      "id": "dm-ch09-093",
+      "type": "paragraph",
+      "page": "196",
+      "zh": [
+        "因为信息必须具有物质载体。"
+      ],
+      "en": [
+        "because information must be embodied."
+      ]
+    },
+    {
+      "id": "dm-ch09-094",
+      "type": "paragraph",
+      "page": "196",
+      "zh": [
+        "维纳充分意识到控制论和计算的社会影响。他认为："
+      ],
+      "en": [
+        "Wiener was well aware of the social implications of cybernetics and computing. He thought that:"
+      ]
+    },
+    {
+      "id": "dm-ch09-095",
+      "type": "quote",
+      "page": "196",
+      "zh": [
+        "现代工业革命……必定使人脑贬值，至少在那些较简单、较例行的决策方面如此。（第27页）"
+      ],
+      "en": [
+        "The modern industrial revolution is . . . bound to devalue the human brain, at least in its simpler and more routine decisions. (p27)"
+      ]
+    },
+    {
+      "id": "dm-ch09-096",
+      "type": "paragraph",
+      "page": "196",
+      "zh": [
+        "然而，正如格罗维奇",
+        {
+          "type": "note",
+          "id": "dm-9-27"
+        },
+        "所述，意识形态上对控制论的反对，成为苏联计算机发展的重大障碍。要说明这一点，我们需要作一个看似偏离主题的转折，考察苏联关于语言学的思想。"
+      ],
+      "en": [
+        "However, ideological objections to cybernetics proved a major barrier to the development of Soviet computers, as Gerovitch",
+        {
+          "type": "note",
+          "id": "dm-9-27"
+        },
+        " recounts. To clarify this, we need to make an apparent segue sideways, and consider Soviet thinking about linguistics"
+      ]
+    },
+    {
+      "id": "dm-ch09-097",
+      "type": "subheading",
+      "page": "196",
+      "zh": [
+        "语言学"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Linguistics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-098",
+      "type": "paragraph",
+      "page": "196",
+      "zh": [
+        "在19世纪的大部分时间里，语文学主导语言学研究。它通过识别不同语言词语中的共同词根，来追溯语言的起源。这些研究中的许多，因着意确立当代民族群体在历史上的先在地位而受到扭曲。"
+      ],
+      "en": [
+        "For much of the nineteenth century, philology dominated linguistics. This sought to trace languages back to their origins by identifying common roots in words from different languages. Much of this work was distorted by concerns with establishing the historical primacy of contemporary national groupings."
+      ]
+    },
+    {
+      "id": "dm-ch09-099",
+      "type": "paragraph",
+      "page": "196",
+      "zh": [
+        "现代语言学由费迪南·德·索绪尔（1857—1913）奠基。他身后出版的《普通语言学教程》",
+        {
+          "type": "note",
+          "id": "dm-9-28"
+        },
+        "于1916年问世。索绪尔区分语言（langue）与言语（parole）："
+      ],
+      "en": [
+        "Modern linguistics was founded by Ferdinand de Saussure (1857–1913), whose posthumous ",
+        {
+          "type": "em",
+          "children": [
+            "Cours de linguistique générale"
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-9-28"
+        },
+        " was published in 1916. Saussure distinguished between language (",
+        {
+          "type": "em",
+          "children": [
+            "langue"
+          ]
+        },
+        ") and speaking (",
+        {
+          "type": "em",
+          "children": [
+            "parole"
+          ]
+        },
+        "):"
+      ]
+    },
+    {
+      "id": "dm-ch09-100",
+      "type": "quote",
+      "page": "196",
+      "zh": [
+        "把（1）社会性的与个人性的分开；（2）本质的与附属的、多少带有偶然性的分开。（第14页）"
+      ],
+      "en": [
+        "separating: (1) what is social from what is individual; and (2) what is essential from what is accessory and more or less accidental. (p14)"
+      ]
+    },
+    {
+      "id": "dm-ch09-101",
+      "type": "paragraph",
+      "page": "196",
+      "zh": [
+        "索绪尔进一步区分了两种情况：同时代的人使用相对不变的语言；以及随着使用者和用法改变，语言如何在时间中发生变化："
+      ],
+      "en": [
+        "Saussure further distinguished the use of a relatively unchanging language by contemporary speakers from how language changes in time as users and usages changes:"
+      ]
+    },
+    {
+      "id": "dm-ch09-102",
+      "type": "quote",
+      "page": "196",
+      "zh": [
+        "凡与我们这门科学的静态方面有关的，都是共时的；凡与演变有关的，都是历时的。同样，共时性和历时性分别指语言的某种状态和某个演变阶段。（第81页）"
+      ],
+      "en": [
+        "Everything that relates to the static side of our science is synchronic; everything that has to do with evolution is diachronic. Similarly, ",
+        {
+          "type": "em",
+          "children": [
+            "synchrony"
+          ]
+        },
+        " and ",
+        {
+          "type": "em",
+          "children": [
+            "diachrony"
+          ]
+        },
+        " designate respectively a language-state and an evolutionary phase. (p81)"
+      ]
+    },
+    {
+      "id": "dm-ch09-103",
+      "type": "paragraph",
+      "page": "196",
+      "zh": [
+        "与语文学家不同，索绪尔认为，历时研究对于理解语言用处不大。他把语言学视为范围更广的符号学的一个组成部分："
+      ],
+      "en": [
+        "Unlike the philologists, Saussure thought diachrony as of little use for understanding language. Rather, he saw linguistics as a component of a wider semiology:"
+      ]
+    },
+    {
+      "id": "dm-ch09-104",
+      "type": "quote",
+      "page": "196",
+      "zh": [
+        "可以设想一门研究符号在社会中生活的科学；它应是社会心理学的一部分，因而也是普通心理学的一部分。我将称之为符号学（semiology，来自希腊语sēmeîon，意为“符号”）。（第16页）"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "A science that studies the life of signs within society"
+          ]
+        },
+        " is conceivable; it would be a part of social psychology and consequently of general psychology; I shall call it ",
+        {
+          "type": "em",
+          "children": [
+            "semiology"
+          ]
+        },
+        " (from Greek ",
+        {
+          "type": "em",
+          "children": [
+            "sēmeîon"
+          ]
+        },
+        " ‘sign’). (p16)"
+      ]
+    },
+    {
+      "id": "dm-ch09-105",
+      "type": "paragraph",
+      "page": "197",
+      "zh": [
+        "索绪尔特别关心符号如何将能指——进行指示的东西——与所指——被指示的东西，即概念或观念——结合起来。他倾向于用“符号”（sign）而非“象征”（symbol）这个词，因为符号是任意的，象征则根据其所暗示的内容来选定（第68页）。请注意，索绪尔主要关心系统中符号之间的关系，而不是语义本身；他认为意义的改变涉及“所指与能指之间关系的转移”（第75页）。"
+      ],
+      "en": [
+        "Sussure was particularly concerned with how ",
+        {
+          "type": "em",
+          "children": [
+            "signs"
+          ]
+        },
+        " combine a ",
+        {
+          "type": "em",
+          "children": [
+            "signifier"
+          ]
+        },
+        ", that which points, and the ",
+        {
+          "type": "em",
+          "children": [
+            "signified"
+          ]
+        },
+        ", that which is pointed at, i.e., a concept or idea. Saussure prefered the term ‘sign’ to ‘symbol’, as ",
+        {
+          "type": "em",
+          "children": [
+            "signs"
+          ]
+        },
+        " are arbitrary, where symbols are chosen for what they suggest (p68). Note that Saussure was primarily concerned with relations between ",
+        {
+          "type": "em",
+          "children": [
+            "signs"
+          ]
+        },
+        " in systems, not with semantics in itself, seeing changes in meaning as involving ‘",
+        {
+          "type": "em",
+          "children": [
+            "a shift in the relationship between the signified and the signifier"
+          ]
+        },
+        "’ (p75)"
+      ]
+    },
+    {
+      "id": "dm-ch09-106",
+      "type": "paragraph",
+      "page": "197",
+      "zh": [
+        "最后，索绪尔暗示了语言活动与计算之间的关系，第10章将予讨论："
+      ],
+      "en": [
+        "Finally, Saussure hinted at the relationship between linguistic activity and computation, discussed in Chapter 10:"
+      ]
+    },
+    {
+      "id": "dm-ch09-107",
+      "type": "quote",
+      "page": "197",
+      "zh": [
+        "语言的机制由接续各项的相互作用构成，类似机器的运转：其中的部件尽管排列在一个维度上，却具有彼此作用的功能。（第128页）"
+      ],
+      "en": [
+        "The mechanism of language, which consists of the interplay of successive terms, resembles the operation of a machine in which the parts have a reciprocating function even though they are arranged in a single dimension. (p128)"
+      ]
+    },
+    {
+      "id": "dm-ch09-108",
+      "type": "paragraph",
+      "page": "197",
+      "zh": [
+        "苏联语言学家瓦连京·沃洛希诺夫（1895—1936）试图在1929年的《马克思主义与语言哲学》",
+        {
+          "type": "note",
+          "id": "dm-9-29"
+        },
+        "中，发展一种研究语言的辩证方法。沃洛希诺夫把洪堡学派",
+        {
+          "type": "note",
+          "id": "dm-9-30"
+        },
+        "的个人主义主观主义与索绪尔的抽象客观主义相对置（第48页）。他拒斥索绪尔的抽象，把语言认定为完全社会性的东西，即由相互交往的说话者产生的（第98页）。因此，沃洛希诺夫将主题，即语义，视为理解的核心（第99页及以下）。"
+      ],
+      "en": [
+        "The Soviet linguist Valentin Vološinov (1895–1936) sought to develop a dialectical approach to language in ",
+        {
+          "type": "em",
+          "children": [
+            "Marxism and the Philosophy of Language"
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-9-29"
+        },
+        " from 1929. Vološinov counterpoised the ",
+        {
+          "type": "em",
+          "children": [
+            "individualistic subjectivism"
+          ]
+        },
+        " of the Humboldt school,",
+        {
+          "type": "note",
+          "id": "dm-9-30"
+        },
+        " to the ",
+        {
+          "type": "em",
+          "children": [
+            "abstract objectivism"
+          ]
+        },
+        " of Saussure (p48). Vološinov rejected Saussure’s abstraction, identifying language as entirely sociological, that is produced by interacting speakers (p98). Thus, Vološinov saw ",
+        {
+          "type": "em",
+          "children": [
+            "themes"
+          ]
+        },
+        ", that is semantics, as central to understanding (p99ff)."
+      ]
+    },
+    {
+      "id": "dm-ch09-109",
+      "type": "paragraph",
+      "page": "197",
+      "zh": [
+        "对沃洛希诺夫而言，语言是厘清马克思主义中基础与上层建筑关系问题的关键；基础即物质条件，上层建筑即社会形式（第18页及以下）。意识形态由基础决定，而词语在基础与上层建筑之间起中介作用。"
+      ],
+      "en": [
+        "For Vološinov, language was key to disentangling the Marxist problematic of the relationship between base, that is, material conditions, and superstructure, that is, social forms (pp18ff). Ideology is determined by the base, with the word mediating between base and superstructure."
+      ]
+    },
+    {
+      "id": "dm-ch09-110",
+      "type": "paragraph",
+      "page": "197",
+      "zh": [
+        "沃洛希诺夫认为，物化于言语中的语言具有首要地位。主题承载意识形态，符号具有“社会多重重音性”（第23页）。词语的评价性重音由表达性语调决定（第103页）。语调及其解释方式也反映说话者与听者的阶级取向。因此，“符号成为阶级斗争的场所”（第23页），在这里："
+      ],
+      "en": [
+        "Vološinov saw language materialized in speech as primary. Themes bear ideology, and signs have ‘social ",
+        {
+          "type": "em",
+          "children": [
+            "multiaccentuality"
+          ]
+        },
+        "’ (p23). Words have ",
+        {
+          "type": "em",
+          "children": [
+            "evaluative accent"
+          ]
+        },
+        " determined by ",
+        {
+          "type": "em",
+          "children": [
+            "expressive intonation"
+          ]
+        },
+        " (p103). The intonation, and how it is interpreted, also reflect the class orientations of speakers and listeners. Thus, ‘Sign becomes an arena of class struggle’ (p23), where:"
+      ]
+    },
+    {
+      "id": "dm-ch09-111",
+      "type": "quote",
+      "page": "197",
+      "zh": [
+        "统治阶级力图赋予意识形态符号一种超阶级的、永恒的性质，消灭符号内部社会价值判断之间的斗争，或者把这种斗争压入内部，使符号只有单一重音。（第23页）"
+      ],
+      "en": [
+        "The ruling class strives to impart a supraclass, eternal character to the ideological sign, to extinguish or drive inward the struggle between social value judgements which occurs in it, to make the sign uniaccentual. (p23)"
+      ]
+    },
+    {
+      "id": "dm-ch09-112",
+      "type": "paragraph",
+      "page": "197",
+      "zh": [
+        "沃洛希诺夫赞同地引用同时代的尼古拉·马尔（1864—1934），断言“语言学是语文学的产物”。二人都批评传统语文学把话语当作脱离动态言语交往的独白来研究（第72页），但都认为可以在物质文化的背景中追溯语言的起源。"
+      ],
+      "en": [
+        "Vološinov approvingly cites his contemporary Nikolai Marr (1864–1934) in asserting that ‘linguistics is the child of philology’. Both criticized traditional philology for focusing on utterances as monologues separated from dynamic verbal interactions (p72), but both thought it possible to derive the origins of languages in the contexts of material cultures."
+      ]
+    },
+    {
+      "id": "dm-ch09-113",
+      "type": "paragraph",
+      "page": "197",
+      "zh": [
+        "不过，与沃洛希诺夫不同，马尔认为不存在无阶级的语言。马泰卡",
+        {
+          "type": "note",
+          "id": "dm-9-31"
+        },
+        "将沃洛希诺夫失势归因于这一分歧（第173页）。"
+      ],
+      "en": [
+        "However, unlike Vološinov, Marr thought that no language could be classless. Matejka",
+        {
+          "type": "note",
+          "id": "dm-9-31"
+        },
+        " attributes Vološiinov’s fall from favour to this difference (p173)."
+      ]
+    },
+    {
+      "id": "dm-ch09-114",
+      "type": "paragraph",
+      "page": "197",
+      "zh": [
+        "马尔也拒斥形式逻辑，认为它以阶级为基础："
+      ],
+      "en": [
+        "Marr also rejected formal logic as class based:"
+      ]
+    },
+    {
+      "id": "dm-ch09-115",
+      "type": "quote",
+      "page": "198",
+      "zh": [
+        "形式逻辑是阶级思维的产物，它连同创造它的阶级，被无产阶级的辩证唯物主义思维一扫而去；在这种思维中，思想取得了凌驾于语言之上的地位。（转引自马蒂亚斯",
+        {
+          "type": "note",
+          "id": "dm-9-32"
+        },
+        "）"
+      ],
+      "en": [
+        "Formal logic, a product of class thinking, together with the class that created it, is swept away by the dialectical materialist thinking of the proletariat in which thought gains ascendancy over language. (cited in Mathias",
+        {
+          "type": "note",
+          "id": "dm-9-32"
+        },
+        ")"
+      ]
+    },
+    {
+      "id": "dm-ch09-116",
+      "type": "paragraph",
+      "page": "198",
+      "zh": [
+        "直到1950年，马尔一直是苏联最受推崇的语言学家。"
+      ],
+      "en": [
+        "Marr was the preferred Soviet linguistic until 1950."
+      ]
+    },
+    {
+      "id": "dm-ch09-117",
+      "type": "subheading",
+      "page": "198",
+      "zh": [
+        "苏联逻辑学的复兴"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "The revival of Soviet logic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-118",
+      "type": "paragraph",
+      "page": "198",
+      "zh": [
+        "1945年美国引爆三枚原子弹，从根本上改变了苏联科学工作的优先次序，削弱了意识形态，尤其是反形式主义，在政策中的支配地位。"
+      ],
+      "en": [
+        "The detonation of three atomic bombs by the USA in 1945 radically changed Soviet priorities in science and weakened the dominance of ideology in policy, in particular anti-formalism."
+      ]
+    },
+    {
+      "id": "dm-ch09-119",
+      "type": "paragraph",
+      "page": "198",
+      "zh": [
+        "1945年8月，苏联成立两个机构来管理原子弹研发。",
+        {
+          "type": "note",
+          "id": "dm-9-33"
+        },
+        "（第131页）苏联第一个计算机项目于1946年在基辅启动，由谢尔盖·列别杰夫（1902—1974）领导，MESM于1950年投入运行。然而，维纳的著作",
+        {
+          "type": "note",
+          "id": "dm-9-34"
+        },
+        "出版后，一场反控制论运动展开了，理由是控制论属于资本主义创新，旨在削弱工人阶级组织，最终完全取代工人，使他们陷于赤贫。",
+        {
+          "type": "note",
+          "id": "dm-9-35"
+        },
+        "（第128页）这表明，这些意识形态家对马克思主义经济学，以及活劳动在资本主义剩余价值生产中的核心作用，了解甚少。在马克思的体系中，利润来自人的活动，而非机器。而且，正如乌斯丁",
+        {
+          "type": "note",
+          "id": "dm-9-36"
+        },
+        "所述，苏联军方迅速采用控制论，并“将意识形态考虑放到一边”（第312页）。"
+      ],
+      "en": [
+        "Two Soviet agencies were set up in August 1945 to manage Soviet atomic bomb development",
+        {
+          "type": "note",
+          "id": "dm-9-33"
+        },
+        " (p131). The first Soviet computer project began in Kiev in 1946, directed by Sergey Lebedev (1902–74), and the MESM became operational in 1950. However, after the publication of Wiener’s book,",
+        {
+          "type": "note",
+          "id": "dm-9-34"
+        },
+        " a campaign against cybernetics was mounted on the grounds that it was a capitalist innovation to weaken working-class organization and, ultimately, entirely supplant workers who would be left destitute",
+        {
+          "type": "note",
+          "id": "dm-9-35"
+        },
+        " (p128). This suggests that the ideologues had little grasp of Marxist economics, and the central role of living labour in the production of surplus value under capitalism. In Marx’s scheme, profits derive from human activity, not machines. And, as Usdin",
+        {
+          "type": "note",
+          "id": "dm-9-36"
+        },
+        " notes, the Soviet military was quick to deploy cybernetics and ‘push ideological considerations aside’ (p312)."
+      ]
+    },
+    {
+      "id": "dm-ch09-120",
+      "type": "paragraph",
+      "page": "198",
+      "zh": [
+        "尽管如此，计算机仍不得不被称为“数学机器”，以避开针对控制论的审查。",
+        {
+          "type": "note",
+          "id": "dm-9-37"
+        },
+        "人们明确区分两者：用控制论模拟人类行为不可接受，而用计算机进行计算和自动化则可以。把计算机类比于人脑被视为“荒谬”。",
+        {
+          "type": "note",
+          "id": "dm-9-38"
+        },
+        "（第142—143页）对唯物主义来说，这一立场似乎完全是一种倒退。如果人不只是机器，那么人的额外特性就必然来自非物质的属性。"
+      ],
+      "en": [
+        "Nonetheless, computers had to be presented as ‘mathematical machines’ to evade cybernetic scrutiny.",
+        {
+          "type": "note",
+          "id": "dm-9-37"
+        },
+        " A clear distinction was made between the unacceptable use of cybernetics to model human behaviour and the use of computers for calculations and automation. Analogies between computers and human brains were deemed ‘absurd’",
+        {
+          "type": "note",
+          "id": "dm-9-38"
+        },
+        " (p142–3). This stance seems entirely retrogressive for materialism. If humans are more than machines, then their additional qualities must derive from non-corporeal properties."
+      ]
+    },
+    {
+      "id": "dm-ch09-121",
+      "type": "paragraph",
+      "page": "198",
+      "zh": [
+        "回到逻辑学，苏联教育中的变化来得很快。1946年苏共（布）中央委员会的一项指令，",
+        {
+          "type": "note",
+          "id": "dm-9-39"
+        },
+        "由坎贝尔",
+        {
+          "type": "note",
+          "id": "dm-9-40"
+        },
+        "引述，指出"
+      ],
+      "en": [
+        "Returning to logic, change came quickly in Soviet education. A 1946 CPSU(B) Central Committee directive,",
+        {
+          "type": "note",
+          "id": "dm-9-39"
+        },
+        " cited by Campbell,",
+        {
+          "type": "note",
+          "id": "dm-9-40"
+        },
+        " noted that it was:"
+      ]
+    },
+    {
+      "id": "dm-ch09-122",
+      "type": "quote",
+      "page": "198",
+      "zh": [
+        "中学不教授逻辑学和心理学，是很不恰当的。（第343页）"
+      ],
+      "en": [
+        "quite improper that logic and psychology are not taught in secondary schools. (p343)"
+      ]
+    },
+    {
+      "id": "dm-ch09-123",
+      "type": "paragraph",
+      "page": "198",
+      "zh": [
+        "并制定了开设这些课程的计划，配以资源。马蒂亚斯",
+        {
+          "type": "note",
+          "id": "dm-9-41"
+        },
+        "因此叙述，切尔帕诺夫1918年版的《逻辑学教科书》于1946年重印，随后出版了斯特罗戈维奇的《逻辑学》、阿斯穆斯的一部新教科书，以及斯特罗戈维奇著作的又一版（第8页）。"
+      ],
+      "en": [
+        "and set out plans, with resources, for their introduction. Thus, Mathias",
+        {
+          "type": "note",
+          "id": "dm-9-41"
+        },
+        " recounts how a 1918 edition of Chelapanov’s ",
+        {
+          "type": "em",
+          "children": [
+            "Textbook of Logic"
+          ]
+        },
+        " was republished in 1946, followed by Strogovich’s ",
+        {
+          "type": "em",
+          "children": [
+            "Logic"
+          ]
+        },
+        ", a new textbook by Asmus, and a further edition of Strogovich (p8)."
+      ]
+    },
+    {
+      "id": "dm-ch09-124",
+      "type": "paragraph",
+      "page": "198–199",
+      "zh": [
+        "洛伦兹",
+        {
+          "type": "note",
+          "id": "dm-9-42"
+        },
+        "指出，继李森科在遗传学上取得所谓成就之后，1948年曾有人推动苏联更广泛的科学工作系统地服从“科学具有阶级性”这一观念。然而，数学和物理学方面的计划被原子导弹项目负责人贝利亚叫停，因为“有影响力的物理学家向他解释，这可能损害这些项目”（第217—218页）。"
+      ],
+      "en": [
+        "Lorentz",
+        {
+          "type": "note",
+          "id": "dm-9-42"
+        },
+        " observes that, following Lysenko’s alleged achievements in genetics, there were moves in 1948 to systematically align wider Soviet science with the notion that science had a class character. However, the plans for mathematics and physics were halted by Beria, the chief of Atomic Missile Projects, after ‘influential physicists explained to him that this may damage these projects’ (p217–8)."
+      ]
+    },
+    {
+      "id": "dm-ch09-125",
+      "type": "paragraph",
+      "page": "199",
+      "zh": [
+        "1952年，坎贝尔",
+        {
+          "type": "note",
+          "id": "dm-9-43"
+        },
+        "指出，苏联逻辑教育面临着如何调和“资产阶级”逻辑与辩证逻辑的问题。他概述奥斯马科夫",
+        {
+          "type": "note",
+          "id": "dm-9-44"
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-9-45"
+        },
+        "1950年的一篇文章，认为其主张是："
+      ],
+      "en": [
+        "In 1952, Campbell",
+        {
+          "type": "note",
+          "id": "dm-9-43"
+        },
+        " noted the problems for Soviet logic education of squaring ‘bourgoise’ logic with dialectical logic. He summarizes a 1950 article by Osmakov",
+        {
+          "type": "note",
+          "id": "dm-9-44"
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-9-45"
+        },
+        " as arguing that:"
+      ]
+    },
+    {
+      "id": "dm-ch09-126",
+      "type": "quote",
+      "page": "199",
+      "zh": [
+        "与世界观不同，思维逻辑是一种无阶级的现象。（第281页）"
+      ],
+      "en": [
+        "Unlike a world outlook, the logic of thinking is a ",
+        {
+          "type": "em",
+          "children": [
+            "classless"
+          ]
+        },
+        " phenomenon. (p281)"
+      ]
+    },
+    {
+      "id": "dm-ch09-127",
+      "type": "paragraph",
+      "page": "199",
+      "zh": [
+        "此外，还有一句令人强烈联想到亚里士多德的表述："
+      ],
+      "en": [
+        "Further, in a formulation strongly reminiscent of Aristotle:"
+      ]
+    },
+    {
+      "id": "dm-ch09-128",
+      "type": "quote",
+      "page": "199",
+      "zh": [
+        "思维逻辑据以进行的概念，对客观现实反映得好或不好，取决于思考者的意识形态或世界观。（第282页）"
+      ],
+      "en": [
+        "The concepts on the basis of which the logic of thinking proceeds reflect objective reality well or badly according to the ideology or world view of the thinker. (p282)"
+      ]
+    },
+    {
+      "id": "dm-ch09-129",
+      "type": "paragraph",
+      "page": "199",
+      "zh": [
+        "巴扎诺夫",
+        {
+          "type": "note",
+          "id": "dm-9-46"
+        },
+        "和基拉科斯",
+        {
+          "type": "note",
+          "id": "dm-9-47"
+        },
+        "叙述了亚诺夫斯卡娅如何成为苏联形式逻辑复兴的核心人物。1947年，她翻译了形式主义者希尔伯特和阿克曼的《理论逻辑纲要》，1948年又翻译了塔尔斯基的《逻辑与演绎科学方法论导论》。",
+        {
+          "type": "note",
+          "id": "dm-9-48"
+        },
+        "1947年，亚诺夫斯卡娅主张，应当把“数理逻辑的方法论形式主义”与其背后的唯心主义哲学区分开来，因为",
+        {
+          "type": "note",
+          "id": "dm-9-49"
+        },
+        "数理逻辑"
+      ],
+      "en": [
+        "Bazhanov",
+        {
+          "type": "note",
+          "id": "dm-9-46"
+        },
+        " and Kilakos",
+        {
+          "type": "note",
+          "id": "dm-9-47"
+        },
+        " recount how Yanovskya was central to the revival of Soviet formal logic. In 1947, she had translated ",
+        {
+          "type": "em",
+          "children": [
+            "Grundzüge der theoretische Logik"
+          ]
+        },
+        " by the formalists Hilbert and Ackermann and, in 1948, Tarski’s ",
+        {
+          "type": "em",
+          "children": [
+            "Introduction to logic and the methodology of deductive sciences."
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-9-48"
+        },
+        " In 1947, Yanovskya was arguing that ‘methodological formalism of mathematical logic’ should be distinguished from the idealist philosophy underlying it, because",
+        {
+          "type": "note",
+          "id": "dm-9-49"
+        },
+        " mathematical logic"
+      ]
+    },
+    {
+      "id": "dm-ch09-130",
+      "type": "quote",
+      "page": "199",
+      "zh": [
+        "不仅可以被视为数学的逻辑，也可以被视为逻辑的数学，因为它在很大程度上是将数学方法应用于逻辑问题的结果。",
+        {
+          "type": "note",
+          "id": "dm-9-50"
+        }
+      ],
+      "en": [
+        "can be considered not only as logic of mathematics but also as mathematics of logic, for it is in large part the result of the application of mathematical methods to the problems of logic.",
+        {
+          "type": "note",
+          "id": "dm-9-50"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-131",
+      "type": "paragraph",
+      "page": "199",
+      "zh": [
+        "这一论证回到布尔对逻辑的数学化，巧妙地倒转了元数学所宣称的目标。"
+      ],
+      "en": [
+        "This argument returns to Boole’s mathematicization of logic, neatly inverting the stated objective of meta-mathematics."
+      ]
+    },
+    {
+      "id": "dm-ch09-132",
+      "type": "paragraph",
+      "page": "199",
+      "zh": [
+        "亚诺夫斯卡娅在此后的一生中始终推动形式逻辑的发展。她享有很高声望，从1959年起担任莫斯科国立大学数理逻辑教席，直至1966年去世。",
+        {
+          "type": "note",
+          "id": "dm-9-51"
+        }
+      ],
+      "en": [
+        "Yanovskaya promoted formal logic throughout the rest of her life. Held in high esteem, she was the Chair of Mathematical Logic at Moscow State University from 1959 until her death in 1966.",
+        {
+          "type": "note",
+          "id": "dm-9-51"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-133",
+      "type": "subheading",
+      "page": "199",
+      "zh": [
+        "斯大林论语言学"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Stalin on linguistics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-134",
+      "type": "paragraph",
+      "page": "199",
+      "zh": [
+        "1950年，斯大林对马尔的批驳，预示着反形式主义立场公开逆转。正如洛伦兹",
+        {
+          "type": "note",
+          "id": "dm-9-52"
+        },
+        "所述，斯大林密切关注精密科学的发展，虽支持李森科，却怀疑科学普遍具有阶级性：",
+        {
+          "type": "note",
+          "id": "dm-9-53"
+        }
+      ],
+      "en": [
+        "In 1950, the public reversal of anti-formalism was heralded by Stalin’s repudiation of Marr. As Lorentz",
+        {
+          "type": "note",
+          "id": "dm-9-52"
+        },
+        " observes, Stalin paid close attention to developments in exact science and, while endorsing Lysenko, expressed scepticism about science’s general class character:",
+        {
+          "type": "note",
+          "id": "dm-9-53"
+        },
+        ":"
+      ]
+    },
+    {
+      "id": "dm-ch09-135",
+      "type": "quote",
+      "page": "199",
+      "zh": [
+        "哈哈哈。那数学呢？达尔文主义呢？（第217页）"
+      ],
+      "en": [
+        "Ha, ha, ha. And what about mathematics? And about Darwinism? (p217)"
+      ]
+    },
+    {
+      "id": "dm-ch09-136",
+      "type": "paragraph",
+      "page": "199–200",
+      "zh": [
+        "《马克思主义和语言学问题》",
+        {
+          "type": "note",
+          "id": "dm-9-54"
+        },
+        "于1950年发表在《真理报》，随后又有四次进一步澄清的交流。在最初的文章中，斯大林彻底拒斥马尔语言学的两项核心主张，认为语言既不是基础，也不是上层建筑，并且不具有阶级标记。这些批评也适用于沃洛希诺夫。"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Marxism and Problems of Linguistics"
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-9-54"
+        },
+        " was published in ",
+        {
+          "type": "em",
+          "children": [
+            "Pravda"
+          ]
+        },
+        " in 1950, followed by four further clarificatory exchanges. In the original article, Stalin roundly rejects two key tenets of Marr’s linguistics, arguing that language is neither base nor superstructure, and is not class marked. These criticisms also apply to Voloŝinov."
+      ]
+    },
+    {
+      "id": "dm-ch09-137",
+      "type": "paragraph",
+      "page": "200",
+      "zh": [
+        "在后来答复克拉舍宁尼科娃时，斯大林承认语义学对语言学的重要性，同时批评马尔过分强调语义学。从上下文看，斯大林似乎再次批评马尔按说话者的阶级，赋予词语和表达不同的意义。他认为，这种差异很少，存在于个别词语中，而不在所有说话者共有的语法中。"
+      ],
+      "en": [
+        "In a subsequent reply to Krasheninnikova, Stalin chided Marr for overemphasizing semantics while acknowledging its importance for linguistics. From the context, Stalin appears to again be criticizing Marr for attributing different meanings to words and expressions, depending on a speaker’s class. He suggests that such differences are very few, and lie in individual words, not in grammar, which is common to all speakers."
+      ]
+    },
+    {
+      "id": "dm-ch09-138",
+      "type": "paragraph",
+      "page": "200",
+      "zh": [
+        "最重要的是，斯大林表明，以形式主义之名作为决定性批评的做法已经结束："
+      ],
+      "en": [
+        "Most significantly, Stalin signalled the end of the attribution of formalism as a decisive critique:"
+      ]
+    },
+    {
+      "id": "dm-ch09-139",
+      "type": "quote",
+      "page": "200",
+      "zh": [
+        "N. Y. 马尔认为，语法是空洞的“形式”，把语法体系视为语言基础的人是形式主义者。这完全是愚蠢的。"
+      ],
+      "en": [
+        "N. Y. Marr considered that grammar is an empty ‘formality’, and that people who regard the grammatical system as the foundation of language are formalists. This is altogether foolish."
+      ]
+    },
+    {
+      "id": "dm-ch09-140",
+      "type": "quote",
+      "page": "200",
+      "zh": [
+        "我认为，“形式主义”是“新学说”的作者们发明的，目的是便利他们与语言学对手的斗争。"
+      ],
+      "en": [
+        "I think that ‘formalism’ was invented by the authors of the ‘new doctrine’ to facilitate their struggle against their opponents in linguistics."
+      ]
+    },
+    {
+      "id": "dm-ch09-141",
+      "type": "paragraph",
+      "page": "200",
+      "zh": [
+        "此后，苏联逻辑学蓬勃发展，尽管辩证法与逻辑关系的争论仍在继续。",
+        {
+          "type": "note",
+          "id": "dm-9-55"
+        },
+        "十七年后，即1967年，科普宁",
+        {
+          "type": "note",
+          "id": "dm-9-56"
+        },
+        "仍在援引恩格斯",
+        {
+          "type": "note",
+          "id": "dm-9-57"
+        },
+        "来捍卫黑格尔的真理。"
+      ],
+      "en": [
+        "Thereafter, Soviet logic flourished, though debate about the relationship between dialectics and logic continued.",
+        {
+          "type": "note",
+          "id": "dm-9-55"
+        },
+        " Seventeen years later, in 1967, Kopnine",
+        {
+          "type": "note",
+          "id": "dm-9-56"
+        },
+        " was still citing Engels",
+        {
+          "type": "note",
+          "id": "dm-9-57"
+        },
+        " in defending the Hegelian verities."
+      ]
+    },
+    {
+      "id": "dm-ch09-142",
+      "type": "paragraph",
+      "page": "200",
+      "zh": [
+        "不过，1959年一份访苏美国计算机科学家的报告",
+        {
+          "type": "note",
+          "id": "dm-9-58"
+        },
+        "表明，苏联逻辑与计算领域的进展给他们留下了深刻印象。他们指出："
+      ],
+      "en": [
+        "Nonetheless, a 1959 report",
+        {
+          "type": "note",
+          "id": "dm-9-58"
+        },
+        " by US computer scientists visiting the Soviet Union showed that they were very impressed by progress in logic and computing. They note that:"
+      ]
+    },
+    {
+      "id": "dm-ch09-143",
+      "type": "quote",
+      "page": "200",
+      "zh": [
+        "莫斯科、基辅和列宁格勒大学里，直接或间接与计算机有关的逻辑学家和数学家，显然比西欧或美国任何大学的都更多、更优秀。（第17页）"
+      ],
+      "en": [
+        "There are obviously more and better logicians and mathematicians connected directly or indirectly with computers at Moscow, Kiev, and Leningrad Universities than at any universities in Western Europe or the United States. (p17)"
+      ]
+    },
+    {
+      "id": "dm-ch09-144",
+      "type": "paragraph",
+      "page": "200",
+      "zh": [
+        "他们还指出，除MIT以外，美国没有能够与莫斯科国立大学相比的“面向计算机”的逻辑教学项目（第17页），并警告说，苏联培养的"
+      ],
+      "en": [
+        "They further note that, outside of MIT, the USA lacked programs in ‘computer oriented’ logic comparable to that at Moscow State University (p17), and warned that the production of:"
+      ]
+    },
+    {
+      "id": "dm-ch09-145",
+      "type": "quote",
+      "page": "200",
+      "zh": [
+        "合格的、面向计算机的数学家，而不只是计算机程序员，其人数可能很快超过美国。（第17页）"
+      ],
+      "en": [
+        "qualified computer oriented mathematicians, not just computer programmers - may, soon surpass that of the United States. (p17)"
+      ]
+    },
+    {
+      "id": "dm-ch09-146",
+      "type": "subheading",
+      "page": "200",
+      "zh": [
+        "构造主义"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Constructivism"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-147",
+      "type": "paragraph",
+      "page": "200",
+      "zh": [
+        "苏联构造逻辑学派由小安德烈·马尔可夫",
+        {
+          "type": "note",
+          "id": "dm-9-59"
+        },
+        "（1903—1979）创立。",
+        {
+          "type": "note",
+          "id": "dm-9-60"
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-9-61"
+        },
+        "构造主义根植于直觉主义，却像柯尔莫哥洛夫的进路一样，具有唯物主义取向。"
+      ],
+      "en": [
+        "The Soviet school of ",
+        {
+          "type": "em",
+          "children": [
+            "constructive"
+          ]
+        },
+        " logic was founded by Andrey Markov Jr.",
+        {
+          "type": "note",
+          "id": "dm-9-59"
+        },
+        " (1903–79).",
+        {
+          "type": "note",
+          "id": "dm-9-60"
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-9-61"
+        },
+        " Constructivism had its roots in intuitionism, but with a materialist orientation, as in Kolmogorov’s approach."
+      ]
+    },
+    {
+      "id": "dm-ch09-148",
+      "type": "paragraph",
+      "page": "200–201",
+      "zh": [
+        "直觉主义以唯心主义为基础，因此苏联逻辑学家接受它，似乎令人意外。不过，马尔可夫的合作者纳戈尔尼认为，在“解冻”之前，集合论尽管具有柏拉图主义根源，却被视为唯物主义而非唯心主义。",
+        {
+          "type": "note",
+          "id": "dm-9-62"
+        },
+        "此外，范杜拉基斯",
+        {
+          "type": "note",
+          "id": "dm-9-63"
+        },
+        "指出，一旦将布劳威尔直觉主义的逻辑框架与其哲学分开，前者就被认为与辩证唯物主义相容。正如沙宁在1962年所写：",
+        {
+          "type": "note",
+          "id": "dm-9-64"
+        }
+      ],
+      "en": [
+        "Given the idealism underlying intuitionism, its embrace by Soviet logicians may seem surprising. However, Markov’s collaborator Ngorny suggests that, before the ‘thaw’, set theory was seen as materialist rather than idealist, despite its Platonic roots.",
+        {
+          "type": "note",
+          "id": "dm-9-62"
+        },
+        " Further, Vandoulakis",
+        {
+          "type": "note",
+          "id": "dm-9-63"
+        },
+        " notes that Brouwer’s intuitionism was seen as consistent with dialectical materialism, once its logical framework was separated from his philosophy. As Ŝanin wrote in 1962:",
+        {
+          "type": "note",
+          "id": "dm-9-64"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-149",
+      "type": "quote",
+      "page": "201",
+      "zh": [
+        "越过直觉主义哲学的表层，人们在许多情况下能够发现：对于数学抽象形成过程和数学逻辑基础所涉及的根本问题，存在非常有价值的具体观察和深刻的具体分析。（第7页）"
+      ],
+      "en": [
+        "outside of the surface of intuitionistic philosophy one finds in many cases very valuable concrete observations and profound concrete analysis of the fundamental problems relating to the processes of forming mathematical abstractions and logical foundations of mathematics. (p7)"
+      ]
+    },
+    {
+      "id": "dm-ch09-150",
+      "type": "paragraph",
+      "page": "201",
+      "zh": [
+        "马尔可夫的学生库什纳指出其构造主义的四个核心特征。",
+        {
+          "type": "note",
+          "id": "dm-9-65"
+        },
+        "首先，研究对象是有限的，由有限的构造过程，从有限字母表出发，依照明确的算法形成规则生成。沙宁正确地把这一点视为构造主义取得成功的关键："
+      ],
+      "en": [
+        "Markov’s student Kushner identified four central characteristics of Markov’s constructivism.",
+        {
+          "type": "note",
+          "id": "dm-9-65"
+        },
+        " First of all, the objects under investigation are finite and generated by finite constructive processes from a finite alphabet according to definite rules of algorithm formation. Ŝanin rightly saw this as key to the success of constructivism:"
+      ]
+    },
+    {
+      "id": "dm-ch09-151",
+      "type": "quote",
+      "page": "201",
+      "zh": [
+        "以精确的算术算法概念丰富数学，为许多作者沿新方向开展富有成果的研究提供了起点。（第6页）"
+      ],
+      "en": [
+        "The enrichment of mathematics with the precise concept of arithmetic algorithm served as a starting point for fruitful investigation in a new direction by many authors. (p6)"
+      ]
+    },
+    {
+      "id": "dm-ch09-152",
+      "type": "paragraph",
+      "page": "201",
+      "zh": [
+        "其次，库什纳指出，构造主义与直觉主义一样，拒斥排中律和双重否定，存在性证明必须以构造为基础。第三，它接受潜无限而不接受实无限。最后，可计算性与算法相联系；它接受经经验验证的丘奇—图灵论题，即所有可计算性模型的等价性。"
+      ],
+      "en": [
+        "Secondly, Kushner notes that, as with intuitionism, both the law of the excluded middle and double negation are rejected, and proofs of existence must be based on construction. Third, potential infinities are accepted, but not actualized infinities. And, finally, computability is associated with algorithms, and the Church-Turing thesis of the equivalence of all models of computability, demonstrated empirically, is accepted."
+      ]
+    },
+    {
+      "id": "dm-ch09-153",
+      "type": "paragraph",
+      "page": "201",
+      "zh": [
+        "与图灵一样，马尔可夫从作为纸笔物质过程的数学出发。例如，他考虑在构成书稿的纸上画出一排竖线。在讨论这些线条随后如何经印刷复制时，他指出："
+      ],
+      "en": [
+        "Like Turing, Markov started from mathematics as a material process using pen and paper. As an example, he considers drawing a row of vertical pen strokes on the paper forming his book manuscript. Discussing how this is subsequently reproduced by printing, he observes that:"
+      ]
+    },
+    {
+      "id": "dm-ch09-154",
+      "type": "quote",
+      "page": "201",
+      "zh": [
+        "这个构造对象［即原始图画］是由纸张和干墨水组成的物体，上面的图画则是这一构造对象的副本，由纸张和干的印刷油墨组成。它也是构造对象，因为制作副本可以被视为一种构造活动。",
+        {
+          "type": "note",
+          "id": "dm-9-66"
+        }
+      ],
+      "en": [
+        "The constructive object [ie the original drawing] is a material body consisting of paper and dried ink, and the drawing given above is a copy of this constructive object, consisting of paper and dried typographic paint. It, too, is a constructive object, since the preparation of a copy may be considered a constructive act.",
+        {
+          "type": "note",
+          "id": "dm-9-66"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-155",
+      "type": "paragraph",
+      "page": "201",
+      "zh": [
+        "马尔可夫明确承认物质现实的限制："
+      ],
+      "en": [
+        "Markov explicitly acknowledges the limits of material reality:"
+      ]
+    },
+    {
+      "id": "dm-ch09-156",
+      "type": "quote",
+      "page": "201–202",
+      "zh": [
+        "在执行构造过程时，我们常常碰到时间、空间和材料不足所造成的障碍。通常总能设法绕过这些障碍。然而，我们的构造能力确实有限，也没有理由假定，由这种限制引起的障碍总能消除。恰恰相反，现代物理学和宇宙学似乎表明，这些障碍原则上无法克服。",
+        {
+          "type": "note",
+          "id": "dm-9-67"
+        }
+      ],
+      "en": [
+        "Carrying out constructive processes, we often come up against obstacles connected with a lack of time, space and material. One usually succeeds in somehow by-passing these obstacles. However, our constructive possibilities really are limited, and there are no grounds for supposing that the obstacles caused by their restrictedness can always be obviated. Rather to the contrary, it seems that modern physics and cosmology testify to the impossibility in principle of surmounting such obstacles.",
+        {
+          "type": "note",
+          "id": "dm-9-67"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-157",
+      "type": "paragraph",
+      "page": "202",
+      "zh": [
+        "不过，用亚里士多德式的表述来说，潜在可行性这一抽象"
+      ],
+      "en": [
+        "Nonetheless, in an Aristotelian formulation, the ",
+        {
+          "type": "em",
+          "children": [
+            "abstraction of potential feasibility"
+          ]
+        },
+        ":"
+      ]
+    },
+    {
+      "id": "dm-ch09-158",
+      "type": "quote",
+      "page": "202",
+      "zh": [
+        "使我们能够考虑任意长的构造过程和任意大的构造对象。它们的可行性是潜在的：如果有足够的空间、时间和材料，它们在实践中就是可行的。",
+        {
+          "type": "note",
+          "id": "dm-9-68"
+        }
+      ],
+      "en": [
+        "allows us to consider arbitrarily long constructive processes and arbitrarily large constructive objects. Their feasibility is potential: they would be feasible in practice, had we available sufficient space, time and material.",
+        {
+          "type": "note",
+          "id": "dm-9-68"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-159",
+      "type": "paragraph",
+      "page": "202",
+      "zh": [
+        "马尔可夫明确把这种进路与基于集合论的经典数学相对照。后者允许实无限的抽象，",
+        {
+          "type": "note",
+          "id": "dm-9-69"
+        },
+        "并以否定不存在来确立存在，其中“甚至可能不知道如何构造所需对象”。",
+        {
+          "type": "note",
+          "id": "dm-9-70"
+        }
+      ],
+      "en": [
+        "Markov explicitly contrasts this approach with classical mathematics based on set theory, which allows abstractions of actual infinity",
+        {
+          "type": "note",
+          "id": "dm-9-69"
+        },
+        " and for which existence is a consequence of refuting non-existence, where ‘a method for constructing the desired object may even be unknown’.",
+        {
+          "type": "note",
+          "id": "dm-9-70"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-160",
+      "type": "paragraph",
+      "page": "202",
+      "zh": [
+        "马尔可夫的记号体系以重写符号序列的规则为基础，类似乔姆斯基后来对形式文法类别的刻画。一套这样的规则称为算法；马尔可夫将其特征概括为："
+      ],
+      "en": [
+        "Markov’s notation was based on rules for rewriting symbol sequences, similar to Chomsky’s subsequent characterization of classes of formal grammars. A ",
+        {
+          "type": "em",
+          "children": [
+            "scheme"
+          ]
+        },
+        " of such rules is called an ",
+        {
+          "type": "em",
+          "children": [
+            "algorithm"
+          ]
+        },
+        ", which Markov characterized as:"
+      ]
+    },
+    {
+      "id": "dm-ch09-161",
+      "type": "paragraph",
+      "page": "202",
+      "zh": [
+        "a) 规定精确，不留任意选择的余地，而且具有普遍可理解性——算法的确定性；"
+      ],
+      "en": [
+        "a) the precision of the prescription, leaving no place to arbitrariness, and its universal comprehensibility – the definiteness of the algorithm;"
+      ]
+    },
+    {
+      "id": "dm-ch09-162",
+      "type": "paragraph",
+      "page": "202",
+      "zh": [
+        "b) 可以从在给定范围内变化的初始数据出发——算法的通用性；"
+      ],
+      "en": [
+        "b) the possibility of starting out with initial data, which may vary within given limits – the generality of the algorithm;"
+      ]
+    },
+    {
+      "id": "dm-ch09-163",
+      "type": "paragraph",
+      "page": "202",
+      "zh": [
+        "c) 算法以获得某种预期结果为目标，使用适当初始数据时，最终确实能够得到该结果——算法的得出结果性。",
+        {
+          "type": "note",
+          "id": "dm-9-71"
+        }
+      ],
+      "en": [
+        "c) the orientation of the algorithm towards obtaining some desired result, which is indeed obtained in the end with proper initial data, the conclusivenes of the algorithm.",
+        {
+          "type": "note",
+          "id": "dm-9-71"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-164",
+      "type": "paragraph",
+      "page": "202",
+      "zh": [
+        "使用这一记号体系，马尔可夫通过归纳法系统地重构了皮亚诺算术的相当大一部分。"
+      ],
+      "en": [
+        "Using this notation, Markov systematically reconstructs a considerable portion of Peano arithmetic using induction."
+      ]
+    },
+    {
+      "id": "dm-ch09-165",
+      "type": "paragraph",
+      "page": "202",
+      "zh": [
+        "马尔可夫认为，他的进路满足他所谓的丘奇论题，即算法模型的等价性。他还认为，图灵机“极具说服力”，因为"
+      ],
+      "en": [
+        "Markov suggests that his approach satisfies what he calls Church’s Thesis, the equivalence of models of algorithms. He further argues that TMs are ‘extremely convincing’ as"
+      ]
+    },
+    {
+      "id": "dm-ch09-166",
+      "type": "quote",
+      "page": "202",
+      "zh": [
+        "在本质方面，图灵机的运行充分模拟了从事计算的数学家的行为，",
+        {
+          "type": "note",
+          "id": "dm-9-72"
+        }
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "in the essentials"
+          ]
+        },
+        ", a Turing machine’s performance adequately simulates the behaviour of a computing mathematician",
+        {
+          "type": "note",
+          "id": "dm-9-72"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-167",
+      "type": "paragraph",
+      "page": "202",
+      "zh": [
+        "即从一种思维状态转到另一种思维状态。"
+      ],
+      "en": [
+        "going from one state of mind to another."
+      ]
+    },
+    {
+      "id": "dm-ch09-168",
+      "type": "paragraph",
+      "page": "202",
+      "zh": [
+        "这套记号旨在用于形式系统的实际实验。例如，“元算法”编程语言Refal",
+        {
+          "type": "note",
+          "id": "dm-9-73"
+        },
+        "把马尔可夫规则纳入一个更常规的框架，用以辅助探索形式语义。然而，库什纳",
+        {
+          "type": "note",
+          "id": "dm-9-74"
+        },
+        "指出，虽然马尔可夫的工作在西方已为人所知，记号的复杂性却妨碍了更广泛的采用。"
+      ],
+      "en": [
+        "The notation was intended for practical experimentation with formal systems. For example, the ‘meta-algorithmic’ programming language Refal",
+        {
+          "type": "note",
+          "id": "dm-9-73"
+        },
+        " incorporated Markov rules within a more conventional framework as an aid to exploring formal semantics. However, Kushner",
+        {
+          "type": "note",
+          "id": "dm-9-74"
+        },
+        " observes that, while Markov’s work was known in the west, wider take-up was hampered by notational complexity."
+      ]
+    },
+    {
+      "id": "dm-ch09-169",
+      "type": "paragraph",
+      "page": "202",
+      "zh": [
+        "与直觉主义一样，接受构造主义对无限推理的限制，会抽掉许多重要的经典数学的基础。因此，人们也像直觉主义者那样，开展大量研究，试图在有限性基础上重建这些数学。"
+      ],
+      "en": [
+        "As with intuitionism, accepting constructivist limitations on infinitary reasoning removed the foundations of much essential classical mathematics. Thus, as with intuitionism, considerable research was undertaken to refound such mathematics on a finitary base."
+      ]
+    },
+    {
+      "id": "dm-ch09-170",
+      "type": "paragraph",
+      "page": "203",
+      "zh": [
+        "具体说来，构造主义接受整数和有理数，却不接受必然涉及无限的实数。因此，把实数重新表述为构造函数，是至关重要的一步。构造主义的进路借鉴图灵与外尔的工作，用算法来定义实数：一个算法生成精度不断提高的有理数，而精度由另一个算法确定。正如沙宁所说："
+      ],
+      "en": [
+        "In particular, constructivism accepted integers and rational numbers, but not real numbers, which are necessarily infinitary. Hence, a vital step was the reformulation of real numbers as constructive functions. In the constructivist approach, drawing on work by both Turing and Weyl, real numbers are defined by an algorithm that generates rational numbers of increasing precision, determined by another algorithm. As Ŝanin put it:"
+      ]
+    },
+    {
+      "id": "dm-ch09-171",
+      "type": "quote",
+      "page": "203",
+      "zh": [
+        "自然科学和工程中对具体实数的实际使用，本质上基于这样一种可能性：从一个实数的个别表示中，提取出给出其一系列有理近似值的算法。",
+        {
+          "type": "note",
+          "id": "dm-9-75"
+        }
+      ],
+      "en": [
+        "the actual use of concrete real numbers in the natural sciences and engineering is essentially based on the possibility of extracting from an individual representation of a real number an algorithm giving a sequence of rational approximating values for it.",
+        {
+          "type": "note",
+          "id": "dm-9-75"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch09-172",
+      "type": "paragraph",
+      "page": "203",
+      "zh": [
+        "这明确承认，在实际应用中，由于测量有限，操纵物理现实时使用的是有理数。"
+      ],
+      "en": [
+        "This recognized explicitly that, in practical applications, rational numbers are used in manipulating physical reality because measurement is bounded."
+      ]
+    },
+    {
+      "id": "dm-ch09-173",
+      "type": "paragraph",
+      "page": "203",
+      "zh": [
+        "尽管马尔可夫采取唯物主义进路，他仍赞同这样一种观点：不可判定性结果限制的是数学，而不是人："
+      ],
+      "en": [
+        "Despite Markov’s materialist approach, he shared the view that the undecidability results were limitations on mathematics but not human beings:"
+      ]
+    },
+    {
+      "id": "dm-ch09-174",
+      "type": "quote",
+      "page": "203",
+      "zh": [
+        "因此，数学中（以及其他任何学问分支中）带有意向的研究事业，永远不会转移给机器；机器只能辅助人，而不能取代人。",
+        {
+          "type": "note",
+          "id": "dm-9-76"
+        }
+      ],
+      "en": [
+        "Therefore the conative, research enterprise in mathematics (as well as any other branch of learning) will never be transferred to machines, capable only of assisting man but not replacing him.",
+        {
+          "type": "note",
+          "id": "dm-9-76"
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "dm-9-1": {
+      "zh": [
+        "K. Gödel：“论《数学原理》及相关系统中的形式不可判定命题”，载J. van Heĳenoort编《从弗雷格到哥德尔：数理逻辑文献集，1879—1931》（Harvard University Press，1967），第596—616页。"
+      ],
+      "en": [
+        "K. Gödel, ‘On Formally Undecideable Propositions of ",
+        {
+          "type": "em",
+          "children": [
+            "Principia Mathematica and Related Systems"
+          ]
+        },
+        "’, in From Frege to Gödel: A Source Book in Mathematical Logic, 1879-1931, ed. J. van Heĳenoort (Harvard University Press, 1967), 596–616."
+      ]
+    },
+    "dm-9-2": {
+      "zh": [
+        "Kleene：《元数学导论》。"
+      ],
+      "en": [
+        "Kleene, ",
+        {
+          "type": "em",
+          "children": [
+            "Introduction to Meta-Mathematics"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-9-3": {
+      "zh": [
+        "A. M. Turing：“论可计算数及其在判定问题上的应用”，Proceedings of the London Mathematical Society s2–42，第1期（1937）：230—265。"
+      ],
+      "en": [
+        "A. M. Turing, ‘On Computable Numbers, with an Aapplication to the Eentscheidungsproblem’, ",
+        {
+          "type": "em",
+          "children": [
+            "Proceedings of the London Mathematical Society"
+          ]
+        },
+        " s2–42, no. 1 (1937): 230–65."
+      ]
+    },
+    "dm-9-4": {
+      "zh": [
+        "S. C. Kleene：“自然数的一般递归函数”，Mathematische Annalen 112（1936）：727—742。"
+      ],
+      "en": [
+        "S. C. Kleene, ‘General Recursive Functions of Natural Numbers’, ",
+        {
+          "type": "em",
+          "children": [
+            "Mathematische Annalen"
+          ]
+        },
+        " 112 (1936): 727–42."
+      ]
+    },
+    "dm-9-5": {
+      "zh": [
+        "M. Schönfinkel：“论数理逻辑的构造块”，载J. van Heĳenoort编《从弗雷格到哥德尔：数理逻辑文献集，1879—1931》（Harvard University Press，1967），第357—366页。"
+      ],
+      "en": [
+        "M. Schönfinkel, ‘On the Building Blocks of Mathematical Logic’, in ",
+        {
+          "type": "em",
+          "children": [
+            "From Frege to Gödel: A Source Book in Mathematical Logic, 1879-1931"
+          ]
+        },
+        ", ed. J. van Heĳenoort (Harvard University Press, 1967), 357–66."
+      ]
+    },
+    "dm-9-6": {
+      "zh": [
+        "H. Curry：《组合逻辑基础》（Grundlagen Der Kombinatorischen Logik），F. Kamaraddine、J. Seldin英译（College Publications，2017）。"
+      ],
+      "en": [
+        "H. Curry, ",
+        {
+          "type": "em",
+          "children": [
+            "Foundations of Combinatory Logic: (Grundlagen Der Kombinatorischen Logik"
+          ]
+        },
+        "), trans. F. Kamaraddine and J. Seldin (College Publications, 2017)."
+      ]
+    },
+    "dm-9-7": {
+      "zh": [
+        "A. Church：“逻辑基础的一组公设”，Annals of Mathematics，第2系列，33，第2期（1932）：346—366。"
+      ],
+      "en": [
+        "A. Church, ‘A Set of Postulates for the Foundation of Logic’, ",
+        {
+          "type": "em",
+          "children": [
+            "Annals of Mathematics"
+          ]
+        },
+        " Series 2. 33, no. 2 (1932): 346–66."
+      ]
+    },
+    "dm-9-8": {
+      "zh": [
+        "S. J. Kleene［姓名首字母按底本］：“λ可定义性与递归性”，Duke Mathematical Journal 2，第2期（1936）：340—353；A. M. Turing：“可计算性与λ可定义性”，Journal of Symbolic Logic 2（1937）：153—164。"
+      ],
+      "en": [
+        "S. J. Kleene, ‘λ-definability and Recursiveness’, ",
+        {
+          "type": "em",
+          "children": [
+            "Duke Mathematical Journal"
+          ]
+        },
+        " 2, no. 2 (1936): 340–53; A. M. Turing, ‘Computability and λ-Definability’, ",
+        {
+          "type": "em",
+          "children": [
+            "Journal of Symbolic Logic"
+          ]
+        },
+        " 2 (1937): 153–64."
+      ]
+    },
+    "dm-9-9": {
+      "zh": [
+        "D. Deutch［底本拼法］：“量子理论、丘奇—图灵原理与通用量子计算机”，Proceedings of the Royal Society: A, Mathematical, Physiscal and Engineering Sciences 400，第1818期（1985）：97—117。"
+      ],
+      "en": [
+        "D. Deutch, ‘Quantum Theory, the Church–Turing Principle and the Universal Quantum Computer’, ",
+        {
+          "type": "em",
+          "children": [
+            "Proceedings of the Royal Society: A, Mathematical, Physiscal and Engineering Sciences"
+          ]
+        },
+        " 400, no. 1818 (1985): 97–117."
+      ]
+    },
+    "dm-9-10": {
+      "zh": [
+        "A. G. D. Watson：“数学及其基础”，Mind 47，第188期（1938）：440—451。"
+      ],
+      "en": [
+        "A. G. D. Watson, ‘Mathematics and its Foundations’, in ",
+        {
+          "type": "em",
+          "children": [
+            "Mind"
+          ]
+        },
+        ", 47 no. 188 (1938): 440–51."
+      ]
+    },
+    "dm-9-11": {
+      "zh": [
+        "沃森曾把图灵介绍给路德维希·维特根斯坦，并曾被指称为苏联间谍：",
+        {
+          "type": "link",
+          "url": "https://en.wikipedia.org/wiki/Alister_Watson",
+          "children": [
+            "https://en.wikipedia.org/wiki/Alister_Watson"
+          ]
+        },
+        " 。"
+      ],
+      "en": [
+        "Watson introduced Turing to Ludwig Wittgenstein, and was alleged to have been a Soviet spy: ",
+        {
+          "type": "link",
+          "url": "https://en.wikipedia.org/wiki/Alister_Watson",
+          "children": [
+            "https://en​.wikipedia​.org​/wiki​/Alister​_Watson"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-9-12": {
+      "zh": [
+        "J. B. S. Haldane：《马克思主义哲学与科学》（George Allen and Unwin Ltd，1938）。"
+      ],
+      "en": [
+        "J. B. S. Haldane, ",
+        {
+          "type": "em",
+          "children": [
+            "The Marxist Philosophy and the Sciences"
+          ]
+        },
+        " (George Allen and Unwin Ltd, 1938)."
+      ]
+    },
+    "dm-9-13": {
+      "zh": [
+        "J. B. S. Haldane：“序言”，载《自然辩证法》，苏联，1939，",
+        {
+          "type": "link",
+          "url": "https://www.marxists.org/archive/marx/works/1883/don/preface.htm",
+          "children": [
+            "https://www.marxists.org/archive/marx/works/1883/don/preface.htm"
+          ]
+        },
+        " 。"
+      ],
+      "en": [
+        "J. B. S. Haldane, ‘Preface’, in ",
+        {
+          "type": "em",
+          "children": [
+            "Dialectics of Nature"
+          ]
+        },
+        ", USSR, 1939, ",
+        {
+          "type": "link",
+          "url": "https://www.marxists",
+          "children": [
+            "https://www.marxists"
+          ]
+        },
+        ".",
+        " org/archive/marx/works/1883/don/preface.htm."
+      ]
+    },
+    "dm-9-14": {
+      "zh": [
+        "Vucinich：“苏联的数学与辩证法：斯大林以前的时期”。"
+      ],
+      "en": [
+        "Vucinich, ‘Mathematics and Dialectics in the Soviet Union: The Pre-Stalin Period’."
+      ]
+    },
+    "dm-9-15": {
+      "zh": [
+        "Lorentz：“1928至1953年苏联的数学与政治”。"
+      ],
+      "en": [
+        "Lorentz, ‘Mathematics and Politics in the Soviet Union from 1928 to 1953’."
+      ]
+    },
+    "dm-9-16": {
+      "zh": [
+        "E. Seneta：“20世纪30年代苏联的数学、宗教与马克思主义”，Historia Mathematica 31（2004）：337—367。"
+      ],
+      "en": [
+        "E. Seneta, ‘Mathematics, Religion, and Marxism in the Soviet Union in the 1930s’, ",
+        {
+          "type": "em",
+          "children": [
+            "Historia Mathematica"
+          ]
+        },
+        " 31 (2004): 337–67."
+      ]
+    },
+    "dm-9-17": {
+      "zh": [
+        "S. S. Kutateladze：“俄国数学的悲剧”，Siberian Electronic Mathematical Reports 9（2011）：A85—A100，",
+        {
+          "type": "link",
+          "url": "https://arxiv.org/abs/math/0702632",
+          "children": [
+            "https://arxiv.org/abs/math/0702632"
+          ]
+        },
+        " 。"
+      ],
+      "en": [
+        "S. S. Kutateladze, ‘The Tragedy of Mathematics in Russia’, ",
+        {
+          "type": "em",
+          "children": [
+            "Siberian Electronic Mathematical Reports"
+          ]
+        },
+        " 9 (2011): A85–A100, ",
+        {
+          "type": "link",
+          "url": "https://arxiv.org/abs/math/0702632",
+          "children": [
+            "https://arxiv​.org​/abs​/math​/0702632"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-9-18": {
+      "zh": [
+        "A. R. D. Mathias：“逻辑与恐怖”，剑桥大学彼得学院Perne Club，1987，",
+        {
+          "type": "link",
+          "url": "https://www.dpmms.cam.ac.uk/~ardm/stalin.pdf",
+          "children": [
+            "https://www.dpmms.cam.ac.uk/~ardm/stalin.pdf"
+          ]
+        },
+        " 。"
+      ],
+      "en": [
+        "A. R. D. Mathias, ‘Logic and Terror’, ",
+        {
+          "type": "em",
+          "children": [
+            "Perne Club, Peterhouse College, University of Cambridge"
+          ]
+        },
+        ", 1987, ",
+        {
+          "type": "link",
+          "url": "https://www",
+          "children": [
+            "https://www"
+          ]
+        },
+        ".",
+        " dpmms​.cam​.ac​.uk/​~ardm​/stal​in​.pdf ."
+      ]
+    },
+    "dm-9-19": {
+      "zh": [
+        "I. H. Anellis：“苏联的形式逻辑与辩证唯物主义：评Fania Cavaliere《苏联的形式逻辑：1946—1965年的论争年代》及A. R. D. Mathias《逻辑与恐怖》”，Modern Logic 4，第2期（1994）：210—218，",
+        {
+          "type": "link",
+          "url": "https://projecteuclid.org/journals/review-of-modern-logic/volume-4/issue-2/Formal-logic-and-dialecticalmaterialism-in-the-Soviet-Union/rml/1204835224.full",
+          "children": [
+            "https://projecteuclid.org/journals/review-of-modern-logic/volume-4/issue-2/Formal-logic-and-dialecticalmaterialism-in-the-Soviet-Union/rml/1204835224.full"
+          ]
+        },
+        " 。"
+      ],
+      "en": [
+        "I. H. Anellis, ‘Formal Logic and Dialectical-materialism in the Soviet Union: Review of Fania Cavaliere, La logica formale in Unione Sovietica: Gli anni del dibattito, 1946–1965 and A. R. D. Mathias, ‘Logic and Terror’, ",
+        {
+          "type": "em",
+          "children": [
+            "Modern Logic"
+          ]
+        },
+        " 4, no. 2 (1994): 210–18, ",
+        {
+          "type": "link",
+          "url": "https://projecteuclid.org/journals/review-of",
+          "children": [
+            "https://projecteuclid​.org​/journals​/review​-of"
+          ]
+        },
+        " -modern- logic/volume-4/ issue-2/Formal- logic​-and-​diale​ctica​lmate​riali​sm-in​-the-​Sovie​t-Uni​on/rm​l/120​48352​ 24​.fu​ll."
+      ]
+    },
+    "dm-9-20": {
+      "zh": [
+        "A. Philipov：《苏联的逻辑与辩证法》（Research Program on the U.S.S.R，Varengian Press，1952）。"
+      ],
+      "en": [
+        "A. Philipov, ",
+        {
+          "type": "em",
+          "children": [
+            "Logic and Dialectic in the Soviet Union"
+          ]
+        },
+        " (Research Program on the U.S.S.R, Varengian Press, 1952)."
+      ]
+    },
+    "dm-9-21": {
+      "zh": [
+        "D. Kilakos：“索菲娅·A. 亚诺夫斯卡娅：苏联数理逻辑的马克思主义先驱”，International Journal of the Historiography of Science 6（2019）：52。"
+      ],
+      "en": [
+        "D. Kilakos, ‘Sofia A. Yanovskaya: The Marxist Pioneer of Mathematical Logic in the Soviet Union’, ",
+        {
+          "type": "em",
+          "children": [
+            "International Journal of the Historiography of Science"
+          ]
+        },
+        " 6 (2019): 52."
+      ]
+    },
+    "dm-9-22": {
+      "zh": [
+        "G. Dyson：《图灵的大教堂：数字宇宙的起源》（Penguin，2012）。"
+      ],
+      "en": [
+        "G. Dyson, ",
+        {
+          "type": "em",
+          "children": [
+            "Turing’s Cathedral. The Origins of the Digital Universe"
+          ]
+        },
+        " (Penguin, 2012)."
+      ]
+    },
+    "dm-9-23": {
+      "zh": [
+        "程序存储器与数据存储器分离的设计，至今仍称为哈佛架构。"
+      ],
+      "en": [
+        "The separation of program and data memory is still termed the Harvard architecture."
+      ]
+    },
+    "dm-9-24": {
+      "zh": [
+        "电子离散变量自动计算机（Electronic Discrete Variable Automatic Computer）。"
+      ],
+      "en": [
+        "Electronic Discrete Variable Automatic Computer"
+      ]
+    },
+    "dm-9-25": {
+      "zh": [
+        "J. Von Neumann：《EDVAC报告初稿》（宾夕法尼亚大学穆尔电气工程学院，1945），",
+        {
+          "type": "link",
+          "url": "http://web.mit.edu/STS.035/www/PDFs/edvac.pdf",
+          "children": [
+            "http://web.mit.edu/STS.035/www/PDFs/edvac.pdf"
+          ]
+        },
+        " 。"
+      ],
+      "en": [
+        "J. Von Neumann, ",
+        {
+          "type": "em",
+          "children": [
+            "First Draft of a Report on the EDVAC"
+          ]
+        },
+        " (Moore School of Electrical Engineering, University of Pennsylvania, 1945), ",
+        {
+          "type": "link",
+          "url": "http://web.mit.edu/STS.035/www/",
+          "children": [
+            "http://web​.mit​.edu​/STS​.035​/www​/"
+          ]
+        },
+        " PDFs​/edvac​.pdf ."
+      ]
+    },
+    "dm-9-26": {
+      "zh": [
+        "Wiener：《控制论，或动物和机器中的控制与通信》（MIT Press，1948）。"
+      ],
+      "en": [
+        "Wiener, ",
+        {
+          "type": "em",
+          "children": [
+            "Cybernetics, or Control and Communication in the Animal and the Machine"
+          ]
+        },
+        " (MIT Press, 1948)."
+      ]
+    },
+    "dm-9-27": {
+      "zh": [
+        "Gerovitch：《从新话到控制论话语：苏联控制论史》。"
+      ],
+      "en": [
+        "Gerovitch, ",
+        {
+          "type": "em",
+          "children": [
+            "From Newspeak to Cyberspeak: A History of Soviet Cybernetics"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-9-28": {
+      "zh": [
+        "F. de Saussure：“普通语言学教程”，载C. Bally、A. Sechehaye编《普通语言学教程》，W. Baskin英译（The Philosophical Society，1959）。"
+      ],
+      "en": [
+        "F. de Saussure, ‘",
+        {
+          "type": "em",
+          "children": [
+            "Course in General Linguistics"
+          ]
+        },
+        "’, in ",
+        {
+          "type": "em",
+          "children": [
+            "Course in General Linguistics"
+          ]
+        },
+        ", ed. C. Bally and A. Sechehaye, trans. W. Baskin (The Philosophical Society, 1959)."
+      ]
+    },
+    "dm-9-29": {
+      "zh": [
+        "V. N. Vološinov：《马克思主义与语言哲学》，L. Matejka、I. R. Tutunik英译（Seminar Press，1986）。"
+      ],
+      "en": [
+        "V. N. Vološinov, ",
+        {
+          "type": "em",
+          "children": [
+            "Marxism and the Philosophy of Language"
+          ]
+        },
+        ", trans. L. Matejka and I. R. Tutunik (Seminar Press, 1986)."
+      ]
+    },
+    "dm-9-30": {
+      "zh": [
+        "此处不再进一步讨论。"
+      ],
+      "en": [
+        "We won’t discuss this further."
+      ]
+    },
+    "dm-9-31": {
+      "zh": [
+        "L. Matejka：“附录1：论俄国最早的符号学导论”，载《马克思主义与语言哲学》（Seminar Press，1986）。"
+      ],
+      "en": [
+        "L. Matejka, ‘Appendix 1: On the First Russian Prolegomena to Semiotics’, in ",
+        {
+          "type": "em",
+          "children": [
+            "Marxism and the Philosophy of Language"
+          ]
+        },
+        " (Seminar Press, 1986)."
+      ]
+    },
+    "dm-9-32": {
+      "zh": [
+        "Mathias：“逻辑与恐怖”，第7页。"
+      ],
+      "en": [
+        "Mathias, ‘Logic and Terror’, 7."
+      ]
+    },
+    "dm-9-33": {
+      "zh": [
+        "Gerovitch：《从新话到控制论话语：苏联控制论史》。"
+      ],
+      "en": [
+        "Gerovitch, ",
+        {
+          "type": "em",
+          "children": [
+            "From Newspeak to Cyberspeak: A History of Soviet Cybernetics"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-9-34": {
+      "zh": [
+        "Wiener：《控制论，或动物和机器中的控制与通信》。"
+      ],
+      "en": [
+        "Wiener, ",
+        {
+          "type": "em",
+          "children": [
+            "Cybernetics, or Control and Communication in the Animal and the Machine"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-9-35": {
+      "zh": [
+        "Gerovitch：《从新话到控制论话语：苏联控制论史》。"
+      ],
+      "en": [
+        "Gerovitch, ",
+        {
+          "type": "em",
+          "children": [
+            "From Newspeak to Cyberspeak: A History of Soviet Cybernetics"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-9-36": {
+      "zh": [
+        "S. T. Usdin：《建设共产主义：两名美国人如何为斯大林从事间谍活动并创建苏联硅谷》（Yale，2005）。"
+      ],
+      "en": [
+        "S. T. Usdin, ",
+        {
+          "type": "em",
+          "children": [
+            "Engineering Communism: How Two Americans Spied for Stalin and Founded the Soviet Silicon Valley"
+          ]
+        },
+        " (Yale, 2005)."
+      ]
+    },
+    "dm-9-37": {
+      "zh": [
+        "Gerovitch：《从新话到控制论话语：苏联控制论史》，第131页及以下。"
+      ],
+      "en": [
+        "Gerovitch, ",
+        {
+          "type": "em",
+          "children": [
+            "From Newspeak to Cyberspeak: A History of Soviet Cybernetics"
+          ]
+        },
+        ", 131ff."
+      ]
+    },
+    "dm-9-38": {
+      "zh": [
+        "Gerovitch：《从新话到控制论话语：苏联控制论史》。"
+      ],
+      "en": [
+        "Gerovitch, ",
+        {
+          "type": "em",
+          "children": [
+            "From Newspeak to Cyberspeak: A History of Soviet Cybernetics"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-9-39": {
+      "zh": [
+        "苏共（布）中央委员会：“中学的逻辑学和心理学”，Soviet Studies 3，第3期（1952）：342—344。"
+      ],
+      "en": [
+        "CPSU(B) CC, ‘Logic and Psychology in the Secondary Schools’, ",
+        {
+          "type": "em",
+          "children": [
+            "Soviet Studies"
+          ]
+        },
+        " 3, no. 3 (1952): 342–4."
+      ]
+    },
+    "dm-9-40": {
+      "zh": [
+        "C. A. Campbell：“苏联的逻辑概念”，Soviet Studies 3，第3期（1952）：278—287。"
+      ],
+      "en": [
+        "C. A. Campbell, ‘The Soviet Concept of Logic’, ",
+        {
+          "type": "em",
+          "children": [
+            "Soviet Studies"
+          ]
+        },
+        " 3, no. 3 (1952): 278–87."
+      ]
+    },
+    "dm-9-41": {
+      "zh": [
+        "Mathias：“逻辑与恐怖”。"
+      ],
+      "en": [
+        "Mathias, ‘Logic and Terror’."
+      ]
+    },
+    "dm-9-42": {
+      "zh": [
+        "Lorentz：“1928至1953年苏联的数学与政治”。"
+      ],
+      "en": [
+        "Lorentz, ‘Mathematics and Politics in the Soviet Union from 1928 to 1953’."
+      ]
+    },
+    "dm-9-43": {
+      "zh": [
+        "Campbell：“苏联的逻辑概念”。"
+      ],
+      "en": [
+        "Campbell, ‘The Soviet Concept of Logic’."
+      ]
+    },
+    "dm-9-44": {
+      "zh": [
+        "苏联高等教育部社会科学教学管理机构的哲学部门负责人。"
+      ],
+      "en": [
+        "Head of the Philosophy Department in the Directorate for the Teaching of Social Sciences, USSR Ministry for Higher Education."
+      ]
+    },
+    "dm-9-45": {
+      "zh": [
+        "I. I. Osmakov：“论思维逻辑与逻辑科学”，Voprosy Filosofii 3（1950）：309—317。"
+      ],
+      "en": [
+        "I. I. Osmakov, ‘On the Logic of Thinking and the Science of Logic’, ",
+        {
+          "type": "em",
+          "children": [
+            "Voprosy Filosofii"
+          ]
+        },
+        " 3 (1950): 309–17."
+      ]
+    },
+    "dm-9-46": {
+      "zh": [
+        "V. Bazhanov：“复兴：S. A. 亚诺夫斯卡娅的逻辑学道路”，History and Philosophy of Logic 22，第3期（2001）：129—133。"
+      ],
+      "en": [
+        "V. Bazhanov, ‘Restoration: S. A. Yanovskya’s Path in Logic’, ",
+        {
+          "type": "em",
+          "children": [
+            "History and Philosophy of Logic"
+          ]
+        },
+        " 22, no. 3 (2001): 129–33."
+      ]
+    },
+    "dm-9-47": {
+      "zh": [
+        "Kilakos：“索菲娅·A. 亚诺夫斯卡娅：苏联数理逻辑的马克思主义先驱”。"
+      ],
+      "en": [
+        "Kilakos, ‘Sofia A. Yanovskaya: The Marxist Pioneer of Mathematical Logic in the Soviet Union’."
+      ]
+    },
+    "dm-9-48": {
+      "zh": [
+        "Bazhanov：“复兴：S. A. 亚诺夫斯卡娅的逻辑学道路”，第132页。"
+      ],
+      "en": [
+        "Bazhanov, ‘Restoration: S. A. Yanovskya’s Path in Logic’, 132."
+      ]
+    },
+    "dm-9-49": {
+      "zh": [
+        "引自S. A. Yanovskya：“作为无穷小分析批评者的米歇尔·罗尔”（俄文），Trudy Instituta Istorija Estestvoznanija 1（1947）：327—346（引文见341页）。"
+      ],
+      "en": [
+        "Quoting S. A. Yanovskya, ‘Michel Rolle as a Critic of the Analysis of the Infinitely Small (in Russian)’, ",
+        {
+          "type": "em",
+          "children": [
+            "Trudy Instituta Istorija Estestvoznanija"
+          ]
+        },
+        " 1 (1947): 327–46 (341)."
+      ]
+    },
+    "dm-9-50": {
+      "zh": [
+        "Kilakos：“索菲娅·A. 亚诺夫斯卡娅：苏联数理逻辑的马克思主义先驱”，第57页。"
+      ],
+      "en": [
+        "Kilakos, ‘Sofia A. Yanovskaya: The Marxist Pioneer of Mathematical Logic in the Soviet Union’, 57."
+      ]
+    },
+    "dm-9-51": {
+      "zh": [
+        "Bazhanov：“复兴：S. A. 亚诺夫斯卡娅的逻辑学道路”，第132页。"
+      ],
+      "en": [
+        "Bazhanov, ‘Restoration: S. A. Yanovskya’s Path in Logic’, 132."
+      ]
+    },
+    "dm-9-52": {
+      "zh": [
+        "Lorentz：“1928至1953年苏联的数学与政治”，第217页。"
+      ],
+      "en": [
+        "Lorentz, ‘Mathematics and Politics in the Soviet Union from 1928 to 1953’, 217."
+      ]
+    },
+    "dm-9-53": {
+      "zh": [
+        "引自V. J. Birstein《知识的歪曲：苏联科学的真实故事》（Westview，2001），第249—251页。"
+      ],
+      "en": [
+        "Quoting V. J. Birstein, ‘The Perversion of Knowledge: The True Story of Soviet Science’, ",
+        {
+          "type": "em",
+          "children": [
+            "Westview"
+          ]
+        },
+        ", 2001, 249–51."
+      ]
+    },
+    "dm-9-54": {
+      "zh": [
+        "J. V. Stalin：《马克思主义和语言学问题》（莫斯科：Foreign Languages Publishing House，1950），",
+        {
+          "type": "link",
+          "url": "https://www.marxists.org/reference/archive/stalin/works/1950/jun/20.htm",
+          "children": [
+            "https://www.marxists.org/reference/archive/stalin/works/1950/jun/20.htm"
+          ]
+        },
+        " 。"
+      ],
+      "en": [
+        "J. V. Stalin, ",
+        {
+          "type": "em",
+          "children": [
+            "Marxism and Problems of Linguistics"
+          ]
+        },
+        " (Foreign Languages Publishing House, Moscow, 1950), ",
+        {
+          "type": "link",
+          "url": "https://www",
+          "children": [
+            "https://www"
+          ]
+        },
+        ".",
+        " marxi​sts​.o​rg​/re​feren​ce​/ar​chive​/stal​in​/wo​rks​/1​95​ 0​/j​un​/20​.htm.​"
+      ]
+    },
+    "dm-9-55": {
+      "zh": [
+        "Mathias：“逻辑与恐怖”。"
+      ],
+      "en": [
+        "Mathias, ‘Logic and Terror’."
+      ]
+    },
+    "dm-9-56": {
+      "zh": [
+        "P. V. Kopnine：“辩证法与逻辑”，Diogenes 15，第60期（1967）：87—102。"
+      ],
+      "en": [
+        "P. V. Kopnine, ‘Dialectic and Logic’, ",
+        {
+          "type": "em",
+          "children": [
+            "Diogenes"
+          ]
+        },
+        " 15, no. 60 (1967): 87–102."
+      ]
+    },
+    "dm-9-57": {
+      "zh": [
+        "以及列宁。"
+      ],
+      "en": [
+        "and Lenin."
+      ]
+    },
+    "dm-9-58": {
+      "zh": [
+        "J. W. Carr III等：“访问苏联计算中心”，Communications of the ACM 2，第6期（1959）：8—20。"
+      ],
+      "en": [
+        "J. W. Carr III et al., ‘A Visit to Computation Centres in the Soviet Union’, ",
+        {
+          "type": "em",
+          "children": [
+            "Communications of the ACM"
+          ]
+        },
+        " 2, no. 6 (1959): 8–20."
+      ]
+    },
+    "dm-9-59": {
+      "zh": [
+        "A. A. Markov Jr：《算法理论》，第42卷（Trudy Mat. Institua im. Steklova，1954）。"
+      ],
+      "en": [
+        "A. A. Markov Jr, ",
+        {
+          "type": "em",
+          "children": [
+            "The Theory of Algorithms"
+          ]
+        },
+        ", vol. 42 (Trudy Mat. Institua im. Steklova, 1954)."
+      ]
+    },
+    "dm-9-60": {
+      "zh": [
+        "他是安德烈·马尔可夫（1856—1922）之子，后者以随机过程领域的奠基工作闻名。"
+      ],
+      "en": [
+        "The son of Andrey Markov (1856–1922), known for foundational work on stochastic processes."
+      ]
+    },
+    "dm-9-61": {
+      "zh": [
+        "Markov：《算法理论》。"
+      ],
+      "en": [
+        "Markov, ",
+        {
+          "type": "em",
+          "children": [
+            "The Theory of Algorithms"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-9-62": {
+      "zh": [
+        "N. M. Nagorny：“安德烈·马尔可夫与数学构造主义”，Logic, Methodology and Philosophy of Science IX（1994）：469。"
+      ],
+      "en": [
+        "N. M. Nagorny, ‘Andri Markov and Mathematical Constructivism’, ",
+        {
+          "type": "em",
+          "children": [
+            "Logic, Methodology and Philosophy of Science"
+          ]
+        },
+        " IX (1994): 469."
+      ]
+    },
+    "dm-9-63": {
+      "zh": [
+        "I. M. Vandoulakis：“论A. A. 马尔可夫对布劳威尔直觉主义的态度”，Philosophia Scientiæ 2015/1，第19-1期（2015）：第46段。"
+      ],
+      "en": [
+        "I. M. Vandoulakis, ‘On A. A. Markov’s Attitude towards Brouwer’s Intuitionism’, ",
+        {
+          "type": "em",
+          "children": [
+            "Philosophia Scientiæ"
+          ]
+        },
+        " 2015/1, no. 19-1 (2015): para 46."
+      ]
+    },
+    "dm-9-64": {
+      "zh": [
+        "N. A. Sanin：“构造实数与构造数空间”，载Translations of Mathematical Monographs，E. Mendelson英译，第21卷（American Mathematical Society，1968）。"
+      ],
+      "en": [
+        "N. A. Sanin, ‘Constructive Real Numbers and Constructive Number Spaces’, in ",
+        {
+          "type": "em",
+          "children": [
+            "Translations of Mathematical Monographs"
+          ]
+        },
+        ", trans. E. Mendelson, vol. 21 (American Mathematical Society, 1968)."
+      ]
+    },
+    "dm-9-65": {
+      "zh": [
+        "B. A. Kushner：“马尔可夫的构造分析：一位参与者的看法”，Theoretical Computer Science 219（1999）：268—269。"
+      ],
+      "en": [
+        "B. A. Kushner, ‘Markov’s Constructive Analysis; A Participant’s View’, ",
+        {
+          "type": "em",
+          "children": [
+            "Theoretical Computer Science"
+          ]
+        },
+        " 219 (1999): 268–9."
+      ]
+    },
+    "dm-9-66": {
+      "zh": [
+        "A. A. Markov Jr、N. M. Nagorny：《算法理论》，M. Greendlinger英译（Kluwer Academic，1988），第1页。"
+      ],
+      "en": [
+        "A. A. Markov Jr and N. M. Nagorny, ",
+        {
+          "type": "em",
+          "children": [
+            "The Theory of Algorithms"
+          ]
+        },
+        ", trans. M. Greendlinger (Kluwer Academic, 1988), 1."
+      ]
+    },
+    "dm-9-67": {
+      "zh": [
+        "Markov Jr、Nagorny：《算法理论》，第10页。"
+      ],
+      "en": [
+        "Markov Jr and Nagorny, ",
+        {
+          "type": "em",
+          "children": [
+            "The Theory of Algorithms"
+          ]
+        },
+        ", 10."
+      ]
+    },
+    "dm-9-68": {
+      "zh": [
+        "Markov Jr、Nagorny：《算法理论》，第10页。"
+      ],
+      "en": [
+        "Markov Jr and Nagorny, ",
+        {
+          "type": "em",
+          "children": [
+            "The Theory of Algorithms"
+          ]
+        },
+        ", 10."
+      ]
+    },
+    "dm-9-69": {
+      "zh": [
+        "Markov Jr、Nagorny：《算法理论》，第10页。"
+      ],
+      "en": [
+        "Markov Jr and Nagorny, ",
+        {
+          "type": "em",
+          "children": [
+            "The Theory of Algorithms"
+          ]
+        },
+        ", 10."
+      ]
+    },
+    "dm-9-70": {
+      "zh": [
+        "Markov Jr、Nagorny：《算法理论》，第12页。"
+      ],
+      "en": [
+        "Markov Jr and Nagorny, ",
+        {
+          "type": "em",
+          "children": [
+            "The Theory of Algorithms"
+          ]
+        },
+        ", 12."
+      ]
+    },
+    "dm-9-71": {
+      "zh": [
+        "Markov Jr：《算法理论》，第1页。"
+      ],
+      "en": [
+        "Markov Jr, ",
+        {
+          "type": "em",
+          "children": [
+            "The Theory of Algorithms"
+          ]
+        },
+        ", 1."
+      ]
+    },
+    "dm-9-72": {
+      "zh": [
+        "Markov Jr、Nagorny：《算法理论》，第109页。"
+      ],
+      "en": [
+        "Markov Jr and Nagorny, ",
+        {
+          "type": "em",
+          "children": [
+            "The Theory of Algorithms"
+          ]
+        },
+        ", 109."
+      ]
+    },
+    "dm-9-73": {
+      "zh": [
+        "V. F. Turchin：“一种元算法语言”，Kibernetika 4，第4期（1967）：45—54。"
+      ],
+      "en": [
+        "V. F. Turchin, ‘A Meta-algorithmic Language’, ",
+        {
+          "type": "em",
+          "children": [
+            "Kibernetika"
+          ]
+        },
+        " 4, no. 4 (1967): 45–54."
+      ]
+    },
+    "dm-9-74": {
+      "zh": [
+        "B. A. Kushner：“A. A. 马尔可夫的构造数学”，The American Mathematical Monthly 113，第6期（2006）：562。"
+      ],
+      "en": [
+        "B. A. Kushner, ‘The Constructive Mathematics of A. A. Markov’, ",
+        {
+          "type": "em",
+          "children": [
+            "The American Mathematical Monthly"
+          ]
+        },
+        " 113, no. 6 (2006): 562."
+      ]
+    },
+    "dm-9-75": {
+      "zh": [
+        "Sanin：“构造实数与构造数空间”，第13页。"
+      ],
+      "en": [
+        "Sanin, ‘Constructive Real Numbers and Constructive Number Spaces’, 13."
+      ]
+    },
+    "dm-9-76": {
+      "zh": [
+        "Markov Jr：《算法理论》，第441页。"
+      ],
+      "en": [
+        "Markov Jr, ",
+        {
+          "type": "em",
+          "children": [
+            "The Theory of Algorithms"
+          ]
+        },
+        ", 441."
+      ]
+    }
+  }
+}

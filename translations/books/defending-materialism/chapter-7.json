@@ -1,0 +1,5727 @@
+{
+  "id": "chapter-7",
+  "title": "第7章 逻辑与唯物主义",
+  "originalTitle": "Chapter 7: LOGIC AND MATERIALISM",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "dm-ch07-001",
+      "type": "heading",
+      "page": "153",
+      "zh": [
+        "第7章 逻辑与唯物主义"
+      ],
+      "en": [
+        "Chapter 7: LOGIC AND MATERIALISM"
+      ]
+    },
+    {
+      "id": "dm-ch07-002",
+      "type": "subheading",
+      "page": "153",
+      "zh": [
+        "引言"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Introduction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-003",
+      "type": "quote",
+      "page": "153",
+      "zh": [
+        "显然，哲学家——即研究现实本质全貌的人——的职责，还包括探究三段论推理的原则。",
+        {
+          "type": "note",
+          "id": "dm-7-1"
+        }
+      ],
+      "en": [
+        "Clearly then it is the function of the philosopher, ie the student of the whole of reality in its essential nature, to investigate also the principles of syllogistic reasoning.",
+        {
+          "type": "note",
+          "id": "dm-7-1"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-004",
+      "type": "paragraph",
+      "page": "153",
+      "zh": [
+        "自古以来，许多长盛不衰的跨国国家体系都明确以某种有组织宗教作为其主导意识形态。在当今时代，例子包括：神圣罗马帝国、西班牙帝国、葡萄牙帝国和法兰西帝国的天主教；奥斯曼帝国的伊斯兰教；以及大英帝国的圣公会。除了一项重大例外，从未出现过基于世俗哲学的此类体系；即便美国帝国，也公开奉行自然神论，",
+        {
+          "type": "note",
+          "id": "dm-7-2"
+        },
+        " 即使不是彻头彻尾的基督教。"
+      ],
+      "en": [
+        "Since antiquity, many long-lived transnational state systems have been explicitly founded on some organized religion as their explicit dominant ideology. In the current era, examples include Roman Catholicism for the Holy Roman, Spanish, Portuguese and French Empires; Islam for the Ottoman Empire; and Anglicanism for the British Empire. With one major exception, there have been no such systems based on secular philosophies; even the United States empire is openly deist,",
+        {
+          "type": "note",
+          "id": "dm-7-2"
+        },
+        " if not outright Christian."
+      ]
+    },
+    {
+      "id": "dm-ch07-005",
+      "type": "paragraph",
+      "page": "153",
+      "zh": [
+        "这一唯一的例外就是辩证唯物主义，即19世纪末以来世界共产主义运动的哲学。正如采纳主流宗教的帝国曾向数十亿人传授这些宗教一样，直到1989年，前苏联和欧洲社会主义国家也曾向数十亿人教授辩证唯物主义；中国和现存社会主义国家则延续至今。辩证唯物主义的影响范围不容低估。例如，2021年圣公会有8500万领圣餐者，",
+        {
+          "type": "note",
+          "id": "dm-7-3"
+        },
+        "明显少于拥有9500万党员的中国共产党。",
+        {
+          "type": "note",
+          "id": "dm-7-4"
+        }
+      ],
+      "en": [
+        "That one exception is ",
+        {
+          "type": "em",
+          "children": [
+            "dialectical materialism"
+          ]
+        },
+        ", the philosophy of the world communist movement since the late nineteenth century. Just as billions of people were taught the dominant religions in the empires that embraced them, so billions of people have been taught ",
+        {
+          "type": "em",
+          "children": [
+            "dialectical materialism"
+          ]
+        },
+        " in the former USSR and European socialist states until 1989, and in China, and extant socialist states, to the present. The reach of ",
+        {
+          "type": "em",
+          "children": [
+            "dialectical materialism"
+          ]
+        },
+        " should not be underestimated. Thus, in 2021, the Anglican Church had 85 million communicants",
+        {
+          "type": "note",
+          "id": "dm-7-3"
+        },
+        ": markedly less than the Chinese Communist Party with 95 million members.",
+        {
+          "type": "note",
+          "id": "dm-7-4"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-006",
+      "type": "paragraph",
+      "page": "153",
+      "zh": [
+        "就其唯物主义成分而言，辩证唯物主义具有深刻进步性，它摒弃一切形式的唯心主义，并积极倡导科学与理性作为人类理解和改造世界的手段。然而，正如我们将要探讨的，其辩证成分在哲学和意识形态层面存在更多问题。"
+      ],
+      "en": [
+        "In its materialist component, dialectical materialism is profoundly progressive, rejecting all forms of idealism and actively promoting science and rationality as the means for humanity to understand and transform the world. However, as we shall explore, the dialectical component is much more problematic, philosophically and ideologically."
+      ]
+    },
+    {
+      "id": "dm-ch07-007",
+      "type": "paragraph",
+      "page": "153",
+      "zh": [
+        "特别是在苏联，辩证唯物主义被用于党派目的，既用来压制反对派，也用来限制被认为适合进行科学研究的领域。这对苏联遗传学的影响——即实际上拉马克主义被推崇而孟德尔主义被边缘化——已有充分记载。",
+        {
+          "type": "note",
+          "id": "dm-7-5"
+        },
+        "本文将重点探讨其对形式逻辑研究这一较少为人所知的影响；尽管如此，这一影响对苏联数学的发展，特别是计算机科学和实用计算领域，却具有深远意义。"
+      ],
+      "en": [
+        "In particular, in the USSR, dialectical materialism was deployed for partisan purposes, both to suppress opposition, and to constrain what were deemed appropriate areas for scientific investigation. The effects on Soviet genetics, with what was effectively Lamarckianism promoted over Mendelism, are well documented.",
+        {
+          "type": "note",
+          "id": "dm-7-5"
+        },
+        " Here, we will focus on the less well-known impact on the study of formal logic, which, nonetheless, had profound implications for the development of Soviet mathematics, in particular computer science and practical computing."
+      ]
+    },
+    {
+      "id": "dm-ch07-008",
+      "type": "subheading",
+      "page": "154",
+      "zh": [
+        "逻辑概述"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Logic overview"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-009",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "逻辑",
+        {
+          "type": "note",
+          "id": "dm-7-6"
+        },
+        "是一种形式化推理系统。需要特别注意的是，逻辑关注的是真值（即真与假），而非真理本身。我们所推理的事物被假定为独立于逻辑而存在，其真伪已然确定。这些事物可能是事实、假设、推测或信念。逻辑本身无法确定某事是否真实；它关注的是推理的正确性。"
+      ],
+      "en": [
+        "A logic",
+        {
+          "type": "note",
+          "id": "dm-7-6"
+        },
+        " is a formalized system for reasoning. It is important to note that logic is about ",
+        {
+          "type": "em",
+          "children": [
+            "truth values"
+          ]
+        },
+        " (i.e. true and false) rather than ",
+        {
+          "type": "em",
+          "children": [
+            "the truth"
+          ]
+        },
+        ". The things we reason about are ",
+        {
+          "type": "em",
+          "children": [
+            "assumed"
+          ]
+        },
+        " to be true or false independently of logic. They may be factual, or hypothetical, or speculations or beliefs. Logic cannot in itself establish whether or not something is truthful; rather, it is concerned with ",
+        {
+          "type": "em",
+          "children": [
+            "correct reasoning"
+          ]
+        },
+        "."
+      ]
+    },
+    {
+      "id": "dm-ch07-010",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "当我们说逻辑是形式化的，是指存在以下规则："
+      ],
+      "en": [
+        "When we say logic is ",
+        {
+          "type": "em",
+          "children": [
+            "formalized"
+          ]
+        },
+        ", we mean that there are rules for:"
+      ]
+    },
+    {
+      "id": "dm-ch07-011",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "构造用于推理的陈述，即文法或句法；"
+      ],
+      "en": [
+        "constructing statements to reason about, i.e.grammar or syntax;"
+      ]
+    },
+    {
+      "id": "dm-ch07-012",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "为命题赋予意义，即语义学；"
+      ],
+      "en": [
+        "giving meaning to statements, i.e. semantics;"
+      ]
+    },
+    {
+      "id": "dm-ch07-013",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "操作陈述，以确定其性质，通常是判断它们总为真或假、还是部分情形下为真或假，即通过证明或求值。"
+      ],
+      "en": [
+        "manipulating statements to establish their properties, commonly whether they are always, or partially, true or false, i.e. through proof or evaluation."
+      ]
+    },
+    {
+      "id": "dm-ch07-014",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "我们将在下文进一步探讨这些内容，但在此不会进行详尽或形式化论述。"
+      ],
+      "en": [
+        "We will further explore these below, but we won’t exhaustively or formally treat them here."
+      ]
+    },
+    {
+      "id": "dm-ch07-015",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "逻辑论证是从前提（也称为假设）推导出结论的过程。推理步骤是通过推理规则进行的，这是古代更为复杂的三段论的一种现代形式，将在后续章节中讨论。"
+      ],
+      "en": [
+        "A logical argument proceeds from ",
+        {
+          "type": "em",
+          "children": [
+            "premises"
+          ]
+        },
+        ", also known as ",
+        {
+          "type": "em",
+          "children": [
+            "assumptions"
+          ]
+        },
+        ", to ",
+        {
+          "type": "em",
+          "children": [
+            "conclusions"
+          ]
+        },
+        ". Reasoning steps are through ",
+        {
+          "type": "em",
+          "children": [
+            "rules of inference"
+          ]
+        },
+        ", a modern form of the more convoluted ",
+        {
+          "type": "em",
+          "children": [
+            "syllogism"
+          ]
+        },
+        " of antiquity, discussed in subsequent sections."
+      ]
+    },
+    {
+      "id": "dm-ch07-016",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "三段论一般采用如下三项形式："
+      ],
+      "en": [
+        "A syllogism has the general three term form:"
+      ]
+    },
+    {
+      "id": "dm-ch07-017",
+      "type": "quote",
+      "page": "154",
+      "zh": [
+        "前提",
+        {
+          "type": "math",
+          "tex": "_1"
+        }
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "premise_1"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-018",
+      "type": "quote",
+      "page": "154",
+      "zh": [
+        "前提",
+        {
+          "type": "math",
+          "tex": "_2"
+        }
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "premise_2"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-019",
+      "type": "quote",
+      "page": "154",
+      "zh": [
+        "结论"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "conclusion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-020",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "读作：给定前提",
+        {
+          "type": "math",
+          "tex": "_1"
+        },
+        "和前提",
+        {
+          "type": "math",
+          "tex": "_2"
+        },
+        "，可以得出结论。"
+      ],
+      "en": [
+        "and reads as: given ",
+        {
+          "type": "math",
+          "tex": "premise_1"
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "premise_2"
+        },
+        ", we can conclude ",
+        {
+          "type": "em",
+          "children": [
+            "conclusion"
+          ]
+        },
+        "."
+      ]
+    },
+    {
+      "id": "dm-ch07-021",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "例如，假设A 和B 是两个命题，且我们接受“如果A 成立，则B 也成立”这一前提。那么，如果我们认为A 成立，我们就会合理地推断B 也成立，即B 在逻辑上由A 推导而出。用三段论形式表示，即"
+      ],
+      "en": [
+        "For example, suppose ",
+        {
+          "type": "em",
+          "children": [
+            "A"
+          ]
+        },
+        " and ",
+        {
+          "type": "em",
+          "children": [
+            "B"
+          ]
+        },
+        " are statements, and we accept that if ",
+        {
+          "type": "em",
+          "children": [
+            "A"
+          ]
+        },
+        " is the case then ",
+        {
+          "type": "em",
+          "children": [
+            "B"
+          ]
+        },
+        " is the case. Then, if we take it that ",
+        {
+          "type": "em",
+          "children": [
+            "A"
+          ]
+        },
+        " is the case, we will reasonably infer that ",
+        {
+          "type": "em",
+          "children": [
+            "B"
+          ]
+        },
+        " is the case as well, that is ",
+        {
+          "type": "em",
+          "children": [
+            "B"
+          ]
+        },
+        " logically follows from ",
+        {
+          "type": "em",
+          "children": [
+            "A"
+          ]
+        },
+        ". In syllogistic form, this is"
+      ]
+    },
+    {
+      "id": "dm-ch07-022",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "1. A"
+      ],
+      "en": [
+        "1. A"
+      ]
+    },
+    {
+      "id": "dm-ch07-023",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "2. 如果A，那么B"
+      ],
+      "en": [
+        "2. if ",
+        {
+          "type": "em",
+          "children": [
+            "A"
+          ]
+        },
+        " then ",
+        {
+          "type": "em",
+          "children": [
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-024",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "3. B"
+      ],
+      "en": [
+        "3. ",
+        {
+          "type": "em",
+          "children": [
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-025",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "当代逻辑的这一基本规则称为肯定前件式（Modus Ponens），即肯定的方法。例如："
+      ],
+      "en": [
+        "This fundamental rule of contemporary logic is known as ",
+        {
+          "type": "em",
+          "children": [
+            "Modus Ponems"
+          ]
+        },
+        ", or the method of affirming. For example, consider:"
+      ],
+      "review": "底本拉丁词误印Modus Ponems，英文照录，中文用通行拼写Ponens。"
+    },
+    {
+      "id": "dm-ch07-026",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "1. 巴斯特是一只猫"
+      ],
+      "en": [
+        "1. Bastet is a cat"
+      ]
+    },
+    {
+      "id": "dm-ch07-027",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "2. 如果巴斯特是一只猫，那么巴斯特喜欢鱼"
+      ],
+      "en": [
+        "2. if Bastet is a cat then Bastet likes fish"
+      ]
+    },
+    {
+      "id": "dm-ch07-028",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "3. 所以巴斯特喜欢鱼"
+      ],
+      "en": [
+        "3. so Bastet likes fish"
+      ]
+    },
+    {
+      "id": "dm-ch07-029",
+      "type": "paragraph",
+      "page": "154",
+      "zh": [
+        "这看起来完全合乎情理。"
+      ],
+      "en": [
+        "This seems entirely reasonable."
+      ]
+    },
+    {
+      "id": "dm-ch07-030",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "在论辩中，人们可能会激烈质疑A 是否成立，或者B 是否确实能从A 推导出来。例如，考虑以下情况："
+      ],
+      "en": [
+        "In arguments, people may vociferously question whether or not ",
+        {
+          "type": "em",
+          "children": [
+            "A"
+          ]
+        },
+        " is the case, or whether or not ",
+        {
+          "type": "em",
+          "children": [
+            "B"
+          ]
+        },
+        " actually follows from ",
+        {
+          "type": "em",
+          "children": [
+            "A"
+          ]
+        },
+        ". For example, consider:"
+      ]
+    },
+    {
+      "id": "dm-ch07-031",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "1. 巴斯特是一位战斗女神"
+      ],
+      "en": [
+        "1. Bastet is a warrior goddess"
+      ]
+    },
+    {
+      "id": "dm-ch07-032",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "2. 如果巴斯特是一位战斗女神，那么巴斯特保卫国王"
+      ],
+      "en": [
+        "2. if Bastet is a warrior goddess then Bastet defends the king"
+      ]
+    },
+    {
+      "id": "dm-ch07-033",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "3. 所以巴斯特保卫国王"
+      ],
+      "en": [
+        "3. so Bastet defends the king"
+      ]
+    },
+    {
+      "id": "dm-ch07-034",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "我们可能会反驳道："
+      ],
+      "en": [
+        "We might argue:"
+      ]
+    },
+    {
+      "id": "dm-ch07-035",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "没有女神；"
+      ],
+      "en": [
+        "there are no goddesses;"
+      ]
+    },
+    {
+      "id": "dm-ch07-036",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "有女神，但没有战斗女神；"
+      ],
+      "en": [
+        "there are goddesses but no warrior goddesses;"
+      ]
+    },
+    {
+      "id": "dm-ch07-037",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "有战斗女神，但巴斯特不是其中之一；"
+      ],
+      "en": [
+        "there are warrior goddesses but Bastet isn’t one;"
+      ]
+    },
+    {
+      "id": "dm-ch07-038",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "巴斯特是一位战斗女神，但没有国王；"
+      ],
+      "en": [
+        "Bastet is a warrior goddess but there is no king;"
+      ]
+    },
+    {
+      "id": "dm-ch07-039",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "巴斯特是一位战斗女神，但她不保卫国王；"
+      ],
+      "en": [
+        "Bastet is a warrior goddess but she doesn’t defend the king;"
+      ]
+    },
+    {
+      "id": "dm-ch07-040",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "等等。"
+      ],
+      "en": [
+        "etc."
+      ]
+    },
+    {
+      "id": "dm-ch07-041",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "但如果我们承认“巴斯特是一位战斗女神”为真，并承认“如果巴斯特是一位战斗女神，那么她保卫国王”为真，那么显然，“巴斯特保卫国王”就是一个无可置疑的结论。"
+      ],
+      "en": [
+        "But if we accept the truth of ‘Bastet is a warrior goddess’, and of ‘if Bastet is a warrior goddess then she defends the king’, then clearly ‘Bastet defends the king’ is an unimpeachable conclusion."
+      ]
+    },
+    {
+      "id": "dm-ch07-042",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "也就是说，一般而言，只要假定A以及“A蕴含B”都成立，就没有人会质疑推导出B。任何争论都针对前提，而非推导；前提的真或假最终是在逻辑之外确定的。",
+        {
+          "type": "note",
+          "id": "dm-7-7"
+        }
+      ],
+      "en": [
+        "That is, in the general case, nobody questions the deduction of ",
+        {
+          "type": "em",
+          "children": [
+            "B"
+          ]
+        },
+        ", assuming that both ",
+        {
+          "type": "em",
+          "children": [
+            "A"
+          ]
+        },
+        ", and ",
+        {
+          "type": "em",
+          "children": [
+            "A"
+          ]
+        },
+        " implies ",
+        {
+          "type": "em",
+          "children": [
+            "B"
+          ]
+        },
+        ", are the case. Any argument is about the premises, whose truth or falsity is ultimately determined outside of logic,",
+        {
+          "type": "note",
+          "id": "dm-7-7"
+        },
+        " not the deduction."
+      ]
+    },
+    {
+      "id": "dm-ch07-043",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "在当代逻辑中，我们现在把命题逻辑与谓词逻辑区分开来。通常把二者统称为“演算”，这源于乔治·布尔——他把自己开创性的体系（下文将讨论）命名为“逻辑演算”。",
+        {
+          "type": "note",
+          "id": "dm-7-8"
+        }
+      ],
+      "en": [
+        "In contemporary logic, we now distinguish ",
+        {
+          "type": "em",
+          "children": [
+            "propositional"
+          ]
+        },
+        " from ",
+        {
+          "type": "em",
+          "children": [
+            "predicate"
+          ]
+        },
+        " logic. It is common to refer to both as ",
+        {
+          "type": "em",
+          "children": [
+            "calculi"
+          ]
+        },
+        ", after George Boole, who called his pioneering system, discussed below, the ",
+        {
+          "type": "em",
+          "children": [
+            "Calculus of Logic"
+          ]
+        },
+        ".",
+        {
+          "type": "note",
+          "id": "dm-7-8"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-044",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "命题逻辑涉及命题（即简单陈述）的真值判断。命题由真值及其抽象变量构成。命题可以被否定（非），并通过析取（或）、合取（且）和蕴含（如果……那么……）进行组合。"
+      ],
+      "en": [
+        "Propositional logic is to do with propositions (i.e. simple statements) being true or false. Propositions are built from truth values, and variables that abstract over them. Propositions may be ",
+        {
+          "type": "em",
+          "children": [
+            "negated"
+          ]
+        },
+        " (not) and combined through ",
+        {
+          "type": "em",
+          "children": [
+            "disjunction"
+          ]
+        },
+        " (or), ",
+        {
+          "type": "em",
+          "children": [
+            "conjunction"
+          ]
+        },
+        " (and), and ",
+        {
+          "type": "em",
+          "children": [
+            "implication"
+          ]
+        },
+        " (if . . . then . . .)."
+      ]
+    },
+    {
+      "id": "dm-ch07-045",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "谓词逻辑则涉及关于事物集合及其成员的命题的真值问题。谓词逻辑在命题逻辑的真值和变量基础上引入了谓词——即返回真值的函数。此外，在谓词逻辑中，命题可以进行量化，以表达全称性质（即所有事物都具有某种性质）和存在性性质（即某些事物，即至少一个，具有某种性质）。"
+      ],
+      "en": [
+        "Predicate logic is then to do with propositions about collections of things, and their members, being true or false. Predicate logic extends propositional logic truth values and variables with ",
+        {
+          "type": "em",
+          "children": [
+            "predicates"
+          ]
+        },
+        ", which are functions that return truth values. Further, in predicate logic, propositions may be ",
+        {
+          "type": "em",
+          "children": [
+            "quantified"
+          ]
+        },
+        " to express ",
+        {
+          "type": "em",
+          "children": [
+            "universal"
+          ]
+        },
+        " properties, that is, all things having some property, and ",
+        {
+          "type": "em",
+          "children": [
+            "existential"
+          ]
+        },
+        " properties, that is, some things (i.e. at least one) having some property."
+      ]
+    },
+    {
+      "id": "dm-ch07-046",
+      "type": "paragraph",
+      "page": "155",
+      "zh": [
+        "我们还将不涉及特定对象的“纯粹逻辑”与涉及特定事物领域的“应用逻辑”区分开来。正如我们将要讨论的，从古代到19 世纪末，逻辑的这些方面一直被混为一谈。"
+      ],
+      "en": [
+        "We also distinguish ",
+        {
+          "type": "em",
+          "children": [
+            "pure"
+          ]
+        },
+        " logics, which are not about anything in particular, from ",
+        {
+          "type": "em",
+          "children": [
+            "applied"
+          ]
+        },
+        " logics, which are about specific domains of things. As we shall discuss, from antiquity until the late nineteenth century, all of these aspects of logic were conflated."
+      ]
+    },
+    {
+      "id": "dm-ch07-047",
+      "type": "paragraph",
+      "page": "155–156",
+      "zh": [
+        "一个关键的哲学问题涉及真值和推理规则的地位，这是关于数字和函数等数学实体的地位这一更广泛问题的一部分。它们仅仅是纸上的符号吗？它们是否具有某种更深层的观念实在？或者，正如我们将论证的，它们是物质化数学系统从物质现实中抽象出来的、并与之具有强烈对应关系的组成部分？"
+      ],
+      "en": [
+        "A key philosophical question concerns the status of truth values and rules of inference, as part of a wider question about the status of mathematical entities like numbers and functions. Are they just marks on paper? Do they have some deeper ideal reality? Or are they, as we shall argue, components of materialized mathematical systems, abstracted from and with strong correspondences, to material reality?"
+      ]
+    },
+    {
+      "id": "dm-ch07-048",
+      "type": "subheading",
+      "page": "156",
+      "zh": [
+        "逻辑与辩证法"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Logic and dialectics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-049",
+      "type": "paragraph",
+      "page": "156",
+      "zh": [
+        "逻辑与辩证法是唯物辩证法的核心组成部分。",
+        {
+          "type": "note",
+          "id": "dm-7-9"
+        },
+        "然而，厘清逻辑与辩证法的关系却是一件出人意料地困难的事。"
+      ],
+      "en": [
+        "Logic and dialectics are core components of the ",
+        {
+          "type": "em",
+          "children": [
+            "materialist dialectic."
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-7-9"
+        },
+        " However, untangling logic and dialectics is a curiously difficult business."
+      ]
+    },
+    {
+      "id": "dm-ch07-050",
+      "type": "paragraph",
+      "page": "156",
+      "zh": [
+        "亚里士多德实际上所指的正是辩证法，而非逻辑学。在《修辞学》中，",
+        {
+          "type": "note",
+          "id": "dm-7-10"
+        },
+        "他把关注非正式说服的修辞学，与关注通过三段论进行形式推理的辩证法区分开来（第13 页）。这暗示着逻辑学是辩证法的一部分。"
+      ],
+      "en": [
+        "Aristotle actually refers to dialectics rather than logic. In ",
+        {
+          "type": "em",
+          "children": [
+            "The ‘Art’ of Rhetoric"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-10"
+        },
+        " he distinguishes rhetoric, concerned with informal persuasion, from dialectics, concerned with formal reasoning through the syllogism (p13). This implies that logic is part of dialectics."
+      ]
+    },
+    {
+      "id": "dm-ch07-051",
+      "type": "paragraph",
+      "page": "156",
+      "zh": [
+        "亚里士多德指出，修辞学和辩证法都使用三段论推理和归纳推理。基于辩证三段论的推理，必须把所有步骤明确表述出来；但修辞三段论，即省略三段论，可以省略步骤。此外，辩证归纳以发现模式为基础，修辞归纳则以具体例子为基础。总的来说："
+      ],
+      "en": [
+        "Aristotle notes that both rhetoric and dialectics employ syllogistic and inductive reasoning. For reasoning based on the dialectical syllogism, all steps must be made explicit. However, for the rhetorical syllogism, the ",
+        {
+          "type": "em",
+          "children": [
+            "enthymeme"
+          ]
+        },
+        ", steps may be elided. Further, dialectical induction is based on finding patterns, whereas rhetorical induction is based on concrete examples. Overall:"
+      ]
+    },
+    {
+      "id": "dm-ch07-052",
+      "type": "quote",
+      "page": "156",
+      "zh": [
+        "因此，修辞学的功能是处理那些我们加以审议、但尚无系统规则的事物；（第23 页）"
+      ],
+      "en": [
+        "The function of Rhetoric, then, is to deal with things about which we deliberate, but for which we have no systematic rules; (p23)."
+      ]
+    },
+    {
+      "id": "dm-ch07-053",
+      "type": "paragraph",
+      "page": "156",
+      "zh": [
+        "这暗示着辩证法是系统化的。"
+      ],
+      "en": [
+        "The implication is that dialectics is systematic."
+      ]
+    },
+    {
+      "id": "dm-ch07-054",
+      "type": "paragraph",
+      "page": "156",
+      "zh": [
+        "亚里士多德还把关注特定领域的科学，与作为普遍适用话语模式的修辞学和辩证法区分开来。这一点体现在随后的“三艺”与“四艺”的区分中，“三艺”为针对“四艺”应用领域的推理和论证提供了纯粹的工具。"
+      ],
+      "en": [
+        "Aristotle also distinguishes sciences, concerned with particular domains, from both rhetoric and dialectic as universally applicable modes of discourse. This is reflected in the subsequent Trivium/Quadrivium distinction, with the Trivium providing the pure tools for reasoning and arguing about the Quadrivium applied domains."
+      ]
+    },
+    {
+      "id": "dm-ch07-055",
+      "type": "paragraph",
+      "page": "156",
+      "zh": [
+        "他进一步指出，当一个人对某个领域形成更深刻的理解时："
+      ],
+      "en": [
+        "He further says that, as someone develops richer understandings of a domain:"
+      ]
+    },
+    {
+      "id": "dm-ch07-056",
+      "type": "quote",
+      "page": "156",
+      "zh": [
+        "他就越会在不知不觉中形成一门与辩证法和修辞学完全不同的科学。因为一旦找到第一原理，那就不再是辩证法或修辞学，而是他已经掌握其原理的那门科学。（第31页）"
+      ],
+      "en": [
+        "the more he will unconsciously produce a science quite different from Dialectic and Rhetoric. For if once he hits upon first principles, it will no longer be Dialectic or Rhetoric, but that science whose principles he has arrived at. (p31)"
+      ]
+    },
+    {
+      "id": "dm-ch07-057",
+      "type": "paragraph",
+      "page": "156",
+      "zh": [
+        "显然，这一点同样适用于辩证法与逻辑之间的动态关系本身。正如我们将看到的，随着逻辑日益建立在数学基础上，辩证法的空间便随之缩小，这与前几章所讨论的、更广泛的科学进步压缩了宗教和哲学的空间的情况如出一辙。"
+      ],
+      "en": [
+        "Clearly, this applies to the dialectics/logic dynamic itself. As we shall see, as logic became more mathematically grounded, so the space for dialectics shrank, much as wider scientific advances shrank the space for both religion and philosophy, as discussed in earlier chapters."
+      ]
+    },
+    {
+      "id": "dm-ch07-058",
+      "type": "paragraph",
+      "page": "156",
+      "zh": [
+        "在《工具论》（《前分析篇》）",
+        {
+          "type": "note",
+          "id": "dm-7-11"
+        },
+        " 中，亚里士多德在讨论三段论的前提类型时，进一步将逻辑从辩证法和科学中抽象出来（第200 页和第202 页）。一个证明性（即科学性）的前提是真实的，并基于“基本公设”；而对于辩证法的前提，则可能在两个“相互矛盾的陈述”之间进行选择。因此，对于三段论而言，无论前提源自何处，它都仅是真或假。也就是说，无论是科学还是辩证法，一旦某个前提确立，便可运用三段论来得出结论。"
+      ],
+      "en": [
+        "In ",
+        {
+          "type": "em",
+          "children": [
+            "The Organon (Prior Analytics)"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-11"
+        },
+        " Aristotle further abstracts logic from both dialectics and science in discussing types of premises for syllogisms (p200 & 202). A demonstrative (i.e. scientific) premise is true and based on ‘fundamental postulates’, whereas, for a dialectical premise, a choice may be made between two ‘contradictory statements’. Then, for a syllogism, a premise is simply true or false, regardless of origin. That is, for both science and dialectics, once some premise is established, a syllogism may be applied to draw a conclusion."
+      ]
+    },
+    {
+      "id": "dm-ch07-059",
+      "type": "subheading",
+      "page": "157",
+      "zh": [
+        "数学形式"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Mathematical forms"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-060",
+      "type": "paragraph",
+      "page": "157",
+      "zh": [
+        "上文已提到，“三艺”中的逻辑有别于“四艺”中的算术、几何学和天文学这些数学科学。此外，亚里士多德在《形而上学》",
+        {
+          "type": "note",
+          "id": "dm-7-12"
+        },
+        "中指出，数学具有层级："
+      ],
+      "en": [
+        "We saw above that Logic in the Trivium was distinguished from the mathematical sciences of Arithmetic, Geometry and Astronomy in the Quadrivium. Further, in ",
+        {
+          "type": "em",
+          "children": [
+            "The Metaphysics"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-12"
+        },
+        " Aristotle says that there is hierarchy in mathematics:"
+      ]
+    },
+    {
+      "id": "dm-ch07-061",
+      "type": "quote",
+      "page": "157",
+      "zh": [
+        "数学也有其分支——在数学领域中，存在一门主要科学和一门次要科学，以及其他依次排列的学科。（第151 页）"
+      ],
+      "en": [
+        "mathematics too has divisions, – there is a primary and a secondary science, and others successively, in the realm of mathematics. (p151)"
+      ]
+    },
+    {
+      "id": "dm-ch07-062",
+      "type": "paragraph",
+      "page": "157",
+      "zh": [
+        "此外，在探讨哲学的层次结构时，他把普遍（即纯粹）数学与具体（即应用）数学科学区分开来："
+      ],
+      "en": [
+        "and, in considering how philosophy is layered, distinguishes universal (i.e. pure) mathematics, from specific (i.e. applied) mathematical sciences:"
+      ]
+    },
+    {
+      "id": "dm-ch07-063",
+      "type": "quote",
+      "page": "157",
+      "zh": [
+        "人们确实可能会提出这样一个问题：第一哲学是普遍的，还是只涉及某一类或某一实体；因为就连数学科学在这方面也存在差异——几何学和天文学涉及特定类型的实体，而普遍数学则同样适用于所有类型。（第297 页）"
+      ],
+      "en": [
+        "One might indeed raise the question whether the primary philosophy is universal or deals with some one genus or entity; because even the mathematical sciences differ in this respect – geometry and astronomy deal with a particular kind of entity, whereas universal mathematics applies to all kinds alike. (p297)"
+      ]
+    },
+    {
+      "id": "dm-ch07-064",
+      "type": "paragraph",
+      "page": "157",
+      "zh": [
+        "亚里士多德虽受过柏拉图主义训练，但在数学的形而上学地位问题上似乎并未明确表态，但他指出，对于他的导师而言，数学介于物质现实与纯粹理念之间："
+      ],
+      "en": [
+        "Aristotle, a Platonist by training, nonetheless appears uncommitted as to the metaphysical status of mathematics, but notes that, for his master, mathematics lies between material reality and pure idea:"
+      ]
+    },
+    {
+      "id": "dm-ch07-065",
+      "type": "quote",
+      "page": "157",
+      "zh": [
+        "此外，他［柏拉图］指出，除了可感之物和理念之外，还存在一个中间类别，即数学对象［脚注：即算术数和几何图形］，它们与可感之物的区别在于永恒且不变，与理念的区别则在于：数学对象中存在许多相似的对象，而每个理念本身都是独一无二的。（第45 页）"
+      ],
+      "en": [
+        "Further, he [Plato] states that besides sensible things and the Forms there exists an intermediate class, ",
+        {
+          "type": "em",
+          "children": [
+            "the objects of mathematics"
+          ]
+        },
+        " [footnote: ie arithmetical numbers and geometric figures], which differ from sensible things in being eternal and immutable, and from the the Forms in that there are many similar objects of mathematics, whereas each Form is itself unique. (p45)"
+      ]
+    },
+    {
+      "id": "dm-ch07-066",
+      "type": "paragraph",
+      "page": "157",
+      "zh": [
+        "对柏拉图主义者而言，形式是抽象的理念，但仍具有实在性。",
+        {
+          "type": "note",
+          "id": "dm-7-13"
+        },
+        "我们认为，数学对象通过其在符号系统中的物理表征而具有物质存在。例如，理念中的立方体无非就是数学立方体，而数学立方体本身是一种表征物理立方体的物质化构造。"
+      ],
+      "en": [
+        "For Platonists, the ",
+        {
+          "type": "em",
+          "children": [
+            "forms"
+          ]
+        },
+        " are abstract ideals which nonetheless are real.",
+        {
+          "type": "note",
+          "id": "dm-7-13"
+        },
+        " We argue that mathematical objects have material beings in their physical representations within symbol systems. So, for example, the ideal cube is no more than the mathematical cube, itself a materialized construct that characterizes physical cubes."
+      ]
+    },
+    {
+      "id": "dm-ch07-067",
+      "type": "subheading",
+      "page": "157",
+      "zh": [
+        "三段论"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Syllogisms"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-068",
+      "type": "paragraph",
+      "page": "157",
+      "zh": [
+        "亚里士多德对三段论的阐述是前现代逻辑的关键。接下来我们将稍作深入探讨，但不会进行形式化论证。简明扼要的论述可参见史密斯。",
+        {
+          "type": "note",
+          "id": "dm-7-14"
+        }
+      ],
+      "en": [
+        "Aristotle’s formulations of syllogisms are key to pre-modern logic. We will now look in slightly more depth at these, but we won’t give a formal treatment. For a succinct account, see Smith.",
+        {
+          "type": "note",
+          "id": "dm-7-14"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-069",
+      "type": "paragraph",
+      "page": "157",
+      "zh": [
+        "亚里士多德在《工具论》中探讨了三段论，涉及对个体及事物集合的属性的推理，以及对特定领域和一般领域事物的推理。他大量运用具体实例，正如我们上面所见，他称之为修辞归纳。"
+      ],
+      "en": [
+        "Aristotle explores syllogisms in ",
+        {
+          "type": "em",
+          "children": [
+            "The Organon"
+          ]
+        },
+        ", considering reasoning about properties of individuals and collections of things, and about things from particular and general domains. He makes considerable use of concrete examples, which, as we saw above, he called rhetorical induction."
+      ]
+    },
+    {
+      "id": "dm-ch07-070",
+      "type": "paragraph",
+      "page": "157–158",
+      "zh": [
+        "首先，在《解释篇》",
+        {
+          "type": "note",
+          "id": "dm-7-15"
+        },
+        "中，亚里士多德定义了命题的句法，但没有使用任何符号。单句由名词及作用于名词的动词构成，还可以进一步连接。命题则是作出肯定或否定的句子，主项可以是全称的，也可以是单称的。《解释篇》还引入了矛盾命题这一关键概念。"
+      ],
+      "en": [
+        "First of all, in ",
+        {
+          "type": "em",
+          "children": [
+            "On Interpretation"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-15"
+        },
+        " Aristotle defines the syntax of propositions, but without using any notation. Single sentences are composed of nouns, and verbs that act on them, and may be further conjoined. Propositions are then sentences which are affirmations or denials, and subjects may be universal or singular. ",
+        {
+          "type": "em",
+          "children": [
+            "On Interpretation"
+          ]
+        },
+        " also introduces the key notion of contradictory propositions."
+      ]
+    },
+    {
+      "id": "dm-ch07-071",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "因此，亚里士多德提出了四个基本命题模式，通常表述为："
+      ],
+      "en": [
+        "Thus, Aristotle enunciates four fundamental schemes for propositions, commonly expressed as:"
+      ]
+    },
+    {
+      "id": "dm-ch07-072",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "A：全称肯定命题，例如“所有X 都是Y”；"
+      ],
+      "en": [
+        "A: universal affirmative, for example, all ",
+        {
+          "type": "em",
+          "children": [
+            "X"
+          ]
+        },
+        " are ",
+        {
+          "type": "em",
+          "children": [
+            "Y"
+          ]
+        },
+        ";"
+      ]
+    },
+    {
+      "id": "dm-ch07-073",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "I：特称肯定命题，例如“有些X 是Y”；"
+      ],
+      "en": [
+        "I: particular affirmative, for example, some ",
+        {
+          "type": "em",
+          "children": [
+            "X"
+          ]
+        },
+        " is ",
+        {
+          "type": "em",
+          "children": [
+            "Y"
+          ]
+        },
+        ";"
+      ]
+    },
+    {
+      "id": "dm-ch07-074",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "E：全称否定命题，例如“没有X 是Y”；"
+      ],
+      "en": [
+        "E: universal negative, for example, no ",
+        {
+          "type": "em",
+          "children": [
+            "X"
+          ]
+        },
+        " is ",
+        {
+          "type": "em",
+          "children": [
+            "Y"
+          ]
+        },
+        ";"
+      ]
+    },
+    {
+      "id": "dm-ch07-075",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "O：特称否定命题，例如“有些X 不是Y”。"
+      ],
+      "en": [
+        "O: particular negative, for example, some ",
+        {
+          "type": "em",
+          "children": [
+            "X"
+          ]
+        },
+        " is not ",
+        {
+          "type": "em",
+          "children": [
+            "Y"
+          ]
+        },
+        ";"
+      ]
+    },
+    {
+      "id": "dm-ch07-076",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "这些模式都具有“主项是谓项”的结构。这里的X、Y、Z可以一致地替换为具体名词。开头的字母A、I、E、O是传统的标识。"
+      ],
+      "en": [
+        "These schemes all have the structure: ",
+        {
+          "type": "em",
+          "children": [
+            "subject"
+          ]
+        },
+        " is/are ",
+        {
+          "type": "em",
+          "children": [
+            "predicate"
+          ]
+        },
+        ". Here, ",
+        {
+          "type": "em",
+          "children": [
+            "X"
+          ]
+        },
+        " , ",
+        {
+          "type": "em",
+          "children": [
+            "Y"
+          ]
+        },
+        " and ",
+        {
+          "type": "em",
+          "children": [
+            "Z"
+          ]
+        },
+        " may be replaced consistently by concrete nouns. The initial letters A, I, E and O are the classical identifiers."
+      ]
+    },
+    {
+      "id": "dm-ch07-077",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "于是，《前分析篇》",
+        {
+          "type": "note",
+          "id": "dm-7-16"
+        },
+        "探讨的三种三段论格可以表述为："
+      ],
+      "en": [
+        "Then, the three syllogistic ",
+        {
+          "type": "em",
+          "children": [
+            "figures"
+          ]
+        },
+        " explored in ",
+        {
+          "type": "em",
+          "children": [
+            "Prior Analytics"
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-7-16"
+        },
+        " may be expressed as:"
+      ]
+    },
+    {
+      "id": "dm-ch07-078",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "1. P 是Q；Q 是R；P 是R"
+      ],
+      "en": [
+        "1. ",
+        {
+          "type": "em",
+          "children": [
+            "P"
+          ]
+        },
+        " is ",
+        {
+          "type": "em",
+          "children": [
+            "Q"
+          ]
+        },
+        "; ",
+        {
+          "type": "em",
+          "children": [
+            "Q"
+          ]
+        },
+        " is ",
+        {
+          "type": "em",
+          "children": [
+            "R"
+          ]
+        },
+        "; ",
+        {
+          "type": "em",
+          "children": [
+            "P"
+          ]
+        },
+        " is ",
+        {
+          "type": "em",
+          "children": [
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-079",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "2. P 是Q；P 是R；Q 是R"
+      ],
+      "en": [
+        "2. ",
+        {
+          "type": "em",
+          "children": [
+            "P"
+          ]
+        },
+        " is ",
+        {
+          "type": "em",
+          "children": [
+            "Q"
+          ]
+        },
+        "; ",
+        {
+          "type": "em",
+          "children": [
+            "P"
+          ]
+        },
+        " is ",
+        {
+          "type": "em",
+          "children": [
+            "R"
+          ]
+        },
+        "; ",
+        {
+          "type": "em",
+          "children": [
+            "Q"
+          ]
+        },
+        " is ",
+        {
+          "type": "em",
+          "children": [
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-080",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "3. P 是R；Q 是R；P 是Q"
+      ],
+      "en": [
+        "3. ",
+        {
+          "type": "em",
+          "children": [
+            "P"
+          ]
+        },
+        " is ",
+        {
+          "type": "em",
+          "children": [
+            "R"
+          ]
+        },
+        "; ",
+        {
+          "type": "em",
+          "children": [
+            "Q"
+          ]
+        },
+        " is ",
+        {
+          "type": "em",
+          "children": [
+            "R"
+          ]
+        },
+        "; ",
+        {
+          "type": "em",
+          "children": [
+            "P"
+          ]
+        },
+        " is ",
+        {
+          "type": "em",
+          "children": [
+            "Q"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-081",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "需注意，这些属于第二级模式，其中P、Q 和R 可分别替换为A、I、E 和O 这四种命题形式之一，从而形成第一级模式。"
+      ],
+      "en": [
+        "Note that these are second level schema, where ",
+        {
+          "type": "em",
+          "children": [
+            "P"
+          ]
+        },
+        ", ",
+        {
+          "type": "em",
+          "children": [
+            "Q"
+          ]
+        },
+        " and ",
+        {
+          "type": "em",
+          "children": [
+            "R"
+          ]
+        },
+        " may be replaced by one of the four proposition forms A, I, E and O, to give a first level schema."
+      ]
+    },
+    {
+      "id": "dm-ch07-082",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "这些格的有效性取决于我们代入P、Q 和R 的项是全称还是特称，以及哪些主项和谓项在哪些项中是共有的。"
+      ],
+      "en": [
+        "The validity of these figures then depends on whether the terms we substitute for ",
+        {
+          "type": "em",
+          "children": [
+            "P"
+          ]
+        },
+        ", ",
+        {
+          "type": "em",
+          "children": [
+            "Q"
+          ]
+        },
+        " and ",
+        {
+          "type": "em",
+          "children": [
+            "R"
+          ]
+        },
+        " are universal or particular, and which subjects and predicates are common to which terms."
+      ]
+    },
+    {
+      "id": "dm-ch07-083",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "亚里士多德穷尽考察了这三种格中全称／特称与主项／谓项的所有可能组合，通过推导矛盾排除了其中许多组合。他还说明了如何把第二格和第三格归约为第一格。"
+      ],
+      "en": [
+        "Aristotle exhaustively considers all the universal/particular and subject/ predicate possibilities for the three figures, dismissing many by deriving contradictions. He also shows how the second and third figures may be reduced to the first figure."
+      ]
+    },
+    {
+      "id": "dm-ch07-084",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "总体而言，亚里士多德建立了一个既用于构建又用于分析论证的框架，该框架一直被广泛使用，直至19 世纪中叶逻辑学和数学发生革命性变革。"
+      ],
+      "en": [
+        "Overall, Aristotle developed a framework both for constructing and analysing arguments that was in widespread use until the revolutions in logic and mathematics in the mid-nineteenth century."
+      ]
+    },
+    {
+      "id": "dm-ch07-085",
+      "type": "subheading",
+      "page": "158",
+      "zh": [
+        "亚里士多德之后"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "After Aristotle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-086",
+      "type": "paragraph",
+      "page": "158",
+      "zh": [
+        "亚里士多德的著作由波爱修斯",
+        {
+          "type": "note",
+          "id": "dm-7-17"
+        },
+        "译成拉丁文；他约生活于公元475年至526年。此后，这些著作实际上从欧洲思想中失落了数百年，直到被阿拉伯学者“重新发现”。后来，亚里士多德哲学在中世纪天主教学者的一场重要思潮中稳步取得影响，这场思潮如今称为经院哲学。七门自由学艺的划分及其分为“三艺”“四艺”，构成欧洲教育的核心；尤其是11世纪末起，第一批大学得到梵蒂冈认可而建立之后，更是如此。"
+      ],
+      "en": [
+        "Aristotle’s work was translated into Latin by Boethius,",
+        {
+          "type": "note",
+          "id": "dm-7-17"
+        },
+        " who lived around 475 to 526 CE. Subsequently, it was effectively lost to European thought for several hundred years, until it was ‘rediscovered’ by Arab scholars. Aristotelian philosophy then gained steady traction among a significant movement of medieval Catholic scholars, now known as Scholasticism. The articulation of the Seven Liberal Arts, and their division into the Trivium and Quadrivium, was core to European education, especially after the establishment of the first universities from the late eleventh century onwards under the imprimatur of the Vatican."
+      ]
+    },
+    {
+      "id": "dm-ch07-087",
+      "type": "paragraph",
+      "page": "159",
+      "zh": [
+        "法国是三段论推理的一个中心，巴黎大学尤其如此。17世纪中叶，《波尔—罗亚尔逻辑》",
+        {
+          "type": "note",
+          "id": "dm-7-18"
+        },
+        "由曾就读索邦大学的阿尔诺和尼科尔发展而来。他们虽是神职人员，却信奉与主流天主教存在教义冲突的詹森主义，并深受笛卡尔影响。"
+      ],
+      "en": [
+        "France was a centre of syllogistic reasoning, particularly at the University of Paris. In the mid-seventeenth century, the ",
+        {
+          "type": "em",
+          "children": [
+            "Port-Royal Logic"
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-7-18"
+        },
+        " was developed by Arnauld and Nicole, who had studied at the Sorbonne. Though they were clerics, they adhered to Jansenism, a sect in doctrinal conflict with mainstream Catholicism, and were heavily influenced by Descartes."
+      ]
+    },
+    {
+      "id": "dm-ch07-088",
+      "type": "paragraph",
+      "page": "159",
+      "zh": [
+        "1662 年出版的《波尔—罗亚尔逻辑》保留了A、I、E 和O 四种三段论形式，但其术语结构更为精妙，允许使用从属命题。这使得语义和推理都变得更加复杂。该书一直是逻辑学的重要教材，一直延续到19世纪相当长的一段时期。该书共出版了63 版，其中包括10 版英文版，并在牛津大学和剑桥大学广泛使用。"
+      ],
+      "en": [
+        "The ",
+        {
+          "type": "em",
+          "children": [
+            "Port-Royal Logic"
+          ]
+        },
+        ", published in 1662, retained the A, I, E and O syllogistic forms, but it had a more sophisticated term structure that allowed subordinate propositions. This made both semantics and reasoning more complex. The book became a key text on logic until well into the nineteenth century. It went into sixty-three editions, including ten in English, and was in use at Oxford and Cambridge Universities."
+      ]
+    },
+    {
+      "id": "dm-ch07-089",
+      "type": "paragraph",
+      "page": "159",
+      "zh": [
+        "尽管如此，在宗教改革之后，亚里士多德逻辑在英格兰的处境并不乐观——那里，作为国家意识形态的天主教被圣公会取代，后者是英国与新教达成的一种折中方案。弗朗西斯·培根（1561—1626），被许多人视为英国那种令人沮丧的经验主义传统的开创者，完全否定了形式三段论。在《新工具》",
+        {
+          "type": "note",
+          "id": "dm-7-19"
+        },
+        " ,",
+        {
+          "type": "note",
+          "id": "dm-7-20"
+        },
+        " （1620 年出版）中，他主张逻辑是说服的工具，而非推理的工具，并提倡通过观察进行归纳以求理解。培根的批判基于他对统一推理体系的要求。他认为，逻辑——其中他把三段论与辩证法混为一谈——无法满足这一要求，因为它无法纠正毫无根据的前提。"
+      ],
+      "en": [
+        "Nonetheless, Aritotelian logic fared less well in England after the Reformation, where the state ideology of Catholicism was displaced by Anglicanism, the English compromise with Protestantism. Francis Bacon (1561–1626), progenitor of what many view as the doleful British tradition of empiricism, rejected formal syllogism entirely. In ",
+        {
+          "type": "em",
+          "children": [
+            "Novum Organon"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-19"
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-20"
+        },
+        " from 1620, he argues that logic is a tool of persuasion, not reason, and promotes induction from observation as the means to understanding. Bacon’s critique rested on his requirement for a unitary system of reasoning. He argued that logic, in which he conflates syllogistics and dialectics, cannot furnish this as it is unable to correct for unfounded premises."
+      ]
+    },
+    {
+      "id": "dm-ch07-090",
+      "type": "paragraph",
+      "page": "159",
+      "zh": [
+        "托马斯·霍布斯（1588—1679）的哲学可被归类为唯物主义，其观点比培根更为审慎。1655 年，他在《论物体》（De Corpore）",
+        {
+          "type": "note",
+          "id": "dm-7-21"
+        },
+        " 中对亚里士多德逻辑学进行了简明扼要的阐述。尽管他拒绝了亚里士多德的形而上学，但他通过与算术的强烈类比，把三段论推理视为一种计算过程。此后，尽管牛津和剑桥大学仍在教授逻辑学，但学术界对三段论的兴趣寥寥，直至19 世纪初，三段论才得以复兴，且其复兴与辩证法完全分离。"
+      ],
+      "en": [
+        "Thomas Hobbes (1588–1679), whose philosophy may be characterized as materialist, was more measured than Bacon. In 1655, he gave a succinct account of Aristotle’s logic in ",
+        {
+          "type": "em",
+          "children": [
+            "De Corpore."
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-7-21"
+        },
+        " While he rejected Aristotelian metaphysics, he viewed syllogistic reasoning as computational, by strong analogy with arithmetic. Thereafter, while logic continued to be taught at Oxford and Cambridge, there was little academic interest in syllogistics until the early nineteenth century, when its revival was wholly separated from dialectics."
+      ]
+    },
+    {
+      "id": "dm-ch07-091",
+      "type": "paragraph",
+      "page": "159",
+      "zh": [
+        "爱尔兰圣公会都柏林大主教理查德·惠特利（Richard Whately，1787—1863）的著作影响尤为深远。在1826 年撰写的《逻辑要素》（Elements of Logic）",
+        {
+          "type": "note",
+          "id": "dm-7-22"
+        },
+        " 中，他有力地捍卫了逻辑学，强调其普遍适用性，以及将其与研究对象相分离的必要性。通过一个引人入胜的算术类比，他断言逻辑的力量恰恰在于抽象性。"
+      ],
+      "en": [
+        "The work of Richard Whately (1787–1863), the Archbishop of Dublin in the Anglican Church of Ireland, was particularly influential. In ",
+        {
+          "type": "em",
+          "children": [
+            "Elements of Logic"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-22"
+        },
+        " written in 1826, he robustly defended logic, emphasizing its universal applicability, and the need to separate it from its subject matter. In an engaging analogy with arithmetic, he asserted that the strength of logic lay precisely in abstraction."
+      ]
+    },
+    {
+      "id": "dm-ch07-092",
+      "type": "subheading",
+      "page": "159",
+      "zh": [
+        "思维规律"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "The laws of thought"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-093",
+      "type": "paragraph",
+      "page": "159",
+      "zh": [
+        "同一时期，逻辑的数学化取得了稳步进展，最终以乔治·布尔1854 年在《思维规律》",
+        {
+          "type": "note",
+          "id": "dm-7-23"
+        },
+        " 中开创性的代数处理为标志。该书的标题源于这样一种观念：思维以不可改变的定律为基础。这些定律直指现实的基本属性，因此也能解释为什么三段论能够体现无可指摘的推理。"
+      ],
+      "en": [
+        "The same period saw steady progress in the mathematization of logic, culminating in George Boole’s seminal algebraic treatment in ",
+        {
+          "type": "em",
+          "children": [
+            "The Laws of Thought"
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-7-23"
+        },
+        " in 1854. The book’s title derived from the notion that thinking is underpinned by immutable laws. These go to the heart of the fundamental properties of reality and, hence, why the syllogism can capture unimpeachable reasoning."
+      ]
+    },
+    {
+      "id": "dm-ch07-094",
+      "type": "paragraph",
+      "page": "159",
+      "zh": [
+        "关于思维定律的大多数论述都描述了斯坦利·杰文斯（1835—1882）所称的三大基本定律：",
+        {
+          "type": "note",
+          "id": "dm-7-24"
+        }
+      ],
+      "en": [
+        "Most accounts of the laws of thought describe what Stanley Jevons (1835–82) termed the ",
+        {
+          "type": "em",
+          "children": [
+            "three primary laws:"
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-7-24"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-095",
+      "type": "paragraph",
+      "page": "159",
+      "zh": [
+        "1. 同一律。凡是存在的，就是存在的。"
+      ],
+      "en": [
+        "1. The Law of Identity. Whatever is, is."
+      ]
+    },
+    {
+      "id": "dm-ch07-096",
+      "type": "paragraph",
+      "page": "159",
+      "zh": [
+        "2. 矛盾律。任何事物不可能既存在又不存在。"
+      ],
+      "en": [
+        "2. The Law of Contradiction. Nothing can both be and not be."
+      ]
+    },
+    {
+      "id": "dm-ch07-097",
+      "type": "paragraph",
+      "page": "159",
+      "zh": [
+        "3. 排中律。任何事物必定或者存在，或者不存在。（第117页）"
+      ],
+      "en": [
+        "3. The Law of Excluded Middle. Everything must either be or not be. (p117)"
+      ]
+    },
+    {
+      "id": "dm-ch07-098",
+      "type": "paragraph",
+      "page": "160",
+      "zh": [
+        "苏格兰人威廉·汉密尔顿",
+        {
+          "type": "note",
+          "id": "dm-7-25"
+        },
+        " （1788—1856），作为惠特利和布尔的同时代人，详细探讨了这些法则在亚里士多德著作中的起源。在他于1860 年出版的遗著《形而上学与逻辑讲义》",
+        {
+          "type": "note",
+          "id": "dm-7-26"
+        },
+        "中，汉密尔顿重申了逻辑与形而上学的分离，以及逻辑的普遍适用性。对汉密尔顿而言，思维规律具有某种本质性，甚至对神明也具有约束力。"
+      ],
+      "en": [
+        "The Scot William Hamilton",
+        {
+          "type": "note",
+          "id": "dm-7-25"
+        },
+        " (1788–1856), a contemporary of Whately and Boole, discussed in detail the laws’ origins in Aristotle’s writings. In his posthumous ",
+        {
+          "type": "em",
+          "children": [
+            "Lectures on Metaphysics and Logic"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-26"
+        },
+        " published in 1860, Hamilton reiterated the separation of logic from metaphysics, and logic’s universal applicability. For Hamilton, there was something essential about the laws of thought, circumscribing even the deity."
+      ]
+    },
+    {
+      "id": "dm-ch07-099",
+      "type": "paragraph",
+      "page": "160",
+      "zh": [
+        "关于每条定律的地位，尤其是“排中律”（LEM），以及是否还有其他定律，一直存在相当大的争议。"
+      ],
+      "en": [
+        "There has been considerable disputation over the status of each law, especially the Law of the Excluded Middle (LEM), and whether or not there are further laws."
+      ]
+    },
+    {
+      "id": "dm-ch07-100",
+      "type": "subheading",
+      "page": "160",
+      "zh": [
+        "逻辑运算与真值表"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Logical operations and truth tables"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-101",
+      "type": "paragraph",
+      "page": "160",
+      "zh": [
+        "亚里士多德及其后继者把语法视为构建正确论证的核心，并依赖日常语言中表达的意义和推理。因此，在布尔之前乃至之后，关于逻辑的大部分讨论都围绕着逻辑运算的确切含义展开。"
+      ],
+      "en": [
+        "Aristotle, and his successors, focused on grammar as central to constructing correct arguments, and depended on meanings and reasoning expressed in everyday language. Thus, much discussion of logic prior to, and indeed after, Boole was about what exactly logical operations meant."
+      ]
+    },
+    {
+      "id": "dm-ch07-102",
+      "type": "paragraph",
+      "page": "160",
+      "zh": [
+        "如今，我们按照路德维希·维特根斯坦（1889—1951）所倡导的方法，用真值表赋予逻辑运算符精确的含义。",
+        {
+          "type": "note",
+          "id": "dm-7-27"
+        },
+        "我们假定基本真值为真和假。核心运算包括：否定（非），把前提的真和假反转；合取（且），要求两个前提都为真；析取（或），要求至少一个前提为真，也允许两个都为真。见表7.1。"
+      ],
+      "en": [
+        "Today, we use ",
+        {
+          "type": "em",
+          "children": [
+            "truth tables"
+          ]
+        },
+        " to give logical operators precise meanings, as promoted by Ludwig Wittgenstein (1889–1951).",
+        {
+          "type": "note",
+          "id": "dm-7-27"
+        },
+        " We assume the basic truth values of true and false. Core operations are: negation (not) as reversing true and false premises; conjunction (and) as requiring both premises to be true; and disjunction (or) as requiring either or both premises to be true. See Table 7.1."
+      ]
+    },
+    {
+      "id": "dm-ch07-103",
+      "type": "paragraph",
+      "page": "160",
+      "zh": [
+        "请注意，这种形式的析取称为“相容析取”。我们还可以定义“不相容析取”（xor），当任一前提为真时，它为真；但若两个前提同时为真，则为假。"
+      ],
+      "en": [
+        "Note that this form of disjunction is called ",
+        {
+          "type": "em",
+          "children": [
+            "inclusive"
+          ]
+        },
+        ". We can also define ",
+        {
+          "type": "em",
+          "children": [
+            "exclusive"
+          ]
+        },
+        " disjunction (xor), which is true if either premise is true, but not both."
+      ]
+    },
+    {
+      "id": "dm-ch07-104",
+      "type": "paragraph",
+      "page": "160",
+      "zh": [
+        "在逻辑推理中，实质蕴含，即“蕴含”或“如果……那么……”，是构建推理规则的核心。例如："
+      ],
+      "en": [
+        "In logical reasoning, ",
+        {
+          "type": "em",
+          "children": [
+            "material implication"
+          ]
+        },
+        ", that is, ‘implies’ or ‘if . . . then . . .’, is central to forming rules of inference. For:"
+      ]
+    },
+    {
+      "id": "dm-ch07-105",
+      "type": "quote",
+      "page": "160",
+      "zh": [
+        "X蕴含Y"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "X"
+          ]
+        },
+        " implies ",
+        {
+          "type": "em",
+          "children": [
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-106",
+      "type": "paragraph",
+      "page": "160",
+      "zh": [
+        "我们不希望在Y 为假的同时X 为真。也就是说，我们要求其效果为："
+      ],
+      "en": [
+        "we wouldn’t like ",
+        {
+          "type": "em",
+          "children": [
+            "X"
+          ]
+        },
+        " to be true at the same time that ",
+        {
+          "type": "em",
+          "children": [
+            "Y"
+          ]
+        },
+        " is false. That is, we require the effect of:"
+      ]
+    },
+    {
+      "id": "dm-ch07-107",
+      "type": "quote",
+      "page": "160",
+      "zh": [
+        "非（X且非Y）"
+      ],
+      "en": [
+        "not (",
+        {
+          "type": "em",
+          "children": [
+            "X"
+          ]
+        },
+        " and not ",
+        {
+          "type": "em",
+          "children": [
+            "Y"
+          ]
+        },
+        ")"
+      ]
+    },
+    {
+      "id": "dm-ch07-108",
+      "type": "paragraph",
+      "page": "160",
+      "zh": [
+        "表7.2 给出了相应的真值表。"
+      ],
+      "en": [
+        "Table 7.2 shows the corresponding truth table."
+      ]
+    },
+    {
+      "id": "dm-ch07-109",
+      "type": "paragraph",
+      "page": "160",
+      "zh": [
+        "这似乎有悖直觉，因为当X 为假时，“X 蕴含Y”总是为真。这里，逻辑上的“真”与现实世界中的“真”之间存在着鲜明区别：一个评估结果为真的逻辑蕴含，除非我们知道第一个前提为真，否则绝不能据此推导出关于现实世界的任何结论。事实上，基于一个假的前提而得出的真蕴含被称为“空真”。"
+      ],
+      "en": [
+        "This feels counterintuitive, as ‘",
+        {
+          "type": "em",
+          "children": [
+            "X"
+          ]
+        },
+        " implies ",
+        {
+          "type": "em",
+          "children": [
+            "Y"
+          ]
+        },
+        "’ is true whenever ",
+        {
+          "type": "em",
+          "children": [
+            "X"
+          ]
+        },
+        " is false. Here the distinction between logical and real-world notions of truth is stark: a logical implication which evaluates to true certainly does not permit us to deduce anything about the real world unless we know that the first premise is true. Indeed, a true implication resting on a false first premise is termed ",
+        {
+          "type": "em",
+          "children": [
+            "vacuously"
+          ]
+        },
+        " true."
+      ]
+    },
+    {
+      "id": "dm-ch07-110",
+      "type": "paragraph",
+      "page": "160",
+      "zh": [
+        "表7.1 逻辑运算：否定、合取和相容析取",
+        {
+          "type": "break"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              [
+                "X"
+              ],
+              [
+                "非X"
+              ],
+              [
+                "X"
+              ],
+              [
+                "Y"
+              ],
+              [
+                "X且Y"
+              ],
+              [
+                "X"
+              ],
+              [
+                "Y"
+              ],
+              [
+                "X或Y"
+              ]
+            ],
+            [
+              [
+                "真"
+              ],
+              [
+                "假"
+              ],
+              [
+                "假"
+              ],
+              [
+                "假"
+              ],
+              [
+                "假"
+              ],
+              [
+                "假"
+              ],
+              [
+                "假"
+              ],
+              [
+                "假"
+              ]
+            ],
+            [
+              [
+                "假"
+              ],
+              [
+                "真"
+              ],
+              [
+                "假"
+              ],
+              [
+                "真"
+              ],
+              [
+                "假"
+              ],
+              [
+                "假"
+              ],
+              [
+                "真"
+              ],
+              [
+                "真"
+              ]
+            ],
+            [
+              [],
+              [],
+              [
+                "真"
+              ],
+              [
+                "假"
+              ],
+              [
+                "假"
+              ],
+              [
+                "真"
+              ],
+              [
+                "假"
+              ],
+              [
+                "真"
+              ]
+            ],
+            [
+              [],
+              [],
+              [
+                "真"
+              ],
+              [
+                "真"
+              ],
+              [
+                "真"
+              ],
+              [
+                "真"
+              ],
+              [
+                "真"
+              ],
+              [
+                "真"
+              ]
+            ]
+          ]
+        }
+      ],
+      "en": [
+        "Table 7.1 Logical Operations: Negation, Conjunction and Inclusive Disjunction",
+        {
+          "type": "break"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              [
+                "X"
+              ],
+              [
+                "not X"
+              ],
+              [
+                "X"
+              ],
+              [
+                "Y"
+              ],
+              [
+                "X and Y"
+              ],
+              [
+                "X"
+              ],
+              [
+                "Y"
+              ],
+              [
+                "X or Y"
+              ]
+            ],
+            [
+              [
+                "true"
+              ],
+              [
+                "false"
+              ],
+              [
+                "false"
+              ],
+              [
+                "false"
+              ],
+              [
+                "false"
+              ],
+              [
+                "false"
+              ],
+              [
+                "false"
+              ],
+              [
+                "false"
+              ]
+            ],
+            [
+              [
+                "false"
+              ],
+              [
+                "true"
+              ],
+              [
+                "false"
+              ],
+              [
+                "true"
+              ],
+              [
+                "false"
+              ],
+              [
+                "false"
+              ],
+              [
+                "true"
+              ],
+              [
+                "true"
+              ]
+            ],
+            [
+              [],
+              [],
+              [
+                "true"
+              ],
+              [
+                "false"
+              ],
+              [
+                "false"
+              ],
+              [
+                "true"
+              ],
+              [
+                "false"
+              ],
+              [
+                "true"
+              ]
+            ],
+            [
+              [],
+              [],
+              [
+                "true"
+              ],
+              [
+                "true"
+              ],
+              [
+                "true"
+              ],
+              [
+                "true"
+              ],
+              [
+                "true"
+              ],
+              [
+                "true"
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-111",
+      "type": "paragraph",
+      "page": "161",
+      "zh": [
+        "表7.2 蕴含",
+        {
+          "type": "break"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              [
+                "X"
+              ],
+              [
+                "Y"
+              ],
+              [
+                "非Y"
+              ],
+              [
+                "X且非Y"
+              ],
+              [
+                "非（X且非Y）"
+              ]
+            ],
+            [
+              [
+                "假"
+              ],
+              [
+                "假"
+              ],
+              [
+                "真"
+              ],
+              [
+                "假"
+              ],
+              [
+                "真"
+              ]
+            ],
+            [
+              [
+                "假"
+              ],
+              [
+                "真"
+              ],
+              [
+                "假"
+              ],
+              [
+                "假"
+              ],
+              [
+                "真"
+              ]
+            ],
+            [
+              [
+                "真"
+              ],
+              [
+                "假"
+              ],
+              [
+                "真"
+              ],
+              [
+                "真"
+              ],
+              [
+                "假"
+              ]
+            ],
+            [
+              [
+                "真"
+              ],
+              [
+                "真"
+              ],
+              [
+                "假"
+              ],
+              [
+                "假"
+              ],
+              [
+                "真"
+              ]
+            ]
+          ]
+        }
+      ],
+      "en": [
+        "Table 7.2 Implication",
+        {
+          "type": "break"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              [
+                "X"
+              ],
+              [
+                "Y"
+              ],
+              [
+                "not Y"
+              ],
+              [
+                "X and not Y"
+              ],
+              [
+                "not (X and not Y)"
+              ]
+            ],
+            [
+              [
+                "false"
+              ],
+              [
+                "false"
+              ],
+              [
+                "true"
+              ],
+              [
+                "false"
+              ],
+              [
+                "true"
+              ]
+            ],
+            [
+              [
+                "false"
+              ],
+              [
+                "true"
+              ],
+              [
+                "false"
+              ],
+              [
+                "false"
+              ],
+              [
+                "true"
+              ]
+            ],
+            [
+              [
+                "true"
+              ],
+              [
+                "false"
+              ],
+              [
+                "true"
+              ],
+              [
+                "true"
+              ],
+              [
+                "false"
+              ]
+            ],
+            [
+              [
+                "true"
+              ],
+              [
+                "true"
+              ],
+              [
+                "false"
+              ],
+              [
+                "false"
+              ],
+              [
+                "true"
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-112",
+      "type": "paragraph",
+      "page": "161",
+      "zh": [
+        "表7.3 以算术表示的逻辑运算：否定、合取和相容析取",
+        {
+          "type": "break"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              [
+                "x"
+              ],
+              [
+                "1 − x"
+              ],
+              [
+                "x"
+              ],
+              [
+                "y"
+              ],
+              [
+                "x × y"
+              ],
+              [
+                "x"
+              ],
+              [
+                "y"
+              ],
+              [
+                "x + y"
+              ]
+            ],
+            [
+              [
+                "0"
+              ],
+              [
+                "1"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ]
+            ],
+            [
+              [
+                "1"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "1"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "1"
+              ],
+              [
+                "1"
+              ]
+            ],
+            [
+              [],
+              [],
+              [
+                "1"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "1"
+              ],
+              [
+                "0"
+              ],
+              [
+                "1"
+              ]
+            ],
+            [
+              [],
+              [],
+              [
+                "1"
+              ],
+              [
+                "1"
+              ],
+              [
+                "1"
+              ],
+              [
+                "1"
+              ],
+              [
+                "1"
+              ],
+              [
+                "1"
+              ]
+            ]
+          ]
+        }
+      ],
+      "en": [
+        "Table 7.3 Logical Operations as Arithmetic: Negation, Conjunction and Inclusive Disjunction",
+        {
+          "type": "break"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              [
+                "x"
+              ],
+              [
+                "1 − x"
+              ],
+              [
+                "x"
+              ],
+              [
+                "y"
+              ],
+              [
+                "x × y"
+              ],
+              [
+                "x"
+              ],
+              [
+                "y"
+              ],
+              [
+                "x + y"
+              ]
+            ],
+            [
+              [
+                "0"
+              ],
+              [
+                "1"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ]
+            ],
+            [
+              [
+                "1"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "1"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "1"
+              ],
+              [
+                "1"
+              ]
+            ],
+            [
+              [],
+              [],
+              [
+                "1"
+              ],
+              [
+                "0"
+              ],
+              [
+                "0"
+              ],
+              [
+                "1"
+              ],
+              [
+                "0"
+              ],
+              [
+                "1"
+              ]
+            ],
+            [
+              [],
+              [],
+              [
+                "1"
+              ],
+              [
+                "1"
+              ],
+              [
+                "1"
+              ],
+              [
+                "1"
+              ],
+              [
+                "1"
+              ],
+              [
+                "1"
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-113",
+      "type": "subheading",
+      "page": "161",
+      "zh": [
+        "逻辑的数学化"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Mathematizing logic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-114",
+      "type": "paragraph",
+      "page": "161",
+      "zh": [
+        "尽管莱布尼茨（1646—1716）早在布尔之前就已探索过逻辑的形式化，但他的著作直到20 世纪初才重见天日。",
+        {
+          "type": "note",
+          "id": "dm-7-28"
+        },
+        "因此，布尔（1815—1864）如今被公认为现代逻辑的奠基人，特别是命题演算的奠基人。在《思维规律》",
+        {
+          "type": "note",
+          "id": "dm-7-29"
+        },
+        "一书中，布尔的意图是："
+      ],
+      "en": [
+        "While Leibniz (1646–1716) had explored the formalization of logic well before Boole, his work was lost until the early twentieth century.",
+        {
+          "type": "note",
+          "id": "dm-7-28"
+        },
+        " Thus, Boole (1815–64) is now recognized as the progenitor of modern logic, particularly propositional calculus. In ",
+        {
+          "type": "em",
+          "children": [
+            "The Laws of Thought"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-29"
+        },
+        " Boole’s intention was"
+      ]
+    },
+    {
+      "id": "dm-ch07-115",
+      "type": "quote",
+      "page": "161",
+      "zh": [
+        "探究思维进行推理时所进行的那些操作的基本规律；用演算的符号语言来表达这些规律，并以此为基础建立逻辑科学并构建其方法；（第1 页）"
+      ],
+      "en": [
+        "to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method; (p1)"
+      ]
+    },
+    {
+      "id": "dm-ch07-116",
+      "type": "paragraph",
+      "page": "161",
+      "zh": [
+        "布尔认为，人类思维的规律确实是数学规律："
+      ],
+      "en": [
+        "Boole thought that the laws of human thought were quite literally mathematical:"
+      ]
+    },
+    {
+      "id": "dm-ch07-117",
+      "type": "quote",
+      "page": "161",
+      "zh": [
+        "一般推理中的思维运作与代数这一特定科学中的运算之间，不仅存在密切的类比，而且在指导这两类运算的规律上，在相当大程度上也完全一致。（第6页）"
+      ],
+      "en": [
+        "There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted. (p6)"
+      ]
+    },
+    {
+      "id": "dm-ch07-118",
+      "type": "paragraph",
+      "page": "161",
+      "zh": [
+        "布尔的关键洞见在于：如果把“论域”表示为“1”，把“无”表示为“0”，那么针对事物类别的逻辑运算便具有算术等价形式。因此，可以运用代数技术来对它们进行操作。"
+      ],
+      "en": [
+        "Boole’s key insight was that if a Universe of discourse is represented as ‘1’, and Nothing as ‘0’, then logical operations on classes of things have arithmetical equivalents. Hence, algebraic techniques may be deployed to manipulate them."
+      ]
+    },
+    {
+      "id": "dm-ch07-119",
+      "type": "paragraph",
+      "page": "161",
+      "zh": [
+        "从布尔的系统中推导出命题逻辑是显而易见的，其中1 代表真，0 代表假。参见表7.3，可将其与表7.1 进行对比。",
+        {
+          "type": "note",
+          "id": "dm-7-30"
+        }
+      ],
+      "en": [
+        "It is straightforward to read off propositional logic from Boole’s system, where 1 is true and 0 is false. See Table 7.3, which may be contrasted with Table 7.1.",
+        {
+          "type": "note",
+          "id": "dm-7-30"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-120",
+      "type": "paragraph",
+      "page": "161",
+      "zh": [
+        "信息理论学家克劳德·香农于1938 年指出，布尔演算与逻辑之间的对应关系可应用于开关电路。",
+        {
+          "type": "note",
+          "id": "dm-7-31"
+        }
+      ],
+      "en": [
+        "The information theorist Claude Shannon noted in 1938 that the correspond­ ence between Boole’s calculus and logic could be applied to switching circuits.",
+        {
+          "type": "note",
+          "id": "dm-7-31"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-121",
+      "type": "paragraph",
+      "page": "161–162",
+      "zh": [
+        "布尔在发展其逻辑时，举例取材于包括当代经济学和神学在内的多个领域。他直截了当地陈述前提，不作讨论，而是专注于从中能得出哪些逻辑结论。通过这种方式，他展示了如何把日常语言中的逻辑论证形式化。他还进一步证明，所有亚里士多德的三段论形式都包含在他的方法之中。"
+      ],
+      "en": [
+        "Boole developed his logic with examples drawn from a range of domains, including contemporary economics and theology. He stated premises baldly, without discussion, and focused on what might be logically concluded from them. In so doing, he showed how logical arguments in everyday language might be formalized. He further demonstrated that all the Aristotelian syllogistic figures were subsumed by his approach."
+      ]
+    },
+    {
+      "id": "dm-ch07-122",
+      "type": "paragraph",
+      "page": "162",
+      "zh": [
+        "尽管书名如此，布尔几乎没有讨论上文所说的三条思维规律。不过，他把“x且x=x”称为“思维的基本规律”（第49页），并由此提出矛盾律，即任何事物都不可能既是x又不是x。"
+      ],
+      "en": [
+        "Despite his book’s title, Boole barely discussed the three laws of thought considered above. However, he called ",
+        {
+          "type": "em",
+          "children": [
+            "x"
+          ]
+        },
+        " ",
+        {
+          "type": "em",
+          "children": [
+            "and"
+          ]
+        },
+        " ",
+        {
+          "type": "em",
+          "children": [
+            "x"
+          ]
+        },
+        " = ",
+        {
+          "type": "em",
+          "children": [
+            "x"
+          ]
+        },
+        " the ‘fundamental law of thought’ (p49), ",
+        {
+          "type": "em",
+          "children": [
+            "and"
+          ]
+        },
+        " used it to develop the ",
+        {
+          "type": "em",
+          "children": [
+            "principle of contradiction"
+          ]
+        },
+        ", that is, nothing can be both ",
+        {
+          "type": "em",
+          "children": [
+            "x"
+          ]
+        },
+        " ",
+        {
+          "type": "em",
+          "children": [
+            "and"
+          ]
+        },
+        " not ",
+        {
+          "type": "em",
+          "children": [
+            "x"
+          ]
+        },
+        "."
+      ]
+    },
+    {
+      "id": "dm-ch07-123",
+      "type": "paragraph",
+      "page": "162",
+      "zh": [
+        "虽然布尔对经院逻辑持批判态度，但他承认其重要性。他的概念化仍把关于事物的推理与关于事物集合的推理混为一谈，而且他的符号体系虽巧妙，却显得笨拙。尽管如此，他使推理链中实现了算术上的确定性：也就是说，在布尔那里，逻辑真正成为了一门计算的学科，这正是霍布斯所追求的。"
+      ],
+      "en": [
+        "While Boole was critical of scholastic logic, he acknowledged its importance. His conceptualization still conflated reasoning about things and about collections of things, and his notation, though cunning, is clumsy. Still, he enabled arithmetic certainty in chains of reasoning: that is, with Boole, logic truly became a matter of computation, as Hobbes had sought."
+      ]
+    },
+    {
+      "id": "dm-ch07-124",
+      "type": "paragraph",
+      "page": "162",
+      "zh": [
+        "布尔的新颖方法遭到了反对，而基于三段论格式的亚里士多德式逻辑与数学的分离，一直延续到20世纪相当长的一段时期。尽管如此，尽管布尔的体系存在不足，但他的工作已被证明具有奠基性意义，并标志着与长期存在的亚里士多德传统发生了根本性的决裂。"
+      ],
+      "en": [
+        "Boole’s novel approach met with opposition, and the Aristotelian separation of logic based on syllogistic figures from mathematics persisted well into the twentieth century. Nonetheless, despite infelicities in Boole’s system, his work has proved foundational, and marked a fundamental break with the longstanding Aristotelian tradition."
+      ]
+    },
+    {
+      "id": "dm-ch07-125",
+      "type": "subheading",
+      "page": "162",
+      "zh": [
+        "弗雷格与数学的基础"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Frege and the foundations of mathematics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-126",
+      "type": "paragraph",
+      "page": "162",
+      "zh": [
+        "德国数学家戈特洛布·弗雷格（1848—1925）把布尔的进路倒转过来，试图把算术、继而把数学建立在逻辑之上。支撑计算的数理逻辑，最终源自弗雷格的工作。"
+      ],
+      "en": [
+        "The German matematician Gottlob Frege (1848–1925) turned Boole’s work on its head, and sought to found arithmetic, and then mathematics, on logic. The mathematical logic that underpins computing ultimately flows from Frege’s."
+      ]
+    },
+    {
+      "id": "dm-ch07-127",
+      "type": "paragraph",
+      "page": "162",
+      "zh": [
+        "弗雷格的《概念文字》",
+        {
+          "type": "note",
+          "id": "dm-7-32"
+        },
+        "、",
+        {
+          "type": "note",
+          "id": "dm-7-33"
+        },
+        "出版于1879年，其副标题是："
+      ],
+      "en": [
+        "Frege’s ",
+        {
+          "type": "em",
+          "children": [
+            "Begriffsschrift"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-32"
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-33"
+        },
+        " published in 1879, was subtitled:"
+      ]
+    },
+    {
+      "id": "dm-ch07-128",
+      "type": "quote",
+      "page": "162",
+      "zh": [
+        "一种以算术为范本的、用于纯粹思维的公式语言"
+      ],
+      "en": [
+        "a formula language, modeled upon that of arithmetic, for pure thought"
+      ]
+    },
+    {
+      "id": "dm-ch07-129",
+      "type": "paragraph",
+      "page": "162",
+      "zh": [
+        "对“纯粹思维”的强调，完全承袭了亚里士多德把推理与被推理对象相分离的传统。"
+      ],
+      "en": [
+        "The emphasis on ‘pure thought’ is very much in the Aristotelian tradition of separating reasoning from that which is reasoned about."
+      ]
+    },
+    {
+      "id": "dm-ch07-130",
+      "type": "paragraph",
+      "page": "162",
+      "zh": [
+        "在此，弗雷格提出了一系列根本性的创新。虽然他像布尔一样使用了变量和算术运算符，但他用“论元”和“函数”的概念取代了亚里士多德的“主项”和“谓项”概念。此外，他把所有规则建立在实质蕴含和否定之上，展示了如何由此推导出其他逻辑运算符以及所有三段论形式。最后，他引入了一个全称量词，即用于表述某个类中所有成员都具有某种性质的运算符。"
+      ],
+      "en": [
+        "Here, Frege introduced a number of fundamental innovations. While, like Boole, he used variables and arithmetic operators, he replaced the Aristotelian notions of subject and predicate with those of ",
+        {
+          "type": "em",
+          "children": [
+            "argument"
+          ]
+        },
+        " and ",
+        {
+          "type": "em",
+          "children": [
+            "function"
+          ]
+        },
+        ". Further, he based all rules on material implication and negation, showing how to derive the other logical operators, and all syllogistic forms, from them. Finally, he introduced an operator for universal quantification, that is, for talking about all members of a class having some property."
+      ]
+    },
+    {
+      "id": "dm-ch07-131",
+      "type": "paragraph",
+      "page": "162",
+      "zh": [
+        "在1884 年出版的《算术基础》",
+        {
+          "type": "note",
+          "id": "dm-7-34"
+        },
+        "中，弗雷格详细阐述了其逻辑主义数学哲学。他明确试图把逻辑与主观哲学（他称之为心理学）区分开来，并主张逻辑与数学之间存在紧密联系。然而，他也批评数学接受不完整的证明，要求每一步都应明确说明。如今，这已成为基于计算机的证明的一个特征。"
+      ],
+      "en": [
+        "In ",
+        {
+          "type": "em",
+          "children": [
+            "The Foundations of Arithmetic"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-34"
+        },
+        " from 1884, Frege elaborated his ",
+        {
+          "type": "em",
+          "children": [
+            "logicist"
+          ]
+        },
+        " philosophy of mathematics. He explicitly sought to disassociate logic from subjective philosophy, which he called psychology, and asserted a strong connection with mathematics. However, he also criticized mathematics for accepting incomplete proofs, requiring that every step should be made explicit. Today, this is a characteristic of computer-based proofs."
+      ]
+    },
+    {
+      "id": "dm-ch07-132",
+      "type": "paragraph",
+      "page": "163",
+      "zh": [
+        "在1893 年出版的《算术基本定律》",
+        {
+          "type": "note",
+          "id": "dm-7-35"
+        },
+        "中，弗雷格坦率地指出，逻辑无法通过诉诸外部依据来获得正当性："
+      ],
+      "en": [
+        "In ",
+        {
+          "type": "em",
+          "children": [
+            "Basic Laws of Arithmetic"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-35"
+        },
+        " published in 1893, Frege was frank that logic could not be justified by external appeal:"
+      ]
+    },
+    {
+      "id": "dm-ch07-133",
+      "type": "quote",
+      "page": "163",
+      "zh": [
+        "我们为何以及凭什么权利承认一条逻辑定律为真，逻辑只能通过把它归结为另一条逻辑定律来回答。若无法做到这一点，逻辑便无法给出答案。（第15 页）"
+      ],
+      "en": [
+        "The question why and with what right we acknowledge a logical law to be true, logic can answer only by reducing it to another law of logic. Where that is not possible, logic can give no answer. (p15)"
+      ]
+    },
+    {
+      "id": "dm-ch07-134",
+      "type": "subheading",
+      "page": "163",
+      "zh": [
+        "数与归纳"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Numbers and induction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-135",
+      "type": "paragraph",
+      "page": "163",
+      "zh": [
+        "亚里士多德把三段论推理即演绎推理，与归纳推理区分开来；后者是在事物集合中识别模式。朱塞佩·皮亚诺（1858—1932）把它置于形式化基础之上，统一了数、集合和归纳的概念。"
+      ],
+      "en": [
+        "Aristotle distinguished syllogistic, or ",
+        {
+          "type": "em",
+          "children": [
+            "deductive"
+          ]
+        },
+        " reasoning from ",
+        {
+          "type": "em",
+          "children": [
+            "inductive"
+          ]
+        },
+        " reasoning, that is, identifying patterns in collections of things. This was placed on a formal footing by Giuseppe Peano (1858–1932), who unified notions of number, set and induction."
+      ]
+    },
+    {
+      "id": "dm-ch07-136",
+      "type": "paragraph",
+      "page": "163",
+      "zh": [
+        "皮亚诺在1889年提出的方法，",
+        {
+          "type": "note",
+          "id": "dm-7-36"
+        },
+        "基于一个很简单的相继数概念：从一开始，",
+        {
+          "type": "note",
+          "id": "dm-7-37"
+        },
+        "反复加一。接着，与布尔和弗雷格相似，他把具有某种性质看作属于一个有明确特征的集合。然后，通过把数集合的成员看作一个序列并考察其共同性质，他定义了数集合上的归纳。"
+      ],
+      "en": [
+        "Peano’s approach,",
+        {
+          "type": "note",
+          "id": "dm-7-36"
+        },
+        " from 1889, was based on a very simple conception of ",
+        {
+          "type": "em",
+          "children": [
+            "successive"
+          ]
+        },
+        " numbers, starting with one",
+        {
+          "type": "note",
+          "id": "dm-7-37"
+        },
+        " and repeatedly adding one. Peano next presented having a property as akin to being in a collection with well-defined characteristics, much like Boole and Frege. He then defined induction over collections of numbers by considering common properties of their members regarded as a sequence."
+      ]
+    },
+    {
+      "id": "dm-ch07-137",
+      "type": "paragraph",
+      "page": "163",
+      "zh": [
+        "一般而言，对于一个归纳证明，我们假设某个性质对1 成立。然后，设N 为任意一个数。如果假设该性质对N 成立，且我们能证明它对N+1 也成立，那么该性质必然对所有数都成立，因为我们可以从1 开始逐步推导到任意一个数。也就是说，该性质是数列的一种归纳模式。归纳法在数学的许多领域中都占据核心地位，与传统的反证法相辅相成。它也是递归这一基本编程技术的基础，在递归中，对集合的计算是通过针对子集合的计算来定义的，一直推导到空集合为止。"
+      ],
+      "en": [
+        "In general, for an inductive proof, we assume that some property holds for 1. Then, suppose ",
+        {
+          "type": "em",
+          "children": [
+            "N"
+          ]
+        },
+        " is an arbitrary number. If assuming that the property holds for ",
+        {
+          "type": "em",
+          "children": [
+            "N"
+          ]
+        },
+        ", we can prove that it holds for ",
+        {
+          "type": "em",
+          "children": [
+            "N"
+          ]
+        },
+        " +1, then the property must hold for all numbers, as we can work our way forward from 1 to any number. That is, the property is an inductive pattern for the number sequence. Inductive proof is central to many areas of mathematics, complementing the traditional proof by contradiction. It is also the basis of the fundamental programming technique of ",
+        {
+          "type": "em",
+          "children": [
+            "recursion"
+          ]
+        },
+        ", where computations over collections are defined in terms of computations over sub-collections, down to an empty collection."
+      ]
+    },
+    {
+      "id": "dm-ch07-138",
+      "type": "paragraph",
+      "page": "163",
+      "zh": [
+        "与演绎法一样，归纳法是在我们已有一个待推理的性质时，将其形式化的过程。首先提出一个归纳性质——即识别假设模式——则与数学实践密切相关。"
+      ],
+      "en": [
+        "As with deduction, induction is a process of formalizing a property once we have one to reason about. Coming up with an inductive property in the first place, that is, identifying hypothetical patterns, is to do with the practice of mathematics."
+      ]
+    },
+    {
+      "id": "dm-ch07-139",
+      "type": "subheading",
+      "page": "163",
+      "zh": [
+        "无限与无穷小"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Infinity and infinitesimals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-140",
+      "type": "paragraph",
+      "page": "163",
+      "zh": [
+        "归纳似乎为无限制地计数提供了依据。那么，应如何刻画这种看似无限的情形？亚里士多德在《形而上学》",
+        {
+          "type": "note",
+          "id": "dm-7-38"
+        },
+        "中区分了潜无限与实无限："
+      ],
+      "en": [
+        "Induction appears to justify counting without limit. How then might we characterize such seeming infinity? In the ",
+        {
+          "type": "em",
+          "children": [
+            "Metaphysics"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-7-38"
+        },
+        " Aristotle distinguishes between ",
+        {
+          "type": "em",
+          "children": [
+            "potential"
+          ]
+        },
+        " and ",
+        {
+          "type": "em",
+          "children": [
+            "actualized"
+          ]
+        },
+        " infinities:"
+      ]
+    },
+    {
+      "id": "dm-ch07-141",
+      "type": "quote",
+      "page": "163–164",
+      "zh": [
+        "无限、虚空和其他这类概念，被说成潜在地或现实地“存在”，其意义不同于大多数存在者，例如看见者、行走者或被看见者。在后面这些情形中，这种断言有时可以不加限定地为真，因为“被看见者有时因正在被看见而得名，有时因能够被看见而得名；但无限的潜在存在，并不意味着它将来会在现实中独立存在；它只有在认识中才可分离。”（第IX卷，第6部分，第447页）"
+      ],
+      "en": [
+        "Infinity and void and other concepts of this kind are said to ‘be’ potentially or actually in a different sense from the majority of existing things. e.g. that which sees, or walks, or is seen. For in these latter cases the predication may sometimes be truly made have without qualification, since ‘that which is seen is so called sometimes because it is seen and sometimes because it is capable of being seen: but the Infinite does not exist potentially in the sense that it will ever exist separately in actuality it is separable only in knowledge.’ (Book IX, Part 6, p447)"
+      ],
+      "review": "英文底本sometimes be truly made have含多余have，英文照录，中文按可理解的句意连接。"
+    },
+    {
+      "id": "dm-ch07-142",
+      "type": "paragraph",
+      "page": "164",
+      "zh": [
+        "埃利亚的芝诺（公元前495—430年）提出了一些悖论，围绕事物可以无限地分割、因而分成无限多个部分这一可能性展开。",
+        {
+          "type": "note",
+          "id": "dm-7-39"
+        },
+        "亚里士多德在《物理学》中详细讨论了这类悖论。在《形而上学》中，他用潜无限与实无限的区别质疑无限分割："
+      ],
+      "en": [
+        "Zeno of Elea (495–430 BC) had constructed paradoxes that revolve around being able to divide things indefinitely and hence into an infinite number of components.",
+        {
+          "type": "note",
+          "id": "dm-7-39"
+        },
+        " Aristotle dealt with such paradoxes at length in ",
+        {
+          "type": "em",
+          "children": [
+            "Physics"
+          ]
+        },
+        ". In ",
+        {
+          "type": "em",
+          "children": [
+            "Metaphysics"
+          ]
+        },
+        ", he deployed the distinction between potential and actual infinities to contest indefinite division:"
+      ]
+    },
+    {
+      "id": "dm-ch07-143",
+      "type": "quote",
+      "page": "164",
+      "zh": [
+        "因为分割过程永不停止这一事实，使这种现实性以潜在方式存在，却不独立存在。（第IX卷，第6部分，第447页）"
+      ],
+      "en": [
+        "For the fact that the process of division never ceases makes this actuality exist potentially, but not separately. (Book IX, Part 6, p447)"
+      ]
+    },
+    {
+      "id": "dm-ch07-144",
+      "type": "paragraph",
+      "page": "164",
+      "zh": [
+        "牛顿和莱布尼茨的微积分提出了尖锐的可分性问题。",
+        {
+          "type": "note",
+          "id": "dm-7-40"
+        },
+        "具体而言，积分涉及在相邻取值的差异趋于零时，对函数值进行求和。请看图7.1，其中画出了某个函数y=f(x)的曲线。"
+      ],
+      "en": [
+        "The calculus of Newton and Leibniz raised acute problems of divisabilty.",
+        {
+          "type": "note",
+          "id": "dm-7-40"
+        },
+        " In particular, integration involves summing the values of a function for successive values of vanishingly small differences. Consider Figure 7.1, which shows the curve for some function y = f(x)."
+      ]
+    },
+    {
+      "id": "dm-ch07-145",
+      "type": "paragraph",
+      "page": "164",
+      "zh": [
+        "可以把曲线下的区域分成宽度为dx、高度为",
+        {
+          "type": "math",
+          "tex": "f(x_i)"
+        },
+        "的矩形，再将面积相加，以近似曲线下的面积："
+      ],
+      "en": [
+        "We can approximate the area under the curve by dividing it into rectangles of width dx and height f(xi), and summing the areas:"
+      ]
+    },
+    {
+      "id": "dm-ch07-146",
+      "type": "paragraph",
+      "page": "164",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}f(0)*dx+f(x_1)*dx+f(x_2)*dx+\\cdots+f(x_i)*dx\\cdots\\end{aligned}",
+          "display": true
+        }
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}f(0)*dx+f(x_1)*dx+f(x_2)*dx+\\cdots+f(x_i)*dx\\cdots\\end{aligned}",
+          "display": true
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-147",
+      "type": "paragraph",
+      "page": "164",
+      "zh": [
+        "当然，对于每个矩形，其与曲线之间仍存在一个近似三角形的区域，该区域未被计入。这些区域累积起来便形成了一个误差值。"
+      ],
+      "en": [
+        "Of course, for each rectangle, there remains a vaguely triangular shape between it and the curve, which is not accounted for. These accumulate as an error value."
+      ]
+    },
+    {
+      "id": "dm-ch07-148",
+      "type": "figure",
+      "page": "164",
+      "zh": [
+        "图7.1 通过面积求和进行积分。作者绘图。",
+        {
+          "type": "break"
+        },
+        "x、y：坐标轴；dx：矩形宽度；f(xᵢ)：矩形高度；f(x)：函数曲线。"
+      ],
+      "en": [
+        "Figure 7.1 Integration by summing areas. Figure by authors."
+      ],
+      "src": "translations/books/defending-materialism/assets/figure-7-1.png"
+    },
+    {
+      "id": "dm-ch07-149",
+      "type": "paragraph",
+      "page": "165",
+      "zh": [
+        "如果我们能使dx 变小，那么误差就会变小。dx 能变得多小？"
+      ],
+      "en": [
+        "If we can make dx smaller, then the error becomes smaller. How small can dx become?"
+      ]
+    },
+    {
+      "id": "dm-ch07-150",
+      "type": "paragraph",
+      "page": "165",
+      "zh": [
+        "这归根结底取决于积分起始值与终值之间有多少个值。如果值有无限多个，那么它们之间的差就是零。但这样就会出现一个悖论：把无限多个零相加却得到一个非零的结果——这相当于芝诺所探讨的关于时间和空间的无限分割悖论。"
+      ],
+      "en": [
+        "This boils down to how many values there are in between the start and end values of the integration. If there are an infinite number, then the difference between them is zero. But then we have a paradox of summing an infinity of zeros giving a non-zero result: equivalent to the paradoxes of repeatedly dividing time and space that Zeno explored."
+      ],
+      "review": "“有无限多个值，则它们之间的差为零”为底本论述，照译；并非据此将任意两个不同实数的差视为零。"
+    },
+    {
+      "id": "dm-ch07-151",
+      "type": "paragraph",
+      "page": "165",
+      "zh": [
+        "实际的解决方法是，把函数对越来越小的dx 值进行求和，直到相邻两次求和结果之间的差值小到可以忽略不计为止。也就是说，积分会收敛到某个可接受的值。对于某些类别的函数，存在精确的解析解，所得值被解释为“在等价差之和的极限处”的值。然而，该极限通常被视为位于无穷远处，即仿佛积分范围是一个实无限。"
+      ],
+      "en": [
+        "The practical solution is to sum the function for smaller and smaller values of dx until the difference between successive sums is small enough not to be concerned about. That is, the integration converges towards some acceptable value. There are precise analytic solutions for some classes of function, and the resulting values are explained as ‘at the limit’ of the equivalent sums of differences. However, the limit is often treated as if it is at infinity, that is, as if the range of integration is an actualized infinity."
+      ]
+    },
+    {
+      "id": "dm-ch07-152",
+      "type": "subheading",
+      "page": "165",
+      "zh": [
+        "通向无限，乃至更远"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "To infinity, and beyond"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-153",
+      "type": "paragraph",
+      "page": "165",
+      "zh": [
+        "对无穷小量和无穷大的表征是格奥尔格·康托尔（1845—1918）工作的核心，该工作为19 世纪末至20 世纪初数学逻辑危机奠定了基础。康托尔的研究历经数十年不断完善。泰尔斯对此进行了详尽的阐述。",
+        {
+          "type": "note",
+          "id": "dm-7-41"
+        }
+      ],
+      "en": [
+        "The characterization of infinitesimals and infinity was central to the work of Georg Cantor (1845–1918), which underpinned the crisis in mathematical logic in the late nineteenth and early twentieth centuries. Cantor’s work was refined over several decades.Tiles provides a thorough account.",
+        {
+          "type": "note",
+          "id": "dm-7-41"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-154",
+      "type": "paragraph",
+      "page": "165",
+      "zh": [
+        "首先，我们把整数（可用有限位数列表示）与有理数区分开来。有理数虽可表示为两个整数的比值，但若尝试把分子除以分母，其结果可能呈现无限展开。例如："
+      ],
+      "en": [
+        "First of all, we will distinguish the integers, which have finite representations as sequences of digits, from the ",
+        {
+          "type": "em",
+          "children": [
+            "rational"
+          ]
+        },
+        " numbers, which have finite representations as the ratios of two integers, but may have infinite expansions if an attempt is made to divide the numerator by the denominator. For example:"
+      ]
+    },
+    {
+      "id": "dm-ch07-155",
+      "type": "paragraph",
+      "page": "165",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "10/3\\Longrightarrow3.3333333333\\ldots"
+        }
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "10/3\\Longrightarrow3.3333333333\\ldots"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-156",
+      "type": "paragraph",
+      "page": "165",
+      "zh": [
+        "不能表示成两个整数之比的数称为实数。例子有",
+        {
+          "type": "math",
+          "tex": "\\pi"
+        },
+        "和e。这些数也有无限展开式，但以计算它们的公式来表示，例如对有理数级数求和。"
+      ],
+      "en": [
+        "Those numbers which cannot be represented as the ratio of two integers are called the ",
+        {
+          "type": "em",
+          "children": [
+            "real"
+          ]
+        },
+        " numbers. Examples are π and ",
+        {
+          "type": "em",
+          "children": [
+            "e"
+          ]
+        },
+        ". Such numbers also have infinite expansions, but are expressed as formulae for calculating them, for example, by summing series of rational numbers."
+      ],
+      "review": "底本将不能表示成两个整数之比的数称为real numbers（实数），通常数学术语应为irrational numbers（无理数）；正文照录原述。"
+    },
+    {
+      "id": "dm-ch07-157",
+      "type": "paragraph",
+      "page": "165",
+      "zh": [
+        "现在，如果允许无界除法，那么两个有理数之间似乎存在无穷多个实数。康托尔试图利用集合论来刻画这一连续统。"
+      ],
+      "en": [
+        "Now, if unbounded division is acceptable, then there appears to be an infinity of real numbers between two rational numbers. Cantor sought to characterize this ",
+        {
+          "type": "em",
+          "children": [
+            "continuum"
+          ]
+        },
+        " using set theory."
+      ]
+    },
+    {
+      "id": "dm-ch07-158",
+      "type": "paragraph",
+      "page": "165",
+      "zh": [
+        "我们把集合写在花括号{ 和} 之间，用逗号分隔元素，例如，偶数集："
+      ],
+      "en": [
+        "We will write sets as between the braces { and }, with elements separated by commas, for example, a set of even numbers:"
+      ]
+    },
+    {
+      "id": "dm-ch07-159",
+      "type": "paragraph",
+      "page": "165",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\{2,4,6,8,10\\}"
+        }
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\{2,4,6,8,10\\}"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-160",
+      "type": "paragraph",
+      "page": "165",
+      "zh": [
+        "空集为",
+        {
+          "type": "math",
+          "tex": "\\{\\}"
+        },
+        "。"
+      ],
+      "en": [
+        "The empty set is ",
+        {
+          "type": "math",
+          "tex": "\\{\\}"
+        },
+        "."
+      ]
+    },
+    {
+      "id": "dm-ch07-161",
+      "type": "paragraph",
+      "page": "165",
+      "zh": [
+        "我们区分序数和基数。序数可作为有序集合中的下标。因此，对于偶数集，第一个元素是2，第二个元素是4，第三个元素是6，依此类推。这里我们使用序数1、2、3……按顺序选取集合中的元素。基数用于表示集合的大小。因此，上述偶数集合的基数为5。"
+      ],
+      "en": [
+        "We distinguish ",
+        {
+          "type": "em",
+          "children": [
+            "ordinal"
+          ]
+        },
+        " and ",
+        {
+          "type": "em",
+          "children": [
+            "cardinal"
+          ]
+        },
+        " numbers. Ordinal numbers may be used as indices in ordered sets. So, for the set of even numbers, the first element is 2, the second element is 4, the third element is 6 and so on. Here we use the ordinals 1, 2, 3 . . . to select elements of the set in order. Cardinal numbers are used for sizes of set. So the cardinality of the set of even numbers above is 5."
+      ]
+    },
+    {
+      "id": "dm-ch07-162",
+      "type": "paragraph",
+      "page": "166",
+      "zh": [
+        "我们进一步把集合分为有限集和无限集。对于有限集（如上文的偶数集），其基数即为最后一个元素的序数。但对于无限集，其基数不能是序数，因为根据定义，无限集不存在最后一个元素。"
+      ],
+      "en": [
+        "We further distinguish between ",
+        {
+          "type": "em",
+          "children": [
+            "finite"
+          ]
+        },
+        " and ",
+        {
+          "type": "em",
+          "children": [
+            "infinite"
+          ]
+        },
+        " sets. For ",
+        {
+          "type": "em",
+          "children": [
+            "finite"
+          ]
+        },
+        " sets, like that of even numbers above, the cardinality is also the ordinal number for the last element. But, for an ",
+        {
+          "type": "em",
+          "children": [
+            "infinite"
+          ]
+        },
+        " set, the cardinality can’t be an ordinal number, as there is no last element by definition."
+      ],
+      "review": "底本称无限集的基数不能是序数，照译；在通常集合论中基数可用初始序数表示，原文论述不应当作这一点的否定证明。"
+    },
+    {
+      "id": "dm-ch07-163",
+      "type": "paragraph",
+      "page": "166",
+      "zh": [
+        "虽然显然无法在有限时间内构造出一个无限集合，但某些无限集合可以给出有限的特征描述。特别是，我们可以指定算法来枚举某些无限集合，即生成其相继的成员。而算法本身就是一种有限的、物质化的描述。"
+      ],
+      "en": [
+        "While an infinite set clearly cannot be constructed in finite time, some infinite sets can be given finite characterizations. In particular, we can specify ",
+        {
+          "type": "em",
+          "children": [
+            "algorithms"
+          ]
+        },
+        " to ",
+        {
+          "type": "em",
+          "children": [
+            "enumerate"
+          ]
+        },
+        " some infinite sets, that is, to generate successive members. And an algorithm is a finite materialized description."
+      ]
+    },
+    {
+      "id": "dm-ch07-164",
+      "type": "paragraph",
+      "page": "166",
+      "zh": [
+        "例如，数的无限集合可以通过从1 开始并反复加1 来枚举。请注意，前面的句子是一个有限的描述。然而，它指定了一种潜在的无限计算，这种计算无法由一个必然是有限的物质化系统完成。"
+      ],
+      "en": [
+        "For example, the infinite set of numbers can be enumerated by starting at 1 and repeatedly adding 1. Note that the previous sentences is a finite description. However, it specifies a potentially infinite computation, which cannot be completed by a materialized system, which must necessarily be finite."
+      ]
+    },
+    {
+      "id": "dm-ch07-165",
+      "type": "paragraph",
+      "page": "166",
+      "zh": [
+        "如果一个集合的元素能与某个整数集建立一一对应关系，则该集合被称为可数集。例如，对于我们这个由五个偶数组成的集合："
+      ],
+      "en": [
+        "A set is said to be ",
+        {
+          "type": "em",
+          "children": [
+            "countable"
+          ]
+        },
+        ", or ",
+        {
+          "type": "em",
+          "children": [
+            "denumerable"
+          ]
+        },
+        ", if its members can be put into one-to-one correspondence with some set of integers. For example, for our set of five even numbers:"
+      ]
+    },
+    {
+      "id": "dm-ch07-166",
+      "type": "paragraph",
+      "page": "166",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}1\\leftrightarrow 2\\\\2\\leftrightarrow 4\\\\3\\leftrightarrow 6\\\\4\\leftrightarrow 8\\\\5\\leftrightarrow 10\\end{aligned}",
+          "display": true
+        }
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}1\\leftrightarrow 2\\\\2\\leftrightarrow 4\\\\3\\leftrightarrow 6\\\\4\\leftrightarrow 8\\\\5\\leftrightarrow 10\\end{aligned}",
+          "display": true
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-167",
+      "type": "paragraph",
+      "page": "166",
+      "zh": [
+        "因此，从这个意义上说，一个可枚举的集合是可数的，尽管它可能是无限的，因为其元素可以与无限的整数集建立一一对应关系。例如，要生成偶数集，只需把整数依次翻倍。因此，所有偶数的集合可以与所有整数的集合建立一一对应关系。这似乎有悖直觉，因为在有限的整数集中，只有一半是偶数。"
+      ],
+      "en": [
+        "Thus, an enumerated set is in this sense countable, even though it may be infinite, as its members can be put into one-to-one correspondence with the infinite set of integers. For example, to generate the set of even numbers, successively double the integers. So the set of all even numbers can be put into one to one correspondence with the set of all integers. This may seem counterintuitive, as only half of a finite set of integers are even."
+      ]
+    },
+    {
+      "id": "dm-ch07-168",
+      "type": "paragraph",
+      "page": "166",
+      "zh": [
+        "许多其他由整数派生出来的无限集合都可以与整数建立一一对应关系。这包括有理数，我们可以把它们系统地列举为相继的整数比值。"
+      ],
+      "en": [
+        "Many other infinite sets derived from the integers can be put into one-to-one correspondence with them. This includes the rational numbers, which we can systematically enumerate as successive ratios of integers."
+      ]
+    },
+    {
+      "id": "dm-ch07-169",
+      "type": "paragraph",
+      "page": "166",
+      "zh": [
+        "为了比较无限集合的性质，康托尔使用希伯来字母",
+        {
+          "type": "math",
+          "tex": "\\aleph"
+        },
+        "（aleph），配上相继的下标，以超限数表示这些集合的基数。因此，整数集的基数为",
+        {
+          "type": "math",
+          "tex": "\\aleph_0"
+        },
+        "（aleph零），所有可数集也是如此。"
+      ],
+      "en": [
+        "In order to compare properties of infinite sets, Cantor used the Hebrew symbol ",
+        {
+          "type": "math",
+          "tex": "\\aleph"
+        },
+        " (",
+        {
+          "type": "em",
+          "children": [
+            "aleph"
+          ]
+        },
+        ") with successive subscripts to denote their cardinalities as ",
+        {
+          "type": "em",
+          "children": [
+            "transfinite"
+          ]
+        },
+        " numbers. Thus, the set of integers has cardinality ",
+        {
+          "type": "math",
+          "tex": "\\aleph_0"
+        },
+        " (",
+        {
+          "type": "em",
+          "children": [
+            "aleph"
+          ]
+        },
+        " nought), as do all countable sets."
+      ],
+      "review": "“所有可数集”均为ℵ₀是底本原述；通常术语下有限集也可数，此处实际讨论可数无限集。"
+    },
+    {
+      "id": "dm-ch07-170",
+      "type": "paragraph",
+      "page": "166",
+      "zh": [
+        "然而，康托尔借助对角线论证，试图证明实数不可枚举，因而不可数。首先，实数不能表示为两个整数之比，因此必定有无限多个小数位。每一个小数位都可以与整数一一对应，所以可用序数为其编号。假设我们能枚举实数，第i个实数",
+        {
+          "type": "math",
+          "tex": "d^i"
+        },
+        "的各位数字便是",
+        {
+          "type": "math",
+          "tex": "d^i_1,d^i_2,d^i_3"
+        },
+        "，依此类推，如表7.4所示。"
+      ],
+      "en": [
+        "However, using a ",
+        {
+          "type": "em",
+          "children": [
+            "diagonal"
+          ]
+        },
+        " argument, Cantor sought to demonstrate that the real numbers are not enumerable and, hence, not countable. First of all, a real number can’t be expressed as a ratio of two integers, so it must have an infinity of decimal digits. Each of those decimal digits can be put into one-to-one correspondence with the integers, so we can index them with ordinal numbers. Suppose we could enumerate the real numbers, so the digits of the ith real number ",
+        {
+          "type": "math",
+          "tex": "d^i"
+        },
+        " were ",
+        {
+          "type": "math",
+          "tex": "d^i_1,d^i_2,d^i_3"
+        },
+        " and so on, as in Table 7.4."
+      ],
+      "review": "这里再次沿用底本把实数与无理数混同的说法，未静默更改。"
+    },
+    {
+      "id": "dm-ch07-171",
+      "type": "paragraph",
+      "page": "166–167",
+      "zh": [
+        "可以构造一个新的实数",
+        {
+          "type": "math",
+          "tex": "0.n^1n^2n^3n^4\\ldots"
+        },
+        "，使其第一位",
+        {
+          "type": "math",
+          "tex": "n^1"
+        },
+        "不同于第一个实数的第一位",
+        {
+          "type": "math",
+          "tex": "d^1_1"
+        },
+        "，第二位",
+        {
+          "type": "math",
+          "tex": "n^2"
+        },
+        "不同于第二个实数的第二位",
+        {
+          "type": "math",
+          "tex": "d^2_2"
+        },
+        "，第三位",
+        {
+          "type": "math",
+          "tex": "n^3"
+        },
+        "不同于第三个实数的第三位",
+        {
+          "type": "math",
+          "tex": "d^3_3"
+        },
+        "，依此类推。这个新实数不可能在所枚举的序列中，所以实数必定多于",
+        {
+          "type": "math",
+          "tex": "\\aleph_0"
+        },
+        "，因而不可枚举。"
+      ],
+      "en": [
+        "We can make a new real number ",
+        {
+          "type": "math",
+          "tex": "0.n^1n^2n^3n^4\\ldots"
+        },
+        " where the first digit ",
+        {
+          "type": "math",
+          "tex": "n^1"
+        },
+        " is different from the first digit of the first real ",
+        {
+          "type": "math",
+          "tex": "d^1_1"
+        },
+        ", the second digit ",
+        {
+          "type": "math",
+          "tex": "n^2"
+        },
+        " is different from the second digit of the second real ",
+        {
+          "type": "math",
+          "tex": "d^2_2"
+        },
+        ", the third digit ",
+        {
+          "type": "math",
+          "tex": "n^3"
+        },
+        " is different from the third digit of the third real ",
+        {
+          "type": "math",
+          "tex": "d^3_3"
+        },
+        " and so on. This new real can’t be in the enumerated sequence, so there must be more real numbers than ",
+        {
+          "type": "math",
+          "tex": "\\aleph_0"
+        },
+        ", so the reals are not enumerable."
+      ]
+    },
+    {
+      "id": "dm-ch07-172",
+      "type": "paragraph",
+      "page": "167",
+      "zh": [
+        "表7.4 对角线法",
+        {
+          "type": "break"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              [],
+              [],
+              [],
+              [],
+              [],
+              [],
+              []
+            ],
+            [
+              [
+                "1."
+              ],
+              [
+                "0."
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^1_1"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^1_2"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^1_3"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^1_4"
+                }
+              ],
+              [
+                "…"
+              ]
+            ],
+            [
+              [
+                "2."
+              ],
+              [
+                "0."
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^2_1"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^2_2"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^2_3"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^2_4"
+                }
+              ],
+              [
+                "…"
+              ]
+            ],
+            [
+              [
+                "3."
+              ],
+              [
+                "0."
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^3_1"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^3_2"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^3_4"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^3_4"
+                }
+              ],
+              [
+                "…"
+              ]
+            ],
+            [
+              [
+                "4."
+              ],
+              [
+                "0."
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^4_1"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^4_2"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^4_3"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^4_4"
+                }
+              ],
+              [
+                "…"
+              ]
+            ],
+            [
+              [
+                "…"
+              ],
+              [],
+              [],
+              [],
+              [],
+              [],
+              []
+            ]
+          ]
+        }
+      ],
+      "en": [
+        "Table 7.4 Diagonalization",
+        {
+          "type": "break"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              [],
+              [],
+              [],
+              [],
+              [],
+              [],
+              []
+            ],
+            [
+              [
+                "1."
+              ],
+              [
+                "0."
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^1_1"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^1_2"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^1_3"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^1_4"
+                }
+              ],
+              [
+                "…"
+              ]
+            ],
+            [
+              [
+                "2."
+              ],
+              [
+                "0."
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^2_1"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^2_2"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^2_3"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^2_4"
+                }
+              ],
+              [
+                "…"
+              ]
+            ],
+            [
+              [
+                "3."
+              ],
+              [
+                "0."
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^3_1"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^3_2"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^3_4"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^3_4"
+                }
+              ],
+              [
+                "…"
+              ]
+            ],
+            [
+              [
+                "4."
+              ],
+              [
+                "0."
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^4_1"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^4_2"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^4_3"
+                }
+              ],
+              [
+                {
+                  "type": "math",
+                  "tex": "d^4_4"
+                }
+              ],
+              [
+                "…"
+              ]
+            ],
+            [
+              [
+                "…"
+              ],
+              [],
+              [],
+              [],
+              [],
+              [],
+              []
+            ]
+          ]
+        }
+      ],
+      "review": "底本第三行第三个数字位置印为d³₄，与第四个数字重复，按原图保留；对角线论证正文仍为d³₃。"
+    },
+    {
+      "id": "dm-ch07-173",
+      "type": "paragraph",
+      "page": "167",
+      "zh": [
+        "现在，除了整数集之外，构建集合的集合似乎也是合理的。特别是，给定一个集合，我们可以构造一个包含其所有子集的集合，称为幂集。我们从空集开始，然后依次添加所有单个元素、元素对、元素三元组等等，最终包含整个集合。参见表7.5。"
+      ],
+      "en": [
+        "Now, as well as sets of integers, it seems legitimate to make sets of sets. In particular, given a set, we can construct a set of all of its subsets, known as the ",
+        {
+          "type": "em",
+          "children": [
+            "power set"
+          ]
+        },
+        ". We start with the empty set {}, and then add all the single elements, pairs of elements, triples of elements and so on, ending with the whole set. See Table 7.5."
+      ]
+    },
+    {
+      "id": "dm-ch07-174",
+      "type": "paragraph",
+      "page": "167",
+      "zh": [
+        "表7.5 幂集",
+        {
+          "type": "break"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              [
+                "集合"
+              ],
+              [
+                "序数"
+              ],
+              [
+                "幂集"
+              ],
+              [
+                "基数"
+              ]
+            ],
+            [
+              [
+                "{1}"
+              ],
+              [
+                "1"
+              ],
+              [
+                "{{},{1}}"
+              ],
+              [
+                "2"
+              ]
+            ],
+            [
+              [
+                "{1,2}"
+              ],
+              [
+                "2"
+              ],
+              [
+                "{{},{1},{2},{1,2}}"
+              ],
+              [
+                "4"
+              ]
+            ],
+            [
+              [
+                "{1,2,3}"
+              ],
+              [
+                "3"
+              ],
+              [
+                "{{},{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}}"
+              ],
+              [
+                "8"
+              ]
+            ],
+            [
+              [
+                "…"
+              ],
+              [],
+              [],
+              []
+            ]
+          ]
+        }
+      ],
+      "en": [
+        "Table 7.5 Power Sets",
+        {
+          "type": "break"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              [
+                "set"
+              ],
+              [
+                "ordinality"
+              ],
+              [
+                "power set"
+              ],
+              [
+                "cardinality"
+              ]
+            ],
+            [
+              [
+                "{1}"
+              ],
+              [
+                "1"
+              ],
+              [
+                "{{},{1}}"
+              ],
+              [
+                "2"
+              ]
+            ],
+            [
+              [
+                "{1,2}"
+              ],
+              [
+                "2"
+              ],
+              [
+                "{{},{1},{2},{1,2}}"
+              ],
+              [
+                "4"
+              ]
+            ],
+            [
+              [
+                "{1,2,3}"
+              ],
+              [
+                "3"
+              ],
+              [
+                "{{},{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}}"
+              ],
+              [
+                "8"
+              ]
+            ],
+            [
+              [
+                "…"
+              ],
+              [],
+              [],
+              []
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch07-175",
+      "type": "paragraph",
+      "page": "167",
+      "zh": [
+        "幂集的基数总大于原集合，即成员更多：N个元素的集合，其幂集有",
+        {
+          "type": "math",
+          "tex": "2^N"
+        },
+        "个元素。特别地，若整数集基数为",
+        {
+          "type": "math",
+          "tex": "\\aleph_0"
+        },
+        "，则整数幂集基数为",
+        {
+          "type": "math",
+          "tex": "2^{\\aleph_0}"
+        },
+        "，记作",
+        {
+          "type": "math",
+          "tex": "\\aleph_1"
+        },
+        "（aleph一）。因此，整数的幂集不可数，因为",
+        {
+          "type": "math",
+          "tex": "\\aleph_1"
+        },
+        "必然大于",
+        {
+          "type": "math",
+          "tex": "\\aleph_0"
+        },
+        "。康托尔随后证明，实数集也有基数",
+        {
+          "type": "math",
+          "tex": "\\aleph_1"
+        },
+        "。"
+      ],
+      "en": [
+        "A power set always has greater cardinality, that is, more members, than the original set: for a set of ",
+        {
+          "type": "em",
+          "children": [
+            "N"
+          ]
+        },
+        " elements, the power set has ",
+        {
+          "type": "math",
+          "tex": "2^N"
+        },
+        " elements. In particular, if the set of integers has cardinality ",
+        {
+          "type": "math",
+          "tex": "\\aleph_0"
+        },
+        ", then the power set of integers has cardinality ",
+        {
+          "type": "math",
+          "tex": "2^{\\aleph_0}"
+        },
+        ", denoted ",
+        {
+          "type": "math",
+          "tex": "\\aleph_1"
+        },
+        " (",
+        {
+          "type": "em",
+          "children": [
+            "aleph one"
+          ]
+        },
+        "). Thus, the powerset of integers is uncountable, as ",
+        {
+          "type": "math",
+          "tex": "\\aleph_1"
+        },
+        " is necessarily bigger than ",
+        {
+          "type": "math",
+          "tex": "\\aleph_0"
+        },
+        ". Cantor then demonstrated that the set of real numbers also has cardinality ",
+        {
+          "type": "math",
+          "tex": "\\aleph_1"
+        },
+        "."
+      ],
+      "review": "底本将2^{ℵ₀}与ℵ₁直接等同并称康托尔证明实数基数为ℵ₁；这涉及连续统假设，不能作为一般集合论中已证明的结论。正文保留作者说法。"
+    },
+    {
+      "id": "dm-ch07-176",
+      "type": "paragraph",
+      "page": "167",
+      "zh": [
+        "从亚里士多德的视角来看，康托尔的对角线论证是不成立的，因为它预设了任意精度下已实现的实数无限集。对于一个以固定精度表示的有限“实数”集，对角线论证所产生的数本就已存在。"
+      ],
+      "en": [
+        "From an Aristotelian perspective, Cantor’s diagonalization argument is illegitimate because it presupposes an actualized infinity of real numbers to arbitrary precision. For a finite set of ‘real’ numbers, represented to fixed precision, diagonalization produces a number which is already present."
+      ]
+    }
+  ],
+  "notes": {
+    "dm-7-1": {
+      "zh": [
+        "Aristotle：《形而上学》，第I—IX卷，H. Tredennick英译，洛布古典丛书（William Heinemann，1933），第161页。"
+      ],
+      "en": [
+        "Aristotle, ",
+        {
+          "type": "em",
+          "children": [
+            "The Metaphysics, Books I-IX"
+          ]
+        },
+        ", trans. H. Tredennick, Loeb Classical Library (William Heinemann, 1933), 161."
+      ]
+    },
+    "dm-7-2": {
+      "zh": [
+        "正如其官方格言所宣示的：“我们信仰上帝”（In God We Trust）。"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "In God We Trust"
+          ]
+        },
+        ", as their official motto proclaims."
+      ]
+    },
+    "dm-7-3": {
+      "zh": [
+        "Wikipedia：“圣公宗”（Anglican Communion），载Wikipedia（Wikipedia，2021），",
+        {
+          "type": "link",
+          "url": "https://en.wikipedia.org/wiki/Anglican_Communion",
+          "children": [
+            "https://en.wikipedia.org/wiki/Anglican_Communion"
+          ]
+        },
+        " 。"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Wikipedia"
+          ]
+        },
+        ", ‘Anglican Communion’, in ",
+        {
+          "type": "em",
+          "children": [
+            "Wikipedia"
+          ]
+        },
+        " (",
+        {
+          "type": "em",
+          "children": [
+            "Wikipedia"
+          ]
+        },
+        ", 2021), ",
+        {
+          "type": "link",
+          "url": "https://en",
+          "children": [
+            "https://en​"
+          ]
+        },
+        " .wikipedia​.org​/wiki​/Anglican\\_Communion."
+      ]
+    },
+    "dm-7-4": {
+      "zh": [
+        "Statista：“中国共产党”（Chinese Communist Party），载Topics（Statista，2021），",
+        {
+          "type": "link",
+          "url": "https://www.statista.com/topics/1247/chinesecommunist-party/",
+          "children": [
+            "https://www.statista.com/topics/1247/chinesecommunist-party/"
+          ]
+        },
+        " 。"
+      ],
+      "en": [
+        "Statista, ‘Chinese Communist Party’, in ",
+        {
+          "type": "em",
+          "children": [
+            "Topics"
+          ]
+        },
+        " (Statista, 2021), ",
+        {
+          "type": "link",
+          "url": "https://www.statista",
+          "children": [
+            "https://www​.statista​"
+          ]
+        },
+        " .com​/topics​/1247​/chinesecommunist​-party/."
+      ]
+    },
+    "dm-7-5": {
+      "zh": [
+        "D. Lecourt：《无产阶级科学？李森科事件》（Proletarian Science? The Case of Lysenko）（Verso，1977）。"
+      ],
+      "en": [
+        "D. Lecourt, ",
+        {
+          "type": "em",
+          "children": [
+            "Proletarian Science? The Case of Lysenko"
+          ]
+        },
+        " (Verso, 1977)."
+      ]
+    },
+    "dm-7-6": {
+      "zh": [
+        "Cockshott、Mackenzie与Michaelson：《计算及其极限》（Computation and its Limits）。"
+      ],
+      "en": [
+        "Cockshott, Mackenzie, and Michaelson, ",
+        {
+          "type": "em",
+          "children": [
+            "Computation and its Limits"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-7-7": {
+      "zh": [
+        "不过，也可能通过中间的逻辑论证来确定。"
+      ],
+      "en": [
+        "Though perhaps through intermediate logical arguments."
+      ]
+    },
+    "dm-7-8": {
+      "zh": [
+        "G. Boole：《思维规律研究》（An Investigation into the Laws of Thought）（Walton & Maberly，1854）。"
+      ],
+      "en": [
+        "G. Boole, ",
+        {
+          "type": "em",
+          "children": [
+            "An Investigation into the Laws of Thought"
+          ]
+        },
+        " (Walton & Maberly, 1854)."
+      ]
+    },
+    "dm-7-9": {
+      "zh": [
+        "后文将进一步探讨这与辩证唯物主义的关系；但请注意，把同一词语的位置互换、分别用作形容词或名词，是有意义的。"
+      ],
+      "en": [
+        "We’ll later explore how this is related to dialectical materialism, but note that the transposed word use as adjective or noun is significant."
+      ]
+    },
+    "dm-7-10": {
+      "zh": [
+        "Aristotle：《修辞学》（The Art of Rhetoric），J. H. Freese英译，洛布古典丛书（William Heinemann，1926）。"
+      ],
+      "en": [
+        "Aristotle, ",
+        {
+          "type": "em",
+          "children": [
+            "The Art of Rhetoric"
+          ]
+        },
+        ", trans. J. H. Freese, Loeb Classical Library (William Heinemann, 1926)."
+      ]
+    },
+    "dm-7-11": {
+      "zh": [
+        "Aristotle：《前分析篇》（Prior Analytics），H. Tredennick英译，洛布古典丛书（William Heinemann，1962）。"
+      ],
+      "en": [
+        "Aristotle, ",
+        {
+          "type": "em",
+          "children": [
+            "Prior Analytics"
+          ]
+        },
+        ", trans. H. Tredennick, Loeb Classical Library (William Heinemann, 1962)."
+      ]
+    },
+    "dm-7-12": {
+      "zh": [
+        "Aristotle：《形而上学》，第I—IX卷（The Metaphysics, Books I–IX）。"
+      ],
+      "en": [
+        "Aristotle, ",
+        {
+          "type": "em",
+          "children": [
+            "The Metaphysics, Books I–IX"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-7-13": {
+      "zh": [
+        "Plato：《理想国》（The Republic），P. Shorey英译，第1卷，洛布古典丛书（Harvard，1937）；Plato：《理想国》，P. Shorey英译，第2卷，洛布古典丛书（Harvard，1962）。"
+      ],
+      "en": [
+        "Plato, ",
+        {
+          "type": "em",
+          "children": [
+            "The Republic"
+          ]
+        },
+        ", trans. P. Shorey, vol. 1, Loeb Classical Library (Harvard, 1937); Plato, ",
+        {
+          "type": "em",
+          "children": [
+            "The Republic"
+          ]
+        },
+        ", trans. P. Shorey, vol. 2, Loeb Classical Library (Harvard, 1962)."
+      ]
+    },
+    "dm-7-14": {
+      "zh": [
+        "R. Smith：“亚里士多德的逻辑”（Aristotle’s Logic），载Plato（Stanford Encyclopedia of Philosophy，2017），",
+        {
+          "type": "link",
+          "url": "https://plato.stanford.edu/entries/aristotle-logic/#AriLogWorOrg",
+          "children": [
+            "https://plato.stanford.edu/entries/aristotle-logic/#AriLogWorOrg"
+          ]
+        },
+        " 。"
+      ],
+      "en": [
+        "R. Smith, ‘Aristotle’s Logic’, in ",
+        {
+          "type": "em",
+          "children": [
+            "Plato"
+          ]
+        },
+        " (Stanford Encyclopedia of Philosophy, 2017), ",
+        {
+          "type": "link",
+          "url": "https://plato.stanford.edu/entries/aristotle-logic/\\#AriLogWorOrg",
+          "children": [
+            "https://plato​.stanford​.edu​/entries/aristotle-logic/\\#AriLogWorOrg"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-7-15": {
+      "zh": [
+        "Aristotle：《解释篇》（On Interpretation），H. P. Cook英译，洛布古典丛书（William Heinemann，1962）。"
+      ],
+      "en": [
+        "Aristotle, ",
+        {
+          "type": "em",
+          "children": [
+            "On Interpretation"
+          ]
+        },
+        ", trans. H. P. Cook, Loeb Classical Library (William Heinemann, 1962)."
+      ]
+    },
+    "dm-7-16": {
+      "zh": [
+        "Aristotle：《前分析篇》（Prior Analytics）。"
+      ],
+      "en": [
+        "Aristotle, ",
+        {
+          "type": "em",
+          "children": [
+            "Prior Analytics"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-7-17": {
+      "zh": [
+        "J. Marenbon编：《剑桥波爱修斯指南》（The Cambridge Companion to Boethius）（Cambridge University Press，2009）。"
+      ],
+      "en": [
+        "J. Marenbon, ed., ",
+        {
+          "type": "em",
+          "children": [
+            "The Cambridge Companion to Boethius"
+          ]
+        },
+        " (Cambridge University Press, 2009)."
+      ]
+    },
+    "dm-7-18": {
+      "zh": [
+        "J. Buroker：“波尔—罗亚尔逻辑”（Port Royal Logic），载Stanford Encyclopedia of Philosophy（University of Stanford，2014），",
+        {
+          "type": "link",
+          "url": "https://plato.stanford.edu/entries/port-royal-logic/",
+          "children": [
+            "https://plato.stanford.edu/entries/port-royal-logic/"
+          ]
+        },
+        " 。"
+      ],
+      "en": [
+        "J. Buroker, ‘Port Royal Logic’, in ",
+        {
+          "type": "em",
+          "children": [
+            "Stanford Encyclopedia of Philosophy"
+          ]
+        },
+        " (University of Stanford, 2014), ",
+        {
+          "type": "link",
+          "url": "https://plato",
+          "children": [
+            "https://plato"
+          ]
+        },
+        ".",
+        " stanford​.edu​/entries​/port​-royal​-l​ogic/."
+      ]
+    },
+    "dm-7-19": {
+      "zh": [
+        "F. Bacon：《新工具》（Novum Organon），J. Devey编（P. F. Collier & Son，1901）。"
+      ],
+      "en": [
+        "F. Bacon, ",
+        {
+          "type": "em",
+          "children": [
+            "Novum Organon,"
+          ]
+        },
+        " ed. J. Devey (P. F. Collier & Son, 1901)."
+      ]
+    },
+    "dm-7-20": {
+      "zh": [
+        "这一标题呼应亚里士多德的《工具论》（Organon）。"
+      ],
+      "en": [
+        "Riffing on Aristotle’s ",
+        {
+          "type": "em",
+          "children": [
+            "Organon"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-7-21": {
+      "zh": [
+        "T. Hobbes：“论物体”（De Corpore），载《托马斯·霍布斯英文著作集》（The English Works of Thomas Hobbes），W. Molesworth编（John Bohn，1839）。"
+      ],
+      "en": [
+        "T. Hobbes, ‘De Corpore’, in ",
+        {
+          "type": "em",
+          "children": [
+            "The English Works of Thomas Hobbes"
+          ]
+        },
+        ", ed. W. Molesworth (John Bohn, 1839)."
+      ]
+    },
+    "dm-7-22": {
+      "zh": [
+        "R. Whately：《逻辑要素》（Elements of Logic）（James Munroe & Company，1845）。"
+      ],
+      "en": [
+        "R. Whately, ",
+        {
+          "type": "em",
+          "children": [
+            "Elements of Logic"
+          ]
+        },
+        " (James Munroe & Company, 1845)."
+      ]
+    },
+    "dm-7-23": {
+      "zh": [
+        "Boole：《思维规律研究》（An Investigation into the Laws of Thought）。"
+      ],
+      "en": [
+        "Boole, ",
+        {
+          "type": "em",
+          "children": [
+            "An Investigation into the Laws of Thought"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-7-24": {
+      "zh": [
+        "W. S. Jevons：《逻辑学初级教程》（Elementary Lessons in Logic）（Macmillan & Co.，1903）。"
+      ],
+      "en": [
+        "W. S. Jevons, ",
+        {
+          "type": "em",
+          "children": [
+            "Elementary Lessons in Logic"
+          ]
+        },
+        " (Macmillan & Co., 1903)."
+      ]
+    },
+    "dm-7-25": {
+      "zh": [
+        "不要与爱尔兰数学家William Rowan Hamilton混淆。"
+      ],
+      "en": [
+        "Not to be confused with the Irish mathematician William Rowan Hamilton."
+      ]
+    },
+    "dm-7-26": {
+      "zh": [
+        "W. Hamilton：《形而上学与逻辑讲义》（Lectures on Metaphysics and Logic），第1卷，H. L. Mansel与J. Veitch编（William Blackwood and Sons，1866）。"
+      ],
+      "en": [
+        "W. Hamilton, ",
+        {
+          "type": "em",
+          "children": [
+            "Lectures on Metaphysics and Logic"
+          ]
+        },
+        ", vol. 1, ed. H. L. Mansel and J. Veitch (William Blackwood and Sons, 1866)."
+      ]
+    },
+    "dm-7-27": {
+      "zh": [
+        "L. Wittgenstein：《逻辑哲学论》（Tractatus Logico-Philosophicus），D. F. Pears与B. F. McGuinness英译（Routledge and Kegan Paul，1961），第32—33页。"
+      ],
+      "en": [
+        "L. Wittgenstein, ",
+        {
+          "type": "em",
+          "children": [
+            "Tractatus Logico-Philosophicus"
+          ]
+        },
+        ", trans. D. F. Pears and B. F. McGuinness (Routledge and Kegan Paul, 1961), 32–3."
+      ]
+    },
+    "dm-7-28": {
+      "zh": [
+        "W. Lenzen：“莱布尼茨：逻辑”（Leibniz: Logic），载Internet Encyclopedia of Philosophy（University of Tennessee at Martin，2017），",
+        {
+          "type": "link",
+          "url": "https://iep.utm.edu/leib-log/",
+          "children": [
+            "https://iep.utm.edu/leib-log/"
+          ]
+        },
+        " 。"
+      ],
+      "en": [
+        "W. Lenzen, ‘Leibniz: Logic’, in ",
+        {
+          "type": "em",
+          "children": [
+            "Internet Encyclopedia of Philosophy"
+          ]
+        },
+        " (University of Tennessee at Martin, 2017), ",
+        {
+          "type": "link",
+          "url": "https://iep.utm.edu/leib-log/",
+          "children": [
+            "https://iep​.utm​.edu​/leib​-​log/"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-7-29": {
+      "zh": [
+        "Boole：《思维规律研究》（An Investigation into the Laws of Thought）。"
+      ],
+      "en": [
+        "Boole, ",
+        {
+          "type": "em",
+          "children": [
+            "An Investigation into the Laws of Thought"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-7-30": {
+      "zh": [
+        "请注意，布尔没有使用真值表。不过，他在第76页实际上给出了否定的真值表。"
+      ],
+      "en": [
+        "Note that Boole did not use truth tables. However, on p76 he effectively presents the truth table for negation."
+      ]
+    },
+    "dm-7-31": {
+      "zh": [
+        "C. E. Shannon：“继电器与开关电路的符号分析”（A Symbolic Analysis of Relay and Switching Circuits），American Institute of Electrical Engineers Transactions，第57卷（1938），第713—723页。"
+      ],
+      "en": [
+        "C. E. Shannon, ‘A Symbolic Analysis of Relay and Switching Circuits’, ",
+        {
+          "type": "em",
+          "children": [
+            "American Institute of Electrical Engineers Transactions"
+          ]
+        },
+        ", 57 (1938): 713–23."
+      ]
+    },
+    "dm-7-32": {
+      "zh": [
+        "字面意思是“概念文字”。"
+      ],
+      "en": [
+        "Literally ‘conceptual writing’."
+      ]
+    },
+    "dm-7-33": {
+      "zh": [
+        "G. Frege：“概念文字：一种仿照算术语言构造的纯思维公式语言”（Begriffsschrift, a Formula Language, Modeled Upon that of Arithmetic, for Pure Thought），载《从弗雷格到哥德尔：数理逻辑文献集，1879—1931》（From Frege to Gödel: A Source Book in Mathematical Logic, 1879-1931），J. van Heijenoort编，S. Bauer-Mengelberg英译（Harvard University Press，1967）。"
+      ],
+      "en": [
+        "G. Frege, ‘Begriffsschrift, a Formula Language, Modeled Upon that of Arithmetic, for Pure Thought’, in ",
+        {
+          "type": "em",
+          "children": [
+            "From Frege to Gödel: A Source Book in Mathematical Logic, 1879-1931"
+          ]
+        },
+        ", ed. J. van Heĳenoort, trans. S. Bauer-Mengelberg (Harvard University Press, 1967)."
+      ]
+    },
+    "dm-7-34": {
+      "zh": [
+        "G. Frege：《算术基础》（The Foundations of Arithemtic），J. L. Austin英译（Harper，1953）。"
+      ],
+      "en": [
+        "G. Frege, ",
+        {
+          "type": "em",
+          "children": [
+            "The Foundations of Arithemtic"
+          ]
+        },
+        ", trans. J. L. Austin (Harper, 1953)."
+      ]
+    },
+    "dm-7-35": {
+      "zh": [
+        "G. Frege：《算术基本规律：体系的阐述》（The Basic Laws of Arithmetic: Exposition of the System），M. Furth英译（University of California Press，1964）。"
+      ],
+      "en": [
+        "G. Frege, ",
+        {
+          "type": "em",
+          "children": [
+            "The Basic Laws of Arithmetic: Exposition of the System"
+          ]
+        },
+        ", trans. M. Furth (University of California Press, 1964)."
+      ]
+    },
+    "dm-7-36": {
+      "zh": [
+        "G. Peano：“用新方法表述的算术原理”（The Principles of Arithemtic, Presented by a New Method），载《从弗雷格到哥德尔：数理逻辑文献集，1879—1931》（From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931），J. van Heijenoort编译（Harvard University Press，1967）。"
+      ],
+      "en": [
+        "G. Peano, ‘The Principles of Arithemtic, Presented by a New Method’, in ",
+        {
+          "type": "em",
+          "children": [
+            "From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931"
+          ]
+        },
+        ", ed. and trans. J. van Heĳenoort (Harvard University Press, 1967)."
+      ]
+    },
+    "dm-7-37": {
+      "zh": [
+        "如今通常从零开始。"
+      ],
+      "en": [
+        "It is now usual to start at zero."
+      ]
+    },
+    "dm-7-38": {
+      "zh": [
+        "Aristotle：《形而上学》，第I—IX卷（The Metaphysics, Books I-IX）。"
+      ],
+      "en": [
+        "Aristotle, ",
+        {
+          "type": "em",
+          "children": [
+            "The Metaphysics, Books I-IX"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-7-39": {
+      "zh": [
+        "B. Dowden：“芝诺悖论”（Zeno’s Paradoxes），Internet Encyclopedia of Philosophy，",
+        {
+          "type": "link",
+          "url": "https://iep.utm.edu/zenos-paradoxes/",
+          "children": [
+            "https://iep.utm.edu/zenos-paradoxes/"
+          ]
+        },
+        " 。"
+      ],
+      "en": [
+        "B. Dowden, ‘Zeno’s Paradoxes’, ",
+        {
+          "type": "em",
+          "children": [
+            "Internet Encyclopedia of Philosophy"
+          ]
+        },
+        ", ",
+        {
+          "type": "link",
+          "url": "https://iep.utm",
+          "children": [
+            "https://iep​.utm​"
+          ]
+        },
+        " .edu​/zenos​-paradoxes/."
+      ]
+    },
+    "dm-7-40": {
+      "zh": [
+        "M. Tiles：《集合论哲学：康托尔乐园的历史导论》（The Philosophy of Set Theory: An Historic Introduction to Cantor’s Paradise）（Dover，1989）。"
+      ],
+      "en": [
+        "M. Tiles, ",
+        {
+          "type": "em",
+          "children": [
+            "The Philosophy of Set Theory: An Historic Introduction to Cantor’s Paradise"
+          ]
+        },
+        " (Dover, 1989)."
+      ]
+    },
+    "dm-7-41": {
+      "zh": [
+        "Tiles：《集合论哲学》（The Philosophy of Set Theory）。"
+      ],
+      "en": [
+        "Tiles, ",
+        {
+          "type": "em",
+          "children": [
+            "The Philosophy of Set Theory"
+          ]
+        },
+        "."
+      ]
+    }
+  }
+}
