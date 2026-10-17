@@ -1,0 +1,1402 @@
+{
+  "id": "commissioned-micro-drama",
+  "title": "为中国短视频平台制作委托剧：权力、依赖与创作控制",
+  "originalTitle": "Producing Commissioned Drama for Chinese Short Video Platforms: Power, Dependence and Creative Control",
+  "author": "Chengyao Liu",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "sourceUrl": "https://journals.sagepub.com/doi/full/10.1177/15274764261461453",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "sourceFormat": "Publisher HTML via web text extraction. Line IDs are extraction locators, not printed pages. Paragraphs may be split by the extraction service.",
+  "editionNotice": "译自出版方 HTML 全文（2026-06-25），按提取文本顺序逐段对照，保留原图、全部附属声明与23条参考文献。PDF原版未能下载，本稿不标注未经核实的印刷页码；段落可被网页提取服务拆分。原文采用 CC BY 4.0 许可，© Chengyao Liu 2026；中文翻译及编辑性说明为本版新增，亦按 CC BY 4.0 提供。AI辅助工作译稿，经逐项语义复核；不代表作者或出版社认可。",
+  "body": [
+    {
+      "id": "micro-drama-028",
+      "type": "heading",
+      "en": [
+        "Abstract"
+      ],
+      "zh": [
+        "摘要"
+      ],
+      "source_locator": "HTML extraction line 28"
+    },
+    {
+      "id": "micro-drama-029",
+      "type": "paragraph",
+      "en": [
+        "The production of short online dramas has grown into a significant industry in China. “Micro dramas” have evolved into a distinct genre that refers to a high-volume serial format with fast-paced individual episodes of only a few minutes duration, distributed on Chinese online video platforms. This article discusses the production structures and processes in the Chinese micro drama industry."
+      ],
+      "zh": [
+        "网络短剧制作在中国已发展为一个重要产业。“微短剧”已经演变为一种独特的类型：它以大量连续剧集的形式在中国网络视频平台发行，每集仅几分钟，节奏紧凑。本文讨论中国微短剧行业的生产结构与流程。"
+      ],
+      "source_locator": "HTML extraction line 29"
+    },
+    {
+      "id": "micro-drama-030",
+      "type": "paragraph",
+      "en": [
+        "Drawing on research combining practitioner interviews and industry observation, it maps the current production system and its key roles. Drawing on Idiz and Poell’s conceptual framework of dependence, it analyses the relationships between platforms and micro drama producers and argues that the latter’s structural dependence on the former creates creative constraints based on platforms’ commercial preferences."
+      ],
+      "zh": [
+        "研究结合从业者访谈与行业观察，勾勒当前的生产体系及其主要参与者。借助 Idiz 与 Poell 关于依赖的概念框架，本文分析平台与微短剧制作者之间的关系，认为后者对前者的结构性依赖，使平台的商业偏好转化为对创作的约束。"
+      ],
+      "source_locator": "HTML extraction line 30"
+    },
+    {
+      "id": "micro-drama-031",
+      "type": "heading",
+      "en": [
+        "Introduction"
+      ],
+      "zh": [
+        "引言"
+      ],
+      "source_locator": "HTML extraction line 31"
+    },
+    {
+      "id": "micro-drama-032",
+      "type": "paragraph",
+      "en": [
+        "Micro drama is an emerging genre that has become immensely popular on Chinese online video platforms. Primarily commissioned by Chinese short video platforms and formerly known as “short drama,” this genre is designed to compete for audience viewership to generate commercial profit."
+      ],
+      "zh": [
+        "微短剧是一种新兴类型，在中国网络视频平台上极为流行。这一类型主要由中国短视频平台委托制作，过去被称为“短剧”，其设计目标是争夺观众的观看，以创造商业利润。"
+      ],
+      "source_locator": "HTML extraction line 32"
+    },
+    {
+      "id": "micro-drama-033",
+      "type": "paragraph",
+      "en": [
+        "This type of drama has evolved into fast-paced narratives with individual episodes lasting tens of seconds to fifteen minutes while maintaining a continuous storyline that extends across dozens to hundreds of episodes (iResearch 2024 ; NRTA 2022 ). The online micro drama industry has achieved exceptional commercial success with a total revenue exceeding 37 billion China yuan (5.2 billion USD) in 2023 (iMedia Research 2023 )."
+      ],
+      "zh": [
+        "这种剧集已演变为节奏紧凑的叙事：单集时长从几十秒到十五分钟不等，连续的故事线则贯穿数十集乃至数百集（iResearch 2024；NRTA 2022）。网络微短剧行业取得了突出的商业成功，2023 年总收入超过人民币 370 亿元（52 亿美元）（iMedia Research 2023）。"
+      ],
+      "source_locator": "HTML extraction line 33"
+    },
+    {
+      "id": "micro-drama-034",
+      "type": "paragraph",
+      "en": [
+        "However, media commentators from industry and academia have criticized repetition and plagiarism in content (Xinhua Daily Telegraph 2024 ) while insider reports have highlighted the overtime and intense workloads faced by micro drama producers (Huang 2024 )."
+      ],
+      "zh": [
+        "然而，来自业界和学界的媒体评论者批评其内容重复、抄袭（Xinhua Daily Telegraph 2024），行业内部的报道则揭示了微短剧制作者所承受的加班与高强度工作负担（Huang 2024）。"
+      ],
+      "source_locator": "HTML extraction line 34"
+    },
+    {
+      "id": "micro-drama-035",
+      "type": "paragraph",
+      "en": [
+        "By examining the production process of commissioned micro dramas in China, this paper discusses the underlying causes of these problems with a focus on the unequal power relationship between platforms and micro drama producers—referring here to a broad category of creative workers producing dramas rather than a specific position—and its impact on their work experience and the content."
+      ],
+      "zh": [
+        "通过考察中国委托制作微短剧的生产流程，本文讨论这些问题的深层原因，重点关注平台与微短剧制作者之间不平等的权力关系，以及这种关系对其工作经历和作品内容的影响。这里的“制作者”泛指从事剧集制作的创意工作者，而非某一特定岗位。"
+      ],
+      "source_locator": "HTML extraction line 35"
+    },
+    {
+      "id": "micro-drama-036",
+      "type": "paragraph",
+      "en": [
+        "Most current research on micro/short drama in China focuses on content and audiences (e.g., Feng 2024 ; Tu and Chen 2024 ), with few exceptions, such as Tian’s (2024) study, which examines the production culture of commercial micro dramas, highlighting how platforms prioritize volume over quality in their commissioning strategies. However, there remains a lack of empirical research examining the industry’s production system, production process, and conditions."
+      ],
+      "zh": [
+        "目前，中国有关微短剧或短剧的研究大多关注内容与受众（例如 Feng 2024；Tu and Chen 2024）。少数例外包括 Tian（2024）的研究：它考察商业微短剧的生产文化，指出平台在委托制作策略中如何重数量、轻质量。不过，考察这一行业生产体系、生产流程与生产条件的实证研究仍然不足。"
+      ],
+      "source_locator": "HTML extraction line 36"
+    },
+    {
+      "id": "micro-drama-037",
+      "type": "paragraph",
+      "en": [
+        "This paper contributes to media industry studies and media production studies providing an analysis of the Chinese micro drama industry, focusing on platform-commissioned dramas. It addresses the following questions: What are the key roles shaping micro drama production? How do power relationships between commissioners and producers shape the production process and the texts of micro dramas?"
+      ],
+      "zh": [
+        "本文通过分析中国微短剧行业，尤其是平台委托制作的剧集，为媒体产业研究和媒体生产研究提供补充。文章回答以下问题：塑造微短剧生产的主要参与者有哪些？委托方与制作者之间的权力关系，如何塑造微短剧的生产流程及其文本？"
+      ],
+      "source_locator": "HTML extraction line 37"
+    },
+    {
+      "id": "micro-drama-038",
+      "type": "paragraph",
+      "en": [
+        "This article draws on a combination of methods: interviews, ethnographic observation, and secondary data, focusing on professional producers of commissioned micro dramas."
+      ],
+      "zh": [
+        "本文综合运用访谈、民族志观察和二手资料等方法，研究对象集中于受委托制作微短剧的专业制作者。"
+      ],
+      "source_locator": "HTML extraction line 38"
+    },
+    {
+      "id": "micro-drama-039",
+      "type": "paragraph",
+      "en": [
+        "Eight semi-structured interviews were conducted with micro drama producers whose professional backgrounds represent the typical constitution of producers in the industry: (1) six independent producers, directors, and scriptwriters with a background in film and television or advertising; (2) an executive producer of micro drama from Kuaishou, also referred to in the industry as a platform content manager; and (3) an independent director who began as an amateur short video creator."
+      ],
+      "zh": [
+        "研究对八位微短剧制作者进行了半结构式访谈，其职业背景体现了该行业制作者的典型构成：（1）六位具有影视或广告行业背景的独立制片人、导演和编剧；（2）一位快手微短剧执行制片人，业内也将这一职位称为平台内容经理；（3）一位从业余短视频创作者起步的独立导演。"
+      ],
+      "source_locator": "HTML extraction line 39"
+    },
+    {
+      "id": "micro-drama-040",
+      "type": "paragraph",
+      "en": [
+        "Ethnographic observation of the 2024 First Micro Drama Summit in Hangzhou provided insights into the production system, regulatory policy changes, platform commissioning strategies, and the experiences of leading production companies. Observation of the production process of a micro drama uncovered the practical experiences of producers on the film set."
+      ],
+      "zh": [
+        "对 2024 年杭州首届微短剧峰会的民族志观察，使研究得以了解生产体系、监管政策变化、平台的委托制作策略，以及领先制作公司的经验。对一部微短剧制作过程的观察，则揭示了制作者在拍摄现场的实际经历。"
+      ],
+      "source_locator": "HTML extraction line 40"
+    },
+    {
+      "id": "micro-drama-041",
+      "type": "paragraph",
+      "en": [
+        "Secondary data of industry reports from iMedia Research (2023) and iResearch (2024) are used to complement primary data collection for the analysis of the industry’s business models. This approach enabled the study to address industrial structure and the personal experiences of creative workers more comprehensively, resonating with Caldwell’s (2008 , 4) approach of cross-checking multiple sources of data and analysis to create “critical tension or dialogue” with one another."
+      ],
+      "zh": [
+        "在分析行业商业模式时，研究以 iMedia Research（2023）和 iResearch（2024）的行业报告等二手资料补充一手资料。这一方法使研究能够更全面地处理产业结构和创意工作者的个人经历，也呼应了 Caldwell（2008，4）的研究路径：交叉核对多种资料与分析，使它们彼此形成“批判性的张力或对话”。"
+      ],
+      "source_locator": "HTML extraction line 41"
+    },
+    {
+      "id": "micro-drama-042",
+      "type": "paragraph",
+      "en": [
+        "The first section of the article discusses the production system of the Chinese micro drama industry with a focus on key roles and production processes, highlighting key developments and nation-specific particularities that shape the current production system. The second part analyses the relationship between media producers and platforms."
+      ],
+      "zh": [
+        "文章第一部分讨论中国微短剧行业的生产体系，聚焦主要参与者与生产流程，并突出塑造当前生产体系的关键变化以及中国特有的情形。第二部分分析媒体制作者与平台之间的关系。"
+      ],
+      "source_locator": "HTML extraction line 42"
+    },
+    {
+      "id": "micro-drama-043",
+      "type": "paragraph",
+      "en": [
+        "Drawing on Idiz and Poell’s (2025) framework of dependence in online screen industries, the article shows how producers’ dependence on platforms combined with platforms’ commercial priorities facilitate platform control, which constrains producers’ creative freedom and causes problematic working conditions."
+      ],
+      "zh": [
+        "借助 Idiz 与 Poell（2025）关于网络视听产业依赖关系的框架，本文说明：制作者对平台的依赖与平台对商业目标的优先考量相结合，如何便利了平台实施控制，从而限制制作者的创作自由，并造成问题重重的劳动条件。"
+      ],
+      "source_locator": "HTML extraction line 43"
+    },
+    {
+      "id": "micro-drama-044",
+      "type": "heading",
+      "en": [
+        "Key Roles, Developments, and the Production Process"
+      ],
+      "zh": [
+        "主要参与者、行业变化与生产流程"
+      ],
+      "source_locator": "HTML extraction line 44"
+    },
+    {
+      "id": "micro-drama-045",
+      "type": "paragraph",
+      "en": [
+        "Micro drama production in China over the last five years has evolved into a large industry with a clear structure of the production system. Based on the empirical data from interviews, observations, and industry reports, the key roles driving industrial developments can be summarized into three categories: commissioners, producers, and regulators. Commissioners in this industry are online video platforms."
+      ],
+      "zh": [
+        "过去五年，中国微短剧生产已经发展为一个规模庞大、生产体系结构明确的行业。根据访谈、观察和行业报告所得的实证资料，推动行业发展的主要参与者可归纳为三类：委托方、制作者和监管者。该行业的委托方是网络视频平台。"
+      ],
+      "source_locator": "HTML extraction line 45"
+    },
+    {
+      "id": "micro-drama-046",
+      "type": "paragraph",
+      "en": [
+        "Producers are media production companies within and beyond the traditional television industry as well as professional online content creators. Regulators are the national and regional regulatory authorities that represent the National Radio and Television Administration (NRTA)."
+      ],
+      "zh": [
+        "制作者包括传统电视行业内外的媒体制作公司，以及专业网络内容创作者。监管者是代表国家广播电视总局（NRTA）的国家及地方监管机关。"
+      ],
+      "source_locator": "HTML extraction line 46"
+    },
+    {
+      "id": "micro-drama-047",
+      "type": "paragraph",
+      "en": [
+        "This section discusses these three key roles and significant developments they have brought to the industry, helping us understand the characteristics of the current Chinese online short drama industry and the formation of power dynamics between the key roles."
+      ],
+      "zh": [
+        "本节讨论这三类主要参与者，以及它们为行业带来的重大变化，以帮助我们理解当前中国网络短剧行业的特点，以及主要参与者之间权力关系的形成。"
+      ],
+      "source_locator": "HTML extraction line 47"
+    },
+    {
+      "id": "micro-drama-048",
+      "type": "paragraph",
+      "en": [
+        "The first development was the business expansion of online video platforms from distribution into the commissioning of short drama content, seeking greater content variety and a broader user base for content monetization. The most influential micro drama commissioners to date are short video platforms, led by Kuaishou and Douyin from 2020, and mobile reading platforms, for example, Fanqie Novel and Dianzhong Technology from 2022 (Shenghao 2023 )."
+      ],
+      "zh": [
+        "第一个变化是，网络视频平台的业务由发行扩展至委托制作短剧内容，以增加内容种类、扩大用户基础并实现内容变现。迄今最有影响力的微短剧委托方，一类是自 2020 年起以快手和抖音为代表的短视频平台，另一类是自 2022 年起加入的移动阅读平台，例如番茄小说与点众科技（Shenghao 2023）。"
+      ],
+      "source_locator": "HTML extraction line 48"
+    },
+    {
+      "id": "micro-drama-049",
+      "type": "paragraph",
+      "en": [
+        "Unlike Western platforms, there is no clear separation on Chinese video-sharing platforms between user-generated content (UGC) and professionally commissioned productions. On Western platforms, UGC is typically distributed on social media entertainment sites like YouTube and TikTok, while “Hollywood-like” commissioned content appears on video-streaming services such as Netflix (Cunningham and David 2019 , 5)."
+      ],
+      "zh": [
+        "与西方平台不同，中国视频分享平台并未明确区分用户生成内容（UGC）与专业委托制作的作品。在西方平台上，UGC 通常通过 YouTube、TikTok 等社交媒体娱乐网站传播，而“好莱坞式”的委托制作内容则出现在 Netflix 等视频流媒体服务上（Cunningham and David 2019，5）。"
+      ],
+      "source_locator": "HTML extraction line 49"
+    },
+    {
+      "id": "micro-drama-050",
+      "type": "paragraph",
+      "en": [
+        "In contrast, Chinese short video platforms distribute both UGC and commissioned dramas through the same scrolling feed powered by algorithmic recommendations, placing amateurs and professionals in direct competition for user attention. Another particularity concerns Chinese mobile reading platforms’ transformation from online literature publishers and distributors to micro drama commissioners."
+      ],
+      "zh": [
+        "相比之下，中国短视频平台通过同一个由算法推荐驱动的滚动信息流，分发 UGC 与委托制作的剧集，使业余创作者与专业人士直接争夺用户注意力。另一个特殊之处，在于中国移动阅读平台由网络文学出版发行者转型为微短剧委托方。"
+      ],
+      "source_locator": "HTML extraction line 50"
+    },
+    {
+      "id": "micro-drama-051",
+      "type": "paragraph",
+      "en": [
+        "They commission drama adaptations of their copyrighted online literature in serialized form on a large scale, distributed either through their own VOD platforms or mini programs on the major short video platforms. According to Ruiqing Chen, Chairman of Dianzhong Technology, the company commissions between 40 and 50 drama series monthly (Hongxing News 2024 )."
+      ],
+      "zh": [
+        "它们大规模委托制作根据其拥有版权的网络文学改编的系列剧，既通过自有的视频点播平台发行，也通过主要短视频平台上的小程序发行。点众科技董事长陈瑞卿表示，该公司每月委托制作 40 至 50 部系列剧（Hongxing News 2024）。"
+      ],
+      "source_locator": "HTML extraction line 51"
+    },
+    {
+      "id": "micro-drama-052",
+      "type": "paragraph",
+      "en": [
+        "The involvement of various online platforms in micro drama production created more opportunities for producers and had a profound influence on the evolution of genre and business models in this industry."
+      ],
+      "zh": [
+        "多种网络平台参与微短剧生产，为制作者创造了更多机会，也深刻影响了行业内类型形式与商业模式的演变。"
+      ],
+      "source_locator": "HTML extraction line 52"
+    },
+    {
+      "id": "micro-drama-053",
+      "type": "paragraph",
+      "en": [
+        "The second development concerns the background of producers in this industry, which has become increasingly diverse. Producers can be grouped roughly into three categories: traditional film and television professionals, producers from other creative sectors such as advertising, and former amateur content creators who have become drama producers. One of the key reasons that drove most of them to become micro drama producers was a shift in demand."
+      ],
+      "zh": [
+        "第二个变化涉及行业制作者的背景日益多样化。制作者大致可分为三类：传统影视专业人士、来自广告等其他创意行业的制作者，以及由业余内容创作者转为剧集制作者的人。需求转变是促使其中多数人投身微短剧制作的关键原因之一。"
+      ],
+      "source_locator": "HTML extraction line 53"
+    },
+    {
+      "id": "micro-drama-054",
+      "type": "paragraph",
+      "en": [
+        "As one producer explained regarding his shift to micro dramas, competition in longer online drama forms had become increasingly difficult by the late 2010s, limiting production opportunities to large commercial projects, while the expansion of online video platforms into micro-drama commissioning offered new opportunities."
+      ],
+      "zh": [
+        "一位制作者在解释自己转向微短剧的原因时表示，到 2010 年代末，较长篇幅网络剧的竞争已变得越来越激烈，制作机会局限于大型商业项目；而网络视频平台开始委托制作微短剧，为他们提供了新的机会。"
+      ],
+      "source_locator": "HTML extraction line 54"
+    },
+    {
+      "id": "micro-drama-055",
+      "type": "paragraph",
+      "en": [
+        "Furthermore, the rise of Chinese short video platforms not only attracted a large number of users but also led audiences to favor shorter content with fast-paced narratives, leading to a significant increase in demand for micro drama production. Lower budgets and a shorter production timeframe of micro dramas allowed platforms to invest in a large number of commissioned projects and launch programs online within a month to achieve commercial benefits quickly."
+      ],
+      "zh": [
+        "此外，中国短视频平台的崛起不仅吸引了大量用户，也使观众更偏爱篇幅较短、叙事紧凑的内容，显著增加了对微短剧制作的需求。微短剧预算较低、制作周期较短，使平台得以投资大量委托项目，并在一个月内将节目上线，迅速获得商业收益。"
+      ],
+      "source_locator": "HTML extraction line 55"
+    },
+    {
+      "id": "micro-drama-056",
+      "type": "paragraph",
+      "en": [
+        "This production model required fewer professional TV production skills and smaller production crews and placed importance on a producer’s ability to understand and incorporate current trends in short videos (Tian 2024 ). Therefore, these shifts attracted a wide range of producers, bringing their diverse skills and understandings of cultural and commercial values to micro drama production."
+      ],
+      "zh": [
+        "这种生产模式所需的专业电视制作技能较少，制作团队规模较小，并看重制作者理解和融入短视频当前潮流的能力（Tian 2024）。因此，这些变化吸引了背景广泛的制作者，他们将不同的技能以及对文化价值与商业价值的理解带入微短剧生产。"
+      ],
+      "source_locator": "HTML extraction line 56"
+    },
+    {
+      "id": "micro-drama-057",
+      "type": "paragraph",
+      "en": [
+        "The third development relates to government regulation for the sector. While the industry expanded rapidly in terms of content, revenue and labor, numerous problems also emerged, including vulgar content, plagiarism, and nontransparent payment rules for audiences (Xinhua Daily Telegraph 2024)."
+      ],
+      "zh": [
+        "第三个变化涉及政府对该行业的监管。行业在内容、收入和劳动力方面迅速扩张的同时，也出现了低俗内容、抄袭、对观众不透明的收费规则等诸多问题（Xinhua Daily Telegraph 2024）。"
+      ],
+      "source_locator": "HTML extraction line 57"
+    },
+    {
+      "id": "micro-drama-058",
+      "type": "paragraph",
+      "en": [
+        "To incorporate the emerging industry in the system of official regulation, NRTA (2022) renamed the broad and vague genre from “Duanju” (short drama) into the official term “Wangluo Weiduanju” (online micro drama) with a clearer definition of their characteristics. The change in regulatory policy enabled the NRTA to exert some control over who can produce and distribute what content."
+      ],
+      "zh": [
+        "为将这一新兴行业纳入正式监管体系，国家广播电视总局（NRTA 2022）将原先宽泛而模糊的类型名称“短剧”改为正式术语“网络微短剧”，对其特征作出了更明确的界定。监管政策的变化，使广电总局能够对谁可以制作、发行什么内容施加一定控制。"
+      ],
+      "source_locator": "HTML extraction line 58"
+    },
+    {
+      "id": "micro-drama-059",
+      "type": "paragraph",
+      "en": [
+        "NRTA introduced a standard procedure of content regulation (see Figure 1 ) and license requirements for production and distribution of micro dramas to improve production quality (NRTA 2024 ). Applying for licenses requires companies to have employees with professional qualifications and experience. Therefore, it restricted the right to produce micro dramas to professionals, separating amateur content creators from professionals at the production level since 2024."
+      ],
+      "zh": [
+        "广电总局引入了标准化的内容监管程序（见图 1），并对微短剧制作与发行提出许可要求，以提高制作质量（NRTA 2024）。申请许可证要求公司拥有具备专业资质和经验的员工。因此，自 2024 年起，微短剧制作资格受到专业要求的限制，业余内容创作者与专业人士在生产层面被区分开来。"
+      ],
+      "source_locator": "HTML extraction line 59"
+    },
+    {
+      "id": "micro-drama-060",
+      "type": "paragraph",
+      "en": [
+        "The rigorous regulation process has increased financial risks for commissioned projects, as failure to pass the regulatory procedure can lead to abandonment of projects and financial losses, which in turn impacts the relationship between producers and commissioners."
+      ],
+      "zh": [
+        "严格的监管流程增加了委托项目的财务风险，因为未能通过监管程序可能导致项目被放弃并产生经济损失，进而影响制作者与委托方之间的关系。"
+      ],
+      "source_locator": "HTML extraction line 60"
+    },
+    {
+      "id": "micro-drama-061",
+      "type": "figure",
+      "en": [
+        "Figure 1. The production process of platform-commissioned micro drama."
+      ],
+      "zh": [
+        "图 1　平台委托制作微短剧的生产流程。"
+      ],
+      "source_locator": "HTML extraction line 61",
+      "src": "translations/articles/commissioned-micro-drama/figure1.jpg"
+    },
+    {
+      "id": "micro-drama-062",
+      "type": "paragraph",
+      "en": [
+        "The fourth major development concerns micro drama as a genre. The dominant format for micro dramas was developed to suit short video platforms’ conventions, utilizing a vertical-screen format and long-running series with episodes lasting only one to two minutes. It contains elements from popular dramatic short videos, such as the expression of exaggerated emotions by characters, frequent plot twists, and a cliffhanger at the end of each episode."
+      ],
+      "zh": [
+        "第四个主要变化涉及微短剧这一类型本身。微短剧的主导形式是为适应短视频平台的惯例而发展出来的：采用竖屏格式，系列剧集数量较多，单集仅一至两分钟。它吸收了流行剧情短视频的元素，如人物夸张的情绪表达、频繁的情节反转，以及每集结尾的悬念。"
+      ],
+      "source_locator": "HTML extraction line 62"
+    },
+    {
+      "id": "micro-drama-063",
+      "type": "paragraph",
+      "en": [
+        "A smaller number of horizontally shot micro dramas are still being commissioned, but primarily to satisfy the demand of a specific group of platform users for distinctive visual esthetics such as fantasy or traditional Chinese styles, according to the Executive Producer from Kuaishou I interviewed. Mobile reading platforms as commissioners also had a significant impact on the genre’s evolution since 2022."
+      ],
+      "zh": [
+        "据我访谈的快手执行制片人所述，目前仍有少量横屏微短剧被委托制作，但主要是为了满足特定平台用户对玄幻或中国传统风格等独特视觉美学的需求。自 2022 年起，移动阅读平台作为委托方，也对这一类型的演变产生了重大影响。"
+      ],
+      "source_locator": "HTML extraction line 63"
+    },
+    {
+      "id": "micro-drama-064",
+      "type": "paragraph",
+      "en": [
+        "Their dramas, adapted from online literature, are commonly referred to as “mini-program dramas” within the micro drama industry. These dramas gradually evolved into a distinct sub-genre characterized by a narrative style that is rooted in the combination of online literature and short videos. They often feature popular themes such as revenge and romance, intense emotions and a satisfying dramatic ending, which has significantly influenced the popular content of micro dramas overall (Shenghao 2023 )."
+      ],
+      "zh": [
+        "它们根据网络文学改编的剧集，在微短剧行业内通常被称为“小程序剧”。这些剧集逐渐演变为一个独特的亚类型，其叙事风格源于网络文学与短视频的结合。它们往往采用复仇、爱情等热门主题，带有强烈情绪和令人满足的戏剧性结局，对整个微短剧领域的流行内容产生了显著影响（Shenghao 2023）。"
+      ],
+      "source_locator": "HTML extraction line 64"
+    },
+    {
+      "id": "micro-drama-065",
+      "type": "paragraph",
+      "en": [
+        "The above interconnected developments gradually established a standardized production process for commissioned micro drama since 2022. Based on interview data, Figure 1 illustrates the standard process for most platform-commissioned micro dramas from proposal to audience viewing. It consists of three main stages: development, production and circulation, with censorship procedures as part of the development and production stages."
+      ],
+      "zh": [
+        "上述相互关联的变化，使委托制作微短剧自 2022 年起逐步建立了标准化生产流程。图 1 根据访谈资料，展示大多数平台委托制作微短剧从方案提出到观众观看的标准流程。它包括开发、制作和传播三个主要阶段，审查程序则构成开发与制作阶段的一部分。"
+      ],
+      "source_locator": "HTML extraction line 65"
+    },
+    {
+      "id": "micro-drama-066",
+      "type": "paragraph",
+      "en": [
+        "The term “censorship” here refers to regulatory procedure in which regulators and platforms review the content and either suggest changes or reject the project. The development stage of Chinese short drama has similarities with some Western TV commissioning systems, such as the British one (see Zoellner 2022 , 591). However, particularities concerning evaluation and censorship in development and production stages in China increase commissioners’ and regulator’s power in content decision making."
+      ],
+      "zh": [
+        "这里的“审查”指监管者与平台审核内容、提出修改建议或拒绝项目的监管程序。中国短剧的开发阶段与某些西方电视委托制作体系有相似之处，例如英国的体系（见 Zoellner 2022，591）。然而，中国在开发和制作阶段的评估与审查方面具有特殊性，这增强了委托方和监管者对内容决策的权力。"
+      ],
+      "source_locator": "HTML extraction line 66"
+    },
+    {
+      "id": "micro-drama-067",
+      "type": "paragraph",
+      "en": [
+        "This can increase production time and financial uncertainty for producers during the development and production stages, while mitigating financial risks during circulation, including the possibility of failing to satisfy platform demands or being banned for violating regulatory policies."
+      ],
+      "zh": [
+        "这可能延长制作者在开发与制作阶段所需的时间，增加财务上的不确定性；同时，也可能降低传播阶段的财务风险，包括无法满足平台需求，或因违反监管政策而被禁播的风险。"
+      ],
+      "source_locator": "HTML extraction line 67"
+    },
+    {
+      "id": "micro-drama-068",
+      "type": "paragraph",
+      "en": [
+        "The influence of platforms extends throughout the entire production process and significantly shapes the final output. During the development stage, producers need to submit the proposal simultaneously to both the platform and the regulator and get approval from both. Even if a proposal has been approved and granted a license by the NRTA or Provincial regulator (PRTA), it still needs to successfully pass the platform’s internal evaluation to get production approval and funding."
+      ],
+      "zh": [
+        "平台的影响贯穿整个生产流程，并深刻塑造最终作品。在开发阶段，制作者必须同时向平台与监管者提交方案，并获得双方批准。即使方案已获国家广电总局或省级监管机关（PRTA）批准并取得许可证，仍须通过平台内部评估，才能获得制作批准和资金。"
+      ],
+      "source_locator": "HTML extraction line 68"
+    },
+    {
+      "id": "micro-drama-069",
+      "type": "paragraph",
+      "en": [
+        "In the production stage, producers must adhere to the feedback provided by the platform before submitting the full drama to the regulator for the final review and getting permission for online distribution. For projects with a production budget of less than 300,000 CNY (around 40,000 USD), the platform is allowed to examine the program and insist on changes, instead of the regulator. This process further increases platforms’ power over creative decision-making in the micro drama commissioning process."
+      ],
+      "zh": [
+        "在制作阶段，制作者必须遵循平台反馈，随后才能将完整剧集提交监管者终审，取得上线发行许可。对于制作预算低于人民币 30 万元（约 4 万美元）的项目，平台可以代替监管者审查节目并要求修改。这一流程进一步增强了平台在微短剧委托制作过程中对创作决策的权力。"
+      ],
+      "source_locator": "HTML extraction line 69"
+    },
+    {
+      "id": "micro-drama-070",
+      "type": "paragraph",
+      "en": [
+        "Although the regulator has influence over whether a project can be produced, it is the producers who provide the initial ideas whilst platforms select and shape the commissioned work. The following section focuses on power relationships between producers and commissioners, rather than regulators. It explores how the power imbalance and the emphasis on commercial goals in the production process have restricted the creative freedom of producers."
+      ],
+      "zh": [
+        "尽管监管者会影响项目能否制作，最初的创意却由制作者提供，而平台负责选择和塑造受委托制作的作品。下一节聚焦制作者与委托方之间的权力关系，而非监管者，考察生产过程中的权力失衡和对商业目标的强调，如何限制了制作者的创作自由。"
+      ],
+      "source_locator": "HTML extraction line 70"
+    },
+    {
+      "id": "micro-drama-071",
+      "type": "heading",
+      "en": [
+        "Dependence, Economics, and Creativity in the Platform Commissioning System"
+      ],
+      "zh": [
+        "平台委托制作体系中的依赖、经济与创作"
+      ],
+      "source_locator": "HTML extraction line 71"
+    },
+    {
+      "id": "micro-drama-072",
+      "type": "paragraph",
+      "en": [
+        "The commissioning process outlined above highlights the financial and structural dependence of micro drama producers on platforms. Concerns over such dependence have been raised in literature on independent film and television production. For example, the commissioning system in the UK’s television industry was found to shift creative control to network commissioners with their preferences shaping content rather than independent production companies (Zoellner 2022 )."
+      ],
+      "zh": [
+        "上述委托制作流程凸显了微短剧制作者在财务和结构上对平台的依赖。独立影视制作研究早已提出对这种依赖的忧虑。例如，研究发现，英国电视行业的委托制作体系使创作控制权转向电视网的委托方：塑造内容的是它们的偏好，而非独立制作公司（Zoellner 2022）。"
+      ],
+      "source_locator": "HTML extraction line 72"
+    },
+    {
+      "id": "micro-drama-073",
+      "type": "paragraph",
+      "en": [
+        "In addition, content visibility in the online screen industries is increasingly shaped by user data and algorithmic recommendation mechanisms, raising concerns about platforms prioritizing popularity and commercial value over other creative and artistic input (Caplan and Gillespie 2020 ; Duffy and Meisner 2023 ). This further affects who gets the chance to produce, and which types of content are more likely to receive investment."
+      ],
+      "zh": [
+        "此外，网络视听产业中的内容可见性越来越受用户数据和算法推荐机制塑造，这引发了人们的担忧：平台会把人气与商业价值置于其他创意和艺术投入之上（Caplan and Gillespie 2020；Duffy and Meisner 2023）。这进一步影响谁能获得制作机会，以及哪些内容更可能得到投资。"
+      ],
+      "source_locator": "HTML extraction line 73"
+    },
+    {
+      "id": "micro-drama-074",
+      "type": "paragraph",
+      "en": [
+        "In this section, I explore such concerns for micro drama production and investigate how the power relationship between commissioners and producers influences the production process that shapes the text and the working conditions for producers. I draw on Idiz and Poell’s outline of four main types of dependence in global online screen industries to assist in the analysis: (1) access to data, (2) algorithmic curation, (3) contractual relations, and (4) monetization (Idiz and Poell 2025 , 375)."
+      ],
+      "zh": [
+        "本节在微短剧生产中考察上述问题，研究制作者与委托方的权力关系如何影响生产流程，进而塑造文本与制作者的劳动条件。我借助 Idiz 与 Poell 对全球网络视听产业四种主要依赖的概括展开分析：（1）数据获取；（2）算法筛选与编排；（3）合同关系；（4）变现（Idiz and Poell 2025，375）。"
+      ],
+      "source_locator": "HTML extraction line 74"
+    },
+    {
+      "id": "micro-drama-075",
+      "type": "paragraph",
+      "en": [
+        "This framework is applied because it focuses on analyzing dependence from the “perspective of cultural producers,” in an effort to capture the challenges faced by producers across global online screen industries (Idiz and Poell 2025 , 377)."
+      ],
+      "zh": [
+        "之所以采用这一框架，是因为它着重从“文化生产者的视角”分析依赖，力图把握全球网络视听产业生产者面临的挑战（Idiz and Poell 2025，377）。"
+      ],
+      "source_locator": "HTML extraction line 75"
+    },
+    {
+      "id": "micro-drama-076",
+      "type": "paragraph",
+      "en": [
+        "This paper compares micro drama producers’ experience of dependence in China to Idiz and Poell’s findings, arguing that platforms’ business models for monetizing commissioned micro dramas, and their reliance on success metrics and algorithmic curation, limit producers’ creativity and exacerbate economic disparities and contractual dependence between producers and platforms."
+      ],
+      "zh": [
+        "本文将中国微短剧制作者的依赖经历与 Idiz 和 Poell 的发现相比较，认为平台对委托微短剧采用的变现模式，以及它们对成功指标和算法筛选编排的倚重，限制了制作者的创造力，加剧了制作者与平台之间的经济差距及合同依赖。"
+      ],
+      "source_locator": "HTML extraction line 76"
+    },
+    {
+      "id": "micro-drama-077",
+      "type": "paragraph",
+      "en": [
+        "The development of business models plays an essential role in monetization within the Chinese micro drama industry. Lotz (2022) argues that different SVOD business models can lead to different metrics of success and funding strategies aimed at achieving company objectives. The business models in the Chinese micro drama industry not only reinforces this argument but also reflects two types of success metrics and related funding strategies through which platforms pursue commercial interests."
+      ],
+      "zh": [
+        "商业模式的发展在中国微短剧行业的变现中起着关键作用。Lotz（2022）认为，不同的订阅式视频点播（SVOD）商业模式，可以产生不同的成功衡量指标，以及服务于公司目标的资金投入策略。中国微短剧行业的商业模式不仅进一步支持了这一论点，也体现出平台追求商业利益时使用的两类成功指标及相关投入策略。"
+      ],
+      "source_locator": "HTML extraction line 77"
+    },
+    {
+      "id": "micro-drama-078",
+      "type": "paragraph",
+      "en": [
+        "For short video platforms, the primary goal of commissioning micro dramas is to attract target audiences to the platform."
+      ],
+      "zh": [
+        "对短视频平台而言，委托制作微短剧的首要目标，是将目标受众吸引到平台上。"
+      ],
+      "source_locator": "HTML extraction line 78"
+    },
+    {
+      "id": "micro-drama-079",
+      "type": "paragraph",
+      "en": [
+        "The Kuaishou’s Executive Producer explained their commissioning strategy as follows: “What we think about is what new content to create that our users will like more and that will have an advantage when promoted by our algorithm.” These dramas on short video platforms are usually free to view with advertisements, though some programs require a one-time payment as part of the platform’s commercial experiments. This means that every “view” creates revenue."
+      ],
+      "zh": [
+        "快手执行制片人这样解释其委托制作策略：“我们考虑的是，要做什么新内容，让我们的用户更喜欢，并且在我们的算法推广时具有优势。”短视频平台上的这些剧集通常可以免费观看，但含有广告；部分节目则作为平台商业实验的一部分，要求一次性付费。这意味着每一次“观看”都会创造收入。"
+      ],
+      "source_locator": "HTML extraction line 79"
+    },
+    {
+      "id": "micro-drama-080",
+      "type": "paragraph",
+      "en": [
+        "Therefore, their metrics of success are based on the number of views. In contrast, mini-program dramas adapted from online literature adopt a combination of subscription and one-off payment business models. The first few episodes are available for free, but key plot points at specific stages, such as the tenth and fiftieth episodes, require one-off payments to unlock subsequent episodes."
+      ],
+      "zh": [
+        "因此，它们以播放次数作为成功指标。相比之下，根据网络文学改编的小程序剧，采取订阅与单次付费相结合的商业模式。前几集可免费观看，但到第十集、第五十集等特定阶段的关键情节点，观众必须一次性付费，才能解锁后续剧集。"
+      ],
+      "source_locator": "HTML extraction line 80"
+    },
+    {
+      "id": "micro-drama-081",
+      "type": "paragraph",
+      "en": [
+        "Repeated views, therefore, do not contribute to revenue; rather, it is the amount of audience payment that determines the success of the drama. These monetization strategies shape the contractual and funding arrangements for producers."
+      ],
+      "zh": [
+        "因此，重复观看并不增加收入；决定剧集成功与否的，是观众付费金额。这些变现策略塑造了与制作者之间的合同安排和资金安排。"
+      ],
+      "source_locator": "HTML extraction line 81"
+    },
+    {
+      "id": "micro-drama-082",
+      "type": "paragraph",
+      "en": [
+        "The distinct feature of micro drama industry’s contractual arrangements is collaborative production models situated between the “hosting model” and the “commissioning model” in Idiz and Poell’s (2025 , 385–86) findings. These collaborative models have relatively flexible contractual arrangements, determining the ownership of IP rights, the amount of production funding and the residuals."
+      ],
+      "zh": [
+        "微短剧行业合同安排的独特之处，是存在介于 Idiz 与 Poell（2025，385—386）所描述的“托管模式”与“委托制作模式”之间的合作生产模式。这些合作模式的合同安排相对灵活，决定了知识产权归属、制作资金数额与后续收益分成。"
+      ],
+      "source_locator": "HTML extraction line 82"
+    },
+    {
+      "id": "micro-drama-083",
+      "type": "paragraph",
+      "en": [
+        "Data from industry reports and interviews suggest that the main differences between these arrangements lie in: (1) who owns the script, and (2) who provides the production funding and in what proportion."
+      ],
+      "zh": [
+        "行业报告与访谈资料显示，这些安排的主要区别在于：（1）谁拥有剧本；（2）谁提供制作资金，以及各自出资比例。"
+      ],
+      "source_locator": "HTML extraction line 83"
+    },
+    {
+      "id": "micro-drama-084",
+      "type": "paragraph",
+      "en": [
+        "In a commissioned drama where the platform provides the script and full production budget and recruits producers for filming and editing, the platform company owns the copyright of the program (iResearch 2024 ). This is more common for mini-program dramas adapted from online literature. The model is similar to the “work-for-hire” model mainly used by global streaming TV services with US origins, featuring a one-time payment and no residual fee for producers (see Lacourt et al. 2023 , 19)."
+      ],
+      "zh": [
+        "如果平台提供剧本和全部制作预算，并招募制作者完成拍摄与剪辑，那么平台公司拥有该委托剧的节目版权（iResearch 2024）。这种情况在根据网络文学改编的小程序剧中更常见。该模式类似于源自美国的全球流媒体电视服务主要采用的“雇佣创作”（work-for-hire）模式，其特点是一次性付款，不向制作者支付后续收益分成（见 Lacourt et al. 2023，19）。"
+      ],
+      "source_locator": "HTML extraction line 84"
+    },
+    {
+      "id": "micro-drama-085",
+      "type": "paragraph",
+      "en": [
+        "Micro drama producers must follow the platform’s creative decisions under this contractual agreement, and directors have no autonomy to revise the script."
+      ],
+      "zh": [
+        "在这种合同安排下，微短剧制作者必须遵循平台的创作决定，导演无权自主修改剧本。"
+      ],
+      "source_locator": "HTML extraction line 85"
+    },
+    {
+      "id": "micro-drama-086",
+      "type": "paragraph",
+      "en": [
+        "If, on the other hand, the producers provide the script and license it to a platform, they retain the copyright. This is usually seen in original quality dramas commissioned by short video platforms. According to Kuaishou’s Executive Producer, the platform holds “permanent but non-exclusive rights” to most commissioned works. This grants the platform perpetual distribution rights while allowing producers to retain syndication copyrights after the exclusivity period on the commissioner’s platform expires."
+      ],
+      "zh": [
+        "反之，如果制作者提供剧本并向平台授权，则由制作者保留版权。这通常见于短视频平台委托制作的原创精品剧。快手执行制片人表示，平台对多数受委托作品拥有“永久但非独占的权利”。这使平台获得永久发行权，同时允许制作者在委托平台的独家期限届满后，保留向其他渠道授权发行的版权权利。"
+      ],
+      "source_locator": "HTML extraction line 86"
+    },
+    {
+      "id": "micro-drama-087",
+      "type": "paragraph",
+      "en": [
+        "There are two kinds of payment methods for producers in this situation. A common one is that producers receive a production budget plus residual payments based on the number of views. However, this residual payment is irregular and constitutes a very small percentage. As micro drama director Si Ge explained in the interview: “Think of it as using platform funding to turn your imagination into reality. If it makes a profit, that is great."
+      ],
+      "zh": [
+        "在这种情况下，制作者有两种收款方式。一种常见方式是获得制作预算，再按播放量获得后续分成。但这种分成并不稳定，所占比例也很小。微短剧导演 Si Ge 在访谈中解释说：“就把它看作用平台的资金把你的想象变成现实。如果赚了钱，那当然很好。"
+      ],
+      "source_locator": "HTML extraction line 87"
+    },
+    {
+      "id": "micro-drama-088",
+      "type": "paragraph",
+      "en": [
+        "If not, at least it made a dream come true.” Alternatively, producers invest a portion of the budget; they then own the copyright, and the proportion of revenue they receive from the platform increases to approximately 3 to 10% (iResearch 2024 ), which is still comparatively low."
+      ],
+      "zh": [
+        "如果没赚，至少也实现了一个梦想。”另一种方式是制作者投入一部分预算；这样，他们拥有版权，从平台获得的收入分成比例会提高到约 3%—10%（iResearch 2024），但这一比例仍然偏低。"
+      ],
+      "source_locator": "HTML extraction line 88"
+    },
+    {
+      "id": "micro-drama-089",
+      "type": "paragraph",
+      "en": [
+        "As the founder of Xi’an Fengxing Media Production Company advised in his presentation at the industry summit in 2024, producers should take the production fees as the primary source of income rather than putting their hope on the unpredictable residuals. This situation suggests that a contractual arrangement that allows producers to obtain IP rights can help producers gain more creative freedom."
+      ],
+      "zh": [
+        "西安风行传媒制作公司的创始人在 2024 年行业峰会的发言中建议，制作者应将制作费用视为主要收入来源，而不要寄望于难以预测的后续分成。这说明，允许制作者取得知识产权的合同安排，有助于他们获得更大的创作自由。"
+      ],
+      "source_locator": "HTML extraction line 89"
+    },
+    {
+      "id": "micro-drama-090",
+      "type": "paragraph",
+      "en": [
+        "However, it is still difficult for them to negotiate a contract deal favoring them, risking that a higher investment may not pay off. As most media production companies that create micro dramas are small enterprises (iResearch 2024 ), their resources to invest are limited, and their financial dependence on platforms weakens their position in contractual relationships."
+      ],
+      "zh": [
+        "然而，他们仍难以谈成对自己有利的合同，也面临增加投入却无法收回成本的风险。制作微短剧的媒体公司大多是小企业（iResearch 2024），可用于投资的资源有限；其对平台的财务依赖，削弱了它们在合同关系中的地位。"
+      ],
+      "source_locator": "HTML extraction line 90"
+    },
+    {
+      "id": "micro-drama-091",
+      "type": "paragraph",
+      "en": [
+        "Algorithmic curation is another important source of dependence in the micro drama industry. Previous studies suggest that cultural producers’ lack of control over algorithmic curation negatively impacts their ability to negotiate contracts, particularly regarding issues of visibility and data transparency (Idiz and Poell 2025 )."
+      ],
+      "zh": [
+        "算法筛选与编排是微短剧行业依赖关系的另一个重要来源。既有研究指出，文化生产者缺乏对算法筛选编排的控制，这会损害其合同谈判能力，在内容可见性和数据透明度问题上尤其如此（Idiz and Poell 2025）。"
+      ],
+      "source_locator": "HTML extraction line 91"
+    },
+    {
+      "id": "micro-drama-092",
+      "type": "paragraph",
+      "en": [
+        "Short video platforms in China have not only influenced the visibility of content but also developed data traffic marketing tools like Dou+ to monetize the affordance of content visibility (Huang and Ye 2024 ). To gain a competitive advantage, Kuaishou and Douyin actively leveraged this affordance by providing free data traffic support for collaborative projects to increase audience engagement (Newbc 2024 )."
+      ],
+      "zh": [
+        "中国短视频平台不仅影响内容的可见性，还开发了 Dou+ 等流量营销工具，将赋予内容可见性的能力变现（Huang and Ye 2024）。为了取得竞争优势，快手和抖音积极利用这种能力，为合作项目提供免费流量支持，以提高受众参与度（Newbc 2024）。"
+      ],
+      "source_locator": "HTML extraction line 92"
+    },
+    {
+      "id": "micro-drama-093",
+      "type": "paragraph",
+      "en": [
+        "According to Kuaishou’s Executive Producer, “‘Traffic support’ means we [the platform] recommend content to users, who are likely to be interested. If the video starts getting more views on its own without us pushing it, we see greater potential in the content and allocate even more recommended traffic.” This business strategy relieved producers of the financial burden of purchasing the service themselves to mitigate the risk of uncertain visibility."
+      ],
+      "zh": [
+        "快手执行制片人表示：“‘流量支持’就是我们［平台］把内容推荐给可能感兴趣的用户。如果视频在我们不继续推送的情况下，自己获得了更多观看，我们就会认为这条内容更有潜力，并分配更多推荐流量。”这种业务策略减轻了制作者自行购买相关服务的财务负担，帮助其缓解内容可见性不确定的风险。"
+      ],
+      "source_locator": "HTML extraction line 93"
+    },
+    {
+      "id": "micro-drama-094",
+      "type": "paragraph",
+      "en": [
+        "However, it also strengthened the platforms’ power in contractual relations through controlling their circulation resources. Several producers interviewed for this research mentioned a consensus within the industry in 2024 that, without free algorithmic curation support, a mini-program drama to be profitable typically needs to invest around ten times its production costs in purchasing third-party data traffic services for online marketing."
+      ],
+      "zh": [
+        "但它也使平台通过控制传播资源，增强了在合同关系中的权力。多位受访制作者提到，2024 年业内有一种共识：如果没有免费的算法推荐支持，一部小程序剧要想盈利，通常需要投入约为制作成本十倍的资金，购买第三方流量服务用于网络营销。"
+      ],
+      "source_locator": "HTML extraction line 94"
+    },
+    {
+      "id": "micro-drama-095",
+      "type": "paragraph",
+      "en": [
+        "The significant financial pressure of online marketing leads to prioritization of funding for marketing over production and commercial profit over production quality, contributing to excessive workloads caused by low budgets and short production time."
+      ],
+      "zh": [
+        "网络营销带来的巨大财务压力，使资金分配优先考虑营销而非制作，优先考虑商业利润而非制作质量；低预算和短制作周期则由此造成过重的工作负担。"
+      ],
+      "source_locator": "HTML extraction line 95"
+    },
+    {
+      "id": "micro-drama-096",
+      "type": "paragraph",
+      "en": [
+        "Access to data is another source of dependence for producers in the online screen industry with platforms becoming the “gatekeeper” of viewing data. Access to data is important for producers, because it helps them analyze their content’s performance, inform creative decisions and strengthen their arguments in contract negotiations (Idiz and Poell 2025 , 7)."
+      ],
+      "zh": [
+        "数据获取是网络视听产业制作者依赖关系的另一来源，平台在其中成为观看数据的“守门人”。获取数据对制作者十分重要，因为数据可以帮助他们分析内容表现，为创作决策提供依据，并在合同谈判中加强自己的论据（Idiz and Poell 2025，7）。"
+      ],
+      "source_locator": "HTML extraction line 96"
+    },
+    {
+      "id": "micro-drama-097",
+      "type": "paragraph",
+      "en": [
+        "Producers of commissioned dramas on Chinese short video platforms can access real-time viewing statistics through the account’s background, as these dramas are uploaded on the platforms like other short video content."
+      ],
+      "zh": [
+        "中国短视频平台委托剧的制作者，可以通过账号后台获取实时观看统计，因为这些剧集和其他短视频内容一样被上传至平台。"
+      ],
+      "source_locator": "HTML extraction line 97"
+    },
+    {
+      "id": "micro-drama-098",
+      "type": "paragraph",
+      "en": [
+        "However, from interviewees’ experience, the data they can access is limited and mainly refers to the percentage of viewers, who continue watching the video at specific times (e.g., the third, fifth, and tenth second), creating an information deficit in platforms’ favor and restricting producers’ ability to analyze and understand the performance of their work."
+      ],
+      "zh": [
+        "然而，受访者的经历表明，他们能够获取的数据有限，主要是观众在特定时间点（例如第三秒、第五秒和第十秒）仍在继续观看的比例。这使制作者相对于平台处于信息不足的地位，限制了他们分析和理解自身作品表现的能力。"
+      ],
+      "source_locator": "HTML extraction line 98"
+    },
+    {
+      "id": "micro-drama-099",
+      "type": "paragraph",
+      "en": [
+        "The above sources of dependence shape producers’ creative freedom. The evaluation of proposals during the production process, carried out by content managers in collaboration with other platform departments, plays a critical role in ensuring that selected projects align with the platform’s commercial goals (Figure 1 )."
+      ],
+      "zh": [
+        "上述依赖来源塑造了制作者的创作自由。生产流程中的方案评估，由内容经理与平台其他部门协同进行；它在确保入选项目符合平台商业目标方面发挥关键作用（图 1）。"
+      ],
+      "source_locator": "HTML extraction line 99"
+    },
+    {
+      "id": "micro-drama-100",
+      "type": "paragraph",
+      "en": [
+        "Interviewees report that content managers would invite staff from business and marketing sectors to “rate” the micro drama projects together in the internal evaluation as the base for final decisions about budget and promotional support. Producers have to take content managers’ advice to incorporate popular elements into the script to pass the evaluation and acquire funding. For example, director Si Ge was required to revise a script that originally focused on mutual support among women."
+      ],
+      "zh": [
+        "受访者表示，内容经理会邀请商务和营销部门的工作人员，共同在内部评估中为微短剧项目“打分”，以此作为最终决定预算和推广支持的基础。制作者必须接受内容经理的建议，将流行元素纳入剧本，才能通过评估并获得资金。例如，导演 Si Ge 曾被要求修改一个原本聚焦女性相互支持的剧本。"
+      ],
+      "source_locator": "HTML extraction line 100"
+    },
+    {
+      "id": "micro-drama-101",
+      "type": "paragraph",
+      "en": [
+        "She had to follow the content manager’s suggestions, adding a male character and romantic subplots involving him and the female protagonist, to get the proposal approved and secure production funding. This demonstrates how platforms exert creative control through funding allocation, favoring projects with popular elements to minimize financial risk."
+      ],
+      "zh": [
+        "她不得不遵循内容经理的建议，加入一位男性角色，以及他与女主角之间的爱情支线，才能使方案获批并取得制作资金。这说明平台如何通过资金分配实施创作控制：它们青睐包含流行元素的项目，以尽量降低财务风险。"
+      ],
+      "source_locator": "HTML extraction line 101"
+    },
+    {
+      "id": "micro-drama-102",
+      "type": "paragraph",
+      "en": [
+        "This challenge is even more pronounced in mini-program drama production, whose monetization model promotes formulaic storytelling with frequent plot twists and cliffhangers to drive payments for unlocking later episodes (Feng 2024 ; Tian 2024 , 93). Overall, producers’ dependence on platforms combined with the latter’s commercial priorities restrict producers’ creative freedom and disadvantage them in negotiations for better revenue and working conditions."
+      ],
+      "zh": [
+        "在小程序剧制作中，这一问题更加突出。其变现模式推动了程式化叙事，以频繁反转和悬念刺激观众付费解锁后续剧集（Feng 2024；Tian 2024，93）。总体而言，制作者对平台的依赖与平台的商业优先取向相结合，限制了制作者的创作自由，也使他们在争取更高收入和更好劳动条件的谈判中处于不利地位。"
+      ],
+      "source_locator": "HTML extraction line 102"
+    },
+    {
+      "id": "micro-drama-103",
+      "type": "heading",
+      "en": [
+        "Conclusion"
+      ],
+      "zh": [
+        "结论"
+      ],
+      "source_locator": "HTML extraction line 103"
+    },
+    {
+      "id": "micro-drama-104",
+      "type": "paragraph",
+      "en": [
+        "This paper investigates the power relationships and platform dependence in the commissioning of micro dramas by analyzing key roles, industry developments and production processes. Drawing on Idiz and Poell’s (2025) conceptual framework, it examines how interconnected sources of dependence similarly and differently impact power dynamics in the micro drama industry."
+      ],
+      "zh": [
+        "本文通过分析主要参与者、行业变化与生产流程，考察微短剧委托制作中的权力关系及对平台的依赖。借助 Idiz 与 Poell（2025）的概念框架，文章研究了相互关联的依赖来源，如何以相似或不同的方式影响微短剧行业的权力关系。"
+      ],
+      "source_locator": "HTML extraction line 104"
+    },
+    {
+      "id": "micro-drama-105",
+      "type": "paragraph",
+      "en": [
+        "While this research focuses on a specific genre within contemporary mainland China, the findings highlight how structural economic dependence leads to a power imbalance as commissioners influence creative decision-making to prioritize commercial benefit. These observations on financial and contractual dependence, and their impact on production, align with findings from similar studies in other cultural contexts (Lee 2018 ; Zoellner 2022 )."
+      ],
+      "zh": [
+        "虽然本研究聚焦当代中国大陆的一种特定类型，但研究发现凸显了结构性经济依赖如何导致权力失衡：委托方影响创作决策，使商业收益获得优先地位。关于财务和合同依赖及其生产影响的这些观察，与其他文化情境中的类似研究结果一致（Lee 2018；Zoellner 2022）。"
+      ],
+      "source_locator": "HTML extraction line 105"
+    },
+    {
+      "id": "micro-drama-106",
+      "type": "paragraph",
+      "en": [
+        "At the same time, it highlights distinctions unique to the Chinese micro drama industry, including regulatory policy changes, the emergence of algorithm-centered platform commissioning, and online literature adaptations. Algorithmic curation has granted short video platforms and data traffic service providers substantial control over content circulation. This has adversely affected creative workers, compressing their income and production time to prioritize marketing aimed at mitigating commercial risks."
+      ],
+      "zh": [
+        "与此同时，本文也强调中国微短剧行业的独特之处，包括监管政策变化、以算法为中心的平台委托制作的兴起，以及网络文学改编。算法筛选与编排赋予短视频平台和流量服务提供者对内容传播的强大控制力。这对创意工作者产生了不利影响：为了优先开展旨在降低商业风险的营销，他们的收入与制作时间受到压缩。"
+      ],
+      "source_locator": "HTML extraction line 106"
+    },
+    {
+      "id": "micro-drama-107",
+      "type": "paragraph",
+      "en": [
+        "Policy adds another layer to the already high levels of uncertainty and risk typical for the media industries (Hesmondhalgh 2026 ). While not discussed in detail here, regulatory requirements present an additional influence on creative choices, which deserve further attention."
+      ],
+      "zh": [
+        "政策在媒体产业通常已有的高度不确定性与风险之外，又增加了一层影响（Hesmondhalgh 2026）。尽管本文没有详细讨论，监管要求仍是影响创作选择的另一因素，值得进一步关注。"
+      ],
+      "source_locator": "HTML extraction line 107"
+    },
+    {
+      "id": "micro-drama-108",
+      "type": "paragraph",
+      "en": [
+        "The power imbalance and dependence favoring platforms and their creative choices explain why producers often have to sacrifice their creative freedom to align with the platform’s commercial interests. Platforms’ commissioning practice is dominated by the perceived commercial potential of a project aiming to increase viewership and payments. This situation deteriorates working conditions for micro drama producers, undermining the sustainability of this emerging industry."
+      ],
+      "zh": [
+        "有利于平台及其创作选择的权力失衡和依赖关系，解释了为什么制作者往往必须牺牲创作自由，以配合平台的商业利益。平台的委托制作实践以其判断的项目商业潜力为主导，旨在增加观看与付费。这种局面恶化了微短剧制作者的劳动条件，损害了这一新兴行业的可持续性。"
+      ],
+      "source_locator": "HTML extraction line 108"
+    },
+    {
+      "id": "micro-drama-109",
+      "type": "paragraph",
+      "en": [
+        "This paper thus encourages future research, policymakers, and industry practitioners to explore and foster a more equal producer–platform relationship that can support the creation of diverse, creative, and meaningful drama content."
+      ],
+      "zh": [
+        "因此，本文倡议未来研究、政策制定者与业界从业者探索并促进更加平等的制作者—平台关系，以支持多样、富有创意且有意义的剧集内容生产。"
+      ],
+      "source_locator": "HTML extraction line 109"
+    },
+    {
+      "id": "micro-drama-110",
+      "type": "heading",
+      "en": [
+        "Acknowledgments"
+      ],
+      "zh": [
+        "致谢"
+      ],
+      "source_locator": "HTML extraction line 110"
+    },
+    {
+      "id": "micro-drama-112",
+      "type": "paragraph",
+      "en": [
+        "The author would like to thank her PhD supervisors Dr. Anna Zoellner and Prof. David Hesmondhalgh and the editors of this special issue for their helpful comments and suggestions to improve this paper, and for their kind support throughout the whole publication process."
+      ],
+      "zh": [
+        "作者感谢博士导师 Anna Zoellner 博士、David Hesmondhalgh 教授，以及本专刊的编辑。他们为改进本文提出了有益的意见和建议，并在整个发表过程中给予了友善的支持。"
+      ],
+      "source_locator": "HTML extraction line 112"
+    },
+    {
+      "id": "micro-drama-113",
+      "type": "heading",
+      "en": [
+        "Ethical Considerations"
+      ],
+      "zh": [
+        "伦理事项"
+      ],
+      "source_locator": "HTML extraction line 113"
+    },
+    {
+      "id": "micro-drama-115",
+      "type": "paragraph",
+      "en": [
+        "The AHC Research Ethics Review Committee at University of Leeds approved interviews and ethnographic observations (approval: FAHC 22-147) on September 18, 2023. Respondents gave written consent for review and signature before starting interviews and the observation of the filming process of a micro drama, and a verbal consent before starting the observation of the industry conference."
+      ],
+      "zh": [
+        "利兹大学 AHC 研究伦理审查委员会于 2023 年 9 月 18 日批准了访谈与民族志观察（批准编号：FAHC 22-147）。在开始访谈和微短剧拍摄过程观察之前，受访者审阅并签署书面同意文件；在开始行业会议观察之前，研究者取得了口头同意。"
+      ],
+      "source_locator": "HTML extraction line 115"
+    },
+    {
+      "id": "micro-drama-116",
+      "type": "heading",
+      "en": [
+        "Consent to Participate"
+      ],
+      "zh": [
+        "参与同意"
+      ],
+      "source_locator": "HTML extraction line 116"
+    },
+    {
+      "id": "micro-drama-118",
+      "type": "paragraph",
+      "en": [
+        "All participants provided informed consent prior to their inclusion in the study. Written consent was obtained from each participant after they were given a detailed information sheet about the study’s purpose, procedures, potential risks, and benefits. The consent form and information sheet of this study were approved by the AHC Research Ethics Review Committee at University of Leeds (approval: FAHC 22-147)."
+      ],
+      "zh": [
+        "所有参与者在纳入研究之前均给予知情同意。研究者向每位参与者提供详细的信息说明，介绍研究目的、程序、潜在风险和益处，随后取得其书面同意。本研究的同意书及信息说明获得利兹大学 AHC 研究伦理审查委员会批准（批准编号：FAHC 22-147）。"
+      ],
+      "source_locator": "HTML extraction line 118"
+    },
+    {
+      "id": "micro-drama-119",
+      "type": "heading",
+      "en": [
+        "Consent for Publication"
+      ],
+      "zh": [
+        "发表同意"
+      ],
+      "source_locator": "HTML extraction line 119"
+    },
+    {
+      "id": "micro-drama-121",
+      "type": "paragraph",
+      "en": [
+        "Participants provided written consent for the publication of anonymized data collected during the study. No identifiable information from participants who chose to remain anonymous has been included."
+      ],
+      "zh": [
+        "参与者书面同意发表研究期间收集的匿名化数据。文中未包含任何可识别选择保持匿名的参与者身份的信息。"
+      ],
+      "source_locator": "HTML extraction line 121"
+    },
+    {
+      "id": "micro-drama-123",
+      "type": "heading",
+      "en": [
+        "Declaration of Conflicting Interests"
+      ],
+      "zh": [
+        "利益冲突声明"
+      ],
+      "source_locator": "HTML extraction line 123"
+    },
+    {
+      "id": "micro-drama-125",
+      "type": "paragraph",
+      "en": [
+        "The author declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article."
+      ],
+      "zh": [
+        "作者声明，在本文的研究、撰写和／或发表方面不存在潜在利益冲突。"
+      ],
+      "source_locator": "HTML extraction line 125"
+    },
+    {
+      "id": "micro-drama-126",
+      "type": "heading",
+      "en": [
+        "Funding"
+      ],
+      "zh": [
+        "资金支持"
+      ],
+      "source_locator": "HTML extraction line 126"
+    },
+    {
+      "id": "micro-drama-128",
+      "type": "paragraph",
+      "en": [
+        "The author disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This article includes data collected during the author’s PhD research, which was jointly supported by the University of Leeds and the China Scholarship Council through a PhD scholarship. The authorship and publication of this article were not financially supported by any funding agency."
+      ],
+      "zh": [
+        "作者披露，本文的研究、撰写和／或发表涉及以下资助：本文包含作者博士研究期间收集的数据；该博士研究由利兹大学和中国国家留学基金管理委员会通过博士奖学金共同资助。本文的撰写和发表未获得任何资助机构的经费支持。"
+      ],
+      "source_locator": "HTML extraction line 128"
+    },
+    {
+      "id": "micro-drama-130",
+      "type": "heading",
+      "en": [
+        "ORCID iD"
+      ],
+      "zh": [
+        "ORCID 标识"
+      ],
+      "source_locator": "HTML extraction line 130"
+    },
+    {
+      "id": "micro-drama-132",
+      "type": "paragraph",
+      "en": [
+        "Chengyao Liu https://orcid.org/0000-0003-1616-7860"
+      ],
+      "zh": [
+        "Chengyao Liu：https://orcid.org/0000-0003-1616-7860"
+      ],
+      "source_locator": "HTML extraction line 132"
+    },
+    {
+      "id": "micro-drama-133",
+      "type": "heading",
+      "en": [
+        "Data availability statement"
+      ],
+      "zh": [
+        "数据可用性声明"
+      ],
+      "source_locator": "HTML extraction line 133"
+    },
+    {
+      "id": "micro-drama-134",
+      "type": "paragraph",
+      "en": [
+        "The primary data generated from interviews and observation and/or analyzed during the current study are not publicly available due to their containing information that could compromise the privacy and anonymity of research participants. However, the data that support the findings of this study are available from the corresponding author, C.L., upon reasonable request and subject to a non-disclosure agreement and relevant ethics committee approval."
+      ],
+      "zh": [
+        "本研究通过访谈与观察生成和／或分析的一手数据不予公开，因为其中包含可能损害研究参与者隐私与匿名性的信息。不过，支持本研究发现的数据，可在提出合理请求、签署保密协议并获得相关伦理委员会批准的条件下，向通讯作者 C. L. 获取。"
+      ],
+      "source_locator": "HTML extraction line 134"
+    },
+    {
+      "id": "micro-drama-135",
+      "type": "paragraph",
+      "en": [
+        "All the secondary data generated or analyzed during this study are included in this published article."
+      ],
+      "zh": [
+        "本研究生成或分析的全部二手数据，均已包含在这篇发表的文章中。"
+      ],
+      "source_locator": "HTML extraction line 135"
+    },
+    {
+      "id": "micro-drama-136",
+      "type": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "source_locator": "HTML extraction line 136"
+    },
+    {
+      "id": "micro-drama-138",
+      "type": "paragraph",
+      "en": [
+        "Caldwell John Thornton. 2008. Production Culture: Industrial Reflexivity and Critical Practice in Film and Television. Duke University Press."
+      ],
+      "zh": [
+        "Caldwell, John Thornton. 2008. Production Culture: Industrial Reflexivity and Critical Practice in Film and Television［《生产文化：影视行业的产业反思与批判实践》］. Duke University Press."
+      ],
+      "source_locator": "HTML extraction line 138"
+    },
+    {
+      "id": "micro-drama-144",
+      "type": "paragraph",
+      "en": [
+        "Caplan Robyn, Tarleton Gillespie. 2020. “Tiered Governance and Demonetization: The Shifting Terms of Labor and Compensation in the Platform Economy.” Social Media + Society 6 (2): 205630512093663."
+      ],
+      "zh": [
+        "Caplan, Robyn；Tarleton Gillespie. 2020. “Tiered Governance and Demonetization: The Shifting Terms of Labor and Compensation in the Platform Economy”［《分层治理与取消变现资格：平台经济中劳动和报酬条件的变化》］. Social Media + Society 6 (2): 205630512093663."
+      ],
+      "source_locator": "HTML extraction line 144"
+    },
+    {
+      "id": "micro-drama-151",
+      "type": "paragraph",
+      "en": [
+        "Cunningham Stuart, Craig David. 2019. Social Media Entertainment: The New Intersection of Hollywood and Silicon Valley. Vol. 7. NYU Press."
+      ],
+      "zh": [
+        "Cunningham, Stuart；Craig, David. 2019. Social Media Entertainment: The New Intersection of Hollywood and Silicon Valley［《社交媒体娱乐：好莱坞与硅谷的新交汇》］. Vol. 7. NYU Press."
+      ],
+      "source_locator": "HTML extraction line 151"
+    },
+    {
+      "id": "micro-drama-155",
+      "type": "paragraph",
+      "en": [
+        "Duffy Brooke Erin, Colten Meisner. 2023. “Platform Governance at the Margins: Social Media Creators’ Experiences With Algorithmic (In)Visibility.” Media Culture & Society 45 (2): 285–304."
+      ],
+      "zh": [
+        "Duffy, Brooke Erin；Colten Meisner. 2023. “Platform Governance at the Margins: Social Media Creators’ Experiences With Algorithmic (In)Visibility”［《边缘位置的平台治理：社交媒体创作者对算法可见与不可见的体验》］. Media Culture & Society 45 (2): 285–304."
+      ],
+      "source_locator": "HTML extraction line 155"
+    },
+    {
+      "id": "micro-drama-162",
+      "type": "paragraph",
+      "en": [
+        "Feng Xiao. 2024. “Shipin Pingtai Weiduanju de Xushi Chenggui Ji Chuangxin Lujing Tansuo [Exploration of Narrative Conventions and Innovative Paths for Micro Dramas on Video Platforms].” China Television 5: 54–60."
+      ],
+      "zh": [
+        "Feng Xiao. 2024. “Shipin Pingtai Weiduanju de Xushi Chenggui Ji Chuangxin Lujing Tansuo”［《视频平台微短剧的叙事成规及创新路径探索》］. China Television［《中国电视》］5: 54–60."
+      ],
+      "source_locator": "HTML extraction line 162"
+    },
+    {
+      "id": "micro-drama-166",
+      "type": "paragraph",
+      "en": [
+        "Hesmondhalgh David. 2026. The Cultural Industries. 5th ed. Sage."
+      ],
+      "zh": [
+        "Hesmondhalgh, David. 2026. The Cultural Industries［《文化产业》］. 第 5 版. Sage."
+      ],
+      "source_locator": "HTML extraction line 166"
+    },
+    {
+      "id": "micro-drama-169",
+      "type": "paragraph",
+      "en": [
+        "Hongxing News. 2024. “Weilai, Wei Duanju Duibiao De Yiding Shi Dianying’│Duihua Dianzhong Keji Chen Ruiqing” [‘In the Future, Micro-Short Dramas Will Definitely Be Benchmarked Against Movies’│Dialogue with Chen Ruiqing of Dianzhong Technology]. Ifeng.com, April 9. https://news.ifeng.com/c/8Ye90siraPz ."
+      ],
+      "zh": [
+        "Hongxing News［红星新闻］. 2024. “Weilai, Wei Duanju Duibiao De Yiding Shi Dianying’│Duihua Dianzhong Keji Chen Ruiqing”［《“未来，微短剧对标的一定是电影”│对话点众科技陈瑞卿》］. Ifeng.com，4 月 9 日. https://news.ifeng.com/c/8Ye90siraPz"
+      ],
+      "source_locator": "HTML extraction line 169"
+    },
+    {
+      "id": "micro-drama-172",
+      "type": "paragraph",
+      "en": [
+        "Huang Wenbin. 2024. “Women Laozuo Zai Cusi de Bianyuan: Duanju Congyezhe de Zishu” [We Work on the Edge of Sudden Death: The Self-Report of the Short Drama Practitioner]. Jiemian.com, February 2024. https://m.jiemian.com/article/10842986.html ."
+      ],
+      "zh": [
+        "Huang Wenbin. 2024. “Women Laozuo Zai Cusi de Bianyuan: Duanju Congyezhe de Zishu”［《我们劳作在猝死的边缘：短剧从业者的自述》］. Jiemian.com［界面新闻］，2024 年 2 月. https://m.jiemian.com/article/10842986.html"
+      ],
+      "source_locator": "HTML extraction line 172"
+    },
+    {
+      "id": "micro-drama-175",
+      "type": "paragraph",
+      "en": [
+        "Huang Yang, WeiMing Ye. 2024. “‘Traffic Rewards’, ‘Algorithmic Visibility’, and ‘Advertiser Satisfaction’: How Chinese Short-Video Platforms Cultivate Creators in Stages.” Convergence: The International Journal of Research into New Media Technologies 30 (1): 659–82."
+      ],
+      "zh": [
+        "Huang Yang；WeiMing Ye. 2024. “‘Traffic Rewards’, ‘Algorithmic Visibility’, and ‘Advertiser Satisfaction’: How Chinese Short-Video Platforms Cultivate Creators in Stages”［《“流量奖励”“算法可见性”与“广告主满意度”：中国短视频平台如何分阶段培育创作者》］. Convergence: The International Journal of Research into New Media Technologies 30 (1): 659–82."
+      ],
+      "source_locator": "HTML extraction line 175"
+    },
+    {
+      "id": "micro-drama-183",
+      "type": "paragraph",
+      "en": [
+        "Idiz Daphne Rena, Thomas Poell. 2025. “Dependence in the Online Screen Industry.” Media Culture & Society 47: 375–93."
+      ],
+      "zh": [
+        "Idiz, Daphne Rena；Thomas Poell. 2025. “Dependence in the Online Screen Industry”［《网络视听产业中的依赖》］. Media Culture & Society 47: 375–93."
+      ],
+      "source_locator": "HTML extraction line 183"
+    },
+    {
+      "id": "micro-drama-190",
+      "type": "paragraph",
+      "en": [
+        "iMedia Research. 2023. “China Micro Drama Market Research Report 2023-2024.” Sina Finance, November 22. https://t.cj.sina.com.cn/articles/view/1850460740/6e4bca44019010ykj?finpagefr=p_104 ."
+      ],
+      "zh": [
+        "iMedia Research［艾媒咨询］. 2023. “China Micro Drama Market Research Report 2023-2024”［《2023—2024 年中国微短剧市场研究报告》］. Sina Finance［新浪财经］，11 月 22 日. https://t.cj.sina.com.cn/articles/view/1850460740/6e4bca44019010ykj?finpagefr=p_104"
+      ],
+      "source_locator": "HTML extraction line 190"
+    },
+    {
+      "id": "micro-drama-194",
+      "type": "paragraph",
+      "en": [
+        "iResearch. 2024. “2024 China Short Drama Industry Research Report.” iResearch.Cn. June. https://pdf.dfcfw.com/pdf/H3_AP202407071637643449_1.pdf"
+      ],
+      "zh": [
+        "iResearch［艾瑞咨询］. 2024. “2024 China Short Drama Industry Research Report”［《2024 年中国短剧行业研究报告》］. iResearch.Cn，6 月. https://pdf.dfcfw.com/pdf/H3_AP202407071637643449_1.pdf"
+      ],
+      "source_locator": "HTML extraction line 194"
+    },
+    {
+      "id": "micro-drama-197",
+      "type": "paragraph",
+      "en": [
+        "Lacourt, Amélie, Justine Radel-Cormann, and Sophie Valais. 2023. Fair Remuneration for Audiovisual Authors and Performers in Licensing Agreements. European Audiovisual Observatory. Council of Europe. https://rm.coe.int/iris-plus-2023-03en/1680adec3c ."
+      ],
+      "zh": [
+        "Lacourt, Amélie；Justine Radel-Cormann；Sophie Valais. 2023. Fair Remuneration for Audiovisual Authors and Performers in Licensing Agreements［《许可协议中视听作者与表演者的公平报酬》］. European Audiovisual Observatory［欧洲视听观察站］. Council of Europe［欧洲委员会］. https://rm.coe.int/iris-plus-2023-03en/1680adec3c"
+      ],
+      "source_locator": "HTML extraction line 197"
+    },
+    {
+      "id": "micro-drama-201",
+      "type": "paragraph",
+      "en": [
+        "Lee David. 2018. Independent Television Production in the UK. Springer EBooks. Springer Nature."
+      ],
+      "zh": [
+        "Lee, David. 2018. Independent Television Production in the UK［《英国独立电视制作》］. Springer EBooks. Springer Nature."
+      ],
+      "source_locator": "HTML extraction line 201"
+    },
+    {
+      "id": "micro-drama-206",
+      "type": "paragraph",
+      "en": [
+        "Lotz Amanda D. 2022. Netflix and Streaming Video: The Business of Subscriber-Funded Video on Demand. John Wiley & Sons."
+      ],
+      "zh": [
+        "Lotz, Amanda D. 2022. Netflix and Streaming Video: The Business of Subscriber-Funded Video on Demand［《Netflix 与流媒体视频：订阅者资助的视频点播业务》］. John Wiley & Sons."
+      ],
+      "source_locator": "HTML extraction line 206"
+    },
+    {
+      "id": "micro-drama-210",
+      "type": "paragraph",
+      "en": [
+        "Newbc. 2024. “Gei Qian Gei Liuliang, Douyin Kuaishou Tongyitian Fabu Duanju Fuchi Zhengce!” [Give Money and Data Traffic, Douyin Kuaishou Released Short Drama Support Policies on the Same Day!]. 163.com, July 19. https://www.163.com/dy/article/J7FU8DPF0552POWV.html ."
+      ],
+      "zh": [
+        "Newbc. 2024. “Gei Qian Gei Liuliang, Douyin Kuaishou Tongyitian Fabu Duanju Fuchi Zhengce!”［《给钱给流量，抖音快手同一天发布短剧扶持政策！》］. 163.com，7 月 19 日. https://www.163.com/dy/article/J7FU8DPF0552POWV.html"
+      ],
+      "source_locator": "HTML extraction line 210"
+    },
+    {
+      "id": "micro-drama-213",
+      "type": "paragraph",
+      "en": [
+        "NRTA. 2022. “Notice from the General Office of the National Radio and Television Administration on Further Strengthening the Management of Online Micro-Short Dramas and Implementing the Creative Improvement Plan” www.gov.cn, November 14. https://www.gov.cn/zhengce/zhengceku/2022-12/27/content_5733727.htm ."
+      ],
+      "zh": [
+        "NRTA［国家广播电视总局］. 2022. “Notice from the General Office of the National Radio and Television Administration on Further Strengthening the Management of Online Micro-Short Dramas and Implementing the Creative Improvement Plan”［《国家广播电视总局办公厅关于进一步加强网络微短剧管理、实施创作提升计划有关工作的通知》］. www.gov.cn，11 月 14 日. https://www.gov.cn/zhengce/zhengceku/2022-12/27/content_5733727.htm"
+      ],
+      "source_locator": "HTML extraction line 213"
+    },
+    {
+      "id": "micro-drama-216",
+      "type": "paragraph",
+      "en": [
+        "NRTA. 2024. “Notice of the General Office of the NRTA on Further Coordinating Development and Safety to Promote the Healthy and Prosperous Development of the Online Micro Drama Industry.” Nrta.gov.cn. https://www.nrta.gov.cn/art/2025/2/5/art_113_70148.html ."
+      ],
+      "zh": [
+        "NRTA［国家广播电视总局］. 2024. “Notice of the General Office of the NRTA on Further Coordinating Development and Safety to Promote the Healthy and Prosperous Development of the Online Micro Drama Industry”［《国家广播电视总局办公厅关于进一步统筹发展和安全、促进网络微短剧行业健康繁荣发展的通知》］. Nrta.gov.cn. https://www.nrta.gov.cn/art/2025/2/5/art_113_70148.html"
+      ],
+      "source_locator": "HTML extraction line 216"
+    },
+    {
+      "id": "micro-drama-219",
+      "type": "paragraph",
+      "en": [
+        "Shenghao. 2023. “Weishenmo Xi’an Neng Chengwei Xiaochengxuju de Zhizuo Zhongzhen? Zhuan Fang [Why Has Xi’an Become a Production Hub for Mini-Program Short Dramas? An Interview].” Yule Ziben Lun [Entertainment Capital]. October 19. https://news.qq.com/rain/a/20231019A04V2700"
+      ],
+      "zh": [
+        "Shenghao. 2023. “Weishenmo Xi’an Neng Chengwei Xiaochengxuju de Zhizuo Zhongzhen? Zhuan Fang”［《为什么西安能成为小程序剧的制作重镇？专访》］. Yule Ziben Lun［娱乐资本论］，10 月 19 日. https://news.qq.com/rain/a/20231019A04V2700"
+      ],
+      "source_locator": "HTML extraction line 219"
+    },
+    {
+      "id": "micro-drama-222",
+      "type": "paragraph",
+      "en": [
+        "Tian Yuan. 2024. “Gig-Workers’Sets: The Integration and Substitution Practice of the Short Drama Industry for Digital Content Production and the Rise of the Gig Professional Content Production Model.” Social Science in Nanjing 7: 89–99."
+      ],
+      "zh": [
+        "Tian Yuan. 2024. “Gig-Workers’ Sets: The Integration and Substitution Practice of the Short Drama Industry for Digital Content Production and the Rise of the Gig Professional Content Production Model”［《零工剧组：短剧产业对数字内容生产的整合与替代实践及零工专业内容生产模式的兴起》；题名据英文译出］. Social Science in Nanjing［《南京社会科学》］7: 89–99."
+      ],
+      "source_locator": "HTML extraction line 222"
+    },
+    {
+      "id": "micro-drama-226",
+      "type": "paragraph",
+      "en": [
+        "Tu Yan, Yuanchun Chen. 2024. “Zhongguoshi Xiandaihua Shiyuxia WangluoWeiduanju de Shenmei Chuangxin [Aesthetic Innovation of Online Short Dramas Under the Perspective of Chinese Modernization].” Contemporary TV 2: 11–8."
+      ],
+      "zh": [
+        "Tu Yan；Yuanchun Chen. 2024. “Zhongguoshi Xiandaihua Shiyuxia Wangluo Weiduanju de Shenmei Chuangxin”［《中国式现代化视域下网络微短剧的审美创新》］. Contemporary TV［《当代电视》］2: 11–8."
+      ],
+      "source_locator": "HTML extraction line 226"
+    },
+    {
+      "id": "micro-drama-229",
+      "type": "paragraph",
+      "en": [
+        "Xinhua Daily Telegraph. 2024. “Weiduanju Liuliang Henda Yinyou Buxiao” [The Popularity of Short Dramas Has Hidden Concerns]. Xinhuanet, September 27. http://mrdx.xinhuanet.com/20240927/ae981d486a7946c08edf953028c1dd42/c.html ."
+      ],
+      "zh": [
+        "Xinhua Daily Telegraph［《新华每日电讯》］. 2024. “Weiduanju Liuliang Henda Yinyou Buxiao”［《微短剧流量很大，隐忧不小》］. Xinhuanet［新华网］，9 月 27 日. http://mrdx.xinhuanet.com/20240927/ae981d486a7946c08edf953028c1dd42/c.html"
+      ],
+      "source_locator": "HTML extraction line 229"
+    },
+    {
+      "id": "micro-drama-233",
+      "type": "paragraph",
+      "en": [
+        "Zoellner Anna. 2022. “Commissioning and independent television production: Power, risk and creativity.” International Journal of Communication 16 (2022): 585–603."
+      ],
+      "zh": [
+        "Zoellner, Anna. 2022. “Commissioning and Independent Television Production: Power, Risk and Creativity”［《委托制作与独立电视生产：权力、风险与创造力》］. International Journal of Communication 16 (2022): 585–603."
+      ],
+      "source_locator": "HTML extraction line 233"
+    },
+    {
+      "id": "micro-drama-235",
+      "type": "heading",
+      "en": [
+        "Biographies"
+      ],
+      "zh": [
+        "作者简介"
+      ],
+      "source_locator": "HTML extraction line 235"
+    },
+    {
+      "id": "micro-drama-237",
+      "type": "paragraph",
+      "en": [
+        "Chengyao Liu is a PhD candidate in the School of Media and Communication at the University of Leeds. Her PhD research examines the opportunities and challenges of professional video production on Chinese online video-sharing platforms, with a focus on the evolving work experiences of media producers."
+      ],
+      "zh": [
+        "Chengyao Liu 是英国利兹大学媒体与传播学院博士候选人。其博士研究考察中国网络视频分享平台上专业视频制作的机遇与挑战，重点关注媒体制作者不断变化的工作经历。"
+      ],
+      "source_locator": "HTML extraction line 237"
+    }
+  ],
+  "notes": {},
+  "editorialNotes": [
+    "制作者（producer）按作者定义泛指创意工作者，不统一窄化为制片人；commissioner 译委托方；algorithmic curation 译算法筛选与编排；residuals 依本行业语境译后续收益分成。",
+    "作者姓名 Chengyao Liu、受访者 Si Ge 及未经核实的中文姓名保留原拼写。参考文献中的中文译名用于释义；未将其声称为逐项核验的原始中文题名。",
+    "原文正文的 Cunningham and David 2019 与书目列示的 Cunningham Stuart, Craig David 不一致。英文照录，中文正文沿用原引文标识；未静默改写。",
+    "原文正文将 Idiz and Poell 2025 的一处引文页码写为7，其他地方采用期刊页码375—393，均照录。",
+    "原书目 NRTA 2024 所附链接路径含2025/2/5；NRTA 2022的标示日期与链接路径日期不同。本版保留原书目，不擅自统一。政策描述反映作者研究时点，不表示对当前法规的独立确认。",
+    "图1保留原图。其预算区间使用严格大于或小于符号，未交代恰好30万元或100万元的归属；译图中文字时同样保留，不自行补齐。",
+    "原文没有单列编号脚注，采用作者—年份引文。参考文献23条全部保留，英文书目中的原有拼写和页码不静默更正。"
+  ],
+  "figureTranslation": "图内文字对照（译者附）：Development＝开发；Production＝制作；Circulation＝传播；Proposals and Feedback＝方案与反馈；Evaluation and Censorship＝评估与审查；Film and edit＝拍摄与剪辑；Censorship＝审查；Revision＝修改。制作者提交方案与剧本；平台内容经理提供反馈；平台进行内部方案评估；监管者审核方案与剧本并反馈。平台批准并提供预算；监管者批准并发放许可证。平台拒绝时，放弃项目或寻找新合作方；监管者拒绝时，放弃项目。制作者拍摄和剪辑，平台内容经理提供反馈。平台审查预算低于人民币30万元的完整剧集；省级监管者（PRTA）审查预算大于30万元且小于100万元的完整剧集；国家监管者（NRTA）审查预算大于100万元的完整剧集。批准后由平台发行；监管者拒绝则放弃项目。"
+}

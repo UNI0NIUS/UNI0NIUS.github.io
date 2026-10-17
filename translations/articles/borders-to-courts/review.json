@@ -1,0 +1,31 @@
+{
+  "complete": true,
+  "visual_review": "All 38 bilingual and 19 English pages visually reviewed. No clipping, overlap, missing characters, stranded headings or overfull boxes. Reference pairs remain together.",
+  "semantic_review": "All 232 units translated or accompanied by Chinese reference glosses: abstract, body, declarations, 91 bibliographic entries, 7 cases, 3 statutes, nine interviews and two author biographies. Pushback/non-refoulement, readmission, litigation authorization, case assembly/misalignment and methodological limits checked. Source discrepancies disclosed.",
+  "body_units": 232,
+  "references": 101,
+  "notes": 0,
+  "files": {
+    "article_bilingual": {
+      "pages": 38,
+      "missing_full_units": [],
+      "geometry_outliers": [],
+      "critical_log": [],
+      "sha256": "8a0ff023a0e7d310e7172f0da84b3d6acb4bea24a346c92daf02c3d92791a0e1",
+      "images": 0
+    },
+    "article_en": {
+      "pages": 19,
+      "missing_full_units": [],
+      "geometry_outliers": [],
+      "critical_log": [],
+      "sha256": "b4f0d4469d7e0316b8f6e9c6984d32835e98f0b6eb6659b71c06b4ff963be787",
+      "images": 0
+    }
+  },
+  "note_references": {
+    "zh": [],
+    "en": []
+  },
+  "source_coverage": "Publisher HTML checked against all 27 original PDF pages. Restored Cases cited and Statutes cited headings, country subheadings, appendix placement, and author biographies omitted from HTML extraction. No numbered footnotes, figures or tables in source."
+}
