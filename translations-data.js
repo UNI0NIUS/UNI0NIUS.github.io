@@ -4514,6 +4514,149 @@ window.TRANSLATIONS = {
           "sha256": "fba2d03884b58901cb483601c393c60ea71a1c72a3fcf4fda59f6186bfd7c588"
         }
       ]
+    },
+    {
+      "id": "history-of-philosophy",
+      "title": "马克思主义视角下的哲学史",
+      "originalTitle": "The History of Philosophy: A Marxist Perspective",
+      "author": "Alan Woods",
+      "translator": "Xiaoyang Hao (AI-assisted working translation)",
+      "languagePair": "English / 中文",
+      "language": "zh-CN",
+      "bilingual": true,
+      "example": false,
+      "description": "从古希腊到马克思的哲学史。含导论、十一章、316条原注、参考文献及完整前后置材料。",
+      "editionNotice": "全书中文校对工作译本。PDF数字为所供英文电子书的页序；原注随对应段落显示，校注明确区分原书疑点。",
+      "chapters": [
+        {
+          "id": "frontmatter",
+          "title": "封面、出版信息与原书目录",
+          "originalTitle": "Cover, Publication Details and Original Contents",
+          "dataUrl": "translations/books/history-of-philosophy/frontmatter.json"
+        },
+        {
+          "id": "introduction",
+          "title": "导言",
+          "originalTitle": "Introduction",
+          "dataUrl": "translations/books/history-of-philosophy/introduction.json"
+        },
+        {
+          "id": "chapter1",
+          "title": "1. 哲学的兴起",
+          "originalTitle": "1. The Emergence of Philosophy",
+          "dataUrl": "translations/books/history-of-philosophy/chapter1.json"
+        },
+        {
+          "id": "chapter2",
+          "title": "2. 最早的辩证法家",
+          "originalTitle": "2. The First Dialecticians",
+          "dataUrl": "translations/books/history-of-philosophy/chapter2.json"
+        },
+        {
+          "id": "chapter3",
+          "title": "3. 亚里士多德与古典希腊哲学的终结",
+          "originalTitle": "3. Aristotle and the End of Classical Greek Philosophy",
+          "dataUrl": "translations/books/history-of-philosophy/chapter3.json"
+        },
+        {
+          "id": "chapter4",
+          "title": "4. 基督教的兴起",
+          "originalTitle": "4. The Rise of Christianity",
+          "dataUrl": "translations/books/history-of-philosophy/chapter4.json"
+        },
+        {
+          "id": "chapter5",
+          "title": "5. 伊斯兰哲学",
+          "originalTitle": "5. Islamic Philosophy",
+          "dataUrl": "translations/books/history-of-philosophy/chapter5.json"
+        },
+        {
+          "id": "chapter6",
+          "title": "6. 中世纪的哲学",
+          "originalTitle": "6. Philosophy in the Middle Ages",
+          "dataUrl": "translations/books/history-of-philosophy/chapter6.json"
+        },
+        {
+          "id": "chapter7",
+          "title": "7. 文艺复兴",
+          "originalTitle": "7. The Renaissance",
+          "dataUrl": "translations/books/history-of-philosophy/chapter7.json"
+        },
+        {
+          "id": "chapter8",
+          "title": "8. 笛卡尔、斯宾诺莎和莱布尼茨",
+          "originalTitle": "8. Descartes, Spinoza and Leibniz",
+          "dataUrl": "translations/books/history-of-philosophy/chapter8.json"
+        },
+        {
+          "id": "chapter9",
+          "title": "9. 康德主义的死胡同",
+          "originalTitle": "9. The Dead End of Kantianism",
+          "dataUrl": "translations/books/history-of-philosophy/chapter9.json"
+        },
+        {
+          "id": "chapter10",
+          "title": "10. 黑格尔的哲学革命",
+          "originalTitle": "10. Hegel’s Revolution in Philosophy",
+          "dataUrl": "translations/books/history-of-philosophy/chapter10.json"
+        },
+        {
+          "id": "chapter11",
+          "title": "11. 从黑格尔到马克思",
+          "originalTitle": "11. From Hegel to Marx",
+          "dataUrl": "translations/books/history-of-philosophy/chapter11.json"
+        },
+        {
+          "id": "bibliography",
+          "title": "参考文献",
+          "originalTitle": "Bibliography",
+          "dataUrl": "translations/books/history-of-philosophy/bibliography.json"
+        },
+        {
+          "id": "publisher",
+          "title": "韦尔雷德出版社出版书目",
+          "originalTitle": "List of Titles by Wellred Books",
+          "dataUrl": "translations/books/history-of-philosophy/publisher.json"
+        }
+      ],
+      "downloads": [
+        {
+          "label": "中英对照 PDF",
+          "url": "translations/books/history-of-philosophy/philosophy_bilingual.pdf",
+          "bytes": 2561900,
+          "sha256": "969176808711ce6c3261179d867698122aae65edc3ccb9e7802ba144a1ecdbae"
+        },
+        {
+          "label": "英文 PDF",
+          "url": "translations/books/history-of-philosophy/philosophy_en.pdf",
+          "bytes": 1281807,
+          "sha256": "65090f5c8b67ed35414f041491728e4bf3a8f62d32852308c87c84b183da2ffb"
+        },
+        {
+          "label": "中文 Markdown",
+          "url": "translations/books/history-of-philosophy/philosophy_zh.md",
+          "bytes": 671693,
+          "sha256": "17f4b7576ca2c2f739f29caefc3683cb3db33f37cd9c7ecf7a401bafb9eb4951"
+        },
+        {
+          "label": "术语表",
+          "url": "translations/books/history-of-philosophy/glossary.md",
+          "bytes": 2100,
+          "sha256": "81a66682ca3f691c9baa274dc6e77385cb0b67af7ac4b449cc1c1a5b935f343b"
+        },
+        {
+          "label": "校对记录",
+          "url": "translations/books/history-of-philosophy/review.md",
+          "bytes": 1565,
+          "sha256": "901c098b53bfb4e84a6d4f8013716616c6871da772914f6fe7cd42b9a89aecb0"
+        },
+        {
+          "label": "源码包 ZIP",
+          "url": "translations/books/history-of-philosophy/philosophy_source.zip",
+          "bytes": 5115645,
+          "sha256": "1a49e8fca077b246df836fc5d9693cff7dd75184aab868b847fba68cfde010a6"
+        }
+      ]
     }
   ],
   "articles": [
