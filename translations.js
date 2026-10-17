@@ -120,7 +120,16 @@
   } else {
     const chapters = item.chapters || [];
     if (!chapters.length) { missing(item.title, "Chapters will be added soon."); return; }
-    const chapterId = params.get("chapter");
+    let chapterId = params.get("chapter");
+    const alias = item.chapterAliases?.[chapterId];
+    if (alias && chapters.some(entry => entry.id === alias.chapter)) {
+      chapterId = alias.chapter;
+      params.set("chapter", chapterId);
+      const redirected = new URL(location.href);
+      redirected.search = params.toString();
+      if (!redirected.hash && alias.anchor) redirected.hash = alias.anchor;
+      history.replaceState(null, "", redirected);
+    }
     const index = chapterId === null ? 0 : chapters.findIndex(entry => entry.id === chapterId);
     if (index < 0) {
       missing("Chapter not found", "This chapter is unavailable. Start from the book’s first chapter.");
@@ -145,7 +154,36 @@
       const title = view === "en" ? entry.shortOriginalTitle || chapterTitle(entry) : entry.shortTitle || chapterTitle(entry);
       const a = link(title, href("book", item, entry));
       if (entry.id === chapter.id) a.setAttribute("aria-current", "page");
-      li.append(a); return li;
+      li.append(a);
+      if (entry.outline?.length) {
+        const details = el("details", undefined, "chapter-outline");
+        details.open = entry.id === chapter.id;
+        details.append(el("summary", view === "en" ? "Bölüm içindekiler" : "章内目录"));
+        const root = { level: 0, children: [] };
+        const stack = [root];
+        for (const heading of entry.outline) {
+          const level = Math.max(1, heading.level || 1);
+          while (stack.length > 1 && stack.at(-1).level >= level) stack.pop();
+          const node = { ...heading, level, children: [] };
+          stack.at(-1).children.push(node);
+          stack.push(node);
+        }
+        const outlineList = nodes => {
+          const ol = el("ol");
+          for (const node of nodes) {
+            const child = el("li");
+            const label = view === "en" ? node.originalTitle || node.title : node.title;
+            const url = (entry.id === chapter.id ? "" : href("book", item, entry)) + "#" + encodeURIComponent(node.anchor);
+            child.append(link(label, url));
+            if (node.children.length) child.append(outlineList(node.children));
+            ol.append(child);
+          }
+          return ol;
+        };
+        details.append(outlineList(root.children));
+        li.append(details);
+      }
+      return li;
     };
     const groups = new Map();
     for (const entry of chapters) {
