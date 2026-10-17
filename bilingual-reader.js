@@ -1,44 +1,51 @@
 "use strict";
 // Structured inline content uses DOM text nodes, never raw HTML or Markdown.
 window.renderParallelBook = (() => {
-  function inline(parent, tokens, language) {
+  function inline(parent, tokens, language, anchors = {}) {
     for (const token of tokens || []) {
       if (typeof token === "string") { parent.append(document.createTextNode(token)); continue; }
       if (token.type === "note") {
         const sup = el("sup", undefined, "note-ref");
         const a = el("a", token.id.split("-").at(-1));
-        a.id = `ref-${language}-${token.id}`;
-        a.href = `#note-${language}-${token.id}`;
+        const anchor = anchors[token.id] || token.id;
+        a.id = `ref-${language}-${anchor}`;
+        a.href = `#note-${language}-${anchor}`;
         a.setAttribute("role", "doc-noteref");
         a.setAttribute("aria-label", `Footnote ${token.id}`);
         sup.append(a); parent.append(sup);
       } else if (["em", "strong", "sup", "sub"].includes(token.type)) {
-        const node = el(token.type); inline(node, token.children, language); parent.append(node);
+        const node = el(token.type); inline(node, token.children, language, anchors); parent.append(node);
       } else if (token.type === "link") {
         const url = safeUrl(token.url, false);
         const node = url ? el("a") : el("span");
         if (url) { node.href = url; node.rel = "noopener noreferrer"; }
-        inline(node, token.children, language); parent.append(node);
+        inline(node, token.children, language, anchors); parent.append(node);
       } else if (token.type === "table") {
         const wrap = el("div", undefined, "source-table-wrap");
         const table = el("table", undefined, "source-table");
         const tbody = el("tbody");
         for (const cells of token.rows) {
           const tr = el("tr");
-          for (const tokens of cells) { const td = el("td"); inline(td, tokens, language); tr.append(td); }
+          for (const tokens of cells) { const td = el("td"); inline(td, tokens, language, anchors); tr.append(td); }
           tbody.append(tr);
         }
         table.append(tbody); wrap.append(table); parent.append(wrap);
       } else if (token.type === "verse") {
         const verse = el("div", undefined, "source-verse");
-        inline(verse, token.children, language); parent.append(verse);
+        inline(verse, token.children, language, anchors); parent.append(verse);
       }
     }
   }
   function noteIds(tokens) {
     return (tokens || []).flatMap(t => typeof t === "string" ? [] : t.type === "note" ? [t.id] : [...noteIds(t.children), ...(t.rows || []).flatMap(row => row.flatMap(noteIds))]);
   }
-  function cell(row, language, notes, source) {
+  function cell(row, language, notes, source, seen) {
+    const anchors = {};
+    for (const id of noteIds(row[language])) {
+      const key = `${language}-${id}`;
+      anchors[id] = seen.has(key) ? `${id}-${row.id}` : id;
+      seen.add(key);
+    }
     const container = el("div", undefined, `reader-cell reader-${language}`);
     container.lang = language === "zh" ? "zh-CN" : source.sourceLanguage || "en";
     container.dataset.language = language === "zh" ? "中文" : source.sourceLanguageLabel || "English";
@@ -46,7 +53,7 @@ window.renderParallelBook = (() => {
     if (row.type === "figure" && row.src) {
       const figure = el("figure"); const img = el("img");
       img.src = safeUrl(row.src); img.alt = (row[language] || []).filter(t => typeof t === "string").join(""); img.loading = "lazy";
-      const caption = el("figcaption"); inline(caption, row[language], language);
+      const caption = el("figcaption"); inline(caption, row[language], language, anchors);
       figure.append(img, caption); container.append(figure);
     } else if (row.type === "diagram" && language === "en" && row.src) {
       const figure = el("figure"); const img = el("img");
@@ -54,20 +61,20 @@ window.renderParallelBook = (() => {
       figure.append(img); container.append(figure);
     } else {
       const hasBlocks = (row[language] || []).some(t => t.type === "table" || t.type === "verse");
-      const node = el(hasBlocks ? "div" : tag); inline(node, row[language], language); container.append(node);
+      const node = el(hasBlocks ? "div" : tag); inline(node, row[language], language, anchors); container.append(node);
       if (language === "en" && row.sourceItalic) node.classList.add("source-italic");
     }
     for (const id of noteIds(row[language])) {
       const note = notes[id];
       if (!note || !note[language]?.length) continue;
       const aside = el("aside", undefined, "paragraph-footnote");
-      aside.id = `note-${language}-${id}`;
+      aside.id = `note-${language}-${anchors[id]}`;
       aside.setAttribute("role", "doc-footnote");
       const content = el("div", undefined, "footnote-content");
       const mark = el("span", `${id.split("-").at(-1)}. `, "footnote-number");
       content.append(mark); inline(content, note[language], language);
       const back = el("a", " ↩", "note-backlink");
-      back.href = `#ref-${language}-${id}`;
+      back.href = `#ref-${language}-${anchors[id]}`;
       back.setAttribute("aria-label", `Back to reference ${id}`);
       content.append(back); aside.append(content); container.append(aside);
     }
@@ -104,6 +111,7 @@ window.renderParallelBook = (() => {
       labels.append(el("span", "Page"), el("span", "中文"), el("span", chapter.sourceLanguageLabel || "English"));
       container.append(labels);
     }
+    const seen = new Set();
     for (const row of chapter.body) {
       const wrapper = el("section", undefined, "parallel-row");
       wrapper.id = row.id;
@@ -111,7 +119,7 @@ window.renderParallelBook = (() => {
       const page = el("a", row.page ? (pdfPage ? row.page : `p. ${row.page}`) : "", "printed-page");
       page.href = `#${row.id}`; page.setAttribute("aria-label", pdfPage ? `Source ${row.page}` : `Printed edition page ${row.page || ""}`);
       wrapper.append(page);
-      for (const language of view === "parallel" ? ["zh", "en"] : [view]) wrapper.append(cell(row, language, chapter.notes || {}, chapter));
+      for (const language of view === "parallel" ? ["zh", "en"] : [view]) wrapper.append(cell(row, language, chapter.notes || {}, chapter, seen));
       container.append(wrapper);
     }
     return container;

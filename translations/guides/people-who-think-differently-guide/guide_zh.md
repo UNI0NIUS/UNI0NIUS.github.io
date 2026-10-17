@@ -1,0 +1,30 @@
+# 【中文导读】思想不同的人
+
+People Who Think Differently
+
+原文作者：Ilya Budraitskis
+
+New Left Review 160，2026年7—8月；书评
+
+中文导读，非全文译文。以下为独立概述与阅读问题，不替代原作。依据原刊可访问正文撰写。本文是对Benjamin Nathans著作的评论，应区分书评作者的判断与被评著作的论述。
+
+周报收录：2026年9月12日
+
+## 内容概述
+
+这篇书评质疑把苏联异议运动压缩成少数孤独英雄的惯常形象。它讨论Nathans对1960—70年代权利捍卫者的研究，特别关注公开请愿、地下出版和要求国家遵守自身法律的行动方式，同时提醒读者不要把不同历史时期的反对政治视为同一种现象。
+
+## 阅读切入点
+
+法律语言在这里既是行动资源，也是界定运动边界的方法。理解某一群体的伦理实践，不等于穷尽一个社会的全部反抗。
+
+## 带着问题读原文
+
+- 以权利捍卫者为中心的叙述，会让哪些其他反对力量退居背景？
+- 道德见证、法律诉求与政治动员之间，何时能够相互支持，何时发生张力？
+
+[原文及出版方页面](https://newleftreview.org/issues/ii160/articles/ilya-budraitskis-people-who-think-differently)
+
+[比较阅读：从边境到法庭](https://uni0nius.github.io/translations/article.html?id=borders-to-courts)
+
+[六期周报总目录](https://uni0nius.github.io/translations/social-science-weeklies.html)

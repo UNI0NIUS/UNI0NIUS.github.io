@@ -16,7 +16,8 @@
   };
   function metadata(item, chapterCount) {
     const row = el("div", undefined, "translation-metadata");
-    if (item.author) row.append(el("span", `By ${item.author}`));
+    if (item.author) row.append(el("span", `${item.contentKind === "reading-guide" ? "原文作者：" : "By "}${item.author}`));
+    if (item.contentKind === "reading-guide") row.append(el("span", "中文导读 · 非全文译文"));
     if (item.languagePair) row.append(el("span", item.languagePair));
     if (chapterCount !== undefined) row.append(el("span", `${item.parts?.length ? item.parts.length + " parts · " : ""}${chapterCount} ${item.parts?.length ? "sections" : chapterCount === 1 ? "chapter" : "chapters"}`));
     if (item.example) row.append(el("span", "Template", "example-badge"));
@@ -62,7 +63,7 @@
     header.append(el("h1", title, "post-title"));
     if (item.originalTitle) header.append(el("p", item.originalTitle, "translation-original"));
     header.append(metadata(item));
-    header.append(el("p", `${item.englishTranslator ? "Chinese: " : "Translated by "}${item.translator || personName}`, "translation-source"));
+    header.append(el("p", `${item.contentKind === "reading-guide" ? "中文导读：" : item.englishTranslator ? "Chinese: " : "Translated by "}${item.translator || personName}`, "translation-source"));
     if (item.englishTranslator) header.append(el("p", `English translation: ${item.englishTranslator}`, "translation-source"));
     const source = resourceLink("Original source ↗", item.sourceUrl);
     if (source) { const row = el("p", undefined, "translation-source"); row.append(source); header.append(row); }
@@ -89,22 +90,25 @@
   }
   function section(title, items, kind) {
     const section = el("section", undefined, "translation-section");
-    section.id = kind === "book" ? "books" : "articles";
+    section.id = kind === "book" ? "books" : kind === "guide" ? "guides" : "articles";
     const heading = el("h2", title); heading.id = `${section.id}-title`;
     section.setAttribute("aria-labelledby", heading.id); section.append(heading);
     if (!items.length) section.append(el("p", "Translations will be added here soon.", "empty-note"));
     for (const item of items) {
       const card = el("article", undefined, "translation-card");
       card.append(metadata(item, kind === "book" ? (item.chapters || []).length : undefined));
-      const title = el("h3"); title.append(link(item.title, href(kind, item))); card.append(title);
+      const route = kind === "guide" ? "article" : kind;
+      const title = el("h3"); title.append(link(item.title, href(route, item))); card.append(title);
       if (item.description) card.append(el("p", item.description));
-      card.append(link(kind === "book" ? "Read book →" : "Read article →", href(kind, item), "read-translation"));
+      card.append(link(kind === "book" ? "Read book →" : kind === "guide" ? "阅读导读 →" : "Read article →", href(route, item), "read-translation"));
       section.append(card);
     }
     return section;
   }
   if (page === "translations") {
-    target.append(section("Books", books, "book"), section("Articles", articles, "article"));
+    target.append(section("Books", books, "book"), section("Articles", articles.filter(item => item.contentKind !== "reading-guide"), "article"));
+    const guides = articles.filter(item => item.contentKind === "reading-guide");
+    if (guides.length) target.append(section("中文导读 · Reading guides", guides, "guide"));
     return;
   }
   const isBook = page === "translation-book";
@@ -112,7 +116,7 @@
   if (!item) { missing("Translation not found", "Choose a book or article from the translations library."); return; }
   if (!isBook) {
     const article = el("article", undefined, "translation-reader");
-    article.append(link("← All translations", "index.html#articles", "back-link"), heading(item, item.title));
+    article.append(link("← All translations", item.contentKind === "reading-guide" ? "index.html#guides" : "index.html#articles", "back-link"), heading(item, item.title));
     const note = templateNote(item); if (note) article.append(note);
     if (item.bilingual && item.dataUrl && window.renderParallelBook) {
       const view = ["zh", "en", "parallel"].includes(params.get("view")) ? params.get("view") : "parallel";

@@ -4637,6 +4637,771 @@ window.TRANSLATIONS = {
           "url": "translations/articles/borrowed-time/source-package.zip"
         }
       ]
+    },
+    {
+      "id": "ibn-khaldun-colonial-archive",
+      "title": "作为殖民档案的伊本·赫勒敦：走向知识去殖民化",
+      "originalTitle": "Ibn Khaldûn as a Colonial Archive: Toward an Epistemic Decolonization",
+      "author": "Abdelmajid Hannoum",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://doi.org/10.1017/S0010417526100693",
+      "editionNotice": "据Cambridge University Press出版方HTML完整翻译，并与25页原刊PDF核对结构及段落起始页码。保留摘要、全部正文、致谢和94条原注；无独立书目或图表。论述性注释完整翻译，书目信息照录并附中文题名译释。© The Author(s), 2026；Cambridge University Press代表Society for the Comparative Study of Society and History出版。原文及本译文采用CC BY 4.0；须注明出处、许可与改动。翻译、译释及编者说明为本版新增；AI辅助工作译稿，不代表作者或出版社认可。",
+      "bilingual": true,
+      "language": "zh-CN",
+      "languagePair": "English / 中文",
+      "translator": "AI-assisted working translation",
+      "example": false,
+      "description": "考察殖民翻译如何重构伊本·赫勒敦的分析范畴及其知识权威。全文中英对照，含94条原注、阿拉伯语转写及原刊页码。2026-10-17周报延伸阅读。",
+      "dataUrl": "translations/articles/ibn-khaldun-colonial-archive/article.json",
+      "downloads": [
+        {
+          "label": "中文 Markdown",
+          "url": "translations/articles/ibn-khaldun-colonial-archive/article_zh.md"
+        },
+        {
+          "label": "Bilingual PDF",
+          "url": "translations/articles/ibn-khaldun-colonial-archive/article_bilingual.pdf"
+        },
+        {
+          "label": "English PDF",
+          "url": "translations/articles/ibn-khaldun-colonial-archive/article_en.pdf"
+        },
+        {
+          "label": "Source package",
+          "url": "translations/articles/ibn-khaldun-colonial-archive/source-package.zip"
+        }
+      ]
+    },
+    {
+      "id": "rogue-verbs-guide",
+      "title": "【中文导读】失控的动词：2020年代中国文化的处境",
+      "originalTitle": "Rogue Verbs: The Situation of Chinese Culture in the 2020s",
+      "author": "毛尖（Mao Jian）",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://newleftreview.org/issues/ii160/articles/jian-mao-rogue-verbs",
+      "language": "zh-CN",
+      "languagePair": "中文导读 · 原文英文",
+      "translator": "AI-assisted reading guide",
+      "example": false,
+      "bilingual": false,
+      "contentKind": "reading-guide",
+      "description": "毛尖从微短剧的高速叙事切入，把它与当代小说的形式变化放在一起考察。文章不满足于把平台文化判作注意力退化，而是追问：密集行动、反转和复仇故事，是否也表达了当下主体争取行动空间的愿望。",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "中文导读，非全文译文。以下为独立概述与阅读问题，不替代原作。依据原刊公开正文撰写。原文可在线阅读，但未发现允许全文翻译发布的开放许可。"
+        },
+        {
+          "type": "paragraph",
+          "text": "原刊：New Left Review 160，2026年7—8月。周报收录日期：2026年9月12日（不是原文发表日期）。"
+        },
+        {
+          "type": "heading",
+          "text": "内容概述"
+        },
+        {
+          "type": "paragraph",
+          "text": "毛尖从微短剧的高速叙事切入，把它与当代小说的形式变化放在一起考察。文章不满足于把平台文化判作注意力退化，而是追问：密集行动、反转和复仇故事，是否也表达了当下主体争取行动空间的愿望。"
+        },
+        {
+          "type": "heading",
+          "text": "阅读切入点"
+        },
+        {
+          "type": "paragraph",
+          "text": "阅读时区分三个层次：作品的叙事速度、平台的商业机制，以及人物或观众的能动性。形式加速并不自动证明社会行动增加。"
+        },
+        {
+          "type": "heading",
+          "text": "带着问题读原文"
+        },
+        {
+          "type": "list",
+          "items": [
+            "哪些判断来自具体作品的细读，哪些推及了更广泛的社会经验？",
+            "将微短剧与先锋小说并读，揭示了什么共同变化，又可能遮蔽哪些媒介差异？"
+          ]
+        },
+        {
+          "type": "link",
+          "text": "原文及出版方页面 ↗",
+          "url": "https://newleftreview.org/issues/ii160/articles/jian-mao-rogue-verbs"
+        },
+        {
+          "type": "link",
+          "text": "配套全文：短视频平台委制剧的权力与创作控制",
+          "url": "translations/article.html?id=commissioned-micro-drama"
+        },
+        {
+          "type": "link",
+          "text": "六期周报总目录",
+          "url": "translations/social-science-weeklies.html"
+        },
+        {
+          "type": "link",
+          "text": "下载中文导读 Markdown",
+          "url": "translations/guides/rogue-verbs-guide/guide_zh.md"
+        }
+      ]
+    },
+    {
+      "id": "people-who-think-differently-guide",
+      "title": "【中文导读】思想不同的人",
+      "originalTitle": "People Who Think Differently",
+      "author": "Ilya Budraitskis",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://newleftreview.org/issues/ii160/articles/ilya-budraitskis-people-who-think-differently",
+      "language": "zh-CN",
+      "languagePair": "中文导读 · 原文英文",
+      "translator": "AI-assisted reading guide",
+      "example": false,
+      "bilingual": false,
+      "contentKind": "reading-guide",
+      "description": "这篇书评质疑把苏联异议运动压缩成少数孤独英雄的惯常形象。它讨论Nathans对1960—70年代权利捍卫者的研究，特别关注公开请愿、地下出版和要求国家遵守自身法律的行动方式，同时提醒读者不要把不同历史时期的反对政治视为同一种现象。",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "中文导读，非全文译文。以下为独立概述与阅读问题，不替代原作。依据原刊可访问正文撰写。本文是对Benjamin Nathans著作的评论，应区分书评作者的判断与被评著作的论述。"
+        },
+        {
+          "type": "paragraph",
+          "text": "原刊：New Left Review 160，2026年7—8月；书评。周报收录日期：2026年9月12日（不是原文发表日期）。"
+        },
+        {
+          "type": "heading",
+          "text": "内容概述"
+        },
+        {
+          "type": "paragraph",
+          "text": "这篇书评质疑把苏联异议运动压缩成少数孤独英雄的惯常形象。它讨论Nathans对1960—70年代权利捍卫者的研究，特别关注公开请愿、地下出版和要求国家遵守自身法律的行动方式，同时提醒读者不要把不同历史时期的反对政治视为同一种现象。"
+        },
+        {
+          "type": "heading",
+          "text": "阅读切入点"
+        },
+        {
+          "type": "paragraph",
+          "text": "法律语言在这里既是行动资源，也是界定运动边界的方法。理解某一群体的伦理实践，不等于穷尽一个社会的全部反抗。"
+        },
+        {
+          "type": "heading",
+          "text": "带着问题读原文"
+        },
+        {
+          "type": "list",
+          "items": [
+            "以权利捍卫者为中心的叙述，会让哪些其他反对力量退居背景？",
+            "道德见证、法律诉求与政治动员之间，何时能够相互支持，何时发生张力？"
+          ]
+        },
+        {
+          "type": "link",
+          "text": "原文及出版方页面 ↗",
+          "url": "https://newleftreview.org/issues/ii160/articles/ilya-budraitskis-people-who-think-differently"
+        },
+        {
+          "type": "link",
+          "text": "比较阅读：从边境到法庭",
+          "url": "translations/article.html?id=borders-to-courts"
+        },
+        {
+          "type": "link",
+          "text": "六期周报总目录",
+          "url": "translations/social-science-weeklies.html"
+        },
+        {
+          "type": "link",
+          "text": "下载中文导读 Markdown",
+          "url": "translations/guides/people-who-think-differently-guide/guide_zh.md"
+        }
+      ]
+    },
+    {
+      "id": "epistemic-translation-modernity-guide",
+      "title": "【中文导读】现代性的知识转译：半殖民条件下对科学技术的协商",
+      "originalTitle": "Epistemic Translation of Modernity: Negotiating Science and Technology under Semi-Colonial Conditions",
+      "author": "Mina Khanlarzadeh",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/epistemic-translation-of-modernity-negotiating-science-and-technology-under-semicolonial-conditions/0AE021CA4FF83206B38EB8BB272024D1",
+      "language": "zh-CN",
+      "languagePair": "中文导读 · 原文英文",
+      "translator": "AI-assisted reading guide",
+      "example": false,
+      "bilingual": false,
+      "contentKind": "reading-guide",
+      "description": "文章以伊朗知识分子为中心，将翻译理解为采纳、重做与拒斥的持续过程。科学既可能承载改革承诺，也可能与军事力量和发展压力相连；被贬抑的西化者形象，又可能被重新占用来争取思想上的主动权。",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "中文导读，非全文译文。以下为独立概述与阅读问题，不替代原作。依据出版方公开摘要和正文的研究框架撰写。原文采用CC BY-NC-ND 4.0，本页为简短中文导读，不发布改编全文。"
+        },
+        {
+          "type": "paragraph",
+          "text": "原刊：Comparative Studies in Society and History，2026年4月7日在线发表。周报收录日期：2026年9月19日（不是原文发表日期）。"
+        },
+        {
+          "type": "heading",
+          "text": "内容概述"
+        },
+        {
+          "type": "paragraph",
+          "text": "文章以伊朗知识分子为中心，将翻译理解为采纳、重做与拒斥的持续过程。科学既可能承载改革承诺，也可能与军事力量和发展压力相连；被贬抑的西化者形象，又可能被重新占用来争取思想上的主动权。"
+        },
+        {
+          "type": "heading",
+          "text": "阅读切入点"
+        },
+        {
+          "type": "paragraph",
+          "text": "重点不是给人物贴上亲西方或反西方标签，而是辨认谁有权规定科学、语言与现代性的正当形式。去殖民化在这里并非一次彻底断裂。"
+        },
+        {
+          "type": "heading",
+          "text": "带着问题读原文"
+        },
+        {
+          "type": "list",
+          "items": [
+            "同一个被污名化的位置，如何在不同历史时刻变成发言资源？",
+            "采用、改写和拒绝外来知识，分别依赖什么制度条件？"
+          ]
+        },
+        {
+          "type": "link",
+          "text": "原文及出版方页面 ↗",
+          "url": "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/epistemic-translation-of-modernity-negotiating-science-and-technology-under-semicolonial-conditions/0AE021CA4FF83206B38EB8BB272024D1"
+        },
+        {
+          "type": "link",
+          "text": "配套全文：作为殖民档案的伊本·赫勒敦",
+          "url": "translations/article.html?id=ibn-khaldun-colonial-archive"
+        },
+        {
+          "type": "link",
+          "text": "六期周报总目录",
+          "url": "translations/social-science-weeklies.html"
+        },
+        {
+          "type": "link",
+          "text": "下载中文导读 Markdown",
+          "url": "translations/guides/epistemic-translation-modernity-guide/guide_zh.md"
+        }
+      ]
+    },
+    {
+      "id": "three-frontiers-global-china-guide",
+      "title": "【中文导读】全球中国的三个前沿",
+      "originalTitle": "Three Frontiers of Global China",
+      "author": "Ching Kwan Lee（李静君）",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://phenomenalworld.org/analysis/global-china/",
+      "language": "zh-CN",
+      "languagePair": "中文导读 · 原文英文",
+      "translator": "AI-assisted reading guide",
+      "example": false,
+      "bilingual": false,
+      "contentKind": "reading-guide",
+      "description": "李静君提出，应从政治经济、规范与知识三个层面考察中国与全球南方的关系。绿色技术和投资的规模不是充分答案；还要看所在国的产业诉求、谈判能力与知识生产，才能判断合作带来新的发展空间，还是新的依赖。",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "中文导读，非全文译文。以下为独立概述与阅读问题，不替代原作。依据原刊公开正文撰写。文章公开可读，但未发现允许全文翻译发布的开放许可。"
+        },
+        {
+          "type": "paragraph",
+          "text": "原刊：Phenomenal World；研究性评论。周报收录日期：2026年9月19日（不是原文发表日期）。"
+        },
+        {
+          "type": "heading",
+          "text": "内容概述"
+        },
+        {
+          "type": "paragraph",
+          "text": "李静君提出，应从政治经济、规范与知识三个层面考察中国与全球南方的关系。绿色技术和投资的规模不是充分答案；还要看所在国的产业诉求、谈判能力与知识生产，才能判断合作带来新的发展空间，还是新的依赖。"
+        },
+        {
+          "type": "heading",
+          "text": "阅读切入点"
+        },
+        {
+          "type": "paragraph",
+          "text": "把中国资本、东道国政府与当地社会分别作为行动者，有助于避免把全球南方写成被动接受投资的背景。"
+        },
+        {
+          "type": "heading",
+          "text": "带着问题读原文"
+        },
+        {
+          "type": "list",
+          "items": [
+            "衡量发展成效时，应比较投资额，还是技术转移、当地生产和分配结果？",
+            "哪些证据能够区分合作中的不平等与更强的殖民主义判断？"
+          ]
+        },
+        {
+          "type": "link",
+          "text": "原文及出版方页面 ↗",
+          "url": "https://phenomenalworld.org/analysis/global-china/"
+        },
+        {
+          "type": "link",
+          "text": "比较阅读：社会主义遗产与市场逻辑",
+          "url": "translations/article.html?id=culture-and-contradiction"
+        },
+        {
+          "type": "link",
+          "text": "六期周报总目录",
+          "url": "translations/social-science-weeklies.html"
+        },
+        {
+          "type": "link",
+          "text": "下载中文导读 Markdown",
+          "url": "translations/guides/three-frontiers-global-china-guide/guide_zh.md"
+        }
+      ]
+    },
+    {
+      "id": "alleged-french-canadians-guide",
+      "title": "【中文导读】所谓法裔加拿大人：“外国妓女”与20世纪的英国臣民身份主张",
+      "originalTitle": "Alleged French Canadians: “Alien Prostitutes” and Twentieth-Century Claims to British Subjecthood",
+      "author": "Magdalene Klassen",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://doi.org/10.1093/hwj/dbag020",
+      "language": "zh-CN",
+      "languagePair": "中文导读 · 原文英文",
+      "translator": "AI-assisted reading guide",
+      "example": false,
+      "bilingual": false,
+      "contentKind": "reading-guide",
+      "description": "文章讨论1910年代和1930年代在伦敦从事性工作的法语女性：她们通过声称出生于魁北克、具有英国臣民身份，抵抗驱逐。摘要将文书认定、法律含混及准国家组织的道德边境执法联系起来，提示帝国身份也可能成为边缘者的行动资源。",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "中文导读，非全文译文。以下为独立概述与阅读问题，不替代原作。仅依据出版方公开摘要撰写，未获得付费全文。下列阅读问题是导读者提出的方向，不是对全文证据的审核。题名中的贬抑称谓沿用原文引号，指历史分类。"
+        },
+        {
+          "type": "paragraph",
+          "text": "原刊：History Workshop Journal，2026年9月16日在线发表。周报收录日期：2026年9月26日（不是原文发表日期）。"
+        },
+        {
+          "type": "heading",
+          "text": "内容概述"
+        },
+        {
+          "type": "paragraph",
+          "text": "文章讨论1910年代和1930年代在伦敦从事性工作的法语女性：她们通过声称出生于魁北克、具有英国臣民身份，抵抗驱逐。摘要将文书认定、法律含混及准国家组织的道德边境执法联系起来，提示帝国身份也可能成为边缘者的行动资源。"
+        },
+        {
+          "type": "heading",
+          "text": "阅读切入点"
+        },
+        {
+          "type": "paragraph",
+          "text": "英国臣民身份不能直接替换成今日国籍概念。可将身份的法律规则、证明文件和实际执行分开阅读。"
+        },
+        {
+          "type": "heading",
+          "text": "带着问题读原文"
+        },
+        {
+          "type": "list",
+          "items": [
+            "谁有权判断一项出生地或身份主张可信？",
+            "警方以外的组织如何参与边境治理，又凭什么获得权威？"
+          ]
+        },
+        {
+          "type": "link",
+          "text": "原文及出版方页面 ↗",
+          "url": "https://doi.org/10.1093/hwj/dbag020"
+        },
+        {
+          "type": "link",
+          "text": "配套全文：孟加拉的强制劳动与自由诉求",
+          "url": "translations/article.html?id=coerced-labor-bengal"
+        },
+        {
+          "type": "link",
+          "text": "六期周报总目录",
+          "url": "translations/social-science-weeklies.html"
+        },
+        {
+          "type": "link",
+          "text": "下载中文导读 Markdown",
+          "url": "translations/guides/alleged-french-canadians-guide/guide_zh.md"
+        }
+      ]
+    },
+    {
+      "id": "national-awami-party-guide",
+      "title": "【中文导读】巴基斯坦民族人民党、进步政治与“反民族”的反殖民主义",
+      "originalTitle": "The National Awami Party, Progressive Politics, and “Anti-National” Anti-Colonialism in Pakistan",
+      "author": "Elisabeth Leake",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://doi.org/10.1093/hwj/dbag015",
+      "language": "zh-CN",
+      "languagePair": "中文导读 · 原文英文",
+      "translator": "AI-assisted reading guide",
+      "example": false,
+      "bilingual": false,
+      "contentKind": "reading-guide",
+      "description": "文章以巴基斯坦民族人民党为中心，考察独立之后不同政治计划对国家建设的竞争。它把进步政治的含义、国家对反对派的去激进化，以及殖民时期偏见的延续放在一起讨论，要求重新审视谁被承认为建设国家的合法参与者。",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "中文导读，非全文译文。以下为独立概述与阅读问题，不替代原作。仅依据出版方公开摘要撰写，未获得付费全文。这里不据摘要补造具体档案、人物活动或因果链条。"
+        },
+        {
+          "type": "paragraph",
+          "text": "原刊：History Workshop Journal，2026年9月8日在线发表。周报收录日期：2026年9月26日（不是原文发表日期）。"
+        },
+        {
+          "type": "heading",
+          "text": "内容概述"
+        },
+        {
+          "type": "paragraph",
+          "text": "文章以巴基斯坦民族人民党为中心，考察独立之后不同政治计划对国家建设的竞争。它把进步政治的含义、国家对反对派的去激进化，以及殖民时期偏见的延续放在一起讨论，要求重新审视谁被承认为建设国家的合法参与者。"
+        },
+        {
+          "type": "heading",
+          "text": "阅读切入点"
+        },
+        {
+          "type": "paragraph",
+          "text": "反殖民与支持独立后的国家权力并不必然重合。阅读时应区分民族、国家及具体执政力量的诉求。"
+        },
+        {
+          "type": "heading",
+          "text": "带着问题读原文"
+        },
+        {
+          "type": "list",
+          "items": [
+            "谁能够把一种政治方案命名为“反民族”？",
+            "重写去殖民化历史时，怎样避免直接沿用国家对反对派的分类？"
+          ]
+        },
+        {
+          "type": "link",
+          "text": "原文及出版方页面 ↗",
+          "url": "https://doi.org/10.1093/hwj/dbag015"
+        },
+        {
+          "type": "link",
+          "text": "比较阅读：解放诉求与制度限制",
+          "url": "translations/article.html?id=coerced-labor-bengal"
+        },
+        {
+          "type": "link",
+          "text": "六期周报总目录",
+          "url": "translations/social-science-weeklies.html"
+        },
+        {
+          "type": "link",
+          "text": "下载中文导读 Markdown",
+          "url": "translations/guides/national-awami-party-guide/guide_zh.md"
+        }
+      ]
+    },
+    {
+      "id": "booty-into-property-guide",
+      "title": "【中文导读】从战利品到财产：沙漠视角",
+      "originalTitle": "Booty into Property: The View from the Desert",
+      "author": "Judith Scheele",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/booty-into-property-the-view-from-the-desert/867A1DEA563D8EE545797D9E874E5F85",
+      "language": "zh-CN",
+      "languagePair": "中文导读 · 原文英文",
+      "translator": "AI-assisted reading guide",
+      "example": false,
+      "bilingual": false,
+      "contentKind": "reading-guide",
+      "description": "Scheele回应Benton的海盗研究，把劫掠、法律、财产与领土放到撒哈拉考察。绿洲议事组织和伊斯兰法律可以赋予财富合法性，却未必形成统一的领土主权。沙漠也是人们生活的空间，不能只被类比为等待穿越的海洋。",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "中文导读，非全文译文。以下为独立概述与阅读问题，不替代原作。依据出版方公开正文撰写。原文采用CC BY-NC-ND 4.0，本页不提供全文翻译或原文复制。"
+        },
+        {
+          "type": "paragraph",
+          "text": "原刊：Comparative Studies in Society and History，2026年9月28日在线发表；讨论文章。周报收录日期：2026年10月3日（不是原文发表日期）。"
+        },
+        {
+          "type": "heading",
+          "text": "内容概述"
+        },
+        {
+          "type": "paragraph",
+          "text": "Scheele回应Benton的海盗研究，把劫掠、法律、财产与领土放到撒哈拉考察。绿洲议事组织和伊斯兰法律可以赋予财富合法性，却未必形成统一的领土主权。沙漠也是人们生活的空间，不能只被类比为等待穿越的海洋。"
+        },
+        {
+          "type": "heading",
+          "text": "阅读切入点"
+        },
+        {
+          "type": "paragraph",
+          "text": "合法财产权、实际支配力与国家领土控制，是相互关联而不能混用的三件事。比较的价值正在于辨认差异。"
+        },
+        {
+          "type": "heading",
+          "text": "带着问题读原文"
+        },
+        {
+          "type": "list",
+          "items": [
+            "非法所得经何种承认程序转化为可以交易或继承的财产？",
+            "流动性为什么可能是政治秩序的条件，而不只是国家控制的缺口？"
+          ]
+        },
+        {
+          "type": "link",
+          "text": "原文及出版方页面 ↗",
+          "url": "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/booty-into-property-the-view-from-the-desert/867A1DEA563D8EE545797D9E874E5F85"
+        },
+        {
+          "type": "link",
+          "text": "先读全文：作为政治棱镜的海盗活动",
+          "url": "translations/article.html?id=piracy-political-prism"
+        },
+        {
+          "type": "link",
+          "text": "六期周报总目录",
+          "url": "translations/social-science-weeklies.html"
+        },
+        {
+          "type": "link",
+          "text": "下载中文导读 Markdown",
+          "url": "translations/guides/booty-into-property-guide/guide_zh.md"
+        }
+      ]
+    },
+    {
+      "id": "ai-siqi-labor-power-guide",
+      "title": "【中文导读】艾思奇论社会主义社会劳动力所有制：译文与“历史残余的未来”评议",
+      "originalTitle": "“On the Form of Labor Power’s Ownership in Socialist Society,” by Ai Siqi / “The Future of Historical Remnants”",
+      "author": "艾思奇；Harlan David Chambers（英译与评议）",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://www.cambridge.org/core/journals/modern-intellectual-history/article/on-the-form-of-labor-powers-ownership-in-socialist-society-by-ai-siqi-translated-with-a-commentary-the-future-of-historical-remnants-ai-siqi-on-the-private-ownership-of-labor-power/6FB94F4D7E794AD3D30BC379BA28005D",
+      "language": "zh-CN",
+      "languagePair": "中文导读 · 原文英文",
+      "translator": "AI-assisted reading guide",
+      "example": false,
+      "bilingual": false,
+      "contentKind": "reading-guide",
+      "description": "这组材料把劳动力的个人所有与生产资料的公有之间的张力作为理解社会主义过渡的入口。Chambers的评议进一步追问：思想转变能否解决按劳分配和家庭再生产中的结构问题，并指出家庭模型中容易被忽略的性别关系。",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "中文导读，非全文译文。以下为独立概述与阅读问题，不替代原作。依据出版方刊载的英文译文与评议撰写。该刊版本采用CC BY-NC-ND 4.0；本页不将英文译文回译冒充艾思奇原始中文，也不全文翻译评议。"
+        },
+        {
+          "type": "paragraph",
+          "text": "原刊：Modern Intellectual History，2026年10月2日在线发表。周报收录日期：2026年10月10日（不是原文发表日期）。"
+        },
+        {
+          "type": "heading",
+          "text": "内容概述"
+        },
+        {
+          "type": "paragraph",
+          "text": "这组材料把劳动力的个人所有与生产资料的公有之间的张力作为理解社会主义过渡的入口。Chambers的评议进一步追问：思想转变能否解决按劳分配和家庭再生产中的结构问题，并指出家庭模型中容易被忽略的性别关系。"
+        },
+        {
+          "type": "heading",
+          "text": "阅读切入点"
+        },
+        {
+          "type": "paragraph",
+          "text": "需要分别阅读历史文本提出的方案与当代评议者指出的限度。“残余”并不只是过去留下的静物，也可能继续组织现实关系。"
+        },
+        {
+          "type": "heading",
+          "text": "带着问题读原文"
+        },
+        {
+          "type": "list",
+          "items": [
+            "一种分配原则如何依赖对劳动力所有权的特定理解？",
+            "把家庭当作替代模式时，谁承担照料与再生产劳动？"
+          ]
+        },
+        {
+          "type": "link",
+          "text": "原文及出版方页面 ↗",
+          "url": "https://www.cambridge.org/core/journals/modern-intellectual-history/article/on-the-form-of-labor-powers-ownership-in-socialist-society-by-ai-siqi-translated-with-a-commentary-the-future-of-historical-remnants-ai-siqi-on-the-private-ownership-of-labor-power/6FB94F4D7E794AD3D30BC379BA28005D"
+        },
+        {
+          "type": "link",
+          "text": "配套导读：王亚南与政治经济学中的人",
+          "url": "translations/article.html?id=wang-yanan-economic-human-guide"
+        },
+        {
+          "type": "link",
+          "text": "六期周报总目录",
+          "url": "translations/social-science-weeklies.html"
+        },
+        {
+          "type": "link",
+          "text": "下载中文导读 Markdown",
+          "url": "translations/guides/ai-siqi-labor-power-guide/guide_zh.md"
+        }
+      ]
+    },
+    {
+      "id": "wang-yanan-economic-human-guide",
+      "title": "【中文导读】王亚南与政治经济学中的人：经济人、社会主义经济学、新人",
+      "originalTitle": "“The Human in Political Economy” / “Economic Man, Socialist Economics, New Human”",
+      "author": "王亚南；Benjamin Kindler（英译与评议）",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://www.cambridge.org/core/journals/modern-intellectual-history/article/human-in-political-economy-by-wang-yanan-128139-trans-by-benjamin-kindler-commentary-economic-man-socialist-economics-new-human-by-benjamin-kindler-140145/44A537DFBE87CE20CD4ECE2A0AEFC9A3",
+      "language": "zh-CN",
+      "languagePair": "中文导读 · 原文英文",
+      "translator": "AI-assisted reading guide",
+      "example": false,
+      "bilingual": false,
+      "contentKind": "reading-guide",
+      "description": "王亚南将经济人放回特定生产关系中理解，而不是视为永恒人性。Kindler的评议强调，资本家和雇佣劳动者既是分析范畴，也是现实社会关系的人格化；讨论社会主义经济学时，仍需解释这些关系为何继续存在。",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "中文导读，非全文译文。以下为独立概述与阅读问题，不替代原作。依据出版方刊载的英文译文与评议撰写。该刊版本采用CC BY-NC-ND 4.0；本页不将英文回译当作王亚南原文，也不提供整篇评议的译文。"
+        },
+        {
+          "type": "paragraph",
+          "text": "原刊：Modern Intellectual History，2026年10月2日在线发表。周报收录日期：2026年10月10日（不是原文发表日期）。"
+        },
+        {
+          "type": "heading",
+          "text": "内容概述"
+        },
+        {
+          "type": "paragraph",
+          "text": "王亚南将经济人放回特定生产关系中理解，而不是视为永恒人性。Kindler的评议强调，资本家和雇佣劳动者既是分析范畴，也是现实社会关系的人格化；讨论社会主义经济学时，仍需解释这些关系为何继续存在。"
+        },
+        {
+          "type": "heading",
+          "text": "阅读切入点"
+        },
+        {
+          "type": "paragraph",
+          "text": "关键不只是证明理论抽象不符合生活，而是追问一种抽象为什么会在特定社会里取得现实效力。"
+        },
+        {
+          "type": "heading",
+          "text": "带着问题读原文"
+        },
+        {
+          "type": "list",
+          "items": [
+            "批判经济人的普遍性，是否等于否定经济学进行抽象的必要性？",
+            "如果社会关系改变，既有经济范畴的解释效力会怎样变化？"
+          ]
+        },
+        {
+          "type": "link",
+          "text": "原文及出版方页面 ↗",
+          "url": "https://www.cambridge.org/core/journals/modern-intellectual-history/article/human-in-political-economy-by-wang-yanan-128139-trans-by-benjamin-kindler-commentary-economic-man-socialist-economics-new-human-by-benjamin-kindler-140145/44A537DFBE87CE20CD4ECE2A0AEFC9A3"
+        },
+        {
+          "type": "link",
+          "text": "配套导读：艾思奇与劳动力所有制",
+          "url": "translations/article.html?id=ai-siqi-labor-power-guide"
+        },
+        {
+          "type": "link",
+          "text": "六期周报总目录",
+          "url": "translations/social-science-weeklies.html"
+        },
+        {
+          "type": "link",
+          "text": "下载中文导读 Markdown",
+          "url": "translations/guides/wang-yanan-economic-human-guide/guide_zh.md"
+        }
+      ]
+    },
+    {
+      "id": "gandhi-voice-guide",
+      "title": "【中文导读】甘地的声音、大众政治与扩声技术进入印度，1927—1931",
+      "originalTitle": "Gandhi’s Voice, Mass Politics, and the Arrival of Public Address Technology in India, 1927–1931",
+      "author": "Kama Maclean",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://academic.oup.com/past/advance-article/doi/10.1093/pastj/gtag028/8859371",
+      "language": "zh-CN",
+      "languagePair": "中文导读 · 原文英文",
+      "translator": "AI-assisted reading guide",
+      "example": false,
+      "bilingual": false,
+      "contentKind": "reading-guide",
+      "description": "文章从一个容易被演讲稿遮蔽的问题出发：现场听众真的听得见吗？它以甘地的演说为中心，考察麦克风和扬声器初入印度时的不可靠性，以及演说者和听众适应媒介的过程，借此重新理解大众政治中的信息传递。",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "中文导读，非全文译文。以下为独立概述与阅读问题，不替代原作。仅依据出版方公开摘要撰写，未获得付费全文。关于具体集会与设备使用的细节，需要阅读原文核实。"
+        },
+        {
+          "type": "paragraph",
+          "text": "原刊：Past & Present，2026年10月1日在线发表。周报收录日期：2026年10月10日（不是原文发表日期）。"
+        },
+        {
+          "type": "heading",
+          "text": "内容概述"
+        },
+        {
+          "type": "paragraph",
+          "text": "文章从一个容易被演讲稿遮蔽的问题出发：现场听众真的听得见吗？它以甘地的演说为中心，考察麦克风和扬声器初入印度时的不可靠性，以及演说者和听众适应媒介的过程，借此重新理解大众政治中的信息传递。"
+        },
+        {
+          "type": "heading",
+          "text": "阅读切入点"
+        },
+        {
+          "type": "paragraph",
+          "text": "演讲文本、声音传播与现场政治经验不是同一层面的证据。技术到场并不意味着传播障碍立即消失。"
+        },
+        {
+          "type": "heading",
+          "text": "带着问题读原文"
+        },
+        {
+          "type": "list",
+          "items": [
+            "当话语无法清晰到达听众时，还有哪些感官与组织方式参与政治动员？",
+            "用保存下来的演讲稿推断现场效果，需要哪些额外证据？"
+          ]
+        },
+        {
+          "type": "link",
+          "text": "原文及出版方页面 ↗",
+          "url": "https://academic.oup.com/past/advance-article/doi/10.1093/pastj/gtag028/8859371"
+        },
+        {
+          "type": "link",
+          "text": "跨媒介比较：形式、传播与行动者",
+          "url": "translations/article.html?id=rogue-verbs-guide"
+        },
+        {
+          "type": "link",
+          "text": "六期周报总目录",
+          "url": "translations/social-science-weeklies.html"
+        },
+        {
+          "type": "link",
+          "text": "下载中文导读 Markdown",
+          "url": "translations/guides/gandhi-voice-guide/guide_zh.md"
+        }
+      ]
     }
   ]
 };
