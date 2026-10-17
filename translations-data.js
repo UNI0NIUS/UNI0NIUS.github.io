@@ -4532,6 +4532,41 @@ window.TRANSLATIONS = {
           "url": "translations/articles/piracy-political-prism/source-package.zip"
         }
       ]
+    },
+    {
+      "id": "borders-to-courts",
+      "title": "从边界到法院：在充满阻碍的跨国环境中组装推回案件",
+      "originalTitle": "From borders to courts: assembling pushback cases in a hostile transnational setting",
+      "author": "Alice Lacchei and Adel-Naim Reyhani",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "sourceUrl": "https://doi.org/10.1017/lsr.2026.10117",
+      "editionNotice": "据 Cambridge University Press 出版方 HTML 全文翻译，并以同文原版 PDF 核对结构及段落起始页码。原文27页，保留摘要、全部正文、数据与资助声明、9项访谈清单、91条文献、7项判例、3项法规及两位作者简介。无编号脚注或图表。书目照录并附中文题名或条目译释。© The Author(s), 2026，Cambridge University Press 代表 Law and Society Association 出版；原文与本译文采用 CC BY 4.0。翻译、译释及编者说明为本版新增。AI辅助工作译稿，不代表作者或出版社认可。",
+      "bilingual": true,
+      "language": "zh-CN",
+      "languagePair": "English / 中文",
+      "translator": "AI-assisted working translation",
+      "example": false,
+      "description": "追踪意大利和奥地利推回诉讼如何从边境经历组装为法院案件。完整中英对照，含书目、判例法规、访谈清单与作者简介。2026-10-03周报延伸阅读。",
+      "dataUrl": "translations/articles/borders-to-courts/article.json",
+      "downloads": [
+        {
+          "label": "中文 Markdown",
+          "url": "translations/articles/borders-to-courts/article_zh.md"
+        },
+        {
+          "label": "Bilingual PDF",
+          "url": "translations/articles/borders-to-courts/article_bilingual.pdf"
+        },
+        {
+          "label": "English PDF",
+          "url": "translations/articles/borders-to-courts/article_en.pdf"
+        },
+        {
+          "label": "Source package",
+          "url": "translations/articles/borders-to-courts/source-package.zip"
+        }
+      ]
     }
   ]
 };
