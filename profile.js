@@ -1,6 +1,7 @@
 // Edit your personal information here. Empty fields are optional.
 window.PROFILE = {
   name: "Xiaoyang Hao",
+  brand: "union",
   affiliation: ["Peking University", "Undergraduate in Chemistry"],
   // Place your photo beside this file, then enter its filename.
   avatar: "images/photo.jpg",

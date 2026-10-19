@@ -11,6 +11,7 @@ const el = (tag, text, className) => {
   return node;
 };
 document.querySelectorAll("[data-name]").forEach(node => node.textContent = personName);
+document.querySelectorAll("[data-brand]").forEach(node => node.textContent = profile.brand || personName);
 document.title = `${document.body.dataset.title || "Home"} | ${personName}`;
 $("#year").textContent = new Date().getFullYear();
 
