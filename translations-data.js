@@ -4921,9 +4921,10 @@ window.TRANSLATIONS = {
     },
     {
       "id": "yikarak-yapmak",
-      "title": "破坏中建造：一种无政府主义建筑理论的底衬",
+      "title": "破而后立：为一种无政府主义建筑理论作预备",
       "originalTitle": "Yıkarak Yapmak: Anarşist Bir Mimarlık Kuramı İçin Altlık",
       "author": "Uğur Tanyeli",
+      "translator": "Xiaoyang Hao (AI-assisted working translation)",
       "language": "zh-CN",
       "languagePair": "Türkçe → 中文",
       "structured": true,
@@ -4934,10 +4935,20 @@ window.TRANSLATIONS = {
       "example": false,
       "description": "建筑理论、现代性与无政府主义。全书中文校订译稿，含原注、插图及原书页码定位。",
       "editionNotice": "据2017年土耳其语底本校订；页码指原书页码。原注随正文显示，新增说明标为校注。",
+      "downloads": [
+        {
+          "label": "中文PDF",
+          "url": "translations/books/yikarak-yapmak/yikarak_yapmak_zh.pdf"
+        },
+        {
+          "label": "规范稿与源码包",
+          "url": "translations/books/yikarak-yapmak/yikarak_yapmak_source.zip"
+        }
+      ],
       "chapters": [
         {
           "id": "00_front",
-          "title": "破坏中建造：一种无政府主义建筑理论的底衬",
+          "title": "破而后立：为一种无政府主义建筑理论作预备",
           "dataUrl": "translations/books/yikarak-yapmak/00_front.json"
         },
         {
@@ -4962,7 +4973,7 @@ window.TRANSLATIONS = {
         },
         {
           "id": "04a_part01",
-          "title": "第一部分　创始神话",
+          "title": "第一部分　奠基神话",
           "dataUrl": "translations/books/yikarak-yapmak/04a_part01.json"
         },
         {
@@ -4987,7 +4998,7 @@ window.TRANSLATIONS = {
         },
         {
           "id": "09_ch08",
-          "title": "VIII　新颖、发明、创造力及其他建筑奇迹",
+          "title": "VIII　新颖性、发明、创造力及其他建筑奇迹",
           "dataUrl": "translations/books/yikarak-yapmak/09_ch08.json"
         },
         {
@@ -5017,7 +5028,7 @@ window.TRANSLATIONS = {
         },
         {
           "id": "14_ch13",
-          "title": "XIII　神圣性的幻觉",
+          "title": "XIII　神圣性的幻象",
           "dataUrl": "translations/books/yikarak-yapmak/14_ch13.json"
         },
         {
@@ -5047,7 +5058,7 @@ window.TRANSLATIONS = {
         },
         {
           "id": "19_conclusion",
-          "title": "代结论　自由、建筑与破坏中建造",
+          "title": "代结论　自由、建筑与破而后立",
           "dataUrl": "translations/books/yikarak-yapmak/19_conclusion.json"
         },
         {
@@ -5059,17 +5070,6 @@ window.TRANSLATIONS = {
           "id": "21_back_cover",
           "title": "封底",
           "dataUrl": "translations/books/yikarak-yapmak/21_back_cover.json"
-        }
-      ],
-      "translator": "Xiaoyang Hao (AI-assisted working translation)",
-      "downloads": [
-        {
-          "label": "中文PDF",
-          "url": "translations/books/yikarak-yapmak/yikarak_yapmak_zh.pdf"
-        },
-        {
-          "label": "规范稿与源码包",
-          "url": "translations/books/yikarak-yapmak/yikarak_yapmak_source.zip"
         }
       ]
     }
