@@ -4775,6 +4775,151 @@ window.TRANSLATIONS = {
       ]
     },
     {
+      "id": "experimental-beijing",
+      "title": "实验北京：当代中国艺术中的性别与全球化",
+      "originalTitle": "Experimental Beijing: Gender and Globalization in Chinese Contemporary Art",
+      "author": "Sasha Su-Ling Welland",
+      "languagePair": "English / 中文",
+      "language": "zh-CN",
+      "bilingual": true,
+      "example": false,
+      "description": "全书中英对照译校稿，含原注、图版、原书页码、参考文献与索引。",
+      "chapters": [
+        {
+          "id": "front",
+          "title": "前置材料",
+          "originalTitle": "Front Matter",
+          "dataUrl": "translations/books/experimental-beijing/front.json"
+        },
+        {
+          "id": "prologue",
+          "title": "序言　世俗寓言",
+          "originalTitle": "Worldly Fables PROLOGUE",
+          "dataUrl": "translations/books/experimental-beijing/prologue.json"
+        },
+        {
+          "id": "intro",
+          "title": "导论　扩展场域中的中国当代艺术",
+          "originalTitle": "Introduction: Chinese Contemporary Art in the Expanded Field",
+          "dataUrl": "translations/books/experimental-beijing/intro.json"
+        },
+        {
+          "id": "part1",
+          "title": "第一部分　艺术世界营造",
+          "originalTitle": "PART I: Art Worldings",
+          "dataUrl": "translations/books/experimental-beijing/part1.json"
+        },
+        {
+          "id": "ch01",
+          "title": "第一章　先锋北京",
+          "originalTitle": "One: Xianfeng Beijing",
+          "dataUrl": "translations/books/experimental-beijing/ch01.json"
+        },
+        {
+          "id": "ch02",
+          "title": "第二章　展示北京",
+          "originalTitle": "Two: Showcase Beijing",
+          "dataUrl": "translations/books/experimental-beijing/ch02.json"
+        },
+        {
+          "id": "part2",
+          "title": "第二部分　相遇地带",
+          "originalTitle": "PART II: Zones of Encounter",
+          "dataUrl": "translations/books/experimental-beijing/part2.json"
+        },
+        {
+          "id": "ch03",
+          "title": "第三章　围城",
+          "originalTitle": "Three: The Besieged City",
+          "dataUrl": "translations/books/experimental-beijing/ch03.json"
+        },
+        {
+          "id": "ch04",
+          "title": "第四章　女性主义艺术的腹地",
+          "originalTitle": "Four: The Hinterlands of Feminist Art",
+          "dataUrl": "translations/books/experimental-beijing/ch04.json"
+        },
+        {
+          "id": "part3",
+          "title": "第三部分　女性主义视线",
+          "originalTitle": "PART III: Feminist Sight Lines",
+          "dataUrl": "translations/books/experimental-beijing/part3.json"
+        },
+        {
+          "id": "ch05",
+          "title": "第五章　红色娘子军",
+          "originalTitle": "Five: Red Detachment",
+          "dataUrl": "translations/books/experimental-beijing/ch05.json"
+        },
+        {
+          "id": "ch06",
+          "title": "第六章　打开长城",
+          "originalTitle": "Six: Opening the Great Wall",
+          "dataUrl": "translations/books/experimental-beijing/ch06.json"
+        },
+        {
+          "id": "ch07",
+          "title": "第七章　被伪装的历史",
+          "originalTitle": "Seven: Camouflaged Histories",
+          "dataUrl": "translations/books/experimental-beijing/ch07.json"
+        },
+        {
+          "id": "epilogue",
+          "title": "尾声　递归的世俗寓言",
+          "originalTitle": "Epilogue: Recursive Worldly Fables",
+          "dataUrl": "translations/books/experimental-beijing/epilogue.json"
+        },
+        {
+          "id": "plates",
+          "title": "彩色图版",
+          "originalTitle": "Color Plates",
+          "dataUrl": "translations/books/experimental-beijing/plates.json"
+        },
+        {
+          "id": "bibliography",
+          "title": "参考文献（原文）",
+          "originalTitle": "Bibliography",
+          "dataUrl": "translations/books/experimental-beijing/bibliography.json"
+        },
+        {
+          "id": "index",
+          "title": "索引（原文）",
+          "originalTitle": "Index",
+          "dataUrl": "translations/books/experimental-beijing/index.json"
+        },
+        {
+          "id": "editorial",
+          "title": "译校说明与术语",
+          "originalTitle": "Editorial Notes",
+          "dataUrl": "translations/books/experimental-beijing/editorial.json"
+        }
+      ],
+      "editionNotice": "本稿依据2018年英文版PDF译校；页码标示指原书印刷页码。中文引文原则上为英文底本回译，详细说明见译校附录。",
+      "translator": "AI辅助翻译与校对",
+      "downloads": [
+        {
+          "label": "中文 PDF",
+          "url": "translations/books/experimental-beijing/downloads/experimental-beijing-zh.pdf"
+        },
+        {
+          "label": "中英对照 PDF",
+          "url": "translations/books/experimental-beijing/downloads/experimental-beijing-bilingual.pdf"
+        },
+        {
+          "label": "可复现源码包",
+          "url": "translations/books/experimental-beijing/downloads/experimental-beijing-source.zip"
+        },
+        {
+          "label": "中文 Markdown",
+          "url": "translations/books/experimental-beijing/downloads/experimental-beijing-zh.md"
+        },
+        {
+          "label": "中英 Markdown",
+          "url": "translations/books/experimental-beijing/downloads/experimental-beijing-bilingual.md"
+        }
+      ]
+    },
+    {
       "id": "yikarak-yapmak",
       "title": "破坏中建造：一种无政府主义建筑理论的底衬",
       "originalTitle": "Yıkarak Yapmak: Anarşist Bir Mimarlık Kuramı İçin Altlık",
