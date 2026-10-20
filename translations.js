@@ -179,7 +179,8 @@
     }
     const chapter = chapters[index];
     const currentPart = (item.parts || []).find(part => part.id === chapter.partId);
-    const view = ["zh", "en", "parallel"].includes(params.get("view")) ? params.get("view") : "parallel";
+    const availableViews = item.views || ["zh", "en", "parallel"];
+    const view = availableViews.includes(params.get("view")) ? params.get("view") : availableViews.includes("parallel") ? "parallel" : availableViews[0];
     const chapterTitle = entry => item.bilingual && view === "en" ? entry.originalTitle || entry.title : entry.title;
     target.append(link("← All translations", "index.html#books", "back-link"));
     const layout = el("div", undefined, "book-layout");
@@ -248,7 +249,7 @@
     const article = el("article", undefined, "chapter-article translation-reader");
     article.append(heading(item, chapterTitle(chapter), `${currentPart ? (view === "en" ? currentPart.originalTitle || currentPart.title : currentPart.title) : item.title} · Section ${index + 1} of ${chapters.length}`));
     const note = templateNote(item); if (note) article.append(note);
-    if (item.bilingual && window.renderParallelBook) {
+    if ((item.bilingual || item.structured) && window.renderParallelBook) {
       document.getElementById("main").classList.add("bilingual-book");
       article.append(window.renderParallelBook.controls(view, item));
       article.append(el("p", item.editionNotice || "Chinese reviewed working draft · 2026-09-16. Page labels refer to the printed English edition, not PDF sheet numbers. English wording is retained from the supplied EPUB; editorial uncertainties are flagged beside the Chinese text.", "edition-notice"));

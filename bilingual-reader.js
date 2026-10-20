@@ -101,6 +101,7 @@ window.renderParallelBook = (() => {
     nav.setAttribute("aria-label", "Reading language");
     const sourceLabel = source.sourceLanguageLabel || "English";
     for (const [mode, label] of [["parallel", `中文 / ${sourceLabel}`], ["zh", "中文"], ["en", sourceLabel]]) {
+      if (source.views && !source.views.includes(mode)) continue;
       const url = new URL(location.href); url.searchParams.set("view", mode);
       const a = el("a", label); a.href = url.href;
       if (mode === view) a.setAttribute("aria-current", "true");
