@@ -5072,6 +5072,130 @@ window.TRANSLATIONS = {
           "dataUrl": "translations/books/yikarak-yapmak/21_back_cover.json"
         }
       ]
+    },
+    {
+      "id": "thinking-art",
+      "title": "思考艺术：唯物主义、劳动、形式",
+      "originalTitle": "Thinking Art: Materialisms, Labours, Forms",
+      "author": "Peter Osborne 编",
+      "language": "zh-CN",
+      "languagePair": "English → 中文",
+      "structured": true,
+      "bilingual": true,
+      "views": [
+        "parallel",
+        "zh",
+        "en"
+      ],
+      "example": false,
+      "description": "十章艺术理论文集，中文及中英逐段对照校订版。",
+      "editionNotice": "校订阅读版 · 2026-10-21。依2020年CRMEP Books底本逐项校对817个单元，含298条原注。未收入原索引（PDF第231—234页），未复制原书17个含图片源页的图像，保留文字与图片来源说明。源页定位均指PDF文件页序，不是原书印刷页码。作者简介及“目前”等表述沿用原书出版时点。编者说明与原注分列。底本许可为CC BY-NC-ND 4.0；原著及图片权利归原权利人。",
+      "chapters": [
+        {
+          "id": "front",
+          "title": "出版与丛书信息",
+          "dataUrl": "translations/books/thinking-art/front.json"
+        },
+        {
+          "id": "preface",
+          "title": "序言",
+          "dataUrl": "translations/books/thinking-art/preface.json"
+        },
+        {
+          "id": "ack",
+          "title": "致谢",
+          "dataUrl": "translations/books/thinking-art/ack.json"
+        },
+        {
+          "id": "part1",
+          "title": "唯物主义",
+          "dataUrl": "translations/books/thinking-art/part1.json"
+        },
+        {
+          "id": "ch01",
+          "title": "数字唯物主义：六只手、机器辅助、怒不可遏",
+          "dataUrl": "translations/books/thinking-art/ch01.json"
+        },
+        {
+          "id": "ch02",
+          "title": "新唯物主义的慰藉",
+          "dataUrl": "translations/books/thinking-art/ch02.json"
+        },
+        {
+          "id": "part2",
+          "title": "艺术与劳动",
+          "dataUrl": "translations/books/thinking-art/part2.json"
+        },
+        {
+          "id": "ch03",
+          "title": "艺术的反资本主义本体论：论艺术家作为反资本主义者的历史根源",
+          "dataUrl": "translations/books/thinking-art/ch03.json"
+        },
+        {
+          "id": "ch04",
+          "title": "艺术、生活与劳动：卡拉·隆齐关乎生存的女性主义批判",
+          "dataUrl": "translations/books/thinking-art/ch04.json"
+        },
+        {
+          "id": "ch05",
+          "title": "银行里的夜间保洁：桑娅·伊韦科维奇为不可见女性所做的试镜",
+          "dataUrl": "translations/books/thinking-art/ch05.json"
+        },
+        {
+          "id": "part3",
+          "title": "形式的不稳定性",
+          "dataUrl": "translations/books/thinking-art/part3.json"
+        },
+        {
+          "id": "ch06",
+          "title": "艺行哲学",
+          "dataUrl": "translations/books/thinking-art/ch06.json"
+        },
+        {
+          "id": "ch07",
+          "title": "情境图表：论当代艺术中语境与形式的解／重组之呈现",
+          "dataUrl": "translations/books/thinking-art/ch07.json"
+        },
+        {
+          "id": "ch08",
+          "title": "形式札记",
+          "dataUrl": "translations/books/thinking-art/ch08.json"
+        },
+        {
+          "id": "part4",
+          "title": "社会生态、灾难预感",
+          "dataUrl": "translations/books/thinking-art/part4.json"
+        },
+        {
+          "id": "ch09",
+          "title": "黑色亚特兰蒂斯：种植园世",
+          "dataUrl": "translations/books/thinking-art/ch09.json"
+        },
+        {
+          "id": "ch10",
+          "title": "家中的陌生人：从指涉性艺术作业到构成性艺术作业",
+          "dataUrl": "translations/books/thinking-art/ch10.json"
+        },
+        {
+          "id": "back",
+          "title": "图片来源与作者简介",
+          "dataUrl": "translations/books/thinking-art/back.json"
+        }
+      ],
+      "downloads": [
+        {
+          "label": "中文PDF",
+          "url": "translations/books/thinking-art/thinking_art_zh.pdf"
+        },
+        {
+          "label": "双语PDF",
+          "url": "translations/books/thinking-art/thinking_art_bilingual.pdf"
+        },
+        {
+          "label": "规范稿与源码包",
+          "url": "translations/books/thinking-art/thinking_art_source.zip"
+        }
+      ]
     }
   ],
   "articles": [
