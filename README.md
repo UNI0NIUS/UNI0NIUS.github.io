@@ -70,3 +70,9 @@ Separate entries with commas, escape a literal quotation mark inside text as `\"
 ## Social profile icons
 
 Edit `links` in `profile.js`. Use `icon: "github"`, `"x"`, `"scholar"`, or `"linkedin"` for a circular icon. Existing labels and recognized profile domains are also detected automatically. Set `url` to your own profile address; entries with empty URLs are hidden. Other links retain their text labels.
+
+### Catalog layout and filters
+
+The library uses compact entries with linked Chinese/original titles, author metadata, language, Chinese character counts and topic tags. Descriptions remain in the source data but are not displayed in the catalog. Edit `tags` (bilingual labels) and optional `authorZh` in `translations-data.js`. Search matches titles, authors, language and tags; selected tags use AND semantics and combine with search. The current query is preserved in the URL.
+
+After changing published translation content, run `node scripts/build-catalog-counts.cjs` from this directory and include the generated `translations-counts.js`. Counts include Han characters in the Chinese reading body (including headings, captions and tables) and original notes; punctuation, Latin text, metadata and note markers are excluded. Counts describe the currently published reading data, not an assertion of translation completeness.

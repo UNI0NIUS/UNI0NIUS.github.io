@@ -280,7 +280,11 @@ window.TRANSLATIONS = {
         "isbn": "9788833911335",
         "status": "awaiting-scan",
         "referenceUrl": "https://www.ibs.it/ricordo-del-presente-libro-paolo-virno/e/9788833911335"
-      }
+      },
+      "tags": [
+        "哲学 Philosophy"
+      ],
+      "authorZh": "保罗·维尔诺"
     },
     {
       "id": "turkiye-halk-istirakiyun-firkasi",
@@ -2184,7 +2188,12 @@ window.TRANSLATIONS = {
           "sha256": "6fa292eaf8b715954f04d9f517b7b4d66d3a1f998d60979399f2c173a1c7cfbc",
           "bytes": 2161969
         }
-      ]
+      ],
+      "tags": [
+        "历史 History",
+        "政治 Politics"
+      ],
+      "authorZh": "埃尔登·阿克布卢特、梅特·通恰伊"
     },
     {
       "id": "zindiklar-ve-mulhidler",
@@ -4107,7 +4116,12 @@ window.TRANSLATIONS = {
           "anchor": "z2013-backcover-001"
         }
       },
-      "readingStructure": "original-book-v1"
+      "readingStructure": "original-book-v1",
+      "tags": [
+        "历史 History",
+        "宗教 Religion"
+      ],
+      "authorZh": "艾哈迈德·亚沙尔·奥贾克"
     },
     {
       "id": "plantations",
@@ -4200,7 +4214,12 @@ window.TRANSLATIONS = {
           "sha256": "41dd3dab4de58df7489c503b90536e60baf593b8ec5c4d1ee2ab96499e33f1e6",
           "bytes": 5734100
         }
-      ]
+      ],
+      "tags": [
+        "人类学 Anthropology",
+        "生态 Ecology"
+      ],
+      "authorZh": "索菲·赵"
     },
     {
       "id": "rule-of-experts-egypt",
@@ -4367,7 +4386,12 @@ window.TRANSLATIONS = {
           "title": "第三部　锚定经济",
           "originalTitle": "III · Fixing the Economy"
         }
-      ]
+      ],
+      "tags": [
+        "政治 Politics",
+        "历史 History"
+      ],
+      "authorZh": "蒂莫西·米切尔"
     },
     {
       "id": "right-to-the-city-novels",
@@ -4480,7 +4504,12 @@ window.TRANSLATIONS = {
           "label": "源码包 ZIP",
           "url": "translations/books/right-to-the-city/right_city_source.zip"
         }
-      ]
+      ],
+      "tags": [
+        "文学 Literature",
+        "城市 Urbanism"
+      ],
+      "authorZh": "N. 布凯特·坚吉兹"
     },
     {
       "id": "defending-materialism",
@@ -4629,7 +4658,11 @@ window.TRANSLATIONS = {
           "bytes": 8866782,
           "sha256": "fba2d03884b58901cb483601c393c60ea71a1c72a3fcf4fda59f6186bfd7c588"
         }
-      ]
+      ],
+      "tags": [
+        "哲学 Philosophy"
+      ],
+      "authorZh": "卡塔琳娜·科洛佐娃、威廉·保罗·科克肖特、格雷格·迈克尔森"
     },
     {
       "id": "history-of-philosophy",
@@ -4772,7 +4805,12 @@ window.TRANSLATIONS = {
           "bytes": 5114105,
           "sha256": "278f336c106670b3d3f3f2f785fba6c77a3e81fcb269e46dbf7a6ec3ced37656"
         }
-      ]
+      ],
+      "tags": [
+        "哲学 Philosophy",
+        "历史 History"
+      ],
+      "authorZh": "艾伦·伍兹"
     },
     {
       "id": "experimental-beijing",
@@ -4917,7 +4955,12 @@ window.TRANSLATIONS = {
           "label": "中英 Markdown",
           "url": "translations/books/experimental-beijing/downloads/experimental-beijing-bilingual.md"
         }
-      ]
+      ],
+      "tags": [
+        "艺术 Art",
+        "性别 Gender"
+      ],
+      "authorZh": "萨莎·苏玲·韦兰"
     },
     {
       "id": "yikarak-yapmak",
@@ -5122,7 +5165,12 @@ window.TRANSLATIONS = {
         }
       ],
       "sourceLanguage": "tr",
-      "sourceLanguageLabel": "Türkçe"
+      "sourceLanguageLabel": "Türkçe",
+      "tags": [
+        "建筑 Architecture",
+        "城市 Urbanism"
+      ],
+      "authorZh": "乌吾尔·坦耶利"
     },
     {
       "id": "thinking-art",
@@ -5322,7 +5370,12 @@ window.TRANSLATIONS = {
           "title": "第四部　社会生态、灾难预感",
           "originalTitle": "Part IV · Social Ecologies, Intimations of Catastrophe"
         }
-      ]
+      ],
+      "tags": [
+        "艺术 Art",
+        "哲学 Philosophy"
+      ],
+      "authorZh": "彼得·奥斯本 编"
     },
     {
       "id": "friction",
@@ -5903,7 +5956,12 @@ window.TRANSLATIONS = {
           "bytes": 2089305,
           "sha256": "1afa26f2a6d2682e298353e3e6d3b6ec70b5fce98810cd77cdd2d06c53a1b2b4"
         }
-      ]
+      ],
+      "tags": [
+        "人类学 Anthropology",
+        "生态 Ecology"
+      ],
+      "authorZh": "安娜·洛文豪普特·青"
     }
   ],
   "articles": [
@@ -5930,7 +5988,8 @@ window.TRANSLATIONS = {
           "type": "paragraph",
           "text": "[Add context, references, or notes on terminology.]"
         }
-      ]
+      ],
+      "tags": []
     },
     {
       "id": "commissioned-micro-drama",
@@ -5965,6 +6024,9 @@ window.TRANSLATIONS = {
           "label": "Source package",
           "url": "translations/articles/commissioned-micro-drama/source-package.zip"
         }
+      ],
+      "tags": [
+        "媒介 Media"
       ]
     },
     {
@@ -6000,6 +6062,9 @@ window.TRANSLATIONS = {
           "label": "Source package",
           "url": "translations/articles/antiformalism/source-package.zip"
         }
+      ],
+      "tags": [
+        "人类学 Anthropology"
       ]
     },
     {
@@ -6035,6 +6100,10 @@ window.TRANSLATIONS = {
           "label": "Source package",
           "url": "translations/articles/coerced-labor-bengal/source-package.zip"
         }
+      ],
+      "tags": [
+        "历史 History",
+        "劳动 Labor"
       ]
     },
     {
@@ -6070,6 +6139,10 @@ window.TRANSLATIONS = {
           "label": "Source package",
           "url": "translations/articles/piracy-political-prism/source-package.zip"
         }
+      ],
+      "tags": [
+        "历史 History",
+        "政治 Politics"
       ]
     },
     {
@@ -6105,6 +6178,10 @@ window.TRANSLATIONS = {
           "label": "Source package",
           "url": "translations/articles/borders-to-courts/source-package.zip"
         }
+      ],
+      "tags": [
+        "政治 Politics",
+        "法律 Law"
       ]
     },
     {
@@ -6140,6 +6217,10 @@ window.TRANSLATIONS = {
           "label": "Source package",
           "url": "translations/articles/culture-and-contradiction/source-package.zip"
         }
+      ],
+      "tags": [
+        "文化 Culture",
+        "政治 Politics"
       ]
     },
     {
@@ -6175,6 +6256,10 @@ window.TRANSLATIONS = {
           "label": "Source package",
           "url": "translations/articles/borrowed-time/source-package.zip"
         }
+      ],
+      "tags": [
+        "历史 History",
+        "政治 Politics"
       ]
     },
     {
@@ -6210,6 +6295,10 @@ window.TRANSLATIONS = {
           "label": "Source package",
           "url": "translations/articles/ibn-khaldun-colonial-archive/source-package.zip"
         }
+      ],
+      "tags": [
+        "历史 History",
+        "殖民 Colonialism"
       ]
     },
     {
@@ -6283,6 +6372,10 @@ window.TRANSLATIONS = {
           "text": "下载中文导读 Markdown",
           "url": "translations/guides/rogue-verbs-guide/guide_zh.md"
         }
+      ],
+      "tags": [
+        "文化 Culture",
+        "文学 Literature"
       ]
     },
     {
@@ -6356,6 +6449,10 @@ window.TRANSLATIONS = {
           "text": "下载中文导读 Markdown",
           "url": "translations/guides/people-who-think-differently-guide/guide_zh.md"
         }
+      ],
+      "tags": [
+        "历史 History",
+        "政治 Politics"
       ]
     },
     {
@@ -6429,6 +6526,10 @@ window.TRANSLATIONS = {
           "text": "下载中文导读 Markdown",
           "url": "translations/guides/epistemic-translation-modernity-guide/guide_zh.md"
         }
+      ],
+      "tags": [
+        "历史 History",
+        "殖民 Colonialism"
       ]
     },
     {
@@ -6502,6 +6603,9 @@ window.TRANSLATIONS = {
           "text": "下载中文导读 Markdown",
           "url": "translations/guides/three-frontiers-global-china-guide/guide_zh.md"
         }
+      ],
+      "tags": [
+        "政治 Politics"
       ]
     },
     {
@@ -6575,6 +6679,10 @@ window.TRANSLATIONS = {
           "text": "下载中文导读 Markdown",
           "url": "translations/guides/alleged-french-canadians-guide/guide_zh.md"
         }
+      ],
+      "tags": [
+        "历史 History",
+        "性别 Gender"
       ]
     },
     {
@@ -6648,6 +6756,10 @@ window.TRANSLATIONS = {
           "text": "下载中文导读 Markdown",
           "url": "translations/guides/national-awami-party-guide/guide_zh.md"
         }
+      ],
+      "tags": [
+        "政治 Politics",
+        "殖民 Colonialism"
       ]
     },
     {
@@ -6721,6 +6833,9 @@ window.TRANSLATIONS = {
           "text": "下载中文导读 Markdown",
           "url": "translations/guides/booty-into-property-guide/guide_zh.md"
         }
+      ],
+      "tags": [
+        "人类学 Anthropology"
       ]
     },
     {
@@ -6794,6 +6909,10 @@ window.TRANSLATIONS = {
           "text": "下载中文导读 Markdown",
           "url": "translations/guides/ai-siqi-labor-power-guide/guide_zh.md"
         }
+      ],
+      "tags": [
+        "哲学 Philosophy",
+        "劳动 Labor"
       ]
     },
     {
@@ -6867,6 +6986,10 @@ window.TRANSLATIONS = {
           "text": "下载中文导读 Markdown",
           "url": "translations/guides/wang-yanan-economic-human-guide/guide_zh.md"
         }
+      ],
+      "tags": [
+        "哲学 Philosophy",
+        "政治 Politics"
       ]
     },
     {
@@ -6940,6 +7063,10 @@ window.TRANSLATIONS = {
           "text": "下载中文导读 Markdown",
           "url": "translations/guides/gandhi-voice-guide/guide_zh.md"
         }
+      ],
+      "tags": [
+        "历史 History",
+        "媒介 Media"
       ]
     }
   ]

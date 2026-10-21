@@ -96,19 +96,79 @@
     if (!items.length) section.append(el("p", "Translations will be added here soon.", "empty-note"));
     for (const item of items) {
       const card = el("article", undefined, "translation-card");
-      card.append(metadata(item, kind === "book" ? (item.chapters || []).length : undefined));
       const route = kind === "guide" ? "article" : kind;
       const title = el("h3"); title.append(link(item.title, href(route, item))); card.append(title);
-      if (item.description) card.append(el("p", item.description));
-      card.append(link(kind === "book" ? "Read book →" : kind === "guide" ? "阅读导读 →" : "Read article →", href(route, item), "read-translation"));
+      if (item.originalTitle) card.append(link(item.originalTitle, href(route, item), "catalog-original"));
+      const details = metadata(item, kind === "book" ? (item.chapters || []).length : undefined);
+      if (item.authorZh) details.firstElementChild.textContent = `${item.authorZh} / ${item.author}`;
+      const count = window.TRANSLATION_COUNTS?.[item.id];
+      if (Number.isInteger(count)) {
+        const label = el("span", `中文 ${count.toLocaleString("en-US")} 字`);
+        label.title = "已上线中文正文与原注的汉字数，含标题和图注，不含标点及外文。";
+        details.append(label);
+      }
+      card.append(details);
+      const tags = el("div", undefined, "catalog-item-tags");
+      for (const tag of item.tags || []) {
+        const button = el("button", tag, "catalog-tag"); button.type = "button";
+        button.setAttribute("aria-label", `筛选标签：${tag}`);
+        button.addEventListener("click", () => selectCatalogTag(tag));
+        tags.append(button);
+      }
+      card.append(tags);
       section.append(card);
     }
     return section;
   }
+  let selectCatalogTag = () => {};
   if (page === "translations") {
-    target.append(section("Books", books, "book"), section("Articles", articles.filter(item => item.contentKind !== "reading-guide"), "article"));
-    const guides = articles.filter(item => item.contentKind === "reading-guide");
-    if (guides.length) target.append(section("中文导读 · Reading guides", guides, "guide"));
+    const all = [...books, ...articles];
+    const selected = new Set(params.getAll("tag"));
+    const controls = el("div", undefined, "catalog-controls");
+    const label = el("label", "搜索 / Search"); label.htmlFor = "catalog-search";
+    const search = el("input"); search.type = "search"; search.id = "catalog-search";
+    search.placeholder = "书名、原文名、作者、标签…"; search.value = params.get("q") || "";
+    const filters = el("div", undefined, "catalog-filters");
+    filters.setAttribute("role", "group"); filters.setAttribute("aria-label", "标签筛选（多选须同时匹配）");
+    const tagButtons = new Map();
+    for (const tag of [...new Set(all.flatMap(item => item.tags || []))].sort((a, b) => a.localeCompare(b, "zh"))) {
+      const button = el("button", tag, "catalog-tag"); button.type = "button";
+      button.addEventListener("click", () => { selected.has(tag) ? selected.delete(tag) : selected.add(tag); render(); });
+      tagButtons.set(tag, button); filters.append(button);
+    }
+    const clear = el("button", "清除筛选 / Clear", "catalog-clear"); clear.type = "button";
+    const status = el("p", undefined, "catalog-status"); status.setAttribute("role", "status");
+    const results = el("div");
+    controls.append(label, search, el("p", "可多选标签，结果须同时匹配；搜索可与标签组合。", "catalog-help"), filters, clear, status);
+    target.append(controls, results);
+    const normalize = value => value.normalize("NFKD").replace(/\p{M}/gu, "").toLocaleLowerCase();
+    function render() {
+      const words = normalize(search.value.trim()).split(/\s+/).filter(Boolean);
+      const matches = item => {
+        const text = normalize([item.title, item.originalTitle, item.author, item.authorZh, item.languagePair, ...(item.tags || [])].filter(Boolean).join(" "));
+        return words.every(word => text.includes(word)) && [...selected].every(tag => item.tags?.includes(tag));
+      };
+      const filteredBooks = books.filter(matches), filteredArticles = articles.filter(matches);
+      results.replaceChildren();
+      if (filteredBooks.length) results.append(section("Books / 书籍", filteredBooks, "book"));
+      const regular = filteredArticles.filter(item => item.contentKind !== "reading-guide");
+      const guides = filteredArticles.filter(item => item.contentKind === "reading-guide");
+      if (regular.length) results.append(section("Articles / 文章", regular, "article"));
+      if (guides.length) results.append(section("中文导读 · Reading guides", guides, "guide"));
+      const count = filteredBooks.length + filteredArticles.length;
+      status.textContent = `${count} / ${all.length} 项`;
+      if (!count) results.append(el("p", "没有匹配结果。试试其他关键词或清除筛选。", "empty-note"));
+      tagButtons.forEach((button, tag) => button.setAttribute("aria-pressed", String(selected.has(tag))));
+      clear.disabled = !search.value && !selected.size;
+      const url = new URL(location.href); url.searchParams.delete("q"); url.searchParams.delete("tag");
+      if (search.value.trim()) url.searchParams.set("q", search.value.trim());
+      selected.forEach(tag => url.searchParams.append("tag", tag));
+      history.replaceState(null, "", url);
+    }
+    selectCatalogTag = tag => { selected.add(tag); render(); search.focus(); controls.scrollIntoView({ block: "start" }); };
+    search.addEventListener("input", render);
+    clear.addEventListener("click", () => { search.value = ""; selected.clear(); render(); search.focus(); });
+    render();
     return;
   }
   const isBook = page === "translation-book";
