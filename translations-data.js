@@ -4926,152 +4926,203 @@ window.TRANSLATIONS = {
       "author": "Uğur Tanyeli",
       "translator": "Xiaoyang Hao (AI-assisted working translation)",
       "language": "zh-CN",
-      "languagePair": "Türkçe → 中文",
+      "languagePair": "Türkçe / 中文",
       "structured": true,
-      "bilingual": false,
+      "bilingual": true,
       "views": [
-        "zh"
+        "zh",
+        "en",
+        "parallel"
       ],
       "example": false,
-      "description": "建筑理论、现代性与无政府主义。全书中文校订译稿，含原注、插图及原书页码定位。",
-      "editionNotice": "据2017年土耳其语底本校订；页码指原书页码。原注随正文显示，新增说明标为校注。",
+      "description": "建筑理论、现代性与无政府主义。中文校订稿、土耳其语原书页影及按原书页码配对的中土对照，含原注与插图。",
+      "editionNotice": "中文据2017年土耳其语底本校订。中土对照按底本页码配对，保留中文段落链接；土耳其语以原书页影为准，页影含原注及插图。折叠的OCR文字仅供检索，识别有误时请核对页影。书前、封底无印刷页码处标底本页序。",
       "downloads": [
         {
+          "label": "中土对照PDF",
+          "url": "translations/books/yikarak-yapmak/yikarak_yapmak_bilingual.pdf?v=81e7f4a3eb89",
+          "bytes": 19221323,
+          "sha256": "81e7f4a3eb89e9a31d834a98adbb2d10c6d9221e0900438f0f172d3a9ddd265a"
+        },
+        {
+          "label": "土耳其语原书PDF",
+          "url": "translations/books/yikarak-yapmak/yikarak_yapmak_tr.pdf?v=1bba1e379f7a",
+          "bytes": 16300873,
+          "sha256": "1bba1e379f7a8434be35d240a780a74ab14d07543e67bd481ee913452a67d1b5"
+        },
+        {
           "label": "中文PDF",
-          "url": "translations/books/yikarak-yapmak/yikarak_yapmak_zh.pdf"
+          "url": "translations/books/yikarak-yapmak/yikarak_yapmak_zh.pdf?v=e9a40304eaf7",
+          "bytes": 43386852,
+          "sha256": "e9a40304eaf7026bc1c32b7bc2b3856a3aae8e99429bf8e8455ce4e15e2cbe6d"
+        },
+        {
+          "label": "中文Markdown",
+          "url": "translations/books/yikarak-yapmak/yikarak_yapmak_zh.md?v=9f5f38a61a02",
+          "bytes": 675414,
+          "sha256": "9f5f38a61a026185f85100329bd917c3eff0d262884f78128fdb250a397ca280"
         },
         {
           "label": "规范稿与源码包",
-          "url": "translations/books/yikarak-yapmak/yikarak_yapmak_source.zip"
+          "url": "translations/books/yikarak-yapmak/yikarak_yapmak_source.zip?v=188109af7d9a",
+          "bytes": 75674058,
+          "sha256": "188109af7d9a0c7257b66804bfb94270cff7c0aee6a1e0a762d129848835aaaa"
         }
       ],
       "chapters": [
         {
           "id": "00_front",
           "title": "破而后立：为一种无政府主义建筑理论作预备",
-          "dataUrl": "translations/books/yikarak-yapmak/00_front.json"
+          "dataUrl": "translations/books/yikarak-yapmak/00_front.json?v=b905acbe8dcf",
+          "originalTitle": "Ön sayfalar"
         },
         {
           "id": "01_preface",
           "title": "代序：为何是无政府主义的、破坏性的？",
-          "dataUrl": "translations/books/yikarak-yapmak/01_preface.json"
+          "dataUrl": "translations/books/yikarak-yapmak/01_preface.json?v=2184ceaeedd6",
+          "originalTitle": "Önsöz Yerine: Neden Anarşist ve Yıkıcı?"
         },
         {
           "id": "02_introduction",
           "title": "I　代导论：极权主义作为建筑思想的潜文本",
-          "dataUrl": "translations/books/yikarak-yapmak/02_introduction.json"
+          "dataUrl": "translations/books/yikarak-yapmak/02_introduction.json?v=07c507f4be23",
+          "originalTitle": "Giriş Yerine: Mimarlık Düşüncesinin Altmetni Olarak Totalitarizm"
         },
         {
           "id": "03_ch01",
           "title": "II　作为一项新发明的建筑",
-          "dataUrl": "translations/books/yikarak-yapmak/03_ch01.json"
+          "dataUrl": "translations/books/yikarak-yapmak/03_ch01.json?v=f5a9bca1c7f9",
+          "originalTitle": "Yeni Bir İcat Olarak Mimarlık"
         },
         {
           "id": "04_ch02",
           "title": "III　重新定义职业：大都市化世界中建筑师的角色",
-          "dataUrl": "translations/books/yikarak-yapmak/04_ch02.json"
+          "dataUrl": "translations/books/yikarak-yapmak/04_ch02.json?v=2820ad0a82ee",
+          "originalTitle": "Mesleği Yeniden Tarif Etmek: Metropolleşen Dünyada Mimarın Rolleri"
         },
         {
           "id": "04a_part01",
           "title": "第一部分　奠基神话",
-          "dataUrl": "translations/books/yikarak-yapmak/04a_part01.json"
+          "dataUrl": "translations/books/yikarak-yapmak/04a_part01.json?v=1d043b35a451",
+          "originalTitle": "Kurucu Efsaneler"
         },
         {
           "id": "05_ch03",
           "title": "IV　建筑的本质、原理与主要构成要素",
-          "dataUrl": "translations/books/yikarak-yapmak/05_ch03.json"
+          "dataUrl": "translations/books/yikarak-yapmak/05_ch03.json?v=05174ed83d59",
+          "originalTitle": "Mimarlığın Özü, Esasları, Ana Bileşenleri"
         },
         {
           "id": "06_ch05",
           "title": "V　现代性与现代主义思想",
-          "dataUrl": "translations/books/yikarak-yapmak/06_ch05.json"
+          "dataUrl": "translations/books/yikarak-yapmak/06_ch05.json?v=957b80d5dbb6",
+          "originalTitle": "Modernlik ve Modernist Düşünce"
         },
         {
           "id": "07_ch06",
           "title": "VI　功能—形式范式",
-          "dataUrl": "translations/books/yikarak-yapmak/07_ch06.json"
+          "dataUrl": "translations/books/yikarak-yapmak/07_ch06.json?v=f358a1fe7cba",
+          "originalTitle": "İşlev-Biçim Paradigması"
         },
         {
           "id": "08_ch07",
           "title": "VII　建筑的物质性",
-          "dataUrl": "translations/books/yikarak-yapmak/08_ch07.json"
+          "dataUrl": "translations/books/yikarak-yapmak/08_ch07.json?v=8d7afc2b5778",
+          "originalTitle": "Mimarlığın Maddeselliği"
         },
         {
           "id": "09_ch08",
           "title": "VIII　新颖性、发明、创造力及其他建筑奇迹",
-          "dataUrl": "translations/books/yikarak-yapmak/09_ch08.json"
+          "dataUrl": "translations/books/yikarak-yapmak/09_ch08.json?v=43c837e3c8af",
+          "originalTitle": "Yenilik, İcat, Yaratıcılık ve Diğer Mimarlık Mucizeleri"
         },
         {
           "id": "09a_part02",
           "title": "第二部分　建筑的枷锁",
-          "dataUrl": "translations/books/yikarak-yapmak/09a_part02.json"
+          "dataUrl": "translations/books/yikarak-yapmak/09a_part02.json?v=9bda30ce2fc2",
+          "originalTitle": "Mimarlık Kelepçeleri"
         },
         {
           "id": "10_ch09",
           "title": "IX　模仿",
-          "dataUrl": "translations/books/yikarak-yapmak/10_ch09.json"
+          "dataUrl": "translations/books/yikarak-yapmak/10_ch09.json?v=d8c3afeeea07",
+          "originalTitle": "Taklit"
         },
         {
           "id": "11_ch10",
           "title": "X　无法遗忘的东方主义",
-          "dataUrl": "translations/books/yikarak-yapmak/11_ch10.json"
+          "dataUrl": "translations/books/yikarak-yapmak/11_ch10.json?v=63d3b4f690f8",
+          "originalTitle": "Unutulamayan Oryantalizm"
         },
         {
           "id": "12_ch11",
           "title": "XI　作为影子拳击的西方主义",
-          "dataUrl": "translations/books/yikarak-yapmak/12_ch11.json"
+          "dataUrl": "translations/books/yikarak-yapmak/12_ch11.json?v=b4f9d8a47a6a",
+          "originalTitle": "Gölge Boksu Olarak Oksidentalizm"
         },
         {
           "id": "13_ch12",
           "title": "XII　地方",
-          "dataUrl": "translations/books/yikarak-yapmak/13_ch12.json"
+          "dataUrl": "translations/books/yikarak-yapmak/13_ch12.json?v=86d74af47a73",
+          "originalTitle": "Yer"
         },
         {
           "id": "14_ch13",
           "title": "XIII　神圣性的幻象",
-          "dataUrl": "translations/books/yikarak-yapmak/14_ch13.json"
+          "dataUrl": "translations/books/yikarak-yapmak/14_ch13.json?v=67f98a94475d",
+          "originalTitle": "Kutsallık İllüzyonları"
         },
         {
           "id": "14a_part03",
           "title": "第三部分　可能性",
-          "dataUrl": "translations/books/yikarak-yapmak/14a_part03.json"
+          "dataUrl": "translations/books/yikarak-yapmak/14a_part03.json?v=ed586571c509",
+          "originalTitle": "İmkanlar"
         },
         {
           "id": "15_ch14",
           "title": "XIV　公共性与混沌",
-          "dataUrl": "translations/books/yikarak-yapmak/15_ch14.json"
+          "dataUrl": "translations/books/yikarak-yapmak/15_ch14.json?v=908afc82da7c",
+          "originalTitle": "Kamusallık ve Kaos"
         },
         {
           "id": "16_ch15",
           "title": "XV　设计过程，而非形式",
-          "dataUrl": "translations/books/yikarak-yapmak/16_ch15.json"
+          "dataUrl": "translations/books/yikarak-yapmak/16_ch15.json?v=298cefc82fd7",
+          "originalTitle": "Biçimi Değil Süreci Tasarlamak"
         },
         {
           "id": "17_ch16",
           "title": "XVI　谈论住宅",
-          "dataUrl": "translations/books/yikarak-yapmak/17_ch16.json"
+          "dataUrl": "translations/books/yikarak-yapmak/17_ch16.json?v=651fbd5879e3",
+          "originalTitle": "Konuttan Konuşmak"
         },
         {
           "id": "18_ch17",
           "title": "XVII　矛盾与失所",
-          "dataUrl": "translations/books/yikarak-yapmak/18_ch17.json"
+          "dataUrl": "translations/books/yikarak-yapmak/18_ch17.json?v=ce45585bde7a",
+          "originalTitle": "Çelişme ve Yerinden Olmuşluk"
         },
         {
           "id": "19_conclusion",
           "title": "代结论　自由、建筑与破而后立",
-          "dataUrl": "translations/books/yikarak-yapmak/19_conclusion.json"
+          "dataUrl": "translations/books/yikarak-yapmak/19_conclusion.json?v=7e9a2d2454dd",
+          "originalTitle": "Sonuç Yerine: Özgürlük ve Mimarlık ve Yıkarak Yapmak"
         },
         {
           "id": "20_image_credits",
           "title": "图片来源",
-          "dataUrl": "translations/books/yikarak-yapmak/20_image_credits.json"
+          "dataUrl": "translations/books/yikarak-yapmak/20_image_credits.json?v=d78aed8ceb30",
+          "originalTitle": "Görseller"
         },
         {
           "id": "21_back_cover",
           "title": "封底",
-          "dataUrl": "translations/books/yikarak-yapmak/21_back_cover.json"
+          "dataUrl": "translations/books/yikarak-yapmak/21_back_cover.json?v=326594e575fa",
+          "originalTitle": "Arka kapak"
         }
-      ]
+      ],
+      "sourceLanguage": "tr",
+      "sourceLanguageLabel": "Türkçe"
     },
     {
       "id": "thinking-art",

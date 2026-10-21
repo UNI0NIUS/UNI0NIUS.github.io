@@ -46,6 +46,14 @@
 .reader-zh strong,.reader-zh b{font-weight:600}
 .reader-zh h2,.reader-zh h3{font-family:inherit;font-weight:600}
 .reader-en{font-family:var(--serif)}
+.source-facsimile{margin:0 0 16px}
+.source-facsimile img{display:block;width:100%;height:auto;border:1px solid var(--line)}
+.source-facsimile figcaption{font:12px/1.6 var(--sans);color:var(--muted);margin-top:6px}
+.source-ocr{font:13px/1.7 var(--sans);overflow-wrap:anywhere;margin:10px 0 24px}
+.source-ocr summary{cursor:pointer;color:var(--muted)}
+.reader-segment{scroll-margin-top:110px;margin-bottom:18px}
+.reader-segment:target{outline:1px solid var(--line);outline-offset:4px}
+.inline-source-page{font:10px/1.4 var(--sans);color:var(--muted);margin-inline:5px;white-space:nowrap;scroll-margin-top:110px}
 .parallel-body .reader-cell>h2{margin-top:0}
 .parallel-body .reader-cell>blockquote{margin-top:0;font-style:normal}
 .parallel-body .reader-cell p{white-space:normal}
