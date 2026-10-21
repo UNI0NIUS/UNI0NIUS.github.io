@@ -5323,6 +5323,587 @@ window.TRANSLATIONS = {
           "originalTitle": "Part IV · Social Ecologies, Intimations of Catastrophe"
         }
       ]
+    },
+    {
+      "id": "friction",
+      "title": "摩擦：全球联结的民族志",
+      "originalTitle": "Friction: An Ethnography of Global Connection",
+      "author": "Anna Lowenhaupt Tsing",
+      "translator": "Xiaoyang Hao (AI-assisted translation and review)",
+      "language": "zh-CN",
+      "languagePair": "English / 中文",
+      "structured": true,
+      "bilingual": true,
+      "views": [
+        "zh",
+        "en",
+        "parallel"
+      ],
+      "example": false,
+      "description": "全球联结的民族志：中文校订稿与英汉对照，含原注、独立校注及参考文献。",
+      "editionNotice": "本版为中文校订阅读稿及英汉对照稿，非出版社授权版本声明。原注与编者校注分开编号。英文为扫描底本整理文本；已修复的OCR保留修订证据，不视作原版逐字影印。 原著版权 © 2005 Princeton University Press，保留所有权利。",
+      "parts": [
+        {
+          "id": "part1",
+          "title": "第一部　繁荣",
+          "originalTitle": "Prosperity"
+        },
+        {
+          "id": "part2",
+          "title": "第二部　知识",
+          "originalTitle": "Knowledge"
+        },
+        {
+          "id": "part3",
+          "title": "第三部　自由",
+          "originalTitle": "Freedom"
+        }
+      ],
+      "chapters": [
+        {
+          "id": "front",
+          "title": "版本与范围说明",
+          "originalTitle": "Edition and scope",
+          "dataUrl": "translations/books/friction/front.json?v=3a393f8af359"
+        },
+        {
+          "id": "preface",
+          "title": "前言",
+          "originalTitle": "Preface",
+          "dataUrl": "translations/books/friction/preface.json?v=f239ac2b8dde",
+          "outline": []
+        },
+        {
+          "id": "introduction",
+          "title": "导论",
+          "originalTitle": "Introduction",
+          "dataUrl": "translations/books/friction/introduction.json?v=8dcbc2f5fc7d",
+          "outline": [
+            {
+              "anchor": "introduction-0020",
+              "title": "介入普遍性",
+              "originalTitle": "Engaging the Universal",
+              "level": 1
+            },
+            {
+              "anchor": "introduction-0034",
+              "title": "超越全球化",
+              "originalTitle": "Beyond Globalization",
+              "level": 1
+            },
+            {
+              "anchor": "introduction-0050",
+              "title": "它本不必如此发生",
+              "originalTitle": "It Didn’t Have to Happen That Way",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "id": "part1",
+          "title": "第一部　繁荣 · 扉页",
+          "originalTitle": "Prosperity",
+          "dataUrl": "translations/books/friction/part1.json?v=a2a2d4833065",
+          "partId": "part1"
+        },
+        {
+          "id": "interlude_better",
+          "title": "间奏：不如给我一颗炸弹，让我把这地方炸掉",
+          "originalTitle": "“Better you had brought me a bomb, so I could blow this place up”",
+          "dataUrl": "translations/books/friction/interlude_better.json?v=5576dbff4608",
+          "partId": "part1",
+          "outline": []
+        },
+        {
+          "id": "ch01",
+          "title": "第一章 资本主义的边疆",
+          "originalTitle": "Frontiers of Capitalism",
+          "dataUrl": "translations/books/friction/ch01.json?v=54e324ede4c9",
+          "partId": "part1",
+          "outline": [
+            {
+              "anchor": "ch01-0010",
+              "title": "一、如何制造资源以便毁灭它们（然后再拯救它们？）——论抢救式边疆",
+              "originalTitle": "I. How to Make Resources in Order to Destroy Them (and Then Save Them?) On the Salvage Frontier",
+              "level": 1
+            },
+            {
+              "anchor": "ch01-0014",
+              "title": "一条废弃的伐木路一定是……",
+              "originalTitle": "An Abandoned Logging Road Has Got to Be...",
+              "level": 2
+            },
+            {
+              "anchor": "ch01-0025",
+              "title": "合法与非法",
+              "originalTitle": "Legal, Illegal",
+              "level": 2
+            },
+            {
+              "anchor": "ch01-0034",
+              "title": "公共与私人",
+              "originalTitle": "The Public Private",
+              "level": 2
+            },
+            {
+              "anchor": "ch01-0040",
+              "title": "让领土空无的道路",
+              "originalTitle": "Roads That Empty the Territory",
+              "level": 2
+            },
+            {
+              "anchor": "ch01-0050",
+              "title": "二、危机——以及感官的混乱",
+              "originalTitle": "II. Crisis—and the Confusion of the Senses",
+              "level": 1
+            },
+            {
+              "anchor": "ch01-0059",
+              "title": "烟",
+              "originalTitle": "Smoke",
+              "level": 2
+            },
+            {
+              "anchor": "ch01-0066",
+              "title": "毒药",
+              "originalTitle": "Poison",
+              "level": 2
+            },
+            {
+              "anchor": "ch01-0077",
+              "title": "强占",
+              "originalTitle": "Seizures",
+              "level": 2
+            },
+            {
+              "anchor": "ch01-0082",
+              "title": "罪",
+              "originalTitle": "Sin",
+              "level": 2
+            },
+            {
+              "anchor": "ch01-0088",
+              "title": "体味",
+              "originalTitle": "Body Odor",
+              "level": 2
+            },
+            {
+              "anchor": "ch01-0096",
+              "title": "还活着，但被敌人俘虏",
+              "originalTitle": "Still Alive, But Captured by the Enemy",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "interlude_sign",
+          "title": "间奏：他们只用肢体语言交流",
+          "originalTitle": "“They communicate only in sign language”",
+          "dataUrl": "translations/books/friction/interlude_sign.json?v=24d79dbc5e13",
+          "partId": "part1",
+          "outline": []
+        },
+        {
+          "id": "ch02",
+          "title": "第二章 表象经济",
+          "originalTitle": "The Economy of Appearances",
+          "dataUrl": "translations/books/friction/ch02.json?v=52c89be44291",
+          "partId": "part1",
+          "outline": [
+            {
+              "anchor": "ch02-0015",
+              "title": "“是的，我们还在做生意”",
+              "originalTitle": "“Yes, We Are Still in Business”",
+              "level": 1
+            },
+            {
+              "anchor": "ch02-0022",
+              "title": "召唤",
+              "originalTitle": "Conjuring",
+              "level": 1
+            },
+            {
+              "anchor": "ch02-0030",
+              "title": "边疆",
+              "originalTitle": "Frontiers",
+              "level": 1
+            },
+            {
+              "anchor": "ch02-0047",
+              "title": "CoW",
+              "originalTitle": "CoWs",
+              "level": 1
+            },
+            {
+              "anchor": "ch02-0060",
+              "title": "论奇观式积累",
+              "originalTitle": "On Spectacular Accumulation",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "id": "part2",
+          "title": "第二部　知识 · 扉页",
+          "originalTitle": "Knowledge",
+          "dataUrl": "translations/books/friction/part2.json?v=8a9a24adbdb2",
+          "partId": "part2"
+        },
+        {
+          "id": "interlude_asia",
+          "title": "间奏：让新的亚洲和新的非洲诞生",
+          "originalTitle": "“Let a new Asia and a new Africa be born”",
+          "dataUrl": "translations/books/friction/interlude_asia.json?v=46764b8c5fcb",
+          "partId": "part2",
+          "outline": []
+        },
+        {
+          "id": "ch03",
+          "title": "第三章 自然普遍性与全球尺度",
+          "originalTitle": "Natural Universals and the Global Scale",
+          "dataUrl": "translations/books/friction/ch03.json?v=17f47157c388",
+          "partId": "part2",
+          "outline": [
+            {
+              "anchor": "ch03-0011",
+              "title": "为上帝的造物命名",
+              "originalTitle": "Naming God's Creations",
+              "level": 1
+            },
+            {
+              "anchor": "ch03-0035",
+              "title": "自然被定位——在一种全球凝视中",
+              "originalTitle": "Nature Located—in a Global Gaze",
+              "level": 1
+            },
+            {
+              "anchor": "ch03-0057",
+              "title": "全球气候是一个模型",
+              "originalTitle": "Global Climate is a Model",
+              "level": 1
+            },
+            {
+              "anchor": "ch03-0081",
+              "title": "一种普遍性体制？",
+              "originalTitle": "A Universal Regime?",
+              "level": 1
+            },
+            {
+              "anchor": "ch03-0101",
+              "title": "自然与地球",
+              "originalTitle": "Nature and the Globe",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "id": "interlude_dark",
+          "title": "间奏：暗射线",
+          "originalTitle": "“Dark rays”",
+          "dataUrl": "translations/books/friction/interlude_dark.json?v=dcfaef0199e4",
+          "partId": "part2",
+          "outline": []
+        },
+        {
+          "id": "ch04",
+          "title": "第四章 自然之爱",
+          "originalTitle": "Nature Loving",
+          "dataUrl": "translations/books/friction/ch04.json?v=32981eb41f99",
+          "partId": "part2",
+          "outline": [
+            {
+              "anchor": "ch04-0014",
+              "title": "在默拉皮山上",
+              "originalTitle": "On Mt. Merapi",
+              "level": 1
+            },
+            {
+              "anchor": "ch04-0027",
+              "title": "青年的能动性",
+              "originalTitle": "The Agency of the Young",
+              "level": 1
+            },
+            {
+              "anchor": "ch04-0041",
+              "title": "国家反政治",
+              "originalTitle": "National Anti-Politics",
+              "level": 1
+            },
+            {
+              "anchor": "ch04-0055",
+              "title": "城市区分",
+              "originalTitle": "Urban Distinctions",
+              "level": 1
+            },
+            {
+              "anchor": "ch04-0068",
+              "title": "冒险地理",
+              "originalTitle": "Adventure Geographies",
+              "level": 1
+            },
+            {
+              "anchor": "ch04-0090",
+              "title": "青年消费主义",
+              "originalTitle": "Youthful Consumerism",
+              "level": 1
+            },
+            {
+              "anchor": "ch04-0120",
+              "title": "自然的浪漫",
+              "originalTitle": "The Romance of Nature",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "id": "interlude_earth",
+          "title": "间奏：这大地，这婆罗洲岛",
+          "originalTitle": "“This earth, this island Borneo”",
+          "dataUrl": "translations/books/friction/interlude_earth.json?v=6c1b00e48032",
+          "partId": "part2",
+          "outline": []
+        },
+        {
+          "id": "ch05",
+          "title": "第五章 杂草性史",
+          "originalTitle": "A History of Weediness",
+          "dataUrl": "translations/books/friction/ch05.json?v=0aac5250b6e5",
+          "partId": "part2",
+          "outline": [
+            {
+              "anchor": "ch05-0005",
+              "title": "《叽……叽……咚……呱呱……》",
+              "originalTitle": "Cit..Cit..Door...Krekek...",
+              "level": 1
+            },
+            {
+              "anchor": "ch05-0017",
+              "title": "在栽培与野生之间的空白内部",
+              "originalTitle": "Inside the Gap between Cultivated and Wild",
+              "level": 1
+            },
+            {
+              "anchor": "ch05-0035",
+              "title": "在生计经济与市场经济之间的空白内部",
+              "originalTitle": "Inside the Gap between Subsistence and Market Economies",
+              "level": 1
+            },
+            {
+              "anchor": "ch05-0056",
+              "title": "在农田与森林之间的空白内部",
+              "originalTitle": "Inside the Gap between Farm and Forest",
+              "level": 1
+            },
+            {
+              "anchor": "ch05-0079",
+              "title": "在定居地与腹地之间的空白内部",
+              "originalTitle": "Inside the Gap between Settlements and Hinterlands",
+              "level": 1
+            },
+            {
+              "anchor": "ch05-0092",
+              "title": "地景与记忆",
+              "originalTitle": "Landscape and Memory",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "id": "part3",
+          "title": "第三部　自由 · 扉页",
+          "originalTitle": "Freedom",
+          "dataUrl": "translations/books/friction/part3.json?v=ad67364e75f8",
+          "partId": "part3"
+        },
+        {
+          "id": "interlude_hair",
+          "title": "间奏：面粉里的一根头发",
+          "originalTitle": "“A hair in the flour”",
+          "dataUrl": "translations/books/friction/interlude_hair.json?v=443ab87be230",
+          "partId": "part3",
+          "outline": []
+        },
+        {
+          "id": "ch06",
+          "title": "第六章 运动",
+          "originalTitle": "Movements",
+          "dataUrl": "translations/books/friction/ch06.json?v=2fcfd0257a76",
+          "partId": "part3",
+          "outline": [
+            {
+              "anchor": "ch06-0013",
+              "title": "梦想与规训如影随形之处",
+              "originalTitle": "Where Dreams Shadow Discipline",
+              "level": 1
+            },
+            {
+              "anchor": "ch06-0024",
+              "title": "以自由主义反制自由主义自身",
+              "originalTitle": "Using Liberalism Against Itself",
+              "level": 2
+            },
+            {
+              "anchor": "ch06-0031",
+              "title": "激起辩论",
+              "originalTitle": "Stirring Up Debate",
+              "level": 2
+            },
+            {
+              "anchor": "ch06-0043",
+              "title": "在翻译中重造民族国家",
+              "originalTitle": "Remaking the Nation in Translation",
+              "level": 2
+            },
+            {
+              "anchor": "ch06-0053",
+              "title": "变革",
+              "originalTitle": "The Change",
+              "level": 1
+            },
+            {
+              "anchor": "ch06-0056",
+              "title": "追踪旅行的故事",
+              "originalTitle": "Tracking Traveling Stories",
+              "level": 1
+            },
+            {
+              "anchor": "ch06-0068",
+              "title": "联盟的用处",
+              "originalTitle": "The Uses of Alliance",
+              "level": 2
+            },
+            {
+              "anchor": "ch06-0081",
+              "title": "中介境况",
+              "originalTitle": "Mediating Circumstances",
+              "level": 2
+            },
+            {
+              "anchor": "ch06-0086",
+              "title": "谈论性别",
+              "originalTitle": "Speaking of Gender",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "interlude_facilities",
+          "title": "间奏：便利条件与激励",
+          "originalTitle": "“Facilities and incentives”",
+          "dataUrl": "translations/books/friction/interlude_facilities.json?v=8b3e45884c1c",
+          "partId": "part3",
+          "outline": []
+        },
+        {
+          "id": "ch07",
+          "title": "第七章 协作之林",
+          "originalTitle": "The Forest of Collaborations",
+          "dataUrl": "translations/books/friction/ch07.json?v=dc9e3feabef9",
+          "partId": "part3",
+          "outline": [
+            {
+              "anchor": "ch07-0012",
+              "title": "芒古尔发生了什么",
+              "originalTitle": "What Happened in Manggur",
+              "level": 1
+            },
+            {
+              "anchor": "ch07-0020",
+              "title": "基层联盟与村庄的生产",
+              "originalTitle": "The Grassroots Alliance and the Production of the Village",
+              "level": 2
+            },
+            {
+              "anchor": "ch07-0032",
+              "title": "森林史一：在荒野边缘记录",
+              "originalTitle": "Forest History 1: Recording at the Edge of the Wild",
+              "level": 2
+            },
+            {
+              "anchor": "ch07-0040",
+              "title": "森林史二：管理人民的园圃",
+              "originalTitle": "Forest History 2: Managing the People’s Gardens",
+              "level": 2
+            },
+            {
+              "anchor": "ch07-0045",
+              "title": "森林史三：树木是社会网络",
+              "originalTitle": "Forest History 3: Trees Are Social Networks",
+              "level": 2
+            },
+            {
+              "anchor": "ch07-0071",
+              "title": "超越芒古尔",
+              "originalTitle": "Beyond Manggur",
+              "level": 1
+            },
+            {
+              "anchor": "ch07-0088",
+              "title": "重新介入理论",
+              "originalTitle": "Re-engaging Theory",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "id": "coda",
+          "title": "尾声",
+          "originalTitle": "Coda",
+          "dataUrl": "translations/books/friction/coda.json?v=f4f12169729e",
+          "outline": []
+        },
+        {
+          "id": "notes",
+          "title": "原注",
+          "originalTitle": "Notes",
+          "dataUrl": "translations/books/friction/notes.json?v=4853afd10ad6"
+        },
+        {
+          "id": "editorial-notes",
+          "title": "编者校注",
+          "originalTitle": "Editorial notes",
+          "dataUrl": "translations/books/friction/editorial-notes.json?v=e242f8de2ccd"
+        },
+        {
+          "id": "references",
+          "title": "参考文献",
+          "originalTitle": "References",
+          "dataUrl": "translations/books/friction/references.json?v=bd9623de7733",
+          "outline": []
+        }
+      ],
+      "downloads": [
+        {
+          "label": "中文PDF",
+          "url": "translations/books/friction/friction_zh.pdf?v=fb584ad13d04",
+          "bytes": 1780424,
+          "sha256": "fb584ad13d04104633912795cc63fb79dffc8423561e956b1fa5524776b248f6"
+        },
+        {
+          "label": "英汉对照PDF",
+          "url": "translations/books/friction/friction_bilingual.pdf?v=928eeddb0251",
+          "bytes": 2831616,
+          "sha256": "928eeddb02516b03a37c556c90823282a4a3a7b018161628cadbc38697b3195f"
+        },
+        {
+          "label": "中文Markdown",
+          "url": "translations/books/friction/friction_zh.md?v=dcffffcf8f03",
+          "bytes": 986161,
+          "sha256": "dcffffcf8f03ffac866afd7e391550538f1551de6089dbbd458bdc1a96703f4a"
+        },
+        {
+          "label": "双语Markdown",
+          "url": "translations/books/friction/friction_bilingual.md?v=b8338d960f14",
+          "bytes": 1993242,
+          "sha256": "b8338d960f141f6386bcd758034bdb6ee5aebda712de1663cad0fe499d536dc7"
+        },
+        {
+          "label": "规范稿与源码包",
+          "url": "translations/books/friction/friction_source.zip?v=1afa26f2a6d2",
+          "bytes": 2089305,
+          "sha256": "1afa26f2a6d2682e298353e3e6d3b6ec70b5fce98810cd77cdd2d06c53a1b2b4"
+        }
+      ]
     }
   ],
   "articles": [

@@ -210,6 +210,7 @@ window.renderParallelBook = (() => {
     return container;
   }
   function content(chapter, view) {
+    if (chapter.renderFormat === "friction-v1") return window.renderFrictionBook(chapter, view);
     if (chapter.sourceMode === "facsimile" && view !== "zh") return facsimileContent(chapter, view);
     const container = el("div", undefined, `post-body parallel-body view-${view}`);
     if (view === "parallel") {
