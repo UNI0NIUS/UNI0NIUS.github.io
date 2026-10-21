@@ -5364,20 +5364,20 @@ window.TRANSLATIONS = {
           "id": "front",
           "title": "版本与范围说明",
           "originalTitle": "Edition and scope",
-          "dataUrl": "translations/books/friction/front.json?v=3a393f8af359"
+          "dataUrl": "translations/books/friction/front.json?v=fefa36e197c8"
         },
         {
           "id": "preface",
           "title": "前言",
           "originalTitle": "Preface",
-          "dataUrl": "translations/books/friction/preface.json?v=f239ac2b8dde",
+          "dataUrl": "translations/books/friction/preface.json?v=0635cc04ee04",
           "outline": []
         },
         {
           "id": "introduction",
           "title": "导论",
           "originalTitle": "Introduction",
-          "dataUrl": "translations/books/friction/introduction.json?v=8dcbc2f5fc7d",
+          "dataUrl": "translations/books/friction/introduction.json?v=7abce3351f85",
           "outline": [
             {
               "anchor": "introduction-0020",
@@ -5403,14 +5403,14 @@ window.TRANSLATIONS = {
           "id": "part1",
           "title": "第一部　繁荣 · 扉页",
           "originalTitle": "Prosperity",
-          "dataUrl": "translations/books/friction/part1.json?v=a2a2d4833065",
+          "dataUrl": "translations/books/friction/part1.json?v=8cfa7753bd5f",
           "partId": "part1"
         },
         {
           "id": "interlude_better",
           "title": "间奏：不如给我一颗炸弹，让我把这地方炸掉",
           "originalTitle": "“Better you had brought me a bomb, so I could blow this place up”",
-          "dataUrl": "translations/books/friction/interlude_better.json?v=5576dbff4608",
+          "dataUrl": "translations/books/friction/interlude_better.json?v=f72b8ea8f797",
           "partId": "part1",
           "outline": []
         },
@@ -5418,7 +5418,7 @@ window.TRANSLATIONS = {
           "id": "ch01",
           "title": "第一章 资本主义的边疆",
           "originalTitle": "Frontiers of Capitalism",
-          "dataUrl": "translations/books/friction/ch01.json?v=54e324ede4c9",
+          "dataUrl": "translations/books/friction/ch01.json?v=ae5b7b91d892",
           "partId": "part1",
           "outline": [
             {
@@ -5499,7 +5499,7 @@ window.TRANSLATIONS = {
           "id": "interlude_sign",
           "title": "间奏：他们只用肢体语言交流",
           "originalTitle": "“They communicate only in sign language”",
-          "dataUrl": "translations/books/friction/interlude_sign.json?v=24d79dbc5e13",
+          "dataUrl": "translations/books/friction/interlude_sign.json?v=82c653de56cc",
           "partId": "part1",
           "outline": []
         },
@@ -5507,7 +5507,7 @@ window.TRANSLATIONS = {
           "id": "ch02",
           "title": "第二章 表象经济",
           "originalTitle": "The Economy of Appearances",
-          "dataUrl": "translations/books/friction/ch02.json?v=52c89be44291",
+          "dataUrl": "translations/books/friction/ch02.json?v=a37a2aa216ab",
           "partId": "part1",
           "outline": [
             {
@@ -5546,14 +5546,14 @@ window.TRANSLATIONS = {
           "id": "part2",
           "title": "第二部　知识 · 扉页",
           "originalTitle": "Knowledge",
-          "dataUrl": "translations/books/friction/part2.json?v=8a9a24adbdb2",
+          "dataUrl": "translations/books/friction/part2.json?v=ae16d1f37f74",
           "partId": "part2"
         },
         {
           "id": "interlude_asia",
           "title": "间奏：让新的亚洲和新的非洲诞生",
           "originalTitle": "“Let a new Asia and a new Africa be born”",
-          "dataUrl": "translations/books/friction/interlude_asia.json?v=46764b8c5fcb",
+          "dataUrl": "translations/books/friction/interlude_asia.json?v=0ecccc8e069e",
           "partId": "part2",
           "outline": []
         },
@@ -5561,7 +5561,7 @@ window.TRANSLATIONS = {
           "id": "ch03",
           "title": "第三章 自然普遍性与全球尺度",
           "originalTitle": "Natural Universals and the Global Scale",
-          "dataUrl": "translations/books/friction/ch03.json?v=17f47157c388",
+          "dataUrl": "translations/books/friction/ch03.json?v=0997666713ac",
           "partId": "part2",
           "outline": [
             {
@@ -5600,7 +5600,7 @@ window.TRANSLATIONS = {
           "id": "interlude_dark",
           "title": "间奏：暗射线",
           "originalTitle": "“Dark rays”",
-          "dataUrl": "translations/books/friction/interlude_dark.json?v=dcfaef0199e4",
+          "dataUrl": "translations/books/friction/interlude_dark.json?v=5af40f4ae316",
           "partId": "part2",
           "outline": []
         },
@@ -5608,7 +5608,7 @@ window.TRANSLATIONS = {
           "id": "ch04",
           "title": "第四章 自然之爱",
           "originalTitle": "Nature Loving",
-          "dataUrl": "translations/books/friction/ch04.json?v=32981eb41f99",
+          "dataUrl": "translations/books/friction/ch04.json?v=37524de81de3",
           "partId": "part2",
           "outline": [
             {
@@ -5659,7 +5659,7 @@ window.TRANSLATIONS = {
           "id": "interlude_earth",
           "title": "间奏：这大地，这婆罗洲岛",
           "originalTitle": "“This earth, this island Borneo”",
-          "dataUrl": "translations/books/friction/interlude_earth.json?v=6c1b00e48032",
+          "dataUrl": "translations/books/friction/interlude_earth.json?v=fb1edb4cc4bf",
           "partId": "part2",
           "outline": []
         },
@@ -5667,7 +5667,7 @@ window.TRANSLATIONS = {
           "id": "ch05",
           "title": "第五章 杂草性史",
           "originalTitle": "A History of Weediness",
-          "dataUrl": "translations/books/friction/ch05.json?v=0aac5250b6e5",
+          "dataUrl": "translations/books/friction/ch05.json?v=b806c1a7d549",
           "partId": "part2",
           "outline": [
             {
@@ -5712,14 +5712,14 @@ window.TRANSLATIONS = {
           "id": "part3",
           "title": "第三部　自由 · 扉页",
           "originalTitle": "Freedom",
-          "dataUrl": "translations/books/friction/part3.json?v=ad67364e75f8",
+          "dataUrl": "translations/books/friction/part3.json?v=c49dfd21983b",
           "partId": "part3"
         },
         {
           "id": "interlude_hair",
           "title": "间奏：面粉里的一根头发",
           "originalTitle": "“A hair in the flour”",
-          "dataUrl": "translations/books/friction/interlude_hair.json?v=443ab87be230",
+          "dataUrl": "translations/books/friction/interlude_hair.json?v=aa1b6bca516e",
           "partId": "part3",
           "outline": []
         },
@@ -5727,7 +5727,7 @@ window.TRANSLATIONS = {
           "id": "ch06",
           "title": "第六章 运动",
           "originalTitle": "Movements",
-          "dataUrl": "translations/books/friction/ch06.json?v=2fcfd0257a76",
+          "dataUrl": "translations/books/friction/ch06.json?v=3fbd45c3f754",
           "partId": "part3",
           "outline": [
             {
@@ -5790,7 +5790,7 @@ window.TRANSLATIONS = {
           "id": "interlude_facilities",
           "title": "间奏：便利条件与激励",
           "originalTitle": "“Facilities and incentives”",
-          "dataUrl": "translations/books/friction/interlude_facilities.json?v=8b3e45884c1c",
+          "dataUrl": "translations/books/friction/interlude_facilities.json?v=c13e841d365a",
           "partId": "part3",
           "outline": []
         },
@@ -5798,7 +5798,7 @@ window.TRANSLATIONS = {
           "id": "ch07",
           "title": "第七章 协作之林",
           "originalTitle": "The Forest of Collaborations",
-          "dataUrl": "translations/books/friction/ch07.json?v=dc9e3feabef9",
+          "dataUrl": "translations/books/friction/ch07.json?v=67031f3f8e76",
           "partId": "part3",
           "outline": [
             {
@@ -5849,26 +5849,26 @@ window.TRANSLATIONS = {
           "id": "coda",
           "title": "尾声",
           "originalTitle": "Coda",
-          "dataUrl": "translations/books/friction/coda.json?v=f4f12169729e",
+          "dataUrl": "translations/books/friction/coda.json?v=dad3107112c9",
           "outline": []
         },
         {
           "id": "notes",
           "title": "原注",
           "originalTitle": "Notes",
-          "dataUrl": "translations/books/friction/notes.json?v=4853afd10ad6"
+          "dataUrl": "translations/books/friction/notes.json?v=fb7db0cdaaf7"
         },
         {
           "id": "editorial-notes",
           "title": "编者校注",
           "originalTitle": "Editorial notes",
-          "dataUrl": "translations/books/friction/editorial-notes.json?v=e242f8de2ccd"
+          "dataUrl": "translations/books/friction/editorial-notes.json?v=beb55335fbcf"
         },
         {
           "id": "references",
           "title": "参考文献",
           "originalTitle": "References",
-          "dataUrl": "translations/books/friction/references.json?v=bd9623de7733",
+          "dataUrl": "translations/books/friction/references.json?v=11d022f299a1",
           "outline": []
         }
       ],
@@ -5899,7 +5899,7 @@ window.TRANSLATIONS = {
         },
         {
           "label": "规范稿与源码包",
-          "url": "translations/books/friction/friction_source.zip?v=1afa26f2a6d2",
+          "url": "translations/books/friction/friction_source.zip?v=6f2f051ee55f",
           "bytes": 2089305,
           "sha256": "1afa26f2a6d2682e298353e3e6d3b6ec70b5fce98810cd77cdd2d06c53a1b2b4"
         }

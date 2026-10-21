@@ -29,4 +29,4 @@ Anna Lowenhaupt Tsing，《Friction: An Ethnography of Global Connection》，Pr
 
 输出写入Friction/output/reviewed。Markdown的图示位于相邻figures目录；独立HTML内嵌样式和图示。PDF编译至目录收敛，最多三遍；编译成功仍须查看实际页面。审计会更新相应JSON报告，不自动宣布发布完成。网站导出仅写入本地site子目录，不自行推送。
 
-网站适配文件friction-reader.js/css使用受限DOM数据树，沿用个人主页的目录、语言切换及下载框架。未打包整个个人网站或其他书目。
+网站导出使用既有阅读器的body逐段en/zh与notes结构，复用目录、语言切换、并排布局和段下原注。诗节、嵌套引语和图示采用通用结构token；不另设本书专用阅读器。未打包整个个人网站或其他书目。

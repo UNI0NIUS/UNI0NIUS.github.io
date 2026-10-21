@@ -6,13 +6,30 @@ window.renderParallelBook = (() => {
       if (typeof token === "string") { parent.append(document.createTextNode(token)); continue; }
       if (token.type === "note") {
         const sup = el("sup", undefined, "note-ref");
-        const a = el("a", token.id.split("-").at(-1));
+        const a = el("a", token.label || token.id.split("-").at(-1));
         const anchor = anchors[token.id] || token.id;
         a.id = `ref-${language}-${anchor}`;
         a.href = `#note-${language}-${anchor}`;
         a.setAttribute("role", "doc-noteref");
         a.setAttribute("aria-label", `Footnote ${token.id}`);
         sup.append(a); parent.append(sup);
+      } else if (token.type === "anchor") {
+        const marker = el("span", undefined, "source-anchor"); marker.id = token.id; parent.append(marker);
+      } else if (token.type === "linebreak") {
+        parent.append(document.createElement("br"));
+      } else if (token.type === "image") {
+        const url = safeUrl(token.src);
+        if (url) {
+          const img = el("img", undefined, "source-image");
+          img.src = url; img.alt = token.alt || ""; img.loading = "lazy"; parent.append(img);
+        }
+      } else if (token.type === "block") {
+        const tags = {paragraph:"p", quote:"blockquote", interview:"blockquote", verse:"div", "verse-line":"div", attribution:"div", subtitle:"div", definition:"div", vignette:"div", sidebar:"aside", "list-entry":"p", "section-break":"div", notice:"aside", "quote-date":"div", "figure-key":"div", "figure-boxes":"div", "figure-box":"div", figure:"figure", caption:"figcaption", list:"ul", item:"li"};
+        const tag = token.kind === "heading" ? `h${Math.min(4, Math.max(2, token.level || 2))}` : tags[token.kind];
+        if (!tag) continue;
+        const node = el(tag, undefined, `source-${token.kind}`);
+        for (const flag of ["stanza-start", "indented", "attribution", "verse-title"]) if (token[flag]) node.classList.add(`source-${flag}`);
+        inline(node, token.children, language, anchors); parent.append(node);
       } else if (["em", "strong", "sup", "sub"].includes(token.type)) {
         const node = el(token.type); inline(node, token.children, language, anchors); parent.append(node);
       } else if (token.type === "link") {
@@ -74,7 +91,7 @@ window.renderParallelBook = (() => {
       img.src = safeUrl(row.src); img.alt = row.en.join(""); img.loading = "lazy";
       figure.append(img); container.append(figure);
     } else {
-      const hasBlocks = (row[language] || []).some(t => t.type === "table" || t.type === "verse");
+      const hasBlocks = (row[language] || []).some(t => ["table", "verse", "block", "image"].includes(t.type));
       const node = el(hasBlocks ? "div" : tag); inline(node, row[language], language, anchors); container.append(node);
       if (language === "en" && row.sourceItalic) node.classList.add("source-italic");
     }
@@ -85,7 +102,7 @@ window.renderParallelBook = (() => {
       aside.id = `note-${language}-${anchors[id]}`;
       aside.setAttribute("role", "doc-footnote");
       const content = el("div", undefined, "footnote-content");
-      const mark = el("span", `${id.split("-").at(-1)}. `, "footnote-number");
+      const mark = el("span", `${note.number || id.split("-").at(-1)}. `, "footnote-number");
       content.append(mark); inline(content, note[language], language);
       if (language === "zh" && note.review) content.append(el("p", `校注：${note.review}`, "note-editorial"));
       const back = el("a", " ↩", "note-backlink");
@@ -210,7 +227,6 @@ window.renderParallelBook = (() => {
     return container;
   }
   function content(chapter, view) {
-    if (chapter.renderFormat === "friction-v1") return window.renderFrictionBook(chapter, view);
     if (chapter.sourceMode === "facsimile" && view !== "zh") return facsimileContent(chapter, view);
     const container = el("div", undefined, `post-body parallel-body view-${view}`);
     if (view === "parallel") {
@@ -223,11 +239,13 @@ window.renderParallelBook = (() => {
     for (const row of restoredRows(chapter)) {
       const wrapper = el("section", undefined, "parallel-row");
       wrapper.id = row.id;
+      if (row.spaced) wrapper.classList.add("source-spaced");
+      if (row.shared) wrapper.classList.add("shared-row");
       const pdfPage = row.pageKind === "pdf";
       const page = el("a", row.page ? (pdfPage ? row.page : `p. ${row.page}`) : "", "printed-page");
       page.href = `#${row.id}`; page.setAttribute("aria-label", pdfPage ? `Source ${row.page}` : `Printed edition page ${row.page || ""}`);
       wrapper.append(page);
-      for (const language of view === "parallel" ? ["zh", "en"] : [view]) wrapper.append(cell(row, language, chapter.notes || {}, chapter, seen));
+      for (const language of view === "parallel" ? (row.shared ? ["zh"] : ["zh", "en"]) : [view]) wrapper.append(cell(row, language, chapter.notes || {}, chapter, seen));
       container.append(wrapper);
     }
     return container;

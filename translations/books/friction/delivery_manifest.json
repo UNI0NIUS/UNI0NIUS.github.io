@@ -25,12 +25,12 @@
       "sha256": "37740f59fc581d6333531faa42991ba734911b8995dc2e8dde27f94281e66da3"
     },
     "friction_source.zip": {
-      "bytes": 2089305,
-      "sha256": "1afa26f2a6d2682e298353e3e6d3b6ec70b5fce98810cd77cdd2d06c53a1b2b4"
+      "bytes": 2090187,
+      "sha256": "6f2f051ee55f52bd24fd1b4fe1c871bc4490fc8bf4bb70a3032e6599d6c3e632"
     },
     "README.md": {
-      "bytes": 2913,
-      "sha256": "676251f3d222eeb662eda88e3bbfe1b3a5ac8771578ad854c0ba9df7272ed3e1"
+      "bytes": 3003,
+      "sha256": "617dbd977361c6a5d2c3a9d076423e1fa2a37e1a762cc91ef45624e67fb6330e"
     }
   },
   "source_members": {
@@ -38,9 +38,9 @@
     "work/review/audit_print.py": "2a1eb49b5052e2988b83efbcfe00d1dc54d80a671a9d776aba2ee01b0d9e3f7d",
     "work/review/audit_reading.py": "6511bc24dafc4ae6e7c086ba9eb8c9b3dd762ebdd50d06b72ab31a6630cd32cb",
     "work/review/audit_reading_structure.py": "d86a93a09b7ab7864d98ff3118a6779be63f3d15ff4fd8df7da76009e050dc28",
-    "work/review/audit_site.py": "43add4c8b9f0272485a8647fd242f4f5280eb65179533dfcedc7bb9d4eef8ab2",
+    "work/review/audit_site.py": "08935198ff60291a88dd907e3f41911e4f59b25284f744dcd5d80a173ecb76c7",
     "work/review/book_manifest.json": "ecf27db265e30a5bf67098b385f40b6f283bc5a711f1061bfd097fe97d6e3edb",
-    "work/review/build_markdown.py": "6bd5846ea0b55a0564f32e6dacb6135690380cf874ba3f6bbcf76d4956990a00",
+    "work/review/build_markdown.py": "1c697286dbcb04091d66ffc9e3fcc3a2652b5078073a64257ef3ccdb2add67f5",
     "work/review/build_print.py": "6465828a74f4793933c8140d2e0509892e1cc68952156893ebd5e4e94c50b2b7",
     "work/review/build_reading.py": "960348081a4564a0f11aa3ba0429a8e0c65ff8ed917e41f598b4ca7f3cfa73d7",
     "work/review/ch01_review_evidence.json": "ad13e72145887ada0469130d14cdd1ea76ffc21dbbb59324c030e11430e9f307",
@@ -71,9 +71,7 @@
     "work/review/compile_print.py": "5df25bd2d2ca82369d795b62ad0b8c0095973b94dcefb89a366dfe8963a80929",
     "work/review/early_structure_revisions.json": "0516b9568c72ec1f2106ba13c9ea83fb9f10f3723c530b1568560aa020195517",
     "work/review/editorial_notes.json": "6d34a901e3aff38192ce38e57fc6ba25f04c57ce4ae436b44ed8c23807fecd3a",
-    "work/review/export_site.py": "441968e30775f5bf724cf2c3bcfcd984e9825920f5ac2138fdc97039dd333c00",
-    "work/review/friction-reader.css": "2a97b936baf0f16429c8d920c87eda74173aca915eeb98dad8c2bb24e8210f44",
-    "work/review/friction-reader.js": "cf2a5dda2cd4107eaa29796c3a8fdd84e70f058da8869c04f179d1da53c14e07",
+    "work/review/export_site.py": "855025567fb67c82400d99271622e844221b6dc75dff8f66480a4ba4148a532a",
     "work/review/global_data_audit.json": "75be553273f67353bb300a9235d0b82b4c95ab171bf376e1bc2f33aed8e25a96",
     "work/review/global_terminology_review.json": "e920a0a3423df092a8f1fa7dad73e7c56b72b6dfa66772bd8d2f345a40e17f29",
     "work/review/global_terms_01_revisions.json": "b7f2a669e42a43d218cb544ab2b2f93df2d7a0b6730d7ccac14783913c9f2f1c",
@@ -104,7 +102,7 @@
     "work/review/introduction_structure.json": "3521414645de75bcd18cd82d62a0e4b12b8a41f03f89764412fde3b7af7c6bc8",
     "work/review/markdown_audit.json": "b984f7b4476263dfa3ed43b4c62374523efe373eca07a5a42a95c48993af993d",
     "work/review/note_links.json": "eeeb335ea4f50277fbdffe299c999814cb9f7acf00f48246e63adcc20d11336e",
-    "work/review/package_delivery.py": "a68a0f3d7becb3dcc07457606b656e000c19e453b447b5b95323df4dcf6dc0e5",
+    "work/review/package_delivery.py": "6f42f07e9f2d0778bb18fffca8be685f5277b93e39e80387e401a95cacd2275d",
     "work/review/part_frontispieces.json": "7510eab1d7f0517a19eb93b830528c7ea591bc89a7500a582d6637830ade8ccb",
     "work/review/preface_review_evidence.json": "d97b0631ca8304113fc20225eb75c371ed52465d19611464768cf175e2c1ddb5",
     "work/review/preface_revisions.json": "854d90654500c8460ca7c5c1e3ab6b7ef0fd7013ab8dc337512ed16076253948",
@@ -119,13 +117,13 @@
     "work/review/references_structure.json": "b8cfd1ec32d0a6605af64f4196a73be9f92432caa118e876e2eacaa3c2a95b62",
     "work/review/remaining_fact_checks.json": "5f2dc68a80eda52cf57087bc3a0d4bb411ef376193d10fa10195a4abf218b56a",
     "work/review/rendering_visual_checks.json": "9acd4ff5476069df11f333591a117b6967c5967e1ab5b0b2fb89c6037d804592",
-    "work/review/site_data_audit.json": "72748ced5cebd0c362ed00795085a03a1f6cd4acdc1309e70908a687f475442f",
+    "work/review/site_data_audit.json": "4263d6443044bbe3817affade1ba720b030baf30efe3eaef6a30857669be45a6",
     "work/review/term_decisions.json": "5323c557dc754ca13e6a29deea90cbd143d2510709c5b900b672f80d3a4ebc5e",
     "work/review/translation_units.jsonl": "ec53c4fc38559319724c7be70962a448c4859df532e08b09c6230f8763179b2c",
-    "output/reviewed/README.md": "676251f3d222eeb662eda88e3bbfe1b3a5ac8771578ad854c0ba9df7272ed3e1",
+    "output/reviewed/README.md": "617dbd977361c6a5d2c3a9d076423e1fa2a37e1a762cc91ef45624e67fb6330e",
     "output/reviewed/friction_zh.tex": "8155b6ad9cc34ff55e1a89a19ce4f05a5903cdde1161cb30f17509bc51a40d0d",
     "output/reviewed/friction_bilingual.tex": "1c88dd1624a925905b1f6ae6f73e1731a4b363b129e732cc0a74377ed4ed2820"
   },
-  "source_members_count": 91,
+  "source_members_count": 89,
   "scope": "Current reading artifacts and reproducible sources; deployment is verified separately."
 }

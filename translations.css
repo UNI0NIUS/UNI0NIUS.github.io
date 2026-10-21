@@ -84,3 +84,29 @@
 .source-math .katex-display { overflow-x: auto; overflow-y: hidden; padding: .25rem 0; }
 .reader-cell pre { white-space: pre-wrap; overflow-wrap: anywhere; }
 .note-editorial { color: var(--muted, #666); font-size: .9em; }
+
+/* Structured passages within the common paragraph reader. */
+.source-anchor { scroll-margin-top:110px; }
+.shared-row .reader-cell { grid-column:2 / -1; }
+.shared-row .reader-cell:before { content:none; }
+.source-spaced { margin-top:2em; }
+.reader-cell .source-heading { margin-top:.4em; }
+.reader-cell .source-quote { border-left:2px solid var(--line); margin:1em 0; padding:.1em 1em; font-style:normal; }
+.reader-cell .source-interview { margin:1em; font-style:italic; }
+.source-verse-line { min-height:1.5em; }
+.source-stanza-start { margin-top:1em; }
+.source-indented { padding-left:2em; }
+.source-attribution { text-align:right; font-size:.9em; }
+.source-verse-title,.source-quote-date { font-weight:600; }
+.source-subtitle,.source-definition,.source-vignette { font-style:italic; }
+.source-sidebar { border-left:3px solid var(--line); padding:.2em 1em; font-size:.9em; }
+.reader-cell .source-list-entry { padding-left:1.3em; text-indent:-1.3em; margin:.35em 0; }
+.source-section-break { text-align:center; letter-spacing:.6em; margin:2em 0; }
+.source-notice { padding:1em; background:var(--surface); font-size:.9em; }
+.reader-cell .source-figure { margin:1em 0; padding:.6em; border:1px solid var(--line); }
+.source-image { display:block; width:100%; height:auto; }
+.source-caption { font-size:.85em; }
+.source-figure-key { font-size:.8em; }
+.reader-cell .source-figure-key p { margin:.2em 0; }
+.source-figure-boxes { display:grid; gap:1em; }
+.source-figure-box { padding:1em; border:1px solid var(--line); border-radius:12px; text-align:center; }
