@@ -5094,92 +5094,146 @@ window.TRANSLATIONS = {
         {
           "id": "front",
           "title": "出版与丛书信息",
-          "dataUrl": "translations/books/thinking-art/front.json"
+          "dataUrl": "translations/books/thinking-art/front.json",
+          "originalTitle": "Publication information"
         },
         {
           "id": "preface",
           "title": "序言",
-          "dataUrl": "translations/books/thinking-art/preface.json"
+          "dataUrl": "translations/books/thinking-art/preface.json",
+          "originalTitle": "Preface"
         },
         {
           "id": "ack",
           "title": "致谢",
-          "dataUrl": "translations/books/thinking-art/ack.json"
+          "dataUrl": "translations/books/thinking-art/ack.json",
+          "originalTitle": "Acknowledgements"
         },
         {
           "id": "part1",
-          "title": "唯物主义",
-          "dataUrl": "translations/books/thinking-art/part1.json"
+          "title": "第一部　唯物主义",
+          "dataUrl": "translations/books/thinking-art/part1.json",
+          "originalTitle": "Part I · Materialisms",
+          "partId": "part1",
+          "shortTitle": "分部扉页",
+          "shortOriginalTitle": "Part title page"
         },
         {
           "id": "ch01",
-          "title": "数字唯物主义：六只手、机器辅助、怒不可遏",
-          "dataUrl": "translations/books/thinking-art/ch01.json"
+          "title": "第1章　数字唯物主义：六只手、机器辅助、怒不可遏",
+          "dataUrl": "translations/books/thinking-art/ch01.json",
+          "originalTitle": "1. Digital materialism: six-handed, machine-assisted, furious",
+          "partId": "part1"
         },
         {
           "id": "ch02",
-          "title": "新唯物主义的慰藉",
-          "dataUrl": "translations/books/thinking-art/ch02.json"
+          "title": "第2章　新唯物主义的慰藉",
+          "dataUrl": "translations/books/thinking-art/ch02.json",
+          "originalTitle": "2. The consolation of new materialism",
+          "partId": "part1"
         },
         {
           "id": "part2",
-          "title": "艺术与劳动",
-          "dataUrl": "translations/books/thinking-art/part2.json"
+          "title": "第二部　艺术与劳动",
+          "dataUrl": "translations/books/thinking-art/part2.json",
+          "originalTitle": "Part II · Art & Labour",
+          "partId": "part2",
+          "shortTitle": "分部扉页",
+          "shortOriginalTitle": "Part title page"
         },
         {
           "id": "ch03",
-          "title": "艺术的反资本主义本体论：论艺术家作为反资本主义者的历史根源",
-          "dataUrl": "translations/books/thinking-art/ch03.json"
+          "title": "第3章　艺术的反资本主义本体论：论艺术家作为反资本主义者的历史根源",
+          "dataUrl": "translations/books/thinking-art/ch03.json",
+          "originalTitle": "3. Art’s anti-capitalist ontology: on the historical roots of the artist as an anti-capitalist",
+          "partId": "part2"
         },
         {
           "id": "ch04",
-          "title": "艺术、生活与劳动：卡拉·隆齐关乎生存的女性主义批判",
-          "dataUrl": "translations/books/thinking-art/ch04.json"
+          "title": "第4章　艺术、生活与劳动：卡拉·隆齐关乎生存的女性主义批判",
+          "dataUrl": "translations/books/thinking-art/ch04.json",
+          "originalTitle": "4. Art, life and labour: Carla Lonzi’s existential feminist critique",
+          "partId": "part2"
         },
         {
           "id": "ch05",
-          "title": "银行里的夜间保洁：桑娅·伊韦科维奇为不可见女性所做的试镜",
-          "dataUrl": "translations/books/thinking-art/ch05.json"
+          "title": "第5章　银行里的夜间保洁：桑娅·伊韦科维奇为不可见女性所做的试镜",
+          "dataUrl": "translations/books/thinking-art/ch05.json",
+          "originalTitle": "5. Night cleaning at the bank: Sanja Iveković’s screen tests for invisible women",
+          "partId": "part2"
         },
         {
           "id": "part3",
-          "title": "形式的不稳定性",
-          "dataUrl": "translations/books/thinking-art/part3.json"
+          "title": "第三部　形式的不稳定性",
+          "dataUrl": "translations/books/thinking-art/part3.json",
+          "originalTitle": "Part III · Instabilities of Form",
+          "partId": "part3",
+          "shortTitle": "分部扉页",
+          "shortOriginalTitle": "Part title page"
         },
         {
           "id": "ch06",
-          "title": "艺行哲学",
-          "dataUrl": "translations/books/thinking-art/ch06.json"
+          "title": "第6章　艺行哲学",
+          "dataUrl": "translations/books/thinking-art/ch06.json",
+          "originalTitle": "6. Arting philosophy",
+          "partId": "part3"
         },
         {
           "id": "ch07",
-          "title": "情境图表：论当代艺术中语境与形式的解／重组之呈现",
-          "dataUrl": "translations/books/thinking-art/ch07.json"
+          "title": "第7章　情境图表：论当代艺术中语境与形式的解／重组之呈现",
+          "dataUrl": "translations/books/thinking-art/ch07.json",
+          "originalTitle": "7. The situational diagram: on rendering the de/recomposition of context and form in contemporary art",
+          "partId": "part3"
         },
         {
           "id": "ch08",
-          "title": "形式札记",
-          "dataUrl": "translations/books/thinking-art/ch08.json"
+          "title": "第8章　形式札记",
+          "dataUrl": "translations/books/thinking-art/ch08.json",
+          "originalTitle": "8. Notes on form",
+          "partId": "part3"
         },
         {
           "id": "part4",
-          "title": "社会生态、灾难预感",
-          "dataUrl": "translations/books/thinking-art/part4.json"
+          "title": "第四部　社会生态、灾难预感",
+          "dataUrl": "translations/books/thinking-art/part4.json",
+          "originalTitle": "Part IV · Social Ecologies, Intimations of Catastrophe",
+          "partId": "part4",
+          "shortTitle": "分部扉页",
+          "shortOriginalTitle": "Part title page"
         },
         {
           "id": "ch09",
-          "title": "黑色亚特兰蒂斯：种植园世",
-          "dataUrl": "translations/books/thinking-art/ch09.json"
+          "title": "第9章　黑色亚特兰蒂斯：种植园世",
+          "dataUrl": "translations/books/thinking-art/ch09.json",
+          "originalTitle": "9. Black Atlantis: the plantationocene",
+          "partId": "part4"
         },
         {
           "id": "ch10",
-          "title": "家中的陌生人：从指涉性艺术作业到构成性艺术作业",
-          "dataUrl": "translations/books/thinking-art/ch10.json"
+          "title": "第10章　家中的陌生人：从指涉性艺术作业到构成性艺术作业",
+          "dataUrl": "translations/books/thinking-art/ch10.json",
+          "originalTitle": "10. Strangers at home: from referential to compositional artworking",
+          "partId": "part4"
         },
         {
           "id": "back",
-          "title": "图片来源与作者简介",
-          "dataUrl": "translations/books/thinking-art/back.json"
+          "title": "书后材料",
+          "dataUrl": "translations/books/thinking-art/back.json",
+          "originalTitle": "Back matter",
+          "outline": [
+            {
+              "title": "图片来源与版权",
+              "originalTitle": "Image credits",
+              "anchor": "back-credits-h",
+              "level": 1
+            },
+            {
+              "title": "作者简介",
+              "originalTitle": "Contributors",
+              "anchor": "back-contrib-h",
+              "level": 1
+            }
+          ]
         }
       ],
       "downloads": [
@@ -5194,6 +5248,28 @@ window.TRANSLATIONS = {
         {
           "label": "规范稿与源码包",
           "url": "translations/books/thinking-art/thinking_art_source.zip"
+        }
+      ],
+      "parts": [
+        {
+          "id": "part1",
+          "title": "第一部　唯物主义",
+          "originalTitle": "Part I · Materialisms"
+        },
+        {
+          "id": "part2",
+          "title": "第二部　艺术与劳动",
+          "originalTitle": "Part II · Art & Labour"
+        },
+        {
+          "id": "part3",
+          "title": "第三部　形式的不稳定性",
+          "originalTitle": "Part III · Instabilities of Form"
+        },
+        {
+          "id": "part4",
+          "title": "第四部　社会生态、灾难预感",
+          "originalTitle": "Part IV · Social Ecologies, Intimations of Catastrophe"
         }
       ]
     }
