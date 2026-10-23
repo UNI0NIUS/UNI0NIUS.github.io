@@ -1,0 +1,355 @@
+# 从“希腊人的帝国”到“拜占庭”：现代范式转变的政治
+
+Anthony Kaldellis · The Invention of Byzantium in Early Modern Europe · Dumbarton Oaks, 2021 · pp. 349–367
+
+原书第十三章，349–367页；保留49条原注。页码表示对应原书段落起始页，跨页范围另行记录。
+
+原著权利归原权利人；用户提供底本的中文校订阅读版，非出版社官方译本。
+
+<!-- empire-of-greeks-to-byzantium-001 -->
+
+〔原书 pp. 349–350〕
+
+“拜占庭”（Byzantium）一词如何从仅仅指东方帝国的首都，转而指整个帝国，并进一步指其全部人口与文明？这不只是词汇问题，也是概念问题：“拜占庭”的兴起取代了关于这个帝国究竟为何（罗马的？希腊的？）的其他观念，切断了它与先前叙事的联系，并将它确立为一个独特而自成一体的文明，具有自己的“本质”，应当也值得由一门独立的学科来研究。众所周知，拜占庭人自己——更准确地说，是我们如今称为拜占庭人的东方希腊语罗马人——只用这个词指他们的首都，作为其法定名称君士坦丁堡和新罗马之外的另一种称呼；因此首都居民可以被称为“拜占庭人”。他们并不用这个名字指整个帝国。“Byzantios”（Βυζάντιος）只是君士坦丁堡人的另一个说法。例如，12世纪的教会法学者狄奥多罗斯·巴尔萨蒙（Theodore Balsamon）自称“地地道道的君士坦丁堡人”（Κωνσταντινουπολίτης ἀκραιφνέστατος）；拜占庭中期的医学作家梅勒提奥斯（Meletios）在说明个体身份这一概念时，则这样定义自己：“一个拜占庭人（Βυζαντιαῖος），医生，个子矮，塌鼻，格雷戈里奥斯之子”，等等。[^empire-of-greeks-to-byzantium-1] 人们通常认为，拜占庭这一专名作为指称整个帝国的用法，是16世纪德国学者希罗尼穆斯·沃尔夫（Hieronymus Wolf）创制的，此后成为惯例。“拜占庭研究”便这样创立了。
+
+<!-- empire-of-greeks-to-byzantium-002 -->
+
+〔原书 pp. 350–350〕
+
+然而，这一惯常叙事并不准确。其中一些要素需要作相对次要的调整；但故事的一部分明显是假的，而关于这一部分的真相会显著改变整体图景：“拜占庭”成为我们这门学科专业术语的环境，比传统叙事所说更为政治化、更有趣，也更晚近。这一转变并非发生在16世纪，而是发生在19世纪。要书写这场范式转变的历史，我们就必须改变对于“拜占庭”最初如何产生、为何产生的理解。但在此之前，我会先提出与前些时期有关的几处小质疑，然后逐步推进。
+
+<!-- empire-of-greeks-to-byzantium-003 -->
+
+〔原书 pp. 350–350〕
+
+有两位东方罗马人似乎确实尝试过用“拜占庭的”一词指称整个帝国，即5世纪后期用希腊语写作的历史学家普里斯库斯（Priskos）和马尔科斯（Malchos）。普里斯库斯是东方帝国的一名官吏，除其他职务外还曾随官方使团出使；他在一部详细叙述中记述了5世纪中期的历史，于470年代中后期完成。他可能是5世纪最重要的历史学家，其著作被许多后继者使用。虽然他的著作未能留存，但10世纪君士坦丁七世·波菲罗根尼托斯（Constantine VII Porphyrogennetos）下令编纂的《摘录》（Excerpta）保留了许多引文和残篇。从现存残篇判断，普里斯库斯对他所称罗马帝国的“西部”和“东部”两半给予了大体同等的关注。在普里斯库斯看来，这两半同样是罗马的；他在整部叙事中要么笼统地称“罗马人”，要么具体地区分“东方罗马人”和“西方罗马人”。这两个群体以地理、以及各自拥有皇帝和行政机构相区别，但并无“罗马性”程度之别；东方罗马人没有其他集体身份。
+
+<!-- empire-of-greeks-to-byzantium-004 -->
+
+〔原书 pp. 350–350〕
+
+不过，对我们来说有趣的是普里斯库斯著作的可能标题。据10世纪的古典学百科全书《苏达辞书》（Suda），该书题为《拜占庭史》（Byzantiakē，Βυζαντιακή）。我们不知道这一信息有多可靠。该词条还补充说，普里斯库斯另著有《阿提拉事迹》，以及若干修辞作品和书信。这份书目表明《阿提拉事迹》与《历史》是两部作品，尽管现存历史残篇大量涉及阿提拉。与此同时，10世纪的汇编《使节摘录》（Excerpta de legationibus）把这部作品称为《哥特史》（残篇中也确实有哥特人）。
+
+<!-- empire-of-greeks-to-byzantium-005 -->
+
+〔原书 pp. 351–351〕
+
+普里斯库斯稍晚的同时代人马尔科斯（Malchos）也是一位历史学家，我们对他的了解少得多；他也把自己的历史称为《拜占庭史》（Βυζαντιακά）。[^empire-of-greeks-to-byzantium-2]
+
+<!-- empire-of-greeks-to-byzantium-006 -->
+
+〔原书 pp. 351–351〕
+
+于是，这两位东方罗马人拿他们那一半帝国首都的古老名称，用作整部帝国历史的标题；或许他们的本意是表明，自己的历史是从东方罗马（或君士坦丁堡）的立场书写的。我们并不确切知道他们这样用是什么意思，也不知道是否还有别人在如此宽泛的意义上使用这个名字。毕竟，那是罗马帝国历史上一个独特的时刻。帝国在制度上分为两半，这一格局已大致固定；也许普里斯库斯和马尔科斯是在寻找一个名称来标识自己所属的那一半。但那个时刻很快过去了。西部帝国灭亡，东方一半成为唯一存在的罗马帝国。东方不再需要把自己与西方区分开来。在查士丁尼治下，东方帝国的罗马性得到了有力申张。[^empire-of-greeks-to-byzantium-3] 在东方帝国存在的整个时期，其人民和统治者都是“罗马人”（Romaioi），这一意义既是政治的，也是族群的；他们把自己的国家称为“罗马人的政体”“罗马人的君主国”，或者干脆称为 Romanía（Ῥωμανία），即“罗马人的国土”。[^empire-of-greeks-to-byzantium-4]
+
+<!-- empire-of-greeks-to-byzantium-007 -->
+
+〔原书 pp. 351–352〕
+
+这就把我们带到了近代早期。人们习以为常地说，把拜占庭用作整个帝国名称的故事始于16世纪的希罗尼穆斯·沃尔夫，但这不太可能是真的。在某些西方中世纪文本中，这个词可能已经具有这层含义。开会时，同行们总会告诉我，他们记得在某部教宗编年史或中世纪传奇中见过这种用法。这方面的研究将非常受欢迎。我预计这些文本大多只是把拜占庭当作君士坦丁堡的同义词，用于“君士坦丁堡帝国”和“君士坦丁堡皇帝”这样的词组。例如，1481年科斯坦佐·达·费拉拉（Costanzo da Ferrara）为苏丹穆罕默德二世制作的纪念章上，他（除其他头衔外）被称为 Byzantii imperator。[^empire-of-greeks-to-byzantium-5] 这还不是我们现代的“拜占庭”概念，而是中世纪常见的转喻（以首都之名指称整体）。我们真正需要的是一种地域性称谓——比如说，如果远在边境、远离首都的人被说成“进入拜占庭”。我怀疑这类段落会很少见，在西方文本中也不成体系，而且它们很可能并不是现代学术上使用“拜占庭的”一词的源头。
+
+<!-- empire-of-greeks-to-byzantium-008 -->
+
+〔原书 pp. 352–352〕
+
+那个传统很可能始于另一位用希腊语写作的历史学家——15世纪中期、即君士坦丁堡陷落于奥斯曼土耳其人之后不久的拉奥尼科斯·哈尔科孔杜莱斯（Laonikos Chalkokondyles）。拉奥尼科斯是雅典人，曾在米斯特拉师从激进的柏拉图主义者普勒托（Pletho），并且和普勒托一样，主张那些此前自称为罗马人的人应具有一种新希腊认同。在序言中，他承认君士坦丁堡帝国的居民在过去一千年里一直自称罗马人，但他相信他们实际上是希腊人，也应该被称为希腊人。就此而言，他的新希腊意识形态与西欧人由来已久的视角完全吻合。西欧人长期以来一直否认拜占庭人是罗马人，而把“罗马人”这个标签专门留给西方制度，如德意志帝国和罗马教会。几个世纪以来，西方人反过来称拜占庭人为“希腊人”（Graeci），这个词同样带有许多负面含义。这就是西方否认拜占庭“真正”是罗马的起源；这种否定论传统延续至今，并由许多拜占庭学者本人传播。[^empire-of-greeks-to-byzantium-6] 不过，拉奥尼科斯对拜占庭的希腊式解释似乎并不源于西方或拉丁偏见。他在自己的历史中并未站在拉丁人、西方人或天主教徒一边；而且很明显，他把拜占庭人认作希腊人（Hellenes），有着正面的民族主义理由，可能还有宗教（新异教）理由：他想摆脱“罗马”这个名字，因为它妨碍他实现希腊民族觉醒的计划。[^empire-of-greeks-to-byzantium-7]
+
+<!-- empire-of-greeks-to-byzantium-009 -->
+
+〔原书 pp. 352–353〕
+
+因此，拉奥尼科斯称拜占庭人为“希腊人”，称其统治者为“希腊人之王”。他称他们的首都为“拜占庭”（Byzantion），而不是君士坦丁堡或新罗马，可能是因为他更喜欢这座城市的古希腊名称而非其罗马名称；因此他称首都的统治者为“拜占庭之王”，称其臣民为“拜占庭人”。在他看来，这就是“拜占庭王国”（basileus 和 basileia 在希腊语中兼有“国王/王国”与“皇帝/帝国”之义；我认为拉奥尼科斯此处取“国王/王国”一义）。诚然，在他所讨论的时期（主要是14世纪晚期和15世纪），帝国仅限于君士坦丁堡和少数外围领地，因此“拜占庭王国”这一说法的两种可能含义——即仅由拜占庭城构成的王国，以及从拜占庭城进行治理、因而属于它的王国——基本是重合的。对他来说，各省就是“拜占庭的领地”，[^empire-of-greeks-to-byzantium-8] 这很容易被直接理解为“拜占庭”本身。这样，我们就得到了一个把拜占庭视为整个帝国的概念；当时帝国疆域已大大缩小，这种等同便更容易成立。对帝国人口而言也是如此：首都居民（“拜占庭人”）与皇帝的全体臣民（其余的“希腊人”）之间存在相当大的重合。
+
+<!-- empire-of-greeks-to-byzantium-010 -->
+
+〔原书 pp. 353–353〕
+
+于是，拉奥尼科斯把拜占庭历史从其本来的罗马母体中剥离出来，重新嵌入一个希腊叙事；他在开篇即强调了这一点，提到希腊人的历史始于狄俄尼索斯、赫拉克勒斯、雅典人和斯巴达人，以及亚历山大大帝。相形之下，他在谈到拜占庭城（城市）的建立时，并未点名君士坦丁大帝。因此在拉奥尼科斯那里，“拜占庭”并不是一个单独自立的类别：对他而言，问题在于它应属于希腊民族史还是罗马民族史。
+
+<!-- empire-of-greeks-to-byzantium-011 -->
+
+〔原书 pp. 353–354〕
+
+拉奥尼科斯《历史》的手稿很快传到西方。早在16世纪，这部作品就被改写、“翻译”成拉丁语、法语和意大利语，并与其它土耳其史合并；这一过程可能早在15世纪晚期就已开始。[^empire-of-greeks-to-byzantium-9] 这些版本被16世纪学者广泛阅读。[^empire-of-greeks-to-byzantium-10] 康拉德·克劳泽（Conrad Clauser）1556年的拉奥尼科斯拉丁译本把关键术语译作 rex Byzantius、rex Byzantii 和 regnum Byzantii，尽管它遵从拉奥尼科斯，大多数时候仍称拜占庭人为 Graeci。[^empire-of-greeks-to-byzantium-11] 与此同时，银行家安东·富格尔（Anton Fugger）命并不情愿的希罗尼穆斯·沃尔夫编辑并翻译前代拜占庭历史学家约翰·佐纳拉斯（John Zonaras）和尼基塔斯·霍尼亚特斯（Niketas Choniates）的著作；这些版本于1557年由奥波里努斯（Oporinus）在巴塞尔出版。1562年，克劳泽那部广受欢迎的《哈尔科孔杜莱斯》连同尼基弗鲁斯·格雷戈拉斯（Nikephoros Gregoras）的《历史》被增补进该版，从而组成了一部直到此时才被称为完整的“拜占庭”史。这一名称（Corpus universae historiae byzantinae）很可能并非出自沃尔夫，而是出版者所定；[^empire-of-greeks-to-byzantium-12] 它可能是因先前在拉奥尼科斯的希腊原文和拉丁译本中已广泛流传的用法而获得了正当性。沃尔夫1557年出版的佐纳拉斯和霍尼亚特斯原版标题中并没有“拜占庭的”一词；这个词是在1562年版中加入的，而该版也收录了拉奥尼科斯。因此，这一范畴的来源很可能是拉奥尼科斯。
+
+<!-- empire-of-greeks-to-byzantium-012 -->
+
+〔原书 pp. 354–354〕
+
+关于这一切，重要的是，从长远来看它并不很重要。形容词 byzantinus 用于指称东方帝国、其历史及其政权的出现，并未从根本上改变西欧人对我们称之为拜占庭人的看法。从8世纪后期直到19世纪后期，占主导地位的解释范畴一直是：东方帝国是“希腊人的帝国”，因为其统治者和臣民（据称）是族群意义上的希腊人。偶尔也会使用“君士坦丁堡帝国”一词。随着“拜占庭的”一词的引入，这一切都没有改变；在近代早期，该词几乎只以形容词形式使用，而且通常是君士坦丁堡的同义词。也就是说，近代早期学者通常把“拜占庭的”当作“君士坦丁堡的”更简短、更古雅的表达。但在他们眼中，帝国的大多数臣民仍然是希腊人。西欧人并不像现代学术界那样，把他们视为非族群的“东正教”人群。在西方人眼中，“希腊人”的异端或分裂——即他们背离罗马教会——是其恶劣族群特性（不忠、反复无常、过度精明等）的表现。当时还没有作为独立范畴的“拜占庭”。只有希腊人的帝国，它是希腊民族始于古代的漫长历史中的一个阶段。
+
+<!-- empire-of-greeks-to-byzantium-013 -->
+
+〔原书 pp. 354–354〕
+
+这一说法需要若干限定。东方帝国在其历史的不同时刻，曾在西欧被视为强大、富庶而文明发达（因为它确实如此）；它直接承袭了帝国基督教的奠基传统；其壮丽的都城是唯一存留的晚期罗马帝国城市；尽管西方作家坚持认为，帝国历史在某一时刻曾发生从“罗马”到“希腊”的根本断裂，拜占庭仍是古代东方帝国的直接延续。因此，那些试图显得或听起来像真正的罗马人、或想把自己与罗马帝国联系起来的西方政权，有时会从当时的拜占庭那里借用图像、符号、术语和服饰形式等要素；拜占庭始终自称“罗马人的帝国”。不过，他们并不总是承认这种借用，也不总是明确承认这等于承认拜占庭是罗马的。[^empire-of-greeks-to-byzantium-13]
+
+<!-- empire-of-greeks-to-byzantium-014 -->
+
+〔原书 pp. 354–355〕
+
+此外，“希腊”这一标签并未立即且普遍地在拉丁世界对拜占庭的认知中确立起来。当西方人想从东方皇帝那里求得恩惠时——例如，于格·卡佩（Hugh Capet）想替儿子求娶一位帝国新娘——他们会称这些皇帝为“罗马人”的皇帝。[^empire-of-greeks-to-byzantium-14] 十字军之前途经拜占庭的西方朝圣者有时报告说，东方人自称罗马人，使用 Romanites 之类的变体形式。[^empire-of-greeks-to-byzantium-15] 这种对当地人内部视角（emic perception）的让步一直延续到近代：前往奥斯曼帝国的西方旅行者报告说，当地人把自己和自己的语言称为“罗马的”。[^empire-of-greeks-to-byzantium-16] 但这并未改变西方人眼中他们本质上是希腊人的主流看法。现代拜占庭学者也常常根据原始书面史料承认，拜占庭人“自称罗马人”，但随后他们自己并不因此称拜占庭人为罗马人。
+
+<!-- empire-of-greeks-to-byzantium-015 -->
+
+〔原书 pp. 355–355〕
+
+想为赞助人构造罗马谱系的西方中世纪作家，有时会把拜占庭皇帝编入他们虚构的世系，某些情况下晚至希拉克略（Herakleios）时代的皇帝也被纳入。[^empire-of-greeks-to-byzantium-17] 本卷其他章节展示了这一传统如何延续到近代早期。然而，这些做法都未导致明确地把拜占庭人理论化为罗马人。它们只是权宜的例外；在背景中，始终回荡着“希腊人”和“希腊人的帝国”的调子。这种调子被族群偏见（对拜占庭人的负面描绘，尤其是在十字军时代，强调他们的“希腊恶习”）以及天主教宗教论战锁定下来；后者产生了许多《驳希腊人的错误》（Contra Errores Graecorum）论著，从而进一步把拜占庭——此处是以其宗教为外衣——钉在其被认为的族群身份上。[^empire-of-greeks-to-byzantium-18]
+
+<!-- empire-of-greeks-to-byzantium-016 -->
+
+〔原书 pp. 355–356〕
+
+在拉奥尼科斯和沃尔夫之后，如上所述，“拜占庭”一词主要用作形容词。欧洲学者尚未在古代希腊与中世纪的希腊人帝国之间划出明确区分，因为他们把这些视为同一族群—民族历史的相继阶段。但他们仍然需要一个形容词来指称中世纪阶段，而“希腊的”除非语境绝对清楚，否则并不合用。这正是“拜占庭的”的用处——作为指称君士坦丁堡帝国的形容词。例如，17世纪的卢浮宫拜占庭历史学家版本被称为 Corpus Byzantinae Historiae（或称“卢浮宫拜占庭文集”），其19世纪在波恩的替代版本则称为 Corpus Scriptorum Historiae Byzantinae。当时还没有 Historia Byzantii，即“拜占庭史”，只有“拜占庭诸史”。卢浮宫系列的编辑、耶稣会士菲利普·拉贝（Philippe Labbe）于1648年出版了一篇劝人研究拜占庭历史学家文集的导论（protreptikon）；在序言中，他把“拜占庭史”和“君士坦丁堡史”交替使用。[^empire-of-greeks-to-byzantium-19] 1672至1685年间，路易·库赞（Louis Cousin）以《君士坦丁堡史》（Histoire de Constantinople）为名出版了八卷拜占庭历史学家的译本。因此，“拜占庭”尚未成为指称整个帝国的专名；它仍与君士坦丁堡联系过紧，是作为该城的形容词使用，尽管通过转喻也指向整个帝国。
+
+<!-- empire-of-greeks-to-byzantium-017 -->
+
+〔原书 pp. 356–357〕
+
+在爱德华·吉本（Edward Gibbon）的《罗马帝国衰亡史》中，“拜占庭”是城市，从来不是帝国，其居民始终是“希腊人”（只有在他们罕见地打赢一场战役时，他才用他们正确的罗马名称称呼他们）。[^empire-of-greeks-to-byzantium-20] 吉本用形容词“拜占庭的”来修饰宫廷、宫殿、御座和牧首——也就是说，表示“君士坦丁堡的”——偶尔它也指帝国、君主制、其历史及其历史学家（仅由首都引申而来）。卢梭和伏尔泰这类作家，在随意语境中需要指称这个帝国时——即读者不会预期此处会提到它、“希腊人”会造成混淆时——会称之为“君士坦丁堡帝国”（偶尔也称“希腊帝国”）。[^empire-of-greeks-to-byzantium-21] 形容词“拜占庭的”有时也可作名词用。例如，巴托尔德·格奥尔格·尼布尔（Barthold Georg Niebuhr，1776–1831）在一封信中说，他想写一部关于希腊文学的著作，“从荷马到拜占庭人（die Byzantiner）”。[^empire-of-greeks-to-byzantium-22] 我们可以理解他为何这样选择：说“从荷马到希腊人”会不知所云。黑格尔（1770–1831）在《历史哲学讲演录》（第3部分第3章）中称这个帝国为“das Byzantinische Reich”和“das östliche Kaiserreich”，但他显然也认为它是“希腊人的”（der Griechen）。
+
+<!-- empire-of-greeks-to-byzantium-018 -->
+
+〔原书 pp. 357–357〕
+
+欧洲的作家、知识分子和历史学家继续主要用“希腊人的帝国”这一范畴来指称我们所谓的“拜占庭”，贯穿整个启蒙时代，直到19世纪——事实上，进入19世纪相当长一段时间后仍然如此。它仍然是远比其他称谓更占优势的标签。在希腊独立战争（1821–32）期间，西方的亲希腊派倡导自古以来的希腊连续性观念；这种连续性包括每个受过教育的人都听说过的“希腊人的帝国”，尽管在启蒙传统中受过教育的人对希腊历史这个特定阶段并不热衷。这一切对现代希腊民族史学的起源具有挑战性的含义。人们常认为，19世纪中后期的现代希腊历史学家们（尤其是斯皮里宗·赞贝利奥斯和康斯坦丁诺斯·帕帕里戈普洛斯）发明了希腊连续性的历史范式；但现在已经表明，他们在西欧史学（德语、法语和英语文本）中找到了现成的范式。他们从那里取来并加以挪用，使之适应自己的民族意识形态，并把它系统化为古代、中世纪和现代希腊性（Hellenism）的三分法。[^empire-of-greeks-to-byzantium-23] 有趣的是，他们采用希腊连续性图式，恰恰是在西方正在放弃它的时候；我们现在就来讨论这一发展。
+
+<!-- empire-of-greeks-to-byzantium-019 -->
+
+〔原书 pp. 357–357〕
+
+19世纪，尤其是其下半叶，发生了一场剧烈的转变。正是在那时，“拜占庭”和“拜占庭人”成为像今天这样确立且占主导地位的专业术语，取代了“希腊人的帝国”和“君士坦丁堡帝国”。这些概念不仅与“希腊”这一标签分离：它们还导致后者消亡（现代希腊民族史学除外）。今天受过普通教育的西方人不会理解别人随口提到的“希腊人的帝国”，至少不加解释就不会明白。为什么会这样？
+
+<!-- empire-of-greeks-to-byzantium-020 -->
+
+〔原书 pp. 357–358〕
+
+解释有特定的政治背景：东方问题。简言之，东方问题是指几个主要的基督教帝国对衰落中的奥斯曼帝国的关切：它们都想从其中分得大片领土，但又不愿让对手得逞，因此通常一致同意维持其存在。[^empire-of-greeks-to-byzantium-24] 这一立场与拿破仑战败后欧洲建立的保守秩序——欧洲协调——相一致。然而，很快这一秩序便受到希腊革命的挑战，后者从奥斯曼帝国中切出了一个新国家。希腊得到列强、尤其是俄国、英国和法国的承认，但是勉强承认，因为其独立扰乱了既定秩序。正如保守派所担心的，欧洲列强海外殖民地的穆斯林开始发问：既然一个基督教民族（希腊人）可以被允许摆脱其穆斯林帝国主子（土耳其人）的统治，为什么穆斯林就不能摆脱其基督教殖民宗主呢？[^empire-of-greeks-to-byzantium-25]
+
+<!-- empire-of-greeks-to-byzantium-021 -->
+
+〔原书 pp. 358–358〕
+
+在西方，亲希腊主义促成了希腊独立；这种叙事把1820年代的革命希腊人视为古希腊人的英雄后裔，他们正英勇斗争，要在受野蛮土耳其人压迫数百年后重获独立。然而，新希腊国家的意识形态确实提出了这样一种可能，甚至是一种希望：它将解放奥斯曼帝国境内所有其余的希腊人；事实上，一些希腊革命领袖从一开始就认为，他们所做的不过是在恢复其祖先的基督教帝国。[^empire-of-greeks-to-byzantium-26] 有人相信，雅典可能不会、也不应成为新国家的永久首都，因为君士坦丁堡迟早也会解放。[^empire-of-greeks-to-byzantium-27] 当时并无实现此事的具体计划。即便如此，也没有哪个列强愿意看到君士坦丁堡或别处出现一个希腊帝国。他们曾给古希腊人的后裔有限的支持，让其摆脱野蛮的土耳其枷锁，这是一个有限的民族复兴计划；他们当然没有支持重建“希腊帝国”。然而，他们自身对希腊的浪漫热爱，以及充满“希腊人的帝国”之指称的史学传统，似乎赋予了那种帝国复辟前景以正当性。
+
+<!-- empire-of-greeks-to-byzantium-022 -->
+
+〔原书 pp. 358–359〕
+
+西方的问题不仅是希腊的帝国收复主义，更具体地说是俄国。西方担心俄国会夺取君士坦丁堡并复兴自己的东正教帝国，或者会利用希腊人——俄国在巴尔干东正教中的次级附庸——作为代理人来实现这一目标。这些恐惧并非没有依据。例如，叶卡捷琳娜大帝（1762–1796年在位）曾炮制并大肆宣扬雄心勃勃的“希腊计划”，要领导希腊人和其他东正教民族反抗奥斯曼帝国并解放君士坦丁堡——她称之为“古代希腊皇帝的首都”（注意这一说法在现代拜占庭研究的话语里显得多么毫无意义）。叶卡捷琳娜的计划引发了1770年代伯罗奔尼撒的一场叛乱，比希腊革命早五十年。1782年，她又向奥地利人提出了另一项类似计划。[^empire-of-greeks-to-byzantium-28] 直到1830年，俄国政治家还在提出肢解奥斯曼帝国、在俄国保护下于君士坦丁堡建立一个新的希腊或东正教帝国的方案。西方观察家也评论过东正教所造就的希腊与俄国之间的密切关系（拿破仑称沙皇亚历山大一世为“狡猾的拜占庭人”）。[^empire-of-greeks-to-byzantium-29] 希腊革命结束时，正是俄国进行军事干预，果断迫使高门（Porte）接受希腊独立；而独立希腊的第一任总督约阿尼斯·卡波迪斯特里亚斯（Ioannis Kapodistrias）曾在俄国外交部门建立事业。这种关系使英法怀疑他是俄国控制希腊的代理人，而他否认了这一点。[^empire-of-greeks-to-byzantium-30] 卢西恩·弗拉里（Lucien Frary）在分析1821至1844年俄国政策时认为，沙皇实际上无意吞并君士坦丁堡或复兴希腊帝国，但西方普遍担心他可能这样做，助长了不断高涨的恐俄情绪。[^empire-of-greeks-to-byzantium-31] 在希腊和俄国，许多人都希望实现这样的复辟，民间社团还为此散布宣传。
+
+<!-- empire-of-greeks-to-byzantium-023 -->
+
+〔原书 pp. 359–360〕
+
+历史学家、自由撰稿的随笔作家雅各布·菲利普·法尔梅拉耶（Jakob Philipp Fallmerayer，1790–1861）对这些发展反应极端。今天他因宣称所谓的现代希腊人血管里没有一滴古希腊血液而臭名昭著。他相信，在拜占庭时代，希腊已被斯拉夫人完全占据；这些斯拉夫人只是在语言上被浅浅地希腊化了（他后来还相信其中大量混入了阿尔巴尼亚血统）。此外，他抱有启蒙运动对拜占庭的偏见，认为拜占庭是一切人类恶行与堕落的结晶。在他看来，那些在他自己所处时代自称希腊人、却几乎未被希腊化的斯拉夫人是最低劣的人类，有几处文字甚至幻想把他们赶尽杀绝。[^empire-of-greeks-to-byzantium-32] 但这种偏见只是更广泛政治议程的一部分。法尔梅拉耶关注的是俄国不断上升的力量。他把斯拉夫人、中世纪和现代的希腊人（他们只是伪装得很浅的斯拉夫人）以及俄国人，视为对自由启蒙欧洲的同一威胁；他相信，德国的霸权将为所有人开创一个和平时代。[^empire-of-greeks-to-byzantium-33] 在他看来，欧洲人允许“现代希腊”出现是一个可怕的错误，因为俄国当然觊觎君士坦丁堡。他认为希腊人与俄国人串通，不仅因为东正教，还因为他们根本不是真正的希腊人——他们的拜占庭祖先也是如此。
+
+<!-- empire-of-greeks-to-byzantium-024 -->
+
+〔原书 pp. 360–360〕
+
+这种意识形态可能影响了法尔梅拉耶谈论拜占庭的方式。虽然他继续把拜占庭称为由“希腊皇帝”统治的“希腊帝国”（尽管他认为这些皇帝实际上是斯拉夫人），他也使用名词 Byzanz（拜占庭）和 der Byzantiner（拜占庭人）。[^empire-of-greeks-to-byzantium-34] 这标志着向把“拜占庭”视为一个独立实体的转变，而不仅仅是希腊历史的一个阶段。事实上，如果你认为拜占庭人根本不是希腊人——不是“血统”上的希腊人——那它就必须是一个独立实体。（有趣的是，法尔梅拉耶愿意承认，岛屿和小亚细亚的希腊人——即那些仍受奥斯曼帝国统治的人——并未被斯拉夫血统淹没，身上仍有某种古代的高贵气质。）
+
+<!-- empire-of-greeks-to-byzantium-025 -->
+
+〔原书 pp. 360–361〕
+
+这些线索在克里米亚战争（1853–56）中汇合；我认为，在它的众多后果中，这场战争标志着欧洲人谈论拜占庭方式的转折点。具体而言，它预告了“希腊人的帝国”作为主导范式的终结，以及我们如今这个“拜占庭”的登场。读者会记得，这场主要在克里米亚进行的战争，是英法为保卫奥斯曼帝国、对抗俄国而进行的干预。[^empire-of-greeks-to-byzantium-35] 伴随着这场战争的是欧洲恐俄情绪的激增，其中包括对在君士坦丁堡建立一个东正教帝国的恐惧（jingoism〔沙文主义〕一词就源于此时英国人唱的一首小调，吹嘘他们不会让俄国人夺走君士坦丁堡）。虽然沙皇显然无意给希腊人一个新帝国，但希腊人却——对他们自己不利地——相信这是他们从土耳其枷锁下解放更多希腊人、并为新生希腊国家获取更多领土的机会。这种野心被称为“伟大理想”（Megali Idea）或“宏大愿景”。虽然这一理念此前曾以模糊的措辞表达过，但在克里米亚战争期间，它首次成为领土扩张的纲领。[^empire-of-greeks-to-byzantium-36] 希腊站在俄国一边。一些希腊人作为志愿者加入俄军，另一些人则在伊庇鲁斯、色萨利和马其顿煽动反抗奥斯曼当局的叛乱——这些叛乱全部失败。在希腊国王的首肯下，希腊军队的军官辞去正式委任，以私人公民的身份加入这些革命运动。
+
+<!-- empire-of-greeks-to-byzantium-026 -->
+
+〔原书 pp. 361–361〕
+
+我相信，正是在这个时候，“希腊人的帝国”这一概念在西方变成了政治毒药。伊庇鲁斯战事中一位力图解放阿尔塔的希腊领袖——斯皮里宗·卡拉伊斯卡基斯（Spyridon Karaïskakis），其父是一位今天每个希腊人都熟知的著名革命战士——发表了一份公告，结尾是一句激动人心的口号：“希腊帝国或死亡！”（Ἑλληνικὴ αὐτοκρατορία ἢ θάνατος!）。希腊人在战争期间普遍采纳了这一口号。另一位指挥员塞奥多罗斯·格里瓦斯（Theodoros Grivas）写道：“我们已开始的斗争是伟大的；它高于1821年〔希腊革命〕，因为我们旨在恢复希腊帝国。”另一位前革命战士在《埃翁报》（Aion，雅典亲俄派的机关报）上发表文章，呼吁把“希腊帝国”视为上帝的旨意。其中一些文章是写给英国政府的。西方的回应迅速。英法军队占领雅典，没收或摧毁了《埃翁报》和其他报纸的印刷机。奥托国王在战争结束时没有被废黜，但他在战争期间的亲俄立场使他失去英国支持，为他几年后遭到推翻埋下伏笔。[^empire-of-greeks-to-byzantium-37]
+
+<!-- empire-of-greeks-to-byzantium-027 -->
+
+〔原书 pp. 361–361〕
+
+希腊在战争期间的立场引发了西方报刊大量反希腊社论，矛头指向希腊的“俄国主义”。[^empire-of-greeks-to-byzantium-38] 19世纪最伟大的新闻工作者之一卡尔·马克思在《纽约每日论坛报》上就1854年“希腊起义”撰写了一篇社论。他说，希腊人“甚至可能梦想拜占庭复辟，尽管总体而言，他们是一个精明过人的民族，不会相信这种幻想。但希腊人这些民族扩张和独立的计划，是俄国阴谋的结果而被宣布出来的”。[^empire-of-greeks-to-byzantium-39]
+
+<!-- empire-of-greeks-to-byzantium-028 -->
+
+〔原书 pp. 361–362〕
+
+我相信，克里米亚战争是西方对帝国认知的转折点。正当赞贝利奥斯和帕帕里戈普洛斯等希腊民族历史学家开始大力投入希腊连续性的叙事、把“中世纪的希腊帝国”塑造为希腊历史的一个阶段，并接续19世纪初西方历史学家的脉络时，在19世纪后半叶，我们看到西方对“希腊人的帝国”的指称减少，而“拜占庭”和“拜占庭人”作为专名的使用上升。我们如今仍在使用的这些选择，与9世纪最初把东方帝国称为“希腊人的帝国”一样，都是政治性的。两者都是拒绝按帝国本来的样子看待它，并以迎合西方政治意识形态的方式给它贴标签。从“希腊人的帝国”到“拜占庭”的变化是渐进的，但到20世纪初基本完成。考虑到较早的术语及其范式主导西方认知已有一千多年，这一变化实际上相当迅速。
+
+<!-- empire-of-greeks-to-byzantium-029 -->
+
+〔原书 pp. 362–363〕
+
+只有一个地方直到20世纪很晚才发生这种变化，甚至到那时也不彻底：那个地方（你大概能猜到）就是希腊。在克里米亚战争期间及之后，“希腊人的帝国”这一观念在希腊本土兴起，职业历史学家和业余历史学家都把它当作中世纪希腊史的组织范畴。[^empire-of-greeks-to-byzantium-40] 而恢复某种包含君士坦丁堡的希腊帝国的理念，直到1922年小亚细亚战役彻底失败及随后的人口交换后才消亡。这种理念在西方浪漫主义亲希腊的历史学家中也有支持者，例如费迪南德·格雷戈罗维乌斯（Ferdinand Gregorovius）；他写了中世纪雅典史，并幻想十字架再次飘扬在圣索菲亚大教堂之上。[^empire-of-greeks-to-byzantium-41] 俄国思想家和规划者则推行他们自己的构想，要在君士坦丁堡建立一个东正教帝国——当然是在俄国保护或直接控制之下——即使这一构想并未塑造沙皇的实际政策。这跨越了俄国的政治界线。就在克里米亚战争前，社会主义者、反沙皇的亚历山大·赫尔岑（Alexander Herzen，1812–1870）还赞成恢复叶卡捷琳娜的希腊计划。在1877–78年俄土战争前几个月，费奥多尔·陀思妥耶夫斯基（Fyodor Dostoyevsky，1821–1881）“为俄国有权占有君士坦丁堡辩护，‘因为它是东正教的领袖、保护者和守护者’”；泛斯拉夫主义理论家尼古拉·丹尼列夫斯基（Nikolai Danilevsky，1822–1885）和康斯坦丁·列昂季耶夫（Konstantin Leontiev，1831–1891）也持同样主张，后者是一位保守的沙皇拥护者。[^empire-of-greeks-to-byzantium-42] 克里米亚战争后，俄国大体上疏远了希腊，日益将其视为西方附庸，并以泛斯拉夫主义为旗号在巴尔干扶植斯拉夫代理人。但对君士坦丁堡的兴趣并未就此消失。正如叶卡捷琳娜大帝曾发行饰有圣索菲亚大教堂的纪念章，克里米亚战争期间，敖德萨一位富有的希腊人格里戈里奥斯·马拉利斯（Grigorios Maraslis）也出资给沙皇修复圣索菲亚大教堂，以备该城落入俄军之手；第一次世界大战中，如果俄军得手，一名希腊裔俄国军官还被指派了在圣索菲亚大教堂上安放十字架的任务。[^empire-of-greeks-to-byzantium-43]
+
+<!-- empire-of-greeks-to-byzantium-030 -->
+
+〔原书 pp. 363–363〕
+
+这一切使“君士坦丁堡的希腊帝国”这一观念在西方越来越有毒性。当然，变化并非突然发生，尤其是在19世纪上半叶受教育的作家中。在霍恩比夫人的《克里米亚战争期间的君士坦丁堡》（1863年伦敦出版）中，拜占庭帝国通篇被称为“希腊帝国”，并与希腊种族联系在一起；而“拜占庭”一词很少见（1200页中仅出现六次），且只用于首都。这是未经改造的用法：今天没人会使用那种语言。向拜占庭的转变是缓慢的，而且先发生在书名中，然后书的内容才改变。例如，在法语传统中，有阿尔弗雷德·朗博（Alfred Rambaud）1870年的《十世纪的希腊帝国》（L’Empire grec au Xe siècle）。但他所启发的新一代历史学家古斯塔夫·施伦贝格尔（Gustave Schlumberger，1844–1929）——另一位亲希腊者——在书名和其他项目标题中总把帝国称为 Byzance、把形容词写作 byzantine，尽管在书里他随意地把拜占庭人及其帝国称为希腊的。在他那部关于拜占庭的“史诗式历史”第一卷（L’épopée byzantine，1890）中，他称他们为希腊人的次数约为称他们为拜占庭人的两倍；但到第三卷（1905），两者频率大致相当。而当他撰写回忆录时——主要是在第一次世界大战期间和1920年代——他回顾自己关于拜占庭的出版物，只用这个词指帝国，从未使用“希腊”一词——只有一次例外，指13世纪的一位皇帝。[^empire-of-greeks-to-byzantium-44] 在他的职业生涯中，某种根本性的东西已经转变，尽管他从未在出版物中解释过。
+
+<!-- empire-of-greeks-to-byzantium-031 -->
+
+〔原书 pp. 364–364〕
+
+一个学术领域正逐渐围绕这个名称（Byzanz、Byzance）建制化，并回避希腊族群标签。这是一场静悄悄的革命，在无声中完成；但如果我们把1851年前的西方用法与20世纪初成为既定规范的用法相比较，它就会以惊人的清晰度显现出来。这一转变肯定有多种原因。更难解释的是，关于19世纪后半叶拜占庭研究学术学科起源的非颂圣式研究，至今仍很初步。[^empire-of-greeks-to-byzantium-45] 在某种程度上，“拜占庭”一词地位的上升，是由于需要在古希腊研究与中世纪东方帝国研究之间建立清晰的学科边界。但19世纪列强的帝国政治及其焦虑，构成了这些决定的意识形态母体。
+
+<!-- empire-of-greeks-to-byzantium-032 -->
+
+〔原书 pp. 364–364〕
+
+在慕尼黑，卡尔·克伦巴赫（Karl Krumbacher，1856–1909）担任实际上首个拜占庭研究学术教席，并于1892年创办《拜占庭学杂志》（Byzantinische Zeitschrift）。第一卷前言解释该刊宗旨，颇具揭示性。他的目标是证明拜占庭研究是（或应该是）一门连贯、自主、自立的学科。他从未把帝国及其居民称为希腊人或希腊的，而总是称为拜占庭、拜占庭人等。他只把“希腊的”用于拜占庭文学的语言和其教会。他承认自己研究的对象自称罗马人而非拜占庭人，但他为使用后者辩护说，这一术语在所有现代语言中已成惯例；令人惊讶的是，他还说没有别的选择（第12页）。这并不符合事实，因为当时就有 J. B. 伯里（J. B. Bury）等知名学者认为，生造出来的“拜占庭”一词对实际上是罗马帝国的这个国家是个糟糕的名称。[^empire-of-greeks-to-byzantium-46] 此外，克伦巴赫没有解释他为何排除“希腊的”这一族群标签，或更常规、更传统的“希腊人的帝国”一词。他只间接地处理这个问题，说如果现代希腊人要理解自己的中世纪历史，就必须深入研究拜占庭史（第7页）——但即便这句话也回避问题、态度含糊，因为他对拜占庭的所有“继承者”都说了同样的话。事实上，在前言的第一页，他就声称现代希腊比“欧洲”（引号是他的）更不适合作为该刊的出版地。确实，
+
+<!-- empire-of-greeks-to-byzantium-033 -->
+
+〔原书 pp. 365–365〕
+
+> 东正教东方本身自成一个世界，是一个奇特、半开化、半野蛮的国家与族群的杂乱混合体，位于文明的欧洲和野蛮的亚洲之间。这个纷繁多样的文化漩涡，过去曾是欧洲抵御亚洲野蛮的防护墙，未来似乎注定要充当从欧洲通往亚洲的文化桥梁，但直到如今仍很少受到关注，并普遍遭到忽视。[^empire-of-greeks-to-byzantium-47]（第2页）
+
+<!-- empire-of-greeks-to-byzantium-034 -->
+
+〔原书 pp. 365–365〕
+
+我们需要更多了解克伦巴赫的政治立场，尤其是对俄国和东方问题的立场（例如，德国自由主义者和社会主义者往往更恐俄）。除克伦巴赫之外，若能找到确凿证据——有人白纸黑字地说，“希腊人的帝国”一词鉴于当时的世界形势已在政治上过于受损，中性的“拜占庭”更可取——那也很好。但这类构造板块般的巨变，很少会留下现成的明确解释。在《拜占庭学杂志》第一卷问世前一年，克伦巴赫出版了他那部开创性的《拜占庭文学史》（Geschichte der byzantinischen Litteratur）。标题的选择意义重大，因为唯一可以无问题、无歧义地使用“希腊的”一词的领域，是“拜占庭人”的语言和文学——他本人也在《拜占庭学杂志》创刊号前言中这样使用。事实上，克伦巴赫1892年获聘的教席名为“中古希腊语与现代希腊语文学”教授（“für mittel- und neugriechische Litteratur”）。但在克伦巴赫手中，即使对文学研究而言，“拜占庭的”也在把“希腊的”挤出范畴。
+
+<!-- empire-of-greeks-to-byzantium-035 -->
+
+〔原书 pp. 365–365〕
+
+于是，这一转变完成了一个循环。在近代早期用法中，“拜占庭的”是与“希腊人的帝国”相对应的形容词，而“希腊的”是那个文明的专名和“本质”；到克伦巴赫时代，关系完全颠倒：“拜占庭”成了文明的专名和“本质”，而“希腊的”只是形容其语言的形容词。我们已来到现代拜占庭研究的门槛，来到我们自己呼吸的空气之中。到21世纪初的此刻，我们对自己是如何走到这里的浑然不觉，以致可以把“拜占庭”范式的发明上溯到16世纪、归功于沃尔夫（同时从雅典人拉奥尼科斯·哈尔科孔杜莱斯那里把它偷走）。
+
+<!-- empire-of-greeks-to-byzantium-036 -->
+
+〔原书 pp. 365–366〕
+
+然而，把我们带到这里的那条路，途中经历了一些有趣的绕行；考察那些曾被提出但未被整个领域采纳的替代路径，也很有意思。英国历史学家 E. A. 弗里曼（E. A. Freeman，1823–1892）不时关注拜占庭史。1879年，他发表了一篇相关论文的修订版；文中摒弃了“希腊帝国”这一范畴，主张采用“拜占庭帝国”的标目。弗里曼对东方问题有强烈看法，文章写到第三页，他已经提到克里米亚战争对西方拜占庭认知的负面影响。然而，弗里曼这些选择背后的政治，与我们仅凭这些事实所预期的大不相同（即由恐俄症衍生的恐希腊症）。他游说争取巴尔干各民族摆脱奥斯曼压迫的自由，并于1875年被希腊授予骑士称号。他反对“希腊帝国”这一观念，是因为他依据史料正确地看出，它实际上是罗马的。在他心中，拜占庭只是“东方罗马”的方便说法；对他来说，帝国真正成为希腊的，要到1204年之后，尽管即便在那之后，它在重要方面仍然是罗马的。[^empire-of-greeks-to-byzantium-48] 弗里曼真诚地相信，拜占庭范式可以成为恢复其罗马性的载体；但我们现在知道，在实践中，它结果只是又一种否认那种罗马性的机制。
+
+<!-- empire-of-greeks-to-byzantium-037 -->
+
+〔原书 pp. 366–366〕
+
+弗里曼并非仅作口头让步——现代拜占庭学（Byzantinistik）的著述中常见的那种让步：学者（如克伦巴赫）勉强承认拜占庭人自称罗马人，但同时也表明我们不会那样称呼他们，也不会努力记录、解释或理解他们为何那样自称。与后来的拜占庭学者不同，弗里曼没有回避历史学家以实质内容解释其标签的责任。因此，他尽其所能阐明自己为何、如何相信拜占庭帝国本质上是罗马的。他没有像我们这样，用“拜占庭”来回避这个问题。
+
+<!-- empire-of-greeks-to-byzantium-038 -->
+
+〔原书 pp. 366–366〕
+
+到19世纪末，“拜占庭”标签已在很大程度上取代了“希腊”标签。西方在中世纪时期就已经剥夺了东方帝国的罗马性，而“拜占庭”现在又剥夺了它对任何族群身份的主张——甚至包括其据称的“希腊”族群身份。于是，在罗马性被禁止、希腊性被限制在语言和文学文化的各个方面的情形下，20世纪的历史学家不得不用唯一剩下的要素——东正教——来填充“拜占庭”的空壳。
+
+<!-- empire-of-greeks-to-byzantium-039 -->
+
+〔原书 pp. 366–367〕
+
+我希望已说明19世纪具体的政治和思想潮流如何推动了拜占庭研究，并在此例中甚至重塑了使拜占庭研究作为一门专业学科得以形成的基本范畴。[^empire-of-greeks-to-byzantium-49] 克里米亚战争产生了一个深刻而未被认识的影响：在“希腊人的帝国”已成为欧洲列强眼中政治有毒概念的情境下，它锻造出“拜占庭的／拜占庭”与“希腊的／希腊（国）”之间的新区分。作为回应，欧洲知识分子日益倚重概念上相邻且中性的“拜占庭”，以便在新希腊国家可以接受的民族愿望与它危险的帝国幻想及其（被认为的）俄国靠山之间，建立一道语义屏障。这一策略实际上使拜占庭研究的主流叙事越来越远离我们在拜占庭史料中看到的内容。
+
+<!-- empire-of-greeks-to-byzantium-040 -->
+
+〔原书 pp. 367–367〕
+
+现代学者更愿意把拜占庭视为一个自成一体的文明，拥有自己独特的文化、制度和认同，与古希腊罗马的过去以及现代希腊的现在相分离。但这一与专业学科形成相伴的思想工程，有着一部不为人知的政治与意识形态史：它深深卷入19世纪中期和晚期大国政治的特定环境。这个帝国在中世纪已经被重新贴过一次标签（从罗马到希腊）。19世纪这次重新命名的新之处在于，它没有把拜占庭与任何其他历史谱系或既有的文明范畴联系起来，而是将其研究对象与前后时代隔离开来。这种隔绝使广义上的拜占庭研究得以作为一门独立学科兴起。
+
+## 原注 / Original notes
+
+[^empire-of-greeks-to-byzantium-1]: 巴尔萨蒙：G. R. Rallis 与 A. Potlis 编，Σύνταγμα τῶν θείων καὶ ἱερῶν κανόνων，6卷（雅典，1852–1859），2:285–286；英译见 P. Magdalino，“Constantinople and the Outside World”，载 *Strangers to Themselves: The Byzantine Outsider*，D. C. Smythe 编（Aldershot，2000），149–161，引文见150。梅勒提奥斯：《人性简论》（A Brief Account of Human Nature），载 *Anecdota Graeca e codd. manuscriptis bibliothecarum Oxoniensium*，J. A. Cramer 编，第3卷（牛津，1836），5–157，引文见155。
+
+[^empire-of-greeks-to-byzantium-2]: 普里斯库斯见 R. C. Blockley，*The Fragmentary Classicising Historians of the Later Roman Empire*，2卷（利物浦，1981–1983），1:49，2:222。Blockley 否认《拜占庭史》（Byzantiakē）这一标题，但我不明白其理由。无论如何，就连他也得承认，后来一位拜占庭读者认为这个标题是恰当的，所以这个名称并未消失，只是被推后了。此外，我们必须把《苏达辞书》中的“Attalos”更正为“Attilas”。马尔科斯见同上，1:71，2:402（出自 Photios，《书目》cod. 78）。关于这些著作标题的讨论，见 A. Karpozilos，Βυζαντινοὶ ἱστορικοὶ καὶ χρονογράφοι，第1卷（雅典，1997），310–311，324–325。
+
+[^empire-of-greeks-to-byzantium-3]: M. Kruse，*The Politics of Roman Memory from the Fall of the Western Empire to the Age of Justinian*（费城，2019）。
+
+[^empire-of-greeks-to-byzantium-4]: A. Kaldellis，*Romanland: Ethnicity and Empire in Byzantium*（马萨诸塞州剑桥，2019）。
+
+[^empire-of-greeks-to-byzantium-5]: 读者可在纽约大都会艺术博物馆网站上检索藏品编号1975.1.1269，查看这枚纪念章：https://www.metmuseum.org/art/collection。
+
+[^empire-of-greeks-to-byzantium-6]: 关于这一传统的综述，见 Kaldellis，*Romanland*，第1章（3–37）。
+
+[^empire-of-greeks-to-byzantium-7]: 原文与译文见 A. Kaldellis，*Laonikos Chalkokondyles: The Histories*，2卷（马萨诸塞州剑桥，2014）；专题研究见 A. Kaldellis，*A New Herodotos: Laonikos Chalkokondyles on the Ottoman Empire, the Fall of Byzantium, and the Emergence of the West*（华盛顿特区，2014）。关于其老师普勒托，见 N. Siniossoglou，*Radical Platonism in Byzantium: Illumination and Utopia in Gemistos Plethon*（剑桥，2011），以及本卷第1章 Fabio Pagani 的文章。
+
+[^empire-of-greeks-to-byzantium-8]: 例如，Laonikos Chalkokondyles，*Histories* 4.5。
+
+[^empire-of-greeks-to-byzantium-9]: Kaldellis，*A New Herodotos*，238–240。
+
+[^empire-of-greeks-to-byzantium-10]: A. Pippidi，*Visions of the Ottoman World in Renaissance Europe*（纽约，2013），45–46，78–79，94。
+
+[^empire-of-greeks-to-byzantium-11]: 克劳泽的译本重印于《波恩文集》（1843）和《希腊教父文献集》（PG）第159卷的拉奥尼科斯版本。
+
+[^empire-of-greeks-to-byzantium-12]: A. Ben-Tov，*Lutheran Humanists and Greek Antiquity: Melanchthonian Scholarship between Universal History and Pedagogy*（莱顿，2009），106–109；关于背景的更多信息和文献，见 D. R. Reinsch，“The History of Editing Byzantine Historiographical Texts”，载 *The Byzantine World*，P. Stephenson 编（伦敦，2010），435–444，引文见438–439。
+
+[^empire-of-greeks-to-byzantium-13]: C. Raffensperber，“The Byzantine Ideal”，收入其 *Reimagining Europe: Kievan Rus’ in the Medieval World*（马萨诸塞州剑桥，2012）第1章，10–46，记录了许多这类隐性借用；另见 K. N. Ciggaar，*Western Travellers to Constantinople: The West and Byzantium, 962–1204*（莱顿，1996）。
+
+[^empire-of-greeks-to-byzantium-14]: 相关史料由 A. G. Panagopoulou 搜集并讨论，Οι διπλωματικοί γάμοι στο Βυζάντιο (6ος–12ος αιώνας)（雅典，2006），170–172。
+
+[^empire-of-greeks-to-byzantium-15]: E. Joranson，“The Great German Pilgrimage of 1064–1065”，载 *The Crusades and Other Historical Essays*，L. J. Paetow 编（纽约，1928），3–43，引文见17–18。
+
+[^empire-of-greeks-to-byzantium-16]: R. Chandler，*Travels in Greece*（牛津，1776），136；更多见 G. Koubourlis，Οι ιστοριογραφικές οφειλές των Σπ. Ζαμπέλιου και Κ. Παπαρρηγόπουλου: Η συμβολή Ελλήνων και ξένων λογίων στη διαμόρφωση του τρίσημου σχήματος του ελληνικού ιστορισμού (1782–1846)（雅典，2012），53，注12；161–162。
+
+[^empire-of-greeks-to-byzantium-17]: 例如维泰博的戈弗雷（Godfrey of Viterbo）；见 A. A. Latowsky，*Emperor of the World: Charlemagne and the Construction of Imperial Authority, 800–1229*（纽约州伊萨卡，2013），202–203。
+
+[^empire-of-greeks-to-byzantium-18]: 关于西方拜占庭认知的文献很多。此处仅引一项较早和一项较晚的研究：H. Hunger，*Graeculus perfidus, Ἰταλὸς ἰταμός: Il senso dell’alterità nei rapporti Greco-Romani ed Italo-Bizantini*（罗马，1987）；Ch. Messis，“Lectures sexuées d l’altérité: Les Latins et identité romaine menacée les derniers siècles de Byzance,” *JÖB* 61（2011）：151–170。
+
+[^empire-of-greeks-to-byzantium-19]: Philippe Labbe，*De Byzantinae historiae scriptoribus . . . ad omnes per orbem eruditos προτρεπτικόν*（巴黎，1648），5–6。
+
+[^empire-of-greeks-to-byzantium-20]: G. Fowden，“Gibbon and Islam,” *EHR* 131（2016）：261–292，引文见265，注10。
+
+[^empire-of-greeks-to-byzantium-21]: 例如见卢梭《论科学与艺术》，原题 *Discours qui a remporté le prix a l’Academie de Dijon en l’année 1750: Sur cette question proposée par la même académie: Si le rétablissement des sciences & des arts a contribué à épurer les mœurs*（日内瓦，1750）；关于伏尔泰，见 N. Giakovaki，Ευρώπη μέσω Ελλάδας: Μια καμπή στην ευρωπαϊκή αυτοσυνείδηση, 17ος–18ος αιώνας（雅典，2006），410，注8。
+
+[^empire-of-greeks-to-byzantium-22]: *Die briefe Barthold Georg Niebuhrs*，D. Gerhard 与 W. Norvin 编，第2卷（柏林，1929），306，第432号。
+
+[^empire-of-greeks-to-byzantium-23]: Koubourlis，Οι ιστοριογραφικές οφειλές，随处，尤其40、525。
+
+[^empire-of-greeks-to-byzantium-24]: 简明综述见 A. L. Macfie，*The Eastern Question, 1774–1923*（伦敦，1996）；更多文献见 D. Vovchenko，*Containing Balkan Nationalism: Imperial Russia and Ottoman Christians, 1856–1914*（纽约，2016），6，注12。
+
+[^empire-of-greeks-to-byzantium-25]: C. Aydin，*The Idea of the Muslim World: A Global Intellectual History*（马萨诸塞州剑桥，2017），40，49–54。
+
+[^empire-of-greeks-to-byzantium-26]: E. K. Bogli，“Έλληνες το γένος”: Η ιθαγένεια και η ταυτότητα στο εθνικό κράτος των Ελλήνων (1821–1844)（伊拉克利翁，2007），86，175，327，330；Koubourlis，Οι ιστοριογραφικές οφειλές，57，注21。
+
+[^empire-of-greeks-to-byzantium-27]: E. Skopetea，Τό “Πρότυπο βασίλειο” καί ἡ Μεγάλη Ἰδέα: Ὄψεις τοῦ ἐθνικοῦ προβλήματος στήν Ἐλλάδα (1830–1880)（雅典，1988），274，285，292–293；参较 V. Kremmydas，Η Μεγάλη Ιδέα: Μεταμορφώσεις ενός εθνικού ιδεολογήματος（雅典，2010），19。
+
+[^empire-of-greeks-to-byzantium-28]: L. Frary，*Russia and the Making of Modern Greek Identity, 1821–1844*（牛津，2015），24，并附文献；另见 Vovchenko，*Containing Balkan Nationalism*，40–42（概述）。
+
+[^empire-of-greeks-to-byzantium-29]: A. Roberts，*Napoleon the Great*（伦敦，2015），295。
+
+[^empire-of-greeks-to-byzantium-30]: Frary，*Russia*，25–46；关于对俄国在希腊影响力的恐惧：106，137，180，192。
+
+[^empire-of-greeks-to-byzantium-31]: 同上，60–61，202。
+
+[^empire-of-greeks-to-byzantium-32]: J. P. Fallmerayer，*Geschichte der Halbinsel Morea während der Mittelalters*，2卷（斯图加特，1830–1836），2:168；另见 E. Skopetea 所引其笔记中的一段，Φαλλμεράϋερ: Τεχνάσματα του ἀντίπαλου δέους（雅典，1999），91，注19。
+
+[^empire-of-greeks-to-byzantium-33]: 法尔梅拉耶的政治立场由 Skopetea 在 Φαλλμεράϋερ 中阐明。
+
+[^empire-of-greeks-to-byzantium-34]: 我浏览了他的著作各卷，发现这些术语有大量用例。
+
+[^empire-of-greeks-to-byzantium-35]: 关于这场战争的大量文献，见 Vovchenko，*Containing Balkan Nationalism*，66–67，注2。在此期间，英国在东方问题上的政策主要是遏制俄国：G. D. Clayton，*Britain and the Eastern Question: Missolonghi to Gallipoli*（伦敦，1971）。
+
+[^empire-of-greeks-to-byzantium-36]: Kremmydas，Μεγάλη Ιδέα，38–39。
+
+[^empire-of-greeks-to-byzantium-37]: L. Divani，Η εδαφική ολοκλήρωση της Ελλάδας, 1830–1947 (Απόπειρα πατριδογνωσίας)（雅典，2001），23，147–148，196。
+
+[^empire-of-greeks-to-byzantium-38]: Skopetea，Τό “Πρότυπο βασίλειο,” 179，277–278；关于战争期间的希腊和希腊人，见 J. V. Kofas，*International and Domestic Politics in Greece during the Crimean War*（纽约，1980），69（关于格里瓦斯的信）；M. N. Todorova，“The Greek Volunteers in the Crimean War,” *BalkSt* 25（1985）：539–563；S. I. Papadopoulos，“Ο προσανατολισμός των Ελλήνων προς τη Ρωσία κατά τον Κριμαϊκό Πόλεμο (1853–1856),” Βαλκανικά Σύμμεικτα 3（1989）：71–82（79–80 论《埃翁报》的文章）。
+
+[^empire-of-greeks-to-byzantium-39]: K. Marx，“The Greek Insurrection,” *New-York Daily Tribune*，1854年3月29日。
+
+[^empire-of-greeks-to-byzantium-40]: 综述很多：见 D. Christodoulou，“Byzantium in Nineteenth-Century Greek Historiography,” 载 Stephenson，*The Byzantine World*（见上文注12），445–461。
+
+[^empire-of-greeks-to-byzantium-41]: P. Stephenson，“Pioneers of Popular Byzantine History: Freeman, Gergorovius, Schlumberger,” 载其编 *The Byzantine World*，462–480，引文见469。
+
+[^empire-of-greeks-to-byzantium-42]: 分别见 Vovchenko，*Containing Balkan Nationalism*，68–69、1、131–132、187–188；关于（1912年的）俄国规划者，见290。
+
+[^empire-of-greeks-to-byzantium-43]: 俄国对圣索菲亚大教堂的兴趣：O. Figes，*The Crimean War: A History*（纽约，2010），23–27；叶卡捷琳娜时期：见上文及 A. Cutler，“Recovering St. Sophia: Cameron, Catherine II, and the Idea of Constantinople in Late Eighteenth-Century Russia,” 载 *An Architectural Progress in the Renaissance and Baroque*，H. A. Millon 与 S. S. Munshower 编，2卷（宾夕法尼亚州大学公园，1992），2:888–909；第一次世界大战期间：L. Gerd，“Russian Imperial Policy in the Orthodox East and Its Relation to Byzantine Studies,” 载 *Imagining Byzantium: Perceptions, Patterns, Problems*，A. Alshanskaya、A. Gietzen 与 C. Hadjiafxenti 编（美因茨，2018），93–100，引文见97–98；马拉利斯：G. Kordatos，Ἱστορία τῆς νεώτερης Ἑλλάδος，第3卷（雅典，1957），601；一战中的俄国军官：P. Sarris，*Byzantium: A Very Short Introduction*（牛津，2015），127。感谢 Jake Ransohoff 帮助我查找最后两条文献。关于一战期间对君士坦丁堡和圣索菲亚大教堂的相互竞争的主张，见 P. Mansel，*Constantinople: City of the World’s Desire, 1453–1924*（纽约，1995），373–374，382–384。
+
+[^empire-of-greeks-to-byzantium-44]: G. Schlumberger，*Mes souvenirs, 1844–1928*，2卷（巴黎，1934），1:174–176，263–273；2:91，96–97（关于约翰三世·瓦塔泽斯〔John III Vatatzes〕的例外）。在本卷所源自的会议上，Joel Kalvesmaki 好意向我演示了如何用谷歌生成图表，这些图表确实记录了19世纪后半叶对“希腊人的帝国”和“希腊帝国”的指称急剧下降，同时“拜占庭的”和“拜占庭人”急剧上升。我在这个在线系统上试了试，它对所有主要研究语言都显示出类似图表。由于我并非恰当使用这项技术的专家，我把这种方法留给其他人。
+
+[^empire-of-greeks-to-byzantium-45]: 例如见 H.-G. Beck，“Die byzantinischen Studien in Deutschland vor Karl Krumbacher,” 载 ΧΑΛΙΚΕΣ: Festgabe für die Teilnehmer am XI. Internationalen Byzantinistenkongress, München 15.–20. September 1958（弗赖辛，1958），67–119。
+
+[^empire-of-greeks-to-byzantium-46]: J. B. Bury，*A History of the Later Roman Empire from Arcadius to Irene*，2卷（纽约，1889），1:v–viii。
+
+[^empire-of-greeks-to-byzantium-47]: 德语原文：“Der orthodoxe Osten bildet eine Welt für sich, die als ein eigenartiger, halb gebildeter, halb wilder Staaten- und Völkerkomplex zwischen dem civilisierten Europa und dem barbarischen Asien liegt. Dieses vielgestaltige Völkergewirr, das in der Vergangenheit die Schutzmauer Europas gegen die asiatische Barbarei bildete und für die Zukunft berufen scheint als Kulturbrücke von Europa nach Asien zu dienen, ist bis auf die neueste Zeit wenig beachtet und viel verkannt worden.”
+
+[^empire-of-greeks-to-byzantium-48]: E. A. Freeman，*Historical Essays*（伦敦，1879），231–278，尤其232–233、244–246。关于其政治立场，见 Stephenson，“Pioneers of Popular Byzantine History,” 463–466。
+
+[^empire-of-greeks-to-byzantium-49]: 我的结论借鉴了本卷编者发给我的意见，他们巧妙地把本章的贡献与本卷的整体主题联系起来。
+
+## 校注 / Editorial notes
+
+原书第360页将 jingoism 的起源联系于克里米亚战争（1853–1856）。《英国人物传记辞典》1912年增补卷 MacDermott 条目将相关歌曲及政治性用语的流行记于1878年，故此处疑混同1877–1878年俄土战争背景。正文保留作者说法。本次依据可检索的辞典转录核验，未亲验1878年报纸原件。
+
+原书第365页英文引文末句为 widely ignored，译作‘普遍遭到忽视’；原注47德文 viel verkannt 则偏向‘多遭误解’。本译正文跟随作者所引英文，保留德文原注以供比较。
+
+原注书目保留底本写法，包括注13 Raffensperber、注41 Gergorovius 及注18法文题名中的疑似缺词；未将推测性更正混入原注。

@@ -7196,6 +7196,45 @@ window.TRANSLATIONS = {
         "历史 History",
         "媒介 Media"
       ]
+    },
+    {
+      "id": "empire-of-greeks-to-byzantium",
+      "title": "从“希腊人的帝国”到“拜占庭”：现代范式转变的政治",
+      "originalTitle": "From “Empire of the Greeks” to “Byzantium”: The Politics of a Modern Paradigm Shift",
+      "author": "Anthony Kaldellis",
+      "authorZh": "安东尼·卡尔德利斯",
+      "sourceLanguage": "en",
+      "sourceLanguageLabel": "English",
+      "editionNotice": "原书第十三章，349–367页；保留49条原注。页码表示对应原书段落起始页，跨页范围另行记录。",
+      "bilingual": true,
+      "language": "zh-CN",
+      "languagePair": "English / 中文",
+      "translator": "AI-assisted working translation",
+      "example": false,
+      "tags": [
+        "历史 History",
+        "政治 Politics"
+      ],
+      "description": "考察“拜占庭”范式与十九世纪欧洲政治的关系。完整章节中英对照，保留49条原注及原书页码。",
+      "dataUrl": "translations/articles/empire-of-greeks-to-byzantium/article.json",
+      "downloads": [
+        {
+          "label": "中文 Markdown",
+          "url": "translations/articles/empire-of-greeks-to-byzantium/article_zh.md"
+        },
+        {
+          "label": "Bilingual PDF",
+          "url": "translations/articles/empire-of-greeks-to-byzantium/article_bilingual.pdf"
+        },
+        {
+          "label": "English PDF",
+          "url": "translations/articles/empire-of-greeks-to-byzantium/article_en.pdf"
+        },
+        {
+          "label": "Source package",
+          "url": "translations/articles/empire-of-greeks-to-byzantium/source-package.zip"
+        }
+      ]
     }
   ]
 };

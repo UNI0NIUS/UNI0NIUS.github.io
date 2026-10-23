@@ -1,0 +1,355 @@
+# From “Empire of the Greeks” to “Byzantium”: The Politics of a Modern Paradigm Shift
+
+Anthony Kaldellis · The Invention of Byzantium in Early Modern Europe · Dumbarton Oaks, 2021 · pp. 349–367
+
+原书第十三章，349–367页；保留49条原注。页码表示对应原书段落起始页，跨页范围另行记录。
+
+原著权利归原权利人；用户提供底本的中文校订阅读版，非出版社官方译本。
+
+<!-- empire-of-greeks-to-byzantium-001 -->
+
+〔原书 pp. 349–350〕
+
+How did the term *Byzantium* come to refer not just to the capital city of the eastern empire but to the empire as a whole and, by extension, to its entire population and civilization? The question is not merely lexicographical but conceptual: the rise of “Byzantium” displaced other notions about what the empire was (e.g., Roman, Greek), detached it from previous narratives, and asserted it as a distinct and separate civilization with its own “essence” that could and should be studied by a discrete scholarly discipline. As we know, the Byzantines themselves—rather, the Greek-speaking Romans of the East whom we now call Byzantines—used this term to refer only to their capital city, as an alternative to its legal names, Constantinople and New Rome, and so its inhabitants could be called “Byzantines.” They did not use this name to refer to their empire as a whole. “Byzantios” (Βυζάντιος) was just another word for a Constantinopolitan. For example, the twelfth-century canonist Theodore Balsamon called himself “a Constantinopolitan through-and-through” (Κωνσταντινουπολίτης ἀκραιφνέστατος), while the medical writer Meletios (of the middle Byzantine period) illustrated the concept of individual identity by defining himself as “a Byzantiaios (Βυζαντιαῖος), a doctor, short, snub-nosed, the son of Gregorios,” and so on.[^empire-of-greeks-to-byzantium-1] It is commonly believed that the proper noun *Byzantium* as a term for the empire as a whole was coined in the sixteenth century by the German scholar Hieronymus Wolf and became conventional thereafter. Thus was “Byzantine studies” founded.
+
+<!-- empire-of-greeks-to-byzantium-002 -->
+
+〔原书 pp. 350–350〕
+
+This conventional narrative is inaccurate, however. Some of its elements must be adjusted in a relatively minor way. But one part of this story is glaringly false, and the truth about it changes the big picture considerably: the circumstances under which “Byzantium” became the term of art for our discipline were more politicized, interesting, and recent than the traditional narrative would have it. The transition occurred not in the sixteenth century but in the nineteenth. The history of this paradigm shift requires that we change our understanding of how “Byzantium” came about in the first place, and why. But first, I will present the minor quibbles that relate to earlier periods and work my way forward.
+
+<!-- empire-of-greeks-to-byzantium-003 -->
+
+〔原书 pp. 350–350〕
+
+Two eastern Romans do seem to have experimented with using the term *Byzantine* for the empire as a whole, namely the historians Priskos and Malchos, who wrote in Greek in the later fifth century. Priskos, a functionary of the eastern empire who among other duties accompanied official embassies, recounted the history of the mid-fifth century in a detailed narrative that he finished in the mid- or late 470s. He was probably the most important historian of the fifth century, and his work was used by many of his successors. Although his writings did not survive, we have many quotations and fragments preserved in the *Excerpta* commissioned by Constantine VII Porphyrogennetos in the tenth century. Judging from the surviving fragments, Priskos paid more or less equal attention to what he called the “western” and the “eastern” halves of the Roman Empire. For Priskos these two halves were equally Roman, and he refers throughout his narrative either to Romans generally or to “eastern Romans” and “western Romans” specifically. The two groups were distinguished by geography and by having their own emperors and administration, but not by degrees of Romanness; the eastern Romans had no other collective identity.
+
+<!-- empire-of-greeks-to-byzantium-004 -->
+
+〔原书 pp. 350–350〕
+
+What is interesting for us, however, is the possible title of Priskos’s work. According to the *Suda*, a tenth-century encyclopedia of classical studies, it was titled the *Byzantine History* (*Byzantiakē*, *Βυζαντιακή*). We do not know how reliable this information is. The entry goes on to add that Priskos also wrote *The Events Concerning Attila*, along with various rhetorical works and letters. This list suggests that the *Attila* was separate from the *History*, though the fragments of the history that survive feature Attila extensively. Meanwhile, the tenth-century compilation *Excerpta de legationibus* calls the work the *Gothic History* (there are Goths in the fragments too).
+
+<!-- empire-of-greeks-to-byzantium-005 -->
+
+〔原书 pp. 351–351〕
+
+Priskos’s somewhat later contemporary the historian Malchos, about whom we know much less, also called his history the *Byzantiaka *(*Βυζαντιακά*).[^empire-of-greeks-to-byzantium-2]
+
+<!-- empire-of-greeks-to-byzantium-006 -->
+
+〔原书 pp. 351–351〕
+
+These two eastern Romans, then, took the archaic name of the capital of their half of the empire and used it as a rubric for the history of the empire as a whole, or perhaps their intention was to signal that their histories were written from an eastern Roman (or Constantinopolitan) standpoint. We do not know exactly what they meant by it, nor if anyone else used the name in such a broad sense. It was, after all, a unique moment in the history of the Roman Empire. Its institutional division into two halves had become more or less fixed, and perhaps Priskos and Malchos were looking for a name by which to identify their half. But that moment soon passed. The western empire fell, leaving the eastern half as the only Roman Empire in existence. The East did not need to differentiate itself from the West. Under Justinian there was a vigorous assertion of the eastern empire’s Romanness.[^empire-of-greeks-to-byzantium-3] For the duration of the eastern empire’s history, its people and rulers were “Romans” (*Romaioi*) in a sense that was both political and ethnic, and they called their state “the polity of the Romans,” “the monarchy of the Romans,” or just Romanía (Ῥωμανία)—that is, “Romanland.”[^empire-of-greeks-to-byzantium-4]
+
+<!-- empire-of-greeks-to-byzantium-007 -->
+
+〔原书 pp. 351–352〕
+
+This bring us to early modern times. It is formulaic to claim that the story of *Byzantium* as a term for the empire as a whole begins with Hieronymus Wolf in the sixteenth century, but this unlikely to be true. The term may have already had that sense in some Western medieval texts. At conferences, colleagues invariably tell me that they remember seeing it in some papal chronicle or medieval romance. Research on this would be most welcome. I expect that most of these texts will turn out to be using Byzantium as a synonym for Constantinople in the phrases “empire of Constantinople” and “emperor of Constantinople.” For example, in the medallion made by Costanzo da Ferrara for Sultan Mehmed II in 1481, he is called (among other things) *Byzantii imperator*.[^empire-of-greeks-to-byzantium-5] This is not (yet) our modern concept of Byzantium but instead the usual medieval metonym (the whole named after the capital). What we would need is a territorial label—for example, if someone on the frontier far from the capital is said to “enter Byzantium.” Such passages, I suspect, would be rare in Western texts and unsystematic, and they probably are not the source for the modern scholarly use of the term Byzantine.
+
+<!-- empire-of-greeks-to-byzantium-008 -->
+
+〔原书 pp. 352–352〕
+
+That tradition likely starts with another historian writing in Greek, Laonikos Chalkokondyles, in the mid-fifteenth century, immediately after the fall of Constantinople to the Ottoman Turks. Laonikos was an Athenian, a student of the radical Platonist philosopher Pletho at Mistra, and, like Pletho, he also advocated a neo-Hellenic identity for the people who had hitherto called themselves Romans. In his preface, he admits that the inhabitants of the empire of Constantinople had called themselves Romans for the past thousand years, but he believed that they were really Greeks and should be called that. To this degree, his neo-Hellenic ideology dovetailed perfectly with the long-standing perspective of western Europeans. They had long denied that the Byzantines were Romans, a label that they reserved exclusively for Western institutions such as the German empire and the Church of Rome. For centuries, Westerners had instead called the Byzantines “Greeks,” *Graeci*, a term that also had many negative connotations. This was the origin of the Western denial that Byzantium was “really” Roman, a tradition of denialism that continues to this day and is propagated by many Byzantinists themselves.[^empire-of-greeks-to-byzantium-6] But Laonikos’s Greek interpretation of Byzantium does not appear to stem from a Western, or Latin, bias. He does not side with Latins, Westerners, or Catholics in his history, and it is clear that he had positive nationalistic and possibly religious (neopagan) reasons for claiming the Byzantines as Hellenes: he wanted to get rid of the Roman name as an impediment to his project of national Hellenic reawakening.[^empire-of-greeks-to-byzantium-7]
+
+<!-- empire-of-greeks-to-byzantium-009 -->
+
+〔原书 pp. 352–353〕
+
+Thus, Laonikos calls the Byzantines “the Greeks” and their ruler “the king of the Greeks.” He calls their capital “Byzantion,” not Constantinople or New Rome, probably because he preferred its ancient Greek name over its Roman names, and so he calls its ruler the “king of Byzantion” and his subjects “the Byzantines.” This was, for him, “the kingdom of Byzantion” (*basileus* and *basileia* are ambiguous in Greek between “king” and “emperor”; I believe that Laonikos meant the former in this case). To be sure, in the period that he was discussing (mostly the late fourteenth and the fifteenth century) the empire was limited to Constantinople and a few outlying territories, so the two possible senses of the term “kingdom *of* Byzantion”—that is, the kingdom that simply consisted *of* the city of Byzantion and the kingdom that was governed *from* Byzantion, as belonging to it—basically overlapped. The provinces for him were “the territory of Byzantion,”[^empire-of-greeks-to-byzantium-8] which could easily just be taken as “Byzantion” *simpliciter*. In this way, we end up with a concept of Byzantion as the empire as a whole, an equation facilitated by the much-diminished state of the empire at that time. The same goes for the empire’s population: there was considerable overlap between the inhabitants of the capital (“the Byzantines”) and the subjects of the emperor as a whole (the rest of “the Greeks”).
+
+<!-- empire-of-greeks-to-byzantium-010 -->
+
+〔原书 pp. 353–353〕
+
+Thus, Laonikos detached Byzantine history from its native Roman matrix and reembedded it within a Greek narrative, which he highlights in his opening remarks by mentioning that the history of the Greeks began with Dionysos, Herakles, the Athenians and the Spartans, and Alexander the Great. By contrast, he does not mention Constantine the Great by name when talking about the foundation of Byzantion (the city). In Laonikos, therefore, “Byzantium” was not its own separate category: the question for him was whether it belonged to Greek or to Roman national history.
+
+<!-- empire-of-greeks-to-byzantium-011 -->
+
+〔原书 pp. 353–354〕
+
+Manuscripts of Laonikos’s *Histories* quickly traveled to the West. Already in the sixteenth century, the work was being paraphrased; “translated” into Latin, French, and Italian; and merged with other histories of the Turks, a process that possibly was already under way in the late fifteenth century.[^empire-of-greeks-to-byzantium-9] These versions were widely read by sixteenth-century scholars.[^empire-of-greeks-to-byzantium-10] The Latin translation of Laonikos by Conrad Clauser (1556) renders the key terms as *rex Byzantius*, *rex Byzantii*, and *regnum Byzantii*, although it follows Laonikos in mostly calling the Byzantines *Graeci*.[^empire-of-greeks-to-byzantium-11] A reluctant Hieronymus Wolf was meanwhile ordered by the banker Anton Fugger to edit and translate the previous Byzantine historians John Zonaras and Niketas Choniates, editions that were published in 1557 by Oporinus in Basel. In 1562 Clauser’s popular Chalkokondyles was added to that edition, along with the history of Nikephoros Gregoras, to form what was only now called a complete “Byzantine” history. That term (*Corpus universae historiae byzantinae*) was probably not Wolf’s but the publisher’s,[^empire-of-greeks-to-byzantium-12] and it may have been legitimated by its prior use in both the Greek original and the Latin translation of Laonikos, which had been circulating widely. The original 1557 publication of Wolf’s Zonaras and Choniates did not contain the word “Byzantine” in the title; this was added in the 1562 edition, which also featured Laonikos. The source of this category, therefore, was likely Laonikos.
+
+<!-- empire-of-greeks-to-byzantium-012 -->
+
+〔原书 pp. 354–354〕
+
+What’s important about all this is that it was not very important in the long run. The emergence of the adjective *byzantinus* for designating the eastern empire, its history, and its regime did not fundamentally change how western Europeans perceived the people we call the Byzantines. From the later eighth until the later nineteenth century, the dominant interpretive category was that the eastern empire was “the empire of the Greeks,” because its rulers and subjects were (allegedly) ethnic Greeks. Occasionally the term “empire of Constantinople” was used too. None of this changed with the introduction of the term Byzantine, which in the early modern period was used almost exclusively in its adjectival form and usually as a synonym for Constantinople; that is, early modern scholars typically used “Byzantine” as a shorter and more archaic way of saying “Constantinopolitan.” But the majority of the subjects of the empire in their eyes remained Greek. Western Europeans did not view them as non-ethnic “Orthodox” people, in the way that modern scholarship does. In Western eyes, the heresy or schism of the “Greeks”—that is, their deviation from the Church of Rome—was a function of their bad ethnic traits (faithlessness, fickleness, excessive sophistication, etc.). There was as yet no “Byzantium” as a separate category. There was only the empire of the Greeks, a phase in the long history of the Greek people that began in antiquity.
+
+<!-- empire-of-greeks-to-byzantium-013 -->
+
+〔原书 pp. 354–354〕
+
+This statement requires some qualification. The eastern empire was, at various moments in its history, regarded in western Europe as powerful, rich, and sophisticated (because it was); it had direct access to the founding traditions of imperial Christianity; its spectacular capital was the only surviving late Roman imperial city; and Byzantium was a direct continuation of the ancient empire of the East, for all that Western writers insisted that there had been a categorical rupture at some point in its history from “Roman” to “Greek.” Thus, Western regimes that sought to look or to sound authentically Roman or to connect themselves to the Roman Empire would sometimes borrow elements such as images, symbols, terms, and forms of dress from contemporary Byzantium, which always called itself “the empire of the Romans.” However, they did not always acknowledge this borrowing or explicitly concede that it amounted to a recognition of Byzantium as Roman.[^empire-of-greeks-to-byzantium-13]
+
+<!-- empire-of-greeks-to-byzantium-014 -->
+
+〔原书 pp. 354–355〕
+
+Also, the “Greek” rubric did not establish itself immediately and universally in Latin perceptions of Byzantium. When Westerners wanted a favor from the eastern emperors—for example, when Hugh Capet wanted an imperial bride for his son— they referred to them as emperors of the “Romans.”[^empire-of-greeks-to-byzantium-14] Western pilgrims passing through Byzantium before the Crusades sometimes reported that the easterners called themselves Romans, using variant forms such as *Romanites*.[^empire-of-greeks-to-byzantium-15] Such concessions to emic perceptions continued to be made down to the modern times, when Western travelers to the Ottoman Empire reported that the locals called themselves, and their language, “Roman.”[^empire-of-greeks-to-byzantium-16] But this did not change the dominant view of their essential Greekness in Western eyes. Modern scholars of Byzantium will also routinely concede, based on the evidence of the primary written sources, that the Byzantines “called themselves Romans,” but they will also not then call them Romans themselves.
+
+<!-- empire-of-greeks-to-byzantium-015 -->
+
+〔原书 pp. 355–355〕
+
+Western medieval writers who wanted to endow their patrons with a Roman genealogy would sometimes include Byzantine emperors in their invented lineages, in some cases emperors as late as Herakleios.[^empire-of-greeks-to-byzantium-17] Other chapters in this volume show how this tradition continued into early modern times. Yet none of these practices resulted in any explicit theorization of the Byzantines as Romans. These were exceptions of convenience to the otherwise constant background refrain of “Greeks” and “empire of the Greeks.” It was locked in by ethnic prejudice (negative depictions of the Byzantines, especially during the era of the Crusades, stressed their “Greek vices”), and also by Catholic religious polemic, which produced many treatises *Contra Errores Graecorum*, thereby further nailing Byzantium, here in the guise of its religion, to its perceived ethnic identity.[^empire-of-greeks-to-byzantium-18]
+
+<!-- empire-of-greeks-to-byzantium-016 -->
+
+〔原书 pp. 355–356〕
+
+After Laonikos and Wolf, the term Byzantium was used, as noted above, primarily as an adjective. European scholars had not yet drawn a clear distinction between ancient Greece and the medieval empire of the Greeks, for they viewed these as successive phases of the same ethnic-national history. But they still needed an adjective to refer to the medieval phase, and “Greek” would not do unless the context was absolutely clear. That is where “Byzantine” was useful—as an adjective for the empire of Constantinople. For example, the seventeenth-century Louvre edition of Byzantine historians was called the *Corpus Byzantinae Historiae* (or *Byzantine du Louvre*), and its Bonn replacement in the nineteenth century was called the *Corpus Scriptorum Historiae Byzantinae*. There was yet no *Historia Byzantii*, a “history of Byzantium,” only “Byzantine histories.” The editor of the Louvre series, the Jesuit Philippe Labbe, published a *protreptikon* for the study of the corpus of the Byzantine historians in 1648, and in the preface he uses “Byzantine History” and “Constantinopolitan History” interchangeably.[^empire-of-greeks-to-byzantium-19] Between 1672 and 1685, Louis Cousin published translations of the Byzantine historians in eight volumes under the name *Histoire de Constantinople*. Thus, “Byzantium” had not yet become a proper noun referring to the empire as a whole; it was still too closely linked to Constantinople and was used as an adjective for it, though it pointed through metonymy to the empire as a whole.
+
+<!-- empire-of-greeks-to-byzantium-017 -->
+
+〔原书 pp. 356–357〕
+
+In Edward Gibbon’s *History of the Decline and Fall of the Roman Empire*, “Byzantium” is the city, never the empire, and its inhabitants are always “the Greeks” (he calls them by their correct Roman name only on the rare occasions that they win a battle).[^empire-of-greeks-to-byzantium-20] Gibbon uses the adjective *Byzantine* for the court, palace, throne, and patriarch—that is, to mean “of Constantinople”—and occasionally it refers (but only by extension from the capital) to the empire, the monarchy, its history, and its historians. Writers such as Rousseau and Voltaire who wanted to refer to the empire in a random context—that is, where readers would not be expecting a reference to it and where “the Greeks” would be confusing—called it “the empire of Constantinople” (though occasionally “the Greek empire” too).[^empire-of-greeks-to-byzantium-21] The adjective *Byzantine* could sometimes be used with a nominal force. In one of his letters, for example, Barthold Georg Niebuhr (1776–1831) says that he wanted to write a book about Greek literature “from Homer to the Byzantines (*die Byzantiner*).”[^empire-of-greeks-to-byzantium-22] We can see why he made this choice: saying “from Homer to the Greeks” would be nonsense. In his* Lectures on the Philosophy of History *(part 3, chap. 3), Hegel (1770–1831) called the empire “das Byzantinische Reich” and “das östliche Kaiserreich” but he too clearly thought that it was “of the Greeks” (*der Griechen*).
+
+<!-- empire-of-greeks-to-byzantium-018 -->
+
+〔原书 pp. 357–357〕
+
+European writers, intellectuals, and historians continued to rely primarily on the category “empire of the Greeks” for what we call “Byzantium,” straight through the Enlightenment and into the nineteenth century—in fact, well into the nineteenth century. It remained the dominant label by far. During the War of Greek Independence (1821–32), Western philhellenes championed the idea of Greek continuity since antiquity, a continuity which included “the empire of the Greeks” that every educated person had heard of, even if no one educated in the traditions of the Enlightenment was enthusiastic about that particular phase of Greek history. All this has challenging implications for the origin of modern Greek national historiography. It is often assumed that the historians of modern Greece in the mid- to later nineteenth century (especially Spyridon Zambelios and Konstantinos Paparrigopoulos) invented the historical paradigm of Greek continuity, but it has now been shown that they found it ready-made in western European historiography (in German, French, and English texts). They took it from there and appropriated it, adapting it to their own national ideology and schematizing it into the tripartite division of ancient, medieval, and modern Hellenism.[^empire-of-greeks-to-byzantium-23] What is interesting about their use of the schema of Greek continuity is that they picked it up at precisely the moment when the West was abandoning it, a development to which we may now turn.
+
+<!-- empire-of-greeks-to-byzantium-019 -->
+
+〔原书 pp. 357–357〕
+
+A dramatic shift occurred in the nineteenth century, especially its second half. It was then that *Byzantium* and *the Byzantines* became the established and dominant terms of art, as we know them today, displacing the “empire of the Greeks” and the “empire of Constantinople.” These concepts did not just separate themselves from the Greek rubric: they led to its extinction (except in modern Greek national historiography). The average educated Westerner today would not understand a casual reference to “the empire of the Greeks,” at least not without explanation. Why did this happen?
+
+<!-- empire-of-greeks-to-byzantium-020 -->
+
+〔原书 pp. 357–358〕
+
+The explanation has a specific political context: the Eastern Question. In brief, the Eastern Question was the concern among the major Christian empires over the failing Ottoman Empire: they all wanted large portions of it for themselves, but they also did not want their rivals to succeed in this, so they generally agreed to keep it in place.[^empire-of-greeks-to-byzantium-24] This position was consistent with the conservative order that was put in place in Europe after Napoleon’s defeat, the Concert of Europe. Soon, however, that order was challenged by the Greek Revolution, which carved a new state out of the Ottoman Empire. Greece was recognized by the major powers, especially Russia, England, and France, but reluctantly, because its independence disturbed the established order. Exactly as conservatives feared, Muslims in the European colonies abroad began to ask that if a Christian people (the Greeks) could be allowed to free themselves of their Muslim imperial master (the Turks), why could Muslims not be freed of their Christian colonial overlords?[^empire-of-greeks-to-byzantium-25]
+
+<!-- empire-of-greeks-to-byzantium-021 -->
+
+〔原书 pp. 358–358〕
+
+Greek independence was facilitated in the West by philhellenism, a narrative that recognized the revolutionary Greeks of the 1820s as the heroic descendants of the ancient Greeks who were struggling valiantly to regain their independence after centuries of oppression by the barbaric Turks. However, the ideology of the new Greek state did advance the possibility, indeed the hope, that it would liberate all Greeks elsewhere in the Ottoman Empire; in fact, some leaders of the Greek Revolution from the very start believed that they were doing nothing other than restoring the Christian empire of their ancestors.[^empire-of-greeks-to-byzantium-26] Some believed that Athens might not or should not be the permanent capital of the new state, for in time Constantinople would be liberated as well.[^empire-of-greeks-to-byzantium-27] There were no specific plans for making this happen. Even so, none of the Great Powers wanted to see a Greek empire in Constantinople or anywhere else. They had given limited support to the descendants of the ancient Greeks to free themselves from the barbarous Turkish yoke, a limited project of national revival; they had surely *not* endorsed a reconstitution of “the Greek empire.” Yet their own romantic love of Greece and historiographical traditions, which were full of references to the “empire of the Greeks,” seemed to legitimate that prospect of imperial restoration.
+
+<!-- empire-of-greeks-to-byzantium-022 -->
+
+〔原书 pp. 358–359〕
+
+The problem in the West was not just Greek imperial irredentism: it was more specifically Russia. The fear was that Russia would capture Constantinople and revive an Orthodox empire of its own, or that it would use the Greeks, their junior Orthodox clients in the Balkans, to do so as proxies. These fears were not without warrant. There was, for example, the ambitious “Greek Project” hatched and broadcast by Catherine the Great (r. 1762–1796) to lead the Greeks and other Orthodox peoples in a rebellion against the Ottoman Empire and to liberate Constantinople— “the capital of the ancient Greek emperors,” as she called it (note how meaningless that phrase would sound in the modern rubric of Byzantine studies). Catherine’s plan resulted in an insurgency in the Peloponnese in the 1770s, fifty years before the Greek Revolution. She proposed another such plan to the Austrians in 1782.[^empire-of-greeks-to-byzantium-28] Down to 1830, Russian statesmen proposed plans for the dismemberment of the Ottoman Empire and the establishment, under Russian protection, of a new Greek or Orthodox empire in Constantinople. Western observers also commented on the close relationship between Greece and Russia that was forged by Orthodoxy (Napoleon called Tsar Alexander I “a shifty Byzantine”).[^empire-of-greeks-to-byzantium-29] At the end of the Greek Revolution, it was Russia that intervened militarily and decisively to force the Porte to accept Greek independence; and the first governor of independent Greece, Ioannis Kapodistrias, had made his career in the Russian foreign service. This connection caused the English and French to suspect that he was an agent of Russian domination in Greece, which he denied.[^empire-of-greeks-to-byzantium-30] In his analysis of Russian policy between 1821 and 1844, Lucien Frary has argued that the tsar had no actual intention of annexing Constantinople or reviving the Greek empire, but the fear that he might do so was widespread in the West and contributed to mounting Russophobia.[^empire-of-greeks-to-byzantium-31] In Greece and Russia many hoped for such a restoration, and private societies disseminated propaganda to that end.
+
+<!-- empire-of-greeks-to-byzantium-023 -->
+
+〔原书 pp. 359–360〕
+
+The historian and essayist-at-large Jakob Philipp Fallmerayer (1790–1861) had an extreme reaction to these developments. Today he is infamous for having claimed that not a single drop of ancient Greek blood flows in the veins of the so-called modern Greeks of Greece. He believed that in Byzantine times Greece had been overrun entirely by Slavs, who were thinly Hellenized only in their speech (he later came to believe in a heavy admixture of Albanian blood too). Moreover, he shared the Enlightenment’s biases against Byzantium, viewing it as the distillation of all human vice and depravity. For him, the barely Hellenized Slavs who called themselves Hellenes in his own day were the worst type of human being, and there are a couple of passages where he fantasizes about killing them all.[^empire-of-greeks-to-byzantium-32] But this bias was only part of a broader political agenda. Fallmerayer was preoccupied with the rising power of Russia. He saw the Slavs, the medieval and modern Greeks (who were just thinly disguised Slavs), and the Russians as part of the same threat against liberal Enlightenment Europe, and he believed that a German hegemony would inaugurate an era of peace for all.[^empire-of-greeks-to-byzantium-33] For him it was a terrible mistake that the Europeans had allowed a “modern Greece” to happen, because of course Russia had her eye on Constantinople. He viewed the Greeks as in league with the Russians not only because of Orthodoxy but because they were not really Greeks at all, and the same was true of their Byzantine ancestors.
+
+<!-- empire-of-greeks-to-byzantium-024 -->
+
+〔原书 pp. 360–360〕
+
+This ideology may have affected how Fallmerayer talked about Byzantium. While he continued to refer to it as the “Greek empire” ruled by the “Greek emperors” (even though he believed that they were really Slavs), he also used the substantives *Byzanz* (Byzantium) and *der Byzantiner* (the Byzantines).[^empire-of-greeks-to-byzantium-34] This marks a move toward seeing “Byzantium” as a separate entity, not just as a phase of Greek history. Indeed, it had to be a separate entity if you believed that the Byzantines were not really Greeks at all—not Greeks by “blood.” (Interestingly, Fallmerayer was ready to concede that the Greeks of the islands and of Asia Minor—i.e., those still subject to the Ottoman Empire—had not been overwhelmed by Slavic blood and still had some ancient nobility about them.)
+
+<!-- empire-of-greeks-to-byzantium-025 -->
+
+〔原书 pp. 360–361〕
+
+These threads came together in the Crimean War (1853–56), which, I propose, among its many other consequences marked the turning point in how Europeans talked about Byzantium. Specifically, it heralded the end of “the empire of the Greeks” as the dominant paradigm and the onset of our “Byzantium.” The reader will recall that this war, fought mostly in the Crimea, was an intervention by Britain and France to defend the Ottoman Empire against Russia.[^empire-of-greeks-to-byzantium-35] It was accompanied by a surge in European Russophobia, including the fear of an Orthodox empire established in Constantinople (the term *jingoism* originated in a ditty sung by the British at this very time boasting that they would not let the Russians take Constantinople). Though the tsar apparently had no plan to give the Greeks a new empire, the latter, to their detriment, believed that this was their chance to free more Greeks from the Turkish yoke and gain more territory for the nascent Greek state. These ambitions were labeled the Megali Idea, or “Grand Vision.” Although this idea had been articulated previously in vague terms, during the Crimean War it first became a platform for territorial expansion.[^empire-of-greeks-to-byzantium-36] Greece sided with Russia. Some Greeks joined the Russian army as volunteers, while others incited rebellions—all of which failed—against the Ottoman authorities in Epeiros, Thessaly, and Macedonia. With the blessing of the Greek king, officers of the Greek army resigned their formal commissions to join these revolutionary movements in the guise of private citizens.
+
+<!-- empire-of-greeks-to-byzantium-026 -->
+
+〔原书 pp. 361–361〕
+
+It was at this time, I believe, that the concept of “the empire of the Greeks” became politically toxic in the West. A Greek leader of the fighting in Epeiros who sought to free Arta—one Spyridon Karaïskakis, the son of a famous revolutionary fighter whose name every Greek knows today—issued a proclamation that ended with the rousing cry “Greek Empire or Death!” (Ἑλληνικὴ αὐτοκρατορία ἢ θάνατος!). Greeks generally took up this slogan during the war. Another captain, Theodoros Grivas, wrote that “the struggle which we have undertaken is great; it is higher than 1821 [the Greek Revolution], inasmuch as we aim at the restoration of the Greek empire.” Another former revolutionary warrior published articles in the newspaper *Aion*, an instrument of the pro-Russian party in Athens, calling for a “Greek Empire” as God’s will. Some of these articles in *Aion* were addressed to the English state. The Western response was swift. The British and French armies occupied Athens and confiscated or destroyed the printing presses of *Aion* and other papers. King Otto was not deposed at the end of the war, but his pro-Russian stance during it cost him British support, contributing to his overthrow a few years later.[^empire-of-greeks-to-byzantium-37]
+
+<!-- empire-of-greeks-to-byzantium-027 -->
+
+〔原书 pp. 361–361〕
+
+The Greek stance during the war prompted an outburst of anti-Greek editorials in the Western press targeting Greek “Russianism.”[^empire-of-greeks-to-byzantium-38] One of the greatest journalists of the nineteenth century, Karl Marx, wrote a leader editorial in the *New-York Daily Tribune* on “the Greek insurrection” of 1854. The Greeks, he opined, “may even dream of a Byzantine restoration, although, on the whole, they are too astute a people to believe in such a fancy. But these plans of national aggrandizement and independence on the part of the Greeks [are] proclaimed in consequence of Russian intrigues.”[^empire-of-greeks-to-byzantium-39]
+
+<!-- empire-of-greeks-to-byzantium-028 -->
+
+〔原书 pp. 361–362〕
+
+The Crimean War, I believe, was a pivotal moment for Western perceptions of the empire. Just as Greek national historians such as Zambelios and Paparrigopoulos began to invest heavily in the narrative of Greek continuity and to cast “the medieval Greek empire” as a phase of Greek history, picking up the thread from *early* nineteenth-century Western historians, in the latter part of the century we see a falling off of references in the West to “the empire of the Greeks” and a rise in the use of “Byzantium” and “the Byzantines” as proper nouns. These choices, which we currently inhabit, were just as political as the one made in the ninth century to call the eastern empire “the empire of the Greeks” to begin with. Both were attempts to refuse to see it for it was and label it in ways that accommodated Western political ideologies. The change from “empire of the Greeks” to “Byzantium” was gradual but was basically complete by the beginning of the twentieth century. Given that the earlier term and its paradigm had dominated Western perceptions for over a thousand years, the change was actually remarkably swift.
+
+<!-- empire-of-greeks-to-byzantium-029 -->
+
+〔原书 pp. 362–363〕
+
+There was only one place where the change did not happen until much later in the twentieth century, and even then incompletely: that place was (as you might guess) Greece. During and after the Crimean War, the idea of “the empire of the Greeks” took off in Greece itself, where professional and amateur historians alike made it the organizing rubric for medieval Greek history.[^empire-of-greeks-to-byzantium-40] And the idea of restoring some kind of Greek empire that included Constantinople did not die until 1922, with the complete failure of the Asia Minor campaign and the ensuing population exchange. The idea also had supporters among Romantic philhellenic historians in the West, such as Ferdinand Gregorovius, who wrote the history of medieval Athens and fantasized about the cross flying again over Hagia Sophia.[^empire-of-greeks-to-byzantium-41] For their part, Russian thinkers and planners promoted their own ideas of an Orthodox empire in Constantinople—under Russian protection or direct control, of course—even if this idea did not shape the actual policy of tsars. This cut across Russian political lines. Right before the Crimean War, the socialist and anti-tsarist Alexander Herzen (1812–1870) was in favor of reviving Catherine’s Greek project. Months before the Russo-Turkish War of 1877–78, Fyodor Dostoyevsky (1821–1881) “justified Russia’s right to take possession of Constantinople ‘as the leader, protector, and guardian of Orthodox Christianity’”; so too argued the Pan-Slavist theorists Nikolai Danilevsky (1822–1885) and Konstantin Leontiev (1831–1891), the latter a conservative tsarist.[^empire-of-greeks-to-byzantium-42] After the Crimean War, Russia largely turned away from Greece, which it increasingly regarded as a Western client, and cultivated Slavic proxies in the Balkans under the rubric of Pan-Slavism. But interest in Constantinople did not just die out. Just as Catherine the Great had issued medallions featuring Hagia Sophia, so during the Crimean War a wealthy Greek of Odessa, Grigorios Maraslis, gave money to the tsar to repair Hagia Sophia when the city fell into Russian hands, and in World War I a Russian officer of Greek descent was assigned the task of placing a cross on Hagia Sophia if the Russians succeeded then.[^empire-of-greeks-to-byzantium-43]
+
+<!-- empire-of-greeks-to-byzantium-030 -->
+
+〔原书 pp. 363–363〕
+
+All this made the idea of “the Greek empire of Constantinople” increasingly more toxic in the West. To be sure, the change was not abrupt, especially among writers educated during the first half of the century. In Lady Hornby’s *Constantinople during the Crimean War* (published in London in 1863), the Byzantine Empire is throughout called “the Greek empire” and associated with the Greek race, while the term “Byzantium” is rare (six occurrences in 1,200 pages) and used only for the capital. This is unreconstructed usage: no one would employ that language today. The transition to Byzantium was slow and occurred in the titles of books before their actual contents changed. In the Francophone tradition, for instance, we have Alfred Rambaud’s 1870 *L’Empire grec au Xe siècle*. But the historian whom he inspired in the next generation, Gustave Schlumberger (1844–1929), another philhellene, always called the empire *Byzance* and *byzantine* in the titles of his books and other projects, even though inside he freely referred to the Byzantines and their empire as Greek. In the first volume of his “epic history” of Byzantium (*L’épopée byzantine*, 1890), he calls them Greek about twice as often as he calls them Byzantine; but by the third volume (1905), the frequency of the two is about equal. And when he wrote up his memoirs, mostly during World War I and in the 1920s, he referred back to his publications on Byzantium using that word exclusively for the empire, never the term *Greek*—except once, for an emperor of the thirteenth century.[^empire-of-greeks-to-byzantium-44] Something fundamental had shifted during his career, though he never explained it in print.
+
+<!-- empire-of-greeks-to-byzantium-031 -->
+
+〔原书 pp. 364–364〕
+
+A scholarly field was gradually institutionalizing itself around that name (*Byzanz*, *Byzance*) and shying away from the ethnic Greek label. This was a quiet revolution, tacitly accomplished, but it becomes visible with striking clarity if we compare Western usage before 1851 to what had become the established norm by the early twentieth century. The shift surely had a number of causes. What makes it harder to explain is that nonhagiographic research on the origins of the academic discipline of Byzantine studies in the second half of the nineteenth century remains rudimentary.[^empire-of-greeks-to-byzantium-45] In part, the increased prominence of the term Byzantium was due to the need to establish clear disciplinary boundaries between scholarship on the ancient Greeks and on the medieval eastern empire. But the imperial politics of the Great Powers of the nineteenth century and their anxieties formed the ideological matrix for these decisions.
+
+<!-- empire-of-greeks-to-byzantium-032 -->
+
+〔原书 pp. 364–364〕
+
+At Munich, holding what was effectively the first academic chair in Byzantine studies, Karl Krumbacher (1856–1909) founded *Byzantinische Zeitschrift* in 1892. The foreword to the first volume, where he explains the journal’s rationale, is revealing. His goal is to prove that Byzantine studies is (or should be) a coherent, autonomous, and self-standing discipline. Nowhere does he refer to the empire and its inhabitants as Greeks, but always as Byzantium, the Byzantines, and so on. He uses “Greek” only for the language of Byzantine literature and its church. He acknowledges that his subjects called themselves not Byzantines but Romans, yet he justifies the former term by saying that it is conventional in all modern languages and, surprisingly, that there is no alternative (p. 12). This was not true, as there were prominent scholars at that very time, such as J. B. Bury, who thought that the made-up term “Byzantium” was a bad name for what was in fact the Roman Empire.[^empire-of-greeks-to-byzantium-46] Krumbacher does not explain, moreover, why he excluded the ethnic label “Greek” or the more conventional, indeed traditional, term “empire of the Greeks.” He addresses the issue only obliquely, by saying that a deep study of the history of Byzantium is necessary if the modern Greeks are to understand their medieval history (p. 7)—but even that statement is evasive and noncommittal, for he says the same about all of Byzantium’s “successors.” In fact, on the very first page of the foreword he claims that modern Greece would be a less suitable place for the publication of this journal than is “Europe” (his quotation marks). Indeed,
+
+<!-- empire-of-greeks-to-byzantium-033 -->
+
+〔原书 pp. 365–365〕
+
+> The Orthodox East is a world of its own, a peculiar, half-educated, half-savage state and ethnic tangle situated between civilized Europe and barbarian Asia. This multifarious whirl of cultures, which in the past formed the protective wall of Europe against Asian barbarism, and which seems to be called for the future to serve as a cultural bridge from Europe to Asia, has been little noticed and widely ignored up to the present time.[^empire-of-greeks-to-byzantium-47] (p. 2)
+
+<!-- empire-of-greeks-to-byzantium-034 -->
+
+〔原书 pp. 365–365〕
+
+We need to know more about Krumbacher’s politics, especially vis-à-vis Russia and the Eastern Question (for example, German liberals and socialists tended to be more Russophobic). Looking beyond Krumbacher, it would also be nice to find a smoking gun, someone on record as saying that the term “empire of the Greeks” was too politically compromised given the current state of the world, and that the neutral term “Byzantium” would be preferable. But rarely are explicit explanations of these kinds of tectonic shifts left conveniently lying around. One year before issuing the first volume of the *Byzantinische Zeitschrift*, Krumbacher published his pioneering *Geschichte der byzantinischen Litteratur* (*History of Byzantine Literature*). The choice of title is significant, for the one area where one could use the term Greek without problem or ambiguity was for the language and literature of the “Byzantines,” as he himself used it in the foreword to the first issue of *Byzantinische Zeitschrift*. Indeed, the chair to which Krumbacher was appointed in 1892 was called a professorship “für mittel- und neugriechische Litteratur.” But in Krumbacher’s hands, *Byzantine* was edging out *Greek* as a category even for the study of literature.
+
+<!-- empire-of-greeks-to-byzantium-035 -->
+
+〔原书 pp. 365–365〕
+
+The transformation had thus come full circle. Whereas in early modern usage *Byzantine* was the adjective that corresponded to the “empire of the Greeks” and *Greek* was the proper noun and “essence” of that civilization, by Krumbacher’s time the relationship was entirely inverted: Byzantium had become the proper noun and the “essence” of the civilization, whereas Greek was only the adjective that characterized its language. We have reached the threshold of modern Byzantine studies, the air that we ourselves breathe. By this point, the early twenty-first century, we are so oblivious as to how we got here that we can project the invention of the “Byzantine” paradigm back to the sixteenth century and to Wolf (stealing it, in the process, from the Athenian Laonikos Chalkokondyles).
+
+<!-- empire-of-greeks-to-byzantium-036 -->
+
+〔原书 pp. 365–366〕
+
+However, the road that brought us here took some interesting detours along the way, and it is interesting to consider alternative paths that were proposed but not taken by the field at large. The English historian E. A. Freeman (1823–1892) periodically turned his attention to Byzantine history. In 1879 he published a revised version of his paper on the topic, where he had dismissed the category of the “Greek empire” and advocated the rubric “Byzantine empire.” Freeman had strong opinions on the Eastern Question, and by the third page of this essay he was already referring to the negative impact of the Crimean War on perceptions of Byzantium in the West. And yet the politics behind Freeman’s choices were not at all what we might expect from just those facts (i.e., Graecophobia stemming from Russophobia). He lobbied for the freedom of the Balkan nations from Ottoman oppression and was knighted by Greece in 1875. He argued against the idea of the “Greek empire” because he saw correctly, based on the sources, that it was really *Roman*. In his mind, *Byzantine* was just a convenient way of saying *eastern Roman*; the empire only really became *Greek* for him after 1204, though even after that it remained Roman in important ways.[^empire-of-greeks-to-byzantium-48] Freeman honestly believed that the Byzantium paradigm could be a vehicle for rehabilitating its Romanness, though in practice, we now know, it turned out to be only yet another mechanism for denying that Romanness.
+
+<!-- empire-of-greeks-to-byzantium-037 -->
+
+〔原书 pp. 366–366〕
+
+Freeman was not making purely verbal concessions, of the kind routinely found in the pages of modern *Byzantinistik*, where scholars (such as Krumbacher) reluctantly admit that the Byzantines called themselves Romans but also make it clear that we will not be calling them that and that no effort will be made to document, explain, or understand why they called themselves that. Unlike subsequent Byzantinists, Freeman did not shirk the historian’s duty to explain his labels in substantive terms. Accordingly, he explicated as well as he could why and how he believed the Byzantine Empire to be fundamentally Roman. He did not use “Byzantine” to *evade* this question, as we do.
+
+<!-- empire-of-greeks-to-byzantium-038 -->
+
+〔原书 pp. 366–366〕
+
+By the end of the nineteenth century the Byzantine label had largely displaced the Greek one. The West had stripped the eastern empire of its Romanness already during the medieval period, and “Byzantium” now stripped it of any claim to ethnicity as well—even its alleged “Greek” ethnicity. Thus, with Romanness forbidden, and with Hellenism confined to various aspects of language and literary culture, the historians of the twentieth century had to fill the hollow shell of “Byzantium” with the only element left: Orthodoxy.
+
+<!-- empire-of-greeks-to-byzantium-039 -->
+
+〔原书 pp. 366–367〕
+
+I hope to have shown how the specific political and intellectual currents of the nineteenth century catalyzed scholarship on Byzantium, and in this case even reshaped the basic categories that enabled the professional discipline of Byzantine studies to emerge.[^empire-of-greeks-to-byzantium-49] The Crimean War had a profound—and unrecognized—impact by forging a new distinction between “Byzantine/Byzantium” and “Greek/Greece,” in a context in which the “empire of the Greeks” had become a politically toxic concept to the Great Powers of Europe. In response, European intellectuals increasingly began to lean on the conceptually adjacent and neutral term *Byzantium*, in order to create a semantic bulwark between the acceptable national aspirations of the new Greek state, on the one hand, and its dangerous imperial fantasies and its (perceived) Russian patrons, on the other. This tactic effectively situated the dominant narrative of Byzantine studies at an ever further remove from what we find in the Byzantine sources.
+
+<!-- empire-of-greeks-to-byzantium-040 -->
+
+〔原书 pp. 367–367〕
+
+Modern scholars prefer to see Byzantium as an autonomous civilization with its own distinctive culture, institutions, and identity, separate from the ancient Greek and Roman past and the modern Greek present. But this intellectual project, tied to the formation of a professional discipline, has an untold political and ideological history: it is deeply implicated in the specific circumstances of the Great Power politics of the mid- and late nineteenth century. The empire had already been relabeled once in medieval times (from Roman to Greek). What was new about the rebranding of the nineteenth century was that it did not connect Byzantium to any other historical genealogy or preexisting civilizational categories, but rather cordoned its subject off from what came both before and after. This walling off allowed for the rise of Byzantine studies in a wider sense as a separate discipline.
+
+## 原注 / Original notes
+
+[^empire-of-greeks-to-byzantium-1]:  Balsamon: G. R. Rallis and A. Potlis, eds., *Σύνταγμα τῶν θείων καὶ ἱερῶν κανόνων*, 6 vols. (Athens, 1852–1859), 2:285–86; the translation is from P. Magdalino, “Constantinople and the Outside World,” in *Strangers to Themselves: The Byzantine Outsider*, ed.* *D. C. Smythe (Aldershot, 2000), 149–61, at 150. Meletios, *A Brief Account of Human Nature*, in *Anecdota Graeca e codd. manuscriptis bibliothecarum Oxoniensium*, ed. J. A. Cramer, vol. 3 (Oxford, 1836), 5–157, at 155.
+
+[^empire-of-greeks-to-byzantium-2]:  For Priskos see R. C. Blockley,* The Fragmentary Classicising Historians of the Later Roman Empire*, 2 vols. (Liverpool, 1981–83), 1:49, 2:222. Blockley rejects the title *Byzantiakē*, but I do not see why. At any rate, even he has to admit that a later Byzantine reader thought it appropriate, so the name does not go away, it just is pushed to a later time. Also, we have to correct the *Suda*’s *Attalos* to *Attilas*. For Malchos see 1:71, 2:402 (from Photios, *Bibliotheca* cod. 78). For a discussion of the works’ titles, see A. Karpozilos, *Βυζαντινοὶ ἱστορικοὶ καὶ χρονογράφοι*, vol. 1 (Athens, 1997), 310–11, 324–25.
+
+[^empire-of-greeks-to-byzantium-3]:  M. Kruse, *The Politics of Roman Memory from the Fall of the Western Empire to the Age of Justinian* (Philadelphia, 2019).
+
+[^empire-of-greeks-to-byzantium-4]:  A. Kaldellis, *Romanland: Ethnicity and Empire in Byzantium* (Cambridge, MA, 2019).
+
+[^empire-of-greeks-to-byzantium-5]:  The reader can view the medal on the website of the Metropolitan Museum of Art in New York, by searching accession no. 1975.1.1269 at https://www.metmuseum.org/art/collection.
+
+[^empire-of-greeks-to-byzantium-6]:  See Kaldellis, *Romanland*, chap. 1 (3–37), for a survey of this tradition.
+
+[^empire-of-greeks-to-byzantium-7]:  For the text and translation, see A. Kaldellis, *Laonikos Chalkokondyles: The Histories*, 2 vols. (Cambridge, MA, 2014); for a study, see A. Kaldellis, *A New Herodotos: Laonikos Chalkokondyles on the Ottoman Empire, the Fall of Byzantium, and the Emergence of the West* (Washington, DC, 2014). For his teacher Pletho, see N. Siniossoglou, *Radical Platonism in Byzantium: Illumination and Utopia in Gemistos Plethon* (Cambridge, 2011), and Fabio Pagani in Chapter 1 of this volume.
+
+[^empire-of-greeks-to-byzantium-8]:  E.g., Laonikos Chalkokondyles, *Histories* 4.5.
+
+[^empire-of-greeks-to-byzantium-9]:  Kaldellis, *A New Herodotos*, 238–40.
+
+[^empire-of-greeks-to-byzantium-10]: A. Pippidi, *Visions of the Ottoman World in Renaissance Europe* (New York, 2013), 45–46, 78–79, 94.
+
+[^empire-of-greeks-to-byzantium-11]:  Clauser’s translation was reprinted in the Bonn Corpus (1843) and PG 159* *editions of Laonikos.
+
+[^empire-of-greeks-to-byzantium-12]:  A. Ben-Tov, *Lutheran Humanists and Greek Antiquity: Melanchthonian Scholarship between Universal History and Pedagogy* (Leiden, 2009), 106–9; for more information and references about the background, see D. R. Reinsch, “The History of Editing Byzantine Historiographical Texts,” in *The Byzantine World*, ed. P. Stephenson (London, 2010), 435–44, at 438–39.
+
+[^empire-of-greeks-to-byzantium-13]:  C. Raffensperber, “The Byzantine Ideal,” chap. 1 of his *Reimagining Europe: Kievan Rus’ in the Medieval World* (Cambridge, MA, 2012), 10–46, documents many of these implicit borrowings; see also K. N. Ciggaar, *Western Travellers to Constantinople: The West and Byzantium, 962–1204* (Leiden, 1996).
+
+[^empire-of-greeks-to-byzantium-14]: The sources are collected and discussed by A. G. Panagopoulou, *Οι διπλωματικοί γάμοι στο Βυζάντιο (6ος–12ος αιώνας)* (Athens, 2006), 170–72.
+
+[^empire-of-greeks-to-byzantium-15]:  E. Joranson, “The Great German Pilgrimage of 1064–1065,” in *The Crusades and Other Historical Essays*, ed. L. J. Paetow (New York, 1928), 3–43, at 17–18.
+
+[^empire-of-greeks-to-byzantium-16]: R. Chandler, *Travels in Greece* (Oxford, 1776), 136; see more in G. Koubourlis, *Οι ιστοριογραφικές οφειλές των Σπ. Ζαμπέλιου και Κ. Παπαρρηγόπουλου: Η συμβολή Ελλήνων και ξένων λογίων στη διαμόρφωση του τρίσημου σχήματος του ελληνικού ιστορισμού (1782–1846)* (Athens, 2012), 53, n. 12; 161–62.
+
+[^empire-of-greeks-to-byzantium-17]:  E.g., Godfrey of Viterbo; see A.  A. Latowsky, *Emperor of the World: Charlemagne and the Construction of Imperial Authority, 800–1229* (Ithaca, NY, 2013), 202–3.
+
+[^empire-of-greeks-to-byzantium-18]:  The bibliography on Western perceptions of Byzantium is extensive. I cite here an older and a more recent study: H. Hunger, *Graeculus perfidus, Ἰταλὸς ἰταμός: Il senso dell’alterità nei rapporti Greco-Romani ed Italo-Bizantini* (Rome, 1987); Ch. Messis, “Lectures sexuées d l’altérité: Les Latins et identité romaine menacée les derniers siècles de Byzance,”* JÖB* 61 (2011): 151–70.
+
+[^empire-of-greeks-to-byzantium-19]: Philippe Labbe, *De Byzantinae historiae scriptoribus . . . ad omnes per orbem eruditos προτρεπτικόν *(Paris, 1648), 5–6.
+
+[^empire-of-greeks-to-byzantium-20]: G. Fowden, “Gibbon and Islam,” *EHR* 131 (2016): 261–92, at 265, n. 10.
+
+[^empire-of-greeks-to-byzantium-21]:  See, e.g., Rousseau’s *Discourse on the Sciences and the Arts*, originally published as *Discours qui a remporté le prix a l’Academie de Dijon en l’année 1750: Sur cette question proposée par la même académie: Si le rétablissement des sciences & des arts a contribué à épurer les mœurs* (Geneva, 1750); for Voltaire, see N. Giakovaki, *Ευρώπη μέσω Ελλάδας: Μια καμπή στην ευρωπαϊκή αυτοσυνείδηση, 17ος–18ος αιώνας* (Athens, 2006), 410, n. 8.
+
+[^empire-of-greeks-to-byzantium-22]: *Die briefe Barthold Georg Niebuhrs*, ed. D. Gerhard and W. Norvin, vol. 2 (Berlin, 1929), 306, no. 432.
+
+[^empire-of-greeks-to-byzantium-23]: Koubourlis, *Οι ιστοριογραφικές οφειλές*, passim, esp. 40, 525.
+
+[^empire-of-greeks-to-byzantium-24]: The concise survey is A. L. Macfie, *The Eastern Question, 1774–1923* (London, 1996); additional bibliography is cited by D. Vovchenko, *Containing Balkan Nationalism: Imperial Russia and Ottoman Christians, 1856–1914 *(New York, 2016), 6, n. 12.
+
+[^empire-of-greeks-to-byzantium-25]: C. Aydin, *The Idea of the Muslim World: A Global Intellectual History* (Cambridge, MA, 2017), 40, 49–54.
+
+[^empire-of-greeks-to-byzantium-26]: E. K. Bogli, *“Έλληνες το γένος”: Η ιθαγένεια και η ταυτότητα στο εθνικό κράτος των Ελλήνων (1821– 1844)* (Heraklion, 2007), 86, 175, 327, 330; Koubourlis, *Οι ιστοριογραφικές οφειλές*, 57, n. 21.
+
+[^empire-of-greeks-to-byzantium-27]: E. Skopetea, *Τό “Πρότυπο βασίλειο” καί ἡ Μεγάλη Ἰδέα: Ὄψεις τοῦ ἐθνικοῦ προβλήματος στήν Ἐλλάδα (1830–1880)* (Athens, 1988), 274, 285, 292–93; cf. V. Kremmydas, *Η Μεγάλη Ιδέα: Μεταμορφώσεις ενός εθνικού ιδεολογήματος* (Athens, 2010), 19.
+
+[^empire-of-greeks-to-byzantium-28]: L. Frary, *Russia and the Making of Modern Greek Identity, 1821–1844* (Oxford, 2015), 24, citing bibliography; also Vovchenko, *Containing Balkan Nationalism*, 40–42 (a summary).
+
+[^empire-of-greeks-to-byzantium-29]: A. Roberts, *Napoleon the Great* (London, 2015), 295.
+
+[^empire-of-greeks-to-byzantium-30]: Frary, *Russia*, 25–46; fear of Russian influence in Greece: 106, 137, 180, 192.
+
+[^empire-of-greeks-to-byzantium-31]:  Ibid., 60–61, 202.
+
+[^empire-of-greeks-to-byzantium-32]: J. P. Fallmerayer, *Geschichte der Halbinsel Morea während der Mittelalters*, 2 vols. (Stuttgart, 1830– 36), 2:168; and a passage from his notebooks quoted by E. Skopetea, *Φαλλμεράϋερ: Τεχνάσματα του ἀντίπαλου δέους* (Athens, 1999), 91, n. 19.
+
+[^empire-of-greeks-to-byzantium-33]: Fallmerayer’s politics are elucidated by Skopetea, *Φαλλμεράϋερ*.
+
+[^empire-of-greeks-to-byzantium-34]: I have skimmed through the volumes of his works and found numerous attestations of these terms.
+
+[^empire-of-greeks-to-byzantium-35]: Extensive literature on the war is cited by Vovchenko, *Containing Balkan Nationalism*, 66–67, n. 2. In this period, Britain’s policy on the Eastern Question was primarily to contain Russia: G. D. Clayton, *Britain and the Eastern Question: Missolonghi to Gallipoli* (London, 1971).
+
+[^empire-of-greeks-to-byzantium-36]: Kremmydas, *Μεγάλη Ιδέα*, 38–39.
+
+[^empire-of-greeks-to-byzantium-37]: L. Divani, *Η εδαφική ολοκλήρωση της Ελλάδας, 1830–1947 (Απόπειρα πατριδογνωσίας)* (Athens, 2001), 23, 147–48, 196.
+
+[^empire-of-greeks-to-byzantium-38]: Skopetea, *Τό “Πρότυπο βασίλειο*,*”* 179, 277–78; for Greece and Greeks during the war, see J. V. Kofas, *International and Domestic Politics in Greece during the Crimean War* (New York, 1980), 69, for Grivas’s letter; M. N. Todorova, “The Greek Volunteers in the Crimean War,” *BalkSt* 25 (1985): 539–63; S. I. Papadopoulos, “Ο προσανατολισμός των Ελλήνων προς τη Ρωσία κατά τον Κριμαϊκό Πόλεμο (1853–1856),” *Βαλκανικά Σύμμεικτα* 3 (1989): 71–82 (79–80 for the *Aion* articles).
+
+[^empire-of-greeks-to-byzantium-39]: K. Marx, “The Greek Insurrection,” *New-York Daily Tribune*,* *29 March 1854.
+
+[^empire-of-greeks-to-byzantium-40]: There are many surveys: see D. Christodoulou, “Byzantium in Nineteenth-Century Greek Historiography,” in Stephenson, *The Byzantine World* (n. 12 above), 445–61.
+
+[^empire-of-greeks-to-byzantium-41]: P. Stephenson, “Pioneers of Popular Byzantine History: Freeman, Gergorovius, Schlumberger,” in idem, *The Byzantine World*, 462–80, at 469.
+
+[^empire-of-greeks-to-byzantium-42]: See Vovchenko, *Containing Balkan Nationalism*, 68–69, 1, 131–32, 187–88, respectively; for Russian planners (in 1912), 290.
+
+[^empire-of-greeks-to-byzantium-43]: Russian interest in Hagia Sophia: O. Figes, *The Crimean War: A History *(New York, 2010), 23–27; under Catherine: see above and A. Cutler, “Recovering St. Sophia: Cameron, Catherine II, and the Idea of Constantinople in Late Eighteenth-Century Russia,” in *An Architectural Progress in the Renaissance and Baroque*, ed. H. A. Millon and S. S. Munshower, 2 vols. (University Park, PA, 1992), 2:888–909; in World War I: L. Gerd, “Russian Imperial Policy in the Orthodox East and Its Relation to Byzantine Studies,” in *Imagining Byzantium: Perceptions, Patterns, Problems*, ed. A. Alshanskaya, A. Gietzen, and C. Hadjiafxenti (Mainz, 2018), 93–100, at 97–98; Maraslis: G. Kordatos,* Ἱστορία τῆς νεώτερης Ἑλλάδος*, vol. 3 (Athens, 1957), 601; Russian officer in World War I: P. Sarris, *Byzantium: A Very Short Introduction* (Oxford, 2015), 127. I am grateful to Jake Ransohoff for helping me track down the last two references. For rival claims to Constantinople and Hagia Sophia during World War I, see P. Mansel, *Constantinople: City of the World’s Desire, 1453–1924* (New York, 1995), 373–74, 382–84.
+
+[^empire-of-greeks-to-byzantium-44]: G. Schlumberger, *Mes souvenirs, 1844–1928*, 2 vols. (Paris, 1934), 1:174–76, 263–73; 2:91, 96–97 (the exception for John III Vatatzes). At the conference from which this volume originated, Joel Kalvesmaki kindly showed me how to generate graphs via Google that indeed document the steep decline in references to the “empire of the Greeks” and “Greek empire” during the second half of the nineteenth century and the simultaneous steep rise of “Byzantine” and “the Byzantines.” I played around with this online system, which showed similar graphs for all the main languages of research. As I am not an expert in the appropriate use of this technology, I leave this methodology to others.
+
+[^empire-of-greeks-to-byzantium-45]: See, e.g., H.-G. Beck, “Die byzantinischen Studien in Deutschland vor Karl Krumbacher,” in *ΧΑΛΙΚΕΣ: Festgabe für die Teilnehmer am XI. Internationalen Byzantinistenkongress, München 15.–20. September 1958* (Freising, 1958), 67–119.
+
+[^empire-of-greeks-to-byzantium-46]: J. B. Bury, *A History of the Later Roman Empire from Arcadius to Irene*, 2 vols. (New York, 1889), 1:v–viii.
+
+[^empire-of-greeks-to-byzantium-47]: “Der orthodoxe Osten bildet eine Welt für sich, die als ein eigenartiger, halb gebildeter, halb wilder Staaten- und Völkerkomplex zwischen dem civilisierten Europa und dem barbarischen Asien liegt. Dieses vielgestaltige Völkergewirr, das in der Vergangenheit die Schutzmauer Europas gegen die asiatische Barbarei bildete und für die Zukunft berufen scheint als Kulturbrücke von Europa nach Asien zu dienen, ist bis auf die neueste Zeit wenig beachtet und viel verkannt worden.”
+
+[^empire-of-greeks-to-byzantium-48]: E. A. Freeman, *Historical Essays* (London, 1879), 231–78, esp. 232–33, 244–46. For his politics, see Stephenson, “Pioneers of Popular Byzantine History,” 463–66.
+
+[^empire-of-greeks-to-byzantium-49]: My conclusion draws on comments sent to me by the volume’s editors, which nicely tied the contribution of the present chapter to the overall themes of the volume.
+
+## 校注 / Editorial notes
+
+原书第360页将 jingoism 的起源联系于克里米亚战争（1853–1856）。《英国人物传记辞典》1912年增补卷 MacDermott 条目将相关歌曲及政治性用语的流行记于1878年，故此处疑混同1877–1878年俄土战争背景。正文保留作者说法。本次依据可检索的辞典转录核验，未亲验1878年报纸原件。
+
+原书第365页英文引文末句为 widely ignored，译作‘普遍遭到忽视’；原注47德文 viel verkannt 则偏向‘多遭误解’。本译正文跟随作者所引英文，保留德文原注以供比较。
+
+原注书目保留底本写法，包括注13 Raffensperber、注41 Gergorovius 及注18法文题名中的疑似缺词；未将推测性更正混入原注。

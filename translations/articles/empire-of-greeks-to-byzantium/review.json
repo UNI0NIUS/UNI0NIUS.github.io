@@ -1,0 +1,46 @@
+{
+  "semantic_review": "整章正文和49原注对照用户底本阅读，12项初次修订；原作疑点与译文分列。未逐一独立查证所有原注所引文献。",
+  "source_coverage": "原书349–367页，55个原文块合为40个对照单元，49原注全部保留。",
+  "layout": "双语18页、英文10页全页缩略图检查；双语7、16页和英文4页放大检查，未见裁切、重叠、缺字。",
+  "checks": {
+    "article_bilingual": {
+      "pages": 18,
+      "sha256": "a19ccccb62050d0b9e56e81c6d4dff3202b218756a7a30b1e19cd6ab5500e5f7",
+      "character_deficit": {},
+      "outside": [],
+      "critical_log": [],
+      "visual_review": "pending"
+    },
+    "article_en": {
+      "pages": 10,
+      "sha256": "1c0a929c1f2c334038eb2b7e9c1c07ef9ce9059a64259036fd87fce2671bd25c",
+      "character_deficit": {},
+      "outside": [],
+      "critical_log": [],
+      "visual_review": "pending"
+    }
+  },
+  "readback": {
+    "article_bilingual": {
+      "zh": {
+        "units": 89,
+        "missing": [],
+        "method": "全文各栏按页接续，NFKD后保留字母（含汉字），逐一搜索40正文+49原注完整文本；数字另由字符计数检查覆盖。"
+      },
+      "en": {
+        "units": 89,
+        "missing": [],
+        "method": "全文各栏按页接续，NFKD后保留字母（含汉字），逐一搜索40正文+49原注完整文本；数字另由字符计数检查覆盖。"
+      }
+    },
+    "article_en": {
+      "en": {
+        "units": 89,
+        "missing": [],
+        "method": "全文各栏按页接续，NFKD后保留字母（含汉字），逐一搜索40正文+49原注完整文本；数字另由字符计数检查覆盖。"
+      }
+    }
+  },
+  "publication": "pending",
+  "online_verification": "pending"
+}
