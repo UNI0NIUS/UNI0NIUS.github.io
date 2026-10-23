@@ -1,0 +1,128 @@
+{
+  "id": "alibi",
+  "title": "资本的托词",
+  "originalTitle": "The Alibi of Capital",
+  "author": "Timothy Mitchell",
+  "authorZh": "蒂莫西·米切尔",
+  "language": "zh-CN",
+  "languagePair": "English → 中文",
+  "structured": true,
+  "bilingual": true,
+  "views": [
+    "parallel",
+    "zh",
+    "en"
+  ],
+  "example": false,
+  "editionNotice": "校订阅读版；原书页位、853条原注、4幅正文图及英文索引保留。72条校注与原注分列。原著及图像权利归原权利人；非出版社官方译本。",
+  "chapters": [
+    {
+      "id": "01_cover",
+      "title": "原书封面",
+      "originalTitle": "原书封面",
+      "dataUrl": "translations/books/alibi/01_cover.json"
+    },
+    {
+      "id": "frontmatter",
+      "title": "前置材料",
+      "originalTitle": "前置材料",
+      "dataUrl": "translations/books/alibi/frontmatter.json"
+    },
+    {
+      "id": "acknowledgements",
+      "title": "致谢",
+      "originalTitle": "Acknowledgements",
+      "dataUrl": "translations/books/alibi/acknowledgements.json"
+    },
+    {
+      "id": "introduction",
+      "title": "导论：优步外卖——资本主义如何消费未来",
+      "originalTitle": "Introduction Uber Eats – How Capitalism Consumes the Future",
+      "dataUrl": "translations/books/alibi/introduction.json"
+    },
+    {
+      "id": "ch01",
+      "title": "第一章　破土",
+      "originalTitle": "1 Groundbreaking",
+      "dataUrl": "translations/books/alibi/ch01.json"
+    },
+    {
+      "id": "ch02",
+      "title": "第二章　论弑河",
+      "originalTitle": "2 On Rivercide",
+      "dataUrl": "translations/books/alibi/ch02.json"
+    },
+    {
+      "id": "ch03",
+      "title": "第三章　作为绕道的资本主义",
+      "originalTitle": "3 Capitalism as a Detour",
+      "dataUrl": "translations/books/alibi/ch03.json"
+    },
+    {
+      "id": "ch04",
+      "title": "第四章　解读未来之书",
+      "originalTitle": "4 Reading the Book of the Future",
+      "dataUrl": "translations/books/alibi/ch04.json"
+    },
+    {
+      "id": "ch05",
+      "title": "第五章　经济治理术：未来如何进入治理",
+      "originalTitle": "5 Economentality: How the Future Entered Government",
+      "dataUrl": "translations/books/alibi/ch05.json"
+    },
+    {
+      "id": "ch06",
+      "title": "第六章　市场的属性",
+      "originalTitle": "6 The Properties of Markets",
+      "dataUrl": "translations/books/alibi/ch06.json"
+    },
+    {
+      "id": "ch07",
+      "title": "第七章　基础设施作用于时间",
+      "originalTitle": "7 Infrastructures Work on Time",
+      "dataUrl": "translations/books/alibi/ch07.json"
+    },
+    {
+      "id": "ch08",
+      "title": "第八章　明天会更好，明天？气候危机与增长的托词",
+      "originalTitle": "8 A Better Tomorrow, Tomorrow? Climate Crisis and the Alibi of Growth",
+      "dataUrl": "translations/books/alibi/ch08.json"
+    },
+    {
+      "id": "notes",
+      "title": "注释",
+      "originalTitle": "Notes",
+      "dataUrl": "translations/books/alibi/notes.json"
+    },
+    {
+      "id": "index",
+      "title": "英文索引",
+      "originalTitle": "Index",
+      "dataUrl": "translations/books/alibi/index.json"
+    }
+  ],
+  "downloads": [
+    {
+      "label": "中文PDF",
+      "url": "translations/books/alibi/alibi_zh.pdf"
+    },
+    {
+      "label": "双语PDF",
+      "url": "translations/books/alibi/alibi_bilingual.pdf"
+    },
+    {
+      "label": "中文Markdown",
+      "url": "translations/books/alibi/alibi_zh.md"
+    },
+    {
+      "label": "规范稿与源码包",
+      "url": "translations/books/alibi/alibi_source.zip"
+    }
+  ],
+  "translator": "Xiaoyang Hao (AI-assisted translation, reviewed edition)",
+  "tags": [
+    "政治经济学 Political Economy",
+    "历史 History",
+    "生态 Ecology"
+  ]
+}
