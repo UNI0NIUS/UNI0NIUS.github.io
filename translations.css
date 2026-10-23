@@ -130,3 +130,5 @@
 .catalog-tag:focus-visible,.catalog-clear:focus-visible,.catalog-controls input:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
 .translation-section+.translation-section{margin-top:26px}
 @media(max-width:600px){.translation-card h3{font-size:19px}.catalog-filters{gap:5px}.catalog-tag{padding:5px 8px}}
+
+.chapter-directory .chapter-tree .chapter-branch>summary{padding:0;display:list-item;list-style-position:inside}.chapter-directory .chapter-tree .chapter-branch>summary>a{display:inline;padding:4px 2px;font-weight:600}.chapter-directory .chapter-tree .chapter-branch>ol{margin:5px 0 8px 8px;padding-left:5px;border-left:1px solid var(--line)}.chapter-directory .chapter-tree a{padding:7px 5px;font-size:13px}.chapter-directory .chapter-tree .chapter-branch>summary>a[aria-current=page]{border-left:0}

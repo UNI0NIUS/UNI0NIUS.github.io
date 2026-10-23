@@ -287,6 +287,35 @@
       }
       return li;
     };
+    if (chapters.some(entry => entry.parentId)) {
+      list.classList.add("chapter-tree");
+      const byId = new Map(chapters.map(entry => [entry.id, entry]));
+      const activePath = new Set();
+      for (let entry = chapter; entry && !activePath.has(entry.id); entry = byId.get(entry.parentId)) activePath.add(entry.id);
+      const children = new Map();
+      for (const entry of chapters) {
+        const parent = byId.has(entry.parentId) ? entry.parentId : null;
+        if (!children.has(parent)) children.set(parent, []);
+        children.get(parent).push(entry);
+      }
+      const appendBranch = (parent, container) => {
+        for (const entry of children.get(parent) || []) {
+          const li = chapterLink(entry);
+          if (children.has(entry.id)) {
+            const details = el("details", undefined, "chapter-branch");
+            details.open = activePath.has(entry.id);
+            const summary = el("summary");
+            summary.append(li.firstElementChild);
+            const nested = el("ol");
+            appendBranch(entry.id, nested);
+            details.append(summary, nested);
+            li.prepend(details);
+          }
+          container.append(li);
+        }
+      };
+      appendBranch(null, list);
+    } else {
     const groups = new Map();
     for (const entry of chapters) {
       const part = (item.parts || []).find(part => part.id === entry.partId);
@@ -301,6 +330,7 @@
         groups.set(part.id, children);
       }
       groups.get(part.id).append(chapterLink(entry));
+    }
     }
     nav.append(list); directory.append(nav); sidebar.append(directory);
     const mobile = window.matchMedia("(max-width: 900px)");

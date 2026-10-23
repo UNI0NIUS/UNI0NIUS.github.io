@@ -47,181 +47,211 @@ window.TRANSLATIONS = {
           "id": "fichte-vorwort",
           "title": "前言",
           "originalTitle": "Vorwort.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-vorwort.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-vorwort.json",
+          "parentId": "fichte"
         },
         {
           "id": "fichte-einleitung",
           "title": "导论 德国观念论历史哲学中的价值评价逻辑",
           "originalTitle": "Einleitung. Die Logik des Wertens in der Geschichtsphilosophie des deutschen Idealismus.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-einleitung.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-einleitung.json",
+          "parentId": "fichte"
         },
         {
           "id": "fichte-t1",
           "title": "第一部分 康德与黑格尔理性主义的逻辑前提，以及费希特在德国思辨发展进程中的位置",
           "originalTitle": "Erster Teil. Die logischen Voraussetzungen von Kants und Hegels Rationalismus und die Einordnung Fichtes in den Entwicklungsgang der deutschen Spekulation.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1.json",
+          "parentId": "fichte"
         },
         {
           "id": "fichte-t1-k1",
           "title": "第一章 康德关于先验概念的分析逻辑",
           "originalTitle": "I. Kapitel. Kants analytische Logik des transzendentalen Begriffs.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k1.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k1.json",
+          "parentId": "fichte-t1"
         },
         {
           "id": "fichte-t1-k1-a",
           "title": "A. 先验概念一般的逻辑结构",
           "originalTitle": "A. Die logische Struktur des transzendentalen Begriffs im Allgemeinen.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k1-a.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k1-a.json",
+          "parentId": "fichte-t1-k1"
         },
         {
           "id": "fichte-t1-k1-b",
           "title": "B. 先验逻辑的偶然概念",
           "originalTitle": "B. Der transzendentallogische Zufallsbegriff.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k1-b.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k1-b.json",
+          "parentId": "fichte-t1-k1"
         },
         {
           "id": "fichte-t1-k1-c",
           "title": "C. 数学作为分析逻辑与流溢论逻辑之间的中间环节",
           "originalTitle": "C. Die Mathematik als Mittelglied zwischen analytischer und emanatistischer Logik.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k1-c.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k1-c.json",
+          "parentId": "fichte-t1-k1"
         },
         {
           "id": "fichte-t1-k1-d",
           "title": "D. 直观知性的理想逻辑",
           "originalTitle": "D. Die ideale Logik des intuitiven Verstandes.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k1-d.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k1-d.json",
+          "parentId": "fichte-t1-k1"
         },
         {
           "id": "fichte-t1-k2",
           "title": "第二章 黑格尔的流溢论逻辑",
           "originalTitle": "II. Kapitel. Hegels emanatistische Logik.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k2.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k2.json",
+          "parentId": "fichte-t1"
         },
         {
           "id": "fichte-t1-k3",
           "title": "第三章 费希特在观念论体系发展序列中的地位",
           "originalTitle": "III. Kapitel. Fichtes Stellung in der Entwicklungsreihe der idealistischen Systeme.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k3.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t1-k3.json",
+          "parentId": "fichte-t1"
         },
         {
           "id": "fichte-t2",
           "title": "第二部分 费希特的理性主义与经验之物的非理性",
           "originalTitle": "Zweiter Teil. Fichtes Rationalismus und die Irrationalität des Empirischen.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2.json",
+          "parentId": "fichte"
         },
         {
           "id": "fichte-t2-a1",
           "title": "第一节 由1797年的转折对批判反理性主义的奠基",
           "originalTitle": "Erster Abschnitt. Die Begründung des kritischen Antirationalismus durch den Umschwung von 1797.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a1.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a1.json",
+          "parentId": "fichte-t2"
         },
         {
           "id": "fichte-t2-a1-k1",
           "title": "第一章 1794年的先验逻辑流溢论",
           "originalTitle": "I. Kapitel. Der transzendentallogische Emanatismus von 1794.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a1-k1.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a1-k1.json",
+          "parentId": "fichte-t2-a1"
         },
         {
           "id": "fichte-t2-a1-k2",
           "title": "第二章 1797年的自我概念 纯粹自我与理念",
           "originalTitle": "II. Kapitel. Der Ichbegriff von 1797. Das reine Ich und die Idee.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a1-k2.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a1-k2.json",
+          "parentId": "fichte-t2-a1"
         },
         {
           "id": "fichte-t2-a1-k3",
           "title": "第三章 分析—系统的立场",
           "originalTitle": "III. Kapitel. Der analytisch-systematische Standpunkt .",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a1-k3.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a1-k3.json",
+          "parentId": "fichte-t2-a1"
         },
         {
           "id": "fichte-t2-a1-k4",
           "title": "第四章 先验逻辑的偶然性概念",
           "originalTitle": "IV. Kapitel. Der transzendentallogische Zufallsbegriff.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a1-k4.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a1-k4.json",
+          "parentId": "fichte-t2-a1"
         },
         {
           "id": "fichte-t2-a1-k5",
           "title": "第五章 自在之物与个体之物的非理性",
           "originalTitle": "V. Kapitel. Das Ding an sich und die Irrationalität des Individuellen.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a1-k5.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a1-k5.json",
+          "parentId": "fichte-t2-a1"
         },
         {
           "id": "fichte-t2-a2",
           "title": "第二节 反理性主义的提升（1798—1801）",
           "originalTitle": "Zweiter Abschnitt. Die Steigerung des Antirationalismus 1798—1801.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a2.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a2.json",
+          "parentId": "fichte-t2"
         },
         {
           "id": "fichte-t2-a2-k1",
           "title": "第一章 先验经验主义与实证主义",
           "originalTitle": "1. Kapitel. Der transzendentale Empirismus und Positivismus.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a2-k1.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a2-k1.json",
+          "parentId": "fichte-t2-a2"
         },
         {
           "id": "fichte-t2-a2-k2",
           "title": "第二章 认识论上的价值个体性",
           "originalTitle": "II. Kapitel. Die erkenntnistheoretische Wertindividualität.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a2-k2.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a2-k2.json",
+          "parentId": "fichte-t2-a2"
         },
         {
           "id": "fichte-t2-a2-k3",
           "title": "第三章 哲学与生命",
           "originalTitle": "III. Kapitel. Philosophie und Leben.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a2-k3.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a2-k3.json",
+          "parentId": "fichte-t2-a2"
         },
         {
           "id": "fichte-t2-a3",
           "title": "第三节 形而上学时期关于个体之物非理性的学说",
           "originalTitle": "Dritter Abschnitt. Die Lehre von der Irrationalität des Individuellen in der metaphysischen Periode.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a3.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a3.json",
+          "parentId": "fichte-t2"
         },
         {
           "id": "fichte-t2-a3-k1",
           "title": "第一章 批判性把握的继续存在",
           "originalTitle": "I. Kapitel. Das Fortbestehen der kritischen Fassung.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a3-k1.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a3-k1.json",
+          "parentId": "fichte-t2-a3"
         },
         {
           "id": "fichte-t2-a3-k2",
           "title": "第二章 向形而上学把握的过渡",
           "originalTitle": "II. Kapitel. Uebergang zur metaphysischen Fassung.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a3-k2.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a3-k2.json",
+          "parentId": "fichte-t2-a3"
         },
         {
           "id": "fichte-t2-a3-k3",
           "title": "第三章 形而上学的把握",
           "originalTitle": "III. Kapitel. Die metaphysische Fassung.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a3-k3.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t2-a3-k3.json",
+          "parentId": "fichte-t2-a3"
         },
         {
           "id": "fichte-t3",
           "title": "第三部分 费希特的历史哲学",
           "originalTitle": "Dritter Teil. Fichtes Geschichtsphilosophie.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t3.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t3.json",
+          "parentId": "fichte"
         },
         {
           "id": "fichte-t3-k1",
           "title": "第一章 后康德文化思辨的形而上学方法",
           "originalTitle": "I. Kapitel. Die metaphysische Methode der nachkantischen Kultur-Spekulation.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t3-k1.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t3-k1.json",
+          "parentId": "fichte-t3"
         },
         {
           "id": "fichte-t3-k2",
           "title": "第二章 历史哲学的价值个体性",
           "originalTitle": "II. Kapitel. Die geschichtsphilosophische Wertindividualität.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t3-k2.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t3-k2.json",
+          "parentId": "fichte-t3"
         },
         {
           "id": "fichte-t3-k3",
           "title": "第三章 历史方法论与非理性",
           "originalTitle": "III. Kapitel. Die Geschichtsmethodologie und die Irrationalität.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t3-k3.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t3-k3.json",
+          "parentId": "fichte-t3"
         },
         {
           "id": "fichte-t3-k4",
           "title": "第四章 历史与共同体之间的方法论关系。——民族概念",
           "originalTitle": "IV. Kapitel. Die methodologischen Beziehungen zwischen Geschichte und Gemeinschaft. — Der Begriff der Nation.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t3-k4.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/fichte-t3-k4.json",
+          "parentId": "fichte-t3"
         },
         {
           "id": "rechtsphil",
@@ -233,55 +263,64 @@ window.TRANSLATIONS = {
           "id": "rechtsphil-vorwort",
           "title": "前言",
           "originalTitle": "Vorwort.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-vorwort.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-vorwort.json",
+          "parentId": "rechtsphil"
         },
         {
           "id": "rechtsphil-a1",
           "title": "第一节 法哲学",
           "originalTitle": "Abschnitt I. Die Philosophie des Rechts.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-a1.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-a1.json",
+          "parentId": "rechtsphil"
         },
         {
           "id": "rechtsphil-a1-a",
           "title": "a）方法",
           "originalTitle": "a) Die Methode.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-a1-a.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-a1-a.json",
+          "parentId": "rechtsphil-a1"
         },
         {
           "id": "rechtsphil-a1-b",
           "title": "b）各个流派",
           "originalTitle": "b) Die einzelnen Richtungen.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-a1-b.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-a1-b.json",
+          "parentId": "rechtsphil-a1"
         },
         {
           "id": "rechtsphil-a2",
           "title": "第二节 法学的方法论",
           "originalTitle": "Abschnitt II. Die Methodologie der Rechtswissenschaft.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-a2.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-a2.json",
+          "parentId": "rechtsphil"
         },
         {
           "id": "rechtsphil-lit",
           "title": "文献",
           "originalTitle": "Literatur.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-lit.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-lit.json",
+          "parentId": "rechtsphil"
         },
         {
           "id": "rechtsphil-lit-a1",
           "title": "第一节 法哲学",
           "originalTitle": "Abschnitt I. Die Philosophie des Rechts.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-lit-a1.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-lit-a1.json",
+          "parentId": "rechtsphil-lit"
         },
         {
           "id": "rechtsphil-lit-a2",
           "title": "第二节 文化科学的一般方法论",
           "originalTitle": "Abschnitt II. Zur allgemeinen Methodologie der Kulturwissenschaften.",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-lit-a2.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-lit-a2.json",
+          "parentId": "rechtsphil-lit"
         },
         {
           "id": "rechtsphil-lit-jur",
           "title": "法学方法论",
           "originalTitle": "Zur Methodologie der Jurisprudenz .",
-          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-lit-jur.json"
+          "dataUrl": "translations/books/lask-gesammelte-schriften-i/rechtsphil-lit-jur.json",
+          "parentId": "rechtsphil-lit"
         },
         {
           "id": "hegel",
@@ -335,9 +374,9 @@ window.TRANSLATIONS = {
         },
         {
           "label": "可复现源码包",
-          "url": "translations/books/lask-gesammelte-schriften-i/lask_i_source.zip?v=b864406a07e3",
-          "bytes": 4760027,
-          "sha256": "b864406a07e30e143e3a0300c9b9c8af4d648c33850f3110f830ab251a762850"
+          "url": "translations/books/lask-gesammelte-schriften-i/lask_i_source.zip?v=2e4164843c5c",
+          "bytes": 4760230,
+          "sha256": "2e4164843c5c92414257278399ed5ad2d38d4bef561dfc21fc269c7695758a20"
         }
       ],
       "example": false,
