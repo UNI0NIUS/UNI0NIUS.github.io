@@ -344,21 +344,21 @@ window.TRANSLATIONS = {
       "downloads": [
         {
           "label": "中德对照PDF",
-          "url": "translations/books/lask-gesammelte-schriften-i/lask_i_bilingual.pdf?v=3a336aeeaf7b",
-          "bytes": 2220483,
-          "sha256": "3a336aeeaf7b46a85f444e2a3233baf9078cefb4134359cc61e2c15deffd49f5"
+          "url": "translations/books/lask-gesammelte-schriften-i/lask_i_bilingual.pdf?v=7b7157a32d34",
+          "bytes": 2205561,
+          "sha256": "7b7157a32d3439ea32337bb09d3103b73d2b5b612fdd435e3381a3841f6b00ca"
         },
         {
           "label": "中文PDF",
-          "url": "translations/books/lask-gesammelte-schriften-i/lask_i_zh.pdf?v=969a1f29c0d3",
-          "bytes": 1308449,
-          "sha256": "969a1f29c0d3e8e226a51dc6325f6b42d0c1c0fdf9dd2a86df1fd0770822dc52"
+          "url": "translations/books/lask-gesammelte-schriften-i/lask_i_zh.pdf?v=acfef558bb6e",
+          "bytes": 1303130,
+          "sha256": "acfef558bb6ecd0d9f45986b71388c2789fd41640bb7363d0e690a37e60d3efd"
         },
         {
           "label": "德文PDF",
-          "url": "translations/books/lask-gesammelte-schriften-i/lask_i_de.pdf?v=1b4eaf2e6e00",
-          "bytes": 969412,
-          "sha256": "1b4eaf2e6e008792de52bc65246cebc2833f4aa247823b9cd858b53ed853a61d"
+          "url": "translations/books/lask-gesammelte-schriften-i/lask_i_de.pdf?v=158db91f711e",
+          "bytes": 968212,
+          "sha256": "158db91f711ef761d3e5b5ff7e4deafc623435a6e354718cc01e20c949a03d34"
         },
         {
           "label": "中文Markdown",
@@ -374,13 +374,16 @@ window.TRANSLATIONS = {
         },
         {
           "label": "可复现源码包",
-          "url": "translations/books/lask-gesammelte-schriften-i/lask_i_source.zip?v=5c46bab196b2",
-          "bytes": 4760240,
-          "sha256": "5c46bab196b2b7df8fc9081c6c4f8dcccbbf0a41a897d7f30a6d0b2b0fae6619"
+          "url": "translations/books/lask-gesammelte-schriften-i/lask_i_source.zip?v=dd60772c4fb0",
+          "bytes": 4803466,
+          "sha256": "dd60772c4fb0d4f6994f2d4c0e424efe896dc33e7b50426d56db7202436c813e"
         }
       ],
       "example": false,
-      "description": "费希特的观念论与历史、法哲学、黑格尔及实践理性优先性。含中文、德文与逐段对照阅读，保留原页码及495条原注。"
+      "description": "费希特的观念论与历史、法哲学、黑格尔及实践理性优先性。含中文、德文与逐段对照阅读，保留原页码及495条原注。",
+      "tags": [
+        "哲学 Philosophy"
+      ]
     },
     {
       "id": "alibi",
