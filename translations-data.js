@@ -2,7 +2,7 @@ window.TRANSLATIONS = {
   "books": [
     {
       "id": "lask-gesammelte-schriften-i",
-      "title": "文集第一卷",
+      "title": "拉斯克文集：第一卷",
       "originalTitle": "Gesammelte Schriften. I",
       "author": "Emil Lask",
       "authorZh": "埃米尔·拉斯克",
@@ -374,9 +374,9 @@ window.TRANSLATIONS = {
         },
         {
           "label": "可复现源码包",
-          "url": "translations/books/lask-gesammelte-schriften-i/lask_i_source.zip?v=2e4164843c5c",
-          "bytes": 4760230,
-          "sha256": "2e4164843c5c92414257278399ed5ad2d38d4bef561dfc21fc269c7695758a20"
+          "url": "translations/books/lask-gesammelte-schriften-i/lask_i_source.zip?v=5c46bab196b2",
+          "bytes": 4760240,
+          "sha256": "5c46bab196b2b7df8fc9081c6c4f8dcccbbf0a41a897d7f30a6d0b2b0fae6619"
         }
       ],
       "example": false,
