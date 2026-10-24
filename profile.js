@@ -6,10 +6,12 @@ window.PROFILE = {
   // Place your photo beside this file, then enter its filename.
   avatar: "images/photo.jpg",
   email: "unionius5734@gmail.com",
-  // Supported icons: github, x, scholar, linkedin. Empty URLs are not shown.
+  // Supported icons: github, x, scholar, linkedin, zhihu, douban. Empty URLs are not shown.
   links: [
     { label: "GitHub", icon: "github", url: "https://github.com/UNI0NIUS" },
-    { label: "X", icon: "x", url: "https://x.com/unionios" }
+    { label: "X", icon: "x", url: "https://x.com/unionios" },
+    { label: "知乎", icon: "zhihu", url: "https://www.zhihu.com/people/xiao-luo-huo-qia-75" },
+    { label: "豆瓣", icon: "douban", url: "https://www.douban.com/people/283217296/" }
     // Add your own profiles when available:
     // , { label: "Google Scholar", icon: "scholar", url: "" }
     // , { label: "LinkedIn", icon: "linkedin", url: "" }
