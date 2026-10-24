@@ -1249,7 +1249,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-einleitung-n0013]: [原书第12页，注6] 狄尔泰，同上。
     
-    原文：D i 11 h e y , a. a. 0.
+    原文：Dilthey , a. a. 0.
 
 [^fichte-einleitung-n0014]: [原书第13页，注1] 参见上文第9—10页。
     
@@ -1289,7 +1289,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-einleitung-n0023]: [原书第18页，注2] 康德和黑格尔以其片面性，恰恰为评价方式的这一差异提供了典范：在康德那里，例如人格及其行动只表现为伦理性概念的范例、个别情况等等；在黑格尔那里，则只表现为一个“伦理总体性”的成员。
     
-    原文：Kant und Hegel liefern in ihrer Einseitigkeit geradezu Musterbeispiele für diesen Unterschied der Wertungsarten: bei Kant erscheint z. B. die Persönlichkeit und ihr Handeln nur als Exemplar, einzelner Fall usw. des Sittlichkeits begriffs, bei Hegel nur als Glied einer »sittlichen Tota 1 i t ä t«.
+    原文：Kant und Hegel liefern in ihrer Einseitigkeit geradezu Musterbeispiele für diesen Unterschied der Wertungsarten: bei Kant erscheint z. B. die Persönlichkeit und ihr Handeln nur als Exemplar, einzelner Fall usw. des Sittlichkeitsbegriffs, bei Hegel nur als Glied einer »sittlichen Totalität«.
 
 [^fichte-einleitung-n0024]: [原书第19页，注1] 参见第一部分第一章A节关于形式逻辑概念学说的论述。
     
@@ -1297,11 +1297,11 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-einleitung-n0025]: [原书第20页，注1] 这些迄今几乎总被忽视的区分——超个体的普遍者与超个体的整体之间的区分，其对于历史哲学和社会哲学研究不可比拟的丰饶性今后应会越来越清楚——已由里凯尔特的逻辑研究阐明，并被用于历史哲学问题：见《历史上的四种普遍者方式》，载《历史综合评论》1901年；以及《自然科学概念构造的界限》第4章第IV节“历史联系”。此外另参见西美尔的简短暗示性评论《社会分化》第15页及以下、《货币哲学》466，以及基斯蒂亚科夫斯基的有价值研究《社会与个体》，尤其第5章。
     
-    原文：Diese bisher fast stets vernachlässigten Unterschiede zwischen über individuellem Allgemeinem und überindividuellem Ganzem, deren unvergleichliche Fruchtbarkeit für die geschichts- und sozialphilosophische Forschung sich in der Zukunft immer deutlicher herausstellen dürfte, sind durch Rickerts logische Untersuchungen klargelegt und für die geschichtsphilosophischen Probleme verwertet worden: les quatres modes de l’universel en histoire, Revue de Synthese histörique 1901 und Grenzen der naturwissenschaftlichen Begriffsbildung, 4. Kap., IV »der historische Zusammenhang«. Vgl. dazu außerdem noch die kurzen, andeutenden Bemerkungen Simmels, Soziale Differenzierung 15 ff., Philosophie des Geldes 466 und die wertvollen Untersuchungen Kistiakowskis, Gesellschaft und Einzelwesen, bes. 5- Kap.
+    原文：Diese bisher fast stets vernachlässigten Unterschiede zwischen überindividuellem Allgemeinem und überindividuellem Ganzem, deren unvergleichliche Fruchtbarkeit für die geschichts- und sozialphilosophische Forschung sich in der Zukunft immer deutlicher herausstellen dürfte, sind durch Rickerts logische Untersuchungen klargelegt und für die geschichtsphilosophischen Probleme verwertet worden: les quatres modes de l’universel en histoire, Revue de Synthese histörique 1901 und Grenzen der naturwissenschaftlichen Begriffsbildung, 4. Kap., IV »der historische Zusammenhang«. Vgl. dazu außerdem noch die kurzen, andeutenden Bemerkungen Simmels, Soziale Differenzierung 15 ff., Philosophie des Geldes 466 und die wertvollen Untersuchungen Kistiakowskis, Gesellschaft und Einzelwesen, bes. 5- Kap.
 
 [^fichte-einleitung-n0026]: [原书第20页，注2] 同时还应追踪黑格尔自己的价值学说与其逻辑学的紧密联系。这会表明：最有价值的文化哲学成果常常与那些从纯逻辑和认识论立场看应予摒弃的思辨处于最紧密联系中；参见“第一部分”开头和第二章（黑格尔对原子论的论战）。
     
-    原文：Sie hätte zugleich den engen Zusammenhang von Hegels eigener Wertlehre mit seiner Logik zu verfolgen. Dabei würde sich herausstellen, daß wert vollste kulturphilosophische Ergebnisse oft in innigstem Zusammenhang mit Spekulationen stehen, die vom rein logischen und erkenntnistheoretischeri Standpunkt aus zu verwerfen sind; vgl. den Anfang des »ersten Teiles« und Kap. II (Hegels Polemik gegen den Atomismus).
+    原文：Sie hätte zugleich den engen Zusammenhang von Hegels eigener Wertlehre mit seiner Logik zu verfolgen. Dabei würde sich herausstellen, daß wertvollste kulturphilosophische Ergebnisse oft in innigstem Zusammenhang mit Spekulationen stehen, die vom rein logischen und erkenntnistheoretischeri Standpunkt aus zu verwerfen sind; vgl. den Anfang des »ersten Teiles« und Kap. II (Hegels Polemik gegen den Atomismus).
 
 [^fichte-einleitung-n0027]: [原书第22页，注1] 必须明确说明：柏拉图在文化哲学中并不像在形而上学中那样，在一般概念方面是普遍主义者；参见施塔尔《法哲学》I, 8–21的阐述。
     
@@ -1341,7 +1341,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-a-n0005]: [原书第36页，注1] 参见里尔《哲学批判主义》I, 343：“康德走的正是这条道路，即对表象作纯概念分析的道路，以便为先天这一事实奠基。”在先验哲学中看到一种“分析”逻辑的立场之所以更有理由，是因为康德本人把其“把经验之物与理性之物区分开的程序”比作化学的“分析”和“还原”，参见III, 20注、554，V, 169；并参见里尔I, 344，另见埃尔德曼《纲要》II, 388, 511（第4版）。
     
-    原文：Vgl. Riehl, Der philosophische Kritizismus I, 343: »Diesen Weg nimmt Kant, den Weg einer rein begrifflichenAnalyse der Vorstellungen, um die Tatsache des Apriori zu begründen.« In der Transzendentalphilosophie den Standpunkt einer »analytischen« Logik zu erblicken, ist um so mehr berechtigt, als Kant selbst sein »Verfahren der Scheidung des Empirischen vom Rationalen« mit der chemischen »Analyse« »und Reduktion« verglichen hat, s. III, 20 Anm., 554, V, 169 und vgl. dazu Riehl I, 344, auch Erdmann, Grundriß II, 388, 511 (4. Aufl.).
+    原文：Vgl. Riehl, Der philosophische Kritizismus I, 343: »Diesen Weg nimmt Kant, den Weg einer rein begrifflichen Analyse der Vorstellungen, um die Tatsache des Apriori zu begründen.« In der Transzendentalphilosophie den Standpunkt einer »analytischen« Logik zu erblicken, ist um so mehr berechtigt, als Kant selbst sein »Verfahren der Scheidung des Empirischen vom Rationalen« mit der chemischen »Analyse« »und Reduktion« verglichen hat, s. III, 20 Anm., 554, V, 169 und vgl. dazu Riehl I, 344, auch Erdmann, Grundriß II, 388, 511 (4. Aufl.).
 
 [^fichte-t1-k1-a-n0006]: [原书第36页，注2] 为理解我们对先验方法有意片面的阐述，必须再次提醒：此处只涉及刻画先验先天的逻辑结构，可以说是“先验逻辑”的形式逻辑。
     
@@ -1401,7 +1401,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-b-n0010]: [原书第41页，注3] 当“必然性”不被把握为那种只能在经验系统统一性的理念中被设想的认识方式——在其中偶然性直到最后残余都被克服，即不被把握为处于无限性中的偶然性替代物——而被把握为其对我们知性也同样存在的对立面时，当必然性与偶然性被设想为并存并分布于不同领域时，必然性就具有这一含义。参见本章 D 节。
     
-    原文：Diese Bedeutung hat die »Notwendigkeit« dann, wenn sie nicht als die nur in der Idee einer systematischen Einheit der Erfahrung vorstellbare Er kenntnisweise, in der die Zufälligkeit bis auf den letzten Rest überwunden ist, also nicht als der in der Unendlichkeit liegende Ersatz der Zufälligkeit gefaßt wird, sondern als deren auch für unsern Verstand bestehender Gegens atz, wenn Notwendigkeit und Zufälligkeit als nebeneinander bestehend und auf verschiedene Gebiete verteilt gedacht werden. Vgl. dieses Kapitel unter Di
+    原文：Diese Bedeutung hat die »Notwendigkeit« dann, wenn sie nicht als die nur in der Idee einer systematischen Einheit der Erfahrung vorstellbare Erkenntnisweise, in der die Zufälligkeit bis auf den letzten Rest überwunden ist, also nicht als der in der Unendlichkeit liegende Ersatz der Zufälligkeit gefaßt wird, sondern als deren auch für unsern Verstand bestehender Gegensatz, wenn Notwendigkeit und Zufälligkeit als nebeneinander bestehend und auf verschiedene Gebiete verteilt gedacht werden. Vgl. dieses Kapitel unter Di
 
 [^fichte-t1-k1-b-n0011]: [原书第41页，注4] III, 159, 215, 357。
     
@@ -1421,7 +1421,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-b-n0015]: [原书第42页，注4] III, 134；参见文德尔班《哲学史》第2版462。
     
-    原文：III, 134 vgl. Winde 1 band , Gesch. d. Phil., 2. Aufl. 462.
+    原文：III, 134 vgl. Windelband , Gesch. d. Phil., 2. Aufl. 462.
 
 [^fichte-t1-k1-b-n0016]: [原书第42页，注5] 这就是“杂多必须被给予”这一命题的真正批判意义，参见例如III, 77, 98, 117页及以下、130—131页、481页及以下。
     
@@ -1449,7 +1449,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-c-n0003]: [原书第45页，注3] 绘图所用的纯经验辅助手段不属于数学个体性，如纸张、墨水、黑板、粉笔等。参见康德III, 478，VI, 8—9页；迈蒙《先验哲学论稿》43，《批判研究》77。
     
-    原文：Nicht zur mathematischen Individualität gehören die rein empirischen Hilfsmittel der Zeichnung wie Papier, Tinte, Wandtafel, Kreide usw. Vgl. Kant III, 478, VI, 8 f. und Ma imo n , Versuch üb. d. Transzendentalphilosophie 43, Krit. Unters. 77.
+    原文：Nicht zur mathematischen Individualität gehören die rein empirischen Hilfsmittel der Zeichnung wie Papier, Tinte, Wandtafel, Kreide usw. Vgl. Kant III, 478, VI, 8 f. und Maimon , Versuch üb. d. Transzendentalphilosophie 43, Krit. Unters. 77.
 
 [^fichte-t1-k1-c-n0004]: [原书第46页，注1] III, 第478页下部。
     
@@ -1457,11 +1457,11 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-c-n0005]: [原书第46页，注2] 迈蒙使之变得重要的术语“先天给予”，在康德那里例如III, 98, 481页及以下。
     
-    原文：Der bei Maimonso wichtig gewordene Terminus »a priori gegeben« bei Kant z. B. III, 98, 481 ff.
+    原文：Der bei Maimon so wichtig gewordene Terminus »a priori gegeben« bei Kant z. B. III, 98, 481 ff.
 
 [^fichte-t1-k1-c-n0006]: [原书第46页，注3] “因此，要构造一个概念，就需要一种非经验直观；它作为直观固然是单个对象，但作为概念（一个一般表象）的构造，又必须在表象中表达出对一切属于同一概念的可能直观的普遍有效性。”478；同样，479页及以下多处。参见西格瓦特《逻辑学》第2版I, 263, 389；里凯尔特《论定义》59。
     
-    原文：»Zur Konstruktion eines Begriffs wird also eine nicht empirische Anschauung erfordert, die folglich, als Anschauung, ein einzelnes Objekt ist, aber nichtsdestoweniger als die Konstruktion eines Begriffs (einer allgemeinen Vorstellung), Allgemeingültigkeit für alle möglichen Anschauungen, die unter denselben Begriff gehören, in der Vorstellung ausdrücken muß.« 478, ebenso 479 ff. an zahlreichen Stellen. Vgl. Sigwar t, Logik, 2. Aufl., I, 263, 389, Rickert, Zur Lehre von der Definition 59.
+    原文：»Zur Konstruktion eines Begriffs wird also eine nicht empirische Anschauung erfordert, die folglich, als Anschauung, ein einzelnes Objekt ist, aber nichtsdestoweniger als die Konstruktion eines Begriffs (einer allgemeinen Vorstellung), Allgemeingültigkeit für alle möglichen Anschauungen, die unter denselben Begriff gehören, in der Vorstellung ausdrücken muß.« 478, ebenso 479 ff. an zahlreichen Stellen. Vgl. Sigwart, Logik, 2. Aufl., I, 263, 389, Rickert, Zur Lehre von der Definition 59.
 
 [^fichte-t1-k1-c-n0007]: [原书第46页，注4] 例如想想数学公式的本性；关于其“具体普遍性”，另参见德罗比施《逻辑学》第5版，第22—23页。
     
@@ -1473,7 +1473,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-c-n0009]: [原书第48页，注1] III, 483；参见491：“……固然有可靠的原理……”，“……不能从概念中得出一个直接的综合判断……”482：“……无非是综合的单纯规则……”481：“一个先天概念……要么已经包含一种纯粹直观于自身，这时它就能被构造；要么只包含可能直观的综合……”《导论》中已经有特征性的区分：数学判断“全都是综合的”，自然科学则把先天综合判断作为“原理”包含在自身中。42, 44。还有数学“类比”与哲学“类比”的对置：前者可“构造”缺失环节，后者从三个已知环节只能得出与第四个环节的关系，而不能得出第四个环节本身，167—168页。因此在自然科学中，单个者不能像在数学中那样被计算。
     
-    原文：III, 483 vgl. 491: ». . . zwar sichere Grundsätze...,«»... nicht ein einziges direkt synthetisches Urteil aus Begriffen . . . .« 482: ». , . . nichts weiter als die bloße Regel der Synthesis....« 481: »Nun enthält ein Begriff a priori .... entweder schon eine reine Anschauung in sich, und alsdann kann er konstruiert werden; oder nichts als die Synthesis möglicher Anschauungen . . . .« Bereits in der »Einleitung« die charakteristische Unterscheidung, daß mathematische Urteile »insgesamt synthetisch« seien, Naturwissenschaft dagegen synthetische Urteile ä priori als »Prinzipien« in sich »enthalte«. 42, 44. Ferner die Gegenüberstellung mathematischer und philosophischer »Analogie«, wonach bei jener sich das fehlende Glied »konstruieren« lasse, bei dieser dagegen aus drei gegebenen Gliedern nur das Verhältnis zu einem vierten, nicht aber dieses selbst folge, 167 f. In der Naturwissenschaft läßt sich darum das Einzelne nicht berec litt e n wie in der Mathematik.
+    原文：III, 483 vgl. 491: ». . . zwar sichere Grundsätze...,«»... nicht ein einziges direkt synthetisches Urteil aus Begriffen . . . .« 482: ». , . . nichts weiter als die bloße Regel der Synthesis....« 481: »Nun enthält ein Begriff a priori .... entweder schon eine reine Anschauung in sich, und alsdann kann er konstruiert werden; oder nichts als die Synthesis möglicher Anschauungen . . . .« Bereits in der »Einleitung« die charakteristische Unterscheidung, daß mathematische Urteile »insgesamt synthetisch« seien, Naturwissenschaft dagegen synthetische Urteile ä priori als »Prinzipien« in sich »enthalte«. 42, 44. Ferner die Gegenüberstellung mathematischer und philosophischer »Analogie«, wonach bei jener sich das fehlende Glied »konstruieren« lasse, bei dieser dagegen aus drei gegebenen Gliedern nur das Verhältnis zu einem vierten, nicht aber dieses selbst folge, 167 f. In der Naturwissenschaft läßt sich darum das Einzelne nicht berechnen wie in der Mathematik.
 
 [^fichte-t1-k1-c-n0010]: [原书第49页，注1] III, 19（第二版序言）。
     
@@ -1485,7 +1485,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-c-n0012]: [原书第49页，注3] “特定自然物的可能性……不能从纯概念被认识。”“因此，为了认识特定自然物的可能性，即为了先天认识它们，还需要……概念被构造。而通过概念构造的理性认识是数学的。所以，虽然一种关于自然一般的纯粹哲学，即只研究构成一般自然概念的东西的哲学，没有数学也可能；但一种关于特定自然物的纯粹自然学说（物体学说和灵魂学说），只有借助数学才可能。”IV, 360。
     
-    原文：»Die Möglichkeit bestimmter Naturdinge kann .... nicht aus bloßen Begriffen erkannt werden.« »Also wird, um die Möglichkeit bestim ra te r Naturdinge, mithin um diese a priori zu erkennen, noch erfordert, .... daß der Begriff konstruiert werde. Nun ist die Vernunfterkenntnis durch Konstruktion der Begriffe mathematisch. Also mag zwar eine reine Philosophie der Natur überhaupt, d. i. diejenige, die nur das, was den Begriff der Natur im allgemeinen ausmacht, untersucht, auch ohne Mathematik möglich sein, aber eine reine Naturlehre über bestimmte Naturdinge (Körper lehre und Seelenlehre), ist nur vermittelst der Mathematik möglich.« IV, 360.
+    原文：»Die Möglichkeit bestimmter Naturdinge kann .... nicht aus bloßen Begriffen erkannt werden.« »Also wird, um die Möglichkeit bestimmter Naturdinge, mithin um diese a priori zu erkennen, noch erfordert, .... daß der Begriff konstruiert werde. Nun ist die Vernunfterkenntnis durch Konstruktion der Begriffe mathematisch. Also mag zwar eine reine Philosophie der Natur überhaupt, d. i. diejenige, die nur das, was den Begriff der Natur im allgemeinen ausmacht, untersucht, auch ohne Mathematik möglich sein, aber eine reine Naturlehre über bestimmte Naturdinge (Körperlehre und Seelenlehre), ist nur vermittelst der Mathematik möglich.« IV, 360.
 
 [^fichte-t1-k1-c-n0013]: [原书第49页，注4] 对这一断言的更确切证明只能留给更详细阐述。不过，以下提示和证据大概已经暗示出对我们本质性的一切。
     
@@ -1493,7 +1493,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-c-n0014]: [原书第50页，注1] “哲学……还未能架起一座桥，使从先验之物向特殊之物的过渡成为可能。”《论哲学的进步》16（《哲学领域漫游》第一文）。
     
-    原文：»Die Philosophie .... hat noch keine Brücke auf bauen können, wodurch der Uebergang vom Transzendentalen zumBe son deren möglich gemacht würde.« Ueber die Progressen der Philosophie 16 (l. Abh. der »Streifereien i. Gebiete d. Philos.«).
+    原文：»Die Philosophie .... hat noch keine Brücke aufbauen können, wodurch der Uebergang vom Transzendentalen zum Besonderen möglich gemacht würde.« Ueber die Progressen der Philosophie 16 (l. Abh. der »Streifereien i. Gebiete d. Philos.«).
 
 [^fichte-t1-k1-c-n0015]: [原书第50页，注2] 《先验哲学论稿》48页及以下、70页及以下、128页及以下、186—187页、192；《哲学辞典》167；《进步》56；《新逻辑学论稿》301/2、330；《批判研究》55页及以下、144。
     
@@ -1517,7 +1517,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-c-n0020]: [原书第51页，注3] 尤其参见《逻辑学》416—417页、430页及以下：“我们只知道与可能经验对象一般相关的综合判断，却完全不知道与特定现实经验对象相关的综合判断。”430；《批判研究》150—151页。因此，“严格意义上的经验”，即从先验一般者向经验个别者的可洞察过渡，只能是一个“理念”。《批判研究》154。关于迈蒙哲学这一概述的简短补遗，见第二部分第一编第四章和第五章末尾。
     
-    原文：S. bes. Logik 416 f., 430 ff.: »Wir wissen bloß von synthetischen Urteilen in Beziehung auf Objekte einer möglichen Erfahrung überhäup t, nichts aber von synthetischen Urteilen, die sich auf bestimmte Objekte wirklicher Erfahrung beziehen.« 430, Krit. Unters. 150 f. »Erfahrung im strengen Sinne«, d. h. einsehbarer Uebergang vom transzendental Allgemeinen zur empirischen Einzelheit kann deshalb nur eine »Idee« sein. Krit. Unters. 154. Kurze Nachträge zu dieser Skizzierung von Maimons Philosophie am Schluß des IV. und des V. Kap. im 1. Abschn. des zweiten Teiles.:
+    原文：S. bes. Logik 416 f., 430 ff.: »Wir wissen bloß von synthetischen Urteilen in Beziehung auf Objekte einer möglichen Erfahrung überhaupt, nichts aber von synthetischen Urteilen, die sich auf bestimmte Objekte wirklicher Erfahrung beziehen.« 430, Krit. Unters. 150 f. »Erfahrung im strengen Sinne«, d. h. einsehbarer Uebergang vom transzendental Allgemeinen zur empirischen Einzelheit kann deshalb nur eine »Idee« sein. Krit. Unters. 154. Kurze Nachträge zu dieser Skizzierung von Maimons Philosophie am Schluß des IV. und des V. Kap. im 1. Abschn. des zweiten Teiles.:
 
 [^fichte-t1-k1-c-n0021]: [原书第52页，注1] 参见上文第45页注3。
     
@@ -1525,7 +1525,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-c-n0022]: [原书第52页，注2] 关于在“可纵观”的数学杂多中非理性的消除，参见里凯尔特《自然科学概念构造的界限》，第89—93页。
     
-    原文：Ueber die Aufhebung der Irrationalität in der »übersehbaren« mathematischen Mannigfaltigkeit s. Ricker t, Grenzen d. naturw. Begriffsbildung, 89–93.
+    原文：Ueber die Aufhebung der Irrationalität in der »übersehbaren« mathematischen Mannigfaltigkeit s. Rickert, Grenzen d. naturw. Begriffsbildung, 89–93.
 
 [^fichte-t1-k1-c-n0023]: [原书第53页，注1] III, 60。“较低的概念不包含在较高概念中……却处于其下。”VIII, 96；参见库诺·菲舍尔《近代哲学史》纪念版IV, 369。
     
@@ -1549,7 +1549,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-c-n0028]: [原书第55页，注1] 法伊欣格II, 213有理由把洛采的阐述（《小宇宙》第3版III, 494页及以下，《形而上学》第2版197–199）称为对康德学说的“进一步发展”。在洛采看来，一般概念并不在其各个实例之间“建立任何有内容的联系”，而“并列的法则”根本不允许设想其应用的任何情况“像存在于一个为自身的世界中那样孤立”。
     
-    原文：Mit Recht nennt Va ihinger II, 213 Lotzes Ausführungen (Mikro kosmus 3. Aufl. III, 494 ff., Metaphysik 2. Aufl., 197—199) eine »Weiterbildung« der Kant sehen Lehre. Der Allgemeinbegriff »stiftet« nach Lotze »keine inhaltvolle Beziehung« zwischen seinen einzelnen Exemplaren, das »Gesetz des Nebeneinander« dagegen gestattet gar nicht, irgendeinen Fall seiner Anwendung zu denken, der »isoliert wie in einer Welt für sich existierte«.
+    原文：Mit Recht nennt Vaihinger II, 213 Lotzes Ausführungen (Mikrokosmus 3. Aufl. III, 494 ff., Metaphysik 2. Aufl., 197—199) eine »Weiterbildung« der Kantschen Lehre. Der Allgemeinbegriff »stiftet« nach Lotze »keine inhaltvolle Beziehung« zwischen seinen einzelnen Exemplaren, das »Gesetz des Nebeneinander« dagegen gestattet gar nicht, irgendeinen Fall seiner Anwendung zu denken, der »isoliert wie in einer Welt für sich existierte«.
 
 [^fichte-t1-k1-d-n0001]: [原书第56页，注1] 再想想数学公式的本质！
     
@@ -1565,7 +1565,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-d-n0004]: [原书第57页，注2] 文德尔班《近代哲学史》II，第345—346页。
     
-    原文：Winde 1 band , Gesch. d. neuer. Phil, II, 345 f.
+    原文：Windelband , Gesch. d. neuer. Phil, II, 345 f.
 
 [^fichte-t1-k1-d-n0005]: [原书第58页，注1] 参见III, 399。
     
@@ -1577,7 +1577,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-d-n0007]: [原书第58页，注3] 尤其应归功于科恩，他使人注意到偶然概念的这一方面；见《康德的经验理论》第2版499—500页、502页及以下，又506—507页、522页及以下，《伦理学的奠基》30页及以下：“……这是理性不可避免的任务；这是对智性偶然性（intelligible Zufälligkeit）所揭开的深渊的遮盖。”34，《美学》118—119页。但这一“智性偶然性（intelligible Zufälligkeit）”何在，科恩并未通过质料不能从形式推导来阐明。科恩还表明，“系统统一性”的理念与内容认识因素相关，见《经验理论》508页及以下。这里虽触及从形式不可解释意义上的偶然性思想，却未明确指出它涉及特殊者与一般者的逻辑关系，另参见556页及以下，《美学奠基》113—114页，又《经验理论》524页及以下，《伦理学》65页及以下。施塔德勒在其关于康德偶然问题的出色阐述中，也主要从理念视角理解它，因此把它归入“只服从理性法庭”的问题，见《康德的目的论》尤其61页及以下。康德那里的纯逻辑论证在他那里也只被触及，见63—64页，参见32—33页、54。
     
-    原文：Es ist besonders ein Verdienst Cohens, auf den Zufallsbegriff von dieser einen Seite her aufmerksam gemacht zu haben, s. KantsTheorie der Erfahrung, 2. Aufl., 499 f., 502 ff., ferner 506 f., 522 ff., Begründung der Ethik, 30 ff., ». . . es ist die unvermeidliche Aufgabe der Vernunft; es ist die Bedeckung des Abgrundes, den die intelligible Zufälligkeit auf deckt.« 34, Aesthetik xi8f. Worin aber diese »intelligible Zufälligkeit« besteht, wird bei Cohennicht durch ~ die Unableitbarkeit des Materialen aus dem Formalen klar gemacht. Cohen zeigt ferner auch, daß die Idee einer »systematischen Einheit« im Zusammenhang mit dem inhaltlichen Erkenntnisfaktor steht, s. Theor. d. Erf. 508 ff. Hier wird der Gedanke der Zufälligkeit im Sinne der Unerklärbarkeit aus dem Formalen allerdings gestreift, aber wieder nicht ausdrücklich hervorgehoben, daß es sich dabei um die logischen Beziehungen zwischen Besonderem und Allgemeinem handelt, vgl. noch 556 ff., Begründ, d. Aesthetik ii3f., ferner Theor. d. Erf. 524 ff., Ethik 65 ff. Auch Stadler hat in seinen vortrefflichen Ausführungen über das Zufallsproblem bei Kant dieses hauptsächlich unter dem Gesichtspunkte der Idee verständlich gemacht und es deshalb zu den Fragen gerechnet, die »nur der Gerichtsbarkeit der Vernunft anheimfallen«, Kants Teleologie, bes. 61 ff. Die rein logische Begründung bei Kantwird bei ihm auch nur gestreift, s. 63 f., vgl. 32 f., 54.
+    原文：Es ist besonders ein Verdienst Cohens, auf den Zufallsbegriff von dieser einen Seite her aufmerksam gemacht zu haben, s. Kants Theorie der Erfahrung, 2. Aufl., 499 f., 502 ff., ferner 506 f., 522 ff., Begründung der Ethik, 30 ff., ». . . es ist die unvermeidliche Aufgabe der Vernunft; es ist die Bedeckung des Abgrundes, den die intelligible Zufälligkeit aufdeckt.« 34, Aesthetik xi8f. Worin aber diese »intelligible Zufälligkeit« besteht, wird bei Cohen nicht durch ~ die Unableitbarkeit des Materialen aus dem Formalen klar gemacht. Cohen zeigt ferner auch, daß die Idee einer »systematischen Einheit« im Zusammenhang mit dem inhaltlichen Erkenntnisfaktor steht, s. Theor. d. Erf. 508 ff. Hier wird der Gedanke der Zufälligkeit im Sinne der Unerklärbarkeit aus dem Formalen allerdings gestreift, aber wieder nicht ausdrücklich hervorgehoben, daß es sich dabei um die logischen Beziehungen zwischen Besonderem und Allgemeinem handelt, vgl. noch 556 ff., Begründ, d. Aesthetik ii3f., ferner Theor. d. Erf. 524 ff., Ethik 65 ff. Auch Stadler hat in seinen vortrefflichen Ausführungen über das Zufallsproblem bei Kant dieses hauptsächlich unter dem Gesichtspunkte der Idee verständlich gemacht und es deshalb zu den Fragen gerechnet, die »nur der Gerichtsbarkeit der Vernunft anheimfallen«, Kants Teleologie, bes. 61 ff. Die rein logische Begründung bei Kant wird bei ihm auch nur gestreift, s. 63 f., vgl. 32 f., 54.
 
 [^fichte-t1-k1-d-n0008]: [原书第59页，注1] 例如参见III, 79, 117页及以下、123, 129页及以下，V, 415页及以下、419—420页、421。最后一段尤其表达批判动机：原型知性（intellectus archetypus）只在与我们推理性知性的对照中！
     
@@ -1601,7 +1601,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k1-d-n0013]: [原书第60页，注4] “所以，一切事物完全规定的先验最高命题，无非是一切实在性总和的表象，它不只是一个把一切谓词按其先验内容包含在自身之下的概念，而是把它们包含在自身之中。”III, 396。
     
-    原文：»Also ist der transzendentale Obersatz der durchgängigen Bestimmung aller Dinge nichts anderes, als die Vorstellung des Inbegriffs aller Realität, nicht bloß ein Begriff , der alle Prädikate ihrem transzendentalen Inhalte nach unter sich, sondern sie i n sich begreift.« 111,396.
+    原文：»Also ist der transzendentale Obersatz der durchgängigen Bestimmung aller Dinge nichts anderes, als die Vorstellung des Inbegriffs aller Realität, nicht bloß ein Begriff , der alle Prädikate ihrem transzendentalen Inhalte nach unter sich, sondern sie in sich begreift.« 111,396.
 
 [^fichte-t1-k1-d-n0014]: [原书第60页，注5] 尤其参见V, 420, 421。更多段落见法伊欣格《注疏》II, 220。
     
@@ -1617,7 +1617,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k2-n0003]: [原书第61页，注3] 以下阐述仅旨在从黑格尔逻辑学说的整体中突出概念理论的“流溢论”特征。
     
-    原文：Die folgende Darstellung verfolgt lediglich den Zweck, aus der Gesamt-'heit von Hegels logischen Lehren den »emanatistischen« Charakter der Begriffstheorie herauszuheben.
+    原文：Die folgende Darstellung verfolgt lediglich den Zweck, aus der Gesamtheit von Hegels logischen Lehren den »emanatistischen« Charakter der Begriffstheorie herauszuheben.
 
 [^fichte-t1-k2-n0004]: [原书第62页，注1] 参见《黑格尔著作集》I, 9页及以下、13页及以下、34页及以下、47、50—51页，V, 19页及以下、47，参见VI, 398。
     
@@ -1629,7 +1629,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k2-n0006]: [原书第62页，注3] 形式与内容那种“外在的”、“彼此漠不相关的”、即恰恰在逻辑上不可洞察的关系不断受到指责。对于自我意识的“形式同一”，“必须以一种不可理解的方式，作为一种异物，加上一个不由这种同一所规定的经验之物附加物”。I, 46，参见120及其他处。
     
-    原文：Das »äußerliche«, »gleichgültige«, d. h. eben logisch nicht einsehbare Verhältnis von Form und Inhalt wird beständig gerügt. Zur »formalen Identität« des Selbstbewußtseins »muß ein Plus des Empirischen, durch diese Identität nicht Bestimmten, auf eine unbegreifliche W eise als ein Fremdes hinzutreten.« I, 46, vgl. 120 und sonst.
+    原文：Das »äußerliche«, »gleichgültige«, d. h. eben logisch nicht einsehbare Verhältnis von Form und Inhalt wird beständig gerügt. Zur »formalen Identität« des Selbstbewußtseins »muß ein Plus des Empirischen, durch diese Identität nicht Bestimmten, auf eine unbegreifliche Weise als ein Fremdes hinzutreten.« I, 46, vgl. 120 und sonst.
 
 [^fichte-t1-k2-n0007]: [原书第62页，注4] 同上，255。关于康德和费希特道德哲学中形式与内容的类似撕裂，例如参见350页及以下、357—358页。
     
@@ -1685,7 +1685,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k2-n0020]: [原书第65页，注3] 尤其参见V, 48页及以下。“……这种固定之物在于所考察的抽象普遍性形式；通过它，它们”（即诸规定性）“成为不可变的”。“如果说在纯粹概念上这种永恒性属于其本性，那么它的抽象规定只是按其形式才是永恒本质；但它们的内容并不适合这种形式；因此它们不是真理和不可消逝性”，而必须能够“消解”，并“过渡”到自己的对立面。
     
-    原文：S. bes. V, 48 ff. ». . . . Dies Fixe besteht in der betrachteten Form der abstrakten Allgemeinheit; durch sie werden sie« (sc. die Bestimmtheiten) »unveränderlic h«. »Wenn nun am reinen Begriffe diese Ewigkeit zu seiner Natur gehört, so waren seine abstrakten Bestimmungen nur ihrer Form nach ewige Wesenheiten; aber ihr Inhalt ist dieser Form nicht angemessen; sie sind daher nicht Wahrheit und Unvergänglichkeit«, sondern müssen sich »auflösen« lassen und in ihr Gegenteil »übergehen«.
+    原文：S. bes. V, 48 ff. ». . . . Dies Fixe besteht in der betrachteten Form der abstrakten Allgemeinheit; durch sie werden sie« (sc. die Bestimmtheiten) »unveränderlich«. »Wenn nun am reinen Begriffe diese Ewigkeit zu seiner Natur gehört, so waren seine abstrakten Bestimmungen nur ihrer Form nach ewige Wesenheiten; aber ihr Inhalt ist dieser Form nicht angemessen; sie sind daher nicht Wahrheit und Unvergänglichkeit«, sondern müssen sich »auflösen« lassen und in ihr Gegenteil »übergehen«.
 
 [^fichte-t1-k2-n0021]: [原书第65页，注4] II, 36—37页、42，VI, 318、367。
     
@@ -1721,15 +1721,15 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k2-n0028]: [原书第67页，注1] VI, 323，参见316：“当然，概念应被看作形式，但应被看作无限创造性的形式，它把内容的充盈包含在自身之中，同时又从自身中释放出来。”
     
-    原文：VI, 323 vgl. 316: »Allerdings ist der Begriff als Form zu betrachten, allein als unendliche schöpferisChe Form, welche dieFü 11 e d.e s Inhalts in sich beschließt und zugleich aus siebente läßt.«
+    原文：VI, 323 vgl. 316: »Allerdings ist der Begriff als Form zu betrachten, allein als unendliche schöpferisChe Form, welche die Fülle des Inhalts in sich beschließt und zugleich aus sich entläßt.«
 
 [^fichte-t1-k2-n0029]: [原书第68页，注1] 例如参见9页及以下、119，“一个无统一性的经验与偶然杂多的王国”128，参见250，“杂多的无统一性”V, 49；同样的原子论指责也针对费希特的伦理学与法权学说，并明确地与抽象种属概念的本质联系起来。“但是那个知性国家不是一个有机体，而是一台机器；人民不是一个共同而丰富生命的有机身体，而是一个原子论的、缺乏生命的多元体，其要素是绝对对立的实体……这些要素的统一只是一个概念。”“诸点的这种绝对实体性奠定了实践哲学的一个原子论体系”I, 242，参见243—244页、152—153页。关于自然法理性主义那种导向原子论的抽象方法，详参332页及以下、367—368页；关于“政治中的原子论观点”见VI, 193。在《现象学》中尤其参见360页及以下，“人格那纯粹空洞的一”。整部《法哲学》都贯穿了对个体主义法权建构与固守“形式普遍性”之间紧密联系的证明，例如参见VIII, 63、221、247。契约由此表现为“意志的单纯共同之物”、“共同性的东西”116、314，早在I, 243即如此：“共同意志的那个固定抽象物”。
     
-    原文：S. z. B. 9 ff., 119, »ein Reich einheitsloser Empirie und zufälliger Mannigfaltigkeit« 128, vgl. 250, »E inheitslosigkeit des Mannigfaltigen« V, 49, derselbe Vorwurf des Atomismus gegen Fichtes Sitten- und Rechtslehre, ausdrücklich in Verbindung gebracht mit dem Wesen des abstrakten Gattungsbegriffs. »Aber jener Verstandes-Staat ist nicht eine Organisation; sondern eine Maschine; das Volk nicht der organische Körper eines gemeinsamen und reichen Lebens, sondern eine at omistische lebensai'me Vielheit, deren Elemente absolut entgegengesetzte Substan zen .... Elemente, deren Einheit ein Begrif f.« »Diese absolute Substantialität der Punkte gründet ein System der Atomistik der praktischen Philosophie« I, 242 vgl. 243 f., 152 f. Ueber die abstrakte, zum Atomismus führende Methode des naturrechtlichen Rationalismus eingehend 332 ff., 367 f., über die »atomistische Ansicht im Politischen« VI, 193. In der »Phänomenologie« s. bes. 360 ff. »das reine leere Eins der Person«. Durch die ganze »Philosophie des Rechts« zieht sich der Nachweis des engen Zusammenhanges zwischen der individualistischen Rechtskonstruktion und dem Haften an der »formellen Allgemeinheit«, s. z. B, VIII, 63, 221, 247. Der Vertrag erscheint dabei als ein »bloß Gemeinsames des Willens« »Gemeinschaftliches« 116, 314, so schon I, 243: »das fixierte Abstraktum des gemeinsamen Willens«.
+    原文：S. z. B. 9 ff., 119, »ein Reich einheitsloser Empirie und zufälliger Mannigfaltigkeit« 128, vgl. 250, »Einheitslosigkeit des Mannigfaltigen« V, 49, derselbe Vorwurf des Atomismus gegen Fichtes Sitten- und Rechtslehre, ausdrücklich in Verbindung gebracht mit dem Wesen des abstrakten Gattungsbegriffs. »Aber jener Verstandes-Staat ist nicht eine Organisation; sondern eine Maschine; das Volk nicht der organische Körper eines gemeinsamen und reichen Lebens, sondern eine atomistische lebensarme Vielheit, deren Elemente absolut entgegengesetzte Substanzen .... Elemente, deren Einheit ein Begriff.« »Diese absolute Substantialität der Punkte gründet ein System der Atomistik der praktischen Philosophie« I, 242 vgl. 243 f., 152 f. Ueber die abstrakte, zum Atomismus führende Methode des naturrechtlichen Rationalismus eingehend 332 ff., 367 f., über die »atomistische Ansicht im Politischen« VI, 193. In der »Phänomenologie« s. bes. 360 ff. »das reine leere Eins der Person«. Durch die ganze »Philosophie des Rechts« zieht sich der Nachweis des engen Zusammenhanges zwischen der individualistischen Rechtskonstruktion und dem Haften an der »formellen Allgemeinheit«, s. z. B, VIII, 63, 221, 247. Der Vertrag erscheint dabei als ein »bloß Gemeinsames des Willens« »Gemeinschaftliches« 116, 314, so schon I, 243: »das fixierte Abstraktum des gemeinsamen Willens«.
 
 [^fichte-t1-k2-n0030]: [原书第69页，注1] 参见叔本华《全集》（格里泽巴赫编）III, 151，西格瓦特《逻辑学》I, 389注。
     
-    原文：Vgl. darüber Schopenhauer, Werke (Grisebach) III, 151,Sigwar t, Logik I, 389 Anm.
+    原文：Vgl. darüber Schopenhauer, Werke (Grisebach) III, 151, Sigwart, Logik I, 389 Anm.
 
 [^fichte-t1-k2-n0031]: [原书第69页，注2] 因此，只有顾及数学类比，才能最深刻地把握斯宾诺莎泛神论的本质，参见文德尔班《前奏曲》97—98页、101页及以下，《近代哲学史》I, 203—204页、207页及以下，《哲学史》342，其中提到叔本华的“存在根据律”。在近代形而上学家中，谢林尤其强调数学对思辨的示范性：在数学中被认识到的是“一般者与特殊者的同一”，是“在直观中被表象的理念”。关于哲学中的构造，见WW V, 125页及以下，《关于大学学习方法的讲演》，同上251页及以下。
     
@@ -1737,7 +1737,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t1-k2-n0032]: [原书第70页，注1] 由于本工作试图为非理性问题史提供一个微小贡献，后文还将论及该问题总体发展的各个时期。此外很容易看出，正文中暗示的个体性问题史，可以为导论中暗示的（参见上文第21—22页）各种价值个体主义与价值普遍主义的历史处理提供——也许甚至必须提供——逻辑—认识论的和形而上学的平行工作与基础。
     
-    原文：Da die vorliegende Arbeit einen kleinen Beitrag zur Geschichte des Irrationalitätsproblems zu liefern sucht, wird später noch von einzelnen Perioden der Gesamtentwicklung dieses Problems die Rede sein. Man sieht übrigens leicht, daß die im Text angedeutete Geschichte des Individualitätsproblems die 1 ogisch - erkenntnistheoretisc h e und metaphysische Parallelarbeit und Grundlage einer geschichtlichen Behandlung der in der Einleitung angedeuteten (s. ob. S. 21 f.) verschiedenen Arten des Wertung sindividualismus und -universalismus abgeben könnte und vielleicht müßte.
+    原文：Da die vorliegende Arbeit einen kleinen Beitrag zur Geschichte des Irrationalitätsproblems zu liefern sucht, wird später noch von einzelnen Perioden der Gesamtentwicklung dieses Problems die Rede sein. Man sieht übrigens leicht, daß die im Text angedeutete Geschichte des Individualitätsproblems die logisch-erkenntnistheoretische und metaphysische Parallelarbeit und Grundlage einer geschichtlichen Behandlung der in der Einleitung angedeuteten (s. ob. S. 21 f.) verschiedenen Arten des Wertungsindividualismus und -universalismus abgeben könnte und vielleicht müßte.
 
 [^fichte-t1-k2-n0033]: [原书第71页，注1] VI, 301，参见V, 9页及以下。
     
@@ -1781,11 +1781,11 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-n0003]: [原书第82页，注3] 费希特致赖因霍尔德：康德“……以启发性的方式采取思维形式；他只是猜出直观的形式，并通过归纳进行证明。”《生平与书信集》II, 215，参见《全集》VIII, 362，以及卡比茨《费希特知识学发展史研究》74—75页，附录25。
     
-    原文：Fichte an Reinhold: Kant». . . nimmt die Denkformen auf einem heuristischen Wege; errät nur die Formen der Anschauung und führt den Beweis durch Induktio n.« Leben und Briefwechsel II, 215, vgl. Sämtl. Werke VIII, 362 und Kabitz , Studien zur Entwicklungsgeschichte der Fichteschen Wissenschaftslehre 74 f., Anhang 25.
+    原文：Fichte an Reinhold: Kant». . . nimmt die Denkformen auf einem heuristischen Wege; errät nur die Formen der Anschauung und führt den Beweis durch Induktion.« Leben und Briefwechsel II, 215, vgl. Sämtl. Werke VIII, 362 und Kabitz , Studien zur Entwicklungsgeschichte der Fichteschen Wissenschaftslehre 74 f., Anhang 25.
 
 [^fichte-t2-a1-n0004]: [原书第83页，注1] 参见文德尔班《前奏曲》272页及以下。
     
-    原文：S. dazu Win del band, Präludien 272 ff.
+    原文：S. dazu Windelband, Präludien 272 ff.
 
 [^fichte-t2-a1-n0005]: [原书第84页，注1] 参见库诺·菲舍尔《近代哲学史》V, 627—628页。
     
@@ -1813,7 +1813,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k1-n0005]: [原书第90页，注1] 另参见卡比茨依据费希特遗稿中此前未刊部分所作的阐述与引文出处，《费希特知识学发展史研究》61页及以下，附录25。
     
-    原文：Vgl. dazu auch die auf bisher ungedruckte Stücke aus Fichtes Nachlaß sich gründenden Ausführungen und Stellennachweise bei Käbit z, Studien z. Entwgesch. der Fichteschen Wissenschaftslehre 61 ff., Anhang 25.
+    原文：Vgl. dazu auch die auf bisher ungedruckte Stücke aus Fichtes Nachlaß sich gründenden Ausführungen und Stellennachweise bei Kabitz, Studien z. Entwgesch. der Fichteschen Wissenschaftslehre 61 ff., Anhang 25.
 
 [^fichte-t2-a1-k1-n0006]: [原书第91页，注1] I, 140—141页，参见191页及以下及其他处。
     
@@ -1829,7 +1829,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k1-n0009]: [原书第91页，注4] “自我中的一切，凡不是直接处于‘我在’之中的、不是直接通过自身设定而被设定的”——因而是矛盾对立！——“对自我而言都是受动（一般感受）。”于是突然变成相反对立了！135。从矛盾对立的东西中“仿佛产生了一种实在的否定（一种负量）”133页及以下、137页及以下。此外，在第三个基本原理中，辩证法的技艺从相互对立者的逻辑不相容性中，变戏法般造出诸对立环节的相互实在限制与挤压、相互逼迫。
     
-    原文：»Alles im Ich, was nicht unmittelbar im: Ich bin liegt; nicht unmittelbar durch das Setzen durch sich selbst gesetzt ist«, — also kontradiktorisches Gegenteil! — »ist für dasselbe Leiden (Affektion überhaupt).« Also plötzlich konträres Gegenteil! 135. Aus dem kontradiktorisch Entgegengesetzten ist »gleichsam eine reale Negation (eine negative Groß e)« geworden 133 ff., 137 ff. Im dritten Grundsatz zaubern ferner die Künste der Dialektik aus der logischen Unverträglichkeit des einander Entgegengesetzten ein gegen seitiges reales Sich-Einschränken und -Pressen, ein Sich-Bedrängen gegen sätzlicher Glieder hervor.
+    原文：»Alles im Ich, was nicht unmittelbar im: Ich bin liegt; nicht unmittelbar durch das Setzen durch sich selbst gesetzt ist«, — also kontradiktorisches Gegenteil! — »ist für dasselbe Leiden (Affektion überhaupt).« Also plötzlich konträres Gegenteil! 135. Aus dem kontradiktorisch Entgegengesetzten ist »gleichsam eine reale Negation (eine negative Größe)« geworden 133 ff., 137 ff. Im dritten Grundsatz zaubern ferner die Künste der Dialektik aus der logischen Unverträglichkeit des einander Entgegengesetzten ein gegenseitiges reales Sich-Einschränken und -Pressen, ein Sich-Bedrängen gegensätzlicher Glieder hervor.
 
 [^fichte-t2-a1-k1-n0010]: [原书第92页，注1] 参见上文第60页及第65—66页。
     
@@ -1897,7 +1897,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k1-n0023]: [原书第96页，注2] I, 156，参见177下方；关于“理念”尤其参见248页及以下、254页及以下；与此相符的还有更早的一段表述，载于卡比茨《费希特知识学发展史研究》96。
     
-    原文：I, 156, vgl. 177 unten; über die »Idee« vgl. bes. 248 ff., 254 ff.; damit übereinstimmend ferner eine frühere Aeußerung, abgedruckt bei Kabit z, Studien z. Entwg. d. Fichteschen Wissenschaftslehre 96.
+    原文：I, 156, vgl. 177 unten; über die »Idee« vgl. bes. 248 ff., 254 ff.; damit übereinstimmend ferner eine frühere Aeußerung, abgedruckt bei Kabitz, Studien z. Entwg. d. Fichteschen Wissenschaftslehre 96.
 
 [^fichte-t2-a1-k1-n0024]: [原书第97页，注1] 关于“生产性想象力”，参见下文第五章最后一部分以及第二节第一章末尾关于费希特在非理性问题史中地位的阐述。
     
@@ -1913,7 +1913,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k1-n0026]: [原书第98页，注2] I, 253、254，但参见23，《生平》II, 166，卡比茨《研究》等，100。
     
-    原文：I, 253, 254, vgl. jedoch 23, Leben II, 166, Kabi tz, Studien usw., 100.
+    原文：I, 253, 254, vgl. jedoch 23, Leben II, 166, Kabitz, Studien usw., 100.
 
 [^fichte-t2-a1-k1-n0027]: [原书第98页，注3] 这一并置明确见248。
     
@@ -1921,7 +1921,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k1-n0028]: [原书第98页，注4] 黑格尔为我们阐述提供了一个极好的间接证实：他恰恰把费希特那里这些流溢论逻辑的起点排除在他对《知识学》的一般指责之外，并把它们作为“理性”或“思辨”的立场，与《知识学》其他部分盛行的“知性”或“反思”观点相区别，尤其参见WW I, 208—209页。
     
-    原文：Eine vorzügliche indirekte Bestätigung unserer Darstellung liefert Hege 1, wenn er gerade diese Ansätze einer emanatistischen Logik bei Fichte von seinem allgemeinen Tadel der Wissenschaftslehre ausnimmt und sie als Standpunkt der »Vernunft« oder »Spekulation« von der sonst in der Wissenschaftslehre herrschenden Ansicht des »Verstandes« oder der »Reflexion« unterscheidet, s. bes. WW I, 208 f.
+    原文：Eine vorzügliche indirekte Bestätigung unserer Darstellung liefert Hegel, wenn er gerade diese Ansätze einer emanatistischen Logik bei Fichte von seinem allgemeinen Tadel der Wissenschaftslehre ausnimmt und sie als Standpunkt der »Vernunft« oder »Spekulation« von der sonst in der Wissenschaftslehre herrschenden Ansicht des »Verstandes« oder der »Reflexion« unterscheidet, s. bes. WW I, 208 f.
 
 [^fichte-t2-a1-k2-n0001]: [原书第100页，注1] 即：单纯的自我设定活动构成纯粹自我的全部内容；这个纯粹自我是“事实行动”（Tathandlung），是观念论的自因（causa sui）。
     
@@ -1937,7 +1937,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k2-n0003]: [原书第102页，注1] 《第二篇导论》中纯粹自我与理念的区分，由埃尔德曼《自康德以来的思辨》I, 620，于伯韦格—海因策《纲要》第8版III, 第2编, 11，法尔肯贝格《近代哲学史》第3版357—358页的注提及，但他们未将其用于阐述费希特哲学。相反，埃伦·布利斯·塔尔博特的一篇论文更细致地讨论这一处，参见《康德研究》IV, 286—310，其中正确认识到：《知识学》中与康德“智性直观”相对应的只能是“作为理念的自我”。
     
-    原文：Die Unterscheidung zwischen reinem Ich und Idee in der »zweiten Einleitung« wird von Erdmann, Spekulation seit Kant I, 620, UeberwegHeinze, Grundriß, 8. Aufl., III, 2. Abt., 11, Falckenberg, Geschichte der neueren Philosophie, 3. Aufl., 357 f. Anm., erwähnt, von diesen aber nicht zur Darstellung von Fichtes Philosophie verwertet. Genauer geht dagegen auf diese Stelle ein Aufsatz von Ellen Bliss Talbot ein, s. Kantstudien IV, 286—310, in dem richtig erkannt wird, daß die Parallele zu Kants »intellektueller Anschauung« in der Wissenschaftslehre nur das »Ich als Idee« sein könne.
+    原文：Die Unterscheidung zwischen reinem Ich und Idee in der »zweiten Einleitung« wird von Erdmann, Spekulation seit Kant I, 620, Ueberweg-Heinze, Grundriß, 8. Aufl., III, 2. Abt., 11, Falckenberg, Geschichte der neueren Philosophie, 3. Aufl., 357 f. Anm., erwähnt, von diesen aber nicht zur Darstellung von Fichtes Philosophie verwertet. Genauer geht dagegen auf diese Stelle ein Aufsatz von Ellen Bliss Talbot ein, s. Kantstudien IV, 286—310, in dem richtig erkannt wird, daß die Parallele zu Kants »intellektueller Anschauung« in der Wissenschaftslehre nur das »Ich als Idee« sein könne.
 
 [^fichte-t2-a1-k3-n0001]: [原书第103页，注1] 在本节的以下几章中，固然也会援引1798至1801年间出版著作中的许多段落，但只限于它们为1797年转折提供本质性证据的范围。1797年之后发展中新增的东西，才由“第二节”处理。
     
@@ -1945,7 +1945,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k3-n0002]: [原书第105页，注1] 参见文德尔班《近代哲学史》II, 204页及以下，《前奏曲》，第274页及以下。
     
-    原文：Vgl. Winde 1 band , Gesch. d. neuer. Phil. II, 204 ff., Präludien 274 ff.
+    原文：Vgl. Windelband , Gesch. d. neuer. Phil. II, 204 ff., Präludien 274 ff.
 
 [^fichte-t2-a1-k3-n0003]: [原书第106页，注1] 参见文德尔班《哲学史》484注2。
     
@@ -2005,7 +2005,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k3-n0015]: [原书第111页，注2] 参见西格瓦特《逻辑学》II, 39。
     
-    原文：Vgl. dazu Sig wat t, Logik II, 39.
+    原文：Vgl. dazu Sigwart, Logik II, 39.
 
 [^fichte-t2-a1-k3-n0016]: [原书第112页，注1] 尤其参见I, 459页及以下、463，II, 7页及以下，参见385—386页。
     
@@ -2041,7 +2041,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k4-n0001]: [原书第115页，注1] 费希特没有把“一般意识”理解为“对内在感官的抽象”，而是把它变成了一个形而上学的实体。《哲学批判主义》第二卷第二部，第146页注。与此相反，参见上文第105—106页。
     
-    原文：Fichte habe das »Bewußtsein überhaupt«, anstatt es als »A bstraktion vom inneren Sinn« zu begreifen, zu einem metaphysischen Wesen gemacht. Philosophischer Kritizismus, II. Bd., 2. Teil, 146 Anm. Demgegenüber s. oben S. 105 f.
+    原文：Fichte habe das »Bewußtsein überhaupt«, anstatt es als »Abstraktion vom inneren Sinn« zu begreifen, zu einem metaphysischen Wesen gemacht. Philosophischer Kritizismus, II. Bd., 2. Teil, 146 Anm. Demgegenüber s. oben S. 105 f.
 
 [^fichte-t2-a1-k4-n0002]: [原书第115页，注2] 参见例如上文第113页所引II, 9/10。
     
@@ -2049,7 +2049,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k4-n0003]: [原书第116页，注1] 尤其参见《第二篇导论》、《伦理学》、1801年的《知识学》。狄尔泰把费希特背离康德建立在缺乏形式之物与质料之物的区分之上——这一区分贯穿1797—1801年整个著作群，并简直赋予新学说以印记。这一指责如此准确地击中要害，以至于它的正当性相对于较早的《知识学》、它的无根据性相对于较晚的《知识学》，恰恰出色地照亮了两者之间的距离以及它们与批判哲学相应的关系：“但他想从这个原则出发”——即从自我的创造能力出发——“也解释感觉的质料，从而完成批判的观念论。这只有通过取消那个使整个康德哲学成为可能并为之奠基的区别才能发生：即感觉的什么、其单一被给予性，与那些奠基于自我意识统一之中、具有普遍性和必然性性格的意识条件之间的区别——感觉被统一地归摄于这些条件之下，从而被提升为普遍有效的经验。”《罗斯托克康德手稿》，《哲学史文库》II, 605。
     
-    原文：S. bes. »Zweite Einleitung«, »Sittenlehre«, »Wissenschaftslehre« von 1801. Auf den Mangel einer Unterscheidung des Formalen und Materialen, die sich durch die ganze Schriftengruppe von 1797—1801 hindurchzieht und der neuen Lehre geradezu das Gepräge gibt, gründet Dilthey den Abfall Fichtes von Kant. Dieser Vorwurf trifft so genau das Wesentliche, daß seine Berechtigung der älteren, seine Haltlosigkeit der jüngeren Wissenschaftslehre gegenüber den Abstand zwischen beiden und das entsprechende Verhältnis zur kritischen Philosophie vorzüglich beleuchtet: »Aber er will von diesem Prinzip aus« — dem schöpferischen Vermögen des Ich — »auch die Materie der Empfindungen erklären und so den kritischen Idealismus vollenden. Das konnte nur geschehen, indem er den die ganze Kant sehe Philosophie ermög lichenden und begründenden Unterschiedauf ho b: den Unterschied zwischen dem Was der Empfindungen, ihrer Einzelgegebenheit, und den in der Einheit des Selbstbewußtseins gegründeten, mit dem Charakter der Allgemeinheit und Notwendigkeit ausgestatteten Bedingungen des Bewußtseins, unter welche diese Empfindungen einheitlich geordnet und so zu allgemein gültigen Erfahrungen erhöben werden.« Die Rostocker Kanthändschriften, Arch. f. Gesch. d. Phil. II, 605.
+    原文：S. bes. »Zweite Einleitung«, »Sittenlehre«, »Wissenschaftslehre« von 1801. Auf den Mangel einer Unterscheidung des Formalen und Materialen, die sich durch die ganze Schriftengruppe von 1797—1801 hindurchzieht und der neuen Lehre geradezu das Gepräge gibt, gründet Dilthey den Abfall Fichtes von Kant. Dieser Vorwurf trifft so genau das Wesentliche, daß seine Berechtigung der älteren, seine Haltlosigkeit der jüngeren Wissenschaftslehre gegenüber den Abstand zwischen beiden und das entsprechende Verhältnis zur kritischen Philosophie vorzüglich beleuchtet: »Aber er will von diesem Prinzip aus« — dem schöpferischen Vermögen des Ich — »auch die Materie der Empfindungen erklären und so den kritischen Idealismus vollenden. Das konnte nur geschehen, indem er den die ganze Kantsche Philosophie ermöglichenden und begründenden Unterschied aufhob: den Unterschied zwischen dem Was der Empfindungen, ihrer Einzelgegebenheit, und den in der Einheit des Selbstbewußtseins gegründeten, mit dem Charakter der Allgemeinheit und Notwendigkeit ausgestatteten Bedingungen des Bewußtseins, unter welche diese Empfindungen einheitlich geordnet und so zu allgemein gültigen Erfahrungen erhöben werden.« Die Rostocker Kanthändschriften, Arch. f. Gesch. d. Phil. II, 605.
 
 [^fichte-t2-a1-k4-n0004]: [原书第116页，注2] 参见I, 449。
     
@@ -2061,7 +2061,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k4-n0006]: [原书第118页，注1] I, 489—490页。勒韦在其出色的著作《费希特哲学》第44页确认：费希特主张“事实之物”的不可解释性，不过没有更详细地探讨这一点；同样参见贝格曼《哲学史》II, 215—216页；关于文德尔班参见第五章。
     
-    原文：I, 489 f. Daß von Fichte die Unerklärbarkeit des »Faktischen« behauptet werde, hat Loewein seinem vorzüglichen Buche »Die Philosophie Fichtes« 44, festgestellt, allerdings ohne ausführlicher auf diesen Punkt ein zugehen; ebenso Bergmann, Gesch. d. Phil. II, 215 f.; über Windelband s. Kap. V.
+    原文：I, 489 f. Daß von Fichte die Unerklärbarkeit des »Faktischen« behauptet werde, hat Loewe in seinem vorzüglichen Buche »Die Philosophie Fichtes« 44, festgestellt, allerdings ohne ausführlicher auf diesen Punkt einzugehen; ebenso Bergmann, Gesch. d. Phil. II, 215 f.; über Windelband s. Kap. V.
 
 [^fichte-t2-a1-k4-n0007]: [原书第118页，注2] V, 184，参见II, 302：“……我们这一类有限理性存在者一致的、不可理解的受限状态……纯粹知识的哲学如此回答，并且必须以此为最高点停留于此。”参见IV, 101。
     
@@ -2073,7 +2073,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k4-n0009]: [原书第118页，注4] 同上，225。“个体性在其进程中也可能是被规定的，不仅通过自由，而且通过原初的受限状态；然而这种受限状态不可推演，而是一种特殊的受限状态，并且在这一方面对我们而言，在经验立场上是偶然的。”同上，参见100—101页、254、N. III, 121。
     
-    原文：Ibid. 225. »Die Individualität kann auch in ihrem Fortgänge bestimmt sein, nicht lediglich durch die Freiheit, sondern durch ursprüngliche Beschränktheit; die jedoch nicht zu deduzieren, sondern eine besondere, und in dieser Rücksicht für uns auf dem Gesichtspunkte der Erfahrung z ufällig ist.« Ibid., vgl. 100 f., 254, N. III, 121.
+    原文：Ibid. 225. »Die Individualität kann auch in ihrem Fortgänge bestimmt sein, nicht lediglich durch die Freiheit, sondern durch ursprüngliche Beschränktheit; die jedoch nicht zu deduzieren, sondern eine besondere, und in dieser Rücksicht für uns auf dem Gesichtspunkte der Erfahrung zufällig ist.« Ibid., vgl. 100 f., 254, N. III, 121.
 
 [^fichte-t2-a1-k4-split-p147-n1]: [原书第119页，注1] G. S. A. 梅林《批判哲学百科词典》（Enzyklopädisches Wörterbuch der kritischen Philosophie），VI，第294页。
     
@@ -2085,7 +2085,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k4-n0011]: [原书第120页，注1] 这一怀疑论恰恰立足于先验形式与其经验应用之间的鸿沟，参见I, 387，另参见227以及上文第49—50页。迈蒙对费希特非理性问题之塑造所施加的巨大影响，在此只能像在后文若干处一样略作提示；参见费希特的表述：I, 29、99、101、120注、387（另参见227），《生平》II, 205—206页，以及埃尔德曼《自康德以来的思辨》I, 596—597页、605、615、629、632，《纲要》II, 453，狄尔泰《哲学史文库》II, 605—606页，贝格曼《哲学史》II, 219，默尔策纳《S. 迈蒙对康德哲学的认识论改进尝试》31—32页，卡比茨《费希特知识学发展史研究》62、78。
     
-    原文：Die sich ja gerade auf die Kluft zwischen den transzendentalen Formen und deren empirischer Anwendung stützte, s. I, 387, vgl. 227 und oben S. 49 f. Auf den großen Einfluß, den Maimonauf die Gestaltung des Irrationalitätsproblems bei F ichte ausgeübt hat, kann hier wie an einigen späteren Stellen nur hingedeutet werden; vgl.'Fichtes Aeußerungen: I, 29, 99, 101, 120 Anm., 387 (vgl. dazu 227), Leb. II, 205 f., ferner Erdmann, Spekulation seit Kant, I, 596 f., 605, 615, 629, 632, Grundriß II, 453, D i 11 h e y , Arch. f. Gesch. d. Phil. II, 605 f., Bergmann, Gesch. d, Phil. II, 219, Moeltzn e r, S. Maimons erkth. Verbesserungsversuche d. Kantischen Phil. 31 f.,. Kabitz , Studien; z. Entwgesch. d. Fichteschen Wissenschaftslehre 62, 78.
+    原文：Die sich ja gerade auf die Kluft zwischen den transzendentalen Formen und deren empirischer Anwendung stützte, s. I, 387, vgl. 227 und oben S. 49 f. Auf den großen Einfluß, den Maimon auf die Gestaltung des Irrationalitätsproblems bei Fichte ausgeübt hat, kann hier wie an einigen späteren Stellen nur hingedeutet werden; vgl.'Fichtes Aeußerungen: I, 29, 99, 101, 120 Anm., 387 (vgl. dazu 227), Leb. II, 205 f., ferner Erdmann, Spekulation seit Kant, I, 596 f., 605, 615, 629, 632, Grundriß II, 453, Dilthey , Arch. f. Gesch. d. Phil. II, 605 f., Bergmann, Gesch. d, Phil. II, 219, Moeltzner, S. Maimons erkth. Verbesserungsversuche d. Kantischen Phil. 31 f.,. Kabitz , Studien; z. Entwgesch. d. Fichteschen Wissenschaftslehre 62, 78.
 
 [^fichte-t2-a1-k4-n0012]: [原书第120页，注2] III, 4、58，参见I, 374、387。
     
@@ -2149,7 +2149,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k4-n0026]: [原书第125页，注2] 费希特明确断定：“自发性”与“接受性”不可解释为意识程度的心理学区别，参见II, 217。
     
-    原文：Daß »Spontaneität« und »Rezeptivität« nicht als psychologische Unterschiede des Bewußtseinsgrades zu deuten sind, wird von Ficht ,e ausdrücklich festgestellt, s. II, 217.
+    原文：Daß »Spontaneität« und »Rezeptivität« nicht als psychologische Unterschiede des Bewußtseinsgrades zu deuten sind, wird von Fichte ausdrücklich festgestellt, s. II, 217.
 
 [^fichte-t2-a1-k4-n0027]: [原书第126页，注1] 《先验哲学论》27页及以下、33页及以下。关于非理性概念这一批判性把握与莱布尼茨哲学的关系，参见文德尔班《近代哲学史》II, 154注、198—199页、338，《哲学史》462注1、472注2。
     
@@ -2169,7 +2169,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k5-n0002]: [原书第127页，注2] 《经验理论》590—591页，参见587。狄尔泰《哲学史文库》II, 644作出类似判断。
     
-    原文：Theor. d. Erf. 590 f., vgl. 587. Aehnlich urteilt D i 11 h e y , Arch, f. G. d. Phil. II, 644.
+    原文：Theor. d. Erf. 590 f., vgl. 587. Aehnlich urteilt Dilthey , Arch, f. G. d. Phil. II, 644.
 
 [^fichte-t2-a1-k5-n0003]: [原书第127页，注3] 参见“第一部分”中所引大多数段落，尤其是WW I, 118页及以下、128页及以下、209—272。
     
@@ -2197,7 +2197,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k5-n0009]: [原书第129页，注5] 第二版并未对此作出丝毫改变，例如通过对本体之积极意义与消极意义的区分。完全撇开“不是我们感性直观之对象”与“一种非感性直观之对象”之间的区别究竟如何这一问题不谈（关于此参见福尔克尔特《康德认识论》112，参见110），可以确定的是：即便就消极意义上的本体而言，那种对应的思想也并未被排除在外：一种本体应当“归属于”它的知性虽然应当是一个“问题”，但它归属于这样一种成问题的知性，这却不是问题，参见III, 222，另参见V, 421/2：“……相应的智性直观”。在其他地方也到处盛行这样的观念：受感性直观束缚的知性认识事物如其显现，相反，无需感性而直观的知性认识事物如其在自身中，例如参见III, 77、123、129、130—131页、351页及以下、388页及以下，参见466。
     
-    原文：Hieran wird durch die zweite Auflage, etwa durch die Unterscheidung des Noumenon in positiver und in negativer Bedeutung, nicht das Mindeste geän dert. Ganz abgesehen davon, wie es überhaupt mit dem Unterschiede von »nicht Objekt unserer sinnlichen Anschauung« und »Objekt einer nichtsinnlichen Anschauung« steht (s. darüber V o 1 k e 11, Kants Erkenntnistheorie 112, vgl. 110), ist soviel gewiß, daß auch vom Noumenon in negativer Bedeutung der Gedanke jener Korrespondenz nicht ferngehalten wird: ein Verstand, für den ein Noumenon »gehörte«, soll zwar ein »Problema« sein, aber daß es für einen solchen problematischen Verstand gehört, ist nicht ein Problem, s. III, 222, vgl. V, 421/2: ». . . korrespondierende intellektuelle Anschauung«. Auch sonst herrscht überall die Vorstellung, daß der an die sinnliche Anschauung gebundene Verstand die Dinge erkennt, wie sie erscheinen, dagegen der ohne Sinnlichkeit anschauende, wie sie an sich selbst sind, s. z. B. III, 77, 123, 129, 130 f., 351 ff., 388 ff., vgl. 466.
+    原文：Hieran wird durch die zweite Auflage, etwa durch die Unterscheidung des Noumenon in positiver und in negativer Bedeutung, nicht das Mindeste geändert. Ganz abgesehen davon, wie es überhaupt mit dem Unterschiede von »nicht Objekt unserer sinnlichen Anschauung« und »Objekt einer nichtsinnlichen Anschauung« steht (s. darüber Volkelt, Kants Erkenntnistheorie 112, vgl. 110), ist soviel gewiß, daß auch vom Noumenon in negativer Bedeutung der Gedanke jener Korrespondenz nicht ferngehalten wird: ein Verstand, für den ein Noumenon »gehörte«, soll zwar ein »Problema« sein, aber daß es für einen solchen problematischen Verstand gehört, ist nicht ein Problem, s. III, 222, vgl. V, 421/2: ». . . korrespondierende intellektuelle Anschauung«. Auch sonst herrscht überall die Vorstellung, daß der an die sinnliche Anschauung gebundene Verstand die Dinge erkennt, wie sie erscheinen, dagegen der ohne Sinnlichkeit anschauende, wie sie an sich selbst sind, s. z. B. III, 77, 123, 129, 130 f., 351 ff., 388 ff., vgl. 466.
 
 [^fichte-t2-a1-k5-n0010]: [原书第130页，注1] 科恩曾非常仔细地追踪偶然性、理念与自在之物之间的关系——尤其参见《经验理论》502页及以下、505页及以下、507页及以下、512、518—519页，《伦理学的奠基》18—116，《美学的奠基》118——他相信，可以在不偏离康德本人观点的情况下，把自在之物完全消解为批判的问题。虽然“以下概念等值……：自在之物、无条件者、理念、界限概念、系统统一性”（《经验理论》512）——即便作为康德本人的意见——必须无条件承认，但尽管如此，康德思想中如此重要的二世界理论这一基本特征并不会因此受到质疑。
     
@@ -2205,15 +2205,15 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k5-n0011]: [原书第130页，注2] 参见文德尔班《近代哲学史》II, 79—80页，《前奏曲》125—126页。
     
-    原文：S. darüber Winde 1 band , Gesch. d. neuer. Phil., II, 79 f., Präludien 125 f.
+    原文：S. darüber Windelband , Gesch. d. neuer. Phil., II, 79 f., Präludien 125 f.
 
 [^fichte-t2-a1-k5-n0012]: [原书第131页，注1] 参见I, 471—472页对康德智性直观概念中所含二世界理论的出色拒斥。
     
-    原文：S. die vorzügliche Ablehnung der bei Kantin dem Begriff der intellektuellen Anschauung steckenden Zweiweltentheorie I, 471 f.
+    原文：S. die vorzügliche Ablehnung der bei Kant in dem Begriff der intellektuellen Anschauung steckenden Zweiweltentheorie I, 471 f.
 
 [^fichte-t2-a1-k5-n0013]: [原书第133页，注1] 关于康德那里非理性与自在之物的联系，参见文德尔班《近代哲学史》II, 337，以及里尔《哲学批判主义》第一卷中详尽的阐述；尤其参见381页及以下、389页及以下、428页及以下、431页及以下、446—447页。虽然按照我们上面的讨论，绝不能承认康德在这一问题上所持的超验实在论是正确的，但里尔的“实在论”理解仍然不仅有助于理解康德那个通常太少受到注意的逻辑偶然性概念，而且仅由于强烈强调个体思维内容的非理性，也为系统认识论提供了有价值的贡献。
     
-    原文：Ueber den Zusammenhang von Irrationalität und Ding an sich bei Kant s. Windelband, Gesch. d. neuer. Phil. II, 337 und die eingehenden Ausführungen Rieh 1 s im ersten Band des »philosophischen Kritizismus«; s. bes. 381 ff., 389 ff., 428 ff., 431 ff., 446 f. Obgleich nach unseren obigen Auseinandersetzungen keineswegs zugegeben werden kann, daß Kant in der Sache mit dem transzendenten Realismus recht hat, so liefert Riehls »realistische« Auffassung dennoch nicht nur zum Verständnis von Kants sonst meist zu wenig beachtetem logischem Zufallsbegriff, sondern schon allein wegen der starken Betonung der Irrationalität des individuellen Denkinhaltes auch zur systematischen Erkenntnistheorie wertvolle Beiträge.
+    原文：Ueber den Zusammenhang von Irrationalität und Ding an sich bei Kant s. Windelband, Gesch. d. neuer. Phil. II, 337 und die eingehenden Ausführungen Riehls im ersten Band des »philosophischen Kritizismus«; s. bes. 381 ff., 389 ff., 428 ff., 431 ff., 446 f. Obgleich nach unseren obigen Auseinandersetzungen keineswegs zugegeben werden kann, daß Kant in der Sache mit dem transzendenten Realismus recht hat, so liefert Riehls »realistische« Auffassung dennoch nicht nur zum Verständnis von Kants sonst meist zu wenig beachtetem logischem Zufallsbegriff, sondern schon allein wegen der starken Betonung der Irrationalität des individuellen Denkinhaltes auch zur systematischen Erkenntnistheorie wertvolle Beiträge.
 
 [^fichte-t2-a1-k5-n0014]: [原书第133页，注2] I, 488页及以下，另参见443和IV, 100—101页。
     
@@ -2221,7 +2221,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k5-split-p162-n1]: [原书第134页，注1] I, 490。关于费希特是否有权否认康德相信一种由自在之物引起的触动，人们必须完全赞同法伊辛格的阐述（《注释》II, 45页及以下）（参见埃尔德曼《思辨》I, 500，福尔克尔特《康德认识论》156）；但由此并不能推出：当费希特主张经验之物有一种把握无法达到的规定性、却否认自在之物的触动时，他在实事上错了，并犯了“开始一个思想又在半途中断它”（《注释》II, 49）的错误。
     
-    原文：I, 490. In der Frage, ob Fichte berechtigt war, Kant den Glauben an eine Affektion durch das Ding an sich abzusprechen, muß man sich durchaus Vaihingers Darstellung (Kommentar II, 45 ff.) anschließen (vgl. Erdmann, Spekulation I, 500, V o 1 k e 11, Kants Erkenntnistheorie 156); daraus folgt aber nicht, daß Fichtein der Sache unrecht hat und den Fehler begeht, »einen Gedanken anzufangen und ihn in der Mitte abzubrechen« (Komm. II, 49), wenn er eine für das Begreifen unerreichbare Bestimmtheit des Empirischen behauptet und doch die Affektion durch ein Ding an sich leugnet.
+    原文：I, 490. In der Frage, ob Fichte berechtigt war, Kant den Glauben an eine Affektion durch das Ding an sich abzusprechen, muß man sich durchaus Vaihingers Darstellung (Kommentar II, 45 ff.) anschließen (vgl. Erdmann, Spekulation I, 500, Volkelt, Kants Erkenntnistheorie 156); daraus folgt aber nicht, daß Fichte in der Sache unrecht hat und den Fehler begeht, »einen Gedanken anzufangen und ihn in der Mitte abzubrechen« (Komm. II, 49), wenn er eine für das Begreifen unerreichbare Bestimmtheit des Empirischen behauptet und doch die Affektion durch ein Ding an sich leugnet.
 
 [^fichte-t2-a1-k5-n0015]: [原书第134页，注2] I, 490。
     
@@ -2229,7 +2229,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a1-k5-n0016]: [原书第134页，注3] 当费希特用感觉的直接性与非理性取代自在之物、从而使对超验根据的信仰变得可理解时，贝克却通过混淆感性与知性甚至使问题变得不可辨认。谢林完全按费希特的意思，在上文第123页注2提到的论文（WW I, 432—433页）中向他提出这一指责。
     
-    原文：Während Fichtean die Stelle des Dinges an sich die Unmittelbarkeit und Irrationalität der Empfindung setzt und so den Glauben an die Begründung durch das Transzendente verständlich macht, hat Beck durch die Vermischung von Sinnlichkeit und Verstand sogar das Problem unkenntlich gemacht. Diesen Vorwurf macht ihm ganz im Sinne Fichtes Schelling in der oben S. 123 Anm. 2 genannten Schrift (WW I, 432 f.).
+    原文：Während Fichte an die Stelle des Dinges an sich die Unmittelbarkeit und Irrationalität der Empfindung setzt und so den Glauben an die Begründung durch das Transzendente verständlich macht, hat Beck durch die Vermischung von Sinnlichkeit und Verstand sogar das Problem unkenntlich gemacht. Diesen Vorwurf macht ihm ganz im Sinne Fichtes Schelling in der oben S. 123 Anm. 2 genannten Schrift (WW I, 432 f.).
 
 [^fichte-t2-a1-k5-n0017]: [原书第135页，注1] 属于这一类别还应包括迈蒙。为了补充我们早先的暗示，还须补充一点：恰恰是用非理性取代自在之物概念，对迈蒙来说也具有特征性。“被给予性”只可解释为不可建构性，而不可解释为超越性。尤其参见《论》161、201页及以下、377、384、419，《哲学词典》161—162页，《范畴》203页及以下，《逻辑学》337页及以下，《批判的探讨》65、191。
     
@@ -2333,7 +2333,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a2-k1-n0016]: [原书第145页，注3] “在哲学抽象中虽然可以谈论一种意愿一般而言——它正因如此是无规定的：但一切现实的、可知觉的意愿……必然是一种确定的意愿，其中某种东西被意愿。”IV, 23；同样见V, 364，援引《伦理学》，以及II, 264：“我能够意欲而不意欲某物吗？”“每一种感觉都是确定的。从来不是只被看见、被感觉或被听见，而总是某种确定的东西，红、绿、蓝的颜色等等。”II, 206。“不存在一般而言可见或可感的东西，因为不存在一般而言的看或感。”II, 209/10。
     
-    原文：»In der philosophischen Abstraktion zwar läßt sich von einem Wollen überhaupt, das eben darum unbestimmt ist, sprechen: alles wirkliche wahr nehmbare Wollen aber ... ist notwendig ein bestimmtes Wollen, in welchem etwas gewollt wird.« IV, 23, ebenso V, 364 mit Berufung auf die »Sittenlehre« und II, 264: »kann ich wollen, ohne etwas zu wollen?« »Jede Empfindung ist eine bestimmte. Es wird nie nur bloß gesehen oder gefühlt oder gehört, sondern immer etwas Bestimmtes, die rote, grüne, blaue Farbe usw.« II,,206. »Es gibt nichts Sichtbares oder Fühlbares überhaupt, weil es kein Sehen oder Fühlen überhaupt gibt.« II, 209/10.
+    原文：»In der philosophischen Abstraktion zwar läßt sich von einem Wollen überhaupt, das eben darum unbestimmt ist, sprechen: alles wirkliche wahrnehmbare Wollen aber ... ist notwendig ein bestimmtes Wollen, in welchem etwas gewollt wird.« IV, 23, ebenso V, 364 mit Berufung auf die »Sittenlehre« und II, 264: »kann ich wollen, ohne etwas zu wollen?« »Jede Empfindung ist eine bestimmte. Es wird nie nur bloß gesehen oder gefühlt oder gehört, sondern immer etwas Bestimmtes, die rote, grüne, blaue Farbe usw.« II,,206. »Es gibt nichts Sichtbares oder Fühlbares überhaupt, weil es kein Sehen oder Fühlen überhaupt gibt.« II, 209/10.
 
 [^fichte-t2-a2-k1-split-p174-n1]: [原书第146页，注1] II，第333页；类似处见第395页。
     
@@ -2341,7 +2341,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a2-k1-n0017]: [原书第146页，注2] 参见雅可比全集II, 189页及以下；参见IV，第1部分，72；以及库诺·菲舍尔，《近代哲学史》IV, 234。
     
-    原文：S. Jacobi WW II, 189 ff., vgl. IV, 1. Abt, 72 und KunoFische r, Gesch. d. neuer. Phil. IV, 234.
+    原文：S. Jacobi WW II, 189 ff., vgl. IV, 1. Abt, 72 und Kuno Fischer, Gesch. d. neuer. Phil. IV, 234.
 
 [^fichte-t2-a2-k1-n0018]: [原书第146页，注3] V, 343。
     
@@ -2389,7 +2389,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a2-k1-n0028]: [原书第150页，注4] “哲学只能解释事实，绝不可能自己产生事实，唯一的例外是它把自身作为事实产生出来。”V, 178。
     
-    原文：»Die Philosophie kann nur Fakta erklären, keineswegs selbst welche her vorbringen, außer daß sie sich selbst, als Tatsache, hervorbringt.« V, 178.
+    原文：»Die Philosophie kann nur Fakta erklären, keineswegs selbst welche hervorbringen, außer daß sie sich selbst, als Tatsache, hervorbringt.« V, 178.
 
 [^fichte-t2-a2-k2-n0001]: [原书第152页，注1] 参见里尔《哲学批判主义》I, 12—13页，II, 1编，17页及以下。
     
@@ -2401,7 +2401,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a2-k2-n0003]: [原书第153页，注1] 直到现在，那种幻想才开始消退：个体之物只可能是艺术的对象，永远不可能是纯科学认识的目标。这一转变完成于里凯尔特关于历史科学方法的诸研究；在那里，他有意识地反对古老的柏拉图主义或价值评价的普遍主义（参见上文第16页注1），把在其一次性与唯一性中被关联于普遍有效价值的个体之物确立为历史性之物的科学概念。
     
-    原文：Erst jetzt beginnt der Wahn zu schwinden, daß das Individuelle nur Gegenstand der Kunst und niemals Ziel eines rein wissenschaftlichen Erkennens sein dürfe. Dieser Umschwung vollzieht sich in Rickerts Untersuchungen über die Methode der Geschichtswissenschaften; hier wird in bewußtem Gegensatz gegen den uralten Platonismus oder Üniversalismus des Wertens (vgl. oben S. 16, Anm. 1) das in seiner Einmaligkeit und Einzigkeit auf allgemeingültige Werte bezogene Individuelle als wisse nschaftlicher Begriff des Geschichtlichen festgestellt.
+    原文：Erst jetzt beginnt der Wahn zu schwinden, daß das Individuelle nur Gegenstand der Kunst und niemals Ziel eines rein wissenschaftlichen Erkennens sein dürfe. Dieser Umschwung vollzieht sich in Rickerts Untersuchungen über die Methode der Geschichtswissenschaften; hier wird in bewußtem Gegensatz gegen den uralten Platonismus oder Üniversalismus des Wertens (vgl. oben S. 16, Anm. 1) das in seiner Einmaligkeit und Einzigkeit auf allgemeingültige Werte bezogene Individuelle als wissenschaftlicher Begriff des Geschichtlichen festgestellt.
 
 [^fichte-t2-a2-k2-n0004]: [原书第154页，注1] 尤其参见IV, 76、166，参见131、147—148页，V, 209、362、364。
     
@@ -2425,7 +2425,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a2-k2-n0009]: [原书第156页，注2] 尤其参见V, 182、185与雅可比《论斯宾诺莎的学说》书信，WW IV, 1编，223。费希特在其他要点上也十分贴近这部著作的阐述，参见下文第三章。顺便说，雅可比对休谟“belief”的利用是由哈曼的激励促成的，这可以从两人书信集与雅可比论斯宾诺莎著作的比较中看出。关于费希特对雅可比术语“信仰”的使用，参见赖因霍尔德的书信《生平》II, 244，以及《致J. C. 拉瓦特尔和J. G. 费希特的信》79—80页。费希特对其接近雅可比的最醒目表达，见于《人的使命》中题为“信仰”的第三篇；关于此参见J. H. 费希特《生平》I, 172注，II, 255有引自雅可比WW IV, 1编，210的逐字引文。
     
-    原文：Vgl. besonders mit den Stellen V, 182, 185 Jacobis Briefe »über die Lehre des Spinoza«, WW IV, x. Abt., 223. Den Ausführungen dieser Schrift hat Fichte sich auch in anderen Punkten sehr genau angeschlossen, vgl. unten Kap. III. Die Verwertung des Humesehen »belief« erfolgte übrigens bei Jacobi durch die Anregung Hamanns, wie aus einer Vergleichung des Briefwechsels beider Männer mit der Schrift Jacobis über Spinoza entnommen werden kann. Ueber Fichtes Gebrauch von Jacobis Terminus »Glauben« vgl. Reinholds Brief Leb. II, 244 und »Sendschreiben an J. C. Lavater und J. G. Fichte« 79 f. Am auffälligsten hat Fichte seiner Annäherung an Jacobiim dritten, »Glaube« überschriebenen Buch der »Bestimmung des Menschen« Ausdruck gegeben, vgl. darüber J. H. Fichte, Leb. I, 172, Anm. II, 255 ein wörtliches Zitat aus Jacobi WWIV, x. Abt., 210.
+    原文：Vgl. besonders mit den Stellen V, 182, 185 Jacobis Briefe »über die Lehre des Spinoza«, WW IV, x. Abt., 223. Den Ausführungen dieser Schrift hat Fichte sich auch in anderen Punkten sehr genau angeschlossen, vgl. unten Kap. III. Die Verwertung des Humesehen »belief« erfolgte übrigens bei Jacobi durch die Anregung Hamanns, wie aus einer Vergleichung des Briefwechsels beider Männer mit der Schrift Jacobis über Spinoza entnommen werden kann. Ueber Fichtes Gebrauch von Jacobis Terminus »Glauben« vgl. Reinholds Brief Leb. II, 244 und »Sendschreiben an J. C. Lavater und J. G. Fichte« 79 f. Am auffälligsten hat Fichte seiner Annäherung an Jacobi im dritten, »Glaube« überschriebenen Buch der »Bestimmung des Menschen« Ausdruck gegeben, vgl. darüber J. H. Fichte, Leb. I, 172, Anm. II, 255 ein wörtliches Zitat aus Jacobi WW IV, x. Abt., 210.
 
 [^fichte-t2-a2-k2-n0010]: [原书第157页，注1] 尤其参见II, 263、301—302页。
     
@@ -2453,7 +2453,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a2-k2-n0016]: [原书第158页，注3] 例如同上344有明确提示；另参见对埃伯哈德的论战，351页及以下——埃伯哈德曾因其“神秘的感觉神学”在两部著作中攻击费希特。
     
-    原文：Mit ausdrücklichem Hinweis darauf z. B. ibid. 344; vgl. auch die Polemik gegen Eberhar d, 351 ff., der Fichte wegen seiner »mystischen Gefühls theologie« in zwei Schriften angegriffen hatte.
+    原文：Mit ausdrücklichem Hinweis darauf z. B. ibid. 344; vgl. auch die Polemik gegen Eberhard, 351 ff., der Fichte wegen seiner »mystischen Gefühlstheologie« in zwei Schriften angegriffen hatte.
 
 [^fichte-t2-a2-k2-n0017]: [原书第158页，注4] 福尔克曼《心理学教科书》第3版II, 307正确谈到，恰恰在感觉学说上存在“与雅可比最尖锐的对立”。当然，1794年已有对雅可比的呼应，参见库诺·菲舍尔VI, 381、551—552页。
     
@@ -2541,7 +2541,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a2-k3-n0016]: [原书第164页，注2] N II, 344，参见例如雅可比WW IV, 1编，214、243，I, 387（哈曼）。
     
-    原文：N II, 344, vgl. z. B. Jacobi WW IV, 1. Abt., 214, 243, I, 387 (H a mann).
+    原文：N II, 344, vgl. z. B. Jacobi WW IV, 1. Abt., 214, 243, I, 387 (Hamann).
 
 [^fichte-t2-a2-k3-n0017]: [原书第164页，注3] “工具”、“身体的模型”、“赤裸的骨架”，V, 341；“人造工具”、“丑陋的骨架”，雅可比WW III, 26，I, 242—243页；“解剖学骨架”，哈曼WW II, 35。
     
@@ -2577,7 +2577,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a2-k3-n0025]: [原书第166页，注2] 从247页开始；只有一种不同于知识的“另一种器官”才能给出“真理”并把握“实在性”；雅可比的基本直观也指向这里：真理的“位置”是比知识的位置更高的位置，例如参见WW III, 5/6、26/7、30页及以下、41、44；对此参见让·保罗致雅可比信，让·保罗WW（1841）XXIX, 284，以及雅可比的回答“……几乎是从我第26和27页的信中抄来的。”（这里指的是《致费希特的信》。）R. 策普里茨《弗里德里希·海因里希·雅可比遗稿》I, 240；丹麦诗人巴格森的说法则有所夸大，参见其《书信集》第二部分，292—293页：“他本应干脆说出来：我读了又读我的《雅可比致费希特》以及附录，忽然之间我恍然大悟……”参见286、290。 298。参见上文第156页注1，此外还有J. H. 费希特《近代哲学特征论集》第2版，527页及以下注，参见521页及以下，库诺·菲舍尔VI, 551—552页，文德尔班《近代哲学史》II, 288，贝格曼《哲学史》II, 205。
     
-    原文：Von 247 an; nur ein »anderes Organ« als das Wissen kann »Wahrheit« geben und die »Realität« ergreifen; ebendahin geht Jacobis Grundanschauung, daß der »Ort des Wahren« ein höherer Ort sei als der des Wissens, s. z. B. WW III, 5/6, 26/7, 30 ff., 41, 44; vgL dazu Jean Pauls Brief an Jacobi,, Jean Paul WW (1841), XXIX, 284 und Jacobis Antwort ». . . . fast abgeschrieben aus meinem Briefe S. 26 u. 27.« (Gemeint ist der »Brief an Fichte«.) R.Zöppritz, Aus Fr. H. Jacobis Nachlaß, I, 240; übertreibend der dä nische Dichter Baggesen, s. seinen Briefwechsel II. Teil, 292 f. »Er hätte es rein heraus sagen sollen: ich las und las wieder meinen Jacobi an Fichte, und die Beilagen, und auf einmal ging mir ein Licht auf . . . .« Vgl. 286, 290, 298. Vgl. oben S. 156, Anm. 1, dazu noch J. H. Fichte, Beitr. z. Char. d. neueren Phil., 2. Aufl., 527 fd., Anm., vgl. 521 ff., Kuno Fischer, VI, 551 f., Winde 1 band , Gesch. d. neuer. Phil., II, 288, Bergmann, Gesch. d. Phil., II, 205.
+    原文：Von 247 an; nur ein »anderes Organ« als das Wissen kann »Wahrheit« geben und die »Realität« ergreifen; ebendahin geht Jacobis Grundanschauung, daß der »Ort des Wahren« ein höherer Ort sei als der des Wissens, s. z. B. WW III, 5/6, 26/7, 30 ff., 41, 44; vgL dazu Jean Pauls Brief an Jacobi,, Jean Paul WW (1841), XXIX, 284 und Jacobis Antwort ». . . . fast abgeschrieben aus meinem Briefe S. 26 u. 27.« (Gemeint ist der »Brief an Fichte«.) R.Zöppritz, Aus Fr. H. Jacobis Nachlaß, I, 240; übertreibend der dänische Dichter Baggesen, s. seinen Briefwechsel II. Teil, 292 f. »Er hätte es rein heraus sagen sollen: ich las und las wieder meinen Jacobi an Fichte, und die Beilagen, und auf einmal ging mir ein Licht auf . . . .« Vgl. 286, 290, 298. Vgl. oben S. 156, Anm. 1, dazu noch J. H. Fichte, Beitr. z. Char. d. neueren Phil., 2. Aufl., 527 fd., Anm., vgl. 521 ff., Kuno Fischer, VI, 551 f., Windelband , Gesch. d. neuer. Phil., II, 288, Bergmann, Gesch. d. Phil., II, 205.
 
 [^fichte-t2-a2-k3-n0027]: [原书第166页，注3] II, 254，《生平》II, 278，同时证实赖因霍尔德的表述，同上244以及《致J. C. 拉瓦特尔和J. G. 费希特的信》，79。
     
@@ -2593,7 +2593,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a2-k3-n0030]: [原书第167页，注3] 同上333，342处表面上有撤销，参见谢林同上350页及以下的正确评论，以及让·保罗关于费希特言论的报道，WW XXIX, 304。
     
-    原文：Ibid. 333, scheinbar widerrufen 342, vgl. Schellings richtige Bemerkungen ibid. 350 ff. und Jean Paul s Bericht über Aeußerungen Fichtes, WW XXIX, 304.
+    原文：Ibid. 333, scheinbar widerrufen 342, vgl. Schellings richtige Bemerkungen ibid. 350 ff. und Jean Pauls Bericht über Aeußerungen Fichtes, WW XXIX, 304.
 
 [^fichte-t2-a3-n0001]: [原书第169页，注1] 参见第54页及以下、64页及以下。
     
@@ -2601,7 +2601,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a3-n0002]: [原书第170页，注1] 这种关于整体的普遍主义，必须与康德关于一般概念的普遍主义区别开来。
     
-    原文：Dieser Universalismus hinsichtlich des Ganzen ist wohl zu unterscheiden von dem Käntsehen Universalismus hinsichtlich des Allgemein begriffs.
+    原文：Dieser Universalismus hinsichtlich des Ganzen ist wohl zu unterscheiden von dem Käntsehen Universalismus hinsichtlich des Allgemeinbegriffs.
 
 [^fichte-t2-a3-n0003]: [原书第170页，注2] 这一说法例如见N II, 195（1804）；早在1802年赖因霍尔德就使用它，参见《为较易概览哲学状况而作的文稿》等，第IV册，104、109页及以下。
     
@@ -2781,7 +2781,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a3-k2-n0013]: [原书第182页，注1] II, 110，参见106/7，N I, 237，II, 118。封闭的整体总是“被组织起来的”或“有机的”（例如参见II, 105，参见较早的IV, 109、113—114页），在后期著作（1801年《知识学》）中也称为“宇宙”，或“感性世界”（N I, 313）。它既可以设想为心理的，也可以设想为物理的，既可以设想为“诸自我的世界”，也可以设想为“这些自我的意识对象的世界”，参见N I, 313。
     
-    原文：II, 110, vgl. 106/7, N I, 237, II, 118. Das geschlossene Ganze stets »or ganisiert« oder »organisch« (s. z. B. II, 105, vgl. bereits IV, 109, 113 f.), in späteren Schriften (Wissenschaftslehre 1801) auch »Universum« genannt, oder »Sinnenwelt« (N I, 313). Es ist ebensowohl als psychisch, wie als physisch, als »Welt der Iche«, wie als »Welt der Objekte des Bewußtseins dieser Iche« zu denken, s. N I, 313.
+    原文：II, 110, vgl. 106/7, N I, 237, II, 118. Das geschlossene Ganze stets »organisiert« oder »organisch« (s. z. B. II, 105, vgl. bereits IV, 109, 113 f.), in späteren Schriften (Wissenschaftslehre 1801) auch »Universum« genannt, oder »Sinnenwelt« (N I, 313). Es ist ebensowohl als psychisch, wie als physisch, als »Welt der Iche«, wie als »Welt der Objekte des Bewußtseins dieser Iche« zu denken, s. N I, 313.
 
 [^fichte-t2-a3-k2-n0014]: [原书第182页，注2] 参见I, 121。
     
@@ -2797,7 +2797,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t2-a3-k3-n0002]: [原书第185页，注1] 例如参见II, 92页及以下、100页及以下、544页上部，N I, 250—251页。费希特关于空间的思辨似乎从一开始就依赖于迈蒙；对此另参见埃德曼《哲学史纲要》II, 453。
     
-    原文：S. z. B. II, 92 ff., 100 ff., 544 ob., N I, 250 f. Fichtes Spekulationen über den Raum scheinen von Anfang an abhängig von Maimongewesen zu sein; vgl. darüber auch Erdmann, Grundriß II, 453.
+    原文：S. z. B. II, 92 ff., 100 ff., 544 ob., N I, 250 f. Fichtes Spekulationen über den Raum scheinen von Anfang an abhängig von Maimon gewesen zu sein; vgl. darüber auch Erdmann, Grundriß II, 453.
 
 [^fichte-t2-a3-k3-n0003]: [原书第185页，注2] II, 106，参见110，N II, 335—336页。
     
@@ -2917,7 +2917,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t3-k2-n0004]: [原书第210页，注1] II, 86、115、117页及以下、600页及以下、639页及以下，VII, 69、110，VI, 386、389，V, 530—531页，N III, 65。通过个体性概念的这一分裂——正如在一项详尽阐述中应当表明的——费希特的灵魂不死学说也变得可理解了。
     
-    原文：II, 86, 115, 117 ff., 600 ff., 639 ff., VII, 69, 110, VI, 386, 389, V, 530 f., N III, 65. Durch diese Spaltung des Individualitätsbegriffs wird, wie in einer ausführlichen Darstellung zu zeigen sein würde, auch Fichtes Unsterblich keitslehre verständlich.
+    原文：II, 86, 115, 117 ff., 600 ff., 639 ff., VII, 69, 110, VI, 386, 389, V, 530 f., N III, 65. Durch diese Spaltung des Individualitätsbegriffs wird, wie in einer ausführlichen Darstellung zu zeigen sein würde, auch Fichtes Unsterblichkeitslehre verständlich.
 
 [^fichte-t3-k2-n0005]: [原书第210页，注2] IV, 141、231、254，参见N III, 121。
     
@@ -2925,7 +2925,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t3-k2-n0006]: [原书第211页，注1] 狄尔泰就1798年如此正确地指出，《施莱尔马赫传》I, 342页及以下。特别应强调与本文观点一致的是坦佩尔《费希特与艺术的关系》（斯特拉斯堡大学博士论文），例如54页及以下、91页及以下、101页及以下、129页及以下。该书已在若干处卓越地讨论了费希特哲学中正在发生的评价转变，尤其是关于理想人格的学说。
     
-    原文：So für 1798 mit Recht D i 11 h e y , Leben Schleiermachers I, 342 ff. Als übereinstimmend mit der Auffassung des Textes besonders hervorzuheben Tempel, Fichtes Stellung zur Kunst (Straßburger Dissertation), z. B. 54 ff., 91 ff., 101 ff., 129 ff. Hier wird bereits an einigen Stellen der in Fichtes Philosophie sich vollziehende Umschwung des Wertens, insbesondere die Lehre von der idealen Persönlichkeit, vorzüglich erörtert,
+    原文：So für 1798 mit Recht Dilthey, Leben Schleiermachers I, 342 ff. Als übereinstimmend mit der Auffassung des Textes besonders hervorzuheben Tempel, Fichtes Stellung zur Kunst (Straßburger Dissertation), z. B. 54 ff., 91 ff., 101 ff., 129 ff. Hier wird bereits an einigen Stellen der in Fichtes Philosophie sich vollziehende Umschwung des Wertens, insbesondere die Lehre von der idealen Persönlichkeit, vorzüglich erörtert,
 
 [^fichte-t3-k2-n0007]: [原书第211页，注2] 施莱尔马赫当然也知道这一命令。
     
@@ -2953,15 +2953,15 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t3-k3-n0004]: [原书第219页，注2] 反之，恰恰是一种审美方向的减弱出现，亨泽尔在《卡莱尔》第149页正确地指出了这一点，另参见第136页。
     
-    原文：Daß vielmehr gerade eine Abschwächung der ästhetischen Richtung ein tritt, bemerkt mit Recht Hensel, Carlyle 149, vgl. auch 136.
+    原文：Daß vielmehr gerade eine Abschwächung der ästhetischen Richtung eintritt, bemerkt mit Recht Hensel, Carlyle 149, vgl. auch 136.
 
 [^fichte-t3-k3-n0005]: [原书第219页，注3] 审美评价与任何把事物嵌入联系之中的做法之间的这一区别，由科恩在《普通美学》第23页及以下、241页及以下最详尽地讨论、最尖锐地阐发；另特别参见明斯特贝格，《心理学基础》I, 121页及以下、145页及以下。
     
-    原文：Dieser Unterschied der ästhetischen Wertung von jeder Eingliederung in Zusammenhänge wird am eingehendsten behandelt und am schärfsten heraus gearbeitet von Cohn, Allgemeine Aesthetik 23 ff., 241 ff., vgl. bes. noch Münsterberg, Grdz. d. Psychol. I, 121 ff., 145 ff-
+    原文：Dieser Unterschied der ästhetischen Wertung von jeder Eingliederung in Zusammenhänge wird am eingehendsten behandelt und am schärfsten herausgearbeitet von Cohn, Allgemeine Aesthetik 23 ff., 241 ff., vgl. bes. noch Münsterberg, Grdz. d. Psychol. I, 121 ff., 145 ff-
 
 [^fichte-t3-k3-n0006]: [原书第220页，注1] 参见例如 VII, 58，V, 526—527页：美作为“理念的最低形式”。文德尔班在其《哲学史》第495页谈到“理性艺术”时说：“这是把‘美的灵魂’的理想转用到政治和历史之上”，他由此错认了费希特那里最高价值从一切审美可评价性中原则性抽离的状态。坦佩尔同书则完全片面地试图把费希特那里出现的每一种对具体者和个体者的评价都解释为审美化的东西。
     
-    原文：S. z. B. VII, 58, V, 526 f.: Schönheit als »niedrigste Form der Idee«. Dieses grundsätzliche Losgelöstsein des höchsten Wertes von aller ästhetischen Wert barkeit bei Fichte verkennt Windelband, wenn er (Gesch. d. Phil. 495) von der »Vernunftkunst« meint: »Es ist das Ideal der »schönen Seele« auf Politik und Geschichte übertragen«. Ganz einseitig versucht Tempe 1, a. a. O., jede bei Fichte auftauchende Wertung des Konkreten und Individuellen ins Aesthetisierende umzudeuten.
+    原文：S. z. B. VII, 58, V, 526 f.: Schönheit als »niedrigste Form der Idee«. Dieses grundsätzliche Losgelöstsein des höchsten Wertes von aller ästhetischen Wertbarkeit bei Fichte verkennt Windelband, wenn er (Gesch. d. Phil. 495) von der »Vernunftkunst« meint: »Es ist das Ideal der »schönen Seele« auf Politik und Geschichte übertragen«. Ganz einseitig versucht Tempel, a. a. O., jede bei Fichte auftauchende Wertung des Konkreten und Individuellen ins Aesthetisierende umzudeuten.
 
 [^fichte-t3-k3-n0007]: [原书第221页，注1] 尤参见 VII, 139页及以下；《费希特著作中的光明》（爱德华·费希特编）第81页；VI, 363页及以下；谢林《全集》第一编I, 461页及以下；关于“历史的”这一术语的用法，参见例如 N III, 122，V, 337，III, 391，II, 404、411，VII, 23、30、32、84、124，VI, 392、401、403，V, 404、419—420页、508、568、573，VII, 286、332、339，II, 647/8，VIII, 362，N II, 93，IV, 397、484。
     
@@ -2973,7 +2973,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t3-k3-n0009]: [原书第223页，注1] 费斯特（《卢梭与德国历史哲学》第132页）错认了历史哲学提问方式的这一方法论意义，因为他指责费希特：要求把“经验此在的条件”交给逻辑分析，超越了他本人先前从有限者不可由无限者推出这一点出发、为我们的把握所设定的界限。
     
-    原文：Diesen methodologischen Sinn der geschichtsphilosophischen Fragestellung verkennt Fester (Rousseau und die deutsche Geschichtsphilosophie 132), wenn er Fichteden Vorwurf macht, er überschreite mit der Forderung, die »Bedingungen des empirischen Daseins« einer logischen Analyse zu unterwerfen, die vorher in der Unableitbarkeit des Endlichen aus dem Unendlichen von ihm selbst für unser Begreifen festgesetzte Grenze.
+    原文：Diesen methodologischen Sinn der geschichtsphilosophischen Fragestellung verkennt Fester (Rousseau und die deutsche Geschichtsphilosophie 132), wenn er Fichte den Vorwurf macht, er überschreite mit der Forderung, die »Bedingungen des empirischen Daseins« einer logischen Analyse zu unterwerfen, die vorher in der Unableitbarkeit des Endlichen aus dem Unendlichen von ihm selbst für unser Begreifen festgesetzte Grenze.
 
 [^fichte-t3-k3-n0010]: [原书第224页，注1] VII, 105页及以下、129页及以下；对费希特历史方法论有所注意的最初尝试，见马施纳，《对费希特历史哲学及其方法的批判》，维也纳高级实科学校课程纲要，1884年。
     
@@ -2989,7 +2989,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t3-k3-n0013]: [原书第229页，注1] 李凯尔特的历史方法论研究也为这一观点提供了决定性启发；正是在这些研究中，通过非理性进行的逻辑刻画与从文化价值出发的考察之联合，并由此一种批判—方法论的历史哲学的真正奠基，才得以达到；参见第16页注1及第29页注1；关于西美尔和文德尔班通过非理性对历史之物的刻画，参见第29页注1。
     
-    原文：Auch £ür diese Auffassung haben die geschichtsmethodologischen Untersuchungen Rickerts die entscheidende Anregung gegeben; erst in ihnen wird die Vereinigung der logischen Kennzeichnung durch die Irrationalität mit der Kultur wert- Betrachtung und damit die eigentliche Begründung einer kritisch-methodologischen Geschichtsphilosophie erreicht, vgl. S. 16, Anm. i und S. 29, Anm. 1; über Simmels und Windelbands Charakterisierung des Historischen durch die Irrationalität s. S. 29, Anm. I.
+    原文：Auch £ür diese Auffassung haben die geschichtsmethodologischen Untersuchungen Rickerts die entscheidende Anregung gegeben; erst in ihnen wird die Vereinigung der logischen Kennzeichnung durch die Irrationalität mit der Kulturwert-Betrachtung und damit die eigentliche Begründung einer kritisch-methodologischen Geschichtsphilosophie erreicht, vgl. S. 16, Anm. i und S. 29, Anm. 1; über Simmels und Windelbands Charakterisierung des Historischen durch die Irrationalität s. S. 29, Anm. I.
 
 [^fichte-t3-k3-n0014]: [原书第230页，注1] 关于这一点，参见上文第173—174页。
     
@@ -3021,7 +3021,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t3-k3-n0020]: [原书第239页，注1] 康德《全集》VII, 393页及以下，谢林《全集》第一编I, 461页及以下，费希特 VI, 103，VII, 366页及以下、374—375页、380页及以下、447，II, 631、643—644页、648—649页，IV, 385页及以下、416。
     
-    原文：K a n t, WW VII, 393 ff., Sche 11 i n g , WW 1. Abt, I, 461 ff., Fichte VI, 103, VII, 366 ff., 374 f., 380 ff., 447, II, 631, 643 f., 648 f., IV, 385 ff., 416.
+    原文：Kant, WW VII, 393 ff., Schelling, WW 1. Abt, I, 461 ff., Fichte VI, 103, VII, 366 ff., 374 f., 380 ff., 447, II, 631, 643 f., 648 f., IV, 385 ff., 416.
 
 [^fichte-t3-k3-n0021]: [原书第239页，注2] V, 483—484页、567—574。
     
@@ -3045,7 +3045,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t3-k4-n0005]: [原书第246页，注2] 除上文所引之处，另参见例如 VI, 345：“在其族类整体中的人类”——“孤立地考察的诸个体”。
     
-    原文：Vgl. neben der oben zitierten Stelle z. B. noch VI, 345: »M e n sc h hei t im Ganzen ihrer Gattung« — »M enschen , abgesondert betrachtet«.
+    原文：Vgl. neben der oben zitierten Stelle z. B. noch VI, 345: »Menschheit im Ganzen ihrer Gattung« — »Menschen, abgesondert betrachtet«.
 
 [^fichte-t3-k4-n0006]: [原书第247页，注1] 康德在此已经预感到多么影响深远、甚至对我们时代仍完全具有权威性的方法论洞见，最好从基斯佳科夫斯基在《社会与个体》一文中的富有成果研究（尤其第118至133页）中获知（参见上文第20页注1）；该文所进行的区分——由“纯粹概念性总括”形成的“总和”或“总体”与“实在统一体”或社会性“集体存在”——为未来的社会科学逻辑提供了极其重要的贡献。
     
@@ -3069,11 +3069,11 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t3-k4-n0011]: [原书第251页，注1] 在这方面居于最高地位的是宗教哲学主要著作，参见上文第248页。
     
-    原文：Am höchsten steht in dieser Hinsicht die religionsphilosophische Haupt schrift, vgl. oben S. 248.
+    原文：Am höchsten steht in dieser Hinsicht die religionsphilosophische Hauptschrift, vgl. oben S. 248.
 
 [^fichte-t3-k4-n0012]: [原书第251页，注2] 关于相反的那个较早时期——当时费希特仍停留在康德的社会哲学个体主义上，“并未赋予共同体本身以任何独立于个体、与个体并列并高于个体的价值”，也并未给国家指派“任何超个体的、只能由总体本身实现的文化任务”；参见玛丽安妮·韦伯，《费希特的社会主义》，尤其第28页及以下、34页及以下。
     
-    原文：Ueber die frühere Zeit dagegen, in der Fichte bei dem sozialphilosophischen Individualismus Kants stehen blieb, »der Gemeinschaft als solcher keinen selbständigen Wert neben und über dem Individuum beimaß und dem Staat »keine überindividuellen, nur von der Gesamtheit als solcher realisierbaren Kulturaufgaben« zuwies; s.Marianne Weber, Fichtes Sozialismus, bes. 28 ff., 34 ff.
+    原文：Ueber die frühere Zeit dagegen, in der Fichte bei dem sozialphilosophischen Individualismus Kants stehen blieb, »der Gemeinschaft als solcher keinen selbständigen Wert neben und über dem Individuum beimaß und dem Staat »keine überindividuellen, nur von der Gesamtheit als solcher realisierbaren Kulturaufgaben« zuwies; s. Marianne Weber, Fichtes Sozialismus, bes. 28 ff., 34 ff.
 
 [^fichte-t3-k4-n0013]: [原书第252页，注1] 参见基尔克，《阿尔特胡修斯》119—120页、205—206页。
     
@@ -3105,7 +3105,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t3-k4-n0020]: [原书第256页，注1] 另参见耶利内克，《主观公权利体系》第13页及以下，《现代国家法》I, 28页及以下、144页及以下；西美尔，《施莫勒立法、行政与国民经济年鉴》XVIII, 1304—1305页，XXII, 589—590页。
     
-    原文：Vgl. auch J e 11 i n e k, System der subjektiven öffentlichen Rechte, 13 ff., • Recht des modernen Staates, I, 28 ff., 144 ff., Simmel, Schmollers Jahr buch f. Gesetzgeb., Verw. u. Volksw., XVIII, 1304 f., XXII, 589 f.
+    原文：Vgl. auch Jellinek, System der subjektiven öffentlichen Rechte, 13 ff., • Recht des modernen Staates, I, 28 ff., 144 ff., Simmel, Schmollers Jahrbuch f. Gesetzgeb., Verw. u. Volksw., XVIII, 1304 f., XXII, 589 f.
 
 [^fichte-t3-k4-n0021]: [原书第256页，注2] 参见李凯尔特，《自然科学概念形成的界限》， 第4章 II—VI。
     
@@ -3117,7 +3117,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t3-k4-n0024]: [原书第263页，注1] 米勒对理性主义的论战，参见例如《国家艺术要义》（1809）I, 21页及以下、27页及以下、37—38页、94，针对原子论—机械建构（“齿轮装置”），3页及以下、21页及以下、52，III, 220；对原初“运动”的要求，I, 5页及以下、17页及以下、43页及以下；与费希特一致的对民族的定义，第51、84页，《关于德国科学与文学的讲演》（1806），第142—143页。
     
-    原文：Polemik gegen den Rationalismus bei M üll er ,z.B. Elemente der Staatskunst (1809) I, 21 ff., 27 ff., 37 f., 94, gegen die atomistisch-mechanische Konstruktion (»Räderwerk«), 3 ff., 21 ff., 52, III, 220; Forderung ursprünglicher »Bewegung«, I, 5 ff., 17 ff., 43 ff.; mit Fichte übereinstimmende Definition der Nation, 51, 84, Vorlesungen über die deutsche Wissenschaft und Literatur (1806), 142 f.
+    原文：Polemik gegen den Rationalismus bei Müller, z. B. Elemente der Staatskunst (1809) I, 21 ff., 27 ff., 37 f., 94, gegen die atomistisch-mechanische Konstruktion (»Räderwerk«), 3 ff., 21 ff., 52, III, 220; Forderung ursprünglicher »Bewegung«, I, 5 ff., 17 ff., 43 ff.; mit Fichte übereinstimmende Definition der Nation, 51, 84, Vorlesungen über die deutsche Wissenschaft und Literatur (1806), 142 f.
 
 [^fichte-t3-k4-n0025]: [原书第263页，注2] VII, 362页及以下、381—382页，参见146—147页、548，IV, 402页及以下，N III, 426。
     
@@ -3161,7 +3161,7 @@ J. C. B. 莫尔出版社（保罗·西贝克）
 
 [^fichte-t3-k4-n0035]: [原书第272页，注1] VII, 447，参见379页及以下、451页及以下。类似地又可参见米勒，例如《关于德国科学与文学的讲演》136、161，《国家艺术要义》I, 42。根茨已经提到，正文所引段落与米勒有“引人注目的吻合”，“甚至在一些决定性的表述和词语上”，参见《根茨与米勒通信集》148。
     
-    原文：VII, 447 vgl. 379 ff., 451 ff. Aehnlich wiederum Müller, z. B. Vorlesungen über d. deutsche Wissenschaft u. Lit. 136, 161, Elem. d. Staatskunst I, 42. Bereits Gentzspricht von der »auffälligen Uebereinstimmung« der im Text zitierten Stelle, »sogar in einigen entscheidenden Aeußerungen und Worten«, mit Müller, s. Briefwechsel zwischen Gentz und Müller 148
+    原文：VII, 447 vgl. 379 ff., 451 ff. Aehnlich wiederum Müller, z. B. Vorlesungen über d. deutsche Wissenschaft u. Lit. 136, 161, Elem. d. Staatskunst I, 42. Bereits Gentz spricht von der »auffälligen Uebereinstimmung« der im Text zitierten Stelle, »sogar in einigen entscheidenden Aeußerungen und Worten«, mit Müller, s. Briefwechsel zwischen Gentz und Müller 148
 
 [^rechtsphil-lit-jur-n0001]: [原书第330页，注1] 以下所列著作，仅因其纯粹方法论的组成部分而被选取。
     
