@@ -1,0 +1,1578 @@
+{
+  "id": "intro",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "intro-h1-01",
+      "page": "15",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-h1-01-en"
+        },
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "The Enigma of the Market"
+          ],
+          "level": 2
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-h1-01-zh"
+        },
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "市场的谜"
+          ],
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "intro-quote-001",
+      "page": "15",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-quote-001-en"
+        },
+        {
+          "type": "block",
+          "kind": "verse",
+          "children": [
+            {
+              "type": "block",
+              "kind": "verse-line",
+              "children": [
+                "La coutume, en faisant un livre, c’est de commencer"
+              ]
+            },
+            {
+              "type": "block",
+              "kind": "verse-line",
+              "children": [
+                "Par un petit préambule et en voilà un."
+              ]
+            },
+            {
+              "type": "block",
+              "kind": "verse-line",
+              "children": [
+                "— Marivaux, ",
+                {
+                  "type": "em",
+                  "children": [
+                    "Le paysan parvenu"
+                  ]
+                }
+              ]
+            }
+          ],
+          "centered": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-quote-001-zh"
+        },
+        {
+          "type": "block",
+          "kind": "verse",
+          "children": [
+            {
+              "type": "block",
+              "kind": "verse-line",
+              "children": [
+                "写书的惯例，是先来"
+              ]
+            },
+            {
+              "type": "block",
+              "kind": "verse-line",
+              "children": [
+                "一小段开场白；这里就是一段。"
+              ]
+            },
+            {
+              "type": "block",
+              "kind": "verse-line",
+              "children": [
+                "——马里沃，《发迹的农民》（",
+                {
+                  "type": "em",
+                  "children": [
+                    "Le paysan parvenu"
+                  ]
+                },
+                "）"
+              ]
+            }
+          ],
+          "centered": false
+        }
+      ]
+    },
+    {
+      "id": "intro-h3-01",
+      "page": "15",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-h3-01-en"
+        },
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "FROM THE STREETS OF LONDON . . ."
+          ],
+          "level": 3
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-h3-01-zh"
+        },
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "从伦敦街头……"
+          ],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "intro-h2-01",
+      "page": "15",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-h2-01-en"
+        },
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            {
+              "type": "block",
+              "kind": "paragraph",
+              "children": [
+                "“Dolls that think together, dolls that laugh together, dolls that cry together, dolls that drink together. not sixty — I’ll give you your bus fare home if it helps you. not fifty, not forty, thirty-five is cheap, not thirty-two fifty, ’ere, an’ to clear ’em, I won’t even charge you thirty. half that [bang] fifteen pound the pair.”",
+                {
+                  "type": "note",
+                  "id": "note-intro-001",
+                  "label": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-h2-01-zh"
+        },
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            {
+              "type": "block",
+              "kind": "paragraph",
+              "children": [
+                "“会一起想、一起笑、一起哭、一起喝的娃娃。不是六十——要是能帮你，我连公交车费都给你。不是五十，不是四十，三十五就够便宜了，不是三十二块五，哎，为了清货，我连三十都不要。一半！[砰] 一对十五镑。”",
+                {
+                  "type": "note",
+                  "id": "note-intro-001",
+                  "label": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-001",
+      "page": "15",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-001-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The streets of London, mid-1980s. Science and technology studies scholar Trevor Pinch is there to try to understand the mechanisms of an activity almost as old as human societies. The British call it “pitching.” How do you convince a random person lost in thought — it could be you, it could be me — to develop a sudden enthusiasm for perfumes with unfamiliar names or an avid interest in Chinese porcelain seen a million times before? How do you get them to be attracted to ordinary bath towels, to feel a sudden emotion at the sight of banal kitchen utensils, or to be drawn by compositions of freshly cut flowers? In short, the activity involves producing ",
+            {
+              "type": "em",
+              "children": [
+                "cupido emptrix"
+              ]
+            },
+            ", the passion, the fever to acquire, in this passerby. Not only to interest them, attract their attention, divert them from their trajectory, persuade them that all this is good for them, that they need it, that they are in a state of lack, but above all (because at that point, the outcome might be theft, barter, or gift) to convince them to shell out cash. If that does not happen, the pitcher will have pitched in vain."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-001-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "20世纪80年代中期的伦敦街头。科学技术研究学者特雷弗·平奇（Trevor Pinch）在那里，试图理解一种几乎与人类社会同样古老的活动机制。英国人称之为“pitching”（街头叫卖）。你如何说服一个陷入沉思的陌生人——可能是你，也可能是我——突然对名字陌生的香水产生热情，或对见过无数次的中国瓷器产生浓厚兴趣？如何让他们被普通的浴巾吸引，在看到平庸的厨房用具时突然产生情感，或被用新剪鲜花组成的插花所吸引？简言之，这项活动要在路人身上生产出 ",
+            {
+              "type": "em",
+              "children": [
+                "cupido emptrix"
+              ]
+            },
+            "，即购买的热情、占有的狂热。不仅要让他们感兴趣、吸引其注意、使他们偏离原本的轨迹、说服他们这一切对他们有好处、他们需要它、他们正处于匮乏状态，而且最重要的是（因为到那时，结果可能是偷窃、物物交换或赠予）说服他们掏出现金。如果做不到这一点，叫卖者就白喊了一场。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-015",
+      "page": "16",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-015-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The seller’s ultimate objective, his holy grail, is to lead a stranger to engage in a market transaction. Whether this challenge is taken up by the pitchers on the streets of London or the engineers and sales representatives of Renault, Fiat, Samsung, Apple, or the French telecom company Orange does not make any difference: the nature of the solutions they must invent are the same. What is true for the street vendor is even truer for high-tech companies that have to create demand for products no one had yet dared to imagine. The questions a street seller must answer every morning are the same ones that any multinational company has to face daily. The former merely does so with a great economy of means, counting only on himself, like a magician with nothing in his hands, nothing in his pockets. As Pinch understood perfectly, street sales make more easily visible what complex modern organizations tend instead to render opaque and difficult to decipher."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-015-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "卖家的终极目标、他的圣杯，是引导一个陌生人进入市场交易。无论这一挑战由伦敦街头的叫卖者承担，还是由雷诺、菲亚特、三星、苹果或法国电信公司 Orange 的工程师与销售代表承担，都没有区别：他们必须发明的解决方案在性质上是相同的。对街头小贩成立的事情，对必须为无人敢想象的产品创造需求的高科技公司更加成立。街头卖家每天早上必须回答的问题，与任何跨国公司每天必须面对的问题相同。前者只是以极节省的手段来做，只依靠自己，像一个手中空空、口袋里也空空的魔术师。正如平奇完全理解的那样，街头销售让复杂现代组织往往遮蔽、难以破译的东西更容易被看见。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-028",
+      "page": "16",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-028-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The pitcher experiments, observes, interprets, and transforms his practices. He has to make a living off this work and live by its daily repetitions. If the quality of his observations leaves something to be desired, if the lessons he draws from the experiments he attempts turn out to be irrelevant, if the actions he decides on are inappropriate, he faces failure and finds himself at a loss, helpless in front of a crowd that evaporates in an instant. Pitching is a full-fledged trade and it needs to be learned. There are, indeed, training courses for beginners. Neophytes start by learning by heart a spiel drilled into them by an elder. They also train at organizing the material space in which they will operate. They practice the scenario they will follow. Experienced pitchers can be spotted by their capacity to adapt, their talent for improvising, but above all, by their way of structuring the action, which, as Pinch describes, runs through four successive stages."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-028-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "叫卖者实验、观察、解释并改造自己的实践。他必须靠这项工作谋生，并在每日的重复中生活。如果他的观察质量不尽如人意，如果他尝试的实验所得出的教训无关紧要，如果他决定的行动不恰当，他就会遭遇失败，陷入困境，面对瞬间消散的人群束手无策。叫卖是一门完整的行当，需要学习。确实有面向初学者的培训课程。新手先背熟一位老手反复灌输给他们的一套说辞。他们还训练如何布置将要作业的物质空间。他们练习将要遵循的脚本。有经验的叫卖者可以从他们的适应能力、即兴才华，但首先从他们组织行动的方式中被辨认出来；正如平奇所描述的，这种行动要经过四个连续阶段。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-041",
+      "page": "16–17",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-041-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The first stage aims at constituting an audience, or, better, an interested public. Pitchers speak of “building the edge,” alluding to a Cockney expression that plays on words to refer to the English expression “hedge and ditch,” designating the practice of limiting a terrain by hedges and ditches in order to ensure one has a hold on it. Once this is accomplished, the anonymous flow of a lonely crowd gives way instead to an agglutination, a limited space occupied by those who have been diverted and grouped together, set aside from the current, extracted from the continuous flux. This space, which is circumscribed by a sort of invisible border, porous, but not too porous, will become the pitcher’s field for maneuvering. Creating the ",
+            {
+              "type": "em",
+              "children": [
+                "clinamen"
+              ]
+            },
+            ", the diversion that allows for a first coalescing, is neither obvious nor natural. As Pinch observes, inducing the first person to stop is a delicate venture."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-041-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第一阶段旨在构成一个观众，或者更确切地说，一个感兴趣的公众。叫卖者说“building the edge”（筑边），这是借用一句伦敦土话的双关，影射英语短语“hedge and ditch”（树篱与沟渠），指用树篱和沟渠围出一块地，以便确保对它的掌控。一旦完成这一步，孤独人群的无名流动就让位于一种聚集：一个有限的空间，被那些被引开、被聚拢的人占据，他们被从人流中分出，从连续不断的流动中被抽出。这个空间由一种看不见的边界圈定，边界有渗透性，但又不至于过于渗透；它将成为叫卖者施展手段的场地。创造 ",
+            {
+              "type": "em",
+              "children": [
+                "clinamen"
+              ]
+            },
+            "，即让第一批人聚拢起来的偏斜，既非轻而易举，也非自然而然。正如平奇观察到的，诱导第一个人停下是一件微妙的事。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-053",
+      "page": "17",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-053-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Multiple strategies are elaborated to facilitate this first diversion, the first stepping aside. The pitcher can, for instance, call on an accomplice to stand ostentatiously in front of the stall, or he can sacrifice goods, giving them away to those just passing by, who then play the part of a fixation abscess. Once the first potential clients have been stopped in their blind rush, they must not be lost, since they will serve as bait, or ",
+            {
+              "type": "em",
+              "children": [
+                "réclame"
+              ]
+            },
+            ", to use a French word from falconry that refers to the lure that induces the bird of prey to return, but equally refers to an advertisement. “Closer to me, closer to heaven, ” says the hawker. Humor plays a crucial role in the whole process, capturing and fixing attention. And price figures early on in this process of catching people’s attention because, as Pinch underlines, the customer’s mind must be prepared. No tricks or false hopes. No pretense that any favors are being done. “Look at the prices, you’ll never believe them. They’re the lowest ever seen.” The stakes are established immediately: not only is one there to buy, one is there to buy not goods, but a price."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-053-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "为了促成这第一次偏斜、第一次偏离原路，人们设计出多种策略。例如，叫卖者可以请一个同伙招摇地站在摊位前，也可以牺牲一些物品，把它们送给刚巧路过的人，这些人随后便充当吸引注意的“脓肿点”。一旦第一批潜在顾客从盲目的匆忙中被拦下，就不能让他们流失，因为他们将充当诱饵，或者用一句来自猎鹰术的法语词说，充当 ",
+            {
+              "type": "em",
+              "children": [
+                "réclame"
+              ]
+            },
+            "——它指引诱猛禽返回的诱饵，同时也指广告。“靠近我，就靠近天堂。”小贩说道。幽默在整个过程中起着关键作用，它抓住并固定注意力。价格很早就出现在这个抓取注意的过程中，因为正如平奇强调的，顾客的心理必须有所准备。不要花招，不要虚假的希望。不要假装在施恩。“看看这些价格，你简直不会相信。这是从未见过的最低价。”赌注立刻被确立：人们到这里就是来购买的，而且买的并非物品，而是一个价格。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-068",
+      "page": "17–18",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-068-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This is therefore the first point the street seller must make, and since what is for sale has not been mentioned yet, he explains why it is so inexpensive. “These jewels belong to a guy who took off for Spain with my wife; since he’s taking care of my wife, I’ve decided to take care of his things.” The scene grows more crowded. Henceforth the seller, his assistants, and the customers are no longer alone. New characters have invited themselves in: the seller’s wife, her lover, and the jewels, which the seller — who can blame him? — has decided to get rid of, since he cannot get rid of the lover. When it comes to clothes for sale whose price needs to be justified, the pitcher invokes the London department store that went bankrupt and was forced to sell off luxury items at bargain prices. Each good is thus inscribed in a story that explains why it is a good deal — and the story does not matter much because no one quite believes it. When in the market in Sarcelles it is said, with a little smile, that the pair of Ray-Bans or the Hermès scarf being sold at rock-bottom prices fell off the truck, highlighting in a striking phrase that the good’s career is complicated, that it followed an exceptional path, is it not that career that, making it unique, determines its value? The good, even if it looks like a thousand others, even if it is only one copy, is actually different because of this history, which has led it to this particular stall on this particular day. It has been made particular, or, as I would put it, ",
+            {
+              "type": "em",
+              "children": [
+                "singularized"
+              ]
+            },
+            ". Extracted from the anonymous crowd by the twists of a plot, it, in turn, contributes to extracting from the anonymous flow those particular customers whose attention is caught and who begin to take an interest in this particular good, rather than any other."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-068-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此，这是街头卖家必须首先说明的一点；由于尚未提到所卖何物，他便解释为什么它如此便宜。“这些珠宝属于一个家伙，他带着我老婆跑去西班牙了；既然他照顾我老婆，我就决定照顾他的东西。”场景变得越来越拥挤。从此，卖家、他的助手和顾客不再孤单。新角色不请自来：卖家的妻子、她的情人，以及那些珠宝——卖家决定处理掉它们，谁能怪他呢？因为他处理不掉那个情人。当要卖的是需要解释价格的衣服时，叫卖者会援引那家破产、被迫以低价抛售奢侈品的伦敦百货商店。于是，每件物品都被写入一个故事，解释它为什么划算——故事本身并不重要，因为没人完全相信。在萨塞勒的市场里，当人们带着一丝微笑说，以跳楼价出售的雷朋眼镜或爱马仕丝巾是从卡车上掉下来的，这句话以醒目的方式强调：这件物品的来历很复杂，它走过一条非同寻常的路径；难道不正是这条路径使它独一无二，并决定了它的价值？这件物品，即使看起来和一千件别的物品一样，即使只是同类中的一件，实际上也因这段历史而不同——这段历史把它带到这个摊位、这一天。它被特殊化了，或者按我的说法，被",
+            {
+              "type": "em",
+              "children": [
+                "独一化"
+              ]
+            },
+            "了。它被情节的曲折从匿名人群中抽出，反过来又帮助从匿名人流中抽出那些注意力被抓住、开始对这件特定物品而非别的物品产生兴趣的特定顾客。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-091",
+      "page": "18",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-091-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Price is proof of this singularity, sometimes the only proof: “Look at this garment. It’s not even worth thirty pence, not even twenty pence. When I tell you the price, it will knock you over!” This dress, which looks like so many other dresses, is made different by the simple fact that it is offered at a different price. The pitcher turns things around, going against the grain of everything that is generally said about markets. It is not the case that there is the dress, on the one hand, with its intrinsic properties (color, style, and so on), and the price on the other, external to the dress and determining its value. The price is attached to the dress; it is one of its qualities. The dress is red, has a plunging neckline, and is not . . . expensive. The customer did not get interested in ",
+            {
+              "type": "em",
+              "children": [
+                "a"
+              ]
+            },
+            " dress but in ",
+            {
+              "type": "em",
+              "children": [
+                "that"
+              ]
+            },
+            " dress, the one that is not expensive. And that is no doubt the reason he let himself be roped in, the low price of the dress being a result of its singular story, a story he does not yet know, but that he guesses between the lines of the pitcher’s speech. No dress is quite like any other; this unique character helps put the customer and the dress in a singular relationship to one another, a singularity that hails the gawker, saying, “This one’s for you.” Throughout the warm-up that leads to the transaction, the singularity of this relation will be maintained and developed by the third actor in this event: the pitcher."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-091-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "价格是这种独一性的证明，有时是唯一的证明：“看看这件衣服。它连三十便士都不值，连二十便士都不值。等我告诉你价格，你会被震住！”这条裙子看起来和许多别的裙子一样，却因为一个简单的事实而不同：它以不同的价格出售。叫卖者把事情颠倒过来，逆着关于市场的一般说法而行。并不是一方面有一条裙子及其内在属性（颜色、款式等等），另一方面有一个外在于裙子、决定其价值的价格。价格附着在裙子上；它是裙子的品质之一。这条裙子是红色的，有深V领，而且……不贵。顾客感兴趣的不是",
+            {
+              "type": "em",
+              "children": [
+                "一条"
+              ]
+            },
+            "裙子，而是",
+            {
+              "type": "em",
+              "children": [
+                "那条"
+              ]
+            },
+            "裙子，那条不贵的裙子。这无疑正是他让自己被拉进来的原因：裙子的低价是它独特故事的结果，一个他尚不知道、却能从叫卖者话语的字里行间猜到的故事。没有哪条裙子与另一条完全相同；这种独特性帮助顾客与裙子进入一种独一的关系，这种独一性向围观者打招呼，说：“这一件是给你的。”在导向交易的整个预热过程中，这种关系的独一性将由这场事件中的第三位行动者——叫卖者——维持和发展。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-109",
+      "page": "18–19",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-109-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "After the first framing operation and the constitution of a gathering in which each person expects to get a personal deal and already knows they will have to pay to make good on the deal, the second step can begin. Speeches are one thing: they can convince, excite curiosity, pave the way for a positive decision. But then there are also the things themselves. A relation is not just a matter of intelligence, reason, and calculation. It supposes a physical attachment. To get the customer to shell out money, he must be touched deep down, and for him to be touched, the simplest thing is to invite him to . . . touch, test, feel, stroke, so that all his senses are solicited and solicit him to ensure that the good enters his life, to become an integral part of himself, to transform and constitute his new identity. The customer must be affected. The pitchers in the streets of London call this the “flash” and, they add, “Flash means cash.” The pitcher strokes the necklaces and earrings, offers a whiff of perfume to a lady whose age makes one surmise she has smelled and inhaled many others over the course of her existence; he invites an onlooker to manipulate the towels, crease the materials so they reveal their softness to the onlooker’s expert fingers; he demonstrates the exquisite delicacy of the china by placing behind it a candle that the customer discerns through the transparency of the material. The goods’ qualities (or at least some of them, since some must be hidden in order to put others forward) are made evident, palpable, graspable, and thus add to the promise of rock-bottom prices, the first quality around which the others gravitate."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-109-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在第一次框定操作、以及构成一个聚会之后——在这个聚会中，每个人都期待得到一笔个人化的交易，并且已经知道自己必须付钱才能兑现这笔交易——第二步就可以开始了。说辞是一回事：它们可以说服人、激起好奇、为积极决定铺路。但还有物品本身。关系不只是智力、理性和计算的事情。它预设一种身体性的附着。要让顾客掏钱，就必须深深触动他；而要触动他，最简单的办法就是邀请他……触摸、试用、感受、抚摸，让他所有的感官都被调动，并反过来促使他确保这件物品进入他的生活，成为他自身的一部分，转化并构成他的新身份。顾客必须被触动。伦敦街头的叫卖者称之为“展示货品”（flash），他们还补充说：“Flash means cash”（展示货品意味着现金入账）。叫卖者抚摸项链和耳环，让一位女士闻一闻香水——从她的年龄可以推测，她一生中闻过、吸入过许多别的香水；他邀请旁观者摆弄毛巾，揉皱布料，让布料的柔软在旁观者内行的指尖下显露；他把一支蜡烛放在瓷器后面，让顾客透过材料的透明度看出瓷器的精致细腻。物品的品质（至少是其中一些，因为另一些必须被隐藏起来，才能突出这些品质）被弄得明显、可感、可把握，从而为跳楼价的承诺增添分量；跳楼价是第一种品质，其他品质都围绕它旋转。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-131",
+      "page": "19",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-131-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The better to showcase, put forth, or make explicit the qualities of their wares, pitchers attend to the presentation, playing with different dispositions, piling up towels on this side so as to make obvious how soft and supple the fabric is or composing on that side pyramids of bracelets that set off one another’s value, just as a book’s value is drawn from the collection it belongs to, from which it is detached with an exlibris proudly underlining the connection. Singularity is formed from comparisons and the groupings that are suggested and materialized on the seller’s stall. To insist on the importance of the material demonstration of qualities, pitchers claim that “what cannot speak cannot lie.” It is not enough to state the facts. Rather, just as in laboratory research, facts must be shown, demonstrated, tried through an experiment that tests the properties and reactions of the substances or entities involved. The vendor may thus efface himself behind the mixer that “does everything by itself,” and he proves it by showing it. Or throws the plates in the air to show off how robust they are."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-131-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "为了更好地展示、突出或明示货物的品质，叫卖者注重陈列，摆弄不同的布置：把毛巾堆在这一边，让人一眼看出布料多么柔软、多么有韧性；或者在那一边摆成手镯金字塔，让它们互相衬托价值，就像一本书的价值来自它所属的丛书，而它又从这套丛书里被抽出，并用一枚藏书票自豪地强调这种联系。独一性由比较、由卖家摊位上被暗示并物质化出来的分组所形成。为了强调品质的物质性展示的重要性，叫卖者声称：“不会说话的东西不会撒谎。”仅仅陈述事实是不够的。相反，正如在实验室研究中那样，事实必须被展示、被演示，并通过实验来检验——检验所涉物质或实体的属性与反应。于是，小贩可以隐身在“自己会做一切”的搅拌机后面，并通过展示它来证明这一点；或者把盘子抛向空中，炫耀它们多么结实。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-146",
+      "page": "19",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-146-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Henceforth, these goods have been rendered desirable, their qualities have been demonstrated over the course of a series of trials that involve the body and the five senses of the customer and have in the end (perhaps) affected him so strongly that he no longer can contemplate breaking the links already established between himself and some of these goods. He agrees to pay to obtain them. All that is left is for the price, which none but the vendor knows, to be affixed."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-146-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "至此，这些物品已被弄得令人向往；它们的品质在一系列涉及顾客身体与五种感官的考验中被展示出来，并最终（也许）强烈地影响了顾客，以至于他再也无法想象切断自己与其中某些物品之间已经建立的联系。他同意付钱来获得它们。剩下的只是把价格——只有卖家知道的价格——贴上去。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-153",
+      "page": "19–20",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-153-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The formulation of a price, that is to say, the determination of a number that the customer knows at this stage to be the lowest found in the market (the market thus appears in the background, a décor to highlight and contextualize the action), is set by going down the price ladder, step by step. Hawkers refer to this descending movement during which prices are broken one after another as “ramping.” First, prices as set by competitors are announced, either by the pitcher, by a customer, or by a carefully primed accomplice. The pitcher also brings in the prices quoted in catalogs he shows or passes around. Remember the twin dolls at the beginning of this prologue and the final price — fifteen pounds for the pair — that the pitcher reached after having gone through all the prices that would have been reasonable, but that he swept aside. Each time a price is announced, the pitcher hits the table in front of him with a large stick that looks like a baseball bat. When he reaches the price he has chosen, the bang is even louder than the previous ones, putting an end to the batting process. Prices are knocked down, literally as well as figuratively. Each time a new and lower price is announced, the pitcher asks who is interested. Hands are raised. More and more hands go up as the beating (produced by the blows) and the beat (as in a musical beat) of the prices progress. In order to transform the interest (evidenced by raised hands) into a firm commitment (consenting to pay and paying), the pitcher announces a new lowering, which further heats up the crowd. The beating and the beat ring out like a military march that brooks no retreat and pushes the gawker to pull bills from his pocket as though that were an inevitable gesture, the logical conclusion of a gradual and collective commitment. Turning back would be to abandon one’s word or to contradict oneself. Having agreed to a higher price, he can only accept to pay a lower price."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-153-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "价格构式，也就是确定一个数字——顾客在此阶段知道这是市场上找到的最低价（市场因此作为背景出现，一个用于突出并情境化行动的布景）——是通过沿着价格阶梯一步步往下走而设定的。小贩把这种价格被一个接一个击落的下降运动称为“ramping”（逐级降价）。首先，宣布竞争对手设定的价格，可以由叫卖者、顾客或一个事先训练好的同伙说出。叫卖者还会引用他展示或传阅的目录上的价格。回想一下开场时的那对双胞胎娃娃，以及叫卖者在走遍所有本来合理的价格、又把它们一扫而空之后所达到的最终价格——一对十五英镑。每宣布一个价格，叫卖者就用一根看起来像棒球棍的大棒敲击面前的桌子。当他达到自己选定的价格时，敲击声比之前更响，结束这场击价过程。价格被击落，字面意义上和比喻意义上都是如此。每宣布一个更低的新价格，叫卖者就问谁感兴趣。手举起来。随着击打（由敲击产生）和价格的节拍（像音乐的节拍）推进，越来越多的手举起。为了把兴趣（由举起的手证明）转化为坚定承诺（同意付钱并付钱），叫卖者宣布再一次降价，进一步加热人群。击打声与节拍像一首不许后退的军乐，推动围观者从口袋里掏出钞票，仿佛这是一个不可避免的动作，是逐步的、集体性的投入的逻辑结论。回头就等于食言或自相矛盾。既然已经接受了较高的价格，他只能接受支付较低的价格。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-179",
+      "page": "20–21",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-179-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The customer feels compelled to buy. It is hard to find an adequate expression for this process, an expression that captures its intimate logic. The pitcher holds out the bag into which he has placed the clothes or the china, or even the dolls, with their tinned laughter. An onlooker grabs it, and it is passed from hand to hand until it reaches the person whose hand had been up throughout the price batting. Did he decide, or was he made to decide by the ",
+            {
+              "type": "em",
+              "children": [
+                "dispositif"
+              ]
+            },
+            " — the staging and the devices?",
+            {
+              "type": "note",
+              "id": "note-intro-002",
+              "label": "2"
+            },
+            " Obviously it was both. Were he to go back on his word, he would lose face; he does not want to go back on his word. The deal is sealed, in the bag. The will to buy belongs to him, but it belongs just as much to the assembled crowd that passes the bag along until it reaches him or to the showman and his demonstrations, his know-how [",
+            {
+              "type": "em",
+              "children": [
+                "savoir faire"
+              ]
+            },
+            "], and his knowing how to induce [",
+            {
+              "type": "em",
+              "children": [
+                "savoir faire faire"
+              ]
+            },
+            "]. It is clear how impoverished the usual representation of the transaction is when it presents this transaction in terms of a supply and a demand, elaborated and constituted independently of one another, external to one another, simply meeting in such a way as to produce an agreement."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-179-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "顾客感到不得不买。很难找到一个恰当的表达来概括这个过程，一个能捕捉其内在逻辑的表达。叫卖者递出袋子，里面装着他放进去的衣服、瓷器，甚至还有那些播放预录笑声的娃娃。一个旁观者抓住袋子，袋子从一只手传到另一只手，直到传到那个在整个击价过程中一直举着手的人手中。是他自己决定的，还是被 ",
+            {
+              "type": "em",
+              "children": [
+                "dispositif"
+              ]
+            },
+            "——舞台布置与装置——促使他决定的？",
+            {
+              "type": "note",
+              "id": "note-intro-002",
+              "label": "2"
+            },
+            " 显然两者都有。如果他反悔，就会丢面子；他不想反悔。交易在袋子里封好了。购买的意志属于他，但也同样属于聚集的人群——他们把袋子一路传到他手中——属于表演者及其演示、他的实践技能（",
+            {
+              "type": "em",
+              "children": [
+                "savoir faire"
+              ]
+            },
+            "），以及他使人行动的本领（",
+            {
+              "type": "em",
+              "children": [
+                "savoir faire faire"
+              ]
+            },
+            "）。通常对交易的表述是多么贫乏：它把交易说成供给与需求，两者各自独立地形成和构成，彼此外在，只是以某种方式相遇，从而产生一项协议。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-195",
+      "page": "21",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-195-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "How insufficient is the idea that the price measures a value, when it in fact participates in the constitution of value? (I will return to this point at length because I know it may be hard to grasp.) We all remember the syllogism our philosophy teachers presented with a sly smile: everything that is rare is expensive, a cheap horse is rare, so a cheap horse is expensive. But what if the economy of markets actually rests entirely on that syllogism, which seems lame only to those who have understood nothing of the ways markets function? Transforming a dress, twin dolls, or a china plate into a unique and singular piece destined for that particular customer or setting up a device that makes the meetings between each of these goods and a client extracted from the anonymous crowd into a unique event, is that not to create a rarity, an extreme rarity? And when that singularity, when the uniqueness, is largely (although obviously not only) the price, a price below what can even be imagined, the miracle happens: what is cheap is dear to me. The pitcher knows what all merchants the world over know, but that those who theorize about markets sometimes forget. The price is on sale, no more, but no less, than the china’s delicacy, the fabric’s softness, or the dolls’ performances. The formulation of the price, the ramping that runs all the other market prices before our eyes, is an attempt to make the good as dear as possible in both senses of the term: cherished and expensive."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-195-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "价格衡量价值的观念是多么不足，而价格实际上参与了价值的构成？（我会详细回到这一点，因为我知道它可能难以把握。）我们都记得哲学老师带着狡黠微笑提出的三段论：一切稀少的东西都昂贵，一匹便宜的马是稀少的，所以一匹便宜的马是昂贵的。但是，如果市场的经济实际上完全建立在这个三段论之上呢？这个三段论只对那些对市场运作方式一无所知的人显得站不住脚。把一条裙子、一对双胞胎娃娃或一只瓷盘转化为独一无二、为那位特定顾客准备的物件，或者建立一个装置，使每件物品与从匿名人群中抽出的顾客之间的相遇成为独一无二的事件——这不就是在创造一种稀少性，一种极端的稀少性吗？而当这种独一性、这种独一无二性很大程度上（尽管显然不完全是）就是价格，一个低于人们所能想象的价格时，奇迹发生了：便宜的东西对我来说是珍贵的。叫卖者知道全世界所有商人都知道、但那些对市场进行理论化的人有时会忘记的事情。价格在出售，不多也不少，正如瓷器的精致、布料的柔软或娃娃的表演在出售。价格构式——在我们眼前跑过所有其他市场价格的逐级降价过程——是一种尝试，要使物品在两种意义上都尽可能“珍贵”：既被珍爱，又昂贵。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-215",
+      "page": "21",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-215-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The pitcher’s commercial activity does not end with this first purchase. For the activity to be profitable, other clients must come forward while the logic of singularization that produces the aforementioned rarity is preserved. This is the fourth step. The vendor faces a daunting dilemma: how to reconcile a mass market — he must reach a certain sales volume to hope for a profit —with goods and transactions that he so successfully singularized? To refer to the solution they devised, street sellers speak of “twirling the edge.”"
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-215-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "叫卖者的商业活动并不随着第一次购买而结束。要使这项活动有利可图，必须有其他顾客上前，同时保留产生上述稀少性的独一化逻辑。这是第四步。卖家面对一个令人生畏的两难：如何调和大众市场——他必须达到一定销售量才能指望利润——与他如此成功地独一化了的物品和交易？为了指称他们想出的解决办法，街头卖家说“twirling the edge”（转边）。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-222",
+      "page": "21–22",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-222-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This twirling allows the pitcher to catch the attention of those who are still on the far side of the border between the general public and those onlookers who are already interested. It aims to recruit new customers, to push farther into the clustering of people and to transform them into customers. This requires competence, know-how, and a specific type of work. The whirlwind of the sale chalks up sales so as to increase the quantity of goods sold without compromising the singular dimension of each transaction. The pitcher shows us the most fundamental of strategies, the one that includes all the others. He moves about through the proxy of assistants. While he takes care of one buyer, he shouts, “Over there!” to his assistant, pointing to an onlooker who seems ready to join the audience assembled around his stall. The assistant flits among the gawkers, twirling to induce them to join the ongoing demonstration. Meanwhile, the pitcher, ready to welcome the newcomer, must not lose those he has already begun to ease toward a commercial transaction."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-222-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这种转边使叫卖者能够抓住那些仍位于边界另一侧的人的注意力——边界的一边是普通公众，另一边是已经感兴趣的旁观者。它旨在招募新顾客，进一步深入人群的聚集，把他们转化为顾客。这需要能力、诀窍和一种特定类型的工作。销售的旋风通过不断成交来增加售出的物品数量，同时不损害每笔交易的独一维度。叫卖者向我们展示了最根本的策略，它包含所有其他策略。他通过助手作为中介来移动。当他照料一个买家时，他朝助手喊“那边！”，指向一个似乎准备加入摊位周围观众的旁观者。助手在围观者之间穿梭，旋转着诱导他们加入正在进行的演示。与此同时，叫卖者准备好迎接新来者，又不能失去那些他已经开始慢慢引向商业交易的人。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-236",
+      "page": "22",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-236-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The twirling of the sale makes it clear that there are not, on the one hand, personalized markets, and on the other hand, anonymous mass markets where everything is alike and simply adds up to create sale volumes. Mass markets should always be perceived as juxtapositions of a myriad of bilateral transactions. The challenge facing all those who live by commercial transactions and give life to markets is to produce the mass from singularization without losing the latter in the process."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-236-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "销售的旋转清楚表明：并不存在一方面是个性化市场，另一方面是匿名的、一切雷同、只是简单相加形成销售量的大众市场。大众市场应始终被视为无数双边交易的并置。所有靠商业交易为生、为市场赋予生命的人所面临的挑战，就是通过独一化形成大规模销售，同时又不在这个过程中失去独一化。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-243",
+      "page": "22",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-243-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This reveals market dynamics clearly. A supply is not a given, preconstituted block that faces an equally set block, that of a demand. Supply and demand emerge and express themselves over the course of a continuous process. They are constantly in motion. They are inscribed in a space, delimited by the borders of the audience traced out by the vendor; they unfurl over time, the time that unfolds through the eddies of the sale. These eddies give a form to the deployment of the sale that can overcome the apparent contradiction between quality and quantity, between, on the one hand, bilateral transactions and the singularization they require and, on the other hand, their aggregation and massification. The clients were not already there, defined as such, waiting to respond to the pitcher’s call. Their number is not a given. Working simultaneously on the clustered crowd and conquering new clients by twirling: this is the program for any seller worthy of the name."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-243-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这清楚地揭示了市场动态。供给不是一个既定的、预先构成的块体，面对另一个同样既定的块体，即需求。供给与需求在持续过程中出现并表达自身。它们始终在运动。它们被铭刻在一个空间中，这个空间由卖家划出的观众边界所界定；它们在时间中展开，时间通过销售的旋涡展开。这些旋涡赋予销售展开以形式，能够克服质量与数量之间、双边交易及其所需的独一化与它们的聚合和规模化之间表面的矛盾。顾客并不是已经在那里、被定义为顾客、等待回应叫卖者的召唤。他们的数量不是既定的。同时作用于聚集的人群，并通过旋转征服新顾客：这就是任何名副其实的卖家的纲领。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-256",
+      "page": "22–23",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-256-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Over the course of the quest for the transaction, the importance of the material framework becomes clear. The pitcher, set up behind his stall and raised on a stage that gives him an overview, sees everything; he supervises the sale space. He dominates the battalions of pedestrians flowing by, and he identifies, a bit like profilers at the entrance of nightclubs, those whose pace slackens or whose head turns; he sees the hand go up and the commitments of potential buyers; he delegates to his assistant the mechanics of the transaction and money collection, but he also sends him to the front to attract those pedestrians who are hesitating. With his loudspeaker, he imposes his speech and masters the sonic space. He sets up his word as the dominant discourse, relaying and amplifying customer questions and the answers provided."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-256-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在寻求交易的整个过程中，物质框架的重要性变得清楚。叫卖者站在摊位后面，登上一个使他能纵览全局的台子，他看见一切；他监管销售空间。他俯瞰流动的行人大军，像夜店门口的侧写者那样，辨认出那些放慢脚步或转过头的人；他看见手举起，看见潜在买家的承诺；他把交易和收款的具体操作委托给助手，但也把助手派到前线，去吸引那些犹豫的行人。借助扩音器，他强加自己的话语，掌控声音空间。他把自己的话确立为主导话语，转述并放大顾客的问题和所提供的回答。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-267",
+      "page": "23",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-267-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This is how one sells what, to a hurried observer, may look like hundreds, thousands, or millions of copies of the same object, but that from the point of view of the sellers and, let it be added, the buyers, is a succession: a multitude of separate transactions, each distinct and different, are juxtaposed in time and space. The fiction of supply and demand curves crossing in the single plane of a sheet of paper, collapsing time and space, does not hold up in front of the reality of the devices required to produce this intersection — I should say these many intersections — by deploying, unfolding, both ",
+            {
+              "type": "em",
+              "children": [
+                "space"
+              ]
+            },
+            " and ",
+            {
+              "type": "em",
+              "children": [
+                "time"
+              ]
+            },
+            "."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-267-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这就是如何出售那种在匆忙的观察者看来可能是同一物品的数百、数千或数百万个副本的东西；但从卖家、并且不妨补充说从买家的角度看，它是一连串事物：大量彼此分离的交易，每一笔都独特而不同，在时间和空间中被并置。供给曲线与需求曲线在一张纸的单一平面上相交的虚构，压缩了时间和空间，却在为产生这个交点——我应该说这些众多交点——所需的装置的现实中站不住脚；这些装置必须展开并铺陈",
+            {
+              "type": "em",
+              "children": [
+                "空间"
+              ]
+            },
+            "与",
+            {
+              "type": "em",
+              "children": [
+                "时间"
+              ]
+            },
+            "。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-h3-02",
+      "page": "23",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-h3-02-en"
+        },
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            ". . . TO THE STRIP IN LAS VEGAS"
+          ],
+          "level": 3
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-h3-02-zh"
+        },
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "……到拉斯维加斯的赌城大道"
+          ],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "intro-body-275",
+      "page": "23",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-275-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The bilateral transaction is at the very core of markets, their ways of functioning, and their developments. The constantly renewed challenge to which markets find practical solutions is to singularize, ensure payment, and multiply the number of transactions. The solutions imagined by street hawkers have general value. The four steps Pinch describes, which are recognized by the sellers themselves (building the edge, flashing, ramping and batting, twirling the edge) can be found in every sector of market activity. To be convinced of that, one need only take off for Las Vegas and its topography of addiction."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-275-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "双边交易是市场、市场运作方式及其发展的核心。市场不断以实际方案应对的挑战，是使交易独一化、确保付款，并增加交易数量。街头小贩设想的解决办法具有普遍价值。平奇描述的四个步骤——卖家自己也承认的四个步骤（筑边、展示货品、逐级降价与击价、转边）——可以在市场活动的每个领域找到。要相信这一点，只需飞去拉斯维加斯，看看它那成瘾的地形学。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-283",
+      "page": "23–24",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-283-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Gone are the pitcher’s china cups and dolls afflicted with pathological empathy. Here is Las Vegas, shimmering like a mirage in the middle of the desert, with its casinos, its rooms in which slot machines unfurl as far as the eye can see, lined up next to one another, all alike to untrained eyes, but to untrained eyes only. Let us listen to anthropologist Natasha Schüll, who surveyed those game rooms for months, followed and interviewed dozens of gamblers, from the occasional gambler to those who lose body and soul to it, met the architects who designed these sites so as to trap the customers, the computer scientists who assemble microprocessors and write the algorithms that get better and better at capturing gamblers and their money. It is a game of cat and mouse in which the mouse knows it is a mouse and is happy to be one, and the cat is a cat that knows it is a cat and sees in the mouse nothing other than prey that should be captured under other cats’ very whiskers.",
+            {
+              "type": "note",
+              "id": "note-intro-003",
+              "label": "3"
+            }
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-283-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "叫卖者的瓷杯，还有那些患了病态共情的娃娃，都已远去。这里是拉斯维加斯，在沙漠中央像海市蜃楼般闪烁，有赌场，有房间，老虎机在其中一直延伸到视线尽头，一台挨着一台，在未经训练的眼睛看来全都一样，但只是在未经训练的眼睛看来如此。让我们听人类学家娜塔莎·舒尔（Natasha Schüll）讲述，她在那些游戏厅里调查了数月，跟踪并采访了数十名赌徒，从偶尔赌博的人到输掉身心的人，会见了设计这些场所、以困住顾客的建筑师，组装微处理器、编写越来越擅长捕捉赌徒及其金钱的算法的计算机科学家。这是一场猫捉老鼠的游戏，老鼠知道自己是老鼠并且乐于做老鼠，猫知道自己是猫，并在老鼠身上看到的无非是应在其他猫的眼皮底下被捉住的猎物。",
+            {
+              "type": "note",
+              "id": "note-intro-003",
+              "label": "3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-297",
+      "page": "24",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-297-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "What do Pinch’s London and Schüll’s Las Vegas have in common? At first glance, nothing, or almost nothing, except that money is exchanged for good or services. One is a primal scene, the other modernity in its tackiest, most cynical, most elaborate, and as some people denounce, most amoral version. Yet there is no qualitative leap between the two. The same obsessions dominate on both sides of the Atlantic: deflect, capture, attach, make pay by singularizing goods and, with them, those who will be their beneficiaries, and then multiply bilateral transactions to build up sales volume. The street sellers in London help us understand Las Vegas; Las Vegas helps us understand both the street sellers and capitalist markets."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-297-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "平奇的伦敦和舒尔的拉斯维加斯有什么共同点？乍一看，什么都没有，或几乎什么都没有，除了金钱与物品或服务交换。一个是原始场景，另一个是现代性最俗气、最犬儒、最精巧，并且正如一些人谴责的那样，最不道德的版本。然而两者之间没有质的飞跃。大西洋两岸主导着同样的执念：偏转、捕获、附着，通过使物品独一化、并随之使那些将成为物品受益者的人独一化来让人付款，然后增加双边交易以积累销售量。伦敦的街头卖家帮助我们理解拉斯维加斯；拉斯维加斯帮助我们同时理解街头卖家和资本主义市场。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-307",
+      "page": "24–25",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-307-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "First step. What Las Vegas, its casinos, and its slot machines attempt to deflect is not the flow of pedestrians hurrying toward their daily occupations. If one took a bird’s-eye perspective, one would see the masses rushing to travel agencies, checking out tour operators, buying cheap plane tickets on flights specially chartered by Las Vegas casinos that offer them slash-priced rooms; one would see crowds, hypnotized by the Strip’s lights, in procession from the whole world toward gambling’s Mecca, letting themselves be swallowed by the majestic entrances to Caesars Palace, Excalibur, or Paris Las Vegas, letting themselves be carried along through the labyrinths that lead them to the slot machine rooms, allowing themselves to be caught by one of them in order to take possession of the place that has been saved for them, specially designed for them. Here they are now, finally crossing the threshold to heaven . . . or hell. Here they are now in the “zone,” as gamblers call the space around the machine, cut off from the rest of the world, a space that becomes their habitat, their ecological niche. Building the edge. The mouse is now within reach of the cat’s claws, already consenting, open to being played with by the cat through the slot machines. The machine’s virtual rollers slide over each other in a digital-mechanical din; the ruthless face-off, the dance, can start. The choreography of this dance has been practiced hundreds and thousands of times. The space has been rarified, folded back on itself. All that is left is a singular point, the point of contact between two agencies, the one that plays and the one that makes play."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-307-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第一步。拉斯维加斯、它的赌场和老虎机试图偏转的，不是匆忙赶往日常事务的行人流。如果从鸟瞰视角看，会看到人群涌向旅行社，考察旅游运营商，购买由拉斯维加斯赌场专门包机、并提供超低价房间的廉价机票；会看到被赌城大道灯光催眠的人群，从世界各地列队前往赌博的麦加，任自己被恺撒宫、神剑酒店或巴黎拉斯维加斯宏伟的入口吞没，任自己被引路的迷宫带着走，走进老虎机厅，让自己被其中一台抓住，以占据那个为他们保留、专门为他们设计的位置。现在他们终于跨过了通往天堂……或地狱的门槛。现在他们进入了赌徒所称的“区域”（zone），即机器周围的空间，与其余世界隔绝，成为他们的栖息地、他们的生态位。筑边。老鼠现在已在猫爪可及之处，已经同意，愿意被猫通过老虎机玩弄。机器的虚拟滚轮在数字-机械的喧闹中相互滑动；无情的对峙、舞蹈可以开始了。这场舞蹈的编舞已被练习过成百上千次。空间已被稀薄化，折回自身。剩下的只是一个独一之点，两个能动者之间的接触点：一个在玩，一个让玩。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-329",
+      "page": "25–26",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-329-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Molly is in the “zone.” She’s fed up with turning in circles, dragging her existence like a ball chained to her ankle from one slot machine to another. She draws a map. She starts in the top left-hand corner of a sheet of paper with the MGM Grand, the casino where she works. A little lower to the right she draws the 7-Eleven, the gas station where she refuels and where, when she’s filled her tank, she plays the slot machine lined up there like a reminder, just to relax a little and take the edge off her impatience. A little lower down, the Palace Station crops up, her neighborhood casino, where she gambles in the evenings and on weekends. Next comes the supermarket where she shops on weekends and gambles for a handful of minutes, just so as not to lose the touch. Then her clumsy fingers, more accustomed to pushing the button that allows her to sever contact with the world than to hold a pen, draw the clinic from which she gets the medication for her anxiety. Finally, in the bottom left-hand corner, the last step before the loop closes back on itself and another circuit begins through the same steps, is the building where she goes to Gamblers Anonymous meetings every Wednesday evening. Molly then traces the path, or one should say the bumpy route, that connects all these sites. Finally she finishes the map by drawing herself in the middle of the space she has delimited, sitting in front of a slot machine. No exit — she doesn’t want one; what she wants is an absolutely closed-off space, the space of compulsive consumption in which she gives herself over to what she knows is a vice and that she struggles to fight with molecules and collective expiation practices. As we will see, the casinos have calculated that a gambler who pursues her path, from remission to relapse, is more profitable than one who lets out all the blood in a single session. Casinos prod users they way a cat prods a mouse with its paw to ensure the latter is still alive. When it becomes clear the user has somewhat revived, the casino brings out its claws. From this perspective, therapy is not necessarily an antidote to addiction; it is one of its essential components, financed by the casinos. One goes back and forth between one and the other the way one can go from mall to mall, run from one errand to the next, or go into debt from one loan to another while giving oneself breaks, allowing oneself the pleasure of a cup of coffee while sitting at a terrace to catch one’s breath for a few minutes before diving back into the crowd that is going in circles, rushing, and from which one is extracted for a moment, but only for a moment."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-329-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "莫莉（Molly）在“区域”里。她厌倦了兜圈子，把存在像拴在脚踝上的球一样从一台老虎机拖到另一台。她画了一张地图。她从一张纸的左上角开始，画上米高梅大酒店（MGM Grand），她工作的赌场。稍往右下，她画上7-Eleven，她加油的加油站；在那里，加满油后，她会玩排列在那里的老虎机，像是某种提醒，只为放松一下，缓解不耐。再往下，出现了宫殿站赌场（Palace Station），她的社区赌场，她晚上和周末在那里赌博。接着是她周末购物并赌上几分钟的超市，只为不丢掉手感。然后，她那更习惯于按按钮切断与世界的联系、而非握笔的笨拙手指，画出了她领取焦虑症药物的诊所。最后，在左下角，是循环闭合、再从同样步骤开始另一轮之前最后一站：她每周三晚上去参加匿名赌徒会的那栋楼。莫莉随后画出连接所有这些地点的路径，或者该说颠簸的路线。最后，她在地图中央画出自己，坐在一台老虎机前，完成了地图。没有出口——她并不想要出口；她想要的是一个绝对封闭的空间，强迫性消费的空间，在其中她沉溺于自己知道是恶习的东西，并借助药物分子和集体赎罪实践与之斗争。我们将会看到，赌场已经算出，一个沿着自己的路径、从缓解到复发往返的赌徒，比一个在一次赌局中输光所有血的赌徒更有利可图。赌场拨弄用户，就像猫用爪子拨弄老鼠，确认后者还活着。当明显看出用户有所复苏，赌场就亮出爪子。从这个角度看，治疗不一定是成瘾的解药；它是成瘾的基本组成部分之一，由赌场资助。人们在一个与另一个之间往返，就像可以从一家商场到另一家商场，从一件差事奔到另一件差事，或从一笔贷款欠到另一笔贷款，同时给自己休息，允许自己坐在露台喝杯咖啡，喘几分钟气，然后重新扎进兜圈子、奔忙的人群——人们从中被抽离片刻，但只是片刻。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-364",
+      "page": "26",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-364-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The capture of a gambler who delights in staying in the “zone,” a sort of black hole where forces are reversed and keep her prisoner, has been calculated precisely. Organizing the tracking and the catch requires sophisticated devices: a group of human and nonhuman beaters far more complex than the hawker’s assistant, but carrying out the same tasks. Once attracted into the “zone,” the customer has to be kept there so that she doesn’t escape, at least while she can still be used. When they describe this capture, gamblers talk about being hooked, caught, harpooned, bewitched, or about becoming junkies. As in the streets of London, the capture is effected by gaining hold of bodies and minds. There, to touch the customer, to attach him, he had to be allowed to touch the cloth, encouraged to finger it. Here, the task is a little more complicated: one does not fall in love with a slot machine as one does with a smiling doll or a piece of lingerie whose crazy story and silky texture get the better of you. To ensure the hold and to make it as active as wished require more preparatory work, studies, behavioral observations, brain imagery. It requires starting from the observation that all slot machine experts now share as though it were obvious, although there is nothing self-evident about it. What Molly, like all her fellow gamblers, is looking for is not only or even mostly the pleasure of the bet, the frisson that runs up her spine for the few seconds before the virtual rollers come to a stop. None of that is what she desperately seeks. Rather, she is looking for escape, for being able to cut herself off from the rest of the world, detach from her life and her environment. “You who enter here, abandon all hope.” As Molly puts it, “No exit, no escape.”"
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-364-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "一个乐于待在“区域”里的赌徒的捕获——那是一个力量逆转、把她囚禁的黑洞——已被精确计算。组织追踪和捕捉需要精密的装置：一群比叫卖者的助手复杂得多的人类与非人类的赶猎者，但执行着同样的任务。一旦被吸引进“区域”，顾客就必须被留在那里，不让她逃走，至少在她还有用的时候。赌徒在描述这种捕获时会说被钩住、被抓住、被鱼叉叉中、被施了魔法，或说变成了瘾君子。和在伦敦街头一样，捕获是通过抓住身体和心智实现的。在那里，为了触碰顾客、附着顾客，必须让他触摸布料，鼓励他揉捏布料。这里，任务稍微复杂一些：人们不会像爱上一个微笑的娃娃，或爱上一件凭借奇妙来历和丝滑质地征服你的内衣那样，爱上一台老虎机。要确保这种握持并使其达到所希望的活跃程度，需要更多准备工作、研究、行为观察、脑成像。需要从所有老虎机专家如今都视为显而易见的一个观察出发，尽管它一点也不显然。莫莉和所有赌友所寻求的，不只是、甚至主要不是下注的快乐，不是虚拟滚轮停下前几秒钟沿脊柱窜上的战栗。那些都不是她拼命寻求的东西。她寻求的是逃避，是能够把自己与其余世界切断，脱离自己的生活与环境。“你们进入此地的人，放弃一切希望。”正如莫莉所说：“没有出口，没有逃路。”"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-387",
+      "page": "26–27",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-387-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Once gamblers are in the “zone,” once their territory has been circumscribed and the borders traced out, the gambler has to be kept, has to be attached to the machine; in other words, things must be managed so that she becomes attached to it. The flashing — a little more complicated than in London with china and cloth that can be touched. Here there is none of that. But for a good engineer, a good psychologist, a good architect-designer, a good computer scientist, no challenge is too daunting. It is worth rising to this one. What needs to be done especially is to carefully define the profiles of a good candidate for addiction in order to attract and attach her and then to take care of everything from the music to the smells, to compose an atmosphere that provides a bubble for the gambler, providing all the nourishment she might require and protecting her from the rest of the world. Carefully eliminate every perturbation, any parasites. Casino design professionals think of everything. For instance, it often happens that a gambler does not hold up to the pressure and succumbs to a heart attack. What has to happen at that point — and many studies, as well as lucrative contracts for those researchers who landed them, were required to figure out how to set this up — is for the unconscious guest to be whisked away immediately without upsetting other players. Cameras, control centers, nurses, stretchers and defibrillators that can be reached within seconds, dexterity at eliminating the body without a sound. And it works. You can watch it on the screens: the other gamblers do not notice a thing. Lost in their machines, it is as if they have been disconnected from everything around them. Like the one who fell beside them, they are cut off from their environment; unlike him, they are lucky enough to be able to continue."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-387-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "一旦赌徒进入“区域”，一旦他们的领土被划定、边界被描出，就必须留住赌徒，必须把她附着到机器上；换句话说，必须把事情安排好，使她附着于它。展示货品——比在伦敦让人触摸瓷器和布料要稍微复杂一些。这里没有那些东西。但对一位好工程师、好心理学家、好建筑师-设计师、好计算机科学家来说，没有哪个挑战太吓人。这个挑战值得迎上去。尤其需要做的，是仔细界定一位好的成瘾候选人的特征，以便吸引并附着她，然后照料一切，从音乐到气味，营造一种氛围，为赌徒提供一个气泡，提供她可能需要的所有养分，并保护她免受其余世界的侵扰。仔细消除每一种扰动、任何寄生因素。赌场设计专业人士考虑周全。例如，赌徒常常承受不住压力，突发心脏病。此时必须发生的是——为弄清楚如何安排这一点，需要许多研究，也为获得这些研究合同的研究者带来了丰厚报酬——立即把失去意识的客人运走，而不打扰其他玩家。摄像机、控制中心、护士、担架和几秒钟内可拿到的除颤器，以及把倒下的人无声无息移走的娴熟技巧。而且这确实有效。你可以在屏幕上看到：其他赌徒什么也没注意到。他们迷失在机器里，仿佛与周围一切断开了连接。像倒在他们旁边的那个人一样，他们与环境切断；与他不同的是，他们有幸能够继续。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-411",
+      "page": "27–28",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-411-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The observation systems for behavior and the great amount of accumulated data make it possible to singularize the attachment; it is made to measure. One can figure out the pain threshold for a particular gambler, whose name one might not know, but to whom the facial recognition software has assigned a number in order to be able to track him. When the threshold beyond which he may not be able to withstand the pressure is reached, the algorithms pull back, the sequences of gains and losses are recalculated to bring down the pressure without thereby giving up on siphoning off the bank accounts. The state of equilibrium, what ensures the most regular and systematic withdrawals, is achieved in full with the customer’s complete cooperation when the user who cannot calculate anything any longer gives himself over to the machine and, rather than regularly pushing the button that sets offthe rollers’ infernal cycle, delegates that last action by opting for autoplay. This abandonment is even more impressive with the poker games. The machine has learned the gambler’s favorite strategies, the risks they like to take, the rate of their gains, and it becomes such a good substitute, such a faithful lieutenant, that the gambler does not even have to play anymore to enjoy the benefits of the anesthesia the game provides. The machine plays against itself, the gambler being so deactivated, so cut off from everything, that there is no source of greater pleasure for him than these automatic plays. To reach this abandon, the relationship and the service had to be personalized. “Tell me how you play, and I promise to play in your stead as you would have liked to play,” says the machine. “I know, better than even you do, what you like and what binds you to me. I will relieve you even of the burden of playing. Relax. Enjoy life — enjoy your life! I have your back, I am thinking of you constantly. I know, for instance, that you have natural needs to satisfy. Take the time to get a meal at the casino restaurant where you can win free games. Take the time for a bathroom break.” The gambler, however, is not always credulous. There are limits to trust. What if the machine went off the rails? What if it were slyly disguising its treachery, taking advantage of these interruptions to change its mind and accelerate the player’s bankruptcy? Some gamblers, fearing such betrayal (they do not fear losing all their money, but they do fear not being able to go on playing at their own rhythm and for as long as possible before they’re broke for good), pull on several pairs of pants or diapers in order to be able to pee as much as they need to without taking their eyes off the machine as it plays in their stead and takes all their money."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-411-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "行为观察系统与大量积累的数据使附着的独一化成为可能；它是量身定制的。人们可以算出一位特定赌徒的疼痛阈值——也许不知道他的名字，但面部识别软件已给他分配了一个编号，以便追踪他。当达到他可能无法承受的压力阈值时，算法就后退，重新计算输赢序列，以降低压力，同时不放弃吸干银行账户。当再也无法计算任何东西的用户把自己交给机器，不再规律地按按钮启动滚轮的地狱循环，而是选择自动游戏、把最后这个动作也委托出去时，平衡状态——确保最规律、最系统提款的状态——便在顾客的完全配合下充分实现。这种自我交付在扑克游戏中更令人印象深刻。机器学会了赌徒偏爱的策略、他们喜欢冒的风险、他们的赢钱率，它成为如此好的替代者、如此忠实的副官，以至于赌徒甚至不必再玩，就能享受游戏提供的麻醉之益。机器与自己对抗，赌徒被如此去活化、与一切如此隔绝，以至于对他而言，没有什么比这些自动游戏更能带来快乐。要达到这种自我交付，关系和服务必须个性化。“告诉我你怎么玩，我保证按你希望的方式替你玩，”机器说。“我比你更了解你喜欢什么，以及是什么把你绑在我身上。我甚至替你卸下玩耍的负担。放松。享受生活——享受你的生活！我罩着你，我时刻想着你。比如，我知道你有生理需求要满足。花点时间去赌场餐厅吃顿饭，在那里你可以赢得免费游戏。花点时间去趟洗手间。”然而赌徒并不总是轻信。信任有其限度。万一机器失控呢？万一它狡猾地掩盖背叛，利用这些中断改变主意，加速玩家的破产呢？一些赌徒害怕这种背叛（他们不怕输光所有钱，而是怕在彻底破产之前不能按自己的节奏、尽可能长久地继续玩下去），于是穿上好几条裤子或尿布，以便可以尽情小便，而目光不离那台替他们玩、拿走他们所有钱的机器。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-447",
+      "page": "28–29",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-447-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "By way of the machine, the casino has attached the customer, pinned him down, holding him in its claws. All that is left is to get him to pay. Let us not, however, imagine for a second that the sequence of affixing a price and its payment begins after the harpooning, the way a ransom is requested after the hostage is captured. To imagine that prices are external to the processes of attachment and singularization would be to understand nothing about market mechanisms. As in London, the price is a quality, or rather an essential component, of the service. In Las Vegas, that is so much the case that it is by affixing the price and getting the gambler to pay it that attachment is obtained, that the deal is sealed. The pleasure that payment produces, that the repeated pressing of the button provides, attaches the gambler, somewhat as in a psychoanalytic cure, the money given over to the therapist ensuring that one is attached to him; the transfer of money paves the way for affective transfer. What a pleasure to be able to pay to forget, to not owe anyone anything, to wipe oneself out. Ah, ",
+            {
+              "type": "em",
+              "children": [
+                "cupido emptrix"
+              ]
+            },
+            ", when you have a hold on us, it is a powerful one. Slot machine designers and computer experts have understood that so well that they offer the gambler the sequences of gains and losses that provide maximal pleasure for him. These sequences and relative volumes, activated by pressing on a button, are part of the game. To formulate the price is to formulate the good. Read for its economic significance, what Schüll’s discomforting ethnography demonstrates is that in machine gambling, the price is one of the good’s qualities, no more, no less. Price is both the supply and the demand; it is not the result of a meeting, a confrontation, between preconstituted supplies and demands."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-447-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "通过机器，赌场附着并固定了顾客，把他握在爪中。剩下的就是让他付款。然而，我们一刻也不要以为，价格确定与付款的序列在鱼叉命中之后才开始，就像在人质被俘后索要赎金。以为价格外在于附着和独一化的过程，就是对市场机制一无所知。和在伦敦一样，价格是服务的一种品质，或者更确切地说，是服务的基本组成部分。在拉斯维加斯，情况更是如此：正是通过确定价格并让赌徒支付，附着才得以实现，交易才得以敲定。付款产生的快乐、反复按按钮提供的快乐，附着住赌徒，有点像精神分析治疗中，交给治疗师的钱确保一个人附着于他；金钱的转移为情感移情铺平道路。能够付钱去遗忘、不欠任何人任何东西、把自己抹除，是多么快乐。啊，",
+            {
+              "type": "em",
+              "children": [
+                "cupido emptrix"
+              ]
+            },
+            "，当你抓住我们时，你的力量多么强大。老虎机设计者和计算机专家对此理解得如此透彻，以至于他们为赌徒提供能给他最大快乐的输赢序列。这些序列和相对数量，通过按按钮激活，是游戏的一部分。确定价格就是确定物品。从经济意义来读，舒尔令人不安的民族志所证明的是：在机器赌博中，价格是物品的一种品质，不多也不少。价格既是供给也是需求；它不是预先构成的供给与需求之间相遇、对抗的结果。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-471",
+      "page": "29–30",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-471-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The hawker’s problem of capturing the attention of passing traffic is but one kind of challenge. Casinos further face the problem of constantly increasing the number of visitors flocking to Las Vegas so they can multiply bilateral transactions and grow sales revenue. What is the point of managing to get crowds of onlookers to come from the other end of the world if one fails to capture them as they cover the last few yards that separate them from open slot machines? In order to manage this capture, casinos design devices that combine the traditional and tested know-how that pitchers and their assistants have with high-tech tools. Twirling the edge? As in London, street beaters harpoon anonymous onlookers, seduce them with attractive propositions, and take them on, as soon as they hit the Strip, so as to lead them to the machine. To boost revenues, however, the best strategy is to establish and maintain a state of addiction; one must not let slip between one’s fingers someone who has already come, who has tried a game of poker and left traces and a profile (here is how I play and react) in one of the centers of big data, someone to whom the machine can offer the games he likes and his favorite sequences as soon as he is within range of screens. One day it will be possible to reach him at home through an app. Each gambler is a person whom the casino addresses and to whom it sends its propositions. There is no contradiction between quantity and quality; quantity is not antithetical to a bespoke service and the singularization of goods and agents. Datafication makes this even more obvious. You might think it a strange idea to open a book devoted to the markets, and more precisely to the most recent and complex types of markets, with street vendors, who seem of another age. Isn’t it even stranger to establish a parallel between that primitive form of commerce and the gambling industry, which so skillfully deploys the glitzy resources of modern technology? By bringing together these two very extreme situations, I want to suggest the problems that have to be solved have not changed: the point is to tie supplies and demands together around goods whose characteristics are constantly evolving, the only aim being to set up a transaction that takes place in exchange for payment. Market activities always face the same questions: Who is ready to pay, how much, and for what? But what does change between situations are the mechanisms of solving these problems."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-471-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "叫卖者吸引过往人流注意力的问题只是挑战的一种。赌场还面临不断增加涌向拉斯维加斯的访客数量的问题，以便增加双边交易、增长销售收入。如果没能在他们走过通往空闲老虎机的最后几码路时捕获他们，那么设法让成群的旁观者从世界另一端赶来又有什么意义？为了完成这种捕获，赌场设计的装置把叫卖者及其助手传统的、经过检验的诀窍与高科技工具结合起来。转边？和在伦敦一样，街头揽客者用鱼叉般的手段捕获匿名的旁观者，以诱人的提议吸引他们；这些人一踏上赌城大道，揽客者就接手，把他们引向机器。然而，为了提升收入，最好的策略是建立并维持成瘾状态；不能从指缝间放走一个已经来过、玩过一局扑克、并在某个大数据中心留下了痕迹和画像（这是我玩和反应的方式）的人——只要他进入屏幕范围，机器就能向他提供他喜欢的游戏和偏爱的序列。总有一天，可以通过一个应用在家里联系到他。每个赌徒都是赌场要对其说话、向其发送提议的人。数量与质量之间没有矛盾；数量并不与定制服务、与物品和行动者的独一化相对立。数据化使这一点更加明显。你也许会觉得，用街头小贩来开一本专门讨论市场、更确切地说是最新、最复杂类型市场的书，是个奇怪的想法，他们似乎属于另一个时代。把那种原始商业形式与赌博业——它如此娴熟地运用现代技术的炫目资源——相提并论，岂不更奇怪？通过把这两个极端情形放在一起，我想暗示的是，必须解决的问题并没有改变：关键在于围绕特征不断演变的物品把供给和需求绑在一起，唯一目的是建立一笔以付款为交换的交易。市场活动始终面对同样的问题：谁愿意付钱，付多少，为哪些东西付钱？但不同情形之间发生变化的是解决这些问题的机制。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro-body-504",
+      "page": "30",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "intro-body-504-en"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This book sets out a hypothesis, namely, that when confronted with the enigma of the market, actors constantly invent new devices that are repeatedly modified and transformed. But these changes are not random or arbitrary. In order to be successful (sometimes), commercial activities must be organized (",
+            {
+              "type": "em",
+              "children": [
+                "agencées"
+              ]
+            },
+            ") in a certain way. One cannot rely on chance to lead a man wandering down the street without a care or rushing toward an important business meeting to take a sudden interest in a pair of dolls he did not know existed a few minutes earlier or to fight to be able to take advantage of the exceptional opportunity given to him to be one of the lucky few to have a chance to acquire this rare good. It is not by chance that you lead a homemaker to take an avid interest in laundry detergent that promises the most dazzling white, an adolescent to go broke for flavored vaping products, or a senior executive to no longer be able to disconnect from screens he used to do very well without. None of these results could be obtained without the design and implementation of rigorously structured ",
+            {
+              "type": "em",
+              "children": [
+                "agencements"
+              ]
+            },
+            ".",
+            {
+              "type": "note",
+              "id": "note-intro-004",
+              "label": "4"
+            },
+            " This book is devoted to exploring and analyzing those structures. Before getting to the heart of the matter, however, we need to rid ourselves of a number of mistaken assumptions and common notions — such as the concepts of supply and demand — that contribute to obscuring, rather than illuminating the enigma of the market."
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "intro-body-504-zh"
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本书提出一个假设：面对市场的谜，行动者不断发明新装置，这些装置被反复修改和改造。但这些变化不是随机或任意的。为了成功（有时如此），商业活动必须以某种方式被组织（",
+            {
+              "type": "em",
+              "children": [
+                "agencées"
+              ]
+            },
+            "）。不能指望偶然让一个无忧无虑走在街上、或匆忙赶去参加重要商务会议的人，突然对几分钟前还不知道存在的娃娃产生兴趣，或为争取成为少数有机会获得这件稀有物品的幸运者之一而奋力抓住给予他的非凡机会。你让一位家庭主妇对承诺最耀眼洁白的洗衣液产生强烈兴趣，让一个青少年为调味电子烟产品破产，或让一位高级主管再也无法离开他从前没有也过得很好的屏幕，这些都不是靠偶然。没有严格结构化的装配（",
+            {
+              "type": "em",
+              "children": [
+                "agencements"
+              ]
+            },
+            "）的设计与实施，这些结果都无法取得。",
+            {
+              "type": "note",
+              "id": "note-intro-004",
+              "label": "4"
+            },
+            " 本书致力于探索和分析这些结构。然而，在进入核心之前，我们需要摆脱一些错误假设和常见观念——例如供给和需求的概念——它们无助于阐明市场的谜，反而使之更加模糊。"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "note-intro-001": {
+      "number": "1",
+      "sourcePage": "427",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "我对伦敦“市场叫卖者”（market pitchers）的描述，依据的是特雷弗·平奇给出的描述：Trevor Pinch, “Performativity and Economic Demonstrations: Pitching Quality and Quantity,” in Yannick Barthe, Madeleine Akrich, Fabian Muniesa, and Phillipe Mustar, eds., ",
+            {
+              "type": "em",
+              "children": [
+                "Débordements: Mélanges offerts à Michel Callon"
+              ]
+            },
+            " (Paris: Presses des Mines, 2010)。关于下文的叙述，见第372–76页。按平奇的描述，他们是“英国许多市场（以及欧洲某些地方）上的一种特殊卖家，靠一套精心编排的口头说辞，配以幽默、滑稽动作和演示来售卖货物。他们擅长把一群普通购物者吸引到自己的摊位前；他们对单笔销售不感兴趣，而是想在自己的套路中的适当时刻，把同样的货物卖出许多份。”关于街头小贩和叫卖者，另见 Roman Le Velly, “Les démonstrateurs de foire: Des professionnels de l’interaction symbolique,” ",
+            {
+              "type": "em",
+              "children": [
+                "Ethnologie française"
+              ]
+            },
+            " 37.1 (2007), pp. 143–51。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "My description of London “market pitchers” is based on the one given by Trevor Pinch: Trevor Pinch, “Performativity and Economic Demonstrations: Pitching Quality and Quantity,” in Yannick Barthe, Madeleine Akrich, Fabian Muniesa, and Phillipe Mustar, eds., ",
+            {
+              "type": "em",
+              "children": [
+                "Débordements: Mélanges offerts à Michel Callon"
+              ]
+            },
+            " (Paris: Presses des Mines, 2010). For the account that follows, see pp. 372–76. As Pinch describes them, they are “a special form of seller found on many markets in the UK (and some places in Europe) who sell goods by an elaborate verbal spiel, accompanied by humor, antics and demonstrations. They are specialists in attracting a crowd of ordinary shoppers to their stall; they are not interested in single sales but want to make many sales of the same goods at the appropriate moment in their routines.” For more on street vendors and hucksters, see Roman Le Velly, “Les démonstrateurs de foire: Des professionnels de l’interaction symbolique,” ",
+            {
+              "type": "em",
+              "children": [
+                "Ethnologie française"
+              ]
+            },
+            " 37.1 (2007), pp. 143–51."
+          ]
+        }
+      ]
+    },
+    "note-intro-002": {
+      "number": "2",
+      "sourcePage": "427",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "英译者注"
+              ]
+            },
+            "：法文术语 ",
+            {
+              "type": "em",
+              "children": [
+                "dispositif"
+              ]
+            },
+            " 对卡隆而言是一个关键术语。在不同语境中，它可以被译为“安排”“设置”“装置”或“机制”。然而，为了标明这是一个准技术术语，本书始终最一致地把它译为“device”（装置）。事实上，正如全书论证所表明的，这一用词选择也是一种方法论选择，追随的是福柯。关于作者对福柯 ",
+            {
+              "type": "em",
+              "children": [
+                "dispositif"
+              ]
+            },
+            " 用法的立场，详见第七章。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "Translator’s note"
+              ]
+            },
+            ": The French term ",
+            {
+              "type": "em",
+              "children": [
+                "dispositif"
+              ]
+            },
+            " is a crucial term for Callon. In different contexts, it might be translated as “arrangement,” “setup,” “apparatus,” or “mechanism.” However, in order to mark the fact that this is a quasi-technical term, it has been most consistently translated as “device.” Indeed, as the argument throughout the book makes clear, this word choice is also a methodological choice, following Foucault. For further explanation on the author’s position regarding Foucault’s use of ",
+            {
+              "type": "em",
+              "children": [
+                "dispositif"
+              ]
+            },
+            ", see Chapter 7."
+          ]
+        }
+      ]
+    },
+    "note-intro-003": {
+      "number": "3",
+      "sourcePage": "428",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "以下内容依据娜塔莎·舒尔在一本书中提出的描述与分析，该书就消费与成瘾机制提出了重要的原创视角：Natasha Schüll, ",
+            {
+              "type": "em",
+              "children": [
+                "Addiction by Design: Machine Gambling in Las Vegas"
+              ]
+            },
+            " (Princeton: Princeton University Press, 2012)。我希望自己没有背叛作者的核心论点，尽管在某些地方我冒昧地添加了虚构对话或个人评论与解释。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The following is based on the descriptions and analyses proposed by Natasha Schüll in a book that opens up important original perspectives on the mechanisms of consumption and addiction: Natasha Schüll, ",
+            {
+              "type": "em",
+              "children": [
+                "Addiction by Design: Machine Gambling in Las Vegas"
+              ]
+            },
+            " (Princeton: Princeton University Press, 2012). I hope I have not betrayed the author’s central argument, even though I have taken the liberty of adding fictional dialogues or personal comments and inter pretations in some places."
+          ]
+        }
+      ]
+    },
+    "note-intro-004": {
+      "number": "4",
+      "sourcePage": "428",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "英译者注：Agencement"
+              ]
+            },
+            " 可译为“安排”或“布局”。它可以指元素在空间中的布置方式，也可以指元素结合起来形成一个有效整体的方式。为了保留对这些安排之能动性的强调，英译本选择直接沿用这一法文术语。作者在第七章充分阐述了它的含义。"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "note",
+              "id": "editor-note-intro-004",
+              "label": "校1"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "Translator’s note: Agencement"
+              ]
+            },
+            " might be translated as “arrangement” or “layout.” It can refer to the way elements are laid out in space or the way they combine to create an effective whole. In order to preserve the insistence on the agency arrangements, the choice was made to import the term into English. The author fully elaborates its meaning in Chapter 7."
+          ]
+        }
+      ]
+    },
+    "editor-note-intro-004": {
+      "number": "校1",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "中译校注：底本印刷页428此处原为 the agency arrangements，语法关系略有不整；已对照PDF第429页图像确认不是抽取漏字。此处依据上下文理解为对安排所具有的能动性的强调。原文保留，未将这一解释改入英文底本。"
+          ]
+        }
+      ],
+      "en": []
+    }
+  }
+}
