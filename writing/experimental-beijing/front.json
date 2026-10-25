@@ -1,0 +1,2697 @@
+{
+  "title": "前置材料",
+  "originalTitle": "Front Matter",
+  "body": [
+    {
+      "id": "cover",
+      "type": "figure",
+      "page": "",
+      "src": "translations/books/experimental-beijing/assets/cover.jpg",
+      "en": [
+        "Original cover"
+      ],
+      "zh": [
+        "原书封面"
+      ]
+    },
+    {
+      "id": "front-half-title",
+      "type": "heading",
+      "page": "i",
+      "en": [
+        "Experimental BEIJING"
+      ],
+      "zh": [
+        "实验北京"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 2,
+          "printed_page": "i"
+        }
+      ]
+    },
+    {
+      "id": "front-b000",
+      "type": "heading",
+      "page": "iii",
+      "en": [
+        "Experimental BEIJING Gender and Globalization in Chinese Contemporary Art"
+      ],
+      "zh": [
+        "实验北京：中国当代艺术中的性别与全球化"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 4,
+          "printed_page": "iii"
+        }
+      ]
+    },
+    {
+      "id": "front-b001",
+      "type": "paragraph",
+      "page": "iii",
+      "en": [
+        "Sasha Su-Ling Welland"
+      ],
+      "zh": [
+        {
+          "type": "em",
+          "children": [
+            ""
+          ]
+        },
+        {
+          "type": "em",
+          "children": [
+            "Sasha Su-Ling Welland"
+          ]
+        },
+        {
+          "type": "em",
+          "children": [
+            ""
+          ]
+        },
+        {
+          "type": "break"
+        },
+        "萨莎·苏玲·韦兰"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 4,
+          "printed_page": "iii"
+        }
+      ]
+    },
+    {
+      "id": "front-b002",
+      "type": "paragraph",
+      "page": "iii",
+      "en": [
+        "duke university press ",
+        {
+          "type": "em",
+          "children": [
+            "Durham and London"
+          ]
+        },
+        " 2018"
+      ],
+      "zh": [
+        "杜克大学出版社",
+        {
+          "type": "break"
+        },
+        "达勒姆与伦敦",
+        {
+          "type": "break"
+        },
+        "2018"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 4,
+          "printed_page": "iii"
+        }
+      ]
+    },
+    {
+      "id": "front-b003",
+      "type": "paragraph",
+      "page": "iv",
+      "en": [
+        "© 2018 Duke University Press All rights reserved Printed in the United States of America on acid-free paper ∞ Designed by Matthew Tauch Typeset in Whitman by Westchester Book Group"
+      ],
+      "zh": [
+        "© 2018 杜克大学出版社",
+        {
+          "type": "break"
+        },
+        "版权所有。美国印制于无酸纸 ∞。装帧设计：Matthew Tauch。正文排版：Westchester Book Group 使用 Whitman 字体。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 5,
+          "printed_page": "iv"
+        }
+      ]
+    },
+    {
+      "id": "front-b004",
+      "type": "subheading",
+      "page": "iv",
+      "en": [
+        "Library of Congress Cataloging-in-Publication Data"
+      ],
+      "zh": [
+        {
+          "type": "em",
+          "children": [
+            ""
+          ]
+        },
+        {
+          "type": "em",
+          "children": [
+            "美国国会图书馆在版编目数据"
+          ]
+        },
+        {
+          "type": "em",
+          "children": [
+            ""
+          ]
+        }
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 5,
+          "printed_page": "iv"
+        }
+      ]
+    },
+    {
+      "id": "front-b005",
+      "type": "paragraph",
+      "page": "iv",
+      "en": [
+        "Names: Welland, Sasha Su-Ling, [date] author. Title: Experimental Beijing: gender and globalization in Chinese contemporary art / Sasha Su-Ling Welland. Description: Durham: Duke University Press, 2018. | Includes bibliographical references and index. Identifiers: lccn 2017039037 (print) | lccn 2018000299 (ebook) isbn 9780822372479 (ebook) isbn 9780822369288 (hardcover: alk. paper) isbn 9780822369431 (pbk.: alk. paper) Subjects: lcsh: Art, Chinese—21st century. | Art, Modern—21st century. | Artists—China—Beijing—21st century. | Art—China—Beijing. | Globalization in art. Classification: lcc n7345.6 (ebook) | lcc n7345.6.w46 2018 (print) | ddc 709.51/0905—dc23 lc record available at https://lccn.loc.gov/2017039037"
+      ],
+      "zh": [
+        "姓名：Welland, Sasha Su-Ling，[date]（原文占位符），作者。",
+        {
+          "type": "break"
+        },
+        "题名：Experimental Beijing: gender and globalization in Chinese contemporary art / Sasha Su-Ling Welland.",
+        {
+          "type": "break"
+        },
+        "出版信息：达勒姆：杜克大学出版社，2018。｜含参考文献与索引。",
+        {
+          "type": "break"
+        },
+        "标识符：LCCN 2017039037（纸质本）｜LCCN 2018000299（电子书）",
+        {
+          "type": "break"
+        },
+        "ISBN 9780822372479（电子书）",
+        {
+          "type": "break"
+        },
+        "ISBN 9780822369288（精装：无酸纸）",
+        {
+          "type": "break"
+        },
+        "ISBN 9780822369431（平装：无酸纸）",
+        {
+          "type": "break"
+        },
+        "主题：LCSH：中国艺术——21世纪。｜现代艺术——21世纪。｜艺术家——中国——北京——21世纪。｜艺术——中国——北京。｜艺术中的全球化。",
+        {
+          "type": "break"
+        },
+        "分类：LCC N7345.6（电子书）｜LCC N7345.6.W46 2018（纸质本）｜DDC 709.51/0905—dc23",
+        {
+          "type": "break"
+        },
+        "LCC 记录见 https://lccn.loc.gov/2017039037"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 5,
+          "printed_page": "iv"
+        }
+      ]
+    },
+    {
+      "id": "front-b006",
+      "type": "paragraph",
+      "page": "iv",
+      "en": [
+        "duke university press gratefully acknowledges the support of the university of washington china studies program and simpson center for the humanities, which provided funds toward the publication of this book."
+      ],
+      "zh": [
+        "杜克大学出版社谨此感谢华盛顿大学中国研究项目与辛普森人文中心的资助，使本书得以出版。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 5,
+          "printed_page": "iv"
+        }
+      ]
+    },
+    {
+      "id": "front-b007",
+      "type": "paragraph",
+      "page": "iv",
+      "en": [
+        "Cover art: He Chengyao, ",
+        {
+          "type": "em",
+          "children": [
+            "Illusion"
+          ]
+        },
+        ", 2002. Performance. Photography credit: Liu Hui."
+      ],
+      "zh": [
+        "封面图：何成瑶，《幻象》，2002年，行为表演。摄影：刘辉。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 5,
+          "printed_page": "iv"
+        }
+      ]
+    },
+    {
+      "id": "front-b008",
+      "type": "paragraph",
+      "page": "v",
+      "en": [
+        "for those we have loved and lost who promise life after life who leave us world after world"
+      ],
+      "zh": [
+        "献给那些我们曾爱过又失去的人",
+        {
+          "type": "break"
+        },
+        "他们应许此生之后还有此生",
+        {
+          "type": "break"
+        },
+        "他们离去，留下一个又一个世界"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 6,
+          "printed_page": "v"
+        }
+      ]
+    },
+    {
+      "id": "front-b009",
+      "type": "heading",
+      "page": "vii",
+      "en": [
+        "CONTENTS"
+      ],
+      "zh": [
+        "目录"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 8,
+          "printed_page": "vii"
+        }
+      ]
+    },
+    {
+      "id": "front-b010",
+      "type": "paragraph",
+      "page": "vii",
+      "en": [
+        "note on the digital companion ix illustrations xi acknowledgments xv prologue Worldly Fables 1 introduction Chinese Contemporary Art 7 in the Expanded Field Part I Art Worldings one Xianfeng Beijing 43 two Showcase Beijing 79 Part II Zones of Encounter three The Besieged City 111 four The Hinterlands of Feminist Art 135 Part III Feminist Sight Lines five Red Detachment 179 six Opening the Great Wall 206 seven Camouflaged Histories 236 epilogue Recursive Worldly Fables 265 notes 275 bibliography 305 index 323"
+      ],
+      "zh": [
+        "关于数字配套网站的说明　ix",
+        {
+          "type": "break"
+        },
+        "插图目录　xi",
+        {
+          "type": "break"
+        },
+        "致谢　xv",
+        {
+          "type": "break"
+        },
+        "序言　世俗寓言　1",
+        {
+          "type": "break"
+        },
+        "导论　扩展场域中的中国当代艺术　7",
+        {
+          "type": "break"
+        },
+        {
+          "type": "em",
+          "children": [
+            ""
+          ]
+        },
+        {
+          "type": "em",
+          "children": [
+            "第一部分　艺术世界营造　41"
+          ]
+        },
+        {
+          "type": "em",
+          "children": [
+            ""
+          ]
+        },
+        {
+          "type": "break"
+        },
+        "第一章　先锋北京　43",
+        {
+          "type": "break"
+        },
+        "第二章　展示北京　79",
+        {
+          "type": "break"
+        },
+        {
+          "type": "em",
+          "children": [
+            ""
+          ]
+        },
+        {
+          "type": "em",
+          "children": [
+            "第二部分　相遇地带　109"
+          ]
+        },
+        {
+          "type": "em",
+          "children": [
+            ""
+          ]
+        },
+        {
+          "type": "break"
+        },
+        "第三章　围城　111",
+        {
+          "type": "break"
+        },
+        "第四章　女性主义艺术的腹地　135",
+        {
+          "type": "break"
+        },
+        {
+          "type": "em",
+          "children": [
+            ""
+          ]
+        },
+        {
+          "type": "em",
+          "children": [
+            "第三部分　女性主义视线　177"
+          ]
+        },
+        {
+          "type": "em",
+          "children": [
+            ""
+          ]
+        },
+        {
+          "type": "break"
+        },
+        "第五章　红色娘子军　179",
+        {
+          "type": "break"
+        },
+        "第六章　打开长城　206",
+        {
+          "type": "break"
+        },
+        "第七章　被伪装的历史　236",
+        {
+          "type": "break"
+        },
+        "尾声　递归的世俗寓言　265",
+        {
+          "type": "break"
+        },
+        "原注　275",
+        {
+          "type": "break"
+        },
+        "参考文献　305",
+        {
+          "type": "break"
+        },
+        "索引　323"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 8,
+          "printed_page": "vii"
+        }
+      ]
+    },
+    {
+      "id": "front-b011",
+      "type": "heading",
+      "page": "ix",
+      "en": [
+        "NOTE ON THE DIGITAL COMPANION"
+      ],
+      "zh": [
+        "关于数字配套网站的说明"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 10,
+          "printed_page": "ix"
+        }
+      ]
+    },
+    {
+      "id": "front-b012",
+      "type": "paragraph",
+      "page": "ix",
+      "en": [
+        "A website created in conjunction with ",
+        {
+          "type": "em",
+          "children": [
+            "Experimental Beijing"
+          ]
+        },
+        " features expanded multimedia materials, including chapter image galleries, documentary videos, curated exhibits, interactive maps, and an archive of artists and images searchable in Chinese and English. Designed to complement and visually deepen the experience of reading the book, the digital platform also provides readers with a nonlinear way to explore the image worlds discussed within. It highlights relationships among images, in which the form and meaning of one is shaped by others, as database searches and curated exhibits open new sight lines and modes of inquiry."
+      ],
+      "zh": [
+        "与《实验北京》配套创建的网站收录了扩展的多媒体材料，包括各章图像画廊、纪录影片、策划展览、互动地图，以及可中英文检索的艺术家与图像档案。该数字平台旨在补充并直观深化本书的阅读体验，同时为读者提供一种非线性的方式来探索书中讨论的图像世界。它突显图像之间的关系——其中一幅图像的形式与意义由其他图像塑造——数据库检索与策划展览由此打开新的视线与探究方式。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 10,
+          "printed_page": "ix"
+        }
+      ]
+    },
+    {
+      "id": "front-b013",
+      "type": "paragraph",
+      "page": "ix",
+      "en": [
+        "To access the website, go to: experimentalbeijing.com"
+      ],
+      "zh": [
+        "访问网站请前往：experimentalbeijing.com"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 10,
+          "printed_page": "ix"
+        }
+      ]
+    },
+    {
+      "id": "front-b014",
+      "type": "heading",
+      "page": "xi",
+      "en": [
+        "ILLUSTRATIONS"
+      ],
+      "zh": [
+        "插图目录"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b015",
+      "type": "subheading",
+      "page": "xi",
+      "en": [
+        "Figures"
+      ],
+      "zh": [
+        "图"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b016",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "intro.01 Yin Xiuzhen, ",
+        {
+          "type": "em",
+          "children": [
+            "Portable Cities–Beijing"
+          ]
+        }
+      ],
+      "zh": [
+        "导论图01　尹秀珍，《便携城市——北京》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b017",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "intro.02 Yin Xiuzhen, ",
+        {
+          "type": "em",
+          "children": [
+            "Portable Cities"
+          ]
+        },
+        ", installation view"
+      ],
+      "zh": [
+        "导论图02　尹秀珍，《便携城市》，装置现场"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b018",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "intro.03 Hong Hao, ",
+        {
+          "type": "em",
+          "children": [
+            "Selected Scriptures–New Political World"
+          ]
+        }
+      ],
+      "zh": [
+        "导论图03　洪浩，《选集——新政治世界》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b019",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "intro.04 Carved lacquer throne"
+      ],
+      "zh": [
+        "导论图04　雕漆宝座"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b020",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "intro.05 “Canton: Chinese Small Feet Beauty”"
+      ],
+      "zh": [
+        "导论图05　《广州：中国小脚美人》（明信片）"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b021",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "intro.06 “Chine: Chinoise à petit pied; Mendiant Chinois”"
+      ],
+      "zh": [
+        "导论图06　《中国：小脚中国女人；中国乞丐》（明信片）"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b022",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "intro.07 Jin Shangyi and Wu Biduan, ",
+        {
+          "type": "em",
+          "children": [
+            "Mao Zedong with the People of Asia, Africa, and Latin America"
+          ]
+        }
+      ],
+      "zh": [
+        "导论图07　靳尚谊、吴必端，《毛泽东与亚非拉人民》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b023",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "intro.08 Pan Jiajun, ",
+        {
+          "type": "em",
+          "children": [
+            "I Am a “Seagull"
+          ]
+        },
+        "”"
+      ],
+      "zh": [
+        "导论图08　潘嘉俊，《我是“海鸥”》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b024",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "intro.09 Wang Qingsong, ",
+        {
+          "type": "em",
+          "children": [
+            "Forum"
+          ]
+        }
+      ],
+      "zh": [
+        "导论图09　王庆松，《论坛》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b025",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "intro.10 Cao Fei, ",
+        {
+          "type": "em",
+          "children": [
+            "Rabid Dogs–Hungry Dog"
+          ]
+        }
+      ],
+      "zh": [
+        "导论图10　曹斐，《疯狗——饿狗》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b026",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "intro.11 Huang Yin, ",
+        {
+          "type": "em",
+          "children": [
+            "Imitation Louis Vuitton Advertisement Series–Myth"
+          ]
+        }
+      ],
+      "zh": [
+        "导论图11　黄引，《仿路易威登广告系列——神话》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b027",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "fig 1.01 Gao Brothers, eds., ",
+        {
+          "type": "em",
+          "children": [
+            "The Condition of Chinese Avant-Garde Art"
+          ]
+        }
+      ],
+      "zh": [
+        "图1.01　高氏兄弟编，《中国前卫艺术状况》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b028",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "fig 1.02 Shi Xinning, “",
+        {
+          "type": "em",
+          "children": [
+            "Duchamp Retrospective Exhibition” in China"
+          ]
+        }
+      ],
+      "zh": [
+        "图1.02　石心宁，《“杜尚回顾展”在中国》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b029",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "fig 1.03 Xu Xiaobing, ",
+        {
+          "type": "em",
+          "children": [
+            "Mao Zedong and Wang Renzhong Visit 1958 Exhibition"
+          ]
+        }
+      ],
+      "zh": [
+        "图1.03　徐肖冰，《毛泽东、王任重参观1958年沼气利用展览》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b030",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "fig 1.04 Xiao Lu, ",
+        {
+          "type": "em",
+          "children": [
+            "Fifteen Shots"
+          ]
+        }
+      ],
+      "zh": [
+        "图1.04　肖鲁，《十五枪》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b031",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "fig 1.05 Drawing lecture in the Central Academy of Fine Art"
+      ],
+      "zh": [
+        "图1.05　中央美术学院油画系素描课"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b032",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "fig 1.06 Dongfeng Citroën Picasso car advertisement"
+      ],
+      "zh": [
+        "图1.06　东风雪铁龙“毕加索”汽车广告"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b033",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "fig 1.07 Painting by one of Teacher Zhao’s students"
+      ],
+      "zh": [
+        "图1.07　赵老师一位学生的绘画"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b034",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "fig 1.08 Zhang Dali, ",
+        {
+          "type": "em",
+          "children": [
+            "100 Chinese"
+          ]
+        }
+      ],
+      "zh": [
+        "图1.08　张大力，《一百个中国人》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b035",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "fig 2.01 Visitors at the Beijing Urban Planning Museum"
+      ],
+      "zh": [
+        "图2.01　北京城市规划展览馆的参观者"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b036",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "fig 2.02 Beautiful Garden real estate advertisement"
+      ],
+      "zh": [
+        "图2.02　“美丽园”房地产广告"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b037",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "fig 2.03 Ocean Paradise sales offices and East Modern Art Center"
+      ],
+      "zh": [
+        "图2.03　远洋天地售楼处与远洋艺术中心"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b038",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "fig 2.04 ",
+        {
+          "type": "em",
+          "children": [
+            "Dancing with Mingong"
+          ]
+        },
+        " rehearsal"
+      ],
+      "zh": [
+        "图2.04　《与民工共舞》排练"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b039",
+      "type": "paragraph",
+      "page": "xi",
+      "en": [
+        "fig 2.05 Wang Nengtao, ",
+        {
+          "type": "em",
+          "children": [
+            "Dream World Music"
+          ]
+        }
+      ],
+      "zh": [
+        "图2.05　王能涛，《梦幻世界音乐》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 12,
+          "printed_page": "xi"
+        }
+      ]
+    },
+    {
+      "id": "front-b040",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 2.06 Yu Hong, ",
+        {
+          "type": "em",
+          "children": [
+            "1996, Thirty Years Old"
+          ]
+        }
+      ],
+      "zh": [
+        "图2.06　喻红，《1996，三十岁》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b041",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 2.07 ",
+        {
+          "type": "em",
+          "children": [
+            "Baohu"
+          ]
+        },
+        " (protect) graffitied over ",
+        {
+          "type": "em",
+          "children": [
+            "chai"
+          ]
+        },
+        " (demolish) designation, outside cctv site"
+      ],
+      "zh": [
+        "图2.07　央视工地外“拆”字上涂写的“保”字"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b042",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 3.01 Wang Yin, ",
+        {
+          "type": "em",
+          "children": [
+            "Flower"
+          ]
+        }
+      ],
+      "zh": [
+        "图3.01　王音，《花》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b043",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 3.02 Conflicting inter/national discourses of culture"
+      ],
+      "zh": [
+        "图3.02　相互冲突的国际/国内文化话语"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b044",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 4.01 Artists at the Lugu Lake site of ",
+        {
+          "type": "em",
+          "children": [
+            "The Long March"
+          ]
+        }
+      ],
+      "zh": [
+        "图4.01　《长征》泸沽湖站现场艺术家"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b045",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 4.02 Lei Yan, ",
+        {
+          "type": "em",
+          "children": [
+            "Long March Battlefront Report, Issue #1"
+          ]
+        }
+      ],
+      "zh": [
+        "图4.02　雷燕，《长征前线报道》第1期"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b046",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 4.03 Artists Bai Chongmin and Wu Weihe in conversation with Judy Chicago at Lugu Lake"
+      ],
+      "zh": [
+        "图4.03　艺术家Bai Chongmin、Wu Weihe在泸沽湖与朱迪·芝加哥交谈"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b047",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 4.04 Lei Yan, ",
+        {
+          "type": "em",
+          "children": [
+            "What If the Long March Had Been a Women’s Rights Movement"
+          ]
+        },
+        "?"
+      ],
+      "zh": [
+        "图4.04　雷燕，《如果长征是一场女权运动？》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b048",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 4.05 Lei Yan, ",
+        {
+          "type": "em",
+          "children": [
+            "What If They Had Been Women"
+          ]
+        },
+        "?"
+      ],
+      "zh": [
+        "图4.05　雷燕，《如果他们是女人？》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b049",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 4.06 Song Yanping, ",
+        {
+          "type": "em",
+          "children": [
+            "Fire Extinguisher"
+          ]
+        }
+      ],
+      "zh": [
+        "图4.06　Song Yanping（宋雁萍），《灭火器》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b050",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 4.07 Pan Yuliang, ",
+        {
+          "type": "em",
+          "children": [
+            "Nude in Front of Window"
+          ]
+        }
+      ],
+      "zh": [
+        "图4.07　潘玉良，《窗前裸女》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b051",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 4.08 Shan Lianxiao, ",
+        {
+          "type": "em",
+          "children": [
+            "To Be an Upright Person, Be This Kind of Person"
+          ]
+        }
+      ],
+      "zh": [
+        "图4.08　Shan Lianxiao，《做人要做这样的人》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b052",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 4.09 Liu Hong, ",
+        {
+          "type": "em",
+          "children": [
+            "Soliloquy, No. 10"
+          ]
+        }
+      ],
+      "zh": [
+        "图4.09　刘虹，《独白》第10号"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b053",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 5.01 Li Tianpian, ",
+        {
+          "type": "em",
+          "children": [
+            "Classic Beauty"
+          ]
+        }
+      ],
+      "zh": [
+        "图5.01　Li Tianpian（李天翩），《古典美》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b054",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 5.02 ",
+        {
+          "type": "em",
+          "children": [
+            "The Red Detachment of Women"
+          ]
+        },
+        ", title sequence art"
+      ],
+      "zh": [
+        "图5.02　《红色娘子军》片头美术"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b055",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 5.03 ",
+        {
+          "type": "em",
+          "children": [
+            "The Red Detachment of Women"
+          ]
+        },
+        ", Qionghua exposes her wounds"
+      ],
+      "zh": [
+        "图5.03　《红色娘子军》，琼花展示伤痕"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b056",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 5.04 China Ballet Troupe, ",
+        {
+          "type": "em",
+          "children": [
+            "Red Detachment of Women"
+          ]
+        }
+      ],
+      "zh": [
+        "图5.04　中国芭蕾舞团，《红色娘子军》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b057",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 5.05 China Ballet Troupe, ",
+        {
+          "type": "em",
+          "children": [
+            "Red Detachment of Women"
+          ]
+        },
+        "; Li Tianpian ",
+        {
+          "type": "em",
+          "children": [
+            "Red Souvenir"
+          ]
+        },
+        " (detail)"
+      ],
+      "zh": [
+        "图5.05　中国芭蕾舞团，《红色娘子军》；李天翩，《红色纪念品》（局部）"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b058",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 6.01 Yin Guangzhong, ",
+        {
+          "type": "em",
+          "children": [
+            "Great Wall"
+          ]
+        }
+      ],
+      "zh": [
+        "图6.01　Yin Guangzhong（尹光中），《长城》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b059",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 6.02 He Chengyao, ",
+        {
+          "type": "em",
+          "children": [
+            "High Noon–Prayer"
+          ]
+        }
+      ],
+      "zh": [
+        "图6.02　何成瑶，《正午——祈祷》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b060",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 6.03 He Chengyao, ",
+        {
+          "type": "em",
+          "children": [
+            "Hair"
+          ]
+        }
+      ],
+      "zh": [
+        "图6.03　何成瑶，《头发》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b061",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 6.04 He Chengyao, ",
+        {
+          "type": "em",
+          "children": [
+            "Mama and Me"
+          ]
+        }
+      ],
+      "zh": [
+        "图6.04　何成瑶，《妈妈和我》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b062",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 6.05 He Chengyao, ",
+        {
+          "type": "em",
+          "children": [
+            "Testimony"
+          ]
+        }
+      ],
+      "zh": [
+        "图6.05　何成瑶，《证词》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b063",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 6.06 He Chengyao, ",
+        {
+          "type": "em",
+          "children": [
+            "Great Wall–Magnolia–Mama and Me"
+          ]
+        }
+      ],
+      "zh": [
+        "图6.06　何成瑶，《长城——玉兰——妈妈和我》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b064",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 6.07 He Chengyao, ",
+        {
+          "type": "em",
+          "children": [
+            "With Respect to Marcel Duchamp"
+          ]
+        }
+      ],
+      "zh": [
+        "图6.07　何成瑶，《向马塞尔·杜尚致敬》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b065",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 6.08 He Chengyao, ",
+        {
+          "type": "em",
+          "children": [
+            "With Marcel Duchamp as My Opponent"
+          ]
+        }
+      ],
+      "zh": [
+        "图6.08　何成瑶，《以马塞尔·杜尚为对手》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b066",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 6.09 He Chengyao, ",
+        {
+          "type": "em",
+          "children": [
+            "A Salute to Mama (With Respect to Joseph Beuys"
+          ]
+        },
+        ")"
+      ],
+      "zh": [
+        "图6.09　何成瑶，《向妈妈致敬（致敬约瑟夫·博伊斯）》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b067",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 6.10 He Chengyao, ",
+        {
+          "type": "em",
+          "children": [
+            "Illusion"
+          ]
+        }
+      ],
+      "zh": [
+        "图6.10　何成瑶，《幻象》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b068",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 7.01 ",
+        {
+          "type": "em",
+          "children": [
+            "The Women’s Eastern Times"
+          ]
+        },
+        ", cover illustration"
+      ],
+      "zh": [
+        "图7.01　《妇女时报》封面插图"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b069",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 7.02 Lei Yan and Tang Zhigang, ",
+        {
+          "type": "em",
+          "children": [
+            "Group Photo of an Era"
+          ]
+        }
+      ],
+      "zh": [
+        "图7.02　雷燕、唐志冈，《一个时代的合影》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b070",
+      "type": "paragraph",
+      "page": "xii",
+      "en": [
+        "fig 7.03 Lei Yan, ",
+        {
+          "type": "em",
+          "children": [
+            "What If Our Factory Were Still Here"
+          ]
+        },
+        "?"
+      ],
+      "zh": [
+        "图7.03　雷燕，《如果我们的工厂还在？》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 13,
+          "printed_page": "xii"
+        }
+      ]
+    },
+    {
+      "id": "front-b071",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "fig 7.04 Lei Yan, ",
+        {
+          "type": "em",
+          "children": [
+            "Bullet Shot through a Young Heart"
+          ]
+        }
+      ],
+      "zh": [
+        "图7.04　雷燕，《子弹穿过年轻的心》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b072",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "fig 7.05 Lei Yan, ",
+        {
+          "type": "em",
+          "children": [
+            "Frozen Youth, No. 26"
+          ]
+        }
+      ],
+      "zh": [
+        "图7.05　雷燕，《冰封的青春》第26号"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b073",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "fig 7.06 Lei Yan, ",
+        {
+          "type": "em",
+          "children": [
+            "Camouflage Production"
+          ]
+        }
+      ],
+      "zh": [
+        "图7.06　雷燕，《迷彩生产》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b074",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "fig 7.07 Lei Yan, ",
+        {
+          "type": "em",
+          "children": [
+            "A Place Where Dream Starts, No. 6"
+          ]
+        }
+      ],
+      "zh": [
+        "图7.07　雷燕，《梦开始的地方》第6号"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b075",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "fig 7.08 Lei Yan, ",
+        {
+          "type": "em",
+          "children": [
+            "How Do I Protect You"
+          ]
+        },
+        "?"
+      ],
+      "zh": [
+        "图7.08　雷燕，《我如何保护你？》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b076",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "fig 7.09 Lei Yan, ",
+        {
+          "type": "em",
+          "children": [
+            "How Do I Protect You"
+          ]
+        },
+        "? (detail)"
+      ],
+      "zh": [
+        "图7.09　雷燕，《我如何保护你？》（局部）"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b077",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "fig 7.10 Lei Yan, ",
+        {
+          "type": "em",
+          "children": [
+            "Relic, No. 20"
+          ]
+        }
+      ],
+      "zh": [
+        "图7.10　雷燕，《圣物》第20号"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b078",
+      "type": "subheading",
+      "page": "xiii",
+      "en": [
+        "Maps"
+      ],
+      "zh": [
+        "地图"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b079",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "map fm.o1 Map of China."
+      ],
+      "zh": [
+        "地图fm.01　中国地图"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b080",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "map 1.01 Map of Beijing (western half)."
+      ],
+      "zh": [
+        "地图1.01　北京地图（西半部）"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b081",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "map 1.02 Map of Beijing (eastern half)."
+      ],
+      "zh": [
+        "地图1.02　北京地图（东半部）"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b082",
+      "type": "subheading",
+      "page": "xiii",
+      "en": [
+        "Plates"
+      ],
+      "zh": [
+        "图版"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b083",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 1 Wang Nengtao, ",
+        {
+          "type": "em",
+          "children": [
+            "Subversion–Earth"
+          ]
+        }
+      ],
+      "zh": [
+        "图版1　王能涛，《颠覆——土地》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b084",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 2 Chen Lingyang, ",
+        {
+          "type": "em",
+          "children": [
+            "25:00, No. 2"
+          ]
+        }
+      ],
+      "zh": [
+        "图版2　陈羚羊，《25:00》第2号"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b085",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 3 Wang Qingsong, ",
+        {
+          "type": "em",
+          "children": [
+            "Take Hold of the Brush, Struggle to the End"
+          ]
+        }
+      ],
+      "zh": [
+        "图版3　王庆松，《拿起笔，战斗到底》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b086",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 4 Xiao Zhenya and Liu Enbin, ",
+        {
+          "type": "em",
+          "children": [
+            "Take Hold of the Brush, Struggle to the End"
+          ]
+        }
+      ],
+      "zh": [
+        "图版4　Xiao Zhenya、Liu Enbin，《拿起笔，战斗到底》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b087",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 5 Steven Holl, Linked Hybrid design for Grand moma, Beijing"
+      ],
+      "zh": [
+        "图版5　斯蒂文·霍尔，北京当代MOMA“连接复合体”设计"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b088",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 6 Xing Danwen, ",
+        {
+          "type": "em",
+          "children": [
+            "Urban Fiction"
+          ]
+        },
+        " (image 0)"
+      ],
+      "zh": [
+        "图版6　邢丹文，《都市演义》（图像0）"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b089",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 7 Xing Danwen, ",
+        {
+          "type": "em",
+          "children": [
+            "Urban Fiction"
+          ]
+        },
+        " (image 0—detail)"
+      ],
+      "zh": [
+        "图版7　邢丹文，《都市演义》（图像0，局部）"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b090",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 8 Wang Yin, ",
+        {
+          "type": "em",
+          "children": [
+            "Sandstorm"
+          ]
+        }
+      ],
+      "zh": [
+        "图版8　王音，《沙尘暴》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b091",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 9 Yan Lei, ",
+        {
+          "type": "em",
+          "children": [
+            "Are You Among Those Invited to the German Exhibition"
+          ]
+        },
+        "?"
+      ],
+      "zh": [
+        "图版9　颜磊，《你在被邀请参加德国展览的人当中吗？》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b092",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 10 Li Shurui, ",
+        {
+          "type": "em",
+          "children": [
+            "Seeing Mountains, Seeing Water"
+          ]
+        }
+      ],
+      "zh": [
+        "图版10　李姝睿，《看山看水》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b093",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 11 Su Ruya, ",
+        {
+          "type": "em",
+          "children": [
+            "Goddess Mountain–Eternal Woman"
+          ]
+        }
+      ],
+      "zh": [
+        "图版11　Su Ruya（苏茹娅），《女神山——永恒的女人》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b094",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 12 Zhang Lun, ",
+        {
+          "type": "em",
+          "children": [
+            "Lugu Lake–Happy Existence, No. 1"
+          ]
+        }
+      ],
+      "zh": [
+        "图版12　Zhang Lun（张伦），《泸沽湖——快乐的存在》第1号"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b095",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 13 Zhang Lun, ",
+        {
+          "type": "em",
+          "children": [
+            "Lugu Lake–Happy Existence, No. 13"
+          ]
+        }
+      ],
+      "zh": [
+        "图版13　Zhang Lun（张伦），《泸沽湖——快乐的存在》第13号"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b096",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 14 Li Tianpian, ",
+        {
+          "type": "em",
+          "children": [
+            "Red Souvenir"
+          ]
+        }
+      ],
+      "zh": [
+        "图版14　李天翩，《红色纪念品》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b097",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 15 He Chengyao, ",
+        {
+          "type": "em",
+          "children": [
+            "Opening the Great Wall"
+          ]
+        }
+      ],
+      "zh": [
+        "图版15　何成瑶，《开放长城》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b098",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 16 He Chengyao, ",
+        {
+          "type": "em",
+          "children": [
+            "99 Needles"
+          ]
+        }
+      ],
+      "zh": [
+        "图版16　何成瑶，《九十九根针》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b099",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 17 Lei Yan, ",
+        {
+          "type": "em",
+          "children": [
+            "Southern Border Dream"
+          ]
+        }
+      ],
+      "zh": [
+        "图版17　雷燕，《南疆之梦》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b100",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 18 Lei Yan, ",
+        {
+          "type": "em",
+          "children": [
+            "Unnamed Tomb"
+          ]
+        }
+      ],
+      "zh": [
+        "图版18　雷燕，《无名之墓》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b101",
+      "type": "paragraph",
+      "page": "xiii",
+      "en": [
+        "plate 19 Cao Fei, ",
+        {
+          "type": "em",
+          "children": [
+            "Live in rmb City"
+          ]
+        }
+      ],
+      "zh": [
+        "图版19　曹斐，《生活在人民城寨》"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 14,
+          "printed_page": "xiii"
+        }
+      ]
+    },
+    {
+      "id": "front-b102",
+      "type": "heading",
+      "page": "xv",
+      "en": [
+        "ACKNOWLEDGMENTS"
+      ],
+      "zh": [
+        "致谢"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 16,
+          "printed_page": "xv"
+        }
+      ]
+    },
+    {
+      "id": "front-b103",
+      "type": "paragraph",
+      "page": "xv",
+      "en": [
+        "Throughout the many years it has taken me to research and write this book, the list of people to whom I am indebted has grown in ways I could never have imagined at the outset. The traces of their intellect, imagination, generosity, and care weave through every aspect of what appears in these pages. I am humbled by the collective effort that has sustained this endeavor and more aware than ever that knowledge and creativity are never singular pursuits. I, alone, remain responsible for any errors."
+      ],
+      "zh": [
+        "在这项研究和写作延续的许多年里，我受惠于的人名单以我当初无法想象的方式不断增长。他们的才智、想象、慷慨与关怀的痕迹，编织在本书每一页的方方面面。支撑这一事业的集体努力令我谦卑，我也比以往任何时候都更清楚地意识到，知识与创造从来不是单数的追求。书中任何错误由我一人负责。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 16,
+          "printed_page": "xv"
+        }
+      ]
+    },
+    {
+      "id": "front-b104",
+      "type": "paragraph",
+      "page": "xv",
+      "en": [
+        "First and foremost, I thank all of the art world participants—artists, assistants, teachers, students, curators, critics, and gallerists—who shared their lives and work with me, including those whose names and images appear in this book, as well as many others. I appreciate their generosity in time and spirit, often offered before they could know I might be deserving of their trust. Those who responded with criticism and circumspection deepened my thinking and ethical commitments. Beyond those named within the text, I extend thanks to the following individuals. Song Changqing first opened my eyes. Chen Xi, Cui Xiuwen, Daozi, Feng Jiali, Lei Shuang, Tao Yongbai, and Yuan Yaomin guided my early inquiry. Zhang Zhaohui collaborated on interviews and invited me to review exhibits. Zheng Lianjie, Wei Shanghe, and Zha Ba included me as interlocutor in many memorable activities."
+      ],
+      "zh": [
+        "首先，我要感谢所有与我分享生活与工作的艺术界参与者——艺术家、助手、教师、学生、策展人、批评家和画廊经营者——包括在本书中出现姓名和形象的人，以及许多其他人。我感激他们在时间和精神上的慷慨，他们往往在尚无法判断我是否值得信任时就已慷慨相助。那些以批评和审慎回应我的人，加深了我的思考与伦理承诺。除正文中已提及的人之外，我还要感谢以下诸位。Song Changqing 最先为我打开眼界。陈曦、崔岫闻、岛子、Feng Jiali、Lei Shuang、陶咏白和 Yuan Yaomin 引导了我最初的探究。张朝晖与我合作访谈，并邀请我撰写展览评论。Zheng Lianjie、Wei Shanghe 和 Zha Ba 在许多难忘的活动中把我当作对话者。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 16,
+          "printed_page": "xv"
+        }
+      ]
+    },
+    {
+      "id": "front-b105",
+      "type": "paragraph",
+      "page": "xv, xvi",
+      "en": [
+        "During and since my graduate studies at the University of California, Santa Cruz, Lisa Rofel has mentored me with unfailing dedication, tough love, and profound intellectual vision. I can’t thank her enough. I am grateful to all those in the Anthropology, Feminist Studies, History, History of Consciousness, and History of Art and Visual Culture departments who supported my research, especially Gail Hershatter, Anna Tsing, Emily Honig, Donald Brenneis, Nancy Chen, Catherine Soussloff, and Jennifer González. Britta Erickson provided connections that launched my initial fieldwork. Fellow travelers in graduate school and research—Mae Lee, Cynthia Gabriel, Leah Mundell, Shiho Satsuka, Wenqing Kang, Hilde Becker, Alex Day, Hiroyuki Matsubara, Angelina Chin, Xiaoping Sun, Thomas Chang, Ju-chen Chen, Jennifer Choo, Ingrid Dudek, Friederike Fleischer, Mary Ann O’Donnell, and Terry Woronov—provided camaraderie and inspiration. At the Chinese Academy of Social Sciences, Professors Luo Hongguang, Tan Shen, Wang Gan, and Weng Naiqun gave insight and encouragement. Zhao Kebin and Pan Jie helped with administrative details that made research possible. At the Central Minorities University, Professor Zhuang Kongshao and Fu Xiaoxing contributed to my appreciation of ethnography as a border-crossing methodology. My family in China—Ying and Colin Chinnery, Liang Wei, and Chen Yonghua—and the deep friendship and warmth of Li Ningning and her family created home away from home."
+      ],
+      "zh": [
+        "在加州大学圣克鲁兹分校攻读研究生期间及之后，Lisa Rofel 以始终不渝的投入、严厉的爱和深邃的思想视野指导我。我对她的感谢无以言表。我感谢人类学、女性主义研究、历史学、意识史以及艺术史与视觉文化系所有支持我研究的人，尤其是 Gail Hershatter、Anna Tsing、Emily Honig、Donald Brenneis、Nancy Chen、Catherine Soussloff 和 Jennifer González。Britta Erickson 提供了启动我最初田野工作的那些人脉。研究生和研究生涯中的同行——Mae Lee、Cynthia Gabriel、Leah Mundell、Shiho Satsuka、Wenqing Kang、Hilde Becker、Alex Day、Hiroyuki Matsubara、Angelina Chin、Xiaoping Sun、Thomas Chang、Ju-chen Chen、Jennifer Choo、Ingrid Dudek、Friederike Fleischer、Mary Ann O'Donnell 和 Terry Woronov——给了我情谊与灵感。在中国社会科学院，Luo Hongguang 教授、Tan Shen 教授、Wang Gan 教授和 Weng Naiqun 教授给了我洞见与鼓励。Zhao Kebin 和 Pan Jie 帮助处理行政细节，使研究得以进行。在中央民族大学，Zhuang Kongshao 教授和 Fu Xiaoxing 帮助我理解民族志作为一种跨越边界的方法论。我在中国的家人——Ying 和 Colin Chinnery、Liang Wei 以及 Chen Yonghua——还有 Li Ningning 及其家人的深厚友谊与温暖，为我营造了异乡的家。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 16,
+          "printed_page": "xv"
+        },
+        {
+          "pdf_page": 17,
+          "printed_page": "xvi"
+        }
+      ]
+    },
+    {
+      "id": "front-b106",
+      "type": "paragraph",
+      "page": "xvi, xvii",
+      "en": [
+        "At the University of Washington, I received support from many colleagues. Sareeta Amrute, Rachel Chapman, and Danny Hoffman in Anthropology read chapters. Madeleine Yue Dong in China Studies provided opportunities early on to make connections between UW and the Seattle Art Museum. Juliet McMains and Christina Sunardi, ethnographers of dance and music, gave thoughtful counsel. I held a joint appointment in Anthropology and Gender, Women and Sexuality Studies for many years, during which my dean and several chairs—Judith Howard, Priti Ramamurthy, David Allen, Janelle Taylor, Alison Wylie, and Miriam Kahn—helped me navigate and strengthen the interdisciplinary nature of my research and teaching. To the entire faculty and staff of my home department, Gender, Women and Sexuality Studies, I extend gratitude for their wisdom and daily sustenance in feminist thought and movement: Michelle Habell-Pallán, Angela Ginorio, Nancy Kenny, Regina Yung Lee, Priti Ramamurthy, Chandan Reddy, Luana Ross, Amanda Lock Swarr, Shirley Yee, Catherine Richardson, Young Kim, as well as Tani Barlow, Carol Langdon, and Elaine Haig-Widner. I have worked with and learned from remarkable graduate advisees—Darren Byler, alma khasawnih, Nicole Robert, Hope St. John, Yiyu Tian, and Shuxuan Zhou. alma, Nicole, Hope, Yiyu, and Shuxuan, as well as Zhihua Li and Can Zhao, provided research assistance. Many other students, staff, and faculty at UW contributed to the digital companion to this book; I acknowledge them on the credits page of the website. At every stage, the Simpson Center for the Humanities provided exceptional scholarly support under the visionary leadership of Kathleen Woodward. Assistance from Simpson Center staff, especially Miriam Bartha, proved vital to this project and others that informed it, including the Visual Praxis Collective coordinated with Danny Hoffman; New Geographies of Feminist Art: China, Asia, and the World, an international conference co-organized with Sonal Khullar, with joint funding from an American Council of Learned Societies Comparative Perspectives on Chinese Culture and Society Grant; and Ethnographic Aesthetics: Word, Image, Sound, a speaker series and microseminar. All of the New Geographies participants, especially Sonal and our keynote speaker Shu-mei Shih, impacted the final version of this book. Renato Rosaldo, who first opened the door to anthropology for me as an undergraduate, opened Ethnographic Aesthetics with poetry and conversation that renewed my passion and hope for ethnography. Last but by no means least, the smart, brave, and fierce sisters of Women Investigating Race, Ethnicity, and Difference (wired) have kept me moving forward in all possible ways."
+      ],
+      "zh": [
+        "在华盛顿大学，我得到了许多同事的支持。人类学系的 Sareeta Amrute、Rachel Chapman 和 Danny Hoffman 阅读了部分章节。中国研究项目的 Madeleine Yue Dong 在早期为我提供了把华盛顿大学与西雅图艺术博物馆联系起来的各种机会。舞蹈与音乐民族志学者 Juliet McMains 和 Christina Sunardi 给了我有益的建议。我多年来在人类学系与性别、女性及性研究系担任联合聘任，在此期间，我的院长和几位系主任——Judith Howard、Priti Ramamurthy、David Allen、Janelle Taylor、Alison Wylie 和 Miriam Kahn——帮助我把握并加强我的研究与教学的跨学科性质。我感谢我所在系全体教师和员工在女性主义思想与运动方面给予的智慧与日常滋养：Michelle Habell-Pallán、Angela Ginorio、Nancy Kenny、Regina Yung Lee、Priti Ramamurthy、Chandan Reddy、Luana Ross、Amanda Lock Swarr、Shirley Yee、Catherine Richardson、Young Kim，以及 Tani Barlow、Carol Langdon 和 Elaine Haig-Widner。我曾与一些出色的研究生合作并从中学习——Darren Byler、alma khasawnih、Nicole Robert、Hope St. John、Yiyu Tian 和 Shuxuan Zhou。alma、Nicole、Hope、Yiyu 和 Shuxuan，以及 Zhihua Li 和 Can Zhao，提供了研究协助。华盛顿大学的许多其他学生、员工和教师为本书的数字配套网站作出了贡献；我在网站鸣谢页上一一致谢。辛普森人文中心在 Kathleen Woodward 富有远见的领导下，在每个阶段都提供了卓越的学术支持。辛普森中心员工，尤其是 Miriam Bartha 的协助，对本项目以及与之相关的其他项目至关重要，包括与 Danny Hoffman 协作的视觉实践集体；“女性主义艺术的新地理：中国、亚洲与世界”，这是与 Sonal Khullar 共同组织的一次国际会议，获得美国学术团体理事会“中国文化与社会比较视角”资助；“民族志美学：文字、图像、声音”，这是一个系列讲座与微型研讨会。所有“新地理”参与者，尤其是 Sonal 和我们的主题演讲人史书美，影响了本书的最终版本。Renato Rosaldo 在我本科时首次为我打开人类学之门，他又以诗歌与交谈为“民族志美学”揭幕，重新点燃了我对民族志的热情与希望。最后但绝非最不重要的，是“调查种族、族裔与差异的女性”（WIRED）那些聪明、勇敢而炽热的姐妹们，她们以一切可能的方式让我不断前行。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 17,
+          "printed_page": "xvi"
+        },
+        {
+          "pdf_page": 18,
+          "printed_page": "xvii"
+        }
+      ]
+    },
+    {
+      "id": "front-b107",
+      "type": "paragraph",
+      "page": "xvii",
+      "en": [
+        "This book grew out of dissertation research supported by grants from the Wenner-Gren Foundation for Anthropological Research, University of California Office of the President Pacific Rim Research Project, and American Association of University Women. At the University of Washington, the Simpson Center Society of Scholars and Royalty Research Fund provided resources, most essentially time, for research and writing. I also gratefully acknowledge the East Asia Center and China Studies Program for research and travel support. Subvention funds from China Studies and the Simpson Center helped increase the number and quality of images in the book."
+      ],
+      "zh": [
+        "本书脱胎于博士论文研究，得到 Wenner-Gren 人类学研究基金会、加州大学校长办公室环太平洋研究项目以及美国大学妇女协会的资助。在华盛顿大学，辛普森中心学者协会和版税研究基金提供了资源，最本质的是研究写作所需的时间。我也感谢东亚中心和中国研究项目提供的研究与差旅支持。中国研究项目和辛普森中心的出版补贴帮助本书增加了图像的数量并提高了质量。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 18,
+          "printed_page": "xvii"
+        }
+      ]
+    },
+    {
+      "id": "front-b108",
+      "type": "paragraph",
+      "page": "xvii",
+      "en": [
+        "Funding from the China and Inner Asia Council of the Association for Asian Studies and the Asian Cultural Council made possible the ",
+        {
+          "type": "em",
+          "children": [
+            "Cruel/Loving Bodies"
+          ]
+        },
+        " exhibit in Shanghai, Beijing, and Hong Kong that evolved out of my fieldwork. The artists and curators involved—He Chengyao, Bai Chongmin and Wu Weihe, Anthony Leung Po Shan, Rosanna Wei Han Li, Zheng Bo, Neil Conroy and Lesley Sanderson, susan pui san lok, Mayling To, Biljana Ciric, Stella Win Yan Fong, and Zoe Ming Wai Shek—taught me an enormous amount about the conceptual and practical challenges of art."
+      ],
+      "zh": [
+        "亚洲研究协会中国与内亚理事会以及亚洲文化协会的资助，使我田野工作中发展出来的“残酷/爱之身体”展览得以在上海、北京和香港举办。参与其中的艺术家和策展人——何成瑶、Bai Chongmin与Wu Weihe、Anthony Leung Po Shan、Rosanna Wei Han Li、Zheng Bo、Neil Conroy 与 Lesley Sanderson、susan pui san lok、Mayling To、Biljana Ciric、Stella Win Yan Fong 和 Zoe Ming Wai Shek——让我在艺术的概念与实践挑战方面学到了极多。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 18,
+          "printed_page": "xvii"
+        }
+      ]
+    },
+    {
+      "id": "front-b109",
+      "type": "paragraph",
+      "page": "xvii, xviii",
+      "en": [
+        "I had the good fortune to present portions of this project at conferences and symposiums where I received invaluable feedback. I offer thanks to the participants and especially the organizers of those events, including the following: Sarah Champion of the Chinese Arts Center, Manchester, and Helen Glaister at the British Museum; Wang Zheng of the University of Michigan and Chen Yan at Fudan University; Eileen Walsh at Skidmore College; Jason Kuo at the University of Maryland; Elena Valussi at Columbia College; Neil Safier at the University of British Columbia; Maud Lavin at the School for the Art Institute of Chicago; Young Rae Oum at the University of Pittsburgh; Shu-chin Tsui at Bowdoin College; and Francesca Del Lago for a truly incomparable event at Leiden University."
+      ],
+      "zh": [
+        "我有幸在会议和研讨会上报告本书的部分内容，并获得宝贵反馈。我感谢这些活动的参与者，尤其是组织者，包括：曼彻斯特华人艺术中心的 Sarah Champion、大英博物馆的 Helen Glaister；密歇根大学的 Wang Zheng 和复旦大学的 Chen Yan；斯基德莫尔学院的 Eileen Walsh；马里兰大学的 Jason Kuo；哥伦比亚学院的 Elena Valussi；不列颠哥伦比亚大学的 Neil Safier；芝加哥艺术学院（School of the Art Institute of Chicago）的 Maud Lavin；匹兹堡大学的 Young Rae Oum；鲍登学院的 Shu-chin Tsui；以及 Francesca Del Lago，她在莱顿大学组织了一场无比精彩的活动。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 18,
+          "printed_page": "xvii"
+        },
+        {
+          "pdf_page": 19,
+          "printed_page": "xviii"
+        }
+      ]
+    },
+    {
+      "id": "front-b110",
+      "type": "paragraph",
+      "page": "xviii",
+      "en": [
+        "Ken Wissoker at Duke University Press has been an important and patient advocate of the book from beginning to end. Elizabeth Ault oversaw the publication process with incredible organization and grace. Several anonymous readers gave perceptive and bracing feedback that strengthened the manuscript. Tim Stallmann designed the wonderful maps. Wendy Call, writing guru par excellence, read almost every word, and without fail tightened my prose and coaxed me off ladders of abstraction back into the realm of lived experience. John Vallier, Matthew Allen, and Zhijia Shen of the University of Washington Libraries assisted with image preparation and permissions. I am extremely grateful to the institutions, artists, and photographers who gave permission to reproduce images essential to the book’s story and argument."
+      ],
+      "zh": [
+        "杜克大学出版社的 Ken Wissoker 自始至终是本书重要而有耐心的支持者。Elizabeth Ault 以惊人的组织能力和优雅主持了出版流程。几位匿名审稿人提供了敏锐而令人振奋的反馈，加强了书稿。Tim Stallmann 设计了精彩的地图。写作导师中的翘楚 Wendy Call 几乎通读了每一个词，毫无例外地收紧了我的文笔，并把我从抽象概念的梯子上哄回到生活经验的领域。华盛顿大学图书馆的 John Vallier、Matthew Allen 和 Zhijia Shen 协助准备图像与办理授权。我非常感谢那些授予我使用本书故事与论证所必需的图像的机构、艺术家和摄影师。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 19,
+          "printed_page": "xviii"
+        }
+      ]
+    },
+    {
+      "id": "front-b111",
+      "type": "paragraph",
+      "page": "xviii",
+      "en": [
+        "Without the kind, creative, and loving care provided to my children by Yanli Lin, Kelly Monthie, Cynthia and Ethan Anderson, and the teachers at the Learning Tree Montessori Preschool, uw Children’s Center at Laurel Village, and New Discovery School, I would not have been able to finish writing this book."
+      ],
+      "zh": [
+        "如果没有 Yanli Lin、Kelly Monthie、Cynthia 与 Ethan Anderson，以及 Learning Tree 蒙台梭利幼儿园、Laurel Village 的 uw Children’s Center 和新发现学校的老师们对我的孩子们给予的亲切、富有创意和充满爱的照料，我不可能写完这本书。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 19,
+          "printed_page": "xviii"
+        }
+      ]
+    },
+    {
+      "id": "front-b112",
+      "type": "paragraph",
+      "page": "xviii",
+      "en": [
+        "Nothing would be possible without a lifetime of love and support from my parents and larger, extended family. James Tweedie has been with me through every twist and turn of this project, serving as a constant source of devotion, compassion, humor, and brilliance. I can’t imagine life without him. Our children Lino and Zola teach us on a daily basis about why we do what we do and how to do it better. They have been infinitely patient with failed attempts to grant me with the superpower to write a book in ten minutes instead of ten years. And they reminded me at the very end that I still needed to thank the world and feminists! May their wisdom guide me through everything yet to come."
+      ],
+      "zh": [
+        "如果没有我的父母和大家庭一生一世的关爱与支持，一切都不可能。James Tweedie 陪我走过这个项目的每一个转折，始终是我忠诚、同情、幽默与才华的源泉。我无法想象没有他的生活。我们的孩子 Lino 和 Zola 每天都在教导我们，为什么我们要做手头的事，以及怎样才能做得更好。他们无比耐心地一次次尝试赋予我一种超能力，让我能用十分钟而非十年来写完一本书，尽管这些尝试都失败了。他们还在最后时刻提醒我，我仍然需要感谢这个世界和女性主义者们！愿他们的智慧指引我面对未来的一切。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 19,
+          "printed_page": "xviii"
+        }
+      ]
+    },
+    {
+      "id": "front-b113",
+      "type": "paragraph",
+      "page": "xviii",
+      "en": [
+        "Finally, I dedicate this book to all those lost, all too soon, along the way: Tianpian, Ningning, Karen, Kara, Robert, Dad. Every day without you I strive to do justice to your memory through the imprint you left on my life and vision of the world."
+      ],
+      "zh": [
+        "最后，我把本书献给所有在途中过早离去的人：Tianpian、Ningning、Karen、Kara、Robert、爸爸。每一天没有你们，我都努力通过你们在我生命和世界观上留下的印记，来公正地对待你们的记忆。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 19,
+          "printed_page": "xviii"
+        }
+      ]
+    },
+    {
+      "id": "front-b114",
+      "type": "figure",
+      "page": "xix",
+      "en": [
+        "MAP FM.01 Map of China. Designed by Tim Stallmann."
+      ],
+      "zh": [
+        "地图fm.01　中国地图。Tim Stallmann 绘制。"
+      ],
+      "sourceRefs": [
+        {
+          "pdf_page": 20,
+          "printed_page": "xix"
+        }
+      ],
+      "src": "translations/books/experimental-beijing/assets/front-b114.png"
+    }
+  ],
+  "notes": {},
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "id": "front"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "01_cover",
+  "title": "原书封面",
+  "body": [
+    {
+      "id": "01_cover-0001",
+      "type": "paragraph",
+      "page": "",
+      "sourceIds": [
+        "01_cover-0001"
+      ],
+      "zh": [
+        {
+          "type": "image",
+          "src": "translations/books/alibi/images/cover.jpg",
+          "alt": "图书封面：书名《资本的托词》位于中央，上方副标题为“我们如何以明天会更好的承诺，毁掉地球，窃取未来”，作者蒂莫西·米切尔的名字位于上方。"
+        }
+      ],
+      "en": [
+        {
+          "type": "image",
+          "src": "translations/books/alibi/images/cover.jpg",
+          "alt": "A book cover shows the title The Alibi of Capital at the centre. The subtitle above reads How We Broke the Earth to Steal the Future on the Promise of a Better Tomorrow. The author’s name, Timothy Mitchell, appears near the top."
+        }
+      ]
+    }
+  ],
+  "notes": {},
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English"
+}

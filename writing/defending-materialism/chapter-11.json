@@ -1,0 +1,4430 @@
+{
+  "id": "chapter-11",
+  "title": "第11章 辩证唯物主义与机械论唯物主义",
+  "originalTitle": "Chapter 11: DIALECTICAL VERSUS MECHANIST MATERIALISMS",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "dm-ch11-001",
+      "type": "heading",
+      "page": "213",
+      "zh": [
+        "第11章 辩证唯物主义与机械论唯物主义"
+      ],
+      "en": [
+        "Chapter 11: DIALECTICAL VERSUS MECHANIST MATERIALISMS"
+      ]
+    },
+    {
+      "id": "dm-ch11-002",
+      "type": "subheading",
+      "page": "213",
+      "zh": [
+        "信息论与唯物主义"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Information theory and materialism"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-003",
+      "type": "paragraph",
+      "page": "213",
+      "zh": [
+        "20世纪中叶以来，信息技术改变了我们与世界的互动方式，信息论也使科学与哲学发生根本转变。这些进展鲜明地表明，认识中最根本的变化，往往可以源于实践要求。19世纪，革新了我们对时间、秩序和生命的理解的热力学，来自蒸汽机工程师的实际需要。我们已经提到，20世纪30年代末，克劳德·香农认识到布尔代数为理解开关电路提供了形式体系。当时，他在美国电报电话公司贝尔工作。他使用布尔代数，是为了使自动电话交换机的设计合理化。随后，布尔代数逐渐成为支撑数字电路的框架；这些电路用于20世纪40年代和50年代新兴的计算机技术。"
+      ],
+      "en": [
+        "From the mid-twentieth century, our interaction with the world has been transformed by information ",
+        {
+          "type": "em",
+          "children": [
+            "technology"
+          ]
+        },
+        ", while information ",
+        {
+          "type": "em",
+          "children": [
+            "theory"
+          ]
+        },
+        " produced a radical shift in sciences and philosophy. These advances are striking illustrations of how the most radical changes in understanding can often arise from the demands of practice. In the nineteenth century, thermodynamics, which revolutionized our understanding of time, order and life, arose from the practical requirements of engineers working with steam engines. We have already mentioned how, in the late 1930s, Claude Shannon realized that Boolean algebra provided a formalism for the understanding of switching circuits. He was working for the US telegraph and telephone company Bell. His use of Boolean algebra stemmed from the need to rationalize the design of automatic telephone exchanges. From there, it spread out to become an enabling framework for digital circuitry employed by the nascent computer ",
+        {
+          "type": "em",
+          "children": [
+            "technology"
+          ]
+        },
+        " of the 1940s and 1950s."
+      ]
+    },
+    {
+      "id": "dm-ch11-004",
+      "type": "paragraph",
+      "page": "213",
+      "zh": [
+        "香农的贡献并未止于此。他接着创立了现代信息论。如今已很平常的观念——信息可以用比特客观计量——来自他为贝尔写的一篇技术论文。",
+        {
+          "type": "note",
+          "id": "dm-11-1"
+        },
+        "电报工程师在实践中必须估算不同信息传输方式的容量：普通电报线、使用频分复用的电缆、无线电链路等。为此，需要共同的计量单位。这类似于约一个半世纪前瓦特面临的问题：如何量化不同动力形式所提供的功。当时的办法是定义一匹标准马的功率。对20世纪中叶已经习惯于取值为[0,1]的布尔逻辑的工程师而言，信息的自然单位就是比特。"
+      ],
+      "en": [
+        "Shannon’s contribution did not stop there. He went on to found modern information theory. The notion that information is something that can be objectively measured in bits, something that is commonplace now, stems from a technical paper that he wrote for Bell.",
+        {
+          "type": "note",
+          "id": "dm-11-1"
+        },
+        " Telegraph engineers had, as a practical matter, to estimate the carrying capacity of different ways of transmitting information: simple telegraph wires, cables with frequency division multiplexing, radio links etc. To do this, you needed a common unit of measure. This is analogous to the problem that Watt had faced about a century and a half earlier of quantifying the work provided by different forms of motive power. The solution then was to define the power of a standard horse. For a mid-twentieth-century engineer already used dealing with Boolean logic, which took on the values [0,1] the obvious unit of information was the bit."
+      ]
+    },
+    {
+      "id": "dm-ch11-005",
+      "type": "paragraph",
+      "page": "213",
+      "zh": [
+        "如果他仅仅务实地采用二进制数字，即同时代工程师已熟悉的东西，其工作的影响就会有限。它之所以具有革命性，是因为他没有止步于布尔，而是进一步用概率论来定义比特。",
+        {
+          "type": "note",
+          "id": "dm-11-2"
+        },
+        "他不只说比特是0或1，而将其定义为区分两个等概率结果所用的信息量。"
+      ],
+      "en": [
+        "Had he just stopped at a pragmatic adoption of the binary digits, something with which his engineering contemporaries were already familiar, his work would have had limited impact. What made it revolutionary was that he did not stop at Boole. He went beyond Boole to define bits in terms of probability theory.",
+        {
+          "type": "note",
+          "id": "dm-11-2"
+        },
+        " Instead of just saying that a bit was either a 0 or a 1, he defined it as the quantity of information used to discriminate between two equally probable outcomes."
+      ]
+    },
+    {
+      "id": "dm-ch11-006",
+      "type": "paragraph",
+      "page": "214",
+      "zh": [
+        "假设纽约的爱丽丝抛一枚公平硬币三次。波士顿的鲍勃知道，每次正面和反面出现的概率相等，却不知道爱丽丝哪次抛出了正面，哪次抛出了反面。如果爱丽丝用电传机向鲍勃传送结果序列，那么无论她采用什么编码，无论是"
+      ],
+      "en": [
+        "Suppose Alice in New York tosses a fair coin three times. Bob in Boston knows that on each toss, HEADS or TAILS are equally likely, but he cannot tell which falls or Alice’s coin were HEADS and which were TAILS. If Alice transmits her sequence of Bob on a Telex machine, then whatever code she uses to transmit the falls, whether it be"
+      ]
+    },
+    {
+      "id": "dm-ch11-007",
+      "type": "quote",
+      "page": "214",
+      "zh": [
+        "HEADS（正面）"
+      ],
+      "en": [
+        "HEADS"
+      ]
+    },
+    {
+      "id": "dm-ch11-008",
+      "type": "quote",
+      "page": "214",
+      "zh": [
+        "HEADS（正面）"
+      ],
+      "en": [
+        "HEADS"
+      ]
+    },
+    {
+      "id": "dm-ch11-009",
+      "type": "quote",
+      "page": "214",
+      "zh": [
+        "TAILS（反面）"
+      ],
+      "en": [
+        "TAILS"
+      ]
+    },
+    {
+      "id": "dm-ch11-010",
+      "type": "paragraph",
+      "page": "214",
+      "zh": [
+        "还是HHT或110，按香农的理论，她都只向鲍勃发送了3比特信息。如果采用20世纪40年代使用的5位二进制博多码，第一种逐词拼出的方式就需要105个二进制位。",
+        {
+          "type": "note",
+          "id": "dm-11-3"
+        },
+        "若用HHT，则发送15个二进制位；若在线路上发送原始二进制数据，就只用3个二进制位。"
+      ],
+      "en": [
+        "or HHT or 110 she has, according to Shannon, sent to Bob only 3 bits of information. If the information was sent using the 5-binary-digit Baudot Code in use in the 1940s, then the first alternative, spelling it out word at a time would have requires 105 binary digits.",
+        {
+          "type": "note",
+          "id": "dm-11-3"
+        },
+        " If as HHT then 15 binary digits would have been sent. If raw binary data had been sent on a line then only 3 binary digits would have been used."
+      ]
+    },
+    {
+      "id": "dm-ch11-011",
+      "type": "paragraph",
+      "page": "214",
+      "zh": [
+        "因此，对香农而言，信息与数据不同。数据编码信息的效率可能很低。第一个英语文本例子的效率，仅为最紧凑编码的三十五分之一。"
+      ],
+      "en": [
+        "So for Shannon information and data were something distinct. Data might be very inefficient at encoding information. The first exampl of English text was thirty-five times less efficient than the most compact encoding."
+      ]
+    },
+    {
+      "id": "dm-ch11-012",
+      "type": "paragraph",
+      "page": "214",
+      "zh": [
+        "目前我们只考虑了典型的公平硬币。如果硬币很不公平呢？"
+      ],
+      "en": [
+        "So far, we have been considering only the paradigmatic fair coin. What if we have a very unfair coin?"
+      ]
+    },
+    {
+      "id": "dm-ch11-013",
+      "type": "paragraph",
+      "page": "214",
+      "zh": [
+        "如果你的随机数发生器有偏呢？"
+      ],
+      "en": [
+        "What if your random number generator is biased?"
+      ]
+    },
+    {
+      "id": "dm-ch11-014",
+      "type": "paragraph",
+      "page": "214",
+      "zh": [
+        "如果硬币有四分之三的概率正面朝上呢？"
+      ],
+      "en": [
+        "What if the coin falls HEADS three quarters of the time?"
+      ]
+    },
+    {
+      "id": "dm-ch11-015",
+      "type": "paragraph",
+      "page": "214",
+      "zh": [
+        "那么显然，每次传送一条“正面”消息，发送的信息都必定少于公平硬币的情形。看到一长串抛掷结果后，鲍勃能估计正面的先验概率。如果要猜下一条消息，他每次都会猜正面，这样猜对的比例就会超过50%。因此，现在每条“正面”消息携带的信息都比以前少，不到1比特。"
+      ],
+      "en": [
+        "Then it is clear that each transmission of a HEAD message must send less information than in the case of a fair coin. Having seen a long sequence of tosses, Bob can estimate the a priori probability of a HEAD. Were he to guess what the next message was going to be, he would guess HEADS each time. When he did so, he would be correct more than 50 per cent of the time. Consequently, each HEADS message now conveys less information than before. It conveys less than one bit."
+      ]
+    },
+    {
+      "id": "dm-ch11-016",
+      "type": "paragraph",
+      "page": "214",
+      "zh": [
+        "香农提出了一个公式，计算这种有偏符号流的信息量。假设长数据流有",
+        {
+          "type": "math",
+          "tex": "n"
+        },
+        "种可能的不同符号，第",
+        {
+          "type": "math",
+          "tex": "i"
+        },
+        "种符号出现的概率为",
+        {
+          "type": "math",
+          "tex": "p_i"
+        },
+        "，则每个数据符号的平均信息量为"
+      ],
+      "en": [
+        "Shannon came up with a formula for the information content of such biased streams of symbols. Suppose we have a long data stream with ",
+        {
+          "type": "math",
+          "tex": "n"
+        },
+        " possible distinct symbols, such that the ",
+        {
+          "type": "math",
+          "tex": "i"
+        },
+        "th symbol occurs in our stream with probability ",
+        {
+          "type": "math",
+          "tex": "p_i"
+        },
+        ", then the average information content per data symbol is given by"
+      ]
+    },
+    {
+      "id": "dm-ch11-017",
+      "type": "paragraph",
+      "page": "214",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}H=-\\sum_{i=1}^{n}p_i\\log_2(p_i)\\end{aligned}",
+          "display": true
+        }
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}H=-\\sum_{i=1}^{n}p_i\\log_2(p_i)\\end{aligned}",
+          "display": true
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-018",
+      "type": "paragraph",
+      "page": "214",
+      "zh": [
+        "负号保证得到正的结果，因为这些概率都小于1，因此",
+        {
+          "type": "math",
+          "tex": "\\log_2(p_i)<0"
+        },
+        "。"
+      ],
+      "en": [
+        "The minus sign is there to ensure we get a positive result since the probabilities are all <1.and hence ",
+        {
+          "type": "math",
+          "tex": "\\log_2(p_i)<0"
+        },
+        "."
+      ]
+    },
+    {
+      "id": "dm-ch11-019",
+      "type": "paragraph",
+      "page": "214",
+      "zh": [
+        "所有不同符号等概率出现时，这一公式达到最大值。但人类语言不是这样，书面文本中字母的出现频率很不均匀。按香农的说法，这意味着书面文本即使在最基本的字符层面，也有效率不足或冗余。"
+      ],
+      "en": [
+        "This formula will be at a maximum when all the distinct symbols occur with equal probability. But in human languages, this is not the case. The frequency of occurrence of letters in written text is very non-uniform. In Shannon’s terms, this means that written text is inefficient or redundant, even at the most basic character level."
+      ]
+    },
+    {
+      "id": "dm-ch11-020",
+      "type": "paragraph",
+      "page": "215",
+      "zh": [
+        "香农将符号的信息量与其原始编码区分开来，这在密码学",
+        {
+          "type": "note",
+          "id": "dm-11-4"
+        },
+        "和数据压缩中有实际用途。每当观看数字电视或收听MP3音轨时，你都在不知不觉中依赖香农的信息论。"
+      ],
+      "en": [
+        "His distinction between the information content of symbols and their raw codes has practical applications in cryptography",
+        {
+          "type": "note",
+          "id": "dm-11-4"
+        },
+        " and data compression. Whenever you view a digital TV signal or listen to an MP3 track, you are implicitly relying on Shannon’s information theory."
+      ]
+    },
+    {
+      "id": "dm-ch11-021",
+      "type": "paragraph",
+      "page": "215",
+      "zh": [
+        "但从唯物主义的角度看，这个公式最引人注目之处，在于它的信息公式在函数形式上与玻尔兹曼的熵公式相同。",
+        {
+          "type": "note",
+          "id": "dm-11-5"
+        }
+      ],
+      "en": [
+        "But the most striking feature of his formula, from the standpoint of materialism, is that his formula for information is functionally the same",
+        {
+          "type": "note",
+          "id": "dm-11-5"
+        },
+        " as Boltzmann’s formula for entropy."
+      ]
+    },
+    {
+      "id": "dm-ch11-022",
+      "type": "paragraph",
+      "page": "215",
+      "zh": [
+        "这表明，在深层意义上，信息与熵是同一回事。从哲学角度看，这令人震惊。"
+      ],
+      "en": [
+        "It indicated that, at a deep level, information and entropy were the same thing. This was, from a philosophical standpoint, startling."
+      ]
+    },
+    {
+      "id": "dm-ch11-023",
+      "type": "subheading",
+      "page": "215",
+      "zh": [
+        "物理意义"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Physical meanings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-024",
+      "type": "paragraph",
+      "page": "215",
+      "zh": [
+        "此前，哲学并未费心定义信息，但这个词的通常用法与人所能理解的信息紧密相连。在这种背景下，认为信息是物理的，而且与物理学的原子层面相联系，认为可以完全撇开信息的意义、纯粹进行统计分析，都是违反直觉的。"
+      ],
+      "en": [
+        "Philosophy had not bothered to define information up to this point, but the normal usage of the word was so tied up with information understandable to humans that information was something physical and, moreover, something connected with the atomic level of physics, the idea that information could be analysed purely statistically, completely ignoring its meaning, was counterintuitive."
+      ]
+    },
+    {
+      "id": "dm-ch11-025",
+      "type": "paragraph",
+      "page": "215",
+      "zh": [
+        "人们可能天真地以为，诸如印刷文本之类的数据，只因读者能够主观地赋予其意义，才包含信息。反过来，也可能认为，这种意义及其信息源自原作者的主观意图。"
+      ],
+      "en": [
+        "One might naively assume that data, for example, in the form of printed text only contained information because a reader was subjectively able to attach meaning to it. Conversely, this meaning, and thus the information, could be assumed to derive from the subjective intention of the original author."
+      ]
+    },
+    {
+      "id": "dm-ch11-026",
+      "type": "paragraph",
+      "page": "215",
+      "zh": [
+        "对于当代文本，这似乎说得通。但难以理解的信息呢？"
+      ],
+      "en": [
+        "That seems plausible when dealing with contemporary texts. But what about arcane information?"
+      ]
+    },
+    {
+      "id": "dm-ch11-027",
+      "type": "paragraph",
+      "page": "215",
+      "zh": [
+        "在发现罗塞塔石碑以前，象形文字文本中的信息又如何呢？"
+      ],
+      "en": [
+        "What about information in hieroglyphic texts prior to the discovery of the Rosetta stone?"
+      ]
+    },
+    {
+      "id": "dm-ch11-028",
+      "type": "paragraph",
+      "page": "215",
+      "zh": [
+        "罗塞塔石碑发现前的数百年间，这些埃及文本对所有人都没有意义。发现石碑后，它们便能够被阅读。不可回避的结论是：数百年来，信息一直客观存在于文本中，存在于纸莎草纸上墨迹的空间配置中。1799年后，人们能够理解埃及文本，是因为文本客观地包含信息，即使其信息编码曾经无法破译。香农坚称，信息必须与其编码表示区分开来。"
+      ],
+      "en": [
+        "Over centuries before the Rosetta’s discovery, these Egyptian texts were meaningless to everyone. After it was found, they could be read. The inescapable conclusion is that the information objectively existed for centuries in the texts in the spatial configurations of ink on papyrus. The Egyptian texts could be understood after 1799 because they had objectively contained information, even though that information’s code remained indecipherable. Shannon was adamant that information had to be considered distinct from its encoded representation."
+      ]
+    },
+    {
+      "id": "dm-ch11-029",
+      "type": "quote",
+      "page": "215",
+      "zh": [
+        "要定义实际信息这一概念，请考虑如下情形。假设一个信息源在产生譬如英文文本。文本可以翻译或编码为许多其他形式，例如摩尔斯电码，并且能够解码恢复原文。就大多数通信目的而言，这些形式同样有效，可以认为包含相同信息。给定任意一种编码形式，都能得到其他任何形式，尽管这当然可能需要复杂的计算。因此，我们将一个随机过程的实际信息，定义为所有能够通过可逆编码操作从原过程得到的随机过程所共有的东西。",
+        {
+          "type": "note",
+          "id": "dm-11-6"
+        }
+      ],
+      "en": [
+        "To define a concept of actual information, consider the following situation. Suppose a source is producing, say, English text. This may be translated or encoded into many other forms (eg Morse code) in such a way that it is possible to decode and recover the original. For most purposes of communication, any of these forms is equally good and may be considered to contain the same information. Given any particular encoded form, any of the others may be obtained, (although of course it may require an involved computation to do so). Thus we are led to define the actual information of a stochastic process as that which is common to all stochastic processes which may be obtained from the original by reversible encoding operations.",
+        {
+          "type": "note",
+          "id": "dm-11-6"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-030",
+      "type": "paragraph",
+      "page": "216",
+      "zh": [
+        "编码信息完全独立于任何人类的主观参与，无论这种参与来自作者还是读者。20世纪50年代遗传密码的发现，使这一点更加清楚。在这里，信息存在于DNA中。随着DNA测序仪的发展，这种分子密码可以打印成人能够阅读的形式：由ATGC四个字母构成的序列。香农的观点是，无论信息以分子形式高效地表示，还是以墨水和纸张上的文本这种冗余得多的形式表示，其信息量都相同。分子形式的信息既可以由现代测序仪“读取”，也可以由核糖体“读取”。受过训练的人能够阅读打印结果，并在一定程度上加以解释，这一事实与DNA中的信息无关。"
+      ],
+      "en": [
+        "That encoded information exists quite independently of any human subjective involvement, either as author or reader, became even clearer in the 1950s with the discovery of the genetic code. Here, information exists in DNA. With the development of DNA sequencing machines, this molecular code can be printed out in a form people can read: a sequence made up of the letters ATGC. Shannon’s point is that the information content is the same whether it is efficiently represented in molecular form or much more redundantly as an ink-and-paper text. The information in molecular form can be ‘read’ either by a modern sequencing machine or by a ribosome. The fact that a trained person can read and, to some degree, interpret the printout is irrelevant to the information in the DNA."
+      ]
+    },
+    {
+      "id": "dm-ch11-031",
+      "type": "paragraph",
+      "page": "216",
+      "zh": [
+        "它并不是因为人能阅读才成为信息。人之所以能够阅读它，是因为它是信息。更一般地说，信息量不依赖于人赋予的意义。关系恰好相反：我们处理意义的能力依赖于客观存在的信息，包括神经系统外部和内部的信息。"
+      ],
+      "en": [
+        "It is not information because a person can read it. A person can read it because it is information. More generally, information content does not depend on human meanings. The opposite holds. Our ability to handle meaning depends on objectively existing information: both external to and internal to our nervous system."
+      ]
+    },
+    {
+      "id": "dm-ch11-032",
+      "type": "paragraph",
+      "page": "216",
+      "zh": [
+        "生物体会对环境作出反应。即使单细胞生物也能以有目的的方式作出反应。单细胞水生光合物种衣藻的个体能够向光源游动。",
+        {
+          "type": "note",
+          "id": "dm-11-7"
+        },
+        "这种有目的的行为具有明显的进化优势：获得光能。但要做到这一点，细胞必须能够储存一种与外部环境状态相关联的内部状态。这里的环境状态就是光照方向；从几何学上说，它是三维空间中的一个向量。"
+      ],
+      "en": [
+        "Living organisms respond to their environment. Even single-celled organisms can respond in a purposeful way. Individuals of the unicellular aquatic photosynthetic species ",
+        {
+          "type": "em",
+          "children": [
+            "Chlamydomonas"
+          ]
+        },
+        " can swim towards a light source.",
+        {
+          "type": "note",
+          "id": "dm-11-7"
+        },
+        " This purposeful behaviour has an obvious evolutionary advantage: access to light energy. But to achieve it, the cell must be able to store an internal state that is associated with the external state of its environment. The direction of illumination, which in geometrical terms is a vector in three-space."
+      ]
+    },
+    {
+      "id": "dm-ch11-033",
+      "type": "paragraph",
+      "page": "216",
+      "zh": [
+        "让我们考虑这种向量的一种可能的内部编码。只需为相互垂直的",
+        {
+          "type": "math",
+          "tex": "x,y,z"
+        },
+        "轴各配上三个状态",
+        {
+          "type": "math",
+          "tex": "(-1,0,+1)"
+        },
+        "，表示入射光向量背离该轴、与该轴成直角或朝向该轴。采用一种简单的编码方式，细胞就需要能够记录",
+        {
+          "type": "math",
+          "tex": "3\\times\\log_2(3)=4.755"
+        },
+        "比特的信息。",
+        {
+          "type": "note",
+          "id": "dm-11-8"
+        }
+      ],
+      "en": [
+        "Let us consider a possible internal encoding of such a vector. It would suffice to associate three states ",
+        {
+          "type": "math",
+          "tex": "(-1,0,+1)"
+        },
+        " to each of the mutually perpendicular ",
+        {
+          "type": "math",
+          "tex": "x,y,z"
+        },
+        " axes, indicating whether the incident light vector is away from, at right angles to, or towards that axis. With a naive encoding, this would require the cell to be able to register ",
+        {
+          "type": "math",
+          "tex": "3\\times\\log_2(3)=4.755"
+        },
+        " bits of information.",
+        {
+          "type": "note",
+          "id": "dm-11-8"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-034",
+      "type": "paragraph",
+      "page": "216",
+      "zh": [
+        "这4.755比特的“意义”是什么？显然，从某种意义上说，它意味着光源位于某个确定的大致方向。这种方向规定随后就能引导细胞运动。从信息论角度看，要使传感器具有意义，环境状态（光照方向）与趋光细胞的内部状态之间就必须存在互信息。",
+        {
+          "type": "note",
+          "id": "dm-11-9"
+        },
+        "因此，这里的意义就是互信息。"
+      ],
+      "en": [
+        "What is the ‘meaning’ of these 4.755 bits? Obviously, in one sense, it means that the light source is in a specified general direction. This specification can then steer the cell’s motion. In terms of information theory, for the sensors to have meaning, there must be mutual information",
+        {
+          "type": "note",
+          "id": "dm-11-9"
+        },
+        " between the states of the environment ( directions of illumination) and internal states of the phototactic cell. The meaning then is the mutual information."
+      ]
+    },
+    {
+      "id": "dm-ch11-035",
+      "type": "paragraph",
+      "page": "216",
+      "zh": [
+        "本节考察了信息论的一个在哲学上令人震惊的推论：信息是客观的、物理的东西，完全独立于人类意识。无需强调，这具有深刻的唯物主义意蕴。互信息的形式定义，为文献",
+        {
+          "type": "note",
+          "id": "dm-11-10"
+        },
+        "所捍卫的知识表征模型提供了科学基础。"
+      ],
+      "en": [
+        "In this section, we have been examining one philosophically startling implication of information theory: that information is something objective and physical, something quite independent of human consciousness. It need hardly be emphasized that this had profound materialist implications. The formal definition of mutual information provides the scientific foundation for the representational model of knowledge defended in.",
+        {
+          "type": "note",
+          "id": "dm-11-10"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-036",
+      "type": "subheading",
+      "page": "216",
+      "zh": [
+        "随机性"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Randomness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-037",
+      "type": "paragraph",
+      "page": "216",
+      "zh": [
+        "本节将考察香农所发表成果的第二个令人惊讶的推论。"
+      ],
+      "en": [
+        "In this section, we look at a second surprising implication of what Shannon published."
+      ]
+    },
+    {
+      "id": "dm-ch11-038",
+      "type": "paragraph",
+      "page": "217",
+      "zh": [
+        "香农表明，信息的公式在函数形式上与熵的公式完全相同。事实上，此后熵与信息这两个术语常被认为可以互换。"
+      ],
+      "en": [
+        "Shannon showed that the formula for information is functionally identical to that of entropy. Indeed, the terms entropy and information have since then often been considered interchangeable."
+      ]
+    },
+    {
+      "id": "dm-ch11-039",
+      "type": "paragraph",
+      "page": "217",
+      "zh": [
+        "但把信息等同于熵，似乎与人们通常把熵理解为无序或随机性的看法相矛盾。自然过程产生随机结果。风化岩面看起来粗糙而杂乱。经人手加工、刻上铭文的石头则立即可与自然物区分开来，恰恰因为它总体上相对平滑而有序。因此，记录人类信息似乎伴随着有序程度的增加",
+        {
+          "type": "note",
+          "id": "dm-11-11"
+        },
+        "和随机性的减少。"
+      ],
+      "en": [
+        "But this equation of information with entropy appears to contradict popular understanding of entropy as disorder or randomness. Natural processes produce random results. A weathered rock face has a rough disordered appearance. A rock worked by human hand to bear an inscription is immediately distinguishable from something natural precisely because it is, in the main, relatively smooth and orderly. It would thus seem that recording human information goes hand in hand with an increase in order",
+        {
+          "type": "note",
+          "id": "dm-11-11"
+        },
+        " and a reduction in randomness."
+      ]
+    },
+    {
+      "id": "dm-ch11-040",
+      "type": "paragraph",
+      "page": "217",
+      "zh": [
+        "我们如何把这一点与香农将信息等同于熵、从而等同于无序的观点协调起来？"
+      ],
+      "en": [
+        "How are we to reconcile this with Shannon’s identification of information with entropy, and thus with disorder?"
+      ]
+    },
+    {
+      "id": "dm-ch11-041",
+      "type": "paragraph",
+      "page": "217",
+      "zh": [
+        "当我们忽略传统人类记录的冗余性时，就会出现这一悖论。碑刻石匠希望文字清晰可读、醒目突出。为此，他们做了两件事："
+      ],
+      "en": [
+        "This paradox arises when we neglect the redundancy of traditional human records. Monumental masons wanted their text to be clearly readable to stand out. To ensure this, they did two things:"
+      ]
+    },
+    {
+      "id": "dm-ch11-042",
+      "type": "paragraph",
+      "page": "217",
+      "zh": [
+        "1. 他们造出平整表面。这些表面不包含人类信息，却具有低熵和高度有序性。"
+      ],
+      "en": [
+        "1. They created flat surfaces. These contain no anthropic information but are low entropy and highly orderly."
+      ]
+    },
+    {
+      "id": "dm-ch11-043",
+      "type": "paragraph",
+      "page": "217",
+      "zh": [
+        "2. 随后，他们刻上字母，字母较大，刻痕较深，以抵御风化。这些字母确实包含信息，但表示信息的方式具有很高的冗余度。"
+      ],
+      "en": [
+        "2. They then incised letters, which were large and relatively deeply cut so that they would withstand weathering. These do contain information, but represent it very redundantly."
+      ]
+    },
+    {
+      "id": "dm-ch11-044",
+      "type": "paragraph",
+      "page": "217",
+      "zh": [
+        "先创造低熵基底，再以冗余方式在其上记录信息：从印刷到微芯片制造，许多生产过程",
+        {
+          "type": "note",
+          "id": "dm-11-12"
+        },
+        "都具有这种特征。"
+      ],
+      "en": [
+        "This process of first creating a low-entropy substrate on which information is then redundantly recorded is characteristic of lots of production processes",
+        {
+          "type": "note",
+          "id": "dm-11-12"
+        },
+        "from printing to micro-chip manufacture."
+      ]
+    },
+    {
+      "id": "dm-ch11-045",
+      "type": "paragraph",
+      "page": "217",
+      "zh": [
+        "前面已经看到，抛硬币的信息可以用文本冗余地记录，也可以用二进制数字高效地记录。文本即便存在错误，仍容易阅读。HEADS一词发生一个比特错误，可能变成譬如HECDS，但在上下文中依然可以理解。相反，在用来编码正反面的纯二进制流中，一个比特错误会不被察觉。"
+      ],
+      "en": [
+        "We saw earlier that information about coin tosses could be recorded redundantly as text or efficiently as binary digits. The text is easily readable in the presence of errors. A one-bit error in the word HEADS could transform it to, for example, HECDS, which, in context, would still be understandable. A one-bit error in a pure binary stream encoding heads and tails, on the other hand, would pass unnoticed."
+      ]
+    },
+    {
+      "id": "dm-ch11-046",
+      "type": "paragraph",
+      "page": "217",
+      "zh": [
+        "实用而稳健的信息存储方式利用冗余和有序性，因而具有低熵。由此可见，在0和1出现频率相等的完全随机比特流中，能够编码最多的信息。这一点对图灵和香农研究的密码学具有实际意义。破译密码依赖于利用明文中的非随机性，这种非随机性以某种方式泄露为密文中的非随机性。与此相关，文件压缩技术（如.zip文件）会产生近似随机的比特串。"
+      ],
+      "en": [
+        "Practical and resilient ways of storing information use redundancy, order and as such are low entropy. A consequence of this is that the greatest possible information is encoded in a completely random bit stream in which 0 and 1 occur with equal frequency. This fact was of practical relevance in the cryptography on which Turing and Shannon had worked. Breaking codes was reliant on exploiting non-randomness in the clear-text, which somehow leaked through to non-randomness in the cipher text. Related to this, file compression techniques, like .zip files, produce bit strings which approximate to randomness."
+      ]
+    },
+    {
+      "id": "dm-ch11-047",
+      "type": "paragraph",
+      "page": "217",
+      "zh": [
+        "但这引出一个新问题：我们所说的随机性是什么意思？"
+      ],
+      "en": [
+        "But this raises a new question. What do we mean by randomness?"
+      ]
+    },
+    {
+      "id": "dm-ch11-048",
+      "type": "subheading",
+      "page": "217",
+      "zh": [
+        "幸运眷顾勇敢者（Audaces fortuna iuvat）"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Audaces fortuna iuvat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-049",
+      "type": "paragraph",
+      "page": "217",
+      "zh": [
+        "“Alea jacta est”（骰子已经掷出），凯撒如是说；骰子一旦掷出，他便只能等待，看它如何落下。结果不可预知：凯旋、胜利，或是遇刺。"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Alea jacta est"
+          ]
+        },
+        " said Caesar; the die once thrown, he must wait and see how it lands. The result was unknowable: triumphs, victories or assassination."
+      ]
+    },
+    {
+      "id": "dm-ch11-050",
+      "type": "paragraph",
+      "page": "218",
+      "zh": [
+        "Caesar forte regebatur。凯撒受命运支配。那么，命运与规则有何不同？"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Caesar forte regebatur."
+          ]
+        },
+        " He was ruled by fortune. But how then does fortune differ from rules?"
+      ]
+    },
+    {
+      "id": "dm-ch11-051",
+      "type": "paragraph",
+      "page": "218",
+      "zh": [
+        "我们怎样通过观察，辨别某件事只是随机发生，还是遵循某种对我们而言可能并不明显的模式？"
+      ],
+      "en": [
+        "How can we, by observation, tell if something is just random or is following some pattern, which pattern may not be obvious to us?"
+      ]
+    },
+    {
+      "id": "dm-ch11-052",
+      "type": "paragraph",
+      "page": "218",
+      "zh": [
+        "以骰子为喻。给定一系列掷骰结果，我们如何判断骰子是公平的，还是存在某种可以据以稳妥下注的偏向？"
+      ],
+      "en": [
+        "Take the metaphor of a die. How can we tell, given a sequence of die casts, if the die is fair or if there is a bias on which we can soundly bet?"
+      ]
+    },
+    {
+      "id": "dm-ch11-053",
+      "type": "paragraph",
+      "page": "218",
+      "zh": [
+        "假定有一枚标着0至9的十面骰子，它给出如下序列："
+      ],
+      "en": [
+        "Suppose we have a ten-sided die labelled 0.9, and this gives us the following sequence:"
+      ]
+    },
+    {
+      "id": "dm-ch11-054",
+      "type": "quote",
+      "page": "218",
+      "zh": [
+        "4, 1, 5, 9, 2, 6, 5, 3, 5, 8, 9, 7, 9, 3, 2, 3, 8, 4, 6, 2, 6, 4, 3, 3, 8, 3, 2, 7, 9, 5, 0, 2, 8, 8, 4, 1, 9, 7, 1, 6, 9, 3, 9, 9, 3, 7, 5, 1, 0, 5, 8, 2, 0, 9, 7, 4, 9, 4, 4, 5, 9, 2,"
+      ],
+      "en": [
+        "4, 1, 5, 9, 2, 6, 5, 3, 5, 8, 9, 7, 9, 3, 2, 3, 8, 4, 6, 2, 6, 4, 3, 3, 8, 3, 2, 7, 9, 5, 0, 2, 8, 8, 4, 1, 9, 7, 1, 6, 9, 3, 9, 9, 3, 7, 5, 1, 0, 5, 8, 2, 0, 9, 7, 4, 9, 4, 4, 5, 9, 2,"
+      ]
+    },
+    {
+      "id": "dm-ch11-055",
+      "type": "paragraph",
+      "page": "218",
+      "zh": [
+        "我们如何知道它是不是随机的？"
+      ],
+      "en": [
+        "How do we know if this was random?"
+      ]
+    },
+    {
+      "id": "dm-ch11-056",
+      "type": "paragraph",
+      "page": "218",
+      "zh": [
+        "我们可以查看每个数字出现多少次。"
+      ],
+      "en": [
+        "Well, we can look at how often each digit occurs."
+      ]
+    },
+    {
+      "id": "dm-ch11-057",
+      "type": "paragraph",
+      "page": "218",
+      "zh": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              [
+                "数字"
+              ],
+              [
+                "出现次数"
+              ]
+            ],
+            [
+              [
+                "0"
+              ],
+              [
+                "3"
+              ]
+            ],
+            [
+              [
+                "1"
+              ],
+              [
+                "4"
+              ]
+            ],
+            [
+              [
+                "2"
+              ],
+              [
+                "7"
+              ]
+            ],
+            [
+              [
+                "3"
+              ],
+              [
+                "8"
+              ]
+            ],
+            [
+              [
+                "4"
+              ],
+              [
+                "7"
+              ]
+            ],
+            [
+              [
+                "5"
+              ],
+              [
+                "7"
+              ]
+            ],
+            [
+              [
+                "6"
+              ],
+              [
+                "4"
+              ]
+            ],
+            [
+              [
+                "7"
+              ],
+              [
+                "5"
+              ]
+            ],
+            [
+              [
+                "8"
+              ],
+              [
+                "6"
+              ]
+            ],
+            [
+              [
+                "9"
+              ],
+              [
+                "11"
+              ]
+            ]
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              [
+                "Digit"
+              ],
+              [
+                "Occurences"
+              ]
+            ],
+            [
+              [
+                "0"
+              ],
+              [
+                "3"
+              ]
+            ],
+            [
+              [
+                "1"
+              ],
+              [
+                "4"
+              ]
+            ],
+            [
+              [
+                "2"
+              ],
+              [
+                "7"
+              ]
+            ],
+            [
+              [
+                "3"
+              ],
+              [
+                "8"
+              ]
+            ],
+            [
+              [
+                "4"
+              ],
+              [
+                "7"
+              ]
+            ],
+            [
+              [
+                "5"
+              ],
+              [
+                "7"
+              ]
+            ],
+            [
+              [
+                "6"
+              ],
+              [
+                "4"
+              ]
+            ],
+            [
+              [
+                "7"
+              ],
+              [
+                "5"
+              ]
+            ],
+            [
+              [
+                "8"
+              ],
+              [
+                "6"
+              ]
+            ],
+            [
+              [
+                "9"
+              ],
+              [
+                "11"
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-058",
+      "type": "paragraph",
+      "page": "218",
+      "zh": [
+        "到这里，我们的骰子看起来似乎不容易掷出0，而容易掷出9。似乎只要押注不会出现0，长期来看就能赢。让我们试着生成更多数字，看这一点是否成立。"
+      ],
+      "en": [
+        "At this point, it looks as if our die is biased against zeros and towards nines. It would seem that were we to bet against zeros, we would, over the long run, win. Let’s try generating more digits and see if that holds."
+      ]
+    },
+    {
+      "id": "dm-ch11-059",
+      "type": "paragraph",
+      "page": "218",
+      "zh": [
+        "图11.1表明，随着产生的数字越来越多，数列中0所占的百分比趋近10%，这正是我们对无偏骰子的预期。"
+      ],
+      "en": [
+        "Figure 11.1 shows that as we get more and more digits, the percentage of zeros in the stream approaches 10 per cent, which is what we expect from an unbiased die."
+      ]
+    },
+    {
+      "id": "dm-ch11-060",
+      "type": "paragraph",
+      "page": "218",
+      "zh": [
+        "如果要更严格地检验随机性，我们可以考察成对的数字。也许0的出现频率是10%，但它仍可能在6之后比在7之后更容易出现。如果在足够大的样本中，我们发现每个数字的出现都不受前一个数字影响，就可以进一步考察三个数字、四个数字组成的组，以此类推。"
+      ],
+      "en": [
+        "If we wanted a more stringent test on randomness, we could look at pairs of digits. Perhaps zeros occur 10 per cent of the time, but they are still slightly more likely to occur after six than after a seven. If we find that, over a suitably large sample, the occurrence of each digit is unaffected by the preceding digit, then we could look at groups of three digits, groups of four digits, etc."
+      ]
+    },
+    {
+      "id": "dm-ch11-061",
+      "type": "paragraph",
+      "page": "218",
+      "zh": [
+        "随着所考察的数字组长度增加，样本所需的数字数量会呈指数增长。如果需要44,000个数字才能使0所占的比例收敛到10%，那么可以预期，需要考察超过400,000个数字，这些0之前的数字为6的比例才会收敛到10%。对于三个数字的组合，就需要检查400万个数字，以此类推。"
+      ],
+      "en": [
+        "As we increase the length of groups we are examining, then the number of digits required in our sample will grow exponentially. If it took 44,000 digits for the share of zeros to converge to 10 per cent, then we could expect to look at over 400,000 digits before the percentage of sixes preceding these zeros would converge to 10%. For triples, we would need to check four million digits etc."
+      ]
+    },
+    {
+      "id": "dm-ch11-062",
+      "type": "paragraph",
+      "page": "218",
+      "zh": [
+        "我们试图探测的模式越长，证明随机性就越困难。可能存在的模式越微妙，就越不可能通过穷尽搜索将其找出。"
+      ],
+      "en": [
+        "Proving randomness becomes increasingly difficult the longer are the patterns we are trying to detect. The subtler the pattern that might exist, the more impossible it is to find by exhaustive searching."
+      ]
+    },
+    {
+      "id": "dm-ch11-063",
+      "type": "figure",
+      "page": "219",
+      "zh": [
+        "图11.1 随着产生的数字越来越多，最初0出现得偏少的现象逐渐消失。作者绘图。",
+        {
+          "type": "break"
+        },
+        "% zeros：0所占的百分比；Number of digits seen：已观察的数字数量。"
+      ],
+      "en": [
+        "Figure 11.1 The initial bias against zero vanishes as we generate more and more digits. Figure by authors."
+      ],
+      "src": "translations/books/defending-materialism/assets/figure-11-1.jpeg"
+    },
+    {
+      "id": "dm-ch11-064",
+      "type": "paragraph",
+      "page": "219",
+      "zh": [
+        "因此，对先前问题的回答是否定的。一般而言，我们无法通过观察证明一个长数字序列，或一长串对自然的观测结果，是随机的。"
+      ],
+      "en": [
+        "So the answer to our earlier question is no. We cannot in general prove by observation that a long sequence of numbers, or a long set of observations of nature, are random."
+      ]
+    },
+    {
+      "id": "dm-ch11-065",
+      "type": "paragraph",
+      "page": "219",
+      "zh": [
+        "显然，迄今使用的数字序列实际上并不是通过投掷十面骰子产生的。掷44,000次骰子并不现实。"
+      ],
+      "en": [
+        "Obviously the digit sequence we have been using up until now was not actually generated by throwing a ten-sided die. Throwing it 44,000 times would have been impractical."
+      ]
+    },
+    {
+      "id": "dm-ch11-066",
+      "type": "paragraph",
+      "page": "219",
+      "zh": [
+        "我们本可以使用某种电子硬件产生真正的随机数。",
+        {
+          "type": "note",
+          "id": "dm-11-13"
+        },
+        "实际上，我们确实使用了计算机生成的序列，但它并非真正随机。我们采用了",
+        {
+          "type": "math",
+          "tex": "\\pi"
+        },
+        "的连续数字作为来源。",
+        {
+          "type": "note",
+          "id": "dm-11-14"
+        },
+        "然而，",
+        {
+          "type": "math",
+          "tex": "\\pi"
+        },
+        "的连续数字似乎完美地模仿了随机性。"
+      ],
+      "en": [
+        "We could have used some electronic hardware to generate true random numbers.",
+        {
+          "type": "note",
+          "id": "dm-11-13"
+        },
+        " In fact, we did use a computer-generated sequence, but it was not a truly random one. We used successive digits of π as the source.",
+        {
+          "type": "note",
+          "id": "dm-11-14"
+        },
+        " Yet the successive digits of π seem to perfectly mimic randomness."
+      ]
+    },
+    {
+      "id": "dm-ch11-067",
+      "type": "paragraph",
+      "page": "219",
+      "zh": [
+        "这便是现实的一个深刻悖论：circulus regitur forte——圆受偶然支配。圆是自然秩序最典型的范例，却由看似随机的东西支配。如今，规则与偶然的区别又在哪里？"
+      ],
+      "en": [
+        "Here is a deep paradox of reality. ",
+        {
+          "type": "em",
+          "children": [
+            "circulus regitur forte"
+          ]
+        },
+        " The circle, the most paradigmatic of nature’s orders, is ruled by what appears to be randomness. Where now lies the difference between rule and fortune?"
+      ]
+    },
+    {
+      "id": "dm-ch11-068",
+      "type": "paragraph",
+      "page": "219",
+      "zh": [
+        "难道我们在作出重大决定以前，也应该请教占卜者、阅读《易经》吗？"
+      ],
+      "en": [
+        "Should we too consult the augurs and read the book of changes before our great decisions?"
+      ]
+    },
+    {
+      "id": "dm-ch11-069",
+      "type": "paragraph",
+      "page": "219",
+      "zh": [
+        "我们的科学定律大厦难道只是掩盖混沌的幻象？元数学家蔡廷",
+        {
+          "type": "note",
+          "id": "dm-11-15"
+        },
+        "给出了一个答案：他基于计算机程序提出随机性的新定义。按照他的定义，随机数字序列就是不能由比它更短的计算机程序输出的序列。"
+      ],
+      "en": [
+        "Is our edifice of scientific laws a mere illusion hiding chaos? An answer to this was provided by the meta-mathematician Chaitin,",
+        {
+          "type": "note",
+          "id": "dm-11-15"
+        },
+        " who gave a new definition of randomness based on computer programmes. According to him, a random sequence of digits is one which cannot be printed out by a shorter computer programme."
+      ]
+    },
+    {
+      "id": "dm-ch11-070",
+      "type": "paragraph",
+      "page": "219",
+      "zh": [
+        "按照这一定义，",
+        {
+          "type": "math",
+          "tex": "\\pi"
+        },
+        "不是随机的。下面是Dik T. Winter编写的一段占160个字符的C程序，它能输出",
+        {
+          "type": "math",
+          "tex": "\\pi"
+        },
+        "的800个字符："
+      ],
+      "en": [
+        "By this definition, π is not random. Here is a C programme by Dik T. Winter occupying 160 characters that will print out 800 characters of it:"
+      ]
+    },
+    {
+      "id": "dm-ch11-071",
+      "type": "code",
+      "page": "219",
+      "zh": [
+        "int a=10000,b,c=2800,d,e,f[2801],g;main(){for(;b-c;)\n  f[b++]=a/5;\nfor(;d=0,g=c*2;c-=14,printf(\"%.4d\",e+d/a),e=d%a)fo\n  r(b=c;d+=f[b]*a,\nf[b]=d%--g,d/=g--,--b;d*=b);}"
+      ],
+      "en": [
+        "int a=10000,b,c=2800,d,e,f[2801],g;main(){for(;b-c;)\n  f[b++]=a/5;\nfor(;d=0,g=c*2;c-=14,printf(\"%.4d\",e+d/a),e=d%a)fo\n  r(b=c;d+=f[b]*a,\nf[b]=d%--g,d/=g--,--b;d*=b);}"
+      ]
+    },
+    {
+      "id": "dm-ch11-072",
+      "type": "paragraph",
+      "page": "219",
+      "zh": [
+        "还有其他短程序，能够输出",
+        {
+          "type": "math",
+          "tex": "\\pi"
+        },
+        "的数百万位数字。"
+      ],
+      "en": [
+        "Other short programmes exist that will print π to millions of digits."
+      ]
+    },
+    {
+      "id": "dm-ch11-073",
+      "type": "subheading",
+      "page": "220",
+      "zh": [
+        "苏联辩证唯物主义"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Soviet diamat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-074",
+      "type": "paragraph",
+      "page": "220",
+      "zh": [
+        "辩证唯物主义由狄慈根创立，他在思想上影响了德国社会民主党；这一哲学后来成为共产主义的官方哲学，由德国社会民主党传承而来。然而，这一传统与物质世界的随机性基础是否相容，是值得怀疑的。19世纪的唯物主义者，如玻尔兹曼，曾经苦苦思索：在由偶然性和热力学定律支配的世界中，如何理解有方向性的变化？我们又该如何在历史语境中理解同一个悖论？"
+      ],
+      "en": [
+        "Dialectical Materialism was invented by Dietzgen, an intellectual influence on German Social Democracy, and became the official communist philosophy inherited from the German Social Democrats. However, the compatibility of this tradition with the stochastic basis of the material world is questionable. Nineteenth-century materialists like Boltzmann had previously struggled with the problem of directional change in a world governed by chance and the laws of thermodynamics. How should we understand the same paradox in the context of history?"
+      ]
+    },
+    {
+      "id": "dm-ch11-075",
+      "type": "paragraph",
+      "page": "220",
+      "zh": [
+        "苏联的“辩证唯物主义”（Diamat）学说，在多大程度上与本书迄今所阐述的唯物主义相容？"
+      ],
+      "en": [
+        "To what extent is the Soviet doctrine of ‘Diamat’ compatible with the account of materialism we have been giving in this book?"
+      ]
+    },
+    {
+      "id": "dm-ch11-076",
+      "type": "paragraph",
+      "page": "220",
+      "zh": [
+        "长期被奉为正统权威的斯大林提出了",
+        {
+          "type": "note",
+          "id": "dm-11-16"
+        },
+        "唯物辩证法的以下四项原则："
+      ],
+      "en": [
+        "Stalin, for long the orthodox authority, gave",
+        {
+          "type": "note",
+          "id": "dm-11-16"
+        },
+        " the following four principles of materialist dialectics:"
+      ]
+    },
+    {
+      "id": "dm-ch11-077",
+      "type": "paragraph",
+      "page": "220",
+      "zh": [
+        "1. 自然界是相互联系和相互决定的"
+      ],
+      "en": [
+        "1. Nature is connected and determined"
+      ]
+    },
+    {
+      "id": "dm-ch11-078",
+      "type": "paragraph",
+      "page": "220",
+      "zh": [
+        "2. 自然界处于持续运动和变化的状态"
+      ],
+      "en": [
+        "2. Nature is a state of continuous motion and change"
+      ]
+    },
+    {
+      "id": "dm-ch11-079",
+      "type": "paragraph",
+      "page": "220",
+      "zh": [
+        "3. 自然界的量变导致质变"
+      ],
+      "en": [
+        "3. Natural quantitative change leads to qualitative change"
+      ]
+    },
+    {
+      "id": "dm-ch11-080",
+      "type": "paragraph",
+      "page": "220",
+      "zh": [
+        "4. 矛盾是自然界所固有的"
+      ],
+      "en": [
+        "4. Contradictions are inherent in nature"
+      ]
+    },
+    {
+      "id": "dm-ch11-081",
+      "type": "paragraph",
+      "page": "220",
+      "zh": [
+        "我们将依次考察这些原则。"
+      ],
+      "en": [
+        "We will consider these in turn."
+      ]
+    },
+    {
+      "id": "dm-ch11-082",
+      "type": "subheading",
+      "page": "220",
+      "zh": [
+        "自然界是相互联系和相互决定的"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Nature is connected and determined"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-083",
+      "type": "quote",
+      "page": "220",
+      "zh": [
+        "与形而上学相反，辩证法并不把自然界看作事物和现象的偶然聚集，仿佛它们彼此毫无联系、相互孤立、相互独立；而把自然界看作一个相互联系的完整整体，其中事物和现象彼此有机联系、相互依存、相互决定。",
+        {
+          "type": "note",
+          "id": "dm-11-17"
+        }
+      ],
+      "en": [
+        "Contrary to metaphysics, dialectics does not regard nature as an accidental agglomeration of things, of phenomena, unconnected with, isolated from, and independent of, each other, but as a connected and integral whole, in which things, phenomena ,are organically connected with, dependent on, and determined by, each other.",
+        {
+          "type": "note",
+          "id": "dm-11-17"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-084",
+      "type": "paragraph",
+      "page": "220",
+      "zh": [
+        "这一论述立即引人注意的一点，是它完全属于正统力学。在两次世界大战之间，苏联的“机械论者”与德博林派曾展开激烈争论。",
+        {
+          "type": "note",
+          "id": "dm-11-18"
+        },
+        "但斯大林在20世纪30年代对辩证唯物主义的阐述所说的、自然界通过超距作用力体现的决定关系和联系，正是经典力学和量子力学的共同基础。在量子力学中，情况也相同，正如我们在[sec:qcrypt]节对量子密码学的论述所示。物理学家玻姆",
+        {
+          "type": "note",
+          "id": "dm-11-19"
+        },
+        "将其称为实在的“隐含序”。因此，断言自然界具有决定性并相互联系，并非辩证法所特有的东西。辩证唯物主义若持这一观点，那是因为它忠实地追随了力学。"
+      ],
+      "en": [
+        "What strikes one immediately about this is that it is absolutely orthodox mechanics. Within the USSR in the interwar period, there had been a vigourous debate between the ‘mechanists’ and the Deborinists.",
+        {
+          "type": "note",
+          "id": "dm-11-18"
+        },
+        " But Stalin’s 1930s exposition on dialectical materialism states that nature’s determination and connection via action at a distance forces are fundamental to both classical and quantum mechanics. In quantum mechanics, as our account of quantum cryptography in Section [sec:qcrypt] shows, the same applies. The physicist Bohm",
+        {
+          "type": "note",
+          "id": "dm-11-19"
+        },
+        " called this the ‘implicate order’ of reality. So an assertion that nature is deterministic and connected is not something specifically dialectical. If dialectical materialism held this, it was because it was a faithful follower of mechanics."
+      ],
+      "review": "原书此处的交叉引用未解析，印作“Section [sec:qcrypt]”；本稿保留该标记。"
+    },
+    {
+      "id": "dm-ch11-085",
+      "type": "subheading",
+      "page": "220",
+      "zh": [
+        "自然界处于持续运动和变化的状态"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Nature is a state of continuous motion and change"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-086",
+      "type": "quote",
+      "page": "220",
+      "zh": [
+        "与形而上学相反，辩证法认为，自然界并非处于静止不动、停滞不变的状态，而是处于持续运动和变化、持续更新和发展的状态；其中总有某些事物在产生和发展，也总有某些事物在瓦解和消亡。",
+        {
+          "type": "note",
+          "id": "dm-11-20"
+        }
+      ],
+      "en": [
+        "Contrary to metaphysics, dialectics holds that nature is not a state of rest and immobility, stagnation and immutability, but a state of continuous movement and change, of continuous renewal and development, where something is always arising and developing, and something always disintegrating and dying away.",
+        {
+          "type": "note",
+          "id": "dm-11-20"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-087",
+      "type": "paragraph",
+      "page": "221",
+      "zh": [
+        "运动是任何力学动力学理论的基础。一切统计力学也建立在这样一幅图景之上。通过斯密、恩格斯和达尔文，这幅图景被扩展到社会和生物学领域。确实，自古代原子论者以来，所有唯物主义者都主张自然界中存在持续的运动和变化。"
+      ],
+      "en": [
+        "Motion underlies any mechanical theory of dynamics. All statistical mechanics, too, are based on such a picture. With Smith, Engels and Darwin it gets extended to society and biology. Continuous motion and change in nature have indeed been asserted by all materialists since the ancient atomists."
+      ]
+    },
+    {
+      "id": "dm-ch11-088",
+      "type": "quote",
+      "page": "221",
+      "zh": [
+        "太阳运行许多年之后，手指上的戒指因佩戴而在内侧变薄，檐下滴水在石头上凿出凹穴，弯曲的铁犁铧在田间不知不觉地磨损；我们看见石铺街道被众人的脚步磨平，城门旁的青铜雕像也显出右手的消瘦，那是无数过路人向它致意时触摸的结果。"
+      ],
+      "en": [
+        "after the revolution of many of the sun’s years a ring on the finger is thinned on the under side by wearing, the dripping from the eaves hollows a stone, the bent plowshare of iron imperceptibly decreases in the fields, and we behold the stone-paved streets worn down by the feet of the multitude; the brass statues too at the gates show their right hands to be wasted by the touch of the numerous passers by who greet them."
+      ]
+    },
+    {
+      "id": "dm-ch11-089",
+      "type": "quote",
+      "page": "221",
+      "zh": [
+        "因此，我们看到这些东西因这样磨损而变小；但在任何给定时刻究竟有哪些物体离去，视觉的本性却严严实实地阻止我们看见。"
+      ],
+      "en": [
+        "These things then we see are lessened, since they have been thus worn down; but what bodies depart at any given time the nature of vision has jealously shut out our seeing."
+      ]
+    },
+    {
+      "id": "dm-ch11-090",
+      "type": "quote",
+      "page": "221",
+      "zh": [
+        "最后，时间和自然一点一点地给事物添加物体，迫使它们按适当尺度生长，无论怎样用力观看，眼睛也看不见这些物体；同样，无论事物因年岁而衰老腐败，还是悬于海上的岩石被啃啮般的咸水浪沫侵蚀，你都看不见它们在任何给定时刻失去了什么。因此，自然是通过看不见的物体来运作的。",
+        {
+          "type": "note",
+          "id": "dm-11-21"
+        }
+      ],
+      "en": [
+        "Lastly the bodies which time and nature add to things by little and little, constraining them to grow in due measure, no exertion of the eyesight can behold; and so too wherever things grow old by age and decay, and when rocks hanging over the sea are eaten away by the gnawing salt spray, you cannot see what they lose at any given moment Nature therefore works by unseen bodies.",
+        {
+          "type": "note",
+          "id": "dm-11-21"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-091",
+      "type": "subheading",
+      "page": "221",
+      "zh": [
+        "自然界的量变导致质变"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Natural quantitative change leads to qualitative change"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-092",
+      "type": "paragraph",
+      "page": "221",
+      "zh": [
+        "量变导致质变这一观念，似乎因恩格斯的《自然辩证法》而广为流传。该书认为，在物理学中，我们研究物体的分子状态以及使分子活动起来的运动形式。每一种变化都是量向质的转化，",
+        {
+          "type": "note",
+          "id": "dm-11-22"
+        },
+        "源自物体所固有的或传递给物体的运动的量变。物理常数标示着节点，在这些节点上，运动的增加或减少改变物体的状态，从而把量转化为质。"
+      ],
+      "en": [
+        "The idea that quantitative change leads to qualitative change seems to have gained popularity from Engels’ Dialectics of Nature, which argued that in physics, we work with bodies’ molecular states and motion forms, which bring molecules into play. Every change is a transformation of quantity to quality,",
+        {
+          "type": "note",
+          "id": "dm-11-22"
+        },
+        " resulting from a quantitative change of motion inherent in the body or communicated to it. Physical constants are designations of nodal points where addition/subtraction of motion alters the state of the body, transforming quantity into quality."
+      ]
+    },
+    {
+      "id": "dm-ch11-093",
+      "type": "paragraph",
+      "page": "221",
+      "zh": [
+        "恩格斯在这里描述的，基本上就是我们现在所说的相变现象。他所举的液态与气态之间的变化，确实是相变的例子。不过，与物理学的术语相比，恩格斯谈论量与质时使用的术语含义模糊。物理学家会把相变定义为熵随温度的变化变得不连续的情形：在达到100摄氏度以前，每升高1摄氏度需要1,000卡热量；而从99摄氏度的水变成100摄氏度的蒸汽，则需要540,000卡，增幅巨大。水从表面蒸发时，每克消耗540卡热量。在没有外界热量输入时，水会冷却0.5°C。这只有在密闭容器中才是现实的，而沸点以下的蒸发速率与开尔文温度成正比。对于炉灶上的敞口锅，把1升水升高1摄氏度所需的热量输入，在达到100°C之前是非线性的；到了100°C，仍会发生阶跃式跃变。"
+      ],
+      "en": [
+        "What Engels was describing here is basically what we now call phase-change phenomena. His examples of changes between liquid and gaseous states are valid phase changes. The terminology Engels used though, writing of quantity and quality is ambiguous compared to that used in physics. A physicist would define a phase change as occurring when the change in entropy becomes discontinuous for temperature, you require 1,000 calories per degree Celsius of heating until you reach 100 Celsius, then to go between water at 99 Celsius and steam at 100 Celsius you need 540,000 calories, a huge increase. Water evaporates from the surface using 540 calories of heat per gram. In the absence of external heat, water cools down by 0.5°C. This is realistic only for a closed container, and the evaporation rate below the boiling point is proportional to the temperature in Kelvin. For an open pan on the stove, the heat input required to raise a litre by 1 Celsius will be non-linear up to 100°C, at which point you still get a step jump."
+      ]
+    },
+    {
+      "id": "dm-ch11-094",
+      "type": "paragraph",
+      "page": "221–222",
+      "zh": [
+        "辩证唯物主义话语的问题在于，“量”和“质”这两个术语含糊不清，定义不明确。在熔化和沸腾的例子中，凭常识我们知道固、液、气三种相态之间存在质的区别。但若采用超临界锅炉，即在高于3,200 psi的压力下运行的锅炉，那么液态水与蒸汽就成为无法区分的相。人们可以用质的话语来包装这一现象，说在高于3,200 psi时，水与蒸汽之间没有质的区别；也可以更精确地说，在高于3,200 psi时，加热水不会造成熵的阶跃式跃变。"
+      ],
+      "en": [
+        "The problem with the diamat language is that the terms quantity and quality are vague and ill-defined. In the melting/boiling example, we have a commonsense understanding of there being a qualitative difference between solid, liquid and gas phases. But if we have a super-critical boiler, one that operates above 3,200 psi, then liquid water and steam become indistinguishable as phases. One may dress this up in the language of quality by saying that above 3,200 psi, there is no qualitative difference between water and steam. Or one can be more precise and say that above 3,200 psi, there is no step jump in entropy as we heat the water up."
+      ]
+    },
+    {
+      "id": "dm-ch11-095",
+      "type": "paragraph",
+      "page": "222",
+      "zh": [
+        "恩格斯语言的含糊，使他的论述出现了明显的错误。白炽灯这个例子完全错了。"
+      ],
+      "en": [
+        "The vagueness of Engels’s language leads him to make what are clear errors in his account. The example of the incandescent lamp is completely wrong."
+      ]
+    },
+    {
+      "id": "dm-ch11-096",
+      "type": "paragraph",
+      "page": "222",
+      "zh": [
+        "改变灯的供电电压，灯丝温度便逐渐升高。随着温度上升，不同波长的发光强度逐渐变化，光色从红、橙、黄趋向近乎白色。凡是使用过白炽灯调光器的人，都见过这种现象。这里没有明确的相变，也没有鲜明的阈值电压。发光二极管则有明确的阈值电压，低于它时不发光；超过该阈值之后，发出的光色也不改变。"
+      ],
+      "en": [
+        "If you alter the supply voltage to a lamp you get a gradual rise in the temperature of the filament. As the temperature rises, the intensity of light given off at different wavelengths gradually changes from red, orange and yellow to almost white. Anyone who has used a dimmer control for an incandescent bulb has seen this. There is no distinct phase change and no sharp threshold voltage. With a Light Emitting Diode, there is a distinct threshold voltage below which no light is admitted, and the colour of light emitted does not change above that threshold."
+      ]
+    },
+    {
+      "id": "dm-ch11-097",
+      "type": "paragraph",
+      "page": "222",
+      "zh": [
+        "只有某些系统会发生相变，其他系统则连续变化。这个混乱的灯泡例子，似乎正是恩格斯术语含糊造成的。"
+      ],
+      "en": [
+        "Only some systems undergo phase changes, others change continuously. This confused light bulb example seems to be a consequence of Engels’s ambiguous terminology."
+      ]
+    },
+    {
+      "id": "dm-ch11-098",
+      "type": "paragraph",
+      "page": "222",
+      "zh": [
+        "什么算作质变？什么算作量变？所谓量，他指的是整数，还是连续统？在他关于沸腾相关温度变化的正确例子中，量变沿一个连续尺度发生。他关于白炽灯泡的错误例子也一样。",
+        {
+          "type": "note",
+          "id": "dm-11-23"
+        },
+        "电压是一种模拟变量，也就是连续变量。"
+      ],
+      "en": [
+        "What counts as a qualitative change? What counts as a quantitative change? For quantity, is he referring to whole numbers or to a continuum? In the case of his correct example of temperature change associated with boiling, then the quantitative change is along a continuous scale. The same applies to his faulty example of the incandescent bulb.",
+        {
+          "type": "note",
+          "id": "dm-11-23"
+        },
+        " Voltage is an analogue or continuous variable."
+      ]
+    },
+    {
+      "id": "dm-ch11-099",
+      "type": "paragraph",
+      "page": "222",
+      "zh": [
+        "但在其他地方，恩格斯又希望把量理解为整数。"
+      ],
+      "en": [
+        "But in other places Engels wants quantity to be interpreted in terms of integer numbers."
+      ]
+    },
+    {
+      "id": "dm-ch11-100",
+      "type": "quote",
+      "page": "222",
+      "zh": [
+        "然而，黑格尔所发现的自然规律取得最重要胜利的领域，是化学。化学可以称为研究物体因数量组成改变而发生质变的科学。黑格尔本人已经知道这一点。以氧为例：如果三个原子而非通常的两个原子结合成一个分子，就得到臭氧，一种在气味和反应上都与普通氧大不相同的物体。又如，氧可以按不同的比例与氮或硫结合，每一种比例都产生在质上不同于其他任何一种的物质！笑气（一氧化氮，",
+        {
+          "type": "math",
+          "tex": "\\mathrm{N_2O}"
+        },
+        "）与硝酸酐（五氧化二氮，",
+        {
+          "type": "math",
+          "tex": "\\mathrm{N_2O_5}"
+        },
+        "）多么不同！前者是气体，后者在常温下是固态结晶物质。然而，二者在组成上的全部区别，仅在于后者含氧量是前者的五倍；二者之间还有另外三种氮的氧化物（",
+        {
+          "type": "math",
+          "tex": "\\mathrm{N0}"
+        },
+        "、",
+        {
+          "type": "math",
+          "tex": "\\mathrm{N_2O_3}"
+        },
+        "、",
+        {
+          "type": "math",
+          "tex": "\\mathrm{NO_2}"
+        },
+        "），每一种在质上都与前两种及彼此不同。",
+        {
+          "type": "note",
+          "id": "dm-11-24"
+        }
+      ],
+      "en": [
+        "The sphere, however, in which the law of nature discovered by Hegel celebrates its most important triumphs is that of chemistry. Chemistry can be termed the science of the qualitative changes of bodies as a result of changed quantitative composition. That was already known to Hegel himself. As in the case of oxygen: if three atoms unite into a molecule, instead of the usual two, we get ozone, a body which is very considerably different from ordinary oxygen in its odour and reactions. Again, one can take the various proportions in which oxygen combines with nitrogen or sulphur, each of which produces a substance qualitatively different from any of the others! How different laughing gas (nitrogen monoxide ",
+        {
+          "type": "math",
+          "tex": "\\mathrm{N_2O}"
+        },
+        " ) is from nitric anhydride (nitrogen pentoxide, ",
+        {
+          "type": "math",
+          "tex": "\\mathrm{N_2O_5}"
+        },
+        ") ! The first is a gas, the second at ordinary temperatures a solid crystalline substance. And yet the whole difference in composition is that the second contains five times as much oxygen as the first, and between the two of them are three more oxides of nitrogen (",
+        {
+          "type": "math",
+          "tex": "\\mathrm{N0}"
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "\\mathrm{N_2O_3}"
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "\\mathrm{NO_2}"
+        },
+        "), each of which is qualitatively different from the first two and from each other.",
+        {
+          "type": "note",
+          "id": "dm-11-24"
+        }
+      ],
+      "review": "原书将笑气N₂O称作“nitrogen monoxide”（一氧化氮）；N₂O的通常中文名称为一氧化二氮。后列第一式原书印作“N0”（末位为数字零），依上下文应为NO。正文保留原书写法。"
+    },
+    {
+      "id": "dm-ch11-101",
+      "type": "paragraph",
+      "page": "223",
+      "zh": [
+        "于是，我们竟有了一条由黑格尔发现的“自然规律”！"
+      ],
+      "en": [
+        "So, we have a ‘law of nature’ discovered by Hegel!"
+      ]
+    },
+    {
+      "id": "dm-ch11-102",
+      "type": "paragraph",
+      "page": "223",
+      "zh": [
+        "得了吧，弗雷德。你要找的名字是道尔顿，约翰·道尔顿，而不是黑格尔。被引为这条“规律”出处的黑格尔《逻辑学》出版于1812年；道尔顿的《化学哲学新体系》早在四年前，即1808年，就已问世。这充其量是黑格尔事后把他人的发现说成自己的发现，就像1801年他声称自己对牛顿万有引力定律有更高明的证明一样。我们在第3.4节已经指出，黑格尔这些关于独创性的主张是不连贯的胡言乱语。这里也是如此。化合物中各组成元素的原子必须以自然数之比存在，这是道尔顿原子理论不可分割的一部分。恩格斯援引黑格尔，在水沸腾时的相变与这些数值比例之间作类比，其不连贯程度与黑格尔关于引力的论证如出一辙。"
+      ],
+      "en": [
+        "Give us a break Fred. The name you are looking for is Dalton, John Dalton, not Hegel. Hegel’s ",
+        {
+          "type": "em",
+          "children": [
+            "Science of Logic"
+          ]
+        },
+        ", cited as the source for this ‘law’ is dated 1812. Dalton’s ",
+        {
+          "type": "em",
+          "children": [
+            "A New System of Chemical Philosophy"
+          ]
+        },
+        " came out four years earlier in 1808. At best we have a retrospective claim by Hegel to other’s discoveries, as was the case when in 1801 Hegel claimed to have a superior proof of Newton’s law of gravitation. We showed in Section 3.4 that those claims to originality by Hegel were incoherent nonsense. The same applies here. That chemical compounds must contain natural number ratios of atoms of their constituent elements was an integral part of Dalton’s atomic theory. The analogy that Engels, with reference to Hegel, makes between phase change in boiling water and these numeric ratios is as incoherent as Hegel’s arguments about gravity."
+      ]
+    },
+    {
+      "id": "dm-ch11-103",
+      "type": "paragraph",
+      "page": "223",
+      "zh": [
+        "水沸腾的情形中，有一个连续的模拟尺度，即温度；在这一尺度的某些点上发生相变，其标志是另一个模拟尺度，即熵，出现不连续。在化学的情形中，并不存在连续的模拟尺度。逐渐增加氮，并不会使化合物突然改变。在",
+        {
+          "type": "math",
+          "tex": "\\mathrm{NO}"
+        },
+        "与",
+        {
+          "type": "math",
+          "tex": "\\mathrm{N_2O}"
+        },
+        "之间，不可能有",
+        {
+          "type": "math",
+          "tex": "\\mathrm{N}_{1.275}\\mathrm{O}"
+        },
+        "这样的化合物。每种原子的数量都必须是整数。这是原子在化学上不可分的结果。因此，这里并非渐进的量变导致突发的质变，而是存在一组离散的化合物，每种都含有离散数量的原子。"
+      ],
+      "en": [
+        "In the case of water boiling, you have one continuous analogue scale: temperature at certain points on which you get a phase change, marked by a discontinuity in another analogue scale: entropy. In the chemical case, there is no continuous analogue scale. In the chemical case, you do not get a sudden change in compound as you gradually add more Nitrogen. You cannot have a compound ",
+        {
+          "type": "math",
+          "tex": "\\mathrm{N}_{1.275}\\mathrm{O}"
+        },
+        " between ",
+        {
+          "type": "math",
+          "tex": "\\mathrm{NO}"
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "\\mathrm{N_2O}"
+        },
+        ". The number of each type of atom has to be an integer. This is a consequence of the (chemical) indivisibility of the atom. So instead of a gradual quantitative change leading to a sudden qualitative change, you have a discrete set of compounds, each containing discrete numbers of atoms."
+      ]
+    },
+    {
+      "id": "dm-ch11-104",
+      "type": "paragraph",
+      "page": "223",
+      "zh": [
+        "“量转化为质”这条“规律”具有强烈的政治吸引力。关于量变导致质变的说法，可以被理解为一种隐喻：对工人阶级的剥削在量上加重，最终导致突然爆发的暴力革命。把革命比作紧张局势沸腾后溢出的结果，早在19世纪就已有这种用法。",
+        {
+          "type": "note",
+          "id": "dm-11-25"
+        }
+      ],
+      "en": [
+        "The political appeal of the quantity into quality ‘law’ was strong. Statements about quantitative change leading to qualitative change could be taken as a metaphor for the increased quantitative exploitation of the working class leading to a sudden violent revolution. The metaphor of revolutions being the result of tensions boiling over was already in use by the nineteenth century.",
+        {
+          "type": "note",
+          "id": "dm-11-25"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-105",
+      "type": "paragraph",
+      "page": "223",
+      "zh": [
+        "这条所谓量转化为质的普遍规律，与许多唯心主义哲学一样，建立在肤浅的类比和双关之上。作为普遍规律，它对预测毫无用处。事实上，即使对于革命，这种类比是否说得通也值得怀疑。在苏联的革命图像中，群众团结为有组织的队列，向红色未来行进，或聚集在正在演讲的列宁面前。革命发生于熵减之时，也就是群众获得秩序和方向、不再漫无目的地运动之时。"
+      ],
+      "en": [
+        "This alleged general law of quantity into quality is based, like much idealist philosophy, on superficial analogy and ",
+        {
+          "type": "em",
+          "children": [
+            "double entendre"
+          ]
+        },
+        ". As a general law, it is useless for making predictions. Indeed, even in the case of revolutions it is questionable whether the analogy makes sense. In Soviet revolutionary imagery, the masses unite into organized columns, marching towards the red future or gather in front of Lenin as he speaks. Revolution happens when entropy decreases, that is, when the masses gain order and direction instead of moving aimlessly."
+      ]
+    },
+    {
+      "id": "dm-ch11-106",
+      "type": "paragraph",
+      "page": "223",
+      "zh": [
+        "有人可能反驳，相变这个概念有时也颇具隐喻性。如果我们嘲笑黑格尔式的量变质变观念，又为什么允许科学家谈论其他相变？"
+      ],
+      "en": [
+        "It might be objected that the notion of phase change is also sometimes used in a rather metaphorical way. If we ridicule the Hegelian quantity in quality notion, why should we allow scientists to speak of other phase transitions?"
+      ]
+    },
+    {
+      "id": "dm-ch11-107",
+      "type": "paragraph",
+      "page": "223",
+      "zh": [
+        "这种反驳不能成立，因为在科学文献中使用相变一词，就应当证明：当一个变量连续变化时，另一个类似于熵的变量发生了不连续变化。"
+      ],
+      "en": [
+        "No, because, in the scientific literature, when one uses the term phase change, it is expected that one will demonstrate that there is a discontinuity in a variable analogous to entropy while another variable undergoes continuous change."
+      ]
+    },
+    {
+      "id": "dm-ch11-108",
+      "type": "paragraph",
+      "page": "223",
+      "zh": [
+        "让我们举一个使用相变这一术语的非物理学例子，说明这一术语的应用必须满足严格的理论约束。"
+      ],
+      "en": [
+        "Let’s give a non-physics example where the term ",
+        {
+          "type": "em",
+          "children": [
+            "phase transition"
+          ]
+        },
+        " is used and show how the application of the term has to meet tight theoretical constraints."
+      ]
+    },
+    {
+      "id": "dm-ch11-109",
+      "type": "paragraph",
+      "page": "223–224",
+      "zh": [
+        "在符号逻辑中，有一个所谓的可满足性问题（SAT）。给定一个定义在",
+        {
+          "type": "math",
+          "tex": "n"
+        },
+        "个布尔变量",
+        {
+          "type": "math",
+          "tex": "v_1,\\ldots,v_n"
+        },
+        "上的布尔代数公式",
+        {
+          "type": "math",
+          "tex": "F"
+        },
+        "，问题要求找出一种变量真值赋值，使",
+        {
+          "type": "math",
+          "tex": "F"
+        },
+        "为真。"
+      ],
+      "en": [
+        "In symbolic logic, there is something called the satisfaction problem (SAT). The problem takes some formula ",
+        {
+          "type": "math",
+          "tex": "F"
+        },
+        " in Boolean algebra defined over ",
+        {
+          "type": "math",
+          "tex": "n"
+        },
+        " Boolean variables ",
+        {
+          "type": "math",
+          "tex": "v_1,\\ldots,v_n"
+        },
+        " and seeks to find an assignment of truth values to the variables such that ",
+        {
+          "type": "math",
+          "tex": "F"
+        },
+        " is true."
+      ]
+    },
+    {
+      "id": "dm-ch11-110",
+      "type": "paragraph",
+      "page": "224",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "F"
+        },
+        "通常以合取范式给出，例如："
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "F"
+          ]
+        },
+        " is typically given in conjunctive normal form for example:"
+      ]
+    },
+    {
+      "id": "dm-ch11-111",
+      "type": "paragraph",
+      "page": "224",
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}F(v_1,v_2,v_3,v_4)=(v_1+v_2+\\neg v_3)\\cdot(v_3+\\neg v_1+v_4)\\end{aligned}",
+          "display": true
+        }
+      ],
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}F(v_1,v_2,v_3,v_4)=(v_1+v_2+\\neg v_3)\\cdot(v_3+\\neg v_1+v_4)\\end{aligned}",
+          "display": true
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-112",
+      "type": "paragraph",
+      "page": "224",
+      "zh": [
+        "人们观察到，找到这样的变量赋值往往很容易，但有时又十分困难；在极端情况下，需要尝试给",
+        {
+          "type": "math",
+          "tex": "n"
+        },
+        "个变量赋予真或假的全部",
+        {
+          "type": "math",
+          "tex": "2^n"
+        },
+        "种不同方案。"
+      ],
+      "en": [
+        "It has been observed that it is often very easy to find such an assignment of variables, but at other times it becomes very hard, requiring in the limiting case that one tries all ",
+        {
+          "type": "math",
+          "tex": "2^n"
+        },
+        " possible distinct assignments of true or false to the ",
+        {
+          "type": "math",
+          "tex": "n"
+        },
+        " variables."
+      ]
+    },
+    {
+      "id": "dm-ch11-113",
+      "type": "paragraph",
+      "page": "224",
+      "zh": [
+        "对于另一些",
+        {
+          "type": "math",
+          "tex": "F"
+        },
+        "，却很容易证明不存在任何能使",
+        {
+          "type": "math",
+          "tex": "F"
+        },
+        "为真的变量赋值。"
+      ],
+      "en": [
+        "For other examples of ",
+        {
+          "type": "em",
+          "children": [
+            "F"
+          ]
+        },
+        ", it turns out to be very easy to prove that there is no possible assignment of variables that will make ",
+        {
+          "type": "em",
+          "children": [
+            "F"
+          ]
+        },
+        " true."
+      ]
+    },
+    {
+      "id": "dm-ch11-114",
+      "type": "paragraph",
+      "page": "224",
+      "zh": [
+        "进一步研究表明，从容易满足到难以满足、再到容易证明不可满足的变化，发生在一个被称为相变的临界点。",
+        {
+          "type": "note",
+          "id": "dm-11-26"
+        },
+        "这一领域的实验工作为相变这一用语提供了依据：它表明，",
+        {
+          "type": "math",
+          "tex": "F"
+        },
+        "存在一个约束程度的度量",
+        {
+          "type": "note",
+          "id": "dm-11-27"
+        },
+        {
+          "type": "math",
+          "tex": "m"
+        },
+        "，随着",
+        {
+          "type": "math",
+          "tex": "m"
+        },
+        "增大，问题难度先急剧上升，随后下降。为什么这类似于相变？"
+      ],
+      "en": [
+        "Further investigation has shown that the change from easy to satisfy, to hard to satisfy, to easy to prove unsatisfiable occurs at a critical point, which has been termed a phase transition.",
+        {
+          "type": "note",
+          "id": "dm-11-26"
+        },
+        " The experimental work in this field justifies the term phase transition by showing that there is a constrainedness measure",
+        {
+          "type": "note",
+          "id": "dm-11-27"
+        },
+        " ",
+        {
+          "type": "em",
+          "children": [
+            "m"
+          ]
+        },
+        " on ",
+        {
+          "type": "em",
+          "children": [
+            "F"
+          ]
+        },
+        " such that as ",
+        {
+          "type": "em",
+          "children": [
+            "m"
+          ]
+        },
+        " increases the hardness of the problem rises sharply and then falls. Why is it like a phase transition?"
+      ]
+    },
+    {
+      "id": "dm-ch11-115",
+      "type": "paragraph",
+      "page": "224",
+      "zh": [
+        "它与水沸腾有什么共同之处？二者相似，是因为约束水平",
+        {
+          "type": "math",
+          "tex": "m"
+        },
+        "相当于温度",
+        {
+          "type": "math",
+          "tex": "T"
+        },
+        "，而难度（用计算运行时间衡量）相当于",
+        {
+          "type": "math",
+          "tex": "\\frac{dH}{dT}"
+        },
+        "，即熵对温度的导数。显然，在水转化为蒸汽的相变中，",
+        {
+          "type": "math",
+          "tex": "\\frac{dH}{dT}"
+        },
+        "出现尖峰，类似于",
+        {
+          "type": "math",
+          "tex": "F"
+        },
+        "的难度随着",
+        {
+          "type": "math",
+          "tex": "m"
+        },
+        "增大而出现尖峰。"
+      ],
+      "en": [
+        "What does it have in common with water boiling? They are similar because the constraint level ",
+        {
+          "type": "math",
+          "tex": "m"
+        },
+        " acts as an analogue for temperature ",
+        {
+          "type": "math",
+          "tex": "T"
+        },
+        ", and the hardness (measured as computational run time) is analogous to ",
+        {
+          "type": "math",
+          "tex": "\\frac{dH}{dT}"
+        },
+        " the derivative of entropy with respect to temperature. Obviously, in the water-to-steam phase, transition ",
+        {
+          "type": "math",
+          "tex": "\\frac{dH}{dT}"
+        },
+        " spikes analogous to the way that the hardness of ",
+        {
+          "type": "math",
+          "tex": "F"
+        },
+        " spikes as ",
+        {
+          "type": "math",
+          "tex": "m"
+        },
+        " increases."
+      ]
+    },
+    {
+      "id": "dm-ch11-116",
+      "type": "subheading",
+      "page": "224",
+      "zh": [
+        "矛盾是自然界所固有的"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Contradictions are inherent in nature"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-117",
+      "type": "paragraph",
+      "page": "224",
+      "zh": [
+        "辩证唯物主义的支持者说，他们所说的“矛盾”存在于现实世界中，而不只存在于逻辑陈述中。显然，他们使用这个词的含义，与它通常的含义有所不同。形式逻辑的矛盾——非（非x且x）；x或非x——取决于真值的性质。但斯大林或毛泽东所说的矛盾并非这个意思。斯大林这样写道："
+      ],
+      "en": [
+        "Supporters of dialectical materialism say that what they call ‘contradictions’ exist in the real world, not just in logical statements. It is clear that they are using the word in a somewhat different sense to what it usually means. Formal logical contradictions – not (not x and x); x or not x – depend on properties of truth values. But this is not what Stalin or Mao meant by contradictions. So we have Stalin writing:"
+      ],
+      "review": "原书把所列两式称作“contradictions”。按通常的经典命题逻辑，两式分别表达非矛盾律与排中律，均非矛盾式；此处保留作者表述。"
+    },
+    {
+      "id": "dm-ch11-118",
+      "type": "quote",
+      "page": "224",
+      "zh": [
+        "与形而上学相反，辩证法认为，内在矛盾是自然界一切事物和现象所固有的，因为它们都有否定和肯定的方面，有过去和未来，有正在消亡的东西和正在发展的东西；而这些对立面之间的斗争，即新与旧、正在消亡的与正在诞生的、正在消失的与正在发展的东西之间的斗争，构成了发展过程的内部内容，构成了量变转化为质变的内部内容。",
+        {
+          "type": "note",
+          "id": "dm-11-28"
+        }
+      ],
+      "en": [
+        "Contrary to metaphysics, dialectics holds that internal contradictions are inherent in all things and phenomena of nature, for they all have their negative and positive sides, a past and a future, something dying away and something developing; and that the struggle between these opposites, the struggle between the old and the new, between that which is dying away and that which is being born, between that which is disappearing and that which is developing, constitutes the internal content of the process of development, the internal content of the transformation of quantitative changes into qualitative changes.",
+        {
+          "type": "note",
+          "id": "dm-11-28"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-119",
+      "type": "paragraph",
+      "page": "224",
+      "zh": [
+        "所以，斯大林说矛盾，是以隐喻的方式谈论世界中的变化过程。但为什么承认变化就被认为是辩证法所特有的？"
+      ],
+      "en": [
+        "So, by contradiction, Stalin is talking metaphorically about the process of change in the world. But why is the recognition of change supposed to be something specific to dialectics?"
+      ]
+    },
+    {
+      "id": "dm-ch11-120",
+      "type": "paragraph",
+      "page": "224",
+      "zh": [
+        "事物有过去和未来，事物发展又消亡，这是人人都承认的。用“矛盾”这个术语来指称这一点，究竟增加了什么特殊成分？"
+      ],
+      "en": [
+        "That things have a past and a future, that things develop and die, is recognized by everyone. What special ingredient is added by using the term ‘contradiction’ to refer to this?"
+      ]
+    },
+    {
+      "id": "dm-ch11-121",
+      "type": "paragraph",
+      "page": "225",
+      "zh": [
+        "斯大林详细解释其含义时，诉诸的不是辩证法，而是马克思所谓的唯物主义历史理论。斯大林在这里称之为“研究社会现象的历史方法”。"
+      ],
+      "en": [
+        "When Stalin elaborates on what he means, he has recourse not to dialectics but to what Marx had called the materialist theory of history. Stalin refers to it here as ‘the historical approach to social phenomena’."
+      ]
+    },
+    {
+      "id": "dm-ch11-122",
+      "type": "quote",
+      "page": "225",
+      "zh": [
+        "在现代条件下，奴隶制会是无意义、愚蠢而不自然的。但在原始公社制度解体的条件下，奴隶制却是完全可以理解而且自然的现象，因为它代表着相对于原始公社制度的进步。"
+      ],
+      "en": [
+        "The slave system would be senseless, stupid and unnatural under modern conditions. But under the conditions of a disintegrating primitive communal system, the slave system is a quite understandable and natural phenomenon, since it represents an advance on the primitive communal system"
+      ]
+    },
+    {
+      "id": "dm-ch11-123",
+      "type": "quote",
+      "page": "225",
+      "zh": [
+        "……"
+      ],
+      "en": [
+        ". . ."
+      ]
+    },
+    {
+      "id": "dm-ch11-124",
+      "type": "quote",
+      "page": "225",
+      "zh": [
+        "一切都取决于条件、时间和地点。"
+      ],
+      "en": [
+        "Everything depends on the conditions, time and place."
+      ]
+    },
+    {
+      "id": "dm-ch11-125",
+      "type": "quote",
+      "page": "225",
+      "zh": [
+        "显然，没有这种研究社会现象的历史方法，历史科学就不可能存在和发展；因为只有这种方法，才能使历史科学免于沦为偶然事件的杂乱集合和荒谬错误的堆积。",
+        {
+          "type": "note",
+          "id": "dm-11-29"
+        }
+      ],
+      "en": [
+        "It is clear that without such a historical approach to social phenomena, the existence and development of the science of history is impossible; for only such an approach saves the science of history from becoming a jumble of accidents and an agglomeration of most absurd mistakes.",
+        {
+          "type": "note",
+          "id": "dm-11-29"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-126",
+      "type": "paragraph",
+      "page": "225",
+      "zh": [
+        "正如我们在第5.1节所述，亚当·斯密已经清楚地认识到，社会形式、生产关系及其相应的政治上层建筑是相继更替的。斯密并不觉得需要借助矛盾或辩证法来解释这一点。马克思和恩格斯在首次阐述历史唯物主义的《德意志意识形态》中，虽然从未提到辩证法，却确实经常使用矛盾这个术语。以下只是《德意志意识形态》中的几个例子，马克思和恩格斯在其中以后来成为正统“辩证唯物主义”的方式使用矛盾一词："
+      ],
+      "en": [
+        "That there are successive social forms, successive relations of production and associated political superstructures was already evident to Adam Smith, as we have recounted in Section 5.1. Smith felt no need to invoke contradiction or dialectics to explain this. In their own first account of historical materialism, ",
+        {
+          "type": "em",
+          "children": [
+            "The German Ideology"
+          ]
+        },
+        ", Marx and Engels did often use the term contradiction even though they never referred to dialectics. Here are just a few examples from ",
+        {
+          "type": "em",
+          "children": [
+            "The German Ideology"
+          ]
+        },
+        " where Marx and Engels use the term contradiction in what later became the orthodox ‘diamat’ style:"
+      ]
+    },
+    {
+      "id": "dm-ch11-127",
+      "type": "quote",
+      "page": "225",
+      "zh": [
+        "分工意味着单个个人或单个家庭的利益与一切彼此交往的个人的共同利益之间的矛盾。"
+      ],
+      "en": [
+        "the division of labour implies the ",
+        {
+          "type": "em",
+          "children": [
+            "contradiction"
+          ]
+        },
+        " between the interest of the separate individual or the individual family and the communal interest of all individuals who have intercourse with one another."
+      ]
+    },
+    {
+      "id": "dm-ch11-128",
+      "type": "quote",
+      "page": "225",
+      "zh": [
+        "……"
+      ],
+      "en": [
+        ". . ."
+      ]
+    },
+    {
+      "id": "dm-ch11-129",
+      "type": "quote",
+      "page": "225",
+      "zh": [
+        "各个市民的生活条件，由于与现存关系以及由这些关系决定的劳动方式相矛盾，变成了他们所有人共有的、独立于每个个人的条件。市民在摆脱封建束缚的程度上创造了这些条件，同时又在受自身与既存封建制度的对立所决定的程度上，被这些条件所塑造。当各个城市开始联合时，这些共同条件便发展成阶级条件。相同的条件、相同的矛盾、相同的利益，必然在各地大体上产生相同的习俗。"
+      ],
+      "en": [
+        "The conditions of life of the individual burghers became, on account of their ",
+        {
+          "type": "em",
+          "children": [
+            "contradiction"
+          ]
+        },
+        " to the existing relationships and of the mode of labour determined by these, conditions which were common to them all and independent of each individual. The burghers had created the conditions insofar as they had torn themselves free from feudal ties, and were created by them insofar as they were determined by their antagonism to the feudal system which they found in existence. When the individual towns began to enter into associations, these common conditions developed into class conditions. The same conditions, the same ",
+        {
+          "type": "em",
+          "children": [
+            "contradiction"
+          ]
+        },
+        ", the same interests necessarily called forth on the whole similar customs everywhere."
+      ]
+    },
+    {
+      "id": "dm-ch11-130",
+      "type": "quote",
+      "page": "225",
+      "zh": [
+        "……"
+      ],
+      "en": [
+        ". . ."
+      ]
+    },
+    {
+      "id": "dm-ch11-131",
+      "type": "quote",
+      "page": "225–226",
+      "zh": [
+        "生产力与交往形式之间的这种矛盾，正如我们所见，在过去的历史中曾多次发生，虽然并未危及其基础，却必然每次都以革命的形式爆发，同时呈现出各种附属形式，如全面的冲突、不同阶级之间的冲突、意识的矛盾、思想斗争等等，以及政治冲突等等。",
+        {
+          "type": "note",
+          "id": "dm-11-30"
+        }
+      ],
+      "en": [
+        "This ",
+        {
+          "type": "em",
+          "children": [
+            "contradiction"
+          ]
+        },
+        " between the productive forces and the form of intercourse, which, as we saw, has occurred several times in past history, without, however, endangering the basis, necessarily on each occasion burst out in a revolution, taking on at the same time various subsidiary forms, such as all-embracing collisions, collisions of various classes, ",
+        {
+          "type": "em",
+          "children": [
+            "contradiction"
+          ]
+        },
+        " of consciousness, battle of ideas etc, political conflict etc.",
+        {
+          "type": "note",
+          "id": "dm-11-30"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-132",
+      "type": "paragraph",
+      "page": "226",
+      "zh": [
+        "1932年，《德意志意识形态》出版，引入了“矛盾”这一术语。斯大林在1938年撰写自己的文本时，想必已熟悉这个术语。“阶级矛盾”是较晚才进入正统马克思主义的说法，首次出现在布哈林1925年著作《历史唯物主义》的英文版中。在毛泽东的辩证法中，这种意义上的矛盾成为核心。"
+      ],
+      "en": [
+        "In 1932, ",
+        {
+          "type": "em",
+          "children": [
+            "The German Ideology"
+          ]
+        },
+        " was published and introduced the term ‘contradiction’. Stalin would have been familiar with this term when he wrote his own text in 1938. The phrase ‘class contradiction’ is a relatively late addition to orthodox Marxism, first appearing in the English version of Bukharin’s 1925 book ",
+        {
+          "type": "em",
+          "children": [
+            "Historical Materialism"
+          ]
+        },
+        ". In Maoist dialectics, this sense of contradiction became central."
+      ]
+    },
+    {
+      "id": "dm-ch11-133",
+      "type": "subheading",
+      "page": "226",
+      "zh": [
+        "毛泽东对辩证法的阐述"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Mao’s account of dialectics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-134",
+      "type": "paragraph",
+      "page": "226",
+      "zh": [
+        "毛泽东的《矛盾论》",
+        {
+          "type": "note",
+          "id": "dm-11-31"
+        },
+        "是迄今出版的最具影响力的辩证法著作。它的影响有两个方面。首先，中国的庞大规模使它得以大量印行，拥有数千万读者。但这之所以可能，正是因为以其作者为领导的中国共产党人，把以《矛盾论》为基础的政治战略付诸实践，取得胜利并建立了中华人民共和国。"
+      ],
+      "en": [
+        "Mao’s ",
+        {
+          "type": "em",
+          "children": [
+            "On Contradiction"
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-11-31"
+        },
+        " was the most influential work of dialectics ever published. Its influence was twofold. Firstly, the great size of China means that it was printed in huge numbers and read by tens of millions. But that was only possible because the Chinese Communists, led by its author, put into practice a political strategy based on ",
+        {
+          "type": "em",
+          "children": [
+            "On Contradiction"
+          ]
+        },
+        " and emerged victorious to establish the People’s Republic of China."
+      ]
+    },
+    {
+      "id": "dm-ch11-135",
+      "type": "paragraph",
+      "page": "226",
+      "zh": [
+        "这篇文章比斯大林的《论辩证唯物主义和历史唯物主义》早一年问世；阅读它，必须兼顾当时苏联正在进行的争论和中国革命战争的背景。"
+      ],
+      "en": [
+        "Coming out a year before Stalin’s ",
+        {
+          "type": "em",
+          "children": [
+            "Dialectical and Historical Materialism"
+          ]
+        },
+        ", it has to be read in the context of both the ongoing debates in the Soviet Union and the Chinese Revolutionary War."
+      ]
+    },
+    {
+      "id": "dm-ch11-136",
+      "type": "paragraph",
+      "page": "226",
+      "zh": [
+        "前言将这篇文章定位为对受黑格尔影响的德博林学派的批判："
+      ],
+      "en": [
+        "The preface positions the text as an attack on Hegel-influenced Deborin school:"
+      ]
+    },
+    {
+      "id": "dm-ch11-137",
+      "type": "quote",
+      "page": "226",
+      "zh": [
+        "近年来，苏联哲学界对德博林学派唯心主义的批判，引起了我们的极大兴趣。德博林的唯心主义在中国共产党内产生了很坏的影响，不能说我们党内的教条主义思想与该学派的研究方法毫无关系。因此，我们当前研究哲学，应当以根除教条主义思想为主要目标。"
+      ],
+      "en": [
+        "The criticism to which the idealism of the Deborin school has been subjected in Soviet philosophical circles in recent years has aroused great interest among us. Deborin’s idealism has exerted a very bad influence in the Chinese Communist Party, and it cannot be said that the dogmatist thinking in our Party is unrelated to the approach of that school. Our present study of philosophy should therefore have the eradication of dogmatist thinking as its main objective."
+      ]
+    },
+    {
+      "id": "dm-ch11-138",
+      "type": "paragraph",
+      "page": "226",
+      "zh": [
+        "毛泽东与斯大林一样，认为辩证唯物主义世界观同对时间与变化的解释相联系。他把自己所称的形而上学或庸俗进化论的时间观，与马克思主义观点相对照。他说，庸俗进化论者承认变化，却只承认三种形式：增加、减少和循环重复。从上下文看，他所说的庸俗进化论显然不是达尔文理论，而是对社会演化的简单化观念："
+      ],
+      "en": [
+        "Mao, like Stalin, sees the dialectical materialist world view as being tied to accounts of time and change. He contrasts what he calls metaphysical or vulgar evolutionist accounts of time with the view of Marxism. The vulgar evolutionists, he says, recognize change, but only in three forms: increase, decrease and cyclical repetition. From the context, it is clear that by vulgar evolutionism he does not mean the Darwinian theory, but simplified notions of social evolution:"
+      ]
+    },
+    {
+      "id": "dm-ch11-139",
+      "type": "quote",
+      "page": "226–227",
+      "zh": [
+        "形而上学者认为，宇宙中各种事物及其一切特征，自产生之初就一直如此。此后的一切变化，都只是量的增加或减少。他们主张，一种事物只能作为同一种事物不断重复自身，不能变成别的事物。在他们看来，资本主义剥削、资本主义竞争、资本主义社会的个人主义意识形态等等，都可以在古代奴隶社会，甚至在原始社会中找到，而且会永远不变地存在下去。他们把社会发展的原因归于社会外部的因素，例如地理和气候。"
+      ],
+      "en": [
+        "Metaphysicians hold that all the different kinds of things in the universe and all their characteristics have been the same ever since they first came into being. All subsequent changes have simply been increases or decreases in quantity. They contend that a thing can only keep on repeating itself as the same kind of thing and cannot change into anything different. In their opinion, capitalist exploitation, capitalist competition, the individualist ideology of capitalist society, and so on, can all be found in ancient slave society, or even in primitive society, and will exist forever unchanged. They ascribe the causes of social development to factors external to society, such as geography and climate."
+      ]
+    },
+    {
+      "id": "dm-ch11-140",
+      "type": "paragraph",
+      "page": "227",
+      "zh": [
+        "当今这种庸俗进化论观点的例子，或许可以在图尔钦的著作中找到。",
+        {
+          "type": "note",
+          "id": "dm-11-32"
+        },
+        "他的著作虽然包含丰富的历史内容，并承认阶级冲突，却确实用数千年来基本不变的动力机制来阐述问题。图尔钦理论的关键遗漏，是马克思所说的生产力的发展，以及这种发展如何制约社会的生产关系。"
+      ],
+      "en": [
+        "An example of such a vulgar evolutionist view today might be Turchin’s work,",
+        {
+          "type": "note",
+          "id": "dm-11-32"
+        },
+        " which, despite its historical richness and recognition of class conflict, does formulate things in terms of what are basically unchanging dynamics over thousands of years. The key omission in the Turchin theory is the development of what Marx called the productive forces, and the way such developments condition social relations of production."
+      ]
+    },
+    {
+      "id": "dm-ch11-141",
+      "type": "paragraph",
+      "page": "227",
+      "zh": [
+        "毛泽东认为，社会通过内部冲突发展，而非由外部原因推动。他认为，中国的发展将取决于国内的阶级斗争，即工人、农民和爱国资本家同地主、买办资本家之间的斗争。从印度和中国此后的经济与社会发展轨迹来看，这一观点被证明是正确的。"
+      ],
+      "en": [
+        "Mao believed that societies develop through internal conflicts, not external causes. He argued that China’s development would be determined by the domestic class struggle between workers, peasants and patriotic capitalists versus landlords and comprador capitalists. This perspective proved correct in light of the subsequent economic and social trajectories of India and China."
+      ]
+    },
+    {
+      "id": "dm-ch11-142",
+      "type": "paragraph",
+      "page": "227",
+      "zh": [
+        "他讨论了矛盾的普遍性和特殊性。前者概括恩格斯与列宁的概念，后者则是这篇小册子的重点，分析中国革命中的具体矛盾。他批评教条主义，并突出列举了一些矛盾普遍性的例子；这些例子并不比恩格斯和斯大林的更有说服力。不过，他确实提出了一些值得更多关注的例子。他引用了列宁列出的一组例子，用来说明矛盾的普遍性。"
+      ],
+      "en": [
+        "He discusses the universality and particularity of contradiction. The former is a summary of concepts from Engels and Lenin, while the latter is the main focus of the pamphlet, analyzing specific contradictions in the Chinese Revolution. He criticizes dogmatism and highlights some examples of the universality of contradiction, which are no more convincing than those of Engels and Stalin. He did raise some examples that are worth greater attention. He quotes a list by Lenin of examples that are intended to illustrate the universal nature of contradictions."
+      ]
+    },
+    {
+      "id": "dm-ch11-143",
+      "type": "quote",
+      "page": "227",
+      "zh": [
+        "辩证法内容的这一方面是否正确，必须由科学史来检验。辩证法的这一方面（例如在普列汉诺夫那里）通常没有得到足够注意：对立面的同一性被当作例子的总和［“例如，一粒种子”，“例如，原始共产主义”。恩格斯那里也是如此。但这是“为了普及……”］，而不是当作认识的规律（以及客观世界的规律）。"
+      ],
+      "en": [
+        "The correctness of this aspect of the content of dialectics must be tested by the history of science. This aspect of dialectics (eg in Plekhanov) usually receives inadequate attention: the identity of opposites is taken as the sum-total of examples [’for example, a seed,’ ‘for example, primitive communism.’ The same is true of Engels. But it is ‘in the interests of popularisation . . .’] and not as a law of cognition (and as a law of the objective world)."
+      ]
+    },
+    {
+      "id": "dm-ch11-144",
+      "type": "paragraph",
+      "page": "227",
+      "zh": [
+        "1. 在数学中：＋与－。微分与积分。"
+      ],
+      "en": [
+        "1. In mathematics: + and −. Differential and integral."
+      ]
+    },
+    {
+      "id": "dm-ch11-145",
+      "type": "paragraph",
+      "page": "227",
+      "zh": [
+        "2. 在力学中：作用与反作用。"
+      ],
+      "en": [
+        "2. In mechanics: action and reaction."
+      ]
+    },
+    {
+      "id": "dm-ch11-146",
+      "type": "paragraph",
+      "page": "227",
+      "zh": [
+        "3. 在物理学中：正电与负电。"
+      ],
+      "en": [
+        "3. In physics: positive and negative electricity."
+      ]
+    },
+    {
+      "id": "dm-ch11-147",
+      "type": "paragraph",
+      "page": "227",
+      "zh": [
+        "4. 在化学中：原子的结合与解离。"
+      ],
+      "en": [
+        "4. In chemistry: the combination and dissociation of atoms."
+      ]
+    },
+    {
+      "id": "dm-ch11-148",
+      "type": "paragraph",
+      "page": "227",
+      "zh": [
+        "5. 在社会科学中：阶级斗争。"
+      ],
+      "en": [
+        "5. In social science: the class struggle."
+      ]
+    },
+    {
+      "id": "dm-ch11-149",
+      "type": "quote",
+      "page": "227",
+      "zh": [
+        "对立面的同一性（说它们的“统一性”也许更准确，尽管同一性与统一性这两个术语的区别在这里并不特别重要；在某种意义上，二者都正确），就是承认（发现）自然界（包括思维和社会）的一切现象和过程中存在着相互矛盾、相互排斥、相互对立的趋势。要认识世界的一切过程的“自己运动”、自发发展和实际生活，条件就是把这些过程作为对立面的统一来认识。",
+        {
+          "type": "note",
+          "id": "dm-11-33"
+        },
+        {
+          "type": "note",
+          "id": "dm-11-34"
+        }
+      ],
+      "en": [
+        "The identity of opposites (it would be more correct, perhaps, to say their ‘unity’, — although the difference between the terms identity and unity is not particularly important here. In a certain sense both are correct) is the recognition (discovery) of the contradictory, mutually exclusive, opposite tendencies in all phenomena and processes of nature (including mind and society). The condition for the knowledge of all processes of the world in their ‘self-movement’, in their spontaneous development, in their real life, is the knowledge of them as a unity of opposites.",
+        {
+          "type": "note",
+          "id": "dm-11-33"
+        },
+        {
+          "type": "note",
+          "id": "dm-11-34"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-150",
+      "type": "paragraph",
+      "page": "227–228",
+      "zh": [
+        "我们认为，列宁对这些例子的解释，以及毛泽东对这一解释的默许，具有误导性。为说明这一点，先把例子分组：（1）属于算术，即人类的一种技艺或技术；（2、3、4）属于自然科学；（5）属于社会科学。"
+      ],
+      "en": [
+        "We think that the gloss given by Lenin to these examples, implicitly accepted by Mao, is misleading. To show this, let’s group the examples: (1) applies to arithmetic, a human art or technology; (2,3,4) apply to the natural sciences; (5) applies to social science."
+      ]
+    },
+    {
+      "id": "dm-ch11-151",
+      "type": "paragraph",
+      "page": "228",
+      "zh": [
+        "加法与减法、乘法与除法、微分与积分等，都是数学中互逆运算的例子。如果",
+        {
+          "type": "math",
+          "tex": "\\alpha,\\beta"
+        },
+        "是互逆运算符，那么",
+        {
+          "type": "math",
+          "tex": "((A\\alpha B)\\beta B)=A"
+        },
+        "；把",
+        {
+          "type": "math",
+          "tex": "\\alpha,\\beta"
+        },
+        "称作相反的运算，是完全合理的。"
+      ],
+      "en": [
+        "Addition and subtraction, multiplication and division, differentiation and integration etc., are examples of inverse operators in maths. If ",
+        {
+          "type": "math",
+          "tex": "\\alpha,\\beta"
+        },
+        " are inverse operators then ",
+        {
+          "type": "math",
+          "tex": "((A\\alpha B)\\beta B)=A"
+        },
+        ", and it is quite reasonable to call ",
+        {
+          "type": "math",
+          "tex": "\\alpha,\\beta"
+        },
+        " ",
+        {
+          "type": "em",
+          "children": [
+            "opposite"
+          ]
+        },
+        " operations."
+      ]
+    },
+    {
+      "id": "dm-ch11-152",
+      "type": "paragraph",
+      "page": "228",
+      "zh": [
+        "算术是一门技术性技艺。它涉及实物，如筹码、算珠和账簿中的符号。在20世纪30年代，俄国或中国的商业算术主要使用算盘。加2时，操作者把2颗算珠从右移到左；减2时，把2颗算珠从左移到右。先加后减之后，算珠就回到起初的状态。正是这种回到起始状态的性质，使加法与减法成为作用于状态的互逆运算。"
+      ],
+      "en": [
+        "Arithmetic is a technical art. It involves physical objects such as tokens, beads and signs in ledgers. In the 1930s, commercial arithmetic in Russia or China was largely performed on an abacus. When adding 2, the operator slid 2 beads from right to left. When subtracting 2, the operator moved 2 beads left to right. An addition followed by a subtraction then left the beads in the same state as they started out. It is this return to the starting state that qualifies addition and subtraction as inverse operations on the state."
+      ]
+    },
+    {
+      "id": "dm-ch11-153",
+      "type": "paragraph",
+      "page": "228",
+      "zh": [
+        "但若要声称对立统一具有普遍性，就会遇到问题。首先，很容易找出并非彼此互逆的运算符对。在逻辑中，与（",
+        {
+          "type": "math",
+          "tex": "\\wedge"
+        },
+        "）和或（",
+        {
+          "type": "math",
+          "tex": "\\vee"
+        },
+        "）作为两个基本运算符成对出现，但它们并不互逆：",
+        {
+          "type": "math",
+          "tex": "((A\\wedge B)\\vee B)\\ne A"
+        },
+        "。那么，为什么要声称相反的运算符是根本的呢？"
+      ],
+      "en": [
+        "But if one wants to claim that the unity of opposites is universal, then there are problems. For a start, it is easy to come up with pairs of operators that are not inverse of one another. In logic, AND (",
+        {
+          "type": "math",
+          "tex": "\\wedge"
+        },
+        ") is paired with OR (",
+        {
+          "type": "math",
+          "tex": "\\vee"
+        },
+        ") as the two basic operators, but these are not inverses: ",
+        {
+          "type": "math",
+          "tex": "((A\\wedge B)\\vee B)\\ne A"
+        },
+        ". So why claim that opposite operators are fundamental?"
+      ]
+    },
+    {
+      "id": "dm-ch11-154",
+      "type": "paragraph",
+      "page": "228",
+      "zh": [
+        "这难道不是挑选有利例子来支持论点吗？是的，声称对立统一是数学的根本，是武断的。的确，数学有互逆运算符，但也有其他重要的运算符。"
+      ],
+      "en": [
+        "Is this not cherry-picking examples to support an argument? Yes, it is arbitrary to claim that the unity of opposites is fundamental to mathematics. Yes, mathematics does have inverse operators, but it has other important ones as well."
+      ]
+    },
+    {
+      "id": "dm-ch11-155",
+      "type": "paragraph",
+      "page": "228",
+      "zh": [
+        "如果回到加法和减法使算盘或其他计算器恢复起始状态这一想法，情况会有所不同吗？"
+      ],
+      "en": [
+        "If we go back to the idea that addition and subtraction return an abacus or other calculator to its start state, does this help?"
+      ]
+    },
+    {
+      "id": "dm-ch11-156",
+      "type": "paragraph",
+      "page": "228",
+      "zh": [
+        "使某物恢复起始状态，总是需要一对互逆运算吗？"
+      ],
+      "en": [
+        "Does returning something to its start state always require a pair of inverse operations?"
+      ]
+    },
+    {
+      "id": "dm-ch11-157",
+      "type": "paragraph",
+      "page": "228",
+      "zh": [
+        "不。考虑把一个轮子旋转半圈的操作。执行两次，轮子便回到起始状态。算术中的类似操作是乘以－1。对一个数执行两次，就回到原来的数。因此，回到起点这一观念，同样不能证明对立统一的必然性。"
+      ],
+      "en": [
+        "No. Consider the operation of rotating a wheel by a half circle. If we perform this operation twice, the wheel returns to its starting state. An arithmetic analogue would be multiplication by −1. Apply that twice to a number, and you get back to your starting number. So the idea of a return to a starting point does not establish the necessity of a unity of opposites either."
+      ]
+    },
+    {
+      "id": "dm-ch11-158",
+      "type": "paragraph",
+      "page": "228",
+      "zh": [
+        "接下来三个例子——作用与反作用、正负电荷以及原子的结合与解离——确实有共同之处，但诉诸对立统一，只能部分说明这种共同之处，遗漏了最重要的东西。"
+      ],
+      "en": [
+        "The next three examples of action and reaction, positive and negative charge and combination/dissociation of atoms do have something in common, but reference to a unity of opposites gives only a partial account of what they have in common, missing out the most important thing."
+      ]
+    },
+    {
+      "id": "dm-ch11-159",
+      "type": "paragraph",
+      "page": "228",
+      "zh": [
+        "它们都是底层守恒定律的表达方式，或是这些定律的推论。"
+      ],
+      "en": [
+        "All of these are ways of expressing, or consequences of, underlying conservation laws."
+      ]
+    },
+    {
+      "id": "dm-ch11-160",
+      "type": "paragraph",
+      "page": "228",
+      "zh": [
+        "大小相等、方向相反的力源于动量守恒。例如，地球与月球彼此施加大小相等、方向相反的引力，使这一系统所受的合力为零。如果没有太阳从外部施加的引力，地月系统就会沿直线运动，保持动量守恒。"
+      ],
+      "en": [
+        "Equal and opposite forces result from the conservation of momentum. For instance, the Earth and the Moon exert equal and opposite gravitational forces on each other, resulting in no net force on the system. Without the Sun’s external attraction, the Earth/Moon system would move in a straight line, conserving momentum."
+      ]
+    },
+    {
+      "id": "dm-ch11-161",
+      "type": "paragraph",
+      "page": "228–229",
+      "zh": [
+        "正电与负电涉及另一条基本守恒定律，即电荷守恒。带有＋6电荷的碳14原子核发生",
+        {
+          "type": "math",
+          "tex": "\\beta"
+        },
+        "衰变时，会形成一个带有＋7电荷的氮14原子核，同时产生一个",
+        {
+          "type": "math",
+          "tex": "\\beta"
+        },
+        "粒子，也就是一个带负电的电子。净电荷仍为＋6。电荷守恒意味着，在所有这类核转变中，总净电荷保持不变。"
+      ],
+      "en": [
+        "Positive and negative electricity relate to another basic conservation law: the conservation of charge. When a carbon 14 nucleus with a charge of +6 undergoes β decay, it forms a nitrogen 14 nucleus with a charge of +7 along with a β particle, that is to say, a negatively charged electron. The net charge is still +6. The conservation of charge means that in all such nuclear transitions, the total net charge remains unchanged."
+      ]
+    },
+    {
+      "id": "dm-ch11-162",
+      "type": "paragraph",
+      "page": "229",
+      "zh": [
+        "化学反应中原子的结合与解离，也表达了一种守恒关系：在化学过程中，每种元素的原子总数保持不变。"
+      ],
+      "en": [
+        "Association and disassociation of atoms in the chemical reactions also express a conservation relation: the conservation of the total number of atoms of each element in chemical processes."
+      ]
+    },
+    {
+      "id": "dm-ch11-163",
+      "type": "paragraph",
+      "page": "229",
+      "zh": [
+        "列宁的这三个例子都是守恒过程，并不能证明对立统一这一辩证法原理。它们的共同性质源于卢克莱修的格言：“无中不能生有。”尽管苏联辩证唯物主义批评力学，却正是力学世界观表达了列宁这些例子背后的守恒定律。"
+      ],
+      "en": [
+        "Lenin’s three examples are conservative processes and do not demonstrate the dialectical principle of the unity of opposites. The source of their shared property lies in Lucretius’ maxim, ‘nothing comes from nothing’. Despite Soviet diamat’s criticism of mechanics, it is the mechanical world view that expresses the conservation laws behind Lenin’s examples."
+      ]
+    },
+    {
+      "id": "dm-ch11-164",
+      "type": "paragraph",
+      "page": "229",
+      "zh": [
+        "最后一个例子是阶级冲突。但它也涉及守恒约束，因为在任何社会中，有限的劳动力和有限的工作时间，都意味着剩余劳动增加会使必要劳动减少。这在工人与雇主之间造成不可调和的阶级冲突：资本家阶级占有的劳动每增加一分，可用于满足工人阶级需要的劳动就相应减少一分。"
+      ],
+      "en": [
+        "The last example given is class conflict. But this too relates to a conservation constraint since in every society, a finite labour force and limited working hours mean that an increase in surplus labour leads to a decrease in necessary labour. This creates irreconcilable class conflict between workers and employers, as any increase in labour appropriated by the capitalist class results in a corresponding decrease in the labour available to satisfy the needs of the working class."
+      ]
+    },
+    {
+      "id": "dm-ch11-165",
+      "type": "paragraph",
+      "page": "229",
+      "zh": [
+        "守恒定律恰恰来源于那备受鄙视的力学。源自力学的思维方式，运用守恒原理解释世界如何运作。在第5.3节，我们论证过，马克思揭示资本主义社会“运动规律”的志向，也属于这一思想脉络。"
+      ],
+      "en": [
+        "It is from the despised mechanics that conservation laws originate. Forms of thought deriving from mechanics use conservation principles to explain how the world works. In Section 5.3, we argued that Marx’s ambition to uncover the ‘laws of motion’ of capitalist society belonged within this line of thought."
+      ]
+    },
+    {
+      "id": "dm-ch11-166",
+      "type": "paragraph",
+      "page": "229",
+      "zh": [
+        "毛泽东在《矛盾论》中引用恩格斯和列宁时，只是在向正统敷衍地表示认同。他的创新来自对矛盾特殊性的处理。在这里，他运用了一套全新的概念术语及其含义，把辩证法的语言转化为军事和政治战略的工具。"
+      ],
+      "en": [
+        "When Mao was quoting of Engels and Lenin in ",
+        {
+          "type": "em",
+          "children": [
+            "On Contradiction"
+          ]
+        },
+        ", he was making perfunctory gestures towards orthodoxy. His innovation came in his treatment of the particularity of contradiction. Here, he deployed a set of entirely new conceptual terms and meanings, turning the language of dialectics into a tool of military and political strategy."
+      ]
+    },
+    {
+      "id": "dm-ch11-167",
+      "type": "paragraph",
+      "page": "229",
+      "zh": [
+        "毛泽东主张，不同科学的区别在于它们所研究的矛盾的特殊性。他对科学方法作了如下描述："
+      ],
+      "en": [
+        "Mao claimed that it was the particularity of the contradictions that they studied that distinguished the different sciences. His description of the scientific method was:"
+      ]
+    },
+    {
+      "id": "dm-ch11-168",
+      "type": "quote",
+      "page": "229",
+      "zh": [
+        "这就是认识的两个过程：一个是从特殊到一般，另一个是从一般到特殊。因此，认识总是循环往复地进行，而且只要严格遵循科学方法，每一个循环都会把人类知识提高一步，使之日益深刻。",
+        {
+          "type": "note",
+          "id": "dm-11-35"
+        }
+      ],
+      "en": [
+        "These are the two processes of cognition: one, from the particular to the general, and the other, from the general to the particular. Thus cognition always moves in cycles and (so long as scientific method is strictly adhered to) each cycle advances human knowledge a step higher and so makes it more and more profound.",
+        {
+          "type": "note",
+          "id": "dm-11-35"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-169",
+      "type": "paragraph",
+      "page": "229",
+      "zh": [
+        "只要把术语从力换成矛盾，这一循环过程就与牛顿在《自然哲学的数学原理》导言中所说的完全一致：“哲学的一切困难似乎都在于此——从运动现象探究自然界的力，然后由这些力论证其他现象。”",
+        {
+          "type": "note",
+          "id": "dm-11-36"
+        },
+        "毛泽东是在用矛盾的术语描述牛顿的科学方法。"
+      ],
+      "en": [
+        "Allowing for a shift in vocabulary from forces to contradictions, this cyclical process exactly matches what Newton said in the introduction to the Principia: ‘all the difficulty of philosophy seems to consist in this — from the phænomena of motions to investigate the forces of nature, and then from these forces to demonstrate the other phænomena’.",
+        {
+          "type": "note",
+          "id": "dm-11-36"
+        },
+        " Mao was describing, in his terminology of contradictions, the Newtonian scientific method."
+      ]
+    },
+    {
+      "id": "dm-ch11-170",
+      "type": "paragraph",
+      "page": "230",
+      "zh": [
+        "毛泽东把科学方法与受德博林影响的教条主义者的方法相对照："
+      ],
+      "en": [
+        "Mao contrasted the scientific approach to that of the Deborin influenced dogmatists:"
+      ]
+    },
+    {
+      "id": "dm-ch11-171",
+      "type": "quote",
+      "page": "230",
+      "zh": [
+        "我们的教条主义者是一群懒汉。他们拒绝对具体事物作任何艰苦的研究，把一般真理看作凭空产生的东西，把它们变成纯粹抽象、难以捉摸的公式，从而完全否定并颠倒人类认识真理的正常顺序。他们也不懂认识的两个过程——从特殊到一般，再从一般到特殊——之间的相互联系。他们根本不懂马克思主义的认识论。",
+        {
+          "type": "note",
+          "id": "dm-11-37"
+        }
+      ],
+      "en": [
+        "Our dogmatists are lazy-bones. They refuse to undertake any painstaking study of concrete things, they regard general truths as emerging out of the void, they turn them into purely abstract unfathomable formulas, and thereby completely deny and reverse the normal sequence by which man comes to know truth. Nor do they understand the interconnection of the two processes in cognition – from the particular to the general and then from the general to the particular. They understand nothing of the Marxist theory of knowledge.",
+        {
+          "type": "note",
+          "id": "dm-11-37"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-172",
+      "type": "paragraph",
+      "page": "230",
+      "zh": [
+        "要把更深刻的理解建立在对真实历史条件的具体分析之上，这在本书作者看来很有道理。以马克思的利润率下降规律为例。根据我们的经验，只有对英国从19世纪50年代到20世纪末的积累过程进行具体的统计分析，",
+        {
+          "type": "note",
+          "id": "dm-11-38"
+        },
+        "才能深化对其机制的理解，并精确地用数学表述其动态行为。",
+        {
+          "type": "note",
+          "id": "dm-11-39"
+        },
+        "如果我们只根据《资本论》的论述作推演，而没有实际历史统计数据的指引，就不大可能得出正确的动力学方程。没有那个方程、那条运动规律，就无法理解20世纪最后十年西方盈利能力部分恢复的有限性与矛盾性，也无法理解2000年以来中国与非洲资本回报率的不同趋势。"
+      ],
+      "en": [
+        "This need to base ones deeper understanding on concrete analysis of real historical conditions seems very plausible to the authors. Take the example of Marx’s law of the falling rate of profit. It was our experience that only by means of a concrete statistical analysis of the accumulation process in the UK from the 1850s to the late twentieth century",
+        {
+          "type": "note",
+          "id": "dm-11-38"
+        },
+        " were we able to deepen our understanding of its mechanism and come up with a precise mathematical formulation of its dynamical behaviour.",
+        {
+          "type": "note",
+          "id": "dm-11-39"
+        },
+        " Had we just deduced things from the account given in Capital, without the guidance of actual historical statistics, it is unlikely we would have come up with the correct dynamic equations. Without that eq uation, that law of motion, you cannot grasp the limited and contradictory nature of the partial recovery in Western profitability that occurred in the last decade of the twentieth century, nor the contrasting trends of capital returns in China and Africa since 2000."
+      ]
+    },
+    {
+      "id": "dm-ch11-173",
+      "type": "paragraph",
+      "page": "230",
+      "zh": [
+        "毛泽东写道："
+      ],
+      "en": [
+        "Mao wrote:"
+      ]
+    },
+    {
+      "id": "dm-ch11-174",
+      "type": "quote",
+      "page": "230",
+      "zh": [
+        "任何重大事物的发展过程中，都有许多矛盾。例如，在条件极其复杂的中国资产阶级民主革命过程中，存在着中国社会一切被压迫阶级与帝国主义之间的矛盾，广大人民群众与封建主义之间的矛盾，无产阶级与资产阶级之间的矛盾，农民和城市小资产阶级与资产阶级之间的矛盾，各反动统治集团之间的矛盾，等等。",
+        {
+          "type": "note",
+          "id": "dm-11-40"
+        }
+      ],
+      "en": [
+        "There are many contradictions in the course of development of any major thing. For instance, in the course of China’s bourgeois-democratic revolution, where the conditions are exceedingly complex, there exist the contradiction between all the oppressed classes in Chinese society and imperialism, the contradiction between the great masses of the people and feudalism, the contradiction between the proletariat and the bourgeoisie, the contradiction between the peasantry and the urban petty bourgeoisie on the one hand and the bourgeoisie on the other, the contradiction between the various reactionary ruling groups, and so on.",
+        {
+          "type": "note",
+          "id": "dm-11-40"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-175",
+      "type": "paragraph",
+      "page": "230",
+      "zh": [
+        "这些矛盾具有鲜明的中国特殊性。但同样的多重矛盾话语，也提供了考察西方资本主义危机的一种方式；在这里，需要考虑："
+      ],
+      "en": [
+        "These are very specific to China. But the same language of ",
+        {
+          "type": "em",
+          "children": [
+            "many contradictions"
+          ]
+        },
+        " provides a way of looking at the crisis of capitalism in the West where one has to consider:"
+      ]
+    },
+    {
+      "id": "dm-ch11-176",
+      "type": "paragraph",
+      "page": "230",
+      "zh": [
+        "劳动与资本之间的“矛盾”（阶级冲突），它体现为剩余价值率。"
+      ],
+      "en": [
+        "The ‘contradiction’ (class conflict) between labour and capital expressed in the rate of surplus value."
+      ]
+    },
+    {
+      "id": "dm-ch11-177",
+      "type": "paragraph",
+      "page": "230",
+      "zh": [
+        "生产性劳动与非生产性劳动之间的“矛盾”。用于支付非生产性劳动工资的剩余价值份额越高，能够作为新增生产资料积累的剩余价值流量就越少。"
+      ],
+      "en": [
+        "The ‘contradiction’ between productive and unproductive labour. The higher the portion of surplus value used to pay wages for unproductive labour, the lower the flow surplus value that can be accumulated as a new means of production."
+      ]
+    },
+    {
+      "id": "dm-ch11-178",
+      "type": "paragraph",
+      "page": "231",
+      "zh": [
+        "资本与土地所有权之间的“矛盾”，它体现为剩余价值中用作地租的份额上升。"
+      ],
+      "en": [
+        "The ‘contradiction’ between capital and landed property expressed as a rising share of surplus value going as rent."
+      ]
+    },
+    {
+      "id": "dm-ch11-179",
+      "type": "paragraph",
+      "page": "231",
+      "zh": [
+        "积累本身的矛盾效应：它通过提高资本与劳动之比，趋向于压低利润率。"
+      ],
+      "en": [
+        "The contradictory effect of accumulation itself, which, by raising the capital/ labour ratio, tends to depress the profit rate."
+      ]
+    },
+    {
+      "id": "dm-ch11-180",
+      "type": "paragraph",
+      "page": "231",
+      "zh": [
+        "毛泽东关于社会发展过程中多重矛盾的话语，为思考这些过程提供了框架。或许可以用数学方式表述这些过程，使“矛盾”成为数学项：",
+        {
+          "type": "math",
+          "tex": "s^{\\prime}=\\frac{s}{v}"
+        },
+        "，",
+        {
+          "type": "math",
+          "tex": "p=s-u-r"
+        },
+        "（利润＝剩余价值－非生产性劳动工资－地租）。"
+      ],
+      "en": [
+        "Mao’s language of multiple contradictions in the process of the development of a society provides a framework for thinking through these processes. One can perhaps formulate these in mathematical terms so that the ‘contradictions’ become mathematical terms ",
+        {
+          "type": "math",
+          "tex": "s^{\\prime}=\\frac{s}{v}"
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "p=s-u-r"
+        },
+        " (profit = surplus value - unproductive wages - rent)."
+      ]
+    },
+    {
+      "id": "dm-ch11-181",
+      "type": "paragraph",
+      "page": "231",
+      "zh": [
+        "在其他情况下，可以用较为熟悉的动力学和微积分语言表达矛盾关系。考虑积累与利润率之间的矛盾关系。"
+      ],
+      "en": [
+        "In other cases, one can express contradictory relationships in the more familiar language of dynamics and calculus. Consider the contradictory relationship between accumulation and the rate of profit."
+      ]
+    },
+    {
+      "id": "dm-ch11-182",
+      "type": "paragraph",
+      "page": "231",
+      "zh": [
+        "利润率，用",
+        {
+          "type": "math",
+          "tex": "\\pi"
+        },
+        "表示，由",
+        {
+          "type": "math",
+          "tex": "\\pi=\\frac{p}{K}"
+        },
+        "给出，其中",
+        {
+          "type": "math",
+          "tex": "p"
+        },
+        "的定义同前，",
+        {
+          "type": "math",
+          "tex": "K"
+        },
+        "是资本存量。"
+      ],
+      "en": [
+        "The rate of profit, let us use ",
+        {
+          "type": "math",
+          "tex": "\\pi"
+        },
+        ", is given by ",
+        {
+          "type": "math",
+          "tex": "\\pi=\\frac{p}{K}"
+        },
+        " where ",
+        {
+          "type": "math",
+          "tex": "p"
+        },
+        " as defined earlier, and ",
+        {
+          "type": "math",
+          "tex": "K"
+        },
+        " is capital stock."
+      ]
+    },
+    {
+      "id": "dm-ch11-183",
+      "type": "paragraph",
+      "page": "231",
+      "zh": [
+        "资本存量相对于时间的变化率写作",
+        {
+          "type": "math",
+          "tex": "\\left(\\frac{dK}{dt}\\right)"
+        },
+        "，而它又由",
+        {
+          "type": "math",
+          "tex": "\\frac{dK}{dt}=\\frac{A}{K}"
+        },
+        "给出，其中",
+        {
+          "type": "math",
+          "tex": "A"
+        },
+        "为年度积累。将利润中用于净积累的份额记作",
+        {
+          "type": "math",
+          "tex": "\\alpha=\\frac{A}{p}"
+        },
+        "。现在考察利润率相对于时间的变化率",
+        {
+          "type": "math",
+          "tex": "\\pi^{\\prime}=\\frac{d\\pi}{dt}"
+        },
+        "，也就是说，利润率随时间趋于上升还是下降。由前面的方程显然可见，",
+        {
+          "type": "math",
+          "tex": "\\frac{d\\pi^{\\prime}}{d\\alpha}<0"
+        },
+        "，即利润变化率对积累率的偏导数为负。高积累率导致利润率下降。这是一种负反馈或矛盾关系，在数学中用牛顿与莱布尼茨的微积分描述，在其他领域则用不同术语描述。注意，只要稍作深入分析，就会发现上面最初列表中的所有矛盾都涉及负的（小于0的）偏导数。剩余价值对工资的导数为负，利润对地租的导数为负，等等。"
+      ],
+      "en": [
+        "The rate of change of the capital stock with respect to time would be written ",
+        {
+          "type": "math",
+          "tex": "\\left(\\frac{dK}{dt}\\right)"
+        },
+        " and this in turn is given by ",
+        {
+          "type": "math",
+          "tex": "\\frac{dK}{dt}=\\frac{A}{K}"
+        },
+        " where ",
+        {
+          "type": "math",
+          "tex": "A"
+        },
+        " is annual accumulation. If we denote the share of profits going as net accumulation as ",
+        {
+          "type": "math",
+          "tex": "\\alpha=\\frac{A}{p}"
+        },
+        ". Now consider the rate of change of the rate of profit with respect to time ",
+        {
+          "type": "math",
+          "tex": "\\pi^{\\prime}=\\frac{d\\pi}{dt}"
+        },
+        " that is to say whether the rate of profit tends to rise or fall over time. It is clear from the previous equations that ",
+        {
+          "type": "math",
+          "tex": "\\frac{d\\pi^{\\prime}}{d\\alpha}<0"
+        },
+        " that is to say the partial derivative of the rate of change of profit with respect to the rate of accumulation is negative. ",
+        {
+          "type": "em",
+          "children": [
+            "A"
+          ]
+        },
+        " high rate of accumulation leads to a decrease in the rate of profit. This is a negative feedback or contradictory relationship, described using the calculus of Newton and Leibniz in mathematics or different terminologies in other fields. Note that all of the contradictions in the initial list above, when analysed slightly more closely, involve negative (<0) partial derivatives. The derivative of surplus value with respect to wages is negative. The derivative of profit with respect to rent is negative, etc."
+      ],
+      "review": "原书此处写作dK/dt=A/K。按文中K为资本存量、A为年度积累量的定义，A/K对应相对增长率，而dK/dt对应存量的变化率；此处可能存在记号或排印问题，本稿不作无声更正。原书以d表示导数而在文字中称其为偏导数，亦照录。"
+    },
+    {
+      "id": "dm-ch11-184",
+      "type": "paragraph",
+      "page": "231",
+      "zh": [
+        "事实上，如果用数字电路使逻辑机械化，逻辑否定与负偏导数之间的这种关系就会显现。"
+      ],
+      "en": [
+        "Indeed, if you mechanize logic with digital circuits, this relationship between logical negation and negative partial derivatives emerges."
+      ]
+    },
+    {
+      "id": "dm-ch11-185",
+      "type": "paragraph",
+      "page": "231",
+      "zh": [
+        "在计算机设计中，用导线分别表示逻辑信号本身及其反相信号，是完全标准的做法。如果像恩格斯和列宁谈论唯物辩证法时那样作肤浅的类比，那么同时包含A与非A信号的电路，可以说包含了“矛盾”或“对立面的同一性”；而这些矛盾项确实通过负偏导数联系在一起。在图11.2中，非A信号的电压对A信号电压的偏导数为负。在物理系统中，负偏导数用来表示否定。逻辑是用来描述这些系统的一种抽象，无论系统是电路，还是使用记事本的人。因此，对于任何受负导数支配的物质过程，我们都可以隐喻地使用“否定”这一术语。"
+      ],
+      "en": [
+        "It is absolutely standard practice in computer design to have wires representing both the true and the complement of a logic signal. If we make the kind of superficial analogies that Engels and Lenin use about materialist dialectics, then a circuit that contains the signals A and not A might be said to contain ‘contradiction’ or ‘identity of opposites’, and it turns out that these contradictory terms are related by negative partial derivatives. In Figure 11.2, the partial derivative of the voltage on the not A signal with respect to the voltage on the A signal will be negative. Negative partial derivatives are used to represent negation in physical systems. Logic is an abstraction used to describe these systems, whether they are electric circuits or people using notepads. As such, we can use the term \"negation\" metaphorically for any material process governed by negative derivatives."
+      ]
+    },
+    {
+      "id": "dm-ch11-186",
+      "type": "figure",
+      "page": "232",
+      "zh": [
+        "图11.2 左：计算机芯片中的一种标准元件——CMOS反相器。向输入端A施加正电压，会使上方晶体管关断、下方晶体管导通，从而把非A输出端的电压拉低至地电位。右：反相器的逻辑符号。逻辑符号使我们能够撇开实现逻辑的具体电路。作者绘图。",
+        {
+          "type": "break"
+        },
+        "A：输入信号；not A：非A输出；Vdd：电源；GND：地。"
+      ],
+      "en": [
+        "Figure 11.2 Left a standard component in computer chips is the CMOS inverter. Applying a positive voltage to input A switches the top transistor off and the bottom one on, resulting in the output voltage of not A being driven down to ground. Right the logic symbol for an inverter. A logic symbol allows you to abstract from the specific electrical circuit used to implement the logic. Figure by authors."
+      ],
+      "src": "translations/books/defending-materialism/assets/figure-11-2.jpeg"
+    },
+    {
+      "id": "dm-ch11-187",
+      "type": "paragraph",
+      "page": "232",
+      "zh": [
+        "把同时包含一个信号及其反相信号的电路描述为“矛盾”，或许是相当自由的隐喻；因为虽然A与非A信号可以同时存在于逻辑电路中，但其中只有一个会被置为有效。"
+      ],
+      "en": [
+        "Describing a circuit containing both true and complement of a signal as a ‘contradiction’ is perhaps a rather free metaphor since, while signals A and not A can exist in a logic circuit, only one of them will be asserted."
+      ]
+    },
+    {
+      "id": "dm-ch11-188",
+      "type": "paragraph",
+      "page": "232",
+      "zh": [
+        "毛泽东强调，不同矛盾有其特定的“解决”形式。"
+      ],
+      "en": [
+        "Mao emphsisizes that different contradictions have their own specific forms of ‘resolution’."
+      ]
+    },
+    {
+      "id": "dm-ch11-189",
+      "type": "quote",
+      "page": "232",
+      "zh": [
+        "性质不同的矛盾，只有用性质不同的方法才能解决。例如，无产阶级与资产阶级的矛盾，用社会主义革命的方法解决；广大人民群众与封建制度的矛盾，用民主革命的方法解决；殖民地与帝国主义的矛盾，用民族革命战争的方法解决；社会主义社会中工人阶级与农民阶级之间的矛盾，用农业集体化和机械化的方法解决；",
+        {
+          "type": "note",
+          "id": "dm-11-41"
+        }
+      ],
+      "en": [
+        "Qualitatively different contradictions can only be resolved by qualitatively different methods. For instance, the contradiction between the proletariat and the bourgeoisie is resolved by the method of socialist revolution; the contradiction between the great masses of the people and the feudal system is resolved by the method of democratic revolution; the contradiction between the colonies and imperialism is resolved by the method of national revolutionary war; the contradiction between the working class and the peasant class in socialist society is resolved by the method of collectivisation and mechanisation in agriculture;",
+        {
+          "type": "note",
+          "id": "dm-11-41"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-190",
+      "type": "paragraph",
+      "page": "232",
+      "zh": [
+        "他还引入了“主要矛盾”的概念，大致是指在决定社会发展进程方面最重要的矛盾。主要矛盾这一概念本质上与政治相联系。他说，在资本主义中，“处于矛盾之中的两个力量——无产阶级和资产阶级——构成主要矛盾”。这是因为，这些相互对立的阶级塑造了政治结构。他将它与所谓基本矛盾或根本矛盾区分开来；后者作用于生产关系层面，直到社会发展的某个阶段完成，才会消失。",
+        {
+          "type": "note",
+          "id": "dm-11-42"
+        }
+      ],
+      "en": [
+        "He also introduces the notion of a ‘principal contradiction’, by which he means, roughly, the contradiction that is most important in determining the course of social development. This notion of a ",
+        {
+          "type": "em",
+          "children": [
+            "principle contradiction"
+          ]
+        },
+        " was essentially related to politics. He says that for capitalism, ‘the two forces in contradiction, the proletariat and the bourgeoisie, form the principal contradiction’. That is because these opposing classes shape the structure of politics. He distinguishes this from what he calls a ",
+        {
+          "type": "em",
+          "children": [
+            "basic"
+          ]
+        },
+        " or ",
+        {
+          "type": "em",
+          "children": [
+            "fundamental"
+          ]
+        },
+        " contradiction, which operates at the level of production relations and will not disappear until a given stage in the development of society is completed.",
+        {
+          "type": "note",
+          "id": "dm-11-42"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-191",
+      "type": "quote",
+      "page": "232–233",
+      "zh": [
+        "马克思和恩格斯把事物中的矛盾规律应用于社会历史过程的研究时，发现了生产力与生产关系之间的矛盾，发现了剥削阶级与被剥削阶级之间的矛盾，以及由此产生的经济基础与其上层建筑（政治、意识形态等）之间的矛盾，并发现这些矛盾如何在不同类型的阶级社会中，必然导致不同类型的社会革命。"
+      ],
+      "en": [
+        "When Marx and Engels applied the law of contradiction in things to the study of the socio-historical process, they discovered the contradiction between the productive forces and the relations of production, they discovered the contradiction between the exploiting and exploited classes and also the resultant contradiction between the economic base and its superstructure (politics, ideology etc), and they discovered how these contradictions inevitably lead to different kinds of social revolution in different kinds of class society."
+      ]
+    },
+    {
+      "id": "dm-ch11-192",
+      "type": "quote",
+      "page": "233",
+      "zh": [
+        "马克思把这一规律应用于资本主义社会经济结构的研究时，发现这一社会的基本矛盾，是生产的社会性与所有制的私人性质之间的矛盾。这种矛盾表现为个别企业内部生产的有组织性与整个社会生产的无政府性之间的矛盾。在阶级关系上，它表现为资产阶级与无产阶级之间的矛盾。",
+        {
+          "type": "note",
+          "id": "dm-11-43"
+        }
+      ],
+      "en": [
+        "When Marx applied this law to the study of the economic structure of capitalist society, he discovered that the basic contradiction of this society is the contradiction between the social character of production and the private character of ownership. This contradiction manifests itself in the contradiction between the organized character of production in individual enterprises and the anarchic character of production in society as a whole. In terms of class relations, it manifests itself in the contradiction between the bourgeoisie and the proletariat.",
+        {
+          "type": "note",
+          "id": "dm-11-43"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-193",
+      "type": "paragraph",
+      "page": "233",
+      "zh": [
+        "将这一点应用于现代资本主义，生产力与生产关系之间的矛盾，就以利润率下降趋势的形式产生一种基本经济矛盾。在阶级层面，它表现为工人与雇主围绕工资、工作日及工作条件展开的经济阶级斗争。正是这一阶级矛盾居于主要地位，压倒了资本家与土地所有权之间的阶级冲突。理解这些矛盾之间的关系，就能说明危机如何在经济和政治层面展开。"
+      ],
+      "en": [
+        "Applying this to modern capitalism, the contradiction between the forces and relations of production produces a basic economic contradiction in the tendency of the rate of profit to fall. At the class level, it is expressed in the economic class struggle between workers and employers over wages, the working day and conditions of work. It is this class contradiction that is the principle one, overruling the class conflict between capitalists and landed property. Understanding the relationship between the contradictions explains how the economic and political working out of a crisis can proceed."
+      ]
+    },
+    {
+      "id": "dm-ch11-194",
+      "type": "paragraph",
+      "page": "233",
+      "zh": [
+        "只要政治层面上工人阶级与资本家之间的主要矛盾还没有通过社会主义革命解决，基本经济矛盾就依然存在。利润率下降的趋势并未消除！"
+      ],
+      "en": [
+        "So long as the principle contradiction at the political level between the working class and the capitalists is not resolved by a socialist revolution, the basic economic contradiction persists. The tendency of the rate of profit to fall is not removed!"
+      ]
+    },
+    {
+      "id": "dm-ch11-195",
+      "type": "subheading",
+      "page": "233",
+      "zh": [
+        "作为问题解决方法的辩证法"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Dialectics as problem solving"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch11-196",
+      "type": "paragraph",
+      "page": "233",
+      "zh": [
+        "现在，让我们根据上述讨论，重新审视辩证法的三条经典规律。我们认为，最善意而有成效的理解，是把它们看作分析方法，而不是解释方法。"
+      ],
+      "en": [
+        "Let us now revisit the classic three laws of the dialectic in light of the foregoing discussion. We think that these are most charitably and fruitfully considered as methods of analysis rather than of explanation."
+      ]
+    },
+    {
+      "id": "dm-ch11-197",
+      "type": "paragraph",
+      "page": "233",
+      "zh": [
+        "首先，量向质的转化，如今通常被称为涌现。观察性质在可测量的边界上发生变化，并试图解释其原因，是科学的核心内容。然而，声称某事物通过量向质的转化而改变，是在诉诸魔法，而不只是承认某些可观察的现象尚无法用科学术语解释。诉诸涌现的说法，最常见于人工智能（AI）的讨论，尤其是奇点这一概念，即人工智能将获得超过人类的能力的时刻。人工智能日益取得成功的说法，掩盖了奇点究竟如何到来的问题；据说这些成功会以某种方式加速，并导致质变。我们当然不排除通用人工智能的可能性，但当前证据表明，在特定领域取得的小规模而且确实令人印象深刻的成果，并不能很好地扩展规模、推广到其他领域或与其他成果整合。"
+      ],
+      "en": [
+        "First of all, the transformation of quantity into quality is now popularly referred to as emergence. Observing that properties change on measureable boundaries and seeking to explain why is a core part of science. However, claiming that something changes through the transformation of quantity into quality is a way of invoking magic, rather than simply acknowledging that some observable phenomenum are not yet explicable in scientific terms. Appeals to emergence are most commonly found in discussions of artificial intelligence (AI), in particular in the notion of the singularity, when AIs will achieve competences greater than humans. How the singularity will come about is elided by appeal to increasing AI success, which somehow will gather pace and lead to qualitative change. While we are certainly open to the possibility of general AI, current evidence suggests that small, and indeed impressive, domain specific achievements do not scale, generalize or integrate well with other achievements."
+      ]
+    },
+    {
+      "id": "dm-ch11-198",
+      "type": "paragraph",
+      "page": "234",
+      "zh": [
+        "同样，否定之否定常被表述为正题、反题、合题三元结构的抽象。与量向质的转化一样，它通常被用作事后解释。从纯粹逻辑的角度说，对一个否定再作否定，就会回到起点。"
+      ],
+      "en": [
+        "Similarly, the negation of the negation is often presented as the abstraction of the trinity of thesis/antithesis/synthesis. Like the transformation of quantity into quality, it is typically invoked as a post-hoc explanation. In purely logical terms, the negation of a negation returns to the starting point."
+      ]
+    },
+    {
+      "id": "dm-ch11-199",
+      "type": "paragraph",
+      "page": "234",
+      "zh": [
+        "最后，对立面的相互渗透，表达的是过程往往包含相互制衡、彼此作用的子过程。就其本身而言，寻找相互作用的“对立面”，是通过分解来解决问题的诸多进路之一。因此，在当代计算思维中，对立面的相互渗透是一种分而治之的形式，",
+        {
+          "type": "note",
+          "id": "dm-11-44"
+        },
+        "其中把问题分解为两个子问题，是最简单的情况。在解决任意问题时，这些子问题通常相互补充，而不是相互矛盾。尽管如此，通过寻找社会阶级之间的矛盾来理解社会过程，仍是历史唯物主义的关键洞见。马克思、恩格斯、列宁和毛泽东娴熟地运用了这一洞见，为了改变世界而解释世界。"
+      ],
+      "en": [
+        "Finally, the interpenetration of opposites is a way of expressing that processes often involve countervailing sub-processes, which act on each other. In itself, seeking interacting ‘opposites’ is one of many approaches to problem solving through decomposition. Thus, in contemporary computational thinking, the interpenetration of opposites is a form of divide and conquer,",
+        {
+          "type": "note",
+          "id": "dm-11-44"
+        },
+        " where problem decomposition into two sub-problems is the simplest case. In solving arbitrary problems, such sub-problems are usually complementary, rather than contradictory. Nonetheless, understanding social processes by seeking contradictions between social classes is the key insight of historical materialism, so ably deployed by Marx, Engels, Lenin and Mao, to interpret the world in order to change it."
+      ]
+    }
+  ],
+  "notes": {
+    "dm-11-1": {
+      "zh": [
+        "Shannon：“通信的数学理论”。"
+      ],
+      "en": [
+        "Shannon, ‘A Mathematical Theory of Communication’."
+      ]
+    },
+    "dm-11-2": {
+      "zh": [
+        "费希尔在此前十年已经尝试用概率定义信息：Ronald Aylmer Fisher，“不确定推理逻辑中的概率、似然与信息量”，Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character 146，第856期（1934）：1—8；但香农的处理更为一般，影响也更持久。"
+      ],
+      "en": [
+        "Attempts to define information in probability terms had been started by Fisher in the previous decade Ronald Aylmer Fisher, ‘Probability Likelihood and Quantity of Information in the Logic of Uncertain Inference’, ",
+        {
+          "type": "em",
+          "children": [
+            "Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character"
+          ]
+        },
+        " 146, no. 856 (1934): 1–8, but Shannon’s treatment was much more general and of more lasting influence."
+      ]
+    },
+    "dm-11-3": {
+      "zh": [
+        "每个单词5个字符，加上行末的回车与换行字符，每词便有",
+        {
+          "type": "math",
+          "tex": "(5+2)\\times5=35"
+        },
+        "个二进制位，再乘以3个单词。"
+      ],
+      "en": [
+        "Five characters per word, plus carriage return and line feed characters at the end of lines so ",
+        {
+          "type": "math",
+          "tex": "(5+2)\\times5=35"
+        },
+        " binary digits per word, × three words."
+      ]
+    },
+    "dm-11-4": {
+      "zh": [
+        "德国“Fish”编码系统用来加密博多码的随机数并非完全均匀，再加上德语字母频率不等，使第一台数字计算机Colossus能够破解这些编码消息：B. Jack Copeland，《Colossus：布莱切利园破译计算机的秘密》（Oxford University Press，2010）。香农在战时曾与图灵合作研究密码学：Andrew Hodges，《艾伦·图灵：谜》（Touchstone，1983）；图灵十分熟悉Colossus的进路。"
+      ],
+      "en": [
+        "The existence of slight deviations from uniformity in the random numbers used to encrypt Baudot code in the German ‘Fish’ encoding system, along with the unequal frequency of letters in the German language was what enabled the first digital computer Colossus to break the encoded messages B Jack Copeland, ",
+        {
+          "type": "em",
+          "children": [
+            "Colossus: The secrets of Bletchley Park’s Code-breaking Computers"
+          ]
+        },
+        " (Oxford University Press, 2010). It is worth noting that Shannon had cooperated with Turing on cryptography during the war Andrew Hodges, ",
+        {
+          "type": "em",
+          "children": [
+            "Alan Turing the Enigma"
+          ]
+        },
+        " (Touchstone, 1983) and Turing was closely familiar with the Colossus approach."
+      ]
+    },
+    "dm-11-5": {
+      "zh": [
+        "区别仅在于使用离散空间的求和，而非连续空间的积分。"
+      ],
+      "en": [
+        "Apart from the use of summation over a discrete space rather than integration over a continuous one."
+      ]
+    },
+    "dm-11-6": {
+      "zh": [
+        "Claude Shannon：“信息的格论”，Transactions of the IRE Professional Group on Information Theory 1，第1期（1953）：105—107。"
+      ],
+      "en": [
+        "Claude Shannon, ‘The Lattice Theory of Information’, ",
+        {
+          "type": "em",
+          "children": [
+            "Transactions of the IRE Professional Group on Information Theory"
+          ]
+        },
+        " 1, no. 1 (1953): 105–7."
+      ]
+    },
+    "dm-11-7": {
+      "zh": [
+        "Rachel R. Bennett与Ramin Golestanian：“衣藻趋光性的转向机制”，Journal of The Royal Society Interface 12，第104期（2015）：20141164。"
+      ],
+      "en": [
+        "Rachel R. Bennett and Ramin Golestanian, ‘A Steering Mechanism for Phototaxis in Chlamydomonas’, ",
+        {
+          "type": "em",
+          "children": [
+            "Journal of The Royal Society Interface"
+          ]
+        },
+        " 12, no. 104 (2015): 20141164."
+      ]
+    },
+    "dm-11-8": {
+      "zh": [
+        "实际上，正如Bennett和Golestanian所示，衣藻具有更高效的编码方式。它只有一个眼点，沿螺旋路径游动，同时绕自身轴线旋转。这使一个眼点能够以约60毫秒的采样间隔，对三个空间轴进行时分复用扫描。假定在所有可能朝向中，有",
+        {
+          "type": "math",
+          "tex": "\\frac{1}{6}"
+        },
+        "会激活眼点，那么根据香农公式，一个样本的平均信息量为0.65比特，因此眼点每秒提供约10比特的信息。"
+      ],
+      "en": [
+        "In fact, as Bennett and Golestanian show, ",
+        {
+          "type": "em",
+          "children": [
+            "Chlamydomonas"
+          ]
+        },
+        " has a more efficient encoding. It has a single eye spot and swims in a spiral path spinning on its axis as it does so. This enables the one eye spot to perform time-multiplexed scanning of the three spatial axes with a sampling interval of about 60 ms. Assuming that the eye spot activates for ",
+        {
+          "type": "math",
+          "tex": "\\frac{1}{6}"
+        },
+        " of possible orientations and using Shannon’s formula the mean information content of a sample is 0.65 bits so the eye spot provides about 10 bits per second of information."
+      ]
+    },
+    "dm-11-9": {
+      "zh": [
+        "两个随机变量",
+        {
+          "type": "math",
+          "tex": "X,Y"
+        },
+        "之间的互信息记为",
+        {
+          "type": "math",
+          "tex": "I(X;Y)=H(X)-H(X\\mid Y)"
+        },
+        "，其中",
+        {
+          "type": "math",
+          "tex": "H(X)"
+        },
+        "为",
+        {
+          "type": "math",
+          "tex": "X"
+        },
+        "的信息熵，",
+        {
+          "type": "math",
+          "tex": "H(X\\mid Y)=\\sum_{x,y}p(x,y)\\log_2\\frac{1}{p(x\\mid y)}"
+        },
+        "为给定",
+        {
+          "type": "math",
+          "tex": "Y"
+        },
+        "时",
+        {
+          "type": "math",
+          "tex": "X"
+        },
+        "的条件熵。"
+      ],
+      "en": [
+        "Mutual information between two random variables ",
+        {
+          "type": "math",
+          "tex": "X,Y"
+        },
+        " is denoted by ",
+        {
+          "type": "math",
+          "tex": "I(X;Y)=H(X)-H(X\\mid Y)"
+        },
+        " where ",
+        {
+          "type": "math",
+          "tex": "H(X)"
+        },
+        " is the information entropy of ",
+        {
+          "type": "math",
+          "tex": "X"
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "H(X\\mid Y)=\\sum_{x,y}p(x,y)\\log_2\\frac{1}{p(x\\mid y)}"
+        },
+        " is the conditional entropy of ",
+        {
+          "type": "math",
+          "tex": "X"
+        },
+        " given ",
+        {
+          "type": "math",
+          "tex": "Y"
+        },
+        "."
+      ]
+    },
+    "dm-11-10": {
+      "zh": [
+        "列宁，《唯物主义和经验批判主义》。"
+      ],
+      "en": [
+        "Lenin, ",
+        {
+          "type": "em",
+          "children": [
+            "Materialism and Empirio-criticism"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-11-11": {
+      "zh": [
+        "这种直觉或许解释了为什么某些通俗论述将信息称为负熵（negentropy）。这一术语用法源于对Léon Brillouin论文“信息的负熵原理”的误读，见Journal of Applied Physics 24，第9期（1953）：1152—1163。Brillouin实际做的是引入一个新变量",
+        {
+          "type": "math",
+          "tex": "N=-S"
+        },
+        "，作为推广热力学第二定律的一部分：",
+        {
+          "type": "break"
+        },
+        "“我们可以定义量N（负熵）：",
+        {
+          "type": "math",
+          "tex": "N=-S,\\Delta(N+I)\\leq0"
+        },
+        "（7b）。负熵与信息之和必定始终减小。负熵对应于开尔文‘能量退化’原理中的能量‘品位’。”（Brillouin）",
+        {
+          "type": "break"
+        },
+        "由此，他得以就获取信息的观测所产生的熵效应作出结论：",
+        {
+          "type": "break"
+        },
+        "“凡是从一个物理系统获取信息的实验，平均而言都对应于该系统或其周围环境中熵的增加。这种平均增量始终大于（或等于）所获得的信息量。”（Brillouin）",
+        {
+          "type": "break"
+        },
+        "他能够利用这一关系证明麦克斯韦妖是不可行的。"
+      ],
+      "en": [
+        "This intuition is perhaps why some popular accounts refer to information as negative entropy (negentropy). This usage of the term stems from a misreading of Leon Brillouin, ‘The Negentropy Principle of Information’, ",
+        {
+          "type": "em",
+          "children": [
+            "Journal of Applied Physics"
+          ]
+        },
+        " 24, no. 9 (1953): 1152–63. What Brillouin did was introduce a new variable ",
+        {
+          "type": "math",
+          "tex": "N=-S"
+        },
+        " as part of a generalization of the second law of thermodynamics: ",
+        {
+          "type": "break"
+        },
+        "We may define the quantity N (negentropy) ",
+        {
+          "type": "math",
+          "tex": "N=-S,\\Delta(N+I)\\leq0"
+        },
+        " (7b) The sum of negentropy plus information must always decrease. Negentropy corresponds to the ‘grade’ of energy in Kelvin’s principle of ‘degradation of energy’, Brillouin ",
+        {
+          "type": "break"
+        },
+        "From this he was able to draw conclusions about the entropic effect of observations that obtain information: ",
+        {
+          "type": "break"
+        },
+        "Any experiment by which an information is obtained about a physical system corresponds in average to an increase of entropy in the system or in its surroundings. This average increase is always larger than (or equal to) the amount of information obtained. Brillouin ",
+        {
+          "type": "break"
+        },
+        "He was able to use this relation to demonstrate that Maxwell’s daemon was unfeasible."
+      ]
+    },
+    "dm-11-12": {
+      "zh": [
+        "关于资本主义工业中熵减少与信息增加交替过程的详细分析，见Cockshott等，《经典经济物理学：古典政治经济学、热力学与信息论论集》。"
+      ],
+      "en": [
+        "For an extended analysis of this alternation between entropy reduction and information addition in capitalist industry see Cockshott et al., ",
+        {
+          "type": "em",
+          "children": [
+            "Classical Econophysics: Essays on Classical Political Economy, Thermodynamics and Information Theory"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-11-13": {
+      "zh": [
+        "自2018年以来，英特尔处理器支持RDRAND指令，该指令提供据称是真正的随机数。Intel，《Intel64和IA-32架构软件开发者手册》，第2B卷（Intel，2021）。"
+      ],
+      "en": [
+        "Since 2018 Intel processors have supported the RDRAND instruction which provides what are claimed to be true random numbers Intel, ",
+        {
+          "type": "em",
+          "children": [
+            "Intel64 and IA-32 Architectures Software Developer’s Manual"
+          ]
+        },
+        ", vol. 2B (Intel, 2021)."
+      ]
+    },
+    "dm-11-14": {
+      "zh": [
+        "我们从第三个数字开始，以免来源一目了然。"
+      ],
+      "en": [
+        "We started at the third digit to prevent our source being obvious."
+      ]
+    },
+    "dm-11-15": {
+      "zh": [
+        "Gregory J. Chaitin：“随机性与数学证明”，Scientific American 232，第5期（1975）：47—53。"
+      ],
+      "en": [
+        "Gregory J. Chaitin, ‘Randomness and Mathematical Proof’, ",
+        {
+          "type": "em",
+          "children": [
+            "Scientific American"
+          ]
+        },
+        " 232, no. 5 (1975): 47–53."
+      ]
+    },
+    "dm-11-16": {
+      "zh": [
+        "约瑟夫·维萨里奥诺维奇·斯大林，《论辩证唯物主义和历史唯物主义》（Lawrence & Wishart，1943）。"
+      ],
+      "en": [
+        "Josif Vissarionovič Stalin, ",
+        {
+          "type": "em",
+          "children": [
+            "Dialectical and Historical Materialism"
+          ]
+        },
+        " (Lawrence & Wishart, 1943)."
+      ]
+    },
+    "dm-11-17": {
+      "zh": [
+        "斯大林，《论辩证唯物主义和历史唯物主义》，第4页。"
+      ],
+      "en": [
+        "Stalin, ",
+        {
+          "type": "em",
+          "children": [
+            "Dialectical and Historical Materialism"
+          ]
+        },
+        ", 4."
+      ]
+    },
+    "dm-11-18": {
+      "zh": [
+        "参见Emery：“辩证法与机械论：关于科学方法的一场共产主义论争”；本书前面的章节曾提及此文。"
+      ],
+      "en": [
+        "See Emery, ‘Dialectics versus Mechanics. A Communist Debate on Scientific Method’, to whom we have refered in an earlier chapter."
+      ]
+    },
+    "dm-11-19": {
+      "zh": [
+        "玻姆，《整体性与隐含序》。"
+      ],
+      "en": [
+        "Bohm, ",
+        {
+          "type": "em",
+          "children": [
+            "Wholeness and the Implicate Order"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-11-20": {
+      "zh": [
+        "斯大林，《论辩证唯物主义和历史唯物主义》，第5页。"
+      ],
+      "en": [
+        "Stalin, ",
+        {
+          "type": "em",
+          "children": [
+            "Dialectical and Historical Materialism"
+          ]
+        },
+        ", 5."
+      ]
+    },
+    "dm-11-21": {
+      "zh": [
+        "Titus Lucretius Carus，《卢克莱修全集》（Delphi Classics，2015），H. A. J. Munro译。"
+      ],
+      "en": [
+        "Titus Lucretius Carus, ",
+        {
+          "type": "em",
+          "children": [
+            "The Complete Works of Lucretius"
+          ]
+        },
+        " (Delphi Classics, 2015), H. A. J. Munro translation."
+      ]
+    },
+    "dm-11-22": {
+      "zh": [
+        "弗里德里希·恩格斯，《自然辩证法》（Wellred Books，1960），第2章。"
+      ],
+      "en": [
+        "Friedrich Engels, ",
+        {
+          "type": "em",
+          "children": [
+            "Dialectics of Nature"
+          ]
+        },
+        " (Wellred Books, 1960), Chap 2."
+      ]
+    },
+    "dm-11-23": {
+      "zh": [
+        "正如本书前文所述，灯泡等物体发出的黑体辐射所涉及的连续能级与离散能级问题，是爱因斯坦针对马赫学派确证原子论的关键。"
+      ],
+      "en": [
+        "The issue of continuous versus discrete energy levels associated with black body radiation like that from a bulb, was, as we have recounted earlier, fundamental to Einstein’s validation of atomism against the Machian school."
+      ]
+    },
+    "dm-11-24": {
+      "zh": [
+        "恩格斯，《自然辩证法》，第2章。"
+      ],
+      "en": [
+        "Engels, ",
+        {
+          "type": "em",
+          "children": [
+            "Dialectics of Nature"
+          ]
+        },
+        ", Chap 2."
+      ]
+    },
+    "dm-11-25": {
+      "zh": [
+        "例如，Charles Merivale的《帝国时期罗马人史》（Longmans，1851）中写道：“但在这个时代，实施这种不义行径不可能不受惩罚。战争的因素正在整个半岛酝酿；成千上万破产的人突然被抛入那动荡不定、心怀不满的人群中，这群人只缺少这一成分，就会在新的革命中沸腾爆发。”（第223页）"
+      ],
+      "en": [
+        "For instance in Charles Merivale, ",
+        {
+          "type": "em",
+          "children": [
+            "A History of the Romans under the Empire"
+          ]
+        },
+        " (Longmans, 1851) we have: But this was not a time in which such injustice could be perpetrated with impunity. The elements of war were fermenting throughout the peninsula; thousands of broken fortunes were suddenly thrown into the floating mass of discontent, which wanted only this ingredient to boil over in a new revolution. (223)"
+      ]
+    },
+    "dm-11-26": {
+      "zh": [
+        "Ian P. Gent等：“CSP相变中的尺度效应”，载International Conference on Principles and Practice of Constraint Programming（Springer，1995），70—87；P. Prosser：“二元约束满足问题中相变的实证研究”，Artificial Intelligence 81，第1—2期（1996）：81—109。"
+      ],
+      "en": [
+        "Ian P Gent et al., ‘Scaling Effects in the CSP Phase Transition’, in ",
+        {
+          "type": "em",
+          "children": [
+            "International Conference on Principles and Practice of Constraint Programming"
+          ]
+        },
+        " (Springer, 1995), 70–87; P. Prosser, ‘An Empirical Study of Phase Transitions in Binary Constraint Satisfaction Problems’, ",
+        {
+          "type": "em",
+          "children": [
+            "Artificial Intelligence"
+          ]
+        },
+        " 81, no. 1–2 (1996): 81–109."
+      ]
+    },
+    "dm-11-27": {
+      "zh": [
+        "假设",
+        {
+          "type": "math",
+          "tex": "F"
+        },
+        "的每个求和项包含3个变量（3SAT），那么约束程度的一个度量，可以是",
+        {
+          "type": "math",
+          "tex": "F"
+        },
+        "中求和项的数量与变量数",
+        {
+          "type": "math",
+          "tex": "n"
+        },
+        "的比值。"
+      ],
+      "en": [
+        "Suppose each sum term in F contains 3 variables (3SAT) then a measure of the constrainedness might be the ratio of the number of sum terms in F to the number of variable ",
+        {
+          "type": "em",
+          "children": [
+            "n"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-11-28": {
+      "zh": [
+        "斯大林，《论辩证唯物主义和历史唯物主义》。"
+      ],
+      "en": [
+        "Stalin, ",
+        {
+          "type": "em",
+          "children": [
+            "Dialectical and Historical Materialism"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-11-29": {
+      "zh": [
+        "斯大林，《论辩证唯物主义和历史唯物主义》。"
+      ],
+      "en": [
+        "Stalin, ",
+        {
+          "type": "em",
+          "children": [
+            "Dialectical and Historical Materialism"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-11-30": {
+      "zh": [
+        "卡尔·马克思、弗里德里希·恩格斯，《德意志意识形态》（Progress Publishers，1976）。"
+      ],
+      "en": [
+        "Karl Marx and Frederick Engels, ",
+        {
+          "type": "em",
+          "children": [
+            "The German Ideology"
+          ]
+        },
+        " (Progress Publishers, 1976)."
+      ]
+    },
+    "dm-11-31": {
+      "zh": [
+        "毛泽东，《矛盾论》，载《毛泽东选集》第1卷（1937）。"
+      ],
+      "en": [
+        "Tse-Tung Mao, ",
+        {
+          "type": "em",
+          "children": [
+            "On Contradiction, in Selected Works of Mao Tse-Tung"
+          ]
+        },
+        ", vol. 1 (1937)."
+      ]
+    },
+    "dm-11-32": {
+      "zh": [
+        "Peter Turchin、Sergey A. Nefedov：“长期周期”，载《长期周期》（Princeton University Press，2009）。"
+      ],
+      "en": [
+        "Peter Turchin and Sergey A Nefedov, ‘",
+        {
+          "type": "em",
+          "children": [
+            "Secular Cycles"
+          ]
+        },
+        "’, in ",
+        {
+          "type": "em",
+          "children": [
+            "Secular Cycles"
+          ]
+        },
+        " (Princeton University Press, 2009)."
+      ]
+    },
+    "dm-11-33": {
+      "zh": [
+        "毛泽东只引用了第1至第5项。我们把前后段落也列出，以提供上下文，因为毛泽东在文中其他地方似乎隐含地依赖这一段。第1至第5项的明确编号是我们添加的，列宁原文中它们只是一个未编号的列表。"
+      ],
+      "en": [
+        "Mao only quotes items 1 to 5, we include the surrounding paragraphs for context, since Mao appears elsewhere in the text to implicitly rely on this paragraph. The explicit numbering of items 1 to 5 is by us, in the Lenin text they are rendered simply as list."
+      ]
+    },
+    "dm-11-34": {
+      "zh": [
+        "V. I. Lenin：“谈谈辩证法问题”，载《列宁全集》第38卷（Progress Publishers，1915）。"
+      ],
+      "en": [
+        "V. I. Lenin, ‘On the Question of Dialectics’, in ",
+        {
+          "type": "em",
+          "children": [
+            "Lenin Collected Works"
+          ]
+        },
+        ", by Lenin, vol. 38 (Progress Publishers, 1915)."
+      ]
+    },
+    "dm-11-35": {
+      "zh": [
+        "毛泽东，《矛盾论》，第321页。"
+      ],
+      "en": [
+        "Mao, ",
+        {
+          "type": "em",
+          "children": [
+            "On Contradiction"
+          ]
+        },
+        ", 321."
+      ]
+    },
+    "dm-11-36": {
+      "zh": [
+        "“Omnis enim Philosophiæ difficultas in eo versari videtur, ut a Phænomenis motuum investigemus vires Naturæ, deinde ab his viribus demonstremus phænomena reliqua”。〔译：哲学的一切困难似乎都在于此：从运动现象探究自然界的力，然后由这些力论证其他现象。〕"
+      ],
+      "en": [
+        "‘Omnis enim Philosophiæ difficultas in eo versari videtur, ut a Phænomenis motuum investigemus vires Naturæ, deinde ab his viribus demonstremus phænomena reliqua’."
+      ]
+    },
+    "dm-11-37": {
+      "zh": [
+        "毛泽东，《矛盾论》，第321页。"
+      ],
+      "en": [
+        "Mao, ",
+        {
+          "type": "em",
+          "children": [
+            "On Contradiction"
+          ]
+        },
+        ", 321."
+      ]
+    },
+    "dm-11-38": {
+      "zh": [
+        "Paul Cockshott、Allin Cottrell、Greg Michaelson：“检验马克思：英国数据的一些新结果”，Capital & Class 19，第1期（1995）：103—130。"
+      ],
+      "en": [
+        "Paul Cockshott, Allin Cottrell, and Greg Michaelson, ‘Testing Marx: Some New Results from UK Data’, ",
+        {
+          "type": "em",
+          "children": [
+            "Capital & Class"
+          ]
+        },
+        " 19, no. 1 (1995): 103–30."
+      ]
+    },
+    "dm-11-39": {
+      "zh": [
+        "Cockshott等，《经典经济物理学：古典政治经济学、热力学与信息论论集》；Allin Cottrell、Paul Cockshott：“人口与利润率下降”，Indian Development Review 4，第1期（2006）：39—59。"
+      ],
+      "en": [
+        "Cockshott et al., ",
+        {
+          "type": "em",
+          "children": [
+            "Classical Econophysics: Essays on Classical Political Economy, thermodynamics and Information Theory"
+          ]
+        },
+        "; Allin Cottrell and Paul Cockshott, ‘Demography and the Falling Rate of Profit’, ",
+        {
+          "type": "em",
+          "children": [
+            "Indian Development Review"
+          ]
+        },
+        " 4, no. 1 (2006): 39–59 ."
+      ]
+    },
+    "dm-11-40": {
+      "zh": [
+        "毛泽东，《矛盾论》，第322页。"
+      ],
+      "en": [
+        "Mao, ",
+        {
+          "type": "em",
+          "children": [
+            "On Contradiction"
+          ]
+        },
+        ", 322."
+      ]
+    },
+    "dm-11-41": {
+      "zh": [
+        "毛泽东，《矛盾论》，第321页。"
+      ],
+      "en": [
+        "Mao, ",
+        {
+          "type": "em",
+          "children": [
+            "On Contradiction"
+          ]
+        },
+        ", 321."
+      ]
+    },
+    "dm-11-42": {
+      "zh": [
+        "毛泽东，《矛盾论》，第325页。"
+      ],
+      "en": [
+        "Mao, ",
+        {
+          "type": "em",
+          "children": [
+            "On Contradiction"
+          ]
+        },
+        ", 325."
+      ]
+    },
+    "dm-11-43": {
+      "zh": [
+        "毛泽东，《矛盾论》，第328—329页。"
+      ],
+      "en": [
+        "Mao, ",
+        {
+          "type": "em",
+          "children": [
+            "On Contradiction"
+          ]
+        },
+        ", 328–9."
+      ]
+    },
+    "dm-11-44": {
+      "zh": [
+        "G. Michaelson：“编程范式、图灵完备性与计算思维”，The Art, Science, and Engineering of Programming 4，第3期（2020）：第4篇，",
+        {
+          "type": "link",
+          "url": "https://arxiv.org/abs/2002.06178",
+          "children": [
+            "https://arxiv.org/abs/2002.06178"
+          ]
+        },
+        "。"
+      ],
+      "en": [
+        "G. Michaelson, ‘Programming Paradigms, Turing Completeness and Computational Thinking’, ",
+        {
+          "type": "em",
+          "children": [
+            "The Art, Science, and Engineering of Programming"
+          ]
+        },
+        " 4, no. 3 (2020): Article 4, ",
+        {
+          "type": "link",
+          "url": "https://arxiv.org/abs/2002.06178",
+          "children": [
+            "https://arxiv​.org​/abs​/2002​.06178"
+          ]
+        },
+        "."
+      ]
+    }
+  }
+}

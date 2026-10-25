@@ -1,0 +1,352 @@
+{
+  "id": "frontmatter",
+  "title": "封面、出版信息与原书目录",
+  "originalTitle": "Cover, Publication Details and Original Contents",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "hp-front-001",
+      "type": "figure",
+      "page": "PDF 1",
+      "zh": [
+        "原书封面：《马克思主义视角下的哲学史》，艾伦·伍兹著。封面书名自上而下为：《理想国》《尼各马可伦理学》《物性论》《形而上学论》《人性论》《第一哲学沉思集》《纯粹理性批判》《伦理学》《精神现象学》《资本论》。"
+      ],
+      "en": [
+        "Original book cover: The History of Philosophy: A Marxist Perspective, by Alan Woods."
+      ],
+      "src": "translations/books/history-of-philosophy/assets/source_cover.jpeg"
+    },
+    {
+      "id": "hp-front-002",
+      "type": "figure",
+      "page": "PDF 2",
+      "zh": [
+        "韦尔雷德出版社标志。"
+      ],
+      "en": [
+        "Wellred Books publisher logo."
+      ],
+      "src": "translations/books/history-of-philosophy/assets/publisher_logo.png"
+    },
+    {
+      "id": "hp-front-003",
+      "type": "paragraph",
+      "page": "PDF 2",
+      "zh": [
+        "《马克思主义视角下的哲学史》\n艾伦·伍兹\n版权 © 韦尔雷德出版社\n保留所有权利。"
+      ],
+      "en": [
+        "The History of Philosophy: A Marxist Perspective Alan Woods Copyright © Wellred Books All rights reserved"
+      ]
+    },
+    {
+      "id": "hp-front-004",
+      "type": "paragraph",
+      "page": "PDF 2",
+      "zh": [
+        "英国发行：Wellred Books，wellredbooks.net\nPO Box 50525\nLondon, E14 6WG\nbooks@wellredbooks.net"
+      ],
+      "en": [
+        "UK distribution: Wellred Books, wellredbooks.net PO Box 50525 London, E14 6WG books@wellredbooks.net"
+      ]
+    },
+    {
+      "id": "hp-front-005",
+      "type": "paragraph",
+      "page": "PDF 2",
+      "zh": [
+        "美国发行：Marxist Books，marxistbooks.com\nWR Books\n250 44th Street #208\nBrooklyn\nNew York, NY 11232\nsales@marxistbooks.com"
+      ],
+      "en": [
+        "USA distribution: Marxist Books, marxistbooks.com WR Books 250 44th Street #208 Brooklyn New York, NY 11232 sales@marxistbooks.com"
+      ]
+    },
+    {
+      "id": "hp-front-006",
+      "type": "paragraph",
+      "page": "PDF 2",
+      "zh": [
+        "封面由杰西·默里-迪恩（Jesse Murray-Dean）设计，基于埃尔·利西茨基（El Lissitzky）的《无题，1919—1920》（公有领域作品）。电子书由马丁·斯韦恩（Martin Swayne）制作，2021年9月出版。"
+      ],
+      "en": [
+        "Cover design by Jesse Murray-Dean, based on ‘Untitled, 1919-1920’ by El Lissitzky (public domain) Ebook produced by Martin Swayne, published September 2021"
+      ]
+    },
+    {
+      "id": "hp-front-007",
+      "type": "subheading",
+      "page": "PDF 3",
+      "zh": [
+        "原书目录"
+      ],
+      "en": [
+        "Table of Contents"
+      ]
+    },
+    {
+      "id": "hp-front-008",
+      "type": "paragraph",
+      "page": "PDF 3",
+      "zh": [
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=introduction#hp-intro-001",
+          "children": [
+            "导言"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter1#hp-ch01-001",
+          "children": [
+            "1. 哲学的兴起"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter2#hp-ch02-001",
+          "children": [
+            "2. 最早的辩证法家"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter3#hp-ch03-001",
+          "children": [
+            "3. 亚里士多德与古典希腊哲学的终结"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter4#hp-ch04-001",
+          "children": [
+            "4. 基督教的兴起"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter5#hp-ch05-001",
+          "children": [
+            "5. 伊斯兰哲学"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter6#hp-ch06-001",
+          "children": [
+            "6. 中世纪的哲学"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter7#hp-ch07-001",
+          "children": [
+            "7. 文艺复兴"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter8#hp-ch08-001",
+          "children": [
+            "8. 笛卡尔、斯宾诺莎和莱布尼茨"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter9#hp-ch09-001",
+          "children": [
+            "9. 康德主义的死胡同"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter10#hp-ch10-001",
+          "children": [
+            "10. 黑格尔的哲学革命"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter11#hp-ch11-001",
+          "children": [
+            "11. 从黑格尔到马克思"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=bibliography#hp-bib-001",
+          "children": [
+            "参考文献"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=introduction#hp-intro-001",
+          "children": [
+            "Introduction"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter1#hp-ch01-001",
+          "children": [
+            "1. The Emergence of Philosophy"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter2#hp-ch02-001",
+          "children": [
+            "2. The First Dialecticians"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter3#hp-ch03-001",
+          "children": [
+            "3. Aristotle and the End of Classical Greek Philosophy"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter4#hp-ch04-001",
+          "children": [
+            "4. The Rise of Christianity"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter5#hp-ch05-001",
+          "children": [
+            "5. Islamic Philosophy"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter6#hp-ch06-001",
+          "children": [
+            "6. Philosophy in the Middle Ages"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter7#hp-ch07-001",
+          "children": [
+            "7. The Renaissance"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter8#hp-ch08-001",
+          "children": [
+            "8. Descartes, Spinoza and Leibniz"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter9#hp-ch09-001",
+          "children": [
+            "9. The Dead End of Kantianism"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter10#hp-ch10-001",
+          "children": [
+            "10. Hegel’s Revolution in Philosophy"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=chapter11#hp-ch11-001",
+          "children": [
+            "11. From Hegel to Marx"
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "link",
+          "url": "translations/book.html?id=history-of-philosophy&chapter=bibliography#hp-bib-001",
+          "children": [
+            "Bibliography"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": {}
+}

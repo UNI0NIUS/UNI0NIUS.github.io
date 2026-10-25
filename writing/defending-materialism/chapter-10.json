@@ -1,0 +1,1712 @@
+{
+  "id": "chapter-10",
+  "title": "第10章 语言、自动机与意义",
+  "originalTitle": "Chapter 10: LANGUAGE, AUTOMATA AND MEANING",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "dm-ch10-001",
+      "type": "heading",
+      "page": "205",
+      "zh": [
+        "第10章 语言、自动机与意义"
+      ],
+      "en": [
+        "Chapter 10: LANGUAGE, AUTOMATA AND MEANING"
+      ]
+    },
+    {
+      "id": "dm-ch10-002",
+      "type": "subheading",
+      "page": "205",
+      "zh": [
+        "语言与意义"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Language and meaning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-003",
+      "type": "paragraph",
+      "page": "205",
+      "zh": [
+        "长期以来，人们一直区分陈述的意义的两个方面：它的值，以及它所谈论的内容。这些区别可以称为指称与涵义、指谓与含蕴，以及外延与内涵。"
+      ],
+      "en": [
+        "There is a longstanding distinction between the meaning of a statement as its value compared with what it is about. These may be termed reference and sense, denotation and connotation and extension and intension."
+      ]
+    },
+    {
+      "id": "dm-ch10-004",
+      "type": "paragraph",
+      "page": "205",
+      "zh": [
+        "考虑对一个数的描述："
+      ],
+      "en": [
+        "Consider the descriptions of a number:"
+      ]
+    },
+    {
+      "id": "dm-ch10-005",
+      "type": "quote",
+      "page": "205",
+      "zh": [
+        "比二多一"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "one more than two"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-006",
+      "type": "paragraph",
+      "page": "205",
+      "zh": [
+        "它的外延意义来自将它求得一个值：三。另一种说法是，外延意义就是所有能在下列陈述中替换“那个数”、"
+      ],
+      "en": [
+        "The extensional meaning results from evaluating it to a value: three. Another way of expressing this is that the extensional meaning is all the things that can replace ",
+        {
+          "type": "em",
+          "children": [
+            "the number that"
+          ]
+        },
+        " in"
+      ]
+    },
+    {
+      "id": "dm-ch10-007",
+      "type": "quote",
+      "page": "205",
+      "zh": [
+        "那个数比二多一"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "the number that is one more than two"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-008",
+      "type": "paragraph",
+      "page": "205",
+      "zh": [
+        "并保持陈述为真的东西。也就是说，我们把“那个数”当作变量，其唯一有效的值是“三”。"
+      ],
+      "en": [
+        "and retain the statement’s truth. That is, we treat ",
+        {
+          "type": "em",
+          "children": [
+            "the number that"
+          ]
+        },
+        " as a variable whose sole valid value is ‘three’."
+      ]
+    },
+    {
+      "id": "dm-ch10-009",
+      "type": "paragraph",
+      "page": "205",
+      "zh": [
+        "现在考虑对一个数的描述："
+      ],
+      "en": [
+        "Now consider the description of a number:"
+      ]
+    },
+    {
+      "id": "dm-ch10-010",
+      "type": "quote",
+      "page": "205",
+      "zh": [
+        "六的一半"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "half of six"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-011",
+      "type": "paragraph",
+      "page": "205",
+      "zh": [
+        "它的外延意义也是三。但这两个陈述的内涵意义很不一样：前者涉及计数，后者涉及除法。我们可以",
+        {
+          "type": "note",
+          "id": "dm-10-1"
+        },
+        "用皮亚诺算术将它们形式化，并证明二者等价。于是，它们具有可替换同义性。也就是说，在关于数的形式表达式中，可以互换使用二者，而不改变包含它们的表达式的意义。"
+      ],
+      "en": [
+        "which also has the extensional meaning of three. These statements’ intensional meanings are quite different. The first involves counting, and the second dividing. We could",
+        {
+          "type": "note",
+          "id": "dm-10-1"
+        },
+        " use Peano arithmetic to formalize them, and prove that they are equivalent. They then have the property of substitutive synonymy. That is, they can be used interchangeably in formal expressions about numbers without changing the meaning of the expression that uses them."
+      ]
+    },
+    {
+      "id": "dm-ch10-012",
+      "type": "paragraph",
+      "page": "205",
+      "zh": [
+        "现在假设克里斯会数数，却不会做除法。那么："
+      ],
+      "en": [
+        "Now, suppose that Chris can count but can’t do division. Then:"
+      ]
+    },
+    {
+      "id": "dm-ch10-013",
+      "type": "quote",
+      "page": "205",
+      "zh": [
+        "克里斯知道三比二多一。"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Chris knows that three is one more than two."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-014",
+      "type": "paragraph",
+      "page": "206",
+      "zh": [
+        "这是真的。但我们不能将“比二多一”替换为“六的一半”："
+      ],
+      "en": [
+        "is true. But we cannot replace ",
+        {
+          "type": "em",
+          "children": [
+            "one more than two"
+          ]
+        },
+        " with ‘",
+        {
+          "type": "em",
+          "children": [
+            "half of six"
+          ]
+        },
+        ":"
+      ]
+    },
+    {
+      "id": "dm-ch10-015",
+      "type": "quote",
+      "page": "206",
+      "zh": [
+        "克里斯知道三是六的一半。"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Chris knows that three is half of six."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-016",
+      "type": "paragraph",
+      "page": "206",
+      "zh": [
+        "同时还保持陈述为真。"
+      ],
+      "en": [
+        "and retain truth."
+      ]
+    },
+    {
+      "id": "dm-ch10-017",
+      "type": "paragraph",
+      "page": "206",
+      "zh": [
+        "伯特兰·罗素试图分析并重新表述内涵性构造，使它们成为外延性的。",
+        {
+          "type": "note",
+          "id": "dm-10-2"
+        },
+        "按照罗素的进路，我们可以写成："
+      ],
+      "en": [
+        "Bertrand Russell sought to analyse and reformulate intensional constructs to make them extensional.",
+        {
+          "type": "note",
+          "id": "dm-10-2"
+        },
+        " In Russell’s approach, we might write:"
+      ]
+    },
+    {
+      "id": "dm-ch10-018",
+      "type": "quote",
+      "page": "206",
+      "zh": [
+        "克里斯知道“有一个数比二多一”。"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Chris knows that ‘there is a number that is one more than two’."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-019",
+      "type": "paragraph",
+      "page": "206",
+      "zh": [
+        "以明确“知道”的语境。如果将引号中的短语换成一个表面上等价的表述："
+      ],
+      "en": [
+        "to make the context of ‘knows’ clear. If we replace the quoted phrase with an apparent equivalent:"
+      ]
+    },
+    {
+      "id": "dm-ch10-020",
+      "type": "quote",
+      "page": "206",
+      "zh": [
+        "克里斯知道“有一个数是六的一半”。"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Chris knows that ‘there is a number that is half of six’."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-021",
+      "type": "paragraph",
+      "page": "206",
+      "zh": [
+        "那么，就不能把“有一个数”替换为“三”而仍保持陈述为真。"
+      ],
+      "en": [
+        "then we cannot replace ",
+        {
+          "type": "em",
+          "children": [
+            "there is a number that"
+          ]
+        },
+        " with ",
+        {
+          "type": "em",
+          "children": [
+            "three"
+          ]
+        },
+        " and retain truth."
+      ]
+    },
+    {
+      "id": "dm-ch10-022",
+      "type": "paragraph",
+      "page": "206",
+      "zh": [
+        "鲁道夫·卡尔纳普（1891—1970）是一位逻辑实证主义者，试图从实证主义科学中寻找事实，以供逻辑操作。起初，他认为一切陈述要么是外延性的，要么没有意义。在1928年的著作《世界的逻辑构造；哲学中的伪问题》",
+        {
+          "type": "note",
+          "id": "dm-10-3"
+        },
+        "中，他提出一种全面的进路，否认任何不能以事实为基础的语言构造有意义。他尤其否认实在论（即唯物主义）或唯心主义有意义。也就是说，卡尔纳普认为知识建立在经验主义的验证上。尽管如此，他仍自称“物理主义者”，认为物理学示范了如何确立事实。"
+      ],
+      "en": [
+        "Rudolf Carnap (1891–1970) was a logical positivist who sought fact in positivist science for manipulation by logic. Originally, Carnap considered all statements to be either extensional or meaningless. In his 1928 book ",
+        {
+          "type": "em",
+          "children": [
+            "The logical structure of the world; pseudoproblems in philosophy"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-10-3"
+        },
+        " he enunciated a totalizing approach to denying meaning to any linguistic constructs that could not be grounded in fact. In particular, he disputed that either realism (i.e. materialism) or idealism was meaningful. That is, Carnap saw knowledge as grounded in verification via empiricism. Nonetheless, Carnap termed himself a ‘physicalist’ who saw physics as exemplifying how to establish facts."
+      ]
+    },
+    {
+      "id": "dm-ch10-023",
+      "type": "paragraph",
+      "page": "206",
+      "zh": [
+        "威拉德·奎因（1908—2000）在1953年的《从逻辑的观点看》",
+        {
+          "type": "note",
+          "id": "dm-10-4"
+        },
+        "中批评逻辑实证主义。在《经验论的两个教条》（第20—46页）中，他首先否认分析真理与综合真理之间存在深刻区别：前者基于意义而不考虑事实，后者基于事实（第20页）。例如，可以把形式化算术内部数“三”的性质，与某人对数“三”的认识相比较；后者是一个被报告的事实。其次，奎因拒绝那种还原论，即只承认能重构为由事实组成的逻辑陈述的陈述有意义（第20页）。最终留下的是一种明确的实用主义。"
+      ],
+      "en": [
+        "Willard Quine (1908–2000), critiqued logical positivism in his 1953 ",
+        {
+          "type": "em",
+          "children": [
+            "From a Logical Point of View."
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-10-4"
+        },
+        " In the essay ",
+        {
+          "type": "em",
+          "children": [
+            "Two Dogmas of Empiricism"
+          ]
+        },
+        " (pp20–46), he first disputes that there is a deep distinction between analytic truths, based on meanings without considering facts, and synthetic truths, based on facts (p20). For example, we might contrast properties of the number three, which are internal to formalized arithmetic, with what someone knows about the number three, which is a reported fact. Secondly, Quine rejects the reductionism that only accepts as meaningful those statements that may be reconstituted as logical statements constructed from facts (p20). He is left with an explicit pragmatism."
+      ]
+    },
+    {
+      "id": "dm-ch10-024",
+      "type": "paragraph",
+      "page": "206",
+      "zh": [
+        "奎因特别关注能否用可替换性作为意义同义性的标准，探问替换在什么语境中正当，并指出替换必然改变陈述的形式（第56页）。他的结论同样是实用主义的："
+      ],
+      "en": [
+        "Quine was particularly concerned with substitutivity as a criterion of synonymy of meaning, asking in what contexts substitution is legitimate and pointing out that substitutions necessarily change the form of statements (p56). His conclusion is again pragmatic:"
+      ]
+    },
+    {
+      "id": "dm-ch10-025",
+      "type": "quote",
+      "page": "206",
+      "zh": [
+        "真正重要的是在相关方面相似……这是经验科学的一个典型问题。（第60页）"
+      ],
+      "en": [
+        "What matters rather is likeness in ",
+        {
+          "type": "em",
+          "children": [
+            "relevant respects"
+          ]
+        },
+        " . . . a problem typical of empirical science. (p60)"
+      ]
+    },
+    {
+      "id": "dm-ch10-026",
+      "type": "paragraph",
+      "page": "206",
+      "zh": [
+        "对奎因来说，形式系统以变量标记抽象的位置，因此："
+      ],
+      "en": [
+        "For Quine, given that formal systems are constructed with variables marking points of abstraction:"
+      ]
+    },
+    {
+      "id": "dm-ch10-027",
+      "type": "quote",
+      "page": "207",
+      "zh": [
+        "被假定为一个实体，简而言之，就是被看作变量的值。（第13页）"
+      ],
+      "en": [
+        "To be assumed as an entity is, purely and simply, to be reckoned as the value of a variable. (p13)"
+      ]
+    },
+    {
+      "id": "dm-ch10-028",
+      "type": "paragraph",
+      "page": "207",
+      "zh": [
+        "于是："
+      ],
+      "en": [
+        "Then:"
+      ]
+    },
+    {
+      "id": "dm-ch10-029",
+      "type": "quote",
+      "page": "207",
+      "zh": [
+        "一个理论所承诺的，正是且仅是这样的实体：为使该理论中的断言为真，理论的约束变量必须能够指称它们。（第13—14页）"
+      ],
+      "en": [
+        "a theory is committed to those and only those entities to which the bound variables of the theory must be capable of referring in order that the affirmations made in the theory be made true. (pp13–14)"
+      ]
+    },
+    {
+      "id": "dm-ch10-030",
+      "type": "paragraph",
+      "page": "207",
+      "zh": [
+        "这是一种令人欣慰的宽容立场。它不仅容许在逻辑系统中操作事实，也容许操作系统能够正当操作的任何东西。"
+      ],
+      "en": [
+        "This is a pleasingly generous position. It admits not just of manipulating facts in logical systems, but of anything a system can legitimately manipulate."
+      ]
+    },
+    {
+      "id": "dm-ch10-031",
+      "type": "subheading",
+      "page": "207",
+      "zh": [
+        "模型论"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Model theory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-032",
+      "type": "paragraph",
+      "page": "207",
+      "zh": [
+        "在1921年的《逻辑哲学论》",
+        {
+          "type": "note",
+          "id": "dm-10-5"
+        },
+        "中，维特根斯坦主张，应当用事态来理解世界，即事物——他称之为对象——的配置。他断言："
+      ],
+      "en": [
+        "In the 1921 ",
+        {
+          "type": "em",
+          "children": [
+            "Tractatus Logico-Philosophicus,"
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-10-5"
+        },
+        " Wittgenstein suggested that the world should be understood in terms of ",
+        {
+          "type": "em",
+          "children": [
+            "states of affairs"
+          ]
+        },
+        ", that is, configurations of things, which he termed objects. He asserts that:"
+      ]
+    },
+    {
+      "id": "dm-ch10-033",
+      "type": "quote",
+      "page": "207",
+      "zh": [
+        "4.1 命题表现事态的存在与不存在。"
+      ],
+      "en": [
+        "4.1 Propositions represent the existence and non-existence of states of affairs."
+      ]
+    },
+    {
+      "id": "dm-ch10-034",
+      "type": "quote",
+      "page": "207",
+      "zh": [
+        "4.11 真命题的总和就是整个自然科学（或自然科学的全部体系）。（第25页）"
+      ],
+      "en": [
+        "4.11 The totality of true propositions is the whole of natural science (or the whole corpus of the natural sciences). (p25)"
+      ]
+    },
+    {
+      "id": "dm-ch10-035",
+      "type": "paragraph",
+      "page": "207",
+      "zh": [
+        "维特根斯坦还把命题的涵义界定为："
+      ],
+      "en": [
+        "Wittgenstein further identifies the ",
+        {
+          "type": "em",
+          "children": [
+            "sense"
+          ]
+        },
+        " of a proposition with:"
+      ]
+    },
+    {
+      "id": "dm-ch10-036",
+      "type": "quote",
+      "page": "207",
+      "zh": [
+        "4.2 ……与事态存在和不存在的可能性相符合或不相符合。（第30页）"
+      ],
+      "en": [
+        "4.2 . . . agreement and disagreement with the possibilities of existence and non-existence of states of affairs. (p30)"
+      ]
+    },
+    {
+      "id": "dm-ch10-037",
+      "type": "paragraph",
+      "page": "207",
+      "zh": [
+        "他随后提议用真值表来考察这些可能性（第30页），并已论证："
+      ],
+      "en": [
+        "He then proposed the use of truth tables to explore these possibilities (p30), having argued that:"
+      ]
+    },
+    {
+      "id": "dm-ch10-038",
+      "type": "quote",
+      "page": "207",
+      "zh": [
+        "4.25 如果一个基本命题为真，则该事态存在；如果一个基本命题为假，则该事态不存在。"
+      ],
+      "en": [
+        "4.25 If an elementary proposition is true, then the state of affairs exists: if an elementary proposition is false, the state of affairs does not exist."
+      ]
+    },
+    {
+      "id": "dm-ch10-039",
+      "type": "paragraph",
+      "page": "207",
+      "zh": [
+        "卡尔纳普深受维特根斯坦事态概念的影响，在1947年的《意义与必然性：语义学与模态逻辑研究》",
+        {
+          "type": "note",
+          "id": "dm-10-6"
+        },
+        "中，通过状态描述这一观念，系统地形式化了外延意义概念："
+      ],
+      "en": [
+        "In his 1947 book ",
+        {
+          "type": "em",
+          "children": [
+            "Meaning and Necessity: A Study in Semantics and Modal Logic,"
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-10-6"
+        },
+        " Carnap, strongly influenced by Wittgenstein’s states of affairs, systematically formalized the concept of extensional meaning through the idea of a ",
+        {
+          "type": "em",
+          "children": [
+            "state description"
+          ]
+        },
+        ":"
+      ]
+    },
+    {
+      "id": "dm-ch10-040",
+      "type": "quote",
+      "page": "207",
+      "zh": [
+        "有且仅有一个状态描述，描述宇宙的实际状态；它包含所有真的原子句，以及那些假的原子句的否定。因此，它只包含真句子，我们便称之为真状态描述。任何形式的句子为真，当且仅当它在真状态描述中成立。（第10页）"
+      ],
+      "en": [
+        "There is one and only one state-description which describes the actual state of the universe; it is that which contains all true atomic sentences and the negations of those which are false. Hence it contains only true sentences; therefore, we call it the true state-description. A sentence of any form is true if and only if it holds in the true state-description. (p10)"
+      ]
+    },
+    {
+      "id": "dm-ch10-041",
+      "type": "paragraph",
+      "page": "208",
+      "zh": [
+        "请注意，维特根斯坦谈的是确定某一事态是否存在，这相对于已知内容而言；卡尔纳普却断言，可以描述“宇宙的实际状态”。"
+      ],
+      "en": [
+        "Note that, where Wittgenstein talks about determining the existence of a state of affairs, which is relative to what is known, Carnap asserts the possibility of describing ‘the actual state of the universe’."
+      ]
+    },
+    {
+      "id": "dm-ch10-042",
+      "type": "paragraph",
+      "page": "208",
+      "zh": [
+        "卡尔纳普随后系统地构建一种形式对象语言，通过代入状态描述中的值来表达外延意义。内涵性陈述则用一种受约束的自然元语言",
+        {
+          "type": "note",
+          "id": "dm-10-7"
+        },
+        "作出，以便译成对象语言，再对照状态描述加以验证。"
+      ],
+      "en": [
+        "Carnap then systematically elaborated a formal ",
+        {
+          "type": "em",
+          "children": [
+            "object language"
+          ]
+        },
+        " for expressing extensional meanings through substitution of values from state descriptions. Intensional statements were made in a constrained natural ",
+        {
+          "type": "em",
+          "children": [
+            "meta-language"
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-10-7"
+        },
+        " for translation into the ",
+        {
+          "type": "em",
+          "children": [
+            "object language"
+          ]
+        },
+        " for verification against state-descriptions."
+      ]
+    },
+    {
+      "id": "dm-ch10-043",
+      "type": "paragraph",
+      "page": "208",
+      "zh": [
+        "到1961年，卡尔纳普已不再认为"
+      ],
+      "en": [
+        "By 1961, Carnap no longer thought that"
+      ]
+    },
+    {
+      "id": "dm-ch10-044",
+      "type": "quote",
+      "page": "208",
+      "zh": [
+        "关于事物的一切陈述，都能翻译为关于感觉材料的陈述。",
+        {
+          "type": "note",
+          "id": "dm-10-8"
+        }
+      ],
+      "en": [
+        "all statements about things can be translated into statements about sense data.",
+        {
+          "type": "note",
+          "id": "dm-10-8"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-045",
+      "type": "paragraph",
+      "page": "208",
+      "zh": [
+        "此外，他现在对内涵性陈述能够多严格地转化为外延性陈述，也持谨慎态度："
+      ],
+      "en": [
+        "Further, he was now cautious about how rigorously intensional statements might be converted to extensional:"
+      ]
+    },
+    {
+      "id": "dm-ch10-046",
+      "type": "quote",
+      "page": "208",
+      "zh": [
+        "因此，我后来提出一个较弱的版本，主张每个非外延性陈述都能翻译为外延性语言中逻辑等价的陈述。这一论题似乎适用于迄今已知的一切非外延性陈述的例子，但尚未得到证明；我们只能把它作为一个猜想提出。（第ix页）"
+      ],
+      "en": [
+        "Hence I have later proposed a weaker version which claims that every nonextensional statement can be translated into a logically equivalent statement of an extensional language. It seems that this thesis holds for all hitherto known examples of nonextensional statements, but this has not yet been demonstrated; we can propose it only as a conjecture. (pix)"
+      ]
+    },
+    {
+      "id": "dm-ch10-047",
+      "type": "paragraph",
+      "page": "208",
+      "zh": [
+        "不过，维特根斯坦和卡尔纳普的工作构成了模型论的基础，而模型论如今支撑着编程语言的语义。卡尔纳普的工作也继续得到发展，例如马里安·普热莱茨基的《经验理论的逻辑》。",
+        {
+          "type": "note",
+          "id": "dm-10-9"
+        }
+      ],
+      "en": [
+        "Nonetheless, the work of Wittgenstein and Carnap formed the basis of ",
+        {
+          "type": "em",
+          "children": [
+            "model theory"
+          ]
+        },
+        ", which now underpins the semantics of programming languages. And the development of Carnap’s work continued, for example, in Marian Przelecki’s ",
+        {
+          "type": "em",
+          "children": [
+            "Logic of Empirical Theories"
+          ]
+        },
+        ".",
+        {
+          "type": "note",
+          "id": "dm-10-9"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-048",
+      "type": "paragraph",
+      "page": "208",
+      "zh": [
+        "对普热莱茨基而言，模型是用集合论形式化的事态或状态描述。他把模型限定于他所称的具有谓词性质的物理对象。他认为，这不足以成为物理学这类科学的基础，需要加入实数及关系、函数等高阶逻辑构造，尽管他本人并未作这种扩展（第104页）。由于科学不断发展，他还提出，可以通过截取一个“横截面”来刻画一门学科的现状，从而确定其中确定的分析知识与不确定的综合知识之间不断变化的平衡（第105—106页）。"
+      ],
+      "en": [
+        "For Przelecki, a ",
+        {
+          "type": "em",
+          "children": [
+            "model"
+          ]
+        },
+        " is state of affairs or a state description, formalized in set theory. Przelecki restricts models to what he calls ",
+        {
+          "type": "em",
+          "children": [
+            "physical objects"
+          ]
+        },
+        " with predicative properties. He suggests that this is insufficient as a basis for a science like physics, and it needs to be extended, though he doesn’t do so, with real numbers, and higher order logic constructs like relations and functions (p104). Given that science continuously develops, Przelecki further suggests that the current state of a discipline might be characterized by taking a ‘cross section’ to determine the changing balance between determinate analytic and indeterminate synthetic knowledge (p105–6)."
+      ]
+    },
+    {
+      "id": "dm-ch10-049",
+      "type": "subheading",
+      "page": "208",
+      "zh": [
+        "巴迪欧、模型论与唯物主义"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Badiou, model theory and materialism"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-050",
+      "type": "paragraph",
+      "page": "208",
+      "zh": [
+        "阿兰·巴迪欧的《模型的概念》",
+        {
+          "type": "note",
+          "id": "dm-10-10"
+        },
+        "以1968年的讲课为基础，试图调和形式逻辑与马克思主义唯物主义传统。他批评卡尔纳普和奎因，认为两种观点都区分经验“事实”与逻辑形式（第7页），并主张这实际上将形式科学与经验科学联结起来；也就是说，二者之间存在"
+      ],
+      "en": [
+        "Alain Badiou’s ",
+        {
+          "type": "em",
+          "children": [
+            "The Concept of Model"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-10-10"
+        },
+        " based on lectures given in 1968, sought to reconcile formal logic with the Marxist materialist tradition. Criticizing both Carnap and Quine, he sees the distinction between empirical ‘fact’ and logical form as common to both perspectives (p7), and claims that this actually serves to bind together formal and empirical science: that is, there is a"
+      ]
+    },
+    {
+      "id": "dm-ch10-051",
+      "type": "quote",
+      "page": "208",
+      "zh": [
+        "逻辑新实证主义与模型论之间的辩证共谋。（第19页）"
+      ],
+      "en": [
+        "dialectical complicity between logical neo-positivism and model theory. (p19)"
+      ]
+    },
+    {
+      "id": "dm-ch10-052",
+      "type": "paragraph",
+      "page": "209",
+      "zh": [
+        "巴迪欧分析的一大长处在于，他把数学刻画为统一的物质实践，将形式规则系统与实际计算联系起来："
+      ],
+      "en": [
+        "The great strength of Badiou’s analysis is that he characterizes mathematics as a unified material practice, linking formal systems of rules to practical calculation:"
+      ]
+    },
+    {
+      "id": "dm-ch10-053",
+      "type": "quote",
+      "page": "209",
+      "zh": [
+        "有效程序这一哲学范畴——即可以通过一系列无歧义的书写操作明确计算出来的东西——真正处于一切数学认识论的中心。（第26页）"
+      ],
+      "en": [
+        "The philosophical category of effective procedure – of that which is explicitly calculable by a series of unambiguous scriptural manipulations – is truly at the centre of every epistemology of mathematics. (p26)"
+      ]
+    },
+    {
+      "id": "dm-ch10-054",
+      "type": "paragraph",
+      "page": "209",
+      "zh": [
+        "巴迪欧强调，虽然模型是为探索形式系统而构造的，"
+      ],
+      "en": [
+        "Badiou emphasizes that while models are made to explore formal systems:"
+      ]
+    },
+    {
+      "id": "dm-ch10-055",
+      "type": "quote",
+      "page": "209",
+      "zh": [
+        "模型是关于逻辑—数学系统区分能力的、可用数学构造的概念。",
+        {
+          "type": "note",
+          "id": "dm-10-11"
+        },
+        "（第40页）"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "a model is the mathematically constructable concept of the differentiating power of a logico-mathematical system."
+          ]
+        },
+        {
+          "type": "note",
+          "id": "dm-10-11"
+        },
+        " (p40)"
+      ]
+    },
+    {
+      "id": "dm-ch10-056",
+      "type": "paragraph",
+      "page": "209",
+      "zh": [
+        "反过来，模型也要接受实验研究："
+      ],
+      "en": [
+        "In turn, models are subject to experimental investigation:"
+      ]
+    },
+    {
+      "id": "dm-ch10-057",
+      "type": "quote",
+      "page": "209",
+      "zh": [
+        "正因为形式装置本身是一种物质化的理论、一个数学结果，它才能进入数学知识的生产过程；在这一过程中，模型概念所指的不是一个等待形式化的外部，而是有待检验的数学材料。（第47页）"
+      ],
+      "en": [
+        "It is because it is itself a materialised theory, a mathematical result, that the formal apparatus can enter into the process of production of mathematical knowledge; and in this process, the concept of model does not designate an outside to be formalised, but a mathematical material to be tested. (p47)"
+      ]
+    },
+    {
+      "id": "dm-ch10-058",
+      "type": "paragraph",
+      "page": "209",
+      "zh": [
+        "巴迪欧进一步认为，形式系统实实在在是一台“数学生产机器”，并指出"
+      ],
+      "en": [
+        "Badiou further argues that a formal system is quite literally a ‘machine for mathematical production’, and notes that the"
+      ]
+    },
+    {
+      "id": "dm-ch10-059",
+      "type": "quote",
+      "page": "209",
+      "zh": [
+        "这些系统的理论与自动机或计算机器理论之间日益明显的亲缘关系，鲜明地说明了形式主义的实验使命。（第43页）"
+      ],
+      "en": [
+        "increasingly evident kinship between the theory of these systems and the theory of automata, or of calculating machines, strikingly illustrates the experimental vocation of formalism. (p43)"
+      ]
+    },
+    {
+      "id": "dm-ch10-060",
+      "type": "paragraph",
+      "page": "209",
+      "zh": [
+        "如下文将讨论的，我们不只把自动机本身视为实验装置，还认为它为语义提供一种动态的物理基础，超越数学构造，无论这些构造如何物质化。"
+      ],
+      "en": [
+        "As discussed below, we see automata themselves as not just experimental apparatuses but as providing a dynamic, physical basis for semantics that goes beyond mathematical constructs, no matter how materialized."
+      ]
+    },
+    {
+      "id": "dm-ch10-061",
+      "type": "paragraph",
+      "page": "209",
+      "zh": [
+        "巴迪欧在构造模型时优先考虑集合论和整数，却没有提到丘奇—图灵论题。这个论题意味着，所有图灵完备（TC）系统都可以相互充当形式模型：证明一个新系统图灵完备，恰恰要求能够在它与某个已知图灵完备系统之间进行翻译。既然计算机是物理的图灵完备系统，它们便使形式模型立足于实际现实。"
+      ],
+      "en": [
+        "Badiou prioritizes set theory and integers for model making but does not mention the Church-Turing thesis. This implies that all Turing complete (TC) systems may serve as formal models for each other: demonstrating that a new system is TC requires precisely the ability to translate between it and some known TC system. Given that computers are physical TC systems, they ground formal models in actual reality."
+      ]
+    },
+    {
+      "id": "dm-ch10-062",
+      "type": "subheading",
+      "page": "209",
+      "zh": [
+        "自动机"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Automata"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-063",
+      "type": "paragraph",
+      "page": "209",
+      "zh": [
+        "第9章介绍了图灵机，以及它有界但可以任意扩展的纸带。我们还看到，根据丘奇—图灵论题，图灵机是一切可能计算的模型。"
+      ],
+      "en": [
+        "In Chapter 9, we met the Turing machine and saw how it has a bounded but arbitrarily extensible tape. We also saw that, according to the Church-Turing thesis, the TM is a model for all possible computations."
+      ]
+    },
+    {
+      "id": "dm-ch10-064",
+      "type": "paragraph",
+      "page": "209",
+      "zh": [
+        "现在将探讨，限制图灵机纸带的性质如何改变它的计算性质。霍普克罗夫特和乌尔曼",
+        {
+          "type": "note",
+          "id": "dm-10-12"
+        },
+        "对此有简明的论述。"
+      ],
+      "en": [
+        "We will now explore how restricting TMs’ tape properties changes their computational properties. Hopcroft and Ullman",
+        {
+          "type": "note",
+          "id": "dm-10-12"
+        },
+        " provide a succinct account."
+      ]
+    },
+    {
+      "id": "dm-ch10-065",
+      "type": "paragraph",
+      "page": "210",
+      "zh": [
+        "可以将图灵机纸带视为输入与输出的结合，同时也是存储器。初始纸带是输入，最终纸带是输出，图灵机能够任意检查、修改和扩展纸带。下面考虑通过改变纸带的性质，对图灵机行为施加的三类限制。"
+      ],
+      "en": [
+        "We might consider a TM tape as a combined input and output, as well as a memory. The initial tape is the input, and the final tape is the output, and the TM can arbitrarily inspect, modify and extend the tape. We’ll now consider three broad restrictions that we might place on TM behaviour by changing properties of the tape."
+      ]
+    },
+    {
+      "id": "dm-ch10-066",
+      "type": "paragraph",
+      "page": "210",
+      "zh": [
+        "首先，可以规定纸带不得扩展，即输出必须与输入一样大。这称为线性有界自动机（LBA），大致对应实际计算机。当然，计算机可以接收任意长度的流式输入，但任何时刻能保存在内存中的量都是有限的。实践中，我们仍把计算机当作图灵机，内存耗尽时就会抱怨。"
+      ],
+      "en": [
+        "First of all, we might insist that the tape cannot be extended, that is, the output must be the same size as the input. This is called a ",
+        {
+          "type": "em",
+          "children": [
+            "linear bounded automaton (LBA)"
+          ]
+        },
+        ", and broadly corresponds to actual computers. Of course, computers may be given streamed input of arbitrary length, but only a finite amount can be held in memory at any moment. In practice, though, we treat computers as if they were Turing machines, and get grumpy when they run out of memory."
+      ]
+    },
+    {
+      "id": "dm-ch10-067",
+      "type": "paragraph",
+      "page": "210",
+      "zh": [
+        "其次，可以给有限状态自动机（FSA）配一条能沿一个方向扩展的纸带。它像栈一样工作：可以在顶部添加（压入）或移除（弹出）项，但只能检查栈顶项。这称为下推自动机（PDA）。下推自动机并不是实际机器的常见形式，却是计算机程序初步句法分析软件的核心。"
+      ],
+      "en": [
+        "Secondly, we might give a FSA a tape which is extensible in one direction. The tape behaves like a ",
+        {
+          "type": "em",
+          "children": [
+            "stack"
+          ]
+        },
+        ", where items may be added to (",
+        {
+          "type": "em",
+          "children": [
+            "pushed"
+          ]
+        },
+        ") or removed from (",
+        {
+          "type": "em",
+          "children": [
+            "popped"
+          ]
+        },
+        ") the top, but only the top item can be inspected. This is known as a ",
+        {
+          "type": "em",
+          "children": [
+            "push down automaton (PDA)"
+          ]
+        },
+        ". PDAs are not a common form of practical machine but are central to software for initial syntax analysis of computer programmes."
+      ]
+    },
+    {
+      "id": "dm-ch10-068",
+      "type": "paragraph",
+      "page": "210",
+      "zh": [
+        "第三，可以把对有限纸带的访问限定为只从头到尾检查，不得修改纸带或改变方向。因此，机器只能一路处理纸带，从一个状态转到另一个状态。如果不止一个旧状态都能进入同一个新状态，机器便不记得自身的计算历史。这类机器称为有限状态自动机（FSA）或摩尔机。"
+      ],
+      "en": [
+        "Third, we might restrict access to a finite tape to only inspecting it from start to finish without changing the tape or reversing the direction. Thus, the machine can only chew through the tape, changing from state to state. If it is possible to enter a new state from more than one old state, then the machine has no memory of its computation history. This sort of machine is called a ",
+        {
+          "type": "em",
+          "children": [
+            "finite state automaton (FSA)"
+          ]
+        },
+        " or ",
+        {
+          "type": "em",
+          "children": [
+            "Moore machine"
+          ]
+        },
+        "."
+      ]
+    },
+    {
+      "id": "dm-ch10-069",
+      "type": "paragraph",
+      "page": "210",
+      "zh": [
+        "还能够产生输出的有限状态自动机称为米利机。这相当于给摩尔机加上一条只有一个单元格的可写纸带。米利机广泛用于控制按固定动作序列运行的过程，例如一组交通信号灯或洗衣机的不同洗涤程序。"
+      ],
+      "en": [
+        "A FSA, which can also emit outputs, is called a ",
+        {
+          "type": "em",
+          "children": [
+            "Mealey machine"
+          ]
+        },
+        ". This is equivalent to adding a single-cell writable tape to a Moore machine. Mealey machines are very widely used for controlling processes that go through fixed sequences of actions, for example, sets of traffic lights or different washing machine cycles."
+      ]
+    },
+    {
+      "id": "dm-ch10-070",
+      "type": "subheading",
+      "page": "210",
+      "zh": [
+        "语言游戏"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Language games"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-071",
+      "type": "paragraph",
+      "page": "210",
+      "zh": [
+        "我们略去了两者的区别：检查符号序列是否具有所要求的结构，以及更广泛的计算。它们的联系在于，给定某种类型的文法，就有算法能够生成相应的检查机器。不过，确认结构与符号序列的意义如何相关，还不清楚。"
+      ],
+      "en": [
+        "We have elided the distinction between checking whether or not a symbol sequence has a required structure and wider computing. The connection is that, given a grammar of some type, there is an algorithm to generate its checking machine. However, it’s not yet clear how affirming structure relates to the meanings of symbol sequences."
+      ]
+    },
+    {
+      "id": "dm-ch10-072",
+      "type": "paragraph",
+      "page": "210",
+      "zh": [
+        "关键在于，机器检查序列时还做了什么。一旦把意义定位于物质化系统的状态变化中，就能以语言交流来阐明更广泛的互动。"
+      ],
+      "en": [
+        "The key lies in what else the machine does as it checks the sequence. Once we locate meaning in state changes in materialized systems, we can clarify wider interaction in terms of linguistic exchanges."
+      ]
+    },
+    {
+      "id": "dm-ch10-073",
+      "type": "paragraph",
+      "page": "210",
+      "zh": [
+        "与卡尔纳普一样，维特根斯坦也退离了系统地阐述事态的总体性构想。在《逻辑哲学论》之后，他生前发表很少，后期工作通过身后出版的文集为人所知。"
+      ],
+      "en": [
+        "Just like Carnap, Wittgenstein retreated from his totalizing vision of systematically elaborating states of affairs. He published little in his lifetime after ",
+        {
+          "type": "em",
+          "children": [
+            "Tractatus"
+          ]
+        },
+        ", and his later work is known through posthumous collections."
+      ]
+    },
+    {
+      "id": "dm-ch10-074",
+      "type": "paragraph",
+      "page": "210–211",
+      "zh": [
+        "在1953年出版的《哲学研究》",
+        {
+          "type": "note",
+          "id": "dm-10-13"
+        },
+        "中，维特根斯坦探究语言游戏这一观念，以考察语言如何发挥作用。与其他游戏一样，语言游戏包含参与者依规则操作事物。游戏通过参与者遵循共同规则，轮流以说话和行动来互动而进行。"
+      ],
+      "en": [
+        "In ",
+        {
+          "type": "em",
+          "children": [
+            "Philosophical Investigations"
+          ]
+        },
+        ",",
+        {
+          "type": "note",
+          "id": "dm-10-13"
+        },
+        " published in 1953, Wittgenstein explores the idea of a ",
+        {
+          "type": "em",
+          "children": [
+            "language game"
+          ]
+        },
+        " as a way of exploring how language functions. Like other games, language games involve players manipulating things according to rules. They proceed by players taking it in turn to interact through talking and doing things, according to rules they share."
+      ]
+    },
+    {
+      "id": "dm-ch10-075",
+      "type": "paragraph",
+      "page": "211",
+      "zh": [
+        "例如："
+      ],
+      "en": [
+        "For example:"
+      ]
+    },
+    {
+      "id": "dm-ch10-076",
+      "type": "quote",
+      "page": "211",
+      "zh": [
+        "“我们来下一盘国际象棋吧”这个表达的涵义，与游戏的全部规则之间，是在哪里建立联系的？——在游戏的规则表中，在游戏的教学中，在日常下棋的实践中。（第80页）"
+      ],
+      "en": [
+        "Where is the connection effected between the sense of the expression ‘Let’s play a game of chess’ and all the rules of the game? – Well, in the list of rules of the game, in the teaching of it, in the day-to-day practice of playing. (p80)"
+      ]
+    },
+    {
+      "id": "dm-ch10-077",
+      "type": "paragraph",
+      "page": "211",
+      "zh": [
+        "维特根斯坦将此与奥古斯丁的实指意义观相对置：意义基于名称与事物的联系，因此儿童通过他人指着事物并说出名称来学习语言。维特根斯坦则认为，儿童通过训练学习语言，这种训练包含说话，也就是互动（第2—4页）。"
+      ],
+      "en": [
+        "Wittgenstein counterposes this to the Augustinian idea of ostensive meanings based on the association of names with things, so children learn language by having things named as they’re pointed at. Rather, Wittgenstein suggests, children learn language through training, which involves talking, that is, interacting (pp2–4)."
+      ]
+    },
+    {
+      "id": "dm-ch10-078",
+      "type": "paragraph",
+      "page": "211",
+      "zh": [
+        "他引入一个建筑工人与助手的语言游戏：工人喊出一个构件的名称，助手便递上该构件（第3页）。然后，他考虑工人询问助手有多少块石板的情形。助手回答“五块石板”，与工人说“五块石板”、期望助手递来五块石板，很不相同（第10页）。也就是说，即使广义理解命名，问题也不在给事物命名：同样的语言构造，在不同语境中有不同意义。"
+      ],
+      "en": [
+        "He introduces a language game of a builder and assistant, where the builder calls out the name of a component and the assistant provides it (p3). He then considers the builder, asking the assistant how many slabs there are. Then, the assistant saying ‘five slabs’ in response is quite different from the builder saying ‘five slabs’ and expecting the assistant to hand over five slabs (p10). That is, rather than naming things, even broadly understood, the same linguistic constructs have different meanings in different contexts."
+      ]
+    },
+    {
+      "id": "dm-ch10-079",
+      "type": "paragraph",
+      "page": "211",
+      "zh": [
+        "对维特根斯坦而言，我们在各种具体情境中参与众多小型语言游戏："
+      ],
+      "en": [
+        "For Wittgenstein, we take part in a multiplicity of small language games in diverse concrete circumstances:"
+      ]
+    },
+    {
+      "id": "dm-ch10-080",
+      "type": "quote",
+      "page": "211",
+      "zh": [
+        "我们没有意识到日常语言游戏的惊人多样性，因为语言的外衣使一切显得相同。（第224页）"
+      ],
+      "en": [
+        "We remain unconscious of the prodigious diversity of all the everyday language games because the clothing of our language makes everything alike. (p224)"
+      ]
+    },
+    {
+      "id": "dm-ch10-081",
+      "type": "paragraph",
+      "page": "211",
+      "zh": [
+        "不过，语言游戏并非固定不变，而是在互动中发展；如果参与者行动不当，或者行动产生了未预见的后果，游戏便可能失灵。由于我们浸润于语言使用之中，这种情况可以得到解决："
+      ],
+      "en": [
+        "However, language games are not fixed, but develop through interaction and may break down if players don’t act appropriately or if actions have consequences that weren’t foreseen. This may be resolved because we are immersed in language use:"
+      ]
+    },
+    {
+      "id": "dm-ch10-082",
+      "type": "quote",
+      "page": "211",
+      "zh": [
+        "我们规定规则，规定一种游戏的技法，可是当我们遵循规则时，事情并不像我们假定的那样发展。于是，我们仿佛纠缠在自己的规则之中了。（第50页）"
+      ],
+      "en": [
+        "we lay down rules, a technique for a game, and then when we follow the rules, things do not turn out as we had assumed. That we are therefore as it were entangled in our own rule. (p50)"
+      ]
+    },
+    {
+      "id": "dm-ch10-083",
+      "type": "subheading",
+      "page": "211",
+      "zh": [
+        "文法与自动机"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Grammars and automata"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-084",
+      "type": "paragraph",
+      "page": "211",
+      "zh": [
+        "诺姆·乔姆斯基",
+        {
+          "type": "note",
+          "id": "dm-10-14"
+        },
+        "考察了不同类别的合式符号序列，而不直接关注其意义。他区分了四类文法，它们已被证明与上述自动机相对应。",
+        {
+          "type": "note",
+          "id": "dm-10-15"
+        },
+        "即图灵机可以检查0型文法，线性有界自动机检查1型文法，下推自动机检查2型文法，有限状态自动机检查3型文法。这些类型因此构成一个层级，每一型所能定义的范围都比下一型更广，正如相应机器按计算能力排列一样。"
+      ],
+      "en": [
+        "Noam Chomsky",
+        {
+          "type": "note",
+          "id": "dm-10-14"
+        },
+        " explored different classes of well-formed symbol sequences without direct concern for their meanings. He identified four types of grammar that have been shown to correspond to the automata we discussed above.",
+        {
+          "type": "note",
+          "id": "dm-10-15"
+        },
+        " That is, a Turing machine can check Type 0 grammars, an LBA Type 1 grammars, a PDA Type 2 grammars and a FSA Type 3. Thus, these types form a ",
+        {
+          "type": "em",
+          "children": [
+            "hierarchy"
+          ]
+        },
+        ", where each type can define more than the next, just as the corresponding machines are ordered by computational power."
+      ]
+    },
+    {
+      "id": "dm-ch10-085",
+      "type": "paragraph",
+      "page": "212",
+      "zh": [
+        "能力最强的0型文法能够涵盖任何图灵完备计算。不过，它们不用于实际计算，因为通过界定符号序列的上下文来思考问题实在很困难；这些上下文可以任意庞大而复杂。人们转而使用编程语言：它们在严谨性上像形式系统，在表达力上像自然语言。"
+      ],
+      "en": [
+        "The most powerful grammar, Type 0, can capture any TC computation. However, they are not used for practical computing because it is really hard to think through problems in terms of bounding symbol sequence contexts, which may be arbitrarily large and complex. Rather, programming languages are used. These are like formal systems in their rigour, and natural languages in their expressiveness."
+      ]
+    },
+    {
+      "id": "dm-ch10-086",
+      "type": "paragraph",
+      "page": "212",
+      "zh": [
+        "使用编程语言，就要依据它所支持的抽象来思考，尤其要考虑变量能够表示哪类东西。在心理层面，这略去了计算的物理根基：计算在物理计算机中进行，操作符号编码的物理实例。因此，最终决定什么能够计算的，是现实的物理性质。对于涉及任意小的构造（如实数）或任意大的构造（如可无止境增长的数据库）的计算，这一点尤其重要。"
+      ],
+      "en": [
+        "Using a programming language involves thinking in terms of the abstractions that it supports, in particular what sorts of things variables may represent. Psychologically, this elides the physical grounding of computations in physical computers, manipulating physical instances of symbol encodings. Thus, what can be computed is determined, ultimately, by the physical nature of reality. This is particularly significant for computations that involve arbitrarily small constructs, like real numbers, or arbitrarily large ones, like databases that may grow open-endedly."
+      ]
+    },
+    {
+      "id": "dm-ch10-087",
+      "type": "paragraph",
+      "page": "212",
+      "zh": [
+        "如果现实有限，我们最终就会耗尽可用于计算的物质。我们或许以为自己在一种拥有潜在无限资源的0型语言中编程，但实际上内存有界。而且，即使现实无限，谈论在有限时间内动用无限资源的有限计算，也没有意义。",
+        {
+          "type": "note",
+          "id": "dm-10-16"
+        }
+      ],
+      "en": [
+        "If reality is finite, then eventually we run out of stuff with which to do computations. We may think we’re programming in a Type 0 language with potentially infinite resources, but we actually have bounded memory. And, even if reality is infinite, it makes no sense to talk about finite computations that deploy infinite resources in a finite time.",
+        {
+          "type": "note",
+          "id": "dm-10-16"
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-088",
+      "type": "subheading",
+      "page": "212",
+      "zh": [
+        "结论"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Conclusion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dm-ch10-089",
+      "type": "paragraph",
+      "page": "212",
+      "zh": [
+        "我们对形式逻辑发展的叙述支撑着我们的唯物主义。与图灵一样，我们把数学视为植根于物理机器的机械活动；与巴迪欧一样，我们把建模与逻辑视为相互补充的实验活动；与维特根斯坦一样，我们认为意义产生于改变现实的互动；与马尔可夫一样，我们用建模为自动机的算法过程来刻画意义。"
+      ],
+      "en": [
+        "Our account of the development of formal logic underpins our materialism. With Turing, we see mathematics as a mechanical activity grounded in physical machines. With Badiou, we see model-making and logic as complementary experimental activities. With Wittgenstein, we see meanings created in interactions that change reality. And, with Markov, we see meaning characterized by algorithmic processes modelled as automata."
+      ]
+    },
+    {
+      "id": "dm-ch10-090",
+      "type": "paragraph",
+      "page": "212",
+      "zh": [
+        "依据丘奇—图灵论题，我们的唯物主义是还原论的。如果可计算性是理解现实的关键，而各种说明都能被证明具有等价的解释力，那么如何选择便是实用问题，而非原则问题。具体说来，我们拒绝柏拉图主义赋予纯数学的首要地位，却承认它在抽象方面的力量。"
+      ],
+      "en": [
+        "From the Church-Turing thesis, our materialism is reductionist. If computability is key to understanding reality and all accounts may be demonstrated to have equivalent explanatory power, then their choice is a matter of pragmatism, not principle. In particular, we reject the Platonist primacy of pure mathematics but recognize its power in abstraction."
+      ]
+    },
+    {
+      "id": "dm-ch10-091",
+      "type": "paragraph",
+      "page": "212",
+      "zh": [
+        "我们的唯物主义根本上是科学的。我们拒绝黑格尔和马克思主义传统赋予辩证法的首要地位，但承认它在探究现实过程中揭示和解决矛盾的力量。"
+      ],
+      "en": [
+        "Our materialism is fundamentally scientific. We reject the primacy given to dialectics in the Hegelian and Marxist traditions, but recognize its power in exposing and resolving contradictions in interrogating reality."
+      ]
+    },
+    {
+      "id": "dm-ch10-092",
+      "type": "paragraph",
+      "page": "212",
+      "zh": [
+        "我们的唯物主义也是有限主义的。与构造主义者一样，我们拒绝以实无限为基础的论证。"
+      ],
+      "en": [
+        "And our materialism is finitist. With the constructivists, we reject arguments based on actualized infinities."
+      ]
+    }
+  ],
+  "notes": {
+    "dm-10-1": {
+      "zh": [
+        "但这里不这样做。"
+      ],
+      "en": [
+        "But won’t."
+      ]
+    },
+    "dm-10-2": {
+      "zh": [
+        "B. Russell：“论指称”，Mind 14，第56期（1905）：479—493。"
+      ],
+      "en": [
+        "B. Russell, ‘On Denoting’, ",
+        {
+          "type": "em",
+          "children": [
+            "Mind"
+          ]
+        },
+        " 14, no. 56 (1905): 479–93."
+      ]
+    },
+    "dm-10-3": {
+      "zh": [
+        "R. Carnap：《世界的逻辑构造；哲学中的伪问题》，R. A. George英译（University of California Press，1967）。"
+      ],
+      "en": [
+        "R. Carnap, ",
+        {
+          "type": "em",
+          "children": [
+            "The Logical Structure of the World; Pseudoproblems in Philosophy"
+          ]
+        },
+        ", trans. R. A. George (University of California Press, 1967)."
+      ]
+    },
+    "dm-10-4": {
+      "zh": [
+        "W. V.-O. Quine：《从逻辑的观点看：逻辑哲学论文集》（Harper Torchbook，1963）。"
+      ],
+      "en": [
+        "W. V.-O. Quine, ",
+        {
+          "type": "em",
+          "children": [
+            "From A Logical Point of View: Logico-philosophical Essays"
+          ]
+        },
+        " (Harper Torchbook, 1963)."
+      ]
+    },
+    "dm-10-5": {
+      "zh": [
+        "Wittgenstein：《逻辑哲学论》。"
+      ],
+      "en": [
+        "Wittgenstein, ",
+        {
+          "type": "em",
+          "children": [
+            "Tractatus Logico-Philosophicus"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-10-6": {
+      "zh": [
+        "R. Carnap：《意义与必然性：语义学与模态逻辑研究》（University of Chicago Press，1947）。"
+      ],
+      "en": [
+        "R. Carnap, ",
+        {
+          "type": "em",
+          "children": [
+            "Meaning and Necessity: A Study in Semantics and Modal Logic"
+          ]
+        },
+        " (University of Chicago Press, 1947)."
+      ]
+    },
+    "dm-10-7": {
+      "zh": [
+        "是英语，而非黑格尔偏爱的德语。"
+      ],
+      "en": [
+        "English rather than Hegel’s preferred German."
+      ]
+    },
+    "dm-10-8": {
+      "zh": [
+        "Carnap：《世界的逻辑构造；哲学中的伪问题》，第viii页。"
+      ],
+      "en": [
+        "Carnap, ",
+        {
+          "type": "em",
+          "children": [
+            "The Logical Structure of the World; Pseudoproblems in Philosophy"
+          ]
+        },
+        ", viii."
+      ]
+    },
+    "dm-10-9": {
+      "zh": [
+        "M. Przelecki：《经验理论的逻辑》（Routledge and Kegan Paul，1969）。"
+      ],
+      "en": [
+        "M. Przelecki, ",
+        {
+          "type": "em",
+          "children": [
+            "The Logic of Empirical Theories"
+          ]
+        },
+        " (Routledge and Kegan Paul, 1969)."
+      ]
+    },
+    "dm-10-10": {
+      "zh": [
+        "A. Badiou：《模型的概念：数学唯物主义认识论导论》，Z. L. Fraser、T. Tao英译（re.press，2007）。"
+      ],
+      "en": [
+        "A. Badiou, ",
+        {
+          "type": "em",
+          "children": [
+            "The Concept of Model: An Introduction to the Materialist Epistemology of Mathematics"
+          ]
+        },
+        ", trans. Z. L. Fraser and T. Tao (re.press, 2007)."
+      ]
+    },
+    "dm-10-11": {
+      "zh": [
+        "原文为斜体。"
+      ],
+      "en": [
+        "Italics in original."
+      ]
+    },
+    "dm-10-12": {
+      "zh": [
+        "J. E. Hopcroft、J. E. Ullman：《形式语言及其与自动机的关系》（Addison-Wesley，1969）。"
+      ],
+      "en": [
+        "J. E. Hopcroft and J. E. Ullman, ",
+        {
+          "type": "em",
+          "children": [
+            "Formal Languages and Their Relation to Automata"
+          ]
+        },
+        " (Addison-Wesley, 1969)."
+      ]
+    },
+    "dm-10-13": {
+      "zh": [
+        "L. Wittgenstein：《哲学研究》，G. E. M. Anscombe英译（Blackwell，1958）。"
+      ],
+      "en": [
+        "L. Wittgenstein, ",
+        {
+          "type": "em",
+          "children": [
+            "Philosophical Investigations"
+          ]
+        },
+        ", trans. G. E. M. Anscombe (Blackwell, 1958)."
+      ]
+    },
+    "dm-10-14": {
+      "zh": [
+        "N. Chomsky：“论文法的某些形式性质”，Information and Control 2（1959）：137—167。"
+      ],
+      "en": [
+        "N. Chomsky, ‘On Certain Formal Properties of Grammars’, ",
+        {
+          "type": "em",
+          "children": [
+            "Information and Control"
+          ]
+        },
+        " 2 (1959): 137–67."
+      ]
+    },
+    "dm-10-15": {
+      "zh": [
+        "Hopcroft、Ullman：《形式语言及其与自动机的关系》。"
+      ],
+      "en": [
+        "Hopcroft and Ullman, ",
+        {
+          "type": "em",
+          "children": [
+            "Formal Languages and Their Relation to Automata"
+          ]
+        },
+        "."
+      ]
+    },
+    "dm-10-16": {
+      "zh": [
+        "Cockshott、Mackenzie、Michaelson：《计算及其限度》。"
+      ],
+      "en": [
+        "Cockshott, Mackenzie, and Michaelson, ",
+        {
+          "type": "em",
+          "children": [
+            "Computation and Its Limits"
+          ]
+        },
+        "."
+      ]
+    }
+  }
+}
