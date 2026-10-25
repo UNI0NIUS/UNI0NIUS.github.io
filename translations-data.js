@@ -386,6 +386,408 @@ window.TRANSLATIONS = {
       ]
     },
     {
+      "id": "lask-gesammelte-schriften-ii",
+      "title": "拉斯克文集：第二卷",
+      "originalTitle": "Gesammelte Schriften. II",
+      "tags": [
+        "哲学 Philosophy"
+      ],
+      "author": "Emil Lask",
+      "authorZh": "埃米尔·拉斯克",
+      "language": "zh-CN",
+      "languagePair": "Deutsch / 中文",
+      "structured": true,
+      "bilingual": true,
+      "views": [
+        "zh",
+        "en",
+        "parallel"
+      ],
+      "sourceLanguage": "de",
+      "sourceLanguageLabel": "Deutsch",
+      "editionNotice": "据1923年图宾根J. C. B. Mohr版校订。原页码随文保留，原注保留页内编号；中文原注附德文原文。",
+      "chapters": [
+        {
+          "id": "front-matter",
+          "title": "书前材料",
+          "originalTitle": "Vorsatz",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/front-matter.json"
+        },
+        {
+          "id": "original-toc",
+          "title": "原书目录",
+          "originalTitle": "Originales Inhaltsverzeichnis",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/original-toc.json"
+        },
+        {
+          "id": "logik",
+          "title": "哲学的逻辑与范畴学说",
+          "originalTitle": "Die Logik der Philosophie und die Kategorienlehre",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik.json"
+        },
+        {
+          "id": "logik-vorwort",
+          "title": "前言",
+          "originalTitle": "Vorwort.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-vorwort.json",
+          "parentId": "logik"
+        },
+        {
+          "id": "logik-einleitung",
+          "title": "导论",
+          "originalTitle": "Einleitung.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-einleitung.json",
+          "parentId": "logik"
+        },
+        {
+          "id": "logik-a1",
+          "title": "第一节 两个世界的理论",
+          "originalTitle": "1. Abschnitt: Die Zweiweltentheorie",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-a1.json",
+          "parentId": "logik"
+        },
+        {
+          "id": "logik-a2",
+          "title": "第二节 对与两个世界理论相应的范畴学说的要求",
+          "originalTitle": "2. Abschnitt: Die Forderung einer der Zweiweltentheorie entsprechenden Kategorienlehre",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-a2.json",
+          "parentId": "logik"
+        },
+        {
+          "id": "logik-t1",
+          "title": "第一部分 存在范畴的逻辑",
+          "originalTitle": "Erster Teil. Die Logik der Seinskategorien",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t1.json",
+          "parentId": "logik"
+        },
+        {
+          "id": "logik-t1-a1",
+          "title": "第一节 康德的哥白尼式行动",
+          "originalTitle": "1. Abschnitt: Kants Kopernikanische Tat",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t1-a1.json",
+          "parentId": "logik-t1"
+        },
+        {
+          "id": "logik-t1-a2",
+          "title": "第二节 “形式”与“意义”概念在哥白尼式命题中的设置",
+          "originalTitle": "2. Abschnitt: Die Einsetzung der Begriffe »Form« und »Sinn« in die Kopernikanische These",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t1-a2.json",
+          "parentId": "logik-t1"
+        },
+        {
+          "id": "logik-t1-a3",
+          "title": "第三节 感性之物作为非有效者或有效性陌异者",
+          "originalTitle": "3. Abschnitt: Das Sinnliche als das Nichtgeltende oder Geltungsfremde",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t1-a3.json",
+          "parentId": "logik-t1"
+        },
+        {
+          "id": "logik-t1-a4",
+          "title": "第四节 理论形式的含义分化与等级秩序",
+          "originalTitle": "4. Abschnitt: Die Bedeutungsdifferenzierung und Rangordnung der theoretischen Formen",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t1-a4.json",
+          "parentId": "logik-t1"
+        },
+        {
+          "id": "logik-t1-a5",
+          "title": "第五节 逻辑的赤裸性与非理性",
+          "originalTitle": "5. Abschnitt: Logische Nacktheit und Irrationalität",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t1-a5.json",
+          "parentId": "logik-t1"
+        },
+        {
+          "id": "logik-t1-a6",
+          "title": "第六节 认识概念",
+          "originalTitle": "6. Abschnitt: Der Erkenntnisbegriff",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t1-a6.json",
+          "parentId": "logik-t1"
+        },
+        {
+          "id": "logik-t2",
+          "title": "第二部分 哲学范畴的逻辑",
+          "originalTitle": "Zweiter Teil. Die Logik der philosophischen Kategorien",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2.json",
+          "parentId": "logik"
+        },
+        {
+          "id": "logik-t2-k1",
+          "title": "第一章 范畴问题向非感性领域的移置",
+          "originalTitle": "1. Kapitel: Die Uebertragung des Kategorienproblems auf die nichtsinnliche Sphäre",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k1.json",
+          "parentId": "logik-t2"
+        },
+        {
+          "id": "logik-t2-k1-a1",
+          "title": "第一节 有效性的领域范畴",
+          "originalTitle": "1. Abschnitt: Die Gebietskategorie des Geltens",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k1-a1.json",
+          "parentId": "logik-t2-k1"
+        },
+        {
+          "id": "logik-t2-k1-a2",
+          "title": "第二节 二对象理论与哥白尼式命题",
+          "originalTitle": "2. Abschnitt: Die Zweigegenstandstheorie und die Kopernikanische These",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k1-a2.json",
+          "parentId": "logik-t2-k1"
+        },
+        {
+          "id": "logik-t2-k1-a3",
+          "title": "第三节 真理的无界限性",
+          "originalTitle": "3. Abschnitt: Die Schrankenlosigkeit der Wahrheit",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k1-a3.json",
+          "parentId": "logik-t2-k1"
+        },
+        {
+          "id": "logik-t2-k2",
+          "title": "第二章 范畴体系的整体图景",
+          "originalTitle": "2. Kapitel: Das Gesamtbild vom System der Kategorien",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k2.json",
+          "parentId": "logik-t2"
+        },
+        {
+          "id": "logik-t2-k2-a1",
+          "title": "第一节 反思性的—属类的范畴",
+          "originalTitle": "1. Abschnitt: Die reflexiv-generellen Kategorien",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k2-a1.json",
+          "parentId": "logik-t2-k2"
+        },
+        {
+          "id": "logik-t2-k2-a1-n1",
+          "title": "1. 反思性的特征",
+          "originalTitle": "1. Der reflexive Charakter",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k2-a1-n1.json",
+          "parentId": "logik-t2-k2-a1"
+        },
+        {
+          "id": "logik-t2-k2-a1-n2",
+          "title": "2. 属类的特征",
+          "originalTitle": "2. Der generelle Charakter",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k2-a1-n2.json",
+          "parentId": "logik-t2-k2-a1"
+        },
+        {
+          "id": "logik-t2-k2-a2",
+          "title": "第二节 反思性范畴与构造性范畴之间的关系",
+          "originalTitle": "2. Abschnitt: Die Beziehungen zwischen den reflexiven und den konstitutiven Kategorien",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k2-a2.json",
+          "parentId": "logik-t2-k2"
+        },
+        {
+          "id": "logik-t2-k2-a3",
+          "title": "第三节 哲学范畴的“表”",
+          "originalTitle": "3. Abschnitt: Die »Tafel« der philosophischen Kategorien",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k2-a3.json",
+          "parentId": "logik-t2-k2"
+        },
+        {
+          "id": "logik-t2-k3",
+          "title": "第三章 哲学认识",
+          "originalTitle": "3. Kapitel: Das philosophische Erkennen",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k3.json",
+          "parentId": "logik-t2"
+        },
+        {
+          "id": "logik-t2-k3-a1",
+          "title": "第一节 统一的认识概念",
+          "originalTitle": "1. Abschnitt: Der einheitliche Erkenntnisbegriff",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k3-a1.json",
+          "parentId": "logik-t2-k3"
+        },
+        {
+          "id": "logik-t2-k3-a2",
+          "title": "第二节 生命与认识",
+          "originalTitle": "2. Abschnitt: Leben und Erkennen",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k3-a2.json",
+          "parentId": "logik-t2-k3"
+        },
+        {
+          "id": "logik-t2-k3-a3",
+          "title": "第三节 非理性与非理性主义",
+          "originalTitle": "3. Abschnitt: Irrationalität und Irrationalismus",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k3-a3.json",
+          "parentId": "logik-t2-k3"
+        },
+        {
+          "id": "logik-t2-k4",
+          "title": "第四章 理论哲学史中的哲学范畴",
+          "originalTitle": "4. Kapitel: Die philosophischen Kategorien in der Geschichte der theoretischen Philosophie",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k4.json",
+          "parentId": "logik-t2"
+        },
+        {
+          "id": "logik-t2-k4-a1",
+          "title": "第一节 亚里士多德、普罗提诺、中世纪",
+          "originalTitle": "1. Abschnitt: Aristoteles. Plotin. Das Mittelalter",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k4-a1.json",
+          "parentId": "logik-t2-k4"
+        },
+        {
+          "id": "logik-t2-k4-a2",
+          "title": "第二节 康德与近代",
+          "originalTitle": "2. Abschnitt: Kant und die Neuzeit",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-t2-k4-a2.json",
+          "parentId": "logik-t2-k4"
+        },
+        {
+          "id": "logik-schluss",
+          "title": "结语",
+          "originalTitle": "Schluß",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-schluss.json",
+          "parentId": "logik"
+        },
+        {
+          "id": "logik-anhang",
+          "title": "附录",
+          "originalTitle": "Anhang",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/logik-anhang.json",
+          "parentId": "logik"
+        },
+        {
+          "id": "urteil",
+          "title": "判断学说",
+          "originalTitle": "Die Lehre vom Urteil",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil.json"
+        },
+        {
+          "id": "urteil-vorwort",
+          "title": "前言",
+          "originalTitle": "Vorwort.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil-vorwort.json",
+          "parentId": "urteil"
+        },
+        {
+          "id": "urteil-einleitung",
+          "title": "导论",
+          "originalTitle": "Einleitung.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil-einleitung.json",
+          "parentId": "urteil"
+        },
+        {
+          "id": "urteil-k1",
+          "title": "第一章 判断决断的原初对象中真理与反真理性的对立",
+          "originalTitle": "Erstes Kapitel: Der Gegensatz von Wahrheit und Wahrheitswidrigkeit in den primären Objekten der Urteilsentscheidung",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil-k1.json",
+          "parentId": "urteil"
+        },
+        {
+          "id": "urteil-k1-a1",
+          "title": "第一节 价值对立性的标准",
+          "originalTitle": "Erster Abschnitt: Das Kriterium der Wertgegensätzlichkeit",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil-k1-a1.json",
+          "parentId": "urteil-k1"
+        },
+        {
+          "id": "urteil-k1-a2",
+          "title": "第二节 超语法的主词—谓词理论",
+          "originalTitle": "Zweiter Abschnitt: Die metagrammatische Subjekt-Prädikats-Theorie",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil-k1-a2.json",
+          "parentId": "urteil-k1"
+        },
+        {
+          "id": "urteil-k1-a3",
+          "title": "第三节 对立性标准在真正结构要素上的应用",
+          "originalTitle": "Dritter Abschnitt: Die Anwendung des Kriteriums der Gegensätzlichkeit auf die echten Strukturelemente",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil-k1-a3.json",
+          "parentId": "urteil-k1"
+        },
+        {
+          "id": "urteil-k2",
+          "title": "第二章 超对立性",
+          "originalTitle": "Zweites Kapitel: Die Uebergegensätzlichkeit",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil-k2.json",
+          "parentId": "urteil"
+        },
+        {
+          "id": "urteil-k2-a1",
+          "title": "第一节 判断结构的人为性及其与对象性逻辑领域的距离",
+          "originalTitle": "Erster Abschnitt: Die Künstlichkeit der Urteilsstruktur und ihr Abstand von der gegenständlich-logischen Region",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil-k2-a1.json",
+          "parentId": "urteil-k2"
+        },
+        {
+          "id": "urteil-k2-a2",
+          "title": "第二节 超对立性作为对立性的价值尺度",
+          "originalTitle": "Zweiter Abschnitt: Die Uebergegensätzlichkeit als Wertmaßstab der Gegensätzlichkeit",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil-k2-a2.json",
+          "parentId": "urteil-k2"
+        },
+        {
+          "id": "urteil-k3",
+          "title": "第三章 主体性作为对立性的发生根据",
+          "originalTitle": "Drittes Kapitel: Die Subjektivität als Entstehungsgrund der Gegensätzlichkeit",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil-k3.json",
+          "parentId": "urteil"
+        },
+        {
+          "id": "urteil-k3-a1",
+          "title": "第一节 真理相合性与反真理性的内在起源",
+          "originalTitle": "Erster Abschnitt: Der immanente Ursprung von Wahrheitsgemäßheit und Wahrheitswidrigkeit",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil-k3-a1.json",
+          "parentId": "urteil-k3"
+        },
+        {
+          "id": "urteil-k3-a2",
+          "title": "第二节 判断决断中的肯定与否定、正确性与虚假性",
+          "originalTitle": "Zweiter Abschnitt: Bejahung und Verneinung, Richtigkeit und Falschheit in der Urteilsentscheidung",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil-k3-a2.json",
+          "parentId": "urteil-k3"
+        },
+        {
+          "id": "urteil-anhang",
+          "title": "附录",
+          "originalTitle": "Anhang",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/urteil-anhang.json",
+          "parentId": "urteil"
+        },
+        {
+          "id": "back-matter",
+          "title": "原书卷末书目广告",
+          "originalTitle": "Verlagsanzeige",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-ii/back-matter.json"
+        }
+      ],
+      "downloads": [
+        {
+          "label": "中德对照 PDF",
+          "url": "translations/books/lask-gesammelte-schriften-ii/lask_ii_bilingual.pdf?v=d613f1043c70",
+          "bytes": 2563797,
+          "sha256": "d613f1043c708cb49ecc1d7dd6d40e61951652ac86566e7c1850c3aec14fdb70"
+        },
+        {
+          "label": "中文 PDF",
+          "url": "translations/books/lask-gesammelte-schriften-ii/lask_ii_zh.pdf?v=f9c58ceb3c92",
+          "bytes": 1422987,
+          "sha256": "f9c58ceb3c92cc0989f8f43206616243fcdd88a1d5ace24106f98507eb5b59ec"
+        },
+        {
+          "label": "德文 PDF",
+          "url": "translations/books/lask-gesammelte-schriften-ii/lask_ii_de.pdf?v=6baac8d5618c",
+          "bytes": 1151239,
+          "sha256": "6baac8d5618c664f4fd1596f0ce6942f1e8d6643b42a3e79ad461c6970e38b64"
+        },
+        {
+          "label": "中文 Markdown",
+          "url": "translations/books/lask-gesammelte-schriften-ii/lask_ii_zh.md?v=87c573a1ebdc",
+          "bytes": 1014603,
+          "sha256": "87c573a1ebdc011367a6db6a05bd7d47827bdb69c77695d4e7e94bf208b0e7c1"
+        },
+        {
+          "label": "德文 Markdown",
+          "url": "translations/books/lask-gesammelte-schriften-ii/lask_ii_de.md?v=7ff552989873",
+          "bytes": 1106616,
+          "sha256": "7ff5529898732b84c71b05eee32d321fd7b430030fea109bdd8cc55a61f2a271"
+        },
+        {
+          "label": "校订源码包 ZIP",
+          "url": "translations/books/lask-gesammelte-schriften-ii/lask_ii_source.zip?v=78839975200b",
+          "bytes": 5510581,
+          "sha256": "78839975200bbee594674dd8974c92b17a967071c6d7f39e2315a8d42ced36cc"
+        }
+      ],
+      "example": false,
+      "description": "收录《哲学的逻辑与范畴学说》和《判断学说》。全书中德文校订阅读版，保留原书页码、441条原注、原目录与出版附录。"
+    },
+    {
       "id": "lask-gesammelte-schriften-iii",
       "title": "拉斯克文集：第三卷",
       "originalTitle": "Gesammelte Schriften. III",

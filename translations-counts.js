@@ -1,6 +1,7 @@
 // Generated: Han characters in published Chinese body and original notes, including headings/captions; excludes punctuation and Latin text.
 window.TRANSLATION_COUNTS = {
   "lask-gesammelte-schriften-i": 189183,
+  "lask-gesammelte-schriften-ii": 260811,
   "lask-gesammelte-schriften-iii": 153942,
   "alibi": 205540,
   "deja-vu-and-the-end-of-history": 82472,
