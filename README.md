@@ -1,5 +1,9 @@
 # UNI0NIUS.github.io
 
+## 发布与站点分工
+
+表站与里站共用此发布仓库。表站直接编辑静态文件；里站从本地 `preview-v2` 源码构建后发布到 `union.html`。完整步骤见 [表站与里站发布说明](PUBLISHING.md)。下面的旧版静态翻译维护说明只适用于表站；非 Lask 书籍已迁入里站。
+
 ## Projects
 
 The **Projects** navigation link opens `/projects/`, a responsive collection of image-led project cards. The first project is NaF / CPS Formalization; its description is public while its source remains private.
