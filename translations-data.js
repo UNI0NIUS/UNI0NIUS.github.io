@@ -386,6 +386,330 @@ window.TRANSLATIONS = {
       ]
     },
     {
+      "id": "lask-gesammelte-schriften-iii",
+      "title": "拉斯克文集：第三卷",
+      "originalTitle": "Gesammelte Schriften. III",
+      "author": "Emil Lask",
+      "authorZh": "埃米尔·拉斯克",
+      "language": "zh-CN",
+      "languagePair": "Deutsch / 中文",
+      "structured": true,
+      "bilingual": true,
+      "views": [
+        "zh",
+        "en",
+        "parallel"
+      ],
+      "sourceLanguage": "de",
+      "sourceLanguageLabel": "Deutsch",
+      "tags": [
+        "哲学 Philosophy"
+      ],
+      "editionNotice": "据1924年图宾根J. C. B. Mohr版校订。收录正文第1—294页及书前材料，未收三卷合编索引及广告。原页码、原注、提纲层级与手稿影印保留；中文原注附德文原文，校读说明另列。",
+      "chapters": [
+        {
+          "id": "front-matter",
+          "title": "书前材料",
+          "originalTitle": "Vorsatz",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/front-matter.json"
+        },
+        {
+          "id": "platon",
+          "title": "柏拉图",
+          "originalTitle": "Platon",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/platon.json"
+        },
+        {
+          "id": "platon-entwicklung",
+          "title": "希腊哲学直至柏拉图的发展",
+          "originalTitle": "Die Entwicklung der griechischen Philosophie bis Platon",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/platon-entwicklung.json",
+          "parentId": "platon"
+        },
+        {
+          "id": "platon-vorsokratiker",
+          "title": "一、前苏格拉底的自然哲学",
+          "originalTitle": "I. Die vorsokratische Naturphilosophie.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/platon-vorsokratiker.json",
+          "parentId": "platon-entwicklung"
+        },
+        {
+          "id": "platon-anthropologie",
+          "title": "人类学时期或启蒙",
+          "originalTitle": "Die anthropologische Periode oder die Aufklärung.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/platon-anthropologie.json",
+          "parentId": "platon"
+        },
+        {
+          "id": "platon-sophisten-sokrates",
+          "title": "智者派与苏格拉底",
+          "originalTitle": "Die Sophisten und Sokrates.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/platon-sophisten-sokrates.json",
+          "parentId": "platon-anthropologie"
+        },
+        {
+          "id": "platon-sophisten",
+          "title": "1. 智者派",
+          "originalTitle": "1. Die Sophisten.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/platon-sophisten.json",
+          "parentId": "platon-sophisten-sokrates"
+        },
+        {
+          "id": "platon-sokrates",
+          "title": "2. 苏格拉底",
+          "originalTitle": "2. Sokrates.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/platon-sokrates.json",
+          "parentId": "platon-sophisten-sokrates"
+        },
+        {
+          "id": "platon-platon",
+          "title": "柏拉图",
+          "originalTitle": "Platon.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/platon-platon.json",
+          "parentId": "platon"
+        },
+        {
+          "id": "platon-ideenlehre",
+          "title": "理念论",
+          "originalTitle": "Die Ideenlehre.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/platon-ideenlehre.json",
+          "parentId": "platon"
+        },
+        {
+          "id": "platon-ursache",
+          "title": "作为世界因果原则的理念",
+          "originalTitle": "Die Idee als ursächliches Weltprinzip.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/platon-ursache.json",
+          "parentId": "platon-ideenlehre"
+        },
+        {
+          "id": "platon-nachtrag",
+          "title": "柏拉图讲稿的补充说明",
+          "originalTitle": "Nachträgliche Bemerkungen zur Platonvorlesung.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/platon-nachtrag.json",
+          "parentId": "platon"
+        },
+        {
+          "id": "logik",
+          "title": "论逻辑学体系",
+          "originalTitle": "Zum System der Logik",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/logik.json"
+        },
+        {
+          "id": "logik-grundbegriffe",
+          "title": "一、有效性哲学的基本概念",
+          "originalTitle": "I. Die Grundbegriffe der Geltungsphilosophie.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/logik-grundbegriffe.json",
+          "parentId": "logik"
+        },
+        {
+          "id": "logik-form",
+          "title": "二、形式的有效性",
+          "originalTitle": "II. Das Gelten der Form.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/logik-form.json",
+          "parentId": "logik"
+        },
+        {
+          "id": "logik-wert-sinn",
+          "title": "三、有效（价值）。含义。意义。",
+          "originalTitle": "III. Gelten (Wert). Bedeutung. Sinn.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/logik-wert-sinn.json",
+          "parentId": "logik"
+        },
+        {
+          "id": "logik-teil2",
+          "title": "第二部分 逻辑学作为关于特定的理论或逻辑有效领域的学说",
+          "originalTitle": "II. Teil. Logik als Lehre vom spezifisch theoretischen oder logischen Geltungsgebiet.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/logik-teil2.json",
+          "parentId": "logik"
+        },
+        {
+          "id": "logik-wahrheitsbegriff",
+          "title": "A. 真理概念",
+          "originalTitle": "A. Der Wahrheitsbegriff.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/logik-wahrheitsbegriff.json",
+          "parentId": "logik-teil2"
+        },
+        {
+          "id": "logik-vielheit",
+          "title": "B. 逻辑形式的多样性",
+          "originalTitle": "B. Die Vielheit der logischen Formen.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/logik-vielheit.json",
+          "parentId": "logik-teil2"
+        },
+        {
+          "id": "logik-disposition",
+          "title": "提纲",
+          "originalTitle": "Disposition.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/logik-disposition.json",
+          "parentId": "logik-vielheit"
+        },
+        {
+          "id": "logik-beiblaetter",
+          "title": "出自《逻辑学体系》附页",
+          "originalTitle": "Aus Beiblättern zum „System der Logik“.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/logik-beiblaetter.json",
+          "parentId": "logik"
+        },
+        {
+          "id": "logik-ad-einleitung",
+          "title": "关于导论",
+          "originalTitle": "Ad Einleitung.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/logik-ad-einleitung.json",
+          "parentId": "logik-beiblaetter"
+        },
+        {
+          "id": "philosophie",
+          "title": "论哲学体系",
+          "originalTitle": "Zum System der Philosophie",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/philosophie.json"
+        },
+        {
+          "id": "philosophie-1",
+          "title": "一、",
+          "originalTitle": "I.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/philosophie-1.json",
+          "parentId": "philosophie"
+        },
+        {
+          "id": "philosophie-werte",
+          "title": "二、价值体系笔记",
+          "originalTitle": "II. Notizen zum System der Werte.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/philosophie-werte.json",
+          "parentId": "philosophie"
+        },
+        {
+          "id": "wissenschaften",
+          "title": "论科学体系",
+          "originalTitle": "Zum System der Wissenschaften",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften.json"
+        },
+        {
+          "id": "wissenschaften-einteilung",
+          "title": "一、科学的划分",
+          "originalTitle": "I. Die Einteilung der Wissenschaften.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften-einteilung.json",
+          "parentId": "wissenschaften"
+        },
+        {
+          "id": "wissenschaften-naturbegriff",
+          "title": "经验科学的自然概念",
+          "originalTitle": "Der Naturbegriff der empirischen Wissenschaften.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften-naturbegriff.json",
+          "parentId": "wissenschaften-einteilung"
+        },
+        {
+          "id": "wissenschaften-bewaeltigung",
+          "title": "对感性材料的理论加工",
+          "originalTitle": "Die theoretische Bewältigung des sinnlichen Materials.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften-bewaeltigung.json",
+          "parentId": "wissenschaften-einteilung"
+        },
+        {
+          "id": "wissenschaften-generalisieren",
+          "title": "一般化",
+          "originalTitle": "Das Generalisieren.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften-generalisieren.json",
+          "parentId": "wissenschaften-einteilung"
+        },
+        {
+          "id": "wissenschaften-quantifizieren",
+          "title": "量化倾向",
+          "originalTitle": "Die quantifizierende Tendenz.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften-quantifizieren.json",
+          "parentId": "wissenschaften-einteilung"
+        },
+        {
+          "id": "wissenschaften-zweite-abteilung",
+          "title": "第二编：哲学",
+          "originalTitle": "Zweite Abteilung: Die Philosophie.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften-zweite-abteilung.json",
+          "parentId": "wissenschaften-einteilung"
+        },
+        {
+          "id": "wissenschaften-wissenschaftscharakter",
+          "title": "哲学的科学品格",
+          "originalTitle": "Der Wissenschaftscharakter der Philosophie.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften-wissenschaftscharakter.json",
+          "parentId": "wissenschaften-zweite-abteilung"
+        },
+        {
+          "id": "wissenschaften-wertergruendung",
+          "title": "价值探究与价值判断",
+          "originalTitle": "Die Wertergründung und das Werturteil.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften-wertergruendung.json",
+          "parentId": "wissenschaften-zweite-abteilung"
+        },
+        {
+          "id": "wissenschaften-systematik",
+          "title": "哲学的系统学",
+          "originalTitle": "Die philosophische Systematik.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften-systematik.json",
+          "parentId": "wissenschaften-zweite-abteilung"
+        },
+        {
+          "id": "wissenschaften-reine-angewandte",
+          "title": "纯粹的和应用的系统哲学",
+          "originalTitle": "Reine und angewandte systematische Philosophie.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften-reine-angewandte.json",
+          "parentId": "wissenschaften-zweite-abteilung"
+        },
+        {
+          "id": "wissenschaften-kulturwissenschaften",
+          "title": "经验的文化科学",
+          "originalTitle": "Die empirischen Kulturwissenschaften.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften-kulturwissenschaften.json",
+          "parentId": "wissenschaften-zweite-abteilung"
+        },
+        {
+          "id": "wissenschaften-notizen",
+          "title": "二、科学划分笔记",
+          "originalTitle": "II. Notizen zur Einteilung der Wissenschaften.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften-notizen.json",
+          "parentId": "wissenschaften"
+        },
+        {
+          "id": "wissenschaften-methodologie",
+          "title": "关于方法论",
+          "originalTitle": "Ad Methodologie.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/wissenschaften-methodologie.json",
+          "parentId": "wissenschaften-notizen"
+        },
+        {
+          "id": "besprechungen",
+          "title": "书评",
+          "originalTitle": "Besprechungen.",
+          "dataUrl": "translations/books/lask-gesammelte-schriften-iii/besprechungen.json"
+        }
+      ],
+      "downloads": [
+        {
+          "label": "中文 PDF",
+          "url": "translations/books/lask-gesammelte-schriften-iii/lask_iii_zh.pdf"
+        },
+        {
+          "label": "Deutsch PDF",
+          "url": "translations/books/lask-gesammelte-schriften-iii/lask_iii_de.pdf"
+        },
+        {
+          "label": "中德对照 PDF",
+          "url": "translations/books/lask-gesammelte-schriften-iii/lask_iii_bilingual.pdf"
+        },
+        {
+          "label": "中文 Markdown",
+          "url": "translations/books/lask-gesammelte-schriften-iii/lask_iii_zh.md"
+        },
+        {
+          "label": "Deutsch Markdown",
+          "url": "translations/books/lask-gesammelte-schriften-iii/lask_iii_de.md"
+        },
+        {
+          "label": "可编辑源码 ZIP",
+          "url": "translations/books/lask-gesammelte-schriften-iii/lask_iii_sources.zip"
+        }
+      ]
+    },
+    {
       "id": "alibi",
       "title": "资本的托词",
       "originalTitle": "The Alibi of Capital",

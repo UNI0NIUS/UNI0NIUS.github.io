@@ -1,0 +1,1238 @@
+{
+  "id": "front-matter",
+  "body": [
+    {
+      "id": "edition-scope",
+      "type": "paragraph",
+      "zh": [
+        "本阅读版收录原书手稿影印、扉页及版权页、目录、正文和书评书目（原书第1—294页）；未收三卷合编的人名及主题索引、出版广告和数字化封面。页边“S.”标记为原书印刷页码，页底数字为本阅读版页码。目录页码指向本版相应章节；双语版的原页标沿中文栏定位。原注保留底本页内编号，置于各小节末；中文原注附德文原文。校读说明另列，并与原注区分。手稿影印按原图保留，未另行猜写转录。"
+      ],
+      "en": [
+        "Diese Leseausgabe enthält das Faksimile, Titel- und Copyrightseite, Inhaltsverzeichnis, Haupttext und Rezensionsbibliographie (Originalseiten 1–294). Die gemeinsamen Namen- und Sachregister der drei Bände, die Verlagsanzeige und das Digitalisierungsdeckblatt sind nicht enthalten. Die Randangaben „S.“ bezeichnen Originalseiten, die Fußzahlen Seiten dieser Ausgabe. Das Inhaltsverzeichnis verweist auf die Kapitel dieser Ausgabe. In der Parallelausgabe folgen die Originalseitenmarken der chinesischen Spalte. Originalanmerkungen stehen mit ihren ursprünglichen seitenweisen Nummern am Ende des jeweiligen Abschnitts; Lesarthinweise sind gesondert ausgewiesen. Das Faksimile wird ohne zusätzliche Transkription wiedergegeben."
+      ]
+    },
+    {
+      "id": "front-facsimile",
+      "type": "figure",
+      "src": "translations/books/lask-gesammelte-schriften-iii/facsimile.png",
+      "zh": [
+        "拟作为《逻各斯》论文的《科学的划分》（笔记）手稿第一页。参见本卷正文第257页以下及第一卷导言第XVIII页以下。"
+      ],
+      "en": [
+        "Erste Seite der als Logos-Aufsatz geplanten »Einteilung der Wissenschaften« (Notizen). Vgl. Text S. 257 ff. und Einleitung S. XVIII ff. (Band I)."
+      ]
+    },
+    {
+      "id": "front-title",
+      "type": "paragraph",
+      "page": "I",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-front-title"
+        },
+        {
+          "type": "page",
+          "page": "I",
+          "id": "zh-front-title-p1"
+        },
+        "埃米尔·拉斯克 全集 由欧根·赫里格尔编 第三卷 附一份影印件 1924 出版者：J. C. B. 莫尔（保罗·西贝克） 图宾根"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-front-title"
+        },
+        {
+          "type": "page",
+          "page": "I",
+          "id": "en-front-title-p1"
+        },
+        "EMIL LASK GESAMMELTE SCHRIFTEN HERAUSGEGEBEN VON EUGEN HERRIGEL III. BAND MIT EINEM FAKSIMILE 1924 VERLAG VON J. C. B. MOHR (PAUL SIEBECK) TÜBINGEN"
+      ]
+    },
+    {
+      "id": "front-copyright",
+      "type": "paragraph",
+      "page": "II",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-front-copyright"
+        },
+        {
+          "type": "page",
+          "page": "II",
+          "id": "zh-front-copyright-p1"
+        },
+        "版权所有。H. Laupp jr. 印刷，图宾根。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-front-copyright"
+        },
+        {
+          "type": "page",
+          "page": "II",
+          "id": "en-front-copyright-p1"
+        },
+        "Alle Rechte vorbehalten. Druck von H. Laupp jr in Tübingen."
+      ]
+    },
+    {
+      "id": "front-original-toc",
+      "type": "paragraph",
+      "page": "III–IV",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "level": 2,
+          "children": [
+            "目录"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon&view=zh#platon-h",
+              "children": [
+                "柏拉图"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-entwicklung&view=zh#platon-entwicklung-h",
+              "children": [
+                "希腊哲学直至柏拉图的发展"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-vorsokratiker&view=zh#platon-vorsokratiker-h",
+              "children": [
+                "一、前苏格拉底的自然哲学"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-anthropologie&view=zh#platon-anthropologie-h",
+              "children": [
+                "人类学时期或启蒙"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-sophisten-sokrates&view=zh#platon-sophisten-sokrates-h",
+              "children": [
+                "智者派与苏格拉底"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 3,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-sophisten&view=zh#platon-sophisten-h",
+              "children": [
+                "1. 智者派"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 3,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-sokrates&view=zh#platon-sokrates-h",
+              "children": [
+                "2. 苏格拉底"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-platon&view=zh#platon-platon-h",
+              "children": [
+                "柏拉图"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-ideenlehre&view=zh#platon-ideenlehre-h",
+              "children": [
+                "理念论"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-ursache&view=zh#platon-ursache-h",
+              "children": [
+                "作为世界因果原则的理念"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-nachtrag&view=zh#platon-nachtrag-h",
+              "children": [
+                "柏拉图讲稿的补充说明"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik&view=zh#logik-h",
+              "children": [
+                "论逻辑学体系"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-grundbegriffe&view=zh#logik-grundbegriffe-h",
+              "children": [
+                "一、有效性哲学的基本概念"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-form&view=zh#logik-form-h",
+              "children": [
+                "二、作为形式的有效性"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-wert-sinn&view=zh#logik-wert-sinn-h",
+              "children": [
+                "三、有效（价值）。含义。意义。"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-teil2&view=zh#logik-teil2-h",
+              "children": [
+                "第二部分 逻辑学作为关于特定的理论或逻辑有效领域的学说"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-wahrheitsbegriff&view=zh#logik-wahrheitsbegriff-h",
+              "children": [
+                "A. 真理概念"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-vielheit&view=zh#logik-vielheit-h",
+              "children": [
+                "B. 逻辑形式的多样性"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 3,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-disposition&view=zh#logik-disposition-h",
+              "children": [
+                "提纲"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-beiblaetter&view=zh#logik-beiblaetter-h",
+              "children": [
+                "出自《逻辑学体系》附页"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-ad-einleitung&view=zh#logik-ad-einleitung-h",
+              "children": [
+                "关于导论"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=philosophie&view=zh#philosophie-h",
+              "children": [
+                "论哲学体系"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=philosophie-1&view=zh#philosophie-1-h",
+              "children": [
+                "一、"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=philosophie-werte&view=zh#philosophie-werte-h",
+              "children": [
+                "二、价值体系笔记"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften&view=zh#wissenschaften-h",
+              "children": [
+                "论科学体系"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-einteilung&view=zh#wissenschaften-einteilung-h",
+              "children": [
+                "一、科学的划分"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-naturbegriff&view=zh#wissenschaften-naturbegriff-h",
+              "children": [
+                "经验科学的自然概念"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-bewaeltigung&view=zh#wissenschaften-bewaeltigung-h",
+              "children": [
+                "对感性材料的理论加工"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-generalisieren&view=zh#wissenschaften-generalisieren-h",
+              "children": [
+                "一般化"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-quantifizieren&view=zh#wissenschaften-quantifizieren-h",
+              "children": [
+                "量化倾向"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-zweite-abteilung&view=zh#wissenschaften-zweite-abteilung-h",
+              "children": [
+                "第二编：哲学"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-wissenschaftscharakter&view=zh#wissenschaften-wissenschaftscharakter-h",
+              "children": [
+                "哲学的科学品格"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-wertergruendung&view=zh#wissenschaften-wertergruendung-h",
+              "children": [
+                "价值探究与价值判断"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-systematik&view=zh#wissenschaften-systematik-h",
+              "children": [
+                "哲学的系统学"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-reine-angewandte&view=zh#wissenschaften-reine-angewandte-h",
+              "children": [
+                "纯粹的和应用的系统哲学"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-kulturwissenschaften&view=zh#wissenschaften-kulturwissenschaften-h",
+              "children": [
+                "经验的文化科学"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-notizen&view=zh#wissenschaften-notizen-h",
+              "children": [
+                "二、科学划分笔记"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-methodologie&view=zh#wissenschaften-methodologie-h",
+              "children": [
+                "关于方法论"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=besprechungen&view=zh#besprechungen-h",
+              "children": [
+                "书评"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            "人名索引（未收）"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            "主题索引（未收）"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "level": 2,
+          "children": [
+            "Inhalt"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon&view=en#platon-h",
+              "children": [
+                "Platon"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-entwicklung&view=en#platon-entwicklung-h",
+              "children": [
+                "Die Entwicklung der griechischen Philosophie bis Platon"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-vorsokratiker&view=en#platon-vorsokratiker-h",
+              "children": [
+                "I. Die vorsokratische Naturphilosophie"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-anthropologie&view=en#platon-anthropologie-h",
+              "children": [
+                "Die anthropologische Periode oder die Aufklärung"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-sophisten-sokrates&view=en#platon-sophisten-sokrates-h",
+              "children": [
+                "Die Sophisten und Sokrates"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 3,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-sophisten&view=en#platon-sophisten-h",
+              "children": [
+                "1. Die Sophisten"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 3,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-sokrates&view=en#platon-sokrates-h",
+              "children": [
+                "2. Sokrates"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-platon&view=en#platon-platon-h",
+              "children": [
+                "Platon"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-ideenlehre&view=en#platon-ideenlehre-h",
+              "children": [
+                "Die Ideenlehre"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-ursache&view=en#platon-ursache-h",
+              "children": [
+                "Die Idee als ursächliches Weltprinzip"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=platon-nachtrag&view=en#platon-nachtrag-h",
+              "children": [
+                "Nachträgliche Bemerkungen zur Platonvorlesung"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik&view=en#logik-h",
+              "children": [
+                "Zum System der Logik"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-grundbegriffe&view=en#logik-grundbegriffe-h",
+              "children": [
+                "I. Die Grundbegriffe der Geltungsphilosophie"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-form&view=en#logik-form-h",
+              "children": [
+                "II. Das Gelten als Form"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-wert-sinn&view=en#logik-wert-sinn-h",
+              "children": [
+                "III. Gelten (Wert). Bedeutung. Sinn"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-teil2&view=en#logik-teil2-h",
+              "children": [
+                "II. Teil. Logik als Lehre vom spezifisch theoretischen oder logischen Geltungsgebiet"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-wahrheitsbegriff&view=en#logik-wahrheitsbegriff-h",
+              "children": [
+                "A. Der Wahrheitsbegriff"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-vielheit&view=en#logik-vielheit-h",
+              "children": [
+                "B. Die Vielheit der logischen Formen"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 3,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-disposition&view=en#logik-disposition-h",
+              "children": [
+                "Disposition"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-beiblaetter&view=en#logik-beiblaetter-h",
+              "children": [
+                "Aus Beiblättern zum »System der Logik«"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=logik-ad-einleitung&view=en#logik-ad-einleitung-h",
+              "children": [
+                "Ad Einleitung"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=philosophie&view=en#philosophie-h",
+              "children": [
+                "Zum System der Philosophie"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=philosophie-1&view=en#philosophie-1-h",
+              "children": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=philosophie-werte&view=en#philosophie-werte-h",
+              "children": [
+                "II. Notizen zum System der Werte"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften&view=en#wissenschaften-h",
+              "children": [
+                "Zum System der Wissenschaften"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-einteilung&view=en#wissenschaften-einteilung-h",
+              "children": [
+                "I. Die Einteilung der Wissenschaften"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-naturbegriff&view=en#wissenschaften-naturbegriff-h",
+              "children": [
+                "Der Naturbegriff der empirischen Wissenschaften"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-bewaeltigung&view=en#wissenschaften-bewaeltigung-h",
+              "children": [
+                "Die theoretische Bewältigung des sinnlichen Materials"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-generalisieren&view=en#wissenschaften-generalisieren-h",
+              "children": [
+                "Das Generalisieren"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-quantifizieren&view=en#wissenschaften-quantifizieren-h",
+              "children": [
+                "Die quantifizierende Tendenz"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-zweite-abteilung&view=en#wissenschaften-zweite-abteilung-h",
+              "children": [
+                "Zweite Abteilung: Die Philosophie"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-wissenschaftscharakter&view=en#wissenschaften-wissenschaftscharakter-h",
+              "children": [
+                "Der Wissenschaftscharakter der Philosophie"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-wertergruendung&view=en#wissenschaften-wertergruendung-h",
+              "children": [
+                "Die Wertergründung und das Werturteil"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-systematik&view=en#wissenschaften-systematik-h",
+              "children": [
+                "Die philosophische Systematik"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-reine-angewandte&view=en#wissenschaften-reine-angewandte-h",
+              "children": [
+                "Reine und angewandte systematische Philosophie"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-kulturwissenschaften&view=en#wissenschaften-kulturwissenschaften-h",
+              "children": [
+                "Die empirischen Kulturwissenschaften"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 1,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-notizen&view=en#wissenschaften-notizen-h",
+              "children": [
+                "II. Notizen zur Einteilung der Wissenschaften"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 2,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=wissenschaften-methodologie&view=en#wissenschaften-methodologie-h",
+              "children": [
+                "Ad Methodologie"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            {
+              "type": "link",
+              "url": "translations/book.html?id=lask-gesammelte-schriften-iii&chapter=besprechungen&view=en#besprechungen-h",
+              "children": [
+                "Besprechungen"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            "Namenregister (nicht enthalten)"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "outline-line",
+          "level": 0,
+          "children": [
+            "Sachregister (nicht enthalten)"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": {},
+  "sourceLanguage": "de",
+  "sourceLanguageLabel": "Deutsch",
+  "title": "书前材料",
+  "originalTitle": "Vorsatz"
+}

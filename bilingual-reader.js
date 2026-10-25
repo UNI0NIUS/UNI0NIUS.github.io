@@ -23,11 +23,24 @@ window.renderParallelBook = (() => {
           const img = el("img", undefined, "source-image");
           img.src = url; img.alt = token.alt || ""; img.loading = "lazy"; parent.append(img);
         }
+      } else if (token.type === "brace") {
+        const group = el("div", undefined, "source-brace-group");
+        const content = el("div"); inline(content, token.children, language, anchors);
+        const mark = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+        mark.setAttribute("viewBox", "0 0 12 100"); mark.setAttribute("preserveAspectRatio", "none");
+        mark.setAttribute("aria-hidden", "true"); mark.classList.add("source-brace-mark");
+        const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+        path.setAttribute("d", "M1 1 C10 1 2 49 11 50 C2 51 10 99 1 99");
+        path.setAttribute("fill", "none"); path.setAttribute("stroke", "currentColor");
+        path.setAttribute("vector-effect", "non-scaling-stroke"); mark.append(path);
+        const label = el("div", undefined, "source-brace-label"); inline(label, token.label, language, anchors);
+        group.append(content, mark, label); parent.append(group);
       } else if (token.type === "block") {
         const tags = {paragraph:"p", quote:"blockquote", interview:"blockquote", verse:"div", "verse-line":"div", attribution:"div", subtitle:"div", definition:"div", vignette:"div", sidebar:"aside", "list-entry":"p", "section-break":"div", notice:"aside", "quote-date":"div", "figure-key":"div", "figure-boxes":"div", "figure-box":"div", figure:"figure", caption:"figcaption", list:"ul", item:"li"};
-        const tag = token.kind === "heading" ? `h${Math.min(4, Math.max(2, token.level || 2))}` : tags[token.kind];
+        const tag = token.kind === "outline-line" ? "div" : token.kind === "heading" ? `h${Math.min(6, Math.max(2, token.level || 2))}` : tags[token.kind];
         if (!tag) continue;
         const node = el(tag, undefined, `source-${token.kind}`);
+        if (token.kind === "outline-line") node.style.marginInlineStart = `${Math.min(8, Math.max(0, Number(token.level) || 0)) * .9}em`;
         for (const flag of ["stanza-start", "indented", "attribution", "verse-title"]) if (token[flag]) node.classList.add(`source-${flag}`);
         inline(node, token.children, language, anchors); parent.append(node);
       } else if (["em", "strong", "sup", "sub"].includes(token.type)) {
@@ -69,9 +82,15 @@ window.renderParallelBook = (() => {
   function noteIds(tokens) {
     return (tokens || []).flatMap(t => typeof t === "string" ? [] : t.type === "note" ? [t.id] : [...noteIds(t.children), ...(t.rows || []).flatMap(row => row.flatMap(noteIds))]);
   }
+  function referencedNotes(tokens, notes, language) {
+    const result = [], seen = new Set();
+    const visit = values => { for (const id of noteIds(values)) { if (seen.has(id)) continue; seen.add(id); result.push(id); visit(notes[id]?.[language]); } };
+    visit(tokens); return result;
+  }
   function cell(row, language, notes, source, seen) {
     const anchors = {};
-    for (const id of noteIds(row[language])) {
+    const references = referencedNotes(row[language], notes, language);
+    for (const id of references) {
       const key = `${language}-${id}`;
       anchors[id] = seen.has(key) ? `${id}-${row.id}` : id;
       seen.add(key);
@@ -91,11 +110,11 @@ window.renderParallelBook = (() => {
       img.src = safeUrl(row.src); img.alt = row.en.join(""); img.loading = "lazy";
       figure.append(img); container.append(figure);
     } else {
-      const hasBlocks = (row[language] || []).some(t => ["table", "verse", "block", "image"].includes(t.type));
+      const hasBlocks = (row[language] || []).some(t => ["table", "verse", "block", "image", "brace"].includes(t.type));
       const node = el(hasBlocks ? "div" : tag); inline(node, row[language], language, anchors); container.append(node);
       if (language === "en" && row.sourceItalic) node.classList.add("source-italic");
     }
-    for (const id of noteIds(row[language])) {
+    for (const id of references) {
       const note = notes[id];
       if (!note || !note[language]?.length) continue;
       const aside = el("aside", undefined, "paragraph-footnote");
@@ -103,7 +122,7 @@ window.renderParallelBook = (() => {
       aside.setAttribute("role", "doc-footnote");
       const content = el("div", undefined, "footnote-content");
       const mark = el("span", `${note.number || id.split("-").at(-1)}. `, "footnote-number");
-      content.append(mark); inline(content, note[language], language);
+      content.append(mark); inline(content, note[language], language, anchors);
       if (language === "zh" && note.review) content.append(el("p", `校注：${note.review}`, "note-editorial"));
       const back = el("a", " ↩", "note-backlink");
       back.href = `#ref-${language}-${anchors[id]}`;
