@@ -1,0 +1,280 @@
+{
+  "schema": 1,
+  "chapter": "front",
+  "canonical_sha256": "2008bb4b0c6554e4f5ff43c03705e0ca91f08221648538e30b325f36cdb77a41",
+  "entries": {
+    "front-005": {
+      "base": "draft",
+      "baselineLabel": "补译初稿",
+      "before": "© 2009 芝加哥大学。保留所有权利。2009年出版。在美国印刷。",
+      "after": "原版作者简介：迈克尔·赫茨菲尔德任哈佛大学人类学教授，著有十部书，包括Cultural Intimacy，以及同由芝加哥大学出版社出版的Portrait of a Greek Imagination和The Body Impolitic。\n原版出版社：芝加哥大学出版社，芝加哥60637；芝加哥大学出版社有限公司，伦敦。\n© 2009 芝加哥大学。保留所有权利。2009年出版。在美国印刷。\n原版印制序列：18 17 16 15 14 13 12 11 10 09　1 2 3 4 5",
+      "hunks": [
+        {
+          "prefix": "",
+          "before": "",
+          "after": "原版作者简介：迈克尔·赫茨菲尔德任哈佛大学人类学教授，著有十部书，包括Cultural Intimacy，以及同由芝加哥大学出版社出版的Portrait of a Greek Imagination和The Body Impolitic。\n原版出版社：芝加哥大学出版社，芝加哥60637；芝加哥大学出版社有限公司，伦敦。\n",
+          "suffix": "© 2009 芝加哥大学",
+          "leading": false,
+          "trailing": true,
+          "before_range": [
+            0,
+            0
+          ],
+          "after_range": [
+            0,
+            161
+          ]
+        },
+        {
+          "prefix": "09年出版。在美国印刷。",
+          "before": "",
+          "after": "\n原版印制序列：18 17 16 15 14 13 12 11 10 09　1 2 3 4 5",
+          "suffix": "",
+          "leading": true,
+          "trailing": false,
+          "before_range": [
+            34,
+            34
+          ],
+          "after_range": [
+            195,
+            242
+          ]
+        }
+      ],
+      "reasons": [
+        "补回原PDF6版权页初稿漏收的作者介绍、出版地址及印制序列；明确为原版信息，书名保留可检索原文。"
+      ]
+    },
+    "front-007": {
+      "base": "draft",
+      "baselineLabel": "补译初稿",
+      "before": "美国国会图书馆在版编目数据：Herzfeld, M. (Michael). Evicted from eternity: the restructuring of modern Rome / Michael Herzfeld.  Includes bibliographical references and index.  ISBN-13: 978-0-226-32911-6 (cloth: alk. paper). ISBN-13: 978-0-226-32912-3 (pbk.: alk. paper). 1. Gentrification—Italy—Rome. 2. Urban renewal—Italy—Rome. Title. HT178.I82R664 2009  307.1'4160945632—dc22  2008024435",
+      "after": "美国国会图书馆在版编目数据：\nHerzfeld, M. (Michael).\nEvicted from eternity : the restructuring of modern Rome / Michael Herzfeld.\np. cm.\nIncludes bibliographical references and index.\nISBN-13: 978-0-226-32911-6 (cloth : alk. paper)\nISBN-13: 978-0-226-32912-3 (pbk. : alk. paper)\nISBN-10: 0-226-32911-9 (cloth : alk. paper)\nISBN-10: 0-226-32912-7 (pbk. : alk. paper)\n1. Gentrification—Italy—Rome. 2. Urban renewal—Italy—Rome. Title.\nHT178.I82R664    2009\n307.1'4160945632—dc22    2008024435\n\n原版用纸符合美国国家信息科学标准《图书馆印刷材料纸张的耐久性》（ANSI Z39.48-1992）的最低要求。",
+      "hunks": [
+        {
+          "prefix": "国会图书馆在版编目数据：",
+          "before": "",
+          "after": "\n",
+          "suffix": "Herzfeld, M.",
+          "leading": true,
+          "trailing": true,
+          "before_range": [
+            14,
+            14
+          ],
+          "after_range": [
+            14,
+            15
+          ]
+        },
+        {
+          "prefix": ". (Michael).",
+          "before": " ",
+          "after": "\n",
+          "suffix": "Evicted from",
+          "leading": true,
+          "trailing": true,
+          "before_range": [
+            37,
+            38
+          ],
+          "after_range": [
+            38,
+            39
+          ]
+        },
+        {
+          "prefix": "rom eternity",
+          "before": "",
+          "after": " ",
+          "suffix": ": the restru",
+          "leading": true,
+          "trailing": true,
+          "before_range": [
+            59,
+            59
+          ],
+          "after_range": [
+            60,
+            61
+          ]
+        },
+        {
+          "prefix": "el Herzfeld.",
+          "before": "  ",
+          "after": "\np. cm.\n",
+          "suffix": "Includes bib",
+          "leading": true,
+          "trailing": true,
+          "before_range": [
+            113,
+            115
+          ],
+          "after_range": [
+            115,
+            123
+          ]
+        },
+        {
+          "prefix": "s and index.",
+          "before": "  ",
+          "after": "\n",
+          "suffix": "ISBN-13: 978",
+          "leading": true,
+          "trailing": true,
+          "before_range": [
+            161,
+            163
+          ],
+          "after_range": [
+            169,
+            170
+          ]
+        },
+        {
+          "prefix": "911-6 (cloth",
+          "before": "",
+          "after": " ",
+          "suffix": ": alk. paper",
+          "leading": true,
+          "trailing": true,
+          "before_range": [
+            196,
+            196
+          ],
+          "after_range": [
+            203,
+            204
+          ]
+        },
+        {
+          "prefix": " alk. paper)",
+          "before": ". ",
+          "after": "\n",
+          "suffix": "ISBN-13: 978",
+          "leading": true,
+          "trailing": true,
+          "before_range": [
+            209,
+            211
+          ],
+          "after_range": [
+            217,
+            218
+          ]
+        },
+        {
+          "prefix": "2912-3 (pbk.",
+          "before": "",
+          "after": " ",
+          "suffix": ": alk. paper",
+          "leading": true,
+          "trailing": true,
+          "before_range": [
+            243,
+            243
+          ],
+          "after_range": [
+            250,
+            251
+          ]
+        },
+        {
+          "prefix": " alk. paper)",
+          "before": ". ",
+          "after": "\nISBN-10: 0-226-32911-9 (cloth : alk. paper)\nISBN-10: 0-226-32912-7 (pbk. : alk. paper)\n",
+          "suffix": "1. Gentrific",
+          "leading": true,
+          "trailing": true,
+          "before_range": [
+            256,
+            258
+          ],
+          "after_range": [
+            264,
+            352
+          ]
+        },
+        {
+          "prefix": "Rome. Title.",
+          "before": " ",
+          "after": "\n",
+          "suffix": "HT178.I82R66",
+          "leading": true,
+          "trailing": true,
+          "before_range": [
+            323,
+            324
+          ],
+          "after_range": [
+            417,
+            418
+          ]
+        },
+        {
+          "prefix": "178.I82R664 ",
+          "before": "2009  ",
+          "after": "   2009\n",
+          "suffix": "307.1'416094",
+          "leading": true,
+          "trailing": true,
+          "before_range": [
+            338,
+            344
+          ],
+          "after_range": [
+            432,
+            440
+          ]
+        },
+        {
+          "prefix": "45632—dc22  ",
+          "before": "2008024435",
+          "after": "  2008024435\n\n原版用纸符合美国国家信息科学标准《图书馆印刷材料纸张的耐久性》（ANSI Z39.48-1992）的最低要求。",
+          "suffix": "",
+          "leading": true,
+          "trailing": false,
+          "before_range": [
+            367,
+            377
+          ],
+          "after_range": [
+            463,
+            532
+          ]
+        }
+      ],
+      "reasons": [
+        "按原PDF6完整保留CIP含p. cm.及两项ISBN-10，补回原版用纸声明；Title.依原印不擅补罗马I编号，未将原版纸张声明冒作本PDF认证。"
+      ]
+    },
+    "front-008": {
+      "base": "draft",
+      "baselineLabel": "补译初稿",
+      "before": "中文初译稿供研究参考使用；原文版权归作者及出版者所有。",
+      "after": "本稿以所供中文译本为主要参照，依2009年英文原版逐段校订；原中文译者为林叶、许瀚艺，所供PDF封面署中信出版集团。原书的时代背景及原印页码予以保留，必要的修订另加校注。参考文献保留原文著录信息，索引保留英文词条与原页码。英文原版版权归芝加哥大学所有。扫描底本由Internet Archive于2022年数字化，由Kahle/Austin Foundation资助。",
+      "hunks": [
+        {
+          "prefix": "",
+          "before": "中文初译稿供研究参考使用；原文版权归作者及出版者所有。",
+          "after": "本稿以所供中文译本为主要参照，依2009年英文原版逐段校订；原中文译者为林叶、许瀚艺，所供PDF封面署中信出版集团。原书的时代背景及原印页码予以保留，必要的修订另加校注。参考文献保留原文著录信息，索引保留英文词条与原页码。英文原版版权归芝加哥大学所有。扫描底本由Internet Archive于2022年数字化，由Kahle/Austin Foundation资助。",
+          "suffix": "",
+          "leading": false,
+          "trailing": false,
+          "before_range": [
+            0,
+            27
+          ],
+          "after_range": [
+            0,
+            184
+          ]
+        }
+      ],
+      "reasons": [
+        "将初译阶段说明更新为校订版源与署名说明；据参校PDF封面及原PDF2保留译者、出版标识和扫描致谢，不猜未见的中文译本出版年。"
+      ]
+    }
+  }
+}
