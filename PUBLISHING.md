@@ -49,7 +49,7 @@ git -C .\release-site pull --ff-only origin main
 | 首页结构、样式、通用逻辑 | `index.html`、`styles.css`、`site.js` |
 | 项目 | `projects-data.js`、`projects/`、相关图片 |
 | 出版物 | `publications/` 及其引用的数据文件 |
-| Lask 三卷本及表站文章 | `translations-data.js`、对应 `translations/` 文件 |
+| Lask 三卷本、用户指定的并行书目及表站文章 | `translations-data.js`、对应 `translations/` 文件 |
 
 表站是静态网站，无需执行里站的 Vite 构建或打包。修改译文后，从发布仓库重建字数索引，并检查页面引用的资源版本号是否需要更新：
 
@@ -168,3 +168,5 @@ git -C .\release-site push origin main
 - 2026-10-26：本次增加《逐出永恒》15个阅读章节、328条原注、46项图像及书目/英文索引原页影像，目录为15本495章；阅读器支持影印页阅读权重、独立共享校注及单次显示双语插图。保留无下载控件设计及表站首页。源稿和本地交付清单见 D:/Data/translate/Sociology/Evicted from eternity/output/final；实际部署与线上验收另记录于本书检查点。
 
 - 2026-10-26：本次发布包新增李凯尔特《认识的对象》（1915第三版）：52阅读分节、184主原注，里站目录16本547章。三版PDF及Markdown/源码包位于translations/books/rickert-gegenstand-der-erkenntnis/；保持里站无下载控件设计。现用preview-v2已同步本书源码与注册项，其他15本记录不变。提交、部署和线上验收以本书工作区检查点及publication_check.json/online_verification.json为准。
+
+- 2026-10-26 用户补充要求：《认识的对象》须同时按原表站标准发布。表站新增独立书目、52节完整阅读、六项下载及字数/双语标签；保留里站版本。本书从migrated-book.js跳转集合移除，其他旧书跳转不变。表站不再仅限Lask三卷：今后保留用户明确指定的并行书目，不运行旧迁移脚本覆盖。此次仅复用已验收文本与文件，不重编PDF。部署和线上验收记录见本书work/review/outer_release。

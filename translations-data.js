@@ -1110,6 +1110,427 @@ window.TRANSLATIONS = {
           "url": "translations/books/lask-gesammelte-schriften-iii/lask_iii_sources.zip"
         }
       ]
+    },
+    {
+      "id": "rickert-gegenstand-der-erkenntnis",
+      "title": "认识的对象：先验哲学导论",
+      "originalTitle": "Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie",
+      "author": "Heinrich Rickert",
+      "authorZh": "海因里希·李凯尔特",
+      "tags": [
+        "哲学 Philosophy",
+        "认识论 Epistemology"
+      ],
+      "language": "zh-CN",
+      "languagePair": "Deutsch / 中文",
+      "structured": true,
+      "bilingual": true,
+      "views": [
+        "zh",
+        "en",
+        "parallel"
+      ],
+      "sourceLanguage": "de",
+      "sourceLanguageLabel": "Deutsch",
+      "editionNotice": "据1915年第三版校订。原书章节目次与页码保留；原注保留原页码及页内编号，中文原注附德文原文。",
+      "chapters": [
+        {
+          "id": "front-matter",
+          "title": "书前材料",
+          "originalTitle": "Titelei",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/front-matter.json"
+        },
+        {
+          "id": "preface1",
+          "title": "第一版前言（摘录）",
+          "originalTitle": "Aus dem Vorwort zur ersten Auflage",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/preface1.json"
+        },
+        {
+          "id": "preface2",
+          "title": "第二版前言",
+          "originalTitle": "Vorwort zur zweiten Auflage",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/preface2.json"
+        },
+        {
+          "id": "preface3",
+          "title": "第三版前言",
+          "originalTitle": "Vorwort zur dritten Auflage",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/preface3.json"
+        },
+        {
+          "id": "original-toc",
+          "title": "原书目录（原书页码）",
+          "originalTitle": "Inhalt des Originals (Originalseiten)",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/original-toc.json"
+        },
+        {
+          "id": "chapter-1",
+          "title": "第一章　认识论的基本问题",
+          "originalTitle": "Erstes Kapitel. Das Grundproblem der Erkenntnistheorie",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-1.json"
+        },
+        {
+          "id": "chapter-1-i",
+          "title": "一、两条认识论道路",
+          "originalTitle": "I. Zwei Wege der Erkenntnistheorie",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-1-i.json",
+          "parentId": "chapter-1"
+        },
+        {
+          "id": "chapter-1-ii",
+          "title": "二、认识论的怀疑",
+          "originalTitle": "II. Der erkenntnistheoretische Zweifel",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-1-ii.json",
+          "parentId": "chapter-1"
+        },
+        {
+          "id": "chapter-1-iii",
+          "title": "三、客体的三个概念",
+          "originalTitle": "III. Die drei Begriffe des Objekts",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-1-iii.json",
+          "parentId": "chapter-1"
+        },
+        {
+          "id": "chapter-1-iv",
+          "title": "四、认识论的实在论",
+          "originalTitle": "IV. Der erkenntnistheoretische Realismus",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-1-iv.json",
+          "parentId": "chapter-1"
+        },
+        {
+          "id": "chapter-1-v",
+          "title": "五、意识的概念",
+          "originalTitle": "V. Der Begriff des Bewußtseins",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-1-v.json",
+          "parentId": "chapter-1"
+        },
+        {
+          "id": "chapter-1-vi",
+          "title": "六、实在主体",
+          "originalTitle": "VI. Die realen Subjekte",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-1-vi.json",
+          "parentId": "chapter-1"
+        },
+        {
+          "id": "chapter-1-vii",
+          "title": "七、认识论主体",
+          "originalTitle": "VII. Das erkenntnistheoretische Subjekt",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-1-vii.json",
+          "parentId": "chapter-1"
+        },
+        {
+          "id": "chapter-1-viii",
+          "title": "八、超越者的概念",
+          "originalTitle": "VIII. Der Begriff des Transzendenten",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-1-viii.json",
+          "parentId": "chapter-1"
+        },
+        {
+          "id": "chapter-2",
+          "title": "第二章　内在性的立场",
+          "originalTitle": "Zweites Kapitel. Der Standpunkt der Immanenz",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-2.json"
+        },
+        {
+          "id": "chapter-2-i",
+          "title": "一、作为原因的超越者",
+          "originalTitle": "I. Das Transzendente als Ursache",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-2-i.json",
+          "parentId": "chapter-2"
+        },
+        {
+          "id": "chapter-2-ii",
+          "title": "二、作为补充的超越者",
+          "originalTitle": "II. Das Transzendente als Ergänzung",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-2-ii.json",
+          "parentId": "chapter-2"
+        },
+        {
+          "id": "chapter-2-iii",
+          "title": "三、超越者与意志",
+          "originalTitle": "III. Das Transzendente und der Wille",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-2-iii.json",
+          "parentId": "chapter-2"
+        },
+        {
+          "id": "chapter-2-iv",
+          "title": "四、意识内容与心理存在",
+          "originalTitle": "IV. Bewußtseinsinhalt und psychisches Sein",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-2-iv.json",
+          "parentId": "chapter-2"
+        },
+        {
+          "id": "chapter-2-v",
+          "title": "五、存在二重化的起源",
+          "originalTitle": "V. Der Ursprung der Seinsverdopplung",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-2-v.json",
+          "parentId": "chapter-2"
+        },
+        {
+          "id": "chapter-2-vi",
+          "title": "六、内在的摹写论",
+          "originalTitle": "VI. Die immanente Abbildtheorie",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-2-vi.json",
+          "parentId": "chapter-2"
+        },
+        {
+          "id": "chapter-3",
+          "title": "第三章　判断及其对象",
+          "originalTitle": "Drittes Kapitel. Das Urteil und sein Gegenstand",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-3.json"
+        },
+        {
+          "id": "chapter-3-i",
+          "title": "一、认识作为表象",
+          "originalTitle": "I. Das Erkennen als Vorstellen",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-3-i.json",
+          "parentId": "chapter-3"
+        },
+        {
+          "id": "chapter-3-ii",
+          "title": "二、形式与内容",
+          "originalTitle": "II. Form und Inhalt",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-3-ii.json",
+          "parentId": "chapter-3"
+        },
+        {
+          "id": "chapter-3-iii",
+          "title": "三、认识问题作为判断问题",
+          "originalTitle": "III. Das Erkenntnisproblem als Urteilsproblem",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-3-iii.json",
+          "parentId": "chapter-3"
+        },
+        {
+          "id": "chapter-3-iv",
+          "title": "四、心理学与意义解释",
+          "originalTitle": "IV. Psychologie und Sinnesdeutung",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-3-iv.json",
+          "parentId": "chapter-3"
+        },
+        {
+          "id": "chapter-3-v",
+          "title": "五、判断与表象",
+          "originalTitle": "V. Urteilen und Vorstellen",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-3-v.json",
+          "parentId": "chapter-3"
+        },
+        {
+          "id": "chapter-3-vi",
+          "title": "六、问与答",
+          "originalTitle": "VI. Frage und Antwort",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-3-vi.json",
+          "parentId": "chapter-3"
+        },
+        {
+          "id": "chapter-3-vii",
+          "title": "七、认识作为承认",
+          "originalTitle": "VII. Das Erkennen als Anerkennen",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-3-vii.json",
+          "parentId": "chapter-3"
+        },
+        {
+          "id": "chapter-3-viii",
+          "title": "八、判断的必然性",
+          "originalTitle": "VIII. Die Urteilsnotwendigkeit",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-3-viii.json",
+          "parentId": "chapter-3"
+        },
+        {
+          "id": "chapter-3-ix",
+          "title": "九、存在与应当",
+          "originalTitle": "IX. Sein und Sollen",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-3-ix.json",
+          "parentId": "chapter-3"
+        },
+        {
+          "id": "chapter-3-x",
+          "title": "十、应当与对象性",
+          "originalTitle": "X. Das Sollen und die Gegenständlichkeit",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-3-x.json",
+          "parentId": "chapter-3"
+        },
+        {
+          "id": "chapter-3-xi",
+          "title": "十一、对象性与对象",
+          "originalTitle": "XI. Gegenständlichkeit und Gegenstand",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-3-xi.json",
+          "parentId": "chapter-3"
+        },
+        {
+          "id": "chapter-4",
+          "title": "第四章　客观性的奠基",
+          "originalTitle": "Viertes Kapitel. Die Begründung der Objektivität",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-4.json"
+        },
+        {
+          "id": "chapter-4-i",
+          "title": "一、超越的应当",
+          "originalTitle": "I. Das transzendente Sollen",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-4-i.json",
+          "parentId": "chapter-4"
+        },
+        {
+          "id": "chapter-4-ii",
+          "title": "二、认识论的预取论题",
+          "originalTitle": "II. Die petitio principii der Erkenntnistheorie",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-4-ii.json",
+          "parentId": "chapter-4"
+        },
+        {
+          "id": "chapter-4-iii",
+          "title": "三、超越的意义",
+          "originalTitle": "III. Der transzendente Sinn",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-4-iii.json",
+          "parentId": "chapter-4"
+        },
+        {
+          "id": "chapter-4-iv",
+          "title": "四、意义与价值",
+          "originalTitle": "IV. Sinn und Wert",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-4-iv.json",
+          "parentId": "chapter-4"
+        },
+        {
+          "id": "chapter-4-v",
+          "title": "五、客观逻辑与对象",
+          "originalTitle": "V. Die objektive Logik und der Gegenstand",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-4-v.json",
+          "parentId": "chapter-4"
+        },
+        {
+          "id": "chapter-4-vi",
+          "title": "六、对对象的认识",
+          "originalTitle": "VI. Das Erkennen des Gegenstandes",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-4-vi.json",
+          "parentId": "chapter-4"
+        },
+        {
+          "id": "chapter-4-vii",
+          "title": "七、先验心理学的正当性",
+          "originalTitle": "VII. Das Recht der Transzendentalpsychologie",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-4-vii.json",
+          "parentId": "chapter-4"
+        },
+        {
+          "id": "chapter-4-viii",
+          "title": "八、相对主义",
+          "originalTitle": "VIII. Der Relativismus",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-4-viii.json",
+          "parentId": "chapter-4"
+        },
+        {
+          "id": "chapter-4-ix",
+          "title": "九、求真意志",
+          "originalTitle": "IX. Der Wille zur Wahrheit",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-4-ix.json",
+          "parentId": "chapter-4"
+        },
+        {
+          "id": "chapter-4-x",
+          "title": "十、作判断的一般意识",
+          "originalTitle": "X. Das urteilende Bewußtsein überhaupt",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-4-x.json",
+          "parentId": "chapter-4"
+        },
+        {
+          "id": "chapter-4-xi",
+          "title": "十一、不经提问的“是”",
+          "originalTitle": "XI. Das fraglose Ja",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-4-xi.json",
+          "parentId": "chapter-4"
+        },
+        {
+          "id": "chapter-5",
+          "title": "第五章　先验唯心主义与经验实在论",
+          "originalTitle": "Fünftes Kapitel. Transzendentaler Idealismus und empirischer Realismus",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-5.json"
+        },
+        {
+          "id": "chapter-5-i",
+          "title": "一、先验唯心主义",
+          "originalTitle": "I. Der transzendentale Idealismus",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-5-i.json",
+          "parentId": "chapter-5"
+        },
+        {
+          "id": "chapter-5-ii",
+          "title": "二、对象形式、超越的规范与范畴",
+          "originalTitle": "II. Gegenstandsform, transzendente Norm und Kategorie",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-5-ii.json",
+          "parentId": "chapter-5"
+        },
+        {
+          "id": "chapter-5-iii",
+          "title": "三、被给予性的范畴",
+          "originalTitle": "III. Die Kategorie der Gegebenheit",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-5-iii.json",
+          "parentId": "chapter-5"
+        },
+        {
+          "id": "chapter-5-iv",
+          "title": "四、客观现实的问题",
+          "originalTitle": "IV. Das Problem der objektiven Wirklichkeit",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-5-iv.json",
+          "parentId": "chapter-5"
+        },
+        {
+          "id": "chapter-5-v",
+          "title": "五、构成性的现实性形式与方法论的认识形式",
+          "originalTitle": "V. Konstitutive Wirklichkeitsformen und methodologische Erkenntnisformen",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-5-v.json",
+          "parentId": "chapter-5"
+        },
+        {
+          "id": "chapter-5-vi",
+          "title": "六、认识论与哲学",
+          "originalTitle": "VI. Erkenntnistheorie und Philosophie",
+          "dataUrl": "translations/books/rickert-gegenstand-der-erkenntnis/chapter-5-vi.json",
+          "parentId": "chapter-5"
+        }
+      ],
+      "downloads": [
+        {
+          "label": "中德对照版 PDF",
+          "url": "translations/books/rickert-gegenstand-der-erkenntnis/rickert_gegenstand_bilingual.pdf?v=0cb84c74fcf1",
+          "bytes": 2608590,
+          "sha256": "0cb84c74fcf1e5f1d112b8c8067409dedeeb8b2dcfd9a3f60c99197c39ae489b"
+        },
+        {
+          "label": "中文阅读版 PDF",
+          "url": "translations/books/rickert-gegenstand-der-erkenntnis/rickert_gegenstand_zh.pdf?v=a6f25f61f06c",
+          "bytes": 1331213,
+          "sha256": "a6f25f61f06c52ee9fbc0880f07d9ad24655ce15a3a8e3836083fe3af3ae40fb"
+        },
+        {
+          "label": "德文原文版 PDF",
+          "url": "translations/books/rickert-gegenstand-der-erkenntnis/rickert_gegenstand_de.pdf?v=cc582e71aea0",
+          "bytes": 1193266,
+          "sha256": "cc582e71aea0ffee039bf5d4b214cddd5e8ee2474d070527de42b12849be1eee"
+        },
+        {
+          "label": "中文 Markdown",
+          "url": "translations/books/rickert-gegenstand-der-erkenntnis/rickert_gegenstand_zh.md?v=15fc5778d801",
+          "bytes": 1019654,
+          "sha256": "15fc5778d801d98d2545681368b30cfa34ab8d7306f1471ee8e4d40b5b65c2bf"
+        },
+        {
+          "label": "德文 Markdown",
+          "url": "translations/books/rickert-gegenstand-der-erkenntnis/rickert_gegenstand_de.md?v=c2255070d9f8",
+          "bytes": 1181742,
+          "sha256": "c2255070d9f8b0b54aba8d201c0252cac445710f6ec2ac35afa4ccac5fd67b03"
+        },
+        {
+          "label": "可编辑源码包",
+          "url": "translations/books/rickert-gegenstand-der-erkenntnis/rickert_gegenstand_source.zip?v=4f9383ba1b4f",
+          "bytes": 7964477,
+          "sha256": "4f9383ba1b4f17a78217d00e01733d8fefd602bec00cd8fd165c06c0a78dcee8"
+        }
+      ],
+      "reviewedCanonicalSha256": "e98db531d8b29f06cd5707d075a7db0cc7055caf83c6e58fb448ef03fdb97c20",
+      "sourceEdition": "Rickert, dritte Auflage, 1915",
+      "readerUrl": "https://uni0nius.github.io/translations/book.html?id=rickert-gegenstand-der-erkenntnis",
+      "innerReaderUrl": "https://uni0nius.github.io/union.html#/read/rickert-gegenstand-der-erkenntnis?chapter=front-matter&lang=zh"
     }
   ],
   "articles": [

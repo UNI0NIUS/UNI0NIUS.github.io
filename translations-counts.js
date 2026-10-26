@@ -35,5 +35,6 @@ window.TRANSLATION_COUNTS = {
   "ai-siqi-labor-power-guide": 337,
   "wang-yanan-economic-human-guide": 325,
   "gandhi-voice-guide": 324,
-  "empire-of-greeks-to-byzantium": 12701
+  "empire-of-greeks-to-byzantium": 12701,
+  "rickert-gegenstand-der-erkenntnis": 278276
 };
