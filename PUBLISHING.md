@@ -166,3 +166,5 @@ git -C .\release-site push origin main
 - 本说明是在本地补充，编写说明本身不会触发网站部署。之后每次发布请更新本节。
 
 - 2026-10-26：本次增加《逐出永恒》15个阅读章节、328条原注、46项图像及书目/英文索引原页影像，目录为15本495章；阅读器支持影印页阅读权重、独立共享校注及单次显示双语插图。保留无下载控件设计及表站首页。源稿和本地交付清单见 D:/Data/translate/Sociology/Evicted from eternity/output/final；实际部署与线上验收另记录于本书检查点。
+
+- 2026-10-26：本次发布包新增李凯尔特《认识的对象》（1915第三版）：52阅读分节、184主原注，里站目录16本547章。三版PDF及Markdown/源码包位于translations/books/rickert-gegenstand-der-erkenntnis/；保持里站无下载控件设计。现用preview-v2已同步本书源码与注册项，其他15本记录不变。提交、部署和线上验收以本书工作区检查点及publication_check.json/online_verification.json为准。
