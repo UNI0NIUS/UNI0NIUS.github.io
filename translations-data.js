@@ -1,6 +1,329 @@
 window.TRANSLATIONS = {
   "books": [
     {
+      "id": "cohen-system-der-philosophie-1",
+      "title": "哲学体系第一部：纯粹认识的逻辑",
+      "originalTitle": "System der Philosophie. Erster Theil: Logik der reinen Erkenntniss",
+      "author": "Hermann Cohen",
+      "authorZh": "赫尔曼·柯亨",
+      "tags": [
+        "哲学 Philosophy",
+        "认识论 Epistemology"
+      ],
+      "language": "zh-CN",
+      "languagePair": "Deutsch / 中文",
+      "structured": true,
+      "bilingual": true,
+      "views": [
+        "zh",
+        "en",
+        "parallel"
+      ],
+      "sourceLanguage": "de",
+      "sourceLanguageLabel": "Deutsch",
+      "editionNotice": "依据1902年柏林版校订。保留原书目录和印刷页码；原注附德文原文。",
+      "chapters": [
+        {
+          "id": "front-matter",
+          "title": "书前材料",
+          "originalTitle": "Titelei",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/front-matter.json"
+        },
+        {
+          "id": "preface",
+          "title": "序言",
+          "originalTitle": "Vorrede",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/preface.json"
+        },
+        {
+          "id": "original-toc",
+          "title": "原书目录（原书页码）",
+          "originalTitle": "Inhalt des Originals (Originalseiten)",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/original-toc.json"
+        },
+        {
+          "id": "introduction",
+          "title": "导论与布局",
+          "originalTitle": "Einleitung und Disposition",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/introduction.json"
+        },
+        {
+          "id": "intro-01",
+          "title": "认识的四重含义",
+          "originalTitle": "Die vierfache Bedeutung von Erkenntniss",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/intro-01.json",
+          "parentId": "introduction"
+        },
+        {
+          "id": "intro-02",
+          "title": "纯粹认识概念的历史",
+          "originalTitle": "Die Geschichte des Begriffs der reinen Erkenntniss",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/intro-02.json",
+          "parentId": "introduction"
+        },
+        {
+          "id": "intro-03",
+          "title": "纯粹认识逻辑学与批判及形而上学的关系",
+          "originalTitle": "Verhältniss der Logik der reinen Erkenntniss zur Kritik und Metaphysik",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/intro-03.json",
+          "parentId": "introduction"
+        },
+        {
+          "id": "intro-04",
+          "title": "心理学的问题",
+          "originalTitle": "Das Problem der Psychologie",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/intro-04.json",
+          "parentId": "introduction"
+        },
+        {
+          "id": "intro-05",
+          "title": "科学的思维",
+          "originalTitle": "Das Denken der Wissenschaft",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/intro-05.json",
+          "parentId": "introduction"
+        },
+        {
+          "id": "intro-06",
+          "title": "科学的思维与心理学",
+          "originalTitle": "Das Denken der Wissenschaft und die Psychologie",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/intro-06.json",
+          "parentId": "introduction"
+        },
+        {
+          "id": "intro-07",
+          "title": "思维的术语",
+          "originalTitle": "Die Terminologie des Denkens",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/intro-07.json",
+          "parentId": "introduction"
+        },
+        {
+          "id": "intro-08",
+          "title": "起源的逻辑学",
+          "originalTitle": "Die Logik des Ursprungs",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/intro-08.json",
+          "parentId": "introduction"
+        },
+        {
+          "id": "intro-09",
+          "title": "逻辑学的范围",
+          "originalTitle": "Umfang der Logik",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/intro-09.json",
+          "parentId": "introduction"
+        },
+        {
+          "id": "intro-10",
+          "title": "判断与范畴",
+          "originalTitle": "Das Urtheil und die Kategorieen",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/intro-10.json",
+          "parentId": "introduction"
+        },
+        {
+          "id": "intro-11",
+          "title": "判断与思维",
+          "originalTitle": "Das Urtheil und das Denken",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/intro-11.json",
+          "parentId": "introduction"
+        },
+        {
+          "id": "intro-12",
+          "title": "判断的诸类型与认识的统一性",
+          "originalTitle": "Die Arten des Urtheils und die Einheit der Erkenntniss",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/intro-12.json",
+          "parentId": "introduction"
+        },
+        {
+          "id": "class-1",
+          "title": "第一类：思维规律的判断",
+          "originalTitle": "Erste Klasse: Die Urtheile der Denkgesetze.",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-1.json"
+        },
+        {
+          "id": "class-1-1",
+          "title": "起源判断",
+          "originalTitle": "Das Urtheil des Ursprungs",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-1-1.json",
+          "parentId": "class-1"
+        },
+        {
+          "id": "class-1-2",
+          "title": "同一性判断",
+          "originalTitle": "Das Urtheil der Identität",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-1-2.json",
+          "parentId": "class-1"
+        },
+        {
+          "id": "class-1-3",
+          "title": "矛盾判断",
+          "originalTitle": "Das Urtheil des Widerspruchs",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-1-3.json",
+          "parentId": "class-1"
+        },
+        {
+          "id": "class-2",
+          "title": "第二类：数学的判断",
+          "originalTitle": "Zweite Klasse: Die Urtheile der Mathematik.",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-2.json"
+        },
+        {
+          "id": "class-2-1",
+          "title": "实在性判断",
+          "originalTitle": "Das Urtheil der Realität",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-2-1.json",
+          "parentId": "class-2"
+        },
+        {
+          "id": "class-2-2",
+          "title": "多数性判断",
+          "originalTitle": "Das Urtheil der Mehrheit",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-2-2.json",
+          "parentId": "class-2"
+        },
+        {
+          "id": "class-2-3",
+          "title": "总体性判断",
+          "originalTitle": "Das Urtheil der Allheit",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-2-3.json",
+          "parentId": "class-2"
+        },
+        {
+          "id": "class-2-4",
+          "title": "从数学的判断过渡到数学自然科学的判断",
+          "originalTitle": "Uebergang von den Urtheilen der Mathematik zu den Urtheilen der mathematischen Naturwissenschaft",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-2-4.json",
+          "parentId": "class-2"
+        },
+        {
+          "id": "class-3",
+          "title": "第三类：数学自然科学的判断",
+          "originalTitle": "Dritte Klasse: Die Urtheile der mathematischen Naturwissenschaft.",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-3.json"
+        },
+        {
+          "id": "class-3-1",
+          "title": "实体判断",
+          "originalTitle": "Das Urtheil der Substanz",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-3-1.json",
+          "parentId": "class-3"
+        },
+        {
+          "id": "class-3-2",
+          "title": "规律判断",
+          "originalTitle": "Das Urtheil des Gesetzes",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-3-2.json",
+          "parentId": "class-3"
+        },
+        {
+          "id": "class-3-3",
+          "title": "概念判断",
+          "originalTitle": "Das Urtheil des Begriffs",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-3-3.json",
+          "parentId": "class-3"
+        },
+        {
+          "id": "class-4",
+          "title": "第四类：方法论的判断",
+          "originalTitle": "Vierte Klasse: Die Urtheile der Methodik.",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-4.json"
+        },
+        {
+          "id": "class-4-1",
+          "title": "可能性判断",
+          "originalTitle": "Das Urtheil der Möglichkeit",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-4-1.json",
+          "parentId": "class-4"
+        },
+        {
+          "id": "class-4-2",
+          "title": "现实性判断",
+          "originalTitle": "Das Urtheil der Wirklichkeit",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-4-2.json",
+          "parentId": "class-4"
+        },
+        {
+          "id": "class-4-3",
+          "title": "必然性判断",
+          "originalTitle": "Das Urtheil der Nothwendigkeit",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-4-3.json",
+          "parentId": "class-4"
+        },
+        {
+          "id": "class-4-syllogistik",
+          "title": "三段论法",
+          "originalTitle": "Die Syllogistik",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/class-4-syllogistik.json",
+          "parentId": "class-4"
+        },
+        {
+          "id": "conclusion",
+          "title": "结论与界限",
+          "originalTitle": "Beschluss und Begrenzung.",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/conclusion.json"
+        },
+        {
+          "id": "conclusion-1",
+          "title": "判断的逻辑学",
+          "originalTitle": "Die Logik des Urtheils",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/conclusion-1.json",
+          "parentId": "conclusion"
+        },
+        {
+          "id": "conclusion-2",
+          "title": "唯心论的逻辑学",
+          "originalTitle": "Die Logik des Idealismus",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/conclusion-2.json",
+          "parentId": "conclusion"
+        },
+        {
+          "id": "conclusion-3",
+          "title": "逻辑学与哲学体系",
+          "originalTitle": "Die Logik und das System der Philosophie",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-1/conclusion-3.json",
+          "parentId": "conclusion"
+        }
+      ],
+      "downloads": [
+        {
+          "label": "中德对照版 PDF",
+          "url": "translations/books/cohen-system-der-philosophie-1/cohen_system_1_bilingual.pdf?v=e983f4230117",
+          "bytes": 2794650,
+          "sha256": "e983f423011798ca47a15de2f027f8046881a78abb92f2a95ecaa8afdf568236"
+        },
+        {
+          "label": "中文阅读版 PDF",
+          "url": "translations/books/cohen-system-der-philosophie-1/cohen_system_1_zh.pdf?v=0a259ae97fe6",
+          "bytes": 1366136,
+          "sha256": "0a259ae97fe6085d5747971faf372f5ee09109663fb41e7146e80b54828dd53c"
+        },
+        {
+          "label": "德文原文版 PDF",
+          "url": "translations/books/cohen-system-der-philosophie-1/cohen_system_1_de.pdf?v=ba48f9550892",
+          "bytes": 1292642,
+          "sha256": "ba48f955089266c843d61e259ad506fc62429490a12c82613c9841f41774626c"
+        },
+        {
+          "label": "中文 Markdown",
+          "url": "translations/books/cohen-system-der-philosophie-1/cohen_system_1_zh.md?v=00a8122cae5b",
+          "bytes": 1013991,
+          "sha256": "00a8122cae5bfdb68e48e5befcdb1cc39f827788c84f7da05c8b92eadfcf4bb0"
+        },
+        {
+          "label": "德文 Markdown",
+          "url": "translations/books/cohen-system-der-philosophie-1/cohen_system_1_de.md?v=008efc863aeb",
+          "bytes": 1281480,
+          "sha256": "008efc863aebc66be5d23c60b7699f212c99e8b7ed66f765a78ce14c7176e089"
+        },
+        {
+          "label": "可编辑源码包",
+          "url": "translations/books/cohen-system-der-philosophie-1/cohen_system_1_source.zip?v=ae2072d9576f",
+          "bytes": 7794290,
+          "sha256": "ae2072d9576f4b0175e996854e4952c04612f2a73a4e87f8b9697318e890dd4b"
+        }
+      ],
+      "reviewedCanonicalSha256": "283cbe0907eacf663349a629ee0722f5d9a74c72810ea968248a201f26c1609b",
+      "sourceEdition": "Cohen, Berlin, Bruno Cassirer, 1902",
+      "readerUrl": "https://uni0nius.github.io/translations/book.html?id=cohen-system-der-philosophie-1"
+    },
+    {
       "id": "lask-gesammelte-schriften-i",
       "title": "拉斯克文集：第一卷",
       "originalTitle": "Gesammelte Schriften. I",

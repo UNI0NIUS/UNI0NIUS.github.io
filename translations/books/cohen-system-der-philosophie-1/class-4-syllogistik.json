@@ -1,0 +1,3371 @@
+{
+  "id": "class-4-syllogistik",
+  "title": "三段论法",
+  "originalTitle": "Die Syllogistik",
+  "body": [
+    {
+      "id": "part027-u001",
+      "type": "heading",
+      "page": "472",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u001"
+        },
+        "4. 三段论法"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u001"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u001-page-500"
+        },
+        "4. Die Syllogistik."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 500,
+          "printed_page": "472",
+          "display_printed_page": "472"
+        }
+      ]
+    },
+    {
+      "id": "part027-u002",
+      "type": "paragraph",
+      "page": "472",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u002"
+        },
+        "推断是判断的第一种组合方式。在推断中，思维仿佛开始为理性在三段论中所说的语言而结巴。推论在两个判断之上加上第三个判断，而关键正在于这第三个判断。因此它被称为结论（conclusio，συμπέρασμα）。在两个前提中，包含结论之 P 的那个称为大前提（propositio major），包含结论之 S 的那个称为小前提。然而小前提的名目不止是 propositio minor，它还叫 assumptio（πρόσληψις）。这第二个名目值得深思：其中究竟添加了什么？同样，专用于大前提的希腊文表达也意味深长：它叫做 λῆμμα。这固然泛指假设；但这种假设（sumptio）与小前提的 assumptio 区别何在？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u002"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u002-page-500"
+        },
+        "Die Folgerung ist die erste Art der Zusammensetzung der Urtheile. In ihr beginnt das Denken gleichsam zu stammeln für die Sprache, welche die Vernunft im Syllogismus redet. Der Schluss fügt den zwei Urtheilen ein drittes hinzu. Und auf dieses dritte kommt es an. Es heisst daher der ",
+        {
+          "type": "em",
+          "children": [
+            "Schlusssatz"
+          ]
+        },
+        " (conclusio, συμπέρασμα). Von den beiden Vordersätzen, ",
+        {
+          "type": "em",
+          "children": [
+            "Praemissen"
+          ]
+        },
+        ", heisst derjenige der ",
+        {
+          "type": "em",
+          "children": [
+            "Obersatz"
+          ]
+        },
+        " (propositio major), welcher das P des Schlusssatzes enthält. ",
+        {
+          "type": "em",
+          "children": [
+            "Untersatz"
+          ]
+        },
+        " heisst derjenige, welcher das S des Schlusssatzes enthält. Der Titel des Untersatzes aber lautet nicht nur propositio minor, sondern auch ",
+        {
+          "type": "em",
+          "children": [
+            "assumptio"
+          ]
+        },
+        " (πρόσληψις). Dieser zweite Titel giebt zu denken; was wird hinzugenommen in ihm? Und ebenso ist der griechische Ausdruck, der insbesondere für den Obersatz gebraucht wird, bezeichnend: er heisst λῆμμα. Das bedeutet freilich Annahme überhaupt; aber wodurch unterscheidet sich diese Annahme (sumptio) von der assumptio des Untersatzes?"
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 500,
+          "printed_page": "472",
+          "display_printed_page": "472"
+        }
+      ]
+    },
+    {
+      "id": "part027-u003",
+      "type": "paragraph",
+      "page": "472",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u003"
+        },
+        "概念也按这一秩序得到区分：在结论中充当 P 的概念，称为大词（terminus major）；充当 S 的概念，称为小词（terminus minor）。但主要的东西还缺失：它在于中词（terminus medius，τὸ μέσον，ὅρος μέσος）。整个推论程序的魔力就在这个中间项之中；而那个自古以来即被承认的奥秘，则在大前提里。大前提固然包含中词，但中词的魔力也在小前提中起作用。于是产生一种猜疑：人们也许把一切神秘都发现于大前提、并且放进了大前提，因为低估了小前提中 assumptio 的价值。那么，其中究竟设定了什么？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u003"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u003-page-500"
+        },
+        "Auch die ",
+        {
+          "type": "em",
+          "children": [
+            "Begriffe"
+          ]
+        },
+        " werden dieser Ordnung gemäss unterschieden: derjenige, welcher P im Schlusssatz ist, heisst Oberbegriff (terminus ",
+        {
+          "type": "em",
+          "children": [
+            "major"
+          ]
+        },
+        "); derjenige, welcher S im Schlusssatz ist, Unterbegriff (terminus ",
+        {
+          "type": "em",
+          "children": [
+            "minor"
+          ]
+        },
+        "). Aber noch fehlt die Hauptsache: sie besteht im Mittelbegriff (terminus ",
+        {
+          "type": "em",
+          "children": [
+            "medius"
+          ]
+        },
+        ", τὸ μέσον, ὅρος μέσος). In diesem Medium liegt der Zauber des ganzen Schlussverfahrens; während das Mysterium, wie es von jeher anerkannt ",
+        {
+          "type": "page",
+          "id": "en-part027-u003-page-501",
+          "page": "473"
+        },
+        "worden ist, in dem Obersatz liegt. Der Obersatz enthält freilich den Mittelbegriff; dessen Zauber wirkt aber auch im Untersatz. Es entsteht daher der Verdacht, dass man vielleicht alle Mystik in dem Obersatz gefunden und in ihn gelegt hat, weil man den Werth der Assumptio im Untersatz unterschätzt hat. Was wird denn in ihm assumirt?"
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 500,
+          "printed_page": "472",
+          "display_printed_page": "472"
+        },
+        {
+          "pdf_page": 501,
+          "printed_page": "473",
+          "display_printed_page": "473"
+        }
+      ]
+    },
+    {
+      "id": "part027-u004",
+      "type": "paragraph",
+      "page": "473",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u004"
+        },
+        "被设定的是结论的 S，小前提承担了它。在希腊术语中，它被称为端词（ὅρος ἔσχατος）。它固然是最后者，即人们所要达到的东西；但人们通常恰恰也从它出发。在推断中，我们只与普遍者和特殊者的相关性打交道；个别者并不牵涉我们。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u004"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u004-page-501"
+        },
+        "Es ist das S des Schlusssatzes, dessen der Untersatz sich annimmt. Es wird in der griechischen Terminologie das Aeusserste (ὅρος ἔσχατος) genannt. Freilich ist es das Letzte; nämlich dasjenige, auf das man hinauswill. Das pflegt aber zugleich dasjenige zu sein, von dem man ausgeht. Wir haben es bei der Folgerung nur mit der Correlativität des Allgemeinen und des Besonderen zu thun gehabt; das ",
+        {
+          "type": "em",
+          "children": [
+            "Einzelne"
+          ]
+        },
+        " ging uns dabei nichts an."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 501,
+          "printed_page": "473",
+          "display_printed_page": "473"
+        }
+      ]
+    },
+    {
+      "id": "part027-u005",
+      "type": "paragraph",
+      "page": "473",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u005"
+        },
+        "耐人寻味的是，个别者是否与普遍者同义，历来就有争议。人们只注意到“所有”与“有些”的区别；于是把个别者归入普遍者，显得像一条聪明的出路。然而在这种游戏中，现实性的价值丧失了。我们已经看到，在现实性判断中，个别者的范畴被产生出来。于是范畴现在已经存在；但它如何对现实性的批判概念生效呢？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u005"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u005-page-501"
+        },
+        "Es ist charakteristisch, dass es immer controvers gewesen ist, ",
+        {
+          "type": "em",
+          "children": [
+            "ob das Einzelne nicht gleichbedeutend sei mit dem Allgemeinen"
+          ]
+        },
+        ". Man beachtete ja nur den Unterschied von Alle und Einige; so schien es ein geistreicher Ausweg, das Einzelne zum Allgemeinen zu schlagen. Indessen geht bei diesem Spiel der Werth der Wirklichkeit verloren. Wir haben gesehen, dass in dem Urtheil der Wirklichkeit die Kategorie des Einzelnen erzeugt wird. So ist die Kategorie jetzt bereits vorhanden; aber wie wird sie wirksam für den kritischen Begriff der Wirklichkeit?"
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 501,
+          "printed_page": "473",
+          "display_printed_page": "473"
+        }
+      ]
+    },
+    {
+      "id": "part027-u006",
+      "type": "paragraph",
+      "page": "473",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u006"
+        },
+        "我们已经看到，绝不是感觉能够保证现实性、保证个别者；相反，需要数学的手段，尤其是量，才能把这种效用付诸实行。然而这些科学手段本身又是普遍性的；它们的结果是规律。于是，个别者与普遍者之间确实产生了冲突，因为个别者在最好的意义上正是规律的个案。那么，个别者究竟如何区别于普遍者？现实性的一切手段都不能把它孤立起来，尽管孤立正是这些手段的倾向；因为在这一切手段中，普遍者仍在起作用，于是个别者中也出现了普遍者的反光。个别者的定义仍然留给现实性判断；但该判断的权限不足以把个别者贯彻到底。现实性只知道普遍规律。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u006"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u006-page-501"
+        },
+        "Wir haben gesehen, wie es keineswegs etwa die Empfindung ist, welche die Wirklichkeit, das Einzelne zu gewährleisten vermöchte; sondern dass es der mathematischen Mittel bedarf, insbesondere der Grösse, um diese Wirksamkeit in Vollzug zu setzen. Nun sind aber diese Mittel der Wissenschaft selber wieder allgemeiner Art; und ihre Ergebnisse sind Gesetze. So entsteht in der That die Collision zwischen dem Einzelnen und dem Allgemeinen, dieweil das Einzelne im besten Sinne der Fall des Gesetzes ist. Wie unterscheidet sich nun dennoch das Einzelne vom Allgemeinen? Alle Mittel der Wirklichkeit vermögen es nicht zu isoliren, wenngleich diese Isolirung ihre Tendenz ist; denn in allen wirkt das Allgemeine nach, und so kommt es auch zum Widerschein im Einzelnen. Es bleibt bei der Definition des Einzelnen, welche dem Urtheil der Wirklichkeit vorbehalten ist; aber weiter reicht die Competenz desselben für die Durchführung des Einzelnen nicht. Die Wirklichkeit kennt nur die allgemeinen Gesetze."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 501,
+          "printed_page": "473",
+          "display_printed_page": "473"
+        }
+      ]
+    },
+    {
+      "id": "part027-u007",
+      "type": "paragraph",
+      "page": "474",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u007"
+        },
+        "因此，必然性必须加上来：它的任务在于特殊者，因而也在于特殊规律。正是这些特殊规律必须承担个别者，把它与普遍者结合起来并加以协调。三段论的基本逻辑证明程序，就在这一倾向中运行。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u007"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u007-page-502"
+        },
+        "Daher muss die Nothwendigkeit hinzukommen: ihre Aufgabe liegt in dem Besonderen, also auch in den besonderen Gesetzen. Und sie sind es, welche des Einzelnen sich anzunehmen haben, um es mit dem Allgemeinen zu verbinden und zu vereinbaren. In dieser Tendenz verläuft das fundamentale logische Beweisverfahren des Syllogismus."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 502,
+          "printed_page": "474",
+          "display_printed_page": "474"
+        }
+      ]
+    },
+    {
+      "id": "part027-u008",
+      "type": "paragraph",
+      "page": "474",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u008"
+        },
+        "这里首先可以提出一个反驳：在三段论的图式里，个别者事实上并没有得到任何标记；那里只有全称肯定（a）、全称否定（e）、特称肯定（i）、特称否定（o）。因此按量来说，只有普遍者和特殊者。然而我们在推断中已经看到，这里的特殊者并不具有它应得的特殊性价值。不合逻辑的“有些”一词，泄露了这种不相称。因此，正如我们不能从特称判断中期待特殊性，我们也不必为个别者担忧，即便它没有在三段论法的模版中被标出。它事实上包含在普遍判断中；这是允许的；因为关键并不在于一切 S，而在于普遍有效性，即便这种有效性只涉及一个 S。个别个案本身要求自己被转化为普遍的事例，以便作为个别个案得到论证。然而这一转化需要特殊性的范畴。现在，让我们从这些考虑出发考察三段论法的图式。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u008"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u008-page-502"
+        },
+        "Hier kann nun vor Allem der Einwand gemacht werden, dass ja in dem Schema der Syllogismen das Einzelne thatsächlich keine Bezeichnung gefunden habe; es giebt da nur allgemeine Bejahung (a), allgemeine Verneinung (e), besondere Bejahung (i), besondere Verneinung (o). Es giebt also der Quantität nach nur Allgemeines und Besonderes. Wir haben jedoch schon bei der Folgerung gesehen, dass das Besondere hier nicht den Werth der Besonderheit hat, der ihm gebührt. Das unlogische Wort Einige verräth dieses Missverhältniss. So wenig wir daher von den besonderen Urtheilen für die Besonderheit erwarten dürfen, so wenig brauchen wir für das Einzelne zu fürchten, wenn es in der Schablone der Syllogistik nicht verzeichnet ist. Es ist in der That in dem allgemeinen Urtheil enthalten; und das ist statthaft; denn nicht auf Alle S kommt es an, sondern auf die allgemeine Geltung, wenn sie auch nur auf ein S sich bezieht. Der Einzelfall selbst fordert seine Verwandlung in den allgemeinen Fall, um als Einzelfall sich zu begründen. Zu dieser Verwandlung bedarf es jedoch der Kategorie der Besonderheit. Betrachten wir nun von diesen Erwägungen aus den Schematismus der Syllogistik."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 502,
+          "printed_page": "474",
+          "display_printed_page": "474"
+        }
+      ]
+    },
+    {
+      "id": "part027-u009",
+      "type": "paragraph",
+      "page": "474",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u009"
+        },
+        "人们首先区分推论的格。如果中词（M）构成大前提的 S 和小前提的 P，就产生第一格。如果 M 在两个前提中都构成 P，就产生第二格；如果 M 在两个前提中都构成 S，就产生第三格；最后，如果 M 在大前提中构成 P、在小前提中构成 S，伽伦称之为第四格。亚里士多德建立了前三格，但他本人只承认第一格中有完善的推论（συλλογισμοὶ τέλειοι）。特伦德伦堡删去了第三格，而不只是通常被删去的第四格。康德则连第二格也加以反驳，并且已在其著作标题中表达了他的意见：《论三段论四格的虚假精细》。",
+        {
+          "type": "anchor",
+          "id": "zh-part027-u010"
+        },
+        "如果亚里士多德本人只把完善性归于第一格，那么从我们的观点看，事情已经了结；因为纯粹认识只能通过一种完善的逻辑程序产生。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u009"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u009-page-502"
+        },
+        "Man unterscheidet zunächst die ",
+        {
+          "type": "em",
+          "children": [
+            "Figur"
+          ]
+        },
+        " des Schlusses. Wenn der Mittelbegriff (M) das S des Obersatzes und das P des Untersatzes bildet, so entsteht die ",
+        {
+          "type": "em",
+          "children": [
+            "erste"
+          ]
+        },
+        " Figur. Bildet M in beiden Praemissen das P, so entsteht die zweite, bildet M in beiden Praemissen das S, so entsteht die dritte, und endlich wenn M im Obersatz das P und im Untersatz das S bildet, so nannte Galenus diese die vierte Figur. Die ",
+        {
+          "type": "em",
+          "children": [
+            "drei ersten Figuren"
+          ]
+        },
+        " hat ",
+        {
+          "type": "em",
+          "children": [
+            "Aristoteles"
+          ]
+        },
+        " aufgestellt, aber er selbst hat nur in der ersten Figur vollkommene Schlüsse (συλλογισμοὶ τέλειοι) anerkannt. ",
+        {
+          "type": "em",
+          "children": [
+            "Trendelenburg"
+          ]
+        },
+        " hat die ",
+        {
+          "type": "em",
+          "children": [
+            "dritte"
+          ]
+        },
+        " Figur fallengelassen, nicht nur die vierte, was meistens geschehen ist. ",
+        {
+          "type": "em",
+          "children": [
+            "Kant"
+          ]
+        },
+        " aber hatte auch die ",
+        {
+          "type": "em",
+          "children": [
+            "zweite"
+          ]
+        },
+        " bestritten, und schon im Titel seiner Schrift seine Meinung ausgedrückt: über die falsche Spitzfindigkeit der vier syllogistischen Figuren.",
+        " ",
+        {
+          "type": "anchor",
+          "id": "en-part027-u010"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u010-page-502"
+        },
+        "Wenn ",
+        {
+          "type": "page",
+          "id": "en-part027-u010-page-503",
+          "page": "475"
+        },
+        "Aristoteles selbst die Vollkommenheit nur der ersten Figur zusprach, so ist für unsern Gesichtspunkt schon dadurch die Sache erledigt; denn reine Erkenntniss kann nur durch ein vollkommenes logisches Verfahren erzeugt werden."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 502,
+          "printed_page": "474",
+          "display_printed_page": "474"
+        },
+        {
+          "pdf_page": 503,
+          "printed_page": "475",
+          "display_printed_page": "475"
+        }
+      ]
+    },
+    {
+      "id": "part027-u011",
+      "type": "paragraph",
+      "page": "475",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u011"
+        },
+        "格进一步与质和量结合；于是产生式（τρόπος）。亚里士多德从第一格中各式的区分出发。第一格包含四个式，其经院名称为 Barbara、Celarent、Darii、Ferio。开头的辅音表示次序；元音 a、e、i、o 表示判断的量和质。可以看到，个别者在量中未受考虑。而特殊者也只包含在后两个式中。因此，甚至像宇伯韦格这样热心的三段论学者也承认：这些推论式的价值，以及其他格中一切特称式的价值，虽未因这种不确定性而被取消，却受到了限制。这里又让人感到“有些”所含的不确定性，它毕竟只是至少有些。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u011"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u011-page-503"
+        },
+        "Die Figur wird ferner mit der Qualität und der Quantität combinirt; so entsteht der ",
+        {
+          "type": "em",
+          "children": [
+            "Modus"
+          ]
+        },
+        " (τρόπος). ",
+        {
+          "type": "em",
+          "children": [
+            "Aristoteles"
+          ]
+        },
+        " ist von der Unterscheidung der Modi in der ersten Figur ausgegangen. Die erste Figur enthält ",
+        {
+          "type": "em",
+          "children": [
+            "vier Modi"
+          ]
+        },
+        " mit den scholastischen Namen: ",
+        {
+          "type": "em",
+          "children": [
+            "Barbara, Celarent, Darii, Ferio"
+          ]
+        },
+        ". Die Anfangsconsonanten bezeichnen die Reihenfolge; die Vocale a, e, i, o, die Quantität und die Qualität der Urtheile. Man sieht, dass das Einzelne in der Quantität unberücksichtigt geblieben ist. Und auch das Besondere ist nur in den beiden letzten Modis enthalten. Es ist daher selbst von einem so eifrigen Syllogistiker, wie es ",
+        {
+          "type": "em",
+          "children": [
+            "Ueberweg"
+          ]
+        },
+        " war, zugestanden worden, dass der Werth dieser Schlussmodi sowie aller anderen particularen in den anderen Figuren durch diese Unbestimmtheit zwar nicht aufgehoben, aber beschränkt werde. Es macht sich hier wieder die Unbestimmtheit fühlbar, die in den Einigen liegt, die eben vollends nur mindestens Einige sind."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 503,
+          "printed_page": "475",
+          "display_printed_page": "475"
+        }
+      ]
+    },
+    {
+      "id": "part027-u012",
+      "type": "paragraph",
+      "page": "475",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u012"
+        },
+        "我们由此得出教训：特殊者的力量被错误地放进了那个 i 或 o；而以下事实又加强了我们这一想法：个别者也没有得到任何突出。它被归给了普遍者。因此，关键并不在数词“一”；不确定的“有些”又凭什么应受重视？那么，特殊者究竟藏在三段论结构的何处？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u012"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u012-page-503"
+        },
+        "Wir ziehen daraus die Lehre, dass die Kraft des Besonderen fälschlich in jene i oder o verlegt wird; und wir werden in diesem Gedanken durch die Thatsache bestärkt, dass ja auch das Einzelne keine Auszeichnung erhalten hat. Dieses ist dem Allgemeinen zugewiesen. Es kommt also nicht auf das Zahlwort eins an; wie sollte das Unbestimmte Einige Berücksichtigung verdienen? Wo steckt denn nun das Besondere in der Structur des Syllogismus?"
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 503,
+          "printed_page": "475",
+          "display_printed_page": "475"
+        }
+      ]
+    },
+    {
+      "id": "part027-u013",
+      "type": "paragraph",
+      "page": "475",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u013"
+        },
+        "中词拥有特殊者的力量和代表权。它是三段论的主要工具，即原因（τὸ μὲν γὰρ αἴτιον τὸ μέσον），如亚里士多德所命名。这个称号不能只从亚里士多德赋予概念的绝对含义、即作为绝对在先者（πρότερον ἁπλῶς）来理解；它奠基于事情的自然状态。让我们设身处地想一想。研究从个别者出发。个别者构成最初的推动。为了解释个别者，普遍者被思考出来。思维中的这一步构成必然性判断。但随这一步出现了一道鸿沟；个别者消失在普遍者中。于是有第二步，即三段论所完成的一步。可以看到，第一步只是为了第二步而存在；没有第二步，它就没有意义。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u013"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u013-page-503"
+        },
+        {
+          "type": "em",
+          "children": [
+            "Der Mittelbegriff hat die Kraft und die Vertretung des Besonderen"
+          ]
+        },
+        ". Er ist das hauptsächliche Instrument des Syllogismus, die Ursache (τὸ μὲν γὰρ αἴτιον τὸ μέσον), wie Aristoteles ihn benannt hat. Dieser Titel lässt sich nicht nur aus der absoluten Bedeutung verstehen, welche Aristoteles dem Begriffe, als dem absoluten Prius (πρότερον ἁπλῶς) zugedacht hat; er begründet sich aus dem natürlichen Sachverhalt. Denken wir uns nur in denselben hinein. Die Forschung geht von dem Einzelnen aus. Das Einzelne bildet den nächsten Anstoss. Um das Einzelne zu erklären, wird das Allgemeine erdacht. Diesen Schritt ",
+        {
+          "type": "page",
+          "id": "en-part027-u013-page-504",
+          "page": "476"
+        },
+        "im Denken bildet das Urtheil der Nothwendigkeit. Aber mit diesem Schritt thut sich eine Kluft auf; das Einzelne verliert sich im Allgemeinen. So kommt es zu einem zweiten Schritt, den der Syllogismus vollzieht. Man sieht, der erste Schritt ist nur des zweiten wegen da; er hätte ohne ihn keinen Sinn."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 503,
+          "printed_page": "475",
+          "display_printed_page": "475"
+        },
+        {
+          "pdf_page": 504,
+          "printed_page": "476",
+          "display_printed_page": "476"
+        }
+      ]
+    },
+    {
+      "id": "part027-u014",
+      "type": "paragraph",
+      "page": "476",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u014"
+        },
+        "一个普遍判断，现在看来，若不被用作三段论的大前提，就根本没有意义和目的。即便推断也未能使普遍判断的意义变得通透。偶然换位（conversio per accidens）固然让特殊者跳出来；但这个特殊者有何用处？在推断之内，特殊者只具有“非普遍者”的否定含义。只有在三段论中，特殊者才获得光明，而且是从个别者方面获得光明。只有当我从个别者开始——这是三段论而非推断所做的——我才达到特殊者。而这个特殊者并不在 i 和 o 中，而在中词中。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u014"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u014-page-504"
+        },
+        "Ein allgemeines Urtheil hat gar keinen Sinn und Zweck, so scheint es jetzt, wenn es nicht zum Obersatz eines Syllogismus gebraucht wird. Auch die Folgerung macht den Sinn des allgemeinen Urtheils noch nicht durchsichtig. Die Conversio per accidens lässt zwar das Besondere hervorspringen; aber wozu ist dieses Besondere nütze? Innerhalb der Folgerung hat das Besondere daher auch die negative Bedeutung des nicht Allgemeinen. Erst im Syllogismus kommt Licht über das Besondere, und zwar vom Einzelnen her. Erst wenn ich mit dem Einzelnen anfange, was der Syllogismus thut, nicht die Folgerung, komme ich zum Besonderen. Und dieses Besondere liegt nicht in i und o, sondern im Mittelbegriff."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 504,
+          "printed_page": "476",
+          "display_printed_page": "476"
+        }
+      ]
+    },
+    {
+      "id": "part027-u015",
+      "type": "paragraph",
+      "page": "476",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u015"
+        },
+        "三段论是判断的组合。然而这种组合并非外在的；否则它就不能产生必然性。系住必然性的那个结，就是中词中的特殊者。但它也安排组合。于是中词的力量已经在大前提的排列中起作用。这样看来，仿佛是中词的位置赋予了中词力量；然而前提的排列与其中的中词不可分离。关键在于：特殊者承担个别者与普遍者之间的中介。这一中介由中词操办。因此中词必须代表特殊者。没有它，判断的组合就不能包含那种使可协调性成为可能的排列。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u015"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u015-page-504"
+        },
+        "Der Syllogismus ist eine Zusammensetzung von Urtheilen. Die Zusammensetzung ist jedoch nicht etwa äusserlich; dann könnte sie nicht Nothwendigkeit erzeugen. Der Knoten, mit dem die Nothwendigkeit geschürzt wird, ist das Besondere, welches im Mittelbegriff liegt. Er aber ordnet auch die Zusammensetzung. So bethätigt sich die Kraft des Mittelbegriffs schon in der Anordnung der Praemissen. So könnte es scheinen, als ob die Mittelstellung dem Mittelbegriff seine Kraft verliehe; indessen ist die Anordnung der Praemissen von dem Mittelbegriff in ihnen nicht zu trennen. Worauf es ankommt, ist dies, dass dem Besonderen die Vermittlung zwischen dem Einzelnen und dem Allgemeinen zukommt. Diese Vermittlung besorgt der Mittelbegriff. Daher muss er das Besondere vertreten. Ohne ihn würde die Zusammensetzung der Urtheile nicht diejenige Anordnung enthalten können, durch welche die Vereinbarkeit bedingt wird."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 504,
+          "printed_page": "476",
+          "display_printed_page": "476"
+        }
+      ]
+    },
+    {
+      "id": "part027-u016",
+      "type": "paragraph",
+      "page": "476",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u016"
+        },
+        "让我们用那个尽人皆知的庸常学校例子把这件事简单说明；后面我们会看到，这个例子并不像表面那样无关紧要。所有人都是会死的。卡尤斯是人。所以卡尤斯是会死的。这里，“人”是中词。它把大前提的普遍者即会死性，与小前提的个别者即卡尤斯联结起来。人、人的概念，在这里构成特殊者，它能够把个别者与普遍者联结起来。",
+        {
+          "type": "anchor",
+          "id": "zh-part027-u017"
+        },
+        "但是，这种特殊者的含义、这种特殊规律的力量，从何来到“人”这一概念中？单个的规律作为规律是特殊的。然而“人”的概念如何获得一种规律的含义？如果没有规律这种约束力量，它又怎能促使诸前提、即其中的普遍者和个别者，达到联结与协调？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u016"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u016-page-504"
+        },
+        "Machen wir uns an dem bekannten trivialen Schulbeispiel die Sache einfach klar; wir werden später sehen, dass das Beispiel gar nicht so unbedeutend ist, wie es scheint. Alle Menschen sind sterblich. Cajus ist Mensch. Ergo ist Cajus sterblich. Mensch ist hier der Mittelbegriff. Er verbindet das Allgemeine des Obersatzes, die Sterblichkeit, mit dem Einzelnen des Untersatzes, ",
+        {
+          "type": "page",
+          "id": "en-part027-u016-page-505",
+          "page": "477"
+        },
+        "Cajus. Mensch, der Begriff des Menschen, bildet hier das Besondere, welches das Einzelne mit dem Allgemeinen zu verknüpfen vermag.",
+        " ",
+        {
+          "type": "anchor",
+          "id": "en-part027-u017"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u017-page-505"
+        },
+        "Woher kommt aber diese Bedeutung des Besonderen, diese Kraft eines besonderen Gesetzes in den Begriff Mensch? Das einzelne Gesetz ist, als Gesetz, ein besonderes. Wie aber kommt der Begriff Mensch zu der Bedeutung eines Gesetzes? Und wie könnte er ohne diese verbindliche Kraft eines Gesetzes die Praemissen, und zwar das Allgemeine und das Einzelne in ihnen zur Verbindung und Vereinbarung bringen?"
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 504,
+          "printed_page": "476",
+          "display_printed_page": "476"
+        },
+        {
+          "pdf_page": 505,
+          "printed_page": "477",
+          "display_printed_page": "477"
+        }
+      ]
+    },
+    {
+      "id": "part027-u018",
+      "type": "paragraph",
+      "page": "477",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u018"
+        },
+        "人们通常不问这个问题；人们以为，只要嘲笑中词的中间位置以及据说由此而来的原因含义，就摆脱了它；何况在其他格中，这种位置本来就被甩掉了。自古代怀疑论时代以来，人们通常只对大前提感兴趣，把一切怀疑的聪明都对准它。大前提怎能在报上尚未登出卡尤斯之事以前，就普遍地断言什么？人们可以很轻视逻辑史；但假如这是一个错误，这样的错误竟能遗传下来，恐怕不可能。糟糕的是——人们也可以说，更糟糕的是——这个错误不仅被逻辑学表述出来，而且被一切科学犯下；研究若不受它引导，就不能完成任何证明：这样一个根本性的主导思想，真能是如此粗疏、如此显眼的错误吗？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u018"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u018-page-505"
+        },
+        "Diese Frage pflegt man nicht zu stellen; man glaubt ihrer ledig zu sein, indem man die Mittelstellung des Mittelbegriffs sammt der ursächlichen Bedeutung, die ihm daher beiwohne, bespöttelt; ohnehin wird sie ja in den anderen Figuren abgeschüttelt. Man pflegt von den alten skeptischen Zeiten her sich immer nur für den Obersatz zu interessiren, und alle skeptische Superklugheit gegen ihn zu richten. Wie kann nur der Obersatz allgemein Etwas behaupten, bevor es von Cajus im Blatt gestanden hat? Man kann sehr gering von der Geschichte der Logik denken; aber das wäre doch wohl nicht möglich, dass sich ein solcher Schnitzer hätte vererben können, wenn er einer wäre. Das Schlimme, man könnte auch denken, das Schlimmere ist ja eben, dass der Schnitzer nicht nur von der Logik formulirt, sondern von allen Wissenschaften begangen wird; und dass die Forschung keinen Beweis vollziehen kann, ohne sich von ihm leiten zu lassen: kann ein solcher fundamentaler Leitgedanke ernstlich ein so grober, ein so sinnfälliger Fehler sein?"
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 505,
+          "printed_page": "477",
+          "display_printed_page": "477"
+        }
+      ]
+    },
+    {
+      "id": "part027-u019",
+      "type": "paragraph",
+      "page": "477",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u019"
+        },
+        "这个有趣的问题，毋宁说这个远比人们通常所认更为重要的问题，我们在此还不回答。我们只从这一点上留意：人们在围绕普遍者的问题上人为地激动，却忽略了提出关于特殊者权利的清醒问题。特殊者从何而来？中词凭何权利可以进入，并且一再进入，最后又在结论中悄悄消失？只有当我们认识到这个问题、认识到这个问题的必然性，我们才理解普遍者、个别者与特殊者这三个范畴通过特殊者形成的内在联系。三段论完成这些范畴的联系；而它们的含义只有在联系中才得以实现。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u019"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u019-page-505"
+        },
+        "Wir beantworten diese interessante, vielmehr diese weit wichtigere Frage, als sie gemeinhin genommen wird, hier noch nicht. Wir achten nur von hier aus darauf, dass man bei der künstlichen Erhitzung über die Frage nach dem Allgemeinen die nüchterne Frage nach dem Recht des Besonderen zu stellen verabsäumt hat. Woher kommt das Besondere? Mit welchem Rechte kann der Mittelbegriff eintreten, und wieder eintreten, um im Schlusssatz heimlich zu verschwinden? Erst indem wir diese Frage, die Nothwendigkeit dieser Frage erkennen, verstehen wir den innerlichen ",
+        {
+          "type": "em",
+          "children": [
+            "Zusammenhang der drei Kategorieen des Allgemeinen und des Einzelnen durch das Besondere"
+          ]
+        },
+        ". Der Syllogismus vollzieht den Zusammenhang dieser ",
+        {
+          "type": "page",
+          "id": "en-part027-u019-page-506",
+          "page": "478"
+        },
+        "Kategorieen; und nur im Zusammenhang vollzieht sich ihre Bedeutung."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 505,
+          "printed_page": "477",
+          "display_printed_page": "477"
+        },
+        {
+          "pdf_page": 506,
+          "printed_page": "478",
+          "display_printed_page": "478"
+        }
+      ]
+    },
+    {
+      "id": "part027-u020",
+      "type": "paragraph",
+      "page": "478",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u020"
+        },
+        "这里可以提出反驳：我们毕竟已经有了个别者；因此不必先在与普遍者和特殊者的联系中去赢得它。然而我们在这里看到并学到：它对于现实性的含义终究只是一种预取；为此，那个论证规律的证明、以及赢得规律的推论，都被不可回避地预设了。于是，个别者固然不是首先在必然性判断中才产生；但它在现实性判断中的含义，却恰恰只有在三段论中才能不仅得到确保，而且被争取出来。而把个别者纳入三段论，正好引导我们回答关于中词及其中特殊者之权利的问题。我们是否也要问：个别者从何而来？小前提凭何权利引入它？我们照例很少这样问，正如很少问特殊者；它被视为一种自然权利。然而，占统治地位的图式根本没有把个别者与普遍者区分开来；它是没有承认个别者，还是误认了它？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u020"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u020-page-506"
+        },
+        "Man könnte hier den Einwand erheben, dass wir ja das Einzelne wenigstens schon haben; nicht also im Zusammenhang mit dem Allgemeinen und dem Besonderen erst zu gewinnen brauchen. Indessen sehen und lernen wir hier, dass seine Bedeutung für die Wirklichkeit doch nur eine Anticipation ist; dass dabei der Beweis, durch den das Gesetz begründet, und der Schluss, durch den es gewonnen wird, unumgänglich vorausgesetzt werden. Also entsteht das Einzelne zwar nicht erst im Urtheil der Nothwendigkeit; aber seine Bedeutung im Urtheil der Wirklichkeit kann es sich im Syllogismus erst nicht nur sichern, sondern auch erarbeiten. Und diese Einordnung des Einzelnen in den Syllogismus führt uns zur Beantwortung unserer Frage nach dem Rechte des Mittelbegriffs und des Besonderen in ihm. Werden wir auch fragen, woher das Einzelne komme; mit welchem Rechte der Untersatz es einführt? Wir pflegen danach so wenig zu fragen, wie wir nach dem Besonderen fragen; es gilt uns als ein natürliches Recht. Und dennoch hat der herrschende Schematismus das Einzelne von dem Allgemeinen gar nicht unterschieden; hat er es nicht anerkannt, oder hat er es verkannt?"
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 506,
+          "printed_page": "478",
+          "display_printed_page": "478"
+        }
+      ]
+    },
+    {
+      "id": "part027-u021",
+      "type": "paragraph",
+      "page": "478",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u021"
+        },
+        "术语中确实有一种严重的损害：它只区分普遍者（a）和特殊者（i 或 o）。我们已经知道，“有些”并不代表特殊性。但现在我们也看到，这个错误还可能与其他什么相关，即与个别者未得到突出相关。如前所说，一切怀疑都针对普遍的大前提；但这样一来，普遍者与个别者的区别就不显眼了；普遍者与特殊者的对立已经足够，而后者本来还不清楚。因此，小前提构成一个自己的问题，正如大前提一样；它引入个别者，并把它与特殊者结合起来。然而，即便这种结合可以普遍有效，对单个判断来说也许没有问题；但在这里，判断是作为小前提出现的；它引入小词；这个小词就是个别者；它凭什么可以进入这一划分？这个问题把我们带回关于特殊者的问题。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u021"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u021-page-506"
+        },
+        "Es liegt allerdings ein harter Schaden in der Terminologie, dass sie nur das Allgemeine (a) und das Besondere (i oder o) unterscheidet. Wir wissen bereits, dass durch Einige die Besonderheit nicht vertreten wird. Wir sehen jetzt aber, womit dieser Fehler ausserdem zusammenhängen mag, nämlich mit der nicht vollzogenen Auszeichnung des Einzelnen. Alle Skepsis richtete sich, wie gesagt, auf den allgemeinen Obersatz; dadurch aber wurde der Unterschied des Allgemeinen vom Einzelnen nicht hervortretend; es genügte schon der Gegensatz des Allgemeinen und des Besonderen, welches Letztere ohnehin noch unklar blieb. ",
+        {
+          "type": "em",
+          "children": [
+            "Der Untersatz bildet demnach ein eigenes Problem"
+          ]
+        },
+        ", ebenso wie der Obersatz; er führt das Einzelne ein. Und er verbindet dieses mit dem Besonderen. Aber wenngleich diese Verbindung allgemein gelten mag, so mag dies für das einzelne Urtheil in Ordnung sein; hier jedoch steht das Urtheil als Untersatz; es führt den Unterbegriff ein; dieser Unterbegriff ist ",
+        {
+          "type": "page",
+          "id": "en-part027-u021-page-507",
+          "page": "479"
+        },
+        "das Einzelne; wie darf dieses in diese Gliederung eintreten? Diese Frage führt uns zu unserer Frage nach dem Besonderen zurück."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 506,
+          "printed_page": "478",
+          "display_printed_page": "478"
+        },
+        {
+          "pdf_page": 507,
+          "printed_page": "479",
+          "display_printed_page": "479"
+        }
+      ]
+    },
+    {
+      "id": "part027-u022",
+      "type": "paragraph",
+      "page": "479",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u022"
+        },
+        "要理解特殊者，仅注意它与普遍者的区别是不够的；它与个别者的关系必须清楚；唯有三段论使之清楚。这是它优于推断之处，因为在推断中并未预定从个别者出发。唯有推论才带来小前提，并在其中带来个别者。但它带来得更多。它只是把个别者接受下来、加以设定；但它必须接手某种大前提遗留给它的东西，即中词。那么，特殊者在中词中的力量究竟表现于何处？表现于：它扬弃了个别者的孤立。这就是中词的伟大成就。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u022"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u022-page-507"
+        },
+        "Um das Besondere zu verstehen, genügt es nicht, auf seinen Unterschied vom Allgemeinen zu achten; sein Verhältniss zum Einzelnen muss klar sein; der Syllogismus erst macht es klar. Das ist sein Vorzug vor der Folgerung, in welcher der Ausgang vom Einzelnen nicht vorgesehen ist. Erst der Schluss bringt den Untersatz und in ihm das Einzelne herbei. Aber er bringt mehr. Das Einzelne hat er nur angenommen, assumirt; übernehmen aber musste er Etwas, was der Obersatz ihm vermacht hatte, den Mittelbegriff. Worin bethätigt sich nun die Kraft des Besonderen im Mittelbegriff? Darin, dass er die Isolirung des Einzelnen aufhebt. Das ist die grosse Leistung des Mittelbegriffs."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 507,
+          "printed_page": "479",
+          "display_printed_page": "479"
+        }
+      ]
+    },
+    {
+      "id": "part027-u023",
+      "type": "paragraph",
+      "page": "479",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u023"
+        },
+        "如果三段论的形式主义把小前提当作普遍的东西接受下来，这要归功于中词。但在由此造成的普遍有效性之上，人们不应遮蔽发挥这一作用的特殊性。我们关于中词权利的问题现在得到了回答。没有特殊者，不仅普遍者不能存在——如果人们倾向于把普遍者视为特殊者的提升；而且更重要、更正确的是：没有特殊者，个别者就不会停止其为个别者。因此它不能成为普遍的个案。而我们现在看到，这样一来，它为现实性所作的论证和确定也会受到阻碍；因为这二者都以证明和推论为前提。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u023"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u023-page-507"
+        },
+        "Wenn der Formalismus der Syllogistik den Untersatz als allgemein hinnimmt, so wird dies dem Mittelbegriff verdankt. Aber über der allgemeinen Gültigkeit, welche dadurch bewirkt wird, sollte man die Besonderheit nicht verdunkeln, von welcher diese Wirkung ausgeht. ",
+        {
+          "type": "em",
+          "children": [
+            "Unsere Frage nach dem Rechte des Mittelbegriffs ist nunmehr beantwortet"
+          ]
+        },
+        ". Ohne das Besondere könnte es nicht nur das Allgemeine nicht geben, sofern man geneigt ist, dieses für eine Steigerung des Besonderen zu halten; sondern viel wichtiger und richtiger ist es, dass ohne das Besondere das Einzelne nicht aufhören würde, Einzelnes zu sein. Es könnte also nicht zum allgemeinen Falle werden. Und wir sehen jetzt, dass dadurch auch seine Begründung und Feststellung für die Wirklichkeit gehemmt wäre; denn diese beruht auf der Voraussetzung des Beweises und des Schlusses."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 507,
+          "printed_page": "479",
+          "display_printed_page": "479"
+        }
+      ]
+    },
+    {
+      "id": "part027-u024",
+      "type": "paragraph",
+      "page": "479",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u024"
+        },
+        "于是，三段论由之产生的图像如下。结论包含问题；因此包含断言、即论题。卡尤斯会死，这就是问题。其中涉及两个量上相反的概念；卡尤斯代表个别者，会死性代表普遍者。为了平衡这一对立，必须思考一个特殊者；于是卡尤斯成为人。现在他不再是个别者，而是代表一条个别规律，即人的特殊性。小前提由此获得真正的基础（Unterlage）的含义。",
+        {
+          "type": "anchor",
+          "id": "zh-part027-u025"
+        },
+        "而在这个基础之上，现在建立起一个大前提。它衔接特殊者；在这种衔接中，特殊者成为中词。直到此时，联结才伸向那个曾是问题的普遍者。特殊者先把个别者与自身联结；然后才把普遍者与自身联结。现在论题得到证明；它作为结论进入自己的权利：个别者与普遍者联结起来了。特殊者在双重方向上完成了联结。普遍者自身绝不会促成这种联结。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u024"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u024-page-507"
+        },
+        "Das Bild, in dem der Syllogismus entsteht, stellt sich uns daher folgendermassen dar. Der Schlusssatz enthält das Problem; daher die Behauptung, die Thesis. Dass Cajus sterblich sei, das ist die Frage. Es handelt sich in ihr um zwei Begriffe von entgegengesetzter Quantität; Cajus vertritt das Einzelne; die Sterblichkeit das Allgemeine. Zur Ausgleichung dieses Gegensatzes gilt es, ein Besonderes zu erdenken; so wird Cajus zum Menschen. Jetzt ist er nicht mehr ein Einzelnes, sondern er stellt ein einzelnes Gesetz, die Besonderheit des Menschen dar. Der Untersatz gewinnt so die Bedeutung einer eigentlichen Unter",
+        {
+          "type": "anchor",
+          "id": "en-part027-u024-page-508"
+        },
+        "lage",
+        {
+          "type": "page",
+          "page": "480",
+          "id": "en-part027-u024-page-508-label"
+        },
+        ".",
+        " ",
+        {
+          "type": "anchor",
+          "id": "en-part027-u025"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u025-page-508"
+        },
+        "Und über diese wird nunmehr ein Obersatz errichtet. Dieser knüpft an das Besondere an; in dieser Anknüpfung wird es zum Mittelbegriff. Und jetzt erst greift die Verknüpfung zu dem Allgemeinen, welches das Problem war. Zuerst verbindet das Besondere das Einzelne mit sich; sodann erst das Allgemeine mit sich. Jetzt ist die These bewiesen; sie tritt als Schlusssatz in ihr Recht: das Einzelne ist mit dem Allgemeinen verknüpft. Das Besondere hat die Verknüpfung in doppelter Richtung vollzogen. Das Allgemeine an sich hätte sie nicht bewirkt."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 507,
+          "printed_page": "479",
+          "display_printed_page": "479"
+        },
+        {
+          "pdf_page": 508,
+          "printed_page": "480",
+          "display_printed_page": "480"
+        }
+      ]
+    },
+    {
+      "id": "part027-u026",
+      "type": "paragraph",
+      "page": "480",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u026"
+        },
+        "我们在此力图赋予特殊者一种含义，以与那部分被承认、部分被争辩的普遍者相对；这种努力把我们引向三段论技术中的另一个问题，即推论的分类。按照关系判断，自古以来区分直言推论、假言推论和选言推论。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u026"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u026-page-508"
+        },
+        "Die Bedeutung, welche wir hier bemüht sind, dem Besonderen zuzuweisen gegenüber dem theils anerkannten, theils bestrittenen Allgemeinen, führt uns zu einer andern Frage in der Technik des Syllogismus, nämlich zu der ",
+        {
+          "type": "em",
+          "children": [
+            "Eintheilung der Schlüsse"
+          ]
+        },
+        ". Nach den Urtheilen der Relation werden von Alters her ",
+        {
+          "type": "em",
+          "children": [
+            "kategorische, hypothetische, disjunctive"
+          ]
+        },
+        " Schlüsse unterschieden."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 508,
+          "printed_page": "480",
+          "display_printed_page": "480"
+        }
+      ]
+    },
+    {
+      "id": "part027-u027",
+      "type": "paragraph",
+      "page": "480",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u027"
+        },
+        "首位属于直言三段论，正如属于直言判断。这里已经有一重困难，而直言大前提在普遍性这一性质上的标识又加重了它。这种普遍性越成问题，直言大前提就必然越成问题。我们由此回到“所有 S 都是 P”这一命题。我们知道，它应当说的是：S 对 P 而言是 x；而这个关系普遍有效。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u027"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u027-page-508"
+        },
+        "Die erste Stellung kommt dem ",
+        {
+          "type": "em",
+          "children": [
+            "kategorischen"
+          ]
+        },
+        " Syllogismus zu, wie dem kategorischen Urtheil. Schon hier liegt eine Schwierigkeit, welche gesteigert wird durch die Bezeichnung des kategorischen Obersatzes in der Qualität der Allgemeinheit. Je fraglicher diese wurde, desto fraglicher musste der kategorische Obersatz werden. Wir kommen dabei auf den Satz Alle S sind P zurück. Wir wissen, dass er zu besagen hat: S ist x für P; und diese Relation gilt allgemein."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 508,
+          "printed_page": "480",
+          "display_printed_page": "480"
+        }
+      ]
+    },
+    {
+      "id": "part027-u028",
+      "type": "paragraph",
+      "page": "480",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u028"
+        },
+        "人们不会陷入那个奇怪的问题：这个关系除了普遍有效，还能怎样有效；它毕竟就是直言关系。这种顾虑超出了本章的范围；因为在本章中我们学到：普遍者服务于必然性，因而服务于证明，因而服务于推论。直言关系本身普遍有效，这对它作为判断的含义来说是自明的；但现在涉及的是推论。我们知道，说的是直言大前提、而不是判断：S 对 P 而言是 x，而不是 P 对 S 而言是 x。经过这一考虑，我们重新回到直言判断在直言大前提中与普遍者的结合。正如我们在推断中已经看到的，在这里更可以说：普遍判断只有在直言大前提中才获得其存在的权利。但恰恰在这里，这一权利受到争辩。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u028"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u028-page-508"
+        },
+        "Man wird nicht auf die sonderbare Frage verfallen, wie denn anders als allgemein diese Relation gelten könne; sei sie doch eben die kategorische Relation. Dieses Bedenken fällt aus dem Rahmen dieses Kapitels heraus; denn in ihm lernen wir, dass das Allgemeine im Dienste der Nothwendigkeit steht, also im Dienste des Beweises, also im Dienste des Schlusses. Dass die kategorische Relation an und für sich allgemein gültig sei, das versteht sich für ihre Bedeutung als Urtheil; jetzt aber handelt es sich um den Schluss. Der kategorische Obersatz, nicht das Urtheil besagt, wie wir wissen, dass S x für P sei, nicht aber etwa P x für S sei. Nach dieser Ueberlegung kommen wir wieder zu der Combination des kategorischen Urtheils mit dem Allgemeinen im kategorischen Obersatz. Wie wir es schon bei der Folgerung sahen, dürfen wir hier umsomehr sagen, dass das allgemeine ",
+        {
+          "type": "page",
+          "id": "en-part027-u028-page-509",
+          "page": "481"
+        },
+        "Urtheil erst im kategorischen Obersatz zu dem Rechte seiner Existenz gelangt. Aber gerade hier wird dieses Recht bestritten."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 508,
+          "printed_page": "480",
+          "display_printed_page": "480"
+        },
+        {
+          "pdf_page": 509,
+          "printed_page": "481",
+          "display_printed_page": "481"
+        }
+      ]
+    },
+    {
+      "id": "part027-u029",
+      "type": "paragraph",
+      "page": "481",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u029"
+        },
+        "直言大前提确实驱散了其中由普遍性造成的晦暗。而在这里我们也认识到普遍性与必然性结合所带来的益处。人们通常对“所有 S”所猜疑的偷渡，由此得以避免。这个普遍判断毕竟不是一个自足的句子，而是一个大前提；而且是一个直言大前提。但这一点意味着什么，若人们让自己被那种偷渡惊扰，就还没有弄清楚。究竟偷渡了什么？难道真有人严肃地认为一切 S 同时都是 P？但这在直言判断中根本不能说出。那样一来，人们就会陷入荒谬的出路：直言判断竟只能是一个同一判断。狗喝水，按照这种聪明的绝望，意思是：它狗式地喝水。然而直言判断绝不是同一判断；它是那些最异质的联结的基础，只要这些联结能纳入关系的界限。但它是基础；本身还不是关系。我们现在必须把这一洞见从直言判断转用于直言大前提。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u029"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u029-page-509"
+        },
+        "Der kategorische Obersatz lichtet in der That das Dunkel, welches die Allgemeinheit in ihm bildet. Und hier erkennen wir auch den Nutzen, welcher aus der Verbindung der Allgemeinheit mit der Nothwendigkeit erwächst. Die Erschleichung, die man sonst in „Alle S“ beargwöhnt, wird dadurch vermieden. Dieses allgemeine Urtheil ist ja doch nicht ein Satz für sich, sondern ein Obersatz; und zwar ein kategorischer Obersatz. Was das aber bedeutet, das kann man sich nicht klar gemacht haben, wenn man sich von jener ",
+        {
+          "type": "em",
+          "children": [
+            "Erschleichung"
+          ]
+        },
+        " beunruhigen lässt. Was wird denn erschlichen? Etwa ernstlich, dass alle S zugleich P seien? Aber das kann ja in einem kategorischen Urtheil gar nicht ausgesprochen werden. Man käme dann auf den absurden Ausweg, dass das kategorische Urtheil schlechterdings nur ein ",
+        {
+          "type": "em",
+          "children": [
+            "identisches"
+          ]
+        },
+        " Urtheil sein dürfte. Der Hund säuft, das bedeutet nach dieser geistreichen Desperation: er säuft hündisch. Das kategorische Urtheil ist aber nichts weniger als ein identisches; es ist die Grundlage zu den heterogensten Verbindungen, sofern sie sich nur in die Schranken der Relation einfügen lassen. Aber es ist die Grundlage; nicht selbst schon eine Relation. Diese Einsicht haben wir nunmehr vom kategorischen Urtheil auf den kategorischen Obersatz zu übertragen."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 509,
+          "printed_page": "481",
+          "display_printed_page": "481"
+        }
+      ]
+    },
+    {
+      "id": "part027-u030",
+      "type": "paragraph",
+      "page": "481",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u030"
+        },
+        "直言大前提的普遍性绝不是偷渡；它不可能是偷渡；因为它对 S 和 P 的内容本身无所确定；甚至对二者的关系，也只确定纯粹的配置。逻辑学对 S 和 P 的内容根本不能说什么；只能就它们的关系说；或者，若涉及 A 和 B，则就它们作为范畴的价值说。因此，若有人激动地追问：在普遍大前提中，是 S 的内容还是 P 的内容受到了侵犯，这根本没有意义；关键不在内容；内容凭同一性而神圣不可侵犯。然而，如果普遍直言大前提应当洗清偷渡之嫌，那么同时也必须认识其强处所在的弱点。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u030"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u030-page-509"
+        },
+        "Die Allgemeinheit des kategorischen Obersatzes ist keineswegs eine Erschleichung; sie kann keine sein; denn sie setzt über den Inhalt von S und P selbst Nichts fest; nicht einmal über die Relation von Beiden mehr als die blosse Disposition. Die Logik kann über den Inhalt von S und P überhaupt Nichts aussagen; sondern nur über ihre Relation; oder wenn es sich um A und B handelt, um ihren Werth als Kategorieen. Es hat daher gar keinen Sinn sich darüber zu ereifern, ob in dem allgemeinen Obersatz der Inhalt von S oder der von P angetastet würde; um den handelt es sich nicht; der ist durch die Identität sacrosanct. Wenn nun aber so der allgemeine kategorische Obersatz von dem Verdacht der Erschleichung gereinigt werden soll, so gilt es zugleich die Schwäche zu erkennen, die bei seiner Stärke liegt."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 509,
+          "printed_page": "481",
+          "display_printed_page": "481"
+        }
+      ]
+    },
+    {
+      "id": "part027-u031",
+      "type": "paragraph",
+      "page": "481",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u031"
+        },
+        "正如直言判断并不包含绝对实体——实体毋宁说在假言关系和选言关系中才付诸实行——直言大前提也不能包含一种绝对的、终结性的规定，仿佛它所说的多于那个基础、那个先决条件、那个对关系的配置、因而也许还有对关系推论的配置所应意味的东西。如果它是一个判断，它就会是偷渡、是偏见；但它是一个大前提；它为三段论而存在；它是关系推论的前提、先决条件；它不多于这一点，但也不少于此。它说的是：应当在 S 与 P 之间寻求的关系，必须这样寻求，即普遍地把 S 思考为那个由 P 规定的 x；而不是相反。这就是直言大前提的普遍价值。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u031"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u031-page-509"
+        },
+        "So wenig das kategorische Urtheil die absolute Substanz enthält, die Substanz vielmehr in der hypothetischen und der ",
+        {
+          "type": "page",
+          "id": "en-part027-u031-page-510",
+          "page": "482"
+        },
+        "disjunctiven Relation erst in Vollzug tritt, so wenig kann der kategorische Obersatz eine absolute, eine abschliessende Bestimmung enthalten, die mehr besagte, als was die Grundlage, die Vorbedingung, die Disposition zu den Relationen, und also wohl auch zu den Schlüssen der Relation zu bedeuten hat. Er wäre eine Erschleichung, ein Vorurtheil, wenn er ein Urtheil wäre; er ist aber ein Obersatz; er ist für den Syllogismus da; er ist die Voraussetzung, die Vorbedingung für die Syllogismen der Relation; er ist nicht weniger als dies, aber auch nicht mehr. Er besagt, dass die Relation, welche zwischen S und P zu suchen ist, so zu suchen sei, dass allgemein S als das x zu denken sei, welches durch P bestimmt werde; nicht umgekehrt. Das ist der allgemeine Werth des kategorischen Obersatzes."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 509,
+          "printed_page": "481",
+          "display_printed_page": "481"
+        },
+        {
+          "pdf_page": 510,
+          "printed_page": "482",
+          "display_printed_page": "482"
+        }
+      ]
+    },
+    {
+      "id": "part027-u032",
+      "type": "paragraph",
+      "page": "482",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u032"
+        },
+        "关于推论中直言大前提的错误观点，影响了整个三段论观。而人们以为至少可以给予直言推论的那种积极含义——即把它变成归摄推论——恰恰造成了更大的损害，这一点我们后面还会更仔细地看到。这里我们只能反复询问：那些可以用来归摄的大词究竟在哪里？概念是否已经按其全部外延和确切内涵存在并得到确保？或者，难道不是证明、因而推论应当扩展概念的领域，使概念的内涵更丰富、更通透吗？可以看到，归摄把直言推论贬低为差等关系。一般也可以看到，由此逻辑手段、即诸纯粹认识的内在联系，变得平淡而外在。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u032"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u032-page-510"
+        },
+        "Die falsche Ansicht von dem kategorischen Obersatz im Schluss hat die ganze Ansicht vom Syllogismus beeinflusst. Und die positive Bedeutung, die man dem kategorischen Schluss allenfalls einräumen zu dürfen glaubte, indem man ihn zum ",
+        {
+          "type": "em",
+          "children": [
+            "Subsumtionsschluss"
+          ]
+        },
+        " machte, hat erst recht geschadet, wie wir später noch genauer sehen werden. Hier können wir nur wiederholentlich fragen: wo sind denn die Oberbegriffe, unter die subsumirt werden könnte? Sind denn Begriffe nach ihrem vollen Umfang und ihrem genauen Inhalt schon vorhanden und gesichert; oder aber soll nicht vielmehr der Beweis, und also der Schluss das Gebiet der Begriffe erweitern, und ihren Inhalt reicher und durchsichtiger machen? Man sieht, ",
+        {
+          "type": "em",
+          "children": [
+            "die Subsumtion degradirt den kategorischen Schluss zur Subalternation"
+          ]
+        },
+        ". Man sieht aber überhaupt, wie dadurch der innere Zusammenhang der logischen Mittel, der reinen Erkenntnisse platt und äusserlich wird."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 510,
+          "printed_page": "482",
+          "display_printed_page": "482"
+        }
+      ]
+    },
+    {
+      "id": "part027-u033",
+      "type": "paragraph",
+      "page": "482",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u033"
+        },
+        "如果三段论是证明的工具，它就必须服务于概念的生成，并且对概念生成不可或缺；而不只是把概念嵌套起来。然而在对三段论的评估中，事情却反了过来：因为人们把直言推论误认为归摄，就把一般演绎也视为归摄，因而加以轻视。单是大前提的表述就已引入歧途：“所有 S 都是 P”似乎只是陈述：P 已以直言的方式在 S 中被预先把握。但人们在此混淆了判断和语法句子；“玫瑰是红的”，其中固然把红性预先纳入了玫瑰，但在直言判断中，被置于基础的只是那个 x。这里可以看出一个优点：亚里士多德仍把直言判断与肯定判断当作同义；因此他把一切力量放在中词中，而不是放在可归摄性中。大前提因此最好这样表述：所有 M 都是 P。这样，旨趣就会立刻转向要点，并从容易误解的 S 上移开。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u033"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u033-page-510"
+        },
+        "Wenn anders der Syllogismus das Werkzeug des Beweises ist, so muss er der Erzeugung der Begriffe dienen, und für dieselbe unumgänglich sein; nicht nur für ihre Einschachtelung. In der Schätzung des Syllogismus ist es jedoch umgekehrt zugegangen: weil man den kategorischen Schluss als Subsumtion verkannte, hat man die Deduction überhaupt für solche angesehen, und demnach verachtet. Schon die Formulirung des Obersatzes hat irregeführt; Alle S sind P stelle es ja bloss, dass P in S kategorisch anticipirt sei. Man verwechselt aber eben dabei das Urtheil und den grammatischen Satz; die Rose ist roth, darin wird freilich ",
+        {
+          "type": "page",
+          "id": "en-part027-u033-page-511",
+          "page": "483"
+        },
+        "die Röthe in der Rose vorweggenommen, aber in dem kategorischen Urtheil wird nur das x zu Grunde gelegt. Man kann hier einen Vortheil darin erkennen, dass ",
+        {
+          "type": "em",
+          "children": [
+            "Aristoteles"
+          ]
+        },
+        " das kategorische Urtheil noch gleichbedeutend genommen hat mit dem bejahenden; daher hat er alle Kraft in den Mittelbegriff gelegt; nicht in die Subsumirbarkeit. Der Obersatz müsste daher besser so lauten: Alle M sind P. Dann würde das Interesse sogleich auf den Hauptpunkt hin und von dem missverständlichen S abgelenkt werden."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 510,
+          "printed_page": "482",
+          "display_printed_page": "482"
+        },
+        {
+          "pdf_page": 511,
+          "printed_page": "483",
+          "display_printed_page": "483"
+        }
+      ]
+    },
+    {
+      "id": "part027-u034",
+      "type": "paragraph",
+      "page": "483",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u034"
+        },
+        "不过，从一方面看，那个旧的学校例子完全有用，即它把一个虽然非常普遍、但同时彻底经验的生物学规律变成问题。于是，偷渡之嫌首先只落在一个单个的、特殊的规律上。相反，把数学定理当作直言推论的例子，则完全错误；这样一来，偷渡之嫌就会落到整个数学上；于是，与这种对演绎的误解相联系，就产生了数学以归纳为基础的看法。按照我们迄今的术语理解，人们可以把这一错误表述为：数学建立在纯粹的小前提上，仿佛只有一条腿。但我们将会看到，这一错误不仅误认了演绎，也损害了归纳。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u034"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u034-page-511"
+        },
+        "In einer Hinsicht ist indessen das alte Schulbeispiel ganz nützlich, nämlich insofern, als es ein zwar sehr allgemeines, aber zugleich durchaus empirisches ",
+        {
+          "type": "em",
+          "children": [
+            "biologisches"
+          ]
+        },
+        " Gesetz zum Problem macht. Der Verdacht der Erschleichung trifft so doch zunächst nur ein einzelnes, ein besonderes Gesetz. Ganz verfehlt ist es dagegen, ",
+        {
+          "type": "em",
+          "children": [
+            "mathematische"
+          ]
+        },
+        " Lehrsätze als Beispiele für den kategorischen Schluss heranzuziehen; dann trifft der Verdacht der Erschleichung die ganze Mathematik; und so hängt mit diesem Missverständniss der Deduction die Ansicht zusammen, ",
+        {
+          "type": "em",
+          "children": [
+            "dass die Mathematik auf Induction beruhe"
+          ]
+        },
+        ". Nach unserem bisherigen terminologischen Verständniss würde man diesen Irrthum dahin formuliren dürfen, dass sie auf lauter Untersätzen, wie auf einem Beine, ruhte. Wir werden aber sehen, dass dieser Irrthum nicht nur die Deduction verkennt, sondern auch die Induction beeinträchtigt."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 511,
+          "printed_page": "483",
+          "display_printed_page": "483"
+        }
+      ]
+    },
+    {
+      "id": "part027-u035",
+      "type": "paragraph",
+      "page": "483",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u035"
+        },
+        "弗里斯在三段论理论中完成了一个真正的进步：他把数学命题和数学证明归给假言推论，并为之保留。但这个进步受到两个缺陷的损害：第一，他为数学证明也假定了归纳，于是归纳没有专门留给另一类自然科学问题。这一点我们在此还不能讨论。另一个缺陷在于：他也把直言推论当作归列的推论。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u035"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u035-page-511"
+        },
+        "Es war ein wirklicher Fortschritt, den ",
+        {
+          "type": "em",
+          "children": [
+            "Fries"
+          ]
+        },
+        " in der Theorie des Syllogismus vollzog, als er die mathematischen Sätze und Beweise dem hypothetischen Syllogismus zuwies und vorbehielt. Aber dieser Fortschritt wurde durch zwei Mängel beeinträchtigt; erstlich dadurch, dass auch für den mathematischen Beweis die Induction angenommen, diese also nicht für die andere Art von naturwissenschaftlichen Problemen ausgezeichnet blieb. Auf diesen Punkt haben wir an dieser Stelle noch nicht einzugehen. Der andere Mangel aber liegt darin, dass auch er den kategorischen Schluss als den der ",
+        {
+          "type": "em",
+          "children": [
+            "Einordnung"
+          ]
+        },
+        " annahm."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 511,
+          "printed_page": "483",
+          "display_printed_page": "483"
+        }
+      ]
+    },
+    {
+      "id": "part027-u036",
+      "type": "paragraph",
+      "page": "483",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u036"
+        },
+        "相反，在我们看来，直言大前提、因而整个建立在它之上的三段论，只是真正推论的一般模版。在其中根本还没有证明任何东西；它只应表明：必须怎样证明、以及能够怎样证明：必然性把自己宣告为普遍性；而 S 作为 P 的 x，仿佛经历了实体转化，即转化为 M。中词承担了实体的力量。并且凭借现在属于它的特殊性，它接受个别者，与个别者一起进入小前提。结论正是从这一在中词之中、毋宁说围绕中词的划分中产生。直言推论揭示的就是这一伟大教导；它勾画出一幅普遍的图像和范本。这当然不是小事；但其中不能再寻求更多；也不能从中取得更多。然而还缺得那么多。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u036"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u036-page-511"
+        },
+        "Uns dagegen gilt der kategorische Obersatz und somit der ganze auf ihn gebaute Syllogismus nur als die allgemeine Schablone für die eigentlichen Schlüsse. In ihm wird noch gar Nichts bewiesen; er soll nur zeigen, wie bewiesen werden muss und werden kann: dass die Nothwendigkeit sich als Allgemeinheit proclamirt; ",
+        {
+          "type": "page",
+          "id": "en-part027-u036-page-512",
+          "page": "484"
+        },
+        "und dass S, als x für P, sich gleichsam transsubstantiirt, nämlich in M. Der Mittelbegriff nimmt die Kraft der Substanz auf sich. Und kraft der Besonderheit, die nunmehr ihm beiwohnt, nimmt er das Einzelne an, und stellt sich mit ihm in den Untersatz. Aus dieser Gliederung im Mittelbegriff, vielmehr um den Mittelbegriff herum entspringt der Schlusssatz. Diese grosse Lehre enthüllt der kategorische Schluss; das allgemeine Bild und Vorbild entwirft er. Das ist gewiss nicht wenig; aber mehr ist in ihm nicht zu suchen; und mehr aus ihm nicht zu entnehmen. Und doch fehlt noch so viel."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 511,
+          "printed_page": "483",
+          "display_printed_page": "483"
+        },
+        {
+          "pdf_page": 512,
+          "printed_page": "484",
+          "display_printed_page": "484"
+        }
+      ]
+    },
+    {
+      "id": "part027-u037",
+      "type": "paragraph",
+      "page": "484",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u037"
+        },
+        "不仅缺得多；看来一切都还缺；直言推论似乎只包含空洞的指示。指示所设置的普遍者，从哪里取得？难道真要让偷渡继续下去？中词所蕴藏的特殊者，又从哪里取得？人们充其量只有个别者；但我们已经多次看到，个别者的确定不可避免地与对证明、因而对三段论的预期相联系。于是我们被引向一个从关系概念中得出的素朴结论：直言推论必须构成假言推论和选言推论的基础，因为后两者中才含有真正的关系，因而真正的推论必在后两者中完成。关系是双重的；我们将认识到，假言推论是演绎的推论，选言推论是归纳的推论。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u037"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u037-page-512"
+        },
+        "Es fehlt nicht nur viel; es scheint wirklich Alles noch zu fehlen; nur die leere Anweisung scheint der kategorische Schluss zu enthalten. Woher das Allgemeine nehmen, das die Anweisung aufstellt? Es soll doch nicht etwa wirklich bei der Erschleichung bleiben? Und woher das Besondere nehmen, das der Mittelbegriff in sich birgt? Nur das Einzelne hat man allenfalls; aber wir sahen schon öfter, dass seine Feststellung mit einer Vorwegnahme des Beweises, also des Syllogismus, unausweichlich verknüpft ist. So werden wir zu der schlichten Folgerung geführt, welche aus dem Begriffe der Relation sich ergiebt: ",
+        {
+          "type": "em",
+          "children": [
+            "dass der kategorische Schluss die Grundlage bilden muss für den hypothetischen und den disjunctiven Schluss"
+          ]
+        },
+        ", als in welchen beiden die eigentlichen Relationen liegen, also die eigentlichen Schlüsse sich vollziehen müssen. Die Relation ist eine zwiefache; ",
+        {
+          "type": "em",
+          "children": [
+            "wir werden den hypothetischen Schluss als den der Deduction, und den disjunctiven Schluss als den der Induction zu erkennen haben"
+          ]
+        },
+        "."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 512,
+          "printed_page": "484",
+          "display_printed_page": "484"
+        }
+      ]
+    },
+    {
+      "id": "part027-u038",
+      "type": "paragraph",
+      "page": "484",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u038"
+        },
+        "也许会有人问：既然我们已经获得了假言判断，假言推论还能有什么价值？这个问题会基于对模态判断、即批判判断的误解，而正是这些判断引导研究及其进展。在假言判断中，我们拥有的不是别的，正是条件和规律；而且当然也拥有那个函数，它使以下一点昭然若揭：在自然之书中，哲学是用数学字母写成的。但如果我们想理解并传播这一启示，就必须在自然之书中把这种函数文字从句法上联结起来。假言判断的这种句法，是这样产生的：假言判断被做成假言大前提。于是，在直言推论中只是模版的那种指示，被弄得富有成果、可以耕作。普遍者从何而来？我们这样问。假言大前提给出了回答。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u038"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u038-page-512"
+        },
+        "Es könnte die Frage entstehen, welchen Werth der hypothetische Schluss noch haben könne, nachdem wir das hypothetische Urtheil erlangt haben. Die Frage würde auf dem Missverständniss der modalen, der kritischen Urtheile beruhen, welche die Forschung und ihren Fortgang zu leiten haben. In dem hypothetischen Urtheil besitzen wir Nichts mehr und Nichts weniger als Bedingung und Gesetz; und allerdings auch die Function, welche es offenbar macht, wie im Buche der Natur die Philosophie mit mathematischen Buchstaben geschrieben ist. Wenn wir aber diese Offenbarung verstehen und fortpflanzen wollen, so müssen wir diese Functionenschrift im Buche der Natur syntaktisch ver",
+        {
+          "type": "anchor",
+          "id": "en-part027-u038-page-513"
+        },
+        "binden",
+        {
+          "type": "page",
+          "page": "485",
+          "id": "en-part027-u038-page-513-label"
+        },
+        ". Und diese Syntax des hypothetischen Urtheils entsteht dadurch, dass das hypothetische Urtheil zu einem hypothetischen Obersatz gemacht wird. Dadurch wird die Anweisung, die im kategorischen Schluss nur Schablone ist, fruchtbar und urbar gemacht. Woher kommt das Allgemeine? So fragten wir. Der hypothetische Obersatz giebt die Antwort."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 512,
+          "printed_page": "484",
+          "display_printed_page": "484"
+        },
+        {
+          "pdf_page": 513,
+          "printed_page": "485",
+          "display_printed_page": "485"
+        }
+      ]
+    },
+    {
+      "id": "part027-u039",
+      "type": "paragraph",
+      "page": "485",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u039"
+        },
+        "首先是一切数学定理所依据、并且一切都回溯于其上的公理。它们是必然的；但它们本身得到证明了吗？这个问题提错了：它们是必然的，因为它们包含着对其他命题之证明的基础。而只要其他命题是正确的、作为必然的被推论出来的，它们本身就是必然的。这不是循环论证吗？绝不是；只要纯粹认识的概念是正确的。纯粹认识也只拥有一种必然性，即公理和其他基本原理、原则从它们之中展开出来。它们是奠基；唯有当它们证明这种有效价值时，它们才是纯粹认识。如果这对纯粹认识尚且成立，对公理就更是如此。因此，第一类真正推论的诸大前提必须是假言大前提，这一点具有深刻意义。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u039"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u039-page-513"
+        },
+        "Da sind vor Allem die ",
+        {
+          "type": "em",
+          "children": [
+            "Axiome"
+          ]
+        },
+        ", die allen mathematischen Lehrsätzen zu Grunde liegen; auf die alle zurückgehen. Sie sind nothwendig; sind sie selbst aber bewiesen? Die Frage ist falsch: sie sind nothwendig, weil sie die Grundlagen des Beweises für andere Sätze enthalten. Und sofern die anderen Sätze richtig sind, als nothwendig erschlossen sind, sind sie selbst nothwendig. Ist das nicht ein Cirkelschluss? Keineswegs; wenn anders der Begriff der reinen Erkenntniss richtig war. Auch die reinen Erkenntnisse besitzen keine andere Nothwendigkeit als diejenige, dass sich die Axiome und andere Grundsätze und Principien aus ihnen entfalten. Sie sind Grundlegungen; und nur insoweit als sie diesen Geltungswerth bewähren, sind sie reine Erkenntnisse. Wenn das schon für diese gilt, wie vielmehr alsdann für die Axiome. Daher ist es von tiefer Bedeutsamkeit, dass die Obersätze der ersten ",
+        {
+          "type": "em",
+          "children": [
+            "eigentlichen"
+          ]
+        },
+        " Art des Schlusses ",
+        {
+          "type": "em",
+          "children": [
+            "hypothetische Obersätze"
+          ]
+        },
+        " sein müssen."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 513,
+          "printed_page": "485",
+          "display_printed_page": "485"
+        }
+      ]
+    },
+    {
+      "id": "part027-u040",
+      "type": "paragraph",
+      "page": "485",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u040"
+        },
+        "意味深长的是，亚里士多德不承认假言推论：因为他在假设中嗅到了不确定性。这里透露出他与数学之间内在的逻辑不相称，尽管他知识广博、并多处援引这一领域的例子。如果人们不把数学在其纯粹性中认作自然科学的方法论工具，就不理解数学。在这一点上，他也对普罗克洛斯产生了坏影响；普罗克洛斯在其他方面完全充满柏拉图精神，以至于人们可以把他对欧几里得《几何原本》的注释称为最好的数学哲学。但在假设的含义上，他因亚里士多德——他在这里特别援引亚里士多德——而变得摇摆不定、误入歧途。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u040"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u040-page-513"
+        },
+        "Es ist bezeichnend, dass ",
+        {
+          "type": "em",
+          "children": [
+            "Aristoteles"
+          ]
+        },
+        " den hypothetischen Schluss nicht anerkennt: weil er unter der Hypothesis Unbestimmtheit wittert. Es verräth sich hierin sein inneres logisches Missverhältniss zur Mathematik trotz seiner grossen Kenntnisse und seiner vielen eingestreuten Beispiele aus diesem Gebiete. Man versteht die Mathematik nicht, wenn man sie in ihrer Reinheit nicht als das methodische Werkzeug der Naturwissenschaft erkennt. Hierin hat er auch schlechten Einfluss auf ",
+        {
+          "type": "em",
+          "children": [
+            "Proklus"
+          ]
+        },
+        " geübt, der sonst ganz von Platonischem Geiste erfüllt ist, so dass man ",
+        {
+          "type": "em",
+          "children": [
+            "seinen Commentar zu Euklids Elementen"
+          ]
+        },
+        " als die beste Philosophie der Mathematik bezeichnen möchte. In der Bedeutung der Hypothesis aber wird er durch Aristoteles, auf den er sich hier besonders beruft, schwankend und irregemacht."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 513,
+          "printed_page": "485",
+          "display_printed_page": "485"
+        }
+      ]
+    },
+    {
+      "id": "part027-u041",
+      "type": "paragraph",
+      "page": "485",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u041"
+        },
+        "相反，欧几里得本人显然看穿了数学证明与假言大前提的联系；但他更多是分析它，而不是表述它。在他那里，预设的第一个环节是设定（ἔκθεσις），即对给定者的确定。（参看马克斯·西蒙《欧几里得与六卷平面几何》，1901年。）随后是断言（διορισμός），即对所要求者的确定。其中也有一些预设需要精确化。随后是构造（κατασκευή）。这种构造对条件的执行意味着什么，我们马上就会考虑。然后才是证明（ἀπόδειξις），最后是结论（συμπέρασμα）。这个结论将具有结论命题的含义，因为三段论属于证明。所以，在这一术语中，假设虽未被点名，更未被称作大前提，却以宽广而精确的执行而得到发挥。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u041"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u041-page-513"
+        },
+        {
+          "type": "em",
+          "children": [
+            "Euklid"
+          ]
+        },
+        " selbst dagegen hatte offenbar den Zusammenhang des mathematischen Beweises mit dem hypothetischen Obersatz durchschaut; er hat ihn aber mehr zerlegt, als formulirt. Das ",
+        {
+          "type": "page",
+          "id": "en-part027-u041-page-514",
+          "page": "486"
+        },
+        "erste Moment der Voraussetzung ist bei ihm die Aussetzung (ἔκθεσις), die Feststellung des Gegebenen. (Vgl. Euklid und die sechs Planimetrischen Bücher, von ",
+        {
+          "type": "em",
+          "children": [
+            "Max Simon"
+          ]
+        },
+        ", 1901.) Darauf folgt die Behauptung (διορισμός), die Feststellung des Geforderten. Auch darin werden Voraussetzungen zu praecisiren sein. Darauf folgt die Construction (κατασκευή). Was diese für die Ausführung der Bedingungen bedeutet, werden wir alsbald zu erwägen haben. Dann erst kommt der Beweis (ἀπόδειξις) und endlich der Schluss (συμπέρασμα). Dieser wird die Bedeutung des Schlusssatzes haben, da der Syllogismus zum Beweise gehört. So ist in dieser Terminologie die Hypothesis zwar nicht genannt, geschweige als Obersatz, nichtsdestoweniger aber in breiter und praeciser Ausführung zur Geltung gebracht."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 513,
+          "printed_page": "485",
+          "display_printed_page": "485"
+        },
+        {
+          "pdf_page": 514,
+          "printed_page": "486",
+          "display_printed_page": "486"
+        }
+      ]
+    },
+    {
+      "id": "part027-u042",
+      "type": "paragraph",
+      "page": "486",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u042"
+        },
+        "欧几里得《原本》所保持的声誉，也就实事而言为它建立其学说的那门科学增添了荣光。没有他的著作，中世纪和文艺复兴早期对公理、对证明、因而对数学精确性的感觉，恐怕很难保持清醒。可以说，在他那里，定理的排列、定理的先后相继，是按照假言推论的原则完成的。在先的定理是在后定理的前提，后者由此获得论证。于是每一定理，无论取哪一个，都是假言推论的同等例子。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u042"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u042-page-514"
+        },
+        "Der Ruhm, den die Elemente Euklids behauptet haben, hat auch sachlich die Wissenschaft ausgezeichnet, deren Lehrgebäude er errichtet hat. Ohne sein Werk hätte sich schwerlich im Mittelalter und in der Frührenaissance der Sinn wach erhalten für die Axiome, für den Beweis, und demzufolge für die Praecision in der Mathematik. Man kann sagen, die Anordnung der Lehrsätze, die Aufeinanderfolge derselben vollzieht sich bei ihm nach dem Princip des hypothetischen Syllogismus. Die voraufgehenden Lehrsätze sind die Praemissen für die folgenden, die so ihre Begründung erlangen. Und so ist jeder Lehrsatz selbst, man nehme, welchen man wolle, ein gleichwerthiges Beispiel des hypothetischen Syllogismus."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 514,
+          "printed_page": "486",
+          "display_printed_page": "486"
+        }
+      ]
+    },
+    {
+      "id": "part027-u043",
+      "type": "paragraph",
+      "page": "486",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u043"
+        },
+        "除了定理之间的先后次序，还有公理和公设（Postulata，αἰτήματα）与定理的区分，也使整个建筑必然带有假言推论的特征。那么，就证明的进展而言，定理与公理区别何在？在于定理带来一个中词，并在其中带来特殊者，而特殊者构成与公理的对立。人们不妨把公理对定理的关系，比作直言大前提对假言大前提的关系。也许可以在平行公理中猜到一个中词的环节，并因此理解它的争议性。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u043"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u043-page-514"
+        },
+        "Ausser der Abfolge in den Lehrsätzen ist es aber auch die Unterscheidung der Axiome und der Forderungen (",
+        {
+          "type": "em",
+          "children": [
+            "Postulata"
+          ]
+        },
+        ", αἰτήματα) von ihnen, wodurch das ganze Gebäude den Charakter des hypothetischen Syllogismus annehmen musste. Worin unterscheidet sich denn für den Fortgang des Beweises das ",
+        {
+          "type": "em",
+          "children": [
+            "Theorem"
+          ]
+        },
+        " vom Axiom? Dadurch, dass es einen Mittelbegriff, und in ihm das Besondere hinzubringt, welches den Gegensatz zum Axiom bildet. Man möchte das Axiom im Verhältniss zum Theorem dem kategorischen Obersatz vergleichen im Verhältniss zum hypothetischen. Vielleicht darf man in dem ",
+        {
+          "type": "em",
+          "children": [
+            "Parallelen-Axiom"
+          ]
+        },
+        " ein Moment des Mittelbegriffs vermuthen, und daher seine Strittigkeit verstehen."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 514,
+          "printed_page": "486",
+          "display_printed_page": "486"
+        }
+      ]
+    },
+    {
+      "id": "part027-u044",
+      "type": "paragraph",
+      "page": "487",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u044"
+        },
+        "此外还应注意公理与公设的区别，尽管公设（例如关于笔直无界直线者）与公理性质非常接近。由此产生了公设与作图题的区别。欧几里得专门写了一卷《数据》（δεδομένα）。在这里，柏拉图对分析方法的发明得到了充分发挥；因此假设也获得了富有成果的意义。但除了这种意义——从条件出发重建已解决的作图题本身所具有的意义——这里尤其要注意作图题与定理之间的联系。欧几里得把作图题及其解答编入定理的建制，从而深化了定理的论证。这一点得到公认；但由此也实际上承认了几何证明的逻辑性质是假言推论。而这个联系越是交织，就越要诉诸三段论以确保可靠的论证。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u044"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u044-page-515"
+        },
+        "Es ist ferner zu achten auf den Unterschied des Axioms und des Postulates, obwohl das Postulat, wie das der graden unbegrenzten Linie, dem axiomatischen Charakter sehr verwandt ist. Daher entsteht der ",
+        {
+          "type": "em",
+          "children": [
+            "Unterschied zwischen Postulat und Aufgabe"
+          ]
+        },
+        ". Euklid hat ein besonderes Buch der Data (δεδομένα) geschrieben. Hier kommt die ",
+        {
+          "type": "em",
+          "children": [
+            "Platonische Erfindung der analytischen Methode"
+          ]
+        },
+        " zu ihrem vollen Austrag; daher aber auch der fruchtbare Sinn des Hypothesis. Es ist aber ausser dieser Bedeutung, welche die Reconstruction der gelösten Aufgabe aus ihren Bedingungen an und für sich hat, hier besonders auf den Zusammenhang zu achten, der zwischen der Aufgabe und dem Lehrsatz besteht. Indem Euklid die Aufgaben und ihre Lösung in die Verfassung der Lehrsätze verflochten hat, hat er die Begründung der letzteren vertieft. Das ist anerkannt; damit aber ist eigentlich auch der logische Charakter des geometrischen Beweises als der des hypothetischen Syllogismus anerkannt. Und je verschlungener dieser Zusammenhang wird, desto mehr ist für die sichere Begründung auf den Syllogismus zu recurriren."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 515,
+          "printed_page": "487",
+          "display_printed_page": "487"
+        }
+      ]
+    },
+    {
+      "id": "part027-u045",
+      "type": "paragraph",
+      "page": "487",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u045"
+        },
+        "我们也把构造完全算入假言装置。通过构造，条件被展开，固然被提高，但同时被精确化、被澄清。作图时引出的线被称为辅助线，并非没有理由；它们为证明带来帮助；但这种帮助首先在于一个新条件。然而它们导向与给定条件和所要求条件的协调一致。因此，从根本上说，构造毋宁说是按分析方法对解答的重建。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u045"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u045-page-515"
+        },
+        "Auch die Construction rechnen wir durchaus mit in den hypothetischen Apparat hinein. Durch sie werden die Bedingungen ausgebreitet, zwar gesteigert, aber zugleich praecisirt und geklärt. Nicht grundlos werden die Linien, die dabei gezogen werden, Hilfslinien genannt; sie bringen Hilfe für den Beweis; aber diese Hilfe besteht zunächst in einer neuen Bedingung. Sie führen jedoch zur Vereinbarung und zur Uebereinstimmung mit den gegebenen und mit den geforderten Bedingungen. Im Grunde ist daher die Construction vielmehr eine Reconstruction der Lösung nach analytischer Methode."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 515,
+          "printed_page": "487",
+          "display_printed_page": "487"
+        }
+      ]
+    },
+    {
+      "id": "part027-u046",
+      "type": "paragraph",
+      "page": "487",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u046"
+        },
+        "构造要使用直观，我们不能因此把它视为一种改变了的方法，尽管康德在高度评价纯粹直观之后竟会得出这种看法。柏拉图已经警告过：不要把定理的证明看成图中的图形。库萨和笛卡尔也着重表达了同样的思想。构造与一个几何图形的任意最初起笔并无区别。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u046"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u046-page-515"
+        },
+        "Dass sich die Construction der ",
+        {
+          "type": "em",
+          "children": [
+            "Anschauung"
+          ]
+        },
+        " bedient, können wir demgemäss nicht als eine veränderte Methode ansehen, wie ",
+        {
+          "type": "em",
+          "children": [
+            "Kant"
+          ]
+        },
+        " nach seiner Würdigung der reinen Anschauung zu dieser Ansicht kommen durfte. Schon ",
+        {
+          "type": "em",
+          "children": [
+            "Plato"
+          ]
+        },
+        " aber hatte davor gewarnt, dass man den Beweis des Satzes in seiner Zeichnung als Figur sehe. Und ",
+        {
+          "type": "em",
+          "children": [
+            "Cusa"
+          ]
+        },
+        " wie ",
+        {
+          "type": "em",
+          "children": [
+            "Descartes"
+          ]
+        },
+        " haben denselben Gedanken mit Nachdruck ausgesprochen. Die Construction unterscheidet sich nicht von dem ersten beliebigen Anfang einer Zeichnung eines geometrischen Bildes."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 515,
+          "printed_page": "487",
+          "display_printed_page": "487"
+        }
+      ]
+    },
+    {
+      "id": "part027-u047",
+      "type": "paragraph",
+      "page": "488",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u047"
+        },
+        "最后，我们还应在此联系中评价数学方法论的另一个特性，即定义。数学定义的独特价值，绝不在于它与事后构造的联系；而毋宁在于定义中所蕴含的假言大前提。如果两个邻角以其非共同的边构成一条直线，那么它们就是邻补角。这就是在给定事例中执行定义时所遵循的假言大前提。构造使它直观；但构造什么也不证明；证明由三段论完成。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u047"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u047-page-516"
+        },
+        "Endlich haben wir auch noch eine andere Eigenthümlichkeit der mathematischen Methodik, die ",
+        {
+          "type": "em",
+          "children": [
+            "Definition"
+          ]
+        },
+        ", in diesem Zusammenhang zu würdigen. Keineswegs beruht der eigenthümliche Werth der mathematischen Definition auf ihrem Zusammenhang mit der nachträglichen Construction; sondern vielmehr auf dem hypothetischen Obersatz, der der Definition einwohnt. Wenn zwei anstossende Winkel mit ihrem nicht gemeinschaftlichen Schenkel eine gerade Linie bilden, so sind dieselben Nebenwinkel. Dies ist der hypothetische Obersatz, unter dessen Leitung die Definition im gegebenen Falle vollzogen wird. Die Construction macht es anschaulich; aber sie beweist Nichts; den Beweis vollzieht der Syllogismus."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 516,
+          "printed_page": "488",
+          "display_printed_page": "488"
+        }
+      ]
+    },
+    {
+      "id": "part027-u048",
+      "type": "paragraph",
+      "page": "488",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u048"
+        },
+        "因此，我们在假言推论和假言证明中认识到演绎的力量和价值。诉诸构造和直观所包含的巨大危险正在于：演绎的独特性由此被推移、被遮蔽。数学是演绎的科学。而它之所以如此，不是由于构造，也不是由于定义与构造的联系，而仅仅由于假言推论。数学中的每一概念都是这样一种推论的蕴含；在公理中、尤其在定理中，它展开自身。如果人们在此猜疑抽象的空洞和技术的形式主义，那纯粹是误解。单是大前提就保证：新的特殊性、因而新的规律和概念会进入；大前提的中词把它们包含在自身中。于是它也凭借中词把个别者带来，而个别者由小前提呈现。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u048"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u048-page-516"
+        },
+        {
+          "type": "em",
+          "children": [
+            "In dem hypothetischen Schluss und Beweis erkennen wir daher die Kraft und den Werth der Deduction"
+          ]
+        },
+        ". Darin besteht die grosse Gefahr, welche in dem Recurs auf die Construction und die Anschauung liegt, dass die Eigenart der Deduction dadurch verschoben und verdunkelt wird. Die Mathematik ist die Wissenschaft der Deduction. Und sie ist dies nicht auf Grund der Construction, noch auf Grund des Zusammenhanges der Definition mit der Construction, sondern lediglich auf Grund des hypothetischen Syllogismus. Jeder Begriff in der Mathematik ist die Implication eines solchen; im Axiom und vollends im Lehrsatz explicirt er sich. Es ist purer Missverstand, wenn man dabei abstracte Leere und technischen Formalismus vermuthet. Schon der Obersatz sorgt dafür, dass neue Besonderheiten, also neue Gesetze und Begriffe eintreten; der Mittelbegriff des Obersatzes enthält sie in sich. Und so zieht er auch mittelst desselben das Einzelne herbei, das der Untersatz darstellt."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 516,
+          "printed_page": "488",
+          "display_printed_page": "488"
+        }
+      ]
+    },
+    {
+      "id": "part027-u049",
+      "type": "paragraph",
+      "page": "488",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u049"
+        },
+        "而且事情并不止于大前提和小前提这种二重性；在命题的联结中，新的大前提和新的小前提不断出现。于是，一张同时向广度和深度延伸的巨大网络在数学证明中继续编织；一切个别者都被织入，只要它能被纳入特殊性；然而最终一切都系于公理。如果人们可以否认数学的演绎特征，那就会使公理贬值。因此，那些在古今持有这种奇怪意见的人，也把公理设定为基于经验概括、因而基于归纳，这才是前后一贯的；实际上他们不是设定，而是抛弃了公理。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u049"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u049-page-516"
+        },
+        "Und es bleibt nicht bei dieser Zweiheit von Obersatz und Untersatz, sondern in der Verkettung der Sätze tauchen neue Obersätze und neue Untersätze auf. So spinnt sich ein gewaltiges, in die Breite und in die Tiefe zugleich sich erstreckendes Geflecht in dem mathematischen Beweise fort; da wird alles Einzelne eingeflochten, so weit es der Besonderheit sich einordnen lässt; und doch hängt Alles am letzten Ende in den Axiomen. Man würde die Axiome entwerthen, wenn man der Mathematik den Charakter der Deduction absprechen dürfte. Es ist daher ",
+        {
+          "type": "page",
+          "id": "en-part027-u049-page-517",
+          "page": "489"
+        },
+        "nur consequent, wenn Diejenigen, welche in alter und neuer Zeit zu dieser sonderbaren Meinung kamen, auch die Axiome auf empirischer Verallgemeinerung, also auf Induction beruhend annahmen; eigentlich also nicht annahmen, sondern verwarfen."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 516,
+          "printed_page": "488",
+          "display_printed_page": "488"
+        },
+        {
+          "pdf_page": 517,
+          "printed_page": "489",
+          "display_printed_page": "489"
+        }
+      ]
+    },
+    {
+      "id": "part027-u050",
+      "type": "paragraph",
+      "page": "489",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u050"
+        },
+        "然而，这个问题不仅关乎数学证明的逻辑特征，而且关乎一般先天论的意义和命运。数学是科学的典范，只要科学基于纯粹认识。但纯粹认识不是死去的财产；其活生生的力量表现在奠基中，而这些奠基最终显露为假言推论的大前提，即证明的真正承担者。于是，数学的确定性——它使数学成为科学的原型——完全基于演绎。因此，演绎是科学抛下的锚，用来论证并固定真理。所以，对演绎的争辩意味着危及科学真理。这里攸关的是全部科学真理；因为随着数学，数学自然科学也会一同垮掉。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u050"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u050-page-517"
+        },
+        "Es handelt sich jedoch nicht allein um die logische Charakteristik des mathematischen Beweises bei dieser Frage; sondern um den Sinn und das Schicksal des ",
+        {
+          "type": "em",
+          "children": [
+            "Apriorismus"
+          ]
+        },
+        " überhaupt. Die Mathematik ist das Vorbild der Wissenschaft, sofern Wissenschaft auf reinen Erkenntnissen beruht. Diese aber sind nicht ein todtes Gut; sondern ihre lebendige Kraft bethätigt sich in den Grundlegungen, welche letztlich in den Obersätzen der hypothetischen Schlüsse, als der eigentlichen Träger der Beweise, zu Tage treten. So beruht die Gewissheit der Mathematik, die sie zum Prototyp der Wissenschaft macht, sammt und sonders auf der Deduction. Die Deduction ist daher der Anker, den die Wissenschaft auswirft, um Wahrheit zu begründen und zu befestigen. Die Bestreitung der Deduction bedeutet daher die Gefährdung der wissenschaftlichen Wahrheit. Es ist die ganze wissenschaftliche Wahrheit, die dabei auf dem Spiele steht; denn mit der Mathematik wird zugleich die mathematische Naturwissenschaft hinfällig."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 517,
+          "printed_page": "489",
+          "display_printed_page": "489"
+        }
+      ]
+    },
+    {
+      "id": "part027-u051",
+      "type": "paragraph",
+      "page": "489",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u051"
+        },
+        "但也许正是这种联系诱使人否认数学的演绎特征，因为人们以为这样一来，也必须把演绎让给数学自然科学，如果不是让给一般自然科学的话。无论如何，数学自然科学与生物学的关系问题，正是尚无可靠澄清的要点之一。我们坚持我们的主导思想：只要纯粹认识在数学自然科学中构成基础，就把数学自然科学归附于数学。因此，演绎也必须在其中统治。纯粹认识具有基本原理的逻辑价值，而这些原理必须展开为特殊规律。但在这里，似乎已有更多个别性的环节、而不只是特殊性的环节进入游戏；于是，那种仿佛在其中并非仅仅涉及演绎的外观被加强了。于是人们又从这一点回溯到数学证明。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u051"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u051-page-517"
+        },
+        "Vielleicht hat aber gerade dieser Zusammenhang dazu verleitet, der Mathematik die Deduction abzusprechen, weil man sie damit auch der mathematischen Naturwissenschaft, wenn nicht der Naturwissenschaft überhaupt zugestehen zu müssen glaubte. Ohnehin ist das Problem des Verhältnisses zwischen der mathematischen Naturwissenschaft und der biologischen einer der Punkte, über die eine sichere Klarheit nicht besteht. Wir halten an unserem Leitgedanken fest, welcher die mathematische Naturwissenschaft, sofern in ihr reine Erkenntnisse die Grundlage bilden, der Mathematik angliedert. Mithin muss auch in ihr Deduction walten. Die reinen Erkenntnisse haben den logischen Werth von Grundsätzen, welche zu besonderen Gesetzen sich entfalten müssen. Hier aber scheinen schon mehr einzelne als nur besondere Momente ins Spiel zu treten; und so wird dadurch der Schein verstärkt, als ob es sich nicht lediglich um Deduction in ihnen handelte. Und so wird von hier aus auf den mathematischen Beweis zurückgeschlossen."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 517,
+          "printed_page": "489",
+          "display_printed_page": "489"
+        }
+      ]
+    },
+    {
+      "id": "part027-u052",
+      "type": "paragraph",
+      "page": "490",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u052"
+        },
+        "演绎主要被思考为演绎推论；对一些人来说，其卓越价值基于与推论的联系，对另一些人来说，其可疑性也基于此。相反，就归纳概念而言，困难首先在于：它没有被严格而唯一地思考为归纳推论。亚里士多德本人在语言用法上造成了这一错误：他把归纳的发明与概念的发明一起归给苏格拉底；至于三段论的发明，他什么也没说，也不能说、不愿说。于是归纳成了一次驶向不确定的普遍者的航行，而演绎则有自己可靠的舵。或者，人们对这种可靠性产生不信任，满足于随意航行。只要人们放弃归纳那个原初的、可以说是教学法的含义——在那里，归纳仅仅意味着引向普遍者——并且只把它当作归纳推论，整个关于演绎与归纳的令人不快之争就一举了结。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u052"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u052-page-518"
+        },
+        {
+          "type": "em",
+          "children": [
+            "Die Deduction wird vorwiegend als Deductionsschluss gedacht"
+          ]
+        },
+        "; auf dem Zusammenhang mit dem Schluss beruht für die Einen ihr vorzüglicher Werth, bei den Anderen dagegen ihre Fragwürdigkeit. Dahingegen besteht für den Begriff der Induction die Schwierigkeit vor Allem darin, ",
+        {
+          "type": "em",
+          "children": [
+            "dass sie nicht streng und ausschliesslich als Inductionsschluss gedacht ist"
+          ]
+        },
+        ". ",
+        {
+          "type": "em",
+          "children": [
+            "Aristoteles"
+          ]
+        },
+        " selbst hat diesen Irrthum im Sprachgebrauch veranlasst, indem er dem ",
+        {
+          "type": "em",
+          "children": [
+            "Sokrates"
+          ]
+        },
+        " die Erfindung der Induction neben der des Begriffs zuerkannte; von einer Erfindung des Syllogismus aber sagte er Nichts, und konnte und wollte er Nichts sagen. So wurde die Induction zu einer Fahrt ins ungewisse Allgemeine, während die Deduction ihr sicheres Steuer hatte. Oder aber man misstraute dieser Sicherheit, und gab sich mit der Fahrt aufs Gerathewohl zufrieden. Der ganze unerquickliche Streit über Deduction und Induction wird mit einem Schlage erledigt, wenn man die Induction in dem elementaren, man möchte sagen paedagogischen Sinne aufgiebt, in dem sie lediglich die Hinführung zum Allgemeinen bedeutet, und sie ausschliesslich als ",
+        {
+          "type": "em",
+          "children": [
+            "Schluss der Induction"
+          ]
+        },
+        " annimmt."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 518,
+          "printed_page": "490",
+          "display_printed_page": "490"
+        }
+      ]
+    },
+    {
+      "id": "part027-u053",
+      "type": "paragraph",
+      "page": "490",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u053"
+        },
+        "引向普遍者意味着什么？无非是形成概念的指示。我们已在选言判断中认识到这种指示。于是，选言概念作为纯粹认识呈现给我们，而科学的建制在其部分上也基于这种认识。现在不再涉及这种建制，而涉及研究的十字路口。在十字路口，批判判断构成路标。于是，在必然性及其推论手段之内产生了问题：生物学概念与数学自然科学之规律概念的区别，如何在证明程序中得到保持并贯彻？选言推论作为归纳的推论，正是服务于这一问题。因此，它区别于假言推论是必要的。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u053"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u053-page-518"
+        },
+        "Was bedeutet denn die Hinführung zum Allgemeinen? Nichts Anderes als die Anweisung zur Bildung des Begriffs. Diese haben wir im disjunctiven Urtheil erkannt. So hat sich uns der disjunctive Begriff als eine reine Erkenntniss ergeben, auf welcher an ihrem Theile die Verfassung der Wissenschaft beruht. Jetzt handelt es sich nicht mehr um diese, sondern um die Kreuzwege der Forschung. An diesen bilden die kritischen Urtheile die Wegweiser. Und so entsteht innerhalb der Nothwendigkeit und ihrer Schlussmittel ",
+        {
+          "type": "em",
+          "children": [
+            "die Frage, wie sich der Unterschied des biologischen Begriffs von dem Gesetzesbegriff der mathematischen Naturwissenschaft im Beweisverfahren"
+          ]
+        },
+        " wahren und durchführen lasse. ",
+        {
+          "type": "em",
+          "children": [
+            "Dieser Frage dient der disjunctive Syllogismus als der Syllogismus der Induction"
+          ]
+        },
+        ". Seine Unterscheidung von dem hypothetischen Syllogismus ist daher geboten."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 518,
+          "printed_page": "490",
+          "display_printed_page": "490"
+        }
+      ]
+    },
+    {
+      "id": "part027-u054",
+      "type": "paragraph",
+      "page": "490",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u054"
+        },
+        "在古代，选言推论被归摄于假言推论；近代也延续了这一看法，甚至并不只是因为选言判断本身不得不经受的那些变形。人们恰恰不关心这一任务：把生物学问题的证明程序与数学—力学问题的证明程序区分开来。这也是弗里斯的错误：他虽认识到选言推论是归纳的推论，却没有把归纳限制在生物学上，而把它一并扩展到天文学。这个错误遮蔽了他弟子阿佩尔特的归纳理论将持久具有的高度价值。在弗里斯那里，这个错误可由一种灾难性的迷误来解释。他虽然在其他方面勇敢抵抗自然哲学的浪漫主义，却仍被谢林所追求力学与生物学之间的同一性所迷惑；因此，他也混淆了三段论中归纳与演绎的区别。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u054"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u054-page-518"
+        },
+        "Der disjunctive Syllogismus wurde im Alterthum dem hypothetischen subsumirt: und auch in der neuern Zeit hat man diese Ansicht fortgeführt, auch wo es nicht nur der Umformungen wegen geschah, die schon das disjunctive Urtheil sich gefallen ",
+        {
+          "type": "page",
+          "id": "en-part027-u054-page-519",
+          "page": "491"
+        },
+        "lassen musste. Man interessirte sich eben nicht für die Aufgabe, das Beweisverfahren für die biologischen Probleme abzusondern von dem für die mathematisch-mechanischen. Das ist auch der Fehler bei ",
+        {
+          "type": "em",
+          "children": [
+            "Fries"
+          ]
+        },
+        ", der den disjunctiven Syllogismus als den der Induction erkannte: dass er die Induction nicht auf die Biologie beschränkte, sondern auf die Astronomie mitbezog. Und dieser Fehler verdunkelt den hohen Werth, den die ",
+        {
+          "type": "em",
+          "children": [
+            "Theorie der Induction"
+          ]
+        },
+        " seines Schülers ",
+        {
+          "type": "em",
+          "children": [
+            "Apelt"
+          ]
+        },
+        " dauernd besitzen wird. Bei Fries erklärt sich dieser Fehler aus einer verhängnissvollen Irrung. Während er nämlich der naturphilosophischen Romantik sonst sich tapfer widersetzte, liess er sich von der Identität, welche ",
+        {
+          "type": "em",
+          "children": [
+            "Schelling"
+          ]
+        },
+        " zwischen Mechanik und Biologie erstrebte, dennoch verblenden; daher verwischte er auch im Syllogismus den Unterschied zwischen Induction und Deduction."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 518,
+          "printed_page": "490",
+          "display_printed_page": "490"
+        },
+        {
+          "pdf_page": 519,
+          "printed_page": "491",
+          "display_printed_page": "491"
+        }
+      ]
+    },
+    {
+      "id": "part027-u055",
+      "type": "paragraph",
+      "page": "491",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u055"
+        },
+        "当然，在数学研究的发展中，归纳也有其应用；但人们不应在那里这样称呼它；因为它只是启发性的，因而在那里也只暂时有效。如果二项式定理逐步遍历指数所能采取的一系列值，这表面上只是归纳；人们不如称之为尝试。此外，从 n 到 n+1 的推论结束了整个尝试程序。开普勒所谓的归纳也类似。就他在圆锥曲线规律中发现行星轨道而言，他是在椭圆的那个焦点上追踪中心概念。这里起作用的完全是演绎；只是尚未完成。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u055"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u055-page-519"
+        },
+        "Freilich findet in der Entwickelung der mathematischen Forschung auch die Induction ihre Anwendung; aber man sollte sie da nicht so nennen; denn sie ist nur heuristisch, und daher auch nur provisorisch dort in Wirksamkeit. Wenn der binomische Lehrsatz erst allmählich die Reihe der Werthe durchläuft, welche der Exponent annehmen kann, so ist dies nur scheinbar Induction; eher könnte man es Versuch nennen. Uebrigens macht der Schluss von n auf n + 1 diesem ganzen Versuchsverfahren ein Ende. Aehnlich verhält es sich mit der angeblichen Induction ",
+        {
+          "type": "em",
+          "children": [
+            "Keplers"
+          ]
+        },
+        ". Sofern er in dem Gesetz des Kegelschnitts die Bahnen der Planeten entdeckte, war er in dem einen Brennpunkt der Ellipse dem Begriff des Centrums auf der Spur. Hier ist durchaus Deduction in Wirksamkeit; nur noch nicht zum Abschluss gekommen."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 519,
+          "printed_page": "491",
+          "display_printed_page": "491"
+        }
+      ]
+    },
+    {
+      "id": "part027-u056",
+      "type": "paragraph",
+      "page": "491",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u056"
+        },
+        "对某类三段论的逻辑刻画，只应考虑这样的例子：在其中，该类三段论完成一项确定的方法论成就；独立地贯彻一个自己的问题及其解答。把选言推论突出为生物学归纳的推论，之所以更加迫切，是因为生物学有理由向力学靠拢。然而，若要在此防止混乱和迷误，就必须像保持问题的独立性一样，也保持生物学证明程序的独立性。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u056"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u056-page-519"
+        },
+        "Die logische Charakteristik einer Art des Syllogismus hat nur solche Beispiele zu berücksichtigen, in denen die fragliche Art eine definitive methodische Leistung vollbringt; ein eigenes Problem selbst und dessen Lösung selbständig durchführt. ",
+        {
+          "type": "em",
+          "children": [
+            "Die Auszeichnung des disjunctiven Syllogismus für die biologische Induction"
+          ]
+        },
+        " ist um so dringlicher geboten, als die Biologie mit Recht nach der Mechanik hinstrebt. Wenn jedoch Verwirrung und Verirrung hier verhütet werden soll, so muss ebenso, wie die Selbständigkeit des Problems, so auch die des Beweisverfahrens der Biologie gewahrt bleiben."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 519,
+          "printed_page": "491",
+          "display_printed_page": "491"
+        }
+      ]
+    },
+    {
+      "id": "part027-u057",
+      "type": "paragraph",
+      "page": "492",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u057"
+        },
+        "对选言推论独特性的兴趣，实居于如此中心的位置。生物学的一切问题都可以被把握为物种概念的问题。但物种概念同样是属概念；它按自己所统摄的诸物种而言是大词，正如按自己所隶属者而言是小词。物种概念本身包含着变种概念，也包含着变种的中间环节和过渡形式的概念。一言以蔽之：物种概念就是概念。然而，当人们这样综览概念的一切变体时，同时也就理解了那些困难、争论和立场差异；一些人排除的，正是另一些人引入的。于是，选言在其双刃性中显现为概念的方法论。因此也应当可以解释：那些围绕概念旋转的研究，为何按选言推论的图式进行；只要研究旨在确定那个无所不包、无隙可寻的概念，其结果的表述就必须遵循这一图式。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u057"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u057-page-520"
+        },
+        "So central ist das Interesse für die Eigenart des disjunctiven Syllogismus. Alle Probleme der Biologie lassen sich als solche des Artbegriffs fassen. Der Artbegriff aber ist ebenso der Gattungsbegriff; ebenso der Oberbegriff nach seinen Arten, wie der Unterbegriff nach den seinigen. Im Artbegriff liegt an und für sich der Begriff der Varietäten, und ebenso auch der ihrer Zwischenglieder und Uebergangsformen. Mit einem Worte: der Artbegriff ist der Begriff. Indem man aber so alle Abwandlungen des Begriffs übersieht, werden zugleich die Schwierigkeiten, die Controversen und die Differenzen der Standpunkte verständlich; die einen schliessen aus, was die anderen heranziehen. So wird die Disjunction in ihrer Zweischneidigkeit als die Methodik des Begriffs ersichtlich. So muss es denn auch erklärlich sein, dass die Forschungen, die sich sonach um den Begriff drehen, nach dem Schema des disjunctiven Schlusses sich vollziehen; müssen sich doch die Formulirungen der Ergebnisse an dieses Schema halten, wenn anders sie auf die Feststellung des umfassenden, lückenlosen Begriffs gerichtet sind."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 520,
+          "printed_page": "492",
+          "display_printed_page": "492"
+        }
+      ]
+    },
+    {
+      "id": "part027-u058",
+      "type": "paragraph",
+      "page": "492",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u058"
+        },
+        "首先注意选言大前提。中词收集在不同物种身上发现的生物学环节；例如头骨形状或喙的形状，或者仅仅是颜色。大前提的 P 收集那些具有这些特征的各个物种；例如鸽子的各个种。在这个 P 中收集的是一切种吗？这个问题与针对“所有 S”的问题一样错误。普遍性毋宁说是必然性；而必然性是生产性的；它必须在推论中证明自己如此。概念是一个理想；选言普遍性、毋宁说选言必然性的理想。而这种选言必然性的生产性，就在归纳的三段论中。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u058"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u058-page-520"
+        },
+        "Beachten wir zunächst den ",
+        {
+          "type": "em",
+          "children": [
+            "disjunctiven Obersatz"
+          ]
+        },
+        ". Der Mittelbegriff sammelt die biologischen Momente, welche an verschiedenen Arten sich finden; etwa die Form des Schädels oder die des Schnabels, oder auch nur die Farbe. Das P des Obersatzes sammelt die verschiedenen Arten, an denen jene Charaktere sich vorfinden; etwa die Taubenarten. Sind es alle Arten, welche in diesem P gesammelt sind? Die Frage ist ebenso falsch, wie die, welche auf Alle S gerichtet wurde. Die Allgemeinheit ist vielmehr Nothwendigkeit; und die Nothwendigkeit ist productiv; hat sich im Schluss als solche zu bewähren. Der Begriff ist ein Ideal; ein Ideal der disjunctiven Allgemeinheit, oder vielmehr Nothwendigkeit. Und die Productivität dieser disjunctiven Nothwendigkeit liegt im Syllogismus der Induction."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 520,
+          "printed_page": "492",
+          "display_printed_page": "492"
+        }
+      ]
+    },
+    {
+      "id": "part027-u059",
+      "type": "paragraph",
+      "page": "492",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u059"
+        },
+        "如果鸽子的所有种都聚集在大前提的 P 中，那么仍然缺少那些处于无终结的自由序列中的过渡形式。概念应当保持为理想。这正是达尔文的反对者所不理解的。因此，大前提要求自己的小前提，在其中出现一个个别者、一个新的鸽种。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u059"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u059-page-520"
+        },
+        "Wären alle Arten der Taube im P des Obersatzes versammelt, so fehlten ja immer noch die Uebergangsformen in ihrer abschlusslosen, freien Folge. Der Begriff soll ja ideal bleiben. Das ist es, was die Gegner ",
+        {
+          "type": "em",
+          "children": [
+            "Darwins"
+          ]
+        },
+        " nicht verstehen. Daher fordert der Obersatz seinen Untersatz, in welchem ein Einzelnes, eine neue Taubenart hervortritt."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 520,
+          "printed_page": "492",
+          "display_printed_page": "492"
+        }
+      ]
+    },
+    {
+      "id": "part027-u060",
+      "type": "paragraph",
+      "page": "492",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u060"
+        },
+        "斯多亚派突出选言推论，他们不把小前提称为附加（πρόσληψις），而称为转化（μετάληψις）。仿佛个别者由此成为新的东西；它被引向转化，因为它的孤立被扬弃，它作为一个种被配给其他种。这种配属就是结论的内容和价值。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u060"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u060-page-520"
+        },
+        "Die Stoiker, die den disjunctiven Syllogismus auszeichneten ",
+        {
+          "type": "page",
+          "id": "en-part027-u060-page-521",
+          "page": "493"
+        },
+        "benannten den Untersatz nicht als Hinzunahme (πρόσληψις), sondern als Verwandlung (μετάληψις). Und es ist, als ob das Einzelne dadurch ein Neues würde; es wird der Verwandlung dadurch zugeführt, dass seine Isolirung aufgehoben, und es als eine Art den anderen Arten zugeordnet wird. Diese Zuordnung ist der Inhalt und Werth des Schlusssatzes."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 520,
+          "printed_page": "492",
+          "display_printed_page": "492"
+        },
+        {
+          "pdf_page": 521,
+          "printed_page": "493",
+          "display_printed_page": "493"
+        }
+      ]
+    },
+    {
+      "id": "part027-u061",
+      "type": "paragraph",
+      "page": "493",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u061"
+        },
+        "人们可能又问：结论究竟如何区别于大前提？最尖锐的回答是：再次向大前提本身提问：它究竟如何区别于直言大前提？然而，既然我们重新把选言大前提作为概念理想而使之生动，问题就已经解决：选言大前提本身并不包含那种普遍性，而它的必然性若要富有成果，就必须受这种普遍性引导。这一指令一劳永逸地存在于直言三段论中。依靠直言三段论，选言大前提使自己的概念理想生效，而这个理想不可避免地包含对一切变种和一切过渡形式的要求。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u061"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u061-page-521"
+        },
+        "Man könnte nun wiederum fragen, worin sich denn eigentlich der Schlusssatz von dem Obersatz unterscheidet. Die Antwort darauf lässt sich am schärfsten dadurch geben, dass man wiederum auf den Obersatz selbst die Frage richtet: worin er sich denn von dem kategorischen Obersatz unterscheidet? Wie wir jedoch den disjunctiven Obersatz als das Ideal des Begriffs uns wiederum lebendig gemacht haben, ist die Frage schon erledigt: der disjunctive Obersatz selbst enthält in sich nicht die Allgemeinheit, von der seine Nothwendigkeit, wenn sie fruchtbar werden soll, dirigirt sein muss. Diese Directive liegt ein für alle Mal im kategorischen Syllogismus. Auf ihn gestützt macht der disjunctive Obersatz sein Ideal des Begriffs geltend, welches unweigerlich das Desiderat aller Varietäten und aller Uebergangsformen einschliesst."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 521,
+          "printed_page": "493",
+          "display_printed_page": "493"
+        }
+      ]
+    },
+    {
+      "id": "part027-u062",
+      "type": "paragraph",
+      "page": "493",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u062"
+        },
+        "但这种包含要求的含义是什么？除了让推论由此开始运行、凭借包含生物学标志的中词引入新种，还能有什么别的含义？如果小前提勤勉而精确地完成这种引入，结论就能可靠进行；结论对于新种来说，在其部分上实现了按大前提必须保持为理想的那个理想。如果归纳在其选言的研究三段论中竟能走到尽头，概念就会在其逻辑理想性中被扬弃。因此，归纳通过物种问题、即生物学问题，与概念的逻辑含义相联系。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u062"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u062-page-521"
+        },
+        "Welchen Sinn hat nun aber das Desiderat dieses Einschlusses? Welchen andern könnte es haben als den, dass daraufhin der Schluss seinen Lauf nehme; neue Arten an der Hand des die biologischen Merkmale enthaltenden Mittelbegriffs einführe. Besorgt der Untersatz fleissig und genau diese Einführung, so kann der Schlusssatz sicher von Statten gehen, der für die neue Art an ihrem Theile das Ideal verwirklicht, welches nach dem Obersatze Ideal bleiben muss. Der Begriff würde in seiner logischen Idealität aufgehoben, wenn die Induction in ihrer disjunctiven Forschungs-Syllogistik jemals zu Ende kommen könnte. So hängt die Induction über das Problem der Arten, als das Problem der Biologie, mit der logischen Bedeutung des Begriffs zusammen."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 521,
+          "printed_page": "493",
+          "display_printed_page": "493"
+        }
+      ]
+    },
+    {
+      "id": "part027-u063",
+      "type": "paragraph",
+      "page": "493",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u063"
+        },
+        "在这里，人们也不应被非此即彼弄糊涂；排除只是手段；诸要素的联合——不论这些要素究竟是什么——才是目的。概念代表对这种联合的确保。而这种纯粹认识，即概念为科学的建制所构成的纯粹认识，现在也要在研究中去贯彻，这就是选言推论的任务；这是它的独特性。",
+        {
+          "type": "anchor",
+          "id": "zh-part027-u064"
+        },
+        "推断、甚至直言大前提，已经在普遍性中指向属和种。但在那里，普遍性只意味着必然性本身；唯有在这里，它才意味着概念的联系。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u063"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u063-page-521"
+        },
+        "Auch hier darf man sich durch das ",
+        {
+          "type": "em",
+          "children": [
+            "Entweder-Oder"
+          ]
+        },
+        " nicht beirren lassen; der Ausschluss ist nur das Mittel; der Zusammenschluss der Elemente, welche es nun immer sein mögen, ist der Zweck. Die Sicherung dieses Zusammenschlusses vertritt der Begriff. Und diese reine Erkenntniss, welche der Begriff für die Verfassung der Wissenschaft bildet, nunmehr auch für die Forschung ",
+        {
+          "type": "page",
+          "id": "en-part027-u063-page-522",
+          "page": "494"
+        },
+        "durchzuführen, dies liegt dem disjunctiven Schluss ob; es ist die Eigenart desselben.",
+        " ",
+        {
+          "type": "anchor",
+          "id": "en-part027-u064"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u064-page-522"
+        },
+        "Schon die Folgerung, schon der kategorische Obersatz weist in der Allgemeinheit auf die Gattung und die Art hin. Aber dort bedeutet die Allgemeinheit nur die Nothwendigkeit schlechthin; hier erst bedeutet sie den Zusammenhang des Begriffs."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 521,
+          "printed_page": "493",
+          "display_printed_page": "493"
+        },
+        {
+          "pdf_page": 522,
+          "printed_page": "494",
+          "display_printed_page": "494"
+        }
+      ]
+    },
+    {
+      "id": "part027-u065",
+      "type": "paragraph",
+      "page": "494",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u065"
+        },
+        "这为换位规则提供了一个新根据。“所有 S 都是 P”只应这样理解：S 普遍地指向一个 P，作为自己的种或属。于是，要求 P 反过来也成为 S，就显得颠倒了。仿佛这除了理解为属反过来获得对种的关系之外，还能有别的想法。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u065"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u065-page-522"
+        },
+        "Das ist ein neuer Grund für die Regel der ",
+        {
+          "type": "em",
+          "children": [
+            "Conversion"
+          ]
+        },
+        ". Alle S sind P sollte nur so verstanden werden: S weist allgemein auf ein P hin, als auf seine Art, oder seine Gattung. Dann erscheint die Forderung verkehrt, dass P umgekehrt auch S sein sollte. Als ob dies anders überhaupt sich denken liesse als so, dass die Gattung rückwärts auf die Art Beziehung gewinne."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 522,
+          "printed_page": "494",
+          "display_printed_page": "494"
+        }
+      ]
+    },
+    {
+      "id": "part027-u066",
+      "type": "paragraph",
+      "page": "494",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u066"
+        },
+        "于是，那些反复变动的观点也由此了结：假言推论是内涵的推论，选言推论是外延的推论；或者直言推论涉及外延。既然选言推论服务于为生物学归纳问题贯彻概念，它就不可能只涉及外延。无论如何，它通过用于间接证明而证明了自己与内涵的关系。这里固然表面上否定占主导；但人们不妨设想，“非”（μὴ）的迂回也掺入了这一技术；推论所驶向的积极目标如此完全透明。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u066"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u066-page-522"
+        },
+        "Es erledigen sich so auch die wechselnden Ansichten, dass der hypothetische Schluss ein Schluss des ",
+        {
+          "type": "em",
+          "children": [
+            "Inhalts"
+          ]
+        },
+        ", der disjunctive ein Schluss des ",
+        {
+          "type": "em",
+          "children": [
+            "Umfangs"
+          ]
+        },
+        " sei; oder dass der kategorische Schluss den Umfang betreffe. Da der disjunctive Schluss der Durchführung des Begriffs für die Probleme der biologischen Induction dient, so kann es sich in ihm nicht allein um den Umfang handeln. Ohnehin erweist er seine Beziehung auf den Inhalt durch seine Verwendung für den ",
+        {
+          "type": "em",
+          "children": [
+            "indirecten Beweis"
+          ]
+        },
+        ". Zwar ist die Negation scheinbar hierbei vorwaltend; aber man möchte annehmen, dass der Umweg des μὴ in diese Technik hineinspiele; so durchaus ist das positive Ziel durchsichtig, auf das der Schluss hinsteuert."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 522,
+          "printed_page": "494",
+          "display_printed_page": "494"
+        }
+      ]
+    },
+    {
+      "id": "part027-u067",
+      "type": "paragraph",
+      "page": "494",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u067"
+        },
+        "当选言被用作选择时，涉及的是最本己的内涵概念；因为通过选择，缺失物种的空缺应被填补，物种的联系和联合应得到论证。逻辑体系成为自然的起源和亲缘关系，以实现归纳的理想。不应有分离的、孤立的种；它们应构成一个体系，而在这个体系的基础上，选言三段论应解决归纳的一切问题；因为在这里，力学的方法最终也只是为了无隙地展示物种的谱系树而被采用。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u067"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u067-page-522"
+        },
+        "Um den eigensten Begriff des Inhalts handelt es sich, wenn die Disjunction sich als ",
+        {
+          "type": "em",
+          "children": [
+            "Selection"
+          ]
+        },
+        " verwerthet; denn durch diese soll die Lücke der fehlenden Arten ausgefüllt, und der Zusammenhang, der Zusammenschluss der Arten begründet werden. Das logische System wird zur natürlichen Abstammung und Verwandtschaft, um das Ideal der Induction zu verwirklichen. Es soll nicht separate, isolirte Arten geben; sie sollen ein System bilden, und auf Grund dieses Systems soll der disjunctive Syllogismus alle Probleme der Induction lösen; denn die Methoden der Mechanik werden schliesslich zu keinem andern Ziele auch hiebei in Angriff genommen, als um den Stammbaum der Arten lückenlos aufzuführen."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 522,
+          "printed_page": "494",
+          "display_printed_page": "494"
+        }
+      ]
+    },
+    {
+      "id": "part027-u068",
+      "type": "paragraph",
+      "page": "494",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u068"
+        },
+        "人们大概不会再问：科学归纳事实上是否以三段论的形式进行；否则也可以把这个问题对准假言演绎。这个问题藏在心理学偏见中，也藏在形式逻辑的偏见中。难道微分计算必须以无限判断的形式被发现吗？心理学观点尽可不必是决定性的；实事观点、因而逻辑观点则完全是决定性的。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u068"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u068-page-522"
+        },
+        "Man wird hoffentlich nicht mehr fragen wollen, ob die wissenschaftliche Induction thatsächlich in Form des Syllogismus sich ",
+        {
+          "type": "page",
+          "id": "en-part027-u068-page-523",
+          "page": "495"
+        },
+        "ergehe; man könnte die Frage sonst auch auf die hypothetische Deduction richten. Die Frage steckt im psychologischen Vorurtheil, und auch noch in dem der formalen Logik. Muss etwa die Infinitesimal-Rechnung in Form des unendlichen Urtheils entdeckt worden sein? Möchte immerhin der psychologische Gesichtspunkt dafür nicht zwingend sein; der sachliche, also der logische ist es durchaus."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 522,
+          "printed_page": "494",
+          "display_printed_page": "494"
+        },
+        {
+          "pdf_page": 523,
+          "printed_page": "495",
+          "display_printed_page": "495"
+        }
+      ]
+    },
+    {
+      "id": "part027-u069",
+      "type": "paragraph",
+      "page": "495",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u069"
+        },
+        "有趣的是，生物学概念的必然性在其对立面中也得到验证。偶然是神话的产物；但偶然者却是一个科学概念。事实无论其现实性得到多么充分的证明，只要尚未被纳入一个普遍的联系、毋宁说最普遍的联系，就必须被视为偶然的。归纳的问题永远不能满足，它设立了这一最高级。但最高的求知欲转向谦逊；于是归纳让人认识到：一切皆偶然，或者毋宁说，没有任何东西是偶然的。达尔文就这样证明：连颜色也能为物种的确定提供重要特征。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u069"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u069-page-523"
+        },
+        "Es ist interessant, wie die Nothwendigkeit des biologischen Begriffs sich auch in seinem Gegentheil bewährt. Der Zufall ist ein Gebild des Mythos; das Zufällige aber ist ein wissenschaftlicher Begriff. Die Thatsache, so sehr ihre Wirklichkeit bewiesen ist, muss als zufällig gelten, so lange sie einem allgemeinen, vielmehr allgemeinsten Zusammenhang noch nicht eingegliedert ist. Das Problem der Induction, das nimmer befriedigt werden kann, stellt diesen Superlativ auf. Aber die höchste Wissbegier lenkt zur Bescheidenheit um; ",
+        {
+          "type": "em",
+          "children": [
+            "so lässt die Induction erkennen, dass Alles zufällig ist, oder vielmehr Nichts"
+          ]
+        },
+        ". So hat ",
+        {
+          "type": "em",
+          "children": [
+            "Darwin"
+          ]
+        },
+        " nachgewiesen, wie die ",
+        {
+          "type": "em",
+          "children": [
+            "Farbe"
+          ]
+        },
+        " selbst einen wichtigen Charakter für die Bestimmung der Art abzugeben vermag."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 523,
+          "printed_page": "495",
+          "display_printed_page": "495"
+        }
+      ]
+    },
+    {
+      "id": "part027-u070",
+      "type": "paragraph",
+      "page": "495",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u070"
+        },
+        "因此，生物学的偶然性具有与物理学偶然性完全不同的含义。后者作为这样的东西，必须暂时被做成问题；前者则永远不可以；否则它会阻碍选言推论。从这里也表明：把概念的特征区分为本质的和非本质的，是站不住脚且引入歧途的。概念只是本质；尤其在涉及生物时，不存在非本质的偶然性。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u070"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u070-page-523"
+        },
+        "Die biologische Zufälligkeit hat demzufolge eine ganz andere Bedeutung als die physikalische. Diese muss, als solche, provisorisch zum Problem gemacht werden; jene darf es niemals; sie würde den disjunctiven Syllogismus hemmen. So zeigt sich auch von hier aus, dass die Unterscheidung der ",
+        {
+          "type": "em",
+          "children": [
+            "Merkmale"
+          ]
+        },
+        " des Begriffs in ",
+        {
+          "type": "em",
+          "children": [
+            "wesentliche und unwesentliche"
+          ]
+        },
+        " hinfällig und irreführend ist. Der Begriff ist nur Wesen; und zumal, wo es sich um Lebewesen handelt, giebt es keine unwesentliche Zufälligkeit."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 523,
+          "printed_page": "495",
+          "display_printed_page": "495"
+        }
+      ]
+    },
+    {
+      "id": "part027-u071",
+      "type": "paragraph",
+      "page": "495",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u071"
+        },
+        "必然性对精神科学的意义，在其基础即伦理学中清楚而确定地表现出来。按照直言推论的普遍性，我们前面已用“一切人都成为兄弟”这一例子考察过。中词“人”排除了天使和动物；也排除了超人和低于人者，后者只是工具人，人们时而称之为奴隶，时而称之为绝对工人。于是“人”这一概念在这里被做成问题或任务。而历史之道德世界中的一切运动、斗争和改革，无论人们怎样抗拒那种绝对建立在上述普遍性中的必然性，仍将受它引导和驾驭。关键毕竟是人的严格概念及其无例外的普遍性。人道理念具有这种直言的意义；它确实比人性之情意味着更多。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u071"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u071-page-523"
+        },
+        "Die Bedeutung der Nothwendigkeit für die ",
+        {
+          "type": "em",
+          "children": [
+            "Geisteswissenschaften"
+          ]
+        },
+        " prägt sich deutlich und bestimmt in deren Grundlage, in der ",
+        {
+          "type": "em",
+          "children": [
+            "Ethik"
+          ]
+        },
+        ", aus. Die Allgemeinheit nach dem ",
+        {
+          "type": "em",
+          "children": [
+            "kategorischen"
+          ]
+        },
+        " Schluss haben wir schon vorher am Beispiel: Alle Menschen werden Brüder betrachtet. Der Mittelbegriff Mensch schliesst den Engel und das Thier aus; den Uebermenschen und den Untermenschen, der nur Werkzeug-Mensch ist, was man bald Sclave, bald absoluten Arbeiter nennt. So wird der Begriff Mensch hier zum Problem oder zur Aufgabe gemacht. Und alle Bewegungen, Kämpfe und ",
+        {
+          "type": "page",
+          "id": "en-part027-u071-page-524",
+          "page": "496"
+        },
+        "Reformen in der sittlichen Welt der Geschichte werden, wie man sich auch gegen die schlechterdings in jener Allgemeinheit begründete Nothwendigkeit sträuben mag, dennoch von ihr geleitet und gesteuert. Es ist doch der stricte Begriff des Menschen in seiner ausnahmslosen Allgemeinheit, auf den es ankommt. Diesen kategorischen Sinn hat die ",
+        {
+          "type": "em",
+          "children": [
+            "Idee der Humanität"
+          ]
+        },
+        ", die in der That mehr bedeutet als das Gefühl der Menschlichkeit."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 523,
+          "printed_page": "495",
+          "display_printed_page": "495"
+        },
+        {
+          "pdf_page": 524,
+          "printed_page": "496",
+          "display_printed_page": "496"
+        }
+      ]
+    },
+    {
+      "id": "part027-u072",
+      "type": "paragraph",
+      "page": "496",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u072"
+        },
+        "假言的必然性涉及道德法则本身。假言判断已经是规律的判断，因此也引向道德法则、即自由规律。但如何扬弃自由与必然之间似乎存在的矛盾？这里必须由假言推论带来帮助；它是演绎的推论。没有演绎就没有道德性。康德把伦理演绎规定为自律，并由此实际上辞别并废弃了自由。自由也是一种权威。因此它可能被卷入这样一种神秘主义，以致在其中消失；也许在自由那里并没有失去什么；但在自律那里失去的更多，而人们却没有把自律与自由区分开来。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u072"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u072-page-524"
+        },
+        "Die ",
+        {
+          "type": "em",
+          "children": [
+            "hypothetische"
+          ]
+        },
+        " Nothwendigkeit betrifft das ",
+        {
+          "type": "em",
+          "children": [
+            "Sittengesetz"
+          ]
+        },
+        " selbst. Das hypothetische Urtheil schon ist das Urtheil des Gesetzes, also führt es auch zum Sittengesetz, dem Gesetze der Freiheit. Aber wie hebt man den Widerspruch auf, der zwischen Freiheit und Nothwendigkeit zu bestehen scheint? Hier muss der hypothetische Syllogismus Hilfe bringen; er ist der Syllogismus der Deduction. ",
+        {
+          "type": "em",
+          "children": [
+            "Keine Sittlichkeit ohne Deduction"
+          ]
+        },
+        ". Die ethische Deduction hat ",
+        {
+          "type": "em",
+          "children": [
+            "Kant"
+          ]
+        },
+        " als ",
+        {
+          "type": "em",
+          "children": [
+            "Autonomie"
+          ]
+        },
+        " bestimmt, und damit eigentlich die ",
+        {
+          "type": "em",
+          "children": [
+            "Freiheit"
+          ]
+        },
+        " verabschiedet und antiquirt. Freiheit ist auch eine Art von Autorität. Und sie konnte daher in eine solche Mystik verwickelt werden, dass sie dabei zum Verschwinden kam; wobei an ihr Nichts verloren gegangen sein mag; umsomehr aber an der Autonomie, die man jedoch von der Freiheit nicht unterschieden hat."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 524,
+          "printed_page": "496",
+          "display_printed_page": "496"
+        }
+      ]
+    },
+    {
+      "id": "part027-u073",
+      "type": "paragraph",
+      "page": "496",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u073"
+        },
+        "自律意味着伦理学中演绎的原则。道德法则也不能有比奠基更高的基础；无论柏拉图的伦理信仰在此对他的逻辑多么感到抵触。在伦理学中，事情仍必须像逻辑所论证的那样；在假言大前提的引导下，行动必须演绎地进行，如果它不应出自强制、命令、本能、沿袭的偏见的话。所有这些力量都逃避演绎。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u073"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u073-page-524"
+        },
+        {
+          "type": "em",
+          "children": [
+            "Die Autonomie bedeutet das Princip der Deduction in der Ethik"
+          ]
+        },
+        ". Das Sittengesetz kann auch nichts Höheres zur Grundlage haben als die Grundlegung; so sehr der ethische Glaube ",
+        {
+          "type": "em",
+          "children": [
+            "Platons"
+          ]
+        },
+        " hier an seiner Logik Anstoss nahm. Es muss doch so bleiben in der Ethik, wie die Logik es begründet hat; von dem hypothetischen Obersatz dirigirt, muss die ",
+        {
+          "type": "em",
+          "children": [
+            "Handlung"
+          ]
+        },
+        " deductiv sich vollziehen, wenn anders sie nicht aus Zwang, aus Befehl, aus Instinkt, aus hergebrachtem Vorurtheil hervorgehen soll. Alle diese Mächte entziehen sich der Deduction."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 524,
+          "printed_page": "496",
+          "display_printed_page": "496"
+        }
+      ]
+    },
+    {
+      "id": "part027-u074",
+      "type": "paragraph",
+      "page": "496",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u074"
+        },
+        "演绎不能意味着一种绝对的约束，在其中自发的活动被排除；那将不是从大前提的引导出发、并向小前提前进的演绎。但演绎的自律同样排除那种陷入不确定性的绝对自发性；大前提揭示出指令，从这一指令出发，一种毫不含糊的操作才成为可能。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u074"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u074-page-524"
+        },
+        "Die Deduction kann nicht eine absolute Bindung bedeuten, bei welcher die spontane Bethätigung ausgeschlossen wäre; das wäre nicht Deduction, die von der Oberleitung eines Obersatzes ausgeht, und zu einem Untersatz fortschreitet. Die deductive Autonomie schliesst ebenso aber auch die ",
+        {
+          "type": "em",
+          "children": [
+            "absolute Spontaneität"
+          ]
+        },
+        " aus, die in eine Unbestimmtheit untergeht; der Obersatz deckt die Directive auf, von der aus eine unzweideutige Operation möglich wird."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 524,
+          "printed_page": "496",
+          "display_printed_page": "496"
+        }
+      ]
+    },
+    {
+      "id": "part027-u075",
+      "type": "paragraph",
+      "page": "497",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u075"
+        },
+        "最后，选言的必然性把道德法则展开为文化的特殊规律；正如必然性到处要求特殊者。选言判断在应用于精神科学时，产生共同体概念，即体系概念的类似物。共同体概念包含对特殊规律的要求；因为它也是道德文化的理想概念，其意义还在于：它是人类中间一切相对共同体的范本。只有那种排除绝对共同体的相对共同体才被区别出来。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u075"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u075-page-525"
+        },
+        "Die ",
+        {
+          "type": "em",
+          "children": [
+            "disjunctive"
+          ]
+        },
+        " Nothwendigkeit endlich leistet die ",
+        {
+          "type": "em",
+          "children": [
+            "Entfaltung des Sittengesetzes zu besonderen Gesetzen der Kultur"
+          ]
+        },
+        "; wie die Nothwendigkeit überall das Besondere fordert. Das disjunctive Urtheil erzeugt in seiner Anwendung auf die Geisteswissenschaften den Begriff der ",
+        {
+          "type": "em",
+          "children": [
+            "Gemeinschaft"
+          ]
+        },
+        ", das Analogon zu dem des Systems. In dem Begriff der Gemeinschaft ist die Forderung der besonderen Gesetze enthalten; denn er ist der Idealbegriff der sittlichen Kultur auch in dem Sinne, dass er das Vorbild ist für alle Arten der ",
+        {
+          "type": "em",
+          "children": [
+            "relativen Gemeinschaften"
+          ]
+        },
+        " unter den Menschen. Discernirt wird nur diejenige relative Gemeinschaft, welche die absolute ausschliesst."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 525,
+          "printed_page": "497",
+          "display_printed_page": "497"
+        }
+      ]
+    },
+    {
+      "id": "part027-u076",
+      "type": "paragraph",
+      "page": "497",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u076"
+        },
+        "在这里，血缘世系——尽管只是以神话形式——也表达了伦理归纳的原则；因为人类的统一性毕竟只是历史归纳的范本概念。然而，选言必然性在此具有特殊意义，因为它使道德文化的特殊规律成为不可免除的要求和不可回避的结果，如果必然性要在推论中证明自己富有成果的话。于是，绝对道德法则空洞无物的偏见由此消散：假言的必然性过渡为选言的必然性，并由后者补充；在后者中，它使自己在生物身上得到实现。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u076"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u076-page-525"
+        },
+        "Auch hier drückt die Abstammung, wenngleich nur in mythischer Form, das ",
+        {
+          "type": "em",
+          "children": [
+            "Princip der ethischen Induction"
+          ]
+        },
+        " aus; denn freilich ist die ",
+        {
+          "type": "em",
+          "children": [
+            "Einheit des Menschengeschlechts"
+          ]
+        },
+        " nur ein Musterbegriff der geschichtlichen Induction. Von besonderer Bedeutsamkeit ist jedoch hier die disjunctive Nothwendigkeit insofern, als sie die besonderen Gesetze der sittlichen Kultur zu einer unerlässlichen Forderung und zu einem unausweichlichen Ergebniss macht, wenn anders die Nothwendigkeit im Schlusse sich fruchtbar zu erweisen hat. Und so schwindet von hier aus das Vorurtheil von der Leerheit eines absoluten Sittengesetzes: die hypothetische Nothwendigkeit geht in die disjunctive über, durch die sie ergänzt wird; in der sie sich an den Lebewesen zur Verwirklichung bringt."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 525,
+          "printed_page": "497",
+          "display_printed_page": "497"
+        }
+      ]
+    },
+    {
+      "id": "part027-u077",
+      "type": "paragraph",
+      "page": "497",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u077"
+        },
+        "如果我们现在简短综览批判性判断类型这一类，那么首先已无可怀疑：前三类的判断要求这些判断所提供的补充；区别在于建制与研究按各自阶段的不同。其次，用“批判”来标示模态，如同用它来标示这一类判断一样，也已证明是恰当的；因为正是批判从一级到另一级伴随并引导研究。在这一阶段序列的发展中，最后又重新显示出起源判断中所含的定向。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u077"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u077-page-525"
+        },
+        "Wenn wir jetzt die ",
+        {
+          "type": "em",
+          "children": [
+            "Klasse der kritischen Urtheilsarten"
+          ]
+        },
+        " kurz überschauen, so ist es zunächst nunmehr ausser Zweifel gestellt, einmal, dass die Urtheile der drei ersten Klassen die Ergänzung forderten, welche diese ihnen darbieten; der Unterschied liegt in dem der Verfassung und der Forschung nach ihren jeweiligen Stufen. Ferner aber hat sich auch der Ausdruck der ",
+        {
+          "type": "em",
+          "children": [
+            "Kritik für die Modalität"
+          ]
+        },
+        ", wie der Ausdruck für diese Klasse hergebracht ist, bewährt; denn die Kritik ist es, die die Forschung von Stufe zu Stufe begleitet und leitet. In der Entwickelung dieser Stufenfolge zeigt sich endlich wiederum die Orientirung, welche in dem Urtheil des ",
+        {
+          "type": "em",
+          "children": [
+            "Ursprungs"
+          ]
+        },
+        " gelegen ist."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 525,
+          "printed_page": "497",
+          "display_printed_page": "497"
+        }
+      ]
+    },
+    {
+      "id": "part027-u078",
+      "type": "paragraph",
+      "page": "497",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u078"
+        },
+        "假设的可能性构成普遍的开端；它本身仿佛是无限者的一种。从那里，现实性向个别者前进，并通过在量的概念中共同起作用的那些规律规定个别者。但对这些规律的操作，对现实性本身构成一种预取，即对必然性的预取。它就是那个把上述被预设的操作展开为三段论的推论。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u078"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u078-page-525"
+        },
+        "Das Mögliche der Hypothesis bildet den allgemeinen Aus",
+        {
+          "type": "anchor",
+          "id": "en-part027-u078-page-526"
+        },
+        "gang",
+        {
+          "type": "page",
+          "page": "498",
+          "id": "en-part027-u078-page-526-label"
+        },
+        "; es ist selber wie eine Art des Unendlichen. Von da schreitet die Wirklichkeit zum Einzelnen fort, das sie durch die Gesetze bestimmt, welche in dem Begriff der Grösse zusammenwirken. Aber die Operation mit diesen Gesetzen bildet für die Wirklichkeit selbst eine Anticipation, die — der Nothwendigkeit. Sie ist der Schluss, welcher jene vorausgesetzten Operationen in Syllogismen aufschliesst."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 525,
+          "printed_page": "497",
+          "display_printed_page": "497"
+        },
+        {
+          "pdf_page": 526,
+          "printed_page": "498",
+          "display_printed_page": "498"
+        }
+      ]
+    },
+    {
+      "id": "part027-u079",
+      "type": "paragraph",
+      "page": "498",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u079"
+        },
+        "最后，这里再次验证：正如在起源的序列中，直言判断对其他关系判断所具有的配置，对诸推论也同样有效。于是，普遍性的直言推论、即作为必然性的直言推论，仿佛是起源的推论；因为即便实体，若起源不在其中继续起作用，也不能拥有其配置性的含义。于是我们看到，范畴、即起源判断，把其根本力量扩展到整个逻辑领域：它既有效地引导诸推论、规定其种类，也同样产生判断的种类。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u079"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u079-page-526"
+        },
+        "Und endlich bewährt sich hier wieder, wie in Abfolge des Ursprungs, die Disposition, welche dem kategorischen Urtheil für die anderen Urtheile der Relation beiwohnt, auch für die Schlüsse. So ist der kategorische Schluss der Allgemeinheit, als der Nothwendigkeit, gleichsam der Schluss des Ursprungs; denn auch die Substanz könnte ihre dispositäre Bedeutung nicht besitzen, wenn nicht der Ursprung auch in ihr nachwirkte. Und so gewahren wir, dass die Kategorie, das Urtheil des Ursprungs ihre fundamentale Kraft über das ganze Gebiet der Logik erstreckt, indem sie ebenso wirksam die Schlüsse leitet, und ihre Arten bestimmt, wie sie die des Urtheils erzeugt."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 526,
+          "printed_page": "498",
+          "display_printed_page": "498"
+        }
+      ]
+    },
+    {
+      "id": "part027-u080",
+      "type": "paragraph",
+      "page": "498",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-part027-u080"
+        },
+        "但由此，三段论按其对于纯粹认识的意义而具有的逻辑特征，只会更加清楚地得到论证。纯粹认识作为植根于起源的必然性认识，凭借同一起源生长为推论程序；在推论程序中，通过演绎和归纳进行证明，而证明凭借特殊者把个别者与普遍者联结起来。在归纳中，普遍者并不停止；它只是获得一种更加提高的含义，即理想概念的含义。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-part027-u080"
+        },
+        {
+          "type": "anchor",
+          "id": "en-part027-u080-page-526"
+        },
+        "Damit aber begründet sich nur um so deutlicher der logische Charakter des Syllogismus nach seiner Bedeutung für die reine Erkenntniss. Die reine Erkenntniss, als die der Nothwendigkeit, welche im Ursprung wurzelt, wächst kraft desselben zu dem Schlussverfahren aus, in welchem durch Deduction und Induction der Beweis geführt wird, der mittelst des Besonderen das Einzelne mit dem Allgemeinen verknüpft. Und in der Induction hört das Allgemeine nicht etwa auf; sondern es nimmt nur eine noch gesteigertere Bedeutung an, nämlich die des idealischen Begriffs."
+      ],
+      "sourcePages": [
+        {
+          "pdf_page": 526,
+          "printed_page": "498",
+          "display_printed_page": "498"
+        }
+      ]
+    }
+  ],
+  "notes": {},
+  "sourceLanguage": "de",
+  "sourceLanguageLabel": "Deutsch"
+}

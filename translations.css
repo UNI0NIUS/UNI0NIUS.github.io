@@ -1,6 +1,6 @@
 @font-face{font-family:"Reading Serif";src:url("fonts/reading-serif.woff2") format("woff2");font-style:normal;font-weight:400 700;font-display:swap}
 @font-face{font-family:"Reading Serif";src:url("fonts/reading-serif-italic.woff2") format("woff2");font-style:italic;font-weight:400 700;font-display:swap}
-@font-face{font-family:"Reading CJK";src:url("fonts/reading-cjk.woff2?v=263ea910d388") format("woff2");font-style:normal;font-weight:400 600;font-display:swap}
+@font-face{font-family:"Reading CJK";src:url("fonts/reading-cjk.woff2?v=18149d73ee35") format("woff2");font-style:normal;font-weight:400 600;font-display:swap}
 :root{--translation-serif:"Reading Serif","Reading CJK",Georgia,"Noto Serif SC","Noto Serif CJK SC","Source Han Serif SC","Songti SC",SimSun,serif}
 .translation-card h3,.translation-reader .post-title,.chapter-sidebar .book-name{font-family:var(--translation-serif);font-synthesis:none;font-weight:600}
 .translation-reader .post-body:lang(zh){font-family:var(--translation-serif);font-synthesis:none}
