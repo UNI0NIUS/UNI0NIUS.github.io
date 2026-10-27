@@ -302,21 +302,21 @@ window.TRANSLATIONS = {
         },
         {
           "label": "中文 Markdown",
-          "url": "translations/books/cohen-system-der-philosophie-1/cohen_system_1_zh.md?v=00a8122cae5b",
-          "bytes": 1013991,
-          "sha256": "00a8122cae5bfdb68e48e5befcdb1cc39f827788c84f7da05c8b92eadfcf4bb0"
+          "url": "translations/books/cohen-system-der-philosophie-1/cohen_system_1_zh.md?v=04c94ccebf6e",
+          "bytes": 1011027,
+          "sha256": "04c94ccebf6e9bb52ddededfa9eca8b7cb146744f01797efeb482e8c77847017"
         },
         {
           "label": "德文 Markdown",
-          "url": "translations/books/cohen-system-der-philosophie-1/cohen_system_1_de.md?v=008efc863aeb",
-          "bytes": 1281480,
-          "sha256": "008efc863aebc66be5d23c60b7699f212c99e8b7ed66f765a78ce14c7176e089"
+          "url": "translations/books/cohen-system-der-philosophie-1/cohen_system_1_de.md?v=25bcf8f76d6e",
+          "bytes": 1278516,
+          "sha256": "25bcf8f76d6e65daf4da4861768c5b0587657964d3a030d391cf2d68ac185f53"
         },
         {
           "label": "可编辑源码包",
-          "url": "translations/books/cohen-system-der-philosophie-1/cohen_system_1_source.zip?v=ae2072d9576f",
-          "bytes": 7794290,
-          "sha256": "ae2072d9576f4b0175e996854e4952c04612f2a73a4e87f8b9697318e890dd4b"
+          "url": "translations/books/cohen-system-der-philosophie-1/cohen_system_1_source.zip?v=481ba245d150",
+          "bytes": 7794069,
+          "sha256": "481ba245d1502edc7951d7b349fbc8f2ca0f9ba74c02f7e92959ffe79f7a9720"
         }
       ],
       "reviewedCanonicalSha256": "283cbe0907eacf663349a629ee0722f5d9a74c72810ea968248a201f26c1609b",
