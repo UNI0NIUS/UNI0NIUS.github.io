@@ -1,0 +1,2967 @@
+{
+  "id": "chapter-07",
+  "title": "第七章 范畴作为思维的形式",
+  "originalTitle": "Siebentes Kapitel. Die Kategorieen als Formen des Denkens.",
+  "body": [
+    {
+      "id": "p257-ch-7",
+      "type": "heading",
+      "page": "257",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p257-ch-7"
+        },
+        "第七章 范畴作为思维的形式"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p257-ch-7"
+        },
+        "Siebentes Kapitel. Die Kategorieen als Formen des Denkens."
+      ]
+    },
+    {
+      "id": "p257-u0798",
+      "type": "paragraph",
+      "page": "257",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p257-u0798"
+        },
+        "让我们暂时离开已经获得的立场——从那里，判断方式、范畴和原理的发现可以一眼完成——，把自己置入那些让形而上学演绎在内在次序上先于先验演绎的人的观点之中；那么即便在这个观点上，康德如何达到范畴这一问题，也必须以不同于已经发生的方式得到讨论。本来应当显得无可置疑、不言自明：这种先天也像感性的先天一样，是在反思的道路上被发现的。因为经验在哪些概念中建立其统一性，只有通过对我们在经验中所拥有和所主张的东西进行沉思才能得知。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p257-u0798"
+        },
+        " Gehen wir eine Weile von dem gewonnenen Standpunkt ab, von dem aus die Entdeckung der Arten von Urtheil, Kategorie und Grundsatz mit Einem Blicke erfolgt; versetzen wir uns in die Ansicht derjenigen, welche die metaphysische Deduction innerlich der transscendentalen voraufgehen lassen, so musste doch auch auf diesem Standpunkte die Frage, wie Kant zu der Kategorie gekommen sei, anders discutirt werden, als geschehen ist. Es hätte unbezweifelbar selbstverständlich erscheinen müssen, dass auch dieses a priori, wie das der Sinnlichkeit, auf dem Wege der Reflexion gefunden ward. Denn in welchen Begriffen die Erfahrung ihre Einheit gründe, kann allein die Besinnung lehren über das, was wir an der Erfahrung besitzen und behaupten."
+      ]
+    },
+    {
+      "id": "p257-u0799",
+      "type": "paragraph",
+      "page": "257",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p257-u0799"
+        },
+        "但人们如此表面地、正统主义地理解康德的先天，以至于要求：凡要作为先天有效的东西，也必须是被先天地发现的；否则它就只是经验性的。在近代学者中，K. 费舍尔主张这一观点。“如果范畴是心理学洞见的对象，那么它们就是经验对象，于是凡对所有经验对象无例外地有效的东西，也对它们有效。没有任何经验对象是普遍而必然的；至少这种性质绝不能通过经验被看出。所以，如果范畴仅仅是经验对象，那么它们既不是",
+        {
+          "type": "page",
+          "page": "258",
+          "id": "zh-p257-u0799-page-1"
+        },
+        "普遍的，也不是必然的，至少只要它们被视为经验对象，就不应被视为普遍必然的：于是它们不是先天的，因而根本不是范畴。还剩下什么呢？康德批判所强调的一切意义，一点也没有剩下。”",
+        {
+          "type": "note",
+          "id": "p258-n01",
+          "label": "1"
+        }
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p257-u0799"
+        },
+        " So äusserlich legitimistisch aber hat man das a priori Kants verstanden, dass man gefordert hat: Was als a priori gelten wolle, müsse auch a priori entdeckt worden sein; sonst sei es nur empirisch. Diese Ansicht vertritt unter den Neueren K. Fischer. „Sind die Kategorieen Objecte einer psychologischen Einsicht, so sind sie Erfahrungsobjecte, so gilt von ihnen, was von allen Erfahrungsobjecten ohne Ausnahme gilt. Kein Erfahrungsobject ist allgemein und nothwendig; wenigstens lässt sich diese Beschaffenheit durch Erfahrung nie einsehen. Sind also die Kategorieen blos Erfahrungsobjecte, so sind sie weder ",
+        {
+          "type": "page",
+          "page": "258",
+          "id": "en-p257-u0799-page-1"
+        },
+        " allgemein, noch nothwendig, dürfen wenigstens als solche nicht angesehen werden, so lange sie als Erfahrungsobjecte gelten: so sind sie nicht a priori, also überhaupt nicht Kategorieen. Was bleibt übrig? Nichts bleibt von der Bedeutung, auf welche die Kantische Kritik alles Gewicht legt.“",
+        {
+          "type": "note",
+          "id": "p258-n01",
+          "label": "1"
+        }
+      ]
+    },
+    {
+      "id": "p258-u0800",
+      "type": "paragraph",
+      "page": "258",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p258-u0800"
+        },
+        "我们用康德的话来反驳这一误解：“一般内部经验及其可能性，或者一般知觉及其与另一知觉的关系，若没有其中任何特殊差异和规定被经验性地给予，就不能被视为经验性认识，而必须被视为对一般经验东西的认识，属于对每一种经验之可能性的研究，而这种研究确实是先验的。”（第294页，参见第296页。）",
+        {
+          "type": "note",
+          "id": "p258-n02",
+          "label": "2"
+        },
+        " 而如果这种研究是先验的、甚至是那种先验的研究，那么它的对象当然至少是一个反思对象。但K. 费舍尔进一步把反思对象转换为“经验对象”，这是一种混淆，康德本人曾针对埃伯哈德为自己辩护过。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p258-u0800"
+        },
+        " Diesem Missverständniss setzen wir die Kantischen Worte entgegen: „innere Erfahrung überhaupt und deren Möglichkeit, oder Wahrnehmung überhaupt und deren Verhältniss zu andrer Wahrnehmung, ohne dass irgend ein besonderer Unterschied derselben und Bestimmung empirisch gegeben ist, kann nicht als empirische Erkenntniss, sondern muss als Erkenntniss des Empirischen überhaupt angesehen werden und gehört zur Untersuchung der Möglichkeit einer jeden Erfahrung, welche allerdings transscendental ist.“ (S. 294 vergl. S. 296.) ",
+        {
+          "type": "note",
+          "id": "p258-n02",
+          "label": "2"
+        },
+        " Und wenn diese Untersuchung transscendental, vielmehr die transscendentale ist, so ist der Gegenstand derselben freilich zum mindesten ein Reflexionsobject. Aber K. Fischer begeht ferner durch die Umsetzung der Reflexionsobjecte in „Erfahrungsobjecte“ eine Verwechselung, welche Kant selbst gegen Eberhard von sich abgewehrt hat."
+      ]
+    },
+    {
+      "id": "p258-u0801",
+      "type": "paragraph",
+      "page": "258",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p258-u0801"
+        },
+        "埃伯哈德曾把这样的主张强加给康德：除数学判断之外，只有经验判断是综合的，“而批判却提出一个由形而上学原理、而且是综合原理构成的完整体系，并通过先天证明来阐明它们。我的主张曾是：尽管如此，这些原理只是经验之可能性的原理；他把这变成：它们只是经验判断，于是把我称为经验之根据的东西变成经验的结果。这样，凡从批判落到他手里的东西，都先被颠倒和歪曲了。”",
+        {
+          "type": "note",
+          "id": "p258-n03",
+          "label": "3"
+        },
+        " 正如埃伯哈德把经验之可能性的原理变成经验判断，费舍尔把经验之可能性的条件变成“经验对象”！"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p258-u0801"
+        },
+        " Eberhard hatte Kant die Behauptung zugeschoben: die Urtheile der Mathematik ausgenommen, wären nur die Erfahrungsurtheile synthetisch, „da doch die Kritik die Vorstellung eines ganzen Systems von metaphysischen und zwar synthetischen Grundsätzen aufstellt und sie durch Beweise a priori darthut. Meine Behauptung war, dass gleichwohl diese Grundsätze nur Principien der Möglichkeit der Erfahrung sind; er macht daraus, dass sie nur Erfahrungsurtheile sind, mithin aus dem, was ich als Grund der Erfahrung nenne, eine Folge derselben. So wird Alles, was aus der Kritik in seine Hände kommt, vorher verdreht und verunstaltet.“",
+        {
+          "type": "note",
+          "id": "p258-n03",
+          "label": "3"
+        },
+        " Wie Eberhard aus den Principien der Möglichkeit der Erfahrung Erfahrungsurtheile macht, so macht Fischer aus den Bedingungen der Möglichkeit der Erfahrung „Erfahrungsobjecte“!"
+      ]
+    },
+    {
+      "id": "p258-u0802",
+      "type": "paragraph",
+      "page": "258",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p258-u0802"
+        },
+        "这种“颠倒和歪曲”的观点，",
+        {
+          "type": "page",
+          "page": "259",
+          "id": "zh-p258-u0802-page-1"
+        },
+        "宇伯维格早已驳斥过，",
+        {
+          "type": "note",
+          "id": "p259-n01-part1",
+          "label": "1)"
+        },
+        " 于尔根·博纳·迈耶也起来反对它。“所以，康德显然不想再次先天地证明先天这一事实，而是想按照先天的一般标准，在反思性自我沉思的道路上找到它。”",
+        {
+          "type": "note",
+          "id": "p259-n01-part2",
+          "label": "2)"
+        },
+        " 我们请读者参阅下面所提到的著作中对这一整个令人不快的争论问题的详尽阐述，并且本来会把它视为在那里已经解决——如果那项细致的研究以一个判断作结，而这个判断本可以表现出批判的自由：以一句温和的表达，道出对这种不幸混乱的人类感受。相反，那里却主张这样的意见：康德本人“曾拘泥于那种妄想”。“在康德那里，这一点没有达到清晰表达：我们固然不是从经验中取得先天形式，而是通过对经验的反思获得对这一拥有的意识。弗里斯在这一方面以出色的方式补充了康德哲学。”",
+        {
+          "type": "note",
+          "id": "p259-n02",
+          "label": "3"
+        }
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p258-u0802"
+        },
+        " Dieser „verdrehenden und verunstaltenden“ Ansicht, welche ",
+        {
+          "type": "page",
+          "page": "259",
+          "id": "en-p258-u0802-page-1"
+        },
+        " schon Ueberweg abgewiesen hatte,",
+        {
+          "type": "note",
+          "id": "p259-n01-part1",
+          "label": "1)"
+        },
+        " tritt auch Jürgen Bona Meyer entgegen. „Kant will also offenbar den Thatbestand des a priori nicht wiederum a priori darthun, sondern denselben nach den allgemeinen Kriterien des a priori auf dem Wege der reflectirenden Selbstbesinnung finden.“",
+        {
+          "type": "note",
+          "id": "p259-n01-part2",
+          "label": "2)"
+        },
+        " Wir verweisen auf die ausführliche Darlegung dieser ganzen unerquicklichen Streitfrage in dem unten genannten Werke, und würden dieselbe als dort erledigt bezeichnen, wenn die sorgsame Untersuchung mit einem Urtheile beschlossen worden wäre, in dem sich kritische Freiheit hätte bekunden dürfen: im leisen Ausdruck einer menschlichen Empfindung über jene unglückselige Verwirrung. Statt dessen wird daselbst die Meinung behauptet, dass Kant selbst „in jenem Wahne befangen gewesen sei.“ „Darüber ist es bei Kant nicht zum klaren Ausdrucke gekommen, dass wir freilich nicht aus der Erfahrung die apriorischen Formen, aber durch Reflexion über die Erfahrung das Bewusstsein dieses Besitzes gewinnen. Fries hat die Kant'sche Philosophie in trefflicher Weise nach dieser Seite ergänzt.“",
+        {
+          "type": "note",
+          "id": "p259-n02",
+          "label": "3"
+        }
+      ]
+    },
+    {
+      "id": "p259-u0806",
+      "type": "paragraph",
+      "page": "259",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p259-u0806"
+        },
+        "因此，面对这些今天仍然绝非过时的",
+        {
+          "type": "note",
+          "id": "p259-n03",
+          "label": "4"
+        },
+        "观点，必须明确说出：先验先天这一思想的发现者，毕竟还是应当弄清他究竟走了哪条道路——根据一切人类可能性，他只能沿着这条道路达到对经验之先天条件的发现。说他按照先验方法只能在历史-文献的、或许还有心理学的、简言之“形而上学的”反思中找到这些条件，这并不取消其先天性，也没有使它就此完成；这仅仅是在准备先天性，即准备先验的先天性。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p259-u0806"
+        },
+        " So muss es denn in Rücksicht auf solche auch heute noch keineswegs antiquirte",
+        {
+          "type": "note",
+          "id": "p259-n03",
+          "label": "4"
+        },
+        " Ansichten ausdrücklich ausgesprochen werden, dass der Entdecker des Gedankens vom Transscendental-a priori sich doch über den Weg klar geworden sein möchte, auf dem er zur Entdeckung der apriorischen Bedingungen der Erfahrung nach aller Menschenmöglichkeit allein gelangt sein konnte. Dass er sie nach der transscendentalen Methode nur in der historisch-literarischen, allenfalls auch psychologischen, kurz der „metaphysischen“ Reflexion gefunden haben kann und darf, hebt die Apriorität nicht auf — und schliesst sie nicht ab; sondern bereitet sie lediglich vor, nämlich die transscendentale Apriorität."
+      ]
+    },
+    {
+      "id": "p260-u0810",
+      "type": "paragraph",
+      "page": "260",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p260-u0810"
+        },
+        "另一个责备是赫尔巴特针对这种据说完全无权的经验性范畴发现提出的：“康德已经给感性指定了它的形式；现在轮到知性了。关于灵魂官能的偏见——认为每种官能都把某些确定的形式带入经验——当时已经存在。”",
+        {
+          "type": "note",
+          "id": "p260-n01",
+          "label": "1"
+        },
+        " 说“关于灵魂官能的偏见”促成了这种抽象，这并未得到证明；这种偏见的情形如何，我们还要专门考察；只是从一开始就不大可能：康德在前批判时期已经如此拒绝地谈论灵魂的“基本力量或基本能力”",
+        {
+          "type": "note",
+          "id": "p260-n02",
+          "label": "2"
+        },
+        "，在如此成熟的时期竟会陷入这种 ignava ratio（懒惰的理性）。相反，我们从感性论知道，康德在表象本身——无论它们是直观还是概念——中把形式与质料区分开来。赫尔巴特对此给予高度评价。",
+        {
+          "type": "note",
+          "id": "p260-n03",
+          "label": "3"
+        },
+        " 康德在引用的那句话中也追踪同一种区分。相反，赫尔巴特让范畴从“最不同的材料”中产生。“在判断中，按其本质产生否定的概念。因而也产生其对立面，即肯定的概念。进一步，多个判断的组合……给出句子中假设性语言形式的机会……最后，经验揭示……偶然性。这些从完全不同的地方搜罗来的杂多东西，如果人们想知道其起源，早已在判断和句子的通常形式中经验性地呈现出来。‘如果我们从判断的内容中抽象出来，那么我们就会发现（这是康德自己的话），思维的功能可以归入四个标题，每个标题下有三个环节。’康德的整个演绎就在‘我们发现’这几个字里。对于一个想要测量知性官能的学说来说，这是一个糟糕的基础！但即便假定著名的判断形式表",
+        {
+          "type": "page",
+          "page": "261",
+          "id": "zh-p260-u0810-page-1"
+        },
+        "确实具有——而它并没有——本质性的内在联系，那么当空洞逻辑的判断形式要转变为形而上学认识概念时，还必须再跳一步。我们且假定这一跳已经发生。”我们且假定？赫尔巴特可以把两版“先验演绎”视为不够充分的解释、视为“一跳”；但“想要假定这一跳已经发生”，这意味着完全忽视先验演绎的存在，并让“整个”演绎停留在“我们发现”这几个字里。然而，这恐怕是在“发现”中寻找了太多东西。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p260-u0810"
+        },
+        " Ein anderer Vorwurf ist gegen diese angeblich rechtlos empirische Auffindung der Kategorieen von Herbart erhoben worden: „Kant hatte der Sinnlichkeit ihre Formen angewiesen; die Reihe kam nun an den Verstand. Das Vorurtheil von Seelenvermögen, deren jedes gewisse bestimmte Formen in die Erfahrung hineintrage, war einmal da.“",
+        {
+          "type": "note",
+          "id": "p260-n01",
+          "label": "1"
+        },
+        " Dass „das Vorurtheil von Seelenvermögen“ diese Abstraction veranlasst habe, ist nicht bewiesen; wie es sich mit demselben verhält, werden wir noch in besondere Erwägung ziehen; nur ist es unwahrscheinlich von vornherein, dass Kant, der in der vorkritischen Periode bereits so ablehnend gegen die „Grundkräfte oder Grundfähigkeiten“ der Seele",
+        {
+          "type": "note",
+          "id": "p260-n02",
+          "label": "2"
+        },
+        " sich geäussert, in so reifer Zeit dieser ignava ratio verfallen sein sollte. Dagegen wissen wir von der Aesthetik her, dass Kant in den Vorstellungen selbst, es seien Anschauungen oder Begriffe, die Form von der Materie scheidet. Und dies rechnet ihm Herbart hoch an.",
+        {
+          "type": "note",
+          "id": "p260-n03",
+          "label": "3"
+        },
+        " Derselben Unterscheidung spürt nun Kant auch in dem angezogenen Satze nach. Herbart dagegen lässt die Kategorieen aus den „verschiedenartigsten Materialien“ entstehen. „In den Urtheilen entspringt, ihrem Wesen nach, der Begriff der Verneinung. Folglich auch dessen Gegentheil, der Begriff der Bejahung . . Weiter giebt die Zusammensetzung mehrerer Urtheile.. Gelegenheit zu hypothetischen Sprachformen in Sätzen.. Endlich enthüllt die Erfahrung.. Zufälligkeit. Dies Mancherlei, das von ganz verschiedenen Orten her muss zusammengesucht werden, wenn man seinen Ursprung wissen will: hatte sich empirisch in den üblichen Formen der Urtheile und Sätze dargeboten. „Wenn wir vom Inhalte der Urtheile abstrahiren, so finden wir, (dies sind Kant's eigene Worte), dass die Function des Denkens unter vier Titeln mit drei Momenten könne gebracht werden.“ Die ganze Deduction Kant's liegt in den Worten: so finden wir. Ein schlechtes Fundament für eine Lehre, welche das Vermögen des Verstandes ausmessen wollte! Gesetzt aber, die bekannte Tafel der Urtheilsformen ",
+        {
+          "type": "page",
+          "page": "261",
+          "id": "en-p260-u0810-page-1"
+        },
+        " hätte wirklich, was sie nicht hat, wesentlichen innern Zusammenhang: so musste nun noch ein Sprung gemacht werden, wenn Urtheilsformen der leeren Logik sich in metaphysische Erkenntnissbegriffe verwandeln sollten. Wir wollen annehmen, der Sprung sei geschehen.“ Wir wollen annehmen? Herbart kann die „transscendentale Deduction“ in den beiden Bearbeitungen für keine ausreichende Erklärung, für einen „Sprung“ ansehen; aber „annehmen wollen, dass der Sprung geschehen sei,“ bedeutet das Vorhandensein der transscendentalen Deduction gänzlich ignoriren: und die „ganze“ Deduction in den Worten: so finden wir, bestehen lassen. Dies möchte denn aber doch wohl in dem „Finden“ zu viel suchen heissen."
+      ]
+    },
+    {
+      "id": "p261-u0814",
+      "type": "paragraph",
+      "page": "261",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p261-u0814"
+        },
+        "首先，请放弃叔本华也表达过的那种意见，仿佛康德是依照先验感性论事后造作纯粹知性概念的。我们毋宁倾向于认为，康德是先于空间和时间而把范畴认作第三阶的先天要素的（上文第214页及以下）。因为他出发所依据、所谈论的问题是：先天综合命题如何可能？这种可能性基于我们从自身置入事物的综合统一性。这种综合统一性就是范畴。",
+        {
+          "type": "note",
+          "id": "p261-n01",
+          "label": "1"
+        },
+        " 因此，先验性格似乎只是从范畴出发才转移到空间和时间上。但即便范畴只被视为某种源始的东西和知性的综合形式，而根本还不被视为原理的综合统一性，其词源含义也已经足够指示批判的基本问题，足以被视为对该问题之回答的最初萌芽；因为在范畴中表达出了可读出的综合根据。反过来，从这个根据出发也可以提出这个问题：是什么迫使康德把空间和时间作为独立的先天性从知性的综合统一性",
+        {
+          "type": "page",
+          "page": "262",
+          "id": "zh-p261-u0814-page-1"
+        },
+        "中分离出来，并把它们标划为具有自身有效性的先验形式。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p261-u0814"
+        },
+        " Vor Allem gebe man die Meinung auf, welche auch Schopenhauer ausspricht, als ob Kant die reinen Verstandesbegriffe der transscendentalen Aesthetik nachgekünstelt habe. Wir sind vielmehr geneigt anzunehmen, dass Kant die Kategorieen vor Raum und Zeit als apriorische Elemente dritten Grades (ob. S. 214 ff) erkannt habe. Denn worauf und wovon er ausging, war die Frage: Wie sind synthetische Sätze a priori möglich? Diese Möglichkeit beruht auf der synthetischen Einheit, welche wir aus uns in die Dinge legen. Diese synthetische Einheit ist die Kategorie.",
+        {
+          "type": "note",
+          "id": "p261-n01",
+          "label": "1"
+        },
+        " Erst von den Kategorieen aus scheint daher der transscendentale Charakter des a priori auf Raum und Zeit überzugehen. Aber wenn die Kategorie auch nur als ein Ursprüngliches und als die synthetische Form des Verstandes gilt und noch gar nicht als die synthetische Einheit des Grundsatzes, so liegt doch schon in ihrer etymologischen Bedeutung Hinweis genug auf die kritische Grundfrage, um als erster Keim der Antwort auf dieselbe angesehen werden zu dürfen; denn in ihr ist der ablesbare Grund der Synthesis ausgedrückt. Umgekehrt kann von diesem Grunde aus die Frage sich erheben, was Kant genöthigt habe, Raum und Zeit als selbständige Aprioritäten von der synthetischen Einheit ",
+        {
+          "type": "page",
+          "page": "262",
+          "id": "en-p261-u0814-page-1"
+        },
+        " des Verstandes abzusondern, und als transscendentale Formen eigener Geltung auszuzeichnen."
+      ]
+    },
+    {
+      "id": "p262-u0817",
+      "type": "paragraph",
+      "page": "262",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p262-u0817"
+        },
+        "对于我们这种关于范畴在《批判》计划中的组织性意义的理解，请允许指出一处隐蔽的段落，我们的观点在那里有所暗示。康德在针对埃伯哈德维护分析判断与综合判断之别作为先验哲学的纽结时说道：单是“综合的”这一表达就已经包含先天综合的思想，并引起这样的研究：“是否有一些概念（范畴），它们所陈述的只是杂多性（在某种直观中）的纯粹综合统一性，以服务于一般对象的概念，并且先天地作为对对象之一切认识的基础；而既然这些概念只涉及一般对象的思维，那么是否对于这样一种综合认识，对象必须被给予的方式、即其直观的形式，也同样被先天预设。”",
+        {
+          "type": "note",
+          "id": "p262-n01",
+          "label": "1"
+        }
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p262-u0817"
+        },
+        " Für diese unsere Auffassung von der organisirenden Bedeutung der Kategorie im Plane der Kritik sei auf eine versteckte Stelle hingewiesen, in welcher unsere Ansicht angedeutet ist. Indem Kant nämlich gegen Eberhard den Unterschied zwischen analytischen und synthetischen Urtheilen als den Knotenpunkt der Transscendentalphilosophie aufrecht erhält, sagt er, schon der Ausdruck synthetisch enthalte den Gedanken einer Synthesis a priori, und veranlasse die Untersuchung: „ob es nicht Begriffe (Kategorieen) gebe, die nichts als die reine synthetische Einheit eines Mannichfaltigen (in irgend einer Anschauung) zum Behuf des Begriffs eines Objects überhaupt aussagen, und die a priori aller Erkenntniss desselben zum Grunde liegen; und da diese nun bloss das Denken eines Gegenstandes überhaupt betreffen, ob nicht auch zu einer solchen synthetischen Erkenntniss die Art, wie derselbe gegeben werden müsse, nämlich eine Form seiner Anschauung ebensowohl a priori vorausgesetzt werde.“",
+        {
+          "type": "note",
+          "id": "p262-n01",
+          "label": "1"
+        }
+      ]
+    },
+    {
+      "id": "p262-u0818",
+      "type": "paragraph",
+      "page": "262",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p262-u0818"
+        },
+        "这个极其值得注意的段落，应提请所有那些在范畴的抽象中看到一种仿照感性纯粹形式而造作的精巧技艺的人注意。无论人们怎样看待先验逻辑的阐述，它从判断形式中推导纯粹知性概念的计划和基本思想，都表现出同样的心理学清晰性和同样的先验深度——而逻辑学的批评者们在感性论中正是对此表示钦佩。因为判断的形式就是综合原理的骨架。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p262-u0818"
+        },
+        " Diese höcht merkwürdige Stelle sei Allen denen zur Beachtung empfohlen, welche in der Abstraction der Kategorieen eine den reinen Formen der Sinnlichkeit nachgebildete Künstelei erblicken. Wie man auch über die Ausführung der transscendentalen Logik denken mag, die Anlage und der Grundgedanke derselben, die reinen Verstandesbegriffe aus den Formen des Urtheils abzuleiten, zeugt von derselben psychologischen Klarheit und derselben transscendentalen Tiefe, welche die Tadler der Logik in der Aesthetik bewundern. Denn die Form des Urtheils ist das Gerüst des synthetischen Grundsatzes."
+      ]
+    },
+    {
+      "id": "p262-u0819",
+      "type": "paragraph",
+      "page": "262",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p262-u0819"
+        },
+        "因此，范畴的先天性以与空间和时间的先天性相同的方式逐步提高。首先，它们被称为“源始地产生的”和“知性的原始概念”而被称为先天的；在“经过长期思考”而进行的对“人类认识要素”的研究中，它们作为这样的东西被分离出来。只是到后来，“原始概念”才深化为“经验的形式”。形而上学演绎之后接着是先验演绎。",
+        {
+          "type": "page",
+          "page": "263",
+          "id": "zh-p262-u0819-page-1"
+        },
+        "但康德按照什么原则完成前者呢？他主张自己遵循这样一个原则；正是以亚里士多德缺少这一原则为根据，他提出责备，说亚里士多德把范畴“搜罗拢来”。这一用于范畴之形而上学发现的原则，就是范畴之先验成就的原则：经验之诸综合统一性的原则。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p262-u0819"
+        },
+        " Die Apriorität der Kategorieen steigert sich demgemäss in derselben Weise, wie die von Raum und Zeit. Zuerst werden sie als „ursprünglich erzeugte“ und als „Stammbegriffe des Verstandes“ a priori genannt, und als solche werden sie bei einer Untersuchung der „Elemente der menschlichen Erkenntniss nach langem Nachdenken“ abgesondert. Erst später werden die „Stammbegriffe“ zu den „Formen der Erfahrung“ vertieft. Der metaphysischen Deduction folgt die transscendentale. ",
+        {
+          "type": "page",
+          "page": "263",
+          "id": "en-p262-u0819-page-1"
+        },
+        " Nach welchem Princip aber vollzieht Kant die erstere? Er behauptet, nach einem solchen zu verfahren; auf den Mangel desselben bei Aristoteles gründet er den Vorwurf, den er diesem macht, seine Kategorieen „aufgerafft“ zu haben. Dieses Princip für die metaphysische Entdeckung der Kategorieen ist das Princip der transscendentalen Leistung derselben: das der synthetischen Einheiten der Erfahrung."
+      ]
+    },
+    {
+      "id": "p263-u0821",
+      "type": "paragraph",
+      "page": "263",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p263-u0821"
+        },
+        "这项伟大发现出现在《批判》中时，仍因那种在多年劳作之后、瞬间的恩惠带来清晰之前的探索焦虑而颤动，因此还不了解反对者的异议，在这样个人性的统一中仍与事情本身融为一体，也未曾考虑谨慎的、预防偏见的说服方式。相反，在《导论》中，作者已经面对自己的作品，因此也能给读者以帮助。我们想在这里插入一段话，它似乎特别适合引导人们对范畴之认识批判价值的判断。“但为了发现这样一个原则，我寻找一种包含其余一切知性活动、并且只通过不同变形或环节而区别开来的知性活动，即把表象的杂多性带入一般思维的统一性之下，于是我发见，这种知性活动就在于判断。在这里，逻辑学家们已经完成了的工作——虽然还不完全免于缺陷——已经摆在我面前，由此我得以展示一张完整的纯粹知性功能表，但这些功能就一切对象而言是不确定的。最后，我把这些判断功能联系到一般对象，或者更确切地说，联系到把判断规定为客观有效的这一条件，于是产生了纯粹知性概念；对于这些概念，我可以毫无疑问：恰恰只有这些、而且只有这么多、不多不少，能够构成我们仅凭知性对事物的一切思维。我按其旧名称正当地把它们称为范畴。”",
+        {
+          "type": "note",
+          "id": "p263-n01",
+          "label": "1"
+        },
+        " 现在，为了理解这一“原则”，并理解康德在从它推导时所遵循的思想——",
+        {
+          "type": "page",
+          "page": "264",
+          "id": "zh-p263-u0821-page-1"
+        },
+        "以至于他甚至对推导出的范畴之正确性、乃至数目都“可以毫无疑问”——，我们必须重新审视范畴的先验意义。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p263-u0821"
+        },
+        " Noch durchzittert von der Angst des Forschens, ehe nach der Arbeit langer Jahre die Gunst des Augenblicks Klarheit gebracht, unbekannt daher noch mit gegnerischen Einwürfen, in solcher persönlichen Einheit noch mit der Sache und unbedacht auf vorsichtige, dem Vorurtheil begegnende Ueberführung tritt diese grosse Entdeckung in der Kritik auf. In den Prolegomenen dagegen steht der Autor bereits seinem Werke gegenüber, und so kann er auch dem Leser nachhelfen. Wir wollen hier eine Stelle einschalten, welche vornehmlich geeignet scheint, das Urtheil über den erkenntnisskritischen Werth der Kategorieen zu orientiren. „Um aber ein solches Princip auszufinden, sah ich mich nach einer Verstandeshandlung um, die alle übrige enthält, und sich nur durch verschiedene Modificationen oder Momente unterscheidet, das Mannichfaltige der Vorstellung unter die Einheit des Denkens überhaupt zu bringen, und da fand ich, diese Verstandeshandlung bestehe im Urtheilen. Hier lag nun schon fertige, obgleich noch nicht ganz von Mängeln freie Arbeit der Logiker vor mir, dadurch ich in den Stand gesetzt wurde, eine vollständige Tafel reiner Verstandesfunctionen, die aber in Ansehung alles Objects unbestimmt waren, darzustellen. Ich bezog endlich diese Functionen zu urtheilen auf Objecte überhaupt, oder vielmehr auf die Bedingung, Urtheile als objectiv-giltig zu bestimmen, und es entsprangen reine Verstandesbegriffe, bei denen ich ausser Zweifel sein konnte, dass gerade nur diese, und ihrer nur so viel, nicht mehr noch weniger, unser ganzes Denken der Dinge aus blossem Verstande ausmachen können. Ich nannte sie wie billig nach ihrem alten Namen Kategorieen.“",
+        {
+          "type": "note",
+          "id": "p263-n01",
+          "label": "1"
+        },
+        " Um nun dieses „Princip“ zu verstehen, und den Gedanken, der Kant bei der Ableitung aus demselben leitete, dergestalt, dass er über die ",
+        {
+          "type": "page",
+          "page": "264",
+          "id": "en-p263-u0821-page-1"
+        },
+        " Richtigkeit der abgeleiteten Kategorieen sogar der Zahl nach „ausser Zweifel sein konnte“, müssen wir die transscendentale Bedeutung derselben von Neuem ins Auge fassen."
+      ]
+    },
+    {
+      "id": "p264-u0823",
+      "type": "paragraph",
+      "page": "264",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p264-u0823"
+        },
+        "先验逻辑学的任务在于：证明经验判断的可能性。经验判断应当通过这一点而与知觉判断区别开来：它们表达客观有效性，并因此表达必然的普遍性。",
+        {
+          "type": "note",
+          "id": "p264-n01",
+          "label": "1"
+        },
+        " 这个“因此”必定已经按照判断分为分析判断与综合判断的实质意义而使我们明白；更确切地说，我们将在后面对此作出说明。现在的问题只是：表达必然普遍性的判断、即经验判断如何可能？通过哪些形式条件它们成为可能？这就是先验问题。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p264-u0823"
+        },
+        " Die Aufgabe der transscendentalen Logik besteht darin: die Möglichkeit von Erfahrungsurtheilen nachzuweisen. Erfahrungsurtheile sollen von den Wahrnehmungsurtheilen dadurch unterschieden sein, dass sie objective Gültigkeit, und desshalb nothwendige Allgemeinheit ausdrücken.",
+        {
+          "type": "note",
+          "id": "p264-n01",
+          "label": "1"
+        },
+        " Dieses „desshalb“ muss uns bereits nach dem Realsinn der Unterscheidung der Urtheile in analytische und synthetische einleuchten; genauer werden wir weiterhin darüber Rechenschaft geben. Die Frage ist jetzt nur: Wie sind Urtheile, welche nothwendige Allgemeinheit aussprechen, wie sind Erfahrungsurtheile möglich? Durch welche formale Bedingungen werden sie ermöglicht? Das ist die transscendentale Frage."
+      ]
+    },
+    {
+      "id": "p264-u0824",
+      "type": "paragraph",
+      "page": "264",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p264-u0824"
+        },
+        "我们已经知道唯一可设想的答案。只有当我们自己产生必然性时才行。康德的一切都从这一思想出发。经验判断——如果毕竟应当有经验判断，如果休谟毕竟没有道理——“任何时候都要求，在感性直观的表象之外还有知性中源始地产生的特殊概念，正是这些概念使经验判断具有客观有效性。”现在我们想暂时把这个问题放在一边：人们如何能够把握这些“源始地产生的概念”？并且，考虑到仍停留在休谟那里、并像休谟一样忽视牛顿的同时代哲学讨论，我们想屈尊讨论这个问题：知觉判断与经验判断之间究竟能否主张一种区别？难道一切经验不都仅仅在于知觉的比较和联结吗？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p264-u0824"
+        },
+        " Wir kennen bereits die einzig denkbare Antwort. Nur, wenn wir die Nothwendigkeit selber hervorbringen. Von diesem Gedanken geht alles bei Kant aus. Die Erfahrungsurtheile, wenn anders es solche geben soll, wenn anders Hume nicht Recht behält, „erfordern jederzeit über die Vorstellungen der sinnlichen Anschauung noch besondere im Verstande ursprünglich erzeugte Begriffe, welche es eben machen, dass das Erfahrungsurtheil objectiv gültig ist.“ Wir wollen jetzt einen Augenblick die Frage bei Seite lassen, wie man dieser „ursprünglich erzeugten Begriffe“ habhaft werden könne? und uns mit Rücksicht auf die zeitgenössische philosophische Discussion, die bei Hume stehen geblieben ist und gleich diesem Newton ignorirt, zu der Frage herablassen: Lässt sich denn wirklich ein Unterschied zwischen den Wahrnehmungs- und den Erfahrungsurtheilen behaupten? Besteht nicht vielmehr alle Erfahrung lediglich in der Vergleichung und Verknüpfung der Wahrnehmungen?"
+      ]
+    },
+    {
+      "id": "p264-u0825",
+      "type": "paragraph",
+      "page": "264",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p264-u0825"
+        },
+        "对这个问题要作两方面的回答。第一：如果你接受这一点，那就没有逃避休谟的出路。在这里想扮演清醒头脑的角色，把对严格必然性的要求当作独断的、幻想的而加以拒绝，事后却又在知觉的“理性加工”中建立某种",
+        {
+          "type": "page",
+          "page": "265",
+          "id": "zh-p264-u0825-page-1"
+        },
+        "必然性，这样一种做法必须作为文字游戏而断然摒弃。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p264-u0825"
+        },
+        " Auf diese Frage ist zweierlei zu antworten. Erstlich: Nimmst du dies an, dann giebt es keine Ausflucht vor Hume. An dieser Stelle den nüchternen Kopf spielen wollen, das Verlangen nach strenger Nothwendigkeit als ein dogmatisches, phantastisches abweisen, hinterher aber dennoch eine Art ",
+        {
+          "type": "page",
+          "page": "265",
+          "id": "en-p264-u0825-page-1"
+        },
+        " von Nothwendigkeit in der „rationalen Bearbeitung“ der Wahrnehmungen einrichten, ein solches Verfahren muss als ein Spiel mit Worten schlechterdings verworfen werden."
+      ]
+    },
+    {
+      "id": "p265-u0827",
+      "type": "paragraph",
+      "page": "265",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p265-u0827"
+        },
+        "但第二个回答在实质上是决定性的。我说“如果太阳照石头，石头就变暖”，与我说“太阳使石头变暖”，这毕竟显然有区别。在前一种情况下，我作出一个主观判断，它基于习惯性的知觉；在后一种情况下，我则上升为一个综合命题，并赋予它必然性。人们当然又会说：区别归结为，我赋予判断一种并不在其中的必然性。但在这里，怀疑主义者犯了根本错误，他以粗糙的方式表面上分析经验的内容。绝未证明：在感官知觉本身中，或在任何事物对我们造成的印象中，已经给予了我们称为因果性的那种联结方式。苏格兰方面早已为这一思想指出：我们并不把每一相继出现的知觉都当作因果性的结果。因此，当怀疑主义者实际上只是说：因果性概念已经包含在相继性中、因果性就是相继性，那他就是在直截了当地窃取论题（petitio principii）；因为问题恰恰在于解释我们如何达到牛顿的原因概念，而对此感觉论者只会说：in time（在时间中）或 by custom（由于习惯）。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p265-u0827"
+        },
+        " Die zweite Antwort aber ist sachlich entscheidend. Es ist doch offenbar ein Unterschied, ob ich sage: wenn die Sonne den Stein bescheint, so wird er warm; oder ob ich sage: die Sonne erwärmt den Stein. In dem einen Falle fälle ich ein subjectives Urtheil, das sich auf gewohnheitsmässige Wahrnehmung stützt; im andern aber erhebe ich mich zu einem synthetischen Satze, dem ich Nothwendigkeit beimesse. Nun wird man zwar wieder sagen: der Unterschied läuft darauf hinaus, dass ich dem Urtheile eine Nothwendigkeit beimesse, welche nicht in ihm liegt. Aber hier macht der Skeptiker den fundamentalen Fehler, den Inhalt der Erfahrung in grober Weise scheinbar zu analysiren. Nimmermehr ist erwiesen, dass in der Sinneswahrnehmung selbst, oder in den Eindrücken, welche etwaige Dinge auf uns machen, diejenige Art der Verknüpfung selbst gegeben sei, welche wir die ursächliche nennen. Schon von schottischer Seite ist für diesen Gedanken geltend gemacht worden, dass wir nicht jede Aufeinanderfolge von Wahrnehmungen als ein causales Erfolgen ausgeben. Wenn daher der Skeptiker eigentlich nicht mehr sagt: als der Begriff der Causalität liege schon in der Succession, sei die Succession, so macht er schlechtweg eine petitio principii; denn eben darum handelt es sich, zu erklären, wie wir zu Newtons Begriff der Ursache kommen, darauf aber weiss der Sensualist nur zu sagen: in time oder by custom."
+      ]
+    },
+    {
+      "id": "p265-u0828",
+      "type": "paragraph",
+      "page": "265",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p265-u0828"
+        },
+        "正如空间和时间并不自在地存在于感觉中，而是在感觉上才被加工成显象，判断中的一切联结形式也是“源始地产生的概念”、是先天的思维形式。我们刚才在原因概念上考察了这一点。后面将更精确地阐明。人们必须极其严格地对待这一点，并认识到这里没有出路。即便那个权宜之计——因果性概念是相继性的“普遍化”——也毫无帮助，完全应当摒弃。因为即便假定它并不具有它所声称的效力，我们仍必须问：思维的哪种特性、甚至哪种奇特之处，为科学产生了这种“普遍化”？",
+        {
+          "type": "page",
+          "page": "266",
+          "id": "zh-p265-u0828-page-1"
+        },
+        "我们如何从对相继性的知觉达到这样一种普遍化的思想，而后者把前者解释为物理学的因果律？这是任何感觉论心理学都没有回答的问题。人们不会想把习惯视为科学的一种思维规定。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p265-u0828"
+        },
+        " Wie Raum und Zeit nicht in den Empfindungen an sich liegen, sondern an den Empfindungen erst zu Erscheinungen verarbeitet werden, so sind auch die Formen der Verknüpfung in allen Urtheilen „ursprünglich erzeugte Begriffe“, apriorische Formen des Denkens. Wir haben dies soeben an dem Begriffe der Ursache betrachtet. Es wird genauer dargethan werden. Man muss dies aufs strengste nehmen und einsehen, dass es hier keinen Ausweg giebt. Auch das Auskunftsmittel, der Begriff der Causalität sei eine „Verallgemeinerung“ der Succession, hilft gar Nichts und ist gänzlich zu verwerfen. Denn, angenommen selbst, sie könne nicht gelten, was sie vorgiebt, so müssen wir immer fragen: welche Eigenthümlichkeit oder selbst Sonderbarkeit des Denkens ruft diese „Verallgemeinerung“ ",
+        {
+          "type": "page",
+          "page": "266",
+          "id": "en-p265-u0828-page-1"
+        },
+        " für die Wissenschaft hervor? Wie kommen wir von der Wahrnehmung der Succession zu dem Gedanken einer Generalisation, welche jene als Causalitätsgesetz der Physik deutet? Das ist die Frage, welche keine sensualistische Psychologie beantwortet hat. Man wird die Gewohnheit nicht für eine Denk-Bestimmung der Wissenschaft halten wollen."
+      ]
+    },
+    {
+      "id": "p266-u0829",
+      "type": "paragraph",
+      "page": "266",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p266-u0829"
+        },
+        "但这种纯然粗糙经验与由知性概念充实了的判断之间的不一致，也可以在任意一个命题上显示出来。原理“直线是两点之间最短的线”预设：线被归摄于量的概念之下。单纯直观并不给出这个概念。从概念出发固然同样不能想出这条原理；但单纯直观也独自造不出它。因此，在一切判断中，人们必须把这种联结概念认作一个附加项（plus），它并不直截了当地包含在知觉的总和中。“如果人们分析他的一切综合判断，就其客观有效而言，就会发现：它们绝不是由单纯直观构成的——人们通常以为，单纯直观通过比较而被联结成一个判断——；相反，如果不是在从直观抽象出的概念之上还加上了纯粹知性概念，而那些概念被归摄于它之下、并由此才在一个客观有效的判断中被联结起来，它们就会是不可能的。”",
+        {
+          "type": "note",
+          "id": "p266-n01",
+          "label": "1"
+        },
+        " 因此，正是“纯粹的”知性概念，才是判断之客观有效性得以奠基的首要根据。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p266-u0829"
+        },
+        " Man kann diese Incongruenz der blossen groben Erfahrung mit dem vom Verstandesbegriffe erfüllten Urtheile aber auch an jedem beliebigen Satze zeigen. Der Grundsatz: die gerade Linie ist die kürzeste zwischen zwei Punkten, setzt voraus, dass die Linie unter den Begriff der Grösse subsumirt werde. Diesen Begriff giebt die blosse Anschauung nicht. Aus dem Begriff liesse sich zwar ebensowenig der Grundsatz erdenken; aber auch die Anschauung allein kann ihn nicht schaffen. So muss man in allen Urtheilen diesen verknüpfenden Begriff als ein plus erkennen, welches nicht schlechtweg in der Summe der Wahrnehmungen enthalten ist. „Zergliedert man alle seine synthetischen Urtheile, sofern sie objectiv gelten, so findet man, dass sie niemals aus blossen Anschauungen bestehen, die bloss, wie man gemeiniglich dafür hält, durch Vergleichung in ein Urtheil verknüpft worden, sondern dass sie unmöglich sein würden, wäre nicht über die von der Anschauung abgezogenen Begriffe noch ein reiner Verstandesbegriff hinzugekommen, unter dem jene Begriffe subsumirt und so allererst in einem objectiv gültigen Urtheil verknüpft werden.“",
+        {
+          "type": "note",
+          "id": "p266-n01",
+          "label": "1"
+        },
+        " Der „reine“ Verstandesbegriff ist es demnach, auf welchen die objective Gültigkeit des Urtheils allererst gegründet wird."
+      ]
+    },
+    {
+      "id": "p266-u0830",
+      "type": "paragraph",
+      "page": "266",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p266-u0830"
+        },
+        "这里又必须打上一个值得深思的问号。按照康德，我们应当把一切“纯然的”经验都视为纯然的知觉，而纯然知觉只给出“比较的普遍性”。相反，严格的必然性被悬设为要求，并最终在“纯粹的”知性概念中被提供出来。但保证在哪里：这个“纯粹的”概念不也是一个“纯然的”概念，没有任何桥梁把它与感性的形式联结起来？我们不妨承认，判断之客观有效性所依据的综合统一性并不自在地包含在知觉中；但是，纯粹知性概念所表达的统一性，是否真的在某种东西中建立了综合——而意识批判绝对不可能对之视而不见，即直观的杂多性？",
+        {
+          "type": "page",
+          "page": "267",
+          "id": "zh-p266-u0830-page-1"
+        }
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p266-u0830"
+        },
+        " Hier ist nun wieder ein bedenkliches Fragezeichen zu machen. Alle „blosse“ Erfahrung sollen wir nach Kant für blosse Wahrnehmung halten, welche nur „comparative Allgemeinheit“ gebe. Dahingegen wird eine strenge Nothwendigkeit postulirt, und schliesslich dargeboten in dem „reinen“ Verstandesbegriff. Wo aber bleibt die Gewähr, dass dieser „reine“ Begriff nicht ebenfalls ein „blosser“ ist, welchen keine Brücke mit den Formen der Sinnlichkeit verbindet? Wir wollen einmal zugeben, dass die synthetische Einheit, auf welcher die objective Gültigkeit eines Urtheils beruht, nicht in den Wahrnehmungen an sich enthalten sei; stiftet denn aber ",
+        {
+          "type": "page",
+          "page": "267",
+          "id": "en-p266-u0830-page-1"
+        },
+        " die Einheit, welche der reine Verstandesbegriff ausdrückt, wirklich eine Synthesis in demjenigen, von dem die Kritik des Bewusstseins schlechterdings nicht absehen kann: in dem Mannichfaltigen der Anschauung?"
+      ]
+    },
+    {
+      "id": "p267-u0832",
+      "type": "paragraph",
+      "page": "267",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p267-u0832"
+        },
+        "这个问题最简洁的回答，在于解决我们最先提出的问题：我们如何能够把握这些纯粹知性概念？假定它们是先天的，它们制约经验的可能性：那么人们究竟如何达到它们全部？如何确知它们的数目不多不少？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p267-u0832"
+        },
+        " Diese Frage wird am bündigsten beantwortet werden in der Lösung der Frage, welche wir zuerst gestellt haben: Wie können wir dieser reinen Verstandesbegriffe habhaft werden? Zugegeben, sie seien a priori, sie bedingen die Möglichkeit der Erfahrung: wie kann man sie alle denn erreichen? Wie ist man sicher, dass es ihrer nicht mehr, noch weniger giebt?"
+      ]
+    },
+    {
+      "id": "p267-u0833",
+      "type": "paragraph",
+      "page": "267",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p267-u0833"
+        },
+        "在这里，我们必须借助我们（上文第76页及以下；第136页及以下）所作的导论性考虑，而且只有它能够给我们定向。当然，我们必须区分：康德受其方法的内在逻辑驱使所追求的东西，与他用以理解和表述其基本思想之统一的表达。我们已经认识到，范畴的发现和排列必定从原理的视角出发，因为康德最终在原理中建立经验的统一性；因此他回溯到判断方式，毋宁说停留在亚里士多德逻辑已经大体上区分出来的那些判断方式上。范畴和判断只是模板，它们在认识内容的一切质料差异中标识出认识之贯通共同的基本特征。但这些认识的价值和根据并不在于这些心理学的表述，而在于在原理中完成的把握。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p267-u0833"
+        },
+        " Hier muss uns die einleitende Erwägung, welche wir (oben S. 76 ff; 136 ff) angestellt haben, und sie allein kann uns orientiren. Allerdings müssen wir unterscheiden, was Kant, von der innern Logik seiner Methode getrieben, angestrebt hat von dem Ausdruck, in welchem er die Einheit seines Grundgedankens selbst begriffen und dargestellt hat. Wir haben erkannt, dass die Entdeckung wie die Anordnung der Kategorieen aus dem Gesichtspunkt der Grundsätze erfolgen musste, weil in diesem letztlich Kant die Einheit der Erfahrung gründet; und dass er demzufolge zu den Urtheilsarten zurückging, vielmehr bei ihnen stehen blieb, welche die Aristotelische Logik bereits im Grossen und Ganzen ausgezeichnet hatte. Kategorieen und Urtheile sind nur die Schablonen, die bei aller materiellen Verschiedenheit des Inhalts der Erkenntnisse die durchgängig gemeinsamen Grundzüge derselben kennzeichnen. Der Werth und Grund dieser Erkenntnisse aber liegt nicht in diesen psychologischen Wendungen, sondern in der Fassung, welche sich in den Grundsätzen vollzieht."
+      ]
+    },
+    {
+      "id": "p267-u0834",
+      "type": "paragraph",
+      "page": "267",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p267-u0834"
+        },
+        "由此得出：康德将会分离出这样一些、这么多的范畴——它们在原理中证明自己是富有成果的、有效的，其数目也与之相应。原则和标准就在原理之中。而只有在判断方式中认识到原理的模板时，人们才能在判断上区分范畴并从判断中推导出范畴。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p267-u0834"
+        },
+        " Daraus folgt, dass Kant solche und so viele Kategorieen ausgesondert haben werde, welche und soviele ihrer in Grundsätzen sich fruchtbar und gültig erweisen. In den Grundsätzen liegt das Princip und das Kriterium. Und nur sofern in den Urtheilsarten die Schablonen der Grundsätze erkannt werden, kann man an den Urtheilen die Kategorieen unterscheiden und von ihnen ableiten."
+      ]
+    },
+    {
+      "id": "p267-u0835",
+      "type": "paragraph",
+      "page": "267",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p267-u0835"
+        },
+        "然而，关于这三组预设之间的上述关系，康德在其演绎的排列中至少没有让人认识到充分的清晰性。它们之间只存在一种就获得而言的方法论区别，",
+        {
+          "type": "page",
+          "page": "268",
+          "id": "zh-p267-u0835-page-1"
+        },
+        "而不是就认识的特征刻画而言的区别——这一点至少没有被康德明确说出；我们或许可以说，在这一点上我们“比作者本人更好地理解了作者”，因为我们使其基本思想的正当性充分展现。此外，他本人把范畴体系中的本质东西规定为：“其使用的条件能够被精确规定。”",
+        {
+          "type": "note",
+          "id": "p268-n01",
+          "label": "1"
+        }
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p267-u0835"
+        },
+        " Ueber dieses sothane Verhältniss der drei Gruppen von Voraussetzungen lässt nun Kant allerdings in der Anordnung seiner Deductionen wenigstens nicht volle Klarheit erkennen. Dass zwischen denselben nur ein methodischer Unterschied bezüglich ",
+        {
+          "type": "page",
+          "page": "268",
+          "id": "en-p267-u0835-page-1"
+        },
+        " der Gewinnung, nicht aber bezüglich der Charakteristik der Erkenntnisse besteht, das ist zum mindesten nicht ausdrücklich von Kant ausgesprochen worden; und wir dürfen vielleicht sagen, dass wir in diesem Punkte „den Autor besser verstehen, als er sich selbst verstanden hat,“ indem wir das Recht seines Grundgedankens zur Entfaltung bringen. Uebrigens bezeichnet er selbst als das Wesentliche in diesem Systeme der Kategorieen: dass „die Bedingung ihres Gebrauchs genau bestimmt werden konnte.“",
+        {
+          "type": "note",
+          "id": "p268-n01",
+          "label": "1"
+        }
+      ]
+    },
+    {
+      "id": "p268-u0836",
+      "type": "paragraph",
+      "page": "268",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p268-u0836"
+        },
+        "他的方法论基本思想的这一真理，促使他修订判断方式。现在我们就转向这一修订，把康德在其话中所表述的做法，与事情本身的逻辑加以比较。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p268-u0836"
+        },
+        " Diese Wahrheit seines methodischen Grundgedankens führte ihn zur Revision der Urtheilsarten. Und dieser wollen wir nunmehr uns zuwenden, indem wir Kants Verfahren, wie es in seinen Worten sich ausspricht, mit der Logik seiner Sache vergleichen."
+      ]
+    },
+    {
+      "id": "p268-u0837",
+      "type": "paragraph",
+      "page": "268",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p268-u0837"
+        },
+        "为了把范畴认作原理中的统一性，“概念分析论”必须把它们作为判断方式中的统一性找出来。但这种分析论是“对知性官能本身还很少被尝试的剖析，以便由此探究先天概念的可能性”，而且它必须“把纯粹概念追溯到人类知性中它们的最初萌芽和禀赋”（第86页）。然而，这种追溯尽管如此仍不能理解为心理学分析；“按照这种仿佛是机械的做法，这项研究将在何处完成，永远不能确定地规定”（第87页）。“发现一切纯粹知性概念的导线”在先验意义上转向判断表。而在判断表中，一般判断标识出思维区别于直观的特征，我们也已经把直观认作意识与其内容的一种必然关系形式。思维中发生的另一种关系方式，由判断印刻出来。思维就是判断。那么思维如何发生呢？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p268-u0837"
+        },
+        " Um die Kategorieen als die Einheiten in den Grundsätzen zu erkennen, muss die „Analytik der Begriffe“ sie als die Einheiten in den Urtheilsarten ausfindig machen. Diese Analytik ist aber „die noch wenig versuchte Zergliederung des Verstandesvermögens selbst, um die Möglichkeit der Begriffe a priori dadurch zu erforschen“, und sie muss „die reinen Begriffe bis zu ihren ersten Keimen und Anlagen im menschlichen Verstande verfolgen“ (S. 86). Aber dieses Verfolgen ist trotzdem nicht als psychologische Analyse zu verstehen; „wo diese Untersuchung werde vollendet sein, lässt sich, nach diesem gleichsam mechanischen Verfahren, niemals mit Sicherheit bestimmen.“ (S. 87.) Der „Leitfaden der Entdeckung aller reinen Verstandesbegriffe“ wendet sich im transscendentalen Sinne an die Tafel der Urtheile. In dieser aber bezeichnet das Urtheil überhaupt den Charakter des Denkens im Unterschiede von der Anschauung, die wir ebenfalls als eine nothwendige Beziehungsform des Bewusstseins auf seinen Inhalt erkannt haben. Die andere Art von Bezogenheit, welche im Denken stattfindet, prägt das Urtheil aus. Denken ist Urtheilen. Wie geschieht nun das Denken?"
+      ]
+    },
+    {
+      "id": "p268-u0838",
+      "type": "paragraph",
+      "page": "268",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p268-u0838"
+        },
+        "思维通过概念中介认识。但概念作为可能判断的谓词，关涉",
+        {
+          "type": "page",
+          "page": "269",
+          "id": "zh-p268-u0838-page-1"
+        },
+        "某个尚未确定对象的表象。例如物体概念关涉金属，金属在“每一种金属都是物体”这一判断中通过该概念被认识。因此，概念只有通过那些包含于其下的表象才能关涉对象，才成其为概念。这种关涉就是判断。因此，概念的任务和种类必定与判断的形式具有相同的思想内容。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p268-u0838"
+        },
+        " Denken vermittelt Erkenntniss durch Begriffe. Begriffe aber beziehen sich, als die Prädicate möglicher Urtheile, auf ",
+        {
+          "type": "page",
+          "page": "269",
+          "id": "en-p268-u0838-page-1"
+        },
+        " irgend eine Vorstellung von einem noch unbestimmten Gegenstande. So bezieht sich der Begriff des Körpers z. B. auf das Metall, das durch ihn erkannt wird in dem Urtheile: ein jedes Metall ist ein Körper. Der Begriff ist mithin nur dadurch Begriff, dass er vermittelst der Vorstellungen, die unter ihm enthalten sind, sich auf Gegenstände beziehen kann. Diese Beziehung ist das Urtheil. Die Aufgabe und die Arten des Begriffs müssen daher mit den Formen des Urtheils denselben gedanklichen Inhalt haben."
+      ]
+    },
+    {
+      "id": "p269-u0840",
+      "type": "paragraph",
+      "page": "269",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p269-u0840"
+        },
+        "这样，康德关于感性直观所主张的规定也清楚了：它是“直接的表象”。因为与它相对立的判断是间接的，即通过概念中介的对一个对象的认识，“因而是一个对象之表象的表象”（第88页）。但既然概念只是作为可能判断的谓词才是概念，它就预设了思维的一种“行动的统一性”，即把不同表象置于一个共同表象之下。康德把思维行动的这种统一性称为“功能”。而我们之所以能全部发现这些思维功能，是因为我们“完整地陈述判断中的统一性功能”。必须注意“判断中的统一性功能”这一表述；它表明范畴和判断在实质上是如何联系在一起的。功能是行动的统一性；判断是思维的功能，并作为这样的功能是思维行动的统一性；但康德直截了当地说：“因此，一切判断都是我们诸表象中统一性的功能”；这已经意味着：它们是范畴的功能。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p269-u0840"
+        },
+        " So wird auch die Bestimmung klar, die Kant von der sinnlichen Anschauung annimmt: sie sei „unmittelbare Vorstellung“. Das Urtheil nämlich, dem sie entgegengesetzt wird, ist die mittelbare, nämlich die durch den Begriff vermittelte Erkenntniss eines Gegenstandes, „mithin die Vorstellung einer Vorstellung desselben.“ (S. 88.) Indem nun aber der Begriff nur als Prädicat möglicher Urtheile Begriff ist, setzt er eine „Einheit der Handlung“ des Denkens voraus, verschiedene Vorstellungen unter einer gemeinschaftlichen zu ordnen. Diese Einheit der Handlung des Denkens nennt Kant: „Function.“ Und diese Functionen des Denkens finden wir sämmtlich, indem wir „die Functionen der Einheit in den Urtheilen vollständig darstellen“. Auf diesen Ausdruck: „Functionen der Einheit in den Urtheilen“ muss man Acht haben; er zeigt, wie Kategorieen und Urtheile sachlich zusammenhängen. Function ist die Einheit der Handlung; das Urtheil ist die Function des Denkens, und als solche die Einheit der Handlung des Denkens; aber Kant sagt schlechtweg: „alle Urtheile sind demnach Functionen der Einheit unter unseren Vorstellungen“; damit ist bereits gesagt: sie seien Functionen der Kategorieen."
+      ]
+    },
+    {
+      "id": "p269-u0841",
+      "type": "paragraph",
+      "page": "269",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p269-u0841"
+        },
+        "康德通过“普通”逻辑与先验逻辑的区别来标示这一联系；只是他没有足够清楚地强调：那种普通逻辑本身在其历史起源上曾想成为一种先验逻辑，即曾是形而上学的，因为对它来说思维意味着存在。只是当错误出现——认为逻辑学是心理学的一部分，因为它研究所谓思维的天然规律——，面对这一严重错误，才形成了那个仅在其论战倾向中才清晰的形式逻辑概念；",
+        {
+          "type": "page",
+          "page": "270",
+          "id": "zh-p269-u0841-page-1"
+        },
+        "为了独立于心理学，它相信自己也必须与一切形而上学脱离开来。因为从认识的特殊内容中抽象出来，并不足以解释这种形式主义。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p269-u0841"
+        },
+        " Kant hat diesen Zusammenhang durch den Unterschied von „allgemeiner“ und transscendentaler Logik bezeichnet; nur hat er nicht deutlich genug hervorgehoben, dass jene allgemeine Logik selbst in ihrem historischen Ursprung eine Art von transscendentaler Logik sein wollte, nämlich metaphysisch war, indem ihr das Denken das Sein bedeutete. Erst als der Irrthum aufkam, die Logik sei ein Theil der Psychologie, insofern sie von angeblichen Naturgesetzen des Denkens handele, da bildete sich diesem schweren Irrthum gegenüber der nur in seiner polemischen Tendenz klare Begriff einer formalen Logik ",
+        {
+          "type": "page",
+          "page": "270",
+          "id": "en-p269-u0841-page-1"
+        },
+        " aus, die sich, um von der Psychologie unabhängig zu werden, auch von aller Metaphysik losreissen zu müssen glaubte. Denn die Abstraction von dem besondern Inhalt der Erkenntniss erklärt diesen Formalismus nicht ausreichend."
+      ]
+    },
+    {
+      "id": "p270-u0842",
+      "type": "paragraph",
+      "page": "270",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p270-u0842"
+        },
+        "康德通过“纯粹的”逻辑与“应用的”逻辑之别，实现了从一切心理学掺杂中解放出来。后者顾及“心理学教给我们的主观经验条件”（第78页）。把“思维的纯然形式”从一切知性认识的内容及其对象的差异中分离出来，就得出“普通”逻辑与“特殊”逻辑之别。后者是“这门或那门科学的工具论”；但它不应当作为“预备教程”放在前面。“因为如果人们要给出规则，说明一门科学如何从对象中产生，就必须已经相当高地熟悉这些对象。”（第77页。）因此，逻辑学必须是纯粹的、普通的。然而，这种从思维的质料内容和心理过程中作出的双重抽象，是否足以哪怕只是查明、更不用说确认“思维的那些绝对必然的规则，没有它们就根本没有任何知性的运用”呢？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p270-u0842"
+        },
+        " Die Befreiung von aller psychologischen Beimischung leistet Kant durch den Unterschied der „reinen“ Logik von der „angewandten“. Die letztere berücksichtigt die „subjectiven empirischen Bedingungen, die uns die Psychologie lehrt“ (S. 78). Die Absonderung der „blossen Form des Denkens“ von „allem Inhalt der Verstandeserkenntniss und der Verschiedenheit ihrer Gegenstände“ ergiebt den Unterschied zwischen „allgemeiner“ und „besonderer“ Logik. Die letztere ist das „Organon dieser oder jener Wissenschaft“; sie sollte aber nicht als „Propädeutik“ vorangeschickt werden. „Denn man muss die Gegenstände schon in ziemlich hohem Grade kennen, wenn man die Regel angeben will, wie sich eine Wissenschaft von ihnen zu Stande bringen lasse.“ (S. 77.) Mithin muss die Logik rein sein und allgemein. Genügt denn nun aber diese doppelte Abstraction von dem materiellen Inhalt und dem psychologischen Verlauf des Denkens, um „die schlechthin nothwendigen Regeln des Denkens, ohne welche gar kein Gebrauch des Verstandes stattfindet“, auch nur zu ermitteln, geschweige zu beglaubigen?"
+      ]
+    },
+    {
+      "id": "p270-u0843",
+      "type": "paragraph",
+      "page": "270",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p270-u0843"
+        },
+        "在康德把先验概念造成其哲学的对象和中心之后，他不能回避这个问题。因此也可以理解，他在这里重新以新的强调引入这个主要概念，仿佛他在整个感性论中尚未处理过它似的。“在这里我要作一个评注，它的影响延伸到随后的一切考察。”这个评注的思想是：先验的有效性意味着“认识的可能性或其先天运用”。因此，“一般思维的形式”不可能是逻辑学的全部任务；逻辑学还必须一并考虑“一般对象”的思维形式，就这些对象不是经验性地、而是纯粹地被思考而言。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p270-u0843"
+        },
+        " Dieser Frage konnte sich Kant nicht entziehen, nachdem er den Begriff des Transscendentalen zum Gegenstand und Centrum seiner Philosophie gemacht hatte. Daher lässt es sich auch begreifen, dass er in diesem Zusammenhang diesen seinen Hauptbegriff, als ob er ihn nicht die ganze Aesthetik hindurch bereits behandelt hätte, mit neuer Emphase einführt. „Und hier mache ich eine Anmerkung, die ihren Einfluss auf alle nachfolgenden Betrachtungen erstreckt.“ Der Gedanke dieser Anmerkung ist aber, dass die transscendentale Geltung „die Möglichkeit der Erkenntniss oder den Gebrauch derselben a priori“ bedeute. Mithin kann die „Form des Denkens überhaupt“ nicht die ganze Aufgabe der Logik sein; sondern es muss die Form des Denkens „der Gegenstände überhaupt“, sofern diese Gegenstände nicht empirisch, sondern rein gedacht werden, von der Logik mitzuberücksichtigen sein."
+      ]
+    },
+    {
+      "id": "p270-u0844",
+      "type": "paragraph",
+      "page": "270",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p270-u0844"
+        },
+        "因此必须建立一种逻辑学，“",
+        {
+          "type": "page",
+          "page": "271",
+          "id": "zh-p270-u0844-page-1"
+        },
+        "在其中人们并不从一切认识内容中抽象出来；因为那种只包含一个对象之纯粹思维规则的逻辑学，将会排除一切具有经验内容的认识。它也将探讨我们关于对象之认识的起源，就这种起源不能被归给对象而言”。于是就产生了“纯粹知性认识或理性认识之科学的理念”，这就是先验逻辑学，它规定关于对象的先天认识的“起源、范围和客观有效性”。因此，这种先验逻辑学关于知性和理性所教导的，也不像普通逻辑学那样只是“规则”，而是“规律”。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p270-u0844"
+        },
+        " Es wird also eine Logik aufgestellt werden müssen, „in ",
+        {
+          "type": "page",
+          "page": "271",
+          "id": "en-p270-u0844-page-1"
+        },
+        " der man nicht von allem Inhalt der Erkenntniss abstrahirte; denn diejenige, welche bloss die Regeln des reinen Denkens eines Gegenstandes enthielte, würde alle diejenigen Erkenntnisse ausschliessen, welche von empirischem Inhalte wären. Sie würde auch auf den Ursprung unserer Erkenntniss von Gegenständen gehen, sofern er nicht den Gegenständen zugeschrieben werden kann.“ So entsteht die „Idee von einer Wissenschaft des reinen Verstandes- oder Vernunfterkenntnisses“, das ist die transscendentale Logik, die „den Ursprung, den Umfang und die objective Gültigkeit“ der Erkenntnisse von Gegenständen a priori bestimmt. Diese transscendentale Logik lehrt daher auch von dem Verstande und der Vernunft nicht blos wie die allgemeine Logik die „Regeln“, sondern die „Gesetze“."
+      ]
+    },
+    {
+      "id": "p271-u0845",
+      "type": "paragraph",
+      "page": "271",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p271-u0845"
+        },
+        "但这些规律从何而来？它们毕竟不应是自然规律，却又先天地对对象有效。带着这个问题，我们又站在开端，或者面对那个古老的问题：“什么是真理？”“真理的纯然逻辑标准”只是“一切真理的否定性条件”。因此“没有人能仅凭逻辑学就冒险对对象作出判断”。当普通逻辑学的“法规”被滥用为“工具论”时，就产生了“假象的逻辑”，即辩证法。相反，先验逻辑学即便在质料意义上被思考，也可以成为“真理的逻辑”，因为它给出“原理”，“没有这些原理就根本不能思维任何对象”。这些原理从唯一的原则中产生，而这个原则我们知道就是意识统一性。然而，这种意识统一性包含范畴以及我们称为判断的行动统一性。现在我们可以转向这项任务：把判断表和范畴表共同加以排列。虽然为了更精确、更清晰的展开，我们在细节上不去考虑原理；但它们的认识批判价值引导着这一排列，这一点我们无论在哪里都不能忽视，无论对四个标题还是对每个标题下的三个环节都是如此。",
+        {
+          "type": "note",
+          "id": "p271-n01",
+          "label": "1"
+        }
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p271-u0845"
+        },
+        " Woher nun aber diese Gesetze, die doch eben nicht Naturgesetze sein sollen, und dennoch von Gegenständen a priori gelten? Mit dieser Frage stehen wir wiederum am Anfang, oder vor der alten Frage: „Was ist Wahrheit?“ Das „blos logische Kriterium der Wahrheit“ ist nur die „negative Bedingung aller Wahrheit.“ Daher kann sich „Niemand blos mit der Logik wagen, über Gegenstände zu urtheilen.“ Wenn der „Kanon“ der allgemeinen Logik als „Organon“ missbraucht wird, so entsteht die „Logik des Scheins“, die Dialektik. Dagegen kann die transscendentale Logik, auch materiell gedacht, eine „Logik der Wahrheit“ sein, sofern sie die „Principien“ giebt, „ohne welche überall kein Gegenstand gedacht werden kann.“ Diese Principien gehen aus dem Einen Princip hervor, welches uns als die Einheit des Bewusstseins bekannt ist. Diese Einheit des Bewusstseins befasst nun aber die Kategorieen und die Einheiten der Handlung, die wir Urtheile nennen. Nunmehr können wir der Aufgabe uns zuwenden, die Tafeln der Urtheile und der Kategorieen und zwar Beide gemeinschaftlich zu ordnen. Von den Grundsätzen sehen wir zwar der genauern und übersichtlichern Entwickelung wegen im Einzelnen ab; aber dass ihr erkenntnisskritischer Werth jene Anordnung leitet, dürfen wir nirgends aus dem Auge verlieren, weder für die vier Titel, noch für deren je drei Momente.",
+        {
+          "type": "note",
+          "id": "p271-n01",
+          "label": "1"
+        }
+      ]
+    },
+    {
+      "id": "p272-u0847",
+      "type": "paragraph",
+      "page": "272",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p272-u0847"
+        },
+        "我们必须据以区分判断种类的第一个考虑，是感性论向我们提示的。因为如果对象应当被构成，感性论就教导说：对象首先必须符合数学的条件，因而必须作为量而可被表现。因此，如果先验逻辑学所区分的判断应当先天地展示对对象的关系，那么量关系就必须被标划为这样一种关系。这就得出按照“量”的视角对判断和范畴的划分。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p272-u0847"
+        },
+        " Die erste Rücksicht, nach welcher wir Arten des Urtheils unterscheiden müssen, hat uns die Aesthetik nahe gelegt. Denn wenn Gegenstände constituirt werden sollen, so lehrt sie, dass solche zuallernächst den Bedingungen der Mathematik entsprechen, mithin als Grössen darstellbar sein müssen. Wenn daher die Urtheile, welche die transscendentale Logik unterscheidet, die Beziehungen auf den Gegenstand a priori darzulegen haben, so muss als eine solche die Grössen-Beziehung ausgezeichnet werden. Dies ergiebt die Eintheilung der Urtheile und Kategorieen nach dem Gesichtspunkt der „Quantität“."
+      ]
+    },
+    {
+      "id": "p272-u0848",
+      "type": "paragraph",
+      "page": "272",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p272-u0848"
+        },
+        "然而，即便在数学内部，也不止于把对象仅仅视为量；相反，还要顾及和考虑对象中那些规定性，它们揭示事物性质的差异，并在这些差异中揭示事物的实在性。尽管这似乎触及对象的经验性东西，我们仍不能回避这一尝试：也为这种深入的区别准备“一般对象”的概念。服务于这一考虑的是“质”这个标题。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p272-u0848"
+        },
+        " Es bleibt jedoch selbst innerhalb der Mathematik nicht dabei, die Gegenstände nur als Grössen zu betrachten; es wird vielmehr Rücksicht und Bedacht genommen auf diejenigen Bestimmtheiten der Gegenstände, welche die Beschaffenheits-Unterschiede der Dinge und in denselben deren Realität darlegen. So sehr damit das Empirische der Gegenstände berührt zu werden scheint, so können wir uns doch dem Versuche nicht entziehen, auch für diesen eindringlichen Unterschied den „Begriff eines Gegenstandes überhaupt“ vorzubereiten. Dieser Rücksicht dient der Titel der „Qualität“."
+      ]
+    },
+    {
+      "id": "p272-u0849",
+      "type": "paragraph",
+      "page": "272",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p272-u0849"
+        },
+        "最后，对事物而言一切都取决于：它们彼此的关系是否以及如何被规定。正是在这些关系规定中、并依照这些规定，对象才按该词的通常意义被构成为经验的对象。它们那时就不只是数学对象，而是作为在关系规定中被构成的东西，成为能够作为自然力出现的对象。于是“关系”这个标题就显露出来。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p272-u0849"
+        },
+        " Endlich kommt für die Dinge Alles darauf an, dass und wie ihre Verhältnisse zu einander bestimmt werden. In diesen Bestimmungen der Verhältnisse und gemäss denselben constituiren sich erst die Gegenstände als solche der Erfahrung, nach dem hergebrachten Sinne des Wortes. Sie sind dann nicht blos mathematische Gegenstände, sondern werden, als in Verhältnissbestimmungen constituirt, zu Gegenständen, welche als Naturkräfte auftreten können. So macht sich der Titel der „Relation“ geltend."
+      ]
+    },
+    {
+      "id": "p272-u0850",
+      "type": "paragraph",
+      "page": "272",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p272-u0850"
+        },
+        "由此，虽然对认识内容的一般考虑已经穷尽；但现在又凸显出对认识之方法论价值的考虑。",
+        {
+          "type": "page",
+          "page": "273",
+          "id": "zh-p272-u0850-page-1"
+        },
+        "一百个可能的塔勒，按其概念内容而言并不少于一百个现实的塔勒；但如果联系到认识的总内容，并由此在其作为认识的个别价值中来看，它们意味着更少，因为它们会把认识限制在分析思维的模式上。所以，综合判断作为这样的判断就已经提示了这一要求：在判断上设立一种区别，“模态”应当对此作出交代。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p272-u0850"
+        },
+        " Damit sind zwar die allgemeinen Rücksichten auf den Inhalt der Erkenntnisse erschöpft; es treten nun aber ",
+        {
+          "type": "page",
+          "page": "273",
+          "id": "en-p272-u0850-page-1"
+        },
+        " die Rücksichten auf den methodischen Werth derselben hervor. Hundert mögliche Thaler sind ihrem begrifflichen Inhalte nach nicht weniger als hundert wirkliche; aber auf den Gesammtinhalt der Erkenntniss bezogen und dadurch in ihrem Einzelwerthe als Erkenntnisse bedeuten sie weniger, da sie die Erkenntniss auf den Modus des analytischen Denkens einschränken würden. So macht schon das synthetische Urtheil als solches auf die Forderung aufmerksam, einen Unterschied an den Urtheilen zu statuiren, denen die „Modalität“ gerecht werden soll."
+      ]
+    },
+    {
+      "id": "p273-u0852",
+      "type": "paragraph",
+      "page": "273",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p273-u0852"
+        },
+        "现在，如果我们从这四个标题中分别推导出各自的三个环节，那么首先要注意康德为辩护这一划分而作的导论性说明：“这种划分在一些、虽然不是本质性的部分上，似乎偏离了逻辑学家们惯常的做法”。康德本人就是这样看待他的革新的。事实上，他对自己发现判断导线的自信，仅仅基于对原则的自信，而这个原则所主张的无非是思维手段与作为其目的的认识之间的联结。从意识统一性的这种综合意义出发、因而——尽管没有明说——从原理的视角出发，康德本人说明了他认为必须偏离“惯常做法”的那些地方：有的场合说得更清楚，有的场合则指出“也许”将来会产生的用处。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p273-u0852"
+        },
+        " Leiten wir aus diesen vier Titeln nunmehr die je drei Momente derselben ab, so ist zunächst die einleitende Bemerkung Kants zur Rechtfertigung derselben zu beachten, dass „diese Eintheilung in einigen, obzwar nicht wesentlichen Stücken von der gewohnten Technik der Logiker abzuweichen scheint.“ So hat Kant selbst über diese seine Neuerung gedacht. In der That beruht sein Selbstgefühl bezüglich seiner Entdeckung des Leitfadens der Urtheile lediglich auf der des Princips, welches nichts Anderes als den Zusammenhang der Denk-Mittel mit dem Erkennen als ihrem Zwecke geltend macht. Aus dieser synthetischen Bedeutung der Einheit des Bewusstseins und somit, obschon dies nicht ausdrücklich, aus dem Gesichtspunkt der Grundsätze erklärt Kant selbst in dem einen Falle deutlicher, in dem andern durch Hinweisung auf den „vielleicht“ künftig sich ergebenden Nutzen die Abweichungen, die er von der „gewohnten Technik“ nothwendig erachtet."
+      ]
+    },
+    {
+      "id": "p273-u0853",
+      "type": "paragraph",
+      "page": "273",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p273-u0853"
+        },
+        "对象首先必须是量。但作为量，它们必须能够被计数。数预设一个充当尺度的单位。因此必须有一种“行动的统一性”，单称判断在其中完成。每个判断作为判断都是行动的统一性；但单称判断所表现的那种统一性，为判断的这一必然条件指定了其逻辑位置。与单称判断相应的是统一性的范畴。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p273-u0853"
+        },
+        " Gegenstände müssen vor Allem Grössen sein. Als solche aber müssen sie gezählt werden können. Zahlen setzen eine Einheit voraus, die zum Massstab dient. So muss es eine „Einheit der Handlung“ geben, in welcher das einzelne Urtheil sich vollzieht. Jedes Urtheil ist als solches eine Einheit der Handlung; diejenige Einheit aber, welche das einzelne Urtheil darstellt, giebt dieser nothwendigen Bedingung des Urtheils ihren logischen Ort. Dem einzelnen Urtheil entspricht die Kategorie der Einheit."
+      ]
+    },
+    {
+      "id": "p273-u0854",
+      "type": "paragraph",
+      "page": "273",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p273-u0854"
+        },
+        "人们并不总是注意到：在逻辑学内部，每一个逻辑表达都必须被指定一个位置，使它获得家园权。单称判断及其范畴，即统一性，就是统一性概念的逻辑位置。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p273-u0854"
+        },
+        " Man beachtet nicht immer, dass für jeden logischen Ausdruck innerhalb der Logik ein Ort ausgezeichnet werden muss, an dem er Heimathsrecht empfängt. Das einzelne Urtheil und seine Kategorie, die Einheit ist der logische Ort des Begriffs der Einheit."
+      ]
+    },
+    {
+      "id": "p274-u0855",
+      "type": "paragraph",
+      "page": "274",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p274-u0855"
+        },
+        "但这种统一性不是绝对的；它被形成，是为了超越自身，按其科学用法而言本性上是一个复数。统一性是复多性的统一性。这种构成并联结复多性的“行动统一性”，是一种特殊的判断种类，即特称判断，其中起支配作用的是作为范畴的复多性。在复多性中，统一性才获得其使用价值，正如在特称判断中单称判断获得其使用价值。但两者作为种类仍须区分。复多性固然只是统一性的重复；但这种重复是允许的，诸统一性联结为复多性后给出一个新的固定统一性，而不是一个无法持存的捆束——这就是这一范畴和这一判断种类的综合力量。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p274-u0855"
+        },
+        " Aber diese Einheit ist keine absolute; sie wird gebildet, um über sich selbst hinauszugehen, sie ist nach ihrem wissenschaftlichen Gebrauche von Natur ein Plural. Die Einheit ist Einheit der Mehrheit. Diese „Einheit der Handlung“, welche die Mehrheit bildet und bindet, ist eine besondere Urtheilsart, die des besondern Urtheils, in welcher die Vielheit als Kategorie waltet. In der Vielheit kommt die Einheit erst zu ihrem Gebrauchswerth, wie in dem besondern Urtheil das einzelne. Dennoch sind beide als Arten zu unterscheiden. Die Vielheit ist zwar nur eine Wiederholung der Einheit; aber dass diese statthaft sei, dass die Einheiten, zu Vielheiten verbunden, eine neue feste Einheit ergeben, nicht ein haltloses Gebinde, das ist die synthetische Kraft dieser Kategorie und dieser Urtheilsart."
+      ]
+    },
+    {
+      "id": "p274-u0856",
+      "type": "paragraph",
+      "page": "274",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p274-u0856"
+        },
+        "特称判断的复多性本身是一个统一性，并实现一种行动的统一性。但复多性还可以在另一种意义上成为统一性。就是说，它可以被设想为诸统一性的序列之收束。于是特称判断变为全称判断，复多性变为全体性。显然，全体性给出的认识内容不同于复多性所承认的内容：后者只在自身之中、而不超越自身，只在其范围之内、而不按其界限建立统一性。但全体性也与单称判断的统一性有别。康德所强调的正是这一区别。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p274-u0856"
+        },
+        " Die Vielheit des besonderen Urtheils ist an sich eine Einheit, eine Einheit der Handlung vollstreckend. Noch in anderem Sinne aber kann die Vielheit zur Einheit werden. Sie kann nämlich als die Reihe der Einheiten abschliessend gedacht werden. Alsdann wird das besondere Urtheil zum allgemeinen, die Vielheit zur Allheit. Es ist offenbar, dass die Allheit einen andern Inhalt der Erkenntniss giebt, als den die Vielheit einräumt, die nur in sich, nicht über sich hinaus, nur in ihrem Umfang, nicht nach ihren Grenzen Einheit stiftet. Aber auch von der Einheit des einzelnen Urtheils ist die Allheit unterschieden. Und dieser Unterschied ist es, den Kant hervorhebt."
+      ]
+    },
+    {
+      "id": "p274-u0857",
+      "type": "paragraph",
+      "page": "274",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p274-u0857"
+        },
+        "在理性推理中，逻辑学家们“有理由”把单称判断如同全称判断一样处理。因为它们没有范围，所以它们把自己的概念造成一个普遍有效的概念。“反之，如果我们仅仅作为认识、按照量来比较一个单称判断与一个普遍有效的判断，那么前者与后者的关系就像统一性与无限性的关系。”（第90页。）用“普遍有效”代替全称、用“无限性”代替全体性，以及“仅仅作为认识、按照量”这些表述，都让人看出那种不确定性；这种不确定性可以从这一点得到解释：对量的原理的考虑没有更公开地说出来。当然，人们在计数时把全体性当作无限性使用，于是这一特殊统一性就赋予判断——作为被思考的认识——在其内容的",
+        {
+          "type": "page",
+          "page": "275",
+          "id": "zh-p274-u0857-page-1"
+        },
+        "量价值方面一种特殊的综合意义。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p274-u0857"
+        },
+        " In Vernunftschlüssen behandeln die Logiker „mit Recht“ die einzelnen Urtheile gleich den allgemeinen. Denn weil sie keinen Umfang haben, machen sie ihren Begriff zu einem gemeingültigen. „Vergleichen wir dagegen ein einzelnes Urtheil mit einem gemeingültigen blos als Erkenntniss, der Grösse nach, so verhält sie sich zu diesem wie Einheit zur Unendlichkeit.“ (S. 90.) Die Einsetzung von „gemeingültig“ für allgemein, so wie der Unendlichkeit für Allheit und die Ausdrücke „blos als Erkenntniss, der Grösse nach“ lassen die Unbestimmtheit erkennen, welche sich aus dem Umstande erklärt, dass die Rücksicht auf den Grundsatz der Grösse nicht unverhohlener zum Worte kommt. Allerdings braucht man die Allheit als Unendlichkeit beim Zählen, und so giebt diese besondere Einheit dem Urtheil, als Erkenntniss gedacht, in Bezug auf ",
+        {
+          "type": "page",
+          "page": "275",
+          "id": "en-p274-u0857-page-1"
+        },
+        " den Grössen-Werth seines Inhalts eine besondere synthetische Bedeutung."
+      ]
+    },
+    {
+      "id": "p275-u0858",
+      "type": "paragraph",
+      "page": "275",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p275-u0858"
+        },
+        "我们在显象上所作并要求的质的区别，对应于科学思维的基本特征，这些特征在判断和范畴的质中贯彻自身。从心理学上看，肯定判断无疑是最有趣、最重要的；但从先验上看，它也同样是凝练的。它标示并完成诸表象的联结，而且这种联结本身正是判断的对象。既然每个判断都是行动的统一性，那么联结的统一性就意味着把统一性设定为统一性，而不是设定为复多性的统一性。就我允许把要素联结为一个统一性而言，我就在这个统一性中第一次设定了对象。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p275-u0858"
+        },
+        " Den Unterschieden, die wir in Bezug auf die Qualität an den Erscheinungen machen und fordern, entsprechen die Grundzüge des wissenschaftlichen Denkens, welche in der Qualität der Urtheile und der Kategorieen sich durchführen. Psychologisch ist das bejahende Urtheil ohne Zweifel das interessanteste und wichtigste; aber auch transscendental ist es nicht minder prägnant. Es bezeichnet und vollzieht die Verbindung von Vorstellungen, und zwar ist die Verbindung als solche der Gegenstand des Urtheils. Da nun jedes Urtheil die Einheit der Handlung ist, so bedeutet die Verbindungs-Einheit die Setzung der Einheit als Einheit, nicht als Einheit der Mehrheit. Sofern ich Elemente verbinden darf zu einer Einheit, setze ich in dieser Einheit den Gegenstand in erster Instanz."
+      ]
+    },
+    {
+      "id": "p275-u0859",
+      "type": "paragraph",
+      "page": "275",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p275-u0859"
+        },
+        "然而，我竟然可以无条件地、就其自身而言设定某个东西，凭借我在概念上为肯定而完成的联结——这并非不言自明。肯定判断是思维这一基本特征的逻辑位置，凭借它，一个相对于相对的复多性的统一性而可称为绝对统一性的东西被设定。康德为这一判断种类所设置的范畴名称正指向这一意义：他不把它称为Position、即设定（Setzung），尽管这个表述在他的不同时期都出现过，并直接与存在和非存在相关；",
+        {
+          "type": "note",
+          "id": "p275-n01",
+          "label": "1"
+        },
+        " 他直截了当地称之为实在性。因为按其逻辑位置，实在性就意味着：设定一个在否则不可能的肯定之冒险中挺立起来的统一性。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p275-u0859"
+        },
+        " Es ist doch nicht selbstverständlich, dass ich ein Etwas setzen darf schlechthin und für sich, kraft der Verbindung, die ich an Begriffen zur Bejahung vollziehe. Das bejahende Urtheil ist der logische Ort für diesen fundamentalen Zug des Denkens, vermöge dessen eine Einheit gesetzt wird, die man im Verhältniss zur relativen Mehrheits-Einheit absolut nennen möchte. Auf diese Bedeutung weist der Name der Kategorie hin, den Kant für diese Urtheilsart eingesetzt hat: er nennt sie nicht Position, Setzung, obschon dieser Ausdruck in den verschiedenen Perioden sich bei ihm findet und direct auf Sein und Nichtsein bezogen erscheint; ",
+        {
+          "type": "note",
+          "id": "p275-n01",
+          "label": "1"
+        },
+        " sondern geradezu Realität. Denn das bedeutet seinem logischen Orte nach die Realität: das Setzen einer Einheit, die sich in dem sonst unmöglichen Wagniss der Bejahung aufrichtet."
+      ]
+    },
+    {
+      "id": "p275-u0860",
+      "type": "paragraph",
+      "page": "275",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p275-u0860"
+        },
+        "肯定的直接对立面是否定，否定作为范畴也不接受别的名称。科学思维的一种直接基本活动在否定中坚持自身：思维要素应当被分开。它们在综合中被聚合在一起，而行动的统一性把它们分开。因此，否定所产生的无，按其",
+        {
+          "type": "page",
+          "page": "276",
+          "id": "zh-p275-u0860-page-1"
+        },
+        "质而言是 nihil privativum（缺失性的无），“即一个关于对象之缺乏的概念，如阴影、寒冷”。它是“一个概念的空对象”，或“概念的一些空材料”。（第259页及以下。）质的无与实在的某物如此彻底地相联系，以至于它与 nihil negativum（否定的无）的“非物”不同——后者是“无概念的空对象”，其中“概念甚至扬弃自身”——，它仅仅排除这个某物。唯独这一点是质的职责：联结概念，或分离概念。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p275-u0860"
+        },
+        " Das unmittelbare Gegentheil der Bejahung ist die Verneinung, die auch als Kategorie keinen andern Namen annimmt. Es ist eine unmittelbare Grundthätigkeit des wissenschaftlichen Denkens, die in der Negation sich behauptet: Denk-Elemente seien zu trennen. Sie werden in der Synthesis zusammengethan, und die Einheit der Handlung trennt sie. Daher ist das Nichts, welches die Negation hervorbringt, der ",
+        {
+          "type": "page",
+          "page": "276",
+          "id": "en-p275-u0860-page-1"
+        },
+        " Qualität nach ein nihil privativum, „nämlich ein Begriff von dem Mangel eines Gegenstands, wie der Schatten, die Kälte“. Es ist „der leere Gegenstand eines Begriffs,“ oder eines der „leeren Data zu Begriffen.“ (S. 259 f.) So durchaus ist das Nichts der Qualität mit dem Etwas der Realität verbunden, dass es im Unterschiede von dem „Unding“ des nihil negativum, welches ein „leerer Gegenstand ohne Begriff“ ist, worin also „der Begriff sogar sich selbst aufhebt“, nur dieses Etwas ausschliesst. Das allein ist das Amt der Qualität: Begriffe zu verbinden, oder zu trennen."
+      ]
+    },
+    {
+      "id": "p276-u0862",
+      "type": "paragraph",
+      "page": "276",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p276-u0862"
+        },
+        "然而，这个“或”还要补充：同时联结和分离也属于质的管辖范围，就是说，在设定中完成一种分离，也就是“限制”。科学思维的这种独特能力和任务，对应于无限判断。因为在这种判断种类中被设定的是一种无限的东西，以至于该判断可能显得是肯定的。但先验逻辑学不像普通逻辑学那样“从谓词的一切内容中抽象出来”，而是也“按照这种通过一个纯然否定谓词作出的逻辑肯定的价值或内容，以及这种肯定就整个认识而言带来的收获”来考察判断。因此，必须把“灵魂不是有死的”这一判断与“灵魂是不死的”这一判断区别开来。通过后一判断，一切可能者的无限“领域”被设定，但被有死的东西所限制；灵魂被置入其余仍然无限的领域之中，因而并没有提高灵魂的肯定性。“所以，这些无限判断就逻辑范围而言，在一般认识内容方面确实只是限制性的。”然而，康德并没有以这种逻辑辩护结束对其排列的论证；相反，他以这一指示作结：“因为这里所行使的知性功能，也许在知性的纯粹先天认识领域中可以具有重要意义。”但无限判断的这种先验意义已经透露出限制的范畴，后者揭示出无限概念与实在性概念最精确的联系。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p276-u0862"
+        },
+        " Indessen ist dieses „oder“ zu ergänzen: es fällt auch in das Ressort der Qualität, zugleich zu verbinden und zu trennen, nämlich bei der Setzung eine Trennung zu vollziehen, das will sagen, zu „beschränken“. Dieser eigenthümlichen Fähigkeit und Aufgabe des wissenschaftlichen Denkens entspricht das unendliche Urtheil. Denn ein Unendliches ist es, was in dieser Urtheilsart gesetzt wird, sodass das Urtheil als ein bejahendes erscheinen könnte. Die transscendentale Logik aber sieht nicht, wie die allgemeine, „von allem Inhalt des Prädicats“ ab, sondern betrachtet das Urtheil auch „nach dem Werthe oder Inhalt dieser logischen Bejahung vermittelst eines blos verneinenden Prädicats, und was diese in Ansehung der gesammten Erkenntniss für einen Gewinn verschafft.“ Desshalb muss von dem Urtheil: die Seele ist nicht sterblich unterschieden werden das Urtheil: die Seele ist unsterblich. Durch letzteres Urtheil wird die unendliche „Sphäre alles Möglichen“ gesetzt, aber durch das Sterbliche beschränkt; und in den übrigen Umfang, der noch immer unendlich bleibt, also die Positivität der Seele nicht erhöht, die letztere eingeordnet. „Diese unendlichen Urtheile also in Ansehung des logischen Umfangs sind wirklich blos beschränkend in Ansehung des Inhalts der Erkenntniss überhaupt.“ Indessen mit dieser logischen Rechtfertigung beschliesst Kant die Begründung seiner Anordnung nicht; sondern vielmehr mit dem Hinweis: „weil die hierbei ausgeübte Function des Verstandes vielleicht in dem Felde seiner reinen Erkenntniss a priori wichtig sein kann.“ Diese transscendentale Bedeutung des unendlichen Urtheils verräth jedoch bereits die Kategorie der Limitation, welche die genaueste Beziehung des Begriffs des Unendlichen mit dem der Realität kundgiebt."
+      ]
+    },
+    {
+      "id": "p277-u0863",
+      "type": "paragraph",
+      "page": "277",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p277-u0863"
+        },
+        "而这一实质逻辑的区别也立刻被暗示出来：无限的东西分为两类，其中一类属于量，即全体性中的无限大；另一类即无限小，则归于质，质在限制中产生无限小。",
+        {
+          "type": "note",
+          "id": "p277-n01",
+          "label": "1"
+        }
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p277-u0863"
+        },
+        " Und auch dieser sachlogische Unterschied wird sogleich angedeutet: dass das Unendliche in zwei Arten sich abtheilt, deren eine der Quantität zugehört, nämlich das Unendlichgrosse in der Allheit, die andere dagegen, das Unendlichkleine, der Qualität zufällt, welche dasselbe in der Limitation erzeugt.",
+        {
+          "type": "note",
+          "id": "p277-n01",
+          "label": "1"
+        }
+      ]
+    },
+    {
+      "id": "p277-u0864",
+      "type": "paragraph",
+      "page": "277",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p277-u0864"
+        },
+        "通过量和质，对象的概念按其大小而被穷尽。但对象作为量只是被准备；量是固定对象的数学视角，是对象的轮廓。对象的真正形体在诸关系中建立起来，直观的杂多性在这些关系中得到规定。当杂多性在这些关系中得到规定时，对象就成长为真正具有形体意义的东西。于是，关系判断和关系范畴证明自己是完成这些关系规定的必然手段。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p277-u0864"
+        },
+        " Durch Quantität und Qualität werden die Begriffe von Gegenständen der Grösse nach erschöpft. Aber als Grössen werden die Gegenstände nur vorbereitet; die Grösse ist der mathematische Gesichtspunkt zur Fixirung des Gegenstandes, der Umriss desselben. Der eigentliche Körper des Gegenstandes baut sich in den Verhältnissen auf, in denen das Mannichfaltige der Anschauung sich bestimmt. Indem das Mannichfaltige in diesen Verhältnissen bestimmt wird, erwächst der Gegenstand in eigentlicher körperlicher Bedeutung. Und so erweisen sich Urtheile und Kategorieen der Relation als nothwendig, um die Bestimmung dieser Verhältnisse zu vollziehen."
+      ]
+    },
+    {
+      "id": "p277-u0865",
+      "type": "paragraph",
+      "page": "277",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p277-u0865"
+        },
+        "关系的规定要求一个前提：必须设定那个应当在其上规定关系的某物。人们不要说，这个某物正是直观的杂多性；因为我们在思维之内并不认识它，而只在认识之内认识它，为了认识，我们随后还必须引入这种杂多性。即便作为思维的一个基本特征，这个某物的设定也必须被标划出来。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p277-u0865"
+        },
+        " Die Bestimmungen der Relation machen eine Voraussetzung erforderlich: es muss das Etwas gesetzt werden, an welchem Relationen zu bestimmen seien. Man sage nicht, dieses Etwas sei eben das Mannichfaltige der Anschauung; denn das kennen wir nicht innerhalb des Denkens, sondern allein innerhalb des Erkennens, für das wir es später heranzuziehen haben werden. Auch als ein Grundzug des Denkens ist die Setzung dieses Etwas auszuzeichnen."
+      ]
+    },
+    {
+      "id": "p277-u0866",
+      "type": "paragraph",
+      "page": "277",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p277-u0866"
+        },
+        "人们也不要说，这个某物由实在性来代表；因为实在性是被无关系地思考的，是一个直截了当的 x。但现在我们关心的却是一个对 y 而言的 x；应当给诸功能提供基础。这个相对的某物就是定言判断的统一性。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p277-u0866"
+        },
+        " Man sage auch nicht, dieses Etwas werde durch die Realität vertreten; denn diese ist unrelativisch gedacht, als ein x schlechthin. Jetzt aber kommt es uns auf ein x an, welches ein x für y sei; den Functionen soll die Grundlage gegeben werden. Dieses relative Etwas ist die Einheit des kategorischen Urtheils."
+      ]
+    },
+    {
+      "id": "p277-u0867",
+      "type": "paragraph",
+      "page": "277",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p277-u0867"
+        },
+        "人们常常说——把判断与其",
+        {
+          "type": "page",
+          "page": "278",
+          "id": "zh-p277-u0867-page-1"
+        },
+        "语法表达即句子相混淆——判断是主词与谓词的联结。但这种联结本身、这种关系必须专门取得其逻辑上的正当性：在这里，在定言判断中，它有它的逻辑位置。定言判断是那样一种行动的统一性，其中为某个某物设定另一个某物，其中建立起概念的那种联系，而主词与谓词的联结所标示的正是这种联系。然而，这种关系的先验价值把语法主词造成实体范畴，在作为 x 的实体中，y被思考为依存性（Inhärenz）。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p277-u0867"
+        },
+        " Man sagt vielfach, das Urtheil mit seinem grammatischen ",
+        {
+          "type": "page",
+          "page": "278",
+          "id": "en-p277-u0867-page-1"
+        },
+        " Ausdruck, dem Satze verwechselnd, dass es die Verbindung von Subject und Prädicat sei. Aber diese Verbindung selbst, diese Relation muss im Besondern ihre logische Legitimirung erlangen: hier im kategorischen Urtheile hat sie ihren logischen Ort. Das kategorische Urtheil ist diejenige Einheit der Handlung, in welcher ein Etwas gesetzt wird für ein Etwas, in welcher derjenige Zusammenhang von Begriffen gestiftet wird, den die Verbindung von Subject und Prädicat bezeichnet. Der transscendentale Werth dieser Relation macht jedoch das grammatische Subject zur Kategorie der Substanz, in welcher als dem x das y als Inhärenz gedacht wird."
+      ]
+    },
+    {
+      "id": "p278-u0869",
+      "type": "paragraph",
+      "page": "278",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p278-u0869"
+        },
+        "这样，定言判断以其实体的统一性，构成一切判断的基础，并构成一切关系的前提；但实际上只是基础、只是前提：“因此，这个范畴被列在关系标题之下，与其说它本身包含一种关系，不如说它是关系的条件。”（第178页及以下。）现在，当我们寻找真正的关系时，我们为关系的逻辑规定寻找其判断形式。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p278-u0869"
+        },
+        " So bildet das kategorische Urtheil mit seiner Einheit der Substanz die Grundlage zu allem Urtheil, und die Voraussetzung für alle Relationen; aber in der That nur die Grundlage, nur die Voraussetzung: „daher denn diese Kategorie unter dem Titel der Verhältnisse steht, mehr als die Bedingung derselben, als dass sie selbst ein Verhältniss enthielte.“ (S. 178 f.) Wenn wir nun die eigentlichen Verhältnisse aufsuchen, so suchen wir für die logische Bestimmung derselben ihre Urtheilsformen."
+      ]
+    },
+    {
+      "id": "p278-u0870",
+      "type": "paragraph",
+      "page": "278",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p278-u0870"
+        },
+        "但要标示为这样的关系的，是条件，而且似乎唯有条件。在逻辑学中，人们也直截了当地谈论规律和条件；这些基本概念也必须被指定其逻辑位置。这个位置就是假言判断。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p278-u0870"
+        },
+        " Als solche aber ist die Bedingung, und es könnte scheinen sie allein zu bezeichnen. Man redet auch in der Logik schlechthin von Gesetz und von Bedingung; auch diesen Grundbegriffen ist ihr logischer Ort auszuzeichnen. Dieser ist das hypothetische Urtheil."
+      ]
+    },
+    {
+      "id": "p278-u0871",
+      "type": "paragraph",
+      "page": "278",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p278-u0871"
+        },
+        "人们可能以为，定言判断也包含一个条件，因为它为 y 设定 x。事实上，我们确实把这种关系称为条件。然而，这一称呼首先起源于假言判断。而条件在这里只有基础与先决条件的含义。我们应当称为科学思维之基本特征的条件，其含义多于实体的奠基所完成的东西。条件完成判断要素之间一种关系的规定。因此，条件是关系条件、关系规定，而不仅仅是关系可能性的假定。假言判断的条件使 a 成为制约者、b 成为被制约者，而不是反过来。",
+        {
+          "type": "page",
+          "page": "279",
+          "id": "zh-p278-u0871-page-1"
+        },
+        "因此，在假言判断中完成的行动统一性是“推论”。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p278-u0871"
+        },
+        " Man könnte nun glauben, auch das kategorische Urtheil enthalte eine Bedingung, insofern es ein x für ein y setzt. Und in der That haben wir ja dieses Verhältniss als eine Bedingung bezeichnet. Indessen diese Bezeichnung entspringt erst aus dem hypothetischen Urtheil. Und die Bedingung hat hierin nur die Bedeutung der Grundlage und Vorbedingung. Was wir Bedingung als einen Grundzug des wissenschaftlichen Denkens zu nennen haben, das besagt mehr, als was die Grundlegung der Substanz leistet. Die Bedingung vollstreckt die Bestimmung einer Relation unter den Elementen des Urtheils. Die Bedingung ist somit Relations-Bedingung, Verhältnissbestimmung, nicht blos Supposition der Verhältniss-Möglichkeit. Die Bedingung des hypothetischen Urtheils macht a zum Bedingenden, b zum Bedingten, und nicht umgekehrt. Daher ist ",
+        {
+          "type": "page",
+          "page": "279",
+          "id": "en-p278-u0871-page-1"
+        },
+        " die Einheit der Handlung, welche im hypothetischen Urtheil vollzogen wird, „die Consequenz“."
+      ]
+    },
+    {
+      "id": "p279-u0872",
+      "type": "paragraph",
+      "page": "279",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p279-u0872"
+        },
+        "但这种推论不应被视为一种心理学的后果，仿佛由相继判断来描述。因为“如果—那么”不能理解为“当—则”。据此，相应的范畴不是被命名为推论，而是按其科学影响的全部重量被命名为因果性。然而，这一范畴的关系特性仍然被清楚地保持下来，因为在因果性之外还加上了依存性（Dependenz），这又使纯粹逻辑有效性摆脱了与因果性混杂在一起的经验表象。原因与结果存在于意识统一性的方式之中，这种统一性在假言行动的统一性中起作用，使 a 成为原因、b 成为结果。所以，因果性的比喻性例子——即从量转用到一切关系环节的例子——就是数学函数。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p279-u0872"
+        },
+        " Aber diese Consequenz will nicht als eine psychologische Folge gelten, welche etwa vom consecutiven Urtheil beschrieben würde. Denn das wenn so ist nicht zu verstehen als wann - so. Demgemäss ist die entsprechende Kategorie nicht als Consequenz, sondern nach dem Vollgewicht ihres wissenschaftlichen Einflusses als Causalität benannt worden. Und doch ist der Relations-Charakter dieser Kategorie deutlich festgehalten dadurch, dass der Causalität 'die Dependenz zugegeben ist, wodurch hinwiederum die reine logische Geltung von empirischen Vorstellungen befreit wird, die mit der Causalität sich vermischen. Ursache und Wirkung liegen in der Art der Einheit des Bewusstseins, welche in der Einheit der hypothetischen Handlung sich bethätigt, a zur Ursache und b zur Wirkung macht. So ist das metaphorische, nämlich von den Grössen auf alle Arten von Verhältnissgliedern übertragene Beispiel der Causalität die mathematische Function."
+      ]
+    },
+    {
+      "id": "p279-u0873",
+      "type": "paragraph",
+      "page": "279",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p279-u0873"
+        },
+        "可能产生这样的意见：条件的种类只有一种，因而关系的种类也只有一种。但这等于说：概念的排列方式只有一种。然而，除隶属之外我们还认识并列。前者或许可以归给假言因果性；但什么思维原则引导并列呢？如果人们不持有那种模板式的表象——认为概念呈现的是认识的嵌套图形，为了掩饰其片面性而把它展示为金字塔——，那么人们如何为概念这种更充实的意义辩护呢？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p279-u0873"
+        },
+        " Es könnte die Meinung entstehen, dass es nur eine Art der Bedingung, nur eine Art somit der Relation gäbe. Damit wäre aber ausgesprochen, dass es nur eine Art der Anordnung der Begriffe gäbe. Und doch kennen wir neben der Subordination die Coordination. Die erstere kann man allenfalls der hypothetischen Causalität zuweisen; welches gedankliche Princip leitet aber die Coordination? Und wenn man nicht die schablonenhaften Vorstellungen von dem Begriffe hat, dass er die Einschachtelungsfigur der Erkenntnisse darstelle, die man, um ihre Einseitigkeit zu bemänteln, als Pyramide vorführt, wie will man dann diese vollere Bedeutung des Begriffes rechtfertigen?"
+      ]
+    },
+    {
+      "id": "p279-u0874",
+      "type": "paragraph",
+      "page": "279",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p279-u0874"
+        },
+        "我们看到，概念本身也要求其逻辑位置，正如规律和条件一样。构成概念这一逻辑位置的是选言判断。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p279-u0874"
+        },
+        " Wir sehen, auch der Begriff selbst fordert seinen logischen Ort, wie Gesetz und Bedingung. Diesen logischen Ort des Begriffes bildet das disjunctive Urtheil."
+      ]
+    },
+    {
+      "id": "p279-u0875",
+      "type": "paragraph",
+      "page": "279",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p279-u0875"
+        },
+        "如果把选言判断中的行动统一性理解为相互规定、交互作用，那么那种否认选言判断种类独立性的意见固然可以理解。然而，对新统一性而言，关键并不在于：正如 b 由 a 规定，b 也交互地规定 a。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p279-u0875"
+        },
+        " Wenn man als die Einheit der Handlung im disjunctiven Urtheil die wechselseitige Bestimmung, die Wechselwirkung hinnimmt, so ist freilich die Meinung verständlich, welche die Selbständigkeit der disjunctiven Urtheilsart bestreitet. Indessen darauf kommt es für die neue Einheit nicht an, dass ebenso wie b von a bestimmt wird, b wechselseitig auch a bestimme."
+      ]
+    },
+    {
+      "id": "p280-u0876",
+      "type": "paragraph",
+      "page": "280",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p280-u0876"
+        },
+        "这种交互规定实际上只是一种双重因果性；为此并不需要新的判断种类。但问题是：我凭什么权利可以这样交互地规定？因果性绝不授予这种权利；除非把它设想为一种心理学的杠杆。因果性的先验力量限于单方面的规定。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p280-u0876"
+        },
+        " Diese Wechselbestimmung ist in der That nur eine Doppel-Causalität; dazu bedürfte es keiner neuen Urtheilsart. Aber die Frage ist: mit welchem Rechte darf ich so wechselseitig bestimmen? Dieses Recht ertheilt keinesweges die Causalität; es wäre denn, dass sie als ein psychologischer Hebel zu denken wäre. Die transscendentale Kraft der Causalität beschränkt sich auf die einseitige Bestimmung."
+      ]
+    },
+    {
+      "id": "p280-u0877",
+      "type": "paragraph",
+      "page": "280",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p280-u0877"
+        },
+        "因此，交互作用的根据根本不在某种因果性之中，而在“共联性”范畴之中。这个范畴构成在选言判断中完成的行动统一性。当 a 与 b 相互规定时，这就预设了它们彼此相属、构成一个共联性。而且这种共联性依然存在，即便选言项扩展到两个环节：设定 a 就要排除 b，反之亦然。因为无论如何，a 与 b 都被设想为这样一种共联性：“它们合起来填满真正认识的领域；因而处于一个认识领域诸部分的关系中，因为每一部分的领域都是另一部分领域对于真正认识之完整总体的补充部分。”因此，共联性是诸认识的共联性。于是，选言判断所合法化的东西，一点也不少于概念。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p280-u0877"
+        },
+        " Der Grund der Wechselwirkung liegt daher gar nicht in einer Art von Causalität, sondern in der Kategorie der „Gemeinschaft“. Diese bildet die Einheit der Handlung, die sich im disjunctiven Urtheil vollzieht. Wenn a und b wechselseitig einander bestimmen, so setzt dies voraus, dass sie zusammengehören, eine Gemeinschaft bilden. Und diese Gemeinschaft besteht nichtsdestoweniger, wenn auch die Alternative auf zwei Glieder sich erstreckt, dass wenn a gesetzt werde, b auszuschliessen sei und umgekehrt. Denn immerhin werden a und b solcher Art als eine Gemeinschaft gedacht, „insofern sie zusammen die Sphäre der eigentlichen Erkenntniss ausfüllen; also im Verhältniss der Theile der Sphäre eines Erkenntnisses, da die Sphäre eines jeden Theils ein Ergänzungsstück der Sphäre des andern zu dem ganzen Inbegriff der eigentlichen Erkenntniss ist.“ Somit ist die Gemeinschaft die der Erkenntnisse. Und damit legitimirt das disjunctive Urtheil nichts Geringeres als den Begriff."
+      ]
+    },
+    {
+      "id": "p280-u0878",
+      "type": "paragraph",
+      "page": "280",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p280-u0878"
+        },
+        "因为概念的意义主要在于：在概念中，诸认识被安排进它们共同的统一性。在相互规定中，彼此相属的诸认识被设想为一个共联性的环节，而概念所呈现的正是这个共联性。因此，选言判断完成了概念所在于其中、并有其任务的那种划分。然而，选言判断并非仅仅是意识的一种逻辑特性，它的先验意义延伸到对象的构成；凭借这种共联性，对象才获得个体形体之封闭的物性价值。“知性把一个物思考为可分割的东西时，也遵循它在表象一个已划分概念的领域时所遵循的同一程序。”（第101页。）于是，选言概念把对象构成为其诸部分的共联性，而",
+        {
+          "type": "page",
+          "page": "281",
+          "id": "zh-p280-u0878-page-1"
+        },
+        "交互作用则是一种确实具有因果性的形式，凭借这种形式，这一共联性作为行动的统一性建立起来。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p280-u0878"
+        },
+        " Denn darin steckt vornehmlich die Bedeutung des Begriffs, dass in ihm Erkenntnisse als in ihrer gemeinschaftlichen Einheit geordnet werden. In der wechselseitigen Bestimmung werden die zusammengehörigen Erkenntnisse als Glieder einer Gemeinschaft gedacht, die der Begriff darstellt. Die Disjunction vollzieht daher die Gliederung, in welcher der Begriff besteht und seine Aufgabe hat. Und doch ist die Disjunction nicht lediglich eine logische Eigenart des Bewusstseins, sondern ihre transscendentale Bedeutung erstreckt sich auf die Constituirung des Gegenstandes, der kraft dieser Gemeinschaft erst den abgeschlossenen dinghaften Werth des individuellen Körpers annimmt. „Dasselbe Verfahren des Verstandes, wenn er sich die Sphäre eines eingetheilten Begriffes vorstellt, beobachtet er auch, wenn er ein Ding als theilbar denkt.“ (S. 101.) So constituirt der disjunctive Begriff den Gegenstand als die Gemeinschaft seiner Theile, und ",
+        {
+          "type": "page",
+          "page": "281",
+          "id": "en-p280-u0878-page-1"
+        },
+        " die Wechselwirkung ist die allerdings causale Form, vermittelst welcher sich diese Gemeinschaft als Einheit der Handlung herstellt."
+      ]
+    },
+    {
+      "id": "p281-u0879",
+      "type": "paragraph",
+      "page": "281",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p281-u0879"
+        },
+        "判断的模态固然在这一点上与关系一致：它也像关系一样，不把对象仅仅固定为量；但它同量、质、关系这三个类别的区别在于：它“对判断的内容毫无贡献……而只涉及系词在与一般思维的关系中的价值”。这种价值是先验的；然而它竟对判断的内容毫无贡献？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p281-u0879"
+        },
+        " Die Modalität der Urtheile geht zwar mit der Relation darin zusammen, dass sie wie diese die Gegenstände nicht blos als Grössen fixirt; sie unterscheidet sich aber von ihr und von allen drei Arten darin, dass sie „nichts zum Inhalte des Urtheils beiträgt,.. sondern nur den Werth der Copula in Beziehung auf das Denken überhaupt angeht.“ Dieser Werth ist der transscendentale; und dennoch soll sie zum Inhalt des Urtheils nichts beitragen?"
+      ]
+    },
+    {
+      "id": "p281-u0880",
+      "type": "paragraph",
+      "page": "281",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p281-u0880"
+        },
+        "这个问题通过区分实质内容与方法内容而得到回答。模态当然有方法内容，因为它的价值基于此；但判断只能、并且充分地按照其他三个考虑获得实质内容。然而，当这整个内容已经获得时，它本身又可以被视为新内容——应予产生的新内容——的原材料，这就是说，按照其对知识阶段和等级之评判的方法价值而被看待。基于这一特征刻画而对模态判断所作的划分是新的；这些判断本身并不新，正如迄今为止的判断种类也不是被发明出来的。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p281-u0880"
+        },
+        " Die Frage beantwortet sich durch die Unterscheidung des sachlichen vom methodischen Inhalt. Letzteren hat die Modalität freilich, denn darauf beruht ihr Werth; aber sachlichen Inhalt kann das Urtheil allein und ausreichend nach den drei anderen Rücksichten gewinnen. Wenn jedoch dieser ganze Inhalt gewonnen ist, so kann er selbst wieder als Rohmaterial für neuen Inhalt, der zu erzeugen sei, betrachtet werden, das will sagen nach seinem methodischen Werthe für die Beurtheilung der Stufen und Grade des Wissens. Die auf dieser Charakteristik beruhende Gliederung der modalen Urtheile ist neu; diese selbst sind es nicht, sowenig wie die bisherigen Urtheilsarten erfunden waren."
+      ]
+    },
+    {
+      "id": "p281-u0881",
+      "type": "paragraph",
+      "page": "281",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p281-u0881"
+        },
+        "在对判断的这些方法论评估中，最突出的是刻画或然判断的那一种。某事物只是一个问题，还是发生在某位宗主教的教区里，这在系词的意义上有巨大差别。但问题的意义被理解得太狭窄，如果它只被用来与警察事件相对立。问题不仅是与法律事实相对立的发明产物；它是科学问题，是科学发现的辅助手段。因此，在或然判断中完成的行动统一性，作为可能性范畴进入积极的效用。如果或然判断不能被设定，整个先验方法就无法实行；因为它的手段是那些使科学先天成为可能的条件。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p281-u0881"
+        },
+        " Unter diesen methodischen Abschätzungen der Urtheile steht diejenige obenan, welche das problematische Urtheil kennzeichnet. Es ist in der Bedeutung der Copula ein gewaltiger Unterschied, ob etwas nur ein Problema ist, oder ob es in eines Patriarchen Diocese sich zugetragen hat. Aber die Bedeutung des Problems wird zu eng gefasst, wenn sie nur dem Polizei-Ereigniss entgegengestellt wird. Das Problem ist nicht nur ein Product der Erfindung im Gegensatze zu juristischem Thatbestand; sondern es ist das wissenschaftliche Problem, das Hülfsmittel wissenschaftlicher Entdeckung. Die Einheit der Handlung, die sich demgemäss in dem problematischen Urtheil vollzieht, tritt als Kategorie der Möglichkeit in positive Wirksamkeit. Die ganze transscendentale Methode könnte nicht in Vollzug treten, wenn das problematische Urtheil nicht angesetzt werden könnte; denn ihre Mittel sind die Bedingungen, welche das a priori der Wissenschaft ermöglichen."
+      ]
+    },
+    {
+      "id": "p281-u0882",
+      "type": "paragraph",
+      "page": "281",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p281-u0882"
+        },
+        "但由此我们已经看到可能性的全部影响范围。或然判断中的可能者，并不是那种在矛盾律面前安全的可思考者。",
+        {
+          "type": "page",
+          "page": "282",
+          "id": "zh-p281-u0882-page-1"
+        },
+        "这种分析的可能性不能是我们在综合判断诸种类中所要标划的价值。康德通过在“可能的”旁边用括号加上“任意的”而给这种意见提供了一定支持。但为任意判断所举的例子是：“存在着一种完全的正义”，并由此推论出：坚持为恶者将受到惩罚。“因此，这类判断显然也可能是假的，然而在或然意义上，它们可以是认识真理的条件。”这种作为认识真理之条件、或“为了找到真路而走假路”的条件价值，这种先验意义，正属于“任意的”或然判断：它凭借其综合可能性，把与这种可能性不相适合的东西直截了当地打上不可能的印记。然而，与可能性的方法价值不相适合的，不仅是根本不可思考、不符合矛盾律的东西；而且，凡不能服务于方法上的“认识真理的条件”的东西，也仍然是不可能的。可能性与不可能性这一对范畴，就这样在或然判断种类中贯通地起支配作用。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p281-u0882"
+        },
+        " Damit aber sehen wir bereits in die volle Tragweite der Möglichkeit hinüber. Das Mögliche des problematischen Urtheils ist nicht etwa das Denkbare, das vor dem Satze des Widerspruchs ",
+        {
+          "type": "page",
+          "page": "282",
+          "id": "en-p281-u0882-page-1"
+        },
+        " Sichere. Dieses analytisch Mögliche kann nicht der Werth sein, den wir in den Arten der synthetischen Urtheile auszuzeichnen hätten. Kant hat dieser Meinung einen gewissen Vorschub geleistet, indem er neben möglich „beliebig“ in Klammern setzt. Aber für ein beliebiges Urtheil ist als Beispiel der Satz angeführt: es ist eine vollkommene Gerechtigkeit da, aus welchem geschlossen wird, dass der beharrlich Böse bestraft werde. „Daher können solche Urtheile auch offenbar falsch sein und doch, problematisch genommen, Bedingungen der Erkenntniss der Wahrheit sein.“ Diesen Werth der Bedingung zur Erkenntniss der Wahrheit, oder „des falschen Weges“ um „den wahren zu finden,“ diese transscendentale Bedeutung hat das „beliebige“ problematische Urtheil, welches kraft seiner synthetischen Möglichkeit das derselben nicht Angemessene stracks zum Unmöglichen stempelt. Nicht angemessen aber dem methodischen Werthe der Möglichkeit ist nicht blos dasjenige, was überhaupt nicht denkbar ist, was dem Satze des Widerspruchs nicht gerecht wird; sondern auch dasjenige noch ist unmöglich, was den methodischen „Bedingungen der Erkenntniss der Wahrheit“ nicht dienstbar sein kann. So durchgreifend waltet das Kategorieen-Paar Möglichkeit und Unmöglichkeit in der problematischen Urtheilsart."
+      ]
+    },
+    {
+      "id": "p282-u0883",
+      "type": "paragraph",
+      "page": "282",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p282-u0883"
+        },
+        "然而，如果一切可能性不导向现实性，一切提出问题不导向主张，那又有什么用呢？人们在这里也可以说，每个判断作为判断都是一种主张。但恰恰当主张被视为判断如此特征性的东西时，就更必须为它标划出逻辑位置；因为在迄今为止的一切考虑中，我们都可以不顾判断这一所谓共同特征，而现在它作为一种特殊特性进入考虑，而且是作为模态特性，因为它只涉及“系词的价值”。康德在这里也固守形式逻辑的特征刻画，因此只赋予断言判断“逻辑现实性或真理”的意义，而这种意义基于：“命题已经按照知性的规律与知性相结合”。这种自身确定性就在断言判断之中。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p282-u0883"
+        },
+        " Was würde jedoch alle Möglichkeit helfen, wenn sie nicht zur Wirklichkeit, was alles Problememachen, wenn es nicht zu Behauptungen führte? Man kann auch hier wieder sagen, jedes Urtheil sei als solches eine Behauptung. Indessen gerade wenn die Behauptung so charakteristisch für das Urtheil gehalten wird, so muss umsomehr der logische Ort für dieselbe ausgezeichnet werden; denn in allen bisherigen Rücksichten konnten wir von diesem angeblich gemeinsamen Charakter des Urtheils absehen, der nunmehr als eine besondere Eigenthümlichkeit in Betracht kommt, und zwar als eine modale, weil lediglich den „Werth der Copula“ betreffende. Kant hält sich auch hier an die formal logische Charakteristik und giebt daher dem assertorischen Urtheil nur die Bedeutung „logischer Wirklichkeit oder Wahrheit“, welche darauf beruht, dass „der Satz mit dem Verstande nach dessen Gesetzen schon verbunden“ sei. Diese Selbstgewissheit liegt im assertorischen Urtheil."
+      ]
+    },
+    {
+      "id": "p282-u0884",
+      "type": "paragraph",
+      "page": "282",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p282-u0884"
+        },
+        "但它可以提出更大的要求。",
+        {
+          "type": "page",
+          "page": "283",
+          "id": "zh-p282-u0884-page-1"
+        },
+        "一个命题按照知性的规律与知性相结合，同样预设了一个更具内涵的范畴，正如我们在肯定判断及其实在性那里所看到的那样。断言判断并不是要把主张、甚至把联结承认为自己的统一性；相反，这种统一性在于一个填补否则会留下的空位的范畴。而在这里，判断、范畴和原理的联系以如此规定性的方式潜在地显示出来，正如人们只能从先验逻辑的划分中所期待的那样，也如这一划分中没有其他环节如此公开地展示的那样。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p282-u0884"
+        },
+        " Aber dieselbe darf grösseren Anspruch machen. Die Verbindung ",
+        {
+          "type": "page",
+          "page": "283",
+          "id": "en-p282-u0884-page-1"
+        },
+        " eines Satzes mit dem Verstande nach dessen Gesetzen setzt ebenso eine mehrbesagende Kategorie voraus, wie wir dies bei dem bejahenden Urtheil und seiner Realität gesehen haben. Das assertorische Urtheil hat nicht etwa die Behauptung oder gar die Verbindung als seine Einheit anzuerkennen; sondern diese liegt in einer Kategorie, welche eine sonst verbleibende Lücke ausfüllt. Darin aber zeigt sich der Zusammenhang von Urtheil, Kategorie und Grundsatz in so bestimmender Weise latent, wie es von den Eintheilungen der transscendentalen Logik nur erwartet werden kann, und wie es kein anderes Glied dieser Eintheilung so offen darlegt."
+      ]
+    },
+    {
+      "id": "p283-u0885",
+      "type": "paragraph",
+      "page": "283",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p283-u0885"
+        },
+        "在柏拉图理念论中，困难在于：在无数理念中竟分离出一个存在理念，而一切理念毕竟都见证存在。但存在理念毋宁是定在（Dasein）理念，我们在这里看到它作为范畴在断言判断中起作用。我们在断言判断中赋予系词的价值，不外乎是：我们把存在作为定在而使之有效。当一个命题被设想为按照知性的规律与知性“已经相结合”时，其内容就被赋予定在。这一要求当然还必须另外得到论证，尽管它始终只能在对思维形式的考察中找到根据。因为定在与实在性有什么区别呢？"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p283-u0885"
+        },
+        " In der Platonischen Ideenlehre macht es Schwierigkeit, dass unter den unzähligen Ideen eine solche des Seins ausgesondert wird, während doch alle Ideen Sein bezeugen. Die Idee des Seins ist aber vielmehr die Idee des Daseins, welche wir hier als Kategorie in Wirksamkeit treten sehen im assertorischen Urtheil. Der Werth, den wir im assertorischen Urtheil der Copula geben, besteht in nichts anderem, als dass wir das Sein als Dasein geltend machen. Indem ein Satz als mit dem Verstande nach dessen Gesetzen „schon verbunden“ gedacht wird, wird seinem Inhalt Dasein zugeschrieben. Dieser Anspruch muss sicherlich noch anderweit begründet werden, wenngleich er immer nur in den Formen des Denkens seinen Grund finden darf. Denn was unterscheidet das Dasein von der Realität?"
+      ]
+    },
+    {
+      "id": "p283-u0886",
+      "type": "paragraph",
+      "page": "283",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p283-u0886"
+        },
+        "实在性意谓概念在知性中的联结，定在则意谓“与”知性的联结。实在性直截了当地设定一个某物；定在则把绝对的设定归于一个判断。这种设定是需要的，在认识中不可或缺，因为认识不能仅凭纯粹直观和思维的手段来操作，而被迫顾及感觉的变形。特别是这种顾及——它也对实在性起作用——对应于定在范畴，因为定在范畴依照这种顾及，宣称判断内容所寻求的与知性的联结已经达到。因此它也有权否定地说出非存在，而非存在具有非定在的综合意义。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p283-u0886"
+        },
+        " Die Realität besagt die Verbindung der Begriffe im Verstande, das Dasein dagegen „mit“ dem Verstande. Die Realität setzt ein Etwas schlechthin; das Dasein erkennt einem Urtheil absolute Setzung zu. Diese wird gebraucht, ist unentbehrlich in der Erkenntniss, welche nicht allein mit den Mitteln der reinen Anschauung und des Denkens operiren kann, sondern auf die Modificationen der Empfindung Rücksicht zu nehmen gezwungen ist. Dieser Rücksichtnahme insbesondere, die sich auch für die Realität geltend macht, entspricht die Kategorie des Daseins, insofern sie zufolge derselben die für den Inhalt des Urtheils gesuchte Verbindung mit dem Verstande als erreicht erklärt. Daher ist sie auch negativ befugt, Nichtsein auszusagen, welches den synthetischen Sinn des Nichtdaseins hat."
+      ]
+    },
+    {
+      "id": "p283-u0887",
+      "type": "paragraph",
+      "page": "283",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p283-u0887"
+        },
+        "在通往真理的道路中，对事实的主张既不是最后一条，也不是第一条。人们并非",
+        {
+          "type": "page",
+          "page": "284",
+          "id": "zh-p283-u0887-page-1"
+        },
+        "只是逐案判断，而是把判断组合起来，以在这种组合中得出一个新判断。在判断组合为推理时，我们除了同一律之外还认识到那些奇妙的逻辑规律。我们能够推论和推理，这似乎证明了思维的真正力量。这种思维的自有权价值由必然判断建立，即由从 ἀπόδειξις（证明）中产生的判断建立。但既然必然判断是模态判断，因而作为一条道路必须与其他道路发生关系，那么就必须考虑：必然判断与迄今为止哪一种模态判断有特殊的关系。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p283-u0887"
+        },
+        " Unter den Wegen zur Wahrheit ist die Behauptung der Thatsachen so wenig der letzte, als der erste. Es wird nicht ",
+        {
+          "type": "page",
+          "page": "284",
+          "id": "en-p283-u0887-page-1"
+        },
+        " nur von Fall zu Fall geurtheilt, sondern Urtheile werden zusammengefügt, um in dieser Zusammenstellung ein neues Urtheil zu ergeben. In dieser Composition der Urtheile zu Schlüssen erkennen wir ausser dem Satze der Identität die wundersamen logischen Gesetze. Dass wir folgern und schliessen dürfen, scheint die eigentliche Macht des Denkens zu erweisen. Diesen eigenmächtigen Werth des Denkens stellt das apodiktische Urtheil her, als das Urtheil, welches aus ἀπόδειξις hervorgeht. Da nun aber das apodiktische Urtheil ein modales ist, mithin als ein Weg mit den anderen Wegen im Verhältniss stehen muss, so ist zu überlegen, mit welchem der bisherigen modalen Urtheile das apodiktische in besonderem Abkommen steht."
+      ]
+    },
+    {
+      "id": "p284-u0888",
+      "type": "paragraph",
+      "page": "284",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p284-u0888"
+        },
+        "人们可能认为，必然判断应被联系并限制于问题：为了证明任意者和可能者。然而，那样一来，它始终只是作为任意者和可能者被证明；证明也必须能够扩展到对定在的主张，并只有在这种扩展了的关系中才证明其全部力量。“必然命题把断言命题设想为通过知性自身的这些规律而被规定、因而先天地被主张的，并以此表达逻辑必然性。”于是我们认识到，在这种对定在的关系中，新的行动统一性作为必然性而有效。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p284-u0888"
+        },
+        " Man könnte meinen, das apodiktische Urtheil sei auf das Problem zu beziehen und zu beschränken: um das Beliebige und Mögliche zu beweisen. Indessen alsdann wäre es immer nur als Beliebiges und Mögliches bewiesen; das Beweisen muss sich auch auf das Behaupten des Daseins erstrecken dürfen, und in dieser erweiterten Beziehung erst seine volle Kraft beweisen. „Der apodiktische Satz denkt sich den assertorischen durch diese Gesetze des Verstandes selbst bestimmt und daher a priori behauptend, und drückt auf solche Weise logische Nothwendigkeit aus.“ So erkennen wir in dieser Beziehung auf das Dasein die neue Einheit der Handlung, welche als Nothwendigkeit sich geltend macht."
+      ]
+    },
+    {
+      "id": "p284-u0889",
+      "type": "paragraph",
+      "page": "284",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p284-u0889"
+        },
+        "我们从一开始就不断谈论先天：这里就是它的逻辑位置。先天的主张就是必然判断；在其中，被设想为按照知性规律与知性相结合的断言命题，被判定为通过这些规律而被规定。而这种必然性作为逻辑的必然性，同时是先验的。因为我们在认识中需要这种判定，而推理的奇迹在思维中并非徒劳地发生。因此，引导必然判断的行动统一性、即必然性范畴，也能提出其否决。凡不是凭借必然性被证明的东西，可以不仅是可能的，甚至可以存在；然而它仍然是偶然的，直到被证明为“通过知性自身的规律而被规定”",
+        {
+          "type": "page",
+          "page": "285",
+          "id": "zh-p284-u0889-page-1"
+        },
+        "。因此，当人们把经验的东西与作为必然东西的先天对立起来时，就使经验的东西成为偶然的。相反，当我们从思维方面寻找作为经验条件的思维形式时，我们是在必然性的价值记号下寻找它们，以便凭借这种记号给经验披上科学确定性的品格。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p284-u0889"
+        },
+        " Wir haben von Anfang an und immerfort vom a priori geredet: hier ist der logische Ort desselben. Die Behauptung a priori ist das apodiktische Urtheil, in welchem der assertorische Satz, der mit dem Verstande nach dessen Gesetzen verbunden gedacht wird, als durch diese Gesetze bestimmt gewürdigt wird. Und diese Nothwendigkeit ist als logische zugleich eine transscendentale. Denn wir bedürfen in den Erkenntnissen solcher Würdigung, und nicht vergeblich begiebt sich im Denken das Wunder des Schliessens. Die Einheit der Handlung, welche das apodiktische Urtheil leitet, die Kategorie der Nothwendigkeit vermag daher auch ihr Veto einzulegen. Was nicht kraft der Nothwendigkeit bewiesen ist, kann nicht blos möglich, mag sogar da sein; dennoch bleibt es zufällig, bis es als „durch die Gesetze des Verstandes selbst bestimmt“ nachgewiesen ",
+        {
+          "type": "page",
+          "page": "285",
+          "id": "en-p284-u0889-page-1"
+        },
+        " ist. Wenn man daher dem a priori als dem Nothwendigen das Empirische entgegenhält, so macht man dieses damit zum Zufälligen. Indem wir dagegen die Formen des Denkens als die Bedingungen der Erfahrung von Seiten des Denkens suchen, suchen wir sie unter dem Werthzeichen der Nothwendigkeit, um mittelst desselben die Erfahrung mit dem Charakter wissenschaftlicher Gewissheit zu bekleiden."
+      ]
+    },
+    {
+      "id": "p285-u0890",
+      "type": "paragraph",
+      "page": "285",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p285-u0890"
+        },
+        "这样，判断表和范畴表就建立起来了；现在我们可以再考察一些规定，它们特别适合阐明康德对范畴的阐述，尤其是就关于范畴的心理学偏见而言。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p285-u0890"
+        },
+        " Damit ist die Tafel der Urtheile und Kategorieen aufgestellt, und wir können nunmehr noch einige Bestimmungen betrachten, welche Kants Darstellung der Kategorieen insbesondere mit Bezug auf das psychologische Vorurtheil von denselben zu beleuchten geeignet sein möchten."
+      ]
+    },
+    {
+      "id": "p285-u0891",
+      "type": "paragraph",
+      "page": "285",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p285-u0891"
+        },
+        "范畴已经证明自己是诸综合统一性，因而是综合的统一性。综合是思维的行动，而直观则设定并塑造作为这样的杂多性。但正如直观是纯粹的，范畴中的综合也必须是纯粹的。如果感性的“接受性”已经是纯粹的，那么思维的“自发性”就更必须如此。综合通过思维对象而产生对象。然而，这种产生仍然被指向纯粹直观的杂多性，思维被限制在对被给予东西的“规定”上。于是我们看到，感性杂多性与思维综合之间的联系恰恰在纯粹中被展示出来。康德以许多表述贯彻这一思想。“纯粹综合，一般地被表象，给出纯粹知性概念。但我在这里所理解的综合，是那种基于先天综合统一性之根据的综合。”所以，我们的计数是一种依照概念、即依照十进制的统一性而进行的综合。现在，把纯粹综合的一切形式——如它们在判断中展示的那样——追溯到它们所依据的诸统一性、追溯到综合概念、并由此追溯到它们的“先验内容”（第96页），这就是先验逻辑的工作，而其成果就是修订过的判断与范畴双重表。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p285-u0891"
+        },
+        " Die Kategorieen haben sich uns als die synthetischen Einheiten, somit als die Einheiten der Synthesis erwiesen. Synthesis ist die That des Denkens, während die Anschauung das Mannichfaltige als solches setzt und gestaltet. Wie die Anschauung aber rein ist, so muss auch die Synthesis in den Kategorieen rein sein. Wenn schon die „Receptivität“ der Sinnlichkeit rein ist, wie viel mehr muss dies von der „Spontaneität“ des Denkens gelten. Die Synthesis erzeugt die Gegenstände, indem sie sie denkt. Und doch ist diese Erzeugung an das Mannichfaltige der reinen Anschauung gewiesen, das Denken auf das „Bestimmen“ des Gegebenen eingeschränkt. Somit sehen wir den Zusammenhang zwischen dem Mannichfaltigen der Sinnlichkeit und der Synthesis des Denkens gerade im Reinen dargestellt. Diesen Gedanken führt Kant in vielen Wendungen durch. „Die reine Synthesis, allgemein vorgestellt, giebt nun den reinen Verstandsbegriff. Ich verstehe aber unter dieser Synthesis diejenige, welche auf einem Grunde der synthetischen Einheit a priori beruht.“ So ist unser Zählen eine Synthesis nach Begriffen, nämlich nach der Einheit der Dekadik. Die sämmtlichen Formen nun der reinen Synthesis, wie sie sich in den Urtheilen darlegen, auf die ihnen zu Grunde liegenden Einheiten, auf die synthetischen Begriffe und damit auf ihren „transscendentalen Inhalt“ (S. 96) zu bringen, das ist die Arbeit der transscendentalen Logik, und der Ertrag derselben die revidirte Doppel-Tafel der Urtheile und der Kategorieen."
+      ]
+    },
+    {
+      "id": "p286-u0892",
+      "type": "paragraph",
+      "page": "286",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p286-u0892"
+        },
+        "这样，在经验判断中，原因概念也是统一性的根据；我依据这种统一性，把直观呈现给我的照耀的太阳和温暖的石头置于一种综合关系中。“为了认识一切对象，首先必须先天被给予我们的是纯粹直观的杂多性；这种杂多性通过想象力而进行的综合是第二项，但还不给出认识。那些给这种纯粹综合以统一性、并且仅仅存在于这种必然综合统一性之表象中的概念，构成认识一个呈现出来的对象的第三项，并基于知性。”（第95页。）在第三项中，诸条件达到顶峰。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p286-u0892"
+        },
+        " So ist auch im Erfahrungs-Urtheil der Begriff der Ursache der Grund der Einheit, unter welcher ich die scheinende Sonne und den warmen Stein, welche mir die Anschauung darbietet, in ein synthetisches Verhältniss setze. „Das Erste, was uns zum Behuf der Erkenntniss aller Gegenstände a priori gegeben sein muss, ist das Mannichfaltige der reinen Anschauung; die Synthesis dieses Mannichfaltigen durch die Einbildungskraft ist das Zweite, giebt aber noch keine Erkenntniss. Die Begriffe, welche dieser reinen Synthesis Einheit geben und lediglich in der Vorstellung dieser nothwendigen synthetischen Einheit bestehen, thun das Dritte zum Erkenntniss eines vorkommenden Gegenstandes und beruhen auf dem Verstande.“ (S. 95.) In der dritten gipfeln die Bedingungen."
+      ]
+    },
+    {
+      "id": "p286-u0893",
+      "type": "paragraph",
+      "page": "286",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p286-u0893"
+        },
+        "在这个命题中，主要应重视两个规定。首先：范畴仅仅存在于这种必然综合统一性的表象之中。其次：它们基于知性。后一规定固然引起这样的怀疑：一种错误的心理学可能由此设定精神的形式。但这种怀疑从一开始就被前一规定削弱，而康德还明确地这样解释它：“在一个判断中给不同表象以统一性的同一种功能，也给直观中不同表象的纯然综合以统一性；这种统一性一般地表达出来，就叫作纯粹知性概念。”正如纯粹综合是判断的先天形式，纯粹知性概念也是判断功能、即综合所依据的行动统一性的先天形式；或者“是判断中的统一性功能的”先天形式。因为一切判断都以一种综合统一性为基础。这就是我们上文（第262页）所认识到的那个表述的含义：范畴是“源始地产生的概念”。它们并非分析地包含在直观的杂多性中；它们也不是比较和联结的产物；它们并不直截了当地存在于综合之中，而是作为综合的基础，给综合以统一性。然而它们并不是自在的对象，而只表达对",
+        {
+          "type": "page",
+          "page": "287",
+          "id": "zh-p286-u0893-page-1"
+        },
+        "对象的关系，“它们先天地关涉对象”，并“仅仅存在于这种必然综合统一性的表象之中”。因此，它们只标示判断的先天内容和对象。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p286-u0893"
+        },
+        " Auf zwei Bestimmungen in diesem Satze ist hauptsächlich Gewicht zu legen. Erstlich darauf, dass die Kategorieen lediglich in der Vorstellung dieser nothwendigen synthetischen Einheit bestehen. Ferner darauf, dass sie auf dem Verstande beruhen. Auf der letztern Bestimmung liegt freilich der Verdacht, dass durch eine falsche Psychologie Formen des Geistes statuirt würden. Aber derselbe wird von vornherein geschwächt durch die erstere Bestimmung, welche Kant noch ausdrücklich dahin erläutert: „Dieselbe Function, welche den verschiedenen Vorstellungen in einem Urtheile Einheit giebt, die giebt auch der blossen Synthesis verschiedener Vorstellungen in einer Anschauung Einheit, welche, allgemein ausgedrückt, der reine Verstandesbegriff heisst.“ Wie die reine Synthesis die apriorische Form des Urtheils ist, so ist der reine Verstandesbegriff die apriorische Form für die Function des Urtheils, für die Einheit der Handlung, welche der Synthesis zu Grunde liegt; oder „für die Function der Einheit in den Urtheilen.“ Denn eine synthetische Einheit liegt allen Urtheilen zu Grunde. Diesen Sinn hat nun der Ausdruck, den wir oben (S. 262) kennen gelernt haben, dass die Kategorieen „ursprünglich erzeugte Begriffe“ seien. Sie sind nicht analytisch in dem Mannichfaltigen der Anschauung enthalten; sie sind auch nicht das Product der Vergleichung und Verknüpfung: sie bestehen nicht in der Synthesis schlechthin, sondern liegen derselben zu Grunde, geben derselben Einheit. Und dennoch sind sie nicht Objecte an sich, sondern drücken nur Beziehungen auf ",
+        {
+          "type": "page",
+          "page": "287",
+          "id": "en-p286-u0893-page-1"
+        },
+        " Objecte aus, „sie gehen a priori auf Objecte,“ und „bestehen lediglich in der Vorstellung dieser nothwendigen synthetischen Einheit.“ Sie bezeichnen mithin nur den Inhalt und Gegenstand a priori der Urtheile."
+      ]
+    },
+    {
+      "id": "p287-u0894",
+      "type": "paragraph",
+      "page": "287",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p287-u0894"
+        },
+        "而在这里，我们终于回到我们的问题：我们有什么保证，这个“纯粹的”知性概念不也是一个“纯然的”概念，没有任何桥梁把它与感性的形式联结起来？这一保证从一开始就被范畴的形而上学演绎所注视，因为它是从先验的视角进行的，因为它是作为先验逻辑学而作出其划分的。不仅让这一视角起作用，而且让它凸显出来，这就是处理那个问题、并在其中消解该问题的任务。对康德来说，这一视角如此生动，以至于形而上学的视角在其面前退居其次。极具标志性的是：康德在《批判》第二版中把感性论中的先验阐明与形而上学阐明分开，却在范畴那里没有作这一改动。只是在结尾（第26节）才突然提到“形而上学演绎”。“在形而上学演绎中，一般说来，范畴的先天起源通过它们与思维的一般逻辑功能的完全吻合而得到证明；而在先验演绎中，则证明了它们作为关于一般直观之对象的先天认识的可能性（第20、21节）”（第677页）。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p287-u0894"
+        },
+        " Und hier kommen wir denn endlich auf unsere Frage zurück: Welche Gewähr haben wir, dass dieser „reine“ Verstandesbegriff nicht ebenfalls ein „bloser“ ist, welchen keine Brücke mit den Formen der Sinnlichkeit verbindet? Diese Gewähr hat die metaphysische Deduction der Kategorieen von vornherein ins Auge gefasst, indem sie aus dem Gesichtspunkt der transscendentalen angestellt wurde, indem sie als transscendentale Logik ihre Eintheilungen machte. Diesen Gesichtspunkt nicht blos wirken, sondern hervortreten zu lassen, ist die Aufgabe, in deren Behandlung jene Frage gehoben wird. Für Kant war jener Gesichtspunkt so lebendig, dass vor demselben der metaphysische zurücktrat. Es ist höchst bezeichnend, dass Kant, während er in der zweiten Auflage der Kritik bei der Aesthetik die transscendentale Erörterung von der metaphysischen trennte, bei den Kategorieen diese Aenderung anzubringen unterliess. Nur am Schlusse (im § 26) erscheint plötzlich die „metaphysische Deduction“ genannt. „In der metaphysischen Deduction wurde der Ursprung der Kategorieen a priori überhaupt durch ihre völlige Zusammentreffung mit den allgemeinen logischen Functionen des Denkens dargethan, in der transscendentalen aber die Möglichkeit derselben als Erkenntnisse a priori von Gegenständen einer Anschauung überhaupt (§§ 20, 21) dargethan“ (S. 677)."
+      ]
+    },
+    {
+      "id": "p287-u0895",
+      "type": "paragraph",
+      "page": "287",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p287-u0895"
+        },
+        "我们在这里首先要考察先验演绎。我们可以从中预先取出一些涉及范畴作为思维形式之学说的东西。“但这个范畴体系中的本质东西——它由此区别于那种没有一切原则而进行的古老杂凑，并且唯独因此也配得上被算作哲学——在于：凭借这个体系，纯粹知性概念的真正意义及其使用的条件能够被精确规定。因为在这里显示出：它们自身只是逻辑功能，而作为这样的功能，它们根本不构成关于",
+        {
+          "type": "page",
+          "page": "288",
+          "id": "zh-p287-u0895-page-1"
+        },
+        "一个自在对象的丝毫概念，而是需要感性直观作为基础，并且随后只用于规定那些否则就一切判断功能而言都不确定、无差别的经验性判断，使它们由此获得普遍有效性，并凭借它们使经验判断一般成为可能。”",
+        {
+          "type": "note",
+          "id": "p288-n01",
+          "label": "1"
+        },
+        " 与它们作为“逻辑功能”的这一认识批判品格相应，在《导论》中和在《批判》中一样，范畴都被称为那些“就直观而言规定一般判断形式的”纯粹知性概念。",
+        {
+          "type": "note",
+          "id": "p288-n02",
+          "label": "2"
+        },
+        " 据此，我们的问题以最简洁的方式得到解决：范畴作为“源始地产生的概念”，是如此不能缺少那座把它们与感性形式联结起来的桥梁，以至于不仅“它们使用的条件”，而且它们的“真正意义”都系于与直观杂多性的持续联结：它们无非是同一种直观杂多性之客观规定的先验形式。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p287-u0895"
+        },
+        " Wir haben hier zunächst die transscendentale Deduction in Erwägung zu nehmen. Und wir können aus derselben Einiges vorweg nehmen, was die Lehre von den Kategorieen als den Formen des Denkens betrifft. „Das Wesentliche aber in diesem System der Kategorieen, wodurch es sich von jener alten Rhapsodie, die ohne alles Princip fortging, unterscheidet, und warum es auch allein zur Philosophie gezählt zu werden verdient, besteht darin: dass vermittelst derselben die wahre Bedeutung der reinen Verstandesbegriffe und die Bedingung ihres Gebrauchs genau bestimmt werden konnte. Denn da zeigte sich, dass sie für sich selbst nichts, als logische Functionen sind, als solche aber nicht den mindesten Begriff von ",
+        {
+          "type": "page",
+          "page": "288",
+          "id": "en-p287-u0895-page-1"
+        },
+        " einem Objecte an sich selbst ausmachen, sondern es bedürfen, dass sinnliche Anschauung zu Grunde liege, und alsdann nur dazu dienen, empirische Urtheile, die sonst in Ansehung aller Functionen zu urtheilen unbestimmt und gleichgültig sind, in Ansehung derselben zu bestimmen, ihnen dadurch Allgemeingültigkeit zu verschaffen und vermittelst ihrer Erfahrungsurtheile überhaupt möglich zu machen.“",
+        {
+          "type": "note",
+          "id": "p288-n01",
+          "label": "1"
+        },
+        " Diesem ihrem erkenntnisskritischen Charakter als „logische Functionen“ entsprechend, werden denn auch in den Prolegomenen wie in der Kritik die Kategorieen als diejenigen reinen Verstandesbegriffe bezeichnet, „welche die Form des Urtheilens überhaupt in Ansehung der Anschauung bestimmen.“",
+        {
+          "type": "note",
+          "id": "p288-n02",
+          "label": "2"
+        },
+        " Und demgemäss löst sich unsere Frage auf die bündigste Weise: die Kategorieen, als „ursprünglich erzeugte Begriffe“ können einer Brücke, welche sie mit den Formen der Sinnlichkeit verbindet, so wenig entbehren, dass nicht bloss die „Bedingung ihres Gebrauchs“, sondern auch ihre „wahre Bedeutung“ an die beständige Verbindung mit dem Mannichfaltigen der Anschauung geknüpft ist: sie sind nichts als die transscendentalen Formen der objectiven Bestimmung desselben."
+      ]
+    },
+    {
+      "id": "p288-u0896",
+      "type": "paragraph",
+      "page": "288",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p288-u0896"
+        },
+        "那么，最后，关于范畴数目和完备性的可靠性又如何呢？对此只有客观的证明才能决定。从一开始就争论数目本身，根据建筑术的风格原则争论，在哲学上十分可疑。任何数目都会像十二这个数目一样令人惊奇。然而，人们真正挑剔的是：竟然要求范畴的完备性。批判的谨慎本应提醒：一个会死者不应当着手按照其基本储备来测量人类知性。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p288-u0896"
+        },
+        " Und wie steht es nun endlich um die Sicherheit bezüglich der Anzahl und Vollständigkeit der Kategorieen? Hierüber kann allein der objective Nachweis entscheiden. Ueber die Anzahl als solche von vornherein streiten, aus architektonischen Stilprincipien streiten, ist philosophisch sehr verdächtig. Jede Zahl würde in gleicher Weise verwunderlich sein, wie die Zwölfzahl. Dass jedoch die Vollständigkeit überhaupt bezüglich der Kategorieen erstrebt wird, das ist es eigentlich, was man bemängelt: kritische Vorsicht hätte daran gemahnen müssen, dass ein Sterblicher nicht den menschlichen Verstand nach dem Vorrath seiner Grundlagen auszumessen unternehmen dürfe."
+      ]
+    },
+    {
+      "id": "p288-u0897",
+      "type": "paragraph",
+      "page": "288",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p288-u0897"
+        },
+        "这种观点完全是非批判的，它是误解先验问题的症状。在范畴中要测量的并不是人类知性本身，而是那种知性，它是经验",
+        {
+          "type": "page",
+          "page": "289",
+          "id": "zh-p288-u0897-page-1"
+        },
+        "统一性所依据的诸条件之总体表达。因此，就我们把经验统一性作为一个被给予的事实来分析而言，我们必须以确定的公式和数目来进行这种分析，并在其中把分析的结果固定下来。康德正是在这种不是形而上学的、而是先验的精神中强调范畴的完备性。",
+        {
+          "type": "note",
+          "id": "p289-n01",
+          "label": "1"
+        },
+        " 因为完备性的缺失将会是不彻底性的标志。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p288-u0897"
+        },
+        " Diese Ansicht ist eine durchaus unkritische, sie ist das Symptom des Missverständnisses der transscendentalen Frage. Nicht der menschliche Verstand als solcher war in den Kategorieen auszumessen, sondern derjenige Verstand, welcher der Gesammtausdruck der Bedingungen ist, auf denen die Einheit ",
+        {
+          "type": "page",
+          "page": "289",
+          "id": "en-p288-u0897-page-1"
+        },
+        " der Erfahrung beruht. Sofern wir daher die letztere als ein gegebenes Factum analysiren, müssen wir diese Analyse in bestimmten Formeln und Zahlen ausführen und in denselben das Ergebniss der Analyse fixiren. In diesem nicht metaphysischen, sondern transscendentalen Geiste hat Kant die Vollständigkeit der Kategorieen betont.",
+        {
+          "type": "note",
+          "id": "p289-n01",
+          "label": "1"
+        },
+        " Denn der Mangel der Vollständigkeit wäre ein Zeichen der Ungründlichkeit."
+      ]
+    },
+    {
+      "id": "p289-u0900",
+      "type": "paragraph",
+      "page": "289",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p289-u0900"
+        },
+        "因此，对完备范畴表之方法论可能性的怀疑，仔细看来，基于把经验概念与“世界的计划和意义”（洛采）相混淆。经验概念可能可疑，那么构成它的特征也会可疑。相反，如果把经验概念设想为在被给予的“事实”上完成的任务，那么要求把握经验作为科学的全部条件，就不会引起任何方法论上的疑虑：因为这正是任务。如果范畴作为经验的条件和特征没有被完整地发现，那么经验概念就仍未得到认识、仍未完成。相反，如果把数学自然科学视为其概念有待确定的具体物（Concretum），那么条件的完备性就必须表现为精确的任务。当然，如果人们从经验概念中造出“世界的意义”，并在这种“计划”之下给数学自然科学配上一门关于灵魂及类似理念的科学，情况就不同了。这样一些意义特征或计划形式的数目，确实是不确定的。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p289-u0900"
+        },
+        " Der Zweifel an der methodischen Möglichkeit einer vollständigen Kategorieentafel beruht daher, bei Lichte besehen, auf der Verwechselung des Begriffs der Erfahrung mit dem „Plan und Sinn der Welt“ (Lotze). Der Begriff der Erfahrung könnte zweifelhaft sein, alsdann wären die denselben constituirenden Merkmale zweifelhaft. Denkt man dagegen den Begriff der Erfahrung als die an dem „Factum“ zu vollziehende Aufgabe, so kann es kein methodisches Bedenken erregen, der vollständigen Bedingungen derselben als Wissenschaft sich bemächtigen zu sollen: denn das eben ist die Aufgabe. Werden die Kategorieen als die Bedingungen und Merkmale der Erfahrung nicht vollständig gefunden, so bleibt der Begriff der Erfahrung unerkannt, unvollzogen. Fasst man dagegen als das Concretum, dessen Begriff zu bestimmen sei, die mathematische Naturwissenschaft, so muss die Vollständigkeit der Bedingungen als präcise Aufgabe erscheinen. Anders freilich, wenn man aus dem Begriffe der Erfahrung den „Sinn der Welt“ macht, und unter diesem „Plane“ der mathematischen Naturwissenschaft eine Wissenschaft von der Seele und ähnlichen Ideen beiordnet. Die Anzahl solcher Sinnesmerkmale oder Planformen bleibt in der That unbestimmt."
+      ]
+    },
+    {
+      "id": "p289-u0901",
+      "type": "paragraph",
+      "page": "289",
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "zh-p289-u0901"
+        },
+        "最后，如果对个别范畴的表述提出异议，或正面指出完备性方面的缺陷，这并不必然意味着推导和划分的原则被抛弃。人们要证明：某个范畴无效，或某个被遗漏的范畴是经验所必需的条件——这种经验在其基础中",
+        {
+          "type": "page",
+          "page": "290",
+          "id": "zh-p289-u0901-page-1"
+        },
+        "是被给予的科学经验。然而，关于那个被当作范畴而遗漏的目的概念",
+        {
+          "type": "note",
+          "id": "p290-n01",
+          "label": "1"
+        },
+        "，将由理念章来回答。或者，像叔本华那样，人们不愿承认共联性范畴，那么就必须证明：它作为原理并非必然；只有到那时，试图反驳从其选言判断形式推导出它的可能性，才具有先验价值。但人们不可以说：“康德采纳范畴显然是从逻辑经验那里借来的。”",
+        {
+          "type": "note",
+          "id": "p290-n02",
+          "label": "2"
+        },
+        " 因为如果康德在“概念分析论”中剖析并充分论证了这种逻辑经验，为什么还要把这种形而上学演绎称为“借用”呢？毋宁说，范畴的形而上学演绎恰恰证明经验源始地被赋予这些先天形式，因为那些表达不受限制的普遍性和严格必然性的经验判断之所以可能，就基于这些形式。也只有从这种源始的赋予出发，“逻辑经验”才得到解释。因为特别是自毕达哥拉斯派和埃利亚派以来，关于自然的思辨（περὶ φύσεως）所思考出来的东西，逻辑学因此才能够把它记录为存在者的判断和基本概念。"
+      ],
+      "en": [
+        {
+          "type": "anchor",
+          "id": "en-p289-u0901"
+        },
+        " Wenn endlich gegen die Formulirung der einzelnen Kategorieen Einwendungen erhoben, oder Mängel in der Vollständigkeit positiv bezeichnet werden, so braucht damit nicht das Princip der Ableitung und Eintheilung verworfen zu sein. Man zeige, dass eine gewisse Kategorie unwirksam oder eine vermisste nothwendig sei als Bedingung der in ihren Grundlagen ",
+        {
+          "type": "page",
+          "page": "290",
+          "id": "en-p289-u0901-page-1"
+        },
+        " gegebenen wissenschaftlichen Erfahrung. Was jedoch den als Kategorie vermissten Zweckbegriff betrifft",
+        {
+          "type": "note",
+          "id": "p290-n01",
+          "label": "1"
+        },
+        ", so wird darauf das Kapitel von den Ideen antworten. Oder man will, wie Schopenhauer, die Kategorie der Gemeinschaft nicht anerkennen, dann hat man den Nachweis zu führen, dass sie als Grundsatz nicht nothwendig sei, und alsdann erst hat der Versuch, die Möglichkeit ihrer Ableitung aus der disjunctiven Urtheilsform zu widerlegen, transscendentalen Werth. Aber man darf nicht sagen: „Es ist klar, dass Kant's Aufnahme der Kategorieen auf Borg von der logischen Empirie geschah.“",
+        {
+          "type": "note",
+          "id": "p290-n02",
+          "label": "2"
+        },
+        " Denn wenn Kant diese logische Empirie in der „Analytik der Begriffe“ zergliedert und „wohl begründet“ hatte, warum aldann diese metaphysische Deduction „Borg“ nennen? Erweist ja doch vielmehr die metaphysische Deduction der Kategorieen die ursprüngliche Belehnung der Erfahrung mit denselben als apriorischen Formen, insofern auf diesen die Möglichkeit der unbeschränkte Allgemeinheit und strenge Nothwendigkeit aussagenden Erfahrungsurtheile beruht. Und nur aus dieser ursprünglichen Belehnung erklärt sich die „logische Empirie“. Denn was insonderheit von den Pythagoreern und Eleaten ab die Speculation περὶ φύσεως erdacht hat, das hat demzufolge die Logik als Urtheil und Grundbegriff des Seienden zu verzeichnen vermocht."
+      ]
+    }
+  ],
+  "notes": {
+    "p258-n01": {
+      "number": "1",
+      "sourcePrintedPage": "258",
+      "zh": [
+        "[原书第258页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p258-n01"
+        },
+        "《逻辑学与形而上学体系》第2版，第112页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p258-n01"
+        },
+        " System der Logik und Metaphysik, 2. Aufl. S. 112."
+      ],
+      "en": [
+        "[S. 258] ",
+        {
+          "type": "anchor",
+          "id": "en-p258-n01"
+        },
+        " System der Logik und Metaphysik, 2. Aufl. S. 112."
+      ],
+      "originalCitations": [
+        "System der Logik und Metaphysik, 2. Aufl. S. 112."
+      ]
+    },
+    "p258-n02": {
+      "number": "2",
+      "sourcePrintedPage": "258",
+      "zh": [
+        "[原书第258页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p258-n02"
+        },
+        "参见残篇，W. W. 第11卷第1部分，第262页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p258-n02"
+        },
+        " Vgl. das Fragment WW. XI, 1. S. 262."
+      ],
+      "en": [
+        "[S. 258] ",
+        {
+          "type": "anchor",
+          "id": "en-p258-n02"
+        },
+        " Vgl. das Fragment WW. XI, 1. S. 262."
+      ],
+      "originalCitations": []
+    },
+    "p258-n03": {
+      "number": "3",
+      "sourcePrintedPage": "258",
+      "zh": [
+        "[原书第258页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p258-n03"
+        },
+        "《论一个发现》……第1卷，第460页及以下。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p258-n03"
+        },
+        " Ueber eine Entdeckung, nach der alle Kritik u. s. w. Bd. I. S. 460 f."
+      ],
+      "en": [
+        "[S. 258] ",
+        {
+          "type": "anchor",
+          "id": "en-p258-n03"
+        },
+        " Ueber eine Entdeckung, nach der alle Kritik u. s. w. Bd. I. S. 460 f."
+      ],
+      "originalCitations": [
+        "Ueber eine Entdeckung, nach der alle Kritik u. s. w. Bd. I. S. 460 f."
+      ]
+    },
+    "p259-n01-part1": {
+      "number": "1)",
+      "sourcePrintedPage": "259",
+      "zh": [
+        "[原书第259页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p259-n01-part1"
+        },
+        "《哲学史纲要》第2版第3卷，第210页；参见第6版（1883年）第281页及以下。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p259-n01-part1"
+        },
+        " Grundriss der Geschichte der Philosophie, 2. Aufl. Bd. III. S. 210 vgl. 6. Aufl. 1883. S. 281 f."
+      ],
+      "en": [
+        "[S. 259] ",
+        {
+          "type": "anchor",
+          "id": "en-p259-n01-part1"
+        },
+        " Grundriss der Geschichte der Philosophie, 2. Aufl. Bd. III. S. 210 vgl. 6. Aufl. 1883. S. 281 f."
+      ],
+      "originalCitations": [
+        "Grundriss der Geschichte der Philosophie, 2. Aufl. Bd. III. S. 210 vgl. 6. Aufl. 1883. S. 281 f."
+      ]
+    },
+    "p259-n01-part2": {
+      "number": "2)",
+      "sourcePrintedPage": "259",
+      "zh": [
+        "[原书第259页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p259-n01-part2"
+        },
+        "《康德的心理学》1870年，第134页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p259-n01-part2"
+        },
+        "Kants Psychologie, 1870. S. 134."
+      ],
+      "en": [
+        "[S. 259] ",
+        {
+          "type": "anchor",
+          "id": "en-p259-n01-part2"
+        },
+        "Kants Psychologie, 1870. S. 134."
+      ],
+      "originalCitations": [
+        "Kants Psychologie, 1870. S. 134."
+      ]
+    },
+    "p259-n02": {
+      "number": "3",
+      "sourcePrintedPage": "259",
+      "zh": [
+        "[原书第259页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p259-n02"
+        },
+        "同上书，第166页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p259-n02"
+        },
+        " a. a. O. S. 166."
+      ],
+      "en": [
+        "[S. 259] ",
+        {
+          "type": "anchor",
+          "id": "en-p259-n02"
+        },
+        " a. a. O. S. 166."
+      ],
+      "originalCitations": []
+    },
+    "p259-n03": {
+      "number": "4",
+      "sourcePrintedPage": "259",
+      "zh": [
+        "[原书第259页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p259-n03"
+        },
+        "因此，在洛采看来，范畴的形而上学意义对康德而言其实也只是一个幸运猜测的对象。《形而上学》第23页。所以，前一页还荣幸地获得“富有才智的尝试”这一称号的范畴，在这里被直截了当地称为“哲学的玩具”。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p259-n03"
+        },
+        " „Die metaphysische Bedeutung der Kategorieen ist daher auch für Kant doch eigentlich nur der Gegenstand eines glücklichen Errathens.“ Lotze, Metaphysik S. 23. Daher die Kategorieen, die eine Seite vorher mit dem Titel eines „geistreichen Versuchs“ beehrt waren, hier schlechtweg ein „philosophisches Spielzeug genannt“ werden."
+      ],
+      "en": [
+        "[S. 259] ",
+        {
+          "type": "anchor",
+          "id": "en-p259-n03"
+        },
+        " „Die metaphysische Bedeutung der Kategorieen ist daher auch für Kant doch eigentlich nur der Gegenstand eines glücklichen Errathens.“ Lotze, Metaphysik S. 23. Daher die Kategorieen, die eine Seite vorher mit dem Titel eines „geistreichen Versuchs“ beehrt waren, hier schlechtweg ein „philosophisches Spielzeug genannt“ werden."
+      ],
+      "originalCitations": [
+        "Lotze, Metaphysik S. 23."
+      ]
+    },
+    "p260-n01": {
+      "number": "1",
+      "sourcePrintedPage": "260",
+      "zh": [
+        "[原书第260页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p260-n01"
+        },
+        "《形而上学》第1部分，W. W. 第3卷，第121页及以下。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p260-n01"
+        },
+        " Metaphysik, I. WW. Bd. III. S. 121 ff."
+      ],
+      "en": [
+        "[S. 260] ",
+        {
+          "type": "anchor",
+          "id": "en-p260-n01"
+        },
+        " Metaphysik, I. WW. Bd. III. S. 121 ff."
+      ],
+      "originalCitations": [
+        "Metaphysik, I. WW. Bd. III. S. 121 ff."
+      ]
+    },
+    "p260-n02": {
+      "number": "2",
+      "sourcePrintedPage": "260",
+      "zh": [
+        "[原书第260页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p260-n02"
+        },
+        "《四个三段论格的虚假精细》1762年，W. W. 第1卷，第72页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p260-n02"
+        },
+        " Die falsche Spitzfindigkeit der vier syllog. Figuren 1762. WW. Bd. I. 72."
+      ],
+      "en": [
+        "[S. 260] ",
+        {
+          "type": "anchor",
+          "id": "en-p260-n02"
+        },
+        " Die falsche Spitzfindigkeit der vier syllog. Figuren 1762. WW. Bd. I. 72."
+      ],
+      "originalCitations": [
+        "Die falsche Spitzfindigkeit der vier syllog. Figuren 1762. WW. Bd. I. 72."
+      ]
+    },
+    "p260-n03": {
+      "number": "3",
+      "sourcePrintedPage": "260",
+      "zh": [
+        "[原书第260页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p260-n03"
+        },
+        "同上书，第129页及以下。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p260-n03"
+        },
+        " a. a. O. S. 129 ff."
+      ],
+      "en": [
+        "[S. 260] ",
+        {
+          "type": "anchor",
+          "id": "en-p260-n03"
+        },
+        " a. a. O. S. 129 ff."
+      ],
+      "originalCitations": []
+    },
+    "p261-n01": {
+      "number": "1",
+      "sourcePrintedPage": "261",
+      "zh": [
+        "[原书第261页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p261-n01"
+        },
+        "因此，似乎有一项对系统理解有益的任务：把现有的康德手稿宝藏通查一遍，看是否能找到证实这一猜测的评注。参见E. 拉斯《唯心主义与实证主义》第3卷，1884年，第434页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p261-n01"
+        },
+        " Es scheint demgemäss eine für das systematische Verständniss förderliche Aufgabe zu sein, den vorhandenen Schatz an Kantischen Manuscripten daraufhin durchzusehen: ob sich Bemerkungen finden, welche diese Vermuthung bestätigen. Vergl. E. Laas, Idealismus und Positivismus III. 1884. S. 434."
+      ],
+      "en": [
+        "[S. 261] ",
+        {
+          "type": "anchor",
+          "id": "en-p261-n01"
+        },
+        " Es scheint demgemäss eine für das systematische Verständniss förderliche Aufgabe zu sein, den vorhandenen Schatz an Kantischen Manuscripten daraufhin durchzusehen: ob sich Bemerkungen finden, welche diese Vermuthung bestätigen. Vergl. E. Laas, Idealismus und Positivismus III. 1884. S. 434."
+      ],
+      "originalCitations": [
+        "E. Laas, Idealismus und Positivismus III. 1884. S. 434."
+      ]
+    },
+    "p262-n01": {
+      "number": "1",
+      "sourcePrintedPage": "262",
+      "zh": [
+        "[原书第262页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p262-n01"
+        },
+        "《论一个发现》等等，第1卷，第475页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p262-n01"
+        },
+        " Ueber eine Entdeckung u. s. w. Bd. I. S. 475."
+      ],
+      "en": [
+        "[S. 262] ",
+        {
+          "type": "anchor",
+          "id": "en-p262-n01"
+        },
+        " Ueber eine Entdeckung u. s. w. Bd. I. S. 475."
+      ],
+      "originalCitations": [
+        "Ueber eine Entdeckung u. s. w. Bd. I. S. 475."
+      ]
+    },
+    "p263-n01": {
+      "number": "1",
+      "sourcePrintedPage": "263",
+      "zh": [
+        "[原书第263页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p263-n01"
+        },
+        "《导论》，第3卷，第89页及以下。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p263-n01"
+        },
+        " Prolegomena, Bd. III. S. 89 f"
+      ],
+      "en": [
+        "[S. 263] ",
+        {
+          "type": "anchor",
+          "id": "en-p263-n01"
+        },
+        " Prolegomena, Bd. III. S. 89 f"
+      ],
+      "originalCitations": [
+        "Prolegomena, Bd. III. S. 89 f"
+      ]
+    },
+    "p264-n01": {
+      "number": "1",
+      "sourcePrintedPage": "264",
+      "zh": [
+        "[原书第264页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p264-n01"
+        },
+        "《导论》，第3卷，第58页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p264-n01"
+        },
+        " Proleg. Bd. III. S. 58."
+      ],
+      "en": [
+        "[S. 264] ",
+        {
+          "type": "anchor",
+          "id": "en-p264-n01"
+        },
+        " Proleg. Bd. III. S. 58."
+      ],
+      "originalCitations": [
+        "Proleg. Bd. III. S. 58."
+      ]
+    },
+    "p266-n01": {
+      "number": "1",
+      "sourcePrintedPage": "266",
+      "zh": [
+        "[原书第266页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p266-n01"
+        },
+        "《导论》，第3卷，第62页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p266-n01"
+        },
+        " Proleg. Bd. III. S. 62."
+      ],
+      "en": [
+        "[S. 266] ",
+        {
+          "type": "anchor",
+          "id": "en-p266-n01"
+        },
+        " Proleg. Bd. III. S. 62."
+      ],
+      "originalCitations": [
+        "Proleg. Bd. III. S. 62."
+      ]
+    },
+    "p268-n01": {
+      "number": "1",
+      "sourcePrintedPage": "268",
+      "zh": [
+        "[原书第268页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p268-n01"
+        },
+        "《导论》第3卷，第90页；参见阿·施塔德勒《纯粹认识论的基本原理》，第51页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p268-n01"
+        },
+        " Prologomena III. S. 90; vgl. A. Stadler, Grundsätze der reinen Erkenntnisstheorie S. 51."
+      ],
+      "en": [
+        "[S. 268] ",
+        {
+          "type": "anchor",
+          "id": "en-p268-n01"
+        },
+        " Prologomena III. S. 90; vgl. A. Stadler, Grundsätze der reinen Erkenntnisstheorie S. 51."
+      ],
+      "originalCitations": [
+        "Prologomena III. S. 90; vgl. A. Stadler, Grundsätze der reinen Erkenntnisstheorie S. 51."
+      ]
+    },
+    "p271-n01": {
+      "number": "1",
+      "sourcePrintedPage": "271–272",
+      "zh": [
+        "[原书第271–272页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p271-n01"
+        },
+        "康德由B. 埃尔德曼编的《反思录》表明，标题的选择是逐渐地、经过多次尝试才发生的；",
+        {
+          "type": "page",
+          "page": "272",
+          "id": "zh-p271-n01-page-1"
+        },
+        "参见第152页，那里区分了五种“形而上学概念”；同上书第154页区分了“理性基本概念”和“元素概念”。特别有教益的是第173页的评注：“我们一切认识的基本概念是：第一，一般存在，quidditas；第二，某物如何存在；第三，它存在多少次。事物被给予所凭借的东西是感觉；它们如何被给予，是纯粹直观。”因此，康德并非没有意图地把量放在前面。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p271-n01"
+        },
+        " Dass die Wahl der Titel allmählich und nach vielfachem Probiren erfolgt ist, zeigen die von B. Erdmann herausgegebenen „Reflexionen“ ",
+        {
+          "type": "page",
+          "page": "272",
+          "id": "zh-original-en-p271-n01-page-1"
+        },
+        " Kants, vgl. S. 152, wo 5 Arten der „metaphysischen Begriffe“ unterschieden werden; ib. S. 154 werden „rationale Grundbegriffe“ und „Elementarbegriffe“ unterschieden. Besonders instructiv ist die Bemerkung S. 173: „Die Grundbegriffe aller unsrer Erkenntniss sind: erstens, das Sein überhaupt, quidditas; zweitens, wie etwas ist; drittens, wieviel mal es ist. Das, wodurch die Dinge gegeben sind, ist die Empfindung, wie sie gegeben sind, reine Anschauung.“ Also hat Kant nicht ohne Absicht die Quantität vorangestellt."
+      ],
+      "en": [
+        "[S. 271–272] ",
+        {
+          "type": "anchor",
+          "id": "en-p271-n01"
+        },
+        " Dass die Wahl der Titel allmählich und nach vielfachem Probiren erfolgt ist, zeigen die von B. Erdmann herausgegebenen „Reflexionen“ ",
+        {
+          "type": "page",
+          "page": "272",
+          "id": "en-p271-n01-page-1"
+        },
+        " Kants, vgl. S. 152, wo 5 Arten der „metaphysischen Begriffe“ unterschieden werden; ib. S. 154 werden „rationale Grundbegriffe“ und „Elementarbegriffe“ unterschieden. Besonders instructiv ist die Bemerkung S. 173: „Die Grundbegriffe aller unsrer Erkenntniss sind: erstens, das Sein überhaupt, quidditas; zweitens, wie etwas ist; drittens, wieviel mal es ist. Das, wodurch die Dinge gegeben sind, ist die Empfindung, wie sie gegeben sind, reine Anschauung.“ Also hat Kant nicht ohne Absicht die Quantität vorangestellt."
+      ],
+      "originalCitations": [
+        "B. Erdmann, „Reflexionen“ Kants, S. 152, 154, 173."
+      ]
+    },
+    "p275-n01": {
+      "number": "1",
+      "sourcePrintedPage": "275",
+      "zh": [
+        "[原书第275页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p275-n01"
+        },
+        "B. 埃尔德曼编《康德反思录》第2卷，第174页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p275-n01"
+        },
+        " Reflexionen Kants ed. B. Erdm. II. S. 174."
+      ],
+      "en": [
+        "[S. 275] ",
+        {
+          "type": "anchor",
+          "id": "en-p275-n01"
+        },
+        " Reflexionen Kants ed. B. Erdm. II. S. 174."
+      ],
+      "originalCitations": [
+        "Reflexionen Kants ed. B. Erdm. II. S. 174."
+      ]
+    },
+    "p277-n01": {
+      "number": "1",
+      "sourcePrintedPage": "277",
+      "zh": [
+        "[原书第277页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p277-n01"
+        },
+        "关于实在性、否定与限制的联系，参见《康德反思录》第2卷，第201页：“人们可以把否定要么视为与实在性相对立，要么视为与肯定相对立。在后一种情况下，它是逻辑上的对立面，在前一种情况下则是限制。‘一个精神不是广延的’并不等于说：它的广延正在消失，而是说它根本不能有广延。相反，点作为正在消失的空间而是不广延的。所以，精神不能被视为点。”参见同上书第143页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p277-n01"
+        },
+        " Ueber den Zusammenhang von Realität, Negation und Limitation vgl. die „Reflexionen Kants“ II. S. 201: „Man kann die Negation entweder als der Realität oder als der Affirmation entgegengesetzt betrachten. Im letzten Falle ist sie das logische Oppositum, im ersten die Limitation. „Ein Geist ist nicht ausgedehnt“ bedeutet nicht soviel als: seine Ausdehnung ist verschwindend, sondern er kann sie gar nicht haben. Dagegen ist der Punkt nicht ausgedehnt als ein verschwindender Raum. Geister können also nicht als Punkte angesehen werden.“ Vgl. ib. S. 143."
+      ],
+      "en": [
+        "[S. 277] ",
+        {
+          "type": "anchor",
+          "id": "en-p277-n01"
+        },
+        " Ueber den Zusammenhang von Realität, Negation und Limitation vgl. die „Reflexionen Kants“ II. S. 201: „Man kann die Negation entweder als der Realität oder als der Affirmation entgegengesetzt betrachten. Im letzten Falle ist sie das logische Oppositum, im ersten die Limitation. „Ein Geist ist nicht ausgedehnt“ bedeutet nicht soviel als: seine Ausdehnung ist verschwindend, sondern er kann sie gar nicht haben. Dagegen ist der Punkt nicht ausgedehnt als ein verschwindender Raum. Geister können also nicht als Punkte angesehen werden.“ Vgl. ib. S. 143."
+      ],
+      "originalCitations": [
+        "„Reflexionen Kants“ II. S. 201; S. 143."
+      ]
+    },
+    "p288-n01": {
+      "number": "1",
+      "sourcePrintedPage": "288",
+      "zh": [
+        "[原书第288页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p288-n01"
+        },
+        "《导论》，第3卷，第90页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p288-n01"
+        },
+        " Prolegomena, Bd. III, S. 90."
+      ],
+      "en": [
+        "[S. 288] ",
+        {
+          "type": "anchor",
+          "id": "en-p288-n01"
+        },
+        " Prolegomena, Bd. III, S. 90."
+      ],
+      "originalCitations": [
+        "Prolegomena, Bd. III, S. 90."
+      ]
+    },
+    "p288-n02": {
+      "number": "2",
+      "sourcePrintedPage": "288",
+      "zh": [
+        "[原书第288页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p288-n02"
+        },
+        "同上书，第61页及以下；参见第80页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p288-n02"
+        },
+        " Ib. S. 61 f. vergl. S. 80."
+      ],
+      "en": [
+        "[S. 288] ",
+        {
+          "type": "anchor",
+          "id": "en-p288-n02"
+        },
+        " Ib. S. 61 f. vergl. S. 80."
+      ],
+      "originalCitations": []
+    },
+    "p289-n01": {
+      "number": "1",
+      "sourcePrintedPage": "289",
+      "zh": [
+        "[原书第289页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p289-n01"
+        },
+        "参见奥古斯特·施塔德勒《纯粹认识论的基本原理》1876年，第48、140页。“如果别人也想把这一点扩展到受经验影响的对象上，康德无论如何不应对此负责。”（第52页。）",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p289-n01"
+        },
+        " Vgl. Aug. Stadler, Die Grundsätze der reinen Erkenntnisstheorie 1876. S. 48, 140. „Wenn Andere das auch auf empirisch beeinflusste Objecte ausdehnen wollten, so ist dafür Kant jedenfalls nicht verantwortlich zu machen.“ (S. 52.)"
+      ],
+      "en": [
+        "[S. 289] ",
+        {
+          "type": "anchor",
+          "id": "en-p289-n01"
+        },
+        " Vgl. Aug. Stadler, Die Grundsätze der reinen Erkenntnisstheorie 1876. S. 48, 140. „Wenn Andere das auch auf empirisch beeinflusste Objecte ausdehnen wollten, so ist dafür Kant jedenfalls nicht verantwortlich zu machen.“ (S. 52.)"
+      ],
+      "originalCitations": [
+        "Aug. Stadler, Die Grundsätze der reinen Erkenntnisstheorie 1876. S. 48, 140; S. 52."
+      ]
+    },
+    "p290-n01": {
+      "number": "1",
+      "sourcePrintedPage": "290",
+      "zh": [
+        "[原书第290页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p290-n01"
+        },
+        "参见J. 博纳·迈耶《康德的心理学》，第180页。",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p290-n01"
+        },
+        " Vgl. J. Bona Meyer, Kants Psychologie S. 180."
+      ],
+      "en": [
+        "[S. 290] ",
+        {
+          "type": "anchor",
+          "id": "en-p290-n01"
+        },
+        " Vgl. J. Bona Meyer, Kants Psychologie S. 180."
+      ],
+      "originalCitations": [
+        "Vgl. J. Bona Meyer, Kants Psychologie S. 180."
+      ]
+    },
+    "p290-n02": {
+      "number": "2",
+      "sourcePrintedPage": "290",
+      "zh": [
+        "[原书第290页] ",
+        {
+          "type": "anchor",
+          "id": "zh-p290-n02"
+        },
+        "同上书，第178页。宇伯维格同样误认了范畴的任务，因为他不从判断形式中推导范畴，反而把判断形式回溯到范畴。参见他的《逻辑学体系》第3版，第160、145、171页。西格瓦特相信可以用那个无可修正的基本思想来反驳康德范畴学说：“这些要素的最终确定依赖于对我们表象之发生过程的最终确定的洞见。”（《逻辑学》第1卷，1873年，第292页。）",
+        {
+          "type": "break"
+        },
+        "原文：",
+        {
+          "type": "anchor",
+          "id": "zh-original-en-p290-n02"
+        },
+        " a. a. O. S. 178. Ebenso verkennt Ueberweg die Aufgabe der Kategorieen, insofern er dieselben nicht aus den Formen des Urtheils ableitet, sondern diese auf jene zurückführt. Vergl. dessen System der Logik 3. Auflage S. 160. 145. 171. Sigwart glaubt Kants Kategorieenlehre widerlegen zu können mit dem unverbesserlichen Grundgedanken: „dass die endliche Festsetzung dieser Elemente von der definitiven Einsicht in die Genesis unserer Vorstellungen selbst abhängig“ sei. (Logik I, 1873, S. 292)."
+      ],
+      "en": [
+        "[S. 290] ",
+        {
+          "type": "anchor",
+          "id": "en-p290-n02"
+        },
+        " a. a. O. S. 178. Ebenso verkennt Ueberweg die Aufgabe der Kategorieen, insofern er dieselben nicht aus den Formen des Urtheils ableitet, sondern diese auf jene zurückführt. Vergl. dessen System der Logik 3. Auflage S. 160. 145. 171. Sigwart glaubt Kants Kategorieenlehre widerlegen zu können mit dem unverbesserlichen Grundgedanken: „dass die endliche Festsetzung dieser Elemente von der definitiven Einsicht in die Genesis unserer Vorstellungen selbst abhängig“ sei. (Logik I, 1873, S. 292)."
+      ],
+      "originalCitations": [
+        "a. a. O. S. 178.",
+        "Ueberweg, System der Logik 3. Auflage S. 160. 145. 171.",
+        "Sigwart, Logik I, 1873, S. 292."
+      ]
+    }
+  },
+  "sourceLanguage": "de",
+  "sourceLanguageLabel": "Deutsch"
+}

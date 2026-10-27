@@ -1,0 +1,375 @@
+{
+  "id": "cohen-kants-theorie-der-erfahrung-1885",
+  "title": "康德的经验理论",
+  "originalTitle": "Kants Theorie der Erfahrung",
+  "author": "Hermann Cohen",
+  "authorZh": "赫尔曼·柯亨",
+  "tags": [
+    "哲学",
+    "康德",
+    "认识论"
+  ],
+  "language": "中文 / Deutsch",
+  "languagePair": "中德双语",
+  "structured": true,
+  "bilingual": true,
+  "views": [
+    "parallel",
+    "zh",
+    "en"
+  ],
+  "sourceLanguage": "de",
+  "sourceLanguageLabel": "Deutsch",
+  "editionNotice": "依据1885年重新修订第二版的完整校订译本；保留原注、原页码及含论题提要的原书目录，中文原注后附德文全文。",
+  "chapters": [
+    {
+      "id": "title-page",
+      "title": "原扉页",
+      "originalTitle": "Titelblatt",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/title-page.json"
+    },
+    {
+      "id": "dedication",
+      "title": "献词",
+      "originalTitle": "Widmung",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/dedication.json"
+    },
+    {
+      "id": "preface-first",
+      "title": "第一版序言",
+      "originalTitle": "Vorrede zur ersten Auflage",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/preface-first.json"
+    },
+    {
+      "id": "preface-second",
+      "title": "第二版序言",
+      "originalTitle": "Vorrede zur zweiten Auflage",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/preface-second.json"
+    },
+    {
+      "id": "original-toc",
+      "title": "原书目录（含论题提要）",
+      "originalTitle": "Inhalts-Verzeichniss",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/original-toc.json"
+    },
+    {
+      "id": "intro",
+      "title": "导论",
+      "originalTitle": "Einleitung.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/intro.json"
+    },
+    {
+      "id": "intro-01",
+      "title": "一、实质性的与历史性的前提",
+      "originalTitle": "1. Die sachlichen und die historischen Voraussetzungen.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/intro-01.json",
+      "parentId": "intro"
+    },
+    {
+      "id": "intro-02",
+      "title": "二、康德与其先驱的关系",
+      "originalTitle": "2. Kants Verhältniss zu seinen Vorgängern.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/intro-02.json",
+      "parentId": "intro"
+    },
+    {
+      "id": "intro-03",
+      "title": "三、柏拉图对认识批判的奠基",
+      "originalTitle": "3. Platons Begründung der Erkenntnisskritik.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/intro-03.json",
+      "parentId": "intro"
+    },
+    {
+      "id": "intro-04",
+      "title": "四、亚里士多德的发展史立场",
+      "originalTitle": "4. Der entwicklungsgeschichtliche Standpunkt des Aristoteles.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/intro-04.json",
+      "parentId": "intro"
+    },
+    {
+      "id": "intro-05",
+      "title": "五、数学自然科学的哲学前提",
+      "originalTitle": "5. Die philosophischen Voraussetzungen der mathematischen Naturwissenschaft.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/intro-05.json",
+      "parentId": "intro"
+    },
+    {
+      "id": "intro-06",
+      "title": "六、康德与先驱的两个学派的关系",
+      "originalTitle": "6. Kants Verhältniss zu den beiden Schulen der Vorgänger.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/intro-06.json",
+      "parentId": "intro"
+    },
+    {
+      "id": "intro-07",
+      "title": "七、笛卡尔对康德问题之准备的贡献",
+      "originalTitle": "7. Descartes' Antheil an der Vorbereitung des Kantischen Problems.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/intro-07.json",
+      "parentId": "intro"
+    },
+    {
+      "id": "intro-08",
+      "title": "八、莱布尼茨对实体概念的力学修正",
+      "originalTitle": "8. Leibniz' mechanische Correctur des Substanzbegriffs.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/intro-08.json",
+      "parentId": "intro"
+    },
+    {
+      "id": "intro-09",
+      "title": "九、感觉论者与康德的关系",
+      "originalTitle": "9. Das Verhältniss der Sensualisten zu Kant.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/intro-09.json",
+      "parentId": "intro"
+    },
+    {
+      "id": "intro-10",
+      "title": "十、休谟与康德的关系",
+      "originalTitle": "10. Humes Verhältniss zu Kant.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/intro-10.json",
+      "parentId": "intro"
+    },
+    {
+      "id": "intro-11",
+      "title": "十一、康德对认识概念的安排",
+      "originalTitle": "11. Kants Disposition des Begriffs der Erkenntniss.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/intro-11.json",
+      "parentId": "intro"
+    },
+    {
+      "id": "intro-12",
+      "title": "十二、先验方法",
+      "originalTitle": "12. Die transscendentale Methode.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/intro-12.json",
+      "parentId": "intro"
+    },
+    {
+      "id": "chapter-01",
+      "title": "第一章 空间与时间的形而上学阐明",
+      "originalTitle": "Erstes Kapitel. Die metaphysische Erörterung von Raum und Zeit.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-01.json"
+    },
+    {
+      "id": "chapter-02",
+      "title": "第二章 空间与时间的先验阐明",
+      "originalTitle": "Zweites Kapitel. Die transscendentale Erörterung von Raum und Zeit.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-02.json"
+    },
+    {
+      "id": "chapter-03",
+      "title": "第三章 空间与时间之主观性的方法论意义",
+      "originalTitle": "Drittes Kapitel. Die methodische Bedeutung der Subjectivität von Raum und Zeit.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-03.json"
+    },
+    {
+      "id": "chapter-04",
+      "title": "第四章 先验感性论与先验逻辑的关联",
+      "originalTitle": "Viertes Kapitel. Zusammenhang der transscendentalen Aesthetik und der transscendentalen Logik.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-04.json"
+    },
+    {
+      "id": "chapter-05",
+      "title": "第五章 空间与时间作为经验的形式条件",
+      "originalTitle": "Fünftes Kapitel. Raum und Zeit als formale Bedingungen der Erfahrung.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-05.json"
+    },
+    {
+      "id": "chapter-06",
+      "title": "第六章 范畴作为经验的形式条件",
+      "originalTitle": "Sechstes Kapitel. Die Kategorieen als formale Bedingungen der Erfahrung.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-06.json"
+    },
+    {
+      "id": "chapter-07",
+      "title": "第七章 范畴作为思维的形式",
+      "originalTitle": "Siebentes Kapitel. Die Kategorieen als Formen des Denkens.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-07.json"
+    },
+    {
+      "id": "chapter-08",
+      "title": "第八章 范畴的先验演绎",
+      "originalTitle": "Achtes Kapitel. Die transscendentale Deduction der Kategorieen.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-08.json"
+    },
+    {
+      "id": "chapter-08-section-01",
+      "title": "a. 先验演绎在与经验演绎及形而上学演绎相区别中的意义",
+      "originalTitle": "a. Die Bedeutung der transscendentalen Deduction im Unterschiede von der empirischen und der metaphysischen.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-08-section-01.json",
+      "parentId": "chapter-08"
+    },
+    {
+      "id": "chapter-08-section-02",
+      "title": "b. 第一版中的处理。表象的对象",
+      "originalTitle": "b. Die Bearbeitung in der ersten Ausgabe. Der Gegenstand der Vorstellung.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-08-section-02.json",
+      "parentId": "chapter-08"
+    },
+    {
+      "id": "chapter-08-section-03",
+      "title": "c. 第二版中的处理。“我”",
+      "originalTitle": "c. Die Bearbeitung in der zweiten Ausgabe. Das Ich.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-08-section-03.json",
+      "parentId": "chapter-08"
+    },
+    {
+      "id": "chapter-09",
+      "title": "第九章 内感官的系统性意义",
+      "originalTitle": "Neuntes Kapitel. Die systematische Bedeutung des innern Sinnes.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-09.json"
+    },
+    {
+      "id": "chapter-10",
+      "title": "第十章 叔本华对先验演绎的异议",
+      "originalTitle": "Zehntes Kapitel. Schopenhauers Einwürfe gegen die transscendentale Deduction.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-10.json"
+    },
+    {
+      "id": "chapter-11",
+      "title": "第十一章 纯粹知性概念的图型论。分析的与综合的",
+      "originalTitle": "Elftes Kapitel. Der Schematismus der reinen Verstandesbegriffe. Analytisch und synthetisch.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-11.json"
+    },
+    {
+      "id": "chapter-12",
+      "title": "第十二章 综合原理",
+      "originalTitle": "Zwölftes Kapitel. Die synthetischen Grundsätze.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-12.json"
+    },
+    {
+      "id": "chapter-12-section-01",
+      "title": "I. 直观公理的原理",
+      "originalTitle": "I. Grundsatz der Axiomen der Anschauung.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-12-section-01.json",
+      "parentId": "chapter-12"
+    },
+    {
+      "id": "chapter-12-section-02",
+      "title": "II. 知觉预取的原理",
+      "originalTitle": "II. Grundsatz der Anticipationen der Wahrnehmung.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-12-section-02.json",
+      "parentId": "chapter-12"
+    },
+    {
+      "id": "chapter-12-section-03",
+      "title": "经验类比的原则。",
+      "originalTitle": "Das Princip der Analogieen der Erfahrung.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-12-section-03.json",
+      "parentId": "chapter-12"
+    },
+    {
+      "id": "chapter-12-section-04",
+      "title": "III. 实体的类比",
+      "originalTitle": "III. Die Analogie der Substanz.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-12-section-04.json",
+      "parentId": "chapter-12"
+    },
+    {
+      "id": "chapter-12-section-05",
+      "title": "IV. 因果性的类比",
+      "originalTitle": "IV. Die Analogie der Causalität.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-12-section-05.json",
+      "parentId": "chapter-12"
+    },
+    {
+      "id": "chapter-12-section-06",
+      "title": "V. 共联性的类比",
+      "originalTitle": "V. Die Analogie der Gemeinschaft.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-12-section-06.json",
+      "parentId": "chapter-12"
+    },
+    {
+      "id": "chapter-12-section-07",
+      "title": "一般经验性思维的公设。",
+      "originalTitle": "Die Postulate des empirischen Denkens überhaupt.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-12-section-07.json",
+      "parentId": "chapter-12"
+    },
+    {
+      "id": "chapter-12-section-08",
+      "title": "VI. 可能性的公设",
+      "originalTitle": "VI. Das Postulat der Möglichkeit.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-12-section-08.json",
+      "parentId": "chapter-12"
+    },
+    {
+      "id": "chapter-12-section-09",
+      "title": "VII. 现实性的公设",
+      "originalTitle": "VII. Das Postulat der Wirklichkeit.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-12-section-09.json",
+      "parentId": "chapter-12"
+    },
+    {
+      "id": "chapter-12-section-10",
+      "title": "VIII. 必然性的公设",
+      "originalTitle": "VIII. Das Postulat der Nothwendigkeit.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-12-section-10.json",
+      "parentId": "chapter-12"
+    },
+    {
+      "id": "chapter-13",
+      "title": "第十三章 物自体与理念",
+      "originalTitle": "Dreizehntes Kapitel. Das Ding an sich und die Ideen.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-13.json"
+    },
+    {
+      "id": "chapter-14",
+      "title": "第十四章 世界概念的二律背反",
+      "originalTitle": "Vierzehntes Kapitel. Die Antinomie des Weltbegriffs.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-14.json"
+    },
+    {
+      "id": "chapter-15",
+      "title": "第十五章 形式合目的性的原则",
+      "originalTitle": "Fünfzehntes Kapitel. Das Princip der formalen Zweckmässigkeit.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-15.json"
+    },
+    {
+      "id": "chapter-16",
+      "title": "第十六章 批判观念论的体系",
+      "originalTitle": "Sechzehntes Kapitel. Das System des kritischen Idealismus.",
+      "dataUrl": "translations/books/cohen-kants-theorie-der-erfahrung-1885/chapter-16.json"
+    }
+  ],
+  "downloads": [
+    {
+      "label": "中德对照版 PDF",
+      "url": "translations/books/cohen-kants-theorie-der-erfahrung-1885/cohen_kte1885_bilingual.pdf?v=cb6e5a7a8155",
+      "bytes": 3401318,
+      "sha256": "cb6e5a7a8155b4d1bb5f5ad68f127694661a17f9fb0f212b1eb94a389ae9ece3"
+    },
+    {
+      "label": "中文阅读版 PDF",
+      "url": "translations/books/cohen-kants-theorie-der-erfahrung-1885/cohen_kte1885_zh.pdf?v=b29028bb475b",
+      "bytes": 1793374,
+      "sha256": "b29028bb475ba957ba2d92c4755fb39c85aca2add707163780d8f4efd7b99f23"
+    },
+    {
+      "label": "德文阅读版 PDF",
+      "url": "translations/books/cohen-kants-theorie-der-erfahrung-1885/cohen_kte1885_de.pdf?v=e3ee322ae2bb",
+      "bytes": 1527628,
+      "sha256": "e3ee322ae2bbb441893f55064d22617624874abbcac2661eab24d71575643f77"
+    },
+    {
+      "label": "中文 Markdown",
+      "url": "translations/books/cohen-kants-theorie-der-erfahrung-1885/cohen_kte1885_zh.md?v=aef7e3dc8ba4",
+      "bytes": 1355851,
+      "sha256": "aef7e3dc8ba42fa2168dac59858f190a701ee50a41aed65b22017f7434782cb8"
+    },
+    {
+      "label": "德文 Markdown",
+      "url": "translations/books/cohen-kants-theorie-der-erfahrung-1885/cohen_kte1885_de.md?v=2cf1805d52c4",
+      "bytes": 1554385,
+      "sha256": "2cf1805d52c41f18d4c89830e7922dd55f8be0e597b71a6e57a1c8aa123d4317"
+    },
+    {
+      "label": "可编辑源码包",
+      "url": "translations/books/cohen-kants-theorie-der-erfahrung-1885/cohen_kte1885_source.zip?v=932c4d8912da",
+      "bytes": 8662188,
+      "sha256": "932c4d8912da59c48b84d7f0da9edd4bc5cfdae779fad8b54377248fcc42234d"
+    }
+  ],
+  "reviewedCanonicalSha256": "51bc184579d7689da6f0fd013655b3faaf7474b83beda339a71687c8cf9c9d9e",
+  "reviewedFrontMatterSha256": "3d56a3e986627694701271d21d310efba867c50abb904ea718cf28ebe1c23f56",
+  "sourceEdition": "Cohen, zweite neubearbeitete Auflage, Berlin 1885",
+  "readerUrl": "https://uni0nius.github.io/translations/book.html?id=cohen-kants-theorie-der-erfahrung-1885"
+}
