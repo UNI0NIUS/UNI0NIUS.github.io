@@ -324,6 +324,582 @@ window.TRANSLATIONS = {
       "readerUrl": "https://uni0nius.github.io/translations/book.html?id=cohen-system-der-philosophie-1"
     },
     {
+      "id": "cohen-system-der-philosophie-3-1",
+      "title": "哲学体系第三部：纯粹情感的美学（第一卷）",
+      "originalTitle": "System der Philosophie. Dritter Theil: Ästhetik des reinen Gefühls. Erster Band",
+      "author": "Hermann Cohen",
+      "authorZh": "赫尔曼·柯亨",
+      "tags": [
+        "哲学 Philosophy",
+        "美学 Aesthetics",
+        "艺术 Art"
+      ],
+      "language": "zh-CN",
+      "languagePair": "Deutsch / 中文",
+      "structured": true,
+      "bilingual": false,
+      "views": [
+        "zh"
+      ],
+      "sourceLanguage": "de",
+      "sourceLanguageLabel": "Deutsch",
+      "editionNotice": "依据1912年柏林版初译并作一轮校订；保留原书印刷页码与章节结构。第六章印刷小节号由2直接跳到5，依原书保留。",
+      "chapters": [
+        {
+          "id": "front-matter",
+          "title": "书名页与序言",
+          "originalTitle": "Titelei und Vorrede",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/front-matter.json",
+          "outline": [
+            {
+              "level": 2,
+              "title": "书名页与出版信息",
+              "anchor": "front-0001"
+            },
+            {
+              "level": 2,
+              "title": "序言",
+              "anchor": "front-0009"
+            }
+          ]
+        },
+        {
+          "id": "chapter-1",
+          "title": "第一章　系统美学的难题",
+          "originalTitle": "Erstes Kapitel. Das Problem der systematischen Ästhetik",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1.json",
+          "shortTitle": "系统美学的难题",
+          "outline": [
+            {
+              "level": 2,
+              "title": "1. 美学在哲学体系中的产生",
+              "anchor": "ch2-0001"
+            },
+            {
+              "level": 2,
+              "title": "2. 艺术的统一性",
+              "anchor": "ch2-0009"
+            },
+            {
+              "level": 2,
+              "title": "3. 康德的审美判断力",
+              "anchor": "ch2-0015"
+            },
+            {
+              "level": 2,
+              "title": "4. 哲学浪漫派",
+              "anchor": "ch2-0019"
+            },
+            {
+              "level": 2,
+              "title": "5. 美学与哲学体系",
+              "anchor": "ch2-0038"
+            },
+            {
+              "level": 2,
+              "title": "6. 想象力中的方法危险",
+              "anchor": "ch2-0048"
+            },
+            {
+              "level": 2,
+              "title": "7. 想象（Imaginatio）",
+              "anchor": "ch2-0056"
+            },
+            {
+              "level": 2,
+              "title": "8. 理智直观与直觉",
+              "anchor": "ch2-0062"
+            },
+            {
+              "level": 2,
+              "title": "9. 艺术与自然认识",
+              "anchor": "ch2-0071"
+            },
+            {
+              "level": 2,
+              "title": "10. 艺术与真理",
+              "anchor": "ch2-0079"
+            },
+            {
+              "level": 2,
+              "title": "11. 艺术、伦理与宗教",
+              "anchor": "ch2-0088"
+            },
+            {
+              "level": 2,
+              "title": "12. 美学与艺术史",
+              "anchor": "ch2-0116"
+            },
+            {
+              "level": 2,
+              "title": "13. 自然感",
+              "anchor": "ch2-0136"
+            },
+            {
+              "level": 2,
+              "title": "14. 艺术史、宗教与泛神论",
+              "anchor": "ch2-0145"
+            }
+          ]
+        },
+        {
+          "id": "chapter-2",
+          "title": "第二章　规律性的概念",
+          "originalTitle": "Zweites Kapitel. Der Begriff der Gesetzlichkeit",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-2.json",
+          "shortTitle": "规律性的概念",
+          "outline": [
+            {
+              "level": 2,
+              "title": "1. 规律性与法则",
+              "anchor": "ch3-0001"
+            },
+            {
+              "level": 2,
+              "title": "2. 作为奠基的规律性",
+              "anchor": "ch3-0019"
+            },
+            {
+              "level": 2,
+              "title": "3. 审美奠基的问题",
+              "anchor": "ch3-0027"
+            },
+            {
+              "level": 2,
+              "title": "4. 艺术作品的前提条件",
+              "anchor": "ch3-0038"
+            },
+            {
+              "level": 2,
+              "title": "5. 意识的范畴",
+              "anchor": "ch3-0052"
+            },
+            {
+              "level": 2,
+              "title": "6. 审美意识的纯粹性",
+              "anchor": "ch3-0065"
+            },
+            {
+              "level": 2,
+              "title": "7. 主观的灵魂品质",
+              "anchor": "ch3-0083"
+            },
+            {
+              "level": 2,
+              "title": "8. 康德的基本规定",
+              "anchor": "ch3-0108"
+            }
+          ]
+        },
+        {
+          "id": "chapter-3",
+          "title": "第三章　纯粹情感的规律性",
+          "originalTitle": "Drittes Kapitel. Die Gesetzlichkeit des reinen Gefühls",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-3.json",
+          "shortTitle": "纯粹情感的规律性",
+          "outline": [
+            {
+              "level": 2,
+              "title": "1. 快感与不快感",
+              "anchor": "ch4-0002"
+            },
+            {
+              "level": 2,
+              "title": "2. 审美意识的建构",
+              "anchor": "ch4-0034"
+            }
+          ]
+        },
+        {
+          "id": "chapter-4",
+          "title": "第四章　意识的建构",
+          "originalTitle": "Viertes Kapitel. Der Aufbau des Bewußtseins",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4.json",
+          "shortTitle": "意识的建构",
+          "outline": [
+            {
+              "level": 2,
+              "title": "1. 感受活动",
+              "anchor": "ch5-0004"
+            },
+            {
+              "level": 2,
+              "title": "2. 运动情感",
+              "anchor": "ch5-0029"
+            },
+            {
+              "level": 2,
+              "title": "3. 感觉",
+              "anchor": "ch5-0042"
+            },
+            {
+              "level": 2,
+              "title": "4. 感觉情感",
+              "anchor": "ch5-0054"
+            },
+            {
+              "level": 2,
+              "title": "5. 思维",
+              "anchor": "ch5-0063"
+            },
+            {
+              "level": 2,
+              "title": "6. 在艺术科学中的应用",
+              "anchor": "ch5-0079"
+            },
+            {
+              "level": 2,
+              "title": "7. 意志的先行条件",
+              "anchor": "ch5-0096"
+            },
+            {
+              "level": 2,
+              "title": "8. 与宗教的关系",
+              "anchor": "ch5-0107"
+            },
+            {
+              "level": 2,
+              "title": "9. 与性冲动的关系",
+              "anchor": "ch5-0111"
+            },
+            {
+              "level": 2,
+              "title": "10. 希腊艺术中的爱",
+              "anchor": "ch5-0122"
+            },
+            {
+              "level": 2,
+              "title": "11. 爱的审美情感",
+              "anchor": "ch5-0131"
+            },
+            {
+              "level": 2,
+              "title": "12. 移情",
+              "anchor": "ch5-0166"
+            },
+            {
+              "level": 2,
+              "title": "13. 神性与人",
+              "anchor": "ch5-0170"
+            },
+            {
+              "level": 2,
+              "title": "14. 完善的标准",
+              "anchor": "ch5-0180"
+            },
+            {
+              "level": 2,
+              "title": "15. 形态",
+              "anchor": "ch5-0187"
+            },
+            {
+              "level": 2,
+              "title": "16. 纯粹意识的三个方向",
+              "anchor": "ch5-0195"
+            },
+            {
+              "level": 2,
+              "title": "17. 音乐",
+              "anchor": "ch5-0226"
+            },
+            {
+              "level": 2,
+              "title": "18. 感动",
+              "anchor": "ch5-0233"
+            },
+            {
+              "level": 2,
+              "title": "19. 艺术作品中的客观化",
+              "anchor": "ch5-0253"
+            },
+            {
+              "level": 2,
+              "title": "20. 人的自然与自然的人",
+              "anchor": "ch5-0264"
+            },
+            {
+              "level": 2,
+              "title": "21. 作为先行条件的纯粹自然概念",
+              "anchor": "ch5-0275"
+            },
+            {
+              "level": 2,
+              "title": "22. 技术",
+              "anchor": "ch5-0285"
+            },
+            {
+              "level": 2,
+              "title": "23. 伦理的先行条件",
+              "anchor": "ch5-0294"
+            },
+            {
+              "level": 2,
+              "title": "24. 对人的尊严的爱",
+              "anchor": "ch5-0303"
+            },
+            {
+              "level": 2,
+              "title": "25. 民族主义与教派主义",
+              "anchor": "ch5-0307"
+            },
+            {
+              "level": 2,
+              "title": "26. 人道",
+              "anchor": "ch5-0314"
+            },
+            {
+              "level": 2,
+              "title": "27. 审美教育",
+              "anchor": "ch5-0328"
+            }
+          ]
+        },
+        {
+          "id": "chapter-5",
+          "title": "第五章　美的概念及其诸环节",
+          "originalTitle": "Fünftes Kapitel. Der Begriff des Schönen und seine Momente",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5.json",
+          "shortTitle": "美的概念及其诸环节",
+          "outline": [
+            {
+              "level": 2,
+              "title": "1. 审美自身",
+              "anchor": "ch6-0001"
+            },
+            {
+              "level": 2,
+              "title": "2. 作为奠基的上位概念",
+              "anchor": "ch6-0007"
+            },
+            {
+              "level": 2,
+              "title": "3. 美的奠基的可能性",
+              "anchor": "ch6-0027"
+            },
+            {
+              "level": 2,
+              "title": "4. 美的上位概念与自我的上位概念",
+              "anchor": "ch6-0049"
+            },
+            {
+              "level": 2,
+              "title": "A. 崇高环节",
+              "anchor": "ch6-0055"
+            },
+            {
+              "level": 3,
+              "title": "5. 从先行条件的关系中推导崇高",
+              "anchor": "ch6-0056"
+            },
+            {
+              "level": 3,
+              "title": "6. 在自然认识这一先行条件的优势上论证崇高",
+              "anchor": "ch6-0071"
+            },
+            {
+              "level": 3,
+              "title": "7. 另一个环节的问题与诸先行条件之配置的补充",
+              "anchor": "ch6-0099"
+            },
+            {
+              "level": 3,
+              "title": "8. 理论工作之终结的虚构",
+              "anchor": "ch6-0111"
+            },
+            {
+              "level": 2,
+              "title": "B. 幽默",
+              "anchor": "ch6-0120"
+            },
+            {
+              "level": 3,
+              "title": "9. 自然在艺术中的一种新意义",
+              "anchor": "ch6-0124"
+            },
+            {
+              "level": 3,
+              "title": "10. 人之天性的两个边界",
+              "anchor": "ch6-0131"
+            },
+            {
+              "level": 3,
+              "title": "11. 丑的问题",
+              "anchor": "ch6-0136"
+            },
+            {
+              "level": 3,
+              "title": "12. 萨提尔的问题",
+              "anchor": "ch6-0142"
+            },
+            {
+              "level": 3,
+              "title": "13. 古典艺术与现代艺术",
+              "anchor": "ch6-0153"
+            },
+            {
+              "level": 3,
+              "title": "14. 肖像与漫画",
+              "anchor": "ch6-0170"
+            },
+            {
+              "level": 3,
+              "title": "15. 自然主义与灵魂",
+              "anchor": "ch6-0174"
+            },
+            {
+              "level": 3,
+              "title": "16. 幽默的绘画性世界观",
+              "anchor": "ch6-0180"
+            },
+            {
+              "level": 3,
+              "title": "17. 列奥纳多的个体性问题",
+              "anchor": "ch6-0191"
+            },
+            {
+              "level": 3,
+              "title": "18. 米开朗基罗的幽默",
+              "anchor": "ch6-0199"
+            },
+            {
+              "level": 3,
+              "title": "19. 艺术的自主性与宗教艺术",
+              "anchor": "ch6-0204"
+            },
+            {
+              "level": 3,
+              "title": "20. 但丁问题",
+              "anchor": "ch6-0223"
+            },
+            {
+              "level": 3,
+              "title": "21. 贝多芬的幽默",
+              "anchor": "ch6-0246"
+            },
+            {
+              "level": 3,
+              "title": "22. 宗教艺术与社会艺术",
+              "anchor": "ch6-0260"
+            },
+            {
+              "level": 3,
+              "title": "23. 自然的崇高",
+              "anchor": "ch6-0272"
+            },
+            {
+              "level": 3,
+              "title": "24. 印象主义",
+              "anchor": "ch6-0278"
+            },
+            {
+              "level": 3,
+              "title": "25. 自然与艺术",
+              "anchor": "ch6-0288"
+            },
+            {
+              "level": 3,
+              "title": "26. 自然与幽默",
+              "anchor": "ch6-0294"
+            },
+            {
+              "level": 3,
+              "title": "27. 风景与肖像",
+              "anchor": "ch6-0304"
+            }
+          ]
+        },
+        {
+          "id": "chapter-6",
+          "title": "第六章　诗作为诸艺术的语言",
+          "originalTitle": "Sechstes Kapitel. Die Poesie als die Sprache der Künste",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6.json",
+          "shortTitle": "诗作为诸艺术的语言",
+          "outline": [
+            {
+              "level": 2,
+              "title": "1. 诸艺术及其统一",
+              "anchor": "ch7-0001"
+            },
+            {
+              "level": 2,
+              "title": "2. 人的理念与可见性",
+              "anchor": "ch7-0012"
+            },
+            {
+              "level": 2,
+              "title": "5. 个别者的问题",
+              "anchor": "ch7-0021"
+            },
+            {
+              "level": 2,
+              "title": "6. 思维与语言",
+              "anchor": "ch7-0030"
+            },
+            {
+              "level": 2,
+              "title": "7. 语言与思维情感",
+              "anchor": "ch7-0043"
+            },
+            {
+              "level": 2,
+              "title": "8. 诗作为概念与词语情感的统一",
+              "anchor": "ch7-0053"
+            },
+            {
+              "level": 2,
+              "title": "9. 比喻",
+              "anchor": "ch7-0061"
+            },
+            {
+              "level": 2,
+              "title": "10. 诗的惟一内容",
+              "anchor": "ch7-0073"
+            },
+            {
+              "level": 2,
+              "title": "11. 诗与标记",
+              "anchor": "ch7-0087"
+            },
+            {
+              "level": 2,
+              "title": "12. 内在化",
+              "anchor": "ch7-0092"
+            },
+            {
+              "level": 2,
+              "title": "13. 诗作为第二内在语言形式",
+              "anchor": "ch7-0103"
+            },
+            {
+              "level": 2,
+              "title": "14. 图像与影子",
+              "anchor": "ch7-0116"
+            },
+            {
+              "level": 2,
+              "title": "15. 自然与文化",
+              "anchor": "ch7-0119"
+            },
+            {
+              "level": 2,
+              "title": "16. 第二种内在语言形式与诗的种类",
+              "anchor": "ch7-0124"
+            }
+          ]
+        }
+      ],
+      "downloads": [
+        {
+          "label": "中文 Markdown",
+          "url": "translations/books/cohen-system-der-philosophie-3-1/cohen_aesthetik_1_zh.md?v=5e07ca22fabd",
+          "bytes": 672923,
+          "sha256": "5e07ca22fabd5e56ab2c98988d2a8e788b5129192093b2e4e432fa5954c0ea61"
+        }
+      ],
+      "sourceEdition": "Cohen, Berlin, Bruno Cassirer, 1912",
+      "readerUrl": "https://uni0nius.github.io/translations/book.html?id=cohen-system-der-philosophie-3-1"
+    },
+    {
       "id": "lask-gesammelte-schriften-i",
       "title": "拉斯克文集：第一卷",
       "originalTitle": "Gesammelte Schriften. I",
