@@ -1,6 +1,163 @@
 window.TRANSLATIONS = {
   "books": [
     {
+      "id": "cohen-kants-begruendung-der-aesthetik-1889",
+      "title": "康德美学的奠基",
+      "originalTitle": "Kants Begründung der Aesthetik",
+      "author": "Hermann Cohen",
+      "authorZh": "赫尔曼·柯亨",
+      "tags": [
+        "哲学",
+        "康德",
+        "美学"
+      ],
+      "language": "中文 / Deutsch",
+      "languagePair": "中德双语",
+      "structured": true,
+      "bilingual": true,
+      "views": [
+        "parallel",
+        "zh",
+        "en"
+      ],
+      "sourceLanguage": "de",
+      "sourceLanguageLabel": "Deutsch",
+      "chapters": [
+        {
+          "id": "title-page",
+          "title": "原扉页",
+          "originalTitle": "Titelblatt",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/title-page.json"
+        },
+        {
+          "id": "preface",
+          "title": "序言",
+          "originalTitle": "Vorwort",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/preface.json"
+        },
+        {
+          "id": "original-toc",
+          "title": "原书目录（含论题提要）",
+          "originalTitle": "Inhalts-Verzeichniss",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/original-toc.json"
+        },
+        {
+          "id": "intro",
+          "title": "导论",
+          "originalTitle": "Einleitung",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/intro.json"
+        },
+        {
+          "id": "historical",
+          "title": "历史导论",
+          "originalTitle": "Historische Einleitung",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/historical.json",
+          "parentId": "intro"
+        },
+        {
+          "id": "system",
+          "title": "系统导论",
+          "originalTitle": "Systematische Einleitung",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/system.json",
+          "parentId": "intro"
+        },
+        {
+          "id": "nature",
+          "title": "A. 自然的客体",
+          "originalTitle": "A. Das Object der Natur",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/nature.json",
+          "parentId": "system"
+        },
+        {
+          "id": "ethics",
+          "title": "B. 道德的主体",
+          "originalTitle": "B. Das Subject der Sittlichkeit",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/ethics.json",
+          "parentId": "system"
+        },
+        {
+          "id": "chapter1",
+          "title": "第一章 审美意识的法则性",
+          "originalTitle": "Erstes Kapitel. Die Gesetzlichkeit des ästhetischen Bewusstseins",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/chapter1.json"
+        },
+        {
+          "id": "chapter2",
+          "title": "第二章 审美意识的内容",
+          "originalTitle": "Zweites Kapitel. Der Inhalt des ästhetischen Bewusstseins",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/chapter2.json"
+        },
+        {
+          "id": "beauty",
+          "title": "美",
+          "originalTitle": "Das Schöne",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/beauty.json",
+          "parentId": "chapter2"
+        },
+        {
+          "id": "sublime",
+          "title": "崇高",
+          "originalTitle": "Das Erhabene",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/sublime.json",
+          "parentId": "chapter2"
+        },
+        {
+          "id": "chapter3",
+          "title": "第三章 诸艺术作为审美内容的生成方式",
+          "originalTitle": "Drittes Kapitel. Die Künste, als Erzeugungsweisen des ästhetischen Inhalts",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/chapter3.json"
+        },
+        {
+          "id": "chapter4",
+          "title": "第四章 批判的美学，它的朋友与它的反对者",
+          "originalTitle": "Viertes Kapitel. Die kritische Aesthetik, ihre Freunde und ihre Gegner",
+          "dataUrl": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/chapter4.json"
+        }
+      ],
+      "downloads": [
+        {
+          "label": "中德对照版 PDF",
+          "url": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/cohen_kba1889_bilingual.pdf?v=520d43f3e6a1",
+          "bytes": 2589536,
+          "sha256": "520d43f3e6a1243e94cdcc3ff1e4d9a6360c6ebf97e431ab50ed9aaccfc768a7"
+        },
+        {
+          "label": "中文阅读版 PDF",
+          "url": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/cohen_kba1889_zh.pdf?v=f65c2e35c5dd",
+          "bytes": 1442366,
+          "sha256": "f65c2e35c5dd7b9f4a11345937d5e1f21e0bb434588f4abe55aa1125b0ac9007"
+        },
+        {
+          "label": "德文阅读版 PDF",
+          "url": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/cohen_kba1889_de.pdf?v=f1020b07097c",
+          "bytes": 1128630,
+          "sha256": "f1020b07097c1f160c4cd8a88e36605219efb359150e683dfef0830a3347be57"
+        },
+        {
+          "label": "中文 Markdown",
+          "url": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/cohen_kba1889_zh.md?v=1671484d23a7",
+          "bytes": 969963,
+          "sha256": "1671484d23a7b6c32911a670ca5128d755ca2b47ab930631b9fed0f747ce5a8d"
+        },
+        {
+          "label": "德文 Markdown",
+          "url": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/cohen_kba1889_de.md?v=0f3e7b7fda47",
+          "bytes": 1079625,
+          "sha256": "0f3e7b7fda4700cd6c67230f0adbcd59b0acf16735e5a9063bf511405c1fdf81"
+        },
+        {
+          "label": "可编辑源码包",
+          "url": "translations/books/cohen-kants-begruendung-der-aesthetik-1889/cohen_kba1889_source.zip?v=4476fe93d68d",
+          "bytes": 2866332,
+          "sha256": "4476fe93d68d9f8ed1637845e07a438df4f223abe4a51f0dde92d2de3686a2c5"
+        }
+      ],
+      "sourceEdition": "Hermann Cohen, Berlin 1889",
+      "reviewedCanonicalSha256": "f04a479a8606a8414d84c8ae3b9db68b30c30bc149fe03a2f4c525c8ef3dc058",
+      "readerUrl": "https://uni0nius.github.io/translations/book.html?id=cohen-kants-begruendung-der-aesthetik-1889",
+      "editionNotice": "依据1889年柏林初版校订，保留原注、原页码和含论题提要的原书目录；中文原注附德文全文。中文跨页位置按语义就近对齐。"
+    },
+    {
       "id": "cohen-system-der-philosophie-1",
       "title": "哲学体系第一部：纯粹认识的逻辑",
       "originalTitle": "System der Philosophie. Erster Theil: Logik der reinen Erkenntniss",

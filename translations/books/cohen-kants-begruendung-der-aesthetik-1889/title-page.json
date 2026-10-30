@@ -1,0 +1,40 @@
+{
+  "id": "title-page",
+  "title": "原扉页",
+  "originalTitle": "Titelblatt",
+  "body": [
+    {
+      "id": "title-page-text",
+      "type": "heading",
+      "page": "",
+      "zh": [
+        "康德美学的奠基",
+        {
+          "type": "linebreak"
+        },
+        "赫尔曼·柯亨"
+      ],
+      "en": [
+        "Kants Begründung der Aesthetik",
+        {
+          "type": "linebreak"
+        },
+        "Hermann Cohen"
+      ]
+    },
+    {
+      "id": "title-page-imprint",
+      "type": "paragraph",
+      "page": "",
+      "zh": [
+        "Berlin，1889"
+      ],
+      "en": [
+        "Ferd. Dümmlers Verlagsbuchhandlung, Berlin 1889"
+      ]
+    }
+  ],
+  "notes": {},
+  "sourceLanguage": "de",
+  "sourceLanguageLabel": "Deutsch"
+}
