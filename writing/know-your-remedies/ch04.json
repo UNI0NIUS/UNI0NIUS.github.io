@@ -1,0 +1,5291 @@
+{
+  "id": "ch04",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "part-3",
+      "page": "",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "第二部"
+          ],
+          "level": 2
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "Part II"
+          ],
+          "level": 2
+        }
+      ],
+      "canonical_kind": "part_title",
+      "source_ids": [
+        "part-3"
+      ]
+    },
+    {
+      "id": "ch04-title",
+      "page": "105",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "第四章　绝艺与正统"
+          ],
+          "level": 2
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "4　Virtuosity and Orthodoxy"
+          ],
+          "level": 2
+        }
+      ],
+      "canonical_kind": "chapter_title",
+      "source_ids": [
+        "ch04-title"
+      ]
+    },
+    {
+      "id": "ch04-epi01",
+      "page": "105",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "天命之谓性，率性之谓道，修道之谓教。",
+            {
+              "type": "note",
+              "id": "ch04-n001",
+              "label": "1"
+            },
+            "\n——《中庸》"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "What Heaven has conferred is called Nature; an accordance with this nature is called The Path of Duty; the regulation of this path is called Instruction.",
+            {
+              "type": "note",
+              "id": "ch04-n001",
+              "label": "1"
+            },
+            "\n—",
+            {
+              "type": "em",
+              "children": [
+                "Zhongyong (Doctrine of the Mean"
+              ]
+            },
+            ")"
+          ]
+        }
+      ],
+      "canonical_kind": "epigraph",
+      "source_ids": [
+        "ch04-epi01"
+      ]
+    },
+    {
+      "id": "ch04-p001",
+      "page": "105",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "方以智（1611—1671）出身桐城望族，世代为官。他在1630年代的江南长大，通过士人社团密切参与政治活动。1640年，他考中进士，获得翰林院中令人艳羡的职位。然而身在北京，方以智仍为王朝未卜的政治前途与自己的思想困惑所困扰。",
+            {
+              "type": "note",
+              "id": "ch04-n002",
+              "label": "2"
+            },
+            " 他同时循两条路径治学，最终完成两部著作：一部名为《通雅》的长篇考证字典，以及一部较短的论著《物理小识》。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fang Yizhi (1611–71) was from a prestigious lineage of scholar-officials in Tongcheng County. Growing up in 1630s Jiangnan, Fang was closely involved in political activism through literati associations. In 1640, he obtained the highest degree in the civil examinations and earned a coveted official position in the Hanlin Academy. While in Beijing, Fang was nevertheless haunted by the dynasty’s uncertain political prospects and his own intellectual perplexities.",
+            {
+              "type": "note",
+              "id": "ch04-n002",
+              "label": "2"
+            },
+            " He pursued two paths simultaneously, leading to the completion of two written works: a long, annotated dictionary titled ",
+            {
+              "type": "em",
+              "children": [
+                "Comprehensive Refinement (Tongya"
+              ]
+            },
+            "), and a shorter treatise, ",
+            {
+              "type": "em",
+              "children": [
+                "Notes on the Principle of Things (Wuli xiaoshi"
+              ]
+            },
+            ")."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p001"
+      ]
+    },
+    {
+      "id": "ch04-p002",
+      "page": "105",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "医学，尤其是药学，在这两部著作中都占据方以智的注意，而他也以两种不同的方法处理本草传统。首先，在《通雅》中，他搜集数千名物，剖析每一名称的起源、变体与经典出处，本草只是他所依据的众多文献之一。为此，他特别留意古代的声韵与字形，展示了考据学的力量。然而在《物理小识》中，方以智从理学关于宇宙一体的前提出发，逐一梳理天、地、人以及（非人的）物之事。全书十二章中有三章讨论与医学相关的主题，包括人体解剖、一般医学与药学。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Medicine, and pharmacy in particular, occupied Fang’s attention in both works, and he engaged with the tradition of bencao according to two distinct methodologies. First, in ",
+            {
+              "type": "em",
+              "children": [
+                "Comprehensive Refinement"
+              ]
+            },
+            ", Fang collected thousands of names and dissected the origin, variations, and classical references of each term, drawing from bencao as only one of many textual sources. To do so, he paid particular attention to the phonology and orthography of ancient times and showcased the power of philological research. In ",
+            {
+              "type": "em",
+              "children": [
+                "Notes on the Principle of Things"
+              ]
+            },
+            ", however, Fang started from the neo-Confucian premise of cosmic unity and worked his way through the affairs of Heaven, Earth, humanity, and (nonhuman) things. Three out of twelve chapters dealt with subjects pertaining to medicine, including human anatomy, general medicine, and pharmacy."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p002",
+        "ch04-p003"
+      ]
+    },
+    {
+      "id": "ch04-p004",
+      "page": "106",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "方以智在《物理小识》“总论”所收的一篇文章中专门讨论了药性。他回顾本草文献的历史渊源，指出其是“皇权”的产物，也是“名医与史官”合作的成果，并对这一体裁晚近的发展表示惊叹，尤其称赞李时珍的博洽、缪希雍的简练（jian）与李中梓的明哲（zhe）。",
+            {
+              "type": "note",
+              "id": "ch04-n003",
+              "label": "3"
+            },
+            " 方以智开篇即宣称“万物皆药”（见本书导论开头的引文），从而把自己归入那股日益高涨的兴趣——以本草研究“自然的具体者”，把个别药物的性质理解为知识与行动的源泉。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fang discussed the nature of drugs in particular in one essay he included in the “General Discourses” (",
+            {
+              "type": "em",
+              "children": [
+                "zonglun"
+              ]
+            },
+            ") for ",
+            {
+              "type": "em",
+              "children": [
+                "Notes on the Principle of Things"
+              ]
+            },
+            ". Reviewing the bencao literature’s historical origin as product of “imperial power” and collaboration between “famous physicians and official historians,” Fang marveled at the recent developments in the genre, praising in particular Li Shizhen’s erudition, Miao Xiyong’s concision (",
+            {
+              "type": "em",
+              "children": [
+                "jian"
+              ]
+            },
+            "), and Li Zhongzi’s judiciousness (",
+            {
+              "type": "em",
+              "children": [
+                "zhe"
+              ]
+            },
+            ").",
+            {
+              "type": "note",
+              "id": "ch04-n003",
+              "label": "3"
+            },
+            " By declaring that “everything is a medicine” at the outset (see the quote at the beginning of the introduction to this book), Fang aligned himself with the surging interest in using bencao to study “natural particulars”—to comprehend the nature of individual drugs as a source of knowledge and action."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p004"
+      ]
+    },
+    {
+      "id": "ch04-p005",
+      "page": "106",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "方以智理解事物的双管齐下之道，透露出一个充满不确定与试探的时刻，仿佛他正在试验这些方法，以判断哪一种更胜一筹。十六世纪丘濬、邓元锡等人的理学著作所持的人与世界一体、知识与行动一体的信念，在王朝江河日下的进程中遭遇严峻挑战。东林式政治行动的兴起与延续——折射于缪希雍的疏解策略之中——宣称在古昔重新寻回了失落的真理。1620、1630年代的许多本草作者（如倪朱谟、卢之颐）以“好古”著称，绝非偶然。对他们以及毛晋这样的新一代文化企业家而言，好古仍与一种认识论上的乐观主义密不可分：人们确实能够参透药物无穷效用背后的宇宙一体，并从中引出有意义的行动。方以智在1640年前后写作时，仍坚持从“物则”参透“至理”。然而他对解释物之“差别”（chabie）的困难也不抱幻想：已知的本草数据充斥着错误，或许终究不是可靠的指南。",
+            {
+              "type": "note",
+              "id": "ch04-n004",
+              "label": "4"
+            },
+            " 一场更系统的知识重构已不可避免。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fang Yizhi’s two-pronged approach to the understanding of things revealed a moment of uncertainty and tentativeness, as if he were experimenting with these methods to determine which one was better. The belief in the unity of man and the world, of knowledge and action presented in sixteenth-century neo-Confucian works such as those of Qiu Jun and Deng Yuanxi, had met grave challenges in the downward trajectory of the dynasty. The rise and persistence of Donglin-style political activism, as mirrored in the exegetical maneuvers of Miao Xiyong, claimed to have found lost truth in antiquity. It is no coincidence that many bencao authors in the 1620s and 1630s (such as Ni Zhumo and Lu Zhiyi) were remembered for their “love of antiquity” (",
+            {
+              "type": "em",
+              "children": [
+                "haogu"
+              ]
+            },
+            "). For these people, as well as the new generation of cultural entrepreneurs such as Mao Jin, the love of antiquity was still inseparable from the epistemic optimism that one could indeed fathom a cosmic unity behind the myriad effects of pharmaceutical substances and derive meaningful action from them. Writing around the year 1640, Fang Yizhi still insisted on fathoming the “supreme principle” (",
+            {
+              "type": "em",
+              "children": [
+                "zhili"
+              ]
+            },
+            ") from “the norms of things” (",
+            {
+              "type": "em",
+              "children": [
+                "wuze"
+              ]
+            },
+            "). Yet he also harbored no illusions about the challenges of explaining the differences (",
+            {
+              "type": "em",
+              "children": [
+                "chabie"
+              ]
+            },
+            ") among things: the known data of bencao was replete with errors and might not be a reliable guide after all.",
+            {
+              "type": "note",
+              "id": "ch04-n004",
+              "label": "4"
+            },
+            " A more systematic reconfiguration of knowledge was inevitable."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p005"
+      ]
+    },
+    {
+      "id": "ch04-p006",
+      "page": "106, 107",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "明朝四面楚歌，士兵化为嗜杀的叛军，攻掠一省又一省。在东北前线，随着明军无法守住山海关外的领土，来自满洲清政权的威胁日益加剧。方以智在明代文官体系顶峰的任期并未持续太久：1644年，北京陷于叛军首领李自成之手，李自成又在次年败于清军。当年轻的满洲统治者登基为清朝顺治皇帝时，方以智南下，先后在多处南明藩王的朝廷中任职，最终对复国绝望，剃度为僧，隐姓埋名。他辗转于沿海地区与饱经战火的远南深山，随身携带《通雅》与《物理小识》的稿本，随时札记修订。"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "编者说明：底本称李自成在占领北京的次年败于清军。大顺军在1644年已于山海关败于清军与吴三桂联军，1645年又在潼关战败；底本此处所指战事未予说明。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The Ming dynasty was under siege on all fronts as soldiers turned into murderous rebels, invading one province after another. On the northeastern front, the threat from the Manchu Qing regime mounted as Ming forces could not hold on to territories beyond the Shanhai Pass. Fang Yizhi’s tenure at the peak of Ming civil officialdom did not last very long: in 1644, Beijing fell to the rebel leader Li Zicheng, who would, in turn, be defeated by Qing forces the following year. When the young Manchu ruler ascended the throne as the Shunzhi emperor of the Qing dynasty, Fang Yizhi headed south to serve in multiple regional courts of Ming princes, only to lose hope for restoration and go into hiding as a tonsured Buddhist monk. He roamed the coastal region and the deep mountains of the war-torn far south, bringing manuscripts of ",
+            {
+              "type": "em",
+              "children": [
+                "Comprehensive Erudition"
+              ]
+            },
+            " and ",
+            {
+              "type": "em",
+              "children": [
+                "Notes on the Principle of Things"
+              ]
+            },
+            " with him and making notes for revisions."
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "Editor's note (Chinese): 底本称李自成在占领北京的次年败于清军。大顺军在1644年已于山海关败于清军与吴三桂联军，1645年又在潼关战败；底本此处所指战事未予说明。"
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p006"
+      ]
+    },
+    {
+      "id": "ch04-p007",
+      "page": "107",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在《物理小识》的刊本中，我们可以看到方以智1644年后的许多札记，显示出流亡带来的转变性影响。藏书尽失、远离皇家书库数千里，方以智看见并触摸到许多从前闻所未闻的新奇之物。在远南，他见到冬季生长、春季成熟的热带植物。他闻过猎人保存的虎脂。他考察花生，称之为“番豆花”，并思索它何以能在土中结籽。",
+            {
+              "type": "note",
+              "id": "ch04-n005",
+              "label": "5"
+            },
+            " 他学会辨识来自云南、贵州等西南省份的地方药材品种，还一度亲自参与药材贸易。药房的隐喻渗透到他晚年所撰的其他哲学著作中。",
+            {
+              "type": "note",
+              "id": "ch04-n006",
+              "label": "6"
+            },
+            " 总体而言，方以智似乎较少关心一般地探究药性如何发挥效力，而更关心发现异域疗法并将之付诸应用的体验。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In the published version of ",
+            {
+              "type": "em",
+              "children": [
+                "Notes on the Principle of Things"
+              ]
+            },
+            ", we can see many of Fang’s post-1644 notes that reveal the transformative effect of exile. Stripped of his book collection and thousands of miles away from the imperial library, Fang saw and touched many novelties he had not even heard of before. In the far south, he saw tropical plants that grew in winter and matured in spring. He smelled tiger fat preserved by hunters. He investigated the peanut plant, which he called “foreign bean flower” (",
+            {
+              "type": "em",
+              "children": [
+                "fan dou hua"
+              ]
+            },
+            "), and wondered how it could have seeds grown under the soil.",
+            {
+              "type": "note",
+              "id": "ch04-n005",
+              "label": "5"
+            },
+            " He learned to identify regional varieties of herbs that came from the southwestern provinces Yunnan and Guizhou and briefly engaged in the pharmaceutical trade himself. The metaphor of pharmacy permeated other philosophical works he composed in his late years.",
+            {
+              "type": "note",
+              "id": "ch04-n006",
+              "label": "6"
+            },
+            " Overall, Fang seemed concerned less with finding out how the nature of drugs exercised its power in general, and more with the experience of discovering exotic cures and applying them."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p007"
+      ]
+    },
+    {
+      "id": "ch04-p008",
+      "page": "107, 108",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "方以智出身江南精英士绅家庭，这一出身本已为他铺就科举与仕宦的成功之路，他却在流亡中终老，而流亡也把他带到边疆与市镇。方以智一生的轨迹促使我们思考：朝代更替的直接后果，如何成为思想变迁的复杂动力。余英时在研究方以智晚年的重要著作中，把他入清前的著作视为晚明儒学“舍虚就实”倾向的例证，而把入清后的哲学写作视为“即实求虚而不舍弃实”。",
+            {
+              "type": "note",
+              "id": "ch04-n007",
+              "label": "7"
+            },
+            " 然而，方以智在1644年前后两部著作中对药学的兴趣表明，他对物之具体物质性的关注一以贯之，只是认识策略发生了转变：入清之前，方以智与其他人一样，相信基于关联性宇宙论的系统推演行之有效。流亡期间，他则对感官材料与个人经验采取“经验主义”路径——借用左娅（Ya Zuo）对十一世纪宋代博学家沈括思想异见的概括。",
+            {
+              "type": "note",
+              "id": "ch04-n008",
+              "label": "8"
+            },
+            " 方以智青年时代所投身的政治行动已归失败；他的著作却将继续被人阅读数百年。我们将在后两章再次遇见他。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Hailing from an elite gentry family in Jiangnan, which set him up for success in the civil service examination and an official career, Fang Yizhi ended his life in an exile that also brought him into contact with the frontier and the market town. The trajectory of Fang’s life prompts us to consider the complex impetus for intellectual change as an immediate consequence of dynastic transition. In his influential study of Fang’s later life, Yu Ying-shih characterized his pre-Conquest works as exemplifying the tendency of late Ming Confucian learning to “move from the abstract to the concrete” (",
+            {
+              "type": "em",
+              "children": [
+                "she xu jiu shi"
+              ]
+            },
+            "), and his post-Conquest philosophical writings as “tracing the abstract without abandoning the concrete.”",
+            {
+              "type": "note",
+              "id": "ch04-n007",
+              "label": "7"
+            },
+            " The case of Fang’s interest in pharmacy in both his pre- and post-1644 works, however, suggests a consistent interest in the concrete materiality of things marked by a shift in epistemic strategy: before the conquest, Fang joined others in believing in the validity of systematic deductions based on correlative cosmology. During exile, he took an “empiricist” approach to sensory data and personal experience, to use Ya Zuo’s characterization of the Song polymath Shen Gua’s intellectual dissention back in the eleventh century.",
+            {
+              "type": "note",
+              "id": "ch04-n008",
+              "label": "8"
+            },
+            " The political activism that Fang espoused in his youth had come to naught; his written works would continue to be read for centuries. We will encounter him again in the next two chapters."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p008"
+      ]
+    },
+    {
+      "id": "ch04-p009",
+      "page": "108",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "明清鼎革之际由战争造成的创伤与流离，不仅塑造了方以智的晚期作品，也塑造了无数地位较低者的生活。随着清政府在政治与文化上的改革，儒学内部也发生了相应的、尽管不那么显著的自然研究重构。入清前药学与药性的核心地位，在战后数十年间也受到强烈质疑。清廷统治者并非有意为之，却发现自己与新盟友为伍——这些来自士人与医者精英阶层的人，正倡导一种处理本草领域的新路径。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "War-induced trauma and displacement during the Ming-Qing transition not only shaped Fang Yizhi’s late works but also the lives of countless less-privileged individuals. With the Qing reforms in government and culture came a parallel, albeit less pronounced, reconfiguration of natural studies within Confucian learning. The centrality of pharmacy and the nature of drugs in the pre-Conquest years also came under intense questioning in postwar decades. In a move that was hardly premeditated, the Qing rulers found themselves in the company of new allies from the elite strata of literati and physicians who were championing a new approach to the field of bencao."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p009"
+      ]
+    },
+    {
+      "id": "ch04-s01",
+      "page": "108",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "清初本草的延续与变化"
+          ],
+          "level": 3
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "Continuities and Change in Early Qing Bencao"
+          ],
+          "level": 3
+        }
+      ],
+      "canonical_kind": "section_heading",
+      "source_ids": [
+        "ch04-s01"
+      ]
+    },
+    {
+      "id": "ch04-p010",
+      "page": "108",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "当明室骤然倾覆的消息传到南方时，那位遍游数省编纂本草的内向学者倪朱谟早已去世，留下年轻的寡妻在饥荒与战乱中抚养幼子。值得注意的是，倪朱谟的本草在1645年政治混乱之中得以刊行。",
+            {
+              "type": "note",
+              "id": "ch04-n009",
+              "label": "9"
+            },
+            " 在杭州——南明藩王设立的朝廷之一——隐士卢之颐抓住机会，投效鲁王，获得了一个低级官衔。然而1645年清军攻陷南京后逼近杭州，卢之颐遁入隐居；待他归来时，家园已毁，其本草的书版也尽遭毁坏。卢之颐很快寻回一半稿本，并于1647年将这部残缺的稿本付印。曾经热闹非凡的药性讲论与激烈辩论从此永远结束；卢之颐余生双目失明、卧病在床，由孝顺的儿媳照料，终老于家。",
+            {
+              "type": "note",
+              "id": "ch04-n010",
+              "label": "10"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "When news of the Ming house’s dramatic fall reached the south, Ni Zhumo, the introvert scholar who visited many provinces to compile his bencao, had long died and left his young widow to raise their son through famine and war. Remarkably, Ni’s bencao got published in the midst of political chaos in 1645.",
+            {
+              "type": "note",
+              "id": "ch04-n009",
+              "label": "9"
+            },
+            " In Hangzhou, one of the regional courts set up by Ming princes, the recluse Lu Zhiyi seized the opportunity to offer himself in the service of Prince Lu and obtained a minor official title. Yet when the Qing forces approached Hangzhou after capturing Nanjing in 1645, Lu Zhiyi went into hiding, and when he returned, it was to find his home and estate in ruins, and the carved woodblocks of his bencao destroyed. Lu was able to quickly recover half the manuscript and put the incomplete manuscript to print in 1647. The once boisterous lectures and intense debates on the nature of drugs were over for good; Lu spent the rest of his life at home, blind and bedridden, tended to by his filial daughter-in-law.",
+            {
+              "type": "note",
+              "id": "ch04-n010",
+              "label": "10"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p010"
+      ]
+    },
+    {
+      "id": "ch04-p011",
+      "page": "108",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "隔杭州湾相望的常熟，以学者型出版家身份备受敬重的毛晋设法保全了家产，并斡旋促成本县和平归附清军。晚年，毛晋作诗纪念他刊行的第一部书——缪希雍的《经疏》——盛赞缪希雍本草讲论中那些令人震撼的时刻。",
+            {
+              "type": "note",
+              "id": "ch04-n011",
+              "label": "11"
+            },
+            " 1659年毛晋去世后，其宏富的藏书与书版经拍卖与盗窃，散落于江南各藏书家之手。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Across the Hangzhou Bay in Changshu, Mao Jin, who commanded great respect as a scholarly publisher, managed to protect his estate and negotiate a peaceful handover of the county to Qing forces. Toward the end of his life, Mao wrote a poem to commemorate the first book he ever published—Miao Xiyong’s ",
+            {
+              "type": "em",
+              "children": [
+                "Exegesis"
+              ]
+            },
+            "—praising the electrifying moments of Miao’s bencao lectures.",
+            {
+              "type": "note",
+              "id": "ch04-n011",
+              "label": "11"
+            },
+            " After Mao’s death in 1659, his immense collection of books and carved woodblocks was dispersed by auction and theft among various Jiangnan collectors."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p011"
+      ]
+    },
+    {
+      "id": "ch04-p012",
+      "page": "108, 109",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "清廷任命的新省级官员在一段短暂时期内，延续了刊印新版本草药典的做法。早在1630年代便是清军宿将的张朝璘在出任江西总督后，因1603年版《本草纲目》的书版存放于江西，遂委托刊行新版。同样在1650年代，江南商业出版从战乱中恢复，推出了《本草纲目》的新插图本，确保此书在此后数百年间持续以印本流传。",
+            {
+              "type": "note",
+              "id": "ch04-n012",
+              "label": "12"
+            },
+            " 食疗本草依然流行，吸引士人读者品味生活之美，以克服王朝鼎革的创伤记忆。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "New provincial administrators appointed by Qing authorities continued, for a brief period of time, the practice of issuing new reprints of bencao phar- macopeias. Zhang Chaolin, a veteran commander of Qing forces back in the 1630s, commissioned a new edition of ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao gangmu"
+              ]
+            },
+            " after assuming the governor-generalship of Jiangxi, where the carved woodblocks of the 1603 edition were stored. Also in the 1650s, Jiangnan commercial publishers recovered from wartime disruption and issued new illustrated editions of ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao gangmu"
+              ]
+            },
+            ", ensuring the text’s continued availability in print throughout the next centuries.",
+            {
+              "type": "note",
+              "id": "ch04-n012",
+              "label": "12"
+            },
+            " Dietetic bencao remained popular, inviting literati readers to savor the goodness of life and overcome traumatic memories of the dynastic transition."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p012"
+      ]
+    },
+    {
+      "id": "ch04-p013",
+      "page": "109",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在主要战场之外，退休官员刘若金（1625年进士）在家乡湖广中部的潜江度过余生，撰成三十二卷《本草述》。书中密集的本体论思辨与关联性推演，呼应了缪希雍、卢之颐等晚明作者。刘若金之子在清朝任知县，将此书刊行，但未引起多少反响，表明这种探究方式到1690年代已经过时。",
+            {
+              "type": "note",
+              "id": "ch04-n013",
+              "label": "13"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Away from the main battlegrounds, Liu Ruojin (jinshi 1625), a retired official living in his hometown Qianjiang County in central Huguang, spent the rest of his life composing a thirty-two-volume treatise titled ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao shu (Narrating Materia Medica"
+              ]
+            },
+            "). The densely written ontological speculations and correlative inferences echoed Miao Xiyong, Lu Zhiyi, and other late Ming authors. Liu’s son, who served under the Qing as a magistrate, published the text to little fanfare, suggesting that this mode of inquiry had gone out of fashion by the 1690s.",
+            {
+              "type": "note",
+              "id": "ch04-n013",
+              "label": "13"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p013"
+      ]
+    },
+    {
+      "id": "ch04-p014",
+      "page": "109",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "战乱期间，医家李中梓寄居在赞助人家中，继续教授医学。战后数十年间，他的名声日隆，并继续以简洁易懂的招牌风格刊行医学论著。1667年，最后一套三部论著出版，合诊断、病因与药学之教于一编，证明李中梓坚持医学综合课程的成功：药学居于显要位置，却从未与疾病讨论相分离。在他的明确许可下，一些弟子模仿他的风格，公开攻击缪希雍的遗产。",
+            {
+              "type": "note",
+              "id": "ch04-n014",
+              "label": "14"
+            },
+            " 李中梓的晚期著作如此流行，以至于1678年，吴三桂之孙出资刊行新版。吴三桂原是降清的明将，此时正领导一场公开反清叛乱。李中梓就这样迂回地找到了平衡：既宣示自己的绝艺，又教授一套标准课程。",
+            {
+              "type": "note",
+              "id": "ch04-n015",
+              "label": "15"
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "编者说明：底本第三章给出的李中梓生卒年为1588—1655；此处叙述战后持续出版并提到1667年刊本。1667年的刊本可能为身后出版，但具体情况尚待查证。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "During the war, the physician Li Zhongzi lodged with his patrons and continued to teach medicine. His fame soared in the postwar decades, and Li continued to publish medical treatises written in his signature concise and accessible style. One last set of three treatises was published in 1667, combining instructions on diagnostics, etiology, and pharmacy, testifying to the success of Li’s insistence on an integrated curriculum of medicine, with pharmacy prominently featured but never separated from discussions of disease. With his explicit consent, some of Li’s disciples imitated his style and openly attacked the legacy of Miao Xiyong.",
+            {
+              "type": "note",
+              "id": "ch04-n014",
+              "label": "14"
+            },
+            " Li’s late works were so popular that, in 1678, a new edition was funded by the grandson of Wu Sangui, a former Ming general who had surrendered to the Manchus and was now leading an open rebellion against the Qing. In a roundabout fashion, Li Zhongzi found the subtle balance between asserting his own virtuosity and teaching a standard curriculum.",
+            {
+              "type": "note",
+              "id": "ch04-n015",
+              "label": "15"
+            }
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "Editor's note (Chinese): 底本第三章给出的李中梓生卒年为1588—1655；此处叙述战后持续出版并提到1667年刊本。1667年的刊本可能为身后出版，但具体情况尚待查证。"
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p014"
+      ]
+    },
+    {
+      "id": "ch04-p015",
+      "page": "109, 110",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "以上零散的证据表明，本草的吸引力在入清后江南特殊的思想气候中延续下来。与此同时，在入清前的本草——尤其是缪希雍那套深入理解药性的宏大路径——开始受到批判性重估，这一风气在李中梓的圈子内外兴起。对缪希雍本草最直言不讳的批评者之一，是医家喻昌（1585—1664）。喻昌出身江西寒微之家，早年便以举止怪僻闻名。他屡试不第，然而当终于被举荐为官时，又以愤世嫉俗的姿态放弃了这个机会。他还一度混迹寺院，做佛教僧人，随后又突然还俗。",
+            {
+              "type": "note",
+              "id": "ch04-n016",
+              "label": "16"
+            },
+            " 喻昌的举止在许多方面与缪希雍相似，却未能获得后者那样的声望与尊敬，直到战后岁月，他前往缪希雍的家乡常熟，寻求当地硕果仅存的几位名流的赞助——其中许多人同情东林，且对缪希雍的著作十分熟悉。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The scattered evidence presented above suggests that the appeal of bencao persisted in the peculiar intellectual climate of post-Conquest Jiangnan. At the same time, a critical reassessment of pre-Conquest bencao, in particular Miao Xiyong’s expansive approach toward a deep understanding of the nature of drugs, started to emerge among Li Zhongzi’s circles and beyond. One of the most outspoken critics of Miao Xiyong’s bencao was a physician named Yu Chang (1585–1664). Hailing from a humble background in Jiangxi, Yu Chang was known for his eccentric manners early on. Yu took the civil examinations repeatedly without success, yet when he was finally recommended for office, he relinquished the opportunity in a cynical gesture. He also dabbled in monastery life as a Buddhist monk but then abruptly quit.",
+            {
+              "type": "note",
+              "id": "ch04-n016",
+              "label": "16"
+            },
+            " While his behavior resembled that of Miao Xiyong in many ways, Yu was unable to achieve the same prestige and respect as the latter until the postwar years, when he traveled to Changshu—Miao’s hometown—to seek the patronage of the remaining luminaries there, many of whom were Donglin sympathizers and knew Miao Xiyong’s work very well."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p015"
+      ]
+    },
+    {
+      "id": "ch04-p016",
+      "page": "110",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "甚至在入清之前，喻昌就已在著作中攻击医学中的业余主义。喻昌写道，达到卓越的唯一途径，是基于个人经验进行深思与直觉体悟。他厌恶那种以为仅凭阅读就能掌握医学原理的想法。喻昌观察到，许多自命“儒医”（ruyi）者，实际上不过是平庸的士子，别无出路，只好在医业中谋利。",
+            {
+              "type": "note",
+              "id": "ch04-n017",
+              "label": "17"
+            },
+            " 医者反而应当修习内照（neizhao），由此得以思考、感受并体察病人，直至“化己身为彼身”。",
+            {
+              "type": "note",
+              "id": "ch04-n018",
+              "label": "18"
+            },
+            " 绝艺本来就不该是容易的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Even before the conquest, Yu Chang had been attacking amateurism in medicine in his writings. The only way to achieve excellence, wrote Yu, was to engage in deep thinking and intuitive understanding based on personal experience. Yu abhorred the notion that one could ever grasp the principles of medicine by merely reading. Many such self-styled “Confucian physicians” (",
+            {
+              "type": "em",
+              "children": [
+                "ruyi"
+              ]
+            },
+            "), observed Yu, were in fact just mediocre scholars who had no other career option but to seek profit in medical practice.",
+            {
+              "type": "note",
+              "id": "ch04-n017",
+              "label": "17"
+            },
+            " Rather, the physician should practice inward meditation (",
+            {
+              "type": "em",
+              "children": [
+                "neizhao"
+              ]
+            },
+            "), which would allow the physician to think, feel, and empathize with the patient to the extent of “transforming one’s own body into theirs.”",
+            {
+              "type": "note",
+              "id": "ch04-n018",
+              "label": "18"
+            },
+            " Virtuosity was not meant to be easy."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p016"
+      ]
+    },
+    {
+      "id": "ch04-p017",
+      "page": "110",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "喻昌的医学著作涵盖广泛主题，但对药学的批判性关注始终一贯。书籍——尤其是那些鼓吹权宜用药的书籍——不可轻信。他以尖刻的口吻指出，“人人争相购求”缪希雍的《经疏》，却未意识到其中所提供者，不过是关于药性的夸夸其谈，只足以炫惑读者。喻昌写道，可叹的是人们读书只为寻找现成方剂（fang），而《内经》这类“无方之书”却鲜有人问津。难读的书被弃置一旁，人们偏爱那些明示用药方法的直白说明。喻昌认为，各种节要本草、韵语入门书，以及《经疏》之类对因果解释的许诺，都使医学这门技艺显得廉价。更糟的是，药学文本的增殖导致临床话语发生决定性的转移：如今医者与病人“只论药而不论病”（yi yao bu yi bing），难道不该归咎于它们吗？",
+            {
+              "type": "note",
+              "id": "ch04-n019",
+              "label": "19"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Yu Chang’s medical works spanned a wide range of topics, but the critical focus on pharmacy remained a consistent theme. Texts, especially those that advocated for the expedient use of drugs, were not to be trusted too quickly. With an acerbic tone he pointed out how “everybody rushed to get a copy” of Miao Xiyong’s ",
+            {
+              "type": "em",
+              "children": [
+                "Exegesis"
+              ]
+            },
+            ", without realizing that all it offered was grandiose talk on the nature of drugs that served only to impress the readers. It was lamentable that people only read books in search of ready-made recipes (",
+            {
+              "type": "em",
+              "children": [
+                "fang"
+              ]
+            },
+            "), wrote Yu, and that “books without recipes” such as the ",
+            {
+              "type": "em",
+              "children": [
+                "Inner Canon"
+              ]
+            },
+            " received scant attention. Difficult books were shunned in favor of explicit instructions for how to use drugs. All the abridged bencao, rhymed primers, and promises of causal explanation in books like ",
+            {
+              "type": "em",
+              "children": [
+                "Exegesis"
+              ]
+            },
+            ", argued Yu, made the art of medicine look cheap. Worse, the proliferation of pharmacy texts resulted in a decisive shift of discourse in clinical encounters: Should we not blame them that doctors and patients nowadays “only discuss drugs but not diseases” (",
+            {
+              "type": "em",
+              "children": [
+                "yi yao bu yi bing"
+              ]
+            },
+            ")?",
+            {
+              "type": "note",
+              "id": "ch04-n019",
+              "label": "19"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p017"
+      ]
+    },
+    {
+      "id": "ch04-p018",
+      "page": "110, 111",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "清军征服华南后，喻昌仍以医为业，居于常熟，直到1670年代去世。",
+            {
+              "type": "note",
+              "id": "ch04-n020",
+              "label": "20"
+            },
+            " 尽管公开攻击缪希雍的本草，喻昌实际上赞同后者关于古代药学传统神圣性的主张。他所反对的，是缪希雍让药性变得通俗易懂的话语策略。对喻昌而言，医学话语的增殖“以俗知掺入圣知，犹如把美锦与破絮缝在一起”。",
+            {
+              "type": "note",
+              "id": "ch04-n021",
+              "label": "21"
+            },
+            " 他的晚期著作《医门法律》设立了一套严格的规训，旨在训练医者的身体与心志。喻昌借用寺院僧侣所守的严格戒律（lü），构想出一种同样以自律与遵守道德准则为志向的医学职业。晚明本草那种缺乏焦点、放任揣测的特征，与他的愿景格格不入。耐人寻味的是，在这部按不同病因编排的论著中，喻昌从未引用本草药典。在他看来，训练有素的医者与病人之间的等级应当绝对化，不应再有为处方用药而争论的余地。绝艺必须被正统所驯服。"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "编者说明：底本本章前文给出喻昌生卒年为1585—1664，此处却称其死于1670年代；两处记载不一致。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Yu Chang remained active as a physician after the Qing conquest of South China, residing in Changshu until his death in the 1670s.",
+            {
+              "type": "note",
+              "id": "ch04-n020",
+              "label": "20"
+            },
+            " Despite his open attack on Miao Xiyong’s bencao, Yu in fact concurred with the latter’s claim about the sanctity of an ancient tradition of pharmacy. His objection targeted Miao’s discursive strategy of making the nature of drugs accessible and easy to comprehend. For Yu, the proliferation of medical discourses “adulterated sagely knowledge with vulgar knowledge, like sewing beautiful silk with bro- ken wadding.”",
+            {
+              "type": "note",
+              "id": "ch04-n021",
+              "label": "21"
+            },
+            " His late work, titled ",
+            {
+              "type": "em",
+              "children": [
+                "Rules and Commandments for the School of Medicine (Yimen falü"
+              ]
+            },
+            "), set up a rigorous regimen that sought to train a physician’s body and mind. Borrowing the strict commandments (",
+            {
+              "type": "em",
+              "children": [
+                "lü"
+              ]
+            },
+            ") practiced by Buddhist clergy in monasteries, Yu Chang envisioned a medical profession with similar aspirations for discipline and compliance with a moral code. The lack of focus and permissive speculation that characterized the late Ming bencao had put it at odds with his vision. It is telling that throughout this treatise, which was organized according to different etiological conditions, Yu Chang made no reference to the bencao pharmacopeia. For him, the hierarchy between a well-trained physician and patient ought to be absolute, and there should be no more grounds for dispute over the prescription of drugs. Virtuosity was to be tamed under orthodoxy."
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "Editor's note (Chinese): 底本本章前文给出喻昌生卒年为1585—1664，此处却称其死于1670年代；两处记载不一致。"
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p018"
+      ]
+    },
+    {
+      "id": "ch04-s02",
+      "page": "111",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "常规胜出"
+          ],
+          "level": 3
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "Regularity Prevailed"
+          ],
+          "level": 3
+        }
+      ],
+      "canonical_kind": "section_heading",
+      "source_ids": [
+        "ch04-s02"
+      ]
+    },
+    {
+      "id": "ch04-p019",
+      "page": "111",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "喻昌重整医学权威的严厉呼吁，应放在战后江南从业人员规模急剧扩大的背景下理解。一位名叫张璐的“明医”居于苏州，描述了战时原有界限的崩坏。",
+            {
+              "type": "note",
+              "id": "ch04-n022",
+              "label": "22"
+            },
+            " 张璐写道，在流离与苦难之中，病人“无从选择医者”，从业者随意行医，打破了此前内科与外科、儿科与妇科等专科之间的分工。结果，各种疾病都由同一批从业者诊治。其含义是，对综合医学训练与统一医德的需求日益上升。其次，张璐还不无讽刺地注意到，“儒林上达”（rulin shangda）如何辞去官职，“降志”（jiangzhi）于医学。张璐自1630年代少年时便开始行医，目睹医业队伍的膨胀，颇不以为然。然而他也感到不得不借文字巩固自己的遗产，以回应入清后江南医学的儒学化。",
+            {
+              "type": "note",
+              "id": "ch04-n023",
+              "label": "23"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Yu Chang’s austere call to reestablish medical authority should be understood against the background of a dramatically enlarged pool of practitioners in postwar Jiangnan. An “enlightened physician” named Zhang Lu, who resided in Suzhou, described the breakdown of preexisting boundaries during wartime.",
+            {
+              "type": "note",
+              "id": "ch04-n022",
+              "label": "22"
+            },
+            " In the midst of displacement and misery, wrote Zhang, patients “did not get to pick their physicians,” and practitioners practiced at will, defying previous divisions between specialties such as internal and external medicine, or pediatrics and gynecology. As a result, all sorts of illnesses came to be treated by the same practitioners. The implication, then, was a rising demand for integrated medical training and a unified ethics for all who practiced this art. Second, Zhang also noticed, not without a dose of sarcasm, how “Confucian gentlemen of elevated status” (",
+            {
+              "type": "em",
+              "children": [
+                "rulin shangda"
+              ]
+            },
+            ") quit official careers and “deigned to set their mind” (",
+            {
+              "type": "em",
+              "children": [
+                "jiangzhi"
+              ]
+            },
+            ") on medicine. Zhang, who started practicing in the 1630s when he was just teenager, observed the swelling ranks of medical practice with disapproval. Yet he too felt compelled to solidify his legacy by way of written words as a response to the Confucianization of medicine in post-Conquest Jiangnan.",
+            {
+              "type": "note",
+              "id": "ch04-n023",
+              "label": "23"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p019"
+      ]
+    },
+    {
+      "id": "ch04-p020",
+      "page": "111",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "七十九岁时，张璐在子孙的帮助下准备刊行自己的医学论集《医通》。此书涵盖从《内经》评注到眼科、痘疹专治的广泛主题，张璐决意以一位兼擅众长而又严谨恪守正统的大家形象出现。在书中，他为药学通论各卷取了一个颇具吸引力的标题：《本经逢原》。",
+            {
+              "type": "note",
+              "id": "ch04-n024",
+              "label": "24"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "At the age of seventy-nine, Zhang Lu prepared to publish his collected treatises, titled ",
+            {
+              "type": "em",
+              "children": [
+                "Comprehensive Medicine (Yitong"
+              ]
+            },
+            "), with the help of his descendants. Covering a wide range of topics from comments on the ",
+            {
+              "type": "em",
+              "children": [
+                "Inner Canon"
+              ]
+            },
+            " to specialized treatments in ophthalmology and smallpox, Zhang was determined to emerge as an all-around virtuoso who also rigorously adhered to orthodoxy. In the volume, Zhang chose an appealing title for the chapters on general pharmacy: ",
+            {
+              "type": "em",
+              "children": [
+                "Encountering the Origin with the Bencao Classic (Benjing fengyuan"
+              ]
+            },
+            ").",
+            {
+              "type": "note",
+              "id": "ch04-n024",
+              "label": "24"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p020"
+      ]
+    },
+    {
+      "id": "ch04-p021",
+      "page": "112",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "张璐的本草虽亦步缪希雍、卢之颐等前人崇尚古昔的修辞后尘，却对他在苏州这个繁忙商埠的当代实践提供了许多新鲜见解。他的处方风格以兼收并蓄、灵活变通著称。他热衷于古代文献中从未出现过的新奇疗法与当代药物，包括所谓“燕窝”——一种在张璐生前才新近可得的异域滋补药（见第六章）。",
+            {
+              "type": "note",
+              "id": "ch04-n025",
+              "label": "25"
+            },
+            " 张璐在提出自己的“发明”之前，固然会照例引用神农原文，却从不明确否定前代注家的贡献，反而热情地与他们的意见往来。总体而言，张璐的文本给人一种感觉：他不断被更有趣的事物分心，而非一心标榜回归古典。张璐如此解释古典研究与医学实践的关系："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Toeing the line of the rhetoric of antiquity championed by earlier authors such as Miao Xiyong and Lu Zhiyi, Zhang Lu’s bencao nevertheless offered much fresh insight into his contemporary practice in the busy commercial hub of Suzhou. His prescriptive style was remembered as eclectic and flexible. He was enthusiastic about novel cures and modern-day drugs that never appeared in ancient texts, including the so-called swallow's nest (",
+            {
+              "type": "em",
+              "children": [
+                "yanwo"
+              ]
+            },
+            "), an exotic tonic drug newly available during Zhang’s lifetime (see chapter 6).",
+            {
+              "type": "note",
+              "id": "ch04-n025",
+              "label": "25"
+            },
+            " While Zhang duly quoted the Divine Farmer’s original text before offering his own “interpretation” (",
+            {
+              "type": "em",
+              "children": [
+                "faming"
+              ]
+            },
+            "), he never explicitly disavowed the contributions of previous commentators but enthusiastically engaged with their opinions. Overall, Zhang’s text gives one the feeling that he was constantly distracted by more interesting things beyond his touting of a return to classical antiquity. Zhang Lu explained his view of the relationship between classical studies and medical practice as follows:"
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p021"
+      ]
+    },
+    {
+      "id": "ch04-p022",
+      "page": "112",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "“医学有《神农本草经》，就像工匠有自己的标准量具。有了度量，才有规则；有了规则，才有变通创新的余地。变通创新出自智慧与技艺，却仍须以基本的度量为依据。”",
+            {
+              "type": "note",
+              "id": "ch04-n026",
+              "label": "26"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "The fact that medicine has ",
+            {
+              "type": "em",
+              "children": [
+                "The Divine Farmer’s Classic of Materia Medica"
+              ]
+            },
+            ", is just like artisans having their own standard measuring tools. Once there is measure, then there are rules; with rules then comes the room for flexibility and innovation. Flexibility and innovation derive from intelligence and dexterity, yet are still grounded in the basic measures.",
+            {
+              "type": "note",
+              "id": "ch04-n026",
+              "label": "26"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p022"
+      ]
+    },
+    {
+      "id": "ch04-p023",
+      "page": "112",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在此处及其他地方，张璐都强调：医学的一切创新都源自本草的古典核心——常规使用少数药物（约三百至四百种），其真义早在千年之前最早的文本记录中便已阐明。因此，理解药性只能通过仔细解析、研习经典来实现，而不是靠对万物一体的整全直觉。知识的所在，不再求诸有志学子的自我之内，而是外化于古代圣贤的文字之中。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Here and elsewhere, Zhang Lu stressed that all innovations in medicine derived from a classical core of bencao: the regular use of a small number of materia medica (~300–400), whose truths had already been spelled out in the earliest textual records dating back a millennium. The understanding of the nature of drugs could thus only be achieved through the careful parsing and study of the classics, instead of a comprehensive intuition of the unity of all things. The locus of knowledge was no longer found within the self of the aspiring student, but externalized in the words of the ancient sages."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p023"
+      ]
+    },
+    {
+      "id": "ch04-p024",
+      "page": "112",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "毕竟，张璐所写的，正是他的读者准备好听取的内容。他为根植于古典的医学所作的论证，与儒学中转向古典文本考据的类似潮流并行。一位训练并不特别偏重学术、却经验丰富（且已确立地位）的医者竟能确认这种新古典主义立场，恰恰印证了1690年代正统观念的压倒性力量。张璐由此把本草的真理纳入医学综合课程，并认为它只属于医学。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "After all, Zhang Lu wrote what his audience was ready to hear. His argument for a classically rooted medicine ran parallel to a similar turn to classical textual criticism in Confucian learning. The fact that an experienced (and established) physician who was not particularly scholastic in training could affirm this neoclassicist position belies the overwhelming power of orthodoxy in the 1690s. In so doing, Zhang Lu claimed the truth of bencao for a comprehensive curriculum of medicine, and medicine alone."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p024"
+      ]
+    },
+    {
+      "id": "ch04-p025",
+      "page": "112, 113",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "最成功的药学著作出现在十七世纪末，提倡常规与个人洞见的折衷结合。1694年，徽州府人、并不行医的汪昂刊行了《本草备要》。汪昂的医学著述生涯始于六十多岁，当时他意识到，市场需要不仅分享医方、而且解释医方的书。他逐步把出版坊还读斋经营成一家成功的企业，在下游江南多座城市设有分号。",
+            {
+              "type": "note",
+              "id": "ch04-n027",
+              "label": "27"
+            },
+            " 1690年代，汪昂决心编出一部最权威的本草书。他以文化企业家的敏锐眼光提醒读者：《本草纲目》一类药典式著作卷帙浩繁，难以掌握，“读之辄欲卧而思睡”。",
+            {
+              "type": "note",
+              "id": "ch04-n028",
+              "label": "28"
+            },
+            " 为补救这一局面，汪昂借用了缪希雍《经疏》的段落，尤其是那些最具解释力、能让读者“有可咀嚼之处”的部分。",
+            {
+              "type": "note",
+              "id": "ch04-n029",
+              "label": "29"
+            },
+            " 于是，《本草备要》被设计为李时珍之博洽与缪希雍之洞见的可读结合，一部讨论二百四十种常用药的便携之作。初版大获成功，汪昂仅用五年便推出有所扩充的第二版，收药四百种。",
+            {
+              "type": "note",
+              "id": "ch04-n030",
+              "label": "30"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The most successful work of pharmacy emerged toward the end of the seventeenth century, promoting an eclectic combination of regularity and individual insight. In 1694, ",
+            {
+              "type": "em",
+              "children": [
+                "Complete Essentials of Materia Medica (Bencao beiyao"
+              ]
+            },
+            ") was published as the work of Wang Ang, a native of Huizhou Prefecture who did not practice medicine. Wang Ang’s career as a medical author took off in his sixties, when he realized the demand for books that not only shared medical recipes but also ",
+            {
+              "type": "em",
+              "children": [
+                "explained"
+              ]
+            },
+            " them. Wang gradually built his publishing studio, Huanduzhai, into a successful enterprise that had outlets in multiple cities across the Lower Yangzi region.",
+            {
+              "type": "note",
+              "id": "ch04-n027",
+              "label": "27"
+            },
+            " In the 1690s, Wang set his mind to creating the most definitive book on bencao. With the astute eye of a cultural entrepreneur, Wang reminded the reader that the pharmacopeia-style books like ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao gangmu"
+              ]
+            },
+            " were too long to master: “reading it always makes me want to lie down and fall asleep.”",
+            {
+              "type": "note",
+              "id": "ch04-n028",
+              "label": "28"
+            },
+            " To remedy this situation, Wang borrowed passages from Miao Xiyong’s ",
+            {
+              "type": "em",
+              "children": [
+                "Exegesis"
+              ]
+            },
+            ", especially the best explanatory parts that provided the reader “something meaningful to chew on.”",
+            {
+              "type": "note",
+              "id": "ch04-n029",
+              "label": "29"
+            },
+            " ",
+            {
+              "type": "em",
+              "children": [
+                "Complete Essentials"
+              ]
+            },
+            " was thus designed to be a readable combination of Li Shizhen’s erudition and Miao Xiyong’s discerning insight, a portable volume that discussed a modest number of 240 common drugs. The first edition of ",
+            {
+              "type": "em",
+              "children": [
+                "Complete Essentials"
+              ]
+            },
+            " proved so successful that Wang produced a second edition in a mere five years with some expansion, now covering 400 drugs.",
+            {
+              "type": "note",
+              "id": "ch04-n030",
+              "label": "30"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p025"
+      ]
+    },
+    {
+      "id": "ch04-p026",
+      "page": "113",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "如果药性可以当作对前人记载的巧妙处理来教授，那么炮制过程也经历了新一轮文本化。1704年，供职太医院的儒医张叡编纂了一部处理药材的简要指南，题为《修事指南》。此书本身是前人引文的拼合，从雷公到十六世纪的李时珍、陈嘉谟，仅涉及约二百种药材，且无插图。这部短书给今日史家留下许多谜团：张叡本人就是经验丰富的医学专家，为何在这部标题宏大的短书中不提出任何新见？",
+            {
+              "type": "note",
+              "id": "ch04-n031",
+              "label": "31"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "If the nature of drugs could be taught as a matter of skillful manipulation of previous accounts, then pharmaceutical processes too witnessed a new round of textualization. In 1704, Zhang Rui, a Confucian physician (",
+            {
+              "type": "em",
+              "children": [
+                "ruyi"
+              ]
+            },
+            ") serving in the Imperial Academy of Medicine, compiled a short guide to the handling of materia medica titled ",
+            {
+              "type": "em",
+              "children": [
+                "Xiushi zhinan (Definitive Guide to the Art of Pharmaceutical Processing"
+              ]
+            },
+            "). The text itself was an amalgam of quotes from previous authors, ranging from Master Thunder to Li Shizhen and Chen Jiamo in the sixteenth century, focusing on only about two hundred kinds of materia medica with no illustrations. This short text leaves many puzzles for modern-day historians: Why did Zhang, an experienced medical expert in his own right, not offer any new opinions in this short text with a grand title?",
+            {
+              "type": "note",
+              "id": "ch04-n031",
+              "label": "31"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p026"
+      ]
+    },
+    {
+      "id": "ch04-p027",
+      "page": "113",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "此书意图的一点线索，可从张叡对炮制所用药材处理方法的详尽讨论中窥见："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "One hint of the text’s intentions can be gleaned from Zhang’s elaborate discussion of the range of methods employed in the processing of drugs:"
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p027"
+      ]
+    },
+    {
+      "id": "ch04-p028",
+      "page": "113",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "“有时用〔非药物的〕辅料炮制药物，\n有时用药物炮制药物。\n有时以热性药炮制寒性药，\n有时以润性药炮制燥性药，\n有时以作用缓慢的药炮制作用迅速的药，\n有时以性质温和的药炮制有毒的药，\n有时以泻药炮制补药。”",
+            {
+              "type": "note",
+              "id": "ch04-n032",
+              "label": "32"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "Sometimes one uses (non-medical) ingredients to process drugs;\nSometimes one uses drugs to process drugs.\nSometimes hot-natured drugs process cold-natured ones;\nSometimes moist-natured drugs process dry-natured ones;\nSometimes slow-acting drugs process fast-acting ones;\nSometimes benign-natured drugs process poisonous ones;\nSometimes purgatives process tonics",
+            {
+              "type": "note",
+              "id": "ch04-n032",
+              "label": "32"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p028"
+      ]
+    },
+    {
+      "id": "ch04-p029",
+      "page": "114",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这张清单延续数页。陈嘉谟、缪希雍等前人同样喜欢展示自己精通各种方法，但他们的术语明确聚焦于物质操作（烘、炒、焙、浸、洗、蒸等）与具体辅料（蜜、甘草、脂油、醋、童便）。张叡的叙述则进一步把这些技术抽象为一场诸性相争的语言游戏：修与制的过程，本质上就是让偏性之物彼此相制的技术。张叡叙述中药学教育的道德意味，不难察觉。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The list went on for pages. While earlier authors such as Chen Jiamo and Miao Xiyong also liked to display their mastery over a wide range of methods, their terminology had a clear focus on the material processes (roasting, frying, baking, soaking, washing, steaming, etc.) and the specific ingredients (honey, licorice, lard, vinegar, boy’s urine). Zhang’s account further abstracted these techniques into a language game of warring natures: the process of cultivation (",
+            {
+              "type": "em",
+              "children": [
+                "xiu"
+              ]
+            },
+            ") and production (",
+            {
+              "type": "em",
+              "children": [
+                "zhi"
+              ]
+            },
+            ") was, in essence, the technique of pitting things of idiosyncratic natures against one another. The moral overtones of pharmaceutical teaching in Zhang’s account are hard to miss."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p029"
+      ]
+    },
+    {
+      "id": "ch04-p030",
+      "page": "114",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "1714年，另一位北方医家刊行了雷公文本的续编。其序言同样把修制与教化明确对应起来，并援引朱熹理学课程“四书”之一《中庸》的首句："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In 1714, another northern physician published a sequel to the ",
+            {
+              "type": "em",
+              "children": [
+                "Master Thunder"
+              ]
+            },
+            " texts. The preface also aligned pharmaceutical processing (",
+            {
+              "type": "em",
+              "children": [
+                "xiuzhi"
+              ]
+            },
+            ") unequivocally with moral instruction (",
+            {
+              "type": "em",
+              "children": [
+                "jiao"
+              ]
+            },
+            ") as articulated in the first sentence of ",
+            {
+              "type": "em",
+              "children": [
+                "Zhongyong (Doctrine of the Mean"
+              ]
+            },
+            "), another one of the four books in Zhu Xi’s neo-Confucian curriculum:"
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p030"
+      ]
+    },
+    {
+      "id": "ch04-p031",
+      "page": "114",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "子思说：“天命之谓性，率性之谓道，修道之谓教。”我认为，所有药书都以此为根本。为什么？药物的各种性质——阴与阳、柔与刚——都是上天赋予的。如果运用它们的王者之性，就能救人；如果放任其偏性，也能杀人。因此，要裁量并管束药物，就需要修道的圣人。……本草书说的是天赋的性，雷公的教导则侧重于教，也就是教化。",
+            {
+              "type": "note",
+              "id": "ch04-n033",
+              "label": "33"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "Master Zisi said: “What Heaven has conferred is called the Nature (",
+            {
+              "type": "em",
+              "children": [
+                "xing"
+              ]
+            },
+            "); an accordance with this nature is called the Path (",
+            {
+              "type": "em",
+              "children": [
+                "dao"
+              ]
+            },
+            ") of duty; the regulation of this path is called Instruction (",
+            {
+              "type": "em",
+              "children": [
+                "jiao"
+              ]
+            },
+            ").” I say that all pharmacy books are rooted in this principle. How so? The various natures of drugs—Yin and Yang, soft and hard—are conferred by Heaven. If we use their kingly natures, then they can save people; if we unleash their idiosyncratic natures, then they can also kill people. So to adjudicate and supervise them, we need sages who cultivate the Path. . . . The ",
+            {
+              "type": "em",
+              "children": [
+                "bencao"
+              ]
+            },
+            " books speak to heavenly-conferred nature, whereas the teaching of ",
+            {
+              "type": "em",
+              "children": [
+                "Master Thunder"
+              ]
+            },
+            " focuses on instruction, that is to say education.",
+            {
+              "type": "note",
+              "id": "ch04-n033",
+              "label": "33"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p031"
+      ]
+    },
+    {
+      "id": "ch04-p032",
+      "page": "114, 115",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在此，我们看到关于药物物性“偏性”（pianxing）的讨论发生了根本转变：晚明作者——包括缪希雍与卢之颐——赞美由药性迸发的效力与药理作用的多样性。而在这里，十八世纪初的炮制编纂者援引《中庸》，强调需要由“修道”的更高存在施行矫正性的炮制。于是，药学专长成为驯服药物桀骜本性的隐喻——在它有机会肆虐之前加以约束，正如优秀的儒者与教师应当关心对人性的教育与规训。我们在此看到安德鲁·舍恩鲍姆（Andrew Schonebaum）所称清代白话文学“药学戏剧”的开端。",
+            {
+              "type": "note",
+              "id": "ch04-n034",
+              "label": "34"
+            },
+            " 在这些小说与流行戏曲中，偏性之药化作人性本已固定的人物；善注定战胜恶，道德完善的等级秩序对所有人一目了然。换言之，药性被转化为一座道德剧场。",
+            {
+              "type": "note",
+              "id": "ch04-n035",
+              "label": "35"
+            },
+            " 而在几乎每一部清代药学戏剧中，都端坐着一位永远正确的药王（通常是人参）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Here we see a fundamental shift in the discussion over the “idiosyncratic nature” (",
+            {
+              "type": "em",
+              "children": [
+                "pianxing"
+              ]
+            },
+            ") of pharmaceutical objecthood: the late Ming authors, including Miao Xiyong and Lu Zhiyi, celebrated the potency and diversity of pharmacological action springing from their natures. Here, evoking ",
+            {
+              "type": "em",
+              "children": [
+                "Zhongyong"
+              ]
+            },
+            ", the early eighteenth-century compilers of pharmaceutical techniques emphasized the need for corrective processing, issued by higher beings who “cultivate the Path.” Pharmaceutical expertise therefore became a metaphor for taming the unruly nature of drugs ",
+            {
+              "type": "em",
+              "children": [
+                "before"
+              ]
+            },
+            " they had a chance to wreak havoc, just like a good Confucian scholar and teacher should concern themselves with the education and disciplining of human nature. Here we see the beginnings of what Andrew Schonebaum has called the “pharmaceutical dramas” of Qing vernacular literature.",
+            {
+              "type": "note",
+              "id": "ch04-n034",
+              "label": "34"
+            },
+            " In these novels and popular plays, idiosyncratic drugs became human characters whose natures were fixed from the beginning; good was meant to prevail over evil, and the hierarchy of moral perfection was transpar- ent for all to see. The nature of drugs, in other words, was transformed into a theater of morals.",
+            {
+              "type": "note",
+              "id": "ch04-n035",
+              "label": "35"
+            },
+            " And in almost every Qing pharmaceutical drama, there presided an emperor of drugs (frequently ginseng) who was always right."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p032"
+      ]
+    },
+    {
+      "id": "ch04-s03",
+      "page": "115",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "康熙朝对药物物性的驯化"
+          ],
+          "level": 3
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "Taming Pharmaceutical Objecthood in the Kangxi Reign"
+          ],
+          "level": 3
+        }
+      ],
+      "canonical_kind": "section_heading",
+      "source_ids": [
+        "ch04-s03"
+      ]
+    },
+    {
+      "id": "ch04-p033",
+      "page": "115",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "1699年，康熙皇帝第三次巡幸东南。清朝的统治从未如此稳固：自康熙十四岁亲政以来的三十年间，他执掌帝国如此成功，似乎无人能够构成可信的挑战。他击败了朝中权势熏天的辅政大臣与外省叛乱的明将；通过条约谈判遏止了俄国对满洲的觊觎，并消灭了占据台湾直到1683年的郑氏强大水师。这位满洲皇帝通过展示自己对一切知识的精通——从儒学经典到宫中耶稣会士所授的天文、数学——证明自己不愧受天命。在苏州停留期间，他接见了张璐的子孙，后者向皇帝进呈其父的医学著作。",
+            {
+              "type": "note",
+              "id": "ch04-n036",
+              "label": "36"
+            },
+            " 康熙将在医学领域有何作为？"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In 1699, the Kangxi emperor embarked on an imperial tour of the southeast for a third time. The rule of the Qing dynasty had never been more secure: in the three decades since Kangxi assumed personal rule at the young age of fourteen, he had held the reins of the empire so successfully that no one seemed capable of posing a credible challenge. He defeated powerful regents at court and rebellious Ming generals in the provinces; he deterred Russian forays into Manchuria through the negotiation of a treaty and vanquished the formidable navy of the Zheng family who occupied Taiwan until 1683. The Manchu emperor proved himself worthy of the Mandate of Heaven through the demonstration of his mastery of all knowledge, from Confucian classics to astronomy and mathematics taught by the Jesuits at court. During his stop at Suzhou, he granted an audience with Zhang Lu’s descendants, who presented their father’s medical works to the emperor.",
+            {
+              "type": "note",
+              "id": "ch04-n036",
+              "label": "36"
+            },
+            " What would Kangxi do in the realm of medicine?"
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p033"
+      ]
+    },
+    {
+      "id": "ch04-p034",
+      "page": "115",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "1700年代初将成为根本塑造整个十八世纪清朝文化政策的分水岭。在稳固控制前明领土及更远土地之后，满洲精英把注意力转向锻造坚实的思想基础，以一劳永逸地证明其统治中国的合法性。士人阶层中的不驯分子，通过往往导致长期流放或死刑的引人注目的文字狱案件，受到严厉警告。与此同时，最高权力层的人才延揽竞争加剧，从朝廷开始，涵盖亲王、贵族与高官的私人幕府。尤其吸引精英士人的，是参与纂修前明官方历史的机会。明史馆于1679年开馆，起草、编辑与刊印的复杂工作历时六十年，涉及数百名有或无正式官衔的学者。与明代明显决裂，康熙及其继任者力图恢复帝国国家对精英文化的牢固掌控。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The early 1700s would prove to be a watershed moment that fundamentally shaped Qing cultural policy during the entire eighteenth century. Having secured their control over not only former Ming territories but also lands beyond, the Manchu elite turned their attention to forging a firm ideological foundation that would justify, once and for all, the legitimacy of their rule over China. Unruly elements among the literati class received stern warnings through high-profile cases of literary inquisition that often resulted in long exiles or the death penalty. At the same time, competition intensified over the recruitment of talent in the highest echelons of power, starting from the imperial court and encompassing the personal entourage of princes, aristocrats, and high officials. Particularly appealing to elite literati was the opportunity to participate in the compilation of the official history of the fallen Ming dynasty. The ",
+            {
+              "type": "em",
+              "children": [
+                "Ming History"
+              ]
+            },
+            " office opened in 1679, and the complex work of drafting, editing, and printing took sixty years, involving hundreds of scholars with or without formal official titles. In a clear break from Ming times, Kangxi and his successors sought to restore the imperial state’s firm command of elite culture."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p034"
+      ]
+    },
+    {
+      "id": "ch04-p035",
+      "page": "115, 116",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "钦定《明史》全面回顾了前朝在各方面成就与缺失。官方史家遵循旧例，通过精心选定的一组人物传记传达评判。传记的编排反映了所收人物被认为的重要性与道德地位。医学题材归入“方技”类，在全书中出现得很晚，仅列于列女、宦官、奸臣、流贼、西南土司与外国之前。史家在简短的总论中，贬低“艺人术士”（yiren shushi）的重要性，认为他们不能追求“道德之途”。在他们看来，最杰出的从业者，是那些能从本行业的经典书籍中“博极群书”并“通晓其理”的人。基于这一理由，李时珍以其收载超过前代药典的《本草纲目》在正史中赢得一席之地，也就不足为奇。缪希雍也因对药学的“深思剖析”而获得简短致意。然而总体而言，这些传记篇幅短小，且含有明显错误。官方传记把缪希雍的《经疏》与他的另一部著作混为一谈，显然懒得查明确切书名。他们还声称万历皇帝曾下令将李时珍的本草“传布天下”，而这是李时珍本人所期望、却从未发生的事。",
+            {
+              "type": "note",
+              "id": "ch04-n037",
+              "label": "37"
+            },
+            " 这一错误假设，反倒折射出清朝统治下的新现实：皇帝成为精英文化积极得多的赞助者，包括赞助那些阐明宇宙基本模式的学术工程。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The imperially sanctioned version of ",
+            {
+              "type": "em",
+              "children": [
+                "Ming History"
+              ]
+            },
+            " offers a comprehensive review of the accomplishments and shortcomings of the previous dynasty on all fronts. Following previous conventions, the official historians conveyed their verdict through a carefully selected set of individual biographies. The arrangement of these biographies reflected the perceived importance and moral stature of the lives included. The subject matter of medicine fell under the category of formulaic arts (",
+            {
+              "type": "em",
+              "children": [
+                "fangji"
+              ]
+            },
+            "), which appeared very late in the whole work, just ahead of illustrious women, eunuchs, evil officials, bandits, native rulers in the southwest, and foreign countries. In a short summary, the historians dismissed the importance of mere “artisans and technicians” (",
+            {
+              "type": "em",
+              "children": [
+                "yiren shushi"
+              ]
+            },
+            ") as being incapable of pursuing the “Path of Virtue” (",
+            {
+              "type": "em",
+              "children": [
+                "daode zhi tu"
+              ]
+            },
+            "). In their mind, the most extraordinary practitioners were those who could “achieve utmost erudition” from classical books of their trade and “comprehend the principles.” Given this rationale, it is no wonder that Li Shizhen earned a place in dynastic history with his ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao gangmu"
+              ]
+            },
+            " that surpassed previous pharmacopeias in its coverage. Miao Xiyong also received a brief nod for his “deep thinking and analysis” of pharmacy. Overall, however, the biographies were brief and contained obvious errors. The official biography conflated Miao Xiyong’s ",
+            {
+              "type": "em",
+              "children": [
+                "Exegesis"
+              ]
+            },
+            " with another work of his, apparently not bothering to find out the exact title. They also claimed that the Wanli emperor had ordered Li Shizhen’s bencao to be transmitted “all around the realm,” an act that Li himself had hoped for but never took place.",
+            {
+              "type": "note",
+              "id": "ch04-n037",
+              "label": "37"
+            },
+            " The erroneous assumption rather reflected the new reality under Qing rule, when emperors became much more proactive patrons of elite culture, including scholarly projects that illuminated the fundamental patterns of the universe."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p035"
+      ]
+    },
+    {
+      "id": "ch04-p036",
+      "page": "116",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管康熙热心拥抱科学，却并未敕修新的本草药典——虽然在1702年曾相当接近。他在位期间某时，宫中藏书里发现了那部未刊明代药典《本草品汇精要》一百五十年前的手稿。检视这部插图精美的著作后，康熙命亲信满洲包衣赫世亨把它送到太医院，在那里摹绘一部副本。此外，康熙还明确规定，应把刘文泰药典与李时珍《本草纲目》之间的知识空白编为补遗。两名御医立即着手，数月之内，这部命运多舛的明代药典便由武英殿新设的印书处刊印，同样由赫世亨监督。",
+            {
+              "type": "note",
+              "id": "ch04-n038",
+              "label": "38"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For all his eagerness to embrace science, the Kangxi emperor did not commission a new bencao pharmacopeia, though he came rather close to doing so in 1702. At some point during his reign, the 150-year-old manuscript of the unpublished Ming pharmacopeia, ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao pinhui jingyao"
+              ]
+            },
+            ", was discovered in the palace collections. Upon examining the richly illustrated work, Kangxi ordered Hesihen, a trusted Manchu bondservant, to take it to the Imperial Academy of Medicine and have a duplicate copy made there. Further, Kangxi also specified that the gaps of knowledge between Liu Wentai’s pharmacopeia and Li Shizhen’s ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao gangmu"
+              ]
+            },
+            " should be compiled in an addendum. Two palace physicians started the work immediately, and within a few months a print edition of the ill-fated Ming pharmacopeia was published by the newly established printing house at the Wuying palace, supervised also by Hesihen.",
+            {
+              "type": "note",
+              "id": "ch04-n038",
+              "label": "38"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p036"
+      ]
+    },
+    {
+      "id": "ch04-p037",
+      "page": "116, 117",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "若把这部新版本的存在本身视为清廷药典编纂的复兴，那就错了。参与编辑过程的只有两名御医——甚至不是太医院中品级最高者。既没有文官的协作，也没有在各省进行系统调查。",
+            {
+              "type": "note",
+              "id": "ch04-n039",
+              "label": "39"
+            },
+            " 书页上没有新的御制序文增光，康熙也没有随后正式颁行。换言之，清朝统治下不会再有新的本草药典。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It would be a mistake to see the mere existence of this new edition as the rebirth of pharmacopeia-making at the Qing court. Only two palace physicians—not even the highest-ranking members of the Imperial Academy—participated in the editorial process. There was neither any collaboration with civil officials nor a systematic survey conducted in the provinces.",
+            {
+              "type": "note",
+              "id": "ch04-n039",
+              "label": "39"
+            },
+            " No new imperial endorsement graced its pages, nor did Kangxi follow up with a formal promulgation. In other words, there was to be no new bencao pharmacopeia under the aegis of Qing rule."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p037"
+      ]
+    },
+    {
+      "id": "ch04-p038",
+      "page": "117",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "康熙对本草的无所作为，不能以资源有限或缺乏复兴文化传统的政治意愿来解释。把切断中国传统文化中一项悠久先例归咎于这位满洲皇帝，同样不能令人满意。我们不如把康熙不再编纂药典的决定，看作不过是顺应时代共识：医学应与儒学相分离。结果，药物物性被缩小为少数药材之事，而不再是借以探究性（xing）与理（li）等更大问题的普遍透镜。康熙皇帝与云集朝廷的精英学者一道，选择遵循方以智在《通雅》中指出的另一条道路：通过历史与考据的探究来研究万物，而非本草。换言之，自然史与药学之间的分离——以及本草药典的衰亡——在世纪中叶鼎革之前便已充分展开。清廷并未发起不同探究领域的分化，但其行动巩固了彼此的边界。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The inaction of Kangxi toward bencao could not be explained away by resource constraints or lack of political will to resurrect a cultural tradition. Neither is it satisfactory to blame the Manchu emperor for cutting off a venerable precedent in the Chinese tradition. Rather, we might see Kangxi’s decision ",
+            {
+              "type": "em",
+              "children": [
+                "not"
+              ]
+            },
+            " to pursue another pharmacopeia as nothing more extraordinary than following the consensus of his time: that medicine should be kept separate from Confucian learning. As a result, pharmaceutical objecthood was narrowed down to a small number of materia medica instead of a universal lens through which to explore the larger issues of nature (",
+            {
+              "type": "em",
+              "children": [
+                "xing"
+              ]
+            },
+            ") and coherence (",
+            {
+              "type": "em",
+              "children": [
+                "li"
+              ]
+            },
+            "). In lieu of bencao, the Kangxi emperor, together with the elite scholars that flocked to the court, chose to follow the other path laid out by Fang Yizhi in ",
+            {
+              "type": "em",
+              "children": [
+                "Comprehensive Refinement"
+              ]
+            },
+            ": to study the myriad things through historical and philological inquiries. In other words, the separation between natural history and pharmacy—and hence the demise of bencao pharmacopeias—was well under way before the midcentury dynastic transition. The Qing court did not initiate the division of different fields of inquiry, but its actions consolidated their boundaries."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p038"
+      ]
+    },
+    {
+      "id": "ch04-p039",
+      "page": "117",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "儒学自然史与正统医学的分离，清楚体现在清廷赞助、于1720至1730年代完成的两个文化工程中。第一个是类书，顾名思义，囊括“古今图书”的《古今图书集成》。陈梦雷（1650—1741）在康熙第三子（一位亲王）的赞助下开始编纂这部雄心勃勃的类书，后来皇帝又准许他使用皇家藏书，包括数百种晚近的地方志。康熙去世后，陈梦雷与新即位的雍正皇帝关系疏远，遭到流放。雍正另任命一批官员编辑、刊行这部类书。初次印行（1726—1728）共得六十四部，每部总计逾七十五万页，使用武英殿制造的铜活字。",
+            {
+              "type": "note",
+              "id": "ch04-n040",
+              "label": "40"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The separation between Confucian natural history and orthodox medicine is clearly seen in two cultural projects sponsored by the Qing court and completed in the 1720s and 1730s. The first one is an encyclopedia (",
+            {
+              "type": "em",
+              "children": [
+                "leishu"
+              ]
+            },
+            ") that encompassed, as its title suggests, “pictures and books of ancient and modern times” (",
+            {
+              "type": "em",
+              "children": [
+                "Gujin tushu jicheng"
+              ]
+            },
+            "). Chen Menglei (1650–1741) started compiling this ambitious encyclopedia under the patronage of a prince (the third son of Kangxi), before the emperor granted Chen access to the imperial book collection, including several hundred titles of recent local gazetteers. Following Kangxi’s death, Chen became estranged from the newly enthroned Yongzheng emperor and went into exile. Yongzheng then appointed a different group of officials to edit and publish the encyclopedia. The initial print run (1726–28) yielded sixty-four copies, each totaling more than 750,000 pages, using copper-cast moveable type manufactured at the Wuying palace.",
+            {
+              "type": "note",
+              "id": "ch04-n040",
+              "label": "40"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p039"
+      ]
+    },
+    {
+      "id": "ch04-p040",
+      "page": "117",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "《古今图书集成》的知识分类（见表4.1）代表了精英儒者与清廷之间的共识，此共识在此后很长时期内影响清代中国的学术。",
+            {
+              "type": "note",
+              "id": "ch04-n041",
+              "label": "41"
+            },
+            " 不必细究这部类书对前代著作的依赖——我们仍需承认，其分类体系与我在第三章讨论过的朱熹式性之等级相呼应。天、地之后是人事，以及通向“理学”及其经世（jingji）应用的“博物”。重要的是，动物（虫兽）与植物（草木）部分进一步分为数百个子目（bu），其中“药”这一类只适用于一小部分植物（而不适用于动物）。同样缺席的是万性一体的前提：《古今图书集成》不是把宇宙视为一座巨大的药房，而是把自然划分为不同的存在领域，这些领域又要求各自专门的认识方式。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The classification of knowledge in ",
+            {
+              "type": "em",
+              "children": [
+                "Gujin tushu jicheng"
+              ]
+            },
+            " (see table 4.1) represents a consensus between elite Confucian scholars and the Qing court that would go on to influence scholarship in Qing China for a long time.",
+            {
+              "type": "note",
+              "id": "ch04-n041",
+              "label": "41"
+            },
+            " Without dwelling on the details of this encyclopedia’s indebtedness to previous works, we need to recognize that its classification scheme resonated with Zhu Xi’s hierarchical nature that I discussed in chapter 3. Following heaven and Earth came the affairs of humanity and the “Erudition of Things” (",
+            {
+              "type": "em",
+              "children": [
+                "bowu"
+              ]
+            },
+            ") that led the way to the “Investigation of Patterns” (",
+            {
+              "type": "em",
+              "children": [
+                "lixue"
+              ]
+            },
+            ") and its practical applications for statecraft (",
+            {
+              "type": "em",
+              "children": [
+                "jingji"
+              ]
+            },
+            "). Importantly, the sections on animals (",
+            {
+              "type": "em",
+              "children": [
+                "chongshou"
+              ]
+            },
+            ", “insects and beasts”) and plants (",
+            {
+              "type": "em",
+              "children": [
+                "caomu"
+              ]
+            },
+            ", “grass and trees”) were further divided into hundreds of subheads (",
+            {
+              "type": "em",
+              "children": [
+                "bu"
+              ]
+            },
+            "), of which the category pharmaceuticals (",
+            {
+              "type": "em",
+              "children": [
+                "yao"
+              ]
+            },
+            ") only applied to a small portion of plants (but not animals). Also absent was the premise of unity among all natures: instead of seeing the cosmos as a giant pharmacy, ",
+            {
+              "type": "em",
+              "children": [
+                "Gujin tushu jicheng"
+              ]
+            },
+            " divided nature into various realms of existence that in turn called for specialized ways of knowing them."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p040",
+        "ch04-p041"
+      ]
+    },
+    {
+      "id": "tab-4-1",
+      "page": "118, 119",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "表4.1　《古今图书集成》的知识分类"
+          ],
+          "level": 3
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              [
+                "汇编"
+              ],
+              [
+                "典"
+              ],
+              [
+                "部"
+              ],
+              [
+                "卷"
+              ],
+              [
+                "引用《本草纲目》次数"
+              ]
+            ],
+            [
+              [
+                "历象汇编（天文）"
+              ],
+              [
+                "乾象典"
+              ],
+              [
+                "21"
+              ],
+              [
+                "100"
+              ],
+              [
+                "8"
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "岁功典"
+              ],
+              [
+                "43"
+              ],
+              [
+                "116"
+              ],
+              [
+                "43"
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "历法典"
+              ],
+              [
+                "6"
+              ],
+              [
+                "140"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "庶征典"
+              ],
+              [
+                "50"
+              ],
+              [
+                "188"
+              ],
+              [
+                "3"
+              ]
+            ],
+            [
+              [
+                "方舆汇编（地理）"
+              ],
+              [
+                "坤舆典"
+              ],
+              [
+                "21"
+              ],
+              [
+                "140"
+              ],
+              [
+                "15"
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "职方典"
+              ],
+              [
+                "223"
+              ],
+              [
+                "1,544"
+              ],
+              [
+                "3"
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "山川典"
+              ],
+              [
+                "401"
+              ],
+              [
+                "320"
+              ],
+              [
+                "1"
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "边裔典"
+              ],
+              [
+                "542"
+              ],
+              [
+                "140"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                "明伦汇编（人伦）"
+              ],
+              [
+                "皇极典"
+              ],
+              [
+                "31"
+              ],
+              [
+                "300"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "宫闱典"
+              ],
+              [
+                "15"
+              ],
+              [
+                "140"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "官常典"
+              ],
+              [
+                "65"
+              ],
+              [
+                "800"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "家范典"
+              ],
+              [
+                "31"
+              ],
+              [
+                "116"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "交谊典"
+              ],
+              [
+                "37"
+              ],
+              [
+                "120"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "氏族典"
+              ],
+              [
+                "2,694"
+              ],
+              [
+                "640"
+              ],
+              [
+                "1"
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "人事典"
+              ],
+              [
+                "97"
+              ],
+              [
+                "112"
+              ],
+              [
+                "12"
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "闺媛典"
+              ],
+              [
+                "17"
+              ],
+              [
+                "376"
+              ],
+              [
+                "1"
+              ]
+            ],
+            [
+              [
+                "博物汇编（技艺）"
+              ],
+              [
+                "艺术典"
+              ],
+              [
+                "43"
+              ],
+              [
+                "824"
+              ],
+              [
+                "30"
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "神异典"
+              ],
+              [
+                "70"
+              ],
+              [
+                "320"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "禽虫典"
+              ],
+              [
+                "317"
+              ],
+              [
+                "192"
+              ],
+              [
+                "113"
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "草木典"
+              ],
+              [
+                "700"
+              ],
+              [
+                "320"
+              ],
+              [
+                "210"
+              ]
+            ],
+            [
+              [
+                "理学汇编"
+              ],
+              [
+                "经籍典"
+              ],
+              [
+                "66"
+              ],
+              [
+                "500"
+              ],
+              [
+                "1"
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "学行典"
+              ],
+              [
+                "96"
+              ],
+              [
+                "300"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "文学典"
+              ],
+              [
+                "49"
+              ],
+              [
+                "260"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "字学典"
+              ],
+              [
+                "24"
+              ],
+              [
+                "160"
+              ],
+              [
+                "2"
+              ]
+            ],
+            [
+              [
+                "经济汇编（经世）"
+              ],
+              [
+                "选举典"
+              ],
+              [
+                "29"
+              ],
+              [
+                "136"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "铨衡典"
+              ],
+              [
+                "12"
+              ],
+              [
+                "120"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "食货典"
+              ],
+              [
+                "83"
+              ],
+              [
+                "360"
+              ],
+              [
+                "37"
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "礼仪典"
+              ],
+              [
+                "70"
+              ],
+              [
+                "348"
+              ],
+              [
+                "7"
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "乐律典"
+              ],
+              [
+                "46"
+              ],
+              [
+                "136"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "戎政典"
+              ],
+              [
+                "30"
+              ],
+              [
+                "300"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "祥刑典"
+              ],
+              [
+                "26"
+              ],
+              [
+                "180"
+              ],
+              [
+                ""
+              ]
+            ],
+            [
+              [
+                ""
+              ],
+              [
+                "考工典"
+              ],
+              [
+                "154"
+              ],
+              [
+                "252"
+              ],
+              [
+                "27"
+              ]
+            ],
+            [
+              [
+                "总计"
+              ],
+              [
+                ""
+              ],
+              [
+                "6,100"
+              ],
+              [
+                "10,000"
+              ],
+              [
+                "514"
+              ]
+            ]
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "caption",
+          "children": [
+            "资料来源：据 Giles, An Alphabetical Index 附录二改编；汇编、典名按《古今图书集成》原书中文复原，英译从略。"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "编者说明：本表按底本逐行保留数字；“部”列各行合计为6,109，与底本所印总计6,100不一致。“卷”列和引用次数各行合计分别为10,000和514，与底本总计一致。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "Table 4.1. Classification of Knowledge in Gujin tushu jicheng"
+          ],
+          "level": 3
+        },
+        {
+          "type": "image",
+          "src": "/writing/know-your-remedies/assets/tables/tab-4-1-pdf-135.png",
+          "alt": "Original table page, PDF 135"
+        },
+        {
+          "type": "image",
+          "src": "/writing/know-your-remedies/assets/tables/tab-4-1-pdf-136.png",
+          "alt": "Original table page, PDF 136"
+        },
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "Editor's note (Chinese): 本表按底本逐行保留数字；“部”列各行合计为6,109，与底本所印总计6,100不一致。“卷”列和引用次数各行合计分别为10,000和514，与底本总计一致。"
+          ]
+        }
+      ],
+      "canonical_kind": "table",
+      "source_ids": [
+        "tab-4-1"
+      ]
+    },
+    {
+      "id": "ch04-p042",
+      "page": "120",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "相形之下，清代唯一由国家认可的医学百科，对医学领域呈现了一种有边界的构想。这部九十卷的《医宗金鉴》由年轻的乾隆皇帝于1739年敕修。当时太医院首席御医之一吴谦组织了一个数十名御医组成的大团队，并由朝廷学者与书手提供编辑支持。史家韩嵩（Marta Hanson）对《医宗金鉴》的研究表明，这部皇家百科成为既有地域医学实践潮流获得正当化的场所。更重要的是，此书旨在“尽可能扩大读者群”，充满“歌诀、图表与插图”。",
+            {
+              "type": "note",
+              "id": "ch04-n042",
+              "label": "42"
+            },
+            " 全书明显缺席的，是对本草学术传统的任何讨论。吴谦及其同僚培育了一种医学正统（yizong）的愿景，与喻昌、李中梓早先反对药学业余化的主张相呼应。为增强医者在职业实践中的能力，他们应被教授一套标准化课程，并据此处方用药。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "By contrast, the only state-sanctioned medical encyclopedia in Qing times presented a circumscribed vision for the field of medicine. Titled ",
+            {
+              "type": "em",
+              "children": [
+                "Golden Mirror of the Medical Orthodoxy (Yizong jinjian"
+              ]
+            },
+            "), the ninety-volume compendium was commissioned by the young Qianlong emperor in 1739. Wu Qian, one of the chief palace physicians at the time, assembled a large team consisting of several dozen imperial physicians, with editorial support provided by court scholars and scribes. Historian Marta Hanson’s study of the ",
+            {
+              "type": "em",
+              "children": [
+                "Golden Mirror"
+              ]
+            },
+            " suggests that the imperial encyclopedia became a venue of legitimization for preexisting regional trends of medical practice. More importantly, the text was designed to “reach as broad an audience as possible” and was replete with “mnemonics, diagrams, and illustrations.”",
+            {
+              "type": "note",
+              "id": "ch04-n042",
+              "label": "42"
+            },
+            " Throughout the book, any discussion of the scholarly tradition of bencao was conspicuously absent. Wu Qian and his colleagues fostered a vision of a medical orthodoxy (",
+            {
+              "type": "em",
+              "children": [
+                "yizong"
+              ]
+            },
+            ") that resonated with the earlier claims of Yu Chang and Li Zhongzi against the amateurization of pharmacy. To empower physicians in their professional practices, they should be taught a standardized curriculum and prescribe medications accordingly."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p042"
+      ]
+    },
+    {
+      "id": "ch04-p043",
+      "page": "120, 121",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "总之，十八世纪最初数十年见证了儒学与医学之间学科边界的固化。结果，两个领域各自的主导物性观念也发生分化：统一的药物物性，一方面被考据学支撑的自然史取代，另一方面被标准化的药学指南取代。儒学与医学这两个不断收缩的宇宙，仍因一个共同观念而彼此相似：少数古代经典构成真理的源头。各领域的专家追求各自的那类真理，且不被鼓励跨越学科边界相互质证。归根结底，他们学问的最终仲裁者，仍是那位本性最接近在世圣人的君主——皇帝；而其圣明无需其他证明，只需他统治天下的权力。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In sum, the first decades of the eighteenth century saw the hardening of disciplinary boundaries between Confucian scholarship and medical learning. As a result, the dominant notions of objecthood for each field also diverged, with a unified pharmaceutical objecthood replaced by philologically informed natural history on the one hand and standardized pharmacy instructions on the other. The contracting universes of Confucian scholarship and medical learning still resembled each other in the shared notion that a small number of ancient classics constituted the fountainhead of truth. Specialists in each field pursued their own sort of truths and were not encouraged to cross-examine their knowledge across disciplinary boundaries. Ultimately, the final arbiter of their learning remained the one whose nature reached closest to that of a living sage—the emperor, whose sagacity required no further proof other than his power to govern all under heaven."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p043"
+      ]
+    },
+    {
+      "id": "ch04-s04",
+      "page": "121",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "在御纂全书中寻找本草"
+          ],
+          "level": 3
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "In Search of Bencao in the Emperor’s Complete Library"
+          ],
+          "level": 3
+        }
+      ],
+      "canonical_kind": "section_heading",
+      "source_ids": [
+        "ch04-s04"
+      ]
+    },
+    {
+      "id": "ch04-p044",
+      "page": "121",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管差异重重，《古今图书集成》与《医宗金鉴》所达到的庞大学术规模，显示出所谓“盛世”的时代精神。在第一章中，我讨论过宋代药典如何直到十六世纪末才广泛以印本流传。“便携宝藏”带来的真切兴奋，在两个世纪后已让位于出版世界中日益增大的争夺注意力之压力。十六世纪的巨帙——宋代药典与李时珍的新本草——已变得司空见惯，甚至平淡无奇。十八世纪最负盛名的医学作者，一致主张缩小药学主题的探究范围：百科式本草对他们的需要而言过于笨重。总体而言，本草失去了作为儒学与医学专长之间联络领域的潜能。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Their differences notwithstanding, the sheer scale of erudition achieved by the ",
+            {
+              "type": "em",
+              "children": [
+                "Gujin tushu jicheng"
+              ]
+            },
+            " and the ",
+            {
+              "type": "em",
+              "children": [
+                "Yizong jinjian"
+              ]
+            },
+            " is indicative of the zeitgeist of the so-called High Qing era. In chapter 1, I discussed how the Song pharmacopeia only became widely available in print toward the end of the sixteenth century. The palpable excitement of “portable treasures” had, two centuries later, yielded to an increasing pressure to compete for attention in the publishing world. The monumental texts of the sixteenth century—the Song pharmacopeia and Li Shizhen’s new bencao—became commonplace to the point of banality. The most celebrated medical authors of the eighteenth century consistently championed a reduced scope of inquiry for the subject of pharmacy: encyclopedic bencao appeared too cumbersome for their needs. Overall, bencao lost its potential as a field of liaison between Confucian learning and medical expertise."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p044"
+      ]
+    },
+    {
+      "id": "ch04-p045",
+      "page": "121",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对数量过剩的焦虑，催生了选择性整理知识的新举措，导致丛书（congshu）在官方与学界——尤其是十八世纪中叶以后——兴起。与把前代文本拆解为可消化信息、按普遍范畴归类的类书（leishu）不同，丛书的特点是以零散引文辑合、复原往昔著作。在知识源头被认为存在于未受污染的远古的时代，这一做法合乎逻辑。1770年代初，乾隆皇帝加入这一潮流，宣布编纂一部御制丛书，呈现各领域学问的最佳选本。诏令规定，珍稀古籍由学者团队从旧类书中辑佚复原，同时也要从私人藏书中系统搜集晚近著作，交钦定编辑团队审查。审查自然以保存为名，导致对“违碍”内容的系统性禁毁。最终，《四库全书》完整保存了约三千五百种书籍，审查了其两倍之多的书目，并禁止二千八百余种书流通。",
+            {
+              "type": "note",
+              "id": "ch04-n043",
+              "label": "43"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Anxieties over abundance brought about new initiatives to selectively curate knowledge, resulting in the rise of collectanea (",
+            {
+              "type": "em",
+              "children": [
+                "congshu"
+              ]
+            },
+            ") within official and scholarly circles especially from the midcentury onward. In contrast to encyclopedias (",
+            {
+              "type": "em",
+              "children": [
+                "leishu"
+              ]
+            },
+            ") that dissected earlier texts into bits of digestible information grouped under universal categories, collectanea featured past titles stitched together from fragmentary quotations. Such a move was logical in an age when the sources of knowledge were considered to reside in uncontaminated antiquity. In the early 1770s, the Qianlong emperor joined the fray to announce the compilation of an imperial collectanea that would present the best selection of learning on all topics. Whereas rare, ancient texts were to be reconstructed by a team of scholars from past encyclopedias, the edict also called for recent works to be systematically culled from private collections and reviewed by an imperially appointed editorial team. The review naturally led to methodical censorship of “inappropriate and jarring” (",
+            {
+              "type": "em",
+              "children": [
+                "wei’ai"
+              ]
+            },
+            ") content in the name of preservation. In the end, the ",
+            {
+              "type": "em",
+              "children": [
+                "Complete Library of Four Sections (Siku quanshu"
+              ]
+            },
+            ") preserved a total of about 3,500 titles in full length, reviewed twice as many, and banned the circulation of over 2,800 titles.",
+            {
+              "type": "note",
+              "id": "ch04-n043",
+              "label": "43"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p045"
+      ]
+    },
+    {
+      "id": "ch04-p046",
+      "page": "121",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "就本书目的而言，《四库》的选目提供了一份关于本草领域以及儒学与医学在十八世纪晚期应有关系的士人意见样本。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For our purposes here, the Siku’s selection offers a sampling of learned opinion about the field of bencao, as well as the proper relationship between"
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p046"
+      ]
+    },
+    {
+      "id": "ch04-p047",
+      "page": "122",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在丛书所谓“四部”中，医学（医家）与其他众多杂学一同构成“子部”，列于儒学经典（经）与史书之后，又在文集（集）之前。子部各类通常被译作“masters”或“philosophers”，它们共同处于儒学正经教义之下的附属地位。",
+            {
+              "type": "note",
+              "id": "ch04-n044",
+              "label": "44"
+            },
+            " 全部只有九十六种医学书籍被选入这部御制丛书，另有九十四种经审查而未收。四库馆臣把本草与其他医学著作归为一类，按时代排列。如此，他们确认了医学正统的主张：药学主题应被归类为医学的一个子领域，而不是对万物之性的一种普遍探究。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Confucian and medical learning in the late eighteenth century. In the so-called “Four Sections” of the collectanea, medicine (",
+            {
+              "type": "em",
+              "children": [
+                "yijia"
+              ]
+            },
+            ") joined a host of miscellaneous subjects constituting the “",
+            {
+              "type": "em",
+              "children": [
+                "zi"
+              ]
+            },
+            " section,” following the Confucian classics (",
+            {
+              "type": "em",
+              "children": [
+                "jing"
+              ]
+            },
+            ") and histories and proceeding anthologies of belles lettres (",
+            {
+              "type": "em",
+              "children": [
+                "ji"
+              ]
+            },
+            "). Customarily translated as “masters” of “philosophers” of all kinds, the amalgam of subjects under the zi category shared a subsidiary status below the scriptural teachings of Confucianism proper.",
+            {
+              "type": "note",
+              "id": "ch04-n044",
+              "label": "44"
+            },
+            " Altogether, only ninety-six medical titles were selected for inclusion in the imperial collectanea, with another ninety-four titles reviewed but not included. The Siku editors lumped bencao together with other medical works and arranged them chronologically. In so doing, they affirmed the medical orthodoxy’s claim that the subject of pharmacy should be classified as a subfield of medicine, instead of a form of general inquiry into the nature of all things."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p047"
+      ]
+    },
+    {
+      "id": "ch04-p048",
+      "page": "122",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在数百部曾编纂并印行流传的本草文本中，四库馆臣只挑选少数几部全文保存。他们从唐慎微的宋代药典开始，又收入金元宇宙论药理学的一部代表作，以及李时珍的《本草纲目》。为向十七世纪士人业余者致意，他们还收入缪希雍的《经疏》与卢之颐的《乘雅》，视二人为代表晚明江南思想潮流的两名多彩人物。这五部书合在一起，对本草学术的历史渊源作出了陈述，同时也顾及晚近的变体。",
+            {
+              "type": "note",
+              "id": "ch04-n045",
+              "label": "45"
+            },
+            " 四库馆臣的意见深刻塑造了我们关于中国医学传统“核心”文献由何构成、什么又在核心之外的观念。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Out of the hundreds of bencao texts that had been compiled and circulated in print, the Siku editors picked only a handful to preserve in full. Beginning with Tang Shenwei’s Song pharmacopeia, they also included a representative work of the Jin-Yuan era cosmic pharmacy, together with Li Shizhen’s ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao gangmu"
+              ]
+            },
+            ". In a nod toward the seventeenth-century literati amateurs, they also included Miao Xiyong’s ",
+            {
+              "type": "em",
+              "children": [
+                "Exegesis"
+              ]
+            },
+            " and Lu Zhiyi’s ",
+            {
+              "type": "em",
+              "children": [
+                "Shengya"
+              ]
+            },
+            ", seeing them as two colorful figures representing intellectual trends in late Ming Jiangnan. These five titles together made a statement about the historical origin of bencao learning, with an eye toward its more recent variations.",
+            {
+              "type": "note",
+              "id": "ch04-n045",
+              "label": "45"
+            },
+            " The Siku editors’ opinions have deeply shaped our notion of what constitutes the “core” literature of China’s medical tradition and what falls outside of it."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p048"
+      ]
+    },
+    {
+      "id": "ch04-p049",
+      "page": "122, 123",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "存目各书则呈现更复杂的图景。馆臣对《珍珠囊药性赋》一类流行入门书少有好评，斥之为“不学之医”所作的“最丑”之作。",
+            {
+              "type": "note",
+              "id": "ch04-n046",
+              "label": "46"
+            },
+            " 他们的提要也涉及若干怪僻作者，这些人试图以激进著作颠覆既有智慧。例如1750年代，医家黄元御以大胆主张扬名京城：除一位古代作者的经典方书外，此前一切药学著作都应彻底废弃。黄元御撰写大量论著宣扬此说，令许多人印象深刻，却未能说服所有人。或许由于一位赏识黄元御著作的显要馆臣从中游说，四库馆臣为它们全部撰写提要，同时客气地指出作者“善骂”。",
+            {
+              "type": "note",
+              "id": "ch04-n047",
+              "label": "47"
+            },
+            " 任意收入一位作者而排斥他人，暴露出当时缺乏共识。围绕医学正统的竞争，本身产生了一系列主流学者未曾留意的立场，而他们发现自己无法裁决这些学说争端。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The reviewed titles (",
+            {
+              "type": "em",
+              "children": [
+                "cunmu"
+              ]
+            },
+            ") present a more complicated picture. The editors had few good things to say about popular primers such as ",
+            {
+              "type": "em",
+              "children": [
+                "Pearl Pouch and Rhymes on the Nature of Drugs"
+              ]
+            },
+            ", dubbing them the “most ugly” work done by “unenlightened physicians.”",
+            {
+              "type": "note",
+              "id": "ch04-n046",
+              "label": "46"
+            },
+            " Their reviews also touched on a number of maverick authors who sought to overturn received wisdom via their radical writings. In the 1750s, for example, a physician named Huang Yuanyu made his name known in Beijing with his bold assertion that all previous writings on pharmacy, except for the classical formulary of one ancient author, should be completely discarded. Huang wrote numerous treatises to promote this view, which impressed many if failing to convince all. Probably lobbied by one major editor who patronized Huang’s works, the Siku editors reviewed all of them, while politely pointing out that the author was rather “good at badmouthing others” (",
+            {
+              "type": "em",
+              "children": [
+                "shan ma"
+              ]
+            },
+            ").",
+            {
+              "type": "note",
+              "id": "ch04-n047",
+              "label": "47"
+            },
+            " The arbitrary inclusion of one author at the expense of others belied the lack of consensus at the time. The competition over medical orthodoxy created its own spectrum of positions that escaped the attention of mainstream scholars, who found themselves unable to adjudicate their doctrinal disputes."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p049"
+      ]
+    },
+    {
+      "id": "ch04-p050",
+      "page": "123",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "四库全书一处显眼的遗漏，涉及清初作者张志聪（卒于1674年）在身后复兴的追随者。张志聪最初名不见经传，直到十八世纪中叶，其医学著作——尤其是药学主题——被弟子以多种流行版本传播。张志聪以杭州为基地，入清后数十年间隐居度日，与少数弟子发展出一套非传统的医学学说。张志聪圈子的社会构成，与数十年前卢氏家族的公开讲学颇为不同。其学说的一处怪僻特征在于主张：炮制的主要目的在于增强药性，而非抑制、控制药性。当时通常的做法是把附子长时间浸水以减毒，张志聪却主张用火加热，以更多热性增强附子的热性。对于黄连这样的寒性药，张氏建议把苦根浸水以增强其寒性。他激烈反对用相反性质的辅料炮制药物以“约束”其桀骜之性，认为这无异于让士兵手脚被缚而作战。",
+            {
+              "type": "note",
+              "id": "ch04-n048",
+              "label": "48"
+            },
+            " 与同时代的喻昌、张璐相似，张志聪也提倡回归古典医学教说，其药学专著题为《本草崇原》，恰如其分。张志聪的教说在当时被认为过于艰深，直到1767年其医学著作被收入一部成功的医学丛书刊行，才得以复兴。",
+            {
+              "type": "note",
+              "id": "ch04-n049",
+              "label": "49"
+            },
+            " 后来，其他作者利用张志聪的著作推进更具争议的主张，例如禁止滥用人参作为万灵药。他们赞同张志聪之说：经典记载人参性“寒”，故不适宜治疗寒性病证。张志聪身后声名之大，使他在二十世纪清亡后编纂的正史中获得一席之地。",
+            {
+              "type": "note",
+              "id": "ch04-n050",
+              "label": "50"
+            },
+            " 尽管张志聪的学说对药师的实践几乎没有什么实际影响（见第五章），其论战性著作的流行，却表明人们对通行教科书所教授之医学正统的可靠性产生了新的焦虑。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "One conspicuous omission from the Siku library concerned the revived following of an early Qing author, Zhang Zhicong (d. 1674). Zhang’s name was quite obscure at first, until his writings on medicine, and especially the subject of pharmacy, were propagated by his disciples in many popular editions during the mid-eighteenth century. Based in the city of Hangzhou, Zhang lived out the post-Conquest decades as a recluse and developed his unconventional doctrines on medicine with a small number of disciples. The social makeup of Zhang’s circles was quite distinct from the Lu family’s open lectures only a few decades earlier. One eccentric feature of their doctrine lay in the claim that the main purpose of pharmaceutical processing was ",
+            {
+              "type": "em",
+              "children": [
+                "enhancement"
+              ]
+            },
+            ", rather than subduing and controlling the nature of drugs. Whereas it was common practice to soak aconite for an extended time in water to reduce its toxicity, Zhang Zhicong proposed heating it over fire, so as to enhance the hot nature of aconite with yet more heat. For a cold-natured drug such as Golden Thread (",
+            {
+              "type": "em",
+              "children": [
+                "huanglian"
+              ]
+            },
+            "), Zhang recommended soaking its bitter roots in water to enhance its coldness. He fiercely opposed the idea of preparing drugs with the opposite quality to “curb in” an unruly nature, and argued that doing so would be equivalent to letting a soldier fight with his hands and feet bound up.",
+            {
+              "type": "note",
+              "id": "ch04-n048",
+              "label": "48"
+            },
+            " Similar to his contemporaries Yu Chang and Zhang Lu, Zhang Zhicong also promoted the return to the classical teachings of medicine, and his monograph on pharmacy was aptly titled ",
+            {
+              "type": "em",
+              "children": [
+                "Venerating the Origins of Materia Medica (Bencao chongyuan"
+              ]
+            },
+            "). Considered too difficult at the time, Zhang’s teachings were revived after his medical works were published in a successful medical collectanea in 1767.",
+            {
+              "type": "note",
+              "id": "ch04-n049",
+              "label": "49"
+            },
+            " Later on, other authors used Zhang’s works to advance still more controversial claims, such as banning the excessive use of ginseng as a panacea. They concurred with Zhang that the classic account had ginseng’s nature as “cold,” which rendered it unsuitable in curing cold-natured pathologies. Zhang’s posthumous fame was such that he earned a place in the dynastic history compiled after the Qing’s fall in the twentieth century.",
+            {
+              "type": "note",
+              "id": "ch04-n050",
+              "label": "50"
+            },
+            " While Zhang’s doctrines hardly had any real impact on the practice of pharmacists (see chapter 5), the popularity of his polemical written works indicated a new anxiety over the soundness of medical orthodoxy as taught in common textbooks."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p050"
+      ]
+    },
+    {
+      "id": "ch04-p051",
+      "page": "123, 124",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "四库馆臣对张志聪炮制论战的沉默，或许并非偶然。拒绝对药性加以“约束”，可以被隐喻性地解读为反对对人性的矫正教育。张志聪从对古代经典的直解出发立论，把自己塑造成唯一的真理先驱，而世界则笼罩在平庸与欺罔之中。清朝统治最初一百年间由许多人构建并拥护的医学正统，此时面临来自复兴的绝艺表演的新挑战；这一现象与漫长的乾隆朝（1736—1796）末年儒学中新近兴起的经典批判相互呼应。",
+            {
+              "type": "note",
+              "id": "ch04-n051",
+              "label": "51"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The Siku editors’ silence about Zhang’s polemic against pharmaceutical processing may have been more than accidental. To reject the “curbing-in” of pharmaceutical natures could be read metaphorically as a parallel argument against the corrective education of human nature. Launching his arguments from a literal reading of ancient classics, Zhang set himself up as the lone harbinger of truth while the world was cloaked in mediocrity and deception. The medical orthodoxy that was constructed and espoused by many during the first hundred years of Qing rule now faced new challenges from revived performances of virtuosity, a phenomenon that resonated with newly insurgent classical criticism in Confucian learning toward the end of the long Qianlong reign (1736–96).",
+            {
+              "type": "note",
+              "id": "ch04-n051",
+              "label": "51"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p051"
+      ]
+    },
+    {
+      "id": "ch04-p052",
+      "page": "124",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "无论如何评价，徐大椿（1693—1771）都是四库馆臣无可比拟的宠儿。在本书论及的所有医学作者中，唯独他有四部著作全文收录，另有若干书名获得四库馆的正面提要。",
+            {
+              "type": "note",
+              "id": "ch04-n052",
+              "label": "52"
+            },
+            " 早在十七世纪末，徐大椿的祖父徐釚在康熙开设的一次特科考试中入选，被召入明史馆任翰林院编修。徐釚未能保住朝职，被迫提前致仕；其子（大椿之父）也未走科举仕宦之路，反以深通水利工程闻名。徐大椿从父亲那里继承了对于政治的戒心，成为一位自学成才的博学者。据地方志传记，他精通天文、音乐、武术与医学。他常以对工程项目的洞见令地方官印象深刻。最终，徐大椿之名传到乾隆皇帝耳中，乾隆两次召他入京为高官诊病。徐大椿身后的名声及其与皇帝的高调接触，或许促成了其著作在四库中的显赫地位。",
+            {
+              "type": "note",
+              "id": "ch04-n053",
+              "label": "53"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "By all accounts, Xu Dachun (1693–1771) was the unsurpassed favorite of the Siku editors. Of all the medical authors we have encountered in this book, he alone had four treatises preserved in full, with additional titles reviewed favorably by the editorial office.",
+            {
+              "type": "note",
+              "id": "ch04-n052",
+              "label": "52"
+            },
+            " Back in the late seventeenth century, Xu’s grandfather Xu Qiu qualified during one of the special examinations opened by Kangxi and was recruited to work in the Ming History office as a Hanlin academician. Unable to keep his court position, Xu Qiu was forced to retire early, and his son (Dachun’s father) also did not pursue an official career, but was known instead for his deep knowledge of hydraulic engineering. Xu Dachun inherited a wariness of politics from his father and was a self-taught polymath. According to his biography in the local gazetteer, he was good at astronomy, music, martial arts, and medicine. He frequently impressed local magistrates with his insight on engineering projects. Eventually, Xu’s name reached the ears of the Qianlong emperor, who twice summoned him to Beijing to treat high officials. The posthumous fame of Xu Dachun and his high-profile encounter with the emperor may have contributed to the eminence of his work in the Siku collection.",
+            {
+              "type": "note",
+              "id": "ch04-n053",
+              "label": "53"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p052"
+      ]
+    },
+    {
+      "id": "ch04-p053",
+      "page": "124",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "徐大椿对医学正统的精通，在一部简短的本草论著中展露无遗：他从《神农本草经》中只选取一百种药材，为它们撰写明晰的评注。",
+            {
+              "type": "note",
+              "id": "ch04-n054",
+              "label": "54"
+            },
+            " 在这方面，他遵循张璐等十七世纪晚期作者的古典取向范式，而行文更为雅驯。在别处，徐大椿对前代作者的学说分歧进行了酣畅淋漓的批评。他把自己描绘为一个在水利与医学上天赋异禀、却因不愿不惜一切代价谋求官职而未能跻身更高地位的人。换言之，他是一位不情愿的业余者，被自己成长环境的主要志向拒之门外。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Xu Dachun’s mastery of the medical orthodoxy is on full display in a short treatise on bencao, where he selected only one hundred kinds of materia medica from the ",
+            {
+              "type": "em",
+              "children": [
+                "Divine Farmer’s Classic"
+              ]
+            },
+            " and wrote lucid commentaries on them.",
+            {
+              "type": "note",
+              "id": "ch04-n054",
+              "label": "54"
+            },
+            " In this regard, he followed the classically oriented paradigm of late seventeenth-century authors such as Zhang Lu but did so with more literary refinement. Elsewhere in his writing, Xu gave a full-throated criticism of previous authors on doctrinal differences. He portrayed himself as someone who possessed amazing talent in hydraulics and medicine but could not rise up to greater positions due to his unwillingness to pursue office at all personal costs. He was, in other words, a reluctant amateur who was precluded from the main aspirations of his upbringing."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p053"
+      ]
+    },
+    {
+      "id": "ch04-p054",
+      "page": "125",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "我们将以徐大椿著作中一处直接涉及药学性质的独特见解来结束本章。在徐大椿所见当代医学实践的诸多问题中，他特别关注医者不再自备药物（yi bu bei yao）这一事实。一如晚明，一些精英病人仍在家制作成药，但徐大椿注意到其中的奢靡浪费。他援引古代文献——我们将在第五章看到，古代医者总是自备药物——认为把一切药品生产交给完全逐利的商业药师，乃是医学衰败的表征。",
+            {
+              "type": "note",
+              "id": "ch04-n055",
+              "label": "55"
+            },
+            " 这种局面是如何形成的？"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "We shall end this chapter with a unique insight from Xu’s works that directly concerned the nature of pharmacy. Among the many problems Xu saw in contemporary medical practice, he paid close attention to the fact that physicians ceased to stock and prepare their own remedies (",
+            {
+              "type": "em",
+              "children": [
+                "yi bu bei yao"
+              ]
+            },
+            "). Just as in late Ming times, some elite patients still prepared compound medicines at home, but Xu noted extravagant waste in their practice. Drawing from ancient sources where, as we will see in chapter 5, physicians always prepared their own remedies, Xu saw the practice of leaving all pharmaceutical production to commercial pharmacists, who were driven entirely by the pursuit of profit, as indicative of medicine’s degeneration.",
+            {
+              "type": "note",
+              "id": "ch04-n055",
+              "label": "55"
+            },
+            " How did this situation come about?"
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p054"
+      ]
+    },
+    {
+      "id": "ch04-p055",
+      "page": "125",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在另一篇文章中，徐大椿暗示，一般医学与药学分离的根本原因在于金钱。开设药铺、在自家店中配制成药的高昂成本，使当时多数医者望而却步。除了缺乏资本（ziben），还有从业者的懒惰。当病人只想要一张写好的处方时，普通医者便只提供处方，最终会把医学经典所教的一切方法——针刺、艾灸，乃至亲手炮制药物——统统遗忘。药铺成为疗愈不可或缺的中介，而精英医学却无法对店主施加任何监督。",
+            {
+              "type": "note",
+              "id": "ch04-n056",
+              "label": "56"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In another essay, Xu hinted that the root cause of the separation between general medicine and pharmacy was money. The prohibitive cost of setting up a pharmacy and preparing compound medicines in one’s own shop deterred most physicians of his day. In addition to the lack of capital (",
+            {
+              "type": "em",
+              "children": [
+                "ziben"
+              ]
+            },
+            "), there was the laziness of practitioners. When all the patient wanted was a written prescription, the average physician would do nothing more than provide that prescription, and eventually he would end up forgetting all the methods taught in medical classics, such as needling, moxibustion, and even the hands-on preparation of pharmaceuticals. Pharmacies became the requisite intermediaries of healing, whereas elite medicine could not exert any oversight over the shopkeepers.",
+            {
+              "type": "note",
+              "id": "ch04-n056",
+              "label": "56"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p055"
+      ]
+    },
+    {
+      "id": "ch04-p056",
+      "page": "125",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管才华横溢，徐大椿给人的印象却是一个愤懑之人。他与医药市场上充分显露的种种凡俗弱点格格不入：规避风险、追逐名利，以及毫无实质的正统论战修辞。他把古代的医学描绘成一门务实、灵活而体面的技艺，并为这门技艺在自己有生之年的失落而哀叹。然而讽刺的是，盛清精英文化实际上欣赏徐大椿对医学衰败的冷嘲批评，并确保其著作从此在医学史编纂中占据显要位置。下一章，我们将离开这些博学的抱怨，试着倾听那些实际经营市场与药铺、供应帝制晚期中国大部分药物的人。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For all his brilliance, Xu Dachun came across as an embittered man. He lived at odds with the all-too-human weaknesses on full display in the medical marketplace: the shirking of risk, the pursuit of wealth and fame, and the warring rhetoric of orthodoxy without any substance. He portrayed the medicine of ancient times as a pragmatic, flexible, and respectable art and lamented the loss of this art in his own lifetime. It is ironic, however, that High Qing elite culture in fact appreciated Xu’s cynical criticism of the degeneration of medicine and ensured that his works occupied a prominent place in the historiography of medicine ever since. In the next chapter, we turn away from those learned complaints and try to hear from those who actually ran the marketplaces and shops that supplied the bulk of material remedies in late imperial China."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "ch04-p056"
+      ]
+    }
+  ],
+  "notes": {
+    "ch04-n001": {
+      "number": "1",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "《中庸》1。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "Zhongyong"
+              ]
+            },
+            ", 1."
+          ]
+        }
+      ]
+    },
+    "ch04-n002": {
+      "number": "2",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Peterson, “Advancement of Learning,” 515–28; Peterson, Bitter Gourd, 12–17."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Peterson, “Advancement of Learning,” 515–28; Peterson, ",
+            {
+              "type": "em",
+              "children": [
+                "Bitter Gourd"
+              ]
+            },
+            ", 12–17."
+          ]
+        }
+      ]
+    },
+    "ch04-n003": {
+      "number": "3",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "方以智《物理小识》1:16a。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fang Yizhi, ",
+            {
+              "type": "em",
+              "children": [
+                "Wuli xiaoshi"
+              ]
+            },
+            ", 1:16a."
+          ]
+        }
+      ]
+    },
+    "ch04-n004": {
+      "number": "4",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "方以智《物理小识》1:16ab。例如，方以智困惑于山楂果味酸甜，而本草未如此记载。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fang Yizhi, ",
+            {
+              "type": "em",
+              "children": [
+                "Wuli xiaoshi"
+              ]
+            },
+            ", 1:16ab. For instance, Fang was puzzled by the fact that the hawthorn fruit is sweet and sour in taste but was not documented as such in bencao."
+          ]
+        }
+      ]
+    },
+    "ch04-n005": {
+      "number": "5",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "方以智《物理小识》5:15a、5:4b。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fang Yizhi, ",
+            {
+              "type": "em",
+              "children": [
+                "Wuli xiaoshi"
+              ]
+            },
+            ", 5:15a and 5:4b."
+          ]
+        }
+      ]
+    },
+    "ch04-n006": {
+      "number": "6",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "方以智《物理小识》5:6b–7a；余英时《方以智晚节考》275–77。关于药房隐喻在方以智道家注疏中的核心地位，见邢益海《方以智庄学》7–22。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fang Yizhi, ",
+            {
+              "type": "em",
+              "children": [
+                "Wuli xiaoshi"
+              ]
+            },
+            ", 5:6b–7a; Yu, ",
+            {
+              "type": "em",
+              "children": [
+                "Fang Yizhi wanjie kao"
+              ]
+            },
+            ", 275–77. For the centrality of the pharmacy metaphor in Fang’s Daoist commentary, see Xing Yihai, ",
+            {
+              "type": "em",
+              "children": [
+                "Fang Yizhi Zhuangxue"
+              ]
+            },
+            ", 7–22."
+          ]
+        }
+      ]
+    },
+    "ch04-n007": {
+      "number": "7",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "方以智在流亡中的一处居所设有“药室”。余英时《方以智晚节考》91–101。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fang possessed a “pharmaceutical chamber” in one of his dwellings in exile. Yu, ",
+            {
+              "type": "em",
+              "children": [
+                "Fang Yizhi wanjie kao"
+              ]
+            },
+            ", 91–101."
+          ]
+        }
+      ]
+    },
+    "ch04-n008": {
+      "number": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Zuo, Shen Gua, 171–200."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Zuo, ",
+            {
+              "type": "em",
+              "children": [
+                "Shen Gua"
+              ]
+            },
+            ", 171–200."
+          ]
+        }
+      ]
+    },
+    "ch04-n009": {
+      "number": "9",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "《钱塘县志》（康熙）29:10a。这位沈氏寡妇比丈夫获得了更多身后的表彰。丈夫去世时，沈氏年仅十九。她独自抚养儿子，在战乱与饥荒中勤谨侍奉婆母。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "Qiantang xian zhi"
+              ]
+            },
+            " (Kangxi), 29:10a. The widow, neé Shen, earned more posthumous celebration than her husband. Shen was only nineteen when her husband died. She raised their son on her own and served her mother-in-law diligently through war and famine."
+          ]
+        }
+      ]
+    },
+    "ch04-n010": {
+      "number": "10",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "杭世骏《道古堂文集》29:11b–12a。另见《杭州府志》（乾隆）99:31b。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Hang Shijun, ",
+            {
+              "type": "em",
+              "children": [
+                "Daogu tang wenji"
+              ]
+            },
+            ", 29:11b–12a. Also see ",
+            {
+              "type": "em",
+              "children": [
+                "Hangzhou fu zhi"
+              ]
+            },
+            " (Qianlong), 99:31b."
+          ]
+        }
+      ]
+    },
+    "ch04-n011": {
+      "number": "11",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "毛晋《野外诗》4b–5a。\n注疏书卷堆积如山，无法尽读；\n仲淳先生对此瞠目而视，深以为恨；\n他直言用药之利弊，令座客惊动；\n其教上承古圣，思之何其美哉！\n他命我伐取枣木，刻之为书；\n如云开日现，文字焕发宝光。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Mao Jin, ",
+            {
+              "type": "em",
+              "children": [
+                "Yewai shi"
+              ]
+            },
+            ", 4b–5a. Piling up like mountains, the commentaries and books were unable to be read Master Zhongchun glared at this, deeply angered He spoke bluntly on the pros and cons [in the use of drugs], startling the guests And his teachings continued from the ancient sages, what a wonderful thought! He ordered me to cut the jujube wood, and carve it into a book Just as clouds dispersing from the sun’s shines, the text radiates precious light"
+          ]
+        }
+      ]
+    },
+    "ch04-n012": {
+      "number": "12",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见张朝璘、吴世昌等人序，BCGM-CP，3–19。关于《本草纲目》在清代商业出版中的流行，见 Brokaw, Commerce in Culture, 428–38。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See prefaces by Zhang Chaolin, Wu Sichang, and others in BCGM-CP, 3–19. For ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao gangmu"
+              ]
+            },
+            "’s popularity in Qing commercial publishing, see Brokaw, ",
+            {
+              "type": "em",
+              "children": [
+                "Commerce in Culture"
+              ]
+            },
+            ", 428–38."
+          ]
+        }
+      ]
+    },
+    "ch04-n013": {
+      "number": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCS，卷首，2b。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCS, prefatory matter, 2b."
+          ]
+        }
+      ]
+    },
+    "ch04-n014": {
+      "number": "14",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Pu Shizhen, Xi’an du bencao, 520。浦氏自称李中梓的追随者；李中梓为他的本草作序，并贬斥缪希雍之作。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Pu Shizhen, ",
+            {
+              "type": "em",
+              "children": [
+                "Xi’an du bencao"
+              ]
+            },
+            ", 520. Pu identified himself as a follower of Li Zhongzi, who wrote a preface for his bencao and disparaged Miao Xiyong’s work."
+          ]
+        }
+      ]
+    },
+    "ch04-n015": {
+      "number": "15",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "关于成功案例，见《嘉定县志》（康熙）3:38ab。李中梓最后一部本草题为《本草通玄》。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For a successful case, see ",
+            {
+              "type": "em",
+              "children": [
+                "Jiading xian zhi"
+              ]
+            },
+            " (Kangxi), 3:38ab. Li’s last bencao is titled ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao tongxuan (Comprehending the Subtlety of Pharmacy"
+              ]
+            },
+            ")."
+          ]
+        }
+      ]
+    },
+    "ch04-n016": {
+      "number": "16",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "赵尔巽等《清史稿》502:13868–69。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Zhao et al., ",
+            {
+              "type": "em",
+              "children": [
+                "Qing shi gao"
+              ]
+            },
+            ", 502:13868–69."
+          ]
+        }
+      ]
+    },
+    "ch04-n017": {
+      "number": "17",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "喻昌《寓意草》序。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Yu Chang, ",
+            {
+              "type": "em",
+              "children": [
+                "Yuyi cao"
+              ]
+            },
+            ", preface."
+          ]
+        }
+      ]
+    },
+    "ch04-n018": {
+      "number": "18",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "喻昌《寓意草》序。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Yu Chang, ",
+            {
+              "type": "em",
+              "children": [
+                "Yuyi cao"
+              ]
+            },
+            ", preface."
+          ]
+        }
+      ]
+    },
+    "ch04-n019": {
+      "number": "19",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "喻昌《寓意草》1:1a–2b。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Yu Chang, ",
+            {
+              "type": "em",
+              "children": [
+                "Yuyi cao"
+              ]
+            },
+            ", 1:1a–2b."
+          ]
+        }
+      ]
+    },
+    "ch04-n020": {
+      "number": "20",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "1651年，钱谦益作诗赠喻昌，称赞他为“通儒”与虔诚僧人。钱谦益《钱牧斋全集》第4册，4.135–36。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In 1651, Qian Qianyi wrote a poem to honor Yu Chang, praising him as a “comprehensive Confucian” and devout monk. Qian Qianyi, ",
+            {
+              "type": "em",
+              "children": [
+                "Qian Muzhai quanji"
+              ]
+            },
+            ", vol. 4, 4.135–36."
+          ]
+        }
+      ]
+    },
+    "ch04-n021": {
+      "number": "21",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "喻昌《医门法律》序。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Yu Chang, ",
+            {
+              "type": "em",
+              "children": [
+                "Yimen falü"
+              ]
+            },
+            ", preface."
+          ]
+        }
+      ]
+    },
+    "ch04-n022": {
+      "number": "22",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "《吴县志》（康熙）56, 6b–7a。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "Wuxian zhi"
+              ]
+            },
+            " (Kangxi), 56, 6b–7a."
+          ]
+        }
+      ]
+    },
+    "ch04-n023": {
+      "number": "23",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "“自序”，载 Zhang Lu, Zhang Luyu, 5；赵尔巽等《清史稿》502:13869–70。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "“Author’s Preface (",
+            {
+              "type": "em",
+              "children": [
+                "zixu"
+              ]
+            },
+            "),” in Zhang Lu, ",
+            {
+              "type": "em",
+              "children": [
+                "Zhang Luyu"
+              ]
+            },
+            ", 5; Zhao et al., ",
+            {
+              "type": "em",
+              "children": [
+                "Qing shi gao"
+              ]
+            },
+            ", 502:13869–70."
+          ]
+        }
+      ]
+    },
+    "ch04-n024": {
+      "number": "24",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BJFY，序，1b–2a。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BJFY, preface, 1b–2a."
+          ]
+        }
+      ]
+    },
+    "ch04-n025": {
+      "number": "25",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCGMSY，序。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCGMSY, preface."
+          ]
+        }
+      ]
+    },
+    "ch04-n026": {
+      "number": "26",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BJFY，序，1a。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BJFY, preface, 1a."
+          ]
+        }
+      ]
+    },
+    "ch04-n027": {
+      "number": "27",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "关于汪昂的出版事业，见 Widmer, “The Huanduzhai of Hangzhou and Suzhou.”"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For Wang Ang’s career as publisher, see Widmer, “The Huanduzhai of Hangzhou and Suzhou.”"
+          ]
+        }
+      ]
+    },
+    "ch04-n028": {
+      "number": "28",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCBY，“自序”。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCBY, “Author’s Preface.”"
+          ]
+        }
+      ]
+    },
+    "ch04-n029": {
+      "number": "29",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCBY，“凡例”。汪昂还以另一部畅销书《汤头歌诀》配合推销他的本草教科书；此书把常用方剂改编为简易歌诀。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCBY, “Notes to Readers.” Wang marketed his bencao textbook with another bestselling title of his, ",
+            {
+              "type": "em",
+              "children": [
+                "Rhymes for Decoction Starters (Tangtou gejue"
+              ]
+            },
+            "), which adapted common prescriptions into simple songs."
+          ]
+        }
+      ]
+    },
+    "ch04-n030": {
+      "number": "30",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "《本草备要》至今仍被视为中医学生有用的入门书。见 Chang Hsien-che, “The Pen-Ts’ao Pei-Yao.”"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "Bencao beiyao"
+              ]
+            },
+            " is still held as a useful introductory text for students of TCM today. See Chang Hsien-che, “The ",
+            {
+              "type": "em",
+              "children": [
+                "Pen-Ts’ao Pei-Yao"
+              ]
+            },
+            ".”"
+          ]
+        }
+      ]
+    },
+    "ch04-n031": {
+      "number": "31",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "李春兴《中药炮制》88。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Li Chunxing, ",
+            {
+              "type": "em",
+              "children": [
+                "Zhongyao paozhi"
+              ]
+            },
+            ", 88."
+          ]
+        }
+      ]
+    },
+    "ch04-n032": {
+      "number": "32",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "张叡《修事指南》1a–b。此书由康熙朝文官胡作梅（1653—1718）“鉴定”，胡氏在此书编纂中的具体作用不详。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Zhang Rui, ",
+            {
+              "type": "em",
+              "children": [
+                "Xiushi zhinan"
+              ]
+            },
+            ", 1a–b. The text was “reviewed” (",
+            {
+              "type": "em",
+              "children": [
+                "ding"
+              ]
+            },
+            ") by Hu Zuomei (1653– 1718), a civil official in the Kangxi court. Hu’s specific role in the compilation of this text is unclear."
+          ]
+        }
+      ]
+    },
+    "ch04-n033": {
+      "number": "33",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "张光斗《增补雷公》，序。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Zhang Guangdou. ",
+            {
+              "type": "em",
+              "children": [
+                "Zengbu Leigong"
+              ]
+            },
+            ", preface."
+          ]
+        }
+      ]
+    },
+    "ch04-n034": {
+      "number": "34",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Schonebaum, Novel Medicine, 73–121."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Schonebaum, ",
+            {
+              "type": "em",
+              "children": [
+                "Novel Medicine"
+              ]
+            },
+            ", 73–121."
+          ]
+        }
+      ]
+    },
+    "ch04-n035": {
+      "number": "35",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "可与 Blair, The Theater of Nature 比较。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Compare with Blair, ",
+            {
+              "type": "em",
+              "children": [
+                "The Theater of Nature"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "ch04-n036": {
+      "number": "36",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "张璐《张路玉医书》，1。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Zhang Lu, ",
+            {
+              "type": "em",
+              "children": [
+                "Zhang Luyu yixue"
+              ]
+            },
+            ", 1."
+          ]
+        }
+      ]
+    },
+    "ch04-n037": {
+      "number": "37",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "《明史》299.7653。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "MS, 299.7653."
+          ]
+        }
+      ]
+    },
+    "ch04-n038": {
+      "number": "38",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "关于武英殿修书处的更多信息，见杨玉良《武英殿》。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For more information on the Imperial Publishing Office, see Yang Yuliang, “Wuying dian.”"
+          ]
+        }
+      ]
+    },
+    "ch04-n039": {
+      "number": "39",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "《表》，载 BCPHJY-KX，1a–5a。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "“Memorial (",
+            {
+              "type": "em",
+              "children": [
+                "biao"
+              ]
+            },
+            "),” in BCPHJY-KX, 1a–5a."
+          ]
+        }
+      ]
+    },
+    "ch04-n040": {
+      "number": "40",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Giles, An Alphabetical Index, xvii；裴芹《古今图书集成研究》27–42（编纂过程）；97–140（所引方志目录）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Giles, ",
+            {
+              "type": "em",
+              "children": [
+                "An Alphabetical Index"
+              ]
+            },
+            ", xvii; Pei Qin, ",
+            {
+              "type": "em",
+              "children": [
+                "Gujin tushu jicheng yanjiu"
+              ]
+            },
+            ", 27–42 (process of compilation); 97–140 (list of gazetteers cited)."
+          ]
+        }
+      ]
+    },
+    "ch04-n041": {
+      "number": "41",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Giles, An Alphabetical Index, xii；附录2。非医学博物学的兴起可追溯至宋元明著作。见 Siebert, “Making Technology History.”"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Giles, ",
+            {
+              "type": "em",
+              "children": [
+                "An Alphabetical Index"
+              ]
+            },
+            ", xii; appendix 2. The rise of nonmedical natural history could be traced back to Song-Yuan-Ming works. See Siebert, “Making Technology History.”"
+          ]
+        }
+      ]
+    },
+    "ch04-n042": {
+      "number": "42",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Hanson, “The Golden Mirror,” 112."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Hanson, “",
+            {
+              "type": "em",
+              "children": [
+                "The Golden Mirror"
+              ]
+            },
+            ",” 112."
+          ]
+        }
+      ]
+    },
+    "ch04-n043": {
+      "number": "43",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Guy, The Emperor’s Four Treasuries。关于私人学界的丛书，见 Bian, “Recollecting the Glorious Age.”"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Guy, ",
+            {
+              "type": "em",
+              "children": [
+                "The Emperor’s Four Treasuries"
+              ]
+            },
+            ". For collectanea in private scholarly circles, see Bian, “Recollecting the Glorious Age.”"
+          ]
+        }
+      ]
+    },
+    "ch04-n044": {
+      "number": "44",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "《钦定四库全书总目》91.1ab。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "Qinding Siku quanshu zongmu"
+              ]
+            },
+            ", 91.1ab."
+          ]
+        }
+      ]
+    },
+    "ch04-n045": {
+      "number": "45",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "纪昀等《钦定四库全书总目》第3册，103:35b–38a、104:10a–11a、32ab、36b–37a、42a–43a。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ji Yun et al. ",
+            {
+              "type": "em",
+              "children": [
+                "Qinding Siku quanshu zongmu"
+              ]
+            },
+            ", vol. 3, 103:35b–38a, 104:10a–11a, 32ab, 36b–37a, 42a–43a."
+          ]
+        }
+      ]
+    },
+    "ch04-n046": {
+      "number": "46",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "纪昀等《钦定四库全书总目》第3册，105:11b–12a。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ji Yun et al. ",
+            {
+              "type": "em",
+              "children": [
+                "Qinding Siku quanshu zongmu"
+              ]
+            },
+            ", vol. 3, 105:11b–12a."
+          ]
+        }
+      ]
+    },
+    "ch04-n047": {
+      "number": "47",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "纪昀等《钦定四库全书总目》第3册，105:4a–7b、43b。馆臣周永年（1730—1791）提供了黄氏已刊著作的原本。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ji Yun et al. ",
+            {
+              "type": "em",
+              "children": [
+                "Qinding Siku quanshu zongmu"
+              ]
+            },
+            ", vol. 3, 105:4a–7b, 43b. The editor Zhou Yongnian (1730–1791) provided the originals of Huang’s published corpus."
+          ]
+        }
+      ]
+    },
+    "ch04-n048": {
+      "number": "48",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "张志聪《侣山堂类辩》96–97。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Zhang Zhicong, ",
+            {
+              "type": "em",
+              "children": [
+                "Lüshantang"
+              ]
+            },
+            ", 96–97."
+          ]
+        }
+      ]
+    },
+    "ch04-n049": {
+      "number": "49",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这部医学丛书题为《医林指月》（1764—1777），由王琦编辑。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The medical collectanea was titled ",
+            {
+              "type": "em",
+              "children": [
+                "Yilin zhiyue"
+              ]
+            },
+            " (1764–1777) and edited by Wang Qi."
+          ]
+        }
+      ]
+    },
+    "ch04-n050": {
+      "number": "50",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见陈念祖《医学三字经》，《陈修园医学全书》816–17。关于张志聪传记，见赵尔巽等《清史稿》502:13871–72。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See the “Three-Character Primer for Medicine” by Chen Nianzu, ",
+            {
+              "type": "em",
+              "children": [
+                "Chen Xiuyuan yixue quanshu"
+              ]
+            },
+            ", 816–17. For Zhang’s biography, see Zhao et al., ",
+            {
+              "type": "em",
+              "children": [
+                "Qing shi gao"
+              ]
+            },
+            ", 502:13871–72."
+          ]
+        }
+      ]
+    },
+    "ch04-n051": {
+      "number": "51",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "例如见艾尔曼所描述的今文经学派，Elman, Classicism, Politics, and Kinship。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, the New Text school described in Elman, ",
+            {
+              "type": "em",
+              "children": [
+                "Classicism, Politics, and Kinship"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "ch04-n052": {
+      "number": "52",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见纪昀等《钦定四库全书总目》第3部分，104:51b–55a 对徐氏著作的提要。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See the summaries of Xu’s works in Ji Yun et al., ",
+            {
+              "type": "em",
+              "children": [
+                "Qinding Siku quanshu zongmu"
+              ]
+            },
+            ", part 3, 104:51b–55a."
+          ]
+        }
+      ]
+    },
+    "ch04-n053": {
+      "number": "53",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "《吴江县续志》（光绪）21:6b–7a。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "Wujiang xian xuzhi"
+              ]
+            },
+            " (Guangxu), 21:6b–7a."
+          ]
+        }
+      ]
+    },
+    "ch04-n054": {
+      "number": "54",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "徐大椿《神农本草经百种录》。关于徐大椿的医德讨论，见文树德（Paul Unschuld）在 Xu, Forgotten Traditions 中的译文。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Xu Dachun, ",
+            {
+              "type": "em",
+              "children": [
+                "Shennong bencaojing baizhong lu"
+              ]
+            },
+            ". For Xu’s discussion of medical ethics, see Paul Unschuld’s translation in Xu, ",
+            {
+              "type": "em",
+              "children": [
+                "Forgotten Traditions"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "ch04-n055": {
+      "number": "55",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "徐大椿《医学源流论》卷上：57–59a。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Xu Dachun, ",
+            {
+              "type": "em",
+              "children": [
+                "Yixue yuanliu lun"
+              ]
+            },
+            ", juan shang: 57–59a."
+          ]
+        }
+      ]
+    },
+    "ch04-n056": {
+      "number": "56",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "徐大椿《慎疾刍言》14b。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Xu Dachun, ",
+            {
+              "type": "em",
+              "children": [
+                "Shen ji chu yan"
+              ]
+            },
+            ", 14b."
+          ]
+        }
+      ]
+    }
+  }
+}

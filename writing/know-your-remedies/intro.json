@@ -1,0 +1,4631 @@
+{
+  "id": "intro",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "intro-title",
+      "page": "1",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "导论"
+          ],
+          "level": 2
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "Introduction"
+          ],
+          "level": 2
+        }
+      ],
+      "canonical_kind": "chapter_title",
+      "source_ids": [
+        "intro-title"
+      ]
+    },
+    {
+      "id": "intro-epi01",
+      "page": "1",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "天地之间，皆药也，皆物也，皆理也。",
+            {
+              "type": "note",
+              "id": "intro-n001",
+              "label": "1"
+            },
+            "\n——方以智（1611—1671）《物理小识》"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "The space between Heaven and Earth is full of medicine, full of things, and full of coherence.",
+            {
+              "type": "note",
+              "id": "intro-n001",
+              "label": "1"
+            },
+            "\n—Fang Yizhi (1611–71), ",
+            {
+              "type": "em",
+              "children": [
+                "Notes on the Principle of Things"
+              ]
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "epigraph",
+      "source_ids": [
+        "intro-epi01"
+      ]
+    },
+    {
+      "id": "intro-p001",
+      "page": "1",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "世间存在什么？又何以以人类心智可理解的方式存在？17世纪中叶，中国学者方以智断言，物（wu）确实存在，而物的存在彰显出一种根本的“理”（li），赋予世界以意义与秩序。方以智虽然重申了11、12世纪以来新儒家思想领袖的许多认识论与本体论立场，但上引这段名言的第一个分句仍引出进一步的问题。",
+            {
+              "type": "note",
+              "id": "intro-n002",
+              "label": "2"
+            },
+            " 在方以智看来，世间存在之物首先作为药（yao）而存在，并且应当被作为“药物之物”来认识。换言之，整个宇宙就是一座巨大的药房；万物既具有转化我们的潜能，也随时可被我们改造。于是，关于自我的一切知识同时就是关于物质性疗愈物的知识，反之亦然。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "What exists in the world, and exists in such a way that is intelligible to the human mind? Writing in the mid-seventeenth century, the Chinese scholar Fang Yizhi claimed that things (",
+            {
+              "type": "em",
+              "children": [
+                "wu"
+              ]
+            },
+            ") do exist, and that their existence manifests a fundamental coherence (",
+            {
+              "type": "em",
+              "children": [
+                "li"
+              ]
+            },
+            ") that gives meaning and order to the world. While Fang reaffirmed many of the epistemological and ontological positions held by leading neo-Confucian thinkers since the eleventh and twelfth centuries, the first part of the remarkable quote above raised further questions.",
+            {
+              "type": "note",
+              "id": "intro-n002",
+              "label": "2"
+            },
+            " According to Fang, things that exist in the world exist primarily as medicines (",
+            {
+              "type": "em",
+              "children": [
+                "yao"
+              ]
+            },
+            ") and ought to be known as pharmaceutical objects. In other words, the entire universe is a giant pharmacy, where all things bear the potential of transforming us, while being subject to modifications by us. All knowledge about the self is therefore at once knowledge about material remedies, and vice versa."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p001"
+      ]
+    },
+    {
+      "id": "intro-p002",
+      "page": "1, 2",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "《识药》考察16至18世纪中国文化中“药物物性”（pharmaceutical objecthood）的历程。本书以药学为透镜审视中国历史，同时也试图解释这一时期中国人求知的方式何以发生剧变。明代（1368—1644），此前以皇帝敕修本草（bencao，字面意为“基本之草”或“根与草”，常译作 materia medica）为中心的模式逐渐失去统摄性的权威。取而代之的，是多种多样的药学知识与实践；它们在清代（1636—1912）逐渐形成的知识分工与职业分工的推动下，力图重新定义本草传统。药学与药学知识的这一早期近代转型，对中国的现代科学与医学发展具有广泛含义；今日传统中医（TCM）在世界范围内的流行，即可见其一斑。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "Know Your Remedies"
+              ]
+            },
+            " explores the career of pharmaceutical objecthood in Chinese culture between the sixteenth and eighteenth centuries. Viewing Chinese history through the lens of pharmacy, this book also seeks to present an explanation of how Chinese approaches to knowledge underwent a sea change during this period. During the Ming dynasty (1368–1644), an earlier model centered on imperially commissioned pharmacopeias known as ",
+            {
+              "type": "em",
+              "children": [
+                "bencao (pen-ts’ao"
+              ]
+            },
+            ", literally “basic herbs” or “roots and herbs,” and frequently translated as ",
+            {
+              "type": "em",
+              "children": [
+                "materia medica"
+              ]
+            },
+            ") gradually lost its commanding authority. Instead, a diverse range of pharmaceutical knowledge and practice emerged that sought to redefine the bencao tradition, motivated by new divisions of intellectual and professional labor that took shape under the Qing dynasty (1636–1912). This early modern transformation of pharmacy and pharmaceutical knowledge bears broad implications for China’s modern scientific and medical developments, as can be seen from the prevalent practice of Traditional Chinese Medicine (TCM) around the world today."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p002"
+      ]
+    },
+    {
+      "id": "intro-p003",
+      "page": "2",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "传统中国药学的独特面貌令许多人着迷，却很少为历史理解提供线索。早在1880年代，英国药学会收到了一座广州中国药铺的比例模型（见图0.1）。精心制作的店面中安置着人偶，透出东方式的堂皇：衣着考究的店主、抽着烟袋的顾客，以及使用简陋工具干活的伙计。陈列的货物也营造出类似效果：醒目的招牌上写着人参、“玉桂”、鹿茸、猴枣，药师整齐码放的瓷罐则暗示着这些异域珍奇的可得性。今天面对这座模型，我们是否应当按其传统外观照单全收，把药铺视为中国文明某些本质特征的物质体现？还是说，我们能看穿笼罩这一空间的宁静与神秘气息，想象一个并不久远的过去——那时这类店铺尚未成为“中国性”的普遍象征？换言之，中国的药铺有历史吗？如果有，我们该从何处开始？"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The peculiar features of traditional Chinese pharmacy have fascinated many but offered few clues for a historical understanding. Back in the 1880s, the Pharmaceutical Society of Great Britain received a scale model of a Chinese pharmacy in the city of Canton (see figure 0.1). The carefully crafted shop front, peopled with figurines, exuded Oriental grandeur: the well-dressed owner, the pipe-smoking customer, and the clerks doing their jobs using rudimentary tools. The wares on display achieved a similar effect: conspicuous signs advertising ginseng, “jade cinnamon,” deer horn, and monkey gallstones (",
+            {
+              "type": "em",
+              "children": [
+                "houzao"
+              ]
+            },
+            "), with the pharmacist’s neatly packed porcelain jars promising access to such exotic treasures. Should we, viewing the model today, take its facade of tradition at face value, seeing the pharmacy as a material manifestation of certain essential traits of Chinese civilization? Or can we see through the air of serenity and mystery shrouding the space, and imagine instead a recent past in which this kind of shop had not yet become a ubiquitous symbol of Chineseness? In other words, do pharmacies in China have a history, and, if so, where should we begin?"
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p003"
+      ]
+    },
+    {
+      "id": "intro-p004",
+      "page": "2, 3",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "“从最肉身、最可触知的东西中发现最属人的东西，其中并无悖论或神秘可言。”薛爱华（Edward H. Schafer）在其研究中国中古异域珍物的名作中写道。",
+            {
+              "type": "note",
+              "id": "intro-n003",
+              "label": "3"
+            },
+            " 任何人，即便是皇帝或当时最开明的哲人，都不能宣称完全掌控药师的药柜，也不能离开柜中之物而生活。中国的药学远非一种无时间的、铁板一块的传统，而是精英文化与大众文化动态交汇的场所，因而完全可以成为历史分析的对象。药铺也是一种跨地域的事业，把文字世界与市场世界联结起来，跨越国族与大陆。与医学理论整齐的表述相比，治疗过程中不可避免地出现的混乱、杂芜与争执，更令医学史家着迷。直到20世纪初，世界上很少有政府能对药品贸易实施有效管制；而这是一个全球网络，中国行动者在其间扮演了关键角色。",
+            {
+              "type": "note",
+              "id": "intro-n004",
+              "label": "4"
+            },
+            " 因此，以药铺为中心的视角，使我们得以辨识文化变迁的模式，而不必预先抬高某一群体的知识、贬低其他群体的知识。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "“There is no paradox or mystery in finding what is most human through what is most corporeal and palpable,” writes Edward H. Schafer in his memorable study of medieval exotica in China.",
+            {
+              "type": "note",
+              "id": "intro-n003",
+              "label": "3"
+            },
+            " No one, not even the emperor or the most enlightened philosopher of the day, could claim complete control over the pharmacist’s cabinet; nor could they live without its offerings. Far from a timeless, monolithic tradition, pharmacy in China served as a dynamic meeting point of elite and popular culture, and is therefore subject to historical analysis. Pharmacies are also translocal enterprises, connecting the world of letters to that of the marketplace bridging nations and continents. Compared to the neat formulations of medical theory, the chaos, messiness, and contentions that inevitably arise during the therapeutic processes fascinate historians of medicine. Well into the early twentieth century, few governments around the world could exert effective regulations over the pharmaceutical trade, a global network in which Chinese actors played a pivotal role.",
+            {
+              "type": "note",
+              "id": "intro-n004",
+              "label": "4"
+            },
+            " A pharmacy- centered vantage point thus allows us to discern patterns of cultural change without necessarily prioritizing one group’s knowledge over that of others."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p004"
+      ]
+    },
+    {
+      "id": "intro-p005",
+      "page": "3",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本书的核心历史问题是：本草药典这一复合型知识形态，早在唐代中国（约公元659年；详见后文）便已获得国家赞助，为何在明清时期不再享有与往昔相埒的声望？",
+            {
+              "type": "note",
+              "id": "intro-n005",
+              "label": "5"
+            },
+            " 我追随席文（Nathan Sivin）把古代科学视为“文化复合体”（cultural manifold）的观点，主张本草知识的分裂与传统药铺的兴起在历史上是同一枚硬币的两面；若不给予两者同等关注，就无法理解其中任何一面。问题的复杂性要求对不同类型的证据采取整合性的研究路径。首先，我运用书籍史方法，处理本草领域内大量科学文本（50—60种，其中20—30种细读）的作者、流传与接受问题。每部文本的独特面貌必然是巨大偶然性的产物，受重大政治动荡的时代与个人间学说分歧的塑造。其次，是超越个人生命周期的制度与事业的长期演变，例如某些地区印刷文化的兴起与扩散、国家财政政策的演变，以及决定性地改变交换模式的中心市场的出现。这些影响的重要性只有跨越数代人才能看清，因此我采用跨朝代的视角，呈现16至18世纪的变化轨迹。最后，是明清中国土地与水系的地形与生态特征。从自然界的植物、动物和矿物中采集、获取药材，依赖于对土地的切身知识，而这一土地状况总体上是稳定的。尽管如此，在本书末尾我们将会看到，清代药铺如何在急剧改变地貌与人类对自然资源的利用方面发挥作用，其影响不仅在中国境内，也波及境外。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The central historical question in this book is why the bencao pharmacopeia, a composite knowledge form that came under state patronage early on in Tang dynasty China (c. 659 CE; see more discussions below), ceased to claim comparable prestige in Ming-Qing times. Following Nathan Sivin’s view of ancient science as “cultural manifold,” I argue that the fragmentation of bencao knowledge and the ascent of traditional pharmacies were two sides of the same coin historically, and we cannot understand one without paying equal attention to the other.",
+            {
+              "type": "note",
+              "id": "intro-n005",
+              "label": "5"
+            },
+            " The complexity of the issue requires an ",
+            {
+              "type": "em",
+              "children": [
+                "integrated"
+              ]
+            },
+            " approach to different kinds of evidence. First, I use the methods of book history to grapple with the authorship, transmission, and reception of a large number (50–60, with 20–30 closely examined) of scientific texts composed in the field of bencao. The unique characteristics of each text are necessarily products of immense contingency, shaped by times of major political upheaval and doctrinal disagreements among individuals. Next comes the longer-term development of institutions and enterprises beyond individual lifetimes, such as the rise and spread of print culture in certain regions, the evolution of state fiscal policy, and the emergence of central marketplaces that definitively altered patterns of exchange. The salience of their impact is discernible only when we look across several generations, and for that reason I use a transdynastic approach to show the trajectory of change straddling the sixteenth and eighteenth centuries. Last but not least are the topographical and ecological features of lands and waters in Ming-Qing China. The sourcing and procurement of medicine from naturally occurring flora, fauna, and minerals depended on intimate knowledge of the land that remained, overall, stable. Even so, toward the end of this book, we will see how Qing pharmacies played a role in drastically altering the landscape and human use of natural resources, the impact of which was felt not only within China but also elsewhere."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p005",
+        "intro-p006"
+      ]
+    },
+    {
+      "id": "intro-cap01",
+      "page": "3",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "caption",
+          "children": [
+            "图0.1　19世纪中国药铺模型。图片来源：Wellcome Collection。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "caption",
+          "children": [
+            "Figure 0.1. Model of Chinese pharmacy, nineteenth century. Credit: Wellcome Collection."
+          ]
+        }
+      ],
+      "canonical_kind": "caption",
+      "source_ids": [
+        "intro-cap01"
+      ]
+    },
+    {
+      "id": "intro-p007",
+      "page": "4",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本书除了探讨药学作为一种复合知识场域的内在特征，还刻意整合明清中国思想、政治与社会经济变迁的彼此分离的史学。近几十年来不断增长的文献，已大大改变了中国史的分期方式，使人们不再狭隘地聚焦于王朝更替这一曾经首要的历史分析单位。在政治方面，人们可以将清朝的帝国建构及其多元文化遗产，与世界上其他早期近代帝国相比较。",
+            {
+              "type": "note",
+              "id": "intro-n006",
+              "label": "6"
+            },
+            " 在思想方面，史家则提出，新儒学经历了一个持续的松动过程：道德哲学与本体论确定性的霸权被撼动，转而走向历史主义、经验主义，并在学术探究的各条战线上对既有智慧提出更激进的质疑。",
+            {
+              "type": "note",
+              "id": "intro-n007",
+              "label": "7"
+            },
+            " 最后，在社会经济分析方面，学者们开始认识到明清中国的生产模式，与世界各地其他农业、工业与商业中心相比，即使仍有差异，也已处于同等水平。",
+            {
+              "type": "note",
+              "id": "intro-n008",
+              "label": "8"
+            },
+            " 上述三种路径都既显示出1990年代以来日益上升的全球史范式的影响，也对该范式作出了卓越贡献。这些学者的著作推动明清中国被承认为全球早期近代性的重要组成部分，不仅赢得了更广泛的读者，也塑造了中国史本身的核心问题。",
+            {
+              "type": "note",
+              "id": "intro-n009",
+              "label": "9"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Besides exploring the intrinsic characteristics of pharmacy as a composite venue of knowledge, this book also deliberately seeks to integrate separate historiographies of intellectual, political, and socioeconomic change in Ming-Qing China. A growing literature in the last few decades has done much to reshape the periodization of Chinese history away from a narrow historiographical focus on ruling dynasties, once the foremost unit of historical analysis. Politically, one can compare the Qing imperial formation and its multicultural legacy with those of other early modern empires around the world.",
+            {
+              "type": "note",
+              "id": "intro-n006",
+              "label": "6"
+            },
+            " Intellectually, historians have instead proposed a continuous unraveling of neo-Confucianism that dislodged the hegemony of moral philosophy and ontological certainty, moving instead toward historicism, empiricism, and a more radical questioning of received wisdom on all fronts of scholarly inquiry.",
+            {
+              "type": "note",
+              "id": "intro-n007",
+              "label": "7"
+            },
+            " Turning finally to socioeconomic analysis, scholars now start to recognize Ming-Qing China’s productive patterns as being on par with, if still distinct from, other agricultural, industrial, and commercial centers around the world.",
+            {
+              "type": "note",
+              "id": "intro-n008",
+              "label": "8"
+            },
+            " All three approaches outlined above both showed the influence of an ascending global historical paradigm since the 1990s and made outstanding contributions to it. By pushing for Ming-Qing China to be recognized as an essential part of global early modernity, the works of these scholars not only reached a broader audience but also shaped the central questions of Chinese history itself.",
+            {
+              "type": "note",
+              "id": "intro-n009",
+              "label": "9"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p007",
+        "intro-p008"
+      ]
+    },
+    {
+      "id": "intro-p009",
+      "page": "5",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而，这种从全球视角研究中国早期近代性的最令人兴奋的潜力，也伴随着明显的问题。今天，在同一句话里同时提到“早期近代”与“中国”已不再令人侧目，但随之而来的必然问题是：在中国语境中，“早期近代”究竟意味着什么？自1970年代以来，史家已采取多种路径，应对现代化理论对非西方地区史学造成的浩劫。当时提出的补救方案——回归“以中国为中心”的历史——如今又面临全球范式的新的挑战。事实上，把“早期近代”这一范畴引入中国史，可能比“共享的现代性”这一有争议的观念更为棘手。例如，建立在各种联结性层面上的全球早期近代性，其吸引力可能诱使人重蹈旧习：只在非西方地区寻找自己早已预期会发现的东西。",
+            {
+              "type": "note",
+              "id": "intro-n010",
+              "label": "10"
+            },
+            " 与此同时，凭借具有全球视野的研究，今日的史家仍然面临挑战：要提出能更好连接早期近代与19世纪、并解释变迁机制的叙事，而不是把中国史切成主要源自西方经验的分期。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Yet the most exciting potential of this global approach to Chinese early modernity also has obvious problems. Today, while it no longer raises eyebrows to mention “early modern” and “China” in the same sentence, inevitably a question follows as to what “early modern” means in the Chinese context. Since the 1970s, historians have taken up a variety of approaches to the havoc wreaked by modernization theory on the historiography of non-Western places. The remedy proposed then—the return to a “China-centered” history—has now faced fresh challenges from the global paradigm. In fact, the introduction of the category “early modern” into Chinese history may have presented a thornier issue than the contested notion of a shared modernity. The appeal of a global early modernity built on connective registers might, for example, lure one into the old habit of only searching in non-Western places for what one already expected to find.",
+            {
+              "type": "note",
+              "id": "intro-n010",
+              "label": "10"
+            },
+            " At the same time, armed with globally informed research, historians today still face the challenge of coming up with narratives that better connect the early modern to the nineteenth century and explain mechanisms of change, rather than slicing Chinese history into periodizations derived mainly from Western experience."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p009"
+      ]
+    },
+    {
+      "id": "intro-p010",
+      "page": "5",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本书分析早期近代中国的文化变迁，主要着眼于中国内部自身的能动性。通过凸显那些把本草药典传统从其崇高地位上推落的因素，本书以中世纪关于专业、价值与权威归属的模式为参照，界定中国早期近代文化的特征。通过追踪18世纪末都会药铺的兴起，我也展示了连接那个时代与帝国之后时代的连续性。尽管许多与药学相关的发展都涉及帝国国家，但读者将会看到，皇帝及其官员只是塑造药物物性的意义链条中的一环。本书的核心论证也在1912年清朝覆亡之前很久便已收束。因此，我仅在讨论涵盖1500—1800年之外更广时段的模式时，才使用“帝制晚期”一词。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This book offers an analysis of cultural change in early modern China, motivated primarily by dynamism from within. By highlighting the factors that dislodged the bencao pharmacopeia tradition from its lofty status, this story defines China’s early modern culture vis-à-vis medieval models of attributing expertise, value, and authority. By tracing the emergence of metropolitan pharmacies by the end of the eighteenth century, I also show continuities that linked that era with postimperial times. While many developments concerning pharmacy involved the imperial state, it will be apparent that the emperor and his officials were but one link in the chain of significance that shaped pharmaceutical objecthood. The core arguments of this book also conclude much earlier than the Qing dynasty’s downfall in 1912. As a result, I use “late imperial” only when discussing patterns that encompass the broader period beyond 1500–1800."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p010"
+      ]
+    },
+    {
+      "id": "intro-p011",
+      "page": "6",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在勾勒出论证的基本轮廓之后，我现在简要回顾本草这一科学传统在中古时期如何与国家权力纠缠在一起。解释这一以国家为中心的传统在早期近代的断裂，曾给中国科学史研究带来巨大困难。在检讨相关文献之后，我将说明一种更具包容性的知识范畴如何为历史解释开辟新径。最后，我对各章的关键主题与行动者作一快速导览。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Having charted out the basic contours of my argument, I now turn to a brief overview of how the scientific tradition of bencao came to be entangled with state power in medieval times. The task of explaining the early modern discontinuity of this state-centered tradition posed great difficulties in the historiography of Chinese science. After a review of that literature, I then present ways in which an inclusive category of knowledge opens new venues for historical interpretation. Finally, I offer a quick guide to key themes and actors in the chapters."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p011"
+      ]
+    },
+    {
+      "id": "intro-s01",
+      "page": "6",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "普遍主义与领土性：唐宋国家敕修本草"
+          ],
+          "level": 3
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "Universalism and Territoriality: State-Commissioned Pharmacopeias in Tang-Song Times"
+          ],
+          "level": 3
+        }
+      ],
+      "canonical_kind": "section_heading",
+      "source_ids": [
+        "intro-s01"
+      ]
+    },
+    {
+      "id": "intro-p012",
+      "page": "6",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "根据出土写本与器物，我们现在知道，早期中国的治疗者使用各种药物，并配合针刺、艾灸与按摩等技术。“本草”一词最早见于公元初年的历史记载：汉朝统治者颁布诏令，征召能够掌握药物之用的人。也大约在这一时期，一批经典文本成形，界定了至今仍为中医教学所承认的古典医学轮廓。在这批核心文献中，与关于人体生理、病因的长篇论述以及针灸操作说明相比，药学似乎只是一个边缘主题。",
+            {
+              "type": "note",
+              "id": "intro-n011",
+              "label": "11"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Based on excavated manuscripts and artifacts, we now know that healers in early China used various medicinal substances along with various techniques of acupuncture, moxibustion, and massage. The term “bencao” first appeared in the historical record at the beginning of the Common Era, when rulers of the Han dynasty issued an edict to recruit capable individuals who could master the use of materia medica. Also around this period, a corpus of canonical texts took shape that would define the contours of classical medicine still recognized in the teaching of TCM today. In this core literature, pharmacy appeared to be a marginal subject in these early texts in contrast to lengthy discourses on human physiology and etiology, as well as instructions on acupuncture.",
+            {
+              "type": "note",
+              "id": "intro-n011",
+              "label": "11"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p012"
+      ]
+    },
+    {
+      "id": "intro-p013",
+      "page": "6",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "中古早期中国的医学景观，映照出政治与宗教分裂格局中思想的异质与汇流。5世纪，道教大师陶弘景（456—536）把各种药学教说综汇为一部集注。在众多流派中，陶弘景推尊一个与上古圣王神农相认同的传统；相传神农尝百草，以辨别药与毒。陶弘景把神农传统的365种药与另一来源的365种药合并，为本草研究创立了标准格式与组织原则。",
+            {
+              "type": "note",
+              "id": "intro-n012",
+              "label": "12"
+            },
+            " 尽管陶弘景隐居不仕、远离朝廷政治，他的医学与炼丹著作却得到南方地方统治者的慷慨赞助。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The medical landscape of early medieval China mirrors the heterogeneity and confluence of ideas in the divided political and religious realms. In the fifth century, the Daoist master Tao Hongjing (456–536 CE) synthesized various teachings of pharmacy under one collected commentary (",
+            {
+              "type": "em",
+              "children": [
+                "jizhu"
+              ]
+            },
+            "). Out of the various schools, Tao endorsed one particular tradition identifying with the ancient sage-king Divine Farmer (",
+            {
+              "type": "em",
+              "children": [
+                "Shennong"
+              ]
+            },
+            ") who, according to legend, tasted one hundred herbs to distinguish medicine from poison. Combining a set of 365 drugs from the Divine Farmer tradition with another 365 from a different source, Tao Hongjing created a standardized format and organizing principle for the study of bencao.",
+            {
+              "type": "note",
+              "id": "intro-n012",
+              "label": "12"
+            },
+            " Despite his status as a hermit who stayed away from court politics, Tao’s medical and alchemical works received generous sponsorship from regional rulers of the south."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p013"
+      ]
+    },
+    {
+      "id": "intro-p014",
+      "page": "6, 7",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "隋（581—618）、唐（618—907）统一南北之后，国家对医术的介入进一步加强。658年，唐高宗任命的一批官员与御医完成了新修本草，以陶弘景《集注》为基础，把条目从730种增至850种。效法唐代先例，10世纪的地方政权，如后蜀（934—965），也敕修自己的药典，以图伸张帝王正统。初生的北宋在973年、尚未完成对南方的征服之前，便开始编纂其第一部药典。1057—1061年间，宋廷又启动了一轮规模更大的药典工程，把条目增至1,083种。",
+            {
+              "type": "note",
+              "id": "intro-n013",
+              "label": "13"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "State involvement in the medical arts intensified following the unification of the northern and southern regimes under the Sui (581–618) and Tang (618– 906) dynasties. In 658 CE, a group of officials and court physicians appointed by Emperor Gaozong completed a newly compiled (",
+            {
+              "type": "em",
+              "children": [
+                "xinxiu"
+              ]
+            },
+            ") bencao based on Tao Hongjing’s ",
+            {
+              "type": "em",
+              "children": [
+                "Collected Commentary"
+              ]
+            },
+            ", expanding the number of entries from 730 to 850. Following the Tang precedent, regional regimes in the tenth century, such as the Later Shu (934–65 CE), commissioned their own pharmacopeia in an effort to claim imperial legitimacy. The nascent Northern Song dynasty began compiling its first pharmacopeia in 973, even before its conquest of the south was completed. During 1057–61, the Song court issued another round of even more ambitious pharmacopeia projects, raising the number of entries to 1,083.",
+            {
+              "type": "note",
+              "id": "intro-n013",
+              "label": "13"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p014"
+      ]
+    },
+    {
+      "id": "intro-p015",
+      "page": "7",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "此处必须指出，唐宋本草药典在精神上是普遍主义的，在组织上则是领土性的。在朝廷，皇帝使医学专家与士人官员合作，既利用地方行政机构呈报的资料，也利用各地采集的标本。一方面，国家敕修药典的普遍主义性格，彰显了一种超越个别医生专有实践的公共利益。药典提供了一部稳定、权威的参照，鼓励——若非强制——在药材采办、炮制与单方、复方配给方面的标准化。国家把药学从医者的秘传领域中取出，利用他们对强效物质的切身知识，同时借助朝廷文人之手，把“鄙俗之言”润色为雅驯之文。",
+            {
+              "type": "note",
+              "id": "intro-n014",
+              "label": "14"
+            },
+            " 在这个意义上，我用“药典”一词来指涉这一规范任务，但并不意味着中世纪中国围绕这些文本之使用所形成的法律基础设施，与很久以后引入欧洲城市行会的那一套完全相同。",
+            {
+              "type": "note",
+              "id": "intro-n015",
+              "label": "15"
+            },
+            " 本草文本一旦编成，便成为考试与选拔御医机构人员的依据，但并不是用来规范普通医者配药疗病的规则。毋宁说，中国药典意在对抗治疗市场上的匿名性与反复无常，而不是为市场本身制定规则。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is important to note here that the Tang and Song bencao pharmacopeias were universalist in spirit and territorial in organization. At court, the emperor enabled medical experts and literati officials to work in collaboration, drawing both from reports and from specimens gathered from local administrations. On the one hand, the universalist character of state-commissioned pharmacopeias made a point of public interest transcending the proprietary practice of individual physicians. The pharmacopeia offered a stable, authoritative reference that encouraged, if not enforced, standardization in the sourcing, processing, and dispensing of simple and compound drugs. Taking pharmacy out of the esoteric realm of medical practitioners, the State harnessed their intimate knowledge of the potent substances while relying on the help of court literati to refine “vulgar language” into elegant prose.",
+            {
+              "type": "note",
+              "id": "intro-n014",
+              "label": "14"
+            },
+            " In this sense, I use the term “pharmacopeia” to imply this normative task without suggesting that the legal infrastructure that surrounded the use of these texts in medieval China was identical to that introduced to European city guilds much later.",
+            {
+              "type": "note",
+              "id": "intro-n015",
+              "label": "15"
+            },
+            " Once compiled, the bencao texts served as a basis for testing and selecting personnel to staff the imperial medical offices, but not for regulating the dispensing of cures by the average practitioner. If anything, the Chinese pharmacopeias were meant to counteract the anonymity and caprice of the marketplace of healing, not to set up rules for the marketplace per se."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p015"
+      ]
+    },
+    {
+      "id": "intro-p016",
+      "page": "7, 8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "唐宋药典的普遍主义取向，也体现在其收载范围上。除了以药物减轻人类痛苦的直接目的，这些百科全书式文本还力图命名并描述万物，把它们安置到世界中的恰当位置。在象征层面上，它们提供了一套关于万物起源的知识框架，可以无限扩展。11世纪中叶一部本草的主编者苏颂（1020—1101）在序言中宣称，皇帝以最高的仁德“涵养生类”。这种皇恩的受益者不仅是人，也包括矿物、植物与动物。苏颂写道，皇帝“哪怕有一物失其所，也会感到悲伤”。",
+            {
+              "type": "note",
+              "id": "intro-n016",
+              "label": "16"
+            },
+            " 因此，药典必须在收载范围上具有普遍性，以证明皇帝确实依循天命而行。对一切生命的治理——史家 TJ Hinrichs 所称的“转化性治理”——构成了儒家官员与朝廷医学专家合作编纂药典的意识形态基础。",
+            {
+              "type": "note",
+              "id": "intro-n017",
+              "label": "17"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The universalist outlook of Tang-Song pharmacopeias is also manifest in their scope of coverage. Aside from the immediate purpose of alleviating human suffering with drugs, these encyclopedic texts sought to name and describe all creatures and to designate them to their proper place in the world. On a symbolic level, they offered a framework of knowledge about the origin of all creatures that could be endlessly expanded. Su Song (1020–1101), chief compiler of one mid-eleventh-century bencao, announced in his preface that the emperor “nourishes and nurtures all living beings” (",
+            {
+              "type": "em",
+              "children": [
+                "hanyang shenglei"
+              ]
+            },
+            ") with ultimate benevolence and virtue. The beneficiaries of this imperial compassion consisted not just of humans, but also minerals, plants, and animals. “He feels sorrowful,” writes Su, “even if one thing loses its proper place.”",
+            {
+              "type": "note",
+              "id": "intro-n016",
+              "label": "16"
+            },
+            " The pharmacopeia, therefore, had to be universal in its coverage, so as to prove that the emperor was truly acting in accord with the Mandate of Heaven. The governance of all life—what historian TJ Hinrichs has called “transformative governance”—formed the ideological basis of the collaboration between Confucian officials and medical experts at court in producing a pharmacopeia.",
+            {
+              "type": "note",
+              "id": "intro-n017",
+              "label": "17"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p016"
+      ]
+    },
+    {
+      "id": "intro-p017",
+      "page": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "唐宋本草的领土性组织，可以说是对早期药学文本最显著的偏离。医药与炼丹实践者深知，稀有物质资源的获取与国家的领土控制密切相关。陶弘景在南北分裂之际写作，在《集注》中以政治语汇解释药物供应的中断："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The territorial organization of the Tang-Song bencao is arguably the most conspicuous departure from earlier pharmaceutical texts. Medico-alchemical practitioners knew that the procurement of rare material resources was closely tied to the territorial control of the state. Tao Hongjing, writing at a time of north–south division, framed the disruption of pharmaceutical supplies in political terms in his ",
+            {
+              "type": "em",
+              "children": [
+                "Collected Commentary"
+              ]
+            },
+            ":"
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p017"
+      ]
+    },
+    {
+      "id": "intro-p018",
+      "page": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "“自晋室南渡以来，小小杂药，多出近道，气力性理，不及本邦。……此亦疗病不及往人之由也。”",
+            {
+              "type": "note",
+              "id": "intro-n018",
+              "label": "18"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "Ever since [the Jin Dynasty] retreated to the south of the Yangzi River, small and miscellaneous drugs often come from places nearby, and their power and nature are inferior to those from their original places. . . . This must be the reason why medication is less efficacious than previous generations.",
+            {
+              "type": "note",
+              "id": "intro-n018",
+              "label": "18"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p018"
+      ]
+    },
+    {
+      "id": "intro-p019",
+      "page": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "后来，在唐廷士人眼中，陶弘景自己的说法开始显得狭隘。孔子后裔、经学家孔颖达（574—648）之子孔志约在药典编纂中发挥核心作用。他在序中对陶弘景有如下评论："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Later, Tao’s own statements started to look parochial in the eyes of the Tang courtiers. Kong Zhiyue, a descendant of Confucius and son of classicist Kong Yingda (574–648), played a central role in the compilation of the pharmacopeia. In his preface, Kong made the following remarks about Tao Hongjing:"
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p019"
+      ]
+    },
+    {
+      "id": "intro-p020",
+      "page": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "“当时地方政权彼此对峙，他于远方之地见闻有限。又无缘与同僚商议，其解释便囿于自身所学。因此……他弄错了粟与稻的黄白之色……也分不清铅与锡、橘与柚。”",
+            {
+              "type": "note",
+              "id": "intro-n019",
+              "label": "19"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "At that time, regional regimes confronted each other, and he could not have heard or seen much about the distant lands. Without the opportunity for deliberating with colleagues, his interpretation was preoccupied with his own learning. And so . . . he made mistakes in [describing] millet and rice’s yellow and white colors . . . and could not tell lead from tin, or oranges from pomelo.",
+            {
+              "type": "note",
+              "id": "intro-n019",
+              "label": "19"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p020"
+      ]
+    },
+    {
+      "id": "intro-p021",
+      "page": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "相比之下，唐本草要求各郡县呈报，把标记自然产地的地名改为统一政权下的标准行政名称。那种凌驾于普通医者之上的优越感十分明显。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "By contrast, the Tang pharmacopeia commissioned reports from all commanderies and districts (",
+            {
+              "type": "em",
+              "children": [
+                "junxian"
+              ]
+            },
+            "), changing place-names that marked natural sites into the standard administrative nomenclature under the unified regime. The tone of superiority over ordinary practitioners was very clear."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p021"
+      ]
+    },
+    {
+      "id": "intro-p022",
+      "page": "8, 9",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "总体而言，唐宋国家对本草传统的挪用，导致其核心术语所表达的优先事项发生明显转变。陶弘景所引《神农本草经》指引实践者前往特定的山岳与洞穴，那里是植物、动物与矿物“生”之处。陶弘景在旧文之后所增条目中，描述药物“有”之地。7世纪中叶的唐本草列出珍贵药物“出”自的地方行政名称。到宋代，“产”的话语进入药典，带有更明确的开发、利用意味。第二章将说明，这一表述又如何与国家为自身用途获取关键资源的手段纠缠在一起。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Overall, the Tang-Song state’s appropriation of the bencao tradition resulted in a clear shift of priorities as expressed in its core terminologies. The ",
+            {
+              "type": "em",
+              "children": [
+                "Divine Farmer’s Classic"
+              ]
+            },
+            ", quoted by Tao Hongjing, directed practitioners to specific sites, such as sacred mountains and caves, where plants, animals, and minerals “live/grow” (",
+            {
+              "type": "em",
+              "children": [
+                "sheng"
+              ]
+            },
+            "). In the additional entries that Tao attached to the old text, he described sites where medicinal substances “exist” (",
+            {
+              "type": "em",
+              "children": [
+                "you"
+              ]
+            },
+            "). In the mid-seventh century, the Tang bencao listed names of local administrations where valuable drugs “come forth/emerge” (",
+            {
+              "type": "em",
+              "children": [
+                "chu"
+              ]
+            },
+            "). By Song times, we see the discourse of “products/production” (",
+            {
+              "type": "em",
+              "children": [
+                "chan"
+              ]
+            },
+            ") entering the pharmacopeia, which carries a more explicit meaning of exploitation. In chapter 2, we will see how this formulation was also entangled with the means by which the state obtained critical resources for its own use."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p022"
+      ]
+    },
+    {
+      "id": "intro-p023",
+      "page": "9",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "全面叙述唐宋本草的历史超出本书范围，相关的重要新研究仍在不断涌现。只需指出，唐宋本草并非铁板一块的传统，而是其时代政治、经济与思想需要的偶然产物。尽管如此，朝廷对这些巨帙的高调赞助从7世纪起延续五百余年，成为衡量后来发展的醒目参照。接下来，我们转向把后世本草安置于中国科学与文明宏大叙事中的几种主要路径。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is beyond the scope of this book to give a full historical account of Tang-Song pharmacopeias, about which much exciting new research continues today. It suffices to note that the Tang-Song pharmacopeias were no monolithic tradition, but contingent products of the political, economic, and intellectual exigencies of their times. Nevertheless, the court’s high-profile sponsorship of these monumental texts, which lasted for over five hundred years starting in the seventh century, became a conspicuous point of reference against which later developments were measured. We now turn to the major approaches to the placement of later bencao in larger narratives about Chinese science and civilization."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p023"
+      ]
+    },
+    {
+      "id": "intro-s02",
+      "page": "9",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "本草与中国科学的分期"
+          ],
+          "level": 3
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "Bencao and the Periodization of Chinese Science"
+          ],
+          "level": 3
+        }
+      ],
+      "canonical_kind": "section_heading",
+      "source_ids": [
+        "intro-s02"
+      ]
+    },
+    {
+      "id": "intro-p024",
+      "page": "9",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "“古印度没有动物学，只有肉类的目录。”弗朗西斯·齐默尔曼（Francis Zimmermann）在研究印度医学生态主题的著作中写道。",
+            {
+              "type": "note",
+              "id": "intro-n020",
+              "label": "20"
+            },
+            " 考察中国药典的人也许会得出类似结论：尽管本草承认矿物、植物与动物分属不同的类（lei），却把它们一概作为药物之物来处理。与本草并行发展的、对动植物作非医学处理的方式（例如对生物名称作字书式考释）从未获得与之相埒的声望，也未曾享有唐宋时期与皇家赞助相连的盛大排场。",
+            {
+              "type": "note",
+              "id": "intro-n021",
+              "label": "21"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "“There is no zoology in ancient India, only catalogs of meats,” writes Francis Zimmermann in his study of ecological themes in Hindu medicine.",
+            {
+              "type": "note",
+              "id": "intro-n020",
+              "label": "20"
+            },
+            " Someone examining the Chinese pharmacopeia might draw a similar conclusion, for even though the bencao recognizes minerals, plants, and animals as belonging to different kinds (",
+            {
+              "type": "em",
+              "children": [
+                "lei"
+              ]
+            },
+            "), it approaches them all as pharmaceutical objects. Nonmedical approaches to flora and fauna (e.g., a lexicographical approach to the names of creatures) developed in parallel with bencao but never received comparable prestige or the fanfare associated with imperial patronage in Tang-Song times.",
+            {
+              "type": "note",
+              "id": "intro-n021",
+              "label": "21"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p024"
+      ]
+    },
+    {
+      "id": "intro-p025",
+      "page": "9, 10",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "1866年起在北京俄国使馆任医官的波罗的海德意志人埃米尔·布雷特施奈德（Emil Bretschneider），发现中国本草对现代植物学的价值时，所依据的主要参考文献是16世纪医家李时珍的《本草纲目》。李时珍的本草收载1,892条，在广度与精细程度上都超过此前的药典。布雷特施奈德通过其著作，首次系统描述了中国独有的国家敕修药典传统，把这些药典视为研究历代植物学与文化交流的珍贵资料。",
+            {
+              "type": "note",
+              "id": "intro-n022",
+              "label": "22"
+            },
+            " 出于实际需要，通商口岸不断增多的医生、传教士与外国侨民也迫切感到需要了解当地药学。20世纪之交，爱荷华出生的斯图尔特（G. A. Stuart，1858—1911）出版了一部诠释性的中国药典研究，保留中文术语，并附上他观察繁忙药品贸易所作的札记。",
+            {
+              "type": "note",
+              "id": "intro-n023",
+              "label": "23"
+            },
+            " 20世纪最初几十年，伊博恩（Bernard E. Read，1887—1949）在洛克菲勒基金会资助的北京协和医学院教授药理学，后来在耶鲁获得药理学博士学位。他与中方同事合作，系统研究李时珍《本草纲目》，并在1930年代发表了关于植物药、鸟类药、鱼类药及其他动物药的论文。",
+            {
+              "type": "note",
+              "id": "intro-n024",
+              "label": "24"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "When Emil Bretschneider, a Baltic German who served as a medical officer in the Russian embassy in Peking beginning in 1866, discovered the value of Chinese bencao for the modern discipline of botany, the main reference he used was ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao gangmu (Systematic Materia Medica"
+              ]
+            },
+            ") by the sixteenth-century physician Li Shizhen. Containing 1,892 entries, Li Shizhen’s bencao surpassed previous pharmacopeias in its breadth and sophistication. Through his writings, Bretschneider presented the first systematic description of the unique Chinese tradition of state-commissioned pharmacopeias, citing them as valuable sources for the study of botanical and cultural exchange throughout the ages.",
+            {
+              "type": "note",
+              "id": "intro-n022",
+              "label": "22"
+            },
+            " For practical reasons also, physicians, missionaries, and foreign residents of the proliferating treaty ports found themselves urgently in need of an understanding of the native pharmacy. At the turn of the twentieth century, the Iowa-born G. A. Stuart (1858–1911) published an interpretive study of the Chinese pharmacopeia, preserving Chinese terminologies and adding notes from his observations on the bustling trade.",
+            {
+              "type": "note",
+              "id": "intro-n023",
+              "label": "23"
+            },
+            " In the early decades of the twentieth century, Bernard E. Read (Chinese name Yi Bo-en, 1887–1949) taught pharmacology at the Rockefeller-sponsored Peking Union Medical College and later obtained his own PhD in pharmacology at Yale. Working with his Chinese colleagues, Read systematically studied Li Shizhen’s ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao gangmu"
+              ]
+            },
+            " and published studies of botanical, avian, fish, and other animal-derived drugs in the 1930s.",
+            {
+              "type": "note",
+              "id": "intro-n024",
+              "label": "24"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p025"
+      ]
+    },
+    {
+      "id": "intro-p026",
+      "page": "10",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在这些早期著作的基础上，第二次世界大战结束后，一个可验证的本草与中国药学研究领域逐渐形成。日本与欧洲学者沿各自汉学传统继续推进，侧重文本诠释与书目研究。受冷战意识形态对立的驱动，中国大陆的史家寻求以马克思主义解释前现代中国科学，同时出版本草现代整理本，以促进传统疗法的普及应用。德国中国医学研究的泰斗文树德（Paul U. Unschuld）以日本学界的研究为基础，并与中国同行合作。他们对本草的细致研究，为本书提供了坚实基础。",
+            {
+              "type": "note",
+              "id": "intro-n025",
+              "label": "25"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Building on those early works, a verifiable field of research dedicated to the study of bencao and Chinese pharmacy emerged after the end of World War II. Scholars in Japan and Europe continued along their respective traditions of Sinological research with a focus on textual interpretation and bibliographical research. Motivated by the dominant ideological divide of the Cold War, historians in mainland China searched for a Marxist interpretation of premodern Chinese science, while publishing modern editions of bencao to facilitate the popular application of traditional therapies. Paul U. Unschuld, the preeminent scholar of Chinese medicine in Germany, built his own work on Japanese scholarship and collaboration with Chinese colleagues. Their meticulous research on bencao has provided a solid foundation for the present study.",
+            {
+              "type": "note",
+              "id": "intro-n025",
+              "label": "25"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p026"
+      ]
+    },
+    {
+      "id": "intro-p027",
+      "page": "10, 11",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "战后国家发展与意识形态竞争的情绪，凝结为所谓的“李约瑟问题”：英国胚胎学家转行成为历史学家的李约瑟（Joseph Needham）及其合作者，以剑桥为基地，设计了名为《中国科学技术史》（Science and Civilisation in China, SCC）的宏大出版计划。李约瑟计划的任务有两重：第一，记录现代之前中国科学技术令人敬畏的成就；第二，对进步进行“大滴定”，以确定西方文明在何时决定性地超越中国。",
+            {
+              "type": "note",
+              "id": "intro-n026",
+              "label": "26"
+            },
+            " 本草——李约瑟译作“药物自然史”的“总览”（pandects）——为这一任务提供了极佳材料：一方面，唐宋大型药典比欧洲实施医政早了好几个世纪，令人设想中国早在宋代就已经历某种科学复兴，并在政治与社会上具备现代眼光；另一方面，被李约瑟誉为“药师之王”巅峰成就的李时珍《本草纲目》，在明清中国并未引发同类的后续研究。李时珍1593年去世后，“一切都不再一样了”，李约瑟叹息道。",
+            {
+              "type": "note",
+              "id": "intro-n027",
+              "label": "27"
+            },
+            " 这似乎再次清楚证明，西方的兴起可以定在16世纪末至17世纪初，恰好与牛顿和英国科学革命同时，而李约瑟正居住在英国。本草的案例符合1970、1980年代的普遍共识：帝制晚期中国陷入生产力与文化成熟度的某种“高水平均衡”，只有上升中的西方从外部施加力量，才能把中国从困境中解救出来。",
+            {
+              "type": "note",
+              "id": "intro-n028",
+              "label": "28"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The postwar sentiments of national development and ideological rivalry came to be distilled in the so-called Needham question: based in Cambridge, the British embryologist-turned-historian Joseph Needham and his collaborators designed an ambitious publishing project known as the Science and Civilisation in China (SCC) series. The task of Needham’s project was twofold: first, to document the awe-inspiring accomplishments of Chinese science and technology prior to the modern era; and second, to perform the “grand titration” of progress, so as to determine the point in time when Western civilization decisively surpassed that of China.",
+            {
+              "type": "note",
+              "id": "intro-n026",
+              "label": "26"
+            },
+            " The case of bencao, which was translated as “pandects” of “pharmaceutical natural history” by Needham, presented excellent material for this task: on the one hand, the great Tang and Song pharmacopeias predated European efforts to implement medical administration by centuries, spurning the notion that already in the Song dynasty, China had undergone a sort of renaissance in science and assumed a modern outlook in its politics and society. On the other hand, Li Shizhen’s ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao gangmu"
+              ]
+            },
+            ", hailed as the crowning achievement for the “prince of pharmacists” by Needham, sparked no further pursuit along similar lines in Ming-Qing China. “Nothing was quite the same” after Li Shizhen’s death in 1593, lamented Needham.",
+            {
+              "type": "note",
+              "id": "intro-n027",
+              "label": "27"
+            },
+            " This again seemed clear proof that the rise of the West could be dated to the late sixteenth to early seventeenth century, conveniently contemporary to Newton and the Scientific Revolution in England, where Needham resided. The case of bencao fit the general consensus of the 1970s and 1980s that late imperial China was trapped in a sort of “high-level equilibrium” of productivity and cultural maturity.",
+            {
+              "type": "note",
+              "id": "intro-n028",
+              "label": "28"
+            },
+            " Only external forces, imposed by the ascending West, could deliver China from its predicament."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p027"
+      ]
+    },
+    {
+      "id": "intro-p028",
+      "page": "11",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而，我们不能忽视一个事实：17、18世纪的中国作者确实创作了大量本草。他们并未沿袭李时珍及更早药典的“总览”类型。对现存中国医学文本的书目研究表明，可系于17世纪的新书超过130种，18世纪超过110种，而15世纪不足20种，16世纪为50—60种。",
+            {
+              "type": "note",
+              "id": "intro-n029",
+              "label": "29"
+            },
+            " 史家们受制于以更早的标准评估其意义，大多把后来的书目贬为仅仅重新编排旧说的“折衷”专著，或更糟，视为返归本草古老核心的退化尝试，把数百年积累的进步弃置一旁。",
+            {
+              "type": "note",
+              "id": "intro-n030",
+              "label": "30"
+            },
+            " 无论如何，李约瑟问题已成一种修辞装置，引出“文明之间争夺科学霸权”的固定答案——而中国约在1600年输掉了这场竞赛。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "However, we must not ignore the fact that Chinese authors in the seventeenth and eighteenth centuries did create a large number of bencao. They did not follow the “pandect” type of Li Shizhen and earlier pharmacopeias. Bibliographical research of extant Chinese medical texts indicates that more than 130 new titles can be dated to the seventeenth century and over 110 to the eighteenth century, compared to fewer than 20 in the fifteenth century and 50–60 in the sixteenth century.",
+            {
+              "type": "note",
+              "id": "intro-n029",
+              "label": "29"
+            },
+            " Compelled to evaluate their significance by earlier standards, historians have largely dismissed the later titles as either “eclectic” monographs that merely rearranged earlier insights, or worse, atavistic attempts to return to the ancient nucleus of bencao, discarding by the wayside the progress made over centuries.",
+            {
+              "type": "note",
+              "id": "intro-n030",
+              "label": "30"
+            },
+            " In any case, the Needham question has become a rhetorical device that invites the set answer of a race between civilizations for scientific dominance, which China lost circa 1600."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p028"
+      ]
+    },
+    {
+      "id": "intro-p029",
+      "page": "11, 12",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "今天，在我们多元文化的感受中，李约瑟问题显得过时。学术共识确实已从寻找科学发现的首创权与竞争力，转向把科学解释为实践与文化——科学既受政治需要的影响，也受可建构的社会规范的塑造。",
+            {
+              "type": "note",
+              "id": "intro-n031",
+              "label": "31"
+            },
+            " 因此，最恰当的是看法国的中国学学者乔治·梅泰利耶（Georges Métailié）接过李约瑟未完成的中国植物学讨论，并沿非常不同的思路重新表述后者的问题。梅泰利耶拒绝《大滴定》及其跨文化可通约性的预设，细致研究李时珍《本草纲目》以及宋代药典的文本与图像惯例，以说明它们与欧洲同类著作何其不同。梅泰利耶强调药物物性的互动性质，拒绝把“植物学”一类术语套用于中国本草，宁愿用“民族植物学”（ethnobotany）把植物研究与人事务联系起来。这样做使他得以把网撒向整个17世纪转型，看到明清自然研究路径中的连续性。他的工作开辟了新天地，揭示了后期植物研究如何与儒家自然哲学与政治哲学汇流。最终，梅泰利耶既未看到证据，也未见必要，认为中国传统植物学与现代植物科学可能存在“融合点”。",
+            {
+              "type": "note",
+              "id": "intro-n032",
+              "label": "32"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Today, the Needham question appears outdated to our multicultural sensibilities. Scholarly consensus has indeed moved from a search for priority of discovery and competitiveness in science toward interpreting science as practice and culture, malleable to political exigencies and constructible social norms.",
+            {
+              "type": "note",
+              "id": "intro-n031",
+              "label": "31"
+            },
+            " It is thus most fitting to see the French sinologist Georges Métailié take over Needham’s unfinished discussion of botany in China and reformulate the latter’s questions along very different lines. Rejecting ",
+            {
+              "type": "em",
+              "children": [
+                "The Grand Titration"
+              ]
+            },
+            " and its presumption of cross-cultural commensurability, Métailié closely studied Li Shizhen’s ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao gangmu"
+              ]
+            },
+            ", along with the Song pharmacopeia in its textual and pictorial conventions, to explain how different they were from their European counterparts. Highlighting the interactive nature of pharmaceutical objecthood, Métailié rejected the applicability of terms such as “botany” to Chinese bencao, preferring “ethnobotany” instead to connect the study of plants with human affairs. Doing so allowed Métailié to cast his net widely across the seventeenth-century transition and see ",
+            {
+              "type": "em",
+              "children": [
+                "continuities"
+              ]
+            },
+            " in Ming-Qing approaches to the natural world. His work broke new ground and shed light on the confluence of the study of plants with Confucian natural and political philosophy in the later period. In the end, Métailié saw neither evidence nor necessity that traditional botany in China and the modern science of botany could have a “fusion point.”",
+            {
+              "type": "note",
+              "id": "intro-n032",
+              "label": "32"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p029"
+      ]
+    },
+    {
+      "id": "intro-p030",
+      "page": "12",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "21世纪初，学者以更灵活的“认知文化”概念取代李约瑟对文明的关切，解释中国科学过去的策略进一步多样化。卡拉·纳皮（Carla Nappi）在《猴子与墨壶》中，对李时珍《本草纲目》的认识论与编纂策略作了贴近文本的解读，带领读者全景式巡游其中呈现的世界。纳皮反对不可化约的文化差异观念——以及由此产生的把非西方文化视为非理性的倾向——说明物质的自发转化如何塑造了李时珍对世界及其中万千物种的理解。同样，达格玛·舍费尔（Dagmar Schäfer）对宋应星（1587—1666）的研究，揭示了宋应星对早期唯物主义本体论倡导者的亏欠；这又使宋应星得以构造一套关于技术之宇宙效力的有力话语。宋应星是晚明另一位常被孤立讨论、却很少被置于语境中的人物。这两部著作继承了席文早先的洞见：中国科学中的革命性时刻，可以不依赖以西方为中心的分期而重新界定。两项研究也都超越文化比较，强调必须阐明推动中国作者的认识论前提与观念谱系。",
+            {
+              "type": "note",
+              "id": "intro-n033",
+              "label": "33"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Replacing Needham’s concern with civilizations with a more flexible notion of epistemic cultures, the early 2000s saw a further diversification of interpretive strategies toward China’s scientific past. In ",
+            {
+              "type": "em",
+              "children": [
+                "The Monkey and the Inkpot"
+              ]
+            },
+            ", Carla Nappi offers an intimate reading of Li Shizhen’s epistemic and compositional strategies in ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao gangmu"
+              ]
+            },
+            ", taking the readers on a panoramic tour of the world presented therein. Writing against the notion of irreducible cultural difference—and the tendency, therefore, to see non-Western culture as irrational—Nappi shows the ways in which the spontaneous transformation of matter informed Li’s understanding of the world, as well as the myriad species that reside in it. Similarly, Dagmar Schäfer’s study of Song Yingxing (1587– 1666), another figure of the late Ming who was much discussed in isolation but rarely contextualized, sheds light on the debt Song owed to earlier advocates of materialistic ontology, which in turn allowed Song to formulate a powerful discourse on the cosmic efficacy of technology. These two works carry forward Nathan Sivin’s earlier insight about the possibility of redefining revolutionary moments in Chinese science independent of Western-centered periodization. Both studies also go beyond cultural comparisons to emphasize the necessity of elucidating the epistemic premises and genealogy of ideas that motivated Chinese authors.",
+            {
+              "type": "note",
+              "id": "intro-n033",
+              "label": "33"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p030"
+      ]
+    },
+    {
+      "id": "intro-p031",
+      "page": "12",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "2000年以来的另一项重要发展，要求重新审视地区性与全球性的科学交流，强调中国行动者的能动性——用艾尔曼（Benjamin Elman）的话说，他们“以自己的方式”回应并参与西学。由此，我们现在可以把17世纪看作对全球联系与差异展开多方向的理解与应对：中国科学既成为强烈兴趣的对象，同时也经历深刻转型。此外，艾尔曼的叙述还把早期近代与19世纪、20世纪初连成一条连续弧线，使我们看到晚清改革者的灵感不仅来自西方国家与日本，也来自中国思想传统内部。",
+            {
+              "type": "note",
+              "id": "intro-n034",
+              "label": "34"
+            },
+            " 在区域语境中，费德里科·马尔孔（Federico Marcon）与 Suyoung Suh 的著作揭示了早期近代日本与朝鲜的不同动力；在那里，中国意识形态与器物影响了当地科学文化，但绝非预先决定了它。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Another important development since 2000 calls for a reexamination of regional and global scientific exchange, emphasizing the agency of Chinese actors who, in Benjamin Elman’s words, reacted and engaged with Western learning “on their own terms.” In so doing, we can now see the seventeenth century as a multidirectional reckoning of global connections and differences, in which Chinese science emerged as an object of intense interest ",
+            {
+              "type": "em",
+              "children": [
+                "and"
+              ]
+            },
+            " underwent deep transformations at the same time. Furthermore, Elman’s account also serves to connect the early modern in a continuous arc with the nineteenth and early twentieth centuries, allowing us to see how Chinese reformers in the late Qing drew their inspiration not only from Western nations and Japan, but also from within the Chinese intellectual tradition.",
+            {
+              "type": "note",
+              "id": "intro-n034",
+              "label": "34"
+            },
+            " In the regional context, Federico Marcon and Suyoung Suh’s works shed light on the different dynamics in early modern Japan and Korea, where Chinese ideologies and artifacts informed, but by no means predetermined, local scientific cultures."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p031"
+      ]
+    },
+    {
+      "id": "intro-p032",
+      "page": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "除天文学、数学等讨论较多的领域外，医学与药学观念的交流也激发了许多新作与持续的研究。",
+            {
+              "type": "note",
+              "id": "intro-n035",
+              "label": "35"
+            },
+            " 下文我将说明本书如何为这一充满活力的领域作出新贡献。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Exchanges of medical and pharmacological ideas, in addition to the more prominently discussed fields like astronomy and mathematics, inspired many new works and ongoing research.",
+            {
+              "type": "note",
+              "id": "intro-n035",
+              "label": "35"
+            },
+            " Below, I turn to the ways in which this book makes a new contribution to this vibrant field."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p032"
+      ]
+    },
+    {
+      "id": "intro-s03",
+      "page": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "作为知识史的明清转型：三个主题"
+          ],
+          "level": 3
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "The Ming-Qing Transition as a History of Knowledge: Three Themes"
+          ],
+          "level": 3
+        }
+      ],
+      "canonical_kind": "section_heading",
+      "source_ids": [
+        "intro-s03"
+      ]
+    },
+    {
+      "id": "intro-p033",
+      "page": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "没有哪一种单一模式支配中国历史的任何时期。唐宋药典颂扬的是一种整齐的药学知识模型，它随国家权力一同扩张；然而制造这种知识的过程却充满离题、删削与不协。同样，药典传统的终结必须被理解为曾支撑其正当性的多重条件逐渐解体。响应史家卡琳·谢姆拉（Karine Chemla）与伊夫琳·福克斯·凯勒（Evelyn Fox Keller）的号召，把科学作为“没有文化主义的文化”来考察，我把明清本草这一不驯的文本群视为中国认识论传统内部持续争论的证据。",
+            {
+              "type": "note",
+              "id": "intro-n036",
+              "label": "36"
+            },
+            " 李时珍、宋应星这样的非凡人物，如同森林中的树木，站在其时代一切可能认识论位置的边缘。通过追踪三百余年间本草轮廓的变化，本书试图为那片森林的生命作一幅整体速写。",
+            {
+              "type": "note",
+              "id": "intro-n037",
+              "label": "37"
+            },
+            " 现在，让我介绍贯穿全书的三个连续主题。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "No singular pattern governs any period of Chinese history. The Tang-Song pharmacopeia celebrates a neat model of pharmaceutical knowledge that keeps expanding along with the state’s power, and yet the processes of making such knowledge were fraught with digressions, deletions, and dissonances. Similarly, the end of the pharmacopeia tradition must be grasped as the gradual unraveling of multiple conditions that once sustained its legitimacy. Following historians Karine Chemla and Evelyn Fox Keller’s call to examine science as “culture without culturalism,” I treat the unruly corpus of Ming-Qing bencao as evidence of ongoing contention within the Chinese epistemic tradition.",
+            {
+              "type": "note",
+              "id": "intro-n036",
+              "label": "36"
+            },
+            " Extraordinary individuals such as Li Shizhen and Song Yingxing, like trees in a forest, stood at the edges of the whole range of possible epistemic positions in their times. By following the changing contours of bencao across three hundred years, this book seeks to give a holistic sketch of the life of that forest.",
+            {
+              "type": "note",
+              "id": "intro-n037",
+              "label": "37"
+            },
+            " Let me now introduce three consecutive themes that will guide my analysis in this book."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p033"
+      ]
+    },
+    {
+      "id": "intro-s04",
+      "page": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "16世纪：重建中心"
+          ],
+          "level": 3
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "The Sixteenth Century: Reconstituting the Center"
+              ]
+            }
+          ],
+          "level": 3
+        }
+      ],
+      "canonical_kind": "section_heading",
+      "source_ids": [
+        "intro-s04"
+      ]
+    },
+    {
+      "id": "intro-p034",
+      "page": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "研究帝制晚期中国的史家，常以“中心与地方”来谈论国家。士人精英利用科举制度进入国家政治，或者在不利时局中退守“地方主义”的领导舞台。天命把统治万民的至高权力授予皇帝，也把他约束在一套被视为自然的道德规范之上。知府与知县由皇帝通过繁复的官僚铨选程序任命，治理地方，并在直接统治的民众面前，用施珊珊（Sarah Schneewind）的话说，构成一种“小天命”。",
+            {
+              "type": "note",
+              "id": "intro-n038",
+              "label": "38"
+            },
+            " 国家如此构成之后，便力图垄断政治行动的场域，并按照自身的形象塑造社会结构——尽管平民总能找到抵抗、逃避与颠覆的方式。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Historians of late imperial China often speak of the state in terms of the center versus the local. The literati elite used the civil service examination system to gain access to national politics, or, in adversarial times, retreat to a “localist” stage of leadership. The Mandate of Heaven (",
+            {
+              "type": "em",
+              "children": [
+                "tianming"
+              ]
+            },
+            "), which bestowed supreme power on the emperor to govern all lives, also bound him to adhere to a set of moral codes that was considered natural. Prefects and magistrates, appointed by the emperor through an intricate process of bureaucratic assignment, administered the locality and formed, in Sarah Schneewind’s words, a sort of “Minor Mandate” vis-à-vis the populace they directly governed. Thus constituted, the State sought to monopolize the field of political action and mold the fabric of society according to its own image, notwithstanding the reality that commoners could always find ways of resistance, evasion, and subversion.",
+            {
+              "type": "note",
+              "id": "intro-n038",
+              "label": "38"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p034"
+      ]
+    },
+    {
+      "id": "intro-p035",
+      "page": "14",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "换一个角度看，国家也中介着人类社会与更大世界之间的关系。我们已讨论过，唐宋药典的普遍主义眼光如何使皇帝掌握万物知识，从而更好地履行其职责，施行一种模仿上天养育（与惩罚）力量的“转化性治理”。由此看来，医学与占星术一起，成为支撑帝国国家履行天命承诺的关键技术。与生产性技术一道——用舍费尔的话说，这些技术也促成了“开物”——医学与占星专家在中央与地方政府中主张自己应有的位置。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Seen from a different perspective, the State also mediated the relationship between human society and the larger world. We have discussed how the universalist outlook of the Tang-Song pharmacopeia equipped the emperor with knowledge of all things, so as to better perform his duties in a kind of “transformative governance” that mimicked the nurturing (and punitive) powers of heaven. Seen thus, medicine, along with astrology, became an essential technology that upheld the imperial state’s promise to fulfill Heaven’s Mandate. Along with productive technologies that also, in Dagmar Schäfer’s words, fostered the “inception of things” (",
+            {
+              "type": "em",
+              "children": [
+                "kaiwu"
+              ]
+            },
+            "), medical and astrological experts claimed their rightful place in central and local government."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p035"
+      ]
+    },
+    {
+      "id": "intro-p036",
+      "page": "14",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "从15世纪开始，我们看到梁其姿（Angela K. C. Leung）所称的政府“有组织的医学”稳步萎缩，取而代之的是一种更激进地以人为中心、把人类社会福祉置于首位的治理理论。这种人文主义政治的倡导者，毫不意外，也是新儒学的积极教师与传道者。这些士人官员从对宇宙一体的热忱信仰中推出正义信念，并借此推动明代政策在各条战线上的决定性转向。白馥兰（Francesca Bray）对农书的研究生动捕捉了士人官员精英支配技术治理领域的雄心，同时批评国家介入工业、航海与贸易等其他技术。",
+            {
+              "type": "note",
+              "id": "intro-n039",
+              "label": "39"
+            },
+            " “重建中心”的过程充满冲突与不确定性，发生在15、16世纪，并在明世界的每个角落引起强烈感受。这一过程之所以尚未得到充分研究，是因为明代中国的史学本身源自这些政策辩论，并被行动派士人官员的同情者与后裔所主导。",
+            {
+              "type": "note",
+              "id": "intro-n040",
+              "label": "40"
+            },
+            " 我们仍生活在这种充满意识形态色彩的历史学姿态的阴影之下：它试图对研究对象施加道德判断，尤其把宫廷中有权势的宦官与技术专家漫画化。本草文本与药师的药柜，提供了一个良好的观察点，使我们看到明代国家性质变化的另一面。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Beginning in the fifteenth century, we see a steady atrophy of what Angela K. C. Leung has called “organized medicine” in government, replaced by a more aggressively human-centered theory of governance that emphasized the welfare of human society above all else. The advocates of this humanist politics were, unsurprisingly, also vocal teachers and preachers of neo-Confucianism. Empowered by a righteous conviction deduced from their fervent belief in cosmic unity, these scholar-officials pushed for a decisive shift in Ming policy on all fronts. Francesca Bray’s study of agricultural treatises vividly captures the scholar-official elite’s ambition to dominate the technical sphere of governance, while at the same time criticizing state involvement in other kinds of technology such as industry, seafaring, and trade.",
+            {
+              "type": "note",
+              "id": "intro-n039",
+              "label": "39"
+            },
+            " The process of reconstituting the center, replete with strife and uncertainty, took place over the fifteenth and sixteenth centuries and would become keenly felt in all corners of the Ming world. The reason why this process has not yet received much scholarly attention lies in the fact that the historiography of Ming China, which itself stemmed from these policy debates, was dominated by sympathizers and descendants of activist scholar-officials.",
+            {
+              "type": "note",
+              "id": "intro-n040",
+              "label": "40"
+            },
+            " We still live in the shadow of this ideologically charged historiographical stance that sought to impose moral judgment on its subjects, offering caricatures of powerful eunuchs and technicians at court in particular. The corpus of bencao and the pharmacist’s cabinet offered a good vantage point from which to see a different aspect of the changing nature of the Ming state."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p036"
+      ]
+    },
+    {
+      "id": "intro-s05",
+      "page": "14",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "17世纪：士人业余主义及其批评者"
+          ],
+          "level": 3
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "The Seventeenth Century: Literati Amateurism and Its Discontent"
+              ]
+            }
+          ],
+          "level": 3
+        }
+      ],
+      "canonical_kind": "section_heading",
+      "source_ids": [
+        "intro-s05"
+      ]
+    },
+    {
+      "id": "intro-p037",
+      "page": "14, 15",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "史家约瑟夫·列文森（Joseph Levenson）在其关于儒学与中国“现代命运”的著名三部曲中，选择以两章短文开场，讨论“早期近代中国知识文化的基调”。在1960年代列文森写作时，用“早期近代”时刻来谈论明清与20世纪之间的思想连续性，是颇具颠覆性的。然而，在他的分析中，列文森只把科学当作一个话题，断言清初思想中的经验主义是“流产的”，远未成为真正科学的（如今，除其他研究外，艾尔曼关于清代考据学的论述已在这一点上反驳了列文森）。对列文森而言，中国知识文化的现代转型等同于“业余理想的腐蚀”；在此理想中，儒家士人无论任职中枢还是过地方乡绅生活，都拥有充当百业文化仲裁者的权威。列文森以文人画为主要例子，指出“明代风格就是业余风格；明代文化是业余者的神化”。",
+            {
+              "type": "note",
+              "id": "intro-n041",
+              "label": "41"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In his influential trilogy on Confucianism and China’s “modern fate,” historian Joseph Levenson chose to open the entire study with two short chapters on the “tone of early-modern Chinese intellectual culture.” Back in the 1960s when Levenson wrote, it was radical of him to see an intellectual continuity between Ming-Qing times and the twentieth century by speaking of an “early modern” moment. In his analysis, however, Levenson considered the subject of science only to claim that empiricism in early Qing thought was “abortive” and nowhere close to becoming truly scientific (we now have, among others, Elman’s account of Qing philology that refutes Levenson’s claim on this point). For Levenson, the modern transformation of Chinese intellectual culture was synonymous with the “corrosion of the amateur ideal,” in which the Confucian literati, whether serving in central offices or living a local gentry’s life, possessed the authority to be the cultural arbiter of all trades. Using literati painting as his primary example, Levenson observed that “the Ming style was the amateur style; Ming culture was the apotheosis of the amateur.”",
+            {
+              "type": "note",
+              "id": "intro-n041",
+              "label": "41"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p037"
+      ]
+    },
+    {
+      "id": "intro-p038",
+      "page": "15",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "业余主义——或用我们今天的话说，一种“认识论上的杂食”——真的是前现代中国精英文化的标志吗？这样说有把列文森对明代的观察本质化为一种非历史解释框架的风险。其实，在《论语》中我们可以找到一段名言：孔子表现出极大的谦逊，把农耕与园圃的专门知识让给有经验的农夫与园丁。",
+            {
+              "type": "note",
+              "id": "intro-n042",
+              "label": "42"
+            },
+            " 更符合历史实情的做法，是把儒家的业余主义表述视为一种抱负、一种有争议的主张，并且始终与其他技术专长的宣称相竞争。例如，汉代学者扬雄（前53—18）把儒者定义为“通天地人者”，而把“伎”或技术之人定义为“通天地而不通人者”。",
+            {
+              "type": "note",
+              "id": "intro-n043",
+              "label": "43"
+            },
+            " 扬雄承认技术之人对外部世界的掌握，同时重申儒学的人文主义核心不仅与技术之学相容，而且能够超越“区区技术之人”，对内外两个世界形成整体理解。扬雄这番张扬的言论，成为后世同道儒者的参照；但这绝不意味着他们的博学抱负必然在社会生活中得到实现。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Was amateurism, or a kind of “epistemic promiscuity” in our terms today, truly a hallmark of premodern Chinese elite culture? To say so risks essentializing Levenson’s observation of Ming China as an ",
+            {
+              "type": "em",
+              "children": [
+                "ahistorical"
+              ]
+            },
+            " explanatory framework. In the ",
+            {
+              "type": "em",
+              "children": [
+                "Analects"
+              ]
+            },
+            ", we can, in fact, find a famous passage in which Confucius demonstrates the utmost humility by conceding expertise over farming and planting to experienced farmers and gardeners.",
+            {
+              "type": "note",
+              "id": "intro-n042",
+              "label": "42"
+            },
+            " It is more historically accurate to see statements of Confucian amateurism as aspirational, contentious, and always in competition with other claims to technical expertise. For instance, the Han dynasty scholar Yang Xiong (53 BCE–18 CE) defined a Confucian (",
+            {
+              "type": "em",
+              "children": [
+                "ru"
+              ]
+            },
+            ") as “someone who thoroughly comprehends heaven, earth, and human beings,” as opposed to a technician (",
+            {
+              "type": "em",
+              "children": [
+                "ji"
+              ]
+            },
+            ") who “comprehends heaven and earth, but ",
+            {
+              "type": "em",
+              "children": [
+                "not"
+              ]
+            },
+            " people.”",
+            {
+              "type": "note",
+              "id": "intro-n043",
+              "label": "43"
+            },
+            " While acknowledging the technician’s mastery over the external world, Yang reaffirms the humanistic core of Confucianism as not only compatible with technical learning, but also capable of transcending “mere technicians” in forging a holistic understanding of both inner and outer worlds. Yang’s flamboyant statement became a point of reference for like-minded Confucians in later times, yet it by no means indicated that their polymath ambitions were necessarily fulfilled in social life."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p038"
+      ]
+    },
+    {
+      "id": "intro-p039",
+      "page": "15, 16",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "由此看来，唐宋时期本草药典的出现，反而证明了医学专长的韧性——面对儒家因伦理、思想与政治等多种原因而对医术日益增长的兴趣（详见第三章），医学专长并未退让。北宋时期，士人精英更普遍地倾向于主张医学专长，正是在科举制度化使其进入政治的优先通道得以巩固的时刻。",
+            {
+              "type": "note",
+              "id": "intro-n044",
+              "label": "44"
+            },
+            " 换言之，儒家在医学上的业余主义，几乎总是他们掌控国家政治舞台的一种隐喻；对明清士人医学而言，这一点同样成立。",
+            {
+              "type": "note",
+              "id": "intro-n045",
+              "label": "45"
+            },
+            " 因此，晚明文化中日益强烈的业余主义意识，应被读作当时政治的一种症候，而不是中国精英文化一成不变的特征。尽管如此，我们将会看到，儒家业余主义在17世纪本草转型中确实发挥了关键作用。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Seen in this light, the emergence of the bencao pharmacopeia in Tang-Song times rather proved the tenacity of medical expertise in the face of rising Confucian interest in the art of medicine for a range of ethical, intellectual, and political reasons (more on this in chapter 3). The literati elite became more generally inclined to claim medical expertise during the Northern Song, at the very moment when their privileged access to politics was cemented in the regularization of civil examinations.",
+            {
+              "type": "note",
+              "id": "intro-n044",
+              "label": "44"
+            },
+            " Confucian amateurism in medicine served, in other words, almost always as a metaphor of their command over politics on the national stage, and this remained true also for literati medicine in Ming-Qing times.",
+            {
+              "type": "note",
+              "id": "intro-n045",
+              "label": "45"
+            },
+            " The heightened sense of amateurism in late Ming culture should thus be read as a symptom of politics at that time, not as an unchanging feature of Chinese elite culture. Nevertheless, we will see that Confucian amateurism did play a crucial role in the transformation of bencao throughout the seventeenth century."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p039"
+      ]
+    },
+    {
+      "id": "intro-p040",
+      "page": "16",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "与先前儒家业余主义的高峰相比，某些标志性文化人物的影响因印刷文化的繁荣而被大大放大。然而，印刷的效力也降低了进入门槛，邀请此前处于边缘的文化行动者在出版物中发出自己的声音。史家周启荣（Kai-Wing Chow）把出版视为所谓“士商”文化兴起的关键场域；这种文化能够锻造出一个区别于国家的表达“公共领域”。",
+            {
+              "type": "note",
+              "id": "intro-n046",
+              "label": "46"
+            },
+            " 精英女性在这一时期也获得了出版作者身份；大批仕途受阻、最终成为职业写作者的中层士人亦然。",
+            {
+              "type": "note",
+              "id": "intro-n047",
+              "label": "47"
+            },
+            " 文化的多样化与商品化在1680年代清朝征服战争结束后仍在继续。但到那时，情况已表明，扩大的出版场域同样成为儒家业余者的对手在其专业领域重建正统的有效手段。",
+            {
+              "type": "note",
+              "id": "intro-n048",
+              "label": "48"
+            },
+            " 我们再次看到，战争与征服的震荡在17世纪编纂的多样本草文本中留下清晰印记。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Compared with previous high points of Confucian amateurism, the impact of certain iconic cultural figures became much more amplified by the flourishing print culture. The effectiveness of print, however, also lowered the barriers to access, inviting heretofore marginal cultural actors to claim their own voice in published words. Historian Kai-Wing Chow sees publishing as a crucial venue for the emergence of the so-called ",
+            {
+              "type": "em",
+              "children": [
+                "shishang"
+              ]
+            },
+            " (literati and merchant) culture, one that was capable of forging a “public domain” of expression distinct from the State.",
+            {
+              "type": "note",
+              "id": "intro-n046",
+              "label": "46"
+            },
+            " Elite women also gained access to published authorship during this time; so did a large number of middling literati who were kept out of official careers and ended up as professional writers.",
+            {
+              "type": "note",
+              "id": "intro-n047",
+              "label": "47"
+            },
+            " The diversification and commodification of culture continued after the wars of Qing conquest concluded following the 1680s. By that time, however, it had turned out that the widened venues of publishing had become an equally effective means for opponents of Confucian amateurs to rebuild orthodoxy in their areas of expertise.",
+            {
+              "type": "note",
+              "id": "intro-n048",
+              "label": "48"
+            },
+            " Again, we can see the convulsions of war and conquest leave a clear mark on the diverse corpus of bencao compiled during the seventeenth century."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p040"
+      ]
+    },
+    {
+      "id": "intro-s06",
+      "page": "16",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "18世纪：知识—财富—权力的三角"
+          ],
+          "level": 3
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "The Eighteenth Century: A Triangle of Knowledge-Wealth-Power"
+              ]
+            }
+          ],
+          "level": 3
+        }
+      ],
+      "canonical_kind": "section_heading",
+      "source_ids": [
+        "intro-s06"
+      ]
+    },
+    {
+      "id": "intro-p041",
+      "page": "16, 17",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "到1640年代明朝覆亡时，此前的转化性治理模式及其在国家敕修药典中的体现，已经过时，并被扭曲得面目全非。因此，继起的清朝面临重新界定国家与人类社会及更大世界关系的挑战。漫长的18世纪，亦称盛清时代，见证了清朝在三位满洲皇帝及其朝臣领导下对这两个问题的回应逐步定型。在社会治理方面，清廷加强君主对文官官僚体系的领导，压缩地方官行使“小天命”的自主性。取而代之的是，清廷由誓言只对皇帝绝对忠诚的精英官员组成，运用行政力量在水利工程、饥荒救济等领域管理社会。为了在不提高农业税的情况下为政府举措筹资，清廷还与商业利益结成非正式联盟，鼓励并后来直接投资商业与各种产业。",
+            {
+              "type": "note",
+              "id": "intro-n049",
+              "label": "49"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "By the time the Ming fell in the 1640s, the previous model of transformative governance, and its manifestation in state-commissioned pharmacopeias, had become outdated and contorted beyond recognition. Therefore, the succeeding Qing dynasty faced the challenge of redefining the State vis-à-vis human society as well as the larger world. The Long Eighteenth Century, also known as the High Qing era, witnessed the consolidation of Qing responses to both questions under the leadership of three Manchu emperors and their court officials. In social administration, the Qing state strengthened monarchical leadership over the civil bureaucracy, compressing the local administrator’s autonomy in performing the “Minor Mandate.” Instead, the Qing government, staffed by elite officials who vowed absolute loyalty to the emperor alone, used its administrative muscle to manage society in areas such as hydraulic engineering and famine relief. To fund governmental initiatives without raising agricultural taxes, the Qing state also entered into an informal alliance with mercantile interests, both encouraging, and later on directly investing in, commerce and various industries.",
+            {
+              "type": "note",
+              "id": "intro-n049",
+              "label": "49"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p041"
+      ]
+    },
+    {
+      "id": "intro-p042",
+      "page": "17",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "于是开始出现吴玉廉（Yulian Wu）所说的“奢侈网络”，它把清代政治精英与商业精英缠绕在一起，并决定性地塑造了18世纪中国的文化面貌。清朝统治者乐于掌控物质领域，刻意在各条战线上彰显行政的技术精湛，包括指导生产瓷器、玉器及某些服饰时尚等贵重物品。满洲统治的印记可见于衣裙、鞋履、每个成年男子剃光的额头与辫子、食物，以及雕花砚台之类的收藏品。用高彦颐（Dorothy Ko）的话说，清朝是一个与明朝意义不同的“物质帝国”。",
+            {
+              "type": "note",
+              "id": "intro-n050",
+              "label": "50"
+            },
+            " 史家很难找到明代国家同样非凡的物质事业的许多记录（例如15世纪初抵达非洲海岸的远航），而清史学者却可以利用日益增长的官僚化资源管理所产生的丰富档案，以及大量现存器物。这些记录的存在不仅使重建个别商品的“社会生命”成为可能，也反映了整个18世纪文化优先事项的变化。与其他大宗商品相比——如供应国内市场的谷物、木材、盐，以及面向出口经济的瓷器、茶、丝——药物的商品化提供了一个独特而相关的例子。尽管许多研究聚焦于人参这一中国早期近代的灵药、也是清代行政垄断的唯一药材，我们仍然没有很好地说明整个药品贸易如何在国家相对较少正式干预的情况下演变。",
+            {
+              "type": "note",
+              "id": "intro-n051",
+              "label": "51"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There began to emerge “luxurious networks,” as Yulian Wu put it, which entangled the political and mercantile elite in Qing times and decisively shaped the outlook of culture in eighteenth-century China. The Qing rulers relished their command over the material realm and made a point of asserting the ",
+            {
+              "type": "em",
+              "children": [
+                "technical"
+              ]
+            },
+            " sophistication of the administration on all fronts, including the directed production of highly valued objects such as porcelain, jade, and certain fashions of attire. The imprint of Manchu rule was visible on dresses, shoes, every adult man’s shaved forehead and braided queue, food, and collectibles such as fancy carved inkstone. The Qing was, in Dorothy Ko’s words, a “material empire” in a different sense from the Ming.",
+            {
+              "type": "note",
+              "id": "intro-n050",
+              "label": "50"
+            },
+            " Whereas historians are hard-pressed to locate many records of the Ming state’s equally extraordinary material ventures (such as the early fifteenth-century expeditions that reached the shores of Africa), scholars of Qing China can use the abundant archival records generated by the growing bureaucratic management of material resources, coupled with a rich collection of extant artifacts. The existence of such records has not only enabled the reconstruction of the “social lives” of individual commodities but also reflects the changing cultural priorities throughout the eighteenth century. The commodification of pharmaceuticals offers a distinct yet related example vis-à-vis other bulk commodities, such as grains, timber, and salt for the domestic market, and porcelain, tea, and silk for the export-oriented economy during this period. While much scholarship has focused on ginseng, the wonder drug of China’s early modernity and the only medicinal herb monopolized under the Qing administration, we still do not have a good account of how pharmaceutical trade as a whole evolved with relatively little formal intervention from the State.",
+            {
+              "type": "note",
+              "id": "intro-n051",
+              "label": "51"
+            }
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p042"
+      ]
+    },
+    {
+      "id": "intro-p043",
+      "page": "17",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "知识问题不可避免地成为三角形的第三条边，与权力和财富的联结相加。与社会治理一样，清廷在重塑文字世界方面比明廷积极得多，通过朝廷主持的众多宏大工程，完成了不折不扣的知识重新分类。清廷不把文化权威让渡给精英士人，而是把他们收编，赞助其学术，只要他们的追求仍在规范得体的边界之内。",
+            {
+              "type": "note",
+              "id": "intro-n052",
+              "label": "52"
+            },
+            " 然而，若把清廷与学者之间结盟与对抗的各个时刻，与不断扩大的身份差距割裂开来，那将是错误的。清代受过古典教育的男子人数较前代大为增加，通过科举进入官职的机会却比明代前辈渺茫得多。结果，他们不再作为一个“士人”阶级在政治上一致行动，而呈现出多样的身份、优先事项，以及思想取向。于是，明代新儒学哲学的整体理想不仅催生了盛清考据学，也催生了18世纪被重新界定的许多其他子领域。其中一种，是主要反映正统医学兴趣的新型本草；另一种，是日益把矿物、植物与动物去医学化、类似自然史的百科全书式记录潮流（见第四章）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The question of knowledge inevitably comes up to form the third leg of a triangle, adding to the nexus of power and wealth. Just as in social administration, the Qing state took a much more active role in reshaping the world of letters than its Ming predecessor, achieving nothing short of a complete reclassification of knowledge in numerous monumental projects conducted at court. Instead of ceding cultural authority to the elite literati, the Qing state co-opted them and patronized their scholarship so long as their pursuit remained within regulated boundaries of propriety.",
+            {
+              "type": "note",
+              "id": "intro-n052",
+              "label": "52"
+            },
+            " Yet it would be wrong to see the various moments of alliance and antagonism between the Qing state and scholars in isolation from the widening disparity of status. Classically educated men in Qing China, whose numbers had greatly increased compared to earlier periods, had a much slimmer chance of entering governmental positions through the civil examination than their Ming predecessors. As a result, they no longer acted in concert politically as a “literati” class, but assumed a variety of statuses, priorities, and, for that matter, intellectual orientations. As a result, the holistic ideals of Ming neo-Confucian philosophy gave rise not only to High Qing philology but also to many other subfields that came to be redefined during the eighteenth century. Among them was a new type of bencao that reflected primarily orthodox medical interests, and a new trend of encyclopedic documentation of minerals, plants, and animals that became demedicalized, resembling natural history (see chapter 4)."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p043",
+        "intro-p044"
+      ]
+    },
+    {
+      "id": "intro-p045",
+      "page": "18",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "权力、财富与知识之间的三角关系绝非稳定。到18世纪末，药学已完成类似的转变：从士人文化的象征，变成罗友枝（Evelyn Rawski）与韩书瑞（Susan Naquin）所称正在形成的“具有广泛城市基础的民族文化”的一部分。",
+            {
+              "type": "note",
+              "id": "intro-n053",
+              "label": "53"
+            },
+            " 劳动者、小贩及其他日益动荡的社会阶层中的通俗文化，大多被排除在精英文献之外，却生成了自己的秘密表达代码与沟通渠道。",
+            {
+              "type": "note",
+              "id": "intro-n054",
+              "label": "54"
+            },
+            " 药物的收获、制备与消费，提供了精英意识与通俗文化的交汇点，开启了平民中的认识论权力及其政治意涵问题。",
+            {
+              "type": "note",
+              "id": "intro-n055",
+              "label": "55"
+            },
+            " 在本草药典解体、由其衍生的知识形态多样化之后很久，药物物性的问题依然持续。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The triangular relationship among power, wealth, and knowledge was by no means stable. Toward the end of the eighteenth century, pharmacy had achieved a similar transition from the emblem of literati culture to part of what Evelyn Rawski and Susan Naquin have described as an emergent “national culture with a broad urban base.”",
+            {
+              "type": "note",
+              "id": "intro-n053",
+              "label": "53"
+            },
+            " Largely excluded from elite sources, the popular culture among laborers, peddlers, and other increasingly volatile sectors of society generated its own clandestine codes of expression and channels of communication.",
+            {
+              "type": "note",
+              "id": "intro-n054",
+              "label": "54"
+            },
+            " The harvest, preparation, and consumption of pharmaceutical objects provided a meeting point between elite consciousness and popular culture, opening up questions of epistemic power among plebeians and its political implications.",
+            {
+              "type": "note",
+              "id": "intro-n055",
+              "label": "55"
+            },
+            " The question of pharmaceutical objecthood persisted long after the disintegration of the bencao pharmacopeia and the diversification of knowledge forms that derived from it."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p045"
+      ]
+    },
+    {
+      "id": "intro-s07",
+      "page": "18",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "各章提要"
+          ],
+          "level": 3
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "heading",
+          "children": [
+            "Chapter Outlines"
+          ],
+          "level": 3
+        }
+      ],
+      "canonical_kind": "section_heading",
+      "source_ids": [
+        "intro-s07"
+      ]
+    },
+    {
+      "id": "intro-p046",
+      "page": "18",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第一章追踪与国家敕修药典相连的声望如何下移、分散，直至16世纪末。第二章讲述一个平行的故事：国家从直接向地方征收药材贡赋中退出，转而征收货币化的附加税。第三章聚焦17世纪最初几十年，考察本草在某些士人圈子中的业余化。第一部与第二部以王朝更替为界，并非标示绝对断裂，而是有意让读者停顿，思考迄今涉及的多元行动者，以及他们在新政权下的未来轨迹。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Chapter 1 traces the decentralization of prestige associated with the state-commissioned pharmacopeia up until the end of the sixteenth century. Chapter 2 tells a parallel story of the State’s retreat from directly procuring materia medica from localities as tribute, resorting instead to collecting a monetized surtax. Chapter 3 zooms in on the early decades of the seventeenth century to examine the amateurization of bencao in certain literati circles. The division of parts one and two at the juncture of dynastic transition is intended not as a marker of absolute discontinuity, but a deliberate pause for the reader to consider the multiplicity of actors covered so far, as well as their future trajectories under a new regime."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p046"
+      ]
+    },
+    {
+      "id": "intro-p047",
+      "page": "19",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第四章接续本草在征服后江南的转型，凸显对业余作者的激烈批评，并思考清廷18世纪文化政策如何塑造这一如今被边缘化的领域。第五章描述晚明以来药品批发与零售贸易的商品化，评估商业行动者对整体药学话语的贡献。第六章以边缘士人作者收束全书，他们关于异域之物的知识既来自官方资料，也来自市场。清中国进入19世纪时，所拥有的不是一种，而是许多相互竞争的知识主张，它们将在现代引发新一轮关于药物物性的协商。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Chapter 4 picks up the transformation of bencao in post-Conquest Jiangnan to highlight the vocal critics of amateur authors and consider the ways in which the Qing state’s cultural policy over the eighteenth century shaped the now-marginalized field. Chapter 5 describes the commodification of the wholesale and retail trades of pharmaceuticals since late Ming times and assesses the contribution of mercantile actors to the overall discourse of pharmacy. Chapter 6 ends the book by considering the marginal literati authors whose knowledge of exotica drew from both official sources and the marketplace. Qing China entered the nineteenth century with not one but many competing claims to knowledge that would trigger a new round of negotiation over pharmaceutical objecthood in the modern era."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p047"
+      ]
+    },
+    {
+      "id": "intro-p048",
+      "page": "19",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在进入各章之前，最后说明一点。作家凯瑟琳·怀特（Katherine White，1892—1977，E. B. 怀特之妻）在1950、1960年代为《纽约客》撰写邮购园艺目录评论。和她一样，我发现自己对制作药物目录的人的兴趣，胜过对如何使用药物本身的兴趣。",
+            {
+              "type": "note",
+              "id": "intro-n056",
+              "label": "56"
+            },
+            " 本书的目的不是为历史行动者所用物质的疗效作担保，我也无资格评估其药理机制。我确实希望本书的历史分析能为关于中医的长期争论提供新启示，并在尾声提出一些初步想法。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "One last note before we proceed to the chapters. The writer Katherine White (1892–1977, married to E. B. White) reviewed mail-order gardening catalogs for the ",
+            {
+              "type": "em",
+              "children": [
+                "New Yorker"
+              ]
+            },
+            " in the 1950s and 1960s. Like her, I found myself more interested in the human actors responsible for creating catalogs of pharmaceuticals than in how to use the pharmaceuticals themselves.",
+            {
+              "type": "note",
+              "id": "intro-n056",
+              "label": "56"
+            },
+            " It is not my purpose here to vouch for the efficacy of the substances deployed by my historical actors, nor am I qualified to evaluate their pharmacological mechanisms. I do hope that the historical analysis presented in this book might shed new light on protracted debates over TCM, and I offer some preliminary thoughts in the epilogue."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p048"
+      ]
+    },
+    {
+      "id": "intro-p049",
+      "page": "19",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在本书中，凡有可能，我以英文通用名指称药材（如 ginseng [renshen，人参]、rhubarb [dahuang，大黄]、aconite [fuzi，附子]），并参考胡秀英（Shiu-ying Hu）的中国药物指南。这样做，既希望尽量减少行文累赘，也为有兴趣了解技术细节的读者提供线索。本书讨论的中国朝代年代、明清年号，以及中国单位换算表，均见附录。除非另有说明，中文人名一律姓前名后。中文或日文二手文献的作者，在注释中以全名出现，在参考文献中附原文字符。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In this book, I refer to pharmaceutical materials by their common names in English wherever possible (e.g., ginseng [",
+            {
+              "type": "em",
+              "children": [
+                "renshen"
+              ]
+            },
+            "], rhubarb [",
+            {
+              "type": "em",
+              "children": [
+                "dahuang"
+              ]
+            },
+            "], aconite [",
+            {
+              "type": "em",
+              "children": [
+                "fuzi"
+              ]
+            },
+            "]), in consultation with Shiu-ying Hu’s guide to Chinese materia medica. In doing so, I hope both to minimize cluttering of the prose and also to offer leads for readers interested in the technical details. Dates for Chinese dynasties discussed in this book and Ming-Qing reign eras, as well as a table of conversion for Chinese units, are provided in the appendix for reference. Unless otherwise noted, Chinese names are mentioned with family names preceding given names. Authors of secondary sources in Chinese or Japanese are mentioned in the notes with their full names, and in the bibliography with original characters."
+          ]
+        }
+      ],
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "intro-p049"
+      ]
+    }
+  ],
+  "notes": {
+    "intro-n001": {
+      "number": "1",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "方以智：《物理小识》1:12b。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fang Yizhi, ",
+            {
+              "type": "em",
+              "children": [
+                "Wuli xiaoshi"
+              ]
+            },
+            ", 1:12b."
+          ]
+        }
+      ]
+    },
+    "intro-n002": {
+      "number": "2",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "参见本书第三、四章的讨论。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See discussion in chapters 3 and 4."
+          ]
+        }
+      ]
+    },
+    "intro-n003": {
+      "number": "3",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Schafer, The Golden Peaches, 2。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Schafer, ",
+            {
+              "type": "em",
+              "children": [
+                "The Golden Peaches"
+              ]
+            },
+            ", 2."
+          ]
+        }
+      ]
+    },
+    "intro-n004": {
+      "number": "4",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "现代药学新规的制定与执行，已成为美国现代医学史与药学职业化史中不可或缺的一章。现代药师职业如今重组为生物医学的相关分支，自豪地把自己呈现为进步与标准化的化身，以对抗庸医和专利药贩子。例如参见 Kremer and Urdang, Kremer and Urdang’s History of Pharmacy; Anderson, Making Medicines; Young, The Toadstool Millionaires; Liebenau, Medical Science and Medical Industry; Barzansky and Gevitz, Beyond Flexner。关于把医学史建立在治疗实践之上的做法，以及晚近克服早期史学辉格党式腔调的尝试，参见 Rosenberg, “The Therapeutic Revolution”; Warner, The Therapeutic Perspective。关于美国现代药物史的较新研究，参见 Greene, Generic; Janik, Marketplace of the Marvelous，等等。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The formulation and enforcement of novel regulations for pharmacy became an indispensable episode in the historiography of modern American medicine and the professionalization of pharmacy in the United States. The modern profession of pharmacists, now reconstituted as an allied sub-subfield of biomedicine, proudly presented itself as an embodiment of progress and standardization against quackery and the peddlers of patent medicines. See, for instance, Kremer and Urdang, ",
+            {
+              "type": "em",
+              "children": [
+                "Kremer and Urdang’s History of Pharmacy"
+              ]
+            },
+            "; Anderson, ",
+            {
+              "type": "em",
+              "children": [
+                "Making Medicines"
+              ]
+            },
+            "; Young, ",
+            {
+              "type": "em",
+              "children": [
+                "The Toadstool Millionaires"
+              ]
+            },
+            "; Liebenau, ",
+            {
+              "type": "em",
+              "children": [
+                "Medical Science and Medical Industry"
+              ]
+            },
+            "; Barzansky and Gevitz, ",
+            {
+              "type": "em",
+              "children": [
+                "Beyond Flexner"
+              ]
+            },
+            ". For the grounding of medical history in therapeutic practices, see a more recent attempt to overcome the Whiggish overtones of earlier histories in Rosenberg, “The Therapeutic Revolution”; Warner, ",
+            {
+              "type": "em",
+              "children": [
+                "The Therapeutic Perspective"
+              ]
+            },
+            ". For more recent takes on the history of modern pharmaceuticals in the United States, see Greene, ",
+            {
+              "type": "em",
+              "children": [
+                "Generic"
+              ]
+            },
+            "; Janik, ",
+            {
+              "type": "em",
+              "children": [
+                "Marketplace of the Marvelous"
+              ]
+            },
+            ", among many others."
+          ]
+        }
+      ]
+    },
+    "intro-n005": {
+      "number": "5",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Sivin, “A Multi-Dimensional Approach.” 关于医学史与一般中国史的交汇，参见李建民《旅行者》。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Sivin, “A Multi-Dimensional Approach.” For the intersection between the historiography of medicine and general Chinese history, see Li Jianmin, ",
+            {
+              "type": "em",
+              "children": [
+                "Lüxingzhe"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n006": {
+      "number": "6",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Rawski, “The Qing Formation”; 另见同一编著中持不同立场的文章，以及 Struve 编, Time and Temporality。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Rawski, “The Qing Formation”; see also the variety of positions taken in the same edited volume, and Struve, ed., ",
+            {
+              "type": "em",
+              "children": [
+                "Time and Temporality"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n007": {
+      "number": "7",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Elman, From Philosophy to Philology; Peterson, Bitter Gourd; Henderson, The Development and Decline; Handler-Spitz, Symptoms of an Unruly Age。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Elman, ",
+            {
+              "type": "em",
+              "children": [
+                "From Philosophy to Philology"
+              ]
+            },
+            "; Peterson, ",
+            {
+              "type": "em",
+              "children": [
+                "Bitter Gourd"
+              ]
+            },
+            "; Henderson, ",
+            {
+              "type": "em",
+              "children": [
+                "The Development and Decline"
+              ]
+            },
+            "; Handler-Spitz, ",
+            {
+              "type": "em",
+              "children": [
+                "Symptoms of an Unruly Age"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n008": {
+      "number": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Pomeranz, The Great Divergence。另见 So, The Economy of Lower Yangzi Delta 中的文章，作者们对明清中国经济发展的特征持不同立场。关于围绕工商企业形成的制度与社会实践，参见 Zelin, The Merchants of Zigong; Hamashita, China, East Asia。环境史家的分期也与19世纪的经济现代性有关，参见 Perdue, Exhausting the Earth；以及 Marks, China: Its Environment and History 中的现代各章。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Pomeranz, ",
+            {
+              "type": "em",
+              "children": [
+                "The Great Divergence"
+              ]
+            },
+            ". See also essays in So, ",
+            {
+              "type": "em",
+              "children": [
+                "The Economy of Lower Yangzi Delta"
+              ]
+            },
+            ", in which the authors take a variety of positions toward the characterization of Ming-Qing China’s economic development. For institutions and social practices developing around business enterprises, see Zelin, ",
+            {
+              "type": "em",
+              "children": [
+                "The Merchants of Zigong"
+              ]
+            },
+            "; Hamashita, ",
+            {
+              "type": "em",
+              "children": [
+                "China, East Asia"
+              ]
+            },
+            ". Also related to economic modernity in the nineteenth century is the periodization of environmental historians; see Perdue, ",
+            {
+              "type": "em",
+              "children": [
+                "Exhausting the Earth"
+              ]
+            },
+            "; and the modern chapters in Marks, ",
+            {
+              "type": "em",
+              "children": [
+                "China: Its Environment and History"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n009": {
+      "number": "9",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对把欧洲经验强加于中国研究的批评，见 Wong, China Transformed。关于中国史家在其中扮演重要角色的全球史主要讨论与发展，参见 Brook, Vermeer’s Hat; Pomeranz, “Areas, Networks”; Clunas, “Modernity Global and Local”; Elman, On Their Own Terms; Crossley, What Is Global History。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For a critique of the imposition of European experience on the study of China, see Wong, ",
+            {
+              "type": "em",
+              "children": [
+                "China Transformed"
+              ]
+            },
+            ". For major discussions and developments in global history in which historians of China took a prominent part, see, among others, Brook, ",
+            {
+              "type": "em",
+              "children": [
+                "Vermeer’s Hat"
+              ]
+            },
+            "; Pomeranz, “Areas, Networks”; Clunas, “Modernity Global and Local”; Elman, ",
+            {
+              "type": "em",
+              "children": [
+                "On Their Own Terms"
+              ]
+            },
+            "; Crossley, ",
+            {
+              "type": "em",
+              "children": [
+                "What Is Global History"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n010": {
+      "number": "10",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "关于该领域近期的讨论与综述，见 Meyer-Fong, “Conference Note.”"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For a recent discussion and summary of the field, see Meyer-Fong, “Conference Note.”"
+          ]
+        }
+      ]
+    },
+    "intro-n011": {
+      "number": "11",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Harper, Early Chinese Medical Literature, 98–109。可与 Totelin, Hippocratic Recipes, 141–96 比较。关于经典医学文本的观念、实践与档案形态，参见 Unschuld, Huang di nei jing; Kuriyama, The Expressiveness of the Body; Brown, The Art of Medicine; 山田庆儿《中国医学》。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Harper, ",
+            {
+              "type": "em",
+              "children": [
+                "Early Chinese Medical Literature"
+              ]
+            },
+            ", 98–109. Compare with Totelin, ",
+            {
+              "type": "em",
+              "children": [
+                "Hippocratic Recipes"
+              ]
+            },
+            ", 141–96. For the ideas, practices, and archival formations of Canonic medical texts, see Unschuld, ",
+            {
+              "type": "em",
+              "children": [
+                "Huang di nei jing"
+              ]
+            },
+            "; Kuriyama, ",
+            {
+              "type": "em",
+              "children": [
+                "The Expressiveness of the Body"
+              ]
+            },
+            "; Brown, ",
+            {
+              "type": "em",
+              "children": [
+                "The Art of Medicine"
+              ]
+            },
+            "; Yamada Keiji, ",
+            {
+              "type": "em",
+              "children": [
+                "Chūgoku igaku"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n012": {
+      "number": "12",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "范家伟《六朝隋唐医学》; Stanley-Baker, “Drugs, Destiny and Disease”; Liu, “Toxic Cures”。当时佛教的影响也剧烈改变了中古中国的疗愈传统。佛教观念对药学的影响是一个丰富课题，超出本书范围。参见 Salguero, Translating Buddhist Medicine。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fan Jiawei, ",
+            {
+              "type": "em",
+              "children": [
+                "Liuchao Sui Tang yixue"
+              ]
+            },
+            "; Stanley-Baker, “Drugs, Destiny and Disease”; Liu, “Toxic Cures.” The influence of Buddhism at this time also dramatically changed the healing traditions of medieval China. The impact of Buddhist ideas on pharmacy is a rich topic beyond the scope of this book. See Salguero, ",
+            {
+              "type": "em",
+              "children": [
+                "Translating Buddhist Medicine"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n013": {
+      "number": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尚志钧等《历代中药文献精华》, 44–50。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Shang et al., ",
+            {
+              "type": "em",
+              "children": [
+                "Lidai zhongyao"
+              ]
+            },
+            ", 44–50."
+          ]
+        }
+      ]
+    },
+    "intro-n014": {
+      "number": "14",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCTJ, 1。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCTJ, 1."
+          ]
+        }
+      ]
+    },
+    "intro-n015": {
+      "number": "15",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "参见 Cipolla, Public Health; Cook, The Decline of the Old Medical Regime; Park, Doctors and Medicine; Welch and Shaw, Making and Marketing。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Cipolla, ",
+            {
+              "type": "em",
+              "children": [
+                "Public Health"
+              ]
+            },
+            "; Cook, ",
+            {
+              "type": "em",
+              "children": [
+                "The Decline of the Old Medical Regime"
+              ]
+            },
+            "; Park, ",
+            {
+              "type": "em",
+              "children": [
+                "Doctors and Medicine"
+              ]
+            },
+            "; Welch and Shaw, ",
+            {
+              "type": "em",
+              "children": [
+                "Making and Marketing"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n016": {
+      "number": "16",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCTJ, 1。另见 ISK, 10.58–59。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCTJ, 1. See also ISK, 10.58–59."
+          ]
+        }
+      ]
+    },
+    "intro-n017": {
+      "number": "17",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Hinrichs, “Governance through Medical Texts”; Goldschmidt, The Evolution of Chinese Medicine, 107–22 等处; Sivin, Health Care; 范家伟《北宋校正医书局》。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Hinrichs, “Governance through Medical Texts”; Goldschmidt, ",
+            {
+              "type": "em",
+              "children": [
+                "The Evolution of Chinese Medicine"
+              ]
+            },
+            ", 107–22 passim; Sivin, ",
+            {
+              "type": "em",
+              "children": [
+                "Health Care"
+              ]
+            },
+            "; Fan Jiawei, ",
+            {
+              "type": "em",
+              "children": [
+                "Bei Song jiaozheng yishuju"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n018": {
+      "number": "18",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCJJZ, 32–33。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "BCJJZ, 32–33."
+          ]
+        }
+      ]
+    },
+    "intro-n019": {
+      "number": "19",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "XXBC, 12。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "XXBC, 12."
+          ]
+        }
+      ]
+    },
+    "intro-n020": {
+      "number": "20",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Zimmermann, The Jungle and the Aroma of Meats, viii。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Zimmermann, ",
+            {
+              "type": "em",
+              "children": [
+                "The Jungle and the Aroma of Meats"
+              ]
+            },
+            ", viii."
+          ]
+        }
+      ]
+    },
+    "intro-n021": {
+      "number": "21",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "关于“谱录”这一同样古老、将人们感兴趣的物品编成文字目录的传统，参见 Siebert, Pulu。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For an account of ",
+            {
+              "type": "em",
+              "children": [
+                "pulu"
+              ]
+            },
+            ", an equally venerable tradition of creating literary catalogs of objects of interest, see Siebert, ",
+            {
+              "type": "em",
+              "children": [
+                "Pulu"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n022": {
+      "number": "22",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "1870年，Bretschneider 发表了一篇关于中国植物学著作的短论（On the Study and Value of Chinese Botanical Works），1882年又出版了两卷本研究。参见 Bretschneider, Botanicum Sinicum。他后来于1898年撰写了“欧洲人在中国的植物发现”史。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In 1870, Bretschneider published a short account of Chinese botanical works (",
+            {
+              "type": "em",
+              "children": [
+                "On the Study and Value of Chinese Botanical Works"
+              ]
+            },
+            "), followed by a two-volume study in 1882. See Bretschneider, ",
+            {
+              "type": "em",
+              "children": [
+                "Botanicum Sinicum"
+              ]
+            },
+            ". He would later write a history of “European botanical discovery” in China in 1898."
+          ]
+        }
+      ]
+    },
+    "intro-n023": {
+      "number": "23",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Stuart, Chinese Materia Medica。该书是在英国医学传教士 Frederick Porter Smith（1833—88）未完成手稿的基础上修订而成。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Stuart, ",
+            {
+              "type": "em",
+              "children": [
+                "Chinese Materia Medica"
+              ]
+            },
+            ". The study was revised from an unfinished manuscript by British medical missionary Frederick Porter Smith (1833–88)."
+          ]
+        }
+      ]
+    },
+    "intro-n024": {
+      "number": "24",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Read 于1930年代后期在上海雷士德医学研究院工作，1941至1945年被日本人关押。参见 Read and Liu, Bibliography of Chinese Medicinal Plants。关于1920、1930年代中国的自然研究及其与往昔文本研究的密切关系，参见 Jiang, “Retouching the Past.”"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Read worked for the Henry Lester Institute in Shanghai in the late 1930s and was imprisoned by the Japanese from 1941 to 1945. See Read and Liu, ",
+            {
+              "type": "em",
+              "children": [
+                "Bibliography of Chinese Medicinal Plants"
+              ]
+            },
+            ". For natural studies in 1920s and 1930s China and its close connections to the study of past texts, see Jiang, “Retouching the Past.”"
+          ]
+        }
+      ]
+    },
+    "intro-n025": {
+      "number": "25",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "冈西为人《中国医书本草考》; 另见真柳诚的研究; Unschuld, Medicine in China; 尚志钧等《历代中药文献精华》。关于日本以文化史路径研究本草的另一潮流，参见山田庆儿《物のイメージ》。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Okanishi, ",
+            {
+              "type": "em",
+              "children": [
+                "Chugoku isho honzō kō"
+              ]
+            },
+            "; see also the works by Mayanagi Makoto; Unschuld, ",
+            {
+              "type": "em",
+              "children": [
+                "Medicine in China"
+              ]
+            },
+            "; Shang, et al., ",
+            {
+              "type": "em",
+              "children": [
+                "Lidai zhongyao wenxian jinghua"
+              ]
+            },
+            ". For another trend of using a cultural historical approach to study bencao in Japan, see Yamada Keiji, ",
+            {
+              "type": "em",
+              "children": [
+                "Mono no imēji"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n026": {
+      "number": "26",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Needham, The Grand Titration; SCC6.1, 220–29。李约瑟在处理完本草的植物学内容后，原计划在《中国科学技术史》医学部分之后撰写药理学部分，却始终未能完成。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Needham, ",
+            {
+              "type": "em",
+              "children": [
+                "The Grand Titration"
+              ]
+            },
+            "; SCC6.1, 220–29. Having dealt with the botanical content of bencao, Needham planned a section on pharmacology, following that on medicine, in ",
+            {
+              "type": "em",
+              "children": [
+                "Science and Civilisation in China"
+              ]
+            },
+            ", but was never able to finish it."
+          ]
+        }
+      ]
+    },
+    "intro-n027": {
+      "number": "27",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "SCC6.1, 308–21, 322–29。可与 Arber, Herbals; Stannard, Herbs and Herbalism 比较。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "SCC6.1, 308–21, 322–29. Compare with Arber, ",
+            {
+              "type": "em",
+              "children": [
+                "Herbals"
+              ]
+            },
+            "; Stannard, ",
+            {
+              "type": "em",
+              "children": [
+                "Herbs and Herbalism"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n028": {
+      "number": "28",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "关于把帝制晚期的停滞与宋代技术复兴的早发相对照的代表性论述，参见 Elvin, The Patterns of the Chinese Past。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For a representative account that offset late imperial stagnancy against the early onset of a technological renaissance in Song times, see Elvin, ",
+            {
+              "type": "em",
+              "children": [
+                "The Patterns of the Chinese Past"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n029": {
+      "number": "29",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尚志钧等《历代中药文献精华》, 419–90。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Shang et al., ",
+            {
+              "type": "em",
+              "children": [
+                "Lidai zhongyao"
+              ]
+            },
+            ", 419–90."
+          ]
+        }
+      ]
+    },
+    "intro-n030": {
+      "number": "30",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "冈西为人《中国医书本草考》, 309–10; Unschuld, A History of Pharmaceuticals, 169–204。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Okanishi, ",
+            {
+              "type": "em",
+              "children": [
+                "Chugoku isho honzō kō"
+              ]
+            },
+            ", 309–10; Unschuld, ",
+            {
+              "type": "em",
+              "children": [
+                "A History of Pharmaceuticals"
+              ]
+            },
+            ", 169–204."
+          ]
+        }
+      ]
+    },
+    "intro-n031": {
+      "number": "31",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Shapin and Schaffer, Leviathan and the Air-Pump; Pickering, Science as Practice and Culture。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Shapin and Schaffer, ",
+            {
+              "type": "em",
+              "children": [
+                "Leviathan and the Air-Pump"
+              ]
+            },
+            "; Pickering, ",
+            {
+              "type": "em",
+              "children": [
+                "Science as Practice and Culture"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n032": {
+      "number": "32",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "SCC6.4。另见 Métailié, “Concepts of Nature” 与 “The Bencao gangmu of Li Shizhen”。梅泰利耶对李约瑟问题的拒绝，呼应了席文1990年代末的一个类似举动：不按李约瑟的指示完成计划中的医学部分。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "SCC6.4. See also Métailié, “Concepts of Nature” and “The ",
+            {
+              "type": "em",
+              "children": [
+                "Bencao gangmu"
+              ]
+            },
+            " of Li Shizhen.” Métailié’s rejection of the Needham question echoes a similar move by Nathan Sivin in the late 1990s of not completing the planned section on medicine according to Needham’s instructions."
+          ]
+        }
+      ]
+    },
+    "intro-n033": {
+      "number": "33",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Nappi, The Monkey and the Inkpot; Schäfer, The Crafting of 10,000 Things; Sivin, “Why the Scientific Revolution.” 关于李约瑟遗产的近期评述，见 Hsia and Schäfer, “History of Science.”"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Nappi, ",
+            {
+              "type": "em",
+              "children": [
+                "The Monkey and the Inkpot"
+              ]
+            },
+            "; Schäfer, ",
+            {
+              "type": "em",
+              "children": [
+                "The Crafting of 10,000 Things"
+              ]
+            },
+            "; Sivin, “Why the Scientific Revolution.” For a recent review of Needham’s legacy, see Hsia and Schäfer, “History of Science.”"
+          ]
+        }
+      ]
+    },
+    "intro-n034": {
+      "number": "34",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Elman, On Their Own Terms; 关于预设略有不同而同样出色的论述，见坂出祥伸《中国近代的思想与科学》；韩琦《中国科学技术的西传及其影响，1582—1793》。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Elman, ",
+            {
+              "type": "em",
+              "children": [
+                "On Their Own Terms"
+              ]
+            },
+            "; for equally excellent accounts with slightly different assumptions, see Sakade, ",
+            {
+              "type": "em",
+              "children": [
+                "Chūgoku kindai"
+              ]
+            },
+            "; Han Qi, ",
+            {
+              "type": "em",
+              "children": [
+                "Zhongguo kexue jishu"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n035": {
+      "number": "35",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marcon, The Knowledge of Nature; Suh, Naming the Local。关于早期近代欧洲对中国本草的研究，见 Barnes, Needles, Herbs, 100–106。关于耶稣会士作为早期近代世界知识中介的近期专著，见 Hsia, Sojourners in a Strange Land; Hart, Imagined Civilisations; Zhang, Making the New World; Jami, Emperor’s New Mathematics; Cams, Companions in Geography 等。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marcon, ",
+            {
+              "type": "em",
+              "children": [
+                "The Knowledge of Nature"
+              ]
+            },
+            "; Suh, ",
+            {
+              "type": "em",
+              "children": [
+                "Naming the Local"
+              ]
+            },
+            ". For early modern European research on Chinese herbals, see Barnes, ",
+            {
+              "type": "em",
+              "children": [
+                "Needles, Herbs"
+              ]
+            },
+            ", 100–106. For recent monographs on Jesuits as intermediaries of knowledge in early modern world, see Hsia, ",
+            {
+              "type": "em",
+              "children": [
+                "Sojourners in a Strange Land"
+              ]
+            },
+            "; Hart, ",
+            {
+              "type": "em",
+              "children": [
+                "Imagined Civilisations"
+              ]
+            },
+            "; Zhang, ",
+            {
+              "type": "em",
+              "children": [
+                "Making the New World"
+              ]
+            },
+            "; Jami, ",
+            {
+              "type": "em",
+              "children": [
+                "Emperor’s New Mathematics"
+              ]
+            },
+            "; Cams, ",
+            {
+              "type": "em",
+              "children": [
+                "Companions in Geography"
+              ]
+            },
+            ", among others."
+          ]
+        }
+      ]
+    },
+    "intro-n036": {
+      "number": "36",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Chemla and Fox Keller, Cultures without Culturalism。关于中国传统内部各种求知路径的综述，见 Allen, Vanishing into Things。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Chemla and Fox Keller, ",
+            {
+              "type": "em",
+              "children": [
+                "Cultures without Culturalism"
+              ]
+            },
+            ". For a survey of different approaches to knowledge available within the Chinese tradition, see Allen, ",
+            {
+              "type": "em",
+              "children": [
+                "Vanishing into Things"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n037": {
+      "number": "37",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "我对早期近代知识采取整合路径的动机，受到 Grafton, Shelford, and Siraisi, New Worlds, Ancient Texts 以及 Park and Daston, The Cambridge History of Science: Vol. 3 Early Modern Science 中文章的启发。不过，这一方法论的举动旨在相互比较与理解，而不是臆测未来的成败。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "My motivation for an integrated approach to early modern knowledge has been inspired by works such as Grafton, Shelford, and Siraisi, ",
+            {
+              "type": "em",
+              "children": [
+                "New Worlds, Ancient Texts"
+              ]
+            },
+            "; and essays in Park and Daston, ",
+            {
+              "type": "em",
+              "children": [
+                "The Cambridge History of Science: Vol. 3 Early Modern Science"
+              ]
+            },
+            ". This methodological move, however, aims at mutual comparison and comprehension, and not at making conjectures to predict future success or failure."
+          ]
+        }
+      ]
+    },
+    "intro-n038": {
+      "number": "38",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Bol, “The Localist Turn”; Schneewind, Shrines to Living Men; Szonyi, The Art of Being Governed; Faure, Emperor and Ancestor。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Bol, “",
+            {
+              "type": "em",
+              "children": [
+                "The Localist Turn"
+              ]
+            },
+            "”; Schneewind, ",
+            {
+              "type": "em",
+              "children": [
+                "Shrines to Living Men"
+              ]
+            },
+            "; Szonyi, ",
+            {
+              "type": "em",
+              "children": [
+                "The Art of Being Governed"
+              ]
+            },
+            "; Faure, ",
+            {
+              "type": "em",
+              "children": [
+                "Emperor and Ancestor"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n039": {
+      "number": "39",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Leung, “Organized Medicine”; Bray, “Chinese Literati.” 关于对宇宙一体的信仰，见 Bol, Neo-Confucianism, 194–217。关于明代国家赞助的工业，见 Schäfer and Kuhn, Weaving an Economic Pattern。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Leung, “Organized Medicine”; Bray, “Chinese Literati.” For belief in cosmic unity, see Bol, ",
+            {
+              "type": "em",
+              "children": [
+                "Neo-Confucianism"
+              ]
+            },
+            ", 194–217. For Ming state-sponsored industry, see Schäfer and Kuhn, ",
+            {
+              "type": "em",
+              "children": [
+                "Weaving an Economic Pattern"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n040": {
+      "number": "40",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "明代史另一个被选择性遗忘的方面是军事文化。见 Robinson, Martial Spectacles。关于晚明情绪如何影响士人精英的历史意识，见 Brook, The Confusions of Pleasure。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Another aspect of Ming history that was selectively forgotten was military culture. See Robinson, ",
+            {
+              "type": "em",
+              "children": [
+                "Martial Spectacles"
+              ]
+            },
+            ". For ways in which late Ming sentiments colored the literati elite’s historical consciousness, see Brook, ",
+            {
+              "type": "em",
+              "children": [
+                "The Confusions of Pleasure"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n041": {
+      "number": "41",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Levenson, Confucian China, vol. 1, 16，并见第3—43页的完整各章。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Levenson, ",
+            {
+              "type": "em",
+              "children": [
+                "Confucian China"
+              ]
+            },
+            ", vol. 1, 16, and see the full chapters in 3–43."
+          ]
+        }
+      ]
+    },
+    "intro-n042": {
+      "number": "42",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Legge, Lun yu, 4。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Legge, ",
+            {
+              "type": "em",
+              "children": [
+                "Lun yu"
+              ]
+            },
+            ", 4."
+          ]
+        }
+      ]
+    },
+    "intro-n043": {
+      "number": "43",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "扬雄《法言》12.17, 216–17。Michael Nylan 把“儒”译作“classicist”（经师），这也是早期中国语境中儒者通常被理解的方式。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Yang Xiong, ",
+            {
+              "type": "em",
+              "children": [
+                "Fayan"
+              ]
+            },
+            " 12.17, 216–17. Michael Nylan translates ",
+            {
+              "type": "em",
+              "children": [
+                "ru"
+              ]
+            },
+            " as a “classicist,” which was how Confucians were generally perceived in early Chinese context."
+          ]
+        }
+      ]
+    },
+    "intro-n044": {
+      "number": "44",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "陈元朋《两宋的「尚医士人」与「儒医」》。关于北宋一位博学者的认识论立场，另见 Zuo, Shen Gua。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Chen Yuanpeng, ",
+            {
+              "type": "em",
+              "children": [
+                "Liang Song"
+              ]
+            },
+            ". For a Northern Song polymath’s epistemic positions, see also Zuo, ",
+            {
+              "type": "em",
+              "children": [
+                "Shen Gua"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n045": {
+      "number": "45",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Furth, A Flourishing Yin; Furth et al. eds., Thinking with Cases。关于帝制晚期艺术中业余主义与专业技能的深思熟虑的讨论，见 Cahill, The Painter’s Practice。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Furth, ",
+            {
+              "type": "em",
+              "children": [
+                "A Flourishing Yin"
+              ]
+            },
+            "; Furth et al. eds., ",
+            {
+              "type": "em",
+              "children": [
+                "Thinking with Cases"
+              ]
+            },
+            ". For a thoughtful discussion of amateurism and expertise in late imperial art, see Cahill, ",
+            {
+              "type": "em",
+              "children": [
+                "The Painter’s Practice"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n046": {
+      "number": "46",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Chow, Publishing, Culture, and Power; 何予明, Home and the World; McDermott, A Social History。何谷理（Robert Hegel）的著作尤其追踪了明清中国插图白话小说显著的非连续性，指出清代小说面貌何以如此不同，以及它们如何可能迎合了不同而更广泛的读者群。见 Hegel, Reading Illustrated Fiction, 327–36。关于商业利益对文化场域日益增长的影响，见 Clunas, Superfluous Things; Brokaw, Ledgers of Merit and Demerit。关于这一公共空间被动员服务于政治目的，见 Zhang, Confucian Image Politics。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Chow, ",
+            {
+              "type": "em",
+              "children": [
+                "Publishing, Culture, and Power"
+              ]
+            },
+            "; He Yuming, ",
+            {
+              "type": "em",
+              "children": [
+                "Home and the World"
+              ]
+            },
+            "; McDermott, ",
+            {
+              "type": "em",
+              "children": [
+                "A Social History"
+              ]
+            },
+            ". Robert Hegel’s work in particular traces the remarkable ",
+            {
+              "type": "em",
+              "children": [
+                "discontinuity"
+              ]
+            },
+            " of illustrated vernacular novels in Ming-Qing China, pointing out important reasons why the novels looked so different in the Qing and how they might have catered to a different, but wider, range of readers. See Hegel, ",
+            {
+              "type": "em",
+              "children": [
+                "Reading Illustrated Fiction"
+              ]
+            },
+            ", 327–36. For the growing influence of mercantile interests on the cultural scene, see Clunas, ",
+            {
+              "type": "em",
+              "children": [
+                "Superfluous Things"
+              ]
+            },
+            "; Brokaw, ",
+            {
+              "type": "em",
+              "children": [
+                "Ledgers of Merit and Demerit"
+              ]
+            },
+            ". For the mobilization of this public arena for political ends, see Zhang, ",
+            {
+              "type": "em",
+              "children": [
+                "Confucian Image Politics"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n047": {
+      "number": "47",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "高彦颐（Ko）, Teachers of the Inner Chambers。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ko, ",
+            {
+              "type": "em",
+              "children": [
+                "Teachers of the Inner Chambers"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n048": {
+      "number": "48",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Meyer-Fong, Building Culture; 高彦颐, The Social Life of Inkstones; Wu, Reproducing Women。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Meyer-Fong, ",
+            {
+              "type": "em",
+              "children": [
+                "Building Culture"
+              ]
+            },
+            "; Ko, ",
+            {
+              "type": "em",
+              "children": [
+                "The Social Life of Inkstones"
+              ]
+            },
+            "; Wu, ",
+            {
+              "type": "em",
+              "children": [
+                "Reproducing Women"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n049": {
+      "number": "49",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Rowe, Saving the World; Dunstan, State or Merchant?; Will, Bureaucracy and Famine。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Rowe, ",
+            {
+              "type": "em",
+              "children": [
+                "Saving the World"
+              ]
+            },
+            "; Dunstan, ",
+            {
+              "type": "em",
+              "children": [
+                "State or Merchant"
+              ]
+            },
+            "?; Will, ",
+            {
+              "type": "em",
+              "children": [
+                "Bureaucracy and Famine"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n050": {
+      "number": "50",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "高彦颐, The Social Life, 15; 吴玉廉, Luxurious Networks; Schlesinger, A World Trimmed with Fur; Akçetin, “Consumption as Knowledge”; Finnane, “Furnishing the Home”; Waley-Cohen, “Food and China’s World of Goods”，以及同一编著中的其他文章。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ko, ",
+            {
+              "type": "em",
+              "children": [
+                "The Social Life"
+              ]
+            },
+            ", 15; Wu, ",
+            {
+              "type": "em",
+              "children": [
+                "Luxurious Networks"
+              ]
+            },
+            "; Schlesinger, ",
+            {
+              "type": "em",
+              "children": [
+                "A World Trimmed with Fur"
+              ]
+            },
+            "; Akçetin, “Consumption as Knowledge”; Finnane, “Furnishing the Home”; Waley-Cohen, “Food and China’s World of Goods,” and other essays in the edited volume."
+          ]
+        }
+      ]
+    },
+    "intro-n051": {
+      "number": "51",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Appadurai, The Social Life; Morton, The Poetics of Spice。关于覆盖全球的较新“物”研究，见 Findlen, Early Modern Things; Gerritsen and Riello, The Global Lives of Things。关于清代中国具体商品的研究，见 Benedict, Golden-Silk Smoke; 蒋（Jiang）, Renshen diguo; Zhang, “Timber Trade.”"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Appardurai, ",
+            {
+              "type": "em",
+              "children": [
+                "The Social Life"
+              ]
+            },
+            "; Morton, ",
+            {
+              "type": "em",
+              "children": [
+                "The Poetics of Spice"
+              ]
+            },
+            ". For more recent object-oriented works with a global coverage, see Findlen, ",
+            {
+              "type": "em",
+              "children": [
+                "Early Modern Things"
+              ]
+            },
+            "; Gerritsen and Riello, ",
+            {
+              "type": "em",
+              "children": [
+                "The Global Lives of Things"
+              ]
+            },
+            ". For studies of specific commodities in Qing China, see Benedict, ",
+            {
+              "type": "em",
+              "children": [
+                "Golden-Silk Smoke"
+              ]
+            },
+            "; Jiang, ",
+            {
+              "type": "em",
+              "children": [
+                "Renshen diguo"
+              ]
+            },
+            "; and Zhang, “Timber Trade.”"
+          ]
+        }
+      ]
+    },
+    "intro-n052": {
+      "number": "52",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Guy, The Emperor’s Four Treasuries; Spence, Treason by the Book; Elman, Classicism, Politics, and Kinship。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Guy, ",
+            {
+              "type": "em",
+              "children": [
+                "The Emperor’s Four Treasuries"
+              ]
+            },
+            "; Spence, ",
+            {
+              "type": "em",
+              "children": [
+                "Treason by the Book"
+              ]
+            },
+            "; Elman, ",
+            {
+              "type": "em",
+              "children": [
+                "Classicism, Politics, and Kinship"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n053": {
+      "number": "53",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Naquin and Rawski, Chinese Society, 236; Skinner, The City in Late Imperial China; Brokaw, Commerce in Culture。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Naquin and Rawski, ",
+            {
+              "type": "em",
+              "children": [
+                "Chinese Society"
+              ]
+            },
+            ", 236; Skinner, ",
+            {
+              "type": "em",
+              "children": [
+                "The City in Late Imperial China"
+              ]
+            },
+            "; Brokaw, ",
+            {
+              "type": "em",
+              "children": [
+                "Commerce in Culture"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n054": {
+      "number": "54",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见 Johnson et al., Popular Culture 中的文章。关于通俗出版部门的研究，见 Brokaw, Commerce in Culture。可与 Burke, Popular Culture in Early Modern Europe; Thompson, Customs in Common; Medick, “Plebeian Culture in the Transition to Capitalism” 比较。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See the essays in Johnson et al., ",
+            {
+              "type": "em",
+              "children": [
+                "Popular Culture"
+              ]
+            },
+            ". For a study of popular publishing sectors, see Brokaw, ",
+            {
+              "type": "em",
+              "children": [
+                "Commerce in Culture"
+              ]
+            },
+            ". Compare with Burke, ",
+            {
+              "type": "em",
+              "children": [
+                "Popular Culture in Early Modern Europe"
+              ]
+            },
+            "; Thompson, ",
+            {
+              "type": "em",
+              "children": [
+                "Customs in Common"
+              ]
+            },
+            "; Medick, “Plebeian Culture in the Transition to Capitalism.”"
+          ]
+        }
+      ]
+    },
+    "intro-n055": {
+      "number": "55",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "关于“文”的广义技艺中的矿工、雕刻匠与女性工匠的近期研究，见高彦颐, The Social Life of Inkstones。可与 Cook, Matters of Exchange; Harkness, The Jewel House; Smith, The Body of the Artisan; Newman, Atoms and Alchemy; Moran, Distilling Knowledge; Eamon, Professor of Secrets; Roos, The Salt of the Earth; Bentancor, The Matter of Empire; Fors, The Limits of Matter 比较。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See a recent study of miners, carvers, and female artisans in the general “craft of ",
+            {
+              "type": "em",
+              "children": [
+                "wen"
+              ]
+            },
+            "” in Ko, ",
+            {
+              "type": "em",
+              "children": [
+                "The Social Life of Inkstones"
+              ]
+            },
+            ". Compare with Cook, ",
+            {
+              "type": "em",
+              "children": [
+                "Matters of Exchange"
+              ]
+            },
+            "; Harkness, ",
+            {
+              "type": "em",
+              "children": [
+                "The Jewel House"
+              ]
+            },
+            "; Smith, ",
+            {
+              "type": "em",
+              "children": [
+                "The Body of the Artisan"
+              ]
+            },
+            "; Newman, ",
+            {
+              "type": "em",
+              "children": [
+                "Atoms and Alchemy"
+              ]
+            },
+            "; Moran, ",
+            {
+              "type": "em",
+              "children": [
+                "Distilling Knowledge"
+              ]
+            },
+            "; Eamon, ",
+            {
+              "type": "em",
+              "children": [
+                "Professor of Secrets"
+              ]
+            },
+            "; Roos, ",
+            {
+              "type": "em",
+              "children": [
+                "The Salt of the Earth"
+              ]
+            },
+            "; Bentancor, ",
+            {
+              "type": "em",
+              "children": [
+                "The Matter of Empire"
+              ]
+            },
+            "; Fors, ",
+            {
+              "type": "em",
+              "children": [
+                "The Limits of Matter"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    "intro-n056": {
+      "number": "56",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "当然，我与药物打交道的经验无法与 White 对园艺的亲密知识相比。White, Onward and Upward in the Garden。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To be sure, my experience in handling pharmaceuticals cannot compare to White’s intimate knowledge of gardening. White, ",
+            {
+              "type": "em",
+              "children": [
+                "Onward and Upward in the Garden"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    }
+  }
+}
