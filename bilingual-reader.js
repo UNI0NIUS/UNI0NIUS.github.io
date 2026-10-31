@@ -263,6 +263,10 @@ window.renderParallelBook = (() => {
       const pdfPage = row.pageKind === "pdf";
       const page = el("a", row.page ? (pdfPage ? row.page : `p. ${row.page}`) : "", "printed-page");
       page.href = `#${row.id}`; page.setAttribute("aria-label", pdfPage ? `Source ${row.page}` : `Printed edition page ${row.page || ""}`);
+      for (const id of row.legacyIds || []) {
+        const alias = el("span", undefined, "source-anchor"); alias.id = id;
+        page.append(alias);
+      }
       wrapper.append(page);
       for (const language of view === "parallel" ? (row.shared ? ["zh"] : ["zh", "en"]) : [view]) wrapper.append(cell(row, language, chapter.notes || {}, chapter, seen));
       container.append(wrapper);

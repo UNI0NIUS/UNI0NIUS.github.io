@@ -174,6 +174,7 @@
   const isBook = page === "translation-book";
   const item = (isBook ? books : articles).find(entry => entry.id === params.get("id"));
   if (!item) { missing("Translation not found", "Choose a book or article from the translations library."); return; }
+  if (isBook && item.id === "cohen-system-der-philosophie-3-1") document.getElementById("main").classList.add("cohen-aesthetik-font");
   if (!isBook) {
     const article = el("article", undefined, "translation-reader");
     article.append(link("← All translations", item.contentKind === "reading-guide" ? "index.html#guides" : "index.html#articles", "back-link"), heading(item, item.title));
@@ -260,7 +261,7 @@
       if (entry.outline?.length) {
         const details = el("details", undefined, "chapter-outline");
         details.open = entry.id === chapter.id;
-        details.append(el("summary", view === "en" ? "Bölüm içindekiler" : "章内目录"));
+        details.append(el("summary", view === "en" ? (item.sourceLanguage === "de" ? "Kapitelinhalt" : "Bölüm içindekiler") : "章内目录"));
         const root = { level: 0, children: [] };
         const stack = [root];
         for (const heading of entry.outline) {
@@ -345,7 +346,7 @@
       article.append(el("p", item.editionNotice || "Chinese reviewed working draft · 2026-09-16. Page labels refer to the printed English edition, not PDF sheet numbers. English wording is retained from the supplied EPUB; editorial uncertainties are flagged beside the Chinese text.", "edition-notice"));
       if (item.downloads?.length) {
         const downloads = el("nav", undefined, "edition-switcher");
-        downloads.setAttribute("aria-label", "Download working draft");
+        downloads.setAttribute("aria-label", item.id === "cohen-system-der-philosophie-3-1" ? "Download editions" : "Download working draft");
         for (const file of item.downloads) {
           const url = safeUrl(file.url); if (!url) continue;
           const link = el("a", file.label); link.href = url; link.download = "";

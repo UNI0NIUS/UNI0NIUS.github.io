@@ -39,6 +39,6 @@ window.TRANSLATION_COUNTS = {
   "rickert-gegenstand-der-erkenntnis": 278276,
   "cohen-system-der-philosophie-1": 280010,
   "cohen-kants-theorie-der-erfahrung-1885": 347281,
-  "cohen-system-der-philosophie-3-1": 198085,
+  "cohen-system-der-philosophie-3-1": 201718,
   "cohen-kants-begruendung-der-aesthetik-1889": 240852
 };

@@ -483,7 +483,7 @@ window.TRANSLATIONS = {
     {
       "id": "cohen-system-der-philosophie-3-1",
       "title": "哲学体系第三部：纯粹情感的美学（第一卷）",
-      "originalTitle": "System der Philosophie. Dritter Theil: Ästhetik des reinen Gefühls. Erster Band",
+      "originalTitle": "System der Philosophie. Dritter Teil: Ästhetik des reinen Gefühls. Erster Band",
       "author": "Hermann Cohen",
       "authorZh": "赫尔曼·柯亨",
       "tags": [
@@ -494,13 +494,15 @@ window.TRANSLATIONS = {
       "language": "zh-CN",
       "languagePair": "Deutsch / 中文",
       "structured": true,
-      "bilingual": false,
+      "bilingual": true,
       "views": [
-        "zh"
+        "parallel",
+        "zh",
+        "en"
       ],
       "sourceLanguage": "de",
       "sourceLanguageLabel": "Deutsch",
-      "editionNotice": "依据1912年柏林版初译并作一轮校订；保留原书印刷页码与章节结构。第六章印刷小节号由2直接跳到5，依原书保留。",
+      "editionNotice": "依据 1912 年柏林版校订。保留原书印刷页码与章节结构；第六章目录和正文编号分别依原书保留。",
       "chapters": [
         {
           "id": "front-matter",
@@ -511,14 +513,22 @@ window.TRANSLATIONS = {
             {
               "level": 2,
               "title": "书名页与出版信息",
-              "anchor": "front-0001"
+              "anchor": "front-0001",
+              "originalTitle": "Titelei und Verlagsangaben"
             },
             {
               "level": 2,
               "title": "序言",
-              "anchor": "front-0009"
+              "anchor": "front-0009",
+              "originalTitle": "Vorrede"
             }
           ]
+        },
+        {
+          "id": "original-toc",
+          "title": "原书目录（原书页码）",
+          "originalTitle": "Inhaltsverzeichnis des Originals",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/original-toc.json"
         },
         {
           "id": "chapter-1",
@@ -530,74 +540,200 @@ window.TRANSLATIONS = {
             {
               "level": 2,
               "title": "1. 美学在哲学体系中的产生",
-              "anchor": "ch2-0001"
+              "anchor": "ch2-0001",
+              "originalTitle": "1. Entstehung der Ästhetik im System der Philosophie"
             },
             {
               "level": 2,
               "title": "2. 艺术的统一性",
-              "anchor": "ch2-0009"
+              "anchor": "ch2-0009",
+              "originalTitle": "2. Die Einheit der Kunst"
             },
             {
               "level": 2,
               "title": "3. 康德的审美判断力",
-              "anchor": "ch2-0015"
+              "anchor": "ch2-0015",
+              "originalTitle": "3. Kants ästhetische Urteilskraft"
             },
             {
               "level": 2,
               "title": "4. 哲学浪漫派",
-              "anchor": "ch2-0019"
+              "anchor": "ch2-0019",
+              "originalTitle": "4. Die philosophische Romantik"
             },
             {
               "level": 2,
               "title": "5. 美学与哲学体系",
-              "anchor": "ch2-0038"
+              "anchor": "ch2-0038",
+              "originalTitle": "5. Die Ästhetik und das System der Philosophie"
             },
             {
               "level": 2,
-              "title": "6. 想象力中的方法危险",
-              "anchor": "ch2-0048"
+              "title": "6. 幻想力中的方法危险",
+              "anchor": "ch2-0048",
+              "originalTitle": "6. Die methodische Gefahr in der Phantasie"
             },
             {
               "level": 2,
               "title": "7. 想象（Imaginatio）",
-              "anchor": "ch2-0056"
+              "anchor": "ch2-0056",
+              "originalTitle": "7. Die Imaginatio"
             },
             {
               "level": 2,
               "title": "8. 理智直观与直觉",
-              "anchor": "ch2-0062"
+              "anchor": "ch2-0062",
+              "originalTitle": "8. Die intellektuale Anschauung und die Intuition"
             },
             {
               "level": 2,
               "title": "9. 艺术与自然认识",
-              "anchor": "ch2-0071"
+              "anchor": "ch2-0071",
+              "originalTitle": "9. Kunst und Naturerkenntnis"
             },
             {
               "level": 2,
               "title": "10. 艺术与真理",
-              "anchor": "ch2-0079"
+              "anchor": "ch2-0079",
+              "originalTitle": "10. Kunst und Wahrheit"
             },
             {
               "level": 2,
               "title": "11. 艺术、伦理与宗教",
-              "anchor": "ch2-0088"
+              "anchor": "ch2-0088",
+              "originalTitle": "11. Kunst, Ethik und Religion"
             },
             {
               "level": 2,
               "title": "12. 美学与艺术史",
-              "anchor": "ch2-0116"
+              "anchor": "ch2-0116",
+              "originalTitle": "12. Ästhetik und Kunstgeschichte"
             },
             {
               "level": 2,
               "title": "13. 自然感",
-              "anchor": "ch2-0136"
+              "anchor": "ch2-0136",
+              "originalTitle": "13. Das Naturgefühl"
             },
             {
               "level": 2,
               "title": "14. 艺术史、宗教与泛神论",
-              "anchor": "ch2-0145"
+              "anchor": "ch2-0145",
+              "originalTitle": "14. Kunstgeschichte, Religion und Pantheismus"
             }
           ]
+        },
+        {
+          "id": "chapter-1-section-ch2-0001",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "1. 美学在哲学体系中的产生",
+          "originalTitle": "1. Entstehung der Ästhetik im System der Philosophie",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0001.json"
+        },
+        {
+          "id": "chapter-1-section-ch2-0009",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "2. 艺术的统一性",
+          "originalTitle": "2. Die Einheit der Kunst",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0009.json"
+        },
+        {
+          "id": "chapter-1-section-ch2-0015",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "3. 康德的审美判断力",
+          "originalTitle": "3. Kants ästhetische Urteilskraft",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0015.json"
+        },
+        {
+          "id": "chapter-1-section-ch2-0019",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "4. 哲学浪漫派",
+          "originalTitle": "4. Die philosophische Romantik",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0019.json"
+        },
+        {
+          "id": "chapter-1-section-ch2-0038",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "5. 美学与哲学体系",
+          "originalTitle": "5. Die Ästhetik und das System der Philosophie",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0038.json"
+        },
+        {
+          "id": "chapter-1-section-ch2-0048",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "6. 幻想力中的方法危险",
+          "originalTitle": "6. Die methodische Gefahr in der Phantasie",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0048.json"
+        },
+        {
+          "id": "chapter-1-section-ch2-0056",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "7. 想象（Imaginatio）",
+          "originalTitle": "7. Die Imaginatio",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0056.json"
+        },
+        {
+          "id": "chapter-1-section-ch2-0062",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "8. 理智直观与直觉",
+          "originalTitle": "8. Die intellektuale Anschauung und die Intuition",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0062.json"
+        },
+        {
+          "id": "chapter-1-section-ch2-0071",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "9. 艺术与自然认识",
+          "originalTitle": "9. Kunst und Naturerkenntnis",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0071.json"
+        },
+        {
+          "id": "chapter-1-section-ch2-0079",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "10. 艺术与真理",
+          "originalTitle": "10. Kunst und Wahrheit",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0079.json"
+        },
+        {
+          "id": "chapter-1-section-ch2-0088",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "11. 艺术、伦理与宗教",
+          "originalTitle": "11. Kunst, Ethik und Religion",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0088.json"
+        },
+        {
+          "id": "chapter-1-section-ch2-0116",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "12. 美学与艺术史",
+          "originalTitle": "12. Ästhetik und Kunstgeschichte",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0116.json"
+        },
+        {
+          "id": "chapter-1-section-ch2-0136",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "13. 自然感",
+          "originalTitle": "13. Das Naturgefühl",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0136.json"
+        },
+        {
+          "id": "chapter-1-section-ch2-0145",
+          "parentId": "chapter-1",
+          "excludeFromCount": true,
+          "title": "14. 艺术史、宗教与泛神论",
+          "originalTitle": "14. Kunstgeschichte, Religion und Pantheismus",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-1-section-ch2-0145.json"
         },
         {
           "id": "chapter-2",
@@ -609,44 +745,116 @@ window.TRANSLATIONS = {
             {
               "level": 2,
               "title": "1. 规律性与法则",
-              "anchor": "ch3-0001"
+              "anchor": "ch3-0001",
+              "originalTitle": "1. Die Gesetzlichkeit und die Gesetze"
             },
             {
               "level": 2,
               "title": "2. 作为奠基的规律性",
-              "anchor": "ch3-0019"
+              "anchor": "ch3-0019",
+              "originalTitle": "2. Die Gesetzlichkeit als Grundlegung"
             },
             {
               "level": 2,
               "title": "3. 审美奠基的问题",
-              "anchor": "ch3-0027"
+              "anchor": "ch3-0027",
+              "originalTitle": "3. Das Problem einer ästhetischen Grundlegung"
             },
             {
               "level": 2,
               "title": "4. 艺术作品的前提条件",
-              "anchor": "ch3-0038"
+              "anchor": "ch3-0038",
+              "originalTitle": "4. Die Vorbedingungen des Kunstwerks"
             },
             {
               "level": 2,
               "title": "5. 意识的范畴",
-              "anchor": "ch3-0052"
+              "anchor": "ch3-0052",
+              "originalTitle": "5. Die Kategorie des Bewußtseins"
             },
             {
               "level": 2,
               "title": "6. 审美意识的纯粹性",
-              "anchor": "ch3-0065"
+              "anchor": "ch3-0065",
+              "originalTitle": "6. Die Reinheit des ästhetischen Bewußtseins"
             },
             {
               "level": 2,
               "title": "7. 主观的灵魂品质",
-              "anchor": "ch3-0083"
+              "anchor": "ch3-0083",
+              "originalTitle": "7. Die subjektiven seelischen Qualitäten"
             },
             {
               "level": 2,
               "title": "8. 康德的基本规定",
-              "anchor": "ch3-0108"
+              "anchor": "ch3-0108",
+              "originalTitle": "8. Kants Grundbestimmungen"
             }
           ]
+        },
+        {
+          "id": "chapter-2-section-ch3-0001",
+          "parentId": "chapter-2",
+          "excludeFromCount": true,
+          "title": "1. 规律性与法则",
+          "originalTitle": "1. Die Gesetzlichkeit und die Gesetze",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-2-section-ch3-0001.json"
+        },
+        {
+          "id": "chapter-2-section-ch3-0019",
+          "parentId": "chapter-2",
+          "excludeFromCount": true,
+          "title": "2. 作为奠基的规律性",
+          "originalTitle": "2. Die Gesetzlichkeit als Grundlegung",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-2-section-ch3-0019.json"
+        },
+        {
+          "id": "chapter-2-section-ch3-0027",
+          "parentId": "chapter-2",
+          "excludeFromCount": true,
+          "title": "3. 审美奠基的问题",
+          "originalTitle": "3. Das Problem einer ästhetischen Grundlegung",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-2-section-ch3-0027.json"
+        },
+        {
+          "id": "chapter-2-section-ch3-0038",
+          "parentId": "chapter-2",
+          "excludeFromCount": true,
+          "title": "4. 艺术作品的前提条件",
+          "originalTitle": "4. Die Vorbedingungen des Kunstwerks",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-2-section-ch3-0038.json"
+        },
+        {
+          "id": "chapter-2-section-ch3-0052",
+          "parentId": "chapter-2",
+          "excludeFromCount": true,
+          "title": "5. 意识的范畴",
+          "originalTitle": "5. Die Kategorie des Bewußtseins",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-2-section-ch3-0052.json"
+        },
+        {
+          "id": "chapter-2-section-ch3-0065",
+          "parentId": "chapter-2",
+          "excludeFromCount": true,
+          "title": "6. 审美意识的纯粹性",
+          "originalTitle": "6. Die Reinheit des ästhetischen Bewußtseins",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-2-section-ch3-0065.json"
+        },
+        {
+          "id": "chapter-2-section-ch3-0083",
+          "parentId": "chapter-2",
+          "excludeFromCount": true,
+          "title": "7. 主观的灵魂品质",
+          "originalTitle": "7. Die subjektiven seelischen Qualitäten",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-2-section-ch3-0083.json"
+        },
+        {
+          "id": "chapter-2-section-ch3-0108",
+          "parentId": "chapter-2",
+          "excludeFromCount": true,
+          "title": "8. 康德的基本规定",
+          "originalTitle": "8. Kants Grundbestimmungen",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-2-section-ch3-0108.json"
         },
         {
           "id": "chapter-3",
@@ -658,14 +866,32 @@ window.TRANSLATIONS = {
             {
               "level": 2,
               "title": "1. 快感与不快感",
-              "anchor": "ch4-0002"
+              "anchor": "ch4-0002",
+              "originalTitle": "1. Lust und Unlust"
             },
             {
               "level": 2,
               "title": "2. 审美意识的建构",
-              "anchor": "ch4-0034"
+              "anchor": "ch4-0034",
+              "originalTitle": "2. Der Aufbau ästhetischen Bewußtseins"
             }
           ]
+        },
+        {
+          "id": "chapter-3-section-ch4-0002",
+          "parentId": "chapter-3",
+          "excludeFromCount": true,
+          "title": "1. 快感与不快感",
+          "originalTitle": "1. Lust und Unlust",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-3-section-ch4-0002.json"
+        },
+        {
+          "id": "chapter-3-section-ch4-0034",
+          "parentId": "chapter-3",
+          "excludeFromCount": true,
+          "title": "2. 审美意识的建构",
+          "originalTitle": "2. Der Aufbau ästhetischen Bewußtseins",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-3-section-ch4-0034.json"
         },
         {
           "id": "chapter-4",
@@ -677,139 +903,382 @@ window.TRANSLATIONS = {
             {
               "level": 2,
               "title": "1. 感受活动",
-              "anchor": "ch5-0004"
+              "anchor": "ch5-0004",
+              "originalTitle": "1. Das Fühlen"
             },
             {
               "level": 2,
               "title": "2. 运动情感",
-              "anchor": "ch5-0029"
+              "anchor": "ch5-0029",
+              "originalTitle": "2. Das Bewegungsgefühl"
             },
             {
               "level": 2,
               "title": "3. 感觉",
-              "anchor": "ch5-0042"
+              "anchor": "ch5-0042",
+              "originalTitle": "3. Die Empfindung"
             },
             {
               "level": 2,
               "title": "4. 感觉情感",
-              "anchor": "ch5-0054"
+              "anchor": "ch5-0054",
+              "originalTitle": "4. Das Empfindungsgefühl"
             },
             {
               "level": 2,
               "title": "5. 思维",
-              "anchor": "ch5-0063"
+              "anchor": "ch5-0063",
+              "originalTitle": "5. Das Denken"
             },
             {
               "level": 2,
               "title": "6. 在艺术科学中的应用",
-              "anchor": "ch5-0079"
+              "anchor": "ch5-0079",
+              "originalTitle": "6. Anwendungen in der Kunstwissenschaft"
             },
             {
               "level": 2,
-              "title": "7. 意志的先行条件",
-              "anchor": "ch5-0096"
+              "title": "7. 意志的前提条件",
+              "anchor": "ch5-0096",
+              "originalTitle": "7. Die Vorbedingung des Willens"
             },
             {
               "level": 2,
               "title": "8. 与宗教的关系",
-              "anchor": "ch5-0107"
+              "anchor": "ch5-0107",
+              "originalTitle": "8. Verhältnis zur Religion"
             },
             {
               "level": 2,
               "title": "9. 与性冲动的关系",
-              "anchor": "ch5-0111"
+              "anchor": "ch5-0111",
+              "originalTitle": "9. Verhältnis zum Geschlechtstrieb"
             },
             {
               "level": 2,
               "title": "10. 希腊艺术中的爱",
-              "anchor": "ch5-0122"
+              "anchor": "ch5-0122",
+              "originalTitle": "10. Die Liebe in der griechischen Kunst"
             },
             {
               "level": 2,
               "title": "11. 爱的审美情感",
-              "anchor": "ch5-0131"
+              "anchor": "ch5-0131",
+              "originalTitle": "11. Das ästhetische Gefühl der Liebe"
             },
             {
               "level": 2,
               "title": "12. 移情",
-              "anchor": "ch5-0166"
+              "anchor": "ch5-0166",
+              "originalTitle": "12. Die Einfühlung"
             },
             {
               "level": 2,
               "title": "13. 神性与人",
-              "anchor": "ch5-0170"
+              "anchor": "ch5-0170",
+              "originalTitle": "13. Die Gottheit und der Mensch"
             },
             {
               "level": 2,
               "title": "14. 完善的标准",
-              "anchor": "ch5-0180"
+              "anchor": "ch5-0180",
+              "originalTitle": "14. Das Kriterium der Vollendung"
             },
             {
               "level": 2,
               "title": "15. 形态",
-              "anchor": "ch5-0187"
+              "anchor": "ch5-0187",
+              "originalTitle": "15. Die Gestalt"
             },
             {
               "level": 2,
               "title": "16. 纯粹意识的三个方向",
-              "anchor": "ch5-0195"
+              "anchor": "ch5-0195",
+              "originalTitle": "16. Die drei Richtungen des reinen Bewußtseins"
             },
             {
               "level": 2,
               "title": "17. 音乐",
-              "anchor": "ch5-0226"
+              "anchor": "ch5-0226",
+              "originalTitle": "17. Die Musik"
             },
             {
               "level": 2,
               "title": "18. 感动",
-              "anchor": "ch5-0233"
+              "anchor": "ch5-0233",
+              "originalTitle": "18. Die Rührung"
             },
             {
               "level": 2,
               "title": "19. 艺术作品中的客观化",
-              "anchor": "ch5-0253"
+              "anchor": "ch5-0253",
+              "originalTitle": "19. Die Objektivierung im Kunstwerk"
             },
             {
               "level": 2,
               "title": "20. 人的自然与自然的人",
-              "anchor": "ch5-0264"
+              "anchor": "ch5-0264",
+              "originalTitle": "20. Die Natur des Menschen und der Mensch der Natur"
             },
             {
               "level": 2,
-              "title": "21. 作为先行条件的纯粹自然概念",
-              "anchor": "ch5-0275"
+              "title": "21. 作为前提条件的纯粹自然概念",
+              "anchor": "ch5-0275",
+              "originalTitle": "21. Der reine Begriff der Natur als Vorbedingung"
             },
             {
               "level": 2,
               "title": "22. 技术",
-              "anchor": "ch5-0285"
+              "anchor": "ch5-0285",
+              "originalTitle": "22. Die Technik"
             },
             {
               "level": 2,
-              "title": "23. 伦理的先行条件",
-              "anchor": "ch5-0294"
+              "title": "23. 伦理的前提条件",
+              "anchor": "ch5-0294",
+              "originalTitle": "23. Die sittlichen Vorbedingungen"
             },
             {
               "level": 2,
               "title": "24. 对人的尊严的爱",
-              "anchor": "ch5-0303"
+              "anchor": "ch5-0303",
+              "originalTitle": "24. Die Liebe zur Menschenwürde"
             },
             {
               "level": 2,
               "title": "25. 民族主义与教派主义",
-              "anchor": "ch5-0307"
+              "anchor": "ch5-0307",
+              "originalTitle": "25. Nationalismus und Konfessionalismus"
             },
             {
               "level": 2,
               "title": "26. 人道",
-              "anchor": "ch5-0314"
+              "anchor": "ch5-0314",
+              "originalTitle": "26. Die Humanität"
             },
             {
               "level": 2,
               "title": "27. 审美教育",
-              "anchor": "ch5-0328"
+              "anchor": "ch5-0328",
+              "originalTitle": "27. Die ästhetische Erziehung"
             }
           ]
+        },
+        {
+          "id": "chapter-4-section-ch5-0004",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "1. 感受活动",
+          "originalTitle": "1. Das Fühlen",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0004.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0029",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "2. 运动情感",
+          "originalTitle": "2. Das Bewegungsgefühl",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0029.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0042",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "3. 感觉",
+          "originalTitle": "3. Die Empfindung",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0042.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0054",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "4. 感觉情感",
+          "originalTitle": "4. Das Empfindungsgefühl",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0054.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0063",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "5. 思维",
+          "originalTitle": "5. Das Denken",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0063.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0079",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "6. 在艺术科学中的应用",
+          "originalTitle": "6. Anwendungen in der Kunstwissenschaft",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0079.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0096",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "7. 意志的前提条件",
+          "originalTitle": "7. Die Vorbedingung des Willens",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0096.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0107",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "8. 与宗教的关系",
+          "originalTitle": "8. Verhältnis zur Religion",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0107.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0111",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "9. 与性冲动的关系",
+          "originalTitle": "9. Verhältnis zum Geschlechtstrieb",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0111.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0122",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "10. 希腊艺术中的爱",
+          "originalTitle": "10. Die Liebe in der griechischen Kunst",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0122.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0131",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "11. 爱的审美情感",
+          "originalTitle": "11. Das ästhetische Gefühl der Liebe",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0131.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0166",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "12. 移情",
+          "originalTitle": "12. Die Einfühlung",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0166.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0170",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "13. 神性与人",
+          "originalTitle": "13. Die Gottheit und der Mensch",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0170.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0180",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "14. 完善的标准",
+          "originalTitle": "14. Das Kriterium der Vollendung",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0180.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0187",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "15. 形态",
+          "originalTitle": "15. Die Gestalt",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0187.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0195",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "16. 纯粹意识的三个方向",
+          "originalTitle": "16. Die drei Richtungen des reinen Bewußtseins",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0195.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0226",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "17. 音乐",
+          "originalTitle": "17. Die Musik",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0226.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0233",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "18. 感动",
+          "originalTitle": "18. Die Rührung",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0233.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0253",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "19. 艺术作品中的客观化",
+          "originalTitle": "19. Die Objektivierung im Kunstwerk",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0253.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0264",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "20. 人的自然与自然的人",
+          "originalTitle": "20. Die Natur des Menschen und der Mensch der Natur",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0264.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0275",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "21. 作为前提条件的纯粹自然概念",
+          "originalTitle": "21. Der reine Begriff der Natur als Vorbedingung",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0275.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0285",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "22. 技术",
+          "originalTitle": "22. Die Technik",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0285.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0294",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "23. 伦理的前提条件",
+          "originalTitle": "23. Die sittlichen Vorbedingungen",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0294.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0303",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "24. 对人的尊严的爱",
+          "originalTitle": "24. Die Liebe zur Menschenwürde",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0303.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0307",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "25. 民族主义与教派主义",
+          "originalTitle": "25. Nationalismus und Konfessionalismus",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0307.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0314",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "26. 人道",
+          "originalTitle": "26. Die Humanität",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0314.json"
+        },
+        {
+          "id": "chapter-4-section-ch5-0328",
+          "parentId": "chapter-4",
+          "excludeFromCount": true,
+          "title": "27. 审美教育",
+          "originalTitle": "27. Die ästhetische Erziehung",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-4-section-ch5-0328.json"
         },
         {
           "id": "chapter-5",
@@ -820,150 +1289,411 @@ window.TRANSLATIONS = {
           "outline": [
             {
               "level": 2,
-              "title": "1. 审美自身",
-              "anchor": "ch6-0001"
+              "title": "1. 审美自我",
+              "anchor": "ch6-0001",
+              "originalTitle": "1. Das ästhetische Selbst"
             },
             {
               "level": 2,
               "title": "2. 作为奠基的上位概念",
-              "anchor": "ch6-0007"
+              "anchor": "ch6-0007",
+              "originalTitle": "2. Der Oberbegriff als Grundlegung"
             },
             {
               "level": 2,
               "title": "3. 美的奠基的可能性",
-              "anchor": "ch6-0027"
+              "anchor": "ch6-0027",
+              "originalTitle": "3. Die Möglichkeit einer Grundlegung des Schönen"
             },
             {
               "level": 2,
               "title": "4. 美的上位概念与自我的上位概念",
-              "anchor": "ch6-0049"
+              "anchor": "ch6-0049",
+              "originalTitle": "4. Der Oberbegriff des Schönen und der Oberbegriff des Selbst"
             },
             {
               "level": 2,
               "title": "A. 崇高环节",
-              "anchor": "ch6-0055"
+              "anchor": "ch6-0055",
+              "originalTitle": "A. Das Moment des Erhabenen"
             },
             {
               "level": 3,
-              "title": "5. 从先行条件的关系中推导崇高",
-              "anchor": "ch6-0056"
+              "title": "5. 从前提条件的关系中推导崇高",
+              "anchor": "ch6-0056",
+              "originalTitle": "5. Die Ableitung des Erhabenen aus dem Verhältnis der Vorbedingungen"
             },
             {
               "level": 3,
-              "title": "6. 在自然认识这一先行条件的优势上论证崇高",
-              "anchor": "ch6-0071"
+              "title": "6. 在自然认识这一前提条件的优势上论证崇高",
+              "anchor": "ch6-0071",
+              "originalTitle": "6. Begründung des Erhabenen auf der Präponderanz der Vorbedingung der Naturerkenntnis"
             },
             {
               "level": 3,
-              "title": "7. 另一个环节的问题与诸先行条件之配置的补充",
-              "anchor": "ch6-0099"
+              "title": "7. 另一个环节的问题与诸前提条件之配置的补充",
+              "anchor": "ch6-0099",
+              "originalTitle": "7. Das Problem des anderen Moments und die Ergänzung der Disposition der Vorbedingungen"
             },
             {
               "level": 3,
               "title": "8. 理论工作之终结的虚构",
-              "anchor": "ch6-0111"
+              "anchor": "ch6-0111",
+              "originalTitle": "8. Die Fiktion des Abschlusses der theoretischen Arbeit"
             },
             {
               "level": 2,
               "title": "B. 幽默",
-              "anchor": "ch6-0120"
+              "anchor": "ch6-0120",
+              "originalTitle": "B. Der Humor"
             },
             {
               "level": 3,
               "title": "9. 自然在艺术中的一种新意义",
-              "anchor": "ch6-0124"
+              "anchor": "ch6-0124",
+              "originalTitle": "9. Eine neue Bedeutung der Natur in der Kunst"
             },
             {
               "level": 3,
               "title": "10. 人之天性的两个边界",
-              "anchor": "ch6-0131"
+              "anchor": "ch6-0131",
+              "originalTitle": "10. Die beiden Grenzen der Natur des Menschen"
             },
             {
               "level": 3,
               "title": "11. 丑的问题",
-              "anchor": "ch6-0136"
+              "anchor": "ch6-0136",
+              "originalTitle": "11. Das Problem des Häßlichen"
             },
             {
               "level": 3,
               "title": "12. 萨提尔的问题",
-              "anchor": "ch6-0142"
+              "anchor": "ch6-0142",
+              "originalTitle": "12. Das Problem des Satyrs"
             },
             {
               "level": 3,
               "title": "13. 古典艺术与现代艺术",
-              "anchor": "ch6-0153"
+              "anchor": "ch6-0153",
+              "originalTitle": "13. Die klassische und die moderne Kunst"
             },
             {
               "level": 3,
               "title": "14. 肖像与漫画",
-              "anchor": "ch6-0170"
+              "anchor": "ch6-0170",
+              "originalTitle": "14. Das Porträt und die Karikatur"
             },
             {
               "level": 3,
               "title": "15. 自然主义与灵魂",
-              "anchor": "ch6-0174"
+              "anchor": "ch6-0174",
+              "originalTitle": "15. Der Naturalismus und die Seele"
             },
             {
               "level": 3,
               "title": "16. 幽默的绘画性世界观",
-              "anchor": "ch6-0180"
+              "anchor": "ch6-0180",
+              "originalTitle": "16. Die malerische Weltanschauung des Humors"
             },
             {
               "level": 3,
               "title": "17. 列奥纳多的个体性问题",
-              "anchor": "ch6-0191"
+              "anchor": "ch6-0191",
+              "originalTitle": "17. Das individuelle Problem Lionardos"
             },
             {
               "level": 3,
               "title": "18. 米开朗基罗的幽默",
-              "anchor": "ch6-0199"
+              "anchor": "ch6-0199",
+              "originalTitle": "18. Der Humor bei Michelangelo"
             },
             {
               "level": 3,
               "title": "19. 艺术的自主性与宗教艺术",
-              "anchor": "ch6-0204"
+              "anchor": "ch6-0204",
+              "originalTitle": "19. Die Selbständigkeit der Kunst und die religiöse Kunst"
             },
             {
               "level": 3,
               "title": "20. 但丁问题",
-              "anchor": "ch6-0223"
+              "anchor": "ch6-0223",
+              "originalTitle": "20. Das Dante-Problem"
             },
             {
               "level": 3,
               "title": "21. 贝多芬的幽默",
-              "anchor": "ch6-0246"
+              "anchor": "ch6-0246",
+              "originalTitle": "21. Beethovens Humor"
             },
             {
               "level": 3,
               "title": "22. 宗教艺术与社会艺术",
-              "anchor": "ch6-0260"
+              "anchor": "ch6-0260",
+              "originalTitle": "22. Die religiöse und die soziale Kunst"
             },
             {
               "level": 3,
               "title": "23. 自然的崇高",
-              "anchor": "ch6-0272"
+              "anchor": "ch6-0272",
+              "originalTitle": "23. Das Erhabene der Natur"
             },
             {
               "level": 3,
               "title": "24. 印象主义",
-              "anchor": "ch6-0278"
+              "anchor": "ch6-0278",
+              "originalTitle": "24. Der Impressionismus"
             },
             {
               "level": 3,
               "title": "25. 自然与艺术",
-              "anchor": "ch6-0288"
+              "anchor": "ch6-0288",
+              "originalTitle": "25. Natur und Kunst"
             },
             {
               "level": 3,
               "title": "26. 自然与幽默",
-              "anchor": "ch6-0294"
+              "anchor": "ch6-0294",
+              "originalTitle": "26. Die Natur und der Humor"
             },
             {
               "level": 3,
               "title": "27. 风景与肖像",
-              "anchor": "ch6-0304"
+              "anchor": "ch6-0304",
+              "originalTitle": "27. Die Landschaft und das Porträt"
             }
           ]
+        },
+        {
+          "id": "chapter-5-section-ch6-0001",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "1. 审美自我",
+          "originalTitle": "1. Das ästhetische Selbst",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0001.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0007",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "2. 作为奠基的上位概念",
+          "originalTitle": "2. Der Oberbegriff als Grundlegung",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0007.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0027",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "3. 美的奠基的可能性",
+          "originalTitle": "3. Die Möglichkeit einer Grundlegung des Schönen",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0027.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0049",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "4. 美的上位概念与自我的上位概念",
+          "originalTitle": "4. Der Oberbegriff des Schönen und der Oberbegriff des Selbst",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0049.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0055",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "A. 崇高环节",
+          "originalTitle": "A. Das Moment des Erhabenen",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0055.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0056",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "5. 从前提条件的关系中推导崇高",
+          "originalTitle": "5. Die Ableitung des Erhabenen aus dem Verhältnis der Vorbedingungen",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0056.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0071",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "6. 在自然认识这一前提条件的优势上论证崇高",
+          "originalTitle": "6. Begründung des Erhabenen auf der Präponderanz der Vorbedingung der Naturerkenntnis",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0071.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0099",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "7. 另一个环节的问题与诸前提条件之配置的补充",
+          "originalTitle": "7. Das Problem des anderen Moments und die Ergänzung der Disposition der Vorbedingungen",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0099.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0111",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "8. 理论工作之终结的虚构",
+          "originalTitle": "8. Die Fiktion des Abschlusses der theoretischen Arbeit",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0111.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0120",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "B. 幽默",
+          "originalTitle": "B. Der Humor",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0120.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0124",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "9. 自然在艺术中的一种新意义",
+          "originalTitle": "9. Eine neue Bedeutung der Natur in der Kunst",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0124.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0131",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "10. 人之天性的两个边界",
+          "originalTitle": "10. Die beiden Grenzen der Natur des Menschen",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0131.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0136",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "11. 丑的问题",
+          "originalTitle": "11. Das Problem des Häßlichen",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0136.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0142",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "12. 萨提尔的问题",
+          "originalTitle": "12. Das Problem des Satyrs",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0142.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0153",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "13. 古典艺术与现代艺术",
+          "originalTitle": "13. Die klassische und die moderne Kunst",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0153.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0170",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "14. 肖像与漫画",
+          "originalTitle": "14. Das Porträt und die Karikatur",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0170.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0174",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "15. 自然主义与灵魂",
+          "originalTitle": "15. Der Naturalismus und die Seele",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0174.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0180",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "16. 幽默的绘画性世界观",
+          "originalTitle": "16. Die malerische Weltanschauung des Humors",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0180.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0191",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "17. 列奥纳多的个体性问题",
+          "originalTitle": "17. Das individuelle Problem Lionardos",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0191.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0199",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "18. 米开朗基罗的幽默",
+          "originalTitle": "18. Der Humor bei Michelangelo",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0199.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0204",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "19. 艺术的自主性与宗教艺术",
+          "originalTitle": "19. Die Selbständigkeit der Kunst und die religiöse Kunst",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0204.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0223",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "20. 但丁问题",
+          "originalTitle": "20. Das Dante-Problem",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0223.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0246",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "21. 贝多芬的幽默",
+          "originalTitle": "21. Beethovens Humor",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0246.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0260",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "22. 宗教艺术与社会艺术",
+          "originalTitle": "22. Die religiöse und die soziale Kunst",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0260.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0272",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "23. 自然的崇高",
+          "originalTitle": "23. Das Erhabene der Natur",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0272.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0278",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "24. 印象主义",
+          "originalTitle": "24. Der Impressionismus",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0278.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0288",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "25. 自然与艺术",
+          "originalTitle": "25. Natur und Kunst",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0288.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0294",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "26. 自然与幽默",
+          "originalTitle": "26. Die Natur und der Humor",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0294.json"
+        },
+        {
+          "id": "chapter-5-section-ch6-0304",
+          "parentId": "chapter-5",
+          "excludeFromCount": true,
+          "title": "27. 风景与肖像",
+          "originalTitle": "27. Die Landschaft und das Porträt",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-5-section-ch6-0304.json"
         },
         {
           "id": "chapter-6",
@@ -975,82 +1705,238 @@ window.TRANSLATIONS = {
             {
               "level": 2,
               "title": "1. 诸艺术及其统一",
-              "anchor": "ch7-0001"
+              "anchor": "ch7-0001",
+              "originalTitle": "1. Die Künste und ihre Einheit"
             },
             {
               "level": 2,
               "title": "2. 人的理念与可见性",
-              "anchor": "ch7-0012"
+              "anchor": "ch7-0012",
+              "originalTitle": "2. Die Idee des Menschen und die Sichtbarkeit"
             },
             {
               "level": 2,
               "title": "5. 个别者的问题",
-              "anchor": "ch7-0021"
+              "anchor": "ch7-0021",
+              "originalTitle": "5. Das Problem des Einzelnen"
             },
             {
               "level": 2,
               "title": "6. 思维与语言",
-              "anchor": "ch7-0030"
+              "anchor": "ch7-0030",
+              "originalTitle": "6. Das Denken und die Sprache"
             },
             {
               "level": 2,
               "title": "7. 语言与思维情感",
-              "anchor": "ch7-0043"
+              "anchor": "ch7-0043",
+              "originalTitle": "7. Die Sprache und die Denkgefühle"
             },
             {
               "level": 2,
               "title": "8. 诗作为概念与词语情感的统一",
-              "anchor": "ch7-0053"
+              "anchor": "ch7-0053",
+              "originalTitle": "8. Die Poesie als Vereinigung von Begriff und Wortgefühl"
             },
             {
               "level": 2,
-              "title": "9. 比喻",
-              "anchor": "ch7-0061"
+              "title": "7. 比喻",
+              "anchor": "ch7-0061",
+              "originalTitle": "7. Das Gleichnis"
             },
             {
               "level": 2,
-              "title": "10. 诗的惟一内容",
-              "anchor": "ch7-0073"
+              "title": "8. 诗的统一内容",
+              "anchor": "ch7-0073",
+              "originalTitle": "8. Der einige Inhalt der Poesie"
             },
             {
               "level": 2,
-              "title": "11. 诗与标记",
-              "anchor": "ch7-0087"
+              "title": "9. 诗与标记",
+              "anchor": "ch7-0087",
+              "originalTitle": "9. Die Poesie und das Mal"
             },
             {
               "level": 2,
-              "title": "12. 内在化",
-              "anchor": "ch7-0092"
+              "title": "10. 内在化",
+              "anchor": "ch7-0092",
+              "originalTitle": "10. Die Verinnerlichung"
             },
             {
               "level": 2,
-              "title": "13. 诗作为第二内在语言形式",
-              "anchor": "ch7-0103"
+              "title": "11. 诗作为第二内在语言形式",
+              "anchor": "ch7-0103",
+              "originalTitle": "11. Die Poesie als zweite innere Sprachform"
             },
             {
               "level": 2,
-              "title": "14. 图像与影子",
-              "anchor": "ch7-0116"
+              "title": "12. 图像与影子",
+              "anchor": "ch7-0116",
+              "originalTitle": "12. Die Bilder und die Schatten"
             },
             {
               "level": 2,
-              "title": "15. 自然与文化",
-              "anchor": "ch7-0119"
+              "title": "13. 自然与文化",
+              "anchor": "ch7-0119",
+              "originalTitle": "13. Die Natur und die Kultur"
             },
             {
               "level": 2,
-              "title": "16. 第二种内在语言形式与诗的种类",
-              "anchor": "ch7-0124"
+              "title": "15. 第二种内在语言形式与诗的种类",
+              "anchor": "ch7-0124",
+              "originalTitle": "15. Die zweite innere Sprachform und die Arten der Poesie"
             }
           ]
+        },
+        {
+          "id": "chapter-6-section-ch7-0001",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "1. 诸艺术及其统一",
+          "originalTitle": "1. Die Künste und ihre Einheit",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0001.json"
+        },
+        {
+          "id": "chapter-6-section-ch7-0012",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "2. 人的理念与可见性",
+          "originalTitle": "2. Die Idee des Menschen und die Sichtbarkeit",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0012.json"
+        },
+        {
+          "id": "chapter-6-section-ch7-0021",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "5. 个别者的问题",
+          "originalTitle": "5. Das Problem des Einzelnen",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0021.json"
+        },
+        {
+          "id": "chapter-6-section-ch7-0030",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "6. 思维与语言",
+          "originalTitle": "6. Das Denken und die Sprache",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0030.json"
+        },
+        {
+          "id": "chapter-6-section-ch7-0043",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "7. 语言与思维情感",
+          "originalTitle": "7. Die Sprache und die Denkgefühle",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0043.json"
+        },
+        {
+          "id": "chapter-6-section-ch7-0053",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "8. 诗作为概念与词语情感的统一",
+          "originalTitle": "8. Die Poesie als Vereinigung von Begriff und Wortgefühl",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0053.json"
+        },
+        {
+          "id": "chapter-6-section-ch7-0061",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "7. 比喻",
+          "originalTitle": "7. Das Gleichnis",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0061.json"
+        },
+        {
+          "id": "chapter-6-section-ch7-0073",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "8. 诗的统一内容",
+          "originalTitle": "8. Der einige Inhalt der Poesie",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0073.json"
+        },
+        {
+          "id": "chapter-6-section-ch7-0087",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "9. 诗与标记",
+          "originalTitle": "9. Die Poesie und das Mal",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0087.json"
+        },
+        {
+          "id": "chapter-6-section-ch7-0092",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "10. 内在化",
+          "originalTitle": "10. Die Verinnerlichung",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0092.json"
+        },
+        {
+          "id": "chapter-6-section-ch7-0103",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "11. 诗作为第二内在语言形式",
+          "originalTitle": "11. Die Poesie als zweite innere Sprachform",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0103.json"
+        },
+        {
+          "id": "chapter-6-section-ch7-0116",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "12. 图像与影子",
+          "originalTitle": "12. Die Bilder und die Schatten",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0116.json"
+        },
+        {
+          "id": "chapter-6-section-ch7-0119",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "13. 自然与文化",
+          "originalTitle": "13. Die Natur und die Kultur",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0119.json"
+        },
+        {
+          "id": "chapter-6-section-ch7-0124",
+          "parentId": "chapter-6",
+          "excludeFromCount": true,
+          "title": "15. 第二种内在语言形式与诗的种类",
+          "originalTitle": "15. Die zweite innere Sprachform und die Arten der Poesie",
+          "dataUrl": "translations/books/cohen-system-der-philosophie-3-1/chapter-6-section-ch7-0124.json"
         }
       ],
       "downloads": [
         {
+          "label": "中德对照版 PDF",
+          "url": "translations/books/cohen-system-der-philosophie-3-1/cohen_aesthetik_1_bilingual.pdf?v=21012a8459b3",
+          "bytes": 2147674,
+          "sha256": "21012a8459b3a050be339484075dbfbb2b5560a4a3ce4a8aa23630871ea39acb"
+        },
+        {
+          "label": "中文阅读版 PDF",
+          "url": "translations/books/cohen-system-der-philosophie-3-1/cohen_aesthetik_1_zh.pdf?v=889d26ba40fe",
+          "bytes": 1134250,
+          "sha256": "889d26ba40fe776520a43df07e329be9a8a0f556190a65230e50221fab13665b"
+        },
+        {
+          "label": "德文原文版 PDF",
+          "url": "translations/books/cohen-system-der-philosophie-3-1/cohen_aesthetik_1_de.pdf?v=74bf09b1af75",
+          "bytes": 948253,
+          "sha256": "74bf09b1af75f859dd586de32389466bdb7e62881ebb1691d70b93914ed15822"
+        },
+        {
           "label": "中文 Markdown",
-          "url": "translations/books/cohen-system-der-philosophie-3-1/cohen_aesthetik_1_zh.md?v=840e8a037619",
-          "bytes": 670360,
-          "sha256": "840e8a037619ce34b2f9e8d3924d28b80ef0df89d3b12e9a1484e0fe2fd27826"
+          "url": "translations/books/cohen-system-der-philosophie-3-1/cohen_aesthetik_1_zh.md?v=d9d0cedb56ac",
+          "bytes": 718491,
+          "sha256": "d9d0cedb56ac0ce64e4b56dd00c1b0282ba2993f907ee02b24d5a520641e28df"
+        },
+        {
+          "label": "德文 Markdown",
+          "url": "translations/books/cohen-system-der-philosophie-3-1/cohen_aesthetik_1_de.md?v=cb1ba18a0228",
+          "bytes": 919715,
+          "sha256": "cb1ba18a0228a57df2e1a877fec2bac6ad4207597402a792976f9fdd7d8a71d9"
+        },
+        {
+          "label": "可编辑源码包",
+          "url": "translations/books/cohen-system-der-philosophie-3-1/cohen_aesthetik_1_source.zip?v=628014a8a47a",
+          "bytes": 5234895,
+          "sha256": "628014a8a47a73fd9c7bb11bffb70bf43fc7307678b96846798f714af6ee489f"
         }
       ],
       "sourceEdition": "Cohen, Berlin, Bruno Cassirer, 1912",

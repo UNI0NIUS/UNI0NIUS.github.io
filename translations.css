@@ -138,3 +138,6 @@
 .source-brace-group { display: grid; grid-template-columns: minmax(0, 2.5fr) 10px minmax(0, 1fr); gap: .65em; margin-block: .6em; }
 .source-brace-mark { width: 10px; height: 100%; min-height: 2em; align-self: stretch; }
 .source-brace-label { align-self: center; overflow-wrap: anywhere; }
+
+@font-face{font-family:"Cohen Aesthetik Extra";src:url("fonts/reading-cjk-cohen-aesthetik-supplement.woff2?v=cf0d68a7b566") format("woff2");font-style:normal;font-weight:400 600;font-display:swap;unicode-range:U+5028,U+556D,U+5996,U+5B71,U+5F6A,U+62C8,U+6410,U+6454,U+6674,U+66A7,U+66AE,U+66DD,U+68A3,U+6DA7,U+6E1D,U+749C,U+75F9,U+7C98,U+80C4,U+8171,U+8231,U+8885,U+8DE4,U+94F0,U+9774,U+988A,U+9B08,U+9E44}
+.cohen-aesthetik-font{--translation-serif:"Reading Serif","Cohen Aesthetik Extra","Reading CJK",Georgia,"Noto Serif SC","Noto Serif CJK SC","Source Han Serif SC","Songti SC",SimSun,serif}

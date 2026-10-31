@@ -15,10 +15,13 @@ function count(data) {
   return (data.body || []).reduce((n, block) => n + textCount(block.zh ?? (block.en ? [] : block)), 0)
     + Object.values(data.notes || {}).reduce((n, note) => n + textCount(note.zh || []), 0);
 }
-const counts = {};
+const previousCounts = path.join(root, 'translations-counts.js');
+if (fs.existsSync(previousCounts)) require(previousCounts);
+const counts = { ...(window.TRANSLATION_COUNTS || {}) };
 for (const item of [...window.TRANSLATIONS.books, ...window.TRANSLATIONS.articles]) {
   const seen = new Set();
   counts[item.id] = (item.chapters || [item]).reduce((n, chapter) => {
+    if (chapter.excludeFromCount === true) return n;
     if (!chapter.dataUrl) return n + count(chapter);
     const file = chapter.dataUrl.split('?')[0];
     if (seen.has(file)) return n;
