@@ -506,9 +506,10 @@
         "＊"
       ],
       "en": [
-        " *"
+        "＊"
       ],
-      "canonical_kind": "paragraph_first"
+      "canonical_kind": "separator",
+      "shared": true
     },
     {
       "id": "ch01-u0030",
@@ -1782,9 +1783,10 @@
         "＊"
       ],
       "en": [
-        " *"
+        "＊"
       ],
-      "canonical_kind": "paragraph_first"
+      "canonical_kind": "separator",
+      "shared": true
     },
     {
       "id": "ch01-u0085",
@@ -3395,12 +3397,6 @@
   },
   "outline": [
     {
-      "anchor": "ch01-part-u0001",
-      "title": "第一部　起源",
-      "originalTitle": "I THE ORIGINS",
-      "level": 1
-    },
-    {
       "anchor": "ch01-u0009",
       "title": "社会主义：民主的最高阶段",
       "originalTitle": "SOCIALISM: THE HIGHEST STAGE OF DEMOCRACY",
@@ -3418,5 +3414,6 @@
       "originalTitle": "HIGH CAPITALISM AND FIN DE SIÈCLE",
       "level": 1
     }
-  ]
+  ],
+  "partId": "part01"
 }

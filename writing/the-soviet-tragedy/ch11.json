@@ -682,17 +682,13 @@
       "id": "ch11-u0024",
       "page": "原页 411",
       "zh": [
-        {
-          "type": "em",
-          "children": [
-            ""
-          ]
-        }
+        "＊"
       ],
       "en": [
-        " *"
+        "＊"
       ],
-      "canonical_kind": "paragraph_first"
+      "canonical_kind": "separator",
+      "shared": true
     },
     {
       "id": "ch11-u0025",
@@ -4196,12 +4192,6 @@
   },
   "outline": [
     {
-      "anchor": "ch11-part-u0001",
-      "title": "第四部　终结",
-      "originalTitle": "Part IV THE END",
-      "level": 1
-    },
-    {
       "anchor": "ch11-u0009",
       "title": "“加速”",
       "originalTitle": "“ACCELERATION”",
@@ -4225,5 +4215,6 @@
       "originalTitle": "THE REVOLT OF THE NATIONALITIES",
       "level": 1
     }
-  ]
+  ],
+  "partId": "part04"
 }

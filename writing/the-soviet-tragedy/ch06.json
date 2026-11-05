@@ -618,17 +618,13 @@
       "id": "ch06-u0030",
       "page": "原页 183",
       "zh": [
-        {
-          "type": "em",
-          "children": [
-            ""
-          ]
-        }
+        "＊"
       ],
       "en": [
-        " *"
+        "＊"
       ],
-      "canonical_kind": "paragraph"
+      "canonical_kind": "separator",
+      "shared": true
     },
     {
       "id": "ch06-u0031",
@@ -1629,9 +1625,10 @@
         "＊"
       ],
       "en": [
-        " *"
+        "＊"
       ],
-      "canonical_kind": "paragraph"
+      "canonical_kind": "separator",
+      "shared": true
     },
     {
       "id": "ch06-u0088",
@@ -2082,9 +2079,10 @@
         "＊"
       ],
       "en": [
-        " *"
+        "＊"
       ],
-      "canonical_kind": "paragraph"
+      "canonical_kind": "separator",
+      "shared": true
     },
     {
       "id": "ch06-u0111",
@@ -3029,9 +3027,10 @@
         "＊"
       ],
       "en": [
-        " *"
+        "＊"
       ],
-      "canonical_kind": "paragraph"
+      "canonical_kind": "separator",
+      "shared": true
     },
     {
       "id": "ch06-u0167",
@@ -4493,5 +4492,6 @@
       "originalTitle": "SOME MID-COURSE EVALUATIONS",
       "level": 1
     }
-  ]
+  ],
+  "partId": "part02"
 }

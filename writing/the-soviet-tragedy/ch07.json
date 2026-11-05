@@ -1629,9 +1629,10 @@
         "＊"
       ],
       "en": [
-        " *"
+        "＊"
       ],
-      "canonical_kind": "paragraph"
+      "canonical_kind": "separator",
+      "shared": true
     },
     {
       "id": "ch07-u0089",
@@ -2849,9 +2850,10 @@
         "＊"
       ],
       "en": [
-        " *"
+        "＊"
       ],
-      "canonical_kind": "paragraph"
+      "canonical_kind": "separator",
+      "shared": true
     },
     {
       "id": "ch07-u0139",
@@ -4257,5 +4259,6 @@
       "originalTitle": "THE CUNNING OF UNREASON",
       "level": 1
     }
-  ]
+  ],
+  "partId": "part02"
 }

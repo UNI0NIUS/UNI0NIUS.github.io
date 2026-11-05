@@ -442,9 +442,10 @@
         "＊"
       ],
       "en": [
-        " *"
+        "＊"
       ],
-      "canonical_kind": "paragraph"
+      "canonical_kind": "separator",
+      "shared": true
     },
     {
       "id": "ch10-u0021",
@@ -2550,17 +2551,13 @@
       "id": "ch10-u0110",
       "page": "原页 385",
       "zh": [
-        {
-          "type": "em",
-          "children": [
-            ""
-          ]
-        }
+        "＊"
       ],
       "en": [
-        " *"
+        "＊"
       ],
-      "canonical_kind": "paragraph"
+      "canonical_kind": "separator",
+      "shared": true
     },
     {
       "id": "ch10-u0111",
@@ -4901,5 +4898,6 @@
       "originalTitle": "THE WEAKEST LINK: THE EXTERNAL EMPIRE",
       "level": 1
     }
-  ]
+  ],
+  "partId": "part03"
 }
