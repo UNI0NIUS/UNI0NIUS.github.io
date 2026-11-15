@@ -1,0 +1,240 @@
+{
+  "id": "front",
+  "title": "原版出版信息",
+  "originalTitle": "Indications de l’édition originale",
+  "outline": [],
+  "sourceLanguage": "fr",
+  "sourceLanguageLabel": "Français",
+  "body": [
+    {
+      "id": "edition-notice",
+      "page": "",
+      "canonical_kind": "notice",
+      "source_ids": [],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "本稿据午夜出版社 2016 年电子版翻译校订，参校陈元译本（湖南美术出版社，2015）。边栏数字、原书目录和人名索引所引页码均来自法文底本。正文注号连接原注。图注及原注中另加的编校说明置于〔〕内。试译与校订使用了 AI 辅助，原著权利归原权利人。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "Édition de lecture établie d’après l’édition électronique des Éditions de Minuit (2016). La traduction chinoise de Chen Yuan (Hunan Fine Arts Publishing House, 2015) a servi de référence. Les chiffres en marge et les renvois de la table et de l’index reprennent la pagination de l’original. Les notes de l’auteur sont appelées par les numéros dans le texte. Les ajouts éditoriaux sont entre crochets 〔 〕. Traduction et révision assistées par IA. Les droits de l’œuvre originale appartiennent à leurs titulaires."
+          ]
+        }
+      ],
+      "units": 79
+    },
+    {
+      "id": "front-u001",
+      "page": "II",
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "front-u001"
+      ],
+      "zh": [
+        {
+          "type": "em",
+          "children": [
+            "“批判”丛书"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "COLLECTION « CRITIQUE »"
+          ]
+        }
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-u002",
+      "page": "",
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "front-u002"
+      ],
+      "zh": [
+        "乔治·迪迪-于贝尔曼"
+      ],
+      "en": [
+        "GEORGES DIDI-HUBERMAN"
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-u003",
+      "page": "",
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "front-u003"
+      ],
+      "zh": [
+        "在图像面前"
+      ],
+      "en": [
+        "DEVANT L’IMAGE"
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-u004",
+      "page": "",
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "front-u004"
+      ],
+      "zh": [
+        "提出的问题"
+      ],
+      "en": [
+        "QUESTION POSÉE"
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-u005",
+      "page": "",
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "front-u005"
+      ],
+      "zh": [
+        "关乎一门艺术史的目的"
+      ],
+      "en": [
+        "AUX FINS D’UNE HISTOIRE DE L’ART"
+      ],
+      "units": 6
+    },
+    {
+      "id": "front-img01",
+      "page": "",
+      "canonical_kind": "image",
+      "source_ids": [
+        "front-img01"
+      ],
+      "zh": [],
+      "en": [],
+      "type": "figure",
+      "src": "/writing/devant-limage/assets/front-img01.jpg",
+      "imageWidth": 47,
+      "imageHeight": 39,
+      "sharedFigure": true,
+      "parallelFigureCaption": [],
+      "units": 1
+    },
+    {
+      "id": "front-u007",
+      "page": "",
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "front-u007"
+      ],
+      "zh": [
+        {
+          "type": "em",
+          "children": [
+            "午夜出版社"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "LES ÉDITIONS DE MINUIT"
+          ]
+        }
+      ],
+      "units": 4
+    },
+    {
+      "id": "front-u008",
+      "page": "III",
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "front-u008"
+      ],
+      "zh": [
+        "© 1990 午夜出版社（纸质版）"
+      ],
+      "en": [
+        "© 1990 by LES ÉDITIONS DE MINUIT pour l'édition papier"
+      ],
+      "units": 9
+    },
+    {
+      "id": "front-u009",
+      "page": "",
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "front-u009"
+      ],
+      "zh": [
+        "© 2016 午夜出版社（本电子版）"
+      ],
+      "en": [
+        "© 2016 by LES ÉDITIONS DE MINUIT pour la présente édition électronique"
+      ],
+      "units": 11
+    },
+    {
+      "id": "front-u010",
+      "page": "",
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "front-u010"
+      ],
+      "zh": [
+        "www.leseditionsdeminuit.fr"
+      ],
+      "en": [
+        "www.leseditionsdeminuit.fr"
+      ],
+      "units": 3
+    },
+    {
+      "id": "front-u011",
+      "page": "",
+      "canonical_kind": "paragraph",
+      "source_ids": [
+        "front-u011"
+      ],
+      "zh": [
+        "ISBN 9782707337870"
+      ],
+      "en": [
+        "ISBN 9782707337870"
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-cnl-mark",
+      "page": "",
+      "canonical_kind": "image",
+      "source_ids": [
+        "front-cnl-mark"
+      ],
+      "zh": [],
+      "en": [],
+      "type": "figure",
+      "src": "/writing/devant-limage/assets/front-cnl-mark.jpg",
+      "imageWidth": 142,
+      "imageHeight": 101,
+      "sharedFigure": true,
+      "parallelFigureCaption": [],
+      "units": 1
+    }
+  ],
+  "notes": {}
+}
