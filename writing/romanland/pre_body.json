@@ -1,0 +1,42 @@
+{
+  "id": "pre_body",
+  "title": "正文半书名页",
+  "originalTitle": "Half Title",
+  "outline": [],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "pre_body-001",
+      "source_ids": [
+        "pre_body-001"
+      ],
+      "page": "",
+      "canonical_kind": "half_title",
+      "en": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "Romanland"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "罗马之地"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "units": 1
+    }
+  ],
+  "notes": {}
+}

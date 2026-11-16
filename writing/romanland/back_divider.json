@@ -1,0 +1,135 @@
+{
+  "id": "back_divider",
+  "title": "书后材料题页",
+  "originalTitle": "Back Matter",
+  "outline": [],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "back_divider-001",
+      "source_ids": [
+        "back_divider-001"
+      ],
+      "page": "",
+      "canonical_kind": "divider_item",
+      "en": [
+        {
+          "type": "block",
+          "kind": "divider_item",
+          "children": [
+            "ABBREVIATIONS"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "divider_item",
+          "children": [
+            "缩略语"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "units": 1
+    },
+    {
+      "id": "back_divider-002",
+      "source_ids": [
+        "back_divider-002"
+      ],
+      "page": "",
+      "canonical_kind": "divider_item",
+      "en": [
+        {
+          "type": "block",
+          "kind": "divider_item",
+          "children": [
+            "NOTES"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "divider_item",
+          "children": [
+            "注释"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "units": 1
+    },
+    {
+      "id": "back_divider-003",
+      "source_ids": [
+        "back_divider-003"
+      ],
+      "page": "",
+      "canonical_kind": "divider_item",
+      "en": [
+        {
+          "type": "block",
+          "kind": "divider_item",
+          "children": [
+            "BIBLIOGRAPHY"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "divider_item",
+          "children": [
+            "书目"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "units": 1
+    },
+    {
+      "id": "back_divider-004",
+      "source_ids": [
+        "back_divider-004"
+      ],
+      "page": "",
+      "canonical_kind": "divider_item",
+      "en": [
+        {
+          "type": "block",
+          "kind": "divider_item",
+          "children": [
+            "INDEX"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "divider_item",
+          "children": [
+            "索引"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "units": 1
+    }
+  ],
+  "notes": {}
+}

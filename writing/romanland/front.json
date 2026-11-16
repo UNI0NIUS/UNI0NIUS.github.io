@@ -1,0 +1,1025 @@
+{
+  "id": "front",
+  "title": "原版出版信息",
+  "originalTitle": "Original Edition",
+  "outline": [
+    {
+      "anchor": "front-018",
+      "title": "目录",
+      "originalTitle": "Contents",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "edition-notice",
+      "source_ids": [],
+      "page": "",
+      "canonical_kind": "notice",
+      "en": [
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "This reading edition follows the 2019 Belknap Press edition. Source-page labels, the original contents, and the index use the pagination of that edition. Numbered notes and epigraph references link to the author's endnotes. The maps retain their original labels and include translated legends. Translation and editing were assisted by AI. Rights in the original work remain with their holders."
+          ],
+          "centered": false,
+          "indented": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "据哈佛大学出版社贝尔克纳普分社 2019 年版翻译校订。正文旁、原书目录与索引所列数字为底本页码。正文注号和题辞来源通往原注。地图保留原图标注，图例附中译。翻译与校订使用了 AI 辅助，原著权利归原权利人。"
+          ],
+          "centered": false,
+          "indented": false
+        }
+      ],
+      "units": 59
+    },
+    {
+      "id": "original-cover",
+      "source_ids": [],
+      "page": "",
+      "canonical_kind": "figure",
+      "en": [
+        "Original cover"
+      ],
+      "zh": [
+        "原书封面"
+      ],
+      "type": "figure",
+      "src": "/writing/romanland/assets/original-cover.png",
+      "imageWidth": 1226,
+      "imageHeight": 1850,
+      "sharedFigure": true,
+      "linkImage": true,
+      "parallelFigureCaption": [
+        "Original cover",
+        {
+          "type": "break"
+        },
+        "原书封面"
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-001",
+      "source_ids": [
+        "front-001"
+      ],
+      "page": "",
+      "canonical_kind": "half_title",
+      "en": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "Romanland"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "罗马之地"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "units": 1
+    },
+    {
+      "id": "front-002",
+      "source_ids": [
+        "front-002"
+      ],
+      "page": "",
+      "canonical_kind": "title_page",
+      "en": [
+        "Romanland"
+      ],
+      "zh": [
+        "罗马之地"
+      ],
+      "units": 1
+    },
+    {
+      "id": "front-003",
+      "source_ids": [
+        "front-003"
+      ],
+      "page": "",
+      "canonical_kind": "title_page",
+      "en": [
+        "ETHNICITY AND EMPIRE IN BYZANTIUM"
+      ],
+      "zh": [
+        "拜占庭的族群与帝国"
+      ],
+      "units": 5
+    },
+    {
+      "id": "front-004",
+      "source_ids": [
+        "front-004"
+      ],
+      "page": "",
+      "canonical_kind": "title_page",
+      "en": [
+        "Anthony Kaldellis"
+      ],
+      "zh": [
+        "安东尼·卡尔德利斯"
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-005",
+      "source_ids": [
+        "front-005"
+      ],
+      "page": "",
+      "canonical_kind": "title_page",
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "The Belknap Press of Harvard University Press"
+          ]
+        },
+        " Cambridge, Massachusetts London, England 2019"
+      ],
+      "zh": [
+        {
+          "type": "em",
+          "children": [
+            "哈佛大学出版社贝尔克纳普分社"
+          ]
+        },
+        "（The Belknap Press of Harvard University Press）\n美国马萨诸塞州剑桥、英国伦敦，2019年"
+      ],
+      "units": 12
+    },
+    {
+      "id": "front-006",
+      "source_ids": [
+        "front-006"
+      ],
+      "page": "",
+      "canonical_kind": "copyright",
+      "en": [
+        "Copyright © 2019 by the President and Fellows of Harvard College All rights reserved Printed in the United States of America"
+      ],
+      "zh": [
+        "版权所有 © 2019 哈佛学院校长及董事会（President and Fellows of Harvard College）\n保留所有权利\n于美国印制"
+      ],
+      "units": 20
+    },
+    {
+      "id": "front-007",
+      "source_ids": [
+        "front-007"
+      ],
+      "page": "",
+      "canonical_kind": "copyright",
+      "en": [
+        "First printing"
+      ],
+      "zh": [
+        "第一次印刷"
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-008",
+      "source_ids": [
+        "front-008"
+      ],
+      "page": "",
+      "canonical_kind": "copyright",
+      "en": [
+        "Jacket image: Ken Walsh ©Getty Images. Circus and Hippodrome of Constantinople, after an engraving in the Imperium Orientale, sive Antiquitates Constantinopolitanae, an eighteenth century work by Anselmo Banduri based on medieval Greek manuscripts."
+      ],
+      "zh": [
+        "书衣图像：Ken Walsh ©Getty Images。《君士坦丁堡的竞技场与赛马场》，据十八世纪安塞尔莫·班杜里（Anselmo Banduri）以中世纪希腊文手稿为基础编撰的 ",
+        {
+          "type": "em",
+          "children": [
+            "Imperium Orientale, sive Antiquitates Constantinopolitanae"
+          ]
+        },
+        " 一书中的版画改绘。"
+      ],
+      "units": 33
+    },
+    {
+      "id": "front-009",
+      "source_ids": [
+        "front-009"
+      ],
+      "page": "",
+      "canonical_kind": "copyright",
+      "en": [
+        "Jacket design: Annamarie McMahon Why"
+      ],
+      "zh": [
+        "书衣设计：Annamarie McMahon Why"
+      ],
+      "units": 5
+    },
+    {
+      "id": "front-010",
+      "source_ids": [
+        "front-010"
+      ],
+      "page": "",
+      "canonical_kind": "copyright",
+      "en": [
+        "9780674239692 (EPUB)"
+      ],
+      "zh": [
+        "9780674239692 (EPUB)"
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-011",
+      "source_ids": [
+        "front-011"
+      ],
+      "page": "",
+      "canonical_kind": "copyright",
+      "en": [
+        "9780674239708 (MOBI)"
+      ],
+      "zh": [
+        "9780674239708 (MOBI)"
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-012",
+      "source_ids": [
+        "front-012"
+      ],
+      "page": "",
+      "canonical_kind": "copyright",
+      "en": [
+        "9780674239685 (PDF)"
+      ],
+      "zh": [
+        "9780674239685 (PDF)"
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-013",
+      "source_ids": [
+        "front-013"
+      ],
+      "page": "",
+      "canonical_kind": "copyright",
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "The Library of Congress has cataloged the printed edition as follows:"
+          ]
+        }
+      ],
+      "zh": [
+        "美国国会图书馆对本书印刷版的编目如下："
+      ],
+      "units": 11
+    },
+    {
+      "id": "front-014",
+      "source_ids": [
+        "front-014",
+        "front-015",
+        "front-016",
+        "front-017"
+      ],
+      "page": "",
+      "canonical_kind": "copyright",
+      "en": [
+        {
+          "type": "anchor",
+          "id": "front-015"
+        },
+        {
+          "type": "anchor",
+          "id": "front-016"
+        },
+        {
+          "type": "anchor",
+          "id": "front-017"
+        },
+        "Names: Kaldellis, Anthony, author. Title: Romanland : ethnicity and empire in Byzantium / Anthony Kaldellis. Description: Cambridge, Massachusetts : The Belknap Press of Harvard University Press, 2019. | Includes bibliographical references and index. Identifiers: LCCN 2018038001 | ISBN 9780674986510 (alk. paper) Subjects: LCSH: Romans—Byzantine Empire. | Romans—Ethnic identity. | Byzantine Empire—Civilization—Roman influences. | National characteristics, Roman. | Byzantine Empire—Ethnic relations. | Cultural pluralism—Byzantine Empire. | Byzantine Empire—History. Classification: LCC DF553 .K35 2019 | DDC 305.8009495/0902—dc23 LC record available at ",
+        {
+          "type": "link",
+          "url": "https://lccn.loc.gov/2018038001",
+          "children": [
+            "https://lccn.loc.gov/2018038001"
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "type": "anchor",
+          "id": "front-015"
+        },
+        {
+          "type": "anchor",
+          "id": "front-016"
+        },
+        {
+          "type": "anchor",
+          "id": "front-017"
+        },
+        "Names: Kaldellis, Anthony, author. Title: Romanland : ethnicity and empire in Byzantium / Anthony Kaldellis. Description: Cambridge, Massachusetts : The Belknap Press of Harvard University Press, 2019. | Includes bibliographical references and index. Identifiers: LCCN 2018038001 | ISBN 9780674986510 (alk. paper) Subjects: LCSH: Romans—Byzantine Empire. | Romans—Ethnic identity. | Byzantine Empire—Civilization—Roman influences. | National characteristics, Roman. | Byzantine Empire—Ethnic relations. | Cultural pluralism—Byzantine Empire. | Byzantine Empire—History. Classification: LCC DF553 .K35 2019 | DDC 305.8009495/0902—dc23 LC record available at ",
+        {
+          "type": "link",
+          "url": "https://lccn.loc.gov/2018038001",
+          "children": [
+            "https://lccn.loc.gov/2018038001"
+          ]
+        }
+      ],
+      "units": 82
+    },
+    {
+      "id": "front-018",
+      "source_ids": [
+        "front-018"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        "Contents"
+      ],
+      "zh": [
+        "目录"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "front-019",
+      "source_ids": [
+        "front-019"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Preface"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=preface#preface-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "ix"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=preface#preface-h001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "序言"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=preface#preface-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "ix"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=preface#preface-h001"
+        }
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-020",
+      "source_ids": [
+        "front-020"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Part I ▪ Romans"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=part1#part1-t"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "1"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=part1#part1-t"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第一部　罗马人"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=part1#part1-t"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "1"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=part1#part1-t"
+        }
+      ],
+      "units": 4
+    },
+    {
+      "id": "front-021",
+      "source_ids": [
+        "front-021"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "1. A History of Denial"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch01#ch01-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "3"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch01#ch01-h001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第1章　否认的历史"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch01#ch01-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "3"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch01#ch01-h001"
+        }
+      ],
+      "units": 6
+    },
+    {
+      "id": "front-022",
+      "source_ids": [
+        "front-022"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "2. Roman Ethnicity"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch02#ch02-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "38"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch02#ch02-h001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第2章　罗马族群性"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch02#ch02-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "38"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch02#ch02-h001"
+        }
+      ],
+      "units": 4
+    },
+    {
+      "id": "front-023",
+      "source_ids": [
+        "front-023"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "3. Romanland"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch03#ch03-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "81"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch03#ch03-h001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第3章　罗马之地"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch03#ch03-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "81"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch03#ch03-h001"
+        }
+      ],
+      "units": 3
+    },
+    {
+      "id": "front-024",
+      "source_ids": [
+        "front-024"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Part II ▪ Others"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=part2#part2-t"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "121"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=part2#part2-t"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第二部　他者"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=part2#part2-t"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "121"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=part2#part2-t"
+        }
+      ],
+      "units": 4
+    },
+    {
+      "id": "front-025",
+      "source_ids": [
+        "front-025"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "4. Ethnic Assimilation"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch04#ch04-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "123"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch04#ch04-h001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第4章　族群同化"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch04#ch04-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "123"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch04#ch04-h001"
+        }
+      ],
+      "units": 4
+    },
+    {
+      "id": "front-026",
+      "source_ids": [
+        "front-026"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "5. The Armenian Fallacy"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch05#ch05-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "155"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch05#ch05-h001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第5章　亚美尼亚谬误"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch05#ch05-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "155"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch05#ch05-h001"
+        }
+      ],
+      "units": 5
+    },
+    {
+      "id": "front-027",
+      "source_ids": [
+        "front-027"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "6. Was Byzantium an Empire in the Tenth Century?"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch06#ch06-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "196"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch06#ch06-h001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第6章　拜占庭在十世纪是一个帝国吗？"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch06#ch06-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "196"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch06#ch06-h001"
+        }
+      ],
+      "units": 10
+    },
+    {
+      "id": "front-028",
+      "source_ids": [
+        "front-028"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "7. The Apogee of Empire in the Eleventh Century"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch07#ch07-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "233"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch07#ch07-h001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第7章　十一世纪帝国的极盛"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch07#ch07-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "233"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=ch07#ch07-h001"
+        }
+      ],
+      "units": 10
+    },
+    {
+      "id": "front-029",
+      "source_ids": [
+        "front-029"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Conclusion"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=conclusion#conclusion-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "269"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=conclusion#conclusion-h001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "结论"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=conclusion#conclusion-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "269"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=conclusion#conclusion-h001"
+        }
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-030",
+      "source_ids": [
+        "front-030"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "ABBREVIATIONS"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=abbrev#abbrev-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "279"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=abbrev#abbrev-h001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "缩略语"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=abbrev#abbrev-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "279"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=abbrev#abbrev-h001"
+        }
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-031",
+      "source_ids": [
+        "front-031"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "NOTES"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=notes#notes_ch01-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "281"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=notes#notes_ch01-h001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "注释"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=notes#notes_ch01-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "281"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=notes#notes_ch01-h001"
+        }
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-032",
+      "source_ids": [
+        "front-032"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "BIBLIOGRAPHY"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=bib#bib-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "325"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=bib#bib-h001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "书目"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=bib#bib-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "325"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=bib#bib-h001"
+        }
+      ],
+      "units": 2
+    },
+    {
+      "id": "front-033",
+      "source_ids": [
+        "front-033"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "INDEX"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=index#index-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "363"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=index#index-h001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "索引"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=index#index-h001"
+        },
+        " ",
+        {
+          "type": "link",
+          "children": [
+            "363"
+          ],
+          "url": "translations/book.html?id=romanland&chapter=index#index-h001"
+        }
+      ],
+      "units": 2
+    }
+  ],
+  "notes": {}
+}
