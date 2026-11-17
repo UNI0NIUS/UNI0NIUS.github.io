@@ -1,0 +1,40 @@
+{
+  "id": "pre_body",
+  "title": "正文半书名页",
+  "originalTitle": "Half Title",
+  "outline": [],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "pre-body",
+      "source_ids": [
+        "pre-body"
+      ],
+      "page": "",
+      "canonical_kind": "half_title",
+      "en": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "Silencing the Past"
+          ],
+          "centered": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "让过去沉默"
+          ],
+          "centered": true
+        }
+      ],
+      "units": 3
+    }
+  ],
+  "notes": {}
+}

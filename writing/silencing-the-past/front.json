@@ -1,0 +1,710 @@
+{
+  "id": "front",
+  "title": "底本与阅读说明",
+  "originalTitle": "Original Edition and Reading Notes",
+  "outline": [
+    {
+      "anchor": "source-contents",
+      "title": "原书目录",
+      "originalTitle": "Original Contents",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "edition-notice",
+      "source_ids": [
+        "edition-notice"
+      ],
+      "page": "",
+      "canonical_kind": "notice",
+      "en": [
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "This reading edition follows the 2015 Beacon Press edition, including the foreword by Hazel V. Carby. Source-page labels, the original contents, and the index refer to the print edition. Note markers link to the original notes. Translation and editing were assisted by AI. Rights in the original text and illustrations remain with their holders."
+          ],
+          "centered": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "据 Beacon Press 2015 年版翻译校订，收录黑兹尔·V. 卡比新版前言。正文旁、原书目录及索引的数字为底本页码。正文注号通往作者原注。翻译与校订使用了 AI 辅助，原著及图版权利归原权利人。"
+          ],
+          "centered": false
+        }
+      ],
+      "units": 54
+    },
+    {
+      "id": "original-cover",
+      "source_ids": [
+        "original-cover"
+      ],
+      "page": "",
+      "canonical_kind": "figure",
+      "en": [
+        "Original cover"
+      ],
+      "zh": [
+        "原书封面"
+      ],
+      "type": "figure",
+      "src": "/writing/silencing-the-past/assets/original-cover.png",
+      "imageWidth": 713,
+      "imageHeight": 1122,
+      "sharedFigure": true,
+      "linkImage": true,
+      "parallelFigureCaption": [
+        "Original cover",
+        {
+          "type": "break"
+        },
+        "原书封面"
+      ],
+      "units": 2
+    },
+    {
+      "id": "half-title",
+      "source_ids": [
+        "half-title"
+      ],
+      "page": "",
+      "canonical_kind": "half_title",
+      "en": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "Silencing the Past"
+          ],
+          "centered": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "让过去沉默"
+          ],
+          "centered": true
+        }
+      ],
+      "units": 3
+    },
+    {
+      "id": "publisher",
+      "source_ids": [
+        "publisher"
+      ],
+      "page": "",
+      "canonical_kind": "metadata",
+      "en": [
+        "Beacon Press · Boston"
+      ],
+      "zh": [
+        "灯塔出版社 · 波士顿"
+      ],
+      "units": 3
+    },
+    {
+      "id": "original-title",
+      "source_ids": [
+        "original-title"
+      ],
+      "page": "",
+      "canonical_kind": "half_title",
+      "en": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "Silencing the Past: Power and the Production of History\nMichel-Rolph Trouillot"
+          ],
+          "centered": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "让过去沉默：权力与历史的生产\n米歇尔-罗尔夫·特鲁约"
+          ],
+          "centered": true
+        }
+      ],
+      "units": 11
+    },
+    {
+      "id": "fm-copyright",
+      "source_ids": [
+        "fm-copyright"
+      ],
+      "page": "iv",
+      "canonical_kind": "metadata",
+      "en": [
+        "Beacon Press, Boston. © 1995 by Michel-Rolph Trouillot. All rights reserved. Foreword © 2015 by Hazel V. Carby. ISBN 978-0-8070-8053-5 (paperback). Illustration credits appear with the figures."
+      ],
+      "zh": [
+        "灯塔出版社，波士顿。正文 © 1995 米歇尔-罗尔夫·特鲁约。保留所有权利。前言 © 2015 黑兹尔·V. 卡比。平装 ISBN 978-0-8070-8053-5。图版出处随图标示。"
+      ],
+      "units": 25
+    },
+    {
+      "id": "fm-dedication",
+      "source_ids": [
+        "fm-dedication"
+      ],
+      "page": "vi",
+      "canonical_kind": "epigraph",
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "To the memory of my father, Ernst Trouillot\nTo my mother, Anne-Marie Morisset"
+          ],
+          "centered": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "纪念我的父亲恩斯特·特鲁约（Ernst Trouillot）\n献给我的母亲安娜-玛丽·莫里塞（Anne-Marie Morisset）"
+          ],
+          "centered": false
+        }
+      ],
+      "units": 13
+    },
+    {
+      "id": "fm-epigraph",
+      "source_ids": [
+        "fm-epigraph"
+      ],
+      "page": "viii",
+      "canonical_kind": "epigraph",
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "I am well aware\nthat by no means\nequal repute\nattends the narrator\nand the doer of deeds.\n—Sallust\nHistory of Catiline"
+          ],
+          "centered": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "我深知，\n记述者所获的声誉，\n远不能与\n行事者\n等量齐观。\n——撒路斯提乌斯\n《喀提林史》"
+          ],
+          "centered": false
+        }
+      ],
+      "units": 22
+    },
+    {
+      "id": "source-contents",
+      "source_ids": [
+        "source-contents"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "Original Contents"
+      ],
+      "zh": [
+        "原书目录"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "contents-foreword",
+      "source_ids": [
+        "contents-foreword"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Foreword by Hazel V. Carby"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=foreword#fw-epi"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "xi"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=foreword#fw-epi"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "新版前言（黑兹尔·V. 卡比）"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=foreword#fw-epi"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "xi"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=foreword#fw-epi"
+        }
+      ],
+      "units": 6
+    },
+    {
+      "id": "contents-acknowledgments",
+      "source_ids": [
+        "contents-acknowledgments"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Acknowledgments"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=acknowledgments#ack-p001"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "xv"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=acknowledgments#ack-p001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "致谢"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=acknowledgments#ack-p001"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "xv"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=acknowledgments#ack-p001"
+        }
+      ],
+      "units": 2
+    },
+    {
+      "id": "contents-preface",
+      "source_ids": [
+        "contents-preface"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Preface"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=preface#pre-p001"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "xxi"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=preface#pre-p001"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "序言"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=preface#pre-p001"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "xxi"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=preface#pre-p001"
+        }
+      ],
+      "units": 2
+    },
+    {
+      "id": "contents-ch01",
+      "source_ids": [
+        "contents-ch01"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "1 The Power in the Story"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch01#ch01-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "1"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch01#ch01-h0"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第一章 故事中的权力"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch01#ch01-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "1"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch01#ch01-h0"
+        }
+      ],
+      "units": 7
+    },
+    {
+      "id": "contents-ch02",
+      "source_ids": [
+        "contents-ch02"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "2 The Three Faces of Sans Souci"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch02#ch02-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "31"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch02#ch02-h0"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第二章 “无忧”的三副面孔"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch02#ch02-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "31"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch02#ch02-h0"
+        }
+      ],
+      "units": 8
+    },
+    {
+      "id": "contents-ch03",
+      "source_ids": [
+        "contents-ch03"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "3 An Unthinkable History"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch03#ch03-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "70"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch03#ch03-h0"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第三章 一段无法构想的历史"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch03#ch03-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "70"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch03#ch03-h0"
+        }
+      ],
+      "units": 5
+    },
+    {
+      "id": "contents-ch04",
+      "source_ids": [
+        "contents-ch04"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "4 Good Day, Columbus"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch04#ch04-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "108"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch04#ch04-h0"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第四章 哥伦布的好日子"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch04#ch04-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "108"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch04#ch04-h0"
+        }
+      ],
+      "units": 5
+    },
+    {
+      "id": "contents-ch05",
+      "source_ids": [
+        "contents-ch05"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "5 The Presence in the Past"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch05#ch05-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "141"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch05#ch05-h0"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第五章 过去中的在场"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch05#ch05-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "141"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=ch05#ch05-h0"
+        }
+      ],
+      "units": 7
+    },
+    {
+      "id": "contents-epilogue",
+      "source_ids": [
+        "contents-epilogue"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Epilogue"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=epilogue#epilogue-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "154"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=epilogue#epilogue-h0"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "尾声"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=epilogue#epilogue-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "154"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=epilogue#epilogue-h0"
+        }
+      ],
+      "units": 2
+    },
+    {
+      "id": "contents-notes",
+      "source_ids": [
+        "contents-notes"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Notes"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=notes#notes-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "157"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=notes#notes-h0"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "注释"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=notes#notes-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "157"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=notes#notes-h0"
+        }
+      ],
+      "units": 2
+    },
+    {
+      "id": "contents-index",
+      "source_ids": [
+        "contents-index"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Index"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=index#index-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "187"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=index#index-h0"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "索引"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=index#index-h0"
+        },
+        " · ",
+        {
+          "type": "link",
+          "children": [
+            "187"
+          ],
+          "url": "translations/book.html?id=silencing-the-past&chapter=index#index-h0"
+        }
+      ],
+      "units": 2
+    }
+  ],
+  "notes": {}
+}
