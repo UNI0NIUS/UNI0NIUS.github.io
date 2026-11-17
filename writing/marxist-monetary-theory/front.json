@@ -1,0 +1,141 @@
+{
+  "id": "front",
+  "title": "底本出版信息",
+  "originalTitle": "Original publication information",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "outline": [],
+  "notes": {},
+  "body": [
+    {
+      "id": "front-title",
+      "canonical_kind": "frontmatter",
+      "page": "",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思主义货币理论：科斯塔斯·拉帕维察斯论文集，科斯塔斯·拉帕维察斯著。布里尔出版社，莱顿及波士顿。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marxist Monetary Theory: Collected Papers of Costas Lapavitsas, by Costas Lapavitsas. Leiden and Boston: Brill."
+          ]
+        }
+      ],
+      "source_ids": [
+        "front-title"
+      ]
+    },
+    {
+      "id": "front-series",
+      "canonical_kind": "frontmatter",
+      "page": "",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "《历史唯物主义》丛书第134卷。编委：Sébastien Budgen（巴黎）、David Broder（罗马）、Steve Edwards（伦敦）、Juan Grigera（伦敦）、Marcel van der Linden（阿姆斯特丹）、Peter Thomas（伦敦）。丛书书目见 brill.com/hm。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Historical Materialism Book Series, volume 134. Editorial Board: Sébastien Budgen (Paris), David Broder (Rome), Steve Edwards (London), Juan Grigera (London), Marcel van der Linden (Amsterdam), Peter Thomas (London). The titles published in this series are listed at brill.com/hm."
+          ]
+        }
+      ],
+      "source_ids": [
+        "front-series"
+      ]
+    },
+    {
+      "id": "front-identifiers",
+      "canonical_kind": "frontmatter",
+      "page": "版权页",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "美国国会图书馆在版编目资料见 http://catalog.loc.gov，本书记录见 http://lccn.loc.gov/2016039104。原书拉丁、希腊和西里尔文字使用 Brill 字体，可在 brill.com/brill-typeface 下载。ISSN 1570-1522。精装本 ISBN 978-90-04-27270-5，电子书 ISBN 978-90-04-27271-2。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The Library of Congress Cataloging-in-Publication Data is available online at http://catalog.loc.gov. LC record available at http://lccn.loc.gov/2016039104. Typeface for the Latin, Greek, and Cyrillic scripts: “Brill”. See and download: brill.com/brill-typeface. ISSN 1570-1522. ISBN 978-90-04-27270-5 (hardback); ISBN 978-90-04-27271-2 (e-book)."
+          ]
+        }
+      ],
+      "source_ids": [
+        "front-identifiers"
+      ]
+    },
+    {
+      "id": "front-rights",
+      "canonical_kind": "frontmatter",
+      "page": "版权页",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "版权 © 2017 Koninklijke Brill NV，荷兰莱顿。Koninklijke Brill NV 旗下有 Brill、Brill Hes & De Graaf、Brill Nijhoff、Brill Rodopi 及 Hotei Publishing 出版品牌。版权所有。未经出版者事先书面许可，不得以电子、机械、影印、录音或其他形式或手段复制、翻译、存入检索系统或传播本出版物的任何部分。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Copyright 2017 by Koninklijke Brill NV, Leiden, The Netherlands. Koninklijke Brill NV incorporates the imprints Brill, Brill Hes & De Graaf, Brill Nijhoff, Brill Rodopi and Hotei Publishing. All rights reserved. No part of this publication may be reproduced, translated, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without prior written permission from the publisher."
+          ]
+        }
+      ],
+      "source_ids": [
+        "front-rights"
+      ]
+    },
+    {
+      "id": "front-print",
+      "canonical_kind": "frontmatter",
+      "page": "版权页",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "经 Koninklijke Brill NV 授权，缴纳相应费用后可为内部或个人用途影印资料。费用直接付至 The Copyright Clearance Center, 222 Rosewood Drive, Suite 910, Danvers, MA 01923, USA，数额可能调整。原书采用无酸纸，以可持续方式印制。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Authorization to photocopy items for internal or personal use is granted by Koninklijke Brill NV provided that the appropriate fees are paid directly to The Copyright Clearance Center, 222 Rosewood Drive, Suite 910, Danvers, MA 01923, USA. Fees are subject to change. This book is printed on acid-free paper and produced in a sustainable manner."
+          ]
+        }
+      ],
+      "source_ids": [
+        "front-print"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4358 @@
+{
+  "id": "ch03",
+  "title": "3. 银行学派与卡尔·马克思的货币思想*",
+  "originalTitle": "3. The Banking School and the Monetary Thought of Karl Marx*",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "outline": [
+    {
+      "anchor": "ch03-u002",
+      "title": "1 导言",
+      "originalTitle": "1 Introduction",
+      "level": 1
+    },
+    {
+      "anchor": "ch03-u013",
+      "title": "2 银行学派与马克思关于货币形式与职能的观点",
+      "originalTitle": "2 The Banking School and Marx’s View of the Forms and Functions of Money",
+      "level": 1
+    },
+    {
+      "anchor": "ch03-u034",
+      "title": "3 货币流通与货币贮藏在资本积累中的作用",
+      "originalTitle": "3 Monetary Circulation and the Role of Money Hoards in the Accumulation of Capital",
+      "level": 1
+    },
+    {
+      "anchor": "ch03-u035",
+      "title": "m的外生变动",
+      "originalTitle": "Exogenous Changes in m",
+      "level": 2
+    },
+    {
+      "anchor": "ch03-u051",
+      "title": "资本再生产中的货币流动与贮藏",
+      "originalTitle": "Money Flows and Hoards in the Reproduction of Capital",
+      "level": 2
+    },
+    {
+      "anchor": "ch03-u057",
+      "title": "货币流动",
+      "originalTitle": "Money Flows",
+      "level": 2
+    },
+    {
+      "anchor": "ch03-u068",
+      "title": "货币贮藏",
+      "originalTitle": "Money Hoards",
+      "level": 2
+    },
+    {
+      "anchor": "ch03-u077",
+      "title": "结论",
+      "originalTitle": "Conclusion",
+      "level": 1
+    }
+  ],
+  "notes": {
+    "n_ch03_001": {
+      "number": "1",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "我要感谢 B. Fine、L. Harris 和 S. Yoshida 对手稿提出的有益评论。一切错误由我负责。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "I wish to thank B. Fine, L. Harris and S. Yoshida for helpful comments on the manuscript. All errors are my responsibility."
+          ]
+        }
+      ]
+    },
+    "n_ch03_002": {
+      "number": "2",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Wicksell 1905; some seminal contributions in this literature are Viner 1937; Morgan 1943; Fetter 1965."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Wicksell 1905; some seminal contributions in this literature are Viner 1937; Morgan 1943; Fetter 1965."
+          ]
+        }
+      ]
+    },
+    "n_ch03_003": {
+      "number": "3",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "更准确地说，是在西方文献中。马克思主义对金块论战和通货论战、以及对信用货币理论问题的论述，在日本文献中很有影响。例如见 Aramaki 1957 and 1958; Hirata 1961; Watanabe 1984。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In Western literature, more accurately. Marxist treatments of the Bullion and Currency Controversies, and of the theoretical issues regarding credit money, have been influential in Japanese literature. See, for instance, Aramaki 1957 and 1958; Hirata 1961; Watanabe 1984."
+          ]
+        }
+      ]
+    },
+    "n_ch03_004": {
+      "number": "4",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For example, Marx 1981, ch. 34, titled ‘The Currency Principle and the English Bank Legislation of 1844’."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For example, Marx 1981, ch. 34, titled ‘The Currency Principle and the English Bank Legislation of 1844’."
+          ]
+        }
+      ]
+    },
+    "n_ch03_005": {
+      "number": "5",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Arnon 1984b; see also De Brunhoff 1976, Part i, for some illuminating comments."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Arnon 1984b; see also De Brunhoff 1976, Part i, for some illuminating comments."
+          ]
+        }
+      ]
+    },
+    "n_ch03_006": {
+      "number": "6",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 186; see also Marx 1976b, p. 225, n. 35."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 186; see also Marx 1976b, p. 225, n. 35."
+          ]
+        }
+      ]
+    },
+    "n_ch03_007": {
+      "number": "7",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "但见 Skaggs 1991，该文受晚近自由银行论战的影响，对富拉顿规律作了异乎寻常的同情性论述。Skaggs 认为该规律是“真正的竞争性银行理论的本质组成部分”（1991, p. 459），并着重强调他所认为的回流与真实票据学说之间的明确区分。他同意“标准教科书”关于后者是一种谬误的看法，但坚持认为，在富拉顿的实际著作中，“有证据反驳他赞同通常表述形式的真实票据学说这一断言”（Skaggs 1991, p. 471）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "But see Skaggs 1991 for an unusually sympathetic account of Fullarton’s law, influenced by the recent free-banking debate. Skaggs finds the law an ‘essential part of a genuine theory of competitive banking’ (1991, p. 459) and lays heavy emphasis on what he thinks is a clear distinction between the Reflux and the Real Bills Doctrine. He agrees with ‘standard texts’ that the latter is a fallacy, but insists that in the actual work of Fullarton there is ‘[e]vidence against the claim that he subscribed to the Real Bills Doctrine in the form in which it is usually stated’ (Skaggs 1991, p. 471)."
+          ]
+        }
+      ]
+    },
+    "n_ch03_008": {
+      "number": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Wicksell 1905, vol. ii, ch. iv, sec. 7."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Wicksell 1905, vol. ii, ch. iv, sec. 7."
+          ]
+        }
+      ]
+    },
+    "n_ch03_009": {
+      "number": "9",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Green 1982."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Green 1982."
+          ]
+        }
+      ]
+    },
+    "n_ch03_010": {
+      "number": "10",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Steuart 1767; Tooke 1959; and Fullarton 1845."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Steuart 1767; Tooke 1959; and Fullarton 1845."
+          ]
+        }
+      ]
+    },
+    "n_ch03_011": {
+      "number": "11",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, p. 174."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, p. 174."
+          ]
+        }
+      ]
+    },
+    "n_ch03_012": {
+      "number": "12",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951."
+          ]
+        }
+      ]
+    },
+    "n_ch03_013": {
+      "number": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Rosdolsky 1977, pp. 135–6."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Rosdolsky 1977, pp. 135–6."
+          ]
+        }
+      ]
+    },
+    "n_ch03_014": {
+      "number": "14",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, ch. 1."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, ch. 1."
+          ]
+        }
+      ]
+    },
+    "n_ch03_015": {
+      "number": "15",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, ch. 3."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, ch. 3."
+          ]
+        }
+      ]
+    },
+    "n_ch03_016": {
+      "number": "16",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 86–7."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 86–7."
+          ]
+        }
+      ]
+    },
+    "n_ch03_017": {
+      "number": "17",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币的形式与职能的联系、符号货币的自发出现以及价值贮藏职能，在 Lapavitsas 1991 中有更充分的分析。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The connection between form and function of money, the spontaneous emergence of symbol money and the function of store of value are more fully analysed in Lapavitsas 1991."
+          ]
+        }
+      ]
+    },
+    "n_ch03_018": {
+      "number": "18",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 221–2 and 1970, p. 116."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 221–2 and 1970, p. 116."
+          ]
+        }
+      ]
+    },
+    "n_ch03_019": {
+      "number": "19",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx, 1970, p. 119, original emphasis."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx, 1970, p. 119, original emphasis."
+          ]
+        }
+      ]
+    },
+    "n_ch03_020": {
+      "number": "20",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 224–5."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 224–5."
+          ]
+        }
+      ]
+    },
+    "n_ch03_021": {
+      "number": "21",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 214."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 214."
+          ]
+        }
+      ]
+    },
+    "n_ch03_022": {
+      "number": "22",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 118–22."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 118–22."
+          ]
+        }
+      ]
+    },
+    "n_ch03_023": {
+      "number": "23",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见 Tooke 1959, ch. iii。值得注意的是，Arnon（1984a and 1991）对这位伟人观点的评价，比 Gregory（1928）公允得多。Arnon 对图克成熟时期的观点以及图克思想发展的路径，作了翔实而平衡的论述。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Tooke 1959, ch. iii. It is worth noting that Arnon (1984a and 1991) has done much more justice to the great man’s views than Gregory (1928). Arnon offers an informative and balanced account of the mature views of Tooke as well as of the path of Tooke’s mental development."
+          ]
+        }
+      ]
+    },
+    "n_ch03_024": {
+      "number": "24",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Arnon 1991, pp. 110–12."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Arnon 1991, pp. 110–12."
+          ]
+        }
+      ]
+    },
+    "n_ch03_025": {
+      "number": "25",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Tooke 1959, pp. 70–1."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Tooke 1959, pp. 70–1."
+          ]
+        }
+      ]
+    },
+    "n_ch03_026": {
+      "number": "26",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对“回流规律”最清晰的阐述见 Fullarton 1969, pp. 67–8。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The clearest exposition of ‘the law of the reflux’ was given by Fullarton 1969, pp. 67–8."
+          ]
+        }
+      ]
+    },
+    "n_ch03_027": {
+      "number": "27",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 116."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 116."
+          ]
+        }
+      ]
+    },
+    "n_ch03_028": {
+      "number": "28",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 224."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 224."
+          ]
+        }
+      ]
+    },
+    "n_ch03_029": {
+      "number": "29",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Steuart 1767."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Steuart 1767."
+          ]
+        }
+      ]
+    },
+    "n_ch03_030": {
+      "number": "30",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 116, original emphasis."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 116, original emphasis."
+          ]
+        }
+      ]
+    },
+    "n_ch03_031": {
+      "number": "31",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Rosdolsky 1977, p. 144, ch. 11."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Rosdolsky 1977, p. 144, ch. 11."
+          ]
+        }
+      ]
+    },
+    "n_ch03_032": {
+      "number": "32",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 102; see also 1976b, p. 210."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 102; see also 1976b, p. 210."
+          ]
+        }
+      ]
+    },
+    "n_ch03_033": {
+      "number": "33",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Tooke 1959, ch. ii; Fullarton 1845, ch. iv."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Tooke 1959, ch. ii; Fullarton 1845, ch. iv."
+          ]
+        }
+      ]
+    },
+    "n_ch03_034": {
+      "number": "34",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1976b, pp. 231–2."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1976b, pp. 231–2."
+          ]
+        }
+      ]
+    },
+    "n_ch03_035": {
+      "number": "35",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Arnon 1984b and Green 1982."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Arnon 1984b and Green 1982."
+          ]
+        }
+      ]
+    },
+    "n_ch03_036": {
+      "number": "36",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 126–36."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 126–36."
+          ]
+        }
+      ]
+    },
+    "n_ch03_037": {
+      "number": "37",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Green 1982."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Green 1982."
+          ]
+        }
+      ]
+    },
+    "n_ch03_038": {
+      "number": "38",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Green 1982, p. 62."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Green 1982, p. 62."
+          ]
+        }
+      ]
+    },
+    "n_ch03_039": {
+      "number": "39",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Garegnani 1978–9."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Garegnani 1978–9."
+          ]
+        }
+      ]
+    },
+    "n_ch03_040": {
+      "number": "40",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Green 1982, p. 63."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Green 1982, p. 63."
+          ]
+        }
+      ]
+    },
+    "n_ch03_041": {
+      "number": "41",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, respectively, Marx 1969, p. 502, and Marx 1970, p. 168."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, respectively, Marx 1969, p. 502, and Marx 1970, p. 168."
+          ]
+        }
+      ]
+    },
+    "n_ch03_042": {
+      "number": "42",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Green 1982, p. 62."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Green 1982, p. 62."
+          ]
+        }
+      ]
+    },
+    "n_ch03_043": {
+      "number": "43",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1973, p. 187."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1973, p. 187."
+          ]
+        }
+      ]
+    },
+    "n_ch03_044": {
+      "number": "44",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 181."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 181."
+          ]
+        }
+      ]
+    },
+    "n_ch03_045": {
+      "number": "45",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As found in Ricardo 1951."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As found in Ricardo 1951."
+          ]
+        }
+      ]
+    },
+    "n_ch03_046": {
+      "number": "46",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 171–2."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 171–2."
+          ]
+        }
+      ]
+    },
+    "n_ch03_047": {
+      "number": "47",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hume 1875, vol. i, pp. 312 and 321."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hume 1875, vol. i, pp. 312 and 321."
+          ]
+        }
+      ]
+    },
+    "n_ch03_048": {
+      "number": "48",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 173."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 173."
+          ]
+        }
+      ]
+    },
+    "n_ch03_049": {
+      "number": "49",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976, part 1."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976, part 1."
+          ]
+        }
+      ]
+    },
+    "n_ch03_050": {
+      "number": "50",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, pp. 261 and 400."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, pp. 261 and 400."
+          ]
+        }
+      ]
+    },
+    "n_ch03_051": {
+      "number": "51",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 406."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 406."
+          ]
+        }
+      ]
+    },
+    "n_ch03_052": {
+      "number": "52",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1970, p. 103."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1970, p. 103."
+          ]
+        }
+      ]
+    },
+    "n_ch03_053": {
+      "number": "53",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "后来的文献指出，就总价格水平与货币供给的关系而言，指数分析的缺失和现代计量经济技术的缺乏严重削弱了图克著作的有效性。进一步考察这一点超出本章的目的，但应指出两点。第一，阿农根据图克的数字估计了价格指数和货币指数，并建立了与银行学派的主张一致的计量经济关系（Arnon 1991）。第二，技术精密程度的巨大提高也许实际上并没有增进我们对这些问题的洞见。因果关系的计量经济证明未必优于图克对经验问题的具体历史和制度处理。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Subsequent literature has pointed out that the absence of index number analysis and the lack of modern econometric techniques seriously weaken the validity of Tooke’s work as far as the relationship between the aggregate price level and the money supply is concerned. It is beyond the purpose of this chapter to examine this further, but two points should be made. First, on the basis of Tooke’s figures, Arnon has estimated price and money indices and established econometric relations consistent with the claims of the Banking School (Arnon 1991). Second, it is the case, perhaps, that the vast improvement in technical sophistication has not actually increased our insight into these questions. Econometric demonstrations of causality are not necessarily superior to Tooke’s concrete historical and institutional treatment of empirical questions."
+          ]
+        }
+      ]
+    },
+    "n_ch03_054": {
+      "number": "54",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "最显著的例外是 De Brunhoff 1976。德·布吕诺夫精辟地分析了马克思再生产图式中均衡的金融要求，并赋予贮藏在这一过程中的关键作用。然而，她没有讨论这一分析对货币流通的意义。换句话说，再生产图式与货币数量论讨论的相关性，以及贮藏过程作为宏观层面货币存量重新划分的意义，都没有得到分析。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The most notable exception is De Brunhoff 1976. De Brunhoff has incisively analysed the financial requirements for equilibrium in Marx’s reproduction schema and assigned to hoards a key role in the process. However, she did not discuss the import of this analysis for monetary circulation. In other words, the relevance of the reproduction schema to the discussion of the Quantity Theory of money and the process of hoarding as a re-division of the money stock at the macro level were not analysed."
+          ]
+        }
+      ]
+    },
+    "n_ch03_055": {
+      "number": "55",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Fine 1975, p. 47."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Fine 1975, p. 47."
+          ]
+        }
+      ]
+    },
+    "n_ch03_056": {
+      "number": "56",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, pp. 407–9."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, pp. 407–9."
+          ]
+        }
+      ]
+    },
+    "n_ch03_057": {
+      "number": "57",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 477."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 477."
+          ]
+        }
+      ]
+    },
+    "n_ch03_058": {
+      "number": "58",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, pp. 477–8."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, pp. 477–8."
+          ]
+        }
+      ]
+    },
+    "n_ch03_059": {
+      "number": "59",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Luxemburg 1951; Luxemburg and Bukharin 1972."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Luxemburg 1951; Luxemburg and Bukharin 1972."
+          ]
+        }
+      ]
+    },
+    "n_ch03_060": {
+      "number": "60",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Luxemburg and Bukharin 1972, ch. 2."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Luxemburg and Bukharin 1972, ch. 2."
+          ]
+        }
+      ]
+    },
+    "n_ch03_061": {
+      "number": "61",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 405."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 405."
+          ]
+        }
+      ]
+    },
+    "n_ch03_062": {
+      "number": "62",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976, p. 61."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976, p. 61."
+          ]
+        }
+      ]
+    },
+    "n_ch03_063": {
+      "number": "63",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, respectively, Marx 1978, pp. 158–9 and 162–4; p. 566; pp. 572–4; pp. 410–12; pp. 164–5."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, respectively, Marx 1978, pp. 158–9 and 162–4; p. 566; pp. 572–4; pp. 410–12; pp. 164–5."
+          ]
+        }
+      ]
+    },
+    "n_ch03_064": {
+      "number": "64",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Fine 1980, p. 20, for a diagram which makes this point easier to follow."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Fine 1980, p. 20, for a diagram which makes this point easier to follow."
+          ]
+        }
+      ]
+    },
+    "n_ch03_065": {
+      "number": "65",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976, p. 69."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976, p. 69."
+          ]
+        }
+      ]
+    },
+    "n_ch03_066": {
+      "number": "66",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, pp. 524–5."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, pp. 524–5."
+          ]
+        }
+      ]
+    },
+    "n_ch03_067": {
+      "number": "67",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, pp. 572–7."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, pp. 572–7."
+          ]
+        }
+      ]
+    },
+    "n_ch03_068": {
+      "number": "68",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 261."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 261."
+          ]
+        }
+      ]
+    },
+    "n_ch03_069": {
+      "number": "69",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Wicksell 1905, Vol. ii, p. 150."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Wicksell 1905, Vol. ii, p. 150."
+          ]
+        }
+      ]
+    }
+  },
+  "body": [
+    {
+      "id": "ch03-ack",
+      "canonical_kind": "ack",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "＊ ",
+            "首次发表于《剑桥经济学杂志》（Cambridge Journal of Economics）1994年第18卷第5期（10月号），第447–461页，题为“The Banking School and the Monetary Thought of Karl Marx”。感谢牛津大学出版社授予重印许可。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "* ",
+            "First published as ‘The Banking School and the Monetary Thought of Karl Marx’,",
+            {
+              "type": "em",
+              "children": [
+                " Cambridge"
+              ]
+            },
+            " Journal of Economics, 1994, Vol. 18, No. 5, October, pp. 447–461. We are grateful to Oxford University Press for the reprint permission."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-ack"
+      ],
+      "page": "51"
+    },
+    {
+      "id": "ch03-u002",
+      "canonical_kind": "heading",
+      "zh": [
+        "1 导言",
+        {
+          "type": "note",
+          "id": "n_ch03_001",
+          "label": "1"
+        }
+      ],
+      "en": [
+        "1 Introduction",
+        {
+          "type": "note",
+          "id": "n_ch03_001",
+          "label": "1"
+        }
+      ],
+      "source_ids": [
+        "ch03-u002"
+      ],
+      "page": "51",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch03-u003",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "自维克塞尔的贡献以来，关于金块论战和通货论战的研究已大量展开。",
+            {
+              "type": "note",
+              "id": "n_ch03_002",
+              "label": "2"
+            },
+            "在这些文献中，马克思对这两场论战的看法没有得到充分探讨。",
+            {
+              "type": "note",
+              "id": "n_ch03_003",
+              "label": "3"
+            },
+            "考虑到马克思在理论上对金块论者主要代表李嘉图的专注，这是令人惊讶的。同样令人惊讶的是，马克思的大部分经济研究恰恰是在银行论战高峰刚过之后在伦敦进行的。对银行论战的评论贯穿他成熟时期的经济著作。",
+            {
+              "type": "note",
+              "id": "n_ch03_004",
+              "label": "4"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Extensive research has been carried out on both the Bullion and Currency Controversies since Wicksell’s contribution.",
+            {
+              "type": "note",
+              "id": "n_ch03_002",
+              "label": "2"
+            },
+            " In this literature Marx’s views on the Controversies have been inadequately explored.",
+            {
+              "type": "note",
+              "id": "n_ch03_003",
+              "label": "3"
+            },
+            " This is surprising when one considers Marx’s theoretical preoccupation with Ricardo, the main exponent of the Bullionists. It is also surprising in view of the fact that Marx did the bulk of his economic research in London just after the peak of the Banking Controversy. Comments on the latter can be found throughout his mature economic work.",
+            {
+              "type": "note",
+              "id": "n_ch03_004",
+              "label": "4"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u003"
+      ],
+      "page": "51"
+    },
+    {
+      "id": "ch03-u004",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "阿农在填补这一文献空白方面走了很远。",
+            {
+              "type": "note",
+              "id": "n_ch03_005",
+              "label": "5"
+            },
+            "他的核心论点是：马克思成熟时期把货币贮藏（准备）理解为货币流通调节者的观点，受到了银行学派支柱图克的影响。阿农还指出，马克思受到图克把黄金、法定货币和银行券区分为性质不同的货币形式这一做法的影响。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Arnon has gone a long way toward filling this gap in the literature.",
+            {
+              "type": "note",
+              "id": "n_ch03_005",
+              "label": "5"
+            },
+            " His central argument is that Marx’s mature understanding of money hoards (reserves) as regulators of monetary circulation was influenced by Tooke, the pillar of the Banking School. Arnon also pointed out that Marx was influenced by Tooke’s distinction between gold, fiat money and banknotes as qualitatively different forms of money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u004"
+      ],
+      "page": "51"
+    },
+    {
+      "id": "ch03-u005",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本章第2节关注后一点。毫无疑问，马克思对货币形式与职能的分析受到了银行学派观点的影响。然而，马克思还声称："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Section 2 of this chapter is concerned with the latter point. There is no doubt at all that Marx’s analysis of the forms and functions of money was influenced by the views of the Banking School. However, Marx also claimed that"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u005"
+      ],
+      "page": "51"
+    },
+    {
+      "id": "ch03-u006",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "这些著作家没有一个人片面地看待货币，而是考察了货币的各个方面，尽管只是从机械的角度，丝毫没有注意这些方面彼此之间、或它们与整个经济范畴体系之间的有机联系。",
+            {
+              "type": "note",
+              "id": "n_ch03_006",
+              "label": "6"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "[n]one of these writers take [sic] a one-sided view of money but deal [sic] with its various aspects, though only from a mechanical angle without paying any attention to the organic relation of these aspects either with one another or with the system of economic categories as a whole.",
+            {
+              "type": "note",
+              "id": "n_ch03_006",
+              "label": "6"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u006"
+      ],
+      "page": "52",
+      "indent": true,
+      "review": "原文引文首词作“[n]one”（引用者改小写），并两处标“[sic]”（原文如此，指主谓不一致）；中文无对应形态，特此说明。"
+    },
+    {
+      "id": "ch03-u007",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本章论证，马克思的货币理论试图确立货币各个方面的“有机联系”，而这在银行学派的著作中显然是缺乏的。简言之，马克思的分析从把货币设定为“价值的独立形式”、一种有自身价值的商品开始，然后进而推导货币的职能。在推导职能时，他把货币形式的演化与特定职能的执行联系起来。这样，金铸币和国家法定货币与流通手段职能相联系。信用货币这种更发展、更高级的货币类型，则与支付手段职能相联系。在银行学派的著作中找不到这样的理论次序。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This chapter argues that Marx’s monetary theory attempted to establish the ‘organic relation’ of the various aspects of money, apparently lacking in the work of the Banking School. Put briefly, Marx started his analysis by positing money as the ‘independent form of value’, a commodity with its own value, and then proceeded to derive the functions of money. In deriving the latter he linked the evolving forms of money to the performance of particular functions. Thus, gold coin and state fiat money were associated with the function of means of circulation. Credit money, a more developed and advanced type of money, was associated with the function of means of payment. No such theoretical order can be found in the work of the Banking School."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u007"
+      ],
+      "page": "52"
+    },
+    {
+      "id": "ch03-u008",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思偏好的这种结构化方法，并非其日耳曼哲学训练的一时喜好、一种与银行学派的英国实用主义格格不入的东西。理论上的严格使马克思得以确立金铸币和法定货币在流通中的特征行为（并确认法定货币产生价格膨胀的趋势），同时保留他关于货币是商品的原初观点。同理，对马克思来说，使信用货币在性质上区别于黄金和法定货币的特征，是信用货币返回其发行点（流通中的循环路径）这一事实。这里可以察觉到“回流规律”——银行学派备受诋毁的理论创新——的影响。",
+            {
+              "type": "note",
+              "id": "n_ch03_007",
+              "label": "7"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The structured approach preferred by Marx was not a mere fancy of his Germanic philosophical training, alien to the British pragmatism of the Banking School. Theoretical rigour allowed Marx to establish the characteristic behaviour of gold coin and fiat money in circulation (as well as to ascertain the tendency of fiat money to generate price inflation), whilst retaining his original view that money is a commodity. By the same token, for Marx, the feature that qualitatively distinguished credit money from gold and fiat money was the fact that credit money returned to its point of issue (a cyclical path in circulation). The influence of the ‘law of the reflux’, the much-maligned theoretical innovation of the Banking School, can be detected here.",
+            {
+              "type": "note",
+              "id": "n_ch03_007",
+              "label": "7"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u008"
+      ],
+      "page": "52"
+    },
+    {
+      "id": "ch03-u009",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这种分析对当代理论绝非无关紧要。马克思的做法提示，把存款货币、银行券和铸币不加限定地纳入一个统一的货币总量是有问题的。它还提示，应当更充分地探索存款货币与货币职能——支付手段和价值贮藏——的理论联系，以确立不同类型的存款货币介入交换领域的特殊方式。按照马克思分析的精神，我们会预期各类存款货币之间存在重要的质的区别，存款与其他货币形式之间也存在重要的质的区别。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This type of analysis is far from irrelevant for contemporary theory. Marx’s procedure suggests that the unqualified inclusion of depository money, banknotes and coin in a uniform monetary aggregate is problematic. It also suggests that the theoretical connection of depository money with money’s functions – means of payment and store of value – should be more fully explored with a view to establishing the specific way in which different types of depository money intervene in the sphere of exchange. The spirit of Marx’s analysis would lead us to expect significant qualitative differences among the various types of depository money, as well as significant qualitative differences between deposits and other forms of money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u009"
+      ],
+      "page": "52–53"
+    },
+    {
+      "id": "ch03-u010",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在马克思与银行学派的理论关系中，还有更实质的问题。维克塞尔发现，银行学派著作家对货币数量论的批判有许多是“出色的”。",
+            {
+              "type": "note",
+              "id": "n_ch03_008",
+              "label": "8"
+            },
+            "然而在他看来，他们的理论大部分是否定性的：他们有力地批判了通货学派的货币数量论观点，但对于所设想的相反决定方向——即从价格到货币——实际如何运作，却没有提出令人满意的正面论证。在较晚近的文献中，格林论证说，银行学派和马克思对货币数量论的批判在内部是不一致的，理由是两者都暗中接受了萨伊定律。",
+            {
+              "type": "note",
+              "id": "n_ch03_009",
+              "label": "9"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There are further issues of substance in the theoretical relationship between Marx and the Banking School. Wicksell found that much of the critique of the Quantity Theory offered by the writers of the Banking School was ‘excellent’.",
+            {
+              "type": "note",
+              "id": "n_ch03_008",
+              "label": "8"
+            },
+            " Yet, according to him, most of their theory was of a negative character: they powerfully criticised the Quantity Theory views of the Currency School, but offered no satisfactory positive arguments on how the presumed alternative direction of determination, i.e. from prices to money, actually worked. In more recent literature, Green has argued that the critique of the Quantity Theory by the Banking School and Marx was internally inconsistent on the grounds that both implicitly accepted Say’s Law.",
+            {
+              "type": "note",
+              "id": "n_ch03_009",
+              "label": "9"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u010"
+      ],
+      "page": "53"
+    },
+    {
+      "id": "ch03-u011",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本文第3节转向马克思对货币数量论的批判，并考察它对马克思本人货币理论的含义。马克思《资本论》第二卷的货币分析在这一联系中很重要。马克思著作的那一部分主要关注生产资料生产者、消费资料生产者和工人之间的基本交换。马克思发展的复杂再生产图式，首要关切是为社会总资本的物质再生产和价值再生产确立理论上的可行性条件。尽管如此，这一分析也包含货币流通理论的发达要素——关于总价格与货币数量之联系的“另一种”理论的构件。在《资本论》第二卷中，马克思朝着构建一个货币运动从属于资本运动的模型走了一段路。在这个模型中，货币贮藏表现为资本再生产的一个至关重要的要素。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Section 3 of this article turns to Marx’s critique of the Quantity Theory and examines its implications for Marx’s own monetary theory. The monetary analysis in the second volume of Marx’s Capital is important in this connection. That part of Marx’s work is mostly concerned with analysing the fundamental exchanges between producers of producer goods, producers of consumer goods and workers. The primary concern of the complex schemata of reproduction developed by Marx was to establish theoretical feasibility conditions for the material and the value reproduction of the total social capital. Nevertheless, the analysis also contains developed elements of a theory of monetary circulation – building blocks for the ‘alternative’ theory of the connection between aggregate prices and quantity of money. In the second volume of Capital, Marx went some way toward constructing a model in which the movement of money is subsidiary to the movement of capital. In this model money hoarding appeared as a vital element of the reproduction of capital."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u011"
+      ],
+      "page": "53"
+    },
+    {
+      "id": "ch03-u012",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在我看来，阿农论证马克思在货币贮藏问题上借鉴了图克的洞见，这是对的。然而，马克思把这些洞见变成了流通货币与贮藏货币理论的基础，超出了银行学派的著作。马克思的著作确实处于斯图亚特、图克和富拉顿的反货币数量论传统之中，但它也是这一传统的重要发展。",
+            {
+              "type": "note",
+              "id": "n_ch03_010",
+              "label": "10"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Arnon is, in my view, right to argue that Marx borrowed insights from Tooke on the issue of monetary hoards. However, Marx turned these insights into the foundations of a theory of circulating and hoarded money which went beyond the work of the Banking School. Marx’s work was indeed in the anti-Quantity Theory tradition of Steuart, Tooke and Fullarton, but it was also a significant development of that tradition.",
+            {
+              "type": "note",
+              "id": "n_ch03_010",
+              "label": "10"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u012"
+      ],
+      "page": "53"
+    },
+    {
+      "id": "ch03-u013",
+      "canonical_kind": "heading",
+      "zh": [
+        "2 银行学派与马克思关于货币形式与职能的观点"
+      ],
+      "en": [
+        "2 The Banking School and Marx’s View of the Forms and Functions of Money"
+      ],
+      "source_ids": [
+        "ch03-u013"
+      ],
+      "page": "54",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch03-u014",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在马克思看来，李嘉图货币理论的一个典型缺陷，是无视货币除流通媒介以外的职能。",
+            {
+              "type": "note",
+              "id": "n_ch03_011",
+              "label": "11"
+            },
+            "简言之，一国在任一时刻的全部货币都被假定处于流通之中，积极地促成产出的实现。这一隐含假定使李嘉图得以提出他的货币数量论版本，把英格兰银行的银行券发行视同黄金生产。",
+            {
+              "type": "note",
+              "id": "n_ch03_012",
+              "label": "12"
+            },
+            "于是李嘉图能够论证，拿破仑战争期间价格上涨和英镑汇率下跌，主要源于银行体系提供的银行券数量的增加。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "According to Marx, a characteristic flaw of Ricardo’s monetary theory was its disregard of money’s functions other than as a medium of circulation.",
+            {
+              "type": "note",
+              "id": "n_ch03_011",
+              "label": "11"
+            },
+            " Put simply, the whole of the money of a country at any moment in time is assumed to be in circulation, actively facilitating the realisation of output. This implicit assumption allowed Ricardo to put forward his version of the Quantity Theory of Money, treating the issue of banknotes by the Bank of England as tantamount to gold production.",
+            {
+              "type": "note",
+              "id": "n_ch03_012",
+              "label": "12"
+            },
+            " Ricardo was thus able to argue that increases in prices and decreases in the sterling exchange rate during the Napoleonic Wars resulted mainly from increases in the quantity of the notes provided by the banking system."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u014"
+      ],
+      "page": "54"
+    },
+    {
+      "id": "ch03-u015",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思本人的货币理论对货币职能持高度结构化的观点。",
+            {
+              "type": "note",
+              "id": "n_ch03_013",
+              "label": "13"
+            },
+            "他的理论从货币的本质（“一般等价物”或“价值的独立形式”）开始，把它设定为使用价值与交换价值之间矛盾的实际解决。",
+            {
+              "type": "note",
+              "id": "n_ch03_014",
+              "label": "14"
+            },
+            "从这一出发点，按严格的逻辑次序推导出三种职能：价值尺度、流通手段，以及货币作为货币（包括货币作为贮藏、作为支付手段和作为国际货币的维度）。",
+            {
+              "type": "note",
+              "id": "n_ch03_015",
+              "label": "15"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s own monetary theory had a highly structured view of the functions of money.",
+            {
+              "type": "note",
+              "id": "n_ch03_013",
+              "label": "13"
+            },
+            " His theory started with the essence of money (the ‘universal equivalent’ or ‘independent form of value’) posited as the practical resolution of the contradictions between use value and exchange value.",
+            {
+              "type": "note",
+              "id": "n_ch03_014",
+              "label": "14"
+            },
+            " From this point of departure, three functions were derived in strict logical sequence: measure of value, means of circulation, and money as money (which includes the dimensions of money as hoard, as means of payment and as international money).",
+            {
+              "type": "note",
+              "id": "n_ch03_015",
+              "label": "15"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u015"
+      ],
+      "page": "54"
+    },
+    {
+      "id": "ch03-u016",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "一条逻辑的（也是历史的）线索贯穿马克思的分析，确立了这样一点：货币不是由它做什么来定义的，相反，货币做什么是货币是什么的结果。极其粗略地说，推导过程如下：商品“一般等价物”之所以确立，是因为其他商品在它的实体上表现自己的价值，因此它的第一种职能是衡量价值、设定价格。价格一经设定，还必须在市场上“实现”，因此价值尺度必须转手，于是“一般等价物”执行流通手段的职能。",
+            {
+              "type": "note",
+              "id": "n_ch03_016",
+              "label": "16"
+            },
+            "这样，货币的前两种职能来自市场过程的基本规定；它们（姑且找不到更好的词）内在于市场过程。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "A logical (and historical) thread ran through Marx’s analysis, establishing the point that money is not what money does, but, on the contrary, what money does is a consequence of what money is. The derivation, put extremely sketchily, went as follows: the commodity ‘universal equivalent’ becomes established because other commodities express their value in its substance, hence its first function is to measure values and set prices. Once prices have been set, they also have to be ‘realised’ in the market, therefore, the measure of value must pass from hand to hand and therefore the ‘universal equivalent’ functions as means of circulation.",
+            {
+              "type": "note",
+              "id": "n_ch03_016",
+              "label": "16"
+            },
+            " Thus, the first two functions of money follow from the fundamentals of market processes; they are (for lack of a better term) internal to market processes."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u016"
+      ],
+      "page": "54"
+    },
+    {
+      "id": "ch03-u017",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而，经常而发达的商品交换还提出这样的要求：“价值的独立形式”应当说是从外部介入市场。经常出现这样的情形：“一般等价物”被要求作为一种外在的社会力量与交换相对立；具体地说，行为人必须能够随时买卖，延期支付必须完成，国际交易必须结清。货币的第三种职能就是在回应这些需要时“作为货币”执行职能。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "However, regular and developed commodity exchange also poses the requirement that the ‘independent form of value’ should intervene in the markets from without, as it were. Circumstances regularly appear in which the ‘universal equivalent’ is called upon to confront exchange as an external social force; specifically, agents have to be able to buy and sell at all times, deferred payments have to be completed, international transactions have to be settled. Money’s third function is to operate ‘as money’ while answering these needs."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u017"
+      ],
+      "page": "54–55"
+    },
+    {
+      "id": "ch03-u018",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思推导的次序与交换过程的发展相关：价值尺度对应初级的交换，流通手段对应普遍化的市场过程，而货币作为货币的充分执行职能发生在发达的资本主义交换中。",
+            {
+              "type": "note",
+              "id": "n_ch03_017",
+              "label": "17"
+            },
+            "货币形式的发展也是马克思论证的核心：“一般等价物”是众多商品中的一种，以自身实体的单位衡量价值，例如若干袋盐、若干盎司金；执行流通手段职能导致金属铸币的出现，以及国家法定货币的出现——后者符号化并替换在流通行为中自然磨损的金属货币；执行货币作为货币的职能导致信用货币（银行券）的出现，这一点我将在下文展开。",
+            {
+              "type": "note",
+              "id": "n_ch03_018",
+              "label": "18"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The order of Marx’s derivation is related to the development of the process of exchange: while measure of value corresponds to rudimentary exchange and means of circulation to generalised market processes, the full functioning of money as money takes place in advanced capitalist exchange.",
+            {
+              "type": "note",
+              "id": "n_ch03_017",
+              "label": "17"
+            },
+            " The development of the form of money is also central to Marx’s argument: the ‘universal equivalent’ is one commodity among the many and measures value in units of its substance, e.g. bags of salt, ounces of gold; performing the function of means of circulation leads to the emergence of metallic coin, and of state fiat money which symbolises and replaces metallic money naturally worn out in the act of circulation; performing the function of money as money leads to the emergence of credit money (banknotes),",
+            {
+              "type": "note",
+              "id": "n_ch03_018",
+              "label": "18"
+            },
+            " a point which I shall develop below."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u018"
+      ],
+      "page": "55"
+    },
+    {
+      "id": "ch03-u019",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "形式与职能的紧密联系使马克思得以推出强有力的结论，与他关于货币起初是商品的前提完全一致。这样，国家法定货币有一个关键弱点：它是首屈一指的流通手段，专属于流通领域，在流通之外没有价值："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Close association of form with function allowed Marx to derive strong conclusions, entirely consistent with his premise that money is initially a commodity. Thus, state fiat money suffers from a key weakness, i.e. it is means of circulation par excellence, belongs exclusively to the sphere of circulation, and has no value outside it:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u019"
+      ],
+      "page": "55"
+    },
+    {
+      "id": "ch03-u020",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "纸币一旦进入流通，就不可能被驱逐出去，因为一方面，国界限制着它们的运动，另一方面，它们在流通领域之外失去一切价值，包括使用价值和交换价值。离开自己的职能，它们就是无用的废纸。",
+            {
+              "type": "note",
+              "id": "n_ch03_019",
+              "label": "19"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "Once the notes are in circulation it is impossible to drive them out, for the frontiers of the country limit their movement, on the one hand, and on the other hand they lose all value, both use-value and exchange-value, outside the sphere of circulation. Apart from their function they are useless scraps of paper.",
+            {
+              "type": "note",
+              "id": "n_ch03_019",
+              "label": "19"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u020"
+      ],
+      "page": "55",
+      "indent": true
+    },
+    {
+      "id": "ch03-u021",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "缺乏退出国内流通的明显出路，使流通中法定货币的数量有一种特殊的规定：国家似乎能够随意增加这个数量，却难以向下调整。普鲁士纸塔勒、俄国纸卢布、尤其是法国指券的这种特性，是马克思理解18世纪恶性通货膨胀的核心。反复而频繁地发行这种货币（在商品价值、金属价值和货币流通速度等大体不变的条件下），导致它对商品的交换比率崩溃。原因在于，法定货币无法退出流通，其数量不断膨胀，而被它替换的金属货币量（由商品价值和流通速度决定）却不受影响。因此，每单位法定货币倾向于符号化越来越少的金属货币。",
+            {
+              "type": "note",
+              "id": "n_ch03_020",
+              "label": "20"
+            },
+            "由于商品价格（表现不变的劳动时间）以法定货币单位计值，要保持价格名目，价格就必须随法定货币的贬值相应上涨。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The lack of an obvious way out of domestic circulation gives to the quantity of circulating fiat money a peculiar determination: the state appears capable of augmenting this quantity at will, but has difficulty in making downward adjustments. This peculiarity of Prussian paper Thalers, Russian paper Roubles and, above all, French Assignats, was central to Marx’s understanding of the hyperinflations of the eighteenth century. Repeated and frequent issues of such money (other things being roughly equal, such as commodity values, metal value and velocity of money) led to a collapse of its exchange ratio against commodities. The reason was that, unable to exit from circulation, the quantity of fiat money ballooned while the quantity of metallic money replaced by it (and determined by commodity values and velocity) remained unaffected. Therefore, each unit of fiat money tended to symbolise less and less of metallic money.",
+            {
+              "type": "note",
+              "id": "n_ch03_020",
+              "label": "20"
+            },
+            " Since commodity prices (expressing unchanged labour time) were denominated in units of fiat money, it followed that, for their nomenclature to be preserved, prices had to rise commensurately with the depreciation of fiat money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u021"
+      ],
+      "page": "55–56"
+    },
+    {
+      "id": "ch03-u022",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思的分析中并没有这样的预设：货币数量增加会导致支出急切性上升，从而最终导致价格上升。尽管与货币数量论有形式上的相似，马克思并不认为法定货币的增加代表新增的货币需求（其他条件不变）。快速的法定货币膨胀反而被看作重新调整价值计量的盲目而不可避免的过程的结果。这是一个类似于货币金属价值变动所引发的动荡的过程："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There was no presumption in Marx’s analysis that increases in the quantity of money led to a rising eagerness to spend and thus, eventually, to higher prices. Despite formal similarities with the Quantity Theory, Marx did not argue that increases in fiat money represented fresh money demand, other things being equal. Rapid fiat money inflation was instead seen as the outcome of a blind, ineluctable process of readjusting the measurement of value. This was a process similar to the turbulence precipitated by a change in the value of the monetary metal:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u022"
+      ],
+      "page": "56"
+    },
+    {
+      "id": "ch03-u023",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "如果那个价值下降，这种下降首先会表现为在贵金属产地直接同贵金属交换的商品的价格变化。其他一切商品的大部分，会在很长时间内继续按价值尺度的旧价值来估价，即使那个旧价值已经过时和虚幻（尤其是当资产阶级社会还处于较不发达的阶段时）。然而，一种商品会通过共同的价值关系感染另一种商品，以致它们以金或银表示的价格逐渐安顿到由比较价值决定的比例上，直到最后一切商品的价值都按货币金属的新价值来估价。",
+            {
+              "type": "note",
+              "id": "n_ch03_021",
+              "label": "21"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "[I]f that value fell, the fall would first appear as a change in the prices of the commodities directly exchanged with the precious metals at their source. The greater part of all other commodities would continue for a long time to be estimated in terms of the former value of the measure of value, even if that had become antiquated and illusory (especially when bourgeois society was still at a less developed stage). Nevertheless, one commodity would infect another through their common valuerelation so that their prices, expressed in gold or silver, would gradually settle down into the proportions determined by comparative values, until finally the values of all commodities would be estimated in terms of the new value of the monetary metal.",
+            {
+              "type": "note",
+              "id": "n_ch03_021",
+              "label": "21"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u023"
+      ],
+      "page": "56",
+      "indent": true,
+      "review": "原文“valuerelation”为OCR连写，应为“value-relation”。"
+    },
+    {
+      "id": "ch03-u024",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "从这一视角看，法定货币引起的通货膨胀，是被扰乱的价值尺度重新与流通手段职能相容的方式。通过通货膨胀，商品流通重新确立了它对国家表面上随意决定法定货币数量的能力的优先地位。",
+            {
+              "type": "note",
+              "id": "n_ch03_022",
+              "label": "22"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "From this perspective, inflation caused by fiat money is the way in which the disturbed measure of value becomes once again compatible with the function of means of circulation. Through inflation, commodity circulation reasserts its pre-eminence over the state’s apparent ability to determine at will the quantity of fiat money.",
+            {
+              "type": "note",
+              "id": "n_ch03_022",
+              "label": "22"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u024"
+      ],
+      "page": "56"
+    },
+    {
+      "id": "ch03-u025",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对法定货币的这种理论处理，立即显示出马克思得益于银行学派之处，但也显示出他的方法更强的解释力。图克（和富拉顿）明确区分指券型货币与银行券（典型的是英格兰银行的银行券，也包括地方银行的银行券）。图克指责他的论敌不理解这两类货币的区别，因而试图把指券式的倾向加到银行券信用货币头上。",
+            {
+              "type": "note",
+              "id": "n_ch03_023",
+              "label": "23"
+            },
+            "银行学派一般论证说，指券型货币与信用过程无关，完全可能产生持续的价格膨胀。然而，他们对这种膨胀机制的说明，没有达到马克思那样的精确程度，也没有像马克思那样摆脱“更多货币创造新需求”的观念。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This theoretical treatment of fiat money immediately reveals how much Marx owed to the Banking School, but also shows the superior explanatory power of his approach. Tooke (and Fullarton) clearly distinguished between Assignat-type money and banknotes (typically those of the Bank of England, but also of country banks). Tooke accused his opponents of not understanding the difference between these two types of money and, thus, trying to impute Assignat-like tendencies to banknote credit money.",
+            {
+              "type": "note",
+              "id": "n_ch03_023",
+              "label": "23"
+            },
+            " The Banking School generally argued that Assignat-type money was unrelated to credit processes and could well generate sustained price inflation. However, they did not account for the mechanism of such inflation with precision that was equal to Marx’s, and similarly free from the notion that more money creates fresh demand."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u025"
+      ],
+      "page": "57"
+    },
+    {
+      "id": "ch03-u026",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "阿农注意到，成熟的图克有一种“价格收入理论”，这是一种几乎没有展开的观点，认为货币价格总额（图克术语中的“一般价格”）由构成消费者收入、从而有效需求的货币总额决定。",
+            {
+              "type": "note",
+              "id": "n_ch03_024",
+              "label": "24"
+            },
+            "可兑换银行券数量的波动只代表这种需求构成的变化；不可兑换法定货币数量的波动则代表需求水平的变化。因此图克论证说：“另一方面，强制流通的政府纸币在增发的过程中，直接作为初始原因作用于价格和收入，构成一个新的货币需求来源，这种货币与黄金相比价值已经贬低，但名义价值同以前一样。”",
+            {
+              "type": "note",
+              "id": "n_ch03_025",
+              "label": "25"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Arnon noted that the mature Tooke had an ‘income theory of prices’, a barely elaborated view which held that aggregate money prices (‘general prices’ in Tooke’s terminology) were determined by the sum of money which constitutes the income of consumers, hence effective demand.",
+            {
+              "type": "note",
+              "id": "n_ch03_024",
+              "label": "24"
+            },
+            " Fluctuations in the amount of convertible banknotes stood for mere changes in the composition of such demand; fluctuations in the amount of inconvertible fiat money represented changes in the level of demand. Thus, Tooke argued: ‘A compulsory government paper, on the other hand, while it is in the course of augmentation, acts directly as an originating cause on prices and incomes, constituting a fresh source of demand in money, depreciated in value as compared with gold, but of the same nominal value as before’.",
+            {
+              "type": "note",
+              "id": "n_ch03_025",
+              "label": "25"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u026"
+      ],
+      "page": "57"
+    },
+    {
+      "id": "ch03-u027",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这是向货币数量论的部分回归，其原因一是图克缺乏把货币本质与其形式和职能联系起来的理论，二是他的价格形成理论过于初级。马克思没有这样的失误。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This is a partial return to the Quantity Theory, the result of, first, Tooke’s lack of a theory linking money’s essence to its forms and functions, and second, his rudimentary theory of price formation. There is no such lapse in Marx."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u027"
+      ],
+      "page": "57"
+    },
+    {
+      "id": "ch03-u028",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "无论如何，一涉及信用货币，马克思与银行学派的关系就复杂得多。对银行学派来说，银行券是贷放银行信用的一种方式，主要是通过票据贴现。恰恰因为银行券是一种银行信用，随着客户偿还债务、购买黄金或开立存款，银行券也倾向于流回银行。",
+            {
+              "type": "note",
+              "id": "n_ch03_026",
+              "label": "26"
+            },
+            "以这一“回流规律”为基础，银行学派反驳了把价格上涨和汇率下跌归因于银行券“过度发行”的李嘉图式理论。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Be that as it may, the relationship between Marx and the Banking School is substantially more complex when it comes to credit money. For the Banking School, banknotes were a way of advancing bank credit, primarily in the discount of bills. Precisely because they were a type of bank credit, banknotes also tended to flow back to the banks as customers repaid their debts, purchased gold, or opened deposits.",
+            {
+              "type": "note",
+              "id": "n_ch03_026",
+              "label": "26"
+            },
+            " On the basis of this ‘law of the reflux’, the Banking School countered the Ricardian theory of ‘overissue’ of banknotes as the explanation for price rises and exchange rate falls."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u028"
+      ],
+      "page": "57–58"
+    },
+    {
+      "id": "ch03-u029",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "银行学派关于信用货币在性质上不同于其他货币形式的观点，得到了马克思的呼应：“信用货币属于社会生产过程的更高级状态，服从于很不相同的规律。”",
+            {
+              "type": "note",
+              "id": "n_ch03_027",
+              "label": "27"
+            },
+            "然而，马克思还把信用货币与货币的职能联系起来。货币在债务清偿中、即在信用关系中和对简单买卖的超越中执行支付手段的职能；对马克思来说，这正是信用货币“扎根”之处："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The Banking School view that credit money differs qualitatively from other forms of money was echoed by Marx: ‘Credit money belongs to a more advanced state of the social process of production and conforms to very different laws’.",
+            {
+              "type": "note",
+              "id": "n_ch03_027",
+              "label": "27"
+            },
+            " Marx, however, also related credit money to the functions of money. Money functions as means of payment in the settlement of debt, i.e. in relations of credit and in the supersession of simple buying and selling; for Marx this is where credit money ‘takes root’:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u029"
+      ],
+      "page": "58"
+    },
+    {
+      "id": "ch03-u030",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "但可以顺便指出，正如真正的纸币从货币作为流通媒介的职能中产生一样，信用货币也在货币作为支付手段的职能中自发地扎根。因此，国家法定货币是单纯的流通手段，而银行券则是与信用业务、与货币作为货币的职能（支付手段）相联系的复杂货币形式。",
+            {
+              "type": "note",
+              "id": "n_ch03_028",
+              "label": "28"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "But it may be noted in passing that just as true paper money arises out of the function of money as the circulating medium, so does credit money take root spontaneously in the function of money as the means of payment. Thus, while state fiat money is plain means of circulation, banknotes are a complex form of money related to credit operations and to the function of money as money (means of payment).",
+            {
+              "type": "note",
+              "id": "n_ch03_028",
+              "label": "28"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u030"
+      ],
+      "page": "58",
+      "indent": true,
+      "review": "原刊排版如此：引文与接续的 Thus 句同为缩进块连续排印（PDF第69页，x≈72.3），经 rawdict 几何验证，非抽取错误。（本注于误重跑构建脚本后据 structure_fixes.json 所记理由重建。）"
+    },
+    {
+      "id": "ch03-u031",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "推测某种版本的“回流规律”支撑着马克思关于信用货币独特性所在的观点，并非没有道理。有几个指向这一点的线索。例如，马克思本人把该“规律”的发现归于詹姆斯·斯图亚特爵士：“斯图亚特发现的第二条规律是，基于信用的通货返回其出发点。”罗斯多尔斯基也注意到，马克思在《大纲》中提到银行券返回其发行点的趋势——其运动“向自身折回”的性质。更重要的是，只有借助“回流规律”才能理解，为什么马克思花那么大力气阐述黄金货币在流通中的运动，强调金铸币倾向于离其流通进入点越来越远，其路径呈随机形状。金属货币的随机路径与银行券的循环路径形成鲜明对照，表明这两种货币形式之间存在质的区别。",
+            {
+              "type": "note",
+              "id": "n_ch03_029",
+              "label": "29"
+            },
+            {
+              "type": "note",
+              "id": "n_ch03_030",
+              "label": "30"
+            },
+            {
+              "type": "note",
+              "id": "n_ch03_031",
+              "label": "31"
+            },
+            {
+              "type": "note",
+              "id": "n_ch03_032",
+              "label": "32"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is not unreasonable to surmise that some version of the ‘law of the reflux’ underpinned Marx’s view of what constitutes the distinctiveness of credit money. There are several pointers in this direction. Thus, Marx himself attributed the discovery of the ‘law’ to Sir James Steuart:",
+            {
+              "type": "note",
+              "id": "n_ch03_029",
+              "label": "29"
+            },
+            " ‘The second law discovered by Steuart is that currency based on credit returns to its point of departure’.",
+            {
+              "type": "note",
+              "id": "n_ch03_030",
+              "label": "30"
+            },
+            " Rosdolsky has also noted that in the Grundrisse Marx mentioned the tendency of banknotes to return to their point of issue – the ‘bent-back on itself’ character of their movement.",
+            {
+              "type": "note",
+              "id": "n_ch03_031",
+              "label": "31"
+            },
+            " More significantly, only in the light of the ‘law of the reflux’ can it be understood why Marx devoted such great effort to elaborating the movement of gold money in circulation, stressing that gold coin tended to move farther and farther away from its point of entry in circulation, its path having a random shape.",
+            {
+              "type": "note",
+              "id": "n_ch03_032",
+              "label": "32"
+            },
+            " The random path of metallic money stands in stark contrast to the cyclical path of the banknote, indicating a qualitative difference between these two forms of money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u031"
+      ],
+      "page": "58"
+    },
+    {
+      "id": "ch03-u032",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "把信用货币与支付手段职能相联系，是马克思理论中引人入胜的一个方面，但应当强调，他对信用货币的分析没有达到与法定货币相当的程度；马克思提到的“很不相同的规律”，在他的著作体系中基本上没有得到理论说明。据推测，马克思的方法规定信用货币的分析应当放在生息资本和银行业的分析之后，而这项工作在《资本论》第三卷中没有完成。无论原因为何，这一空缺削弱了马克思在《资本论》同一卷中关于货币危机和信用危机的讨论的力量。在这方面，尽管银行学派的理论化不那么严格，他们却为货币理论留下了更完整的遗产。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Associating credit money with the function of means of payment is an appealing aspect of Marx’s theory, but it should be stressed that credit money was not analysed by him in a manner comparable to fiat money; the ‘very different laws’, alluded to by Marx, were left largely untheorised in the corpus of his work. Presumably, Marx’s method dictated that the analysis of credit money should follow that of interest-bearing capital and banking, work which he left unfinished in the third volume of Capital. Whatever the reason for it, this lacuna weakens the power of Marx’s discussion of monetary and credit crises in the same volume of Capital. In this respect, and despite the lesser rigour of their theorising, the Banking School have left a fuller legacy for monetary theory."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u032"
+      ],
+      "page": "58–59"
+    },
+    {
+      "id": "ch03-u033",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "现代货币理论对货币在流通中的路径没有特别兴趣：不同类型的存款、银行券和铸币作为流通手段是没有区别的。马克思的分析提示，信用货币（在现代银行体系中主要是存款）应当与货币作为货币的职能、特别是支付手段和价值贮藏系统地联系起来。如果循环运动确实是信用货币的种差，那么现代中央银行垄断银行券发行（把流通的一切进入点和退出点缩并为一个）、以及现代银行券不再通过票据贴现发行这两个事实，肯定有某种意义。此外，存款货币的循环运动（包括随着债务偿还而注销这种货币），也可以作为货币供给和货币乘数研究的一部分加以有益考察。在这方面，主流理论通常假定的不同类型存款之间的职能等价性，必须加以证明，不能视为当然。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Modern monetary theory is not particularly interested in the path of money in circulation: different types of deposit, banknotes and coin are indistinguishable qua means of circulation. Marx’s analysis suggests that credit money (primarily deposits in the modern banking system) should be systematically related to the function of money as money, particularly means of payment and store of value. If a cyclical movement is indeed the differentia specifica of credit money, there is surely some significance to the fact that modern central banks have the monopoly of banknote issue (collapsing all points of entry and exit from circulation into one), as well as to the fact that modern banknotes are not issued in bill discount. Furthermore, the cyclical movement of depository money (involving the cancellation of such money as debt is repaid) could also be fruitfully examined as part of the study of the supply of money and of the money multiplier. In this respect, the functional equivalence between different types of deposits, typically assumed by mainstream theory, has to be demonstrated and cannot be taken for granted."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u033"
+      ],
+      "page": "59"
+    },
+    {
+      "id": "ch03-u034",
+      "canonical_kind": "heading",
+      "zh": [
+        "3 货币流通与货币贮藏在资本积累中的作用"
+      ],
+      "en": [
+        "3 Monetary Circulation and the Role of Money Hoards in the Accumulation of Capital"
+      ],
+      "source_ids": [
+        "ch03-u034"
+      ],
+      "page": "59",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch03-u035",
+      "canonical_kind": "subheading",
+      "zh": [
+        "m的外生变动"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Exogenous Changes in"
+          ]
+        },
+        " m"
+      ],
+      "source_ids": [
+        "ch03-u035"
+      ],
+      "page": "59",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch03-u036",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "众所周知，马克思和银行学派著作家拒斥货币数量论：决定的方向是从价格到货币，而不是相反。这等于说货币数量是交换过程的内生的因变量。要使这一断言有任何理论分量——特别是在金属货币流通的条件下——还必须论证，经济的全部货币存量分为积极流通的部分和贮藏的部分。贮藏于是成为脱离流通的货币的蓄水池，也是向流通添加新货币的来源。贮藏的存在使从价格到货币的决定成为可能，因为货币存量在贮藏与流通之间不断得到适当的重新调整。银行学派必然强调贮藏的存在，强调货币的贮藏职能。",
+            {
+              "type": "note",
+              "id": "n_ch03_033",
+              "label": "33"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is well known that Marx and the Banking School writers rejected the Quantity Theory of Money: the direction of determination runs from prices to money and not vice versa. This is tantamount to stating that the quantity of money is the endogenous, dependent variable of the process of exchange. For this assertion to have any theoretical weight – particularly under conditions of metallic money in circulation – it must also be argued that the whole of the money stock of the economy is divided into an actively circulating part and a hoarded part. Hoards are then the repository of money which becomes disengaged from circulation as well as the source from which fresh money is added to circulation. The existence of hoards makes it possible for determination to run from prices to money as the money stock is appropriately and continually readjusted between hoard and circulation. Of necessity the Banking School stressed the existence of hoards and emphasised the hoarding function of money.",
+            {
+              "type": "note",
+              "id": "n_ch03_033",
+              "label": "33"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u036"
+      ],
+      "page": "59–60"
+    },
+    {
+      "id": "ch03-u037",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币贮藏对马克思的国内货币流通分析也非常重要，贮藏通过不断吸收和释放货币，充当流通货币量的调节者。",
+            {
+              "type": "note",
+              "id": "n_ch03_034",
+              "label": "34"
+            },
+            "阿农指出，在这方面马克思同样受到银行学派的影响，格林也提出了大体相同的论点。",
+            {
+              "type": "note",
+              "id": "n_ch03_035",
+              "label": "35"
+            },
+            "值得强调的是，与图克和富拉顿类似，马克思也强调货币贮藏在国际贸易和对外差额结清中的作用。此外，马克思货币理论一个独特而极有趣味的特征，是把贮藏作为阶级社会中社会权力的储存库来讨论。",
+            {
+              "type": "note",
+              "id": "n_ch03_036",
+              "label": "36"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Money hoarding is also very important to Marx’s analysis of domestic monetary circulation, hoards acting as regulators of the circulating quantity of money by constantly absorbing and releasing money.",
+            {
+              "type": "note",
+              "id": "n_ch03_034",
+              "label": "34"
+            },
+            " Arnon has pointed out that, in this respect too, Marx was influenced by the Banking School, while Green makes much the same point.",
+            {
+              "type": "note",
+              "id": "n_ch03_035",
+              "label": "35"
+            },
+            " It is worth stressing that, similarly to Tooke and Fullarton, Marx also emphasised the role of money hoards in international trade and in the settlement of foreign balances. A unique and extremely interesting feature of Marx’s monetary theory, moreover, was to discuss hoards as a repository of social power in class societies.",
+            {
+              "type": "note",
+              "id": "n_ch03_036",
+              "label": "36"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u037"
+      ],
+      "page": "60"
+    },
+    {
+      "id": "ch03-u038",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "格林在一篇有影响的文章中论证说，货币数量论的古典反对者（他主要包括银行学派和马克思）接受萨伊市场定律，并假定储蓄与投资恒等。",
+            {
+              "type": "note",
+              "id": "n_ch03_037",
+              "label": "37"
+            },
+            "按照格林的说法，马克思认为“产出只不过表现积累的阶段”，因而未能提供一个分析机制，来确定生产过剩危机发生时产出趋向的水平。",
+            {
+              "type": "note",
+              "id": "n_ch03_038",
+              "label": "38"
+            },
+            "格林追随加雷尼亚尼，进一步论证说，19世纪货币数量论的主要倡导者李嘉图也接受储蓄与投资的恒等。",
+            {
+              "type": "note",
+              "id": "n_ch03_039",
+              "label": "39"
+            },
+            "这样，在格林看来，货币数量论的支持者和反对者都没有能力发展产出决定理论。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In an influential article, Green has argued that the classical opponents of the Quantity Theory (in which he includes mainly the Banking School and Marx) accepted Say’s Law of Markets and assumed that saving and investment were identical.",
+            {
+              "type": "note",
+              "id": "n_ch03_037",
+              "label": "37"
+            },
+            " According to Green, Marx thought that ‘[o]utput simply expressed the stage of accumulation’ and consequently failed to provide an analytical mechanism identifying the level to which output would tend in the event of a crisis of overproduction.",
+            {
+              "type": "note",
+              "id": "n_ch03_038",
+              "label": "38"
+            },
+            " Green, following Garegnani, further argued that Ricardo, the main advocate of the Quantity Theory in the nineteenth century, also accepted the identity of saving and investment.",
+            {
+              "type": "note",
+              "id": "n_ch03_039",
+              "label": "39"
+            },
+            " Thus, for Green, neither the supporters nor the opponents of the Quantity Theory were in a position to develop a theory of output determination."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u038"
+      ],
+      "page": "60"
+    },
+    {
+      "id": "ch03-u039",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "为展示这对货币理论的意义，格林采用了交易方程式的 mv = py 形式，其中y是总产出而不是商品交易笔数。自然地，流通速度v“不再反映商品存量的流通，而是反映收入流量（对应产出流量）的支出率”。",
+            {
+              "type": "note",
+              "id": "n_ch03_040",
+              "label": "40"
+            },
+            "萨伊定律意味着y和v都是外生固定的。此外，对货币数量论的反对者来说，p是独立决定的（以价值规律为基础），因此m是方程式中的因变量。在格林看来，问题出现在理论必须分析货币供给的外生增加时。既然y不变，p或v就必须对m的变化作出调整。银行学派和马克思论证说，作出调整的是v而不是p（通过贮藏或解除贮藏）。然而，既然他们未能反驳萨伊定律，从而暗中接受了外生决定的v，他们的反对就缺乏“逻辑一致性”。李嘉图关于p将对m的变化作出调整的论证，至少具有一致性。马克思和银行学派如果想要保持一致，本应提供一个储蓄与投资决定的理论。格林把这看作他们攻击货币数量论的关键缺陷。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To demonstrate the significance of this for monetary theory, Green has employed the mv = py form of the equation of exchange, y being total output rather than the number of commodity transactions. Naturally, velocity v ‘[n]o longer reflects the circulation of a stock of commodities but the rate of expenditure of a flow of income (corresponding to a flow of output)’.",
+            {
+              "type": "note",
+              "id": "n_ch03_040",
+              "label": "40"
+            },
+            " Say’s Law implies that both y and v are fixed exogenously. For the opponents of the Quantity Theory, furthermore, p was determined independently (on the basis of the law of value), therefore m was the dependent variable in the equation. The problems, as Green sees them, appear when theory has to analyse exogenous increases in the money supply. Since y is constant, either p or v will have to adjust to a change in m. The Banking School and Marx argued that v rather than p would do so (through hoarding or dishoarding). Given, however, that they had failed to rebut Say’s Law, and so implicitly accepted an exogenously determined v, their opposition lacked ‘logical consistency’. Ricardo’s argument that p would adjust to the change in m, at least possessed consistency. Marx and the Banking School should have provided a theory of saving and investment determination if they wanted to be consistent. Green sees this as the crucial flaw of their attack on the Quantity Theory."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u039"
+      ],
+      "page": "60–61"
+    },
+    {
+      "id": "ch03-u040",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "说马克思对货币数量论的批判由于接受萨伊定律而在内部不一致，这是令人惊讶的。众所周知，马克思明确拒斥萨伊定律——不配李嘉图身份的“幼稚的废话”——并鄙薄其“乏味的”创始人。",
+            {
+              "type": "note",
+              "id": "n_ch03_041",
+              "label": "41"
+            },
+            "无论就明确还是隐含的意义而言，萨伊定律对马克思的货币分析都不重要；要确立我们所认为的马克思资本主义再生产图式的货币维度，并不需要它。格林顺便提到，马克思发展的再生产图式是他接受萨伊定律的证据。",
+            {
+              "type": "note",
+              "id": "n_ch03_042",
+              "label": "42"
+            },
+            "我将在下文论证，那些模型实际上展示了马克思货币著作非凡的一致性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The claim that Marx’s critique of the Quantity Theory was internally inconsistent on account of his acceptance of Say’s Law is surprising. It is well known that Marx unequivocally rejected Say’s Law, ‘childish babble’ unworthy of a Ricardo, and dismissed its ‘insipid’ originator.",
+            {
+              "type": "note",
+              "id": "n_ch03_041",
+              "label": "41"
+            },
+            " Say’s Law was not important to Marx’s monetary analysis, either explicitly or implicitly, to establish what we consider to be the monetary dimension of Marx’s capitalist reproduction schemata. Green observes in passing that the reproduction schemata developed by Marx are evidence that he accepted Say’s Law.",
+            {
+              "type": "note",
+              "id": "n_ch03_042",
+              "label": "42"
+            },
+            " I shall argue below that those models actually demonstrate the remarkable consistency of Marx’s monetary work."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u040"
+      ],
+      "page": "61"
+    },
+    {
+      "id": "ch03-u041",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思对货币数量论的反对，与货币流通速度几乎没有直接关系。“收入流通速度”这个模糊概念（即全部货币存量不知怎么地实现货币收入，并被赋予一个抽象的支出率）与马克思的分析格格不入。没有任何证据表明马克思使用过收入流通速度概念（它不过是事后用收入除以货币得出的一个分析工具），更没有证据表明他的分析隐含其不变性。对马克思、也典型地对古典经济学家来说，流通速度指流通货币的速度，由生产和交换的制度、技术、地理等特征事前决定。",
+            {
+              "type": "note",
+              "id": "n_ch03_043",
+              "label": "43"
+            },
+            "贮藏和解除贮藏不影响流通货币的速度，而影响其数量。马克思货币分析的精神和方法，毋宁说是质疑货币供给“外生”增加这一概念本身。这从他对穆勒“任意而陈腐”的假定的蔑视中可以清楚看出——穆勒在其他条件不变时增加货币数量，并设定价格按比例上涨：“那的确‘显而易见’：人们把自己假装要证明的东西当作了假定。”",
+            {
+              "type": "note",
+              "id": "n_ch03_044",
+              "label": "44"
+            },
+            "在马克思看来，基于交换恒等式的理论练习毫无意义。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s opposition to the Quantity Theory had little to do directly with the velocity of money. The nebulous concept of ‘income velocity’ (i.e. money income somehow realised by the whole of the money stock and accorded an abstract rate of expenditure) was alien to Marx’s analysis. There is no evidence at all that Marx used the concept of income velocity (a mere analytical device derived expostfacto by the simple division of income by money), much less that his analysis implied its constancy. For Marx, and typically for the classical economists, velocity referred to circulating money and was determined ex ante by the institutional, technical, geographical and other features of production and exchange.",
+            {
+              "type": "note",
+              "id": "n_ch03_043",
+              "label": "43"
+            },
+            " Hoarding and dishoarding do not affect the velocity of circulating money, but its quantity. The spirit and method of Marx’s monetary analysis was, rather, to question the very concept of an ‘exogenous’ increase in the money supply. This is clear from the scorn he reserves for Mill’s ‘arbitrary and trite’ assumptions in increasing, ceteris paribus, the quantity of money and postulating proportionate increases in prices: ‘[t]hen it is indeed “evident” that one has assumed what one has pretended to prove’.",
+            {
+              "type": "note",
+              "id": "n_ch03_044",
+              "label": "44"
+            },
+            " Theoretical exercises based on the identity of exchange were seen as pointless by Marx."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u041"
+      ],
+      "page": "61–62",
+      "review": "原文“expostfacto”为ex post facto（事后）的OCR连写。"
+    },
+    {
+      "id": "ch03-u042",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这一点从马克思对李嘉图货币数量论的批判中表现得更加清楚。",
+            {
+              "type": "note",
+              "id": "n_ch03_045",
+              "label": "45"
+            },
+            "马克思同意李嘉图的初始前提：货币是有自身价值的商品。",
+            {
+              "type": "note",
+              "id": "n_ch03_046",
+              "label": "46"
+            },
+            "他把这看作对休谟观点的一个进步——休谟把货币视为“主要具有想象价值”的单纯符号。",
+            {
+              "type": "note",
+              "id": "n_ch03_047",
+              "label": "47"
+            },
+            "然而，马克思有力地批判李嘉图：一旦需要确定这一前提对流通中货币数量决定的含义，他就抛弃了自己的前提。李嘉图没有这样做，而是遁入价格—铸币流动机制的复杂性，试图把设想的货币数量外生变化与国内价格和汇率的变化联系起来。在马克思看来，这是向休谟立场的理论倒退。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The same point emerges even more clearly from Marx’s critique of Ricardo’s Quantity Theory.",
+            {
+              "type": "note",
+              "id": "n_ch03_045",
+              "label": "45"
+            },
+            " Marx agreed with Ricardo’s initial premise that money is a commodity with its own value.",
+            {
+              "type": "note",
+              "id": "n_ch03_046",
+              "label": "46"
+            },
+            " This he saw as an advance on Hume’s view of money as mere symbol having ‘chiefly a fictitious value’.",
+            {
+              "type": "note",
+              "id": "n_ch03_047",
+              "label": "47"
+            },
+            " However, Marx powerfully criticised Ricardo for abandoning his own premise as soon as he had to ascertain its implications for the determination of the quantity of money in circulation. Instead of doing this, Ricardo took flight in the complexities of the price-specie-flow mechanism and tried to relate presumed exogenous changes in the quantity of money to changes in domestic prices and the rate of exchange. For Marx, this was a theoretical retrogression toward Hume’s position."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u042"
+      ],
+      "page": "62"
+    },
+    {
+      "id": "ch03-u043",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "只有当货币是符号而不是有自身价值的商品时，李嘉图才能论证：如果流通货币（包括黄金）的数量（外生地）增长到超出“商业需要”所规定的界限，它就会贬值。李嘉图的断言意味着：“流通中的黄金是价值符号，代表比它实际拥有的更大或更小的价值。它可以成为自身升值的或贬值的符号。”",
+            {
+              "type": "note",
+              "id": "n_ch03_048",
+              "label": "48"
+            },
+            "既然李嘉图实际上把货币（尽管是黄金）当作价值符号，他也就手到擒来地有了失衡的解决办法：国内贬值的黄金将被输出，从而减少货币数量，直到贬值被消除。价值符号将重新获得与“商业需要”相符的对商品的交换比率。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Only if money were a symbol and not a commodity with its own value could Ricardo argue that circulating money (including gold) would depreciate if its quantity (exogenously) grew beyond the bounds dictated by the ‘needs of commerce’. Ricardo’s assertion implied that ‘[t]he gold in circulation is a token of value representing either a larger or a smaller value than it actually possesses. It can become an appreciated or depreciated token of itself’.",
+            {
+              "type": "note",
+              "id": "n_ch03_048",
+              "label": "48"
+            },
+            " Since Ricardo effectively took money to be a symbol of value (despite being gold) he also had a resolution for the disequilibrium close to hand: domestically depreciating gold would be exported thereby reducing the quantity of money until the depreciation was annulled. The symbol of value would once again have an exchange rate with commodities consonant with the ‘needs of commerce’."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u043"
+      ],
+      "page": "62"
+    },
+    {
+      "id": "ch03-u044",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思对价格—铸币流动机制的具体批评与我们的目的无关，但他的方法论要点至关重要。在马克思看来，李嘉图本应着手处理一个困难的理论问题：说明随着社会物质再生产的进行，商品货币如何进入和离开流通领域。李嘉图却选择处理货币数量的外生增加，从而发展出马克思眼中错误的价格—铸币流动机制理论，并暗中抛弃了货币有自身价值这一正确假定。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s specific criticisms of the price-specie-flow mechanism are not material to our purposes, but his methodological point is of critical importance. To Marx’s mind, Ricardo should have proceeded to tackle the difficult theoretical problem of specifying how commodity money enters and leaves the sphere of circulation as the material reproduction of society takes place. Ricardo instead chose to deal with exogenous increases in the quantity of money, thus developing what Marx saw as a wrong theory in the price-specie-flow mechanism and implicitly abandoning the correct assumption that money has its own value."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u044"
+      ],
+      "page": "62"
+    },
+    {
+      "id": "ch03-u045",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思在《资本论》中货币著作的结构，反映了他自己关于正确程序的观点。《资本论》第一卷开头几章详细讨论了货币在流通中的职能和形式、马克思本人复杂版本的交换恒等式，以及贮藏作为流通调节者的分析。马克思是为“简单流通”确立这些结果的，即在抽象掉资本主义生产的复杂性及其含义的条件下分析的市场过程。",
+            {
+              "type": "note",
+              "id": "n_ch03_049",
+              "label": "49"
+            },
+            "劳动剥削、利润率平均化、不同于价值的生产价格的形成等现象，被假定不影响关于流通货币的职能、形式和数量的一般结果。《资本论》第一卷其余部分没有货币现象的分析——当然也没有试图分析货币数量外生增加对价格或产出的影响。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The structure of Marx’s monetary work in",
+            {
+              "type": "em",
+              "children": [
+                " Capital"
+              ]
+            },
+            " reflects his own view about what he assumed to be the correct procedure. The opening chapters of the first volume of Capital contain a detailed discussion of money’s functions and forms in circulation, Marx’s own complex version of the identity of exchange, and an analysis of hoarding as regulator of circulation. Marx established these results for ‘simple circulation’, i.e. for market processes analysed in abstraction from the complexities and implications of capitalist production.",
+            {
+              "type": "note",
+              "id": "n_ch03_049",
+              "label": "49"
+            },
+            " Phenomena such as the exploitation of labour, the equalisation of the rate of profit, the formation of prices of production distinct from values, were assumed not to have a bearing on the general results concerning the functions, forms and quantity of circulating money. There is no analysis of monetary phenomena in the rest of the first volume of Capital – there is certainly no attempt to analyse the impact of an exogenous increase in the quantity of money on either prices or output."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u045"
+      ],
+      "page": "63"
+    },
+    {
+      "id": "ch03-u046",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "当马克思在《资本论》第二卷转向资本主义再生产整体时，货币分析重新出现，但其方式容易被误读或忽视。在《资本论》第二卷中，第一卷的“简单流通”结果被视为当然，并被假定统一适用于资本主义流通。",
+            {
+              "type": "note",
+              "id": "n_ch03_050",
+              "label": "50"
+            },
+            "商品资本和货币资本无论有多少特殊性，毕竟是商品和货币：“然而，关于为商品流通而流通的货币数量所提出的一切规律（第1卷第3章），丝毫不会因生产过程的资本主义性质而改变。”",
+            {
+              "type": "note",
+              "id": "n_ch03_051",
+              "label": "51"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Monetary analysis reappears when Marx turns to capitalist reproduction as a whole in the second volume of Capital, but it does so in a way which is easy to misread or to ignore. In the second volume of Capital, the ‘simple circulation’ results from the first volume were taken for granted, and were assumed to apply uniformly in capitalist circulation.",
+            {
+              "type": "note",
+              "id": "n_ch03_050",
+              "label": "50"
+            },
+            " Commodity and money capital, regardless of their manifold peculiarities, are, after all, commodities and money: ‘However, none of the laws put forward with respect to the quantity of money circulating for the purpose of commodity circulation (Volume 1, Chapter 3) are in any way altered by the capitalist character of the production process’.",
+            {
+              "type": "note",
+              "id": "n_ch03_051",
+              "label": "51"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u046"
+      ],
+      "page": "63"
+    },
+    {
+      "id": "ch03-u047",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "不过，这些“规律”仍然没有说明引发商品流动、引出货币进出流通领域的经济因素。此外，它们也没有提供一国货币存量在流通货币与贮藏货币之间重新划分如何发生的理论。这些正是马克思认为李嘉图本应处理的问题。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "These ‘laws’, though, still did not specify the economic factors which initiate commodity flows and elicit the entry and exit of money from the sphere of circulation. Furthermore, they provided no theory of how the re-division of a country’s monetary stock between circulating and hoarded money takes place. These are the questions which, for Marx, should have been dealt with by Ricardo."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u047"
+      ],
+      "page": "63"
+    },
+    {
+      "id": "ch03-u048",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思开始处理这些问题，我将在下文概括他的结果，但他著作的这一方面容易被忽视。我认为原因在于，马克思把货币现象当作资本主义再生产过程的次要方面。他在《资本论》第二卷的分析中，把首要地位给了社会物质再生产所必需的商品流动。货币的流动和贮藏被设定为资本流动及引发资本流动的经济决策的副产品。例如，贮藏的货币职能并不是被设定为贮藏形成的原因。相反，贮藏被表明是出于实际积累过程特有的原因而产生的，一国货币存量的重新划分是不可避免的副作用。货币现象从属于商品流通这一（针对货币数量论的）论点，贯穿马克思的著作得到一贯的应用。",
+            {
+              "type": "note",
+              "id": "n_ch03_052",
+              "label": "52"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx began to tackle these issues and I shall summarise his results below, but it is easy to overlook this aspect of his work. The reason is, I think, that monetary phenomena were treated by Marx as a secondary aspect of the process of capitalist reproduction. Pride of place in his analysis in the second volume of Capital was given to commodity flows necessary for the material reproduction of society. Flows and hoards of money were posited as by-products of the flows of capital and of the economic decisions initiating the latter. The monetary function of the hoards, for instance, was not posited as the reason for their formation. Rather, hoards were shown to emerge for reasons specific to the process of real accumulation, the re-division of a country’s monetary stock being an inevitable side-effect. The argument (against the Quantity Theory) that monetary phenomena are subsidiary to the circulation of commodities was consistently applied throughout Marx’s work.",
+            {
+              "type": "note",
+              "id": "n_ch03_052",
+              "label": "52"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u048"
+      ],
+      "page": "63–64"
+    },
+    {
+      "id": "ch03-u049",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这些论点与格林对马克思的批判有关。与格林的论证相反，对马克思来说，一旦设定交换恒等式 m v = pt，简单商品交换的货币分析就走到了尽头。从单纯商品和货币的研究中能说的关于货币现象的一切，都已经说完。基于m外生变化的理论练习毫无意义，而且可能误导。马克思在他的著作中任何地方都没有从事这种无谓的劳动。他更没有试图证明货币流通速度会承受m外生增加的冲击。相反，与经济学范畴的逻辑完全一致，马克思着手考察资本流通，并开始从这种流通的基本规定推导货币过程。马克思在《资本论》第二卷构建的整个资本主义再生产模型，也是由商品流通（更准确地说是商品资本流通）引出的货币流通的抽象表现。它细致地展示了在资本主义交换条件下m如何进入和离开流通领域。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "These points have a bearing on Green’s critique of Marx. Contrary to what Green argues, for Marx the monetary analysis of simple commodity exchange reaches a dead end when the identity of exchange, m v = pt is posited. All that can be said about monetary phenomena from the study of plain commodities and money has been said. Theoretical exercises based on exogenous changes in m are meaningless and potentially misleading. Nowhere in his work does Marx undertake such a pointless labour. Even less does he try to demonstrate that the velocity of money takes the strain of an exogenous increase in m. Instead, and perfectly consistently with the logic of the economic categories, Marx undertakes the examination of capital circulation and begins to derive monetary processes from the fundamentals of such circulation. The entire model of capitalist reproduction constructed by Marx in the second volume of Capital is also an abstract representation of monetary circulation elicited by the circulation of commodities (more accurately, of commodity capital). It is a painstaking demonstration of how m enters and leaves the sphere of circulation under conditions of capitalist exchange."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u049"
+      ],
+      "page": "64"
+    },
+    {
+      "id": "ch03-u050",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "银行学派对马克思著作的影响在这方面也可以看到，尽管图克等人没有对所涉问题达到同样准确的理论表述。图克的巨著《价格史》总体上并不关心探索货币供给外生变化对价格的影响。在他成熟时期的反货币数量论著作中，图克用先行的价格变化来解释货币供给的实际变化——这些变化本可以被理解为外生的、从而是价格波动的引发者。他的通常做法是，通过考察主要市场（主要是农产品市场）的供求状况，确立价格变化的原因。凭借对价格和市场的巨大经验知识——这给他的同时代人留下深刻印象——以及同样巨大的从事平凡重复工作的耐力，他以这种方式考察了三分之二个世纪里英国货币供给的变化。",
+            {
+              "type": "note",
+              "id": "n_ch03_053",
+              "label": "53"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The influence of the Banking School on Marx’s work can be seen in this respect too, although Tooke and the others did not achieve a similarly accurate theoretical formulation of the issues involved. Tooke’s monumental History of Prices was not, on the whole, concerned with exploring the effect on prices of exogenous changes in the money supply. In his mature anti-Quantity Theory work, Tooke explained actual changes in the money supply, which could have been construed as exogenous and thus as the initiators of price fluctuations, in terms of prior price changes. His normal practice was to establish the reasons for the latter through the examination of the conditions of demand and supply obtaining in the major markets, mainly the markets for agricultural produce. With enormous empirical knowledge of prices and markets – which so impressed his contemporaries – and with an equally enormous facility for mundane, repetitive work, he investigated in this manner the changes in the English money supply during two-thirds of a century.",
+            {
+              "type": "note",
+              "id": "n_ch03_053",
+              "label": "53"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u050"
+      ],
+      "page": "64"
+    },
+    {
+      "id": "ch03-u051",
+      "canonical_kind": "subheading",
+      "zh": [
+        "资本再生产中的货币流动与贮藏"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Money Flows and Hoards in the Reproduction of Capital"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u051"
+      ],
+      "page": "65",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch03-u052",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思在《资本论》第二卷中的再生产模型表现一个封闭的资本主义再生产系统（即假定只存在资本家阶级和工人阶级，不存在资本主义以外的生产方式）。现代均衡概念不适用于再生产图式，系统也没有趋向的产出水平。毋宁说，这些图式是对资本主义再生产作为封闭系统的可行性的理论考察。我们重温这一已被反复研究的领域，目的非常有限：概括马克思的货币结果，并表明它们进一步发展了先前对简单商品交换的分析。这些问题在现代文献中相对受到忽视。",
+            {
+              "type": "note",
+              "id": "n_ch03_054",
+              "label": "54"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s reproduction models in the second volume of",
+            {
+              "type": "em",
+              "children": [
+                " Capital"
+              ]
+            },
+            " represent a closed system of capitalist reproduction (i.e. only the capitalist and the working class are assumed to exist and there is no mode of production outside the capitalist one). The modern concept of equilibrium is not applicable to the schemata of reproduction and there is no level of output toward which the system tends. The schemata are, rather, theoretical examinations of the feasibility of capitalist reproduction as a closed system. Our aim in going over this well-trodden ground is very narrow: to summarise Marx’s monetary results and to show that they develop further the previous analysis of simple commodity exchange. These issues are relatively neglected in the modern literature.",
+            {
+              "type": "note",
+              "id": "n_ch03_054",
+              "label": "54"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u052"
+      ],
+      "page": "65"
+    },
+    {
+      "id": "ch03-u053",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "我们将关注社会总资本的运动而不是单个资本。为推进讨论，我们将采用资本循环概念（最好把它想象为一个循环流程图）：",
+            {
+              "type": "note",
+              "id": "n_ch03_055",
+              "label": "55"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "We shall be concerned with the movement of the total social capital rather than individual capitals. To further the discussion we will employ the concept of the circuit of capital (best thought of as a circular flow diagram):",
+            {
+              "type": "note",
+              "id": "n_ch03_055",
+              "label": "55"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u053"
+      ],
+      "page": "65"
+    },
+    {
+      "id": "ch03-u054",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "m – c – (lp+mp) … p … c′ – m′ – (m+δm)"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "m – c –"
+              ]
+            },
+            " (",
+            {
+              "type": "em",
+              "children": [
+                "lp+mp"
+              ]
+            },
+            ") …",
+            {
+              "type": "em",
+              "children": [
+                " p"
+              ]
+            },
+            " …",
+            {
+              "type": "em",
+              "children": [
+                " c′ – m′ –"
+              ]
+            },
+            " (",
+            {
+              "type": "em",
+              "children": [
+                "m+δm"
+              ]
+            },
+            ")"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch03-u054"
+      ],
+      "page": "65"
+    },
+    {
+      "id": "ch03-u055",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "m是资产阶级为购买社会生产资料产出mp并雇用劳动力lp（两者共同构成商品资本c）而预付的货币资本总额。在生产点p上的剥削产生剩余价值（包含在商品资本c中），其货币形式是利润总量δm。剩余价值可以被资产阶级非生产地消费掉，从而导致资本的简单再生产；也可以部分再投资，导致扩大再生产并在下一个周转中产生更多利润。c′ – m′ 末端向货币形式的回归，发生在资本家购买所需生产资料、以及资本家和工人用上一周转的产出购买各自消费资料的时候。社会总资本分割为相互竞争的单个资本，在这一联系中并不重要。适当的区分是马克思本人在分析中采用的区分，即第一，资产阶级与工人阶级的区分；第二，第i部类（生产资料生产）与第ii部类（消费资料生产）的区分。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "m"
+              ]
+            },
+            " is the total money capital advanced by the bourgeois class in order to purchase the social output of means of production, mp, and to employ labour power, lp, (together comprising commodity capital, c). Exploitation at the point of production, p, results in the generation of surplus value (contained in commodity capital c), the money form of which is aggregate profit δm. Surplus value could be unproductively consumed by the bourgeois class, thus leading to the simple reproduction of capital, or it could be partly reinvested leading to expanded reproduction and the generation of more profit in the next turnover. The return to the money form at the end of c′ – m′ takes place as capitalists purchase the requisite means of production, and as both capitalists and workers purchase their means of consumption out of the output of the last turnover. The division of the total social capital into competing individual capitals is not significant in this connection. The appropriate distinctions are those which Marx himself employed in his analysis, namely, first, the distinction between the bourgeois class and the working class, and second, the distinction between Department i, the production of the means of production, and Department ii, the production of the means of consumption."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u055"
+      ],
+      "page": "65–66"
+    },
+    {
+      "id": "ch03-u056",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思资本主义再生产分析的货币方面，以对两个问题的专注为特征。第一是说明使货币运动起来的经济决策——把货币“抛入”流通、但也把它从流通领域撤出的决策。第二是阐述随着模型中基本交换的进行，货币贮藏的创造及其作用。这些目标始终次于从理论上证明总资本再生产可行性这一主要任务。货币分析以简单流通的结果为前提，特别是流通货币数量的决定以及一国货币存量的不断重新划分。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The monetary side of Marx’s analysis of capitalist reproduction was characterised by preoccupation with two issues. The first was to specify the economic decisions which set money in motion – decisions which ‘precipitate’ money into circulation, but also remove it from the sphere of circulation. The second was to elaborate the creation and the role of money hoards as the fundamental exchanges take place in the model. At all times, these objectives took second place to the main task of theoretically demonstrating the feasibility of the reproduction of the total capital. The monetary analysis presupposed the results of simple circulation, particularly the determination of the quantity of circulating money as well as the constant re-division of the monetary stock of a country."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u056"
+      ],
+      "page": "66"
+    },
+    {
+      "id": "ch03-u057",
+      "canonical_kind": "subheading",
+      "zh": [
+        "货币流动"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Money Flows"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u057"
+      ],
+      "page": "66",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch03-u058",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "关于货币流动，马克思确定了引发货币在流通领域运动的四类经济决策：(i)一切资本家从第i部类购买不变资本；(ii)一切资本家雇用工人；(iii)工人随后从第ii部类购买消费品；(iv)进行非生产消费的资本家从第ii部类购买消费品。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "With regard to money flows, Marx identified four types of economic decisions which initiate the movement of money in the sphere of circulation; (i) the purchase of constant capital from Department i by all capitalists; (ii) the hiring of workers by all capitalists; (iii) the subsequent purchase of consumption goods by workers from Department ii; and (iv) the purchase of consumption goods from Department ii by capitalists engaged in unproductive consumption."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u058"
+      ],
+      "page": "66"
+    },
+    {
+      "id": "ch03-u059",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这些基本交换有相当大的复杂性，马克思的均衡结果与这里无关。对我们的目的重要的是，在上述一切场合，货币最初进入流通都是由必须执行再生产步骤的资本家触发的。这与马克思的断言一致：进入流通的一切货币，其最终来源都在资产阶级。",
+            {
+              "type": "note",
+              "id": "n_ch03_056",
+              "label": "56"
+            },
+            "模型中货币预付的大小——从而流通货币流量的大小——已经由与生产相联系的价值形成过程决定。例如，为雇用工人而预付的可变资本，其大小已经由劳动力价值和货币单位价值的既定值决定。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There is substantial complexity to these fundamental exchanges and Marx’s equilibrium results do not concern us here. What is important for our purposes is that, in all the above instances, money’s initial entry into circulation is triggered by capitalists who have to undertake reproduction steps. This is consistent with Marx’s claim that all the money which enters circulation has its ultimate source in the bourgeois class.",
+            {
+              "type": "note",
+              "id": "n_ch03_056",
+              "label": "56"
+            },
+            " The size of the monetary advances in the model – hence the magnitude of the flows of circulating money – is already determined by the value-forming processes connected with production. The advance of variable capital for the hiring of workers, for instance, has its size already determined by the given values of labour power and of the money unit."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u059"
+      ],
+      "page": "66–67"
+    },
+    {
+      "id": "ch03-u060",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "从对基本交换的研究中，马克思得出了关于货币在资本主义流通中运动性质的如下结果："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "From the study of the fundamental exchanges, Marx drew the following result regarding the nature of money’s movement in capitalist circulation:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u060"
+      ],
+      "page": "67"
+    },
+    {
+      "id": "ch03-u061",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "由此得出的一般结论，就产业资本家投入流通以中介他们自己的商品流通的货币而言，是：无论这种货币是为他们商品的不变价值部分预付的，还是为存在于这些商品中的剩余价值——就其作为收入花费而言——预付的，流回各该资本家的数量，都同他们自己为货币流通预付的数量相等。",
+            {
+              "type": "note",
+              "id": "n_ch03_057",
+              "label": "57"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "The general conclusion that follows, as far as concerns the money that the industrial capitalists cast into circulation to mediate their own commodity circulation, is that whether this is advanced on account of the constant value portion of their commodities, or on account of the surplusvalue existing in those commodities in so far as it is spent as revenue, the same amount flows back to the respective capitalists as they themselves advanced for monetary circulation.",
+            {
+              "type": "note",
+              "id": "n_ch03_057",
+              "label": "57"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u061"
+      ],
+      "page": "67",
+      "indent": true,
+      "review": "原文“surplusvalue”为OCR连写，应为“surplus-value”。"
+    },
+    {
+      "id": "ch03-u062",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "简言之，就资本再生产的交换所能推测的而言，资本主义交换中货币流通的特征是其大致的循环形式。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In short, the characteristic of the circulation of money in capitalist exchange, insofar as it can be surmised from the exchanges of capital reproduction, is its broadly cyclical form."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u062"
+      ],
+      "page": "67"
+    },
+    {
+      "id": "ch03-u063",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思分析的各组基本交换中，有一组足以说明货币在资本再生产过程中的典型运动。",
+            {
+              "type": "note",
+              "id": "n_ch03_058",
+              "label": "58"
+            },
+            "第i部类资本家预付可变资本雇用工人；这些工人进而从第ii部类资本家购买消费资料；后者现在有了货币，可以从第i部类购买生产资料，并在此过程中把货币归还给过程的发起者。这样，第i部类资本家的可变资本预付，先行于第ii部类资本家的生产资料购买。这一基本模式在完成社会资本再生产的基本交换中不断重复。通过循环运动，货币把社会总资本的不同部分连接起来，使这些部分能够不断实现自己的产出，同时促成其他部分产出的实现。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "One of the sets of fundamental exchanges analysed by Marx will suffice to clarify the typical movement of money in the course of the reproduction of capital.",
+            {
+              "type": "note",
+              "id": "n_ch03_058",
+              "label": "58"
+            },
+            " Department i capitalists advance their variable capital to hire workers; these workers proceed to purchase means of consumption from Department ii capitalists; the latter now have the money to purchase means of production from Department i and in so doing they return this money to the initiators of the process. Thus, the advance of variable capital by Department i capitalists anticipates the purchase of means of production by Department ii capitalists. This basic pattern is constantly repeated in the fundamental exchanges which complete the reproduction of the social capital. By moving cyclically, money connects different sections of the total social capital, and enables those sections continually to realise their own output as well as facilitating the realisation of the output of others."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u063"
+      ],
+      "page": "67"
+    },
+    {
+      "id": "ch03-u064",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "必须强调，资本再生产中货币流通的循环方面，不应与信用货币的回流、从而其循环运动相混淆。这是一个根本得多的运动，反映社会总资本的基础运动。要点很简单：随着资本的再生产，资产阶级的各个部分在预付货币与收受货币之间不断交替。这种角色的不断交替，赋予货币流通其基础的循环方面。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is important to stress, that the cyclical aspect of the circulation of money in the reproduction of capital should not be confused with the reflux, and so the cyclical movement, of credit money. It is a much more fundamental movement reflecting the underlying movement of the total social capital. The point simply is that the various sections of the bourgeois class constantly alternate between advancing and receiving money as capital is reproduced. This constant alternation of roles imparts to the circulation of money its underlying cyclical aspect."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u064"
+      ],
+      "page": "67"
+    },
+    {
+      "id": "ch03-u065",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "过去曾让马克思主义经济学家费心的剩余“实现”这一老问题，进一步例示了马克思处理货币流通问题的一般方法。",
+            {
+              "type": "note",
+              "id": "n_ch03_059",
+              "label": "59"
+            },
+            "顺便说，货币流通循环性质这一要点，被布哈林错过了——他在批判卢森堡通过设立生产货币金属黄金的第三部类来解决“实现”问题时没有看到它。",
+            {
+              "type": "note",
+              "id": "n_ch03_060",
+              "label": "60"
+            },
+            "马克思提出的问题——“图克和任何其他人都还没有回答”——是：实现资本家阶级利润的额外货币从哪里来？",
+            {
+              "type": "note",
+              "id": "n_ch03_061",
+              "label": "61"
+            },
+            "按照马克思分析的精神，答案必须在假定货币流通速度不变的条件下寻找，因为流通速度由资本再生产模型以外的条件决定。同样，答案必须在不涉及信用的条件下寻找——即不能设定资本家从银行或其他来源借入额外货币——因为资本主义生产方式的再生产并不必然以发达信用体系的存在为前提。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The old problem of the ‘realisation’ of the surplus, which has in the past exercised Marxist economists, exemplifies further Marx’s general approach to the issue of monetary circulation.",
+            {
+              "type": "note",
+              "id": "n_ch03_059",
+              "label": "59"
+            },
+            " The point about the cyclical nature of monetary circulation, incidentally, was missed by Bukharin in his critique of Luxemburg’s resolution of the ‘realisation’ problem by creating a third Department producing the monetary metal, gold.",
+            {
+              "type": "note",
+              "id": "n_ch03_060",
+              "label": "60"
+            },
+            " The question asked by Marx – which ‘neither Tooke nor anyone else has yet answered’ – was: where does the extra money come from in order to realise the profit of the capitalist class?",
+            {
+              "type": "note",
+              "id": "n_ch03_061",
+              "label": "61"
+            },
+            " Following the spirit of Marx’s analysis, the answer must be found with the velocity of money assumed constant because velocity is determined by conditions exogenous to the model of capital reproduction. Equally, the answer must be found without reference to credit – i.e. by postulating that the capitalists borrow the extra money from banks, or some other source – since the reproduction of the capitalist mode of production is not necessarily predicated upon the existence of a developed credit system."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u065"
+      ],
+      "page": "68"
+    },
+    {
+      "id": "ch03-u066",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "正如德·布吕诺夫指出的，应当强调，这个问题并不作为独立的金融或货币问题而存在。",
+            {
+              "type": "note",
+              "id": "n_ch03_062",
+              "label": "62"
+            },
+            "在 m – c 和 c′ – m′ 两个阶段，简单流通的一般结果仍然适用，因此货币数量将与商品价格、货币流通速度等等相称。这样，“实现”剩余价值的货币的来源，将同一切其他货币的来源一样。至多，“实现”是《资本论》第二卷通篇处理的更一般问题的一个变体，即：激活“额外”货币进入流通领域的经济决策是什么？"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It should be stressed, as De Brunhoff notes, that the issue does not exist as a separate financial or monetary problem.",
+            {
+              "type": "note",
+              "id": "n_ch03_062",
+              "label": "62"
+            },
+            " At both stages m – c and c′ – m′ the general results of simple circulation still apply, and so the quantity of money will be commensurate with commodity prices, money velocity, and so on. Thus, the origin of the money ‘realising’ surplus value will be the same as that of all other money. At most, ‘realisation’ would be a variant of the more general problem that is dealt with throughout the second volume of Capital, namely, what are the economic decisions that activate the entry of ‘extra’ money in the sphere of circulation?"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u066"
+      ],
+      "page": "68"
+    },
+    {
+      "id": "ch03-u067",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思自然是以一般形式解决问题的：他论证说，资本家自己在 c′ – m′ 阶段提供的货币基金，必须多于他们在 m – c 阶段从流通中取出的。足以购买全部剩余价值的货币流，必须来自贮藏或来自返回的货币资本，其运动由资本家消费品和/或投资品的购买触发。即使在处理这个“不成问题的问题”时，马克思给出的答案也鲜明地是反货币数量论的：一个宏观经济活动（剩余价值的消费）触发货币进入流通，货币流量的大小由利润决定，而利润又是在生产中决定的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx naturally resolves the problem in its general form and argues that capitalists themselves have to provide more money funds at stage c′ – m′ than they took out of circulation at stage m – c. A flow of money sufficient for the purchase of total surplus value will have to come out of hoards or from returning money capital, its movement triggered by the purchase of capitalist consumption goods and/or investment goods. Even in dealing with this ‘nonquestion’, Marx provides the answer in distinctly anti-Quantity Theory terms of a macroeconomic activity (consumption of surplus value) which triggers the entry of money into circulation and a size of monetary flow determined by profit, in turn determined in production."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u067"
+      ],
+      "page": "68"
+    },
+    {
+      "id": "ch03-u068",
+      "canonical_kind": "subheading",
+      "zh": [
+        "货币贮藏"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Money Hoards"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u068"
+      ],
+      "page": "69",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch03-u069",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "再生产图式中阐述的第二个货币问题是货币贮藏的作用。马克思在《资本论》第二卷通篇的做法，是把这种贮藏的出现证明为再生产过程的不可避免副产品。货币贮藏产生于：剩余价值被贮存到足以再投资的规模；长期内最终产品的销售；不变资本价值的折旧计提；黄金生产者的产出——它直接就是货币；以及资本家开始资本循环时拥有的准备金。",
+            {
+              "type": "note",
+              "id": "n_ch03_063",
+              "label": "63"
+            },
+            "这些贮藏使资产阶级的各个部分能够补充返回货币资本的再预付、开始新的循环、在未先出售的情况下成为购买者和支付者。货币贮藏在资本主义再生产中既不可避免，又属必要。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The second monetary issue elaborated in the schemata of reproduction was the role of money hoards. Marx’s approach throughout the second volume of Capital was to demonstrate the emergence of such hoards as an inevitable byproduct of the process of reproduction. Money hoards emerge when surplus value is stored until it reaches a size sufficient for reinvestment; from the sale of the final product over a long period of time; from the amortisation of the value of constant capital; from the output of the gold producers which is immediately money; as reserve funds which capitalists possess when they commence the circuit of capital.",
+            {
+              "type": "note",
+              "id": "n_ch03_063",
+              "label": "63"
+            },
+            " These hoards enable the various sections of the bourgeois class to supplement the re-advance of returning money capital, to start fresh circuits, to turn buyer and payer without having sold first. Money hoarding is both inevitable and necessary in capitalist reproduction."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u069"
+      ],
+      "page": "69"
+    },
+    {
+      "id": "ch03-u070",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思清楚，资产阶级各部分独立进行的贮藏和解除贮藏行为，必须达到均衡，再生产才有可能。他强调，资产阶级一部分的单方面购买（解除贮藏），是另一部分单方面出售（贮藏）的必要对应。",
+            {
+              "type": "note",
+              "id": "n_ch03_064",
+              "label": "64"
+            },
+            "这样，贮藏与解除贮藏之间存在经常的张力和平衡的需要。正如德·布吕诺夫指出的，这种“贮藏的平衡”应当与物质再生产所必需的储蓄与投资平衡区分开来。",
+            {
+              "type": "note",
+              "id": "n_ch03_065",
+              "label": "65"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It was clear to Marx that the hoarding and dishoarding actions, undertaken independently by various sections of the bourgeois class, must come to an equilibrium for reproduction to be possible. He stressed that unilateral purchases by one section of the bourgeois class (dishoarding) were a necessary counterpart to unilateral sales (hoarding) by another section.",
+            {
+              "type": "note",
+              "id": "n_ch03_064",
+              "label": "64"
+            },
+            " Thus, a permanent tension and a need for balance exist between hoarding and dishoarding. As De Brunhoff noted, this ‘balance of hoarding’ should be distinguished from the saving and investment balance necessary for material reproduction.",
+            {
+              "type": "note",
+              "id": "n_ch03_065",
+              "label": "65"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u070"
+      ],
+      "page": "69"
+    },
+    {
+      "id": "ch03-u071",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "德·布吕诺夫的论点，在马克思关于固定资本更新和通过剩余价值再投资扩大再生产的分析中最清楚地显示出来。",
+            {
+              "type": "note",
+              "id": "n_ch03_066",
+              "label": "66"
+            },
+            "考虑固定资本的更新：在资本再生产过程的某个阶段，资产阶级的一部分会把先前积累的额外一笔货币投入流通，以求更新其固定资本。为便于阐述，假定简单再生产，这笔额外货币将代表超出第i部类正常产出的货币需求。由此可见，除非正在为逐渐损耗的固定资本计提折旧的资产阶级各部分所贮藏的货币资本，恰好平衡这一突然注入，再生产必定被打乱。关于扩大再生产的交换也可以提出同样的论点。一般来说，一些资本家不扩大再生产，因此他们会贮藏已实现的剩余价值。另一方面，解除贮藏的部分必须能够把足够的新货币投入流通，以购买已经包含剩余价值、并将使再生产得以扩大的追加生产资料。",
+            {
+              "type": "note",
+              "id": "n_ch03_067",
+              "label": "67"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "De Brunhoff’s point is most clearly seen in the context of Marx’s analysis of the replacement of fixed capital and the expansion of reproduction through the reinvestment of surplus value.",
+            {
+              "type": "note",
+              "id": "n_ch03_066",
+              "label": "66"
+            },
+            " Consider the replacement of fixed capital: at some stage in the course of the reproduction of capital, a section of the bourgeois class would throw a previously accumulated, additional lump sum of money into circulation, seeking to replenish its fixed capital. If, for ease of exposition, we assume simple reproduction, the extra money would represent a money demand above the normal output of Department i. It follows that reproduction would certainly be disrupted unless the money capital hoarded by the sections of the bourgeois class which would be amortising their depreciating fixed capital would actually balance out the sudden injection. The same point could also be made regarding the exchanges of expanded reproduction. In general, some capitalists would not be expanding reproduction, therefore they would be hoarding realised surplus value. The dishoarding sections, on the other hand, must be able to throw enough fresh money into circulation to purchase the additional producer goods which already contain surplus value and which would allow the expansion of reproduction.",
+            {
+              "type": "note",
+              "id": "n_ch03_067",
+              "label": "67"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u071"
+      ],
+      "page": "69–70"
+    },
+    {
+      "id": "ch03-u072",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "资产阶级不同部分这种单方面的贮藏和解除贮藏决策，不会立即自动地相互平衡。其货币含义是深刻的，马克思不断提醒读者："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Such unilateral decisions to hoard and dishoard by different sections of the bourgeois class would not immediately and automatically balance each other out. The monetary implications are profound, as Marx constantly reminds the reader:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u072"
+      ],
+      "page": "70"
+    },
+    {
+      "id": "ch03-u073",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "第一卷（第3章第3节a）已经说明，虽然社会中现有的货币一部分总是以贮藏形式闲置着，另一部分执行流通手段或直接流通货币的直接准备金的职能，但货币总量在贮藏和流通手段之间分割的比例不断变动。在我们现在的场合，必须在大资本家手中作为贮藏大规模积累的货币，在购买固定资本时一下子投入流通。然后它在社会中重新分割为流通手段和贮藏。通过折旧基金——固定资本的价值按磨损程度流回其起点——流通中的货币一部分又在同一个资本家手中形成贮藏——时间或长或短——这个资本家的贮藏曾转化为流通手段，并在购置固定资本时离开了他。",
+            {
+              "type": "note",
+              "id": "n_ch03_068",
+              "label": "68"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "In the first volume (Chapter 3, 3, a) it was shown that although part of the money present in a society always lies fallow in the form of a hoard, while another part functions as means of circulation or as an immediate reserve fund of directly circulating money, the proportion in which the total quantity of money is divided between hoard and means of circulation constantly alters. In our present case, money that has to be accumulated on a large scale as a hoard in the hands of a big capitalist is thrown in circulation all at once on the purchase of fixed capital. It is then divided up again in the society between means of circulation and hoard. By way of the amortization fund in which the value of the fixed capital flows back to its starting point in proportion to the wear and tear, a part of the money in circulation again forms a hoard – for a longer or shorter period of time – in the hands of the same capitalist whose hoards was transformed into the means of circulation and separated from him in the acquisition of fixed capital.",
+            {
+              "type": "note",
+              "id": "n_ch03_068",
+              "label": "68"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u073"
+      ],
+      "page": "70",
+      "indent": true
+    },
+    {
+      "id": "ch03-u074",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "换句话说，随着资本家阶级不断重新调整其货币贮藏——而且出于与贮藏的货币职能完全无关的原因——社会的货币存量在流通货币与贮藏货币之间重新划分，从而使流通中货币数量的内生决定成为可能。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To rephrase, as the capitalist class continually readjusts its money hoards, and for reasons entirely unrelated to the monetary functions of hoards, society’s monetary stock is re-divided between circulating and hoarded money, thus enabling the endogenous determination of the quantity money in circulation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u074"
+      ],
+      "page": "70"
+    },
+    {
+      "id": "ch03-u075",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "总之，马克思对再生产图式的分析，逐步阐述了贮藏过程和货币流的生成，它们对流通中货币数量的决定起着工具性作用。因此，《资本论》第二卷的货币分析是《资本论》第一卷和《政治经济学批判》的必要补充。正如阿农指出的，马克思确实受到银行学派关于贮藏的货币作用的观点的影响，但他还试图独立于商品交换的简单性或交换恒等式的老生常谈，确立贮藏的结构性原因。图克和富拉顿都没有可比的理论洞见可以提供。因此，马克思赋予了反货币数量论传统必要的深度。维克塞尔攻击马克思对货币流通速度的处理“荒谬”时，似乎没有认识到马克思著作的这一方面。",
+            {
+              "type": "note",
+              "id": "n_ch03_069",
+              "label": "69"
+            },
+            "马克思的货币思想远非不一致，它实际上贯穿他的经济著作表现出非凡的一致性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In sum, Marx’s analysis of the reproduction schemata gradually elaborates the hoarding processes and the generation of money flows which are instrumental to the determination of the quantity of money in circulation. Therefore, the monetary analysis in the second volume of Capital is the necessary supplement of the first volume of Capital and of the Contribution. Marx, as Arnon has pointed out, was indeed influenced by the Banking School’s view of the monetary role of hoards, but he also attempted to establish the structural reasons for hoarding independently of the simplicities of commodity exchange or the verities of the identity of exchange. Neither Tooke nor Fullarton had comparable theoretical insights to offer. Marx, therefore, gave necessary depth to the anti-Quantity Theory tradition. Wicksell seems not to have appreciated this aspect of Marx’s work when he attacked his treatment of money velocity as ‘absurd’.",
+            {
+              "type": "note",
+              "id": "n_ch03_069",
+              "label": "69"
+            },
+            " Far from Marx’s monetary thought being inconsistent, it actually exhibits a remarkable consistency throughout his economic work."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u075"
+      ],
+      "page": "70–71"
+    },
+    {
+      "id": "ch03-u076",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这里并不假装马克思的分析是完备的，特别是关于商业信用和银行信用对贮藏过程的意义、银行把停滞货币转化为可贷资本的作用、银行生成的信用货币的出现对资本主义贮藏形式的含义，尤其是国家在货币流通过程中的作用。然而，马克思的著作把使货币进入流通的过程和创造货币贮藏的过程，当作内生于资本积累、在交换领域之外决定的过程来处理，就此而言，它为考察这些问题提供了有用的指导线索。这里没有向代表货币需求变化的外生冲击作任何让步。货币的运动本质上是循环的：它服从商品资本流通的逻辑，并由后者引出。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is not pretended here that Marx’s analysis was complete, especially as regards the significance of trade and banking credit for the hoarding process, the role of banks in transforming stagnant money into loanable capital, the implications of the emergence of bank-generated credit money for the form of capitalist hoards, and, above all, the role of the state in the process of monetary circulation. However, Marx’s work provides useful guidelines for the examination of those questions insofar as it treats the processes which bring money into circulation, and the processes which create money hoards, as endogenous to the accumulation of capital and determined outside the sphere of exchange. There are no concessions here to exogenous shocks representing changes in money demand. The movement of money is inherently cyclical: it obeys the logic of the circulation of commodity capital and is elicited by the latter."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u076"
+      ],
+      "page": "71"
+    },
+    {
+      "id": "ch03-u077",
+      "canonical_kind": "heading",
+      "zh": [
+        "结论"
+      ],
+      "en": [
+        "Conclusion"
+      ],
+      "source_ids": [
+        "ch03-u077"
+      ],
+      "page": "71",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch03-u078",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本章主张，马克思作为货币经济学家虽然受到反货币数量论传统的重大影响，但他本人的著作为这一传统的论证提供了必要的基础。在这方面，马克思的货币著作仍然是货币经济学家重要的学习来源。我试图以两种不同但密切相关的方式展示主要论点。第一，本文表明马克思确实受到银行学派关于货币职能多样性、特别是贮藏职能重要性的观点的影响。然而——我相信这是马克思处理经济理论的一般方法的特征——马克思进而把这些职能纳入一个与价值论紧密衔接的货币理论。银行学派既不承认货币职能之间有明确的次序，也不承认它们之间存在逻辑的和现实的联系。结果，他们对货币与价格之联系的分析，不具有马克思分析那样的连贯性和一致性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This chapter has claimed that while Marx as a monetary economist was significantly influenced by the anti-Quantity Theory tradition, his own work provided necessary foundations for the arguments of that tradition. In this respect, Marx’s monetary writings remain significant sources of learning for monetary economists. I have attempted to demonstrate the main argument in two different but closely related ways. First, it was shown that Marx was indeed influenced by the views of the Banking School on the multiplicity of money’s functions, particularly the significance of the hoarding function. Yet, and I believe this to be characteristic of Marx’s general approach to economic theory, Marx proceeded to incorporate these functions into a monetary theory which cohered closely with the theory of value. The Banking School recognised neither a clear order nor the existence of logical and real connections among the functions of money. As a result, their analysis of the connection between money and prices did not have the coherence and consistency of that of Marx."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u078"
+      ],
+      "page": "71"
+    },
+    {
+      "id": "ch03-u079",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第二，也许更重要的是，马克思同意银行学派的反货币数量论立场，但超出了它，为“决定从价格到货币而不是相反”这一观点提供了理论基础。这不是通过分析货币供给外生增加的影响做到的——对马克思来说那是无意义的做法。相反，他在进行资本再生产分析的同时，推演出资本主义货币流通的关键特征。货币进入交换领域被表明内生于理论图式，由商品流通引出。货币存量总额在贮藏货币与流通货币之间的重新划分被内置于模型，货币流在资本再生产中的路径被表明根本上是循环的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Second, and perhaps more important, Marx agreed with the Banking School on its anti-Quantity Theory stance, but went beyond it by providing theoretical foundations for the view that determination runs from prices to money and not vice versa. This was not done by analysing the impact of an exogenous increase in the money supply, which for Marx was a nonsensical way to proceed. Instead, he deduced the key features of capitalist monetary circulation whilst undertaking the analysis of the reproduction of capital. The entry of money into the sphere of exchange was shown to be endogenous to the theoretical schema and elicited by commodity circulation. The re-division of the total monetary stock between hoarded and circulating money was built into the model, and the path of the flows of money in the reproduction of capital was shown to be fundamentally cyclical."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch03-u079"
+      ],
+      "page": "72"
+    }
+  ]
+}

@@ -1,0 +1,4172 @@
+{
+  "id": "ch07",
+  "title": "7. 论马克思对资本周转中货币贮藏的分析*",
+  "originalTitle": "7. On Marx’s Analysis of Money Hoarding in the Turnover of Capital*",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "outline": [
+    {
+      "anchor": "ch07-u002",
+      "title": "1 引言",
+      "originalTitle": "1 Introduction",
+      "level": 1
+    },
+    {
+      "anchor": "ch07-u007",
+      "title": "2 简单流通中的贮藏倾向与资本主义流通和生产的比较",
+      "originalTitle": "2 Hoarding Tendencies in Simple Circulation Compared to Capitalist Circulation and Production",
+      "level": 1
+    },
+    {
+      "anchor": "ch07-u008",
+      "title": "2.1 简单流通贮藏与资本主义贮藏的区别",
+      "originalTitle": "2.1 The Difference between Simple Circulation Hoards and Capitalist Hoards",
+      "level": 2
+    },
+    {
+      "anchor": "ch07-u019",
+      "title": "2.2 与资本主义流通相关的贮藏",
+      "originalTitle": "2.2 Hoards Related to Capitalist Circulation",
+      "level": 2
+    },
+    {
+      "anchor": "ch07-u026",
+      "title": "2.3 与资本主义生产相关的贮藏",
+      "originalTitle": "2.3 Hoards Related to Capitalist Production",
+      "level": 2
+    },
+    {
+      "anchor": "ch07-u030",
+      "title": "3 资本主义生产与流通相衔接时的货币贮藏",
+      "originalTitle": "3 Money Hoarding as Capitalist Production is Articulated with Circulation",
+      "level": 1
+    },
+    {
+      "anchor": "ch07-u032",
+      "title": "3.1 资本循环中的时间及其对周转的影响",
+      "originalTitle": "3.1 Time in the Circuit of Capital and Its Impact on Turnover",
+      "level": 2
+    },
+    {
+      "anchor": "ch07-u049",
+      "title": "3.2 马克思的“周转机制”",
+      "originalTitle": "3.2 Marx’s ‘Mechanism of the Turnover’",
+      "level": 2
+    },
+    {
+      "anchor": "ch07-u077",
+      "title": "4 贮藏形成与信用体系",
+      "originalTitle": "4 Hoard Formation and the Credit System",
+      "level": 1
+    },
+    {
+      "anchor": "ch07-u087",
+      "title": "结论",
+      "originalTitle": "Conclusion",
+      "level": 1
+    }
+  ],
+  "notes": {
+    "n_ch07_001": {
+      "number": "1",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "感谢本·法恩、菲利普·阿雷斯蒂斯、约翰·威克斯和伊藤诚对本文手稿提出的意见。我还受益于与马苏德·卡尔舍纳斯的讨论。一切错误由我负责。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "I would like to thank Ben Fine, Philip Arestis, John Weeks and Makoto Itoh for comments on the manuscript. I have also benefited from discussions with Massoud Karshenas. All errors are my responsibility."
+          ]
+        }
+      ]
+    },
+    "n_ch07_002": {
+      "number": "2",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1976b, pp. 227–32, and 1970, pp. 125–37."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1976b, pp. 227–32, and 1970, pp. 125–37."
+          ]
+        }
+      ]
+    },
+    "n_ch07_003": {
+      "number": "3",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 231–2."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 231–2."
+          ]
+        }
+      ]
+    },
+    "n_ch07_004": {
+      "number": "4",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For a fuller analysis of this point, and for a comparison with Cambridge theories of velocity, see Lapavitsas 1994."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For a fuller analysis of this point, and for a comparison with Cambridge theories of velocity, see Lapavitsas 1994."
+          ]
+        }
+      ]
+    },
+    "n_ch07_005": {
+      "number": "5",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 243."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 243."
+          ]
+        }
+      ]
+    },
+    "n_ch07_006": {
+      "number": "6",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, respectively, Steuart 1966, Bk ii, ch. 27; Hume 1955; Tooke 1959, ch. 2; and Fullarton 1969, ch. 4."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, respectively, Steuart 1966, Bk ii, ch. 27; Hume 1955; Tooke 1959, ch. 2; and Fullarton 1969, ch. 4."
+          ]
+        }
+      ]
+    },
+    "n_ch07_007": {
+      "number": "7",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Keynes 1973, p. 174."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Keynes 1973, p. 174."
+          ]
+        }
+      ]
+    },
+    "n_ch07_008": {
+      "number": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Keynes 1973, chs. 13, 15."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Keynes 1973, chs. 13, 15."
+          ]
+        }
+      ]
+    },
+    "n_ch07_009": {
+      "number": "9",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976."
+          ]
+        }
+      ]
+    },
+    "n_ch07_010": {
+      "number": "10",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, ch. 1."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, ch. 1."
+          ]
+        }
+      ]
+    },
+    "n_ch07_011": {
+      "number": "11",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 227."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 227."
+          ]
+        }
+      ]
+    },
+    "n_ch07_012": {
+      "number": "12",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 230."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 230."
+          ]
+        }
+      ]
+    },
+    "n_ch07_013": {
+      "number": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 132."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 132."
+          ]
+        }
+      ]
+    },
+    "n_ch07_014": {
+      "number": "14",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Fine 1975, p. 47."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Fine 1975, p. 47."
+          ]
+        }
+      ]
+    },
+    "n_ch07_015": {
+      "number": "15",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "哈里斯从马克思主义立场分析了工人收入与生息资本的关系（Harris 1976）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Harris offers an analysis of the relationship between workers’ revenue and interest-bearing capital from a Marxist standpoint (Harris 1976)."
+          ]
+        }
+      ]
+    },
+    "n_ch07_016": {
+      "number": "16",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, pp. 576–7."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, pp. 576–7."
+          ]
+        }
+      ]
+    },
+    "n_ch07_017": {
+      "number": "17",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, pp. 396–7."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, pp. 396–7."
+          ]
+        }
+      ]
+    },
+    "n_ch07_018": {
+      "number": "18",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 165."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 165."
+          ]
+        }
+      ]
+    },
+    "n_ch07_019": {
+      "number": "19",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 333."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 333."
+          ]
+        }
+      ]
+    },
+    "n_ch07_020": {
+      "number": "20",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, pp. 572–7."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, pp. 572–7."
+          ]
+        }
+      ]
+    },
+    "n_ch07_021": {
+      "number": "21",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, ch. 15."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, ch. 15."
+          ]
+        }
+      ]
+    },
+    "n_ch07_022": {
+      "number": "22",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, pp. 359–60."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, pp. 359–60."
+          ]
+        }
+      ]
+    },
+    "n_ch07_023": {
+      "number": "23",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "福利提出了一个发达的资本循环形式化，技术上远优于马克思（Foley 1982b, 1983a, 1986a, 1986b）。但福利对货币贮藏谈得很少。此外，由于他的模型撇开了预付资本概念，不能立即清楚它能否分析马克思意图通过“周转机制”捕捉的贮藏现象，即因生产与流通衔接而产生的现象。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Foley 1982b, 1983a, 1986a, and 1986b, has put forth a developed formalisation of the circuit of capital which is technically far superior to that of Marx. However, Foley says little on money hoards. Moreover, since his model leaves out the concept of the capital advanced, it is not immediately clear that it would be capable of analysing the hoarding phenomena that Marx intended to capture through the ‘mechanism of the turnover’, i.e. due to the articulation of production and circulation."
+          ]
+        }
+      ]
+    },
+    "n_ch07_024": {
+      "number": "24",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 185."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 185."
+          ]
+        }
+      ]
+    },
+    "n_ch07_025": {
+      "number": "25",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 184."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 184."
+          ]
+        }
+      ]
+    },
+    "n_ch07_026": {
+      "number": "26",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思（Marx 1978, chs. 12 and 13）区分劳动时间（即劳动实际作用于产品的时间）与生产时间（更宽的概念，包括产品处于生产中而无劳动作用于其上的时间，例如酿酒过程中葡萄发酵的期间）。对我们的目的这一区分不重要，我们将全程采用较宽的概念。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx (1978, chs. 12 and 13) differentiates between working time, i.e. the time during which labour is actually applied to the product, and production time, a broader concept which includes the time that the product spends in production without having labour applied to it, for instance, the period during which grapes ferment in the process of making wine. For our purposes this distinction is not important, and we will employ the broader concept throughout."
+          ]
+        }
+      ]
+    },
+    "n_ch07_027": {
+      "number": "27",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对马克思而言，充分证据确认，个别预付资本量的决定因素主要是生产过程的科学与技术方面（例如见 Marx 1978, pp. 335–6）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For Marx, as ample evidence confirms, the determinants of the size of the individual capital advanced are primarily the scientific and technical aspects of the production process (see, for instance, Marx 1978, pp. 335–6)."
+          ]
+        }
+      ]
+    },
+    "n_ch07_028": {
+      "number": "28",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "我们基本撇开固定资本的预付，这使我们能更容易地纯粹以价值流与价值总和来定义生产期间。显然，对任何为购买厂房、设备等而预付的资本，生产时间关键取决于该商品的使用价值及其生产过程的物质特征。例如，预付于造船业与化学工业的等额资本，需要相当不同的方法来确定其生产时间；别的不用说，造船业的产出是离散的，而化工产出的量必须相当任意地规定。即便如此，尽管这些考虑对确定生产时间重要，它们对于定位一美元资本价值循环与资本整体循环之间的区别几乎无关紧要，而后者正是我们这里关心的。如下文所示，马克思在推导“周转机制”时也撇开了固定资本。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "We are largely abstracting from the advance of fixed capital, which allows us more easily to define the production period purely in terms of flows and sums of value. Clearly, for any capital that is advanced to purchase plant, equipment, and so on, the production time would depend critically on the use value of the commodity in question, and the material characteristics of its production process. Equal capitals advanced in shipbuilding and in chemicals, for instance, would require quite a different approach to determining their production time; if nothing else, the output of shipbuilding is quite discrete, while the volume of the output of chemical production has to be specified fairly arbitrarily. Even so, and despite their significance for determining production time, these considerations hardly matter for locating the difference between the circuit of a dollar of capital value and the circuit of capital as a whole, which is what concerns us here. As is shown below, Marx also abstracted from fixed capital in deriving the ‘mechanism of turnover’."
+          ]
+        }
+      ]
+    },
+    "n_ch07_029": {
+      "number": "29",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 184."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 184."
+          ]
+        }
+      ]
+    },
+    "n_ch07_030": {
+      "number": "30",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管任何特定周转的完成按定义与其自身 C′–M′ 阶段走完的完成重合（即周转时间的结束必然与 c",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            "、销售期间的结束重合）。"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "校注　此注以Although开头而无主句，系原书排印的残句（疑似承接正文的让步从句），保留原文结构。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Although completion of any particular turnover by definition would coincide with completion of the traverse of its own C′–M′ stage (i.e. the end of turnover time would necessarily coincide with the end of c",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            ", the sales period)."
+          ]
+        }
+      ]
+    },
+    "n_ch07_031": {
+      "number": "31",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 203."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 203."
+          ]
+        }
+      ]
+    },
+    "n_ch07_032": {
+      "number": "32",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "同上。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ibid."
+          ]
+        }
+      ]
+    },
+    "n_ch07_033": {
+      "number": "33",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 334."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 334."
+          ]
+        }
+      ]
+    },
+    "n_ch07_034": {
+      "number": "34",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "原则上，流动资本流通时间的第一部分可能早于生产时间开始。例如炼油业中，原油可能须从远地运到才能开始生产。但一般说来，这两段时间趋于重合。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is, in principle, possible for the first part of circulation time of fluid capital to start earlier than production time. For instance, in oil refining, crude oil may have to be shipped from afar before production could start. In general, however, the two lengths of time would tend to coincide."
+          ]
+        }
+      ]
+    },
+    "n_ch07_035": {
+      "number": "35",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 334."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 334."
+          ]
+        }
+      ]
+    },
+    "n_ch07_036": {
+      "number": "36",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 344, Table 1."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 344, Table 1."
+          ]
+        }
+      ]
+    },
+    "n_ch07_037": {
+      "number": "37",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 353. 马克思的分析表述与这里采用的并不相同。此外，几乎不可能从马克思纠缠混乱且基本不正确的表述中摘出令人满意的引文。不过稍加思索即足以确立我们的分析与《资本论》中的分析的密切对应。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 353. Marx’s analytical expressions are not identical with the ones employed here. It is, furthermore, nearly impossible to extricate satisfactory quotes from Marx’s tangled and largely incorrect formulations. However, quick reflection will suffice to establish the close correspondence of our analysis with that in Capital."
+          ]
+        }
+      ]
+    },
+    "n_ch07_038": {
+      "number": "38",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 357."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 357."
+          ]
+        }
+      ]
+    },
+    "n_ch07_039": {
+      "number": "39",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "注意，对马克思而言这会是货币贮藏（更准确说是资本周转过程中暂时闲置的货币），但它也会从循环中释放。这使它不同于资本家持有的预防性贮藏：后者即使闲置也投入资本周转（因此会在周转开始时预付）。同理，马克思的释放货币资本也不同于资本家一般为生产提供资金而持有的货币余额：后者是营运余额，投入循环且绝不会闲置。马克思赋予货币资本释放的意义，可能源于这样一种观念：该现象代表营运货币余额中一部分的定期“游离”，暂时允许资本家对最初投入循环的货币的使用行使更大自由裁量。若果真如此，释放的货币资本会更类似于积累利润与折旧基金，而非预防性贮藏。如下文所示，事实并非如此。不会因生产时间与流通时间的相互作用而释放营运货币余额。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Note that for Marx this would be a money hoard (or, more accurately, money that would be temporarily idle in the course of capital turnover), but it would also be released from the circuit. That would make it different from the precautionary hoards held by the capitalist, which would be committed to capital turnover even if they remained idle (and, therefore, they would be advanced at the start of the turnover). By the same token, Marx’s released money capital would be different from the money balances generally held by capitalists to finance production: the latter would be working balances, committed to the circuit and would certainly not be idle. The significance that Marx attached to the release of money capital probably derived from the notion that this phenomenon represented a regular ‘freeing’ of some of the working money balances, temporarily allowing the capitalist to exercise greater discretion over the use of the money that was initially committed to the circuit. Were this to be true, released money capital would be more akin to accumulated profits and depreciation funds than precautionary hoards. As is shown below, it is not true. There would be no release of working money balances as a result of the interplay of production and circulation times."
+          ]
+        }
+      ]
+    },
+    "n_ch07_040": {
+      "number": "40",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 355."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 355."
+          ]
+        }
+      ]
+    },
+    "n_ch07_041": {
+      "number": "41",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 337."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, p. 337."
+          ]
+        }
+      ]
+    },
+    "n_ch07_042": {
+      "number": "42",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这里提出的资本循环形式化，与鲍莫尔著名的货币交易需求存货理论分析有表面技术相似：其中“理性个人”（或企业）必须反复作每次价值 c 的支付（Baumol 1952）。但底层理论路径相当不同。鲍莫尔的平方根模型旨在确定一段时间内为完成交易而持有的货币余额的最优规模。相反，对马克思而言 K 是给定的，分析的要点是表明：由于外生决定的生产时间与流通时间的相互作用，闲置货币（贮藏）必然在周转过程中产生。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The formalisation of the circuit of capital proposed here has apparent technical similarities with Baumol’s well-known inventory theoretic analysis of the transactions demand for money, in which the ‘rational individual’ (or firm) has to make repeated payments of value c each (Baumol 1952). The underlying theoretical approach is quite different, however. Baumol’s square root model aimed at determining the optimal size of the money balances held in order to effect transactions over a period of time. For Marx, by contrast, k is given and the point of the analysis is to show that idle money (hoards) would necessarily arise in the course of turnover due to the interplay of the exogenously determined production and circulation times."
+          ]
+        }
+      ]
+    },
+    "n_ch07_043": {
+      "number": "43",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, pp. 357–9."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, pp. 357–9."
+          ]
+        }
+      ]
+    },
+    "n_ch07_044": {
+      "number": "44",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "显然且平凡地，存在货币余额暂时超出生产融资需要的可能性，例如销售收入流与生产支出流高度不规则且“成块”时。但基于生产时间与流通时间的相互作用，无法对这一现象作任何一般化。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Evidently, and trivially, the possibility exists that money balances might become temporarily surplus to the financing requirements of production, if, for instance, the flow of sales revenue and production outlays was highly irregular and ‘lumpy’. However, no generalisation of this phenomenon is possible on the basis of the interplay of production and circulation times."
+          ]
+        }
+      ]
+    },
+    "n_ch07_045": {
+      "number": "45",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "更准确地说，马克思对信用体系基础的分析有两条互不相容的线索（见 Lapavitsas 1997）。一条把借贷货币资本设定为资本家阶级中一个特殊子集即“货币”资本家的财产；于是信用体系是调节“货币”资本预付与偿还、包括其从产业资本生产的剩余价值中获得报酬的一组社会机制。另一条从产业资本家的货币贮藏出发，信用体系动员并转化之为借贷货币资本。在这一观点（本文采用）中，信用体系主要是一组在产业资本家之间实现多余货币与剩余价值再分配的社会机制（见 Itoh and Lapavitsas 1999, chs. 3, 4）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "More accurately, there are two strands in Marx’s analysis of the foundations of the credit system, which are not mutually compatible (see Lapavitsas 1997). One posits loanable money capital as the property of a special subset of the capitalist class, the ‘monied’ capitalists; thus, the credit system is a set of social mechanisms regulating the advance and repayment of ‘monied’ capital, including its remuneration out of surplus value produced by industrial capital. The other starts with the money hoards of industrial capitalists, which the credit system mobilises and transforms into loanable money capital. In this view (adopted here), the credit system is primarily a set of social mechanisms that effects the reallocation of spare money and surplus value among industrial capitalists (see Itoh and Lapavitsas 1999, chs. 3, 4)."
+          ]
+        }
+      ]
+    },
+    "n_ch07_046": {
+      "number": "46",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 569."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 569."
+          ]
+        }
+      ]
+    },
+    "n_ch07_047": {
+      "number": "47",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "注意，在这一路径中，为借贷货币资本提供基础与资金的是货币贮藏而非储蓄。这一点在若干方面重要。储蓄即企业与工人未消费的收入，显然是比贮藏更宽的概念。储蓄采取货币形式这一事实重要（因为它给储蓄向商品的转化附加了不确定性），但储蓄还有使用价值维度：它是未消费的现实产出。贮藏除货币维度外没有其他维度：它是暂时闲置的货币。因此，如果贮藏为借贷资本与信用体系提供基础，就绝不能假定借贷操作使储蓄与投资相等。显然，把闲置货币转入能将其用于积累的手中，会对生产部门之间的资源转移有影响，但那是与把储蓄资源转移给投资质上不同的过程。此外，借贷资本流由信用体系（有其自身的市场、交易者、价格与投机活动）中介这一事实，绝不会必然导致均衡，反而可能促成储蓄与投资的非均衡。最后，利息率虽然是借贷货币资本的价格，却不是使储蓄等于投资的价格。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Note that, in this approach, money hoarding rather than saving would provide the foundation and wherewithal of loanable money capital. The point is important in several respects. Saving, i.e. the income of firms and workers that is not consumed, is obviously a broader concept than hoarding. The fact that saving takes a monetary form is important (since that imparts additional uncertainty to its transformation into commodities), but saving also has a use value dimension: it is real output not consumed. Hoarding has no dimension other than the monetary one: it is money that has temporarily lain idle. Consequently, if hoarding provides the foundation of loanable capital and the credit system, it cannot be at all assumed that the operations of lending and borrowing equalise saving and investment. Clearly, the transfer of idle money into hands that could put it to use in accumulation would have implications for the transfer of resources among productive sectors, but that would be a process qualitatively different from the transfer of saved resources to investment. Moreover, the fact that the flows of loanable capital would be mediated by the credit system (with its own markets, traders, prices, and speculative activities) would not at all lead to equilibrium necessarily, but might actually contribute to disequilibrium between saving and investment. Finally, the rate of interest, although it is indeed the price of loanable money capital, is not the price that equates saving to investment."
+          ]
+        }
+      ]
+    },
+    "n_ch07_048": {
+      "number": "48",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 423; see also Marx 1981, pp. 595–601."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 423; see also Marx 1981, pp. 595–601."
+          ]
+        }
+      ]
+    },
+    "n_ch07_049": {
+      "number": "49",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1981, p. 600."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1981, p. 600."
+          ]
+        }
+      ]
+    }
+  },
+  "body": [
+    {
+      "id": "ch07-ack",
+      "canonical_kind": "ack",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "＊ ",
+            "首次发表于《政治经济学评论》（Review of Political Economy）2000年第12卷第2期，第219–235页，题为“On Marx’s Analysis of Money Hoarding in the Turnover of Capital”。感谢Taylor & Francis出版公司授予重印许可。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "* ",
+            "First published as ‘On Marx’s Analysis of Money Hoarding in the Turnover of Capital’,",
+            {
+              "type": "em",
+              "children": [
+                " Review"
+              ]
+            },
+            " of Political Economy, 2000, vol. 12, no. 2, pp. 219–235. We are grateful to the publishers Taylor & Francis for the reprint permission."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-ack"
+      ],
+      "page": "147"
+    },
+    {
+      "id": "ch07-u002",
+      "canonical_kind": "heading",
+      "zh": [
+        "1 引言",
+        {
+          "type": "note",
+          "id": "n_ch07_001",
+          "label": "1"
+        }
+      ],
+      "en": [
+        "1 Introduction",
+        {
+          "type": "note",
+          "id": "n_ch07_001",
+          "label": "1"
+        }
+      ],
+      "source_ids": [
+        "ch07-u002"
+      ],
+      "page": "147",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch07-u003",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币的贮藏职能在马克思的国内与国际货币分析中占有突出地位。",
+            {
+              "type": "note",
+              "id": "n_ch07_002",
+              "label": "2"
+            },
+            "在拒斥货币数量论时，马克思论证说，一国的货币存量不断地在贮藏量与流通量之间重新分割。",
+            {
+              "type": "note",
+              "id": "n_ch07_003",
+              "label": "3"
+            },
+            "这种重新分割使流通货币量（其流通速度可以保持不变）能够与价格水平的变动保持一致。",
+            {
+              "type": "note",
+              "id": "n_ch07_004",
+              "label": "4"
+            },
+            "此外，贮藏货币构成国际支付手段的国家准备，用于满足经常账户或资本账户的支付需要。",
+            {
+              "type": "note",
+              "id": "n_ch07_005",
+              "label": "5"
+            },
+            "在这方面，马克思显然属于货币理论中反数量论的传统，这一传统至少可以上溯到斯图亚特对休谟的批判，以及银行学派、特别是图克和富拉顿的著作。",
+            {
+              "type": "note",
+              "id": "n_ch07_006",
+              "label": "6"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The hoarding function of money figures prominently in Marx’s domestic and international monetary analysis.",
+            {
+              "type": "note",
+              "id": "n_ch07_002",
+              "label": "2"
+            },
+            " In rejecting the Quantity Theory of Money, Marx argued that the money stock of a country is constantly re-divided between a hoarded and a circulating quantity.",
+            {
+              "type": "note",
+              "id": "n_ch07_003",
+              "label": "3"
+            },
+            " Re-division enables the quantity of circulating money (the velocity of which could remain unchanged) to stay in line with changes in the price level.",
+            {
+              "type": "note",
+              "id": "n_ch07_004",
+              "label": "4"
+            },
+            " Hoarded money, furthermore, comprises a national reserve of international means of payment, necessary for meeting payments on current or capital account.",
+            {
+              "type": "note",
+              "id": "n_ch07_005",
+              "label": "5"
+            },
+            " In this respect, Marx clearly belonged to the anti-Quantity-Theory tradition in monetary theory that goes back at least to Steuart’s critique of Hume, and to the work of the Banking School, particularly Tooke and Fullarton.",
+            {
+              "type": "note",
+              "id": "n_ch07_006",
+              "label": "6"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u003"
+      ],
+      "page": "147"
+    },
+    {
+      "id": "ch07-u004",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币贮藏也被凯恩斯视为“流动性偏好概念的最初近似”。",
+            {
+              "type": "note",
+              "id": "n_ch07_007",
+              "label": "7"
+            },
+            "凯恩斯基于持有货币的投机动机拒斥货币数量论：货币供给的外生增加作用于投机动机，引起利息率下降，并可能导致价格上涨或就业增加，或二者兼有。",
+            {
+              "type": "note",
+              "id": "n_ch07_008",
+              "label": "8"
+            },
+            "全部货币存量的收入流通速度是可变的。凯恩斯的流动性偏好虽然是利息率与价格预期的函数，但归根结底源于理性个人的心理时间偏好。凯恩斯投机动机的心理要素并不完全由货币市场的运行所决定。",
+            {
+              "type": "note",
+              "id": "n_ch07_009",
+              "label": "9"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Money hoarding was also regarded by Keynes ‘as a first approximation to the concept of liquidity-preference’.",
+            {
+              "type": "note",
+              "id": "n_ch07_007",
+              "label": "7"
+            },
+            " Keynes rejected the Quantity Theory of Money on the basis of the speculative motive to hold money: exogenous increases in the money supply operate on the speculative motive, cause reductions in the rate of interest, and might result in rises in prices or rises in employment, or both.",
+            {
+              "type": "note",
+              "id": "n_ch07_008",
+              "label": "8"
+            },
+            " The income velocity of the entire money stock is variable. Keynesian liquidity preference, although a function of the rate of interest and of price expectations, ultimately results from the psychological time preferences of the rational individual. The psychological element of the Keynesian speculative motive is not completely determined by the functioning of the money market.",
+            {
+              "type": "note",
+              "id": "n_ch07_009",
+              "label": "9"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u004"
+      ],
+      "page": "147–148"
+    },
+    {
+      "id": "ch07-u005",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本章第2、3节表明，对马克思而言，货币贮藏的根源要在资本循环的基本运作中寻找，而资本循环是一个把生产与流通包含在内、不断扩张的价值循环流。在这一框架内，贮藏货币作为暂时不动的价值量以货币形式出现。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Sections 2 and 3 of this chapter show that, for Marx, the sources of money hoarding are to be found in the essential operations of the circuit of capital, the latter being a ceaselessly expanding circular flow of value that incorporates production and circulation. Within that framework, hoards emerge as temporarily immobile quantities of value in the money form."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u005"
+      ],
+      "page": "148"
+    },
+    {
+      "id": "ch07-u006",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "贮藏的根源植根于生产、流通以及二者的衔接，而不是个别资本家的心理动机。此外，只要贮藏倾向能够表现为个人的贮藏动机，这些动机就完全可以用货币在资本循环中的属性来解释。第3节还表明，马克思对资本主义流通与生产相衔接所引起的贮藏形成的分析存在一些严重的技术缺陷。最后，第4节考察货币贮藏形成对资本主义信用体系分析的更广泛意义。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The sources of hoards are rooted in production, in circulation, and in the articulation of the two, rather than in the psychological motives of individual capitalists. Moreover, insofar as the hoarding tendencies could be expressed as individual motives to hoard, these would be fully explicable in terms of the properties of money within the circuit of capital. Section 3 also shows that Marx’s analysis of hoard formation due to the articulation of capitalist circulation and production suffers from some serious technical weaknesses. Finally, Section 4 examines the broader significance of money hoard formation for the analysis of the capitalist credit system."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u006"
+      ],
+      "page": "148"
+    },
+    {
+      "id": "ch07-u007",
+      "canonical_kind": "heading",
+      "zh": [
+        "2 简单流通中的贮藏倾向与资本主义流通和生产的比较"
+      ],
+      "en": [
+        "2 Hoarding Tendencies in Simple Circulation Compared to Capitalist Circulation and Production"
+      ],
+      "source_ids": [
+        "ch07-u007"
+      ],
+      "page": "148",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch07-u008",
+      "canonical_kind": "subheading",
+      "zh": [
+        "2.1 简单流通贮藏与资本主义贮藏的区别"
+      ],
+      "en": [
+        "2.1 The Difference between Simple Circulation Hoards and Capitalist Hoards"
+      ],
+      "source_ids": [
+        "ch07-u008"
+      ],
+      "page": "148",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch07-u009",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "简单流通的理论抽象通常概括为商品—货币—商品，即 C–M–C，它把生产撇开不谈。鉴于货币是交换能力的垄断者，简单流通的贮藏货币很少造成概念上的困难：它们大多是支付手段的预防性贮藏，持有它们是因为它们使无需先卖即可买成为可能。这类贮藏随时都能完成商业债务的清偿，也能提供保护，抵御无意识组织起来的交换过程所固有的不确定性。当交换过程发生中断、使流通中的一部分货币变得多余时，简单流通的贮藏也会不情愿地形成（在这种场合，还会形成未售商品的贮藏）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The theoretical abstraction of simple circulation is normally summarised as Commodity–Money–Commodity, or C–M–C, and leaves production out of account. Given that money is the monopolist of exchangeability, simple circulation hoards pose few conceptual difficulties: they would be mostly precautionary hoards of means of payment held because they would enable buying without prior selling. Such hoards could accomplish the settlement of commercial debts at all times, and could also offer protection from the uncertainty that is intrinsic to an unconsciously organised process of exchange. Simple circulation hoards would also be formed unwillingly when disruptions of the process of exchange would occur rendering some of the money in circulation redundant (on such occasions, hoards of unsold commodities would also be formed)."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u009"
+      ],
+      "page": "148–149"
+    },
+    {
+      "id": "ch07-u010",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "简单流通贮藏的形成自然与复杂的心理动机相联系。然而在马克思的分析中，货币贮藏的心理方面完全可以用货币作为一般等价物、垄断着与一切其他商品直接交换的能力这一角色来解释。",
+            {
+              "type": "note",
+              "id": "n_ch07_010",
+              "label": "10"
+            },
+            "考虑下面两个例子。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The formation of simple circulation hoards is naturally associated with complex psychological motives. Within Marx’s analysis, however, the psychological aspects of money hoarding are completely explicable by money’s role as a universal equivalent that monopolises direct exchangeability with all other commodities.",
+            {
+              "type": "note",
+              "id": "n_ch07_010",
+              "label": "10"
+            },
+            " Consider the following two examples."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u010"
+      ],
+      "page": "149"
+    },
+    {
+      "id": "ch07-u011",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第一，马克思所说的交换参与者“紧紧抓住第一次形态变化的产物的热烈欲望”（即抓住 C–M 中的 M，也就是商品出售所得的货币），只要货币垄断着购买力，就有其客观基础。",
+            {
+              "type": "note",
+              "id": "n_ch07_011",
+              "label": "11"
+            },
+            "此外，贮藏越大，其中包含的一般等价物就越多，由此直接得出“贮藏冲动在本性上是无止境的”。",
+            {
+              "type": "note",
+              "id": "n_ch07_012",
+              "label": "12"
+            },
+            "因此，贮藏者的心理倾向通常是 auri sacra fames，即对黄金的可诅咒的贪欲。",
+            {
+              "type": "note",
+              "id": "n_ch07_013",
+              "label": "13"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "First, what Marx calls an exchange participant’s ‘passionate desire to hold fast to the product of the first metamorphosis’ [i.e. to M in C–M, which is the money that results from the sale of a commodity] would have objective foundations insofar as money monopolises purchasing power.",
+            {
+              "type": "note",
+              "id": "n_ch07_011",
+              "label": "11"
+            },
+            " Moreover, since the larger a hoard is, the more that it contains of the universal equivalent, it follows immediately that ‘The hoarding drive is boundless in its nature’.",
+            {
+              "type": "note",
+              "id": "n_ch07_012",
+              "label": "12"
+            },
+            " Hence the psychological disposition of the hoarder is typically auri sacra fames, the accursed greed for gold.",
+            {
+              "type": "note",
+              "id": "n_ch07_013",
+              "label": "13"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u011"
+      ],
+      "page": "149"
+    },
+    {
+      "id": "ch07-u012",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第二，货币的交换能力是普遍的而其他商品的交换能力是有限的，这一事实意味着 C–M–C 根本不对称：买通常比卖容易。流通过程的随机与无计划特征加剧了这种不对称的影响，它使随时能够购买的能力格外重要。其结果是交换参与者形成预防性贮藏。在这里，贮藏货币的心理冲动同样有客观的社会基础，个人行为反映着底层的社会现实。贮藏的这些心理要素比凯恩斯的流动性偏好更深刻、也更不任意。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Second, the fact that the exchangeability of money is universal but that of other commodities is limited, implies that C–M–C is fundamentally asymmetric: it is generally easier to buy than to sell. The effects of this asymmetry are exacerbated by the random and unplanned character of the circulation process, which puts a premium on the ability to buy at all times. The result is the formation of precautionary hoards by exchange participants. Here too, the psychological urge to hoard money has objective social foundations, and individual behaviour would reflect underlying social reality. These psychological elements of hoarding are at once more profound and less arbitrary than Keynes’s liquidity-preference."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u012"
+      ],
+      "page": "149"
+    },
+    {
+      "id": "ch07-u013",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "如果假定特定的资本主义经济条件，商品就会成为资本的形式，从而体现生产中生成的剩余价值。资本主义流通包含简单流通的一切特征，因此我们迄今关于贮藏的讨论仍然有效。不过，贮藏形成的根源会变得更系统，贮藏的本质与形式都会改变。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "If specifically capitalist economic conditions were assumed, commodities would become forms of capital and would thus embody surplus value generated in production. Capitalist circulation contains all the characteristics of simple circulation, therefore our discussion of hoarding hitherto remains valid. However, the sources of hoard formation would become more systematic, and both the essence and the form of hoards would be altered."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u013"
+      ],
+      "page": "149"
+    },
+    {
+      "id": "ch07-u014",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "为确立这一论断，最好采用资本循环的货币资本形式（而不是生产资本或商品资本形式）："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To establish this claim, it is best to employ the money capital (rather than productive or commodity capital) form of the circuit of capital:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u014"
+      ],
+      "page": "149"
+    },
+    {
+      "id": "ch07-u015",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "M–C (lp, mp) … P … C′ – M′ (M + ∆M)"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "M–C (lp, mp) … P … C′ – M′ (M + ∆M)"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch07-u015"
+      ],
+      "page": "149",
+      "review": "显示公式依PDF160排印恢复：小型大写M/C/P，C′带撇，∆M为基线符号，M–C为紧排短横；OCR原误作小写与δm。"
+    },
+    {
+      "id": "ch07-u016",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在 M–C 阶段，货币资本 M 购买劳动力 lp 与生产资料 mp。在 P 阶段，这些投入转化为包含通过剥削劳动而生成的剩余价值的成品 C′。在 C′–M′ 阶段，成品售出，原货币资本加利润 ∆M 回流。M–C 与 C′–M′ 两个阶段共同代表交换或流通领域，P 阶段代表生产领域。剩余价值赋予循环以资本主义性质，构成资本主义流通与简单流通之间的质的区别点。把循环设想为一张循环流量图是有益的。",
+            {
+              "type": "note",
+              "id": "n_ch07_014",
+              "label": "14"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "At stage M–C, money capital, M, purchases labour power, lp, and means of production, mp. At stage P these inputs are transformed into finished output, C′, which contains surplus value generated through the exploitation of labour. At stage C′–M′, finished output is sold, resulting in the return of the original money capital plus profit ∆M. Stages M–C and C′–M′ together represent the sphere of exchange or circulation, and stage P represents the sphere of production. Surplus value gives to the circuit its capitalist character, and constitutes a point of qualitative difference between capitalist and simple circulation. It is instructive to think of the circuit as a circular flow diagram.",
+            {
+              "type": "note",
+              "id": "n_ch07_014",
+              "label": "14"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u016"
+      ],
+      "page": "150"
+    },
+    {
+      "id": "ch07-u017",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "资本家非生产性地消费掉的利润在本文其余分析中基本被忽略，因为这种场合产生的私人贮藏，其决定因素在很大程度上位于循环结构之外。尽管如此，当代资本主义中资本家（与工人）的私人贮藏无疑重要，其决定因素包含历史的、习惯的、行情的与自愿的因素。",
+            {
+              "type": "note",
+              "id": "n_ch07_015",
+              "label": "15"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Profit that is unproductively consumed by the capitalist is largely ignored in the rest of our analysis because the private hoarding that would result in this instance would have determinants lying largely outside the structure of the circuit. Nonetheless, private hoarding by capitalists (and workers) in contemporary capitalism is undoubtedly important, and its determinants contain historical, customary, conjunctural and voluntary factors.",
+            {
+              "type": "note",
+              "id": "n_ch07_015",
+              "label": "15"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u017"
+      ],
+      "page": "150"
+    },
+    {
+      "id": "ch07-u018",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "遵循马克思，我们还将撇开信用关系与信用工具，因为它们可能被流通参与者有意识地操纵，从而扭曲贮藏过程的纯粹而原始的形式。",
+            {
+              "type": "note",
+              "id": "n_ch07_016",
+              "label": "16"
+            },
+            "这一重要论点的若干含义在下文考虑。与此相关，应当指出，资本循环中的货币始终是货币资本（被忽略的资本家私人收入除外）。因此，对马克思而言，唯有资本主义的贮藏货币能够启动进一步的资本循环，从而它代表潜伏的或潜在的货币资本存量。",
+            {
+              "type": "note",
+              "id": "n_ch07_017",
+              "label": "17"
+            },
+            "资本主义贮藏的这一属性构成其与简单流通贮藏的根本区别，并促成资本主义信用体系的发展。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Following Marx, we will also abstract from relations and instruments of credit because these could be consciously manipulated by participants in circulation, thus distorting the pure and elemental form of the hoarding process.",
+            {
+              "type": "note",
+              "id": "n_ch07_016",
+              "label": "16"
+            },
+            " Some of the implications of this important point are considered below. In this connection, it should be noted that money in the circuit of capital is always money capital (with the exception of the disregarded private revenue of the capitalist). Consequently, for Marx, capitalist hoarded money is uniquely capable of commencing further capital circuits, and thus it represents stocks of latent, or potential, money capital.",
+            {
+              "type": "note",
+              "id": "n_ch07_017",
+              "label": "17"
+            },
+            " This attribute of capitalist hoards constitutes their fundamental difference with simple circulation hoards, and contributes to the development of the capitalist credit system."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u018"
+      ],
+      "page": "150"
+    },
+    {
+      "id": "ch07-u019",
+      "canonical_kind": "subheading",
+      "zh": [
+        "2.2 与资本主义流通相关的贮藏"
+      ],
+      "en": [
+        "2.2 Hoards Related to Capitalist Circulation"
+      ],
+      "source_ids": [
+        "ch07-u019"
+      ],
+      "page": "150",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch07-u020",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在循环框架内、在 M–C 阶段，资本家形成的一类货币贮藏是货币的预防性准备。对马克思而言，在 M–C 阶段形成的这些预防性贮藏（准备）构成资本家的“准备基金”以及“执行职能的货币资本的一部分”。",
+            {
+              "type": "note",
+              "id": "n_ch07_018",
+              "label": "18"
+            },
+            "诱发其形成的典型因素是意外支付与购买、商品价格的突然混乱、技术革命化时价格的迅速变动、以及伴随经济危机的价格波动。若我们的分析允许商业信用存在，债务清偿手段（支付手段）的预防性贮藏也应归入此处。这类准备必须在循环开始时就在场（被投入），并随着循环的走完而不断补充。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Within the framework of the circuit, and at stage M–C, one type of money hoard formed by capitalists would be precautionary reserves of money. For Marx, these precautionary hoards (reserves) formed at stage M–C comprise a ‘reserve fund’ as well as ‘a part of the functioning money capital’ of the capitalist.",
+            {
+              "type": "note",
+              "id": "n_ch07_018",
+              "label": "18"
+            },
+            " Typical factors inducing their formation would be unforeseen payments and purchases, sudden upsets of commodity prices, rapid changes in prices as technology is revolutionised, and price fluctuations accompanying economic crises. Had we allowed for the presence of commercial credit in our analysis, a precautionary hoard of means of debt settlement (means of payment) would also have belonged here. Such reserves that must be present (committed) at the start of the circuit, and are constantly replenished as the circuit is traversed."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u020"
+      ],
+      "page": "150–151",
+      "review": "原文末句“Such reserves that must be present (committed) at the start of the circuit, and are constantly replenished…”句法不通（that从句与and并列谓语冲突），系排印原文如此，译文按可推知的意思处理。"
+    },
+    {
+      "id": "ch07-u021",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "仍在 M–C 阶段，第二类货币准备由 M 中逐步支出于劳动力与生产资料的部分形成。这些是特殊的贮藏，其性质在第3节阐明。这里只需指出：资本家必须在周转期间开始时预付可变资本以购买劳动力，但按较短的间隔（每周或每月）支付工人工资，因此最初预付的可变资本中有一部分会闲置一段时间。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Still at stage M–C, a second type of money reserve would be formed out of the parts of M that would be expended gradually on labour power and means of production. These would be peculiar hoards, and their character is elucidated in Section 3. Suffice it to note here that a capitalist must advance variable capital to buy labour power at the beginning of the turnover period, but pays workers in shorter intervals (weekly or monthly), thus some of the initially advanced variable capital would lie idle for periods of time."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u021"
+      ],
+      "page": "151"
+    },
+    {
+      "id": "ch07-u022",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "自然，如果某个资本的周转期间短于一周或一月，其可变部分的预付就不会形成准备。但可以合理假定，周转期间短于工资支付惯例时间跨度的资本只是无关紧要的例外。同理，至少一部分生产资料的购买必然是逐步的——尤其是用流动不变资本购买的生产资料，例如能源。其含义是，M 的某些部分在整个资本周转期间保持货币形式。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Naturally, if a particular capital had a turnover period that was shorter than a week or a month, no reserves would be formed out of the advance of its variable component. Yet it is reasonable to assume that capitals with turnover periods shorter than the conventional time span for the payment of wages would be insignificant exceptions. By the same token, the purchasing of at least some means of production would be necessarily gradual – notably the means of production purchased with circulating constant capital, such as, for instance, energy. The implication is that some parts of M would remain in the money form throughout the turnover of capital."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u022"
+      ],
+      "page": "151"
+    },
+    {
+      "id": "ch07-u023",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "类似地，在 C′–M′ 阶段，由于最终产品往往零散出售，也会形成货币贮藏，从而产生暂时不用于购买投入的货币资本。更准确地说，对马克思而言，销售收入："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Analogously, at stage C′–M′, money hoards would be created as the final output would often be sold piecemeal, thus resulting in money capital that would not be temporarily used to purchase inputs. To be more precise, for Marx, the sales revenue:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u023"
+      ],
+      "page": "151"
+    },
+    {
+      "id": "ch07-u024",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "无论它按资本周转回流得较快还是较慢，它总是一笔一笔地回流。其中一部分同样有规律地在短间隔内再支出，即再转化为工资的部分。然而另一部分，即再转化为原料等的部分，则必须作为准备基金积累较长时间，以备购买或支付。",
+            {
+              "type": "note",
+              "id": "n_ch07_019",
+              "label": "19"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "whether it flows back quicker or more slowly, according to the turnover of capital, it always flows back bit by bit. One part of it is just as regularly spent again at short intervals, i.e. the part transformed back into wages. Another part, however, that transformed back into raw materials, etc, has to be accumulated for a longer period of time as a reserve fund, either for purchase or for payment.",
+            {
+              "type": "note",
+              "id": "n_ch07_019",
+              "label": "19"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u024"
+      ],
+      "page": "151",
+      "indent": true
+    },
+    {
+      "id": "ch07-u025",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "销售收入中贮藏形成倾向的性质，以及产品零散出售与投入逐步购买的衔接，在第3节详细考察。最后指出，价格的突然变动与交换过程的中断也可能导致货币资本存量的非自愿生成。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The character of the hoard forming tendencies out of sales revenue and the articulation of piecemeal sales of output with gradual purchases of inputs is examined in detail in Section 3. Note, finally, that sudden price changes and disruptions of the exchange process could also result in involuntary generation of stocks of money capital."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u025"
+      ],
+      "page": "151–152"
+    },
+    {
+      "id": "ch07-u026",
+      "canonical_kind": "subheading",
+      "zh": [
+        "2.3 与资本主义生产相关的贮藏"
+      ],
+      "en": [
+        "2.3 Hoards Related to Capitalist Production"
+      ],
+      "source_ids": [
+        "ch07-u026"
+      ],
+      "page": "152",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch07-u027",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在生产领域（P 阶段），可以识别货币贮藏（更准确说是潜在货币资本准备）的两个系统根源。第一，固定不变资本要完成其周转，生产过程必须重复若干次。在此期间，流动不变资本与可变资本都完成若干次自身的周转。固定不变资本价值的这种长期而逐步的释放，导致潜在货币资本的积累，直到达到足以再投资的最小量。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In the sphere of production (stage P), two systematic sources of money hoards (more accurately, reserves of potential money capital) could be identified. First, for fixed constant capital to complete its turnover, several repetitions of the production process must take place. During this time, both circulating constant capital and variable capital complete several of their own turnovers. This protracted and gradual release of the value of fixed constant capital results in accumulations of potential money capital until such time as a minimum size sufficient for reinvestment would have been reached."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u027"
+      ],
+      "page": "152"
+    },
+    {
+      "id": "ch07-u028",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "此外，如果我们从个别资本的再生产出发并考虑社会总资本，特别是考虑到任一时点上若干批次固定不变资本同时存在，那么很清楚，资本家阶级的一部分会在投资新的固定不变资本，而另一部分会在积累折旧基金。直观上，资本家阶级整体会在同时贮藏与解除贮藏。要使总再生产成为可能，独立的贮藏决策与解除贮藏决策之间必须满足复杂的条件。",
+            {
+              "type": "note",
+              "id": "n_ch07_020",
+              "label": "20"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Moreover, if we move the reproduction of an individual capital and consider that the aggregate social capital, and especially in view of the simultaneous existence of several vintages of fixed constant capital at any point in time, it is clear that some sections of the capitalist class would be investing in new fixed constant capital, while other sections would be accumulating depreciation funds. It is intuitive that the capitalist class as a whole would be simultaneously hoarding and dishoarding. Complex conditions would have to obtain between the independent decisions to hoard and to dishoard for aggregate reproduction to be possible.",
+            {
+              "type": "note",
+              "id": "n_ch07_020",
+              "label": "20"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u028"
+      ],
+      "page": "152",
+      "review": "原文“if we move the reproduction of an individual capital and consider that the aggregate social capital, and especially in view of…”句法残缺（consider后缺宾语从句谓语），系排印原文如此；译文按“从个别资本再生产出发并考虑社会总资本”的意思补足。"
+    },
+    {
+      "id": "ch07-u029",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第二，随着 ∆M 作为利润积累，也会生成潜在货币资本准备。自然，利润可以被资本家非生产性地消费，也可以再投资。原则上，再投资的发生必须有一个与生产过程的物质特征相适应的最小资金量。积累的利润作为潜伏货币资本积累起来，直到达到适当的资金量。这是资本主义特有的贮藏形成形式。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Second, reserves of potential money capital would also be generated as ∆M would accrue as profit. Naturally, profit could be either unproductively consumed by the capitalist or reinvested. In principle, for reinvestment to occur there must be a minimum size of funds that is consistent with the material characteristics of the process of production. Accruing profit would accumulate as latent money capital until such time as the appropriate size of funds would have been reached. This is a characteristically capitalist form of hoard creation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u029"
+      ],
+      "page": "152"
+    },
+    {
+      "id": "ch07-u030",
+      "canonical_kind": "heading",
+      "zh": [
+        "3 资本主义生产与流通相衔接时的货币贮藏"
+      ],
+      "en": [
+        "3 Money Hoarding as Capitalist Production is Articulated with Circulation"
+      ],
+      "source_ids": [
+        "ch07-u030"
+      ],
+      "page": "152",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch07-u031",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思广泛讨论了因资本主义生产与流通相衔接而产生的另一类系统贮藏形成（潜在货币资本准备）；他显然认为这一货币贮藏根源在资本主义经济中非常重要。",
+            {
+              "type": "note",
+              "id": "n_ch07_021",
+              "label": "21"
+            },
+            "马克思对这一问题的处理有大量重复与错误，恩格斯编辑《资本论》第二卷时曾注意到这一点。",
+            {
+              "type": "note",
+              "id": "n_ch07_022",
+              "label": "22"
+            },
+            "本章第3节借助一个仍以马克思本人著作为基础的资本循环简单形式化，考察马克思对此类贮藏分析的长处与短处。",
+            {
+              "type": "note",
+              "id": "n_ch07_023",
+              "label": "23"
+            },
+            "不过在提出理论图式之前，有必要先就资本循环中的时间概念作一段简短的分析性离题讨论。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx discussed extensively a further type of systematic hoard formation (reserves of potential money capital) that arises due to the articulation of capitalist production and circulation; he evidently considered this source of money hoarding to be very important in a capitalist economy.",
+            {
+              "type": "note",
+              "id": "n_ch07_021",
+              "label": "21"
+            },
+            " There is substantial repetitiveness and error in Marx’s treatment of this issue, which was noted by Engels when he edited the second volume of Capital.",
+            {
+              "type": "note",
+              "id": "n_ch07_022",
+              "label": "22"
+            },
+            " Section 3 of this chapter considers the strengths and weaknesses of Marx’s analysis of such hoards by means of a simple formalisation of the circuit of capital, which is still based on Marx’s own work.",
+            {
+              "type": "note",
+              "id": "n_ch07_023",
+              "label": "23"
+            },
+            " Before the theoretical schema could be presented, however, it is necessary to undertake a short analytical detour on the concept of time in the circuit of capital."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u031"
+      ],
+      "page": "152–153"
+    },
+    {
+      "id": "ch07-u032",
+      "canonical_kind": "subheading",
+      "zh": [
+        "3.1 资本循环中的时间及其对周转的影响"
+      ],
+      "en": [
+        "3.1 Time in the Circuit of Capital and Its Impact on Turnover"
+      ],
+      "source_ids": [
+        "ch07-u032"
+      ],
+      "page": "153",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch07-u033",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "资本是以生产的连续性为基础的连续循环运动；生产连续性的存在由竞争压力所决定，并由生产方法不断的技术革命所塑造，后者使过去的技术过时。",
+            {
+              "type": "note",
+              "id": "n_ch07_024",
+              "label": "24"
+            },
+            "要保证连续生产，个别资本必须同时存在于循环的一切阶段：一部分必须以工人、原料、厂房与设备的形式在场，另一部分以成品库存的形式，还有一部分以货币形式。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Capital is a continuous circular movement founded on the continuity of production; the existence of continuity of production is dictated by competitive pressure and is shaped by constant technical revolutions in production methods that make past techniques obsolete.",
+            {
+              "type": "note",
+              "id": "n_ch07_024",
+              "label": "24"
+            },
+            " To ensure continuous production it is necessary that an individual capital should exist simultaneously in all stages of the circuit: one part must be present as workers, raw materials, plant and equipment, another as inventories of finished goods, and yet another as money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u033"
+      ],
+      "page": "153"
+    },
+    {
+      "id": "ch07-u034",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "由此得出，个别资本的循环运动不能恰当地表示为给定资本价值量对循环各形式阶段的线性走完。相反，循环运动的现实存在只能是循环的生产形式、商品形式与货币形式的统一，以及流通阶段与生产阶段的统一。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It follows that the circular movement of an individual capital could not properly be represented as the linear traverse of the various formal stages of the circuit by a given sum of capital value. Rather, the real existence of the circular movement could only be the unity of the productive, commodity, and money forms of the circuit, as well as the unity of the stages of circulation and production."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u034"
+      ],
+      "page": "153"
+    },
+    {
+      "id": "ch07-u035",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而，要使这种统一成为现实，个别资本的构成要素（用《资本论》的术语说是全部预付资本的“等分部分”，或用更现代的说法是资本价值的美元部分）依次走完循环就至关重要。只要考虑到，要使生产连续，最初预付的资本价值的美元部分就绝不能系统地跳过循环的任何阶段，否则必然在价值总流中造成缺口，这一要求就是显而易见的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For such unity to become real, however, it would be vital for the constituent elements of an individual capital (‘aliquot parts’ of the entire capital advanced in the terminology of Capital, or (say) dollars of capital value in more modern terms) to traverse the circuit sequentially. This requirement is evident if we consider that for production to be continuous, it would be absolutely imperative for dollars of the capital value originally advanced not to skip any stages of the circuit systematically, for that would inevitably create gaps in the overall flow of value."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u035"
+      ],
+      "page": "153–154"
+    },
+    {
+      "id": "ch07-u036",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此，与全部预付资本的循环运动不同，单个一美元资本价值的循环运动确实可以表示为对循环各形式阶段的线性走完。于是，单个一美元资本价值的循环在现实中作为三个阶段之一的非连续在场而存在。单个一美元资本价值通过不断离开一个阶段、进入下一个阶段而完成循环，而全部预付资本则通过同时存在于一切三个阶段而完成循环。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Consequently, the circular movement of an individual dollar of capital value, in contrast to the circular movement of the whole of the capital advanced, could indeed be represented as the linear traverse of the formal stages of the circuit. The circuit of an individual dollar of capital value, therefore, would exist in reality as the discontinuous presence of one out of the three stages. An individual dollar of capital value completes the circuit by incessantly abandoning one stage and entering the next, while the entire capital advanced completes the circuit by existing simultaneously in all three stages."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u036"
+      ],
+      "page": "154"
+    },
+    {
+      "id": "ch07-u037",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "由此直接得出，全部预付资本循环流的连续性，取决于其价值的各个美元部分在任一时刻都存在于各自循环的一切不同相位中。这对我们的分析是一个相当重要的结果：个别资本循环的连续性，以其各个美元部分循环的不断非连续性为前提。马克思对这一结果的推导是辩证法的一个特别优雅的应用，并且是分析资本循环中时间概念的工具。",
+            {
+              "type": "note",
+              "id": "n_ch07_025",
+              "label": "25"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It follows immediately that the continuity of the circular flow of an entire capital advanced would hinge on individual dollar components of its value existing in all the different phases of their own circuits at any moment in time. This is a result of considerable importance for our analysis: continuity of the circuit of an individual capital is predicated on the incessant discontinuity of the circuits of its individual dollar components. The derivation of this result by Marx represents a particularly elegant application of the dialectic, and is instrumental to analysing the concept of time in the circuit of capital.",
+            {
+              "type": "note",
+              "id": "n_ch07_025",
+              "label": "25"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u037"
+      ],
+      "page": "154"
+    },
+    {
+      "id": "ch07-u038",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "据此，与循环相关的时间概念应当反映循环自身的复杂本性。一方面，循环时间必然（而且显然）不同于经营中的企业所面对的现实连续时间。另一方面，循环时间是一个必须由更简单的概念构造出来的复杂概念。如上所确立，个别资本循环的统一是其每一美元价值循环中不断非连续性的结果。下文表明，适用于（较简单的）单个美元资本价值循环的时间概念，是适用于个别资本整体循环的时间概念的构件。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In this light, the concepts of time that are relevant to the circuit ought to reflect the circuit’s own complex nature. For one thing, circuit time is necessarily (and evidently) different from the real continuous time that confronts an operating enterprise. For another, circuit time is a complex concept that must be constructed out of simpler ones. As was established above, the unity of the circuit of an individual capital is the result of the incessant discontinuity in the circuit of each dollar of its value. It is shown below that time concepts that are appropriate to the (simpler) circuit of an individual dollar of a capital’s value are the building blocks for the time concepts that are appropriate to the circuit of an individual capital as a whole."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u038"
+      ],
+      "page": "154"
+    },
+    {
+      "id": "ch07-u039",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "那么，对一美元资本价值的周转而言，以下三个时间长度是重要的：生产时间（p），对应于生产阶段的走完；流通时间的第一部分（c",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            "），对应于 M–C 阶段的走完；流通时间的第二部分（c",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            "），对应于 C′–M′ 阶段的走完。",
+            {
+              "type": "note",
+              "id": "n_ch07_026",
+              "label": "26"
+            },
+            "用经济术语说，一美元货币资本在 c",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " 期间购买生产资料与劳动力，投入在 p 期间成为成品，产品在 c",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            " 期间售出换得货币（成本加剩余价值）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For the turnover of a dollar of capital value, then, the following three time lengths are significant: production time (p), corresponding to the traverse of production; the first part of circulation time (c",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            "), corresponding to the traverse of M–C; and the second part of circulation time (c",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            "), corresponding to the traverse of C′–M′.",
+            {
+              "type": "note",
+              "id": "n_ch07_026",
+              "label": "26"
+            },
+            " In economic terms, means of production and labour power are bought with one dollar of money capital during c",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            ", the inputs become finished goods during p, and the output is sold for money (cost plus surplus value) during",
+            {
+              "type": "em",
+              "children": [
+                " c"
+              ]
+            },
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            "."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u039"
+      ],
+      "page": "154–155",
+      "review": "原文“surplusvalue”系行末连字符surplus-与value的OCR粘连，已按排印恢复为surplus value；c1/c2排印为下标c₁/c₂。"
+    },
+    {
+      "id": "ch07-u040",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这些时间长度是连续的间隔，反映一美元资本价值依次进入循环各阶段（或一美元资本价值在 c",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            "、p、c",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            " 结束时分别突然转化为生产资本、商品资本与货币资本）。因此，一美元资本价值的周转时间是其生产时间与流通时间之和，每个周转期间始于上一个周转期间的结束。把这一过程设想为单位液体在管道与储罐构成的循环系统中的流动是自然的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "These time lengths are consecutive intervals reflecting the successive entry of a dollar of capital value into the various stages of the circuit (or the abrupt transformation of the dollar of capital value into productive, commodity, and money capital at the end of c",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            ", p and c",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            ", respectively). Therefore, the turnover time of a dollar of capital value is the sum of its production and circulation times, and each turnover period starts at the end of the last one. It is natural to think of the process as the flow of a unit of liquid in a circular system of pipes and tanks."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u040"
+      ],
+      "page": "155"
+    },
+    {
+      "id": "ch07-u041",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "另一方面，对全部资本的周转而言，生产与流通的概念需要大幅细化，物理类比（如管道与储罐）可能误导。首先必须注意，资本总是有确定的量，同时又是处于永久循环运动中的实体。只要承认存在确定的量、并且（在没有信用关系时）必须在循环开始时作为货币预付，其量的精确决定对我们的目的并不特别重要。",
+            {
+              "type": "note",
+              "id": "n_ch07_027",
+              "label": "27"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For the turnover of an entire capital, on the other hand, the concepts of production and circulation need to be considerably elaborated, and physical analogues (such as pipes and tanks) could be misleading. It is vital to note, first, that capital always has a definite magnitude as well as being an entity that is in perpetual circular motion. The exact determination of its magnitude is not particularly important for our purposes, as long as it is accepted that a definite size exists and must be advanced as money at the start of the circuit (in the absence of credit relations).",
+            {
+              "type": "note",
+              "id": "n_ch07_027",
+              "label": "27"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u041"
+      ],
+      "page": "155"
+    },
+    {
+      "id": "ch07-u042",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "给定确定的预付资本量，循环统一体中资本的生产时间与流通时间必然指全部预付资本完成每一次依次转化所需的时间（即从货币到生产要素、到商品、再整体回到货币）。由于个别资本在任一时刻必须同时作为货币、生产要素与成品存在，其流通时间与生产时间就简单地由量等于预付资本的资本价值从一个阶段流入下一个阶段所需的时间来定义。",
+            {
+              "type": "note",
+              "id": "n_ch07_028",
+              "label": "28"
+            },
+            "这与它的每一单个美元价值形成鲜明对照，后者必须分别依次走完一切阶段。因此，全部资本的流通时间与生产时间关键取决于它从货币到生产要素、到成品商品、再到货币的具体转化方式，从而反映其产业的特殊性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Given a definite amount of capital advanced, the circulation and production time of capital in the unity of the circuit would necessarily refer to the time that is necessary to complete each successive transformation by the whole of the capital advanced (i.e. from money, to production elements, to commodities, and back to money as a whole). Since an individual capital must simultaneously exist as money, production elements, and finished output at any moment in time, it follows that its circulation and production times would be defined simply by the time it takes for capital value equal in magnitude to the capital advanced to flow from one stage into the next.",
+            {
+              "type": "note",
+              "id": "n_ch07_028",
+              "label": "28"
+            },
+            " This is in sharp contrast to each single dollar of its value, which must traverse all stages separately and sequentially. Consequently, the circulation and the production time of an entire capital would depend critically on the specific way in which it would be transformed from money, to production elements, to finished commodities, to money, thus reflecting the peculiarities of its industry."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u042"
+      ],
+      "page": "155–156"
+    },
+    {
+      "id": "ch07-u043",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "从前述讨论可见，预付总资本的构成美元在循环各阶段停留的时间通常彼此不同，因而其个别周转时间也不同。例如，用于购买原料的一美元与用于雇佣劳动力的一美元，周转时间大不相同。这正是全部预付资本逐步转化为循环各依次形式、并且能同时存在于循环一切阶段的原因，正如马克思正确断言的："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is apparent from the preceding discussion that the constituent dollars of the aggregate capital advanced would generally differ from each other in the time they spend in the successive stages of the circuit, and thus their individual turnover times would differ. A dollar spent to purchase raw materials, for instance, would have a very different turnover time to a dollar spent on employing labour power. This is ultimately why the entire capital advanced would be transformed gradually into each of the successive forms of the circuit, and why it could be found in all stages of the circuit at once, as Marx correctly claimed:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u043"
+      ],
+      "page": "156"
+    },
+    {
+      "id": "ch07-u044",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "资本的一部分作为正在转化为货币的商品资本存在，但这是一个不断变化的部分，并且不断被再生产；另一部分作为正在转化为生产资本的货币资本存在；第三部分作为正在转化为商品资本的生产资本存在。三种形式的经常在场，以总资本恰好经过这三个相位的循环为中介。",
+            {
+              "type": "note",
+              "id": "n_ch07_029",
+              "label": "29"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "A part of the capital exists as commodity capital that is being transformed into money, but this is an ever-changing part, and is constantly being reproduced; another part exists as money capital that is being transformed into productive capital; a third as productive capital being transformed into commodity capital. The constant presence of all three forms is mediated by the circuit of the total capital through precisely these three phases.",
+            {
+              "type": "note",
+              "id": "n_ch07_029",
+              "label": "29"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u044"
+      ],
+      "page": "156",
+      "indent": true
+    },
+    {
+      "id": "ch07-u045",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "鉴于全部预付资本从一个阶段到下一个阶段的逐步过渡，直接得出：其流通时间的两部分彼此之间、以及与生产时间之间会有某种重叠。于是，一部分预付资本仍处于货币形式时生产就开始，生产仍在进行时一部分成品就售出，一部分预付资本仍作为成品、甚至作为生产投入存在时销售收入就积累。因此，这方面第一个重要结果是：个别资本的周转时间小于其流通时间与生产时间之和。",
+            {
+              "type": "note",
+              "id": "n_ch07_030",
+              "label": "30"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Given the gradual passage of the entire capital advanced from one stage to the next, it follows immediately that there would be some overlapping of the two parts of its circulation time with each other and with production time. Thus, production would commence while some of the capital advanced would still be in the money form, some finished output would be sold while production would still be taking place, sales revenue would accrue while some of the capital advanced still existed as finished output, or even as production inputs. Therefore, the first important result in this connection is that the turnover time of an individual capital would be less than the sum of its circulation and production times.",
+            {
+              "type": "note",
+              "id": "n_ch07_030",
+              "label": "30"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u045"
+      ],
+      "page": "156–157"
+    },
+    {
+      "id": "ch07-u046",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这与单个一美元资本价值的周转时间形成鲜明对照，后者是这些时间的简单加总。此外，由于生产是连续的，预付资本的各次周转在时间上不会依次相接，而是重叠。这又与单个一美元资本价值的周转大不相同，后者依次相接。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This is in sharp contrast with the turnover time of an individual dollar of capital value, which is the simple sum of these times. Moreover, since production is continuous, successive turnovers of the capital advanced would not follow each other consecutively in time but would overlap. That, again, is a very different outcome from the turnovers of an individual dollar of capital value, which would follow each other consecutively."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u046"
+      ],
+      "page": "157"
+    },
+    {
+      "id": "ch07-u047",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思充分意识到一美元资本价值的周转时间与全部预付资本周转时间的区别，但在其分析技术要求较高的部分，他倾向于假定循环“以其最简单的形式，以致全部资本价值总是一举从一个相位移动到另一个相位”。",
+            {
+              "type": "note",
+              "id": "n_ch07_031",
+              "label": "31"
+            },
+            "即全部生产资本一次买入，全部成品一次产出、然后又一次售出。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx was fully aware of the difference between the turnover time of a dollar of capital value and that of the entire capital advanced, but in the technically demanding parts of his analysis, he tended to assume that the circuit is ‘in its simplest form, so that the entire capital value always moves at one stroke from one phase to the other’.",
+            {
+              "type": "note",
+              "id": "n_ch07_031",
+              "label": "31"
+            },
+            " That is, the whole of productive capital is bought at once, while all of finished output is produced at once and then also sold at once."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u047"
+      ],
+      "page": "157"
+    },
+    {
+      "id": "ch07-u048",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "资本价值一般“一举”转化的假定，使马克思能够强调：处于流通中的资本不可能同时处于生产中。鉴于剩余价值只在生产中生成，直接得出：流通时间越短，给定时间内生产的剩余价值量越大。假定“一举”转化时，这一结论显而易见；不过即使假定资本从一个阶段到下一个阶段逐步出现，它同样成立，马克思对此是清楚的。",
+            {
+              "type": "note",
+              "id": "n_ch07_032",
+              "label": "32"
+            },
+            "不幸的是，“一举”假定也在马克思关于资本周转过程中资本家持有的货币余额变动的讨论中造成了混乱与技术错误。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The assumption that capital value is generally transformed ‘at a stroke’ allowed Marx to stress that capital that is in circulation cannot also be in production. Given that surplus value is generated only in production, it follows immediately that the shorter the circulation time, the larger the amount of surplus value produced in a given period of time. When transformation ‘at a stroke’ is assumed, this conclusion is apparent, although it is no less valid if one assumes the gradual emergence of capital from one stage to the next, as was clear to Marx.",
+            {
+              "type": "note",
+              "id": "n_ch07_032",
+              "label": "32"
+            },
+            " Unfortunately, the ‘at a stroke’ assumption also created confusion and technical error in Marx’s discussion of movements in money balances held by the capitalist in the course of the turnover of capital."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u048"
+      ],
+      "page": "157"
+    },
+    {
+      "id": "ch07-u049",
+      "canonical_kind": "subheading",
+      "zh": [
+        "3.2 马克思的“周转机制”"
+      ],
+      "en": [
+        "3.2 Marx’s ‘Mechanism of the Turnover’"
+      ],
+      "source_ids": [
+        "ch07-u049"
+      ],
+      "page": "157",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch07-u050",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思关于资本完成周转时货币贮藏（准备）形成的分析，主要见于《资本论》第二卷第15章。为避免混乱（特别是鉴于上文关于周转时间的讨论），必须记住马克思的分析撇开了固定资本与剩余价值的存在。下文将表明，这只是一个简化假定，对马克思结论的有效性（或无效性）并不关键。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s analysis of the formation of money hoards (reserves) as capital completes its turnovers is found mostly in Chapter 15 of the second volume of Capital. In order to avoid confusion (particularly in view of the discussion of turnover time above), it is important to bear in mind that Marx’s analysis abstracted from the existence of fixed capital and surplus value. As will become clear below, this is only a simplifying assumption that is not critical to the validity (or not) of Marx’s conclusions."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u050"
+      ],
+      "page": "157"
+    },
+    {
+      "id": "ch07-u051",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "由于马克思撇开了固定资本与剩余价值，直接得出：商品产品的价值“可以视为等于为其生产而预付的流动资本的价值，即工资与生产中消耗的原料及辅助材料的价值”。",
+            {
+              "type": "note",
+              "id": "n_ch07_033",
+              "label": "33"
+            },
+            "于是，马克思的“周转机制”是参照流动资本的简单再生产（利润不再投资）推导的，即参照企业可变资本与流动不变资本之和。流动资本的周转关键取决于一个简单的定义性事实：流动资本在一次生产走完中就把其全部贡献加入产品价值。因此其周转时间由流动资本在生产中采取的物质形式决定，即工人与原料及辅助材料。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Since Marx left aside both fixed capital and surplus value, it followed immediately that the value of commodity output ‘can be taken as equal to the value of the fluid capital advanced for its production, i.e. the value of the wages and of the raw and ancillary materials consumed in its production’.",
+            {
+              "type": "note",
+              "id": "n_ch07_033",
+              "label": "33"
+            },
+            " Thus, Marx’s ‘mechanism of the turnover’ was derived with reference to the simple reproduction (no reinvestment of profit) of fluid capital, i.e. of the sum of variable and circulating constant capital of an enterprise. The turnover of fluid capital depends critically on the simple fact that fluid capital, by definition, would make its entire contribution to the value of output in one traverse of production. Its turnover time would, thus, be determined by the material form taken by fluid capital in production, namely workers and raw and ancillary materials."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u051"
+      ],
+      "page": "158"
+    },
+    {
+      "id": "ch07-u052",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "更具体地说，在没有信用时，资本家必须在循环开始时预付流动资本以雇佣工人和购买材料；流动资本量必须至少够一次生产走完（在马克思前引《资本论》部分的第一个例子中，生产持续九周）。然而，工人在整个生产期间按相当短的间隔定期获得工资；原料与辅助材料也在生产消耗过程中定期补充（在《资本论》中，马克思假定每周支出一次，覆盖工资与原料及辅助材料成本）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To be more specific, in the absence of credit, the capitalist has to advance fluid capital at the start of the circuit in order to employ workers and to purchase materials; the amount of fluid capital has to be sufficient for at least one traverse of production (in Marx’s first example in the previously quoted part of Capital, production time lasts nine weeks). However, workers are paid regularly and at fairly short intervals throughout the production period; raw and ancillary materials are also regularly replenished as they are consumed in the course of production (in Capital, Marx assumes a weekly outlay covering both wages and the costs of raw and ancillary materials)."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u052"
+      ],
+      "page": "158"
+    },
+    {
+      "id": "ch07-u053",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "于是，资本家以货币形式预付至少够一个生产期间的流动资本总和来开始循环，但其向生产投入的转化是逐步的，持续整个生产期间。因此，流动资本周转的一个至关重要的特征是：流通的 C–M 阶段与生产阶段完全重合，即流通时间的第一部分与生产时间并行运行。",
+            {
+              "type": "note",
+              "id": "n_ch07_034",
+              "label": "34"
+            },
+            "因此，在其余分析中我们将忽略 c",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            "，因为它与 p 重合；同理，流通时间现在只包含 c",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            "，用 c 来表示它更简单。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thus, while the capitalist commences the circuit by advancing a sum of fluid capital in money form that would be sufficient for at least one production period, its transformation into production inputs would be gradual and would last during the entire length of the production period. Consequently, a crucially important feature of the turnover of fluid capital is that the C–M stage of circulation and the stage of production would completely coincide, i.e. the first part of circulation time would runs concurrently with production time.",
+            {
+              "type": "note",
+              "id": "n_ch07_034",
+              "label": "34"
+            },
+            " Consequently, in the rest of the analysis we will ignore c",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            ", since it would coincides with p; by the same token, circulation time would now comprise only c",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            ", and it would be simpler to use c to symbolise it."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u053"
+      ],
+      "page": "158",
+      "review": "排印此处作“the C–M stage of circulation”，按上下文应为M–C阶段，系原书排印错误，保留原文；同段“would runs concurrently”“it would coincides with p”语法错误亦系排印原文如此。"
+    },
+    {
+      "id": "ch07-u054",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "如上文已指出，马克思倾向于假定成品“一举”进入和退出流通。于是，成品在生产时间结束时投放市场；在流通时间内寻求出售（马克思第一个例子中为三周）；在流通时间结束时“一举”售出换得货币；最后销售进款再次投入生产："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As already noted above, Marx tended to assume that finished output entered and exited circulation ‘at a stroke’. Thus, finished output would be put on the market at the end of production time; it would seek sale for the duration of circulation time (in Marx’s first example, for three weeks); it would be sold for money ‘at a stroke’ at the end of circulation time; and finally, sales proceeds would be committed again to production:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u054"
+      ],
+      "page": "158–159"
+    },
+    {
+      "id": "ch07-u055",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "设流通时间为三周。则总周转期间为十二周。九周过去后，预付的生产资本转化为商品资本，但现在必须在流通期间度过三周。因此新的生产循环只能在第十三周开始时重新开始，生产停滞三周，即总流通期间的四分之一。",
+            {
+              "type": "note",
+              "id": "n_ch07_035",
+              "label": "35"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "Let the circulation time be three weeks. The total turnover period is then twelve weeks. After nine weeks have elapsed, the productive capital advanced is transformed into commodity capital, but it now has to spend three weeks in the circulation period. Thus the new cycle of production can begin again only at the start of the thirteenth week, and production is at a standstill for three weeks, or a quarter of the total circulation period.",
+            {
+              "type": "note",
+              "id": "n_ch07_035",
+              "label": "35"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u055"
+      ],
+      "page": "159",
+      "indent": true
+    },
+    {
+      "id": "ch07-u056",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对马克思而言，这一过程必然导致货币贮藏的形成，因为资本整体的循环运动必须保持连续，或者说同一件事：生产必须保持连续。具体说，为保证连续性，成品投放市场之后、直到销售进款积累之前（即流通时间内）必须为生产提供资金，这会对资本家的货币余额产生贮藏方面的影响。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For Marx, this process would necessarily lead to formation of money hoards because the circular movement of capital as a whole would have to be kept continuous, or, what amounts to the same thing, production would have to remain continuous. Specifically, to ensure continuity, production would have to be financed after the finished output would have been put on the market and until the sales proceeds would have accrued (i.e. for the duration of circulation time) and this would have hoarding implications for the money balances of the capitalist."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u056"
+      ],
+      "page": "159"
+    },
+    {
+      "id": "ch07-u057",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "为考察连续生产的贮藏含义，马克思使用了把个别资本的循环流分解为多个较小资本联合运动的技术装置。于是，他假定在第一个生产期间开始时（这也是循环的开始，因为生产时间与流通时间的第一段重合），预付够一个生产期间长度的流动资本。他又假定在第二个生产期间开始时（紧接第一个之后），为维持生产连续性而第二次预付新的流动资本。对一切后续生产期间都作同样假定，直到第一次预付的销售进款积累、从而为资本家提供再投资资金之时。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To examine the hoarding implications of continuous production, Marx used the technical device of disaggregating the circular flow of an individual capital into the combined movement of more than one smaller capitals. Thus, he assumed that, at the start of the first production period (which is also the start of the circuit, since production time and the first leg of circulation time would coincide), the fluid capital requisite for one length of production time would be advanced. He then further assumed that, at the start of the second production period (immediately following the first), a second advance of fresh fluid capital would be made to maintain production continuity. The same assumption was made for all subsequent production periods and until such time as the sales proceeds from the first advance would accrue, thus providing the capitalist with the wherewithal for reinvestment."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u057"
+      ],
+      "page": "159"
+    },
+    {
+      "id": "ch07-u058",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "从马克思对过程的表述直接得出：循环开始时投入的流动资本总量、以及直到第一次销售进款积累为止重复预付的次数，都取决于生产时间与流通时间的相对长度。按马克思的说法，货币贮藏形成在这方面出现，是因为当销售进款的突然积累实际发生时，某个生产期间长度已经进行了一段时间。由于销售进款按设定够一个完整的生产期间长度，进款的一部分对于已经在进行的生产期间长度的需要就显得多余。对马克思而言，销售收入中暂时多余的部分会作为潜在货币资本释放，这种释放随以后每次销售收入的积累而重复。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "From Marx’s formulation of the process it would follow immediately that both the total amount of fluid capital committed at the start of the circuit and the number of repeated advances until the accrual of the first sales proceeds would depend on the relative lengths of production and circulation time. According to Marx, money hoard formation would emerge in this connection because, when the abrupt accrual of sales proceeds actually took place, a particular length of production time would have already been underway for some time. Since the sales proceeds would be, by construction, sufficient for an entire length of production time, a part of the proceeds would appear to be superfluous for the needs of the production length that was already underway. For Marx, the temporarily superfluous part of the sales revenue would be released as potential money capital, a release that would be repeated with every subsequent accrual of sales revenue."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u058"
+      ],
+      "page": "159–160"
+    },
+    {
+      "id": "ch07-u090",
+      "canonical_kind": "caption",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "图7.1 流通时间长于生产时间"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "FIGURE 7.1 ",
+            {
+              "type": "em",
+              "children": [
+                "Circulation time longer than production time"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u090"
+      ],
+      "page": "160",
+      "alt": "图7.1 流通时间长于生产时间",
+      "type": "figure",
+      "src": "/writing/marxist-monetary-theory/assets/ch07-u090.png",
+      "imageWidth": 679,
+      "imageHeight": 467,
+      "linkImage": true,
+      "sharedFigure": true,
+      "parallelFigureCaption": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "图7.1 流通时间长于生产时间"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "FIGURE 7.1 ",
+            {
+              "type": "em",
+              "children": [
+                "Circulation time longer than production time"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch07-u059",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "借助马克思分析的一个简单形式化，可以便于讨论这一问题。假定流动资本（可变资本加流动不变资本）的简单再生产（利润不再投资）；再假定进入和退出 C′–M′ 阶段“一举”发生；最后假定连续时间（马克思假定离散的周期间）、规模为 K 的预付资本、以及连续生产。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "We can facilitate discussion of this issue by employing a simple formalisation of Marx’s analysis. Assume the simple reproduction (no reinvestment of profit) of fluid capital (variable plus circulating constant capital); assume also that entry into and exit from stage C′–M′ take place ‘at a stroke’; assume, finally, continuous time (Marx assumes discrete weekly periods), capital advanced of size K, and continuous production."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u059"
+      ],
+      "page": "160"
+    },
+    {
+      "id": "ch07-u060",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "图1是资本循环在价值—时间空间中的线性表示。生产从原点开始，与 M–C 阶段重合，持续 p（生产时间）。C′–M′ 阶段继生产之后，持续 c（流通时间）。只有一个流通时间，因为对流动资本而言 c",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " 与 p 重合。K 的回流发生在 p + c（图1中的 BE）。为简单起见，图按以下假定绘制：第一，流动资本在 p 内均匀连续地支出；第二，2p > c > p。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fig. 1 is a linear representation of the circuit of capital in value-time space. Production commences at the origin, coincides with stage M–C, and lasts time p (production time). Stage C′–M′ follows production, and lasts time c (circulation time). There is only one circulation time since, for fluid capital, time c",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " coincides with time p. The return of K takes place at p + c (BE in Fig. 1). For simplicity, the figure is drawn on the assumptions that, first, fluid capital is expended uniformly and continuously throughout p, and second, that 2p > c > p."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u060"
+      ],
+      "page": "160"
+    },
+    {
+      "id": "ch07-u061",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "资本家预付启动资本 L，足以维持 p + c 全程的连续生产："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The capitalist advances start-up capital, L, sufficient to maintain continuous production throughout p + c:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u061"
+      ],
+      "page": "161"
+    },
+    {
+      "id": "ch07-u062",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "(1) L = K (1 + c/p)"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "(1) L = K (1 + c/p)"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch07-u062"
+      ],
+      "page": "161",
+      "review": "公式编号(1)排印与公式同行，OCR原粘于上段末尾，已移回；L、K排印为小型大写，c/p为斜体。"
+    },
+    {
+      "id": "ch07-u063",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在 K 的第一次周转期间，资本家持有平均货币余额 L/2。由于生产连续，第二次周转在 2p + c 完成，第三次在 3p + c，依此类推。积累的销售收入 K 立即投入生产，直到下一次周转完成。第一次周转之后，在等于生产时间的各后续期间内，持有的平均货币余额为 K/2。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "During the first turnover of K the capitalist holds average money balances L/2. Since production is continuous, the second turnover is completed at 2p + c, the third at 3p + c, and so on. The accruing sales revenue K is immediately committed to production until the next completion of turnover. After the first turnover, and for successive periods equal to production time, the average money balances held are K/2."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u063"
+      ],
+      "page": "161"
+    },
+    {
+      "id": "ch07-u064",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思把这一过程分解为多个资本的运动。",
+            {
+              "type": "note",
+              "id": "n_ch07_036",
+              "label": "36"
+            },
+            "于是，对马克思而言，循环开始时预付 K，随后在 p 与 2p 时刻分别作第二、第三次资本预付。鉴于 2p > c > p，第一次销售进款会在第三次资本预付的生产时间内积累。这必然使马克思得出结论：在 2p 作出的第三次资本预付不必与 K 一样大；在我们的图中这笔预付等于 IH。完成第三个生产期间所需的差额，在 E 点从回流的销售进款 EB 中预付 CB 来补足。马克思接着论证，销售进款的其余部分（CE）会作为潜在货币资本释放，并在 EF 时间内持有。",
+            {
+              "type": "note",
+              "id": "n_ch07_037",
+              "label": "37"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx disaggregates this process into the movement of more than one capital.",
+            {
+              "type": "note",
+              "id": "n_ch07_036",
+              "label": "36"
+            },
+            " Thus, for Marx, at the start of the circuit, K would be advanced, followed by a second and a third capital advance, made at times p and 2p respectively. Given that 2p > c > p, the first sales proceeds would accrue during the production time of the third capital advance. This inevitably led Marx to the conclusion that the third capital advance, made at 2p, need not be as large as K; in our diagram this advance would be equal to IH. The balance necessary to complete the third production period would be made up at E by advancing CB out of the returning sales proceeds EB. Marx then argued that the rest of the sales proceeds (CE) would be released as potential money capital and would be held during time EF.",
+            {
+              "type": "note",
+              "id": "n_ch07_037",
+              "label": "37"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u064"
+      ],
+      "page": "161"
+    },
+    {
+      "id": "ch07-u065",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思把因生产时间与流通时间相互作用而假定的货币资本释放过程称为“周转运动的机制”。",
+            {
+              "type": "note",
+              "id": "n_ch07_038",
+              "label": "38"
+            },
+            "从文本清楚可见，他认为这一“机制”是其资本循环中货币贮藏创造分析的重要组成部分。",
+            {
+              "type": "note",
+              "id": "n_ch07_039",
+              "label": "39"
+            },
+            "此外，从马克思本人对问题的表述出发，会得出潜在货币资本不会释放的结论："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx called the presumed process of money capital release due to the interplay of production and circulation time, ‘the mechanism of the turnover movement’.",
+            {
+              "type": "note",
+              "id": "n_ch07_038",
+              "label": "38"
+            },
+            " It is clear from the text that he thought this ‘mechanism’ to be an important part of his analysis of money hoard creation in the circuit of capital.",
+            {
+              "type": "note",
+              "id": "n_ch07_039",
+              "label": "39"
+            },
+            " From Marx’s own presentation of the issue, furthermore, it would follows that no release of potential money capital would takes place:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u065"
+      ],
+      "page": "161",
+      "review": "原文“it would follows that no release … would takes place”动词形式错误系排印原文如此。"
+    },
+    {
+      "id": "ch07-u066",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "（1）如果劳动期间（即生产期间）等于流通期间，周转期间因而被分为两个相等的部分；（2）如果流通期间长于劳动期间，但为其简单倍数，以致1个流通期间 = n 个劳动期间，其中 n 必须为整数。在这些场合，依次预付的资本没有任何部分被释放。",
+            {
+              "type": "note",
+              "id": "n_ch07_040",
+              "label": "40"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "(1) If the working period [i.e. production period] is equal to the circulation period, and the turnover period is thus divided into two equal sections; (2) if the circulation period is longer than the working period, but a simple multiple of it, so that 1 circulation period = n working periods, where n must be a whole number. In these cases, no part of capital successively advanced is set free.",
+            {
+              "type": "note",
+              "id": "n_ch07_040",
+              "label": "40"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u066"
+      ],
+      "page": "162",
+      "indent": true
+    },
+    {
+      "id": "ch07-u067",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在同一章中，马克思还进行了许多纠缠混乱、且基本无关的计算，以确定生产时间与流通时间相对长度的变化对释放的货币资本量、以及对启动流动资本量的影响。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In the same chapter, Marx further undertook many tangled, and largely irrelevant, calculations in order to ascertain the effect of changes in the relative lengths of production and circulation time on the size of the released money capital, as well as on the size of the start-up fluid capital."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u067"
+      ],
+      "page": "162"
+    },
+    {
+      "id": "ch07-u068",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思对“周转机制”的分析是谬误的，即使按他自己的前提也能表明。按马克思的说法，第一、第二等等资本的依次预付以等于生产时间的间隔发生，而销售收入按设定够一个生产期间长度。但由此直接得出：由于每次销售进款的积累都在等于生产期间的间隔后“一举”发生，全部销售收入都必须用于维持生产直到下一次积累。换言之，由于生产连续，积累发生在某次生产过程走完的中途还是开头，根本无关紧要。全部销售收入都必须用于使生产连续一段等于生产时间长度的时间。销售收入的任何部分都不会被“释放”。流通时间与生产时间的相对长度对这一结果完全无关紧要。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s analysis of the ‘mechanism of the turnover’ is fallacious, as could be shown even on his own terms. According to Marx, the successive advances of the first, second, and so on, capitals would occur at intervals equal to production time, and the sales revenue would be, by construction, sufficient for one length of production time. But then it follows immediately that since each accrual of the sales proceeds would occur ‘at a stroke’ after an interval equal to the production period, the whole of the sales revenue would be necessary for production to continue until the next accrual. To put it differently, since production is continuous, it would matter not at all whether the accrual occurred halfway through or at the start of a particular traverse of the production process. The whole of the sales revenue would be necessary to keep production continuous for a time equal to the length of production time. No part of the sales revenue would be ‘released’. The relative lengths of circulation and production time are entirely immaterial to this result."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u068"
+      ],
+      "page": "162"
+    },
+    {
+      "id": "ch07-u069",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "上面采用的形式化使我们能更清楚地识别马克思的谬误。销售进款 EB 必须维持整个 EG，即相当于一次生产走完，无论生产运行是否实际在 E 点开始。比如说，为 IE 期间预付的 IH 与为 EG 期间预付的 EB 之间没有质的区别。马克思关于货币资本会被释放的断言是站不住脚的，它纯粹产生于他把全部预付的运动分解为三个资本的运动，而第三个资本自然小于前两个。实际上，鉴于销售进款以 p 为周期积累，关于为生产提供资金而持有的货币余额，所能说的只是：从一次积累到下一次积累，其平均规模为 K/2。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The formalisation employed above allows us to identify Marx’s fallacy more clearly. The sales proceeds EB have to last for the whole of EG, equivalent to one traverse of production, regardless of whether or not a production run actually started at E. There is no qualitative difference between, say, IH advanced for period IE and EB advanced for period EG. Marx’s claim that money capital would be released is spurious, and arose purely because he disaggregated the movement of the entire advance into that of three capitals, the third one being naturally smaller than the first two. In reality, and given that sales proceeds accrue with periodicity p, all that could be said regarding money balances held to finance production is that their average size from one accrual to the next would be K/2."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u069"
+      ],
+      "page": "162–163"
+    },
+    {
+      "id": "ch07-u070",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "如果（遵循马克思自己的例子）反转关于生产时间与流通时间长度的假定，取 p > c（p 与 K 不变），就能进一步确认：不会因生产时间与流通时间的相互作用而释放货币资本。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Further confirmation that there would be no release of money capital due to the interplay of production and circulation time would be obtained if (following Marx’s own example) we reversed the assumption regarding the lengths of production and circulation times, and took p > c (p and K unchanged)."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u070"
+      ],
+      "page": "163"
+    },
+    {
+      "id": "ch07-u071",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "由于资本现在从流通回流更快，最初预付 L′ 与持有到第一个周转期间结束的货币余额都会更小。但在 E′ 时间之后，过程与图1相同（因为 p 与 K 未变）。然而马克思识别出一笔释放的货币资本 C′E′，必然不同于图1中的 CE。",
+            {
+              "type": "note",
+              "id": "n_ch07_041",
+              "label": "41"
+            },
+            "于是，如上文已指出，他得出结论：第一，释放的货币资本量取决于 c 与 p 的相对长度；第二，如果 K 的回流与一个生产期间的开始重合（即流通时间是生产时间的整倍数），就不会有释放。图2清楚表明马克思的两个结论都不正确：随着资本周期回流而持有的平均货币余额等于 K/2，与 p 和 c 的长度无关。",
+            {
+              "type": "note",
+              "id": "n_ch07_042",
+              "label": "42"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Since capital would now return faster from circulation, both the original advance, L′, and the money balances held to the end of the first turnover period would be smaller. After time E′, however, the process would become identical to that of Fig. 1 (since p and K have not changed). Marx, however, identified a released money capital C′E′, inevitably different from CE in Fig. 1.",
+            {
+              "type": "note",
+              "id": "n_ch07_041",
+              "label": "41"
+            },
+            " Thus, as we have noted above, he concluded, first, that the size of the released money capital would depend on the relative lengths of c and p, and second, that if the return of K coincided with the start of a production period (i.e. circulation time was an exact multiple of production time) there would be no release. Fig. 2 makes it clear that both of Marx’s conclusions are incorrect: the average money balances, held as capital periodically returns, would be equal to K/2, irrespective of the lengths of p and c.",
+            {
+              "type": "note",
+              "id": "n_ch07_042",
+              "label": "42"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u071"
+      ],
+      "page": "163"
+    },
+    {
+      "id": "ch07-u072",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "图1与图2还允许我们就资本家在循环开始时投入的货币余额导出一些有趣结果。显然，L 与 c 正相关，因此流通时间缩短（由于交通与通讯手段改进、贸易信息流更畅、支付设施改善等）会减少资本家的启动预付与第一次周转期间持有的货币余额。马克思正确断言，在这种条件下，会发生货币资本从循环中的一次性释放。",
+            {
+              "type": "note",
+              "id": "n_ch07_043",
+              "label": "43"
+            },
+            "发达的银行体系可以通过改善支付体系、从而进一步缩短资本流通时间来强化这一过程。流通时间增加当然对 L 有相反影响。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Figures 1 and 2 also allow us to derive some interesting results regarding the money balances committed by the capitalist at the start of the circuit. Evidently, L is positively related to c, hence, a reduction in circulation time (as a result of improvements in the means of transport and communication, better flow of trade information, improved payments facilities, and so on) would reduce the start-up advances of the capitalist and the money balances held during the first turnover. Marx correctly claimed that, under such conditions, a once-for-all release of money capital from the circuit would take place.",
+            {
+              "type": "note",
+              "id": "n_ch07_043",
+              "label": "43"
+            },
+            " A developed banking system could intensify this process by improving the payments system and thus further reducing the circulation time of capital. Increases in circulation time would, of course, have the opposite effect on L."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u072"
+      ],
+      "page": "163–164"
+    },
+    {
+      "id": "ch07-u091",
+      "canonical_kind": "caption",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "图7.2 流通时间短于生产时间"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "FIGURE 7.2 ",
+            {
+              "type": "em",
+              "children": [
+                "Circulation time shorter than production time"
+              ]
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u091"
+      ],
+      "page": "164",
+      "alt": "图7.2 流通时间短于生产时间",
+      "type": "figure",
+      "src": "/writing/marxist-monetary-theory/assets/ch07-u091.png",
+      "imageWidth": 679,
+      "imageHeight": 460,
+      "linkImage": true,
+      "sharedFigure": true,
+      "parallelFigureCaption": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "图7.2 流通时间短于生产时间"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "FIGURE 7.2 ",
+            {
+              "type": "em",
+              "children": [
+                "Circulation time shorter than production time"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch07-u073",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "另一方面，由于 L 与 p 负相关，生产时间缩短（源于技术变革、原料储备改善、工人培训更好等）会增加给定流通时间内生产的重复次数。因此，缩短生产期间意味着必须作更大的最初预付，第一次周转期间持有的货币余额会增加。延长生产期间则有相反影响。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "On the other hand, since L is negatively related to",
+            {
+              "type": "em",
+              "children": [
+                " p"
+              ]
+            },
+            ", contractions in production time (arising from technological change, improved stockpiling of raw materials, better training of workers, and so on) would increase the number of repetitions of production during a given circulation time. Consequently, shortening the production period would imply that larger initial advances have to be made, and the money balances held during the first turnover would increase. Lengthening the production period would have the opposite effect."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u073"
+      ],
+      "page": "164"
+    },
+    {
+      "id": "ch07-u074",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "于是，对生产时间与流通时间相互作用的技术分析所能表明的至多是：流动资本的周转导致直接投入生产的货币余额不断重新出现。",
+            {
+              "type": "note",
+              "id": "n_ch07_044",
+              "label": "44"
+            },
+            "生产与流通的相对长度会影响启动流动资本的量，但不会影响第一次周转之后伴随生产的货币余额的量。此外，这些货币余额不是资本流的停滞部分，也绝不会被释放。相反，它们会被连续支出以为生产提供资金。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thus, the most that could be shown by a technical analysis of the interplay of production and circulation times is that the turnover of fluid capital results in the constant re-emergence of money balances that would be directly committed to production.",
+            {
+              "type": "note",
+              "id": "n_ch07_044",
+              "label": "44"
+            },
+            " The relative lengths of production and circulation would affect the size of the start-up fluid capital, but not the size of the money balances that would accompany production after the first turnover. Moreover, these money balances would not be stagnant parts of the capital flow, and they would certainly not be released. Rather, they would be continuously expended in order to finance production."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u074"
+      ],
+      "page": "164–165"
+    },
+    {
+      "id": "ch07-u075",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管马克思的“周转机制”基本不正确，但关于因生产时间与流通时间相互作用而形成货币贮藏的论证要旨，可以通过简单（且现实）地假定流通时间长度不确定、生产支出不均匀分布于生产时间内而得到挽救。资本家面对可变且不可预测的销售进款流，其时点必然不同于（同样可变且不可预测的）购买生产资本的支出（包括工资的周期预付）。此外，马克思关于资本家处于维持生产连续性的竞争压力之下的前提是非常合理的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Although Marx’s ‘mechanism of the turnover’ is largely incorrect, the gist of his argument regarding the formation of money hoards due to the interplay of production and circulation time could be rescued by simply (and realistically) assuming that the length of circulation time is uncertain and that production outlays are not uniformly distributed during production time. Capitalists are confronted with variable and unpredictable flows of sales proceeds, the timing of which is inevitably different from the (scarcely less variable and unpredictable) outlays to purchase productive capital (including the periodic advance of wages). Furthermore, Marx’s premise that capitalists are under competitive pressure to maintain the continuity of production is eminently reasonable."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u075"
+      ],
+      "page": "165"
+    },
+    {
+      "id": "ch07-u076",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "综合起来，这些因素构成支付手段预防性准备的另一根源，也许最恰当地称为周转准备。周转准备使资本家能够弥合收支流时点上的差异，以及这些流的突然混乱与不规则。但周转准备不是从循环中释放的货币，而是必须在开头就在场、以保证生产连续性从而资本周转连续性的准备。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Taken together, these factors constitute another source of precautionary reserves of means of payment, perhaps most appropriately called turnover reserves. The turnover reserve would allow capitalists to iron out disparities in the timing of the flows of receipts and expenditures, as well as sudden upsets and irregularities of these flows. The turnover reserve, however, would not be money released from the circuit but a reserve that must be present at the outset in order to ensure the continuity of production, and thus of the turnover of capital."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u076"
+      ],
+      "page": "165"
+    },
+    {
+      "id": "ch07-u077",
+      "canonical_kind": "heading",
+      "zh": [
+        "4 贮藏形成与信用体系"
+      ],
+      "en": [
+        "4 Hoard Formation and the Credit System"
+      ],
+      "source_ids": [
+        "ch07-u077"
+      ],
+      "page": "165",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch07-u078",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "如本章引言已指出，货币贮藏分析在马克思货币理论中起重要作用。但货币贮藏在马克思信用理论中的作用，文献中讨论得少得多。对马克思而言，资本主义信用体系的特征在于它动员资本主义积累过程中生成的闲置货币。",
+            {
+              "type": "note",
+              "id": "n_ch07_045",
+              "label": "45"
+            },
+            "在此过程中，信用体系把闲置货币转化为赚取利息的借贷货币资本，并把它导回积累："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The analysis of money hoarding, as has already been indicated in the introduction to this chapter, plays an important role in Marx’s monetary theory. The role of money hoarding in Marx’s theory of credit, however, has been much less discussed in the literature. For Marx, the characteristic feature of the capitalist credit system is that it mobilises idle money generated in the course of capitalist accumulation.",
+            {
+              "type": "note",
+              "id": "n_ch07_045",
+              "label": "45"
+            },
+            " In doing so, the credit system transforms idle money into loanable money capital that earns interest, and directs it back to accumulation:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u078"
+      ],
+      "page": "165–166"
+    },
+    {
+      "id": "ch07-u079",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "当信用体系把一切潜在资本集中到银行等手中，使其成为可支配资本——“借贷资本”——即不再是消极的、仿佛空中楼阁的货币资本，而是积极的、高利贷式的、自行增殖的资本时，人们所表现出的满意是很容易理解的。",
+            {
+              "type": "note",
+              "id": "n_ch07_046",
+              "label": "46"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "It is easy to understand the satisfaction evinced when the credit system concentrates all these potential capitals in the hands of banks, etc, makes them into disposable capital – ‘loanable capital’ – i.e. money capital, no longer passive and, as it were, a castle in the air, but active, usurious, proliferating capital.",
+            {
+              "type": "note",
+              "id": "n_ch07_046",
+              "label": "46"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u079"
+      ],
+      "page": "166",
+      "indent": true
+    },
+    {
+      "id": "ch07-u080",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "于是，产业资本循环中闲置货币的生成，为信用体系的建构提供了客观基础，区别于前资本主义社会典型的或多或少偶然、无系统的货币借贷过程。此外，由于它是一组专门旨在从闲置货币中创造借贷货币资本的社会机制，发达的信用体系自然会把活动扩展至整个经济。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thus, the generation of idle money in the circuit of industrial capital would provide an objective foundation for the construction of a system of credit, as opposed to the more or less haphazard and unsystematic processes of money lending that is typical of pre-capitalist societies. Moreover, since it is a set of social mechanisms specifically aimed at creating loanable money capital out of idle money, a developed credit system would naturally spread its activities across the economy."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u080"
+      ],
+      "page": "166"
+    },
+    {
+      "id": "ch07-u081",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "企业为便利购买生产资料与劳动力而持有的活跃货币余额，也会被银行集中，成为资本家阶级整体的货币余额。银行可以通过合理化存入与提取来节约这一货币存量的规模，从而也把它的一部分转化为借贷资本。类似地，发达的信用体系还能开始从工人、资本家与其他社会集团暂时闲置的货币收入中生成借贷货币资本。",
+            {
+              "type": "note",
+              "id": "n_ch07_047",
+              "label": "47"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Active money balances, held by firms to facilitate buying of means of production and labour power, would also be concentrated by banks and become the money balances of the capitalist class as a whole. The banks could accomplish economies in the size of this money stock by rationalising additions and withdrawals, thus also transforming parts of it into loanable capital. Similarly, the developed credit system could also begin to generate loanable money capital out of the temporarily idle money revenue of workers, capitalists, and other social groups.",
+            {
+              "type": "note",
+              "id": "n_ch07_047",
+              "label": "47"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u081"
+      ],
+      "page": "166"
+    },
+    {
+      "id": "ch07-u082",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在发达信用关系存在时，货币资本与货币准备的形式都会发生重大变化。马克思对“虚拟资本”的分析与这一点密切相关："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In the presence of developed credit relations, the form of both money capital and money reserves would undergo a significant change. Marx’s analysis of ‘fictitious capital’ was closely related to this point:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u082"
+      ],
+      "page": "167"
+    },
+    {
+      "id": "ch07-u083",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "如果考虑现实生活中的发生方式，可以说，为以后使用而储存的潜伏货币资本由以下构成：（1）银行存款；（2）政府债券；（3）股票。在所有这些场合，都没有货币的储存，一方面表现为货币储存的东西，另一方面表现为货币的连续现实支出。",
+            {
+              "type": "note",
+              "id": "n_ch07_048",
+              "label": "48"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "If we consider the way things happen in real life, we can say that the latent money capital that is stored up for later use consists of: (1) bank deposits; [(2)] government papers; [(3)] shares. [I]n all these cases, there is no storage of money, and what appears on the one hand as storage of money appears on the other as the continuous real expenditure of money.",
+            {
+              "type": "note",
+              "id": "n_ch07_048",
+              "label": "48"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u083"
+      ],
+      "page": "167",
+      "indent": true
+    },
+    {
+      "id": "ch07-u084",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在一个有趣但最终未展开的洞见中，马克思似乎还暗示，资本主义贮藏会变成对他人的积累索取权，而不是一般等价物的持久集中：“在资本主义生产发达的国家，银行的准备基金总是表现作为贮藏存在的货币的平均量，而贮藏本身的一部分由纸券、单纯对黄金的索取凭证构成，它们没有自己的价值”。",
+            {
+              "type": "note",
+              "id": "n_ch07_049",
+              "label": "49"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In an interesting but ultimately undeveloped insight, Marx seemed also to imply that capitalist hoards would become accumulated claims on others, rather than durable concentrations of the universal equivalent: ‘The banks’ reserve funds, in countries of developed capitalist production, always express the average amount of money existing as a hoard, and a part of the hoard itself consists of paper, mere drafts on gold, which have no value of their own’.",
+            {
+              "type": "note",
+              "id": "n_ch07_049",
+              "label": "49"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u084"
+      ],
+      "page": "167"
+    },
+    {
+      "id": "ch07-u085",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "最后，马克思贮藏形成分析的一个显著方面是利息率作为决定贮藏过程的因素的缺席。这主要由马克思从较简单概念上升到较复杂概念的分析方法所解释。在资本循环层面识别的贮藏形成倾向，代表借贷资本供求的结构基础，利息率则是借贷资本的价格。这些结构倾向的分析远不需要利息率概念；相反，应当先分析倾向本身，以为利息率理论创立基础。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Finally, a striking aspect of Marx’s analysis of hoard formation is the absence of the rate of interest as a factor determining the process of hoarding. This is largely explained by the method of Marx’s analysis, rising from simpler to more complex concepts. The hoard-forming tendencies identified at the level of the circuit of capital represent the structural foundations of the demand and supply of loanable capital, the price of the latter being the rate of interest. Far from requiring the concept of the rate of interest in order to undertake the analysis of these structural tendencies, the tendencies themselves ought to be analysed first in order to create the basis for a theory of the rate of interest."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u085"
+      ],
+      "page": "167"
+    },
+    {
+      "id": "ch07-u086",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "要分析利息率，必须先分析借贷资本的本性，但除非先分析了货币贮藏，否则那是不可能的任务。自然，在较不抽象的分析层面，利息率在决定个别资本家贮藏决策上起重要作用。但即使如此，底层的贮藏货币结构倾向仍提供宽广的参数，利息率变动只能在其中的范围内影响个别资本家决策。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To analyse the rate of interest one must first analyse the nature of loanable capital, but that would be an impossible task unless one had first analysed money hoarding. Naturally, at a less abstract level of analysis, the rate of interest would play a significant role in determining the hoarding decisions of individual capitalists. Even then, however, the underlying structural tendencies to hoard money would provide the broad parameters within which changes in the rate of interest could influence individual capitalist decisions."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u086"
+      ],
+      "page": "168"
+    },
+    {
+      "id": "ch07-u087",
+      "canonical_kind": "heading",
+      "zh": [
+        "结论"
+      ],
+      "en": [
+        "Conclusion"
+      ],
+      "source_ids": [
+        "ch07-u087"
+      ],
+      "page": "168",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch07-u088",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思花了相当多精力分析资本价值在其循环流中暂时闲置、从而形成货币贮藏的倾向。他把贮藏形成倾向与流通、生产及二者的衔接相联系。马克思对因生产与流通衔接而产生的货币贮藏的分析存在技术错误，但如果假定不确定性与不可预测性是流通领域资本运动的特征，其论证要旨仍然有效。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx devoted considerable effort to analysing the tendency of capital value to become temporarily idle and thus form money hoards in the course of its circular flow. He associated the hoard-forming tendency with circulation, production, and the articulation of the two. Marx’s analysis of money hoarding due to the articulation of production and circulation suffers from a technical error, but the gist of his argument remains valid, if uncertainty and unpredictability were assumed to characterise the movement of capital in the sphere of circulation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u088"
+      ],
+      "page": "168"
+    },
+    {
+      "id": "ch07-u089",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "同样重要的是，在马克思著作中，货币贮藏不是个别主体投机动机或任何其他动机的结果。贮藏因循环结构本身固有的原因而产生，从而获得独立于个别资本家选择的客观性质。再进一步，资本主义货币贮藏会成为借贷货币资本，并被导回资本主义积累。贮藏倾向从而为资本主义信用体系提供基础。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Equally significantly, in Marx’s work, hoards of money were not the result of a speculative, or any other, motive of the individual agent. Hoards resulted for reasons intrinsic to the structure of the circuit itself, and thus acquired an objective character independent of the choices of individual capitalists. At a further remove, capitalist money hoards would become loanable money capital and would be directed back to capitalist accumulation. The hoarding tendency would thus provide a foundation for the capitalist credit system."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch07-u089"
+      ],
+      "page": "168"
+    }
+  ]
+}

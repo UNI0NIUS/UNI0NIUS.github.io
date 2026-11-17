@@ -1,0 +1,5074 @@
+{
+  "id": "ch09",
+  "title": "9. 商品交换中货币的出现，或货币作为购买能力的垄断者*",
+  "originalTitle": "9. The Emergence of Money in Commodity Exchange, or Money as Monopolist of the Ability to Buy*",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "outline": [
+    {
+      "anchor": "ch09-u002",
+      "title": "1 引言：一般均衡理论中的货币问题",
+      "originalTitle": "1 Introduction: The Problem of Money in General Equilibrium Theory",
+      "level": 1
+    },
+    {
+      "anchor": "ch09-u019",
+      "title": "2 门格尔对货币起源的分析",
+      "originalTitle": "2 Menger’s Analysis of the Origin of Money",
+      "level": 1
+    },
+    {
+      "anchor": "ch09-u030",
+      "title": "3 匿名交换与“货币之谜”",
+      "originalTitle": "3 Anonymous Exchange and the ‘Riddle of Money’",
+      "level": 1
+    },
+    {
+      "anchor": "ch09-u045",
+      "title": "4 第一阶段：“简单的、个别的或偶然的价值形式”",
+      "originalTitle": "4 Stage One: ‘The Simple, Isolated, or Accidental Form of Value’",
+      "level": 1
+    },
+    {
+      "anchor": "ch09-u069",
+      "title": "5 第二阶段：“总和的或扩大的价值形式”",
+      "originalTitle": "5 Stage Two: ‘The Total or Expanded Form of Value’",
+      "level": 1
+    },
+    {
+      "anchor": "ch09-u079",
+      "title": "6 第三阶段：“一般价值形式”",
+      "originalTitle": "6 Stage Three: ‘The General Form of Value’",
+      "level": 1
+    },
+    {
+      "anchor": "ch09-u091",
+      "title": "7 社会习惯与一般等价物",
+      "originalTitle": "7 Social Custom and the Universal Equivalent",
+      "level": 1
+    },
+    {
+      "anchor": "ch09-u107",
+      "title": "8 第四阶段：“货币形式”",
+      "originalTitle": "8 Stage Four: ‘The Money Form’",
+      "level": 1
+    },
+    {
+      "anchor": "ch09-u116",
+      "title": "结论",
+      "originalTitle": "Conclusion",
+      "level": 1
+    }
+  ],
+  "notes": {
+    "n_ch09_001": {
+      "number": "1",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "感谢本·法恩、伊藤诚、阿尔弗雷多·萨德-菲略、斯特吉奥斯·斯卡珀达斯与塞达特·艾巴尔对早先各稿提出的有益意见。一切错误由作者负责。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thanks are due to Ben Fine, Makoto Itoh, Alfredo Saad-Filho, Stergios Skaperdas and Sedat Aybar for helpful comments on earlier drafts. All errors are the author’s responsibility."
+          ]
+        }
+      ]
+    },
+    "n_ch09_002": {
+      "number": "2",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hahn 1982; also Hahn 1965."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hahn 1982; also Hahn 1965."
+          ]
+        }
+      ]
+    },
+    "n_ch09_003": {
+      "number": "3",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Clower 1967, p. 5, original emphasis."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Clower 1967, p. 5, original emphasis."
+          ]
+        }
+      ]
+    },
+    "n_ch09_004": {
+      "number": "4",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "奥斯特罗伊与斯塔尔对如何做到这一点给出了出色（虽如今已过时）的综述（1990）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ostroy and Starr give an excellent, if now dated, survey of how it could be done (1990)."
+          ]
+        }
+      ]
+    },
+    "n_ch09_005": {
+      "number": "5",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Clower 1967."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Clower 1967."
+          ]
+        }
+      ]
+    },
+    "n_ch09_006": {
+      "number": "6",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As suggested by Hahn 1971, and 1973."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As suggested by Hahn 1971, and 1973."
+          ]
+        }
+      ]
+    },
+    "n_ch09_007": {
+      "number": "7",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Niehans 1969, and 1978."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Niehans 1969, and 1978."
+          ]
+        }
+      ]
+    },
+    "n_ch09_008": {
+      "number": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Samuelson 1958."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Samuelson 1958."
+          ]
+        }
+      ]
+    },
+    "n_ch09_009": {
+      "number": "9",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Wallace 1980."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Wallace 1980."
+          ]
+        }
+      ]
+    },
+    "n_ch09_010": {
+      "number": "10",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "A full discussion of the connections between money’s functions can be found in Lapavitsas 2000."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "A full discussion of the connections between money’s functions can be found in Lapavitsas 2000."
+          ]
+        }
+      ]
+    },
+    "n_ch09_011": {
+      "number": "11",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The main contributions being Jones 1976; Iwai 1988; Oh 1989; Kiyotaki and Wright 1989, 1991."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The main contributions being Jones 1976; Iwai 1988; Oh 1989; Kiyotaki and Wright 1989, 1991."
+          ]
+        }
+      ]
+    },
+    "n_ch09_012": {
+      "number": "12",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Kiyotaki and Wright 1989, p. 945, n. 14."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Kiyotaki and Wright 1989, p. 945, n. 14."
+          ]
+        }
+      ]
+    },
+    "n_ch09_013": {
+      "number": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1981, 1892."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1981, 1892."
+          ]
+        }
+      ]
+    },
+    "n_ch09_014": {
+      "number": "14",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见 Menger 1892, p. 239。门格尔的路径与把货币视为法律与权威创造的社会约定的“国定论”（chartalist）观点相对照。应注意马克思的分析也强调货币出现的自发方面，即货币作为交换关系而非国家行动的结果。尽管如此，马克思的路径允许在货币与国家之间建立系统的理论联系（见 Lapavitsas 2003, ch. 6）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1892, p. 239. Menger’s approach is in contrast to ‘chartalist’ views that treat money as a social convention created by law and authority. It should be noted that Marx’s analysis also stresses the spontaneous aspect of money’s emergence, i.e. money as the outcome of exchange relations rather than of state action. Nevertheless, Marx’s approach allows for systematic theoretical connections to be drawn between money and the state (see Lapavitsas 2003, ch. 6)."
+          ]
+        }
+      ]
+    },
+    "n_ch09_015": {
+      "number": "15",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1892, p. 243; original emphasis."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1892, p. 243; original emphasis."
+          ]
+        }
+      ]
+    },
+    "n_ch09_016": {
+      "number": "16",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See O’Driscoll 1986."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See O’Driscoll 1986."
+          ]
+        }
+      ]
+    },
+    "n_ch09_017": {
+      "number": "17",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1981, p. 248, original emphasis."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1981, p. 248, original emphasis."
+          ]
+        }
+      ]
+    },
+    "n_ch09_018": {
+      "number": "18",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1981, pp. 241–7; 1892, pp. 243–5."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1981, pp. 241–7; 1892, pp. 243–5."
+          ]
+        }
+      ]
+    },
+    "n_ch09_019": {
+      "number": "19",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1892, pp. 247–8; 1981, p. 259."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1892, pp. 247–8; 1981, p. 259."
+          ]
+        }
+      ]
+    },
+    "n_ch09_020": {
+      "number": "20",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1981, p. 261; see also 1892, p. 249."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1981, p. 261; see also 1892, p. 249."
+          ]
+        }
+      ]
+    },
+    "n_ch09_021": {
+      "number": "21",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1981, p. 261; original emphasis."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1981, p. 261; original emphasis."
+          ]
+        }
+      ]
+    },
+    "n_ch09_022": {
+      "number": "22",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See White 1984, p. 703."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See White 1984, p. 703."
+          ]
+        }
+      ]
+    },
+    "n_ch09_023": {
+      "number": "23",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1892, pp. 248–9."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Menger 1892, pp. 248–9."
+          ]
+        }
+      ]
+    },
+    "n_ch09_024": {
+      "number": "24",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见 Kiyotaki and Wright 1989, p. 928。在岩井那里，同一论证表现为普遍持有的信念：货币将降低搜寻成本（Iwai 1988）。信念的验证发生在货币实际被用作交换手段时。这一论证有时被称为货币的“自举”（bootstrap）理论。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Kiyotaki and Wright 1989, p. 928. In Iwai, the same argument appears as the generally held belief that money will lower search costs (Iwai 1988). Validation of the belief occurs when money is actually used as means of exchange. This argument is sometimes given the appellation of ‘bootstrap’ theory of money."
+          ]
+        }
+      ]
+    },
+    "n_ch09_025": {
+      "number": "25",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 139."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 139."
+          ]
+        }
+      ]
+    },
+    "n_ch09_026": {
+      "number": "26",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1973; see also Fine and Lapavitsas 2000."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1973; see also Fine and Lapavitsas 2000."
+          ]
+        }
+      ]
+    },
+    "n_ch09_027": {
+      "number": "27",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1970, pp. 42–6; see also 1973, pp. 142–5."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1970, pp. 42–6; see also 1973, pp. 142–5."
+          ]
+        }
+      ]
+    },
+    "n_ch09_028": {
+      "number": "28",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Smith 1904, Vol. i, ch. v, and Mill 1965, ch. viii."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Smith 1904, Vol. i, ch. v, and Mill 1965, ch. viii."
+          ]
+        }
+      ]
+    },
+    "n_ch09_029": {
+      "number": "29",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Jevons 1875."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Jevons 1875."
+          ]
+        }
+      ]
+    },
+    "n_ch09_030": {
+      "number": "30",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 139."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 139."
+          ]
+        }
+      ]
+    },
+    "n_ch09_031": {
+      "number": "31",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "同上。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ibid."
+          ]
+        }
+      ]
+    },
+    "n_ch09_032": {
+      "number": "32",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "同上。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ibid."
+          ]
+        }
+      ]
+    },
+    "n_ch09_033": {
+      "number": "33",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 140."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 140."
+          ]
+        }
+      ]
+    },
+    "n_ch09_034": {
+      "number": "34",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Itoh 1980."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Itoh 1980."
+          ]
+        }
+      ]
+    },
+    "n_ch09_035": {
+      "number": "35",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币与商品之间的不对称关系、及其与偶然价值形式中商品所有者之间不对称关系的联系，是日本马克思主义宇野学派的标志（见 Itoh 1980; Sekine 1999；亦见 Sekine 1997）。宇野学派的路径大体上影响了本章的分析。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The asymmetrical relationship between money and commodities, and its connection to the asymmetrical relationship among commodity owners in the accidental form of value, is a hallmark of the Japanese Marxist Uno tradition (see Itoh 1980; Sekine 1999; see also Sekine 1997). The approach of the Uno School has broadly informed the analysis in this chapter."
+          ]
+        }
+      ]
+    },
+    "n_ch09_036": {
+      "number": "36",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "关根在这一联系上也使用过箭头（Sekine 1999）。我必须感谢斯特吉奥斯·斯卡珀达斯独立论证赞成使用箭头，从而说服我采用关根的表述。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Sekine has also used an arrow in this connection (Sekine 1999). I must thank Stergios Skaperdas for independently arguing in favour of using an arrow, thus persuading me to use Sekine’s formulation."
+          ]
+        }
+      ]
+    },
+    "n_ch09_037": {
+      "number": "37",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "扩大阶段的这一形式表述与马克思（1976b, p. 154）略有不同，他写道：“z 量商品 a = u 量商品 b 或 = v 量商品 c 或 = w 量商品 d 或 = x 量商品 e 或 = 等等”。本章的表述更容易把握扩大阶段的经济内容，尤其相对方的不确定性格。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This formal presentation of the expanded stage is slightly different from Marx (1976b, p. 154), who writes: ‘z commodity a = u commodity b or = v commodity c or = w commodity d or = x commodity e or = etc.’. The presentation in this chapter makes it easier to grasp the economic content of the expanded stage, especially the indeterminate character of the relative."
+          ]
+        }
+      ]
+    },
+    "n_ch09_038": {
+      "number": "38",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "商品价值要成为基础深于市场的社会规范，生产条件也必须适当。具体说，资本主义条件必须盛行，使得货币利润在生产中系统产生并在商品市场实现，而工人在劳动力市场获得货币收入。商品价值于是成为基础深厚的社会规范，概括为“抽象劳动”（见 Fine and Lapavitsas 2000）。在这种条件下，货币有自己的作为抽象劳动的价值，这不影响其垄断性购买能力，但就商品被购买的价格造成复杂化（见 Lapavitsas 2000）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For commodity value to become a social norm with foundations deeper than the market, conditions of production also have to be appropriate. Specifically, capitalist conditions must prevail, such that money profits are systematically generated in production and accrue in commodity markets, while workers obtain money income in the labour market. Commodity value then becomes a deeply based social norm, summed up as ‘abstract labour’ (see Fine and Lapavitsas 2000). Under such conditions, money has its own value as abstract labour, which does not impinge upon its monopolistic ability to buy, but creates complications regarding the prices at which commodities are bought (see Lapavitsas 2000)."
+          ]
+        }
+      ]
+    },
+    "n_ch09_039": {
+      "number": "39",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 156."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 156."
+          ]
+        }
+      ]
+    },
+    "n_ch09_040": {
+      "number": "40",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, 156–7."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, 156–7."
+          ]
+        }
+      ]
+    },
+    "n_ch09_041": {
+      "number": "41",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 157."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 157."
+          ]
+        }
+      ]
+    },
+    "n_ch09_042": {
+      "number": "42",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 159."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 159."
+          ]
+        }
+      ]
+    },
+    "n_ch09_043": {
+      "number": "43",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 162."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 162."
+          ]
+        }
+      ]
+    },
+    "n_ch09_044": {
+      "number": "44",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, pp. 182–3."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, pp. 182–3."
+          ]
+        }
+      ]
+    },
+    "n_ch09_045": {
+      "number": "45",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1976b, p. 182; 1973, p. 223; 1981, pp. 447–8."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1976b, p. 182; 1973, p. 223; 1981, pp. 447–8."
+          ]
+        }
+      ]
+    },
+    "n_ch09_046": {
+      "number": "46",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For further discussion of the historical and anthropological literature, see Itoh and Lapavitsas 1999, chs 2, 10."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For further discussion of the historical and anthropological literature, see Itoh and Lapavitsas 1999, chs 2, 10."
+          ]
+        }
+      ]
+    },
+    "n_ch09_047": {
+      "number": "47",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Herodotus 1954, p. 307."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Herodotus 1954, p. 307."
+          ]
+        }
+      ]
+    },
+    "n_ch09_048": {
+      "number": "48",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Grierson 1903."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Grierson 1903."
+          ]
+        }
+      ]
+    },
+    "n_ch09_049": {
+      "number": "49",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Braudel 1982."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Braudel 1982."
+          ]
+        }
+      ]
+    },
+    "n_ch09_050": {
+      "number": "50",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 184."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 184."
+          ]
+        }
+      ]
+    },
+    "n_ch09_051": {
+      "number": "51",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这里与波兰尼等的“特殊”货币与一般货币（1957）有相似，但似是而非。对波兰尼而言，“特殊”货币购买范围有限，因为它属于非资本主义社会，而资本主义的货币是一般的、有无限购买能力。然而马克思主义分析的“一般等价物”完全可能存在于非资本主义社会。因习惯而产生的部分货币只是购买能力垄断化的中间步骤。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There is similarity here with Polanyi et al.’s ‘particular’ and general money (1957), but it is more apparent than real. For Polanyi, ‘particular’ money has a limited purchasing range because it belongs to a non-capitalist society, whereas the money of capitalism is general and has limitless ability to buy. However, the ‘universal equivalent’ of Marxist analysis could very well exist in non-capitalist societies. The partial monies that arise as a result of custom are only intermediate steps in the monopolisation of buying ability."
+          ]
+        }
+      ]
+    },
+    "n_ch09_052": {
+      "number": "52",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 162."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 162."
+          ]
+        }
+      ]
+    }
+  },
+  "body": [
+    {
+      "id": "ch09-ack",
+      "canonical_kind": "ack",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "＊ ",
+            "首次发表于《政治经济学评论》（Review of Political Economy）2005年第17卷第4期（10月），第549–569页，题为“The Emergence of Money in Commodity Exchange, or Money as Monopolist of the Ability to Buy”。感谢出版方泰勒与弗朗西斯（Taylor & Francis）授予重印许可。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "* ",
+            "First published as ‘The Emergence of Money in Commodity Exchange, or Money as Monopolist of the Ability to Buy’, Review of Political Economy, 2005, vol. 17, no. 4, October, pp. 549–569. We are grateful to the publishers Francis & Taylor for the reprint permission."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-ack"
+      ],
+      "page": "193",
+      "review": "原书致谢印作 “Francis & Taylor”，疑为出版方 Taylor & Francis（泰勒与弗朗西斯）之误植；译文按正确名称补出，原文照录。"
+    },
+    {
+      "id": "ch09-u002",
+      "canonical_kind": "heading",
+      "zh": [
+        "1 引言：一般均衡理论中的货币问题",
+        {
+          "type": "note",
+          "id": "n_ch09_001",
+          "label": "1"
+        }
+      ],
+      "en": [
+        "1 Introduction: The Problem of Money in General Equilibrium Theory",
+        {
+          "type": "note",
+          "id": "n_ch09_001",
+          "label": "1"
+        }
+      ],
+      "source_ids": [
+        "ch09-u002"
+      ],
+      "page": "193",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch09-u003",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "众所周知，在一般均衡的纯粹世界里——信息对称、或有市场齐备、交易成本缺席——货币没有容身之地。",
+            {
+              "type": "note",
+              "id": "n_ch09_002",
+              "label": "2"
+            },
+            "一切交易都在一个时期内完成，贸易实际上是物物交换。然而资本主义是高度货币化的经济。因此，一般均衡理论在解释资本主义最典型的特征时困难重重。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is a well-known result that in the pure world of general equilibrium, which is replete with symmetric information, a full complement of contingent markets and absence of transactions costs, there is no room for money.",
+            {
+              "type": "note",
+              "id": "n_ch09_002",
+              "label": "2"
+            },
+            " All trading takes place in one period and trade is effectively barter. However, capitalism is a profoundly monetary economy. General equilibrium theory has, thus, considerable difficulties accounting for the most characteristic feature of capitalism."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u003"
+      ],
+      "page": "193"
+    },
+    {
+      "id": "ch09-u004",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "克劳尔以如下方式捕捉了一般均衡最难解释的货币方面："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Clower captured in the following way the aspect of money that general equilibrium finds most difficult to explain:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u004"
+      ],
+      "page": "193"
+    },
+    {
+      "id": "ch09-u005",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "货币购买商品，商品购买货币；但商品不购买商品……就我们的目的而言，一种商品被视为货币，当且仅当它能与经济中所有其他商品直接交换。",
+            {
+              "type": "note",
+              "id": "n_ch09_003",
+              "label": "3"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "Money buys goods and goods buy money; but goods do not buy goods"
+              ]
+            },
+            " … A commodity is regarded as money for our purposes if and only if it can be traded directly for all other commodities in the economy.",
+            {
+              "type": "note",
+              "id": "n_ch09_003",
+              "label": "3"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u005"
+      ],
+      "page": "193",
+      "indent": true
+    },
+    {
+      "id": "ch09-u006",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这是一个承认货币与商品之间不可化约的不对称性的猜想，无论学派如何，大多数货币经济学大概都会接受。当然，问题在于：无论克劳尔还是任何其他主流经济学家，都没有为它提供令人信服的证明。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This is a conjecture that acknowledges the irreducible asymmetry between money and commodities, and it would probably be accepted by most monetary economics, irrespective of school of thought. The point is, of course, that neither Clower, nor any other mainstream economist, has offered a convincing proof for it."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u006"
+      ],
+      "page": "193"
+    },
+    {
+      "id": "ch09-u007",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管如此，给定克劳尔猜想，货币可以以几种方式引入一般均衡模型，大多与货币作为交换手段的职能相关。",
+            {
+              "type": "note",
+              "id": "n_ch09_004",
+              "label": "4"
+            },
+            "例如“现金在手”模型提出，总购买额等于交易期开始时持有的货币总额。",
+            {
+              "type": "note",
+              "id": "n_ch09_005",
+              "label": "5"
+            },
+            "其他依赖交易成本与序贯交易的模型强调，货币作为价值贮藏，是把购买力从一个时期高效转移到下一个时期的手段。",
+            {
+              "type": "note",
+              "id": "n_ch09_006",
+              "label": "6"
+            },
+            "在另一类模型中，货币作为交换手段，降低商品所有者之间多边直接交易的成本。",
+            {
+              "type": "note",
+              "id": "n_ch09_007",
+              "label": "7"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Nonetheless, given Clower’s conjecture, money could be introduced into general equilibrium models in several ways, mostly related to money’s function as means of exchange.",
+            {
+              "type": "note",
+              "id": "n_ch09_004",
+              "label": "4"
+            },
+            " ‘Cash-in-hand’ models, for instance, suggest that the sum total of gross purchases is equal to the sum of money held at the beginning of the trading period.",
+            {
+              "type": "note",
+              "id": "n_ch09_005",
+              "label": "5"
+            },
+            " Other models that rely on transactions costs and sequential trading stress that money acts as an efficient means of transferring purchasing power from one period to the next by being a store of value.",
+            {
+              "type": "note",
+              "id": "n_ch09_006",
+              "label": "6"
+            },
+            " In yet another class of models, money acts as means of exchange reducing the costs of multilateral direct trading among commodity owners.",
+            {
+              "type": "note",
+              "id": "n_ch09_007",
+              "label": "7"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u007"
+      ],
+      "page": "193–194"
+    },
+    {
+      "id": "ch09-u008",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在此背景下同样重要的是提及世代交叠模型，它们按萨缪尔森提出的路线纳入货币。",
+            {
+              "type": "note",
+              "id": "n_ch09_008",
+              "label": "8"
+            },
+            "它们只关注货币作为价值贮藏而非交换手段，因此克劳尔猜想对它们似乎不相干。",
+            {
+              "type": "note",
+              "id": "n_ch09_009",
+              "label": "9"
+            },
+            "然而，撇开这些模型对货币作为交换手段的忽视不论，它们也根本没有解释货币充当价值贮藏（贮藏手段）的能力。价值贮藏职能不能与货币是什么分离，即不能与它对购买能力的垄断分离。简言之，直接面对克劳尔猜想的必要性，不能通过简单忽视交换手段来规避。",
+            {
+              "type": "note",
+              "id": "n_ch09_010",
+              "label": "10"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is also important in this context to mention overlapping generations models, which incorporate money along lines proposed by Samuelson.",
+            {
+              "type": "note",
+              "id": "n_ch09_008",
+              "label": "8"
+            },
+            " They focus exclusively on money as store of value, rather than means of exchange, thus Clower’s conjecture appears to be irrelevant to them.",
+            {
+              "type": "note",
+              "id": "n_ch09_009",
+              "label": "9"
+            },
+            " However, quite apart from these models’ disregard of money as means of exchange, they also leave money’s ability to act as store of value (means of hoarding) fundamentally unexplained. The function of store of value cannot be separated from what money is, that is, from its monopoly of the ability to buy. In short, the need directly to confront Clower’s conjecture cannot be obviated by simply ignoring means of exchange.",
+            {
+              "type": "note",
+              "id": "n_ch09_010",
+              "label": "10"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u008"
+      ],
+      "page": "194"
+    },
+    {
+      "id": "ch09-u009",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这些一般均衡模型大多在数学上复杂，且往往优雅，但作为与资本主义经济相关的理论抽象，它们有内在局限。因为如果假定普遍可接受的交换手段（货币）已经存在，那么证明使用货币的交换比不使用的更便宜、更有效率，并不算多大成就。真正的理论问题是：一种商品如何通过市场交易内生的过程成为普遍可接受的交换手段？"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Most of these general equilibrium models are mathematically complex and can often be elegant, but they are inherently limited as theoretical abstractions relevant to a capitalist economy. For if it were assumed that a generally acceptable means of exchange (money) was already in existence, it would not be much of an achievement to show that exchange that used money would be less costly and more efficient than exchange that did not. The real theoretical question is: how does a commodity become a generally acceptable means of exchange through processes endogenous to market trading?"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u009"
+      ],
+      "page": "194"
+    },
+    {
+      "id": "ch09-u010",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "显然，答案大概与克劳尔猜想相关：如果一种商品拥有独特的购买力，那就是把它用作交换手段的初步理由。但那样问题只是以更深刻的形式提出：市场交易内生的哪些过程使一种商品获得能够购买所有其他商品的独特属性？"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is evident that the answer is probably related to Clower’s conjecture: if a good had unique buying power, that would be a prima facie reason to employ it as means of exchange. But then the question would simply be posed in an even more profound form: what are the processes endogenous to market trading that lead a commodity to acquire the unique property of being able to buy all others?"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u010"
+      ],
+      "page": "194"
+    },
+    {
+      "id": "ch09-u011",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "愿意面对货币内生出现问题，是近年一般均衡货币理论化的特征，其焦点是货币作为交换手段的职能。",
+            {
+              "type": "note",
+              "id": "n_ch09_011",
+              "label": "11"
+            },
+            "这些模型共享若干关键特征。通常假定商品天生有差异，或因交易成本、或因适销性。商品所有者随机相遇，在等价相偿（quid pro quo）基础上从事双边贸易。他们选择交易策略时考虑交易成本以及每笔交易中可能获得的商品的适销性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "A willingness to confront the issue of endogenous emergence of money has characterised general equilibrium theorising of money in recent years, which has focused on money’s function as means of exchange.",
+            {
+              "type": "note",
+              "id": "n_ch09_011",
+              "label": "11"
+            },
+            " These models share a number of key features. It is typically assumed that commodities are inherently differentiated either because of the costs of transacting in them, or because of their marketability. Commodity owners meet at random and engage in bilateral trade on a quid pro quo basis. They choose trading strategies by taking into account the cost of transacting as well as the marketability of commodities that might be acquired in each transaction."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u011"
+      ],
+      "page": "195"
+    },
+    {
+      "id": "ch09-u012",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在此基础上，可以用搜寻理论的语言表明：商品 a 的持有者可能获得商品 b，尽管并不想要 b 本身，只要 b 的适销性被普遍相信足够高。底层原因是：给定对 b 适销性的信念，a 的所有者很可能接受 b 作为交换，因为这样 a 的所有者最终更容易获得真正想要消费的商品。于是商品 b 被主体携带作为获取其他商品的手段，并成为交换手段即货币。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "On this basis, it can be shown in search-theoretic terms that the holder of commodity a might acquire commodity b despite not wanting it per se, if the marketability of b was generally believed to be high enough. The underlying reason is that, given belief in the marketability of b, the owner of a would be likely to accept b in exchange because it would then be easier for the owner of a eventually to acquire the commodities genuinely wanted for consumption. Commodity b would, thus, be carried by agents as a means of acquiring other commodities, and it would become a means of exchange, or money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u012"
+      ],
+      "page": "195"
+    },
+    {
+      "id": "ch09-u013",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这一论证被宣称是对货币自发出现的证明。然而实际上承认，该论证并未证明克劳尔猜想："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This argument is claimed to be a demonstration of the spontaneous emergence of money. It is effectively admitted, however, that the argument does not prove Clower’s conjecture:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u013"
+      ],
+      "page": "195"
+    },
+    {
+      "id": "ch09-u014",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "很难想象，两个相遇且恰好在实际商品上存在需求双重巧合的主体……为什么不应被允许不使用法定货币而交易。",
+            {
+              "type": "note",
+              "id": "n_ch09_012",
+              "label": "12"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "It is hard to imagine why two agents who meet and happen to have a double coincidence in real commodities … should not be allowed to trade without using fiat currency.",
+            {
+              "type": "note",
+              "id": "n_ch09_012",
+              "label": "12"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u014"
+      ],
+      "page": "195",
+      "indent": true
+    },
+    {
+      "id": "ch09-u015",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "简言之，这些模型一般没有表明为什么“商品不购买商品”。更糟的是，除了建模的技术精巧，它们几乎没有概念新意。如下文所示，这些模型在概念上被门格尔关于货币起源的原始分析支配，尤其在社会习惯方面。",
+            {
+              "type": "note",
+              "id": "n_ch09_013",
+              "label": "13"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In short, the models generally do not show why ‘goods do not buy goods’. Even worse, they exhibit little conceptual novelty, save for the technical sophistication of modelling. As is shown below, the models are conceptually dominated by Menger’s original analysis of money’s emergence, particularly with regard to social custom.",
+            {
+              "type": "note",
+              "id": "n_ch09_013",
+              "label": "13"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u015"
+      ],
+      "page": "195"
+    },
+    {
+      "id": "ch09-u016",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本文提供关于货币出现的另一种分析，建立在对马克思商品价值理论的强解读与重构之上。货币被表明从商品交换过程中出现，并成为购买能力的垄断者。然而与近期一般均衡模型不同，货币不是作为一般交换手段、而是作为能够购买所有其他商品的商品被推导出来。推导不使用争议极大的马克思主义价值实体概念（社会必要抽象劳动）。相反，它聚焦价值形式，特别是交换过程中商品所有者之间产生的经济关系。其基础是这样一个观念：在任何交易中，商品所有者都分化为相对方与等价方，方式下文充分规定。最后，社会习惯被表明在货币出现中起关键作用，但其内容被明确关联于商品交换的社会支撑。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This article offers an alternative analysis of money’s emergence that rests on a strong interpretation and a reworking of Marx’s theory of commodity value. Money is shown to emerge out of the process of commodity exchange, and to be the monopolist of the ability to buy. Unlike recent general equilibrium models, however, money is not derived as general means of exchange but as the commodity that can buy all others. The derivation makes no use of the heavily disputed Marxist concept of the substance of value as socially necessary abstract labour. Rather, it focuses on the form of value, and in particular on the economic relations that arise between commodity owners in the course of exchange. Fundamental to it is the notion that commodity owners are differentiated into relative and equivalent in any transaction, in ways fully specified below. Finally, social custom is shown to play a pivotal role in money’s emergence, but its content is explicitly associated with the social underpinnings of commodity exchange."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u016"
+      ],
+      "page": "195–196"
+    },
+    {
+      "id": "ch09-u017",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本章结构如下。第2节概述门格尔对货币出现的分析，并与当代一般均衡理论对照。特别关注门格尔的基本概念可售性或适销性，及其与知识和社会习惯的联系。第3节从马克思主义立场转向“货币之谜”，并铺设解决的理论基础。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The chapter is structured as follows. Section 2 summarises Menger’s analysis of money’s emergence, contrasting it to contemporary general equilibrium theory. Particular attention is paid to Menger’s fundamental concept of saleableness or marketability, and its connection with knowledge and social custom. Section 3 turns to the ‘riddle of money’ from a Marxist standpoint and lays out theoretical foundations for a solution."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u017"
+      ],
+      "page": "196"
+    },
+    {
+      "id": "ch09-u018",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "于是，第4、5、6节分别讨论商品交换的偶然、扩大与一般阶段的经济内容。从扩大阶段到一般阶段的困难逻辑问题被详细讨论，并表明马克思的解决需要进一步工作。因此第7节转向社会习惯，表明它对过渡到一般阶段是必要的。然而依照马克思主义政治经济学的旨趣，社会习惯在此被明确关联于交易的社会支撑。第8节接着转向商品交换的货币阶段，表明社会习惯对货币完全垄断购买能力的重要性。第9节为结论。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thus, sections 4, 5 and 6, respectively, discuss the economic content of the accidental, expanded and general stages of commodity exchange. The difficult logical problem of passing from the expanded to the general stage is discussed at length, and it is shown that Marx’s resolution needs further work. Section 7, consequently, turns to social custom and shows that it is necessary for transition to the general stage. However, in line with the tenor of Marxist political economy, social custom is here explicitly associated with the social underpinnings of trading. Section 8 then turns to the money stage of commodity exchange and shows the importance of social custom for the complete monopolisation of buying power by money. Section 9 concludes."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u018"
+      ],
+      "page": "196"
+    },
+    {
+      "id": "ch09-u019",
+      "canonical_kind": "heading",
+      "zh": [
+        "2 门格尔对货币起源的分析"
+      ],
+      "en": [
+        "2 Menger’s Analysis of the Origin of Money"
+      ],
+      "source_ids": [
+        "ch09-u019"
+      ],
+      "page": "196",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch09-u020",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对门格尔而言，货币商品的出现应当用个体市场参与者的自发行动来解释。",
+            {
+              "type": "note",
+              "id": "n_ch09_014",
+              "label": "14"
+            },
+            "于是他提出商品可售性概念："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For Menger, the emergence of the money commodity ought to be explained in terms of spontaneous action by individual market participants.",
+            {
+              "type": "note",
+              "id": "n_ch09_014",
+              "label": "14"
+            },
+            " Thus, he proposed the concept of saleableness of commodities:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u020"
+      ],
+      "page": "196"
+    },
+    {
+      "id": "ch09-u021",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "货币理论必然以商品可售性理论为前提。一旦把握这一点，我们就能理解：货币几乎无限的可售性只是一个特例——仅呈现程度差异——属于经济生活的一个普遍现象，即各种商品可售性的差异。",
+            {
+              "type": "note",
+              "id": "n_ch09_015",
+              "label": "15"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "The"
+              ]
+            },
+            " ",
+            {
+              "type": "em",
+              "children": [
+                "theory"
+              ]
+            },
+            " ",
+            {
+              "type": "em",
+              "children": [
+                "of"
+              ]
+            },
+            " ",
+            {
+              "type": "em",
+              "children": [
+                "money"
+              ]
+            },
+            " ",
+            {
+              "type": "em",
+              "children": [
+                "necessarily"
+              ]
+            },
+            " ",
+            {
+              "type": "em",
+              "children": [
+                "presupposes"
+              ]
+            },
+            " ",
+            {
+              "type": "em",
+              "children": [
+                "a"
+              ]
+            },
+            " ",
+            {
+              "type": "em",
+              "children": [
+                "theory"
+              ]
+            },
+            " ",
+            {
+              "type": "em",
+              "children": [
+                "of"
+              ]
+            },
+            " ",
+            {
+              "type": "em",
+              "children": [
+                "saleableness"
+              ]
+            },
+            " ",
+            {
+              "type": "em",
+              "children": [
+                "of"
+              ]
+            },
+            " goods. If we grasp this, we shall be able to understand how the almost unlimited saleableness of money is only a special case, – presenting only a difference of degree – of a generic phenomenon of economic life – namely, the difference in saleableness of commodities in general.",
+            {
+              "type": "note",
+              "id": "n_ch09_015",
+              "label": "15"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u021"
+      ],
+      "page": "197",
+      "indent": true
+    },
+    {
+      "id": "ch09-u022",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "可售性由门格尔依照奥地利学派的绝对主观主义定义。",
+            {
+              "type": "note",
+              "id": "n_ch09_016",
+              "label": "16"
+            },
+            "于是对门格尔而言：“商品是意图出售的经济财货。但它并非无条件地意图出售。”",
+            {
+              "type": "note",
+              "id": "n_ch09_017",
+              "label": "17"
+            },
+            "持有者能够以所需的“经济”价格出售商品的容易程度或“便利”，定义其可售性或适销性。市场因素决定可售性，包括对该商品需求的数量与强度、市场的地理范围与需求的持续时间。",
+            {
+              "type": "note",
+              "id": "n_ch09_018",
+              "label": "18"
+            },
+            "因此商品的可售性或适销性是可变的。商品所有者接受更适销的商品会获益，即使他们可能不想消费它们，因为这些商品使最终获得想要的消费对象更容易。",
+            {
+              "type": "note",
+              "id": "n_ch09_019",
+              "label": "19"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Saleableness was defined by Menger in accordance with the absolute subjectivism of the Austrian school.",
+            {
+              "type": "note",
+              "id": "n_ch09_016",
+              "label": "16"
+            },
+            " Thus, for Menger: ‘A commodity is an economic good intended for sale. But it is not intended for sale unconditionally’.",
+            {
+              "type": "note",
+              "id": "n_ch09_017",
+              "label": "17"
+            },
+            " The ease or ‘facility’ with which the holder could obtain the required ‘economic’ price for the commodity would define its saleableness or marketability. Market factors determine saleableness, including the volume and intensity of the demand for the commodity, the geographical spread of the market and the duration of demand.",
+            {
+              "type": "note",
+              "id": "n_ch09_018",
+              "label": "18"
+            },
+            " Consequently, commodities would have variable saleableness or marketability. Commodity owners benefit when they accept more marketable commodities, even though they might have no desire to consume them, because these make it easier eventually to obtain the desired objects of consumption.",
+            {
+              "type": "note",
+              "id": "n_ch09_019",
+              "label": "19"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u022"
+      ],
+      "page": "197"
+    },
+    {
+      "id": "ch09-u023",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "个体商品所有者要如此行为，必须拥有关于商品适销性的知识。沿着如今在奥地利学派内已熟悉的路线，门格尔声称："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For individual commodity owners to behave in this way, it is necessary to possess knowledge about the marketability of commodities. Along lines that have now become familiar within the Austrian school, Menger claimed that:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u023"
+      ],
+      "page": "197"
+    },
+    {
+      "id": "ch09-u024",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "这种知识决不会同时为全体人民所获得。相反，起初只有少数精打细算的个人会认识到，接受其他更可售的商品给自己带来的好处。",
+            {
+              "type": "note",
+              "id": "n_ch09_020",
+              "label": "20"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "This knowledge will never be attained by all members of a people at the same time. On the contrary, only a small number of economizing individuals will at first recognize the advantage accruing to them from the acceptance of other, more saleable, commodities.",
+            {
+              "type": "note",
+              "id": "n_ch09_020",
+              "label": "20"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u024"
+      ],
+      "page": "197",
+      "indent": true
+    },
+    {
+      "id": "ch09-u025",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "为避免循环论证，门格尔还声明：“这一好处独立于对任何商品作为货币的普遍承认。”",
+            {
+              "type": "note",
+              "id": "n_ch09_021",
+              "label": "21"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To forestall circularity, Menger also stated that: ‘This advantage is",
+            {
+              "type": "em",
+              "children": [
+                " independent"
+              ]
+            },
+            " of a general acknowledgement of any one commodity as money’.",
+            {
+              "type": "note",
+              "id": "n_ch09_021",
+              "label": "21"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u025"
+      ],
+      "page": "197"
+    },
+    {
+      "id": "ch09-u026",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对门格尔而言，这一好处起初只对少数市场主体明显，他们获得了关键洞见：更适销的商品优于较不适销的商品。一旦少数主体拥有这一根本洞见，其他主体也会分享它，因为所有主体都习惯性地从事交换。这个过程是自我强化的：其他人接受该商品的可能性越大，交换中对它的需求就越强，其可售性就越增加。",
+            {
+              "type": "note",
+              "id": "n_ch09_022",
+              "label": "22"
+            },
+            "这种知识通过主体间的习惯与惯例实践在全市场普遍化，将导致货币最终出现。",
+            {
+              "type": "note",
+              "id": "n_ch09_023",
+              "label": "23"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For Menger, the advantage would be initially apparent only to a few market agents, who would have acquired the vital insight that more marketable commodities are preferable to less marketable ones. Once a small number of agents would have come to possess this radical insight, others would also partake of it as all agents would habitually engage in exchange. The process would be self-reinforcing: the more likely it is that others would accept the commodity, the more strongly it would be demanded in exchange, and the more its saleableness would increase.",
+            {
+              "type": "note",
+              "id": "n_ch09_022",
+              "label": "22"
+            },
+            " Generalisation of this knowledge across the market through custom and habitual practice among agents would lead to the eventual emergence of money.",
+            {
+              "type": "note",
+              "id": "n_ch09_023",
+              "label": "23"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u026"
+      ],
+      "page": "197–198"
+    },
+    {
+      "id": "ch09-u027",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "当代一般均衡模型提供大致相同的论证，只是适销性被简单设定为一种普遍持有的信念：其他人会想要获得特定商品。这一信念对货币最强，因此商品所有者会努力获取它。换言之，假定存在一种普遍预期：货币将充当货币；而一旦货币充当货币，该预期就自我验证。对清泷信宏与赖特而言，这一信念的存在是一种未加解释的社会习惯："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Contemporary general equilibrium models offer much the same argument, except that marketability is posited simply as a generally held belief that others would want to acquire a particular commodity. This belief is strongest for money hence commodity owners will strive to acquire it. Put differently, it is assumed that there exists a general expectation that money will act as money, which validates itself as soon as money acts as money. For Kiyotaki and Wright, existence of this belief is an unexplained social custom:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u027"
+      ],
+      "page": "198"
+    },
+    {
+      "id": "ch09-u028",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "决定一物能否充当交换媒介的一个关键因素，是主体是否相信它能。换言之，货币的使用必然涉及策略要素与“社会习惯”的某些方面。",
+            {
+              "type": "note",
+              "id": "n_ch09_024",
+              "label": "24"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "[A] critical factor in determining if an object can serve as a medium of exchange is whether or not agents believe that it will. In other words, the use of money necessarily involves strategic elements and certain aspects of ‘social custom’.",
+            {
+              "type": "note",
+              "id": "n_ch09_024",
+              "label": "24"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u028"
+      ],
+      "page": "198",
+      "indent": true
+    },
+    {
+      "id": "ch09-u029",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "但如果没有对适销性、或其确立与获得过程的精确定义，社会习惯就毫无意义。于是门格尔的论证包含当代模型所能提供的一切，而且更多。但这不意味着门格尔自己的论证完全令人满意。由于只关注交换手段职能，门格尔没有解释货币独特的购买能力，也没有提供证实克劳尔猜想的根据。此外，他关于社会习惯与知识的讨论虽然至关重要，却不涉及市场之外的社会过程，也不分析市场的社会支撑。归根结底，社会习惯来自上方射下的一束光，来自击中市场中某些天赋个体的关于适销性的启示。建立在马克思著作之上的分析不存在这些问题。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "But without a precise definition of marketability, or of the process through which it is established and acquired, social custom means absolutely nothing. Thus, Menger’s argument contains everything that contemporary models have to offer, and still more. But that does not mean that Menger’s own argument is fully satisfactory. By focusing exclusively on the function of means of exchange, Menger did not explain money’s unique ability to buy, and offered no grounds on which to substantiate Clower’s conjecture. Moreover, his discussion of social custom and knowledge, vital as it is, involves no social processes outside the market and no analysis of the social underpinnings of markets. Ultimately, social custom results from a shaft of light from above, from a revelation about marketability that has struck some gifted individuals in the market. These problems do not exist for analysis that rests on Marx’s work."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u029"
+      ],
+      "page": "198"
+    },
+    {
+      "id": "ch09-u030",
+      "canonical_kind": "heading",
+      "zh": [
+        "3 匿名交换与“货币之谜”"
+      ],
+      "en": [
+        "3 Anonymous Exchange and the ‘Riddle of Money’"
+      ],
+      "source_ids": [
+        "ch09-u030"
+      ],
+      "page": "199",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch09-u031",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思是第一位认识到货币存在所提出的理论问题的重要经济学家，也是第一位直接处理它的人："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx was the first major economist to realise the theoretical problem posed by the existence of money, and he was also the first to tackle it directly:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u031"
+      ],
+      "page": "199"
+    },
+    {
+      "id": "ch09-u032",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "我们要完成资产阶级经济学甚至从未尝试过的任务。即，我们要表明货币形式的起源，我们要追溯商品价值关系中所包含的价值表现的发展，从它最简单的、几乎难以察觉的轮廓，直到炫目的货币形式。做到这一点，货币之谜就会消失。",
+            {
+              "type": "note",
+              "id": "n_ch09_025",
+              "label": "25"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "We have to perform a task never even attempted by bourgeois economics. That is, we have to show the origin of the money-form, we have to trace the development of the expression of value contained in the value-relation of commodities from its simplest, almost imperceptible outline to the dazzling money-form. When this has been done, the mystery of money will disappear.",
+            {
+              "type": "note",
+              "id": "n_ch09_025",
+              "label": "25"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u032"
+      ],
+      "page": "199",
+      "indent": true
+    },
+    {
+      "id": "ch09-u033",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思对货币形式的分析是他对商品交换价值讨论的一部分。交换价值一方面是两种商品之间的量的比例、一种相对价格；但另一方面也是两个商品所有者之间的一组经济关系。对马克思而言，当交换变得普遍并涉及大量商品所有者时，他们的经济关系展开并产生货币。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s analysis of the money-form was a part of his discussion of the exchange value of commodities. Exchange value is, on the one hand, a quantitative proportion between two commodities, a relative price; but, on the other, it is also a set of economic relations between two commodity owners. For Marx, when exchange becomes general and involves large numbers of commodity owners, their economic relations unfold and give rise to money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u033"
+      ],
+      "page": "199"
+    },
+    {
+      "id": "ch09-u034",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在本章其余部分，着眼于商品所有者关系的展开，为“货币之谜”即“炫目的货币形式”的出现提出一个解决。解决大量借鉴马克思的著作，但留意一般均衡与其他新古典货币分析。货币被表明作为购买能力的垄断者、而非简单的交换手段出现。论证这一点需要彻底重构马克思自己对交换价值的分析，尤其在社会习惯及其与商品交换社会支撑的联系方面。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In the rest of this chapter, a solution is proposed for the ‘riddle of money’, i.e. for the emergence of the ‘dazzling money-form’, in view of the unfolding relations of commodity owners. The solution draws heavily on Marx’s work, but remains mindful of general equilibrium and other neoclassical analysis of money. Money is shown to emerge as the monopolist of buying ability, rather than as a simple means of exchange. Demonstrating this point requires a thorough reworking of Marx’s own analysis of exchange value, not least with regard to social custom and its connection with the social underpinnings of commodity exchange."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u034"
+      ],
+      "page": "199"
+    },
+    {
+      "id": "ch09-u035",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "依照马克思，商品应在理论上与一般产品区分。",
+            {
+              "type": "note",
+              "id": "n_ch09_026",
+              "label": "26"
+            },
+            "人类劳动的产品并不直接是商品，只有在适当的生产、分配与交换社会关系下才成为商品。曾有过大部分产品从未成为商品的人类社会。同样，商品贸易在极多样的社会关系下发生，是易于观察的历史事实。因此我们的初始假定只是：支撑商品交换的社会关系使得商品所有者在前来交易时彼此陌生、相互分离。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Following Marx, commodities should be theoretically differentiated from products in general.",
+            {
+              "type": "note",
+              "id": "n_ch09_026",
+              "label": "26"
+            },
+            " The products of human labour are not immediately commodities but become so only under appropriate social relations of production, distribution and exchange. There have been human societies for which the bulk of products never became commodities. Equally, it is an easily observed historical fact that commodity trading has occurred under a great variety of social relations. In consequence, our initial assumption is simply that the social relations underpinning commodity exchange are such that commodity owners are alien and separate from each other when they come to trade."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u035"
+      ],
+      "page": "199"
+    },
+    {
+      "id": "ch09-u036",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对货币的理论推导至关重要的是强调：商品交换通常建立在使贸易能够“匿名”的社会关系之上。从这一立场看，商品所有者主要受私人利益驱动，彼此接近时没有先在的亲属、宗教或等级权威纽带。于是可以表明，作为购买能力垄断者的货币，产生于相互陌生的交换参与者之间展开的经济关系。这些关系也把货币转化为把交换参与者联结在一起的社会纽带。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is vital for the theoretical derivation of money to stress that commodity exchange typically rests on social relations that enable trade to be ‘anonymous’. From this standpoint, commodity owners are primarily motivated by private gain, and approach each other without prior ties of kinship, religion or hierarchical authority. It could thus be shown that money as the monopolist of buying ability results from economic relations that unfold among mutually alien exchange participants. These relations also transform money into the social nexus that binds exchange participants together."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u036"
+      ],
+      "page": "200"
+    },
+    {
+      "id": "ch09-u037",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而下文也表明，没有交换参与者持有的某些社会习惯与共同认知，货币的出现是不可能的。这一结果带来相当的概念与分析困难，因为它意味着商品所有者之间的关系涉及同侪情谊、熟悉、信任与道德义务。货币出现所必需的社会习惯与共同认知，还必须与商品所有者特征性的极高疏离程度相容。历史上观察到的社会很少呈现如此奇特的社会要素组合。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "However, it is also shown below that money’s emergence would be impossible without certain social customs and common perceptions held by exchange participants. This result poses considerable conceptual and analytical difficulties because it implies relations among commodity owners that involve collegiality, familiarity, trust and moral obligation. The social custom and the common perceptions that are necessary for money’s emergence must also be compatible with the exceptional degree of estrangement that is characteristic of commodity owners. Few historically observed societies have exhibited such a peculiar combination of social elements."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u037"
+      ],
+      "page": "200"
+    },
+    {
+      "id": "ch09-u038",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "资本主义社会关系，即通过雇佣劳动私人营利，能够允许货币所需的商品所有者之间本质陌生性与社会习惯的非凡组合。但货币的历史出现远早于资本主义经济的建立。因此本章提出：货币在历史上出现于分离的共同体与社会相互接触之处。在那些经济互动点上，交易者可能彼此陌生而独立，却仍发展出彼此的习惯联系。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Capitalist social relations, i.e. private profit-making through the employment of wage labour, could allow for the extraordinary combination of essential foreign-ness and social custom among commodity owners that is required for money. But the historical emergence of money long predates the establishment of a capitalist economy. Thus, it is suggested in this chapter that money emerges historically where separate communities and societies come into contact with each other. At those points of economic interaction, it is possible for traders to be mutually foreign and independent but still develop customary links with each other."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u038"
+      ],
+      "page": "200"
+    },
+    {
+      "id": "ch09-u039",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本章其余部分的基本分析框架如下。假定每个商品所有者拥有一定数量的一种商品。他们成对相遇，其互动是随机的，但仅在任何两者原则上都可能相遇的意义上。商品所有者有目的地寻找他人以从事交换，但为简单假定没有搜寻成本。还假定商品所有者彼此无关联、大概互不相识，缺乏社会或其他纽带（等级、亲属、宗教、习惯、或生产过程）。他们互动的社会背景既与他们彼此的本质陌生性相容，也与受经济利益驱动相容。其互动具有压倒性的经济（更严格说是商业）内容，这对货币的出现是根本的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The basic analytical framework in the rest of the chapter is as follows. Each commodity owner is assumed to possess a definite quantity of one commodity. They meet in pairs, and their interactions are random but only in the sense that any two among them could in principle meet. Commodity owners purposely seek others in order to engage in exchange, but it is assumed for simplicity that there are no search costs. Commodity owners are also assumed to be unrelated and probably unknown to each other, lacking social or other ties (of rank, kinship, religion, custom, or through the production process). The social background against which they interact is compatible with their essential foreignness from each other, as well as with being motivated by economic gain. Their interactions have an overwhelming economic (more strictly, commercial) content, which is fundamental to the emergence of money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u039"
+      ],
+      "page": "200"
+    },
+    {
+      "id": "ch09-u040",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "就我们的目的而言，马克思著作的相关部分是《资本论》第1章第3节，题为“价值形式或交换价值”。按马克思，“货币之谜”的解决经过四个相互关联的阶段，即下文进一步分析的四种“价值形式”。为完整起见还应提及，在《资本论》及其他地方马克思发展了另一个颇不相同的论证，即货币作为商品使用价值与价值（抽象劳动）之间矛盾的解决而出现。",
+            {
+              "type": "note",
+              "id": "n_ch09_027",
+              "label": "27"
+            },
+            "简言之，作为价值，商品是一般的，即同质、可分、简单；作为使用价值，它是特殊的，即异质、不可分、复杂。商品这两个方面之间的明显矛盾导致直接商品交换不断破裂，直到货币出现、为所有商品代表价值（一般方面）。矛盾于是被“安抚”，因为商品作为自身是使用价值，作为他物即货币是价值。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The relevant part of Marx’s work for our purposes is Section 3 of Chapter 1 of Capital, headed ‘The value-form, or exchange-value’. The resolution of the ‘riddle of money’, according to Marx, proceeds in four interrelated stages, the four ‘forms of value’ further analysed below. For completeness it should also be mentioned that in Capital and elsewhere Marx developed a further and rather different argument, namely that money emerges as the resolution for the contradictions between the use value and the value (abstract labour) of a commodity.",
+            {
+              "type": "note",
+              "id": "n_ch09_027",
+              "label": "27"
+            },
+            " Put briefly, as value, the commodity is general, that is, homogeneous, divisible, simple; as use value, it is particular, that is, heterogeneous, indivisible, complex. The evident contradictions between these two aspects of the commodity lead to the continuous breakdown of direct commodity exchange, until money emerges representing value (the general aspect) for all commodities. The contradictions are then ‘pacified’ because commodities are use values as themselves and values as something other, i.e. as money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u040"
+      ],
+      "page": "200–201"
+    },
+    {
+      "id": "ch09-u041",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这是马克思辩证法的一个优雅例子，但底层经济论证令人想起亚当·斯密与约翰·斯图亚特·穆勒。",
+            {
+              "type": "note",
+              "id": "n_ch09_028",
+              "label": "28"
+            },
+            "两人都指出商品异质性、不完全可分性、缺乏耐久性等给直接交换造成的问题，都声称这些问题由货币解决。早期新古典理论家同样意识到“需求的双重巧合”提出的问题。",
+            {
+              "type": "note",
+              "id": "n_ch09_029",
+              "label": "29"
+            },
+            "但他们进一步认识到，需求的不相容只能揭示货币对规则、系统而顺畅的商品交换的必要性。然而需求不相容对商品交换中货币自发出现的过程几乎不提供洞见。门格尔避免了这一陷阱，无论其自身解决有何缺陷。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This is an elegant example of Marx’s dialectic, but the underlying economic argument is reminiscent of Adam Smith and John Stuart Mill.",
+            {
+              "type": "note",
+              "id": "n_ch09_028",
+              "label": "28"
+            },
+            " Both identified the problems created for direct exchange by commodity heterogeneity, imperfect divisibility, lack of durability, and so on, and both claimed that these problems are solved by money. Early neoclassical theorists were similarly aware of the problem posed by the ‘double coincidence of wants’.",
+            {
+              "type": "note",
+              "id": "n_ch09_029",
+              "label": "29"
+            },
+            " But they further realised that the incompatibility of wants could do no more than reveal the necessity of money for regular, systematic and smooth commodity exchange. However, incompatibility of wants offers little insight into the process of the spontaneous emergence of money in commodity exchange. Menger avoided this trap, whatever the shortcomings of his own solution."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u041"
+      ],
+      "page": "201"
+    },
+    {
+      "id": "ch09-u042",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思把货币分析为使用价值与价值（抽象劳动）之间矛盾的解决，确实证明货币对广泛而规则的商品交换是必要的。但这一分析没有确立货币自发出现所经的过程。因为如果货币确实存在，使用价值与价值之间的矛盾确实会被安抚，但要点是表明矛盾会逻辑地引致货币出现。在马克思关于货币的著作中找不到这样的分析证明。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s analysis of money as the resolution of the contradictions between use value and value (abstract labour) certainly demonstrates that money is necessary for broad and regular commodity exchange. But this analysis does not establish the process through which money would emerge spontaneously. For, if money did exist, the contradictions between use value and value would indeed be pacified, but the point is to show that the contradictions would logically induce the emergence of money. No such analytical demonstration can be found in Marx’s work on money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u042"
+      ],
+      "page": "201"
+    },
+    {
+      "id": "ch09-u043",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "另一方面，马克思在《资本论》第一章对价值形式的分析提供了货币出现理论的轮廓。在本章其余部分，马克思关于简单价值形式“相对”与“等价”要素辩证法的讨论，被按商品所有者之间（私人和社会）关系重新解释。于是表明，货币的出现是一个分析过程——一个“生成”——从价值形式的第一阶段经后续三个阶段展开。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s analysis of the form of value in the first chapter of",
+            {
+              "type": "em",
+              "children": [
+                " Capital"
+              ]
+            },
+            ", on the other hand, offers the outline of a theory of money’s emergence. In the rest of this chapter, Marx’s discussion of the dialectics of the ‘relative’ and the ‘equivalent’ elements of the simple form of value is reinterpreted in terms of the (private and social) relations among commodity owners. It is, thus, shown that money’s emergence is an analytical process – a ‘becoming’ – that unfolds from the first stage of the form of value through the subsequent three stages."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u043"
+      ],
+      "page": "201–202"
+    },
+    {
+      "id": "ch09-u044",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "一般证明方法——依照马克思——是表明每个阶段都包含导向下一阶段的经济过程，直到最后阶段出现、货币确立。马克思声称，证明中最困难的方面是证明货币出现的原因已隐含在第一阶段。",
+            {
+              "type": "note",
+              "id": "n_ch09_030",
+              "label": "30"
+            },
+            "无疑这是分析中最难的部分。然而下文表明，证明阶段之间的逻辑过渡也存在重大困难。社会习惯在这方面起关键作用，而这在马克思著作中并不直接明显。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The general method of proof – following Marx – is to demonstrate that each stage contains economic processes that lead to the next, until the last stage emerges and money is established. Marx claimed that the most difficult aspect of the demonstration is to prove that the reasons for money’s emergence are already implicit in the first stage.",
+            {
+              "type": "note",
+              "id": "n_ch09_030",
+              "label": "30"
+            },
+            " There is no doubt that this is the most difficult part of the analysis. However, it is shown below that major difficulties also exist in proving the logical passage between the stages. Social custom plays a vital role in this connection, something that is not immediately evident in Marx’s work."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u044"
+      ],
+      "page": "202"
+    },
+    {
+      "id": "ch09-u045",
+      "canonical_kind": "heading",
+      "zh": [
+        "4 第一阶段：“简单的、个别的或偶然的价值形式”"
+      ],
+      "en": [
+        "4 Stage One: ‘The Simple, Isolated, or Accidental Form of Value’"
+      ],
+      "source_ids": [
+        "ch09-u045"
+      ],
+      "page": "202",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch09-u046",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "两个商品所有者之间的偶然互动，被马克思通过一个简单等式捕捉：",
+            {
+              "type": "note",
+              "id": "n_ch09_031",
+              "label": "31"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The accidental interaction between two commodity owners was captured by Marx through a simple equality:",
+            {
+              "type": "note",
+              "id": "n_ch09_031",
+              "label": "31"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u046"
+      ],
+      "page": "202"
+    },
+    {
+      "id": "ch09-u047",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "x 量商品 a = y 量商品 b"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "x of commodity a = y of commodity b"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch09-u047"
+      ],
+      "page": "202"
+    },
+    {
+      "id": "ch09-u048",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这在形式上是对称关系，是不足为奇的。尽管如此，马克思也着力指出 a 与 b 之间对称性的缺失："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is trivial that this is formally a symmetrical relationship. Nevertheless, Marx was also at pains to identify a lack of symmetry between a and b:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u048"
+      ],
+      "page": "202"
+    },
+    {
+      "id": "ch09-u049",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "这里，两种不同的商品（在我们的例子中是麻布和上衣）显然扮演两种不同的角色。麻布（a）在上衣中表现自己的价值；上衣（b）充当这种价值表现的材料。第一种商品扮演主动角色，第二种扮演被动角色。",
+            {
+              "type": "note",
+              "id": "n_ch09_032",
+              "label": "32"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "Here two different kinds of commodities (in our example the linen and the coat) evidently play two different parts. The linen [a] expresses its value in the coat; the coat [b] serves as the material in which that value is expressed. The first commodity plays an active role, the second a passive one.",
+            {
+              "type": "note",
+              "id": "n_ch09_032",
+              "label": "32"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u049"
+      ],
+      "page": "202",
+      "indent": true
+    },
+    {
+      "id": "ch09-u050",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思称商品 a 为主动方或相对方，商品 b 为被动方或等价方。尽管等式关系显然可以反转，马克思仍声称这并不意味着交换关系两部分之间存在形式对称。就分析内容而言，相对方与等价方仍是两极对立："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx called commodity a the active or the relative, and commodity b the passive or the equivalent. Even though the relation of equality could evidently be reversed, Marx still claimed that it would not imply the existence of formal symmetry between the two parts of the exchange relation. The relative and the equivalent remain polar opposites as far as their analytical content is concerned:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u050"
+      ],
+      "page": "202"
+    },
+    {
+      "id": "ch09-u051",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "在这种情况下，我必须反转等式才能相对地表现上衣的价值；而一旦这样做，麻布就代替上衣成为等价物。因此，同一商品在同一价值表现中不能同时出现在两种形式中。这两种形式毋宁是作为两极互相排斥。",
+            {
+              "type": "note",
+              "id": "n_ch09_033",
+              "label": "33"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "In this case I must reverse the equation in order to express the value of the coat relatively; and if I do that, the linen becomes the equivalent instead of the coat. The same commodity cannot, therefore, simultaneously appear in both forms in the same expression of value. These forms rather exclude each other as polar opposites.",
+            {
+              "type": "note",
+              "id": "n_ch09_033",
+              "label": "33"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u051"
+      ],
+      "page": "203",
+      "indent": true
+    },
+    {
+      "id": "ch09-u052",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "总之，对马克思而言，等式“x 量 a = y 量 b”似乎捕捉了与等式“y 量 b = x 量 a”不同的关系。然而假想差异的内容既不直接清楚也不直观。此外，鉴于两个表达式之间无可置疑的形式等价，差异的断言是马克思自己其余分析中持续紧张的来源。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In sum, for Marx, the equality ‘x of a = y of b’ appears to capture a different relationship from the equality ‘y of b = x of a’. However, the content of the putative difference is neither immediately clear nor intuitive. Moreover, given the undoubted formal equivalence between the two expressions, the assertion of difference is a constant source of tension in the rest of Marx’s own analysis."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u052"
+      ],
+      "page": "203"
+    },
+    {
+      "id": "ch09-u053",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这里提出的解释是：两个表达式之间的差异指（彼此陌生的）a 与 b 所有者之间交换关系被发起的方式。具体说，在“x 量 a = y 量 b”中，a 的所有者（相对方）接近 b 的所有者（等价方），以 a 换 b 提出交换请求；在“y 量 b = x 量 a”中则相反。于是在“x 量 a = y 量 b”中，a 的所有者采取主动、积极发起交换，而 b 的所有者被动回应。另一方面，在“y 量 b = x 量 a”中，a 与 b 之间的经济关系不同，因为 b 在交换关系中采取主动。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The interpretation suggested here is that the difference between the two expressions refers to the way in which exchange relations are invited between the (mutually foreign) owners of a and b. Specifically, in ‘x of a = y of b’, the owner of a (the relative) approaches the owner of b (the equivalent) and makes a request for exchange by offering a for b; in ‘y of b = x of a’ the reverse holds true. Thus, in ‘x of a = y of b’, the owner of a takes the initiative and actively invites exchange, while the owner of b responds passively. In ‘y of b = x of a’, on the other hand, economic relations between a and b are different, because b takes the initiative in the exchange relationship."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u053"
+      ],
+      "page": "203"
+    },
+    {
+      "id": "ch09-u054",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "表述这一点的另一种方式是：对缺乏社会或其他纽带的参与者之间要发生交换关系，开局首着是必要的。它采取的形式是：一个商品所有者向另一个所有者提出交换请求，以自有商品换取对方的商品。于是在“x 量 a = y 量 b”中，左方以提供 x 量 a 积极请求与右方交换。同理，b 以同意或拒绝请求回应。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Another way of putting this point is that, for exchange relations to occur between participants who lack social or other ties, an opening gambit is necessary. This takes the form of the owner of a commodity addressing another with a request for exchange by offering own commodity for that of the other. Thus, in ‘x of a = y of b’, the left-hand side actively requests exchange with the right-hand side by offering x of a. By the same token, b responds by acceding to, or rejecting, the request."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u054"
+      ],
+      "page": "203"
+    },
+    {
+      "id": "ch09-u055",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "我们也可以把相对方作出的开局首着称为出售要约，而等价方的回应则是购买（或不购买）的决定。于是出售对应相对方或主动方的行动，购买对应等价方或被动商品所有者的行动。",
+            {
+              "type": "note",
+              "id": "n_ch09_034",
+              "label": "34"
+            },
+            "当然，只有货币已存在，出售与购买才被恰当定义，因此在按设定货币缺席的偶然阶段应谨慎使用这些术语。然而下文表明，货币代表购买能力的垄断，而这在简单阶段已以胚胎形式在场。因此，如果启发式地认为前者中 a 被出售、b 购买，后者中 b 被出售、a 购买，“x 量 a = y 量 b”与“y 量 b = x 量 a”之间的差异就会鲜明呈现。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "We could also call the opening gambit made by the relative an offer to sell, while the response of the equivalent would be a decision to buy (or not). Thus, sale corresponds to the action of the relative or active, while purchase to that of the equivalent or passive commodity owner.",
+            {
+              "type": "note",
+              "id": "n_ch09_034",
+              "label": "34"
+            },
+            " Naturally, both sale and purchase would be properly defined only if money were already in existence, thus the terms should be used with caution at the accidental stage at which money is by construction absent. However, it is shown below that money stands for monopolisation of the ability to buy which is already present in embryo at the simple stage. Consequently, the difference between ‘x of a = y of b’ and ‘y of b = x of a’ would emerge sharply if it were heuristically considered that in the former a is sold and b buys, while in the latter b is sold and a buys."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u055"
+      ],
+      "page": "203–204"
+    },
+    {
+      "id": "ch09-u056",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "表示简单交换内在不对称性的一种简单形式方式是使用箭头，从而放弃马克思的等式用法。",
+            {
+              "type": "note",
+              "id": "n_ch09_035",
+              "label": "35"
+            },
+            "两个商品所有者之间的偶然互动于是由下式给出：",
+            {
+              "type": "note",
+              "id": "n_ch09_036",
+              "label": "36"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "A simple formal way of representing the inherent asymmetry of simple exchange would be to employ an arrow, thus abandoning Marx’s use of equalities.",
+            {
+              "type": "note",
+              "id": "n_ch09_035",
+              "label": "35"
+            },
+            " The accidental interaction between two commodity owners would thus be given by:",
+            {
+              "type": "note",
+              "id": "n_ch09_036",
+              "label": "36"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u056"
+      ],
+      "page": "204"
+    },
+    {
+      "id": "ch09-u057",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "x 量 a → y 量 b"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "x of a → y of b"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch09-u057"
+      ],
+      "page": "204"
+    },
+    {
+      "id": "ch09-u058",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "据此，（胚胎状态的）出售的经济内容不同于（胚胎状态的）购买。出售是在自己选择的时间地点积极请求交换，即以特定方式透露自己的交换意图。另一方面，购买是被动同意出售要约，即接受卖者的主动。在货币出现证明的这一阶段，商品所有者带着从事贸易的未分化意图进入交换过程，因此他们可以无偏向地承担主动或被动角色。然而在货币在场时，所有商品所有者都会带着出售的主动意图把货物带到交换中。另一方面，货币持有者会带着被动接受出售要约的目的进入交换。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In this light, the economic content of (embryonic) sale differs from that of (embryonic) purchase. To sell is actively to request exchange at a time and place of one’s choosing, i.e. to reveal one’s intention to exchange in a specific way. To purchase, on the other hand, is passively to consent to an offer of a sale, i.e. to accept the initiative of the seller. At this stage of the demonstration of money’s emergence, commodity owners enter the process of exchange with the undifferentiated intention of engaging in trade, thus they might assume either the active or the passive role without prejudice. In the presence of money, however, all commodity owners would bring their goods to exchange with the active intention of selling. Money-holders, on the other hand, would enter exchange with the aim of passively accepting offers of sale."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u058"
+      ],
+      "page": "204"
+    },
+    {
+      "id": "ch09-u059",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在这方面要回答的一个重要问题是：为什么不能假定开局首着由等价方作出？为什么假定主动权源于卖者而非买者？回答时应注意，马克思明确把等价方规定为交换交易中的被动方，随后把货币定义为一般等价物。由此，对马克思而言，货币是普遍被动的，而其他商品是主动的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "An important question to answer in this connection is: why could it not be assumed that the opening gambit is made by the equivalent? Why assume that the initiative originates with the seller rather than the buyer? In answering, it should be noted that Marx explicitly specified the equivalent as the passive party in exchange transactions, and subsequently defined money as the universal equivalent. It follows that, for Marx, money is universally passive, while other commodities are active."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u059"
+      ],
+      "page": "204"
+    },
+    {
+      "id": "ch09-u060",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这是对发达货币交换的敏锐洞见。即使随意观察也表明，商品卖者通常通过在商店、仓库、目录等中提供商品出售来邀请购买；另一方面买者同意或拒绝此类要约。商品市场是商品所有者积极邀请买者付出货币的社会场所。假定“主动”即“发起商品所有者之间的交换关系”、并大致对应出售，其主要优点是允许把货币交换的这一关键方面纳入理论。诚然买者偶尔也宣布获取特定商品的意图，例如通过报纸与专业杂志。但这等于搜寻交换伙伴，与价值形式的主动—被动两极无关，下文简要表明。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This is an acute insight into developed monetary exchange. Even casual observation indicates that commodity sellers typically invite purchase by offering commodities for sale in shops, warehouses, catalogues, and so on; buyers, on the other hand, accede to, or refuse, such offers. Commodity markets are the social terrain on which commodity owners actively invite buyers to part with their money. A major advantage of the assumption that ‘to be active’ is ‘to invite exchange relations between commodity owners’, and broadly corresponds with sale, is that it allows for the theoretical incorporation of this vital aspect of monetary exchange. It is true that buyers occasionally also declare their intention to acquire particular commodities, for instance, through newspapers and specialist magazines. But this amounts to searching for exchange partners, which has nothing to do with the active-passive polarity of the forms of value, as is briefly shown below."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u060"
+      ],
+      "page": "204–205"
+    },
+    {
+      "id": "ch09-u061",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "更具体说，在商品交换中主动不是搜寻对手方，被动不是等待收到请求。所有商品所有者原则上都搜寻合适伙伴，但并不因此自动承担交易中主动方的位置。商品所有者搜寻后相遇时仍须建立相互关系，因为他们（按假定）无关联、大概互不相识。对任何一对商品所有者，一方必须积极采取主动、发起交换。于是“主动”与“被动”纯粹指商品所有者相遇之后的经济关系；即搜寻已完成之后。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To be more specific, to be active in commodity exchange is not to search for counter-parties, and to be passive is not to wait until a request has been received. All commodity owners in principle search for suitable partners, but they do not thereby automatically assume the position of the active party in trading. Commodity owners still have to establish a mutual relationship when they meet after searching, since they are (by assumption) unrelated and probably unknown to each other. For any pair of commodity owners, one must actively take the initiative and invite exchange. Thus, the terms ‘active’ and ‘passive’ refer purely to the economic relationship between commodity owners after they have met; that is, after searching is already complete."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u061"
+      ],
+      "page": "205"
+    },
+    {
+      "id": "ch09-u062",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在发达货币交换中，搜寻伙伴通常（但非排他地）由货币持有者承担。然而这是因为货币持有者能够把以下事实视为当然：商品所有者已把商品提供出售以换货币，从而发起交换。在发达货币交换中，开局首着不断在商店与仓库中作出：卖者直接主动，使货币持有者可以搜寻伙伴，并同意这些伙伴的要约。在偶然交换中，出售与购买以胚胎形式存在于每笔交易中。出售的主动方面由相对方（而非等价方）作出开局首着的假定捕捉，同时使表明货币出现对应于确立真正出售成为可能。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In developed monetary exchange, searching for partners is typically (but not exclusively) undertaken by the holders of money. However, this occurs because money holders are able to take for granted the fact that commodity owners will have already offered their commodities for sale against money, thereby inviting exchange. In developed monetary exchange, the opening gambit is constantly made in shops and warehouses: sellers are immediately active, allowing money holders to search for partners to whose offers they would accede. In accidental exchange, sale and purchase are present in embryonic form in each transaction. The active aspect of sale is captured by the assumption that the relative (rather than the equivalent) makes the opening gambit, while making it possible to show that money’s emergence corresponds to establishing sale proper."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u062"
+      ],
+      "page": "205"
+    },
+    {
+      "id": "ch09-u063",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "交换过程中的讨价还价对这一路径不构成特别分析问题。彼此陌生的商品所有者之间的任何开局首着，都必须明确或隐含地采取以自有商品换另一所有者商品的形式，因为商品所有者除通过商品外没有沟通手段。于是开局首着的确切表述不重要——它甚至可以以沉默方式作出，如第7节所示。此外，主动—被动关系不是由提供的精确数量确立，而是由发起交换的初始请求确立。于是假定初始请求由 a 作出，即使 b 提出不同的量的条件，a 与 b 之间关系的内容也不变。这大致类似于货币持有者向商品所有者提出不同价格、却仍是买者。相对—等价的内容指交换价值与支付能力的私人和社会方面，下文立即讨论。这些方面不产生于商品所有者最终同意的精确量的比例。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Haggling in the course of exchange poses no particular analytical problems for this approach. Any opening gambit between mutually foreign commodity owners must take the form, explicitly or implicitly, of offering own commodity for that of another owner, since commodity owners have no means of communicating other than through their commodities. Thus, the exact formulation of the opening gambit is not important – it could even be made in silent way, as is shown in Section 7. Moreover, the active–passive relationship is not established by the precise quantities offered, but by the initial request, which invites exchange. Thus, assuming that the initial request was made by a, the content of the relationship between a and b would not change if b suggested different quantitative terms. This is broadly analogous to money holders suggesting different prices to commodity owners, while still remaining buyers. The content of relative-equivalent refers to the private and social aspects of exchange value and of the ability to pay, discussed immediately below. These aspects do not result from the precise quantitative ratio that is eventually agreed among commodity owners."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u063"
+      ],
+      "page": "205–206"
+    },
+    {
+      "id": "ch09-u064",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "“主动—被动”关系的经济学对货币最终出现是关键。按假定 a 与 b 的相遇是无关联个人之间的偶然或个别事件。进入交换前，双方都不知道直接从事交换是否根本可能。他们也不知道交换能获得多少其他商品。其商品的交换价值只是个人预期而已。当 a 与 b 分别作为主动方与被动方从事贸易时，交换价值变得更具体，但对各方方式不同。一方面，a 的所有者单方面宣布 a 的单位交换价值等于 y/x 量 b。另一方面，b 的所有者被告知 b 可以与 a 直接交换。如果交易实际发生，两条信息都确立为有效。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The economics of the ‘active–passive’ relationship is pivotal to the eventual emergence of money. The meeting of a and b is by assumption an accidental or isolated occurrence between unrelated individuals. Before entering exchange, neither knew whether it was at all possible directly to engage in exchange. They also did not know what quantity of other commodities could be obtained in exchange. The exchange value of their commodities was a matter of personal expectation and nothing more. When a and b engage in trade as the active and passive parties respectively, exchange value becomes more concrete, but in different ways for each. On the one hand, the owner of a declares unilaterally that a’s per unit exchange value is equal to y/x of b. On the other, the owner of b is informed that b could be directly exchanged with a. If the transaction actually took place, both pieces of information would be established as valid."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u064"
+      ],
+      "page": "206"
+    },
+    {
+      "id": "ch09-u065",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这里最重要的结果是：当“偶然或简单”交换实际发生时，等价物变得与相对方直接可交换。这是 b 获得的一种属性，乍看类似于门格尔的适销性或可售性，即出售商品的容易程度。但被出售的商品是 a，而 b 购买。b 的直接可交换性毋宁是胚胎状态的购买能力，既非商品内在也非永久特征。它纯粹来自 a 所有者作出的交换请求，只在与 a 的关系中存在。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The most important result here is that when an ‘accidental or simple’ exchange actually occurs, the equivalent becomes directly exchangeable with the relative. This is a property acquired by b that, at first sight, appears similar to Menger’s marketability or saleableness, namely the ease of selling commodities. But the commodity that is sold is a, while b buys. The direct exchangeability of b is, rather, an embryonic ability to buy, which is neither an inherent nor a permanent feature of the commodity. It derives purely from the request for exchange made by a’s owner and exists only in relation to a."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u065"
+      ],
+      "page": "206"
+    },
+    {
+      "id": "ch09-u066",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "据此，货币的出现是一种商品获得与所有其他商品的直接可交换性的过程。一种商品成为所有其他商品的等价物，因为所有其他商品都自动被提供出售以换这一单一商品。货币的出现包含四个阶段，从偶然开始；证明方法如前所述，是识别每个阶段中导向下一阶段的经济过程。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In this light, the emergence of money is a process through which one commodity acquires direct exchangeability with all others. One commodity becomes the equivalent of all others because all others are automatically offered for sale against this single commodity. Money’s emergence comprises four stages, starting with the accidental; the method of proof, as already mentioned, is to identify economic processes present in each stage that lead to the next."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u066"
+      ],
+      "page": "206"
+    },
+    {
+      "id": "ch09-u067",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对偶然阶段而言，导向下一阶段的相关经济过程是清楚的。a 的交换价值（即 y/x 量 b）与 b 获得的直接可交换性都只对关系“x 量 a = y 量 b”有效。因此两者都是短暂而部分的属性，必须在任何其他交易中重新确立。在偶然交换中重新确立它们既不确定也不可预测。第一，a 的所有者可能不再进入交换过程（根本不再或在合理时间内不再），从而使把 a 的交换价值表示为 y/x 量 b 失效。第二，如果 a 的所有者确实重新进入交换过程，偶然交换可能与另一商品比如 c 发生。这会使 a 的交换价值用 c 表示，并为 c 相对 a 确立直接可交换性——把 b 排除在外。第三，在下一笔交易中，a 的所有者可能是被动方。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The relevant economic process that makes for passage to the next stage is clear for the accidental stage. Both the exchange value of a (i.e. y/x of b) and the direct exchangeability acquired by b are valid only for the relationship ‘x of a = y of b’. Therefore, both are fleeting and partial properties, and have to be established afresh in any other transaction. Establishing these afresh is neither certain nor predictable in accidental exchange. First, the owner of a might not enter the process of exchange again (either at all or within a reasonable length of time), thus making it invalid to represent a’s exchange value as y/x of b. Second, if a’s owner does re-enter the process of exchange, accidental exchange might take place with another commodity, say, c. This would result in a’s exchange value being represented in terms of c, as well as establishing direct exchangeability for c relative to a – leaving b out of the reckoning. Third, in the next transaction, a’s owner might be the passive party."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u067"
+      ],
+      "page": "206–207"
+    },
+    {
+      "id": "ch09-u068",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管如此，偶然阶段的随机方面也提供了出路。原则上，a 的所有者可以向任一乃至全部其他商品所有者作出出售要约。只要能够重复进入交换过程，这一可能性就变为现实并影响 a 作为相对方的地位。即，a 作为相对方的充分表示要求一个穷尽的等价商品清单。这引入货币出现的第二阶段。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Nevertheless, the random aspect of the accidental stage also provides a way out. In principle, a’s owner could make an offer of sale to any and all other commodity owners. Provided that there could be repeated entry in the process of exchange, this possibility becomes real and affects the position of a as a relative. Namely, the full representation of a as a relative requires an exhaustive list of equivalent commodities. This introduces the second stage in the emergence of money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u068"
+      ],
+      "page": "207"
+    },
+    {
+      "id": "ch09-u069",
+      "canonical_kind": "heading",
+      "zh": [
+        "5 第二阶段：“总和的或扩大的价值形式”"
+      ],
+      "en": [
+        "5 Stage Two: ‘The Total or Expanded Form of Value’"
+      ],
+      "source_ids": [
+        "ch09-u069"
+      ],
+      "page": "207",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch09-u070",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "扩大阶段包含 a 向所有其他商品所有者作出的交换请求："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The expanded stage comprises requests for exchange made by a toward all the other commodity owners:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u070"
+      ],
+      "page": "207"
+    },
+    {
+      "id": "ch09-u071",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "x 量 a → y 量 b",
+            {
+              "type": "linebreak"
+            },
+            "x 量 a → u 量 c",
+            {
+              "type": "linebreak"
+            },
+            "x 量 a → w 量 d",
+            {
+              "type": "linebreak"
+            },
+            "…"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "x of a → y of b",
+            {
+              "type": "linebreak"
+            },
+            "x of a → u of c",
+            {
+              "type": "linebreak"
+            },
+            "x of a → w of d",
+            {
+              "type": "linebreak"
+            },
+            "…"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch09-u071"
+      ],
+      "page": "207"
+    },
+    {
+      "id": "ch09-u072",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在这一阶段，相对方与等价方之间的不对称被置于不同基础，因为左方只有 a，所有其他商品在右方。不对称的这一尖锐化对相对方有含义。a 的单位交换价值同时在整个交换领域被表示为一个无限（或极大）的量的比例集合：{y/x, u/x, w/x, …}。a 的交换价值已成为部分性与短暂性都减弱的属性，因为它由包含所有其他商品数量而非仅单一商品数量的集合表示。鉴于它指所有其他商品，a 的交换价值获得了某种一般性，从而具有适用于整个交换领域的客观性格。据此，对等价方也有含义。购买能力散布于交换领域，并被除 a 外的所有商品获得。于是与偶然阶段相比，购买能力的部分性与短暂性都减弱了。",
+            {
+              "type": "note",
+              "id": "n_ch09_037",
+              "label": "37"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "At this stage, the asymmetry between relative and equivalent has been put on a different footing, since there is only a on the left-hand side and all other commodities are on the right-hand side. This sharpening of the asymmetry has implications for the relative. a’s per unit exchange value is represented simultaneously and across the realm of exchange as a boundless (or very large) set of quantitative ratios: {y/x, u/x, w/x, …}.",
+            {
+              "type": "note",
+              "id": "n_ch09_037",
+              "label": "37"
+            },
+            " a’s exchange value has become a less partial and fleeting property, since it is represented by a set that contains quantities of all other commodities and not just a single one. Given that it refers to all other commodities, the exchange value of a has acquired some generality, and hence an objective character that applies across the realm of exchange. By this token, there are also implications for the equivalent. The ability to buy is spread across the sphere of exchange, and is acquired by all commodities other than a. Thus, the ability to buy is both less partial and less fleeting compared to its presence at the accidental stage."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u072"
+      ],
+      "page": "207–208"
+    },
+    {
+      "id": "ch09-u073",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "表述这一点的另一种方式（虽非马克思术语）是：在扩大阶段，交换价值与购买能力都已成为社会规范。交换价值现在是 a 的一个方面，被交换参与者承认并纳入其交易实践。此外，交换实践使直接可交换性（购买能力）属性对除相对方 a 外的所有商品有效。尽管如此，这两种规范都纯粹基于交换，缺乏更深的社会起源。",
+            {
+              "type": "note",
+              "id": "n_ch09_038",
+              "label": "38"
+            },
+            "更糟的是，其基础薄弱，因为两者都源于单一商品发出的全市场交换请求。下文表明，货币的出现可以被设想为交换价值与购买能力获得更健全社会基础的过程，尽管仍纯粹在交换层面。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Another way of putting the point, though not in Marx’s terms, is that at the expanded stage both exchange value and ability to buy have become social norms. Exchange value is now an aspect of a that is recognised by exchange participants and incorporated into their trading practices. Exchange practice, furthermore, makes the property of direct exchangeability (ability to buy) valid for all commodities, except for the relative a. Nevertheless, both of these norms are purely exchange-based and lack deeper social origins.",
+            {
+              "type": "note",
+              "id": "n_ch09_038",
+              "label": "38"
+            },
+            " Even worse, their foundations are slender because both originate in market-wide requests for exchange originating from a single commodity. It is shown below that the emergence of money could be thought of as a process through which both exchange value and the ability to buy acquire sounder social foundations, though still purely at the level of exchange."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u073"
+      ],
+      "page": "208"
+    },
+    {
+      "id": "ch09-u074",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "规定导向从扩大阶段过渡到一般阶段的经济过程远非易事。马克思自己对这一问题的讨论存在逻辑与分析困难，下文讨论。对马克思而言，相对方一侧有缺陷，因为它是无尽的表示系列，是“各种不同、互不关联的价值表现的杂乱马赛克”，对每种商品都不同。",
+            {
+              "type": "note",
+              "id": "n_ch09_039",
+              "label": "39"
+            },
+            "类似地，等价方一侧的缺陷是它包含无尽的特定“等价物”系列，每个都排斥其他。",
+            {
+              "type": "note",
+              "id": "n_ch09_040",
+              "label": "40"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Specifying the economic processes that lead to the passage from the expanded to the general stage is far from easy. There are logical and analytical difficulties with Marx’s own discussion of the issue, discussed below. For Marx, the relative side is defective because it is an endless series of representations, a ‘motley mosaic of disparate and unconnected expressions of value’ that are different for each commodity.",
+            {
+              "type": "note",
+              "id": "n_ch09_039",
+              "label": "39"
+            },
+            " Analogously, the defect of the equivalent side is that it comprises an endless series of particular ‘equivalents’, each of which excludes the others.",
+            {
+              "type": "note",
+              "id": "n_ch09_040",
+              "label": "40"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u074"
+      ],
+      "page": "208"
+    },
+    {
+      "id": "ch09-u075",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "用我们的术语说，扩大阶段的缺陷是其等价方一侧是一个无限（或极大）的量的比例集合。起作用的经济力量在某种程度上是清楚的。a 的所有者现在以 x 换 y 量 b，接着以 x 换 u 量 c，然后以 x 换 w 量 d，等等。于是对交换参与者而言，a 被提供出售的条件不规则且极异质，因此缺乏充分一般性。a 的交换价值规范尽管有全交换广度，却不具一般性格。类似地，所有其他商品从 a 的交换请求获得直接可交换性，因此其直接可交换性有限、仅涵盖 a。例如 b 与 c 都能立即购买 a；但要彼此交换，他们必须走完要约与同意/拒绝的全部繁琐程序，起初对谁主动谁被动没有任何预设。于是对交换过程整体而言，购买能力规范分布稀薄，毫无一般性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In our terms, the defect of the expanded stage is that its equivalent side is a boundless (or very large) set of quantitative ratios. The economic forces at work are clear to some extent. The owner of a now offers x for y of b, next x for u of c, then x for w of d, and so on. Thus, for exchange participants, the terms on which a is offered for sale are irregular and extremely heterogeneous, hence they lack full generality. The norm of a’s exchange value does not have a general character despite having exchange-wide breadth. Similarly, all the other commodities receive direct exchangeability from a’s requests for exchange, and hence their direct exchangeability is limited and encompassing only a. Both b and c, for instance, could immediately buy a; but to exchange with each other they would have to go through the whole rigmarole of offer and acceptance/rejection, without any presumption at the outset as to which would be active and which passive. Thus, for the process of exchange as a whole, the norm of the ability to buy is thinly spread and has no generality at all."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u075"
+      ],
+      "page": "209"
+    },
+    {
+      "id": "ch09-u076",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而过渡到一般阶段的经济学远不清楚。马克思就这一问题提出如下形式论证："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The economics of the passage to the general stage, however, is far from clear. Marx offered the following formal argument on this issue:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u076"
+      ],
+      "page": "209"
+    },
+    {
+      "id": "ch09-u077",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "事实上，当一个人用他的麻布交换许多其他商品，从而把麻布的价值表现在一系列其他商品中时，必然随之发生：其他商品所有者用他们的商品交换麻布，从而把他们各种商品的价值表现在同一个第三种商品即麻布中。那么，如果我们反转这个系列：20码麻布=1件上衣，或=10磅茶叶，等等，即如果我们把这个系列中已隐含的相反关系表现出来，我们就得到（一般价值形式）。",
+            {
+              "type": "note",
+              "id": "n_ch09_041",
+              "label": "41"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "In fact, when a person exchanges his linen for many other commodities, and thus expresses its value in a series of other commodities, it necessarily follows that the other owners of commodities exchange them for the linen, and therefore express the values of their various commodities in one and the same third commodity, the linen. If, then, we reverse the series 20 yards of linen = 1 coat, or = 10 lb. of tea, etc., i.e. if we give expression to the converse relation already implied in the series, we get [the general form of value].",
+            {
+              "type": "note",
+              "id": "n_ch09_041",
+              "label": "41"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u077"
+      ],
+      "page": "209",
+      "indent": true
+    },
+    {
+      "id": "ch09-u078",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "于是对马克思而言，过渡到一般阶段似乎只是把一系列等式反序重写的简单事情。下文表明这在形式上不能令人满意。此外，这一程序对导向一般阶段出现的社会过程无话可说。考虑这些时就会清楚，过渡到一般阶段不能是纯经济力量的事情。社会习惯与对交换过程广阔支撑的明确考虑必须发挥作用。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thus, for Marx, the transition to the general stage appeared to be the simple matter of rewriting a series of equalities in reverse order. It is shown below that this is formally unsatisfactory. Moreover, this procedure has nothing to say about the social processes that lead to the emergence of the general stage. When these are considered, it becomes clear that passage to the general stage cannot be a matter of pure economic forces alone. Social custom and explicit consideration of the broad underpinnings of the process of exchange must come into play."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u078"
+      ],
+      "page": "209"
+    },
+    {
+      "id": "ch09-u079",
+      "canonical_kind": "heading",
+      "zh": [
+        "6 第三阶段：“一般价值形式”"
+      ],
+      "en": [
+        "6 Stage Three: ‘The General Form of Value’"
+      ],
+      "source_ids": [
+        "ch09-u079"
+      ],
+      "page": "210",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch09-u080",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "一般阶段可以概括为如下交换请求系列，它蕴含相对方与等价方双方的深刻转变："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The general stage can be summed up as the following series of requests of exchange, which entails a profound transformation of both relative and equivalent:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u080"
+      ],
+      "page": "210"
+    },
+    {
+      "id": "ch09-u081",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "y 量 b → x 量 a",
+            {
+              "type": "linebreak"
+            },
+            "u 量 c → x 量 a",
+            {
+              "type": "linebreak"
+            },
+            "w 量 d → x 量 a",
+            {
+              "type": "linebreak"
+            },
+            "…"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "y of b → x of a",
+            {
+              "type": "linebreak"
+            },
+            "u of c → x of a",
+            {
+              "type": "linebreak"
+            },
+            "w of d → x of a",
+            {
+              "type": "linebreak"
+            },
+            "…"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch09-u081"
+      ],
+      "page": "210"
+    },
+    {
+      "id": "ch09-u082",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在相对方一侧，商品的单位交换价值现在可以表示为不同数量的 a。这是交换价值的一种简单表示，本质上为除 a 外的所有商品共有。交换价值于是成为适用于所有商品（除 a 外）且有共同参照点的规范。交换参与者可以预期商品以规则而同质的条件被提供出售，因为这些条件用 a 的数量表述。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "On the relative side, the per unit exchange value of commodities can now be represented as different quantities of a. This is a simple representation of exchange value that is essentially common to all commodities other than a. Exchange value has thus become a norm that applies to all commodities (bar a) and with a common reference point. Exchange participants can expect commodities to be offered for sale on terms that are regular and homogeneous, since they are couched in quantities of a."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u082"
+      ],
+      "page": "210"
+    },
+    {
+      "id": "ch09-u083",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在等价方一侧，a 现在拥有与所有其他商品的直接可交换性，它能购买所有其他商品，它是一般等价物。",
+            {
+              "type": "note",
+              "id": "n_ch09_042",
+              "label": "42"
+            },
+            "a 的购买能力来自所有其他商品所有者作出的交换请求，因此相对任何其他商品都不受限。这是一种普遍能力，使 a 成为货币。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "On the equivalent side, a now possesses direct exchangeability with all other commodities, it can buy all others, it is the universal equivalent.",
+            {
+              "type": "note",
+              "id": "n_ch09_042",
+              "label": "42"
+            },
+            " The ability of a to buy derives from the requests for exchange made by all other commodity owners, therefore it is not limited with respect to any other. This is a universal ability, turning a into money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u083"
+      ],
+      "page": "210"
+    },
+    {
+      "id": "ch09-u084",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此显然，过渡到一般价值形式的逻辑必然性与经济内容都必须精确证明。不幸的是，马克思简单反序重写扩大形式的建议不充分，可从以下两方面看出。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is apparent, therefore, that both the logical necessity and the economic content of the transition to the general form of value must be demonstrated with precision. Unfortunately, Marx’s suggestion simply to rewrite the expanded form in reverse is not adequate, as can be seen in the following two ways."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u084"
+      ],
+      "page": "210"
+    },
+    {
+      "id": "ch09-u085",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第一，任何 n 种商品的集合可产生 n(n – 1)/2 个成对交换关系。如果相对方与等价方被系统区分（即“x 量 a = y 量 b”被视为不同于“y 量 b = x 量 a”），总数显然升至 n(n – 1)。马克思仅仅孤立出其中 (n – 1) 个，理由是它们右方都有同一商品，然后宣布该单一商品为一般等价物。但那样立即随之：存在 n 个一般等价物，因为 {b, c, d, …} 中每一个也都可以被孤立在右方。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "First, any set of",
+            {
+              "type": "em",
+              "children": [
+                " n"
+              ]
+            },
+            " commodities could produce",
+            {
+              "type": "em",
+              "children": [
+                " n"
+              ]
+            },
+            "(",
+            {
+              "type": "em",
+              "children": [
+                "n"
+              ]
+            },
+            " – 1)/2 pair-wise exchange relations. If relative and equivalent were systematically distinguished from each other (i.e. if ‘x of a = y of b’ was considered different from ‘y of b = x of a’), the total would obviously rise to n(n – 1). Marx simply isolated (n – 1) of those on the grounds that they all have the same commodity on the right-hand side, and then declared the single commodity to be the universal equivalent. But then it follows immediately that there are n universal equivalents, since each one of {b, c, d, …} could also be isolated on the right-hand side."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u085"
+      ],
+      "page": "210"
+    },
+    {
+      "id": "ch09-u086",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思似乎用下面的话预先回应了这一反驳：“一般等价形式是价值的一般形式。因此它可以由任何商品承担。”",
+            {
+              "type": "note",
+              "id": "n_ch09_043",
+              "label": "43"
+            },
+            "这一声明无疑正确，却不充分。扩大形式的简单反转不会表明任何商品可以是一般等价物，而是表明所有商品都是一般等价物。但如果所有商品都是一般等价物，就没有任何商品是一般等价物。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx appeared to forestall this objection by stating that: ‘The universal equivalent form is a form of value in general. It can therefore be assumed by any commodity’.",
+            {
+              "type": "note",
+              "id": "n_ch09_043",
+              "label": "43"
+            },
+            " This statement, undoubtedly true as it is, cannot be sufficient. The simple reversal of the expanded form would not show that any commodity could be the universal equivalent, but that all commodities are the universal equivalent. But if all are the universal equivalent, none is."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u086"
+      ],
+      "page": "211"
+    },
+    {
+      "id": "ch09-u087",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第二，一般形式被认为包含商品之间显著的不对称，因为只有 A 拥有与其他商品的直接可交换性。考虑如下四种商品 a、b、c、d 集合内所有可能双边交换的简单图示："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Second, the general form is supposed to contain a pronounced asymmetry between commodities, since only A possesses direct exchangeability with the others. Consider the following simple diagrammatic representation of all possible bilateral exchanges within a set of four commodities, a, b, c, d:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u087"
+      ],
+      "page": "211"
+    },
+    {
+      "id": "ch09-figure-on-p211",
+      "canonical_kind": "caption",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": []
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": []
+        }
+      ],
+      "source_ids": [
+        "ch09-figure-on-p211"
+      ],
+      "page": "211",
+      "alt": "A、B、C、D 四节点两两以双向箭头相连",
+      "type": "figure",
+      "src": "/writing/marxist-monetary-theory/assets/ch09-figure-on-p211.png",
+      "imageWidth": 476,
+      "imageHeight": 363,
+      "linkImage": true,
+      "sharedFigure": true,
+      "parallelFigureCaption": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": []
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ch09-u087-continuation",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "指向一商品的箭头表示交换请求并使其成为等价物。如果 b、c、d 被任意分离为一组相对方，a 似乎突出为一般等价物。但对整体而言，双边关系之网在 a 与其他之间不呈现内在差异。所有商品所有者向所有其他提出请求，所有都从所有其他收到请求：没有商品突出，没有普遍不对称。排列 {[b, c, d], a}、{[a, c, d], b}、{[a, b, d], c}、{[a, b, c], d} 无一突出。没有普遍而绝对的不对称，而是四个部分不对称实例的对称分布。根本没有商品被单独挑出。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "An arrow pointing toward a commodity indicates a request for exchange and turns it into an equivalent. If b, c and d were arbitrarily separated as a group of relatives, a would appear to stand out as the universal equivalent. But for the group as a whole, the skein of bilateral relations exhibits no inherent difference between a and the others. All commodity owners address requests to all others, and all receive requests from all others: no commodity stands out and there is no universal asymmetry. None of the permutations {[b, c, d], a}, {[a, c, d], b}, {[a, b, d], c} and {[a, b, c], d} stands out. There is no universal and absolute asymmetry, but rather a symmetrical distribution of four instances of partial asymmetry. No commodity is singled out at all."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u087-continuation"
+      ],
+      "page": "211"
+    },
+    {
+      "id": "ch09-u088",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "总之，过渡到一般形式的问题不能通过简单反转扩大形式的等式解决。形式上，对任何商品集合，这一步都会使所有成为一般等价物。这一困难指示更深的分析问题。如果交换关系只涉及出售与购买，且所有商品都同样能够从事两者，那么所有数量相等的商品集合都彼此不可区分。单纯买卖无法使特定集合突出、从而孤立出一般等价物。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In sum, the problem of passage to the general form cannot be settled by simple reversal of the equalities of the expanded form. Formally, for any set of commodities, such a step would result in all becoming universal equivalents. This difficulty indicates a deeper analytical problem. If exchange relations involve only sale and purchase, and if all commodities are equally capable of both, then all numerically equal sets of commodities would be indistinguishable from each other. Plain buying and selling is incapable of making a particular set stand out and in this way isolate a universal equivalent."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u088"
+      ],
+      "page": "212"
+    },
+    {
+      "id": "ch09-u089",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "门格尔清楚意识到在商品之间确立普遍不对称关系的逻辑问题。因此他起初就论证商品按适销性彼此区分。即便如此，他仍不得不假定少数商品所有者对适销性有灵光一现的洞见，在与交易相关的社会习惯给定下最终导向货币出现。当代一般均衡走类似路径，却不规定社会习惯的内容。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Menger was clearly aware of the logical problem of establishing a relationship of universal asymmetry among commodities. Consequently, he argued at the outset that commodities are differentiated among themselves in terms of marketability. Even so, he still had to assume that a select few commodity owners had a flash of insight about marketability that eventually led to the emergence of money, given social customs associated with trading. Contemporary general equilibrium follows a similar path, without specifying the content of social custom."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u089"
+      ],
+      "page": "212"
+    },
+    {
+      "id": "ch09-u090",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在重构马克思分析时，我们在所有双边交易中区分了主动与被动商品。但这仍不足以使整个集合出现单一被动商品。下文表明，要使商品之间出现普遍不对称，社会习惯的作用至关重要。这意味着在本质陌生的商品所有者之间扎根的习惯交换实践（除买卖之外）的存在。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In reworking Marx’s analysis we have differentiated between active and passive commodities in all bilateral transactions. But this is still not enough for the emergence of a single passive commodity for the entire set. It is shown below that, for universal asymmetry among commodities to emerge, the role of social custom is vital. This implies the existence of customary exchange practices (other than buying and selling) that take root among essentially foreign commodity owners."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u090"
+      ],
+      "page": "212"
+    },
+    {
+      "id": "ch09-u091",
+      "canonical_kind": "heading",
+      "zh": [
+        "7 社会习惯与一般等价物"
+      ],
+      "en": [
+        "7 Social Custom and the Universal Equivalent"
+      ],
+      "source_ids": [
+        "ch09-u091"
+      ],
+      "page": "212",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch09-u092",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管其过渡到一般阶段的形式论证有问题，马克思对货币出现的分析就社会习惯的意义提供了重要洞见。考虑《资本论》第一卷第二章的如下论断："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Despite the problems with his formal argument of transition to the general stage, Marx’s analysis of money’s emergence offers an important insight on the significance of social custom. Consider the following claim made in chapter 2 of the first volume of Capital:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u092"
+      ],
+      "page": "212"
+    },
+    {
+      "id": "ch09-u093",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "一般等价形式随着唤起它存在的短暂社会接触而来去。它交替地、暂时地附着于这种或那种商品。但随着交换的发展，它牢固地、排他地固定在特定种类的商品上，即结晶为货币形式。它附着于何种特定商品，起初是偶然的。然而大致上有两种情况起决定作用。货币形式或者附着于最重要的外来交换物品——它们实际上是本地产品交换价值的原始而自发的表现形式——或者附着于构成当地可让渡财富主要要素的有用物，例如牲畜。",
+            {
+              "type": "note",
+              "id": "n_ch09_044",
+              "label": "44"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "The universal equivalent form comes and goes with the momentary social contacts that call it into existence. It is transiently attached to this or that commodity in alternation. But with the development of exchange it fixes itself firmly and exclusively onto particular kinds of commodity, i.e. it crystallizes out into the money-form. The particular kind of commodity to which it sticks is at first a matter of accident. Nevertheless there are two circumstances which are by and large decisive. The money-form comes to be attached either to the most important articles of exchange from outside, which are in fact the primitive and spontaneous form of manifestation of the exchange-value of local products, or to the object of utility which forms the chief element of indigenous alienable wealth, for example cattle.",
+            {
+              "type": "note",
+              "id": "n_ch09_044",
+              "label": "44"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u093"
+      ],
+      "page": "212–213",
+      "indent": true
+    },
+    {
+      "id": "ch09-u094",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "引文暗示某些商品比其他更可能成为一般等价物，即外来者带入共同体的商品，或共同体最容易与他人交易的商品。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The quote suggests that some commodities are more likely than others to become universal equivalents, namely commodities that foreigners bring to a community, or those that a community could most easily trade with others."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u094"
+      ],
+      "page": "213"
+    },
+    {
+      "id": "ch09-u095",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这一观点与马克思在其著作多处作出的另一论断一致：贸易历史上产生于分离共同体相互接触之点，而非共同体内部。",
+            {
+              "type": "note",
+              "id": "n_ch09_045",
+              "label": "45"
+            },
+            "对马克思而言，贸易的历史主体是“古代纯粹商业民族”（腓尼基人与迦太基人），他们连接了并不内在依赖商品交换来确保再生产的社会。撇开这一论断的历史（与人类学）准确性不论，显然对马克思而言，交换过程的社会支撑、甚至其物理与地理配置，都是货币出现的首要因素。",
+            {
+              "type": "note",
+              "id": "n_ch09_046",
+              "label": "46"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This view accords with another claim made by Marx, found in several places of his work, that trade historically arose at the point where separate communities came into contact with each other, rather than within communities.",
+            {
+              "type": "note",
+              "id": "n_ch09_045",
+              "label": "45"
+            },
+            " For Marx, the historical agents of trade were the ‘pure trading peoples of antiquity’ (Phoenicians and Carthaginians) who connected societies that did not inherently rely on commodity exchange to ensure their reproduction. Leaving aside the historical (and anthropological) accuracy of this claim, it is evident that for Marx the social underpinnings of the process of exchange, even the physical and geographical configuration of the latter, were paramount factors in money’s emergence.",
+            {
+              "type": "note",
+              "id": "n_ch09_046",
+              "label": "46"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u095"
+      ],
+      "page": "213"
+    },
+    {
+      "id": "ch09-u096",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "支撑本文的分析假定是：商品所有者受经济利益引导，不受亲属、等级、宗教与权威影响。资本主义贸易当然符合这些要求，但货币的存在远早于资本主义生产方式的出现。就历史而言，非人格交换的条件也大致适用于分离共同体之间的贸易，那里交易者之间的社会纽带最弱。在这种贸易中，本质的“陌生性”可以在交换参与者之间盛行，他们可以纯粹作为商品所有者相互关联。相反，非资本主义共同体内部的经济互动无法从弥漫社会生活的权力、声望与亲属的非经济关系厚网中剥离。在非资本主义共同体内部，交换不太可能是非人格或匿名的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The analytical assumption underpinning this article is that commodity owners are guided by economic benefits, and remain unaffected by kinship, rank, religion and authority. Capitalist trade certainly fits these requirements, but the existence of money long predates the emergence of the capitalist mode of production. In historical terms, the conditions of impersonal exchange also broadly apply to trade between separate communities, where the social ties between traders are at their weakest. In such trade, essential ‘foreign-ness’ could prevail among exchange participants, who could relate to each other purely as commodity owners. In contrast, economic interaction within non-capitalist communities cannot be extricated from the thick web of non-economic relations of power, prestige and kinship pervading social life. Within non-capitalist communities, exchange is unlikely to be impersonal or anonymous."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u096"
+      ],
+      "page": "213"
+    },
+    {
+      "id": "ch09-u097",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思关于“古代纯粹商业民族”的评论透露了他赋予交换社会支撑在引致货币出现中的分量。在这方面至关重要的是希罗多德关于迦太基人与“利比亚”（即赫拉克勒斯之柱以外的非洲）土著贸易的观察："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s comment about the ‘pure trading peoples of antiquity’ reveals much about the weight he attached to the social underpinnings of exchange in inducing money’s emergence. Of critical importance in this respect is an observation made by Herodotus regarding Carthaginian trading with natives of ‘Libya’ (i.e. of Africa beyond the Pillars of Hercules):"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u097"
+      ],
+      "page": "213–214"
+    },
+    {
+      "id": "ch09-u098",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "到达这个国家后，他们卸下货物，沿海滩整齐摆放，然后回到船上，升起烟。土著看见烟，便来到海滩，在地上放下一定数量的黄金以交换货物，再退到远处。迦太基人于是上岸查看黄金；如果认为它体现了货物的公平价格，就收起黄金离开；反之，如果嫌少，就回到船上等待，土著便前来添加黄金，直到他们满意。双方都完全诚实：迦太基人在黄金价值等于所售货物之前决不触碰黄金，土著在黄金被取走之前决不触碰货物。",
+            {
+              "type": "note",
+              "id": "n_ch09_047",
+              "label": "47"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "On reaching this country, they unload their goods, arrange them tidily along the beach, and then, returning to their boats, raise a smoke. Seeing the smoke, the natives come down to the beach, place on the ground a certain quantity of gold in exchange for the goods, and go off again to a distance. The Carthaginians then come ashore and take a look at the gold; and if they think that it represents a fair price for their wares, they collect it and go away; if, on the other hand, it seems too little, they go back aboard and wait, and the natives come and add to the gold until they are satisfied. There is perfect honesty on both sides; the Carthaginians never touch the gold until it equals in value what they have offered for sale, and the natives never touch the goods until the gold has been taken away.",
+            {
+              "type": "note",
+              "id": "n_ch09_047",
+              "label": "47"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u098"
+      ],
+      "page": "214",
+      "indent": true
+    },
+    {
+      "id": "ch09-u099",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这位伟大历史学家概括了陌生民族之间贸易的一切本质要素：始终存在的暴力威胁（通过避免面对面接触来应对）；通过提供商品的（沉默）开局首着作出的交换请求；相对方交换价值表示为另一商品的数量；等价物（黄金）的直接可交换性；与交换相关的诚实习惯（大概由重复贸易访问引致）。格里尔森描述过类似的原始交换形式，聚焦敌意与对陌生人的恐惧，也聚焦缺乏共同语言的陌生民族之间沟通的困难。",
+            {
+              "type": "note",
+              "id": "n_ch09_048",
+              "label": "48"
+            },
+            "他称这种早期物物交换形式为“沉默交易”，该术语已成为人类学著作的标准。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "All essential components of trading between alien peoples are summed up by the great historian: the ever-present threat of violence (dealt with by avoiding face-to-face contact); the request for exchange made through the (silent) opening gambit of offering commodities; the representation of the exchange value of the relative as a quantity of another; the direct exchangeability of the equivalent (gold) and the exchange-related custom of honesty (probably induced by repeated trading visits). Grierson has described similar forms of primitive exchange, focusing on hostility and fear of the stranger, but also on the difficulty of communicating between alien peoples who lack a common language.",
+            {
+              "type": "note",
+              "id": "n_ch09_048",
+              "label": "48"
+            },
+            " He called this early form of barter ‘silent trade’, a term that has become standard in anthropological work."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u099"
+      ],
+      "page": "214"
+    },
+    {
+      "id": "ch09-u100",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "社会习惯与其他非市场关系对创造货币出现所需的商品之间普遍不对称至关重要。鉴于所有商品作为可交换之物的内在等价，单纯经济关系不够。所需的非市场关系大概关联于共同体之间的习惯联系，这些联系可能产生传统交易链条，使某些商品比其他商品更深地卷入。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Social custom and other non-market relations are vital to creating the universal asymmetry among commodities that would be necessary for money to emerge. Plain economic relations are not enough, in view of the inherent equivalence of all commodities as exchangeable things. The requisite non-market relations would probably be associated with customary links among communities that would be likely to result in traditional chains of transactions involving some commodities more heavily than others."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u100"
+      ],
+      "page": "214"
+    },
+    {
+      "id": "ch09-u101",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "许多前资本主义贸易的传统性格在历史上有充分证据。",
+            {
+              "type": "note",
+              "id": "n_ch09_049",
+              "label": "49"
+            },
+            "传统交易链条通常反映贸易发生于其中的物质与社会环境。在地理与气候利于牧牛的地区，牛更可能用于与外人贸易；在劫掠与战争习惯使俘虏充足的地方，其他共同体会乐于在交换中寻求奴隶；如果盐易于开采，盐将广泛可用于贸易。交易链条的习惯与传统方面来自长时期贸易的重复。时间、地点、运输、仪式等都打上惯例实践的印记。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The traditional character of much pre-capitalist trade is well attested historically.",
+            {
+              "type": "note",
+              "id": "n_ch09_049",
+              "label": "49"
+            },
+            " Traditional transaction chains typically reflect the material and social environment within which trade takes place. In areas where cattle herding is favoured by geography and climate, cattle are more likely to be available for trade with outsiders; where captives are abundant from habits of raiding and war, slaves will be readily sought in exchange by other communities; if salt can be easily mined, salt will be widely available for trade. The customary and traditional aspects of transaction chains result from repetition of trade over a long period of time. Timing, location, transport, ritual, and so on, are stamped by habitual practice."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u101"
+      ],
+      "page": "214–215"
+    },
+    {
+      "id": "ch09-u102",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "过渡到一般阶段可能发生在沿既定模式重复的习惯交易链条内部。这种链条已在实践中把少数商品与其余分离。它们也可能包含一种或多种习惯上吸引数个交换请求的商品。为此，既不需要商品有特殊属性（适销性），也不需要交换参与者对商品有任何突然洞见。纯粹偶然、足够长的时间与交易的频繁重复就够了。如果一种商品通过偶然与习惯的组合发现自己处于吸引数个交换请求的位置，商品之间的不对称就会通过随之而来的自我强化过程加剧。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Transition to the general stage is likely to occur within chains of customary transactions repeated along established patterns. Such chains already in practice separate a small number of commodities from the rest. They are also likely to contain one or more commodities that habitually attract several requests for exchange. For this to happen, there is neither a need for commodities to have special properties (marketability), nor for exchange participants to have any sudden insights about commodities. Pure chance, a sufficient length of time and frequent repetition of transactions are enough. Should a commodity find itself in the position of attracting several requests of exchange, through a combination of chance and custom, the asymmetry among commodities would then be exacerbated through the ensuing self-reinforcing process."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u102"
+      ],
+      "page": "215"
+    },
+    {
+      "id": "ch09-u103",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "更精确说，被普遍请求的商品获得与那些被提供以换它的商品的直接可交换性。在一个重要洞见中，马克思声称能够购买被提供商品的属性构成一种新使用价值。",
+            {
+              "type": "note",
+              "id": "n_ch09_050",
+              "label": "50"
+            },
+            "他称之为“形式使用价值”，即纯粹来自商品在交换中起作用、与其物理构成无关的使用价值。这种“形式使用价值”对货币出现是关键。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To be more precise, a commonly requested commodity acquires direct exchangeability with those that have been offered for it. In an important insight, Marx claimed the property of being able to buy the commodities offered constitutes a new use value.",
+            {
+              "type": "note",
+              "id": "n_ch09_050",
+              "label": "50"
+            },
+            " He called it a ‘formal use-value’, that is, a use value which would derive purely from the commodity’s functioning in exchange and would be unrelated to its physical make up. This ‘formal use value’ is pivotal to money’s emergence."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u103"
+      ],
+      "page": "215"
+    },
+    {
+      "id": "ch09-u104",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "如果新使用价值即使暂时附着于一商品，该商品就可能纯粹因其购买能力而吸引更多交换请求。这一过程会确立一个导向一般阶段出现的经济机制。由于新使用价值纯粹来自其他商品被提供以换单一商品，这种情况越多，购买能力越强，该单一商品吸引的进一步交换请求越多。过渡到一般阶段的道路由此铺设。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "If the new use value became attached to a commodity even temporarily, the latter would be likely to attract further requests for exchange purely because of its ability to buy. This process would establish an economic mechanism that would lead to the emergence of the general stage. Since the new use value would derive purely from other commodities being offered for a single commodity, the more that this would happen, the stronger would be the ability to buy, and the more that the single commodity would attract further requests for exchange. A path would be laid for transition to the general stage."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u104"
+      ],
+      "page": "215"
+    },
+    {
+      "id": "ch09-u105",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "总之，扩大阶段让位于一般阶段需要两个因素。第一是传统交易链条内的社会习惯，提高某些商品同时吸引数个交换请求的可能性。第二是购买能力纯粹在经济基础上的自我强化，因为交换参与者会利用被孤立商品的“形式”使用价值。当问题以此方式提出时，最终过渡到货币阶段的参数也更清楚。在任何时点，可能存在数条分离的传统交易链条；每条链条内也可能不止一个一般等价物。含义是：商品交换自发而持续地产生数种“货币”，它们竞争“一般等价物”的位置。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To sum up, two factors are necessary for the expanded to give way to the general stage. The first is social custom found within traditional transaction chains, raising the possibility that some commodities would attract several requests for exchange at once. The second is self-reinforcement of the ability to buy on purely economic grounds, as exchange participants would take advantage of the ‘formal’ use value of the isolated commodities. When the issue is posed in these terms, the parameters of the final transition to the money stage also become clearer. At any point in time, there are likely to be several separate traditional chains of transactions; there could also be more than one universal equivalent within each chain. The implication is that commodity exchange gives rise to several ‘monies’, spontaneously and continually, which would compete for the position of the ‘universal equivalent’."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u105"
+      ],
+      "page": "215–216"
+    },
+    {
+      "id": "ch09-u106",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "每种部分“货币”都与所有其他处于竞争关系，因为它们都从给定商品集合向它们提出的请求汲取购买能力。立即随之：每一种都无法购买属于另一集合的若干商品。",
+            {
+              "type": "note",
+              "id": "n_ch09_051",
+              "label": "51"
+            },
+            "结果是交换过程的分隔化与缺乏统一。此外从相对方角度看，数种部分“货币”的存在意味着交换价值在整个交换领域缺乏单一表示——它仍不是一般交换规范。过渡到货币阶段解决这些问题，但要证明它如何发生，必须进一步求助社会习惯。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Each of the partial ‘monies’ would be in a competitive relationship with all the others since they would all draw their ability to buy from requests addressed to them by a given set of commodities. It follows immediately that each one would be unable to buy several of the commodities that would belong to the set of another.",
+            {
+              "type": "note",
+              "id": "n_ch09_051",
+              "label": "51"
+            },
+            " The result would be compartmentalisation and lack of unity of the exchange process. From the perspective of the relatives, moreover, the presence of several partial ‘monies’ would imply that exchange value lacked a single representation across the sphere of exchange – it would still not be a general exchange norm. Passage to the money stage resolves these issues, but to demonstrate how it occurs it is necessary to seek further recourse to social custom."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u106"
+      ],
+      "page": "216"
+    },
+    {
+      "id": "ch09-u107",
+      "canonical_kind": "heading",
+      "zh": [
+        "8 第四阶段：“货币形式”"
+      ],
+      "en": [
+        "8 Stage Four: ‘The Money Form’"
+      ],
+      "source_ids": [
+        "ch09-u107"
+      ],
+      "page": "216",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch09-u108",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币阶段可以表示为如下交换请求系列："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The money stage can be represented as the following series of requests of exchange:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u108"
+      ],
+      "page": "216"
+    },
+    {
+      "id": "ch09-u109",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "1 量 a → u/v 量 c",
+            {
+              "type": "linebreak"
+            },
+            "1 量 b → u/y 量 c",
+            {
+              "type": "linebreak"
+            },
+            "1 量 d → u/w 量 c",
+            {
+              "type": "linebreak"
+            },
+            "…"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "1 of a → u/v of c",
+            {
+              "type": "linebreak"
+            },
+            "1 of b → u/y of c",
+            {
+              "type": "linebreak"
+            },
+            "1 of d → u/w of c",
+            {
+              "type": "linebreak"
+            },
+            "…"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch09-u109"
+      ],
+      "page": "216"
+    },
+    {
+      "id": "ch09-u110",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "与一般阶段的差异是：一种商品 c 现在固定在右方。于是相对方商品的交换价值永久地仅由 c 的数量表示。因此交换价值是适用于整个交换领域的稳定社会规范，尽管仍仅基于交换关系。在等价方一侧，购买能力被单一商品永久垄断。按设定，所有其他商品被永久提供出售，且不收到来自彼此的交换请求。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The difference with the general stage is that one commodity, c, is now fixed on the right-hand side. Thus, the exchange value of commodities on the relative side is permanently represented by quantities of c alone. Hence exchange value is a stable social norm that applies across the sphere of exchange, even though it is still only based on exchange relations. On the equivalent side, the ability to buy is permanently monopolised by a single commodity. By construction, all other commodities are permanently offered for sale, and do not receive requests of exchange from each other."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u110"
+      ],
+      "page": "217"
+    },
+    {
+      "id": "ch09-u111",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币阶段内在地包含克劳尔猜想最重要的成分：商品所有者带着把商品提供出售以换货币的明确目的进入交换过程；即他们带着确定的单位货币价格把商品带到市场。然而与克劳尔不同，货币商品从不被提供出售，而总是收到其他商品的请求。商品不“购买”货币；只有货币购买，即它垄断直接可交换性。此外与一般均衡分析鲜明对照，货币不是作为一般交换手段、而是作为能够购买所有其他商品的商品确立。如果它充当交换手段，那是因为它已垄断购买力。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The money stage inherently contains the most important component of Clower’s conjecture: commodity owners enter the process of exchange with the express purpose of offering their commodities for sale against money; that is, they bring their commodities to market with a definite per unit money price. However, unlike Clower, the money commodity is never offered for sale but always receives requests from other commodities. Commodities do not ‘buy’ money; only money buys, i.e. it monopolises direct exchangeability. In sharp contrast to general equilibrium analysis, moreover, money is not established as a general means of exchange, but rather as the commodity that can buy all others. If it functions as means of exchange, it is because it has monopolised the power to buy."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u111"
+      ],
+      "page": "217"
+    },
+    {
+      "id": "ch09-u112",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这也处理了克劳尔猜想提出的主要难题：如果商品所有者有“需求的双重巧合”且恰好相遇，为什么商品不应直接购买商品？这是纯粹因新古典经济学聚焦货币作为交换手段而产生的概念问题。在上述表述中，所有者把商品带到市场时已用货币定价，即带着把它们出售换货币的意图。即使商品实际交换时没有货币中介，也不回退到物物交换。货币已为所涉商品的交换价值记账，使商品所有者能够达成等价关系。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This also deals with the major conundrum posed by Clower’s conjecture, i.e. why should commodities not buy commodities directly, if their owners have a ‘double coincidence of wants’ and happen to meet? This is a conceptual problem arising purely because neoclassical economics focuses on money as means of exchange. In the above formulation, owners bring commodities to market already priced in terms of money, i.e. with the intention of selling them for money. There is no reversion to barter even when commodities are actually exchanged without the mediation of money. Money has already accounted for the exchange value of the commodities involved, allowing commodity owners to arrive at a relationship of equivalence."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u112"
+      ],
+      "page": "217"
+    },
+    {
+      "id": "ch09-u113",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "的确，有货币在场时，甚至不必立即交换等价物。由于货币一般而稳定地为价值记账，可以通过创造信用与债务义务来交换商品，这一过程与物物交换无关。简言之，货币出现的定义性方面不是商品所有者普遍把它用作交换手段。而是商品所有者普遍在交换中寻求货币，即他们带着货币价格把货物带到市场。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Indeed, with money present, it is not even necessary to exchange equivalents immediately. Since money accounts for value generally and stably, it is possible to exchange commodities by creating credit and debit obligations, a process that has nothing to do with barter. In short, the defining aspect of money’s emergence is not that commodity owners universally employ it as means of exchange. Rather, it is that commodity owners universally seek money in exchange, i.e. they bring their goods to market already with a money price."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u113"
+      ],
+      "page": "217"
+    },
+    {
+      "id": "ch09-u114",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "社会习惯与商品的物理特征对过渡到货币形式至关重要。数种部分“货币”在一般阶段出现、彼此竞争，其相对力量纯粹来自各自收到的交换请求。请求也依赖这些“货币”的物理属性，及其属性与购买其他商品的形式使用价值充分对应的程度。用一个常被重复的例子：冰淇淋当然可以是一般等价物，但其购买能力在物理上持续的时间远短于盐。历史上，贵金属的物理属性（同质性、耐久性、可分性等）已被证明对垄断直接可交换性起工具性作用。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Social custom and the physical characteristics of commodities are vital for passage to the money form. Several partial ‘monies’ emerge at the general stage competing against each other and drawing their relative strength purely from the requests of exchange that each receives. The requests also depend on the physical properties of these ‘monies’, and on the extent to which their properties adequately correspond with the formal use value of buying other commodities. To use an oft-repeated example, ice cream could certainly be the universal equivalent, but its ability to buy would last physically far less than that of salt. Historically, the physical properties of the precious metals (homogeneity, durability, divisibility, and so on) have proven instrumental in monopolising direct exchangeability."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u114"
+      ],
+      "page": "217–218"
+    },
+    {
+      "id": "ch09-u115",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "附着于贵金属其他用途（作为商品而非货币）的社会习惯也可能影响其作为货币的使用。",
+            {
+              "type": "note",
+              "id": "n_ch09_052",
+              "label": "52"
+            },
+            "商品所有者习惯于贵金属作为商品价值的代表，因为共同体习惯上把金银用作珠宝、宗教器具与昂贵装饰。一旦单一商品开始被广泛用作货币，与其使用相关的社会习惯与惯行最终会使它在竞争中击败其他“货币”，直到其使用本身成为社会规范。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The social customs attached to the other uses of the precious metals (as commodities rather than as money) are also likely to influence their use as money.",
+            {
+              "type": "note",
+              "id": "n_ch09_052",
+              "label": "52"
+            },
+            " Commodity owners are habituated to precious metals as representatives of the value of commodities, since communities have customarily used gold and silver as jewellery, religious implements and expensive decoration. Once a single commodity starts to be used widely as money, the social custom and habits associated with its use would eventually allow it to beat other ‘monies’ in competition, until its use would become a social norm in itself."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u115"
+      ],
+      "page": "218"
+    },
+    {
+      "id": "ch09-u116",
+      "canonical_kind": "heading",
+      "zh": [
+        "结论"
+      ],
+      "en": [
+        "Conclusion"
+      ],
+      "source_ids": [
+        "ch09-u116"
+      ],
+      "page": "218",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch09-u117",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "主流经济理论没有成功处理商品交换中的“货币之谜”。当代一般均衡分析没有超出门格尔的适销性概念，而在分析社会习惯在货币出现中的作用方面明显逊于门格尔。但门格尔的适销性分析受方法论主观主义妨碍，这使他无法确立货币与支撑它的习惯两者的社会方面。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Mainstream economic theory has not dealt successfully with the ‘riddle of money’ in commodity exchange. Contemporary general equilibrium analysis does not go beyond Menger’s concept of marketability, while being decidedly inferior to Menger in analysing the role of social custom in money’s emergence. But Menger’s analysis of marketability is hampered by methodological subjectivism, which prevented him from establishing the social aspects both of money and of the customs that underpin it."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u117"
+      ],
+      "page": "218"
+    },
+    {
+      "id": "ch09-u118",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本章提出的“货币之谜”解决——基于对马克思交换价值分析的重构与强解读——没有这些问题。货币被表明通过价值形式分析出现，依靠交换价值相对（主动）方与等价（被动）方之间的相互作用。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The solution for the ‘riddle of money’ suggested in this chapter – based on a reworking and a strong interpretation of Marx’s analysis of exchange value – is free of these problems. Money was shown to emerge through the analysis of the form of value, by relying on the interplay between the relative (or active) and the equivalent (or passive) sides of exchange value."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u118"
+      ],
+      "page": "218"
+    },
+    {
+      "id": "ch09-u119",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "相对方是通过作出交换请求发起两个相互陌生商品所有者之间关系的一方。相应地，等价方是可能（或可能不）接受请求的一方。交换请求赋予等价物一种能力，使其能与作出要约者的商品直接交换。货币的出现是直接交换（购买）能力集中于众多商品中一种的过程。一般等价物拥有与所有其他商品最高程度的直接可交换性，且排斥所有其他。于是货币是唯一能够购买所有其他商品的商品。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The relative is the side that initiates the relationship between two mutually alien commodity owners by making a request for exchange. Correspondingly, the equivalent is the side that might (or might not) accept the request. The request for exchange gives to the equivalent the ability directly to exchange with the commodity whose owner has made the offer. Money’s emergence is the process through which the ability to exchange directly (buy) becomes concentrated in one commodity among the many. The universal equivalent possesses the highest degree of direct exchangeability with all others, and at the exclusion of all others. Money is, thus, the only commodity that can buy all others."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u119"
+      ],
+      "page": "218–219"
+    },
+    {
+      "id": "ch09-u120",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这一解决凸显货币出现的社会性格。货币产生于其他商品所有者的集体行动与关联于商品交换的社会习惯。门格尔与当代一般均衡模型都承认社会习惯在确立并在全市场普遍化货币使用中的重要性。但这种社会习惯的构成要素仍在新古典主义的分析范围之外。相反，这里提供的解决强调商品交换发生于其中的社会背景的重要性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This solution highlights the social character of money’s emergence. Money results from the collective action of other commodity owners and from social custom associated with commodity exchange. Both Menger and contemporary general equilibrium models recognise the importance of social custom in establishing and generalising the use of money throughout the market. But the constituent elements of such social custom remain beyond the analytical compass of neoclassicism. In contrast, the solution offered here stresses the importance of the social background against which commodity exchange takes place."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u120"
+      ],
+      "page": "219"
+    },
+    {
+      "id": "ch09-u121",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币要出现，交换参与者之间必须有自主与疏离，也必须有与交换过程相关的传统实践。每当无关联、互不相识的商品所有者彼此互动，货币就自发产生，但仅因为他们由社会习惯框定的非计划集体行动。在此背景下创造的社会关系要求一种商品能够购买所有其他商品。货币通过垄断购买能力，在相互陌生的商品所有者之间提供具体的社会纽带。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For money to emerge there must be autonomy and estrangement among exchange participants, but also traditional practices associated with the process of exchange. Money is generated spontaneously whenever unrelated and mutually unknown commodity owners interact with each other, but only because of their unplanned collective action framed by social custom. The social relations created in this context require that one commodity should be able to buy all others. Money provides a concrete social nexus among mutually alien commodity owners by monopolising the ability to buy."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch09-u121"
+      ],
+      "page": "219"
+    }
+  ]
+}

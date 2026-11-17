@@ -1,0 +1,4130 @@
+{
+  "id": "ch04",
+  "title": "4. 国际收支古典调整机制：马克思的批判*",
+  "originalTitle": "4. The Classical Adjustment Mechanism of International Balances: Marx’s Critique*",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "outline": [
+    {
+      "anchor": "ch04-u002",
+      "title": "1 引言",
+      "originalTitle": "1 Introduction",
+      "level": 1
+    },
+    {
+      "anchor": "ch04-u008",
+      "title": "2 休谟与李嘉图的自动机制",
+      "originalTitle": "2 Hume’s and Ricardo’s Automatic Mechanism",
+      "level": 1
+    },
+    {
+      "anchor": "ch04-u036",
+      "title": "3 马克思对国内与国际调整的分析",
+      "originalTitle": "3 Marx’s Analysis of Domestic and International Adjustment",
+      "level": 1
+    },
+    {
+      "anchor": "ch04-u052",
+      "title": "4 桑顿的分析与瓦伊纳对调整机制的重构",
+      "originalTitle": "4 Thornton’s Analysis and Viner’s Reconstruction of the Adjustment Mechanism",
+      "level": 1
+    },
+    {
+      "anchor": "ch04-u071",
+      "title": "结论",
+      "originalTitle": "Conclusion",
+      "level": 1
+    }
+  ],
+  "notes": {
+    "n_ch04_001": {
+      "number": "1",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "感谢伊藤诚对本章的慷慨帮助。我也得益于与吉川洋和约翰·威克斯的讨论。一切错误由我自己负责。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "I am grateful to Makoto Itoh for generous help with this chapter. I have also benefited from discussions with Hiroshi Yoshikawa and John Weeks. All errors are my own responsibility."
+          ]
+        }
+      ]
+    },
+    "n_ch04_002": {
+      "number": "2",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见 Viner 1924。桑顿默默无闻到如此地步，以至于在塞利格曼1903年那部广受赞誉的研究李嘉图“被忽视的”同时代人与后继者（包括托伦斯）的著作中，他甚至不配被提及。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Viner 1924. Thornton’s obscurity was such that he did not even rate a mention in Seligman’s acclaimed 1903 study of ‘neglected’ contemporaries and successors of Ricardo, which included Torrens."
+          ]
+        }
+      ]
+    },
+    "n_ch04_003": {
+      "number": "3",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, respectively, Sayers 1953; Mason 1957 and Grubel 1961; Hollander 1979."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, respectively, Sayers 1953; Mason 1957 and Grubel 1961; Hollander 1979."
+          ]
+        }
+      ]
+    },
+    "n_ch04_004": {
+      "number": "4",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "与此同时，桑顿的著作实际上被马克思忽略了。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "At the same time, Thornton’s work was, to all intents and purposes, ignored by Marx."
+          ]
+        }
+      ]
+    },
+    "n_ch04_005": {
+      "number": "5",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "那似乎是有意识的选择，因为有证据表明，学识公正地享有盛名的瓦伊纳甚至读过马克思的冷僻著作；例如见 Viner 1991, pp. 152–3。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "That seemed to have been a conscious choice, for there is evidence that Viner, whose scholarship was justly famous, had read even obscure works of Marx; see, for instance, Viner 1991, pp. 152–3."
+          ]
+        }
+      ]
+    },
+    "n_ch04_006": {
+      "number": "6",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "格林也讨论了古典经济学家与马克思在这些问题上的关系（见 Green 1982 and 1992）。格林把马克思视为最后一位古典经济学家，并同情马克思对货币数量论的批判。然而他也论证说，马克思本质上接受萨伊定律，而由于货币数量论是萨伊定律的推论，对格林来说马克思对该理论的反对在逻辑上不能令人满意。所缺少的是一个短期产出决定理论。确实，《资本论》第二卷的再生产图式是供给创造自身需求的例子，而且马克思没有留下充分展开的短期产出理论；但据此断言马克思接受萨伊定律，未免牵强。我在别处（见 Lapavitsas 1994）已论证，格林忽略了货币供给内生性在马克思对货币数量论批判中的意义。但最重要的是，在我看来，货币数量论有效性问题更取决于货币是否拥有自身劳动价值，而较少取决于短期产出决定。李嘉图试图同时坚持货币数量论和货币有自身劳动价值的观点。正如格林（1982）所断言的，李嘉图的著作在逻辑上可能是一致的；但如本章所示，李嘉图由此被引向对货币在资本主义经济中角色的一些相当荒谬的论断。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Green has also discussed the relationship between the classical economists and Marx on these issues (see Green 1982 and 1992). Green treats Marx as the last of the classical economists and sympathises with Marx’s critique of the quantity theory of money. However, he also argues that Marx essentially accepted Say’s Law, and since the quantity theory of money is a corollary of Say’s Law, Marx’s opposition to the theory was, for Green, not logically satisfactory. What is missing is a short-run theory of the determination of output. It is indeed true that the reproduction schemata of the second volume of Capital are instances of supply generating its own demand, and that Marx has left no fully worked out theory of short-run output, but it is stretching a point to claim on those grounds that Marx accepted Say’s Law. I have elsewhere (see Lapavitsas 1994) argued that Green has overlooked the significance of the endogeneity of the supply of money in Marx’s critique of the quantity theory of money. Above all, however, it seems to me that the issue of the validity of the quantity theory of money hinges more on whether money possesses its own labour-value and less on the short-run determination of output. Ricardo attempted to hold on to the quantity theory of money as well as the view that money has its own labour-value. It might be true, as Green (1982) has claimed, that Ricardo’s work was logically consistent, but, as this chapter shows, Ricardo was thereby led to argue some quite absurd things about the role of money in a capitalist economy."
+          ]
+        }
+      ]
+    },
+    "n_ch04_007": {
+      "number": "7",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管哈耶克对桑顿极其钦佩，他还是承认——有保留地——桑顿思想中的某种不一致（Hayek 1939, p. 46）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "A certain inconsistency in Thornton’s thought was admitted – with reservations – by Hayek (1939, p. 46), despite his enormous admiration for Thornton."
+          ]
+        }
+      ]
+    },
+    "n_ch04_008": {
+      "number": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hicks 1967."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hicks 1967."
+          ]
+        }
+      ]
+    },
+    "n_ch04_009": {
+      "number": "9",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见 Hume 1955, p. 48。格林（1992, p. 37）正确地强调休谟著作的这一部分，并把它与斯密和李嘉图把货币推导为有自身价值的商品相对照。然而要点在于：如果货币是有自身价值的商品，就会推出与货币数量论不相容的结论。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hume 1955, p. 48. Green (1992, p. 37) rightly stresses this part of Hume’s work and counterposes it to Smith’s and Ricardo’s derivation of money as a commodity with its own value. The point is, however, that if money is a commodity with its own value, implications would follow which would be incompatible with the quantity theory of money."
+          ]
+        }
+      ]
+    },
+    "n_ch04_010": {
+      "number": "10",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hume 1955, p. 37."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hume 1955, p. 37."
+          ]
+        }
+      ]
+    },
+    "n_ch04_011": {
+      "number": "11",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 164."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 164."
+          ]
+        }
+      ]
+    },
+    "n_ch04_012": {
+      "number": "12",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见 Hume 1955, p. 33。注意休谟（1955, p. 41）还说过，只有不是“锁在箱子里”的活跃货币，以及只有来到市场而不是“贮藏在仓库和谷仓里”的商品，才参与货币价值的决定。然而这种对贮藏职能的隐含承认在他的货币理论中不起任何作用。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hume 1955, p. 33. Note that Hume (1955, p. 41) also remarked that only active money, which was not ‘locked up in chests’, and only commodities which came to the market, and were not ‘hoarded in magazines and granaries’, participated in the determination of money’s value. However, this implicit recognition of the function of hoarding played no role in his monetary theory."
+          ]
+        }
+      ]
+    },
+    "n_ch04_013": {
+      "number": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, ch. 3, pt. 2."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, ch. 3, pt. 2."
+          ]
+        }
+      ]
+    },
+    "n_ch04_014": {
+      "number": "14",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "以这种方式看待休谟的理论，就不会给他著名的“传导机制”多少分量——尽管文献中给予它强调（例如见 Duke 1979, Mayer 1980, and Perlman 1987）——该机制处理货币数量变化引起的短期实际效应。因此马克思本质上把休谟的货币与价格反比关系理论当作黑箱，“传导机制”不过是装饰（见 Marx 1970, p. 161, footnote）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "When Hume’s theory is approached in this manner, very little weight would be attached to his celebrated ‘transmission mechanism’ which dealt with short-run real effects resulting from changes in the quantity of money, despite the emphasis accorded to it in the literature (see, for instance, Duke 1979, Mayer 1980, and Perlman 1987). Thus, Marx treated Hume’s theory of the inverse relation between money and prices essentially as a black box, the ‘transmission mechanism’ being a mere embellishment (see Marx 1970, p. 161, footnote)."
+          ]
+        }
+      ]
+    },
+    "n_ch04_015": {
+      "number": "15",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hume 1955, pp. 64–5."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hume 1955, pp. 64–5."
+          ]
+        }
+      ]
+    },
+    "n_ch04_016": {
+      "number": "16",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951a, p. 52."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951a, p. 52."
+          ]
+        }
+      ]
+    },
+    "n_ch04_017": {
+      "number": "17",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For instance, Ricardo 1951e, p. 352."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For instance, Ricardo 1951e, p. 352."
+          ]
+        }
+      ]
+    },
+    "n_ch04_018": {
+      "number": "18",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 170."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 170."
+          ]
+        }
+      ]
+    },
+    "n_ch04_019": {
+      "number": "19",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951d, pp. 55–8."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951d, pp. 55–8."
+          ]
+        }
+      ]
+    },
+    "n_ch04_020": {
+      "number": "20",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "格林强调这一关系对古典经济学家的重要性，并称之为“货币流通规律”（例如见 1992, p. 15）。他把这一关系看作决定货币数量或货币供给。然而把它看作货币需求、即“商业需要”所必需的数量，更合理。考虑到这一点，按照李嘉图的说法当货币数量溢出流通时下降的货币“价值”——如格林所指出的（1992, p. 85）——实际上是货币的交换价值。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Green stresses the importance of this relationship for the classical economists, and he calls it ‘the law of monetary circulation’ (see, for instance, 1992, p. 15). He considers the relationship as determining the quantity, or the supply of money. However, it makes more sense to think of it as a demand for money, i.e. as a quantity necessitated by the ‘needs of trade’. With this in mind, the ‘value’ of money which, according to Ricardo, falls when money’s quantity overflows circulation – as Green notes (1992, p. 85) – is actually money’s exchange value."
+          ]
+        }
+      ]
+    },
+    "n_ch04_021": {
+      "number": "21",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951d, p. 56."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951d, p. 56."
+          ]
+        }
+      ]
+    },
+    "n_ch04_022": {
+      "number": "22",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "直接把价格与价值比较，不可避免存在量纲问题，但李嘉图所表达的论点是清楚的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There is, inevitably, a problem of dimensions in directly comparing price to value, but the point made by Ricardo is clear."
+          ]
+        }
+      ]
+    },
+    "n_ch04_023": {
+      "number": "23",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951d, pp. 56–7."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951d, pp. 56–7."
+          ]
+        }
+      ]
+    },
+    "n_ch04_024": {
+      "number": "24",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "李嘉图数量论的这一要素似乎影响了马克思对法定货币通货膨胀的说明（见 Marx 1970, pp. 118–22）。在马克思的说明中，纸币数量“代表”或“象征”流通所需的某种商品货币量。这一观点以如下假设为前提：法定纸币不能被贮藏，不执行流通手段职能时就成为“无用的纸片”（Marx 1970, p. 119）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This element of Ricardo’s quantity theory appears to have influenced Marx’s account of fiat money inflation (see Marx 1970, pp. 118–22). In Marx’s account, the quantity of paper money ‘passed for’, or ‘symbolised’, a certain quantity of commodity money required by circulation. This view was predicated on the assumption that fiat paper money could not be hoarded, becoming ‘useless scraps of paper’ when not functioning as means of circulation (Marx 1970, p. 119)."
+          ]
+        }
+      ]
+    },
+    "n_ch04_025": {
+      "number": "25",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951a, p. 52."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951a, p. 52."
+          ]
+        }
+      ]
+    },
+    "n_ch04_026": {
+      "number": "26",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo 1951a, p. 52."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo 1951a, p. 52."
+          ]
+        }
+      ]
+    },
+    "n_ch04_027": {
+      "number": "27",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在《原理》中，李嘉图陈述货币价值在各国之间可能不同（见 1817, p. 143）。然而这源于完全可解释的原因，如税收、交易成本等，并不导致关于货币一般移动的任何成问题的结论。在国际均衡时，货币在英格兰与波兰之间可能有不同价值，但它仍不在两国之间移动。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In the",
+            {
+              "type": "em",
+              "children": [
+                " Principles"
+              ]
+            },
+            ", Ricardo stated that the value of money could differ among countries (see 1817, p. 143). This, however, arose from perfectly explicable causes, such as tax, transactions costs, and so on, and did not lead to any problematic conclusions about the movement of money in general. At international equilibrium, money might have a different value between England and Poland, but it still did not move between the two countries."
+          ]
+        }
+      ]
+    },
+    "n_ch04_028": {
+      "number": "28",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951d, p. 57."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951d, p. 57."
+          ]
+        }
+      ]
+    },
+    "n_ch04_029": {
+      "number": "29",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, respectively, Ricardo 1951a, p. 61; Ricardo 1951c, p. 208; Ricardo 1951f, p. 26."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, respectively, Ricardo 1951a, p. 61; Ricardo 1951c, p. 208; Ricardo 1951f, p. 26."
+          ]
+        }
+      ]
+    },
+    "n_ch04_030": {
+      "number": "30",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951f, pp. 64–5."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951f, pp. 64–5."
+          ]
+        }
+      ]
+    },
+    "n_ch04_031": {
+      "number": "31",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo 1951f, p. 64, original emphasis."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo 1951f, p. 64, original emphasis."
+          ]
+        }
+      ]
+    },
+    "n_ch04_032": {
+      "number": "32",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951f, p. 64."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951f, p. 64."
+          ]
+        }
+      ]
+    },
+    "n_ch04_033": {
+      "number": "33",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo 1951f, p. 73."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo 1951f, p. 73."
+          ]
+        }
+      ]
+    },
+    "n_ch04_034": {
+      "number": "34",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1817, p. 141."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1817, p. 141."
+          ]
+        }
+      ]
+    },
+    "n_ch04_035": {
+      "number": "35",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "李嘉图与马克思的劳动价值论并不相同。对李嘉图来说，体现在商品中的劳动量并不决定其“绝对”或“实际”价值，而是“支配”其交换比率或相对价格。据此，非暂时性的相对价格变动表明价值的改变，正如熊彼特所指出的（1954, p. 597）。这一论证关系到李嘉图对货币内在价值变化含义的说明：可用金块数量增加会降低金块稀缺性，从而降低其价值。对马克思来说，体现在商品中的劳动量就是其绝对价值。相对市场价格的变化并不必然表明绝对价值水平的变化。此外，按照马克思（1969, pp. 164–72），李嘉图只关心决定价值量（即商品之间的交换比率），而没有规定与价值劳动实体相分离的价值社会形式。马克思在自己的分析中（如 1976b, ch. 1）着力论证价值形式与货币之间的必然联系，乃至要表明货币是绝对价值的独立形式。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo’s and Marx’s labour theories of value are not identical. For Ricardo, quantities of labour embodied in commodities do not determine their ‘absolute’ or ‘real’ value, but ‘govern’ their exchange ratios, or relative prices. By this token, variations in relative prices which are not temporary indicate alterations in values, as Schumpeter has noted (1954, p. 597). This argument has a bearing on Ricardo’s account of the implications of changes in the intrinsic value of money: increases in the available quantity of bullion would reduce the scarcity of bullion, hence would lower its value. For Marx, the quantity of labour embodied in commodities is their absolute value. Changes in relative market prices do not necessarily indicate changes in the level of absolute value. Furthermore, according to Marx (1969, pp. 164–72), Ricardo was concerned merely with determining the quantity of value (i.e. the exchange ratios among commodities) and did not specify the social forms of value that are separate from value’s labour substance. Marx in his own analysis (as in 1976b, ch. 1) took pains to demonstrate the necessary connection between the forms of value and money, indeed to show that money is the independent form of absolute value."
+          ]
+        }
+      ]
+    },
+    "n_ch04_036": {
+      "number": "36",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, chs. 1, 2, 3."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, chs. 1, 2, 3."
+          ]
+        }
+      ]
+    },
+    "n_ch04_037": {
+      "number": "37",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For a fuller discussion of this, see Lapavitsas 1991."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For a fuller discussion of this, see Lapavitsas 1991."
+          ]
+        }
+      ]
+    },
+    "n_ch04_038": {
+      "number": "38",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 231–2."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 231–2."
+          ]
+        }
+      ]
+    },
+    "n_ch04_039": {
+      "number": "39",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思的分析与剑桥货币理论进路的相似之处，明显体现在对贮藏的强调上。然而剑桥传统把贮藏看作决定总货币存量流通速度而非其划分的因素。这也是格林（1982 and 1992）在论及马克思理论时所采用的进路。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The similarities between Marx’s analysis and the Cambridge approach to monetary theory are apparent in the emphasis on hoarding. The Cambridge tradition, however, treats hoarding as a factor determining the velocity of the total money stock rather than its division. This is the approach which Green (1982 and 1992) has also adopted with reference to Marx’s theory."
+          ]
+        }
+      ]
+    },
+    "n_ch04_040": {
+      "number": "40",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 136."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, p. 136."
+          ]
+        }
+      ]
+    },
+    "n_ch04_041": {
+      "number": "41",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1978, pp. 423–4 and 568–9."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1978, pp. 423–4 and 568–9."
+          ]
+        }
+      ]
+    },
+    "n_ch04_042": {
+      "number": "42",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1981, pp. 279–301."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1981, pp. 279–301."
+          ]
+        }
+      ]
+    },
+    "n_ch04_043": {
+      "number": "43",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "下面的讨论与格林的断言基本一致：马克思没有留下完整的短期产出决定理论（Green 1992）。然而值得强调的一点是：在马克思框架内，这样一种理论需要预先分析信用在支撑资本主义生产和交换中的作用。据此，对常规短期价格运动的分析需要预先分析信用。在发达资本主义生产条件下，纯货币性的短期产出理论不能令人满意。这是格林所钦佩的凯恩斯主义有效需求理论的一个弱点（例如 1992, p. xi）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The discussion below is in substantial agreement with Green’s claim that Marx left no complete theory of the short-run determination of output (Green 1992). One point worth emphasising, however, is that within the Marxian framework such a theory requires the prior analysis of the role of credit in underpinning capitalist production and exchange. By this token, the analysis of regular short-run price movements requires the prior analysis of credit. Purely money-based theories of short-run output under conditions of developed capitalist production are not satisfactory. This is a weakness of Keynesian theories of effective demand, admired by Green (for instance, 1992, p. xi)."
+          ]
+        }
+      ]
+    },
+    "n_ch04_044": {
+      "number": "44",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For a developed contemporary Marxist analysis of the cyclical behaviour of capitalist accumulation, the role of credit and the significance of price level fluctuations in restoring the exchange value of money, see Itoh 1988, ch. 9."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For a developed contemporary Marxist analysis of the cyclical behaviour of capitalist accumulation, the role of credit and the significance of price level fluctuations in restoring the exchange value of money, see Itoh 1988, ch. 9."
+          ]
+        }
+      ]
+    },
+    "n_ch04_045": {
+      "number": "45",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 236."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 236."
+          ]
+        }
+      ]
+    },
+    "n_ch04_046": {
+      "number": "46",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 242–3."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 242–3."
+          ]
+        }
+      ]
+    },
+    "n_ch04_047": {
+      "number": "47",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1981, pp. 701–2."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1981, pp. 701–2."
+          ]
+        }
+      ]
+    },
+    "n_ch04_048": {
+      "number": "48",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1981, pp. 622–3."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1981, pp. 622–3."
+          ]
+        }
+      ]
+    },
+    "n_ch04_049": {
+      "number": "49",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 158–9."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 158–9."
+          ]
+        }
+      ]
+    },
+    "n_ch04_050": {
+      "number": "50",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Perlman 1986."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Perlman 1986."
+          ]
+        }
+      ]
+    },
+    "n_ch04_051": {
+      "number": "51",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Thornton 1939, p. 145."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Thornton 1939, p. 145."
+          ]
+        }
+      ]
+    },
+    "n_ch04_052": {
+      "number": "52",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thornton 1939, pp. 150–1."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thornton 1939, pp. 150–1."
+          ]
+        }
+      ]
+    },
+    "n_ch04_053": {
+      "number": "53",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thornton 1939, p. 152."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thornton 1939, p. 152."
+          ]
+        }
+      ]
+    },
+    "n_ch04_054": {
+      "number": "54",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Horner 1957, pp. 36–40; Ricardo 1951a, p. 60."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Horner 1957, pp. 36–40; Ricardo 1951a, p. 60."
+          ]
+        }
+      ]
+    },
+    "n_ch04_055": {
+      "number": "55",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo 1951a, p. 61."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo 1951a, p. 61."
+          ]
+        }
+      ]
+    },
+    "n_ch04_056": {
+      "number": "56",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见 Thornton 1939, p. 151。桑顿在其著作第三章还对贮藏和流通速度的可变性给出了富有洞见的讨论。桑顿对贮藏的强调被马克思赞许地引用（1987, p. 195）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Thornton 1939, p. 151. Thornton also offered an insightful discussion of hoarding and the variability of velocity in chapter iii of his book. Thornton’s stress on hoarding was quoted approvingly by Marx (1987, p. 195)."
+          ]
+        }
+      ]
+    },
+    "n_ch04_057": {
+      "number": "57",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Viner 1937, p. 295."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Viner 1937, p. 295."
+          ]
+        }
+      ]
+    },
+    "n_ch04_058": {
+      "number": "58",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Viner 1924, p. 196, original emphasis."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Viner 1924, p. 196, original emphasis."
+          ]
+        }
+      ]
+    },
+    "n_ch04_059": {
+      "number": "59",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "同上。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ibid."
+          ]
+        }
+      ]
+    },
+    "n_ch04_060": {
+      "number": "60",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "瓦伊纳因把价格水平作为调整机制的关键变量而受到批评（综述见 Staley 1976）。他自己承认，他低估了国内资源再配置在恢复对外均衡中的作用（见 Viner 1937, p. 306）。同意瓦伊纳对桑顿评价的梅森表明，价格水平并不是古典著作关于该机制论述中唯一的变量（Mason 1956）。尽管如此，几乎可以肯定，价格水平变动是古典经济学家眼中的主要因素。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Viner has been criticised for making price levels the key variable of the adjustment mechanism (for a summary, see Staley 1976). By his own admission, he underestimated the role of reallocation of domestic resources in restoring external equilibrium (see Viner 1937, p. 306). Mason, who agreed with Viner’s opinion on Thornton, has shown that price levels were not the only variable to be found in the classical writings on the mechanism (Mason 1956). Nevertheless, there is little doubt that price level changes were the main factor for the classical economists."
+          ]
+        }
+      ]
+    },
+    "n_ch04_061": {
+      "number": "61",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Viner 1924, pp. 196–8."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Viner 1924, pp. 196–8."
+          ]
+        }
+      ]
+    },
+    "n_ch04_062": {
+      "number": "62",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Viner 1924, pp. 198–200."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Viner 1924, pp. 198–200."
+          ]
+        }
+      ]
+    }
+  },
+  "body": [
+    {
+      "id": "ch04-ack",
+      "canonical_kind": "ack",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "＊ ",
+            "首次发表于《政治经济学贡献》（Contributions to Political Economy，《剑桥经济学杂志》年度增刊）1996年第15期，第63–79页，题为“The Classical Adjustment Mechanism of International Balances: Marx’s Critique”。感谢牛津大学出版社授予重印许可。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "* ",
+            "First published as ‘The Classical Adjustment Mechanism of International Balances: Marx’s Critique’, Contributions to Political Economy (annual supplement to the Cambridge Journal of Economics), 1996, (15), pp. 63–79. We are grateful to Oxford University Press for the reprint permission."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-ack"
+      ],
+      "page": "73"
+    },
+    {
+      "id": "ch04-u002",
+      "canonical_kind": "heading",
+      "zh": [
+        "1 引言",
+        {
+          "type": "note",
+          "id": "n_ch04_001",
+          "label": "1"
+        }
+      ],
+      "en": [
+        "1 Introduction",
+        {
+          "type": "note",
+          "id": "n_ch04_001",
+          "label": "1"
+        }
+      ],
+      "source_ids": [
+        "ch04-u002"
+      ],
+      "page": "73",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch04-u003",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "亨利·桑顿的著作是雅各布·瓦伊纳在研究国际收支古典调整机制的过程中重新发现的。",
+            {
+              "type": "note",
+              "id": "n_ch04_002",
+              "label": "2"
+            },
+            "桑顿在古典文献中之所以突出，是因为与李嘉图相反——李嘉图认为货币只有在其数量在国内过多或冗余时才会输出——他主张货币输出也可能由贸易逆差引起，或类似地由资本向国外转移引起。事情的实质在今天已被认为以有利于桑顿的方式解决了。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The work of Henry Thornton was rediscovered by Jacob Viner in the course of his study of the classical mechanism of the adjustment of the balance of payments.",
+            {
+              "type": "note",
+              "id": "n_ch04_002",
+              "label": "2"
+            },
+            " Thornton stands out in the classical literature because, contrary to Ricardo who believed that money is exported from a country only when its quantity is excessive or redundant domestically, he held the view that money export could also be induced by balance of trade deficits, or, analogously, by capital transfers abroad. The substance of the matter is today considered settled in favour of Thornton."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u003"
+      ],
+      "page": "73"
+    },
+    {
+      "id": "ch04-u004",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而，对于李嘉图这位最理性的政治经济学家为何会提出如此明显谬误的主张，人们的看法却远不一致。粗略浏览文献即可发现各种意见。塞耶斯认为李嘉图对英国经济的生产现实了解不足；梅森认为他关注的是长期分析而忽略了货币转移的收入效应，但格鲁贝尔认为李嘉图并未忽略收入效应；霍兰德则认为李嘉图强调的是汇率变动和价格结构而非价格水平的变动。",
+            {
+              "type": "note",
+              "id": "n_ch04_003",
+              "label": "3"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "However, there is much less agreement on why Ricardo, the most rational of political economists, should have argued something so patently fallacious. Mere scanning of the literature reveals a variety of opinions. For Sayers, Ricardo had insufficient knowledge of the realities of production in the British economy; Mason thought that he was concerned with long-run analysis and neglected the income effects of money transfers, though Grubel believed that Ricardo did not neglect income effects; Hollander was of the opinion that Ricardo emphasised exchange rate changes and alterations in the structure rather than the level of prices.",
+            {
+              "type": "note",
+              "id": "n_ch04_003",
+              "label": "3"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u004"
+      ],
+      "page": "73"
+    },
+    {
+      "id": "ch04-u005",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本章的出发点是如下观察：在马克思的货币著作中，李嘉图的国内货币数量论及其国际调整理论受到了批判，其方式动摇了李嘉图价格水平—铸币流动模型的根本基础。",
+            {
+              "type": "note",
+              "id": "n_ch04_004",
+              "label": "4"
+            },
+            "然而，经济流派之间的论战就是如此：瓦伊纳在忠实记录若干头脑糊涂的小册子作者的沉思的同时，竟能完全忽略马克思对李嘉图理论的批判。",
+            {
+              "type": "note",
+              "id": "n_ch04_005",
+              "label": "5"
+            },
+            "与之相反，本章明确依据马克思的著作来论证：李嘉图关于货币国际输出的谬误论证是一个关键假设的推论，即货币是一种与其他商品无异的“简单”商品。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The point of departure for this chapter is the observation that in Marx’s monetary writings Ricardo’s domestic quantity theory of money and his theory of international adjustment were criticised in a way that challenged the very foundations of the Ricardian price-level-specie-flow model.",
+            {
+              "type": "note",
+              "id": "n_ch04_004",
+              "label": "4"
+            },
+            " Nonetheless, debate between different economic currents being what it is, Viner was able fully to ignore Marx’s critique of Ricardo’s theory whilst faithfully recording the musings of several muddle-headed pamphleteers.",
+            {
+              "type": "note",
+              "id": "n_ch04_005",
+              "label": "5"
+            },
+            " In contrast, this chapter draws explicitly on Marx’s work to demonstrate that Ricardo’s fallacious argument regarding the international export of money is a corollary of a key assumption, namely, that money is a ‘simple’ commodity indistinguishable from all others."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u005"
+      ],
+      "page": "73–74"
+    },
+    {
+      "id": "ch04-u006",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "而且，李嘉图的这一假设与他关于货币具有内在劳动量价值的基本观点密切相关。经济思想史上一个耐人寻味之处在于：拥有与李嘉图相似劳动价值论的马克思，实际上把它与一种完全不同的货币分析结合了起来。本章表明，马克思之所以能走这条道路，恰恰是因为他强调货币在国内和国际交换中的“特殊”性质。具体说，与李嘉图相反，马克思相当强调货币作为可靠价值贮藏、债务清偿手段、非常支付手段和财富转移媒介的职能。在此基础上，他得以拒绝国内货币数量论及与之相关的国际调整机制，尽管他继续坚持货币是有自身劳动价值的商品这一观点。",
+            {
+              "type": "note",
+              "id": "n_ch04_006",
+              "label": "6"
+            },
+            "然而马克思付出的代价是：他的货币分析既没有李嘉图理论的优雅，也没有那种迷惑人的说服力。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo’s assumption, moreover, is closely related to his fundamental view that money has intrinsic quantity-of-labour value. It is an intriguing point in the history of economic thought that Marx, who had a labour theory of value similar to Ricardo’s, actually combined it with a totally different monetary analysis. It is shown in this chapter that Marx was able to follow this path precisely because he stressed the ‘special’ character of money in domestic and international exchange. To be specific, contrary to Ricardo, Marx laid considerable emphasis on money functioning as reliable store of value, means of debt settlement, means of extraordinary payments, and medium of wealth transfer. On these grounds he was able to reject the domestic quantity theory of money and the related international adjustment mechanism, even though he continued to cling to the view that money is a commodity with is own labourvalue.",
+            {
+              "type": "note",
+              "id": "n_ch04_006",
+              "label": "6"
+            },
+            " The price that Marx paid, however, was that his monetary analysis had neither the elegance nor the deceptive persuasiveness of Ricardo’s theory."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u006"
+      ],
+      "page": "74",
+      "review": "原文“is own labourvalue”为排印/OCR 讹误，当作 its own labour-value。"
+    },
+    {
+      "id": "ch04-u007",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "从这个视角看，桑顿与李嘉图之间的一个重大差别在于：前者把货币既当作简单商品又当作特殊商品，却没有意识到其中的理论问题。",
+            {
+              "type": "note",
+              "id": "n_ch04_007",
+              "label": "7"
+            },
+            "桑顿的不一致可能与他底层的看法有关——正如希克斯有说服力地论证的——即例如由歉收引起的国际收支失衡是短期现象，而由货币数量过多引起的失衡是长期现象。",
+            {
+              "type": "note",
+              "id": "n_ch04_008",
+              "label": "8"
+            },
+            "尽管如此，几乎无疑桑顿与李嘉图的差别也关系到古典机制的理论融贯性以及对价值的底层处理。瓦伊纳在自己的著作中忽略了价值理论对解释李嘉图货币过剩概念的重要性；因此他能够断言桑顿比李嘉图更好地阐述了古典机制。本章表明，一旦显式地把价值理论考虑进来，事情就复杂得多，从而使瓦伊纳的论证呈现另一种面貌。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "From this perspective, a vital difference between Thornton and Ricardo is that the former treated money as both a simple and a special commodity without being aware of a theoretical problem.",
+            {
+              "type": "note",
+              "id": "n_ch04_007",
+              "label": "7"
+            },
+            " Thornton’s inconsistency might be related to his underlying view – as Hicks has persuasively argued – that a balance of payments disequilibrium caused, for instance, by a bad harvest is a short-run phenomenon, whilst a disequilibrium due to an excessive quantity of money is a long-run phenomenon.",
+            {
+              "type": "note",
+              "id": "n_ch04_008",
+              "label": "8"
+            },
+            " Nonetheless, there is little doubt that the difference between Thornton and Ricardo also related to the theoretical consistency of the classical mechanism and to the underlying treatment of value. In his own work, Viner overlooked the importance of value theory in interpeting Ricardo’s concept of money excess; thus, he was able to claim that Thornton had provided a better exposition of the classical mechanism than Ricardo. It is shown here that things are considerably more complex when value theory is taken explicitly into consideration, thus putting Viner’s argument in a different light."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u007"
+      ],
+      "page": "75",
+      "review": "原文“interpeting”为 OCR 讹误，当作 interpreting。"
+    },
+    {
+      "id": "ch04-u008",
+      "canonical_kind": "heading",
+      "zh": [
+        "2 休谟与李嘉图的自动机制"
+      ],
+      "en": [
+        "2 Hume’s and Ricardo’s Automatic Mechanism"
+      ],
+      "source_ids": [
+        "ch04-u008"
+      ],
+      "page": "75",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch04-u009",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "众所周知，对大卫·休谟来说，货币具有纯粹“虚构的”价值。",
+            {
+              "type": "note",
+              "id": "n_ch04_009",
+              "label": "9"
+            },
+            "的确，货币不仅内在地无价值，而且“显然，货币不过是劳动和商品的代表，只用作评定或估价它们的方法”。",
+            {
+              "type": "note",
+              "id": "n_ch04_010",
+              "label": "10"
+            },
+            "马克思观察到，作为这一基本观点的结果，休谟“从不提商品的价值和黄金的价值，而只谈它们的相互数量”。",
+            {
+              "type": "note",
+              "id": "n_ch04_011",
+              "label": "11"
+            },
+            "因此，如果货币缺乏内在价值，那就意味着它只有相对交换价值，而这必然表现为商品总数量与流通中货币总数量之比。用当代经济学的术语说，货币的交换价值反映在价格水平上，而价格水平由商品对货币的数量比例决定。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As is well-known, for David Hume money has a purely ‘fictitious’ value.",
+            {
+              "type": "note",
+              "id": "n_ch04_009",
+              "label": "9"
+            },
+            " Indeed, not only is money intrinsically valueless, but ‘[i]t is indeed evident, that money is nothing but the representation of labour and commodities, and serves only as a method of rating or estimating them’.",
+            {
+              "type": "note",
+              "id": "n_ch04_010",
+              "label": "10"
+            },
+            " Marx observed that, as a result of this fundamental view, Hume ‘[n]ever mentions the value of commodities and the value of gold, but speaks only of their reciprocal quantity’.",
+            {
+              "type": "note",
+              "id": "n_ch04_011",
+              "label": "11"
+            },
+            " Thus, if money lacks intrinsic value, it follows that it only has relative exchange value, which is inevitably expressed as the proportion of the aggregate quantity of commodities to the aggregate quantity of money in circulation. In terms of contemporary economics, the exchange value of money is reflected in the price level, which is determined by the quantitative proportions of commodities to money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u009"
+      ],
+      "page": "75–76"
+    },
+    {
+      "id": "ch04-u010",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "为便于进一步分析，有必要部署一些费雪式交易方程式，并假设单位流通速度和纯商品货币（黄金）加以简化（不失一般性）。休谟的观点本质上是：货币的“虚构”价值由下式给出(1)"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To facilitate further analysis, it is useful to deploy some Fisher-type equations of exchange, simplified (without losing any generality) by assuming unit velocity and pure commodity money (gold). Hume’s view was essentially that the ‘fictitious’ value of money is given by (1)"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u010"
+      ],
+      "page": "76"
+    },
+    {
+      "id": "ch04-u011",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Y / M = 1 / P"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Y / M = 1 / P"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch04-u011"
+      ],
+      "page": "76",
+      "review": "符号按原刊图样恢复：原书以小型大写字母 M、Y、P、V 表示货币数量、实际产出、价格水平等，小写 m、y、v 表示货币内在价值、单位产出内在价值与流通速度；上标 T、H 表示总额与贮藏。OCR 文本层误将小型大写转为小写、上标转为下标。式(2)(3)中的价值乘积项原排带横线（ȳȲ），正文同一乘积项不带横线，均照原刊录。式(3)分母原排为 Vm（依文义当为 v·m，即速度与货币内在价值之积），照录。"
+    },
+    {
+      "id": "ch04-u012",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "其中 M 为黄金货币的数量，Y 为被流通的实际产出，Y/M 为货币的交换价值，P 为价格水平指数。要在此基础上推导货币数量与交换价值关系的理论，显然还需要对什么决定 M 持有看法。但接着，要弄清什么决定货币数量，就必须对货币的职能持有看法。在这方面，休谟认为货币仅执行流通手段职能；货币“只是人们约定用以便利一种商品与另一种商品交换的工具”。",
+            {
+              "type": "note",
+              "id": "n_ch04_012",
+              "label": "12"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "where M is the quantity of gold money, Y is real output circulated, Y/M is the exchange value of money, and P is an index of the price level. To derive a theory of the relationship between the quantity and the exchange value of money on this basis, it would obviously also be necessary to have a view on what determines m. But then, to ascertain what determines the quantity of money, it would be necessary to have a view of the functions of money. In this vein, Hume believed that money functions as means of circulation alone; money is ‘[o]nly the instrument which men have agreed upon to facilitate the exchange of one commodity for another’.",
+            {
+              "type": "note",
+              "id": "n_ch04_012",
+              "label": "12"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u012"
+      ],
+      "page": "76",
+      "review": "符号大小写与上标按原刊图样恢复：数量与价格水平为小型大写 M、Y、P，内在价值为小写 m、y，总额/贮藏上标 T、H（OCR 误作小写与下标）；正文价值乘积项 yY 原排不带横线。"
+    },
+    {
+      "id": "ch04-u013",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "如果回想马克思对货币职能的分析，这一假设的重要性会更清楚。对马克思而言，货币执行流通手段职能时属于交换领域并完全停留在其中；这与退出交换领域的贮藏货币形成对照。如果马克思的观点正确，那么一国的全部货币存量 M",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " 等于流通中的货币量，即 M",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " = M，就只有在货币仅执行流通手段职能时才成立。换言之，要使 M",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " 等于 M，就必须假设新货币供给不可避免地最终进入流通，从而不断扩张该国的活跃货币量。只有在此基础上，休谟才能合乎情理地论证货币交换价值与货币数量成反比。",
+            {
+              "type": "note",
+              "id": "n_ch04_013",
+              "label": "13"
+            },
+            {
+              "type": "note",
+              "id": "n_ch04_014",
+              "label": "14"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The importance of this assumption would become even clearer if we were reminded of Marx’s analysis of money’s functions.",
+            {
+              "type": "note",
+              "id": "n_ch04_013",
+              "label": "13"
+            },
+            " For Marx, when money functions as means of circulation it belongs to, and remains exclusively within, the sphere of exchange; this would be in contrast to stored money which exits the sphere of exchange. If Marx’s view is right, then the entire money stock of a country, M",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            ", would be equal to the quantity of money in circulation, i.e. M",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " = M, only if money functioned solely as means of circulation. In other words, for M",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " to be equal to M it would have to be assumed that fresh money supplies inexorably finished in circulation, thus continually expanding the country’s active quantity of money. Only on this basis could Hume plausibly argue that the exchange value of money and the quantity of money were inversely related.",
+            {
+              "type": "note",
+              "id": "n_ch04_014",
+              "label": "14"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u013"
+      ],
+      "page": "76",
+      "review": "符号大小写与上标按原刊图样恢复：数量与价格水平为小型大写 M、Y、P，内在价值为小写 m、y，总额/贮藏上标 T、H（OCR 误作小写与下标）；正文价值乘积项 yY 原排不带横线。"
+    },
+    {
+      "id": "ch04-u014",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "休谟理论的国际方面是其国内货币分析的延伸：在国内是流通手段的货币，在国际上也是流通手段。复杂的货币职能，如贮藏（准备形成），在国际交易中不起重要作用。的确，在休谟著名的类比中，货币像水在容器之间流动那样在各国之间流动，并在所有国家寻求相同的“水平”。",
+            {
+              "type": "note",
+              "id": "n_ch04_015",
+              "label": "15"
+            },
+            "国内商品对货币数量比例的扰动，使货币在特定国家具有错误的价值。例如货币过多会降低货币价值（提高价格）；因此它会鼓励商品进口、抑制商品出口；从而导致货币外流。当货币外流重新确立各国之间正确的“水平”时，调整就会停止。该机制是自动而平滑的，并强调货币在国际交易中没有特殊角色。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The international aspect of Hume’s theory was an outgrowth of his domestic monetary analysis: money which is means of circulation domestically is also means of circulation internationally. Complex money functions, such as hoarding (reserve formation), play no significant role in international transactions. Indeed, in Hume’s famous analogy, money flows between nations in the manner of water between vessels, and seeks the same ‘level’ in all countries.",
+            {
+              "type": "note",
+              "id": "n_ch04_015",
+              "label": "15"
+            },
+            " Disturbances of the domestic quantitative proportions of commodities to money result in money having the wrong value in a particular country. Too much money, for instance, would lower money’s value (raise prices); hence, it would encourage the import and discourage the export of commodities; thus, it would lead to the outflow of money. The adjustment would stop when the outflow of money would re-establish the correct ‘level’ among countries. The mechanism is automatic and smooth, and emphasises the lack of a special role for money in international transactions."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u014"
+      ],
+      "page": "77"
+    },
+    {
+      "id": "ch04-u015",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "李嘉图与休谟有深刻分歧，因为他假设货币和商品实际上具有内在价值："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo differed profoundly from Hume insofar as he assumed that money and commodities actually had intrinsic value:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u015"
+      ],
+      "page": "77"
+    },
+    {
+      "id": "ch04-u016",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "金银和其他商品一样，具有内在价值，这种价值不是任意的，而是取决于它们的稀缺性、为获取它们所耗费的劳动量，以及生产它们的矿山中所用资本的价值。",
+            {
+              "type": "note",
+              "id": "n_ch04_016",
+              "label": "16"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "Gold and silver, like other commodities, have an intrinsic value, which is not arbitrary, but is dependent on their scarcity, the quantity of labour bestowed in procuring them, and the value of the capital employed in the mines which produce them.",
+            {
+              "type": "note",
+              "id": "n_ch04_016",
+              "label": "16"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u016"
+      ],
+      "page": "77",
+      "indent": true
+    },
+    {
+      "id": "ch04-u017",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "同样的论证也见于李嘉图更成熟的经济著作中。",
+            {
+              "type": "note",
+              "id": "n_ch04_017",
+              "label": "17"
+            },
+            "马克思赞同这一论证，并且如下文所见，把它作为自己货币理论的基础。",
+            {
+              "type": "note",
+              "id": "n_ch04_018",
+              "label": "18"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The same argument can also be found in Ricardo’s more mature economic writings.",
+            {
+              "type": "note",
+              "id": "n_ch04_017",
+              "label": "17"
+            },
+            " Marx approved of it, and, as we shall see below, made it a foundation of his own monetary theory.",
+            {
+              "type": "note",
+              "id": "n_ch04_018",
+              "label": "18"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u017"
+      ],
+      "page": "77"
+    },
+    {
+      "id": "ch04-u018",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "由此出发，李嘉图推导出了交易方程式的一个复杂版本，",
+            {
+              "type": "note",
+              "id": "n_ch04_019",
+              "label": "19"
+            },
+            "可概括为式（2）"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "From this starting point, Ricardo derived a complex version of the equation of exchange,",
+            {
+              "type": "note",
+              "id": "n_ch04_019",
+              "label": "19"
+            },
+            " which may be summarised as (2)"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u018"
+      ],
+      "page": "77–78"
+    },
+    {
+      "id": "ch04-u019",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "M = f(m, ȳȲ, v)"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "M = f(m, ȳȲ, v)"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch04-u019"
+      ],
+      "page": "78",
+      "review": "符号按原刊图样恢复：原书以小型大写字母 M、Y、P、V 表示货币数量、实际产出、价格水平等，小写 m、y、v 表示货币内在价值、单位产出内在价值与流通速度；上标 T、H 表示总额与贮藏。OCR 文本层误将小型大写转为小写、上标转为下标。式(2)(3)中的价值乘积项原排带横线（ȳȲ），正文同一乘积项不带横线，均照原刊录。式(3)分母原排为 Vm（依文义当为 v·m，即速度与货币内在价值之积），照录。"
+    },
+    {
+      "id": "ch04-u020",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "其中 M 为金属货币的数量，m 为货币的内在价值，y 为单位实际产出的内在价值，Y 为实际产出，v 为货币流通速度。对李嘉图而言，M 与 m 和 v 成反比，与交易总价值 yY 成正比。",
+            {
+              "type": "note",
+              "id": "n_ch04_020",
+              "label": "20"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "where M is the quantity of metallic money, m is the intrinsic value of money, y is the intrinsic value of real output per unit, Y is real output, and v is the velocity of money. For Ricardo, M varies inversely with m and v, and directly with the total value of transactions, yY.",
+            {
+              "type": "note",
+              "id": "n_ch04_020",
+              "label": "20"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u020"
+      ],
+      "page": "78",
+      "review": "符号大小写与上标按原刊图样恢复：数量与价格水平为小型大写 M、Y、P，内在价值为小写 m、y，总额/贮藏上标 T、H（OCR 误作小写与下标）；正文价值乘积项 yY 原排不带横线。"
+    },
+    {
+      "id": "ch04-u021",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而，正如休谟已经论证过的，货币还有交换价值，即 Y/M。把货币的内在价值 m 与其交换价值 Y/M 联系起来（即把商品货币的内在价值与价格水平联系起来），是明确以劳动价值论为基础的货币理论所面临的最棘手的问题。例如，假设其他条件不变，产出总价值 yY 由于实际产出 Y 的增加而上升（单位价值保持不变）。那么，按照李嘉图的说法，"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As Hume had already argued, however, money also has exchange value, i.e. Y/M. Relating the intrinsic value of money, m, to its exchange value, Y/M (i.e. relating the intrinsic value of commodity money to the price level) is the most intractable problem faced by a monetary theory that is explicitly based on the labour theory of value. Suppose, for instance, that, other things being equal, the total value of output, yY, rose due to an increase in real output, Y (per unit value remaining the same). Then, according to Ricardo,"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u021"
+      ],
+      "page": "78",
+      "review": "符号大小写与上标按原刊图样恢复：数量与价格水平为小型大写 M、Y、P，内在价值为小写 m、y，总额/贮藏上标 T、H（OCR 误作小写与下标）；正文价值乘积项 yY 原排不带横线。"
+    },
+    {
+      "id": "ch04-u022",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "货币的价值将由于它被更多地使用而上升，并且除非通过增加纸币、或把金块铸成货币来增加其数量，否则将持续高于金块的价值。买卖的商品会更多，但价格更低；因此同一货币在每次交易中按更高的价值转手，就仍然足以应付增加了的交易次数。可见货币的价值并不完全取决于它的绝对数量，而是取决于它相对于必须完成的支付的数量；",
+            {
+              "type": "note",
+              "id": "n_ch04_021",
+              "label": "21"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "the value of money will rise on account of the increased use which will be made of it, and will continue permanently above the value of bullion, unless the quantity be increased, either by the addition of paper, or by procuring bullion to be coined into money. There will be more commodities bought and sold, but at lower prices; so that the same money will still be adequate to the increased number of transactions, by passing in each transaction at a higher value. The value of money then does not wholly depend upon its absolute quantity, but on its quantity relatively to the payments which it has to accomplish;",
+            {
+              "type": "note",
+              "id": "n_ch04_021",
+              "label": "21"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u022"
+      ],
+      "page": "78",
+      "indent": true
+    },
+    {
+      "id": "ch04-u023",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此，对李嘉图而言，如果所需的 M 未能出现以满足 yY 增加所提出的需要，货币的价值 Y/M 就会“由于使用增加”而永久地超过金块的内在价值 m。",
+            {
+              "type": "note",
+              "id": "n_ch04_022",
+              "label": "22"
+            },
+            "用他自己的话说，货币在交换中将按高于其内在价值的价值转手，即商品价格会下降。换言之，对李嘉图而言，货币在交换中的价值（从而价格水平）取决于货币数量相对于商品数量的比例。然而，这一点休谟早已说过。李嘉图真正的问题在于：在系统中存在货币内在价值的情况下，Y/M 与 m 之间假定的背离是否会持续下去。或者说，货币的商品价值 m 是否会充当其交换价值 Y/M（价格水平）的锚？"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thus, for Ricardo, if the required M was not forthcoming to meet the needs posed by the increase in yY, the value of money, Y/M, would, ‘on account of increased use’, permanently exceed the intrinsic value of bullion, m.",
+            {
+              "type": "note",
+              "id": "n_ch04_022",
+              "label": "22"
+            },
+            " In his own terms, money would pass in exchange for a value higher than its intrinsic one, i.e. commodity prices would fall. In other words, for Ricardo, the value of money in exchange (hence the level of prices) depended on the quantity of money relative to the quantity of commodities. That much, however, had already been said by Hume. The real problem for Ricardo was whether the putative divergence between Y/M and m would persist, given the presence of money’s intrinsic value in the system. Alternatively, would the commodity value of money, m, act as an anchor for its exchange value, Y/M (the price level)?"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u023"
+      ],
+      "page": "78–79",
+      "review": "符号大小写与上标按原刊图样恢复：数量与价格水平为小型大写 M、Y、P，内在价值为小写 m、y，总额/贮藏上标 T、H（OCR 误作小写与下标）；正文价值乘积项 yY 原排不带横线。"
+    },
+    {
+      "id": "ch04-u024",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "李嘉图依靠两点来调和 Y/M 与 m 之间假定的背离：第一，铸币与金块之间不受干扰的可兑换性的存在；第二，货币在交换中除流通手段外不扮演任何角色。因此，在其他条件不变时 Y 增加的情况下，Y/M 想必会超过 m（即商品价格下降）这一事实意味着，把金块铸成铸币对其所有者有利。把金块铸成铸币会以两种方式恢复均衡：第一，可用金块变得更稀缺，因此金块的价值即 m 上升；第二，铸币数量 M 增加，因此 Y/M 下降（即价格上升）。",
+            {
+              "type": "note",
+              "id": "n_ch04_023",
+              "label": "23"
+            },
+            "m 的上升与 Y/M 的下降最终会重新建立均衡。这也保证了价格水平不会独立于货币的内在价值。对李嘉图而言，Y 的下降、M 的变动等等都可以类似地分析。然而，如果铸币与金块之间的可兑换性（或如李嘉图时代那样流通纸币与金块之间的可兑换性）被中断，均衡机制就根本不会起作用。在那种情况下，铸币的交换价值将独立于金块的内在价值；因此金币的数量将永久地决定价格。",
+            {
+              "type": "note",
+              "id": "n_ch04_024",
+              "label": "24"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo reconciled putative divergences between Y/M and m by relying on, first, the existence of undisturbed convertibility between coin and bullion, and, second, the absence of any role for money in exchange other than as means of circulation. Thus, in the case of an increase in Y, other things being equal, the fact that Y/M would presumably come to exceed m (i.e. commodity prices would fall) implies that gold bullion would be coined to its owner’s advantage. Coining gold bullion would restore equilibrium in two ways; first, the available bullion would become more scarce, hence the value of bullion, i.e. m, would rise; second, the quantity of coin, M, would increase, and hence Y/M would fall (i.e. prices would rise).",
+            {
+              "type": "note",
+              "id": "n_ch04_023",
+              "label": "23"
+            },
+            " The rise in m and the fall in Y/M would eventually re-establish equilibrium. This also makes certain that the price level would not be independent of the intrinsic value of money. For Ricardo, falls in Y, changes in M, and so on, could be analysed analogously. However, if convertibility between coin and bullion (or convertibility between circulating paper money and bullion, as during Ricardo’s time) were interrupted, the equilibrating mechanism would simply not work. In that case, the exchange value of coin would become independent of the intrinsic value of bullion; therefore, the quantity of gold coin would permanently dictate prices.",
+            {
+              "type": "note",
+              "id": "n_ch04_024",
+              "label": "24"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u024"
+      ],
+      "page": "79",
+      "review": "符号大小写与上标按原刊图样恢复：数量与价格水平为小型大写 M、Y、P，内在价值为小写 m、y，总额/贮藏上标 T、H（OCR 误作小写与下标）；正文价值乘积项 yY 原排不带横线。"
+    },
+    {
+      "id": "ch04-u025",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "显然，形成货币贮藏、清偿剩余债务、进行非常购买以及货币的其他“特殊”职能，对李嘉图的图式来说都是成问题的。金属货币贮藏的存在意味着经济主体持有某种特定的货币形式的价值，这一过程与李嘉图图式所根本依赖的金块价值的连续而平滑的再调整相抵触。同样，突然支付和购买的需要意味着货币突然介入交换，例如债务被催偿而信用无从获得、或自然灾害摧毁了生产资料和消费资料时就会如此。在这种场合，经济主体使用货币似乎是因为它具有普遍可接受的社会价值，而不是因为使用它对某人有利可图。总之，贮藏、支付、转移财富等等，不断重新确认了经济主体持有特定的货币而非一般商品的实际重要性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is apparent that forming money hoards, settling residual debt, making extraordinary purchases, and other ‘special’ functions of money, would be problematic for Ricardo’s schema. The existence of hoards of metallic money would imply that economic agents are holding on to a particular monetary form of value, a process that would be at odds with the continuous and smooth readjustment of the value of bullion that is fundamental to Ricardo’s schema. Similarly, the need to make sudden payments and purchases would entail the abrupt intervention of money in exchange, as would happen, for instance, if debts were called up and no credit was forthcoming, or if natural disasters destroyed means of production and consumption. On such occasions, money would seem to be employed by economic agents because it has a generally acceptable social value, rather than because it is to someone’s pecuniary advantage to use it. In sum, hoarding, paying, transferring wealth, and so on, constantly reassert the practical importance for economic agents to possess specifically money rather than commodities in general."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u025"
+      ],
+      "page": "79–80"
+    },
+    {
+      "id": "ch04-u026",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "纳入国际交易并未实质性地改变李嘉图的分析。在国际均衡时，商品货币按照国内交易的价值和货币流通速度在各国之间分配，从而“在各地保持相同的价值”。",
+            {
+              "type": "note",
+              "id": "n_ch04_025",
+              "label": "25"
+            },
+            "李嘉图随即补充说，商品货币“和其他商品一样”有自己的内在价值。",
+            {
+              "type": "note",
+              "id": "n_ch04_026",
+              "label": "26"
+            },
+            "因此，在国际均衡时 Y/M 与 m 之间不会有背离。既然货币在各地价值相同，商人在各国之间转移货币就无利可图。因此，国际均衡就是贸易差额均衡；各国之间的贸易实际上就是物物交换。",
+            {
+              "type": "note",
+              "id": "n_ch04_027",
+              "label": "27"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Allowing for international transactions did not materially alter Ricardo’s analysis. At international equilibrium, commodity money is divided among nations according to the value of domestic transactions and money’s velocity, so that it ‘preserved everywhere the same value’.",
+            {
+              "type": "note",
+              "id": "n_ch04_025",
+              "label": "25"
+            },
+            " Ricardo immediately added that commodity money, ‘like other commodities’ has its own intrinsic value.",
+            {
+              "type": "note",
+              "id": "n_ch04_026",
+              "label": "26"
+            },
+            " Therefore, at international equilibrium there would be no divergence between Y/M and m. Since money would have the same value everywhere, there would be no advantage to merchants in shifting money between nations. Therefore, international equilibrium would be balance of trade equilibrium; trade among nations would be, in effect, barter.",
+            {
+              "type": "note",
+              "id": "n_ch04_027",
+              "label": "27"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u026"
+      ],
+      "page": "80",
+      "review": "符号大小写与上标按原刊图样恢复：数量与价格水平为小型大写 M、Y、P，内在价值为小写 m、y，总额/贮藏上标 T、H（OCR 误作小写与下标）；正文价值乘积项 yY 原排不带横线。"
+    },
+    {
+      "id": "ch04-u027",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "黄金的发现、或发行银行提供新货币，在其他条件不变时会增加 M，从而降低货币的交换价值 Y/M（即提高国内价格水平）。由于金块的价值暂时保持不变，把铸币熔成金块就变得有利可图。这会使国内可用金块更充裕，从而导致货币国内内在价值下降。然而，由于国外货币的价值（其内在价值及其相对于商品的价值）保持不变，输出金块就对商人有利。然而，金块输出等同于贸易逆差（实际上它本身就是贸易逆差）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The discovery of gold, or the supply of fresh money by banks of issue, other things being equal, would increase M, hence it would lower the exchange value of money, Y/M (i.e. it would raise the domestic price level). Since the value of bullion would remain temporarily the same, it would become advantageous to melt coin into bullion. This would make the domestically available bullion more abundant, and it would thus lead to a fall in the domestic intrinsic value of money. Since, however, the value of money abroad (both its intrinsic value and its value relative to commodities) would have remained unchanged, it would become possible to export bullion to a merchant’s advantage. Export of bullion, however, was tantamount to a deficit in the balance of trade (indeed it was in and of itself a balance of trade deficit)."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u027"
+      ],
+      "page": "80",
+      "review": "符号大小写与上标按原刊图样恢复：数量与价格水平为小型大写 M、Y、P，内在价值为小写 m、y，总额/贮藏上标 T、H（OCR 误作小写与下标）；正文价值乘积项 yY 原排不带横线。"
+    },
+    {
+      "id": "ch04-u028",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "金块输出会降低国外货币的交换价值（提高外国价格）；也会提高货币的国内交换价值（降低国内价格）；因此它会使系统趋向恢复均衡。当最初的货币过剩量被消除、贸易均衡重新建立时，这一过程就会停止。货币价值的均衡将在全球范围内一个略微降低的水平上（价格略微上升）恢复，反映全球货币量的增加。李嘉图认为这一结果是纯金属货币的一个弱点。因此他主张用纸币取代黄金，纸币的数量可以加以管理以保持货币价值不变。",
+            {
+              "type": "note",
+              "id": "n_ch04_028",
+              "label": "28"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The export of bullion would lower the exchange value of money abroad (it would raise foreign prices); it would also raise money’s domestic exchange value (it would lower lower domestic prices); thus, it would tend to return the system to equilibrium. The process would stop when the original excess quantity of money would be eliminated and trade equilibrium would be reestablished. Equilibrium in the value of money would be restored at a slightly lowered level globally (slightly raised prices) reflecting the increase in the global amount of money. Ricardo considered this outcome to be a weakness of a purely metallic money. Thus, he advocated replacing gold with paper money whose quantity could be managed to keep money’s value constant.",
+            {
+              "type": "note",
+              "id": "n_ch04_028",
+              "label": "28"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u028"
+      ],
+      "page": "80–81",
+      "review": "原文“lower lower domestic prices”重复 lower，衍文。"
+    },
+    {
+      "id": "ch04-u029",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "李嘉图的国际调整机制还依赖这样一个假设：货币在国际交换中不扮演特殊角色。货币作为简单商品在各国之间移动，即只有当货币国内价值与国际价值之间的差异造成把货币送往国外可获金钱利益的可能性时才会移动。这种价值差异必然意味着货币数量在一个或更多国家过多（冗余）。通过在全世界重新建立商品与货币之间的适当比例，这些差异会被消除。据此，贸易逆差是流通中货币过多的结果，并且会通过输出过剩货币而自动得到纠正。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo’s international adjustment mechanism also relies on the assumption that money has no special role to play in international exchange. Money moves between countries as a simple commodity, i.e. only when disparities between money’s domestic and international value create the possibility of making a pecuniary gain by sending money abroad. Such disparities in value necessarily imply that the quantity of money is excessive (redundant) in one or more countries. The disparities would be eliminated by re-establishing the proper proportions between commodities and money across the world. By this token, a balance of trade deficit is the result of excessive money in circulation, and it would be automatically corrected by exporting the excess of money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u029"
+      ],
+      "page": "81"
+    },
+    {
+      "id": "ch04-u030",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "李嘉图（和休谟）理论的问题在于，在实践中，无论对个人还是对国家，货币输出常常显得是必然性的结果而完全不是选择的结果。进一步看，国际支付失衡也常常显得与国内货币相对于商品的假定过剩无关。例如，歉收会引起贸易逆差，从而必须输出黄金以在国外支付。因此，在李嘉图的同时代人看来，假设货币是一种特殊商品——因其独特的支付和转移价值的能力而被需要——而不是仅在商人能从价值差异中获取金钱利润时才交易的普通商品，似乎完全不是不合理的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The problem with Ricardo’s (and Hume’s) theory is that, in practice, the export of money frequently appears to be the result of necessity and not at all of choice for both individuals and countries. At a further remove, international payment imbalances also frequently appear to be unrelated to a putative excess of money over commodities domestically. Bad harvests, for instance, would induce a balance of trade deficit, thus necessitating the outflow of gold to make payments abroad. To Ricardo’s contemporaries, therefore, it seemed not at all unreasonable to assume that money was a special commodity, required for its unique ability to pay and to transfer value, rather than an ordinary commodity traded only when merchants could make a pecuniary profit from value divergences."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u030"
+      ],
+      "page": "81"
+    },
+    {
+      "id": "ch04-u031",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而，李嘉图无法在其自动机制内容纳货币的特殊角色。如果各国出于任何原因发现有必要在商业交易中使用货币，那就意味着在那些场合货币的移动不是由不同国家货币价值之间的差异引起的。同理，如果货币输出对一个国家显得是义务性的，那么货币在世界各国之间的比例分配及其国内相对于商品的比例，就不足以解释货币输出。如果各国发现有必要输出黄金，可以设想，即使在贸易差额和商品货币在世界范围内的分配假定均衡实际成立的情况下，各国也被迫这样做。但那样机制就会失去其一般性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo, however, could not accommodate a special role for money within his automatic mechanism. If, for whatever reason, nations found it necessary to use money in their commercial transactions, it would follow that, on those occasions, the movement of money would not be caused by disparities among the value of money in different countries. By the same token, the proportionate division of money among the nations of the world, and its domestic proportions relative to commodities, would not be sufficient to explain the export of money, if the latter seemed to be obligatory for a nation. If countries found it necessary to export gold, it was conceivable that countries were compelled to do so even in situations in which the putative equilibrium in the balance of trade and in the division of commodity money across the world actually held. But then the mechanism would lose its generality."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u031"
+      ],
+      "page": "81–82"
+    },
+    {
+      "id": "ch04-u032",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "李嘉图意识到这一点的重要性：他要求桑顿解释，为什么外国人会拒绝接受英国商品而要求货币；他斥倒了不幸的博赞克特，因为后者竟敢提出英国在歉收时“被迫”进口谷物；他运用自己非凡的分析能力去困扰马尔萨斯——马尔萨斯知道有些不对劲，却说不出究竟哪里不对。",
+            {
+              "type": "note",
+              "id": "n_ch04_029",
+              "label": "29"
+            },
+            "在他与马尔萨斯通信中一段颇具揭示性的文字里，李嘉图坚持认为，国际货币流动应当以与经济原理相容的方式加以解释，即把货币当作普通商品来对待。",
+            {
+              "type": "note",
+              "id": "n_ch04_030",
+              "label": "30"
+            },
+            "换言之，调整机制必须假设货币输出仅仅是因为这样做有利可图。对李嘉图来说，即使债务必须在国外清偿，这一点也适用，正如他告诉马尔萨斯的："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo was alive to the importance of this point: he asked Thornton to explain why foreigners should refuse to accept English goods and would demand money instead; he cut down the hapless Bosanquet for daring to suggest that England was ‘compelled’ to import corn when the harvest was bad; he employed his remarkable analytical powers to befuddle Malthus, who knew that there was something wrong but could not tell exactly what.",
+            {
+              "type": "note",
+              "id": "n_ch04_029",
+              "label": "29"
+            },
+            " In a revealing part of his correspondence with Malthus, Ricardo insisted that international flows of money should be explained in a way compatible with economic principles, i.e. by treating money as an ordinary commodity.",
+            {
+              "type": "note",
+              "id": "n_ch04_030",
+              "label": "30"
+            },
+            " The adjustment mechanism, in other words, must assume that money is exported solely because it is advantageous to do so. For Ricardo, this applies even when debts have to be settled abroad, as he tells Malthus:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u032"
+      ],
+      "page": "82"
+    },
+    {
+      "id": "ch04-u033",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "因此，要由你来证明可能存在这样一种情况：当货币不是最便宜的出口商品时——当货币（考虑到出口不同商品以及货币可能伴随的一切费用）在国外买到的商品不会比在国内更多时——用运送货币而非其他方式来偿付债务竟会符合一个国家的利益。",
+            {
+              "type": "note",
+              "id": "n_ch04_031",
+              "label": "31"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "It rests with you therefore to prove that a case can exist when it may become the interest of a nation to pay a debt by the transmission of money rather than in any other mode, when money is not the cheapest exportable commodity, – when money (taking into account all expences which may attend the exportation of different commodities as well as money) will not purchase more goods abroad than it will at home.",
+            {
+              "type": "note",
+              "id": "n_ch04_031",
+              "label": "31"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u033"
+      ],
+      "page": "82",
+      "indent": true
+    },
+    {
+      "id": "ch04-u034",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "总之，对李嘉图的理论来说，根本的一点是假设货币输出最终要由商人的金钱利益来解释。但要存在这种利益，货币在国内的价值必须低于其在国外的价值。因此，货币价值原有的均衡状态必然已经被打破。据此事实本身（ipso facto）可知，货币的国内数量相对于商品过大了，而被输出的正是这部分过剩货币。李嘉图向马尔萨斯宣称，这是逻辑证明；不要以人们看不清自己的利益所在来为自己辩护，因为那种说法可以适用于政治经济学的一切命题。",
+            {
+              "type": "note",
+              "id": "n_ch04_032",
+              "label": "32"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In sum, it was fundamental to Ricardo’s theory to assume that the export of money is to be explained ultimately by the pecuniary interest of merchants. But for such an interest to exist, the value of money at home has to be lower than its value abroad. Therefore, the original state of equilibrium in the value of money must have been necessarily disturbed. It follows, ipsofacto, that money’s domestic quantity is too large relative to commodities, and it is the excess of money which is exported. This is logical proof; do not defend yourself by arguing that people cannot see what is in their interests, Ricardo declared to Malthus, because that statement could apply to all propositions of political economy.",
+            {
+              "type": "note",
+              "id": "n_ch04_032",
+              "label": "32"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u034"
+      ],
+      "page": "82",
+      "review": "原文“ipsofacto”连写为 OCR 讹误，当作 ipso facto。"
+    },
+    {
+      "id": "ch04-u035",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管李嘉图拥有非凡的分析和论辩能力，他却没有解决这个问题，有时还不得不退让。例如，他向马尔萨斯承认，如果补贴数额很大，向国外支付货币补贴可能导致货币外流。",
+            {
+              "type": "note",
+              "id": "n_ch04_033",
+              "label": "33"
+            },
+            "更重要的是，在推导其著名的国际贸易比较优势定律时，他接受：在两国两商品模型中，如果发生了打破贸易平衡、使一国出现贸易顺差的技术变化，货币输出是可能发生的。不过他随即补充说，如果模型扩展以包含更多商品，那么输出的货币流量会很小。其含义是，在这种条件下货币输出微不足道。",
+            {
+              "type": "note",
+              "id": "n_ch04_034",
+              "label": "34"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Despite his egregious analytical and debating powers, Ricardo did not resolve the problem, and on occasion he had to retreat. Thus, he admitted to Malthus that payment of a money subsidy abroad could lead to the outflow of money, if the subsidy was large.",
+            {
+              "type": "note",
+              "id": "n_ch04_033",
+              "label": "33"
+            },
+            " More significantly, in deriving his celebrated law of comparative advantage in international trade, he accepted that, in the case of a two country two good model, it is possible that the export of money could take place, if technical change had occurred that had upset the balance of trade and created a trade surplus in favour of one country. He was quick to add, though, that if the model was expanded to include more commodities, then the flows of exported money would be small. The implication is that the export of money under such conditions is insignificant.",
+            {
+              "type": "note",
+              "id": "n_ch04_034",
+              "label": "34"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u035"
+      ],
+      "page": "82–83"
+    },
+    {
+      "id": "ch04-u036",
+      "canonical_kind": "heading",
+      "zh": [
+        "3 马克思对国内与国际调整的分析"
+      ],
+      "en": [
+        "3 Marx’s Analysis of Domestic and International Adjustment"
+      ],
+      "source_ids": [
+        "ch04-u036"
+      ],
+      "page": "83",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch04-u037",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在这一方面，李嘉图与马克思的对照是鲜明的。马克思在其货币分析中假设，与李嘉图类似，货币（和商品）具有内在价值（劳动时间）。",
+            {
+              "type": "note",
+              "id": "n_ch04_035",
+              "label": "35"
+            },
+            "价格是商品价值与货币单位价值之比。",
+            {
+              "type": "note",
+              "id": "n_ch04_036",
+              "label": "36"
+            },
+            "因此，每期流通的商品有一个总价格 P",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            "，它由总产出的价值和货币商品的单位价值定义，即 P",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " = yY / m。在此基础上，再假设没有待清偿的延期债务，且货币流通商品的速度为 v，则为马克思写出的交易方程式看起来与李嘉图的相似，",
+            {
+              "type": "note",
+              "id": "n_ch04_037",
+              "label": "37"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The contrast between Ricardo and Marx is pronounced in this respect. In his monetary analysis Marx assumed, similarly to Ricardo, that money (and commodities) have intrinsic value (labour time).",
+            {
+              "type": "note",
+              "id": "n_ch04_035",
+              "label": "35"
+            },
+            " Prices are the ratio of commodity values to the per unit value of money.",
+            {
+              "type": "note",
+              "id": "n_ch04_036",
+              "label": "36"
+            },
+            " Thus, the commodities that circulate per period have a total price, P",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            ", which is defined by the value of total output and the per unit value of the money commodity, i.e. P",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " = yY / m. On this basis, also assuming that there are no delayed obligations to be settled and that money’s velocity in circulating commodities is v, the equation of exchange that could be written for Marx looks similar to that for Ricardo,",
+            {
+              "type": "note",
+              "id": "n_ch04_037",
+              "label": "37"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u037"
+      ],
+      "page": "83",
+      "review": "符号大小写与上标按原刊图样恢复：数量与价格水平为小型大写 M、Y、P，内在价值为小写 m、y，总额/贮藏上标 T、H（OCR 误作小写与下标）；正文价值乘积项 yY 原排不带横线。"
+    },
+    {
+      "id": "ch04-u038",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "M = P",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " / v = ȳȲ / Vm  (3)"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "M = P",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " / v = ȳȲ / Vm  (3)"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch04-u038"
+      ],
+      "page": "84",
+      "review": "符号按原刊图样恢复：原书以小型大写字母 M、Y、P、V 表示货币数量、实际产出、价格水平等，小写 m、y、v 表示货币内在价值、单位产出内在价值与流通速度；上标 T、H 表示总额与贮藏。OCR 文本层误将小型大写转为小写、上标转为下标。式(2)(3)中的价值乘积项原排带横线（ȳȲ），正文同一乘积项不带横线，均照原刊录。式(3)分母原排为 Vm（依文义当为 v·m，即速度与货币内在价值之积），照录。"
+    },
+    {
+      "id": "ch04-u039",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "由于货币流通速度是交换过程的技术性与制度性给定条件，且劳动价值在生产中决定，交易方程式所表示的不过是每一产出水平下流通领域内社会必需的货币量。经重新整理并假设单位流通速度，马克思的货币交换价值便可写为：(4)"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Since money’s velocity is a technical and institutional datum of the process of exchange and given that labour values are determined in production, the equation of exchange merely signifies the amount of money that is socially necessary in the sphere of circulation for every level of output. By rearranging and assuming unit velocity, the exchange value of money for Marx may thus be written as: (4)"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u039"
+      ],
+      "page": "84"
+    },
+    {
+      "id": "ch04-u040",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Y / M = m / y"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Y / M = m / y"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch04-u040"
+      ],
+      "page": "84",
+      "review": "符号按原刊图样恢复：原书以小型大写字母 M、Y、P、V 表示货币数量、实际产出、价格水平等，小写 m、y、v 表示货币内在价值、单位产出内在价值与流通速度；上标 T、H 表示总额与贮藏。OCR 文本层误将小型大写转为小写、上标转为下标。式(2)(3)中的价值乘积项原排带横线（ȳȲ），正文同一乘积项不带横线，均照原刊录。式(3)分母原排为 Vm（依文义当为 v·m，即速度与货币内在价值之积），照录。"
+    },
+    {
+      "id": "ch04-u041",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "此外，如前所论，对休谟和李嘉图而言，全部货币存量都执行流通手段职能，因此 M",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " = M。然而对马克思来说，贮藏货币 M",
+            {
+              "type": "sup",
+              "children": [
+                "H"
+              ]
+            },
+            " 不属于流通。",
+            {
+              "type": "note",
+              "id": "n_ch04_038",
+              "label": "38"
+            },
+            "因此 M",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " = M + M",
+            {
+              "type": "sup",
+              "children": [
+                "H"
+              ]
+            },
+            "，而理论的问题就成为如何规定 M",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " 分为其组成部分的方式，使 M 对应于流通中必需的货币量。",
+            {
+              "type": "note",
+              "id": "n_ch04_039",
+              "label": "39"
+            },
+            "对马克思而言，货币在经济中扮演的特殊角色是处理这一问题的关键因素：“贮藏因此充当流通货币供给或撤出的渠道，从而使作为铸币流通的货币量总是恰好满足流通的直接需要”。",
+            {
+              "type": "note",
+              "id": "n_ch04_040",
+              "label": "40"
+            },
+            "马克思没有沿这些线索发展出完整的货币供给理论，但他通过在社会总资本再生产中定位若干贮藏来源，提供了答案的要素。",
+            {
+              "type": "note",
+              "id": "n_ch04_041",
+              "label": "41"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Furthermore, as was argued above, for both Hume and Ricardo, the entire money stock functions as means of circulation, and thus M",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " = M. However, for Marx, hoarded money, M",
+            {
+              "type": "sup",
+              "children": [
+                "H"
+              ]
+            },
+            ", does not belong to circulation.",
+            {
+              "type": "note",
+              "id": "n_ch04_038",
+              "label": "38"
+            },
+            " Consequently, M",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " = M + M",
+            {
+              "type": "sup",
+              "children": [
+                "H"
+              ]
+            },
+            ", and the issue for theory becomes how to specify the division of M",
+            {
+              "type": "sup",
+              "children": [
+                "T"
+              ]
+            },
+            " into its component parts so that M corresponds to the necessary amount of money in circulation.",
+            {
+              "type": "note",
+              "id": "n_ch04_039",
+              "label": "39"
+            },
+            " For Marx, the special role played by money in the economy is a vital factor in tackling this issue: ‘The hoards thus act as channels for the supply or withdrawal of circulating money, so that the amount of money circulating as coin is always just adequate to the immediate requirements of circulation’.",
+            {
+              "type": "note",
+              "id": "n_ch04_040",
+              "label": "40"
+            },
+            " Marx did not develop a complete theory of the money supply along these lines, but he did provide the elements of an answer by locating several sources of hoarding in the reproduction of the total social capital.",
+            {
+              "type": "note",
+              "id": "n_ch04_041",
+              "label": "41"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u041"
+      ],
+      "page": "84",
+      "review": "符号大小写与上标按原刊图样恢复：数量与价格水平为小型大写 M、Y、P，内在价值为小写 m、y，总额/贮藏上标 T、H（OCR 误作小写与下标）；正文价值乘积项 yY 原排不带横线。"
+    },
+    {
+      "id": "ch04-u042",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "如我所论，对李嘉图而言，进一步说，对这类分析重要的是确立货币内在价值为货币交换价值（即价格）提供锚。退一步看，这个问题在(4)中通过设定 Y/M 等于 m/y 而隐含地解决了。然而显然，这只有在商品和货币始终按价值交换时才成立。例如，如果商品的价格与价值由于市场供求的短期波动而背离，货币的交换价值也会与其内在价值背离，马克思对此充分意识到。",
+            {
+              "type": "note",
+              "id": "n_ch04_042",
+              "label": "42"
+            },
+            "价格水平与货币商品的价值可能以彼此不直接相关的方式变动。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As I have argued, for Ricardo, furthermore, it is important to this type of analysis to establish that the intrinsic value of money provides an anchor for money’s exchange value (i.e. for prices). At one remove, the problem is implicitly resolved in (4) by posing Y/M as equal to m/y. It is evident, however, that this is only tenable if commodities and money always exchange at value. If, for instance, the price and the value of commodities diverge as a result of shortterm fluctuations of market demand and supply, the exchange value of money would also diverge from its intrinsic value, as Marx was fully aware.",
+            {
+              "type": "note",
+              "id": "n_ch04_042",
+              "label": "42"
+            },
+            " The price level and the value of the money commodity could move in ways that would not be directly related to each other."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u042"
+      ],
+      "page": "84–85",
+      "review": "原文“shortterm”连写为 OCR 讹误，当作 short-term。"
+    },
+    {
+      "id": "ch04-u043",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "如我们已经看到的，李嘉图对这个问题的解决采取了一种精巧的自动机制的形式，其基础第一是铸币与金块之间的自由可兑换性，第二是货币仅执行流通手段职能。就马克思著作中能找到解决办法而言（绝不是一个完整的办法），迹象表明马克思与李嘉图不同，倾向于把这种背离看作贸易周期的常规现象。借助对其间半个世纪的观察——在这半个世纪中贸易周期已成为世界市场的固定特征——马克思没有把货币交换价值的显著短期波动视为非常货币事件（类似对法战争期间的那些现象，那正是李嘉图所关心的现象）。相反，马克思倾向于把这种波动看作资本主义经济趋于经济危机的一般倾向的一个方面，其根源要到资本主义生产本身的动态中去寻找。同样重要的是，对马克思而言，不显式考虑信用流动，就无法分析货币价值如何重新平衡；而信用这一要素在李嘉图的理论抽象中完全缺席。",
+            {
+              "type": "note",
+              "id": "n_ch04_043",
+              "label": "43"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo’s solution for this problem, as we have already seen, took the form of an elaborate automatic mechanism based on, firstly, free convertibility between coin and bullion, and secondly, money functioning solely as means of circulation. Insofar as a solution can be found in Marx’s work (by no means a full one), the indications are that Marx, unlike Ricardo, tended to think of such divergences as regular phenomena of the trade cycle. With the benefit of observing the intervening half-century, during which the trade cycle had emerged as a fixture of the world market, Marx did not treat pronounced shortterm fluctuations in the exchange value of money as extraordinary monetary events, similar to those of the Wars with France, which were the phenomena that concerned Ricardo. On the contrary, Marx tended to see such fluctuations as an aspect of the general tendency of the capitalist economy to economic crisis, the roots of which are to be found in the dynamic of capitalist production itself. Equally significantly, for Marx, the analysis of how the value of money is rebalanced could not be done without explicitly considering the flows of credit, an element that is entirely absent from Ricardo’s theoretical abstractions.",
+            {
+              "type": "note",
+              "id": "n_ch04_043",
+              "label": "43"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u043"
+      ],
+      "page": "85",
+      "review": "原文“shortterm”连写为 OCR 讹误，当作 short-term。"
+    },
+    {
+      "id": "ch04-u044",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思认为重要的货币价值波动的一个典型例子，是繁荣过程中价格的行为。在繁荣期间，需求在信用扩张的支撑下增长，导致价格上升，从而降低货币的交换价值。",
+            {
+              "type": "note",
+              "id": "n_ch04_044",
+              "label": "44"
+            },
+            "繁荣的转折点——对马克思来说它与工业过度生产和利润率下降相联系——必然伴随着信用紧缩和对现金的抢购。随后可能发生商业危机，其中货币作为支付手段被普遍需求，并出于预防和投机原因被贮藏。随着对现金的抢购展开，商品价格崩溃，从而提高货币的交换价值。简言之，商品货币制度下货币价值的再调整必然伴随显著——甚至剧烈——的价格波动。货币价值的再调整会有实际代价，如企业破产和失业，大多通过信用紧缩施加。此外，先验地没有任何保证：萧条期间货币交换价值的上升会准确补偿繁荣期间它的下降。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "A typical instance of the fluctuations in the value of money that Marx considered important would be given by the behaviour of prices in the course of a boom. Thus, during a boom, demand would grow, sustained by the expansion of credit, leading to the rise of prices and thus reducing the exchange value of money.",
+            {
+              "type": "note",
+              "id": "n_ch04_044",
+              "label": "44"
+            },
+            " The turning point of the boom, which for Marx is connected to industrial overproduction and a lowering of the profit rate, is inevitably accompanied by credit deflation, and a rush for cash. A commercial crisis might follow in which money would be universally demanded as means of payment, as well as being hoarded for reasons of precaution and speculation. As the rush for cash would unfold, commodity prices would collapse, thus raising the exchange value of money. In short, the readjustment of the value of money under a commodity money system would necessarily entail pronounced – and even violent – price fluctuations. The readjustment of money’s value would have real costs, such as company bankruptcies and unemployment, mostly inflicted through the deflation of credit. Furthermore, there would be no a priori guarantee that the rise in the exchange value of money during a slump would accurately compensate for its fall during a boom."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u044"
+      ],
+      "page": "85–86"
+    },
+    {
+      "id": "ch04-u045",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这一再调整过程特有的货币维度，恰恰与那些对李嘉图货币理论如此成问题的货币特殊角色和职能相关。货币作为贮藏要素、债务清偿要素以及执行普遍可接受的价值转移的作用突然凸显，会是信用收缩的特征性结果。货币会被抛到显要地位，其与商品的交换比率会改变，因为信用会崩溃。在这样的时刻，经济主体会把持有和使用货币视为迫切的社会必然，而完全不是选择问题："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The specifically monetary dimensions of this process of readjustment would be related precisely to those special roles and functions of money that were so problematic for Ricardo’s monetary theory. The sudden rise into prominence of money acting a element of hoard, of debt settlement, and of performing generally acceptable transfers of value would be a characteristic result of the contraction of credit. Money would be catapulted into prominence and its exchange rate with commodities would be changed because credit would collapse. At such times the possession and use of money would be perceived by economic agents as a dire social necessity and not at all a matter of choice:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u045"
+      ],
+      "page": "86",
+      "review": "原文“acting a element”为 OCR 讹误，当作 acting as an element。"
+    },
+    {
+      "id": "ch04-u046",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "沉醉于繁荣、傲慢地自信满满的资产者，刚刚宣称货币是纯粹想象的创造。“只有商品才是货币”，他说。但现在相反的喊声响彻世界市场：只有货币才是商品。正如牡鹿渴慕清水，他的灵魂渴慕货币——这唯一的财富。",
+            {
+              "type": "note",
+              "id": "n_ch04_045",
+              "label": "45"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "The bourgeois, drunk with prosperity and arrogantly certain of himself, has just declared that money is a purely imaginary creation. ‘Commodities alone are money’, he said. But now the opposite cry resounds over the markets of the world: only money is a commodity. As the hart pants after fresh water, so pants his soul after money, the only wealth.",
+            {
+              "type": "note",
+              "id": "n_ch04_045",
+              "label": "45"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u046"
+      ],
+      "page": "86",
+      "indent": true
+    },
+    {
+      "id": "ch04-u047",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思没有留下关于转向现金如何使货币内在价值为其交换价值提供“重心”的精确理论表述。他主要强调这一过程的突发性，以及它与贸易周期和源于生产的经济危机的密切联系。这在理论层面上与李嘉图精巧而优雅的解决相比显得逊色。然而值得肯定的是，马克思把货币的一些显然重要的职能以及货币危机的一些公认模式纳入了他的理论体系。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx left no precise theoretical formulation of how the swing to cash allows the intrinsic value of money to provide a ‘centre of gravity’ for money’s exchange value. He emphasised mostly the abrupt nature of the process, as well as its close connection to trade cycles and to economic crises originating in production. This, on a theoretical plane, contrasts poorly with Ricardo’s elaborate and elegant resolution. It is, however, to Marx’s credit that he incorporated some clearly important functions of money as well as some well-recognised patterns of monetary crisis into his theoretical system."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u047"
+      ],
+      "page": "86"
+    },
+    {
+      "id": "ch04-u048",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "同样，李嘉图的国际调整自动机制也被马克思拒绝。马克思批判的要旨是：货币在国际领域和在国内领域一样，是一种特殊商品。国际舞台上的货币是“世界货币”，充当清偿各国之间贸易失衡的支付手段，也用于“各国之间的习惯均衡”被打破的其他场合。“世界货币”还用于在世界市场上实现资本和其他财富转移，“只要不是购买或支付的问题，而是把财富从一国转移到另一国的问题，只要由于市场状况或转移目的本身而排除了以商品形式转移”。",
+            {
+              "type": "note",
+              "id": "n_ch04_046",
+              "label": "46"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In a similar vein, Ricardo’s automatic mechanism of international adjustment was also rejected by Marx. The gist of Marx’s critique is that money is a special commodity in the international sphere, as it is in the domestic sphere. Money in the international arena is ‘world money’ acting as the means of payment settling trade imbalances among nations, as well as in other instances in which ‘the customary equilibrium’ between nations is disturbed. ‘World money’ is also used to effect capital and other wealth transfers in the world market, ‘[w]henever it is not a matter of buying or paying, but of transferring wealth from one country to another, and whenever its transfer in the form of commodities is ruled out, either by the conjuncture of the market, or by the purpose of the transfer itself’.",
+            {
+              "type": "note",
+              "id": "n_ch04_046",
+              "label": "46"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u048"
+      ],
+      "page": "86–87"
+    },
+    {
+      "id": "ch04-u049",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "为参与世界贸易，各国必须拥有世界货币准备，不能把它与面向国内流通需要的国内准备混为一谈。",
+            {
+              "type": "note",
+              "id": "n_ch04_047",
+              "label": "47"
+            },
+            "马克思的基本看法是：世界市场上各国之间根本不存在自动平衡机制。事实上，他反复指出，国际收支危机以及他那个时代随之而来的黄金枯竭，往往相继波及所有资本主义国家。对马克思来说，这表明“问题的根源实际上根本不在国际收支”，而在于“由信用助长的过度生产以及随之而来的价格普遍上涨”。",
+            {
+              "type": "note",
+              "id": "n_ch04_048",
+              "label": "48"
+            },
+            "“实际”因素而非货币因素通常引起国际收支失衡。信用紧缩是随之而来的国际危机的特征，而强制性的货币国际移动发生在各国之间差额的清偿中。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In order to participate in world trade, countries have to possess a reserve of world money, which is not to be confused with the domestic reserve aiming at the needs of domestic circulation.",
+            {
+              "type": "note",
+              "id": "n_ch04_047",
+              "label": "47"
+            },
+            " Marx’s underlying view is that no automatic balancing mechanism among nations in the world markets exists at all. Indeed, he repeatedly pointed out that balance of payments crises, and the attendant drain of gold in his time, tend to involve all capitalist countries successively. To Marx, this indicated that ‘the root of the problem is actually not the balance of payments at all’, but rather ‘overproduction, fostered by credit and the accompanying general inflation in prices’.",
+            {
+              "type": "note",
+              "id": "n_ch04_048",
+              "label": "48"
+            },
+            " ‘Real’, rather than monetary, factors typically cause balance of payments disequilibria. Credit deflation is characteristic of the resulting international crises, and compulsory international movements of money take place in the settlement of balances between nations."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u049"
+      ],
+      "page": "87"
+    },
+    {
+      "id": "ch04-u050",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "最后，马克思批判李嘉图“任意摆布”1797–1821年英格兰银行券停止兑换时期的实际经济现象，以否认“实际”因素（如歉收）对贸易差额的不稳定影响，并把价格现象完全归因于货币过剩。同理，马克思与其他古典政治经济学家不同，没有贬低重商主义者对黄金在国际资本主义贸易中所扮演的特殊角色的强调。",
+            {
+              "type": "note",
+              "id": "n_ch04_049",
+              "label": "49"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Finally, Marx criticised Ricardo for ‘arbitrarily arranging’ the actual economic phenomena of the period of the Restriction of convertibility of Bank of England notes during 1797–1821 to refute the existence of ‘real’ destabilising influences on the balance of trade (such as harvest failure) and to ascribe price phenomena exclusively to monetary excess. By the same token, Marx, unlike other classical political economists, did not disparage the emphasis laid by the Mercantilists on the exceptional role played by gold in international capitalist trade.",
+            {
+              "type": "note",
+              "id": "n_ch04_049",
+              "label": "49"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u050"
+      ],
+      "page": "87"
+    },
+    {
+      "id": "ch04-u051",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而值得注意的是，马克思的著作不包含一个在劳动价值论基础上把国际货币现象与国内货币现象联系起来的理论机制。国内流通手段和准备与国际支付手段和准备之间的关系，马克思是提示而非分析。在马克思著作中找不到对“世界货币”行为及其在全球范围内与国内货币联系的正确理论分析。这再一次与李嘉图对这些问题的圆熟理论处理相形见绌。即便如此，马克思讨论的旨趣意味着：以李嘉图方式解决这些问题的狭隘货币模型会误导而非澄清。马克思对货币在资本主义流通中的特殊性质和职能的强调表明：要把国内货币现象与国际货币现象联系起来，需要更广泛的理论，纳入对生产本身的分析、信用的作用（以及民族国家经济角色重要性）的分析。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "However, it is notable that Marx’s work does not contain a theoretical mechanism connecting international to domestic monetary phenomena on the basis of the labour theory of value. The relation between domestic means of circulation and reserves to international means of payment and reserves, was suggested rather than analysed by Marx. No proper theoretical analysis of the behaviour of ‘world money’ and its connection to domestic money on a global scale is to be found in Marx’s work. This is, once again, in poor contrast to Ricardo’s polished theoretical treatment of these questions. Even so, the tenor of Marx’s discussion implies that a narrow monetary model resolving the issues in the manner of Ricardo would mislead rather than clarify. Marx’s stress on the special character and functions of money in capitalist circulation indicates that broader theories, incorporating the analysis of production itself and the role of credit (as well as the significance of the economic role of the nation state) are necessary in order to connect domestic to international monetary phenomena."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u051"
+      ],
+      "page": "87–88"
+    },
+    {
+      "id": "ch04-u052",
+      "canonical_kind": "heading",
+      "zh": [
+        "4 桑顿的分析与瓦伊纳对调整机制的重构"
+      ],
+      "en": [
+        "4 Thornton’s Analysis and Viner’s Reconstruction of the Adjustment Mechanism"
+      ],
+      "source_ids": [
+        "ch04-u052"
+      ],
+      "page": "88",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch04-u053",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "桑顿对“实际”因素（区别于货币因素）对贸易差额、汇率和黄金价格影响的分析，见于其著作第五章。应当强调，在该章中桑顿没有运用休谟的机制，尽管他显然知道它。",
+            {
+              "type": "note",
+              "id": "n_ch04_050",
+              "label": "50"
+            },
+            "桑顿的论证毋宁是：进出口在长期中自然平衡，因为任何国家都不可能无限期地积累债务或流失金块。",
+            {
+              "type": "note",
+              "id": "n_ch04_051",
+              "label": "51"
+            },
+            "然而在短期中，自然平衡可能被打破。歉收可能导致贸易逆差，而它无法通过节约进口或扩大出口迅速消除。对进口国开出的汇票量会上升，因此汇率会下降。于是，送往国外的黄金需求上升，导致黄金市场价格上涨。这会制造规避禁止熔化铸币法律的激励，而随着熔化发生，英格兰银行必然损失金块准备。然而桑顿没有提出黄金输出会通过价格效应或收入效应以休谟的方式恢复均衡。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thornton’s analysis of the effect of ‘real’, as distinct from monetary, factors on the balance of trade, the rate of exchange and the price of gold, is to be found in chapter v of his book. It should be stressed that in that chapter Thornton did not employ Hume’s mechanism, though he clearly knew it.",
+            {
+              "type": "note",
+              "id": "n_ch04_050",
+              "label": "50"
+            },
+            " Thornton’s argument was, rather, that imports and exports naturally balance in the long run because it is simply not possible for any country either to accumulate debt or to lose bullion indefinitely.",
+            {
+              "type": "note",
+              "id": "n_ch04_051",
+              "label": "51"
+            },
+            " In the short run, however, the natural balance could be disturbed. Bad harvests could lead to a balance of trade deficit, which could not be promptly eliminated either by economising on imports, or by expanding exports. The volume of bills on the importing country would rise, hence the exchange rate would fall. Thus, the demand for gold to send abroad would rise, leading to a higher market price for gold. This would create an incentive to evade the law which forbade the melting down of coin, and, as melting took place, the Bank of England would inevitably lose bullion reserves. Thornton, however, did not suggest that the export of gold would, through either price or income effects, restore equilibrium in the manner of Hume."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u053"
+      ],
+      "page": "88"
+    },
+    {
+      "id": "ch04-u054",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "按照桑顿的说法，英格兰银行的紧缩政策可以制止由“实际”因素引起的短期黄金外流，从而恢复对外支付均衡。在提出这一主张时，部分地结合亚当·斯密对货币流通的讨论，桑顿提出了如下想法："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Contractionary policy by the Bank of England, according to Thornton, could arrest short-run drains of gold caused by ‘real’ factors, and thus restore external payments equilibrium. In making this claim, and partly in relation to Adam Smith’s discussion of monetary circulation, Thornton put forth the following idea:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u054"
+      ],
+      "page": "88"
+    },
+    {
+      "id": "ch04-u055",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "在贸易差额非常不利之时（斯密博士完全不予考虑的一种情况），依我理解，很可能所谓纸币过剩——如果真要这样称呼的话——仅仅是超过了那个极低且已缩减的数量的过剩；而为防止黄金的市场价格高于其铸币价格，纸币数量必须被压低到那个水平。",
+            {
+              "type": "note",
+              "id": "n_ch04_052",
+              "label": "52"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "At the time of a very unfavourable balance of trade (an event which Dr Smith leaves totally out of his consideration), it is very possible, as I apprehend, that the excess of paper, if such is to be called, is merely an excess above that very low and reduced quantity to which it is necessary that it should be brought down, in order to prevent the existence of an excess of the market price above the mint price of gold.",
+            {
+              "type": "note",
+              "id": "n_ch04_052",
+              "label": "52"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u055"
+      ],
+      "page": "89",
+      "indent": true
+    },
+    {
+      "id": "ch04-u056",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此，对桑顿来说，纸币过剩——“如果真要这样称呼的话”——不是重新确立货币价值的自动机制的一部分。毋宁说，桑顿提出了一个重要的实践论点：无论原因如何，紧缩性货币政策都会纠正对外失衡。即便如此，他进一步论证说，应避免急剧紧缩，理由是它会对国内生产造成更大损害。对英国来说，更好的做法是单纯持有大量黄金贮藏，并容忍英格兰银行准备率下降以度过外流。",
+            {
+              "type": "note",
+              "id": "n_ch04_053",
+              "label": "53"
+            },
+            "瓦伊纳采纳了桑顿在上述条件下货币过剩的试探性想法，把它纳入自动机制，并进而应用于桑顿从未明确讨论的资本转移所引起的逆差。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thus, for Thornron, an excess of paper, ‘if such is to be called’, is not part of an automatic mechanism for re-establishing the value of money. Rather, Thornton made the important practical point that contractionary monetary policy would correct the external imbalance regardless of cause. Even so, he further argued that a sharp contraction should be avoided on the grounds that it would cause greate damage to production in the country. It would be better for Britain simply to possess a large hoard of gold, and to sit out the drain by tolerating a reduction in the Bank of England’s reserve ratio.",
+            {
+              "type": "note",
+              "id": "n_ch04_053",
+              "label": "53"
+            },
+            " Viner adopted Thornton’s tentative notion of excess of money under the above conditions, incorporated it into the automatic mechanism, and proceeded to apply it to deficits arising out of capital transfers which Thornton never explicitly discussed."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u056"
+      ],
+      "page": "89",
+      "review": "原文“Thornron”“greate”为 OCR 讹误，当作 Thornton、greater。"
+    },
+    {
+      "id": "ch04-u057",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "桑顿在其著作第五章的分析，对国际调整过程中以金币表示的黄金货币价格的行为有些混乱（霍纳在不同语境下注意到这一点），李嘉图迅速扑击：桑顿犯了一个简单错误，竟提出黄金需求上升可能提高黄金的黄金价格。",
+            {
+              "type": "note",
+              "id": "n_ch04_054",
+              "label": "54"
+            },
+            "尽管如此，李嘉图关心寻找补充论据来反驳的正是桑顿著作的这一部分，这一事实表明一个敏感点被触到了。于是，李嘉图要求桑顿解释为什么外国人拒绝接受英国商品而要求货币。",
+            {
+              "type": "note",
+              "id": "n_ch04_055",
+              "label": "55"
+            },
+            "桑顿非但没有为国际调整机制提供更好的基础，反而论证了对该机制相当成问题的东西：货币在国际资本主义交换中表现为特殊商品："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thornton’s analysis in chapter v of his book contained some confusion on the behaviour of the money price of gold expressed in gold coin in the course of international adjustment (noted in a different context by Horner), and Ricardo was quick to pounce: Thornton had made a simple error when he suggested that a rise in gold demand could increase the gold price of gold.",
+            {
+              "type": "note",
+              "id": "n_ch04_054",
+              "label": "54"
+            },
+            " Nonetheless, the fact that Ricardo was concerned to find supplementary arguments to rebut precisely this part of Thornton’s work indicated that a sensitive point had been touched. Thus, Ricardo asked Thornton to explain why foreigners should refuse to accept English goods and demand money instead.",
+            {
+              "type": "note",
+              "id": "n_ch04_055",
+              "label": "55"
+            },
+            " Far from providing better foundations for the mechanism of international adjustment, Thornton had actually argued something quite problematic for it: money behaved as a special commodity in international capitalist exchange:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u057"
+      ],
+      "page": "89"
+    },
+    {
+      "id": "ch04-u058",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "因此，处于顺差的国家在一定程度上急于得到偿付，却并不立即需要用以清偿差额的那全部商品供给，于是宁愿以黄金作为至少一部分偿付；因为黄金总能比任何其他商品的极大过剩余额转用于更有利的用途。",
+            {
+              "type": "note",
+              "id": "n_ch04_056",
+              "label": "56"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "The country, therefore, which has the favourable balance, being, to a certain degree, eager for payment, but not in immediate want of all that supply of goods which would be necessary to pay the balance, prefers gold as part, at least, of the payment; for gold can always be turned to a more beneficial use than a very great overplus of any other commodity.",
+            {
+              "type": "note",
+              "id": "n_ch04_056",
+              "label": "56"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u058"
+      ],
+      "page": "89–90",
+      "indent": true
+    },
+    {
+      "id": "ch04-u059",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在其著作第八、九章中，桑顿分析了货币供给的波动，并阐述了一个与休谟非常相似的机制。他对信用货币扩张如何能对资本积累产生“实际”影响、但也能通过更高的国内支出和价格导致贸易逆差和汇率下降，给出了一个受到恰当赞誉的说明。但桑顿的这些主张对李嘉图并不成问题。吸引他火力的是桑顿对作用于贸易差额的“实际”因素的非休谟式讨论，以及由此产生的向国外输送货币的必然性。这些因素及由此产生的货币角色，在李嘉图的国际调整机制内理论上难以处理。然而桑顿甚至没有意识到这个理论问题。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In chapters viii and ix of his book, Thornton analysed fluctuations in the money supply, and expounded a mechanism very similar to Hume’s. He gave a rightly lauded account of how expansion of credit money could have ‘real’ effects on capital accumulation, but could also lead to a balance of trade deficit and to a fall in the exchange rate through higher domestic expenditure and prices. But these claims by Thornton were not problematic for Ricardo. His fire was attracted by Thornton’s non-Humean discussion of ‘real’ factors operating on the balance of trade, and the resulting necessity to send money abroad. Such factors, and the resultant role of money, were theoretically intractable within Ricardo’s mechanism of international adjustment. Thornton, however, was not even aware of the theoretical problem."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u059"
+      ],
+      "page": "90"
+    },
+    {
+      "id": "ch04-u060",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "瓦伊纳的意见——即桑顿把“休谟式解释一般地应用于任何类型的国际收支扰动”——在为现代国际收支自动调整理论提供古典谱系方面一直有影响。",
+            {
+              "type": "note",
+              "id": "n_ch04_057",
+              "label": "57"
+            },
+            "瓦伊纳把李嘉图的国际货币流通理论概括如下：(1)"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Viner’s opinion, namely that Thornton had applied ‘the Hume type of explanation generally to any type of disturbance of the balance of payments’, has been influential in providing a classical pedigree for modern theories of automatic adjustment of international balances.",
+            {
+              "type": "note",
+              "id": "n_ch04_057",
+              "label": "57"
+            },
+            " Viner summarised Ricardo’s theory of international monetary circulation as follows: (1)"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u060"
+      ],
+      "page": "90"
+    },
+    {
+      "id": "ch04-u061",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "黄金只有在相对于其他国家相对冗余时才会被输出。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "Gold will be exported only if it is relatively redundant as compared to other countries."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u061"
+      ],
+      "page": "90",
+      "indent": true
+    },
+    {
+      "id": "ch04-u062",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "(2)"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "(2)"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u062"
+      ],
+      "page": "90"
+    },
+    {
+      "id": "ch04-u063",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "黄金输出总是不利贸易差额的原因，而绝不是其结果。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "An export of gold is always the",
+            {
+              "type": "em",
+              "children": [
+                " cause"
+              ]
+            },
+            ", never the",
+            {
+              "type": "em",
+              "children": [
+                " effect"
+              ]
+            },
+            ", of an unfavourable balance of trade."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u063"
+      ],
+      "page": "90",
+      "indent": true
+    },
+    {
+      "id": "ch04-u064",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "(3)"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "(3)"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u064"
+      ],
+      "page": "90"
+    },
+    {
+      "id": "ch04-u065",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "歉收、或给予外国补贴或贷款，并不造成通货冗余，即并不使遭受歉收或给予补贴或贷款的国家的现有价格水平过高，因此并不导致黄金输出。",
+            {
+              "type": "note",
+              "id": "n_ch04_058",
+              "label": "58"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "A failure of the harvest, or the grant of a subsidy or loan to a foreign country, does not create a redundancy of currency, that is, does not make the existing level of prices in the country suffering the failure of the harvest, or granting the subsidy or loan, too high, and, therefore, does not result in the export of gold.",
+            {
+              "type": "note",
+              "id": "n_ch04_058",
+              "label": "58"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u065"
+      ],
+      "page": "90",
+      "indent": true
+    },
+    {
+      "id": "ch04-u066",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本章的一个关键论点是：冗余、即货币相对于国内商品的过剩，确实对李嘉图（和休谟）的机制是根本性的。然而也已论证：如果货币过剩是古典自动机制的根本部分，那么在把货币冗余观念与货币显得出于必然而被输出的场合相调和时，就存在一个根本的理论问题。在“实际”因素（如歉收）引起贸易逆差的场合，这个问题尤其尖锐。瓦伊纳对这个问题的解决——发挥桑顿关于货币过剩的附带议论——值得长段引用："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It has been a key point of this chapter that redundancy, or excess of money relative to domestic commodities, was indeed fundamental to Ricardo’s (and Hume’s) mechanism. However, it has also been argued that if excess of money is a fundamental part of the automatic classical mechanism, there is a fundamental theoretical problem in reconciling the idea of money redundancy with occasions in which money appeared to be exported out of necessity. The problem is particularly acute on occasions when ‘real’ factors, such as bad harvests, cause balance of trade deficits. Viner’s resolution for this problem, elaborating on Thornton’s aside on money excess, is worth quoting at length:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u066"
+      ],
+      "page": "90–91"
+    },
+    {
+      "id": "ch04-u067",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "这些命题中的第一个无疑正确。但它需要比李嘉图给出的更仔细的定义。如果两国相对价格水平使得两国之间的贸易导致国际收支平衡，那么两国就拥有相对于彼此的适当通货量。任何使一国价格水平过高而不能带来国际收支平衡的原因——无论是纸币超额发行、歉收、对外贷款、还是外国对其产品相对需求与其对外国商品需求相比的突然下降——都使该国通货冗余。",
+            {
+              "type": "note",
+              "id": "n_ch04_059",
+              "label": "59"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "The first of these propositions is unquestionably sound. But it requires more careful definition than is given to it by Ricardo. Two countries have the proper amounts of currency relative to each other if the relative price levels in the two countries are such that trade between the countries results in an even balance of international payments. Any cause which makes the price level of a country too high to bring about an even balance of international payments, whether it be an over-issue of paper currency, or a crop failure, or the grant of a foreign loan, or a sudden decline in the relative demand of foreign countries for its products as compared to its demand for foreign commodities, makes currency redundant in that country.",
+            {
+              "type": "note",
+              "id": "n_ch04_059",
+              "label": "59"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u067"
+      ],
+      "page": "91",
+      "indent": true
+    },
+    {
+      "id": "ch04-u068",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此对瓦伊纳来说，“适当”货币量完全参照国际收支、以价格水平为中间步骤来决定。他显然把这一点看作自动机制的真正一般原理。",
+            {
+              "type": "note",
+              "id": "n_ch04_060",
+              "label": "60"
+            },
+            "如果一国不能平衡其收支，那就意味着其价格水平过高，也就意味着其货币量过大。可以说通过反向论证，瓦伊纳识别出了作用于国际交易的“实际”因素与货币因素之间的一个共同要素，即逆差的存在本身。因此，在所有这些场合国内价格水平都过高、货币量都过大。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For Viner, then, the ‘proper’ quantity of money is determined entirely by reference to the balance of payments, using the intervening step of the price level. He evidently thought of this point as the true general principle of the automatic mechanism.",
+            {
+              "type": "note",
+              "id": "n_ch04_060",
+              "label": "60"
+            },
+            " If a country could not balance its payments it followed that its price level was too high, which meant that its quantity of money was too large. Arguing backwards, as it were, Viner identified a common element between ‘real’ and monetary factors operating on the balance of international transactions, i.e. the very existence of a deficit. Consequently, the domestic price level was too high in all such instances, and the quantity of money too large."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u068"
+      ],
+      "page": "91"
+    },
+    {
+      "id": "ch04-u069",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "瓦伊纳对李嘉图第二、第三命题的拒绝，依赖上述关于价格水平“错误”的看法。如果存在国际收支失衡，价格就是“错误”的；如果它们保持“错误”，对外贷款或外部冲击就无法通过进出口量的变化来弥补。",
+            {
+              "type": "note",
+              "id": "n_ch04_061",
+              "label": "61"
+            },
+            "因此，适当的货币移动必须发生，纠正价格水平并恢复均衡，从而自动机制保留其一般适用性。瓦伊纳最后论证说，也许李嘉图对黄金输出困难有“夸大的观念”，没有意识到黄金可以按相同名义价值迅速清偿债务。",
+            {
+              "type": "note",
+              "id": "n_ch04_062",
+              "label": "62"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Viner’s rejection of Ricardo’s second and third propositions relied on the above view of the ‘wrong’ level of prices. Prices were ‘wrong’ if there was a balance of payments disequilibrium, and if they remained ‘wrong’, foreign loans or external shocks could not be made good by changes in the volume of exports and imports.",
+            {
+              "type": "note",
+              "id": "n_ch04_061",
+              "label": "61"
+            },
+            " Therefore, appropriate money movements had to take place, correcting the price levels and restoring equilibrium, and thus the automatic mechanism retained its general applicability. Viner finally argued that, perhaps, Ricardo had ‘an exaggerated notion’ of the difficulty of exporting gold, and did not appreciate that gold could settle debts promptly and at the same nominal value.",
+            {
+              "type": "note",
+              "id": "n_ch04_062",
+              "label": "62"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u069"
+      ],
+      "page": "91–92"
+    },
+    {
+      "id": "ch04-u070",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而，如果我们用古典的货币价值术语来思考瓦伊纳的论证，就会清楚：他通过使货币交换价值与国内商品对货币的比例脱钩，解决了李嘉图的问题。即使国内商品对货币的比例相对于世界其他国家可能是“正确的”，只要贸易差额逆差，货币交换价值就是“错误”的。问题在于：如果瓦伊纳的论证成立，那就意味着全球体系的均衡与各国产出水平和流通速度的底层现实没有必然联系。然而如我们所见，这种假定的必然联系对休谟和李嘉图都至关重要。具体说，在李嘉图图式中，国际均衡意味着为世界每个国家确立正确的商品对货币比例，这也意味着货币交换价值在全世界与其内在价值一致。同样，在休谟图式中，货币寻求其适当“水平”，与商品对货币在全世界的适当数量划分一致。相反，在瓦伊纳的表述中，除了贸易差额均衡存在这一未加解释的事实之外，全球“正确”货币交换价值没有任何基础。那不是对古典国际调整自动机制的有效辩护。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "However, if we think of Viner’s argument in the classical terms of the value of money, it becomes evident that he solved Ricardo’s problem by making the exchange value of money unrelated to the domestic proportions of commodities to money. The exchange value of money would be ‘wrong’ if the trade balance was in deficit, even though the domestic proportion of commodities to money could be ‘right’ relative to the rest of the world. The problem is that, if Viner’s argument holds, it would follow that the equilibrium of the global system would have no necessary connection to the underlying reality of output levels and velocities in each country. Yet, the presumed necessary connection was of vital importance to both Hume and Ricardo, as we have seen. Specifically, in Ricardo’s schema, international equilibrium implies the establishment of the correct proportion of commodities to money for each country of the world, which also means that the exchange value of money is brought in line with its intrinsic value across the world. Similarly, in Hume’s schema, money seeks its proper ‘level’, consonant with the proper quantitative division of commodities to money across the world. In Viner’s formulation, in contrast, there is no foundation for the globally ‘correct’ exchange value of money, other than the unexplained fact of the existence of balance of trade equilibrium. That is not an effective defence of the classical automatic mechanism of international adjustment."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u070"
+      ],
+      "page": "92"
+    },
+    {
+      "id": "ch04-u071",
+      "canonical_kind": "heading",
+      "zh": [
+        "结论"
+      ],
+      "en": [
+        "Conclusion"
+      ],
+      "source_ids": [
+        "ch04-u071"
+      ],
+      "page": "92",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch04-u072",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "休谟和李嘉图试图构造一个理论机制，使国内确立的货币交换价值在世界市场上找到共同水平。该机制使不同国家的国内商品与货币比例均等化，并调整国际差额。只要货币是简单商品和单纯流通手段，这座理论大厦就运转良好。在此基础上，李嘉图还能使均衡货币交换价值与货币内在的劳动量价值一致。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Hume and Ricardo attempted to construct a theoretical mechanism through which the domestically established exchange value of money found a common level across the world market. The mechanism equalised the domestic proportions of commodities and money for different countries, and adjusted international balances. This theoretical edifice functioned satisfactorily, provided that money was a simple commodity and a plain means of circulation. On this basis, Ricardo was also able to make the equilibrium exchange value of money consonant with the money’s intrinsic, quantity-of-labour value."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u072"
+      ],
+      "page": "92–93"
+    },
+    {
+      "id": "ch04-u073",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "古典机制在容纳货币作为特殊商品发挥作用的现象时——例如贮藏形成、国际价值转移、国际和国内债务清偿——必然遇到困难。李嘉图异乎寻常地坚持货币只有在其数量在国内过多时才被输出，这是把货币当作简单商品以支撑机制融贯性这一需要的推论。李嘉图攻击桑顿，因为桑顿强调货币在国际交换中的特殊角色，从而凸显了机制底层的理论弱点。瓦伊纳完全忽略李嘉图分析的价值维度，通过假定该弱点不存在来修补机制。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The classical mechanism inevitably faced difficulties in accommodating phenomena in which money functioned as a special commodity, for instance, in hoard formation, in international value transfers, and in international and domestic debt settlement. Ricardo’s bizarre insistence that money is exported only when its quantity is excessive domestically, is a corollary of the need to treat money as a simple commodity to support the coherence of the mechanism. Ricardo attacked Thornton because he stressed the special role of money in international exchange, thus highlighting the underlying theoretical weakness of the mechanism. Viner ignored entirely the value dimension of Ricardo’s analysis, and corrected the weakness of the mechanism by assuming it away."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u073"
+      ],
+      "page": "93"
+    },
+    {
+      "id": "ch04-u074",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思尽管同样从具有自身劳动量价值的商品货币出发，却拒绝了李嘉图的国内货币数量论以及国际调整自动机制。这样做时，马克思的著作失去了李嘉图著作的优雅和表面完备。然而，马克思的分析恰恰能够强调那些李嘉图觉得难以纳入其理论的货币现象。马克思进一步指出：要解释国际交易失衡，需要一个更广泛的理论，纳入对生产不稳定性和信用波动的分析。正因如此，他较少优雅的货币著作比李嘉图的著作更具现实意义。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx, despite also starting from a commodity money with its own labourquantity-value, rejected Ricardo’s domestic quantity theory of money as well as the automatic mechanism of international adjustment. In doing so, Marx’s work lost the elegance and apparent completeness of that of Ricardo. However, Marx’s analysis was able to stress precisely the monetary phenomena which Ricardo found so difficult to incorporate into his theory. Marx further indicated that a broader theory, incorporating an analysis of instability of production and fluctuations of credit would be necessary to explain imbalances in international transactions. For this reason, his less elegant monetary work retains more relevance than Ricardo’s."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch04-u074"
+      ],
+      "page": "93",
+      "review": "原文“labourquantity-value”连写为 OCR 讹误，当作 labour-quantity-value。"
+    }
+  ]
+}

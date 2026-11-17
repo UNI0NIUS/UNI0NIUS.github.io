@@ -1,0 +1,3966 @@
+{
+  "id": "ch05",
+  "title": "5. 货币与资本主义分析：商品货币的意义*",
+  "originalTitle": "5. Money and the Analysis of Capitalism: The Significance of Commodity Money*",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "outline": [
+    {
+      "anchor": "ch05-u002",
+      "title": "1 引言",
+      "originalTitle": "1 Introduction",
+      "level": 1
+    },
+    {
+      "anchor": "ch05-u007",
+      "title": "2 货币的内在价值：商品货币能否胜任货币职能与货币形式的演变",
+      "originalTitle": "2 Intrinsic Value of Money: Adequacy of Commodity Money for Performance of Money’s Functions and Evolution of the Form of Money",
+      "level": 1
+    },
+    {
+      "anchor": "ch05-u009",
+      "title": "2.1 价值尺度",
+      "originalTitle": "2.1 Measure of Value",
+      "level": 2
+    },
+    {
+      "anchor": "ch05-u020",
+      "title": "2.2 交换手段",
+      "originalTitle": "2.2 Means of Exchange",
+      "level": 2
+    },
+    {
+      "anchor": "ch05-u024",
+      "title": "2.3 货币作为货币",
+      "originalTitle": "2.3 Money as Money",
+      "level": 2
+    },
+    {
+      "anchor": "ch05-u034",
+      "title": "3 货币交换价值的决定：商品货币与无价值货币的对照",
+      "originalTitle": "3 Determining the Exchange Value of Money: The Contrast between Commodity Money and Valueless Money",
+      "level": 1
+    },
+    {
+      "anchor": "ch05-u038",
+      "title": "3.1 货币交换价值的决定",
+      "originalTitle": "3.1 Determining the Exchange Value of Money",
+      "level": 2
+    },
+    {
+      "anchor": "ch05-u044",
+      "title": "3.2 货币作为商品时的交换价值",
+      "originalTitle": "3.2 The Exchange Value of Money when Money is a Commodity",
+      "level": 2
+    },
+    {
+      "anchor": "ch05-u063",
+      "title": "3.3 货币内在无价值时的交换价值",
+      "originalTitle": "3.3 The Exchange Value of Money when Money is Intrinsically Valueless",
+      "level": 2
+    },
+    {
+      "anchor": "ch05-u069",
+      "title": "3.3.1 法定货币交换价值的决定",
+      "originalTitle": "3.3.1 Determining the Exchange Value of Fiat Money",
+      "level": 2
+    },
+    {
+      "anchor": "ch05-u075",
+      "title": "3.3.2 信用货币交换价值的决定",
+      "originalTitle": "3.3.2 Determining the Exchange Value of Credit Money",
+      "level": 2
+    },
+    {
+      "anchor": "ch05-u100",
+      "title": "结论",
+      "originalTitle": "Conclusion",
+      "level": 1
+    }
+  ],
+  "notes": {
+    "n_ch05_001": {
+      "number": "1",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "感谢 B. 法恩、伊藤诚、A. 萨德-菲略和 M. 西部忠对手稿提出的意见。一切错误由我负责。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thanks are due to B. Fine, M. Itoh, A. Saad-Filho and M. Nishibe for comments on the manuscript. All errors are my responsibility."
+          ]
+        }
+      ]
+    },
+    "n_ch05_002": {
+      "number": "2",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for the former, Lavoie 1986 and Wolfson 1988; for the latter, see Foley 1982a and 1983b."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for the former, Lavoie 1986 and Wolfson 1988; for the latter, see Foley 1982a and 1983b."
+          ]
+        }
+      ]
+    },
+    "n_ch05_003": {
+      "number": "3",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "关于价值是在生产中还是在交换中创造的讨论，以及其中涉及的概念微妙之处，完全不在我们的论域之内。不过，本章显然采取一种“正统”观点，即抽象劳动是价值的实体，在资本主义条件下于生产中创造（见 Fine and Harris 1979, ch. 2, or Itoh 1988, ch. 4）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The discussion of whether value is created in production or in exchange, and the conceptual subtleties involved, are entirely outside our remit. However, this chapter obviously adopts an ‘orthodox’ view, namely that abstract labour is the substance of value that is created in production under capitalist conditions (see Fine and Harris 1979, ch. 2, or Itoh 1988, ch. 4)."
+          ]
+        }
+      ]
+    },
+    "n_ch05_004": {
+      "number": "4",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, ch. 2."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, ch. 2."
+          ]
+        }
+      ]
+    },
+    "n_ch05_005": {
+      "number": "5",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "铸币税问题可以搁置而不失一般性；地租（绝对地租与级差地租）问题也可以忽略，因为它与本章关于价值与价格的一般论证不矛盾。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The problem of seigniorage could be set aside without loss of generality; the problem of ground rent (absolute and differential) could also be ignored since it does not contradict the general argument regarding value and price put forth in this chapter."
+          ]
+        }
+      ]
+    },
+    "n_ch05_006": {
+      "number": "6",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Itoh 1988, ch. 9."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Itoh 1988, ch. 9."
+          ]
+        }
+      ]
+    },
+    "n_ch05_007": {
+      "number": "7",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思（Marx 1976b, chs. 2 and 3）区分狭义的流通手段与广义的交换手段；后者还包括支付手段。本章这一节只关心狭义的流通手段，不过紧接着也会考虑支付手段。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx (1976b, chs. 2 and 3) differentiates between narrow means of circulation and broad means of exchange; the latter also includes means of payment. This section of the chapter is concerned exclusively with narrow means of circulation, though immediately below means of payment will also be considered."
+          ]
+        }
+      ]
+    },
+    "n_ch05_008": {
+      "number": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "整个十八世纪（商品货币密集流通的时期），货币理论严重关注低质货币“流通”中隐含的各种问题，主要是两国货币之间兑换比率的问题。货币实践试图避免这些问题：把货币缝在钱袋里，或最终设立阿姆斯特丹银行这样的机构——它发行以贵金属准备全额支持的存款，并通过存款间账目转移清算交易。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Throughout the eighteenth century (a period of intense circulation of commodity money), monetary theory was heavily preoccupied with the various problems implicit in ‘circulation’ of low quality, primarily those regarding the rate of exchange between two national currencies. Monetary practice tried to avoid these problems by sewing up money in purses, or, ultimately, by creating institutions such as the Bank of Amsterdam, which issued deposits fully backed by reserves of precious metals and settled transactions through the transfer of entries among deposits."
+          ]
+        }
+      ]
+    },
+    "n_ch05_009": {
+      "number": "9",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 226–7."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 226–7."
+          ]
+        }
+      ]
+    },
+    "n_ch05_010": {
+      "number": "10",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "正如亚当·斯密所示，缺乏内在价值也意味着社会省去了从地球深处提取交换手段的劳动成本（Smith 1904, vol. i, bk. ii, ch. ii, pp. 301–10）。考虑到交换手段只是便利收入的流通而不增加收入，社会的收益是实质性的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As Adam Smith showed, lack of intrinsic value also means that society is spared the labour costs of extracting the means of exchange from the bowels of the earth (Smith 1904, vol. i, bk. ii, ch. ii, pp. 301–10). The gain to society is substantial, considering that means of exchange simply facilitates the circulation of revenue without adding to it."
+          ]
+        }
+      ]
+    },
+    "n_ch05_011": {
+      "number": "11",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 227."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 227."
+          ]
+        }
+      ]
+    },
+    "n_ch05_012": {
+      "number": "12",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "同上。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ibid."
+          ]
+        }
+      ]
+    },
+    "n_ch05_013": {
+      "number": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, pp. 236–7."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, pp. 236–7."
+          ]
+        }
+      ]
+    },
+    "n_ch05_014": {
+      "number": "14",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This issue is fully analysed in Itoh and Lapavitsas 1998, ch. 4."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This issue is fully analysed in Itoh and Lapavitsas 1998, ch. 4."
+          ]
+        }
+      ]
+    },
+    "n_ch05_015": {
+      "number": "15",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Itoh and Lapavitsas 1998, ch. 2."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Itoh and Lapavitsas 1998, ch. 2."
+          ]
+        }
+      ]
+    },
+    "n_ch05_016": {
+      "number": "16",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思详细分析了货币在执行流通手段与支付手段职能时的运动特征（Marx 1970, pp. 98–107 and 137–48；另见 Lapavitsas 1991）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The character of money’s motion in performing the functions of means of circulation and means of payment was analysed in detail by Marx (1970, pp. 98–107 and 137–48; see also Lapavitsas 1991)."
+          ]
+        }
+      ]
+    },
+    "n_ch05_017": {
+      "number": "17",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "当假定产出的单位内在价值即一般“价值水平”时，使用价值加总的问题不可避免会出现。然而，同样的问题也内在于一般价格水平的任何表述，而后者是经济理论中广泛使用的概念。加总的概念问题不应妨碍我们获得该概念所能提供的洞见。于是，货币的交换价值Y/M应被理解为实物数量之比，即“每实物单位货币的实物产出”。如下文所见，这正是数量论者对该比率的原初理解。还值得强调，这里Y与M都被视为存在于交换领域中的存量，因为分析针对给定时期进行，且假定了待流通商品量等于该期产出。"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "校注　印刷本数量符号为小大写Y、M；OCR文本层误作小写。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The problem of aggregation of use values inevitably emerges when a per unit intrinsic value of output is postulated, i.e. a general ‘value level’. However, the same problem is inherent in any formulation of the general price level, a concept very widely employed in economic theory. The conceptual problems of aggregation should not prevent us from gaining the insight that the concept can afford. Thus, the exchange value of money, Y/M, should be thought of as a ratio of physical quantities, i.e. ‘physical output per physical unit money’. That, as we shall see, was the original understanding of the ratio by quantity theorists. It is also worth stressing that both Y and M are here taken as stocks present in the sphere of exchange, since analysis is undertaken for a given period of time and it was assumed that the quantity of commodities to be circulated equals output for the period."
+          ]
+        }
+      ]
+    },
+    "n_ch05_018": {
+      "number": "18",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hume 1955, p. 37 and p. 48."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hume 1955, p. 37 and p. 48."
+          ]
+        }
+      ]
+    },
+    "n_ch05_019": {
+      "number": "19",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而，休谟还假定全世界货币交换价值有一个共同“水平”，这给他的图式引入了均衡要素。例如，如果M因黄金发现而上升，其他条件不变，国内货币交换价值相对于世界就会下降。这会诱发货币输出与商品输入，直到与全球比率再次建立均衡。于是商品货币的交换价值通过全球货币数量论来调节，即通常所说的“价格水平—铸币流动”机制。"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "校注　印刷本数量符号为小大写M；OCR文本层误作小写。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "However, Hume also postulated a common ‘level’ for the exchange value of money across the world and this introduced an equilibrating element in his schema. If, for instance, M rose as a result of gold discoveries, other things being equal, the domestic exchange value of money would fall relative to the world. This would induce the export of money and the import of commodities until equilibrium with the global rate was again established. The exchange value of commodity money is thus regulated through a global quantity theory of money, what is usually called the ‘price-level-specie-flow’ mechanism."
+          ]
+        }
+      ]
+    },
+    "n_ch05_020": {
+      "number": "20",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951d, p. 120."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951d, p. 120."
+          ]
+        }
+      ]
+    },
+    "n_ch05_021": {
+      "number": "21",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 169–79."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 169–79."
+          ]
+        }
+      ]
+    },
+    "n_ch05_022": {
+      "number": "22",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For a fuller treatment of this issue, see Lapavitsas 1996."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For a fuller treatment of this issue, see Lapavitsas 1996."
+          ]
+        }
+      ]
+    },
+    "n_ch05_023": {
+      "number": "23",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Arnon 1984b and Lapavitsas 1994."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Arnon 1984b and Lapavitsas 1994."
+          ]
+        }
+      ]
+    },
+    "n_ch05_024": {
+      "number": "24",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "不仅如此，马克思的处理还在其利润率决定理论中留下重大空白，马克思主义经济学家常常没有意识到这一点。如我们所见，对李嘉图而言，如果货币数量M低于所需水平，货币交换价值就会上升（即P下降），从而使金块持有者与黄金生产者扩大生产并增加向流通的黄金供给有利可图。一般价格水平的下降对提高黄金盈利性、从而诱发一个生产价格与市场价格显然不可能偏离1（黄金的黄金价格）的产业增加产出，是必要的。但如果假定数量论不成立，鉴于黄金价格永远固定为1，怎么会有提高的利润率来鼓励黄金生产者扩大产出？如果认为这只是货币理论的小怪癖，注意当涉及在整个经济中形成一般利润率时，问题会加倍严重地重现。利润率均等化一般通过资本从低收益部门向高收益部门运动运作，提高后者的产出供给并压低部门价格，从而也降低部门利润率，直到均衡占主导。但这一过程对黄金产业如何运作，既然黄金价格按构造永远为1？如果货币数量论如李嘉图所声称那样有效，问题当然微不足道，因为价格水平P会上升，从而最终把黄金产业的盈利性向下调整。但如果货币数量论如马克思所声称那样不成立，会发生什么？马克思的著作中、以及马克思主义经济学家的一般著作中，对这一问题都没有清晰答案。"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "校注　印刷本数量符号为小大写M、P；OCR文本层误作小写。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Not only this, but Marx’s treatment leaves a significant lacuna in his theory of the determination of the rate of profit, something which is frequently not appreciated by Marxist economists. For Ricardo, as we have seen, if the quantity of money, M, was below the level required, the exchange value of money would rise (i.e. P would fall), thus making it profitable for bullion holders and gold producers to expand both production and the supply of gold to circulation. The fall in the general price level would be necessary to increase gold profitability and thus to induce an output increase in an industry whose price of production and market price could obviously not diverge from 1 (the gold price of gold). But if the quantity theory is assumed not to hold, how could there be an increased profit rate to encourage gold producers to expand output, given that the gold price would always be fixed at 1? In case this is thought to be a minor quirk of monetary theory, note that the problem would reappear with a vengeance when it would come to forming the general rate of profit across the economy. The equalisation of profit rates would generally work through the movement of capital from low- to high-return sectors, raising the supply of output in the latter and bringing the sectoral price down, thus also lowering the sectoral rate of profit until equilibrium would prevail. But how would that process work for the gold industry, since the price of gold would be permanently 1 by construction? If the quantity theory of money were valid, as Ricardo claimed, the problem would, of course, be trivial because the price level, P, would rise, thus eventually adjusting the profitability of the gold industry downwards. But what would happen if the quantity theory of money did not hold, as Marx claimed? There is no clear answer for this problem in Marx’s work, nor in the work of Marxist economists generally."
+          ]
+        }
+      ]
+    },
+    "n_ch05_025": {
+      "number": "25",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For further discussion, see Itoh and Lapavitsas 1998, ch. 6."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For further discussion, see Itoh and Lapavitsas 1998, ch. 6."
+          ]
+        }
+      ]
+    },
+    "n_ch05_026": {
+      "number": "26",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "当然，在狭义的形式意义上，这是正确的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In a narrow and formal sense this is, of course, true."
+          ]
+        }
+      ]
+    },
+    "n_ch05_027": {
+      "number": "27",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见 Marx 1970, pp. 118–19。对法定货币数量的一些实际限制影响可由制度规定提供，例如要求以这种货币纳税，或发行以这种货币偿付的国家债券。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 118–19. Some practical limiting influences on the quantity of fiat money could be provided by institutional regulations, such as requiring the payment of taxes, or issuing state bonds payable in such money."
+          ]
+        }
+      ]
+    },
+    "n_ch05_028": {
+      "number": "28",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "研究马克思货币理论的人并非总是理解这一点。例如见 Lavoie 1986——该文在其他方面相当出色。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This point has not always been appreciated by those who have studied Marx’s monetary theory. See, for instance, Lavoie 1986, in an otherwise excellent article."
+          ]
+        }
+      ]
+    },
+    "n_ch05_029": {
+      "number": "29",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在分析上与历史上，用作交换手段的背书汇票是流通信用货币的最早形式。然而，忽略信用货币的这一早期形式、转而聚焦银行体系创造的信用货币，我们几乎不损失一般性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Analytically and historically, endorsed bills of exchange that were used as means of exchange were the earliest form of circulating credit money. However, we lose little generality by disregarding this early form of credit money, concentrating instead on credit money created by the banking system."
+          ]
+        }
+      ]
+    },
+    "n_ch05_030": {
+      "number": "30",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Steuart 1805, bk. iv, pt. i, ch. ii."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Steuart 1805, bk. iv, pt. i, ch. ii."
+          ]
+        }
+      ]
+    },
+    "n_ch05_031": {
+      "number": "31",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Smith 1904, bk. ii, ch. ii, pp. 314–24."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Smith 1904, bk. ii, ch. ii, pp. 314–24."
+          ]
+        }
+      ]
+    },
+    "n_ch05_032": {
+      "number": "32",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Thornton 1939, chs. i and ii."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Thornton 1939, chs. i and ii."
+          ]
+        }
+      ]
+    },
+    "n_ch05_033": {
+      "number": "33",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Tooke 1848, ch. ii, sec. 5, and Fullarton 1845, ch. iii."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Tooke 1848, ch. ii, sec. 5, and Fullarton 1845, ch. iii."
+          ]
+        }
+      ]
+    },
+    "n_ch05_034": {
+      "number": "34",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, ch. ii, pt. c."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, ch. ii, pt. c."
+          ]
+        }
+      ]
+    },
+    "n_ch05_035": {
+      "number": "35",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Rosdolsky 1977, p. 144, n. 11."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Rosdolsky 1977, p. 144, n. 11."
+          ]
+        }
+      ]
+    },
+    "n_ch05_036": {
+      "number": "36",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1973, p. 131."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1973, p. 131."
+          ]
+        }
+      ]
+    },
+    "n_ch05_037": {
+      "number": "37",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1981, ch. 28."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1981, ch. 28."
+          ]
+        }
+      ]
+    },
+    "n_ch05_038": {
+      "number": "38",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "由此得出，调节商品货币数量的贮藏形成与解体，是不直接适用于信用货币的过程。但其原因不是银行券不能被贮藏。相反，信用货币在资本主义交换条件下特别适合于贮藏职能，因为这种货币是信用体系的一部分，而信用体系在创造新信用的同时，系统地集中暂时停滞的货币并把它重新导向实际积累。原因毋宁是，贮藏的形成与解体被归入贷款发放与偿还的过程之下。调节流通中信用货币数量的，是（主要是）银行贷款的发放与偿还。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It follows that the formation and dissolution of hoards, which regulate the quantity of commodity money, are processes that would not be directly applicable to credit money. The reason for this, however, is not that banknotes cannot be hoarded. On the contrary, credit money is particularly well-suited for the function of hoarding under capitalist conditions of exchange, since such money is part of the credit system, which, as well as creating fresh credit, systematically concentrates temporarily stagnant money and redirects it to real accumulation. The reason is, rather, that hoard formation and dissolution are subsumed under the process of loan advance and repayment. It is the advance and repayment of (primarily) bank loans that regulates the quantity of credit money in circulation."
+          ]
+        }
+      ]
+    },
+    "n_ch05_039": {
+      "number": "39",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "显而易见，如果我们允许中央银行与国家信用的存在，就会有额外因素影响银行信用的发放与偿还（如当局对它的有意识操纵），从而影响信用货币的数量。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is altogether evident that had we allowed for the existence of a central bank and of state credit, there would have been additional factors influencing the advance and repayment of bank credit (such as its conscious manipulation by the authorities) and hence of the quantity of credit money."
+          ]
+        }
+      ]
+    },
+    "n_ch05_040": {
+      "number": "40",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Itoh and Lapavitsas 1999, chs. 4 and 7."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Itoh and Lapavitsas 1999, chs. 4 and 7."
+          ]
+        }
+      ]
+    }
+  },
+  "body": [
+    {
+      "id": "ch05-ack",
+      "canonical_kind": "ack",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "＊ ",
+            "首次发表于《激进政治经济学评论》（Review of Radical Political Economics）2000年第32卷第4期（12月），第631–656页，题为“Money and the Analysis of Capitalism: The Significance of Commodity Money”。感谢SAGE出版公司授予重印许可。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "* ",
+            "First published as ‘Money and the Analysis of Capitalism: The Significance of Commodity Money’, Review of Radical Political Economics, 2000, vol. 32, no. 4, pp. 631–656, December. We are grateful to sage for the reprint permission."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-ack"
+      ],
+      "page": "94"
+    },
+    {
+      "id": "ch05-u002",
+      "canonical_kind": "heading",
+      "zh": [
+        "1 引言",
+        {
+          "type": "note",
+          "id": "n_ch05_001",
+          "label": "1"
+        }
+      ],
+      "en": [
+        "1 Introduction",
+        {
+          "type": "note",
+          "id": "n_ch05_001",
+          "label": "1"
+        }
+      ],
+      "source_ids": [
+        "ch05-u002"
+      ],
+      "page": "94",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch05-u003",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在马克思的著作中，货币是一般等价物；起初，这是通过其他商品的自发行动而出来代表价值的一种商品。尽管马克思充分意识到货币的非商品形式，他仍提出这一观点。毕竟，到他开始撰写货币问题之时，约翰·劳的信用货币实验已过去一个多世纪，法国指券的经验已被广泛分析，而银行学派与通货学派的论战也早已深入探究信用货币的性质。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In Marx’s work, money is the universal equivalent; in the first instance, this is one commodity that comes to represent value through the spontaneous action of the other commodities. Marx put forth this view despite being fully aware of non-commodity forms of money. After all, by the time he began to write on monetary issues, John Law’s experiments with credit money were more than a century old, the experience of the French Assignats had been widely analysed, and the Banking-Currency controversy had for long delved into the nature of credit money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u003"
+      ],
+      "page": "94"
+    },
+    {
+      "id": "ch05-u004",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "近年来，有人批评马克思的货币研究路径，理由是它给货币分析背上了“黄金的幽灵”，或把货币的价值等同于货币商品中所体现的价值。",
+            {
+              "type": "note",
+              "id": "n_ch05_002",
+              "label": "2"
+            },
+            "相反，本章强调商品货币这一分析前提的持续相关性，即货币具有在生产中决定的、作为体现的抽象劳动的价值（内在价值）。本章第2部分表明，以商品货币为出发点，可以在不违背劳动价值论的前提下分析非商品货币。具体而言，本文表明非商品货币——法定货币与信用货币——的根源在于商品货币的性质与职能。货币职能的执行推动货币形式的发展，导致若干种非商品货币的出现。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There has been criticism of Marx’s approach to money in recent years on the grounds that it burdens monetary analysis with the ‘ghost of gold’, or that it identifies the value of money with the value embodied in the money commodity.",
+            {
+              "type": "note",
+              "id": "n_ch05_002",
+              "label": "2"
+            },
+            " In contrast, this chapter emphasises the continuing relevance of the analytical premise of commodity money, i.e. money that has value determined in production as embodied abstract labour (intrinsic value). Part 2 of the chapter shows that with commodity money as the starting point, analysis of non-commodity money could be undertaken without contradicting the labour theory of value. Specifically, it is shown that the roots of non-commodity money – fiat and credit – are found in the nature and functions of commodity money. Performing the functions of money encourages the development of money’s form, leading to the emergence of several types of non-commodity money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u004"
+      ],
+      "page": "94"
+    },
+    {
+      "id": "ch05-u005",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第3部分则讨论货币形式的发展对决定货币交换价值（价格水平的倒数）的意义。目的是在理论上确立非商品货币形式对交换手段职能的适当性。对商品货币的价值（抽象劳动）与其交换价值之间关系的分析，为决定非商品货币形式的交换价值提供了指引。此外，商品货币的价值（抽象劳动）可以充当非商品货币交换价值的锚。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Part 3, in turn, discusses the significance of the development of the form of money for determining the exchange value of money (the inverse of the price level). The aim is to establish theoretically the adequacy of non-commodity forms of money for the function of means of exchange. Analysis of the relationship of the value (abstract labour) of commodity money to its exchange value provides guidelines for determining the exchange value of non-commodity forms of money. Moreover, the value (abstract labour) of commodity money could act as anchor for the exchange value of non-commodity money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u005"
+      ],
+      "page": "94–95"
+    },
+    {
+      "id": "ch05-u006",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管如此，下文也表明，法定货币与信用货币的交换价值被锚定的方式大不相同。通过考察分别决定流通中法定货币与信用货币数量的因素来探讨这一问题；本文证明，数量决定上的差异对二者各自的交换价值、以及商品货币所起的调节作用具有重要含义。在这方面，货币数量论的有效性需要在一定条件下重新考虑。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Nonetheless, it is also shown below that anchoring the exchange value of non-commodity money takes place in very different ways for fiat and credit money. This issue is explored by considering the factors determining the quantity of, respectively, fiat and credit money in circulation; it is demonstrated that differences in quantity determination have important implications for their respective exchange values, and for the regulating role played by commodity money. In this respect, the validity of the quantity theory of money needs to be reconsidered under certain conditions."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u006"
+      ],
+      "page": "95"
+    },
+    {
+      "id": "ch05-u007",
+      "canonical_kind": "heading",
+      "zh": [
+        "2 货币的内在价值：商品货币能否胜任货币职能与货币形式的演变"
+      ],
+      "en": [
+        "2 Intrinsic Value of Money: Adequacy of Commodity Money for Performance of Money’s Functions and Evolution of the Form of Money"
+      ],
+      "source_ids": [
+        "ch05-u007"
+      ],
+      "page": "95",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch05-u008",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "商品货币（就本章而言即黄金）具有内在价值，由生产过程中体现于其中的社会必要抽象劳动决定。",
+            {
+              "type": "note",
+              "id": "n_ch05_003",
+              "label": "3"
+            },
+            "黄金具有内在价值，对它执行一般等价物职能的能力至关重要。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Commodity money (for the purposes of this chapter, gold) possesses intrinsic value determined by socially necessary abstract labour embodied in it in the process of production.",
+            {
+              "type": "note",
+              "id": "n_ch05_003",
+              "label": "3"
+            },
+            " Gold’s possession of intrinsic value is critical to its ability to perform the functions of the universal equivalent."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u008"
+      ],
+      "page": "95"
+    },
+    {
+      "id": "ch05-u009",
+      "canonical_kind": "subheading",
+      "zh": [
+        "2.1 价值尺度"
+      ],
+      "en": [
+        "2.1 Measure of Value"
+      ],
+      "source_ids": [
+        "ch05-u009"
+      ],
+      "page": "95",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch05-u010",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币商品充当其他商品的价值尺度；再进一步，把黄金惯例性地划分为标准铸币（记账单位），使价值得以表现为价格。在本章中，凡不加限定地提及货币的价值，均指一枚标准金币的内在价值m。若进一步假定商品按价值交换（相对价格与体现劳动之比成比例），则一种商品的货币价格就是商品价值与货币价值之比（即其直接价格或“价值”价格）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The money commodity functions as measure of value of other commodities; at a further remove, the conventional division of gold into standard coins (units of account) allows values to be expressed as prices. Throughout this chapter, whenever the value of money is referred to without qualification, the intrinsic value of a standard gold coin, m, is implied. If it is further assumed that commodities exchange at value (relative prices are proportionate to ratios of embodied labour), a commodity’s money price would be the ratio of commodity value to the value of money (i.e. its direct, or ‘value’ price)."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u010"
+      ],
+      "page": "95"
+    },
+    {
+      "id": "ch05-u011",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "此外，商品总产出的货币价格等于产出价值与货币价值之比。从这个角度看，总量层面的价值衡量与个体层面的价值衡量并无质的不同。既然商品价值与货币价值都在生产中决定，那么商品在进入市场之前就已具有直接价格；马克思认为这一点在他对货币数量论的批判中至关重要。",
+            {
+              "type": "note",
+              "id": "n_ch05_004",
+              "label": "4"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Moreover, the money price of total commodity output would be equal to the ratio of the value of output to the value of money. From this perspective, the measurement of value at the aggregate level would not be qualitatively different from its measurement at the individual level. Since commodity and money values are determined in production, it follows that commodities have direct prices before they come to market, a point which Marx thought of paramount importance in his critique of the quantity theory of money.",
+            {
+              "type": "note",
+              "id": "n_ch05_004",
+              "label": "4"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u011"
+      ],
+      "page": "95–96"
+    },
+    {
+      "id": "ch05-u012",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "相反，如果货币不具有内在价值（我们把所有这类货币形式称为无价值货币），那么显然货币价格不可能来自商品价值与货币价值的简单相除。如果价值衡量以商品货币为线索，对无价值货币的分析似乎很快就会陷入僵局。然而，进一步分析商品货币执行价值衡量的情况就会发现，这种表象具有欺骗性——即使货币变得无价值，价值衡量也不会有根本问题。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "If, in contrast, money did not possess intrinsic value (we shall call all such forms of money valueless) it would be evident that money prices could not result from the simple division of commodity and money values. The analysis of valueless money would appear to reach an impasse quite quickly, if the measurement of value took its cue from commodity money. However, further analysis of the performance of value measurement by commodity money reveals that this appearance is deceptive – there would be no fundamental problem with value measurement, if money became valueless."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u012"
+      ],
+      "page": "96"
+    },
+    {
+      "id": "ch05-u013",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "具体而言，退一步说，在资本主义生产条件下、资本构成各异时，显然如果一切资本都要趋向于获得相同的利润率，商品就不可能实际按直接价格交换。要使利润率在各部门间均等化，商品价值向价格的适当转化必须通过形成生产价格、而非直接价格来实现。但关键在于，生产价格的形成由生产成本和一般利润率决定，而非由货币商品的内在价值决定。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Specifically, and at one remove, under conditions of capitalist production and with differing compositions of capital, it is clear that commodities could not actually exchange at direct prices, if all capitals are tendentially to earn the same rate of profit. For profit rates to equalise across sectors, the appropriate rendering of commodity values into price must take place through forming prices of production, rather than direct prices. The point is, though, that forming prices of production is determined by production costs and the general rate of profit, rather than by the intrinsic value of the money commodity."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u013"
+      ],
+      "page": "96"
+    },
+    {
+      "id": "ch05-u014",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "换句话说，资本为追逐更高利润而不断运动（这是生产价格形成背后的真实过程），既可能发生在以无价值货币标价的价格上，也可能发生在以商品货币标价的价格上。后者的内在价值并不是商品价值转化为生产价格的决定性环节。现阶段应得出的结论是：在明确的资本主义条件下把价值表现为价格，必须理解为一个复杂过程，而不是商品价值除以货币价值的简单（且高度抽象的）除法。据此，某种货币形式不具有内在价值这一事实本身，并不构成该货币不能把商品价值转化为价格的充分理由。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Put differently, the incessant movement of capital in search of higher profit (which is the real process behind the formation of prices of production) could potentially occur for prices set in terms of valueless money, as well as for prices set in commodity money. The intrinsic value of the latter is not a determining aspect of the rendering of commodity value as price of production. The conclusion to draw at this stage is that expressing value as price under expressly capitalist conditions must be understood as complex process, rather than as simple (and highly abstract) division of commodity value by money value. By this token, the fact that a certain form of money would not possess intrinsic value would not be, in itself, reason enough why such money would not be able to render commodity value into price."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u014"
+      ],
+      "page": "96"
+    },
+    {
+      "id": "ch05-u015",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "一个直接的反驳可能是：在资本主义条件下，商品货币仍通过简单相除把价值转化为价格，只不过这发生在总量层面，即总生产价格等于总价值除以货币价值。尽管有陷入“转形问题”流沙的风险，但这一反驳仍不成立，理由有二。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "An immediate objection might be that under capitalist conditions, commodity money would still render value into price through a simple division except that this would happen at the aggregate level, i.e. the total price of production would be total value divided by the value of money. At the risk of running into the quicksand of the ‘transformation problem’, there are two reasons why this objection would still not be valid."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u015"
+      ],
+      "page": "96–97"
+    },
+    {
+      "id": "ch05-u016",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第一，如果黄金执行货币职能，黄金产业产出的价值也要经历价值向价格的转形。但在这种情况下，价值转形过程会非常特殊。首先要注意，由于黄金生产者可以直接用（铸币形式的）产出购买，黄金产出价值向价格转形的问题在产出销售环节不会出现。",
+            {
+              "type": "note",
+              "id": "n_ch05_005",
+              "label": "5"
+            },
+            "然而，对于黄金生产者所购买的生产资料和劳动力的价值，问题仍然存在：它们的价格仍不直接对应于它们的价值。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "First, if gold functioned as money, the value of the output of the gold industry would also be subject to the transformation of value into price. However, the process of value transformation would in this case be highly peculiar. The first point to note is that since the gold producer could simply buy with the (coined) output, the problem of transforming the value of gold output into price would not arise at the point of output sale.",
+            {
+              "type": "note",
+              "id": "n_ch05_005",
+              "label": "5"
+            },
+            " The problem would still exist, however, for the value of the inputs and of the labour power that would be bought by the gold producer: their prices would still not correspond directly to their values."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u016"
+      ],
+      "page": "97"
+    },
+    {
+      "id": "ch05-u017",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "由此直接得出，黄金产业并不豁免于利润率均等化的一般趋势：平均而言，黄金产业中所用资本每完成一次循环所提取的剩余黄金产出，趋向于反映平均利润率，而非生产过程中体现的剩余价值。因此，黄金也隐含着一个生产价格，尽管它的货币价格（以自身计）显然为1。由此还得出，一般而言，总生产价格仍不会来自总价值除以商品货币价值的简单除法。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It follows immediately that the gold industry would not be exempt from the general tendency toward the equalisation of profit rates: on average, the surplus gold output extracted through each completion of the circuit of capital employed in the gold industry would tend to reflect the average rate of profit, rather than the surplus value embodied in the process of production. Consequently, a price of production would be implicit for gold, even though its money price (in terms of itself) would obviously be one. It also follows that, in general, the total price of production would still not result from the simple division of total value by the value of commodity money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u017"
+      ],
+      "page": "97"
+    },
+    {
+      "id": "ch05-u018",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第二，在更低的抽象层次上，在资本主义流通中，商品不按生产价格交换，而按市场价格交换（甚至还不考虑垄断、地租、税收、金融资产价格等的存在）。没有任何理由认为产出的市场价格在任何时候都等于产出价值除以货币价值。所能主张的至多是：生产价格充当市场价格的重心（也许是平均值）。然而，平均化机制如何运作，仍是政治经济学中未解决的问题，而且可能涉及资本与商品的毁灭。",
+            {
+              "type": "note",
+              "id": "n_ch05_006",
+              "label": "6"
+            },
+            "但就本章而言，基本结论仍然成立：即使货币是商品，总产出价值向价格的转化也绝不会是商品价值除以货币价值的简单除法的结果。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Second, and at a still lower level of abstraction, in capitalist circulation commodities do not exchange at prices of production, but at market prices (without even considering the existence of monopolies, rent, taxes, financial asset prices, and so on). There is no reason at all why the market price of output should at all times equal the value of output divided by the value of money. The most that one could argue would be that prices of production would act as the centre of gravity (perhaps an average) for market prices. How the averaging mechanism would work, however, is still an unresolved issue in political economy, and it might involve the destruction of capital and commodities.",
+            {
+              "type": "note",
+              "id": "n_ch05_006",
+              "label": "6"
+            },
+            " For the purposes of this chapter, the fundamental conclusion would, however, remain: even if money were a commodity, the rendering of the value of total output into price would never be the result of simple division of commodity value by the value of money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u018"
+      ],
+      "page": "97"
+    },
+    {
+      "id": "ch05-u019",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "总之，价值衡量及其向价格的转化具有相继的意义层次。这些层次至少对应于直接价格、生产价格和市场价格的形成。就我们的目的而言，重要结论是：在资本主义条件下，货币商品的内在价值对价值向价格的转化并不关键。没有理由认为无价值货币原则上不能在资本主义流通中促成价值表现为价格的过程。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In sum, there are successive levels of meaning to the measurement of value and to its rendering into price. These correspond, at least, to forming direct prices, prices of production, and market prices. The important conclusion for our purposes is that the intrinsic value of the money commodity would not be critical to the rendering of value into price under capitalist conditions. There is no reason why valueless money could not, in principle, facilitate the process of expressing value into price in capitalist circulation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u019"
+      ],
+      "page": "97–98"
+    },
+    {
+      "id": "ch05-u020",
+      "canonical_kind": "subheading",
+      "zh": [
+        "2.2 交换手段"
+      ],
+      "en": [
+        "2.2 Means of Exchange"
+      ],
+      "source_ids": [
+        "ch05-u020"
+      ],
+      "page": "98",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch05-u021",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "一般等价物还必须使商品流通，即必须执行交换手段的职能。",
+            {
+              "type": "note",
+              "id": "n_ch05_007",
+              "label": "7"
+            },
+            "鉴于马克思把货币推导为商品的典范，说商品货币对流通职能的执行并不完全适当，听起来可能自相矛盾。然而其缺陷的原因显而易见：金币的流通不可避免地因磨损而损失实体，还可能诱使人们刮削铸币（sweating），即剪边与磨擦铸币。因此，流通中的商品货币必然比它所声称的具有更少的物质实体——从而更少的价值。这一内在弱点清楚而简单地表明：纯粹的商品货币并不必然、也不总是在任何时候都是最适当的独立价值形式。",
+            {
+              "type": "note",
+              "id": "n_ch05_008",
+              "label": "8"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The universal equivalent must also circulate commodities, i.e. it must function as means of exchange.",
+            {
+              "type": "note",
+              "id": "n_ch05_007",
+              "label": "7"
+            },
+            " Given that Marx derived money as the commodity par excellence, it might sound paradoxical to state that commodity money is less than fully adequate for performance of the circulating function. And yet the reason for its deficiency is evident: circulation of gold coin would inevitably entail loss of substance through abrasion, and might also encourage sweating, or clipping and rubbing of coins. Consequently, circulating commodity would necessarily possess less material substance – and therefore less value – than it purports to. This inherent weakness demonstrates clearly and simply that a pure commodity money is not necessarily, and at all times, the most adequate independent form of value.",
+            {
+              "type": "note",
+              "id": "n_ch05_008",
+              "label": "8"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u021"
+      ],
+      "page": "98"
+    },
+    {
+      "id": "ch05-u022",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "商品货币实际执行交换手段职能的情况，指明了货币形式发展的路径，并把符号性法定货币的出现植根于商品货币之中。即使粗略浏览货币史也能看出，金属货币尽管在使用中不可避免地磨损，仍能继续使商品流通。马克思指出，这一现象之所以出现，是因为在交换行为中，货币转瞬即逝地出现在两种商品之间，因此其物质实体并不重要。",
+            {
+              "type": "note",
+              "id": "n_ch05_009",
+              "label": "9"
+            },
+            "于是，磨损的金币在流通中仍能充当足重铸币——实际上是磨损的铸币符号化地代表足重铸币。换句话说，符号货币在商品交换中自发出现，起初它只不过是在使用中磨损的商品货币。商品货币自身的符号化，为国家发行内在价值可忽略不计的纸币（或贱金属货币）开辟了道路。这种无价值货币恰当地符号化金属货币，并避免了商品货币实体磨损的问题。",
+            {
+              "type": "note",
+              "id": "n_ch05_010",
+              "label": "10"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The actual performance of the function of means of exchange by commodity money indicates the path of development of the form of money, and roots the emergence of symbolic fiat money in commodity money. Metallic money, as even a cursory glance at monetary history shows, is able to continue circulating goods despite its inevitable degradation through use. Marx pointed out that this phenomenon emerges because, in the act of exchange, money appears fleetingly between two commodities, hence its material substance is unimportant.",
+            {
+              "type": "note",
+              "id": "n_ch05_009",
+              "label": "9"
+            },
+            " Consequently, degraded gold coins are still able to function as full-weight coins in circulation – in effect degraded coins symbolising full-weight coins. In other words, symbolic money emerges spontaneously in commodity exchange and in the first instance it is simply commodity money that is degraded through use. The symbolisation of commodity money by itself opens a path for the state to issue paper money (or base metal money) containing negligible intrinsic value. Such valueless money properly symbolises metallic money and avoids the problems of degradation of commodity money’s substance.",
+            {
+              "type": "note",
+              "id": "n_ch05_010",
+              "label": "10"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u022"
+      ],
+      "page": "98–99"
+    },
+    {
+      "id": "ch05-u023",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管如此，无价值的法定货币对流通资本主义经济总产出这一任务的适当性，远非一目了然。其适当性首先取决于法定货币交换价值（即价格水平的倒数）的决定方式。下文第3部分表明，商品货币的内在价值为在理论上决定法定货币的交换价值提供了基础。就本章更广泛的目的而言，显然商品货币有助于解释法定货币在资本主义经济中的自发出现。如下文所示，商品货币还把法定货币的交换价值建立在生产过程中体现于商品中的抽象劳动之上。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Nonetheless, the adequacy of valueless fiat money for the task of circulating the total output of a capitalist economy is far from being immediately obvious. Its adequacy would depend, above all, on the manner in which the exchange value of fiat money (i.e. the inverse of the price level) would be determined. It is shown in Part 3 below that the intrinsic value of commodity money provides the foundations for theoretically determining the exchange value of fiat money. For the broader purposes of this chapter, it is apparent that commodity money helps explain the spontaneous emergence of fiat money in a capitalist economy. As is shown below, commodity money also grounds the exchange value of fiat money in the abstract labour embodied in commodities in the process of production."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u023"
+      ],
+      "page": "99"
+    },
+    {
+      "id": "ch05-u024",
+      "canonical_kind": "subheading",
+      "zh": [
+        "2.3 货币作为货币"
+      ],
+      "en": [
+        "2.3 Money as Money"
+      ],
+      "source_ids": [
+        "ch05-u024"
+      ],
+      "page": "99",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch05-u025",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "关于货币形式对货币职能执行的适当性，最复杂的问题出现在贮藏、为清偿义务（典型的是债务）而转移价值、以及国际支付方面。马克思把这些货币职能归入“货币作为货币”的名目之下。",
+            {
+              "type": "note",
+              "id": "n_ch05_011",
+              "label": "11"
+            },
+            "起初就清楚的是：具有内在价值的商品货币在任何时候都直接适合于被贮藏、转移价值和清算国家间差额的目的。但这并不意味着只有商品货币才能执行这些职能。无价值货币也可以“作为货币”行动，但——分析困难正在于此——更广泛的环境必须适合、甚至必须迫使无价值货币“作为货币”执行职能。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The most complex issues regarding the adequacy of money’s form for the performance of money’s functions arise in connection with hoarding, transfer of value in settlement of obligations (typically debt), and international payments. These functions of money were subsumed by Marx under the rubric ‘money as money’.",
+            {
+              "type": "note",
+              "id": "n_ch05_011",
+              "label": "11"
+            },
+            " It is clear at the outset that commodity money which possesses intrinsic value is immediately adequate for the purposes of being hoarded, transferring value, and settling balances among nations at all times. However, this does not mean that only commodity money is capable of performing these functions. Valueless money could also act ‘as money’, but – and this is where the analytical difficulties lie – broader circumstances must be suitable for, indeed they must necessitate, the functioning of valueless money ‘as money’."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u025"
+      ],
+      "page": "99"
+    },
+    {
+      "id": "ch05-u026",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "注意，马克思在这一语境中为黄金保留了一个特殊位置。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Note that Marx reserved a special place for gold in this context."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u026"
+      ],
+      "page": "99"
+    },
+    {
+      "id": "ch05-u027",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "黄金无论亲自执行职能还是由代表执行职能，只要其职能使它固定为唯一的价值形式，换言之，固定为面对其他一切商品（这些商品在此扮演纯粹使用价值的角色）时交换价值的唯一适当的存在形式，它就执行货币的职能。",
+            {
+              "type": "note",
+              "id": "n_ch05_012",
+              "label": "12"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "[Gold] [f]unctions as money when its function, whether performed in person or by a representative, causes it to be fixed as the sole form of value, or, in other words, as the only adequate form of existence of exchange value in the face of all the other commodities, here playing the role of use values pure and simple.",
+            {
+              "type": "note",
+              "id": "n_ch05_012",
+              "label": "12"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u027"
+      ],
+      "page": "99–100",
+      "indent": true
+    },
+    {
+      "id": "ch05-u028",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此，马克思本人承认，黄金的“代表”也可以充当“唯一的价值形式”。要理解黄金的“代表”在这种语境中如何执行职能，重要的是回顾英国早期货币史上一些著名事件，它们为马克思颇为缠结的从句提供了历史背景。于是，在1825年危机中，为避免信用崩溃而充当“唯一价值形式”的，包括偶然在英格兰银行金库中发现的一批一英镑纸币；在1839年危机中，“唯一价值形式”包括法兰西银行向英格兰银行提供的一笔贷款；在1847年危机中，“唯一价值形式”包括英格兰银行的银行券，而这些银行券只有在1844年银行法被暂停后才能恢复其“货币作为货币”的角色。在那些场合，无价值的银行券（信用货币）充当“唯一价值形式”，其原因完全取决于制度结构、立法和经济形势。因此显然，无价值货币原则上能够适当执行“货币作为货币”的职能，马克思对此十分清楚。",
+            {
+              "type": "note",
+              "id": "n_ch05_013",
+              "label": "13"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thus, Marx himself acknowledged that a ‘representative’ of gold could also act as the ‘sole form of value’. To appreciate the functioning of the ‘representative’ of gold in such a context, it is important to be reminded of some well-known incidents from early English monetary history that provide the historical backdrop to Marx’s rather tangled subordinate clauses. Thus, in the crisis of 1825, the ‘sole form of value’, instrumental to avoiding a credit collapse, included a quantity of one pound notes fortuitously discovered in the vaults of the Bank of England; in the crisis of 1839, the ‘sole form of value’ included a loan advanced to the Bank of England by the Bank of France; and in the crisis of 1847, the ‘sole form of value’ included the banknotes of the Bank of England, which could resume their role as ‘money as money’ only after the Bank Act of 1844 was suspended. On those occasions, valueless banknotes (credit money) acted as the ‘sole form of value’ for reasons fully dependent on institutional structure, legislation, and economic conjuncture. It is apparent, therefore, that in principle valueless money could adequately perform the function of ‘money as money’, as Marx was well aware.",
+            {
+              "type": "note",
+              "id": "n_ch05_013",
+              "label": "13"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u028"
+      ],
+      "page": "100"
+    },
+    {
+      "id": "ch05-u029",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "与法定货币类似，货币形式的进一步发展也会由商品货币自身执行“货币作为货币”职能的情况所展示。由于商品货币具有内在价值，它可以允许义务延期，并在以后适当清偿。因此，商品货币使商业（或贸易）信用的出现成为可能，随后产生若干种信用工具，最显著的是汇票。再进一步，商品货币清偿债务的能力（以及商业信用工具与制度的先前存在），也使银行（或货币）信用的系统性发放成为可能，即使得以偿还（加利息）为条件的系统性货币贷放成为可能。以工商业积累过程为轴心（并由其结构化）的商业信用与银行信用关系，是资本主义信用体系的支柱。",
+            {
+              "type": "note",
+              "id": "n_ch05_014",
+              "label": "14"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Similarly to fiat money, the further development of the form of money would be demonstrated by the performance of the function of ‘money as money’ by commodity money itself. Since commodity money possesses intrinsic value, it could allow for obligations to be deferred, adequately settling them later. Consequently, commodity money makes it possible for commercial (or trade) credit to emerge, subsequently giving rise to several forms of credit instruments, most notably bills of exchange. At a further remove, the ability of commodity money to settle debts (and the prior existence of commercial credit instruments and institutions) also makes it possible for the systematic advance of banking (or monetary) credit to emerge, i.e. it makes it possible to have the systematic lending of money on condition of repayment (plus interest). Commercial and banking credit relations, which pivot on (and are structured by) the process of industrial and commercial accumulation, are the mainstay of the capitalist credit system.",
+            {
+              "type": "note",
+              "id": "n_ch05_014",
+              "label": "14"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u029"
+      ],
+      "page": "100"
+    },
+    {
+      "id": "ch05-u030",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "发达资本主义中最显著的货币形式，即银行券和银行存款等无价值信用货币，从信用体系的运作及其与资本主义积累的相互作用中自发出现。在其最简单、原初的形式上，银行创造的信用货币采取私人银行券的形式，为获取汇票等金融资产而发行。存款信用货币与私人银行券并无质的不同——它只是银行在正常业务过程中为获取金融资产而发行的另一种银行负债。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The most prominent form of money in advanced capitalism, i.e valueless credit money such as banknotes and bank deposits, emerges spontaneously out of the operations of the credit system and its interaction with capitalist accumulation. In its simplest, original form, credit money that is generated by banks takes the form of a private banknote issued to acquire financial assets, such as bills of exchange. Deposit credit money is not qualitatively different from private banknotes – it is merely another type of bank liability issued in the normal course of a bank’s business to acquire financial assets."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u030"
+      ],
+      "page": "100–101"
+    },
+    {
+      "id": "ch05-u031",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "信用货币对“货币作为货币”职能的适当性，起初不能视为当然，而必须持续地在实践中确立。仅作为确立信用货币“作为货币”的适当性所涉及问题的提示，注意至关重要的因素包括信用流量（商业信用与银行信用）的规模与价格，再进一步，信用流量与剩余价值生产的相互作用。如果积累的预期收益未能实现，单个银行的资产就可能贬值，从而使其负债（即信用货币）不适合于贮藏和支付的目的。也可以设想这类现象在银行间普遍蔓延。再进一步，信用货币整体“作为货币”执行职能的适当性，取决于信用体系的制度结构和货币当局采取的政策。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The adequacy of credit money for the function of ‘money as money’ cannot be taken for granted at the outset, and has to be established continually and in practice. Purely as an indication of the issues involved in establishing the adequacy of credit money ‘as money’, note that factors which are of vital importance would include the volumes and the prices of credit flows (commercial and banking), and at further remove, the interaction of credit flows with the production of surplus value. If the projected returns from accumulation failed to materialise, the assets of an individual bank could be devalued, thus making its liabilities (i.e. credit money) inadequate for the purposes of hoarding and making payments. It is also conceivable that such phenomena could spread generally among banks. At a still further remove, the adequacy with which credit money as a whole functions ‘as money’ would depend on the institutional structure of the credit system, and the policies adopted by monetary authorities."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u031"
+      ],
+      "page": "101"
+    },
+    {
+      "id": "ch05-u032",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "商品货币这一分析基础，在考察信用货币“作为货币”的适当性时是否提供任何优势？当经济理论狭窄地聚焦于贮藏与债务清偿时，显然商品货币在分析信用货币方面不提供任何决定性优势。相反，重要的是分析信用体系（特别是银行）的运作、信用与产业积累的相互作用、以及货币与信用政策对信用体系和积累过程两者的影响。明白地说，要确定信用货币作为贮藏手段和支付手段的适当性，拥有一种银行理论远比拥有一种商品货币理论重要。另一方面，同样正确的是：当货币理论从商品货币出发时，在这方面并不丧失任何分析优势。商品货币绝不是信用与银行分析的障碍，更不用说它还为信用货币的出现提供了结构化的解释。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Does the analytical foundation of commodity money afford any advantages in examining the adequacy of credit money ‘as money’? When economic theory focuses narrowly on hoarding and debt settlement, it is clear that commodity money does not offer any decisive advantages in analysing credit money. Rather, what matters is to analyse the operation of the credit system (particularly banks), the interaction of credit with industrial accumulation, and the effect of monetary and credit policies on both the credit system and the process of accumulation. Put plainly, to ascertain the adequacy of credit money as means of hoarding and payment, it is much more important to possess a theory of banking than a theory of commodity money. On the other hand, it is equally true that when monetary theory commences with commodity money, no analytical advantages are lost in this connection. In no sense is commodity money a hindrance to analysis of credit and banks, quite apart from the fact that it affords a structured explanation for credit money’s emergence."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u032"
+      ],
+      "page": "101"
+    },
+    {
+      "id": "ch05-u033",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而，如果同时考虑2.2节所讨论的信用货币对交换手段职能的适当性，商品货币这一分析基础就证明具有关键重要性。与法定货币类似，信用货币对这一职能的适当性大致对应于它适当流通商品产出的能力，而这取决于个别地和总量地决定价格。关键在于，决定信用货币的交换价值（即价格水平的倒数）比无价值法定货币复杂得多，并且与商品货币的内在价值密切相关，如下文第3部分所示。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "However, when the adequacy of credit money for the function of means of exchange discussed in section 2.2 is also considered, the analytical foundation of commodity money proves of critical importance. Analogously to fiat money, the adequacy of credit money for this function corresponds broadly to its ability adequately to circulate commodity output, which hinges on determining prices individually and in the aggregate. The point is that determining the exchange value of credit money (i.e. the inverse of the price level) is considerably more complex than for valueless fiat money, and closely connected to the intrinsic value of commodity money, as is shown in part 3 below."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u033"
+      ],
+      "page": "101–102"
+    },
+    {
+      "id": "ch05-u034",
+      "canonical_kind": "heading",
+      "zh": [
+        "3 货币交换价值的决定：商品货币与无价值货币的对照"
+      ],
+      "en": [
+        "3 Determining the Exchange Value of Money: The Contrast between Commodity Money and Valueless Money"
+      ],
+      "source_ids": [
+        "ch05-u034"
+      ],
+      "page": "102",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch05-u035",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "要讨论货币交换价值的决定，首先必须澄清所采取的方法论路径的某些方面。本章首要关切的是分析与货币相关的基本经济范畴的内容及其相互作用。对货币形式与职能关系的考察已经表明：第一，货币形式倾向于随着货币职能的执行而演变；第二，商品货币在货币形式的演变中起关键作用。驱动性观念是形式对职能的适当性，因此大量注意力放在无价值货币形式对其职能的适当性上。据此，本节的主要关切是分析无价值货币对交换手段职能的适当性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To discuss the determination of money’s exchange value it is first necessary to clarify some aspects of the methodological approach adopted. The primary concern of this chapter is to undertake an analysis of the content and interplay of fundamental economic categories relevant to money. Examination of the relationship between form and function of money has shown that, first, the form of money tends to evolve as money’s functions are performed and, second, that commodity money plays a critical role in the evolution of money’s forms. The driving notion was the adequacy of form for function, and thus much attention was paid to the adequacy of valueless forms of money for their functions. In this light, the main concern of this section is to analyse the adequacy of valueless money for the function of means of exchange."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u035"
+      ],
+      "page": "102"
+    },
+    {
+      "id": "ch05-u036",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "此时出现的问题是货币形式的逻辑演变与历史演变之间的关系。显然，两者之间必须有大致的对应。例如，如果有证据表明信用货币在历史上先于商品货币，那么在逻辑上把商品货币认定为货币的原初形式就不会很有说服力。幸运的是，不存在这样的证据。",
+            {
+              "type": "note",
+              "id": "n_ch05_015",
+              "label": "15"
+            },
+            "同时，没有任何理由期望货币的历史演变会表现出其逻辑演变那样的清晰性或秩序。这一点对一切无价值货币都成立，但在信用货币的场合最容易看出，原因很简单：在一切货币形式中，信用货币最依赖于制度安排，特别是信用体系的制度安排。因此，下文偶尔提及历史与制度发展，以证实逻辑分析的要点，并以风格化的方式识别需要理论解释的货币现象。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The issue that arises at this point is the relationship between the logical and the historical evolution of the money form. Clearly, there has to be a broad correspondence between the two. It would not be very persuasive, for instance, logically to identify commodity money as the original form of money, if evidence existed of the historical precedence of credit money. Fortunately, no such evidence exists.",
+            {
+              "type": "note",
+              "id": "n_ch05_015",
+              "label": "15"
+            },
+            " At the same time, there is no reason at all to expect money’s historical evolution to exhibit either the clarity or the order of its logical evolution. This point holds for all valueless money, but it is most easily seen in the case of credit money for the simple reason that, of all forms of money, credit money is the most heavily dependent on institutional arrangements, particularly those of the credit system. Thus, historical and institutional developments are occasionally referred to below in order to substantiate salient points of logical analysis, and to identify, in a stylised way, monetary phenomena that call for theoretical explanation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u036"
+      ],
+      "page": "102"
+    },
+    {
+      "id": "ch05-u037",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币形式的逻辑演变与历史演变的不完全对应，使得有必要考察经济思想史演变的某些方面，以进一步澄清这一问题。值得强调的是，转向思想史的目的绝不是确立著作家与观念的历史先后。相反，原因在于经济理论的发展倾向于反映理论得以产生的物质现实。此外，如上文所论，制度与历史因素对法定货币与信用货币的运行具有特别强的影响。通过考察经济思想的发展，可以展示货币思想如何反映这些影响、帮助更精确地界定它们、并且也塑造它们。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The imperfect correspondence of the logical and historical evolution of the form of money makes it necessary to consider some aspects of the evolution of the history of economic thought to gain further clarity on this issue. It is worth stressing that the purpose of turning to the history of thought is not at all to establish historical precedence of writers and ideas. Rather, the reason is that the development of economic theory tends to reflect the material reality within which theory was produced. Moreover, as was argued above, institutional and historical factors have a peculiarly strong influence on the conduct of fiat and credit money. By considering the development of economic thought, it could be shown how monetary thought reflected these influences, helped specify them more precisely, and also shaped them."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u037"
+      ],
+      "page": "102–103"
+    },
+    {
+      "id": "ch05-u038",
+      "canonical_kind": "subheading",
+      "zh": [
+        "3.1 货币交换价值的决定"
+      ],
+      "en": [
+        "3.1 Determining the Exchange Value of Money"
+      ],
+      "source_ids": [
+        "ch05-u038"
+      ],
+      "page": "103",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch05-u039",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在个别交易中，货币的交换价值是商品价格的倒数。如果货币是商品且商品按价值交换，那么还可得出货币的交换价值等于货币价值与商品价值之比。然而——这一点不必再纠缠——在资本主义条件下、资本构成不等时，商品价格的倒数与货币和商品中所体现劳动之比没有直接而即时的关系。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In individual transactions, money’s exchange value is the inverse of a commodity’s price. If money is a commodity and commodities exchange at value, it also follows that money’s exchange value is equal to the ratio of the value of money over the value of the commodity. However, and this need not detain us further, under capitalist conditions and with unequal compositions of capital, the inverse of a commodity’s price bears no immediate and direct relationship to the ratio of labour embodied in money and in the commodity."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u039"
+      ],
+      "page": "103"
+    },
+    {
+      "id": "ch05-u040",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "另一方面，一般地决定货币的交换价值，需要考虑交换领域的总体，并直接导向交易方程式。在交换领域整体中，货币以流通速度和数量为特征。",
+            {
+              "type": "note",
+              "id": "n_ch05_016",
+              "label": "16"
+            },
+            "本章把给定时期内的平均流通速度定义为每单位货币实现的价格。每一时期的货币数量，是由待售商品量的总价格和到期债务所必需的数量；货币数量与流通速度成反比。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Determination of money’s exchange value in general, on the other hand, requires consideration of the totality of the sphere of exchange, and leads directly to the equation of exchange. In the sphere of exchange as a whole, money is characterised by velocity and quantity.",
+            {
+              "type": "note",
+              "id": "n_ch05_016",
+              "label": "16"
+            },
+            " Average velocity during a given period of time is defined in this chapter as the price realised per unit of money. Money quantity in every period is the quantity that is made necessary by the total price of the quantity of commodities seeking sale and of maturing debt obligations; money quantity varies inversely with velocity."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u040"
+      ],
+      "page": "103"
+    },
+    {
+      "id": "ch05-u041",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "为简单起见，假定除非另有说明，货币是交换手段；货币流通速度恒定且等于1；待流通的商品量等于商品总产出。这些假定对所达结论均不关键。类比于个别交易，货币的一般交换价值是货币量M与商品产出量Y相交换的平均比率。这一平均比率也是价格水平P的倒数。换句话说，货币的交换价值由表达式Y/M = 1/P给出，这基本上就是流通速度等于1时的交易方程式。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For simplicity, it is assumed that money is means of exchange, unless otherwise stated; the velocity of money is constant and equal to unity; the quantity of commodities to be circulated equals total commodity output. None of these assumptions is critical for the conclusions reached here. By analogy with individual transactions, the general exchange value of money is the average rate at which the quantity of money, M, exchanges for the quantity of commodity output, Y. This average rate is also the inverse of the price level, P. In other words, the exchange value of money is given by the expression Y/M = 1/P, which is basically the equation of exchange for velocity equal to unity."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u041"
+      ],
+      "page": "103",
+      "review": "印刷本数量符号为小大写Y、M、P，价值符号为小写斜体m、y；OCR文本层将小大写误作小写。"
+    },
+    {
+      "id": "ch05-u042",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "如果商品按价值交换，类比于个别交易中货币的交换价值，货币的交换价值等于货币价值m与商品产出单位价值y之比。",
+            {
+              "type": "note",
+              "id": "n_ch05_017",
+              "label": "17"
+            },
+            "即Y/M = m/y（因为流通速度等于1）。简言之，只要商品按价值交换，内在价值之比就为货币的交换价值提供一个参照点。另一方面，如果生产由许多必须获得相同利润率并在自由市场上竞争的资本进行，就不能保证等式Y/M = m/y在任何时候都成立，因为价格必然偏离价值。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "If commodities exchange at value, by analogy with the exchange value of money in individual transactions, the exchange value of money is equal to the ratio of the value of money, m, to the per unit value of commodity output, y.",
+            {
+              "type": "note",
+              "id": "n_ch05_017",
+              "label": "17"
+            },
+            " That is, Y/M = m/y (since velocity is equal to unity). In short, as long as commodities exchanged at value, the ratio of intrinsic values would provide a point of reference for the exchange value of money. On the other hand, if production was undertaken by many capitals that have to earn the same rate of profit and compete in a free market, there could not be any guarantee that the equality Y/M = m/y would hold at all times, since prices would necessarily diverge from values."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u042"
+      ],
+      "page": "103–104",
+      "review": "印刷本数量符号为小大写Y、M，价值符号为小写斜体m、y；OCR文本层将小大写误作小写。"
+    },
+    {
+      "id": "ch05-u043",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此，对资本主义总量交换而言，不能直接假定产出与货币的内在价值之比为货币交换价值提供参照点。据此，资本主义条件下货币交换价值的分析涉及两个至关重要的问题（给定流通速度已假定不变）：第一，必须概述数量M与Y的决定过程；第二，必须指明Y/M与m/y之间关系的性质。对这两者，如下文所明确，商品货币与无价值货币之间存在天壤之别。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thus, for aggregate capitalist exchange, it could not be immediately assumed that the ratio of intrinsic values of output and money would provide a reference point for the exchange value of money. In this light, the analysis of the exchange value of money under capitalist conditions would involve two issues of paramount importance (given that velocity has been assumed constant): first, the process of determination of the quantities M and Y must be outlined; second, the nature of the relationship of Y/M to m/y must be specified. For both of these, as is made clear below, there is a world of difference between commodity money and valueless money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u043"
+      ],
+      "page": "104",
+      "review": "印刷本数量符号为小大写Y、M；OCR文本层误作小写。"
+    },
+    {
+      "id": "ch05-u044",
+      "canonical_kind": "subheading",
+      "zh": [
+        "3.2 货币作为商品时的交换价值"
+      ],
+      "en": [
+        "3.2 The Exchange Value of Money when Money is a Commodity"
+      ],
+      "source_ids": [
+        "ch05-u044"
+      ],
+      "page": "104",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch05-u045",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "关于商品货币，存在两种可能的方式来解决决定其交换价值的理论问题，古典政治经济学家对两者都作了清晰概述。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "With regard to commodity money, two possible ways exist to resolve the theoretical problem of determining its exchange value, both of which were clearly outlined by classical political economists."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u045"
+      ],
+      "page": "104"
+    },
+    {
+      "id": "ch05-u046",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "首先是货币数量论，休谟与李嘉图是其最著名的拥护者，尽管两人之间也存在重要差异。对休谟而言，货币与商品都不具有内在价值。",
+            {
+              "type": "note",
+              "id": "n_ch05_018",
+              "label": "18"
+            },
+            "因此，按定义，Y/M与m/y之间不可能有内在关系。此外，对休谟而言，决定货币数量M相当简单：M可以独立于产出数量Y而变化，例如由于新矿的发现。用现代术语说，商品货币向流通领域的供给是外生的。于是对休谟而言，商品货币的交换价值独立于货币商品的内在价值而决定，通过可称为纯粹货币数量论的机制。",
+            {
+              "type": "note",
+              "id": "n_ch05_019",
+              "label": "19"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There is, first, the quantity theory of money, with Hume and Ricardo as the most prominent of its partisans, though an important difference also exists between them. For Hume, neither money nor commodities possess intrinsic value.",
+            {
+              "type": "note",
+              "id": "n_ch05_018",
+              "label": "18"
+            },
+            " Therefore, by definition, there could be no inherent relationship between Y/M and m/y. Furthermore, for Hume, determining the quantity of money, M, is fairly straightforward: M could change independently of the quantity of output, Y, e.g. due to mine discoveries. In modern parlance, the supply of commodity money to the sphere of circulation would be exogenous. For Hume, then, the exchange value of commodity money is determined independently of the money commodity’s intrinsic value, through what might be called a pure quantity theory of money.",
+            {
+              "type": "note",
+              "id": "n_ch05_019",
+              "label": "19"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u046"
+      ],
+      "page": "104–105",
+      "review": "印刷本数量符号为小大写Y、M；OCR文本层误作小写。"
+    },
+    {
+      "id": "ch05-u047",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "毫无疑问，休谟的纯粹数量论是一个优雅的逻辑图式。然而，如果假定商品与货币也具有内在价值（体现劳动），那么显然需要对商品货币的交换价值作更为繁复的理论决定。用上文引入的表述说，立即得出必须明确考虑Y/M与m/y的关系。这正是李嘉图相比休谟所面临的额外困难。他提出的解决方案——在坚持劳动价值论与货币数量论两者的同时——是决定性的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There is no doubt that Hume’s pure quantity theory is an elegant logical schema. However, if it were postulated that commodities and money also possess intrinsic value (embodied labour), it would become evident that a much more elaborate theoretical determination of the exchange value of commodity money would be necessary. In terms of the formulation introduced above, it would follow immediately that the relationship of Y/M to m/y would have to be explicitly considered. This was precisely the additional difficulty that Ricardo faced compared to Hume. The solution he proposed – while holding on to both the labour theory of value and the quantity theory of money – was definitive."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u047"
+      ],
+      "page": "105",
+      "review": "印刷本数量符号为小大写Y、M；OCR文本层误作小写。"
+    },
+    {
+      "id": "ch05-u048",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "一个例子就足以传达李嘉图论证的要旨。有趣的是，它涉及产出的外生变化，而非货币数量的变化——后者才是讨论数量论时通常假定变化的变量。于是，对李嘉图而言，如果Y上升，其他条件不变，商品货币的交换价值（1/P）也会上升（价格下降）："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "One example would be enough to convey the gist of Ricardo’s argument. Interestingly enough, it refers to an exogenous change in output, not in the quantity of money, which is the variable that is usually assumed to change in discussing the quantity theory. Thus, for Ricardo, if Y rose, other things being equal, the exchange value of commodity money (1/P) would also rise (prices would fall):"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u048"
+      ],
+      "page": "105",
+      "review": "印刷本数量符号为小大写Y、P；OCR文本层误作小写。"
+    },
+    {
+      "id": "ch05-u049",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "买卖的商品会更多，但价格更低；因此同一货币在每次交易中按更高的价值转手，就仍然足以应付增加的交易次数。于是货币的价值并不完全取决于其绝对数量，而取决于相对于它必须完成的支付的数量。",
+            {
+              "type": "note",
+              "id": "n_ch05_020",
+              "label": "20"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "There will be more commodities bought and sold, but at lower prices; so that the same money will be adequate to the increased number of transactions, by passing in each transaction at a higher value. The value of money, then, does not wholly depend upon its absolute quantity, but on its quantity relatively to the payments which its has to accomplish.",
+            {
+              "type": "note",
+              "id": "n_ch05_020",
+              "label": "20"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u049"
+      ],
+      "page": "105",
+      "indent": true,
+      "review": "原文引文“which its has to accomplish”中“its”疑为“it”之误。"
+    },
+    {
+      "id": "ch05-u050",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对李嘉图而言，随后的一系列事件也是合乎逻辑而清晰的。在黄金与商品内在价值不变（即两者生产难度不变）的情况下，货币交换价值的上升意味着金块持有者（或生产者）（国内与国外）可以进行有利可图的套利。他们可以把金属投入流通，利用（已上升的）Y/M相对于（不变的）m/y所隐含的更有利的黄金对商品关系。这样做，他们就在提高M，从而抵消Y/M的最初上升——那正是对初始均衡位置的冲击。等价地，如果金币的交换价值因产出突然下降而下跌（即价格上升），铸币持有者可以通过熔化并作为金块输出铸币而获利；在此过程中，他们降低M，从而抵消Y/M的最初下降；均衡再次恢复。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The subsequent train of events for Ricardo is also logical and clear. The rise in the exchange value of money, given unchanged intrinsic values of gold and commodities (i.e. in the difficulty of production for both), means that holders (or producers) of gold bullion (domestically and abroad) could engage in profitable arbitrage. They could put metal in circulation, taking advantage of the more beneficial relation of gold to commodities that is implicit in (the risen) Y/M compared to (the unchanged) m/y. By so doing, they would be raising M, and thus offsetting the initial increase in Y/M, which was the shock to the initial equilibrium position. Equivalently, if the exchange value of gold coin fell as a result of a sudden decline in output (i.e. prices rose), the holders of coin could benefit by melting and exporting coin as bullion; in the process, they would lower M and thus offset the initial fall in Y/M; equilibrium would again be restored."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u050"
+      ],
+      "page": "105–106",
+      "review": "印刷本数量符号为小大写Y、M；OCR文本层误作小写。"
+    },
+    {
+      "id": "ch05-u051",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "总之，Y或M的数量变化，其他条件不变，会改变货币的交换价值，从而启动一个基于货币内在价值m与产出内在价值y不变的套利过程。只要Y/M与m/y仍不相容，套利就会继续。结果是商品货币数量M会调整，从而最终消除货币交换价值的最初扰动。只要流通中商品货币的数量能够自由调整，商品货币的内在价值m就会充当货币交换价值的锚。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In sum, quantity changes in either Y or M,",
+            {
+              "type": "em",
+              "children": [
+                " ceteris paribus"
+              ]
+            },
+            ", would alter the exchange value of money, and thus set in train a process of arbitrage that would be based on the unchanged intrinsic values of money, m, and output, y. Arbitrage would continue as long as Y/M and m/y remained incompatible. The result would be that the quantity of commodity money, M, would adjust, thus eventually eliminating the original disturbance in the exchange value of money. The intrinsic value of commodity money, m, would acts as an anchor for money’s exchange value, provided that the quantity of commodity money in circulation could be freely adjusted."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u051"
+      ],
+      "page": "106",
+      "review": "印刷本数量符号为小大写Y、M，价值符号为小写斜体m、y；OCR文本层将小大写误作小写，另原文“would acts as an anchor”中“acts”疑为“act”之误。"
+    },
+    {
+      "id": "ch05-u052",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "使李嘉图能够在理论上把商品货币的交换价值锚定于货币内在价值的假定，是商品货币不受阻碍地退出（和进入）流通，直到货币数量调整到所需水平。据此，如果商品货币流入或流出流通受阻，流通中的货币数量变得任意决定，机制就会崩溃。在那种情况下，商品货币的交换价值将完全由实际处于流通领域中的货币数量与商品数量决定。于是，商品货币的交换价值变得独立于商品货币的内在价值。换句话说，如果流通中商品货币的数量被任意地（“外生地”）且永久地改变，商品货币的内在价值就不再对货币交换价值起锚定作用。纯粹货币数量论将成立，决定货币的交换价值。这一结论对李嘉图的货币理论也是根本性的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The assumption that allowed Ricardo theoretically to anchor the exchange value of commodity money on money’s intrinsic value was the unimpeded exit (and entry) of commodity money from circulation until the quantity of money adjusted to the required level. By this token, if the flows of commodity money in or out of circulation were impeded and the quantity of money in circulation became arbitrarily determined, the mechanism would break down. In that case, the exchange value of commodity money would be entirely determined by the quantity of money and the quantity of commodities that actually found themselves in the sphere of circulation. Thus, the exchange value of commodity money would become independent of commodity money’s intrinsic value. In other words, if the quantity of commodity money in circulation became arbitrarily (‘exogenously’) and permanently altered, the intrinsic value of commodity money would cease to play its anchoring role for the exchange value of money. A pure quantity theory of money would hold, determining the exchange value of money. This conclusion was also fundamental to Ricardo’s monetary theory."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u052"
+      ],
+      "page": "106"
+    },
+    {
+      "id": "ch05-u053",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "反数量论提供了对商品货币交换价值的另一种处理，马克思是其最著名的代表之一。在考虑它之前，应强调李嘉图与马克思（以及他们所属的流派）都会接受货币的内在价值（体现劳动）充当货币交换价值的锚。此外，他们在这一点上不会有分歧：如果流通货币的数量能够被任意地（且永久地）改变，商品货币的交换价值确实将由商品数量与货币数量决定，独立于货币的内在价值。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "An alternative treatment of the exchange value of commodity money was provided by the anti-quantity-theory, and Marx was one of its most prominent exponents. Before considering it, it should be stressed that both Ricardo and Marx (and the currents to which they belonged) would accept that the intrinsic value of money (labour embodied) would act as anchor for the exchange value of money. Moreover, they would have no dispute on the point that if the quantity of circulating money could become arbitrarily (and permanently) altered, the exchange value of commodity money would indeed be determined by the quantity of commodities and the quantity of money, independently of money’s intrinsic value."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u053"
+      ],
+      "page": "106–107"
+    },
+    {
+      "id": "ch05-u054",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "李嘉图与马克思的差异在于，马克思完全拒绝李嘉图把商品货币交换价值锚定于货币内在价值的理论机制（即货币数量论）。马克思在这一点上提出了尖锐的论证，其实质是：李嘉图的处理只专注于交换手段职能，因而没有为商品货币的“货币作为货币”职能留下余地。",
+            {
+              "type": "note",
+              "id": "n_ch05_021",
+              "label": "21"
+            },
+            "如果货币数量的调整依赖于铸币不断转化为金块、再转化回铸币（两种运动都由旨在利用盈利机会的商人发起），那么体系中就没有货币贮藏的余地。这是不可避免的结论，因为作为经济活动的货币贮藏意味着经济主体会抓住货币的金属实体不放，而不管货币交换价值偏离其内在价值可能创造的即时盈利机会。",
+            {
+              "type": "note",
+              "id": "n_ch05_022",
+              "label": "22"
+            },
+            "于是，李嘉图关于商品货币交换价值决定的理论排除了对“货币作为货币”的分析，即恰恰排除了资本主义经济中货币最有趣、最重要的职能。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The difference between Ricardo and Marx lay, rather, in the complete rejection by Marx of Ricardo’s theoretical mechanism for anchoring the exchange value of commodity money onto money’s intrinsic value (i.e. the quantity theory of money). Marx offered a trenchant argument on this point, the substance of which was that Ricardo’s treatment leaves no room for the ‘money as money’ functions of commodity money, since it concentrates exclusively on the function of means of exchange.",
+            {
+              "type": "note",
+              "id": "n_ch05_021",
+              "label": "21"
+            },
+            " If the adjustment of the quantity of money relied on the ceaseless conversion of coin into bullion and back into coin (both movements initiated by merchants aiming to take advantage of profit opportunities), there would be no room for money hoarding in the system. That is an inevitable conclusion since the hoarding of money as economic activity implies that economic agents would cling onto the metallic substance of money irrespective of immediate profit opportunities that might have been created by divergences of the exchange value of money from its intrinsic value.",
+            {
+              "type": "note",
+              "id": "n_ch05_022",
+              "label": "22"
+            },
+            " Thus, Ricardo’s theory of the determination of the exchange value of commodity money precluded the analysis of ‘money as money’, i.e. precisely of the most interesting and important functions of money in a capitalist economy."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u054"
+      ],
+      "page": "107"
+    },
+    {
+      "id": "ch05-u055",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在这一脉络上，马克思强调货币的贮藏与解除贮藏是流通货币数量的调节性影响。强调贮藏货币的货币角色，是整个反数量论传统的显著特征，马克思从斯图亚特和银行学派那里接受了它。",
+            {
+              "type": "note",
+              "id": "n_ch05_023",
+              "label": "23"
+            },
+            "商品货币贮藏的形成与解体共同决定流通中的货币数量，从而使货币的交换价值与货币和商品的内在价值相容。在李嘉图模型中，商品货币的数量与交换价值之间存在直接关系，而对马克思而言，这一关系以货币贮藏为中介。自然，随之立即产生一个问题：什么决定贮藏与解除贮藏？"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In this vein, Marx stressed that money hoarding and dishoarding were the regulating influences on the quantity of circulating money. The emphasis on the monetary role of hoards is a distinguishing feature of the anti-quantitytheory tradition in general, and Marx adopted it from Steuart and the Banking School.",
+            {
+              "type": "note",
+              "id": "n_ch05_023",
+              "label": "23"
+            },
+            " The formation and dissolution of commodity money hoards would jointly determine the circulating quantity of money, thus making the exchange value of money compatible with the intrinsic values of money and commodities. While in the Ricardian model there is a direct relationship between the quantity and the exchange value of commodity money, for Marx this relationship is mediated by money hoarding. Naturally, the following question immediately arises: what determines hoarding and dishoarding?"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u055"
+      ],
+      "page": "107"
+    },
+    {
+      "id": "ch05-u056",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思把《资本论》第二卷的很大一部分用于这一问题，并表明贮藏的形成与解体是资本再生产的不可分割的方面。马克思在《资本论》中对贮藏的处理对货币理论的意义在于：它把影响货币数量的力量（首先是贮藏与解除贮藏）定位于资本积累过程本身。这与李嘉图及一切数量论者的路径大不相同，后者通常假定商品货币数量的外生变化，试图通过货币交换价值与内在价值的相互作用确立均衡过程。然而，尽管马克思的分析重要，它并不构成关于贮藏与解除贮藏如何确保商品货币交换价值锚定于其内在价值的精确理论。这仍是马克思商品货币处理中的一个重大缺失。",
+            {
+              "type": "note",
+              "id": "n_ch05_024",
+              "label": "24"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx devoted a large part of the second volume of",
+            {
+              "type": "em",
+              "children": [
+                " Capital"
+              ]
+            },
+            " to this issue, and showed that hoard formation and dissolution are integral aspects of the reproduction of capital. The significance for monetary theory of Marx’s treatment of hoarding in Capital lies in that it locates the forces that influence the quantity of money (above all, hoarding and dishoarding) within the very process of capital accumulation. This is a very different approach from that of Ricardo and of all quantity theorists who typically postulate exogenous changes in the quantity of commodity money, seeking to establish an equilibrating process through the interplay of money’s exchange and intrinsic values. Important as Marx’s analysis is, however, it does not amount to a precise theory of how hoarding and dishoarding ensures the anchoring of commodity money’s exchange value to its intrinsic value. That remains a significant absence in Marx’s treatment of commodity money.",
+            {
+              "type": "note",
+              "id": "n_ch05_024",
+              "label": "24"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u056"
+      ],
+      "page": "107–108"
+    },
+    {
+      "id": "ch05-u057",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对马克思著作中这一缺失的一个可能解释是：资本主义条件下商品货币的分析最终面临方法论困境。在这种条件下对货币贮藏的理论化很快遇到信用分析的问题，因为积累起来的货币基金可以经常地贷出取息。于是，特定资本主义条件下商品货币的分析必须很快纳入贮藏货币的贷放。然而，如果明确允许信用关系，贮藏形成与解体的过程就会被归入银行贷款发放与贷款偿还的过程之下。那么，要追踪商品货币交换价值锚定于其内在价值所经由的信用相关机制，就需要一种关于信用与实际积累在整个商业周期中关系的理论。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "One possible explanation for this absence in Marx’s work might be that analysis of commodity money under capitalist conditions eventually confronts a methodological quandary. Theorisation of money hoarding under such conditions quickly runs against the problem of analysing credit, since the accumulated funds of money can be regularly lent at interest. Thus, the analysis of commodity money under specifically capitalist conditions must pretty soon incorporate the lending of hoarded money. However, if one explicitly allowed for credit relations, the processes of hoard formation and dissolution would become subsumed under the processes of bank lending and repayment of loans. Now, to trace the credit-related mechanisms through which the exchange value of commodity money would be anchored in its intrinsic value, one would need a theory of the relation of credit to real accumulation over the business cycle."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u057"
+      ],
+      "page": "108–109"
+    },
+    {
+      "id": "ch05-u058",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "给定一种信用理论，就可能表明：在若干周期的过程中，货币黄金的存量会按照黄金的内在价值不断地在贮藏与流通之间重新分割（同时吸收新增黄金流量）。",
+            {
+              "type": "note",
+              "id": "n_ch05_025",
+              "label": "25"
+            },
+            "同时，黄金的交换价值会相对于黄金的内在价值在两个方向上表现出强烈波动。简言之，如果拒绝货币数量论，商品货币的内在价值只有在若干商业周期的过程中才为货币交换价值提供锚。这一过程不是纯粹货币性的，它以信用机制为中介，还涉及商业周期所特有的显著价格水平波动。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Given a theory of credit, it could be possible to show that, in the course of several cycles, the stock of monetary gold would be constantly re-divided between hoard and circulation (also absorbing the fresh gold flows) in line with the intrinsic value of gold.",
+            {
+              "type": "note",
+              "id": "n_ch05_025",
+              "label": "25"
+            },
+            " At the same time, the exchange value of gold would exhibit strong fluctuations in both directions relative to the intrinsic value of gold. In short, if the quantity theory of money were rejected, the intrinsic value of commodity money would provide an anchor for the exchange value of money only over the course of several business cycles. The process would not be purely monetary and it would be mediated by credit mechanisms, also involving pronounced price level fluctuations characteristic of the business cycle."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u058"
+      ],
+      "page": "109"
+    },
+    {
+      "id": "ch05-u059",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "回顾一下，古典政治经济学为我们提供了决定商品货币交换价值的两条理论路径：由李嘉图总结的数量论，和由马克思总结的反数量论。两个流派都把商品货币的内在价值设定为货币交换价值的锚。然而，它们在流通中商品货币数量如何被改变以确保交换价值锚定于货币内在价值的机制上，存在深刻分歧。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To recap, classical political economy presents us with two theoretical paths for determining commodity money’s exchange value: the quantity theory, summed up by Ricardo, and the anti-quantity-theory, summed up by Marx. Both currents posit the intrinsic value of commodity money as the anchor of money’s exchange value. However, they differ profoundly on the mechanism through which the quantity of commodity money in circulation would be altered to ensure the anchoring of exchange value onto money’s intrinsic value."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u059"
+      ],
+      "page": "109"
+    },
+    {
+      "id": "ch05-u060",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "李嘉图的路径基于流通货币与货币商品之间的有利可图的套利：如果商品货币的交换价值与内在价值不相容，自发套利就会调节商品货币的数量，恢复均衡。如果由于任何原因套利变得不可能，商品货币的交换价值就纯粹由货币数量与商品数量决定，独立于货币的内在价值。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Ricardo’s approach was based on profitable arbitrage between circulating money and the money commodity: if there were an incompatibility between the exchange and the intrinsic value of commodity money, spontaneous arbitrage would regulate the quantity of commodity money, restoring equilibrium. If, for whatever reason, arbitrage became impossible, the exchange value of commodity money would be determined purely by the quantity of money and the quantity of commodities, independently of the intrinsic value of money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u060"
+      ],
+      "page": "109"
+    },
+    {
+      "id": "ch05-u061",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "另一方面，马克思的路径基于货币商品的贮藏与解除贮藏，它们调节商品货币的数量并确保交换价值与货币内在价值相容。然而，与李嘉图不同，马克思没有精确指明商品货币数量如何按其内在价值变化。另一方面，他能够强调商品货币的“货币作为货币”职能，即贮藏与支付手段，而李嘉图被迫把这些排除在其图式之外。更重要的是，马克思能够聚焦于调整流通中商品货币数量的内生（于资本积累）过程。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s approach, on the other hand, was based on the hoarding and dishoarding of the money commodity, which would regulate the quantity of commodity money and ensure compatibility of the exchange value with the intrinsic value of money. However, Marx, unlike Ricardo, did not precisely specify how the quantity of commodity money would change in line with its intrinsic value. On the other hand, he was able to stress the ‘money as money’ functions of commodity money, i.e. hoarding and means of payment, which Ricardo was forced to leave out of his schema. Even more importantly, Marx was able to focus on processes that were endogenous (to capital accumulation) in adjusting the quantity of commodity money in circulation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u061"
+      ],
+      "page": "109–110"
+    },
+    {
+      "id": "ch05-u062",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "两种路径的差异对分析其他货币形式的交换价值及其与商品货币内在价值的联系具有重要含义。这些问题在下文考虑。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The difference between the two approaches has important implications for the analysis of the exchange value of other forms of money and its connection with the intrinsic value of commodity money. These issues are considered below."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u062"
+      ],
+      "page": "110"
+    },
+    {
+      "id": "ch05-u063",
+      "canonical_kind": "subheading",
+      "zh": [
+        "3.3 货币内在无价值时的交换价值"
+      ],
+      "en": [
+        "3.3 The Exchange Value of Money when Money is Intrinsically Valueless"
+      ],
+      "source_ids": [
+        "ch05-u063"
+      ],
+      "page": "110",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch05-u064",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对数量论者而言，决定无价值货币的交换价值不构成任何特殊问题。根本原因在于，数量论者通常不区分无价值货币的各种形式（法定货币与信用货币）：一切无价值货币形式都被视为取代货币商品的约定。",
+            {
+              "type": "note",
+              "id": "n_ch05_026",
+              "label": "26"
+            },
+            "于是通常提出的论证是：无价值货币的数量由国家或其他货币当局任意地（“外生地”）决定。这一立场惊人地肤浅，尤其就信用货币而言，但它至少有一个优点：它通过简单假定当局决定无价值货币的数量是多少，解决了无价值货币数量如何决定的问题。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For quantity theorists, determination of the exchange value of valueless money does not present any special problems. The fundamental reason is that quantity theorists do not usually differentiate among the various forms of valueless money (fiat and credit): all forms of valueless money are seen as conventions which replace the money commodity.",
+            {
+              "type": "note",
+              "id": "n_ch05_026",
+              "label": "26"
+            },
+            " The argument that is then typically made is that the quantity of valueless money is determined arbitrarily (‘exogenously’) by the state or other monetary authorities. This stance is strikingly shallow, particularly with respect to credit money, but it has at least one merit: it solves the question of how the quantity of valueless money is determined by postulating simply that the authorities decide what it is."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u064"
+      ],
+      "page": "110"
+    },
+    {
+      "id": "ch05-u065",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "从这个视角看，在数量论的范围内，决定无价值货币交换价值有两种相关的可能性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "From this perspective there are two related possibilities for determining the exchange value of valueless money, within the confines of the quantity theory."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u065"
+      ],
+      "page": "110"
+    },
+    {
+      "id": "ch05-u066",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第一，如果无价值货币可以自由兑换为货币商品，那么货币商品的内在价值充当无价值货币交换价值的锚就是显而易见的。可兑换性这一既定事实会阻止无价值货币出现贴水或升水。同理，可兑换性会分别阻止无价值货币相对于流通中必要货币数量出现过剩或短缺。换句话说，向货币商品的可兑换性会充当对货币当局任意权力的限制因素。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "First, if valueless money were freely convertible into the money commodity, it would be trivially true that the intrinsic value of the money commodity would act as an anchor for the exchange value of valueless money. The dumb fact of convertibility would prevent the emergence of a discount or premium for valueless money. By the same token, convertibility would prevent the emergence of, respectively, surpluses or shortages of valueless money relative to the necessary quantity of money in circulation. In other words, convertibility into the money commodity would act as a limiting factor on the arbitrary powers of monetary authorities."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u066"
+      ],
+      "page": "110"
+    },
+    {
+      "id": "ch05-u067",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第二，如果不能兑换为商品货币，货币商品的内在价值就不再充当无价值货币交换价值的锚。货币当局改变无价值货币数量的权力将不受任何限制因素约束，因此后者的交换价值将纯粹由其数量与流通中商品数量的关系决定。举一个熟悉的例子：如果不可兑换银行券发行过量，其他条件不变，则Y/M会下降；此外，如果纸币不能兑换为商品货币，它就不能退出流通，其交换价值的下降（即价格上升）就会成为永久性的。于是，无价值货币向商品货币的不可兑换性意味着无价值货币的交换价值脱离商品货币的内在价值。纯粹数量论将统治。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Second, if there were no convertibility into commodity money, the intrinsic value of the money commodity would cease to act as an anchor for the exchange value of valueless money. There would be no limiting factors on the powers of the monetary authorities to change the quantity of valueless money, and hence, the exchange value of the latter would be determined purely through the relation of its quantity to the quantity of commodities in circulation. To take a familiar example, if there was an excessive issue of inconvertible banknotes, other things being equal, then Y/M would be lowered; if, moreover, the paper money could not be converted into commodity money, it would not be able to leave circulation and the decline in its exchange value (i.e. the rise in prices) would become permanent. Thus, the inconvertibility of valueless money into commodity money would imply that the exchange value of valueless money would become detached from the intrinsic value of commodity money. A pure quantity theory would rule."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u067"
+      ],
+      "page": "110–111",
+      "review": "印刷本数量符号为小大写Y、M；OCR文本层误作小写。"
+    },
+    {
+      "id": "ch05-u068",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对反数量论者而言，形成鲜明对照的是，决定内在无价值货币的交换价值是一个相当复杂的过程。与数量论者不同，其出发点是区分国家发行的法定货币与信用货币。马克思的著作又可以作为这一流派处理两种无价值形式时的参照点。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For anti-quantity theorists, in sharp contrast, determining the exchange value of intrinsically valueless money is a process of considerable complexity. The starting point, unlike quantity theorists, is to differentiate between state-issued fiat money and credit money. Marx’s work can again be taken as reference point for this current’s approach with respect to both forms of valueless money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u068"
+      ],
+      "page": "111"
+    },
+    {
+      "id": "ch05-u069",
+      "canonical_kind": "subheading",
+      "zh": [
+        "3.3.1 法定货币交换价值的决定"
+      ],
+      "en": [
+        "3.3.1 Determining the Exchange Value of Fiat Money"
+      ],
+      "source_ids": [
+        "ch05-u069"
+      ],
+      "page": "111",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch05-u070",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "如本章第2部分所论，法定货币是国家发行的商品货币符号，在流通领域中自发出现。值得注意的是，关于法定货币交换价值的决定，数量论与反数量论之间没有重大差异。法定货币的数量由国家任意决定，交换过程本身内部不存在对它的限制影响。",
+            {
+              "type": "note",
+              "id": "n_ch05_027",
+              "label": "27"
+            },
+            "唯一系统性的调节影响是可兑换为货币商品。于是，即使对反数量论传统而言，不可兑换法定货币的交换价值也会通过数量论所特有的机制来决定。简言之，如果国家把越来越多的不可兑换法定货币强制投入流通，其他条件不变，法定货币的交换价值就会无限下降（出现通货膨胀与恶性通货膨胀）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fiat money, as was argued in part 2 of this chapter, is a state-issued symbol of commodity money, which arises spontaneously in the sphere of circulation. It is notable that there are no significant differences between the quantity theory and the anti-quantity-theory regarding the determination of the exchange value of fiat money. The quantity of fiat money is determined arbitrarily by the state, and there are no limiting influences on it that are integral to the process of exchange.",
+            {
+              "type": "note",
+              "id": "n_ch05_027",
+              "label": "27"
+            },
+            " The only systematic regulating influence would be convertibility into the money commodity. Thus, even for the tradition of the anti-quantitytheory, the exchange value of inconvertible fiat money would be determined through mechanisms that are characteristic of the quantity theory. In short, if the state forced ever-greater quantities of inconvertible fiat money into circulation, other things being equal, the exchange value of fiat money would decline without limit (there would be inflation and hyperinflation)."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u070"
+      ],
+      "page": "111"
+    },
+    {
+      "id": "ch05-u071",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "与此相关，产生以下两个重要问题。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The following two important questions arise in this connection."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u071"
+      ],
+      "page": "111"
+    },
+    {
+      "id": "ch05-u072",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第一，法定货币的数量能否通过类似于商品货币的贮藏过程来调节？答案简单地说是否定的，因为法定货币不适合于贮藏职能，而且（与无价值信用货币不同）不存在任何能弥补其不适当性的环境。历史上的法定纸币——如法国指券或英国国库券——作为国家任意创造的流通手段执行职能，与信用体系没有任何必然联系。它能够适当执行交换手段职能，因为就流通商品而言货币的实体无关紧要。然而，法定货币不能在交换领域之外适当保存价值，因为它既不具有价值，也不通过信用体系与实际积累过程有机联系。国家的一纸命令足以使法定货币中介流通过程，但不足以使它保存价值、或在任何时候令人满意地清偿既往义务并转移价值。要使无价值货币适合于这些职能，首先必须与信用体系有有机联系。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "First, could the quantity of fiat money be regulated through a hoarding process, analogous to that for commodity money? The answer is simply no, because fiat money is inadequate for the function of hoarding, and (unlike valueless credit money) there are no circumstances that could make amends for its inadequacy. Historic fiat paper money – such as French Assignats or British Treasury Notes – has functioned as a means of circulation arbitrarily created by the state, without having any necessary connection with the credit system. It could function adequately as means of exchange because the substance of money is immaterial when it comes to circulating commodities. However, fiat money could not adequately preserve value outside the sphere of exchange because it neither possesses value nor is it organically connected with the process of real accumulation through the credit system. The mere say-so of the state is good enough to enable fiat money to mediate the process of circulation, but it is not good enough to allow it to preserve value, or satisfactorily to settle past obligations and transfer value at all times. For a valueless money to be adequate for these functions it is necessary, above all, to have an organic connection with the credit system."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u072"
+      ],
+      "page": "111–112"
+    },
+    {
+      "id": "ch05-u073",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第二，商品货币的内在价值在决定不可兑换法定货币的交换价值时是否完全不起作用？值得注意的是，对马克思而言，这两种价值之间存在确定关系，源于法定货币符号化商品货币这一事实。由于法定货币“代表”确定数量的商品货币，在本来会处于流通中的商品货币的观念数量与实际处于流通中的法定货币数量之间，就存在一个确定的符号化比率。每单位法定货币所符号化的商品货币数量，显然也取决于商品货币内在价值相对于商品价值的比例。于是，如果不可兑换法定货币的数量被任意增加，其交换价值的下降将与每单位法定货币对商品货币的符号化比率的下降相称。简言之，货币商品的内在价值为分析不可兑换法定货币交换价值的波动提供理论参照点，尽管它不充当其锚。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Second, does the intrinsic value of commodity money play no role at all in determining exchange value of inconvertible fiat money? It is notable that, for Marx, a definite relationship exists between these two values, arising from the fact that fiat money symbolises commodity money. Since fiat money ‘stands for’ a definite quantity of commodity money, there would be a definite rate of symbolisation between the ideal quantity of commodity money that would have been in circulation, and the quantity of fiat money that actually is in circulation. The quantity of commodity money that is symbolised by each unit of fiat money clearly also depends on the intrinsic value of commodity money relative to the value of commodities. Thus, the decline in the exchange value of inconvertible fiat money that would take place if its quantity were arbitrarily increased would be commensurate with the decline in the rate of symbolisation of commodity money by each unit of fiat money. In short, the intrinsic value of the money commodity would provide a theoretical reference point for the analysis of the fluctuations of the exchange value of inconvertible fiat money, although it would not act as an anchor for it."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u073"
+      ],
+      "page": "112"
+    },
+    {
+      "id": "ch05-u074",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "于是，关于法定货币交换价值的决定，数量论与反数量论之间存在分析上的一致（赋予数量论以有效性）。但这只发生在法定货币上，因为它是商品货币的符号；就无价值信用货币而言，绝不存在类似的一致。信用货币不是商品货币的符号；它的数量不取代确定数量的黄金；它的单位不符号化一定量的价值。信用货币上没有“黄金的影子”。",
+            {
+              "type": "note",
+              "id": "n_ch05_028",
+              "label": "28"
+            },
+            "与法定货币不同，信用货币尽管无价值，却从它与信用过程的联系、从而潜在地与实际积累本身的联系中，获得其在交换中的适当性。如下文所示，存在对信用货币数量的重要调节影响，它们是交换过程本身内部的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There is, thus, an analytical concurrence between the quantity theory and the anti-quantity-theory of money (conferring validity to the quantity theory) with regard to determining the exchange value of fiat money. But this happens only for fiat money because it is a symbol of commodity money; by no means is there a similar concurrence when it comes to valueless credit money. Credit money is not a symbol of commodity money; its quantity does not replace a definite quantity of gold; its units do not symbolise a certain amount of value. There is no ‘shadow of gold’ on credit money.",
+            {
+              "type": "note",
+              "id": "n_ch05_028",
+              "label": "28"
+            },
+            " Unlike fiat money, and despite being valueless, credit money derives its adequacy in exchange from its connection with credit processes, and hence, potentially, with real accumulation itself. There are important regulating influences on the quantity of credit money, which are integral to the process of exchange, as is shown below."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u074"
+      ],
+      "page": "112–113"
+    },
+    {
+      "id": "ch05-u075",
+      "canonical_kind": "subheading",
+      "zh": [
+        "3.3.2 信用货币交换价值的决定"
+      ],
+      "en": [
+        "3.3.2 Determining the Exchange Value of Credit Money"
+      ],
+      "source_ids": [
+        "ch05-u075"
+      ],
+      "page": "113",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch05-u076",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "就本章而言，信用货币被视为包括银行的负债，即银行券与存款。",
+            {
+              "type": "note",
+              "id": "n_ch05_029",
+              "label": "29"
+            },
+            "当代银行发行的信用货币通过其与中央银行的联系而带有国家的强烈印记。国家的角色在两个方面重要：第一，银行券的发行业已大体成为中央银行的垄断；第二，银行存款的创造与消除，受中央银行通过与其他银行的信用交易以及在银行信用公开市场上的有意识操纵。中央银行进行这种操纵的能力，关键取决于它获得国家信用的渠道。由于国家有权对年收入征税，国家信用的决定因素显然与资本主义企业的信用大不相同（且不受相同限制）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For the purposes of this chapter, credit money is taken to comprise liabilities of banks, i.e. banknotes and deposits.",
+            {
+              "type": "note",
+              "id": "n_ch05_029",
+              "label": "29"
+            },
+            " Contemporary bank-issued credit money bears the strong imprint of the state through its links with the central bank. The role of the state is important in two respects: first, the issue of banknotes has, by and large, become the monopoly of the central bank; and second, the creation and elimination of bank deposits is subject to conscious manipulation by the central bank through credit transactions with other banks as well as in the open market for banking credit. The ability of the central bank to undertake such manipulation critically depends on its access to the credit of the state. Since the state has the right to tax the annual revenue, state credit clearly has very different determinants from the credit of capitalist firms (and is not subject to the same limitations)."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u076"
+      ],
+      "page": "113"
+    },
+    {
+      "id": "ch05-u077",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在方法论上，信用货币的分析需要与（或多或少）有意识的国家干预在信用领域中的效应剥离。国家信用政策的分析属于更低、更具体的抽象层次。于是，在最纯粹、最简单的分析层次上，信用货币将被视为包括许多自由竞争的银行所发行的银行负债。这一假定与银行体系内部存在导致中央银行出现的趋势完全相容，也不排除国家信用政策造成与信用体系自身自发运作相当不同的现象的可能性。另一方面，它确实意味着中央银行的出现与国家信用政策的效应，根本上受自由运作的信用体系的底层性质所限定。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Methodologically, analysis of credit money needs to be disentangled from the effects of (more or less) conscious state intervention in the sphere of credit. The analysis of state credit policy belongs to a lower, more concrete, level of abstraction. Thus, at the purest and simplest level of analysis, credit money will be taken to comprise bank liabilities issued by many freely competing banks. This assumption is fully compatible with the existence of tendencies within the banking system that lead to the emergence of a central bank, and it does not preclude the possibility that state credit policies would create phenomena that would be quite distinct from the spontaneous operations of the credit system itself. On the other hand, it does imply that the emergence of a central bank and the effects of state credit policy would be fundamentally circumscribed by the underlying nature of the freely operating credit system."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u077"
+      ],
+      "page": "113"
+    },
+    {
+      "id": "ch05-u078",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "就本章而言，许多竞争银行在没有国家货币政策的情况下自由发行负债的假定，显著简化了信用货币交换价值的分析，且不失一般性。立即出现的问题——与商品货币和法定货币一样——是：第一，识别决定信用货币数量的因素；第二，确立信用货币交换价值与商品货币内在价值之间是否存在关系。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For the purposes of this chapter, the assumption of many competing banks, freely issuing liabilities in the absence of state monetary policy, significantly simplifies the analysis of the exchange value of credit money, with no loss of generality. The issues that immediate arise – as for commodity and fiat money – are, first, to identify the factors that determine the quantity of credit money, and second, to establish whether a relationship exists between the exchange value of credit money and the intrinsic value of commodity money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u078"
+      ],
+      "page": "113–114",
+      "review": "原文“The issues that immediate arise”中“immediate”疑为“immediately”之误。"
+    },
+    {
+      "id": "ch05-u079",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "分析指引又可以在古典政治经济学中寻求。但在这方面，货币数量论几乎提供不了什么，因为它把无价值信用货币当作法定货币处理，其数量由货币当局任意地（“外生地”）决定。相反，对反数量论而言，信用货币的数量是信用体系（主要是银行）贷放（与债务偿还）活动的副产品。这些活动显然与商品产出的生产相关。简言之，信用货币的数量内生于资本主义积累过程。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Analytical guidance can, again, be sought in classical political economy. In this respect, however, the quantity theory of money has very little to offer, since it treats valueless credit money as fiat money, the quantity of which is determined arbitrarily (‘exogenously’) by the monetary authorities. For the anti-quantity-theory, in contrast, the quantity of credit money is a by-product of the lending (and debt repayment) activities of the credit system (mostly banks). These activities are clearly related to production of commodity output. In short, the quantity of credit money is endogenous to the process of capitalist accumulation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u079"
+      ],
+      "page": "114"
+    },
+    {
+      "id": "ch05-u080",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "斯图亚特提出了一个原创性洞见：他论证说，通过“固体财产的熔化”（银行通过发行负债获取非流动资产）创造的银行货币，倾向于随着“被熔化的”财产重新凝固而“回吐”（即随着借款人偿还银行债务，信用货币从银行流回）。",
+            {
+              "type": "note",
+              "id": "n_ch05_030",
+              "label": "30"
+            },
+            "斯图亚特的著作可能影响了斯密，斯密提出论证：银行发行的货币，只要是银行针对购买由实际商品销售产生的真实汇票而创造的，就绝不会超过“流通渠道”自然吸收的量。",
+            {
+              "type": "note",
+              "id": "n_ch05_031",
+              "label": "31"
+            },
+            "斯密的论证后来被称为真实票据学说，它显然也是关于良好银行贷款政策的规范性论证，即银行只应为可能产生收益的“好”项目贷放。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "An original insight was offered by Steuart, who argued that bank money, created through the ‘melting down of solid property’ (the acquisition of illiquid assets by banks through issuing their liabilities), tends to ‘regorge’ as the ‘melted down’ property becomes solid again (i.e., credit money drains away from banks as borrowers repay their bank debts).",
+            {
+              "type": "note",
+              "id": "n_ch05_030",
+              "label": "30"
+            },
+            " Steuart’s work probably influenced Smith, who put forth the argument that bank-issued money, so long as it is created by banks against the purchase of bona fide bills of exchange that have been generated by an actual sale of commodities, could never be in excess of what the ‘channel of circulation’ would naturally absorb.",
+            {
+              "type": "note",
+              "id": "n_ch05_031",
+              "label": "31"
+            },
+            " Smith’s argument, which has become known as the Real Bills Doctrine, is also, and evidently, a prescriptive argument regarding good bank lending policy, i.e that banks should lend only for ‘good’ projects that are likely to generate returns."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u080"
+      ],
+      "page": "114"
+    },
+    {
+      "id": "ch05-u081",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "斯密论证的弱点被桑顿决定性地识别出来：他论证说，一次商品销售可以产生若干张“真实”汇票，而它们全部可能比一位知名商人开出的“虚构”汇票更缺乏信用资质（该商人显然拥有独立的支付手段）。",
+            {
+              "type": "note",
+              "id": "n_ch05_032",
+              "label": "32"
+            },
+            "桑顿还强调，货币信用交易的价格即利息率，对信用货币数量的决定至关重要。银行学派，主要是图克与富拉顿，复活了斯图亚特的“回吐”论证，并给它命名为回流规律。",
+            {
+              "type": "note",
+              "id": "n_ch05_033",
+              "label": "33"
+            },
+            "该规律实质上陈述：清偿欠银行的债务，会确保超出流通需要的银行券回流到发行银行。银行学派还认识到银行券与银行存款作为信用货币形式的本质相似性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The weakness in Smith’s argument was decisively identified by Thornton, who argued that several ‘real’ bills could emanate from a single sale of goods, all of which might prove to be less creditworthy than a ‘fictitious’ bill generated by a well-known merchant (who would evidently have independent means of payment).",
+            {
+              "type": "note",
+              "id": "n_ch05_032",
+              "label": "32"
+            },
+            " Thornton also stressed that the price at which monetary credit is traded, i.e. the rate of interest, would be critical for determination of the quantity of credit money. The Banking School, chiefly Tooke and Fullarton, resurrected Steuart’s ‘regorging’ argument and gave it the name of the Law of the Reflux.",
+            {
+              "type": "note",
+              "id": "n_ch05_033",
+              "label": "33"
+            },
+            " The Law essentially stated that the settlement of debt owed to banks would ensure the reflux to the issuing banks of banknotes that would be surplus to the needs of circulation. The Banking School also recognised the essential similarity between banknotes and bank deposits as forms of credit money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u081"
+      ],
+      "page": "114–115"
+    },
+    {
+      "id": "ch05-u082",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思赞赏地谈及斯图亚特、斯密与银行学派，并强烈论证调节信用货币的影响与调节商品货币和法定货币的影响有质的不同。",
+            {
+              "type": "note",
+              "id": "n_ch05_034",
+              "label": "34"
+            },
+            "此外，正如罗斯多尔斯基所指出的，马克思还把信用货币在流通中的“弯回”路径即循环路径，称为其显著特征。",
+            {
+              "type": "note",
+              "id": "n_ch05_035",
+              "label": "35"
+            },
+            "也就是说，对马克思而言，随着信用货币发行所针对的债务（资产）被偿还，信用货币倾向于返回其发行者。这表明马克思至少同情回流规律的某些方面。在一句随口评论中，他大致同意银行学派的主张：在英国信用体系的制度框架内，回流规律保证银行券（交换）价值“平均而言”的稳定。",
+            {
+              "type": "note",
+              "id": "n_ch05_036",
+              "label": "36"
+            },
+            "同时，马克思批评银行学派在分析货币现象时忽视货币作为货币与货币作为资本之间的差异。",
+            {
+              "type": "note",
+              "id": "n_ch05_037",
+              "label": "37"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx spoke admiringly of Steuart, Smith, and the Banking School, and strongly argued that the influences regulating credit money are qualitatively different from those regulating commodity and fiat money.",
+            {
+              "type": "note",
+              "id": "n_ch05_034",
+              "label": "34"
+            },
+            " Furthermore, as Rosdolsky noted, Marx also referred to the ‘bent-back’, or cyclical, path of credit money in circulation as its distinguishing feature.",
+            {
+              "type": "note",
+              "id": "n_ch05_035",
+              "label": "35"
+            },
+            " That is, for Marx, credit money tends to return to its issuer as the debts (assets) against which such money was issued are repaid. This indicates that Marx was sympathetic to at least some aspects of the Law of the Reflux. In a throwaway remark he more or less concurred with the Banking School’s claim that the Law of the Reflux, within the institutional framework of the English credit system, guaranteed the stability of the (exchange) value of the banknote ‘on the average’.",
+            {
+              "type": "note",
+              "id": "n_ch05_036",
+              "label": "36"
+            },
+            " At the same time, Marx criticised the Banking School for ignoring the difference between money as money and money as capital in its analysis of monetary phenomena.",
+            {
+              "type": "note",
+              "id": "n_ch05_037",
+              "label": "37"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u082"
+      ],
+      "page": "115"
+    },
+    {
+      "id": "ch05-u083",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "据此，对马克思而言，信用货币的数量由发行与回流过程决定，而这些过程又反映银行贷款的发放与偿还。由于银行创造的货币具有信用维度，其创造不能被视为外生于实际积累，这是与法定货币的一个重大差异。银行贷款允许生产扩张；价值与剩余价值被创造出来，商品产出扩张；从增加的销售收入中，本金与利息支付给银行；信用货币返回其发行者由此得到保证。简言之，银行贷款的发放创造了使银行货币在流通中成为必要的条件，而银行贷款的偿还则把银行货币从流通中移除。",
+            {
+              "type": "note",
+              "id": "n_ch05_038",
+              "label": "38"
+            },
+            "同理，信用货币允许重大的制度与政策操纵。旧债的清算、商业债务偿还的时机、确定新贷款接受者信用资质的方法等等，都受历史特定的制度安排支配，因而影响流通中信用货币的数量。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In this light, for Marx, the quantity of credit money would be determined by the processes of issue and reflux, which would in turn reflect the advance and repayment of bank loans. Since bank-created money would have a credit dimension, its creation could not be treated as exogenous to real accumulation, and this is a major difference with fiat money. Bank loans would allow production to expand; value and surplus value would be generated, commodity output would expand; from the increased sales revenue, principal and interest would be paid to the banks; and the return of credit money to its issuer would be thus secured. The advance of bank loans, in short, creates the conditions which make bank money necessary in circulation, while the repayment of bank loans removes bank money from circulation.",
+            {
+              "type": "note",
+              "id": "n_ch05_038",
+              "label": "38"
+            },
+            " By the same token, credit money admits of significant institutional and policy manipulation. The clearing of past debts, the timing of the repayment of commercial debts, the methods for ascertaining the creditworthiness of the recipients of fresh loans, and so on, would all be subject to historically specific institutional arrangements, and they would thus affect the quantity of credit money in circulation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u083"
+      ],
+      "page": "115–116"
+    },
+    {
+      "id": "ch05-u084",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这一路径面临的分析问题立即显而易见：共同决定信用货币数量的银行贷款发放与偿还，也关键性地影响商品产出的生产。同一因素——信用——在决定流通领域中货币数量与商品数量两者上都起关键作用。换句话说，对新贷款的需求固然源于实际积累，但信用的发放会“拉伸”实际积累，从而创造支持信用发放的条件。当然，某次信用发放可能未能创造价值和剩余价值，从而破坏信用货币回流的规律性。的确，任何有意义的资本主义危机理论都必须纳入信用与产出两者的“过度拉伸”，那会导致偿债困难，从而破坏信用货币的发行与回流。",
+            {
+              "type": "note",
+              "id": "n_ch05_039",
+              "label": "39"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The analytical problem which this approach faces is immediately evident: the advance and repayment of bank loans, which jointly determine the quantity of credit money, would also critically influence the production of commodity output. The same factor – credit – plays a key role in determining both the quantity of money and the quantity of commodities in the sphere of circulation. Put otherwise, the demand for fresh loans would certainly originate in real accumulation, but the advance of credit would ‘stretch’ real accumulation, thus creating conditions that would support the advance of credit. It is, of course, possible that a particular advance of credit would not succeed in generating value and surplus value, thus disrupting the regularity of the reflux of credit money. Indeed, any meaningful theory of capitalist crisis must necessarily incorporate the ‘overstretching’ of both credit and output, which would lead to difficulties in repaying debts, thus disrupting the issue and reflux of credit money.",
+            {
+              "type": "note",
+              "id": "n_ch05_039",
+              "label": "39"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u084"
+      ],
+      "page": "116"
+    },
+    {
+      "id": "ch05-u085",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "此时清楚的是，对信用货币数量决定的充分理论考察有非常苛刻的要求，包括银行理论、危机与商业周期理论、以及增长理论。信用货币确实比其他货币形式复杂得无可比拟。尽管如此，以下断言似乎并非无根据：信用货币数量与商品产出数量只会偶然地相互协调波动，即由信用引起的产出波动不一定伴随信用货币数量的必要波动，反之亦然。只有当一个人准备论证银行发放的信用必定产生价值与剩余价值、从而保证自身偿还时，才可能（经过繁复的理论论证后）声称商品产出数量与信用货币数量会相互协调运动。当然，银行信用不可能有这样的保证，货币理论家自真实票据学说受到批判之时起就深知这一点。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is clear at this point that full theoretical examination of the determination of the quantity of credit money has very demanding requirements, including a theory of banking, a theory of crisis and the business cycle, and a theory of growth. Credit money is, indeed, incomparably more complex than other forms of money. Still, the following assertion does not seem groundless: only accidentally would the quantities of credit money and commodity output fluctuate in harmony with one another, i.e. fluctuations in output due to credit would not necessarily be accompanied by requisite fluctuations in quantity of credit money, and vice versa. Only if one were prepared to argue that banks advance credit that certainly results in production of value and surplus value, thus guaranteeing its own repayment, would it be possible to claim (after complex theoretical argumentation) that the quantity of commodity output and the quantity of credit money would move in harmony with one another. There could be no such guarantee for bank credit, of course, as monetary theorists have known since the time of the critique of the Real Bills Doctrine."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u085"
+      ],
+      "page": "116–117"
+    },
+    {
+      "id": "ch05-u086",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此，就本章而言，信用货币数量的内生性、以及它在信用发放与偿还基础上与产出的共同决定，给信用货币交换价值的决定注入了强烈的不确定性因素。于是问题变成：它在商品货币的内在价值中是否有锚？答案取决于商品货币在信用体系中扮演的角色，以及两种货币形式之间可兑换性的存在。答案显然特定于制度框架，考虑到信用体系对信用货币创造与回流的重要性，这不足为奇。以下两种情况被视为代表性情况，理由将会清楚。第一，假定信用货币可兑换为商品货币——即信用机构负有按需求将其负债兑换为商品货币的法律义务——且两种货币形式都在交换中使用。第二，信用货币完全支配资本主义交换且不可兑换为商品货币，后者没有即时的货币职能。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For the purposes of this chapter, therefore, the endogeneity of the quantity of credit money, and its co-determination with output on the basis of the advance and the repayment of credit, imparts a strong element of uncertainty to determining the exchange value of credit money. The question then becomes: is there an anchor for it in the intrinsic value of commodity money? The answer depends on the role that commodity money would play in the credit system, as well as on the existence of convertibility between the two forms of money. The answer is clearly specific to institutional framework, which is hardly surprising considering the importance of credit institutions for the creation and reflux of credit money. The following two cases are treated as representative for reasons that will become clear. First, credit money is assumed to be convertible into commodity money – i.e. a legal obligation exists for credit institutions to exchange their liabilities into commodity money on demand – and both forms of money are in use in exchange. Second, credit money completely dominates capitalist exchange and is inconvertible into commodity money, the latter having no immediate monetary functions."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u086"
+      ],
+      "page": "117"
+    },
+    {
+      "id": "ch05-u087",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对自由兑换的信用货币而言，与法定货币一样，可兑换性这一既定事实会阻止相对于商品货币的系统性升水或贴水出现。然而，除了这一被动锚定原则，还可以识别以下同样重要的主动原则。如果银行有义务将其负债兑换为黄金，货币商品就必然被用作银行的准备资产，从而支撑其负债。立即得出：如果银行被要求持有黄金准备，银行体系就存在一个外部约束，它对信用发放施加限制，并增加贷款偿还的紧迫性。商品货币准备所施加的纪律，构成商品货币内在价值能够对信用货币交换价值施加调节影响的另一条路径。充分考察这一问题需要银行企业理论，因而超出本章范围，但可以提出以下重要问题。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For freely convertible credit money, as for fiat money, the dumb fact of convertibility would prevent the emergence of a systematic premium or discount relative to commodity money. However, in addition to this passive anchoring principle, the following, equally important, active principle could also be identified. If banks were obliged to convert their liabilities into gold, the money commodity would necessarily be used as a reserve asset for banks, thus sustaining their liabilities. It immediately follows that if banks were required to keep gold reserves, an external constraint would exist on the banking system, which would impose limits on the advance of credit and add urgency to the repayment of loans. The discipline imposed by commodity money reserves would constitute another path through which the intrinsic value of commodity money would be able to exercise a regulating influence on the exchange value of credit money. Full examination of this issue would require a theory of the banking firm and is thus beyond the scope of this chapter, but the following important issue could be broached."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u087"
+      ],
+      "page": "117"
+    },
+    {
+      "id": "ch05-u088",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "可以论证，存在银行黄金准备集中的自发趋势，其基础是集中准备给银行正常活动带来的节约与灵活性。",
+            {
+              "type": "note",
+              "id": "n_ch05_040",
+              "label": "40"
+            },
+            "这一趋势等同于中央银行的自发出现，银行体系的主要商品货币准备存放于其金库中，从而形成国家黄金贮藏。该贮藏有国内角色，即在危机时期支撑货币与信用体系，因为黄金作为支付手段总是被接受。该贮藏也有国际角色，即高效清算国家间支付并转移财富。直到1971–3年仍占主导的布雷顿森林体系，确实可以被解释为为国际银行体系设立中央黄金准备的机制。保护国家贮藏的需要、以及中央银行必须采取的相应政策行动，会对银行信用的发放与偿还施加进一步限制。于是，商品货币准备的集中会倍增其对信用货币数量的限制力量，进一步把信用货币的交换价值锚定于黄金的内在价值。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is arguable that there is a spontaneous tendency toward the centralisation of gold reserves of banks, based on the economies and flexibility that a centralised reserve would confer onto the normal activities of a bank.",
+            {
+              "type": "note",
+              "id": "n_ch05_040",
+              "label": "40"
+            },
+            " This tendency is tantamount to the spontaneous emergence of a central bank, in the vaults of which would reside the main commodity money reserve of the banking system, thus creating a national gold hoard. The hoard would have a domestic role, namely to bolster the monetary and credit system in times of crisis, since gold would always be acceptable as means of payment. The hoard would also have an international role, namely to efficiently settle payments and transfer wealth among nations. The Bretton Woods system prevalent until 1971–3 could indeed be interpreted as a mechanism that instituted a central gold reserve for the international banking system. The need to protect the national hoard, and the concomitant policy actions that the central bank must undertake, would impose further limitations on the advance and repayment of bank credit. Thus, the centralisation of the reserves of commodity money would multiply its limiting power on the quantity of credit money, further anchoring the exchange value of credit money onto gold’s intrinsic value."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u088"
+      ],
+      "page": "117–118"
+    },
+    {
+      "id": "ch05-u089",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管如此，应强调商品货币通过集中银行准备所施加的锚定影响，既不会平滑也不会和谐地运作。马克思在《资本论》第三卷中关于商业周期的大量评论，在这一点上提供了相当多的洞见。于是，信用货币的交换价值通常在商业周期的上升期下降（即价格上升），然后在随后的萧条期上升（价格下降）。然而，这些波动发生的过程不是纯粹货币性的。在萧条期，商品价格下降，因为资本家被迫出售产出以清偿债务，也因为金融资产缩水。债务通货紧缩将是货币交换价值再次上升的绝对必要机制。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It should be stressed, nonetheless, that the anchoring influence that would be exercised by commodity money through the centralised banking reserve would operate neither smoothly nor harmoniously. Marx’s extensive comments on the business cycle in the third volume of Capital offer considerable insight on this point. Thus, the exchange value of credit money would typically fall in the upswing of the economic cycle (i.e. prices would rise), and it would then rise in the ensuing slump (prices would fall). The process through which these fluctuations would occur, however, would not be purely monetary. In a slump, commodity prices would fall as capitalists would be forced to sell their output in order to settle debts and as financial assets would be deflated. Debt deflation would be an absolutely necessary mechanism for the exchange value of money to rise again."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u089"
+      ],
+      "page": "118"
+    },
+    {
+      "id": "ch05-u090",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "换句话说，信用货币交换价值的波动有一个不可逃避的信用维度，它也会冲击实际积累（企业倒闭与失业上升），并导致利息率急剧上升。此外，没有任何东西保证萧条期的价格下降会简单抵消繁荣期的价格上升。的确，可以论证下降会过度补偿先前的上升，因为资本重组会真正全力地展开，导致固定资本的大规模毁灭。在这一语境中，国家黄金贮藏的职能会走到前台，因为支付手段对银行的国内运作成为必要，更重要的是，对应对从繁荣到萧条转变的国际支付含义成为必要。中央银行保卫黄金贮藏通常要求提高利息率并加剧债务通货紧缩，从而促成信用货币交换价值的剧烈调整。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There would be, in other words, an inescapable credit dimension to the fluctuations of the exchange value of credit money, which would also impinge upon real accumulation (firm closure and rising unemployment) and would lead to sharp rises in interest rates. Furthermore, nothing would guarantee that the fall of prices in a slump would simply offset the rise of prices during a boom. Indeed, it is arguable that the fall would overcompensate for the previous rise as the restructuring of capital would be undertaken in full earnest, leading to wholesale destruction of fixed capital. In this context, the functions of the national gold hoard would come to the forefront, as means of payment would become necessary for the domestic operation of banks and, even more importantly, to confront the international payment implications of the swing from boom to slump. Defence of the gold hoard by the central bank would usually require raising interest rates and exacerbating the debt deflation, thus contributing to the violent adjustment of the exchange value of credit money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u090"
+      ],
+      "page": "118"
+    },
+    {
+      "id": "ch05-u091",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这一语境中最重要的一点是：无价值信用货币交换价值的波动，与代表黄金或货币数量论完全无关。在繁荣期货币数量上升时，价格上升并不是因为每单位信用货币代表更少的黄金、从而更少的价值。这一过程与法定货币通货膨胀的过程完全不可比。价格上升是因为实际积累在信用以及贸易回报持续流入的支持下迅猛推进。同理，在萧条过程中，价格下降不是因为信用货币数量在收缩，而是因为资本家无法销售并有利可图地积累，正在诱发债务通货紧缩与商品强制出售。此外，商品货币的锚定作用通过保卫国家商品货币贮藏的行动运作，从而加剧利息率运动与价格水平波动。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The most important point in this context is that fluctuations in the exchange value of valueless credit money would be entirely unrelated to representing gold, or to the quantity theory of money. As the quantity of money rose during a boom, prices would not be rising because each unit of credit money would be representing less gold, hence less value. The process would not be at all comparable to that for fiat money inflation. Prices would be rising because real accumulation would be surging ahead, supported by credit and by the regular flow of returns from trade. By the same token, in the course of a slump, prices would not be falling because the credit money quantity would contracting, but rather because the inability of capitalists to sell and to accumulate profitably would be inducing debt deflation and forced sales of commodities. The anchoring role of commodity money, furthermore, would operate through actions to defend the national hoard of commodity money, thus exacerbating interest rate movements and price level fluctuations."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u091"
+      ],
+      "page": "119",
+      "review": "原文“the credit money quantity would contracting”疑脱“be”。"
+    },
+    {
+      "id": "ch05-u092",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "回顾一下，对自由兑换为商品货币条件下竞争性银行体系创造的信用货币而言，存在两个作用于其（内生）创造数量的外部限制因素。第一，被动地，可兑换性的简单存在阻止相对于商品货币的系统性升水与贴水出现。第二，主动地，保卫银行持有的商品货币准备、尤其是银行体系集中准备的要求，会诱发必然导致价格下降的行动。对两者而言，商品货币内在价值提供的锚，通过信用货币数量与产出水平两者持续且往往剧烈的调整运作。货币数量论对这一过程没有解释力。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To recap, for credit money created by a competitive banking system under conditions of free convertibility into commodity money, there would be two external limiting factors operating on its (endogenously) created quantity. First, and passively, the simple existence of convertibility would prevent the emergence of systematic premia and discounts relative to commodity money. Second, and actively, the requirement to defend the reserves of commodity money held by banks and, above all, of the centralised reserve of the banking system would induce necessitate actions that would lead to price falls. For both, the anchor that would be provided by the intrinsic value of commodity money would operate through constant, and often violent, adjustment of both the quantity of credit money and the level of output. The quantity theory of money would have no explanatory power over this process."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u092"
+      ],
+      "page": "119",
+      "review": "原文“would induce necessitate actions”两动词叠用，疑衍其一。"
+    },
+    {
+      "id": "ch05-u093",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "现在考虑竞争性银行体系创造的信用货币，该体系没有义务将其负债兑换为商品货币，也不持有银行黄金准备。大体而言，这样的条件在二十世纪过程中逐渐出现，并在布雷顿森林体系崩溃后的四十年间占主导。清楚的是，这些条件的出现需要国家行动，包括正式禁止信用货币兑换为商品货币。一旦这些条件就位，商品货币的货币角色就缩减为形成一个基本上休眠的国家贮藏——即最后价值准备。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Consider now credit money created by a competitive banking system which would be under no obligation to exchange its liabilities for commodity money, and which would keep no banking reserves of gold. Broadly speaking, such conditions have emerged gradually in the course of the twentieth century, and have become prevalent during the four decades following the collapse of the Bretton Woods system. It is clear that for these conditions to emerge, state action would be necessary, including a formal ban on converting credit money into commodity money. Once these conditions would be in place, the monetary role of commodity money would be reduced to forming a national hoard that would remain largely dormant – i.e. a value reserve of last resort."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u093"
+      ],
+      "page": "119"
+    },
+    {
+      "id": "ch05-u094",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而，商品货币实际上缺席货币领域，并不会改变信用货币数量通过银行贷款的发放与偿还——即通过发行与回流——创造这一事实。信用货币的创造仍内生于资本积累过程。没有理由认为先前关于货币数量与产出数量共同决定、从而信用货币交换价值决定中的不确定性的分析结果会有任何不同。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The effective absence of commodity money from the monetary, however, would not alter the fact that the quantity of credit money would be created through the advance and repayment of banks loans – i.e. through issue and reflux. Credit money creation would remain endogenous to the process of capital accumulation. There would be no reason why the earlier analytical results regarding the joint determination of the quantity of money and the quantity of output, hence the uncertainty in determining the exchange value of credit money, would be at all different."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u094"
+      ],
+      "page": "119–120",
+      "review": "原文“absence of commodity money from the monetary”中“monetary”后疑脱“sphere”一类词。"
+    },
+    {
+      "id": "ch05-u095",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而，不同的是信用货币交换价值向商品货币内在价值的锚定。将不存在锚定。商品货币的被动（可兑换性）与主动（银行准备）限制角色都被排除。在这种条件下，货币数量论（先前与信用货币无关）获得某种相关性。由于不能保证银行体系运作创造的信用货币数量与商品产出协调，货币与产出两者数量的变化可能引起信用货币交换价值的永久性变化。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "What would be different, however, would be the anchoring of the exchange value of credit money onto the intrinsic value of commodity money. There would be none. Both the passive (convertibility) and the active (bank reserves) limiting roles of commodity money would be precluded. Under such conditions, the quantity theory of money (which was previously irrelevant for credit money) would acquire some relevance. Since there could be no guarantee that the quantity of credit money created through the operations of the banking system would be in harmony with commodity output, it would be possible to have permanent changes in the exchange value of credit money from changes in the quantities of both money and output."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u095"
+      ],
+      "page": "120"
+    },
+    {
+      "id": "ch05-u096",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "还值得注意的是，这一结果在分析上不同于先前法定货币的结果，尽管货币数量论在两种场合都成立。因为不可兑换信用货币交换价值发生的变化，不等价于单位无价值货币对商品货币符号化比率的变化。相反，它们只是反映货币对商品的单纯比率的变化——在这方面纯粹货币数量论成立。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is also worth noting that this result is not analytically identical to the earlier one for fiat money, even though the quantity theory of money would hold on both occasions. For the changes that would occur in the exchange value of inconvertible credit money would not be equivalent to changes in the rate of symbolisation of commodity money by a unit of valueless money. Rather, they would simply reflect changes in the plain ratio of money to commodities – a pure quantity theory of money would hold in this respect."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u096"
+      ],
+      "page": "120"
+    },
+    {
+      "id": "ch05-u097",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "另一方面，商品货币准备的缺失会显著增加货币当局有意识操纵银行运作的空间，从而也增加操纵信用货币数量的空间。如果银行体系的准备与一种生产出来的商品无关、并最终依托国家信用，货币当局就有相当大的自由创造准备并影响信用货币的创造。在没有黄金的情况下，关于利息率的相机抉择政策获得若干自由度，而保卫国家黄金贮藏之需要的解除又进一步增加这些自由度。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "On the other hand, the absence of reserves of commodity money would significantly increase the room for conscious manipulation of banking operations by the monetary authorities, hence also the room to manipulate the quantity of credit money. If the reserves of the banking system were unrelated to a produced commodity and ultimately rested on state credit, the monetary authorities would have considerable freedom to create reserves and to influence the creation of credit money. In the absence of gold, discretionary policy with regard to the rate of interest would acquire several degrees of freedom, further increased by the lifting of the need to defend the national gold hoard."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u097"
+      ],
+      "page": "120"
+    },
+    {
+      "id": "ch05-u098",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "只要中央银行能在危机时期生成可接受的硬通货、并提供足够数量的流动性以缓和资本重组过程，它们就能限制萧条期价格下降的程度。商品货币的内在价值不再为信用货币的交换价值提供参照点。有意识操纵价格水平的空间相应增加，从而增强中央银行与一般国家的角色。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As long as central banks could generate acceptable hard cash in times of crisis and sufficient quantities of liquidity to ease the process of capital restructuring, they would be able to limit the extent to which prices would fall in a slump. The intrinsic value of commodity money would cease to provide a reference point for the exchange value of credit money. The scope for conscious manipulation of the price level would be correspondingly increased, thus enhancing the role of the central bank and of the state in general."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u098"
+      ],
+      "page": "120"
+    },
+    {
+      "id": "ch05-u099",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "回顾一下，没有义务将其负债兑换为货币商品的竞争性信用体系所创造的信用货币，其交换价值在商品货币的内在价值中没有锚。信用货币的数量仍内生决定，但可受国家当局操纵。在这种条件下，纯粹货币数量论与信用货币交换价值的决定相关。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "To recap, credit money created by a competitive credit system which has no obligation to convert its liabilities into the money commodity, would not have an anchor for its exchange value in the intrinsic value of commodity money. The quantity of credit money would remain endogenously determined, but it would be amenable to manipulation by state authorities. Under such conditions, a pure quantity theory of money would be relevant to determining of the exchange value of credit money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u099"
+      ],
+      "page": "120–121"
+    },
+    {
+      "id": "ch05-u100",
+      "canonical_kind": "heading",
+      "zh": [
+        "结论"
+      ],
+      "en": [
+        "Conclusion"
+      ],
+      "source_ids": [
+        "ch05-u100"
+      ],
+      "page": "121",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch05-u101",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "商品货币、特别是马克思的一般等价物理论，是分析无价值货币的坚实基础。商品货币是一种基本的、但也是初级的货币形式；在执行其职能时，它发展为更高级的、通常无价值的货币形式。货币发展的关键，是每种货币形式对它在资本主义交换中被要求执行的职能的适当性。于是，国家发行的法定货币主要是流通手段，而银行发行的信用货币倾向于成为支付手段与贮藏要素。无价值货币形式的出现对货币交换价值的决定具有深远含义，这一过程对商品货币、法定货币与信用货币分别相当不同，尤其就影响各自数量的因素而言。商品货币的数量由贮藏调节；法定货币的数量取决于国家的任意行动；信用货币的数量由信用过程调节。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Commodity money and, in particular, Marx’s theory of the universal equivalent are firm foundations for the analysis of valueless money. Commodity money is a fundamental, but also elementary, form of money; in performing its functions, it develops into more advanced and typically valueless forms of money. The key to the development of money is the adequacy of each form of money for the functions which it is called to perform in capitalist exchange. Thus, state-issued fiat money is primarily a means of circulation, while bank-issued credit money tends to be a means of payment and hoard element. The emergence of valueless forms of money has profound implications for determining the exchange value of money, a process that is quite distinct for commodity, fiat, and credit money, respectively, particularly with regard to the factors influencing the quantity of each. The quantity of commodity money is regulated by hoarding; the quantity of fiat money depends on arbitrary state action; the quantity of credit money is regulated by credit processes."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u101"
+      ],
+      "page": "121"
+    },
+    {
+      "id": "ch05-u102",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币商品的内在价值密切调节商品货币的交换价值，但对不可兑换法定货币的交换价值不起锚定作用。据此，货币数量论与前者无关，但对后者有解释力。另一方面，商品货币内在价值与信用货币交换价值之间的关系取决于制度安排。如果信用货币可兑换为商品货币、且后者也充当银行准备，商品货币的内在价值就通过可兑换性与银行准备纪律锚定信用货币的交换价值。货币数量论与这一过程无关。另一方面，如果信用货币不可兑换为商品货币、且后者在货币体系中没有活跃准备，信用货币的交换价值就不会锚定于商品货币。货币数量论对这种货币的交换价值具有某种解释力。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The intrinsic value of the money commodity closely regulates the exchange value of commodity money, but plays no anchoring role for the exchange value of inconvertible fiat money. By this token, the quantity theory of money is irrelevant to the former, but has explanatory power over the latter. The relation between the intrinsic value of commodity money and the exchange value of credit money, on the other hand, depends on institutional arrangements. If credit money were convertible into commodity money, which also acted as bank reserve, the intrinsic value of commodity money would anchor the exchange value of credit money through convertibility and bank reserve discipline. The quantity theory of money would have no relevance to this process. If, on the other hand, credit money were inconvertible into commodity money and the latter had no active reserve in the monetary system, there would be no anchoring of the exchange value of credit money onto commodity money. The quantity theory of money would have some explanatory power over the exchange value of such money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch05-u102"
+      ],
+      "page": "121"
+    }
+  ]
+}

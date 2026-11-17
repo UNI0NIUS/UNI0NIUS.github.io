@@ -1,0 +1,4844 @@
+{
+  "id": "ch02",
+  "title": "2. 信用货币理论：一种结构分析*",
+  "originalTitle": "2. The Theory of Credit Money: A Structural Analysis*",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "outline": [
+    {
+      "anchor": "ch02-u002",
+      "title": "导言",
+      "originalTitle": "Introduction",
+      "level": 1
+    },
+    {
+      "anchor": "ch02-u010",
+      "title": "i 货币的内容、形式与职能",
+      "originalTitle": "i Content, Forms and Functions of Money",
+      "level": 1
+    },
+    {
+      "anchor": "ch02-u018",
+      "title": "真正货币的特征",
+      "originalTitle": "The Characteristics of Money-Proper",
+      "level": 2
+    },
+    {
+      "anchor": "ch02-u020",
+      "title": "a 商品货币的流通",
+      "originalTitle": "a Circulation of Commodity Money",
+      "level": 3
+    },
+    {
+      "anchor": "ch02-u056",
+      "title": "b 法定货币的性质与流通",
+      "originalTitle": "b The Character and Circulation of Fiat Money",
+      "level": 3
+    },
+    {
+      "anchor": "ch02-u066",
+      "title": "ii 信用货币的推导与特征",
+      "originalTitle": "ii The Derivation and Characteristics of Credit Money",
+      "level": 1
+    },
+    {
+      "anchor": "ch02-u067",
+      "title": "信用对货币形式与职能的影响",
+      "originalTitle": "The Impact of Credit on the Forms and Functions of Money",
+      "level": 2
+    },
+    {
+      "anchor": "ch02-u075",
+      "title": "信用货币流通的特征",
+      "originalTitle": "Characteristics of Credit Money Circulation",
+      "level": 2
+    },
+    {
+      "anchor": "ch02-u083",
+      "title": "信用货币的进一步发展",
+      "originalTitle": "The Further Development of Credit Money",
+      "level": 2
+    },
+    {
+      "anchor": "ch02-u085",
+      "title": "a 中央银行对银行券的垄断",
+      "originalTitle": "a Central Bank Monopoly of Banknotes",
+      "level": 3
+    },
+    {
+      "anchor": "ch02-u092",
+      "title": "b 存款货币",
+      "originalTitle": "b Deposit Money",
+      "level": 3
+    },
+    {
+      "anchor": "ch02-u100",
+      "title": "黄金在发达资本主义交换中的作用",
+      "originalTitle": "The Role of Gold in Advanced Capitalist Exchange",
+      "level": 2
+    },
+    {
+      "anchor": "ch02-u105",
+      "title": "结论",
+      "originalTitle": "Conclusion",
+      "level": 1
+    }
+  ],
+  "notes": {
+    "n_ch02_001": {
+      "number": "1",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Friedman and Schwartz 1970, ch. 3."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Friedman and Schwartz 1970, ch. 3."
+          ]
+        }
+      ]
+    },
+    "n_ch02_002": {
+      "number": "2",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1981, p. 440."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1981, p. 440."
+          ]
+        }
+      ]
+    },
+    "n_ch02_003": {
+      "number": "3",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1976b, pp. 125–244; and 1970, pp. 64–187."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Marx 1976b, pp. 125–244; and 1970, pp. 64–187."
+          ]
+        }
+      ]
+    },
+    "n_ch02_004": {
+      "number": "4",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对马克思来说，这一矛盾随后在货币交换的层面上以更复杂的形式再生产出来。货币交换受制于供求的错配，可能导致普遍的商业危机，即萨伊定律不成立；见 Marx 1973, pp. 148–9。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For Marx, the contradiction is subsequently reproduced more complexly at the level of monetary exchange. The latter is subject to mismatches of demand and supply which might lead to generalised commercial crises, i.e. Say’s Law does not hold; see Marx 1973, pp. 148–9."
+          ]
+        }
+      ]
+    },
+    "n_ch02_005": {
+      "number": "5",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 159."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 159."
+          ]
+        }
+      ]
+    },
+    "n_ch02_006": {
+      "number": "6",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For instance, Cutler et al. 1978, p. 5."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For instance, Cutler et al. 1978, p. 5."
+          ]
+        }
+      ]
+    },
+    "n_ch02_007": {
+      "number": "7",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "罗斯多尔斯基认识到这是马克思货币理论的一个高度特有的特征（1977, p. 135）。相比之下，主流经济理论不承认货币职能之间存在任何必然的次序，通常列举的职能是价值尺度、交换手段、延期支付标准和价值贮藏。这种观点也影响了马克思主义的货币著作；例如见 Cutler et al. 1978, pp. 16–17。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Rosdolsky recognised this to be a highly specific feature of Marx’s monetary theory (1977, p. 135). Mainstream economic theory, by contrast, does not acknowledge any necessary order in money’s functions, usually taken as measure of value, means of exchange, standard of deferred payments and store of value. This view has also influenced Marxist works on money; see, for instance, Cutler et al. 1978, pp. 16–17."
+          ]
+        }
+      ]
+    },
+    "n_ch02_008": {
+      "number": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "关于“无价值”的货币是否与价值尺度职能相矛盾，存在一场持续的争论。见 Weeks 1981, pp. 115–16; Cutler et al. 1978, 9–15; Lipietz 1983, p. 22。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There is an ongoing debate as to whether ‘valueless’ money contradicts the function of measure of value. See Weeks 1981, pp. 115–16; Cutler et al. 1978, 9–15; Lipietz 1983, p. 22."
+          ]
+        }
+      ]
+    },
+    "n_ch02_009": {
+      "number": "9",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, pp. 86–7."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, pp. 86–7."
+          ]
+        }
+      ]
+    },
+    "n_ch02_010": {
+      "number": "10",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 227."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 227."
+          ]
+        }
+      ]
+    },
+    "n_ch02_011": {
+      "number": "11",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, p. 146."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, p. 146."
+          ]
+        }
+      ]
+    },
+    "n_ch02_012": {
+      "number": "12",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 224。相应职能的执行是货币的内容与形式之间的中介环节。对马克思来说，社会现象的内容只能由科学通过思维中的抽象过程来发现（1973, p. 101）。在这方面马克思是黑格尔的学生（1975, p. 33）。此外，社会现象的内容表现为多种表现形式，这些形式不同于内容本身。货币的多种形式揭示了价值表现如何与交换的不同发展水平的职能要求相联系。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 224. Performance of the relevant function is the mediating link between content and form of money. For Marx, the content of social phenomena can only be discovered by science through the process of abstraction in thought (1973, p. 101). In this respect Marx was a pupil of Hegel (1975, p. 33). The content of social phenomena, furthermore, manifests itself in several forms of appearance, which are other than the content itself. The several forms of money reveal how value representation relates to the functional requirements of different levels of exchange."
+          ]
+        }
+      ]
+    },
+    "n_ch02_013": {
+      "number": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这种观点与凯恩斯对货币形式的详尽讨论（1930, ch. 1）形成鲜明对照。在凯恩斯看来，货币形式是偶然出现的，尤其是当国家运用其任意权力操纵货币时。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This view contrasts sharply with Keynes’s exhaustive discussion of money forms (1930, ch. 1). For Keynes, money forms appear accidentally, especially as the state uses its arbitrary power to manipulate money."
+          ]
+        }
+      ]
+    },
+    "n_ch02_014": {
+      "number": "14",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976, pp. 19–25."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976, pp. 19–25."
+          ]
+        }
+      ]
+    },
+    "n_ch02_015": {
+      "number": "15",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Goodhart 1978, p. 3."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Goodhart 1978, p. 3."
+          ]
+        }
+      ]
+    },
+    "n_ch02_016": {
+      "number": "16",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 226."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 226."
+          ]
+        }
+      ]
+    },
+    "n_ch02_017": {
+      "number": "17",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 235; 1978, p. 261."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 235; 1978, p. 261."
+          ]
+        }
+      ]
+    },
+    "n_ch02_018": {
+      "number": "18",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951; Steuart 1966; Tooke 1959; Fullarton 1969."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951; Steuart 1966; Tooke 1959; Fullarton 1969."
+          ]
+        }
+      ]
+    },
+    "n_ch02_019": {
+      "number": "19",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For instance, Marx 1976b, p. 225."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For instance, Marx 1976b, p. 225."
+          ]
+        }
+      ]
+    },
+    "n_ch02_020": {
+      "number": "20",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 160–5."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1970, pp. 160–5."
+          ]
+        }
+      ]
+    },
+    "n_ch02_021": {
+      "number": "21",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 210; 1970, p. 102."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 210; 1970, p. 102."
+          ]
+        }
+      ]
+    },
+    "n_ch02_022": {
+      "number": "22",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, p. 103."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, p. 103."
+          ]
+        }
+      ]
+    },
+    "n_ch02_023": {
+      "number": "23",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1973, p. 187."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1973, p. 187."
+          ]
+        }
+      ]
+    },
+    "n_ch02_024": {
+      "number": "24",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "传统经济理论不区分两种流通速度概念。事实上，剑桥传统的遗产导致流通速度被当作一个极其模糊的概念，即产出价格总额与货币存量总额之比，后者“不知怎么地”促成前者的实现，例如 M. Friedman 1971, p. 146 就是如此。因此，当经济学家要解释货币存量以快于产出价格的速度增长时，往往干脆说流通速度下降了，这就不足为奇了。对此的评论见 B. Friedman 1988, p. 58。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Conventional economic theory does not distinguish between the two concepts of velocity. Indeed, the legacy of the Cambridge tradition has resulted in treating velocity as an extremely nebulous concept, the ratio of total output price to the total money stock, the latter ‘somehow’ facilitating the realisation of the former, as, for instance, in M. Friedman 1971, p. 146. It should not therefore be surprising that to explain increases in the money stock at rates faster than those of output price economists often simply say that velocity has fallen. For a comment on this, see B. Friedman 1988, p. 58."
+          ]
+        }
+      ]
+    },
+    "n_ch02_025": {
+      "number": "25",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 237."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 237."
+          ]
+        }
+      ]
+    },
+    "n_ch02_026": {
+      "number": "26",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For instance, Mandel 1968, ch. 8."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For instance, Mandel 1968, ch. 8."
+          ]
+        }
+      ]
+    },
+    "n_ch02_027": {
+      "number": "27",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As in Knapp 1924."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As in Knapp 1924."
+          ]
+        }
+      ]
+    },
+    "n_ch02_028": {
+      "number": "28",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Kindleberger 1984, pp. 19–31."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Kindleberger 1984, pp. 19–31."
+          ]
+        }
+      ]
+    },
+    "n_ch02_029": {
+      "number": "29",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, p. 111."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, p. 111."
+          ]
+        }
+      ]
+    },
+    "n_ch02_030": {
+      "number": "30",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Levasseur 1894."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Levasseur 1894."
+          ]
+        }
+      ]
+    },
+    "n_ch02_031": {
+      "number": "31",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, p. 119."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, p. 119."
+          ]
+        }
+      ]
+    },
+    "n_ch02_032": {
+      "number": "32",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Hawtrey 1918."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Hawtrey 1918."
+          ]
+        }
+      ]
+    },
+    "n_ch02_033": {
+      "number": "33",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As is typically found in Friedman 1959."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As is typically found in Friedman 1959."
+          ]
+        }
+      ]
+    },
+    "n_ch02_034": {
+      "number": "34",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976, p. 35."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976, p. 35."
+          ]
+        }
+      ]
+    },
+    "n_ch02_035": {
+      "number": "35",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Harris 1976 and Fine 1985–6."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Harris 1976 and Fine 1985–6."
+          ]
+        }
+      ]
+    },
+    "n_ch02_036": {
+      "number": "36",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For further analysis, see Hilferding 1981, ch. 5."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For further analysis, see Hilferding 1981, ch. 5."
+          ]
+        }
+      ]
+    },
+    "n_ch02_037": {
+      "number": "37",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Weeks 1981, ch. 2."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Weeks 1981, ch. 2."
+          ]
+        }
+      ]
+    },
+    "n_ch02_038": {
+      "number": "38",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, ch. 14; see also Fine 1975, p. 47."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1978, ch. 14; see also Fine 1975, p. 47."
+          ]
+        }
+      ]
+    },
+    "n_ch02_039": {
+      "number": "39",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "商业信用关系也出现在工人收入的支出中，即租购、赊账购买；按美国的用法，即分期付款。不过，既然我们不关心信用对交换的特定领域（如工人的私人消费）的影响，假定这类关系仅仅存在于资本家之间，即存在于资本的一般交换之中，会使论述更清晰。这类似于马克思关于生息资本仅在资本家之间贷放的假定。关于后者的阐述，见 Fine 1985–6。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Commercial credit relations also emerge in the expenditure of workers’ income, i.e. hire purchase, buying on tick; in American usage, the instalment plan. Since, however, we are not concerned with the impact of credit on particular areas of exchange (such as the private consumption of workers), we would gain in clarity by assuming that such relations exist solely between capitalists, i.e. in the general exchange of capitals. This is analogous to Marx’s assumption that interest-bearing capital is advanced solely between capitalists. For exposition on the latter, see Fine 1985–6."
+          ]
+        }
+      ]
+    },
+    "n_ch02_040": {
+      "number": "40",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 567."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 567."
+          ]
+        }
+      ]
+    },
+    "n_ch02_041": {
+      "number": "41",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hilferding 1981, ch. 5."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Hilferding 1981, ch. 5."
+          ]
+        }
+      ]
+    },
+    "n_ch02_042": {
+      "number": "42",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见 Fullarton 1969, pp. 67–8。富拉顿的规律常常被以相当时代错置的方式视为“真实票据谬误”的另一个版本，因此在文献中受到相对轻蔑的对待；例如 Morgan 1943, pp. 131–2。这里不是讨论这一著名“谬误”的地方；然而，据我所知，后来研究真实票据学说的学者中，从未有人试图否证信用货币回流的存在。的确有一些理论家论证说，回流并不能保证流通中的银行券数量不会变得过多，例如当银行发行银行券的速度远快于银行券返回银行的速度时；例如 Viner 1955, p. 237。情况可能如此，也可能并非如此；但这丝毫不能否定该规律作为黄金流通与信用货币流通之间质的区别的最清晰理论表述的地位。富拉顿规律的这一维度在文献中被忽视，恰恰因为理论家们普遍倾向于无视货币各种形式之间质的区别。"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "校注　原文“creditmoney”为OCR连写，应为“credit-money”。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Fullarton 1969, pp. 67–8. Fullarton’s law is often thought of, rather anachronistically, as another version of the ‘real bills fallacy’, and as such it has been treated with relative scorn in the literature; for example, Morgan 1943, pp. 131–2. This is not the place to discuss the celebrated ‘fallacy’; however, as far as I am aware, none of the subsequent researchers into the real bills doctrine has ever attempted to disprove the existence of the reflux of credit money. Various theorists have indeed argued that the reflux is no guarantee that the quantity of banknotes in circulation will not become excessive if, for instance, banks issue banknotes much faster than the rate at which the notes return to them; for example, Viner 1955, p. 237. That may or may not be so; it does not, however, in the least invalidate the law as the clearest theoretical statement of the qualitative difference between gold and creditmoney circulation. This dimension of Fullarton’s law has been ignored in the literature precisely because theorists tend generally to disregard the qualitative differences among the forms of money."
+          ]
+        }
+      ]
+    },
+    "n_ch02_043": {
+      "number": "43",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在银行券的贮藏方面，不存在与法定纸币的类比。自身缺乏价值使法定货币无法在交换之外形成持久的贮藏，这一点似乎对银行券也成立。然而关键的区别在于，银行券已经是对银行的债权，因此只需改变形式就能转化为贮藏货币。交换的参与者并不是以银行券本身的形式创造货币贮藏，而只是利用银行券对银行持有的贮藏确立另一种形式的债权。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There is no analogy with fiat paper money as regards the hoarding of banknotes. Lack of own value prevents fiat money from forming durable hoards outside exchange and it might appear that this also holds for banknotes. The crucial difference, however, is that banknotes are already claims on banks, and thus need a mere change of form in order to turn into a hoard. The participants in exchange do not create money hoards in banknotes as such, but merely use the banknotes to establish claims of a different form on the hoards held by banks."
+          ]
+        }
+      ]
+    },
+    "n_ch02_044": {
+      "number": "44",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Rosdolsky 1977, p. 144, n. 11."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Rosdolsky 1977, p. 144, n. 11."
+          ]
+        }
+      ]
+    },
+    "n_ch02_045": {
+      "number": "45",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951b."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Ricardo 1951b."
+          ]
+        }
+      ]
+    },
+    "n_ch02_046": {
+      "number": "46",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 478."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 478."
+          ]
+        }
+      ]
+    },
+    "n_ch02_047": {
+      "number": "47",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1973, p. 131."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1973, p. 131."
+          ]
+        }
+      ]
+    },
+    "n_ch02_048": {
+      "number": "48",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "拉丁美洲每年数百个百分点的通货膨胀——未必导致价格水平的指数式上涨和货币体系的崩溃——可以从国家引致的信用货币供给失律这一视角加以有益的研究。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Latin American inflations of the order of several hundred percentage points annually, not necessarily leading to exponential increases of the price level and collapse of the monetary system, could be profitably studied from the viewpoint of state-induced irregularities in the supply of credit money."
+          ]
+        }
+      ]
+    },
+    "n_ch02_049": {
+      "number": "49",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 235–6."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, pp. 235–6."
+          ]
+        }
+      ]
+    },
+    "n_ch02_050": {
+      "number": "50",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "两个事例足以确立这一点。第一，人们常常讲述这样的故事：在1825年危机中，只是因为在银行的金库里意外发现了一批1英镑面额的银行券，最坏的情况才得以避免。这些银行券提供了绝对必需的支付手段，缓解了恐慌。不过，这一说法的可信性受到过质疑；见 Fetter 1965, pp. 114–15。第二，无可置疑的是，1847年危机之所以险些达到灾难性的规模，恰恰因为1844年法令阻止银行按必需的数量发行银行券。法令一经暂停，甚至还没有实际发行银行券，恐慌就平息了。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Two instances will suffice to establish this. First, the story has often been told that in the crisis of 1825 the worst was avoided only when an amount of £1 notes was accidentally discovered in the Bank’s vaults. The notes provided the absolutely necessary means of payment and ameliorated the panic. The plausibility of this account has, however, been disputed; see Fetter 1965, pp. 114–15. What is beyond doubt is, second, that the crisis of 1847 threatened to reach disastrous dimensions precisely because the Act of 1844 prevented the Bank from issuing its banknotes in the necessary amounts. As soon as the Act was suspended, and even without the actual issue of banknotes, the panic abated."
+          ]
+        }
+      ]
+    },
+    "n_ch02_051": {
+      "number": "51",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "On Italy, see Sanucci 1898."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "On Italy, see Sanucci 1898."
+          ]
+        }
+      ]
+    },
+    "n_ch02_052": {
+      "number": "52",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, beqb 1978."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, beqb 1978."
+          ]
+        }
+      ]
+    },
+    "n_ch02_053": {
+      "number": "53",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976, pp. 38–41; see also Keynes 1930, ch. 3 and 1973, ch. 15."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See De Brunhoff 1976, pp. 38–41; see also Keynes 1930, ch. 3 and 1973, ch. 15."
+          ]
+        }
+      ]
+    },
+    "n_ch02_054": {
+      "number": "54",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 355."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1978, p. 355."
+          ]
+        }
+      ]
+    },
+    "n_ch02_055": {
+      "number": "55",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这里使用“贮藏货币”一词，是为了强调货币在这一联系中的突出职能。被集中并贷出的始终是生息资本，即转化了的贮藏货币。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The term ‘hoard’ is used to stress the prominent function of money in this connection. It is always interest-bearing capital that is concentrated and lent out, i.e. the transformed hoards."
+          ]
+        }
+      ]
+    },
+    "n_ch02_056": {
+      "number": "56",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Fullarton 1969, ch. 2."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Fullarton 1969, ch. 2."
+          ]
+        }
+      ]
+    },
+    "n_ch02_057": {
+      "number": "57",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See King 1936; see also Nishimura 1971."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See King 1936; see also Nishimura 1971."
+          ]
+        }
+      ]
+    },
+    "n_ch02_058": {
+      "number": "58",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, beqb 1982."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, beqb 1982."
+          ]
+        }
+      ]
+    },
+    "n_ch02_059": {
+      "number": "59",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 243; see also Marx 1970, p. 150."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976b, p. 243; see also Marx 1970, p. 150."
+          ]
+        }
+      ]
+    },
+    "n_ch02_060": {
+      "number": "60",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1973, p. 133."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1973, p. 133."
+          ]
+        }
+      ]
+    },
+    "n_ch02_061": {
+      "number": "61",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1981, ch. 35."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1981, ch. 35."
+          ]
+        }
+      ]
+    },
+    "n_ch02_062": {
+      "number": "62",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币的社会和政治权力——其第三职能即货币作为货币的延伸——曾被马克思强调（1970, pp. 127–37）。相比之下，主流经济理论几乎完全无视它。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The social and political power of money, an extension of its third function of money as money, was emphasised by Marx (1970, pp. 127–37). Mainstream economic theory, by comparison, almost wholly ignores it."
+          ]
+        }
+      ]
+    }
+  },
+  "body": [
+    {
+      "id": "ch02-ack",
+      "canonical_kind": "ack",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "＊ ",
+            "首次发表于《科学与社会》（Science & Society）1991年第55卷第3期（秋季号），第291–322页，题为“The Theory of Credit Money: A Structural Analysis”。感谢出版方授予重印许可。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "* ",
+            "First published as ‘The Theory of Credit Money: A Structural Analysis’,",
+            {
+              "type": "em",
+              "children": [
+                " Science & Society"
+              ]
+            },
+            ", 1991, Vol. 55, No. 3, Fall, pp. 291–322. We are grateful to the publishers for the reprint permission."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-ack"
+      ],
+      "page": "23"
+    },
+    {
+      "id": "ch02-u002",
+      "canonical_kind": "heading",
+      "zh": [
+        "导言"
+      ],
+      "en": [
+        "Introduction"
+      ],
+      "source_ids": [
+        "ch02-u002"
+      ],
+      "page": "23",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch02-u003",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "主流经济理论并不系统地区分货币的不同形式。例如，就宏观经济分析的多数目的而言，货币供给由铸币、银行券、银行存款乃至黄金构成，是无关紧要的。人们通常假定，最重要的是在实践中便利商品交换，即货币作为交换手段的职能。任何系统地充当这一角色的工具，都可以被视为无差别的货币。",
+            {
+              "type": "note",
+              "id": "n_ch02_001",
+              "label": "1"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Mainstream economic theory does not systematically distinguish among the different forms of money. For most purposes of macroeconomic analysis, for example, it is immaterial whether the money supply comprises coins, banknotes, bank deposits or, indeed, gold. It is usually assumed that what matters most is the practical facilitation of commodity exchange, i.e. money’s function as means of exchange. Any instrument that systematically plays this role could be considered as undifferentiated money.",
+            {
+              "type": "note",
+              "id": "n_ch02_001",
+              "label": "1"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u003"
+      ],
+      "page": "23"
+    },
+    {
+      "id": "ch02-u004",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这种对各种货币形式的特性缺乏兴趣的态度，令人想起马克思对“经济学家们漫不经心地对待形式上的区别，因为他们实际上只对实体方面感兴趣”的评论。",
+            {
+              "type": "note",
+              "id": "n_ch02_002",
+              "label": "2"
+            },
+            "然而，马克思主义货币理论在这方面也好不了多少。马克思对金属货币和法定纸币提供了精深的分析，但马克思主义理论却发现很难把他的分析扩展到银行券和银行存款这样的现代货币。考虑到金属货币实际上是资本从封建主义继承而来的，这一点就更值得注意了。以分析资本主义为明确宗旨的马克思主义理论，对资本主义交换关系如何影响货币形式却语焉不详。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This lack of interest in the peculiarities of various forms of money calls to mind Marx’s comment on the ‘off-hand way in which economists treat distinctions of form, since they are in actual fact interested only in the substantive side’.",
+            {
+              "type": "note",
+              "id": "n_ch02_002",
+              "label": "2"
+            },
+            " Yet Marxist monetary theory has fared scarcely better in this respect. Marx has provided a sophisticated analysis of metallic money and of fiat paper money, but Marxist theory has found it very difficult to extend his analysis to modern money, such as banknotes and bank deposits. This is all the more remarkable in light of the fact that metallic money is actually inherited by capital from feudalism. Marxist theory, whose express aim is the analysis of capitalism, is rather laconic on the effect of capitalist exchange relations on the forms of money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u004"
+      ],
+      "page": "23"
+    },
+    {
+      "id": "ch02-u005",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本章的核心论点是：货币的形式与它在资本主义交换中执行的职能之间存在密切联系。例如，现代银行券倾向于执行流通职能，而存款货币倾向于充当支付手段（延期支付标准）和贮藏手段（价值贮藏）。形式与职能的密切联系意味着货币的各种形式之间存在重要的质的区别。我将论证，当货币分别是黄金、银行券、存款等等时，决定流通领域中货币数量及其运动的因素是不同的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The central contention of this chapter is that a close connection exists between the forms of money and the functions performed by it in capitalist exchange. The modern banknote, for instance, tends to perform circulating functions, while depository money tends to function as means of payment (standard of deferred payments) and means of hoarding (store of value). The close connection of form and function implies the existence of important qualitative differences among the forms of money. I will argue that different factors determine the quantity and movement of money in the sphere of circulation when money is gold, banknotes, deposits, and so on."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u005"
+      ],
+      "page": "23"
+    },
+    {
+      "id": "ch02-u006",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "上述论点的一个含义是，货币的形式（及相应的职能）对于研究货币数量的内生性具有重要意义。我将较为详细地考察相关的内生因素，并论证它们对于不同的货币形式在性质上各不相同。这些差别源于各种货币形式与资本积累这一基础过程的结构性联系。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "One implication of the above is that the form of money (and the corresponding function) is significant in the study of the endogeneity of the quantity of money. I will examine the relevant endogenous factors in some detail and argue that they differ qualitatively for different forms of money. These differences are due to the structural links of the various forms of money with the underlying process of capital accumulation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u006"
+      ],
+      "page": "24"
+    },
+    {
+      "id": "ch02-u007",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "信用在这一联系中具有根本意义。不同类型信用——即商业信用（凭支付承诺出售商品）与货币信用（货币的贷放）——的相互作用，实质性地影响着资本主义交换中货币中介的决定。把银行券货币视为商业信用与货币信用相互作用的产物，最能理解这种货币的特性。通过考察这一相互作用，我们能够展示影响流通中银行券数量的内生因素。我还将进一步讨论，当货币信用在资本主义交换中的重要性上升时，存款货币如何取代银行券成为占支配地位的货币形式。与信用相联系的一个推论是，利息率这一范畴（与货币信用密切相关）对于银行券和存款的分析，比对黄金和法定货币的分析更为重要。然而，与货币理论的通常做法不同，资本主义积累的一些根本的内生方面，例如生成货币贮藏的趋势，必须在分析中先于利息率的出现而得到理论说明。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Credit is fundamental in this connection. The interaction of different types of credit, namely commercial (the sale of commodities against promises to pay) and monetary (the lending of money), materially affects the determination of monetary mediation in capitalist exchange. The peculiarities of banknote money are best understood when such money is treated as the product of the interaction of commercial and monetary credit. By examining this interaction we can demonstrate the endogenous factors influencing the quantity of banknotes in circulation. I will further discuss how depository money supersedes the banknote as the dominant form of money when monetary credit rises in significance in capitalist exchange. A corollary of the link with credit is that the category of the rate of interest (closely connected with monetary credit) matters more for the analysis of banknotes and deposits than of gold and fiat money. However, and unlike the usual approach of monetary theory, fundamental endogenous aspects of capitalist accumulation, such as the tendency to generate hoards of money, have to be theorised prior to the appearance of the rate of interest in the analysis."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u007"
+      ],
+      "page": "24"
+    },
+    {
+      "id": "ch02-u008",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思本人的著作在这一领域仍然具有重要意义。他的做法是把货币当作比信用更基本的范畴，因而其货币分析在很大程度上从抽象掉信用关系开始。我将在第i节论证，这使马克思得以展示较简单的货币形式——即黄金和法定货币——之间质的区别。对这些货币形式来说，它们的差别可以概括为：进入和退出流通领域的方式、在流通中路径的形状，以及决定其流通数量的因素。马克思对货币数量论的著名拒斥，其背后是他把流通中的黄金数量视为内生决定的。我将探讨他著作的这一方面，并讨论他那个鲜为人知的货币数量恒等式版本。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s own work remains of significance in this field. His approach was to treat money as a more fundamental category than credit and thus to begin his monetary analysis by largely abstracting from credit relations. I will argue in Section i that this allowed Marx to demonstrate the qualitative differences among simpler money forms, namely gold and fiat money. For such forms of money their differences could be summarised in terms of their mode of entry into and exit from the sphere of circulation, the shape of their path in circulation and the factors determining their quantity in circulation. Behind Marx’s well-known rejection of the Quantity Theory of Money lay his treatment of the quantity of gold in circulation as endogenously determined. I will explore this aspect of his work and also discuss his little-known version of the Quantity of Money identity."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u008"
+      ],
+      "page": "24"
+    },
+    {
+      "id": "ch02-u009",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第ii节将明确引入信用，考察银行券和存款等更高级的货币形式。马克思关于商业信用与货币信用之间关系、以及两者与实际积累的联系的洞见，在这里将大有用处。我将首先确立高级信用货币与较简单货币形式之间质的区别，然后论证货币数量仍然是内生的，但采取了必然更复杂的形式。这里的论点是，内生性不能被归结为货币供给对利息率的单纯函数依赖。相反，必须首先考虑更根本的因素，如商业信用的周期性行为和贮藏的创造。历史和制度因素也将影响信用货币的行为。分析将主要集中于银行券信用货币的特性，但也会讨论存款制度的相关方面。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Section ii will explicitly introduce credit, and examine more advanced forms of money, such as banknotes and deposits. Marx’s insights into the relation between commercial and monetary credit and the connection of both with real accumulation will be of use here. I will first establish the qualitative differences between advanced credit money and simpler forms of money. I will then argue that the quantity of money remains endogenous, but in a necessarily more complex form. The contention here is that endogeneity could not be captured as mere functional dependence of the supply of money on the rate of interest. Rather, more fundamental factors such as the cyclical behaviour of commercial credit and hoard creation have to be considered first. Historical and institutional factors will also influence the behaviour of credit money. The analysis will concentrate primarily on the peculiarities of banknote credit money but related aspects of the deposit system will also be discussed."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u009"
+      ],
+      "page": "24–25"
+    },
+    {
+      "id": "ch02-u010",
+      "canonical_kind": "heading",
+      "zh": [
+        "i 货币的内容、形式与职能"
+      ],
+      "en": [
+        "i Content, Forms and Functions of Money"
+      ],
+      "source_ids": [
+        "ch02-u010"
+      ],
+      "page": "25",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch02-u011",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思关于货币问题的完成稿主要关注货币本质的理论规定。",
+            {
+              "type": "note",
+              "id": "n_ch02_003",
+              "label": "3"
+            },
+            "他的阐述相当晦涩，很大程度上因为所采用的思维方式具有浓厚的哲学色彩。众所周知，马克思把货币推导为商品的交换价值与使用价值之间矛盾的解决。",
+            {
+              "type": "note",
+              "id": "n_ch02_004",
+              "label": "4"
+            },
+            "这些矛盾被视为经常被理论化的物物交换困难——需求的双重巧合——的根源。货币的本质是在自己的躯体上表现价值，是能够克服物物交换问题的“一般等价物”。",
+            {
+              "type": "note",
+              "id": "n_ch02_005",
+              "label": "5"
+            },
+            "与人们经常假定的相反，马克思的理论并不是说货币的本质就是黄金；毋宁说，黄金是“价值的代表”的一种基本形式。",
+            {
+              "type": "note",
+              "id": "n_ch02_006",
+              "label": "6"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s finished writings on monetary issues were mainly concerned with the theoretical determination of the essence of money.",
+            {
+              "type": "note",
+              "id": "n_ch02_003",
+              "label": "3"
+            },
+            " His exposition was rather abstruse, not least because of the intensely philosophical mode of thought employed. It is commonplace that Marx derived money as the resolution of the contradictions between the exchange value and use value of the commodity.",
+            {
+              "type": "note",
+              "id": "n_ch02_004",
+              "label": "4"
+            },
+            " These contradictions were seen as the source of the oft-theorised difficulties of barter, the double coincidence of want. The essence of money is to represent value in its own body, to be the ‘universal equivalent’ able to overcome the problems of barter.",
+            {
+              "type": "note",
+              "id": "n_ch02_005",
+              "label": "5"
+            },
+            " Contrary to what is frequently assumed,",
+            {
+              "type": "note",
+              "id": "n_ch02_006",
+              "label": "6"
+            },
+            " Marx’s theory was not that the essence of money is to be gold; rather, gold is a fundamental form of the ‘representative of value’."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u011"
+      ],
+      "page": "25"
+    },
+    {
+      "id": "ch02-u012",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "从货币的这一定义出发，马克思按严格的次序推导出三种职能。",
+            {
+              "type": "note",
+              "id": "n_ch02_007",
+              "label": "7"
+            },
+            "第一种职能是衡量价值并充当记账单位。劳动价值论把商品价值视为在生产过程中决定的。既然货币的本质是表现价值，它的第一种职能就必定是衡量商品价值并赋予价格。",
+            {
+              "type": "note",
+              "id": "n_ch02_008",
+              "label": "8"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "From this definition of money, three functions were derived by Marx in strict order.",
+            {
+              "type": "note",
+              "id": "n_ch02_007",
+              "label": "7"
+            },
+            " Function one is to measure value and serve as the unit of account. The labour theory of value treats commodity values as determined in the process of production. Since the essence of money is to represent value, its first function has to be to measure commodity values and assign prices.",
+            {
+              "type": "note",
+              "id": "n_ch02_008",
+              "label": "8"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u012"
+      ],
+      "page": "25"
+    },
+    {
+      "id": "ch02-u013",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第二种职能即流通手段，由第一种职能引出：为商品设定了价格的货币，进而去实现这些价格。",
+            {
+              "type": "note",
+              "id": "n_ch02_009",
+              "label": "9"
+            },
+            "必须注意，“流通手段”专门（而且狭义地）指商品的买和卖，而不是指债务清偿和一般支付等其他货币交易。对于后者，马克思保留了货币的第三种职能——货币作为货币。马克思货币理论的这一部分很少被理解，部分原因在于其别扭的名称。货币作为货币是一种复合职能，包括三种具体职能：(i)贮藏手段（价值贮藏）；(ii)支付手段（延期支付手段）；(iii)世界货币（传统理论中没有对应物）。把它们纳入一种职能，是为了把握它们重要的共同方面，即货币能够超脱狭义的商品交换，并作为一种社会力量、作为“价值的唯一形式”与商品交换相对立的能力。",
+            {
+              "type": "note",
+              "id": "n_ch02_010",
+              "label": "10"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Function two, the means of circulation, follows from the first: money, which has set commodity prices, proceeds to realise them.",
+            {
+              "type": "note",
+              "id": "n_ch02_009",
+              "label": "9"
+            },
+            " It is important to note that ‘means of circulation’ refers specifically (and narrowly) to purchase and sale of commodities, rather than to other monetary transactions, such as debt settlement and general payments. For the latter, Marx reserved the third function of money, money as money. This part of Marx’s monetary theory is poorly understood, partly because of its awkward title. Money as money is a composite function which includes three particular functions: (i) means of hoarding (store of value); (ii) means of payment (means of deferred payment); (iii) world money (no equivalent in conventional theory). The aim of including these into one function was to capture their important common aspect, namely money’s ability to distance itself from the narrow exchange of commodities and confront the latter as a social force, the ‘sole form of value’.",
+            {
+              "type": "note",
+              "id": "n_ch02_010",
+              "label": "10"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u013"
+      ],
+      "page": "26"
+    },
+    {
+      "id": "ch02-u014",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此，马克思主义货币理论强调，货币不只是便利交换的方便工具；它还可以说是从外部影响交换的衔接。第三种职能对于马克思关于货币危机的论述具有根本意义：在货币危机中，通常由银行提供的作为支付手段的货币，必须单方面介入，以打破支付僵局，使交换重新进行。",
+            {
+              "type": "note",
+              "id": "n_ch02_011",
+              "label": "11"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marxian monetary theory thus stresses that money is not only a convenient facilitator of exchange; it can also influence the articulation of exchange from the outside, as it were. The third function is fundamental to Marx’s account of monetary crises, in which money as means of payment, typically supplied by banks, has to intervene unilaterally in order to resolve the payments impasse and allow exchange to proceed anew.",
+            {
+              "type": "note",
+              "id": "n_ch02_011",
+              "label": "11"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u014"
+      ],
+      "page": "26"
+    },
+    {
+      "id": "ch02-u015",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "支撑这一职能分析次序的观念是：从第一种职能到第三种职能，交换的发展水平不断提高。在物物交换刚被取代、货币交换刚被引入的初级水平上，价值尺度职能是根本性的。货币交换发达而经常的运行，又依赖于流通手段职能。要使第三种职能充分出现，货币交换必须成为社会再生产的内在组成部分，经常的贮藏和经常的债务创造也必须作为社会现象而存在。我们可以用“支配地位”这个术语来恰当地表示货币的具体职能与发展水平的对应关系。在资本主义交换——货币交换最发达的形式——中，占支配地位的职能是货币作为货币，而不是价值尺度或流通手段。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Underpinning the analytical sequence of the functions is the notion that the level of development of exchange rises as we proceed from one to three. The measure-of-value function is fundamental at the rudimentary level at which barter has just been superseded and monetary exchange introduced. Developed and regular operation of monetary exchange in turn relies on the means-of-circulation function. For the full emergence of the third function, monetary exchange has to be an integral part of social reproduction. Regular hoarding and regular debt creation must also exist as social phenomena. We can usefully indicate the correspondence of particular functions of money with the level of development by employing the term ‘dominance’. The dominant function in capitalist exchange – the most developed form of monetary exchange – is money as money, rather than measure of value or means of circulation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u015"
+      ],
+      "page": "26"
+    },
+    {
+      "id": "ch02-u016",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这种关于货币职能的结构化观点，对货币形式的分析有重要后果。马克思本人提示过，货币采取的形式与其职能相关，但“正如真正的纸币从货币作为流通媒介的职能中产生一样，信用货币也在货币作为支付手段的职能中自发地扎根”。",
+            {
+              "type": "note",
+              "id": "n_ch02_012",
+              "label": "12"
+            },
+            "货币的形式有一个确定的次序，它反映交换的发展以及货币的不同职能上升为支配地位的过程。由此得出的推论是，货币的几种形式不是偶然的，而是交换发展的必然产物。",
+            {
+              "type": "note",
+              "id": "n_ch02_013",
+              "label": "13"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This structured view of money’s functions has important consequences for the analysis of the forms of money. Marx himself hinted that the form which money takes is related to its function, but ‘just as true paper money arises out of the function of money as the circulating medium, so does credit-money take root spontaneously in the function of money as the means of payment’.",
+            {
+              "type": "note",
+              "id": "n_ch02_012",
+              "label": "12"
+            },
+            " There is a definite order to the forms of money, which reflects the development of exchange and the elevation into dominance of different functions of money. It follows as a corollary that the several forms of money are not accidental but necessary products of the development of exchange.",
+            {
+              "type": "note",
+              "id": "n_ch02_013",
+              "label": "13"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u016"
+      ],
+      "page": "26–27"
+    },
+    {
+      "id": "ch02-u017",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思实际详细分析过的货币形式是黄金和黄金的法定纸符号，即独立于信用体系而产生的真正货币。他没有分析资本主义交换所特有的更高级的信用货币形式——如银行券和存款货币——的产生。这一缺陷的原因显而易见：信用货币的分析以信用和信用体系的分析为前提，而马克思没有完成后者。这里不试图对信用作完整的分析，但利用马克思本人以及其他人的信用分析，可以得出关于信用货币的重要结论。不过在此之前，有必要更仔细地考察马克思对货币基本形式的分析。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The forms of money actually analysed in detail by Marx were gold and fiat paper symbols of gold, i.e. money-proper, which arises independently of the credit system. He did not analyse the emergence of more advanced creditbased forms of money characteristic of capitalist exchange, such as banknotes and depository money. The reason for this deficiency is plain to see: the analysis of credit money presupposes the analysis of credit and of the credit system, which was not completed by Marx. Without attempting a complete analysis of credit here, important results about credit money can be derived by using Marx’s own as well as other analyses of credit. Before this can be done, however, a closer look at Marx’s analysis of the elementary forms of money is necessary."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u017"
+      ],
+      "page": "27",
+      "review": "原文“creditbased”为OCR连写，据文意应为“credit-based”。"
+    },
+    {
+      "id": "ch02-u018",
+      "canonical_kind": "subheading",
+      "zh": [
+        "真正货币的特征"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "The Characteristics of Money-Proper"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u018"
+      ],
+      "page": "27",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch02-u020",
+      "canonical_kind": "subsubheading",
+      "zh": [
+        "a 商品货币的流通"
+      ],
+      "en": [
+        "a Circulation of Commodity Money"
+      ],
+      "source_ids": [
+        "ch02-u020"
+      ],
+      "page": "27",
+      "type": "subheading",
+      "level": 3
+    },
+    {
+      "id": "ch02-u021",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思对货币和货币流通的分析，从大体上抽象掉信用关系和资本的存在开始。",
+            {
+              "type": "note",
+              "id": "n_ch02_014",
+              "label": "14"
+            },
+            "马克思是在简单商品交换的背景下考察货币的，集中于货币与商品在市场上的衔接，而不考虑基础的生产关系。我们稍后将不得不放松这一假定。另一方面，信用被视为比货币复杂得多的范畴，要在引入剥削等基本资本主义关系之后再加以研究。正统理论一般不接受这种做法，它往往把信用当作比货币更基本的范畴，从信用关系不可能时时存在这一点推导出货币。",
+            {
+              "type": "note",
+              "id": "n_ch02_015",
+              "label": "15"
+            },
+            "这里我们将简要考察马克思关于我们称之为真正货币的货币原初形式的主要结论。在关于信用货币的部分，我们将引入资本主义生产关系和信用，从而在充分发展的交换过程中分析信用货币的特征。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s analysis of money and monetary circulation starts by largely abstracting from credit relations and the presence of capital.",
+            {
+              "type": "note",
+              "id": "n_ch02_014",
+              "label": "14"
+            },
+            " Money was examined by Marx in the context of simple commodity exchange, concentrating on the articulation of money and commodities in the market without worrying about the underlying relations of production. We will have to relax this assumption later. Credit, on the other hand, was thought of as a substantially more complex category than money, to be investigated after the introduction of fundamental capitalist relations, such as exploitation. This approach is not generally accepted by orthodox theory, which often treats credit as a more elementary category than money deriving the latter out of the impossibility of having credit relations at all times.",
+            {
+              "type": "note",
+              "id": "n_ch02_015",
+              "label": "15"
+            },
+            " Here we will briefly consider Marx’s main conclusions on the original forms of money, which we have called money-proper. In the section on credit money we will introduce capitalist relations of production and credit and thus analyse the traits of credit money within a well-developed process of exchange."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u021"
+      ],
+      "page": "27–28"
+    },
+    {
+      "id": "ch02-u022",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对马克思来说，商品货币从交换过程中自发产生。黄金经过漫长的历史过程成为最终的候选者，纯粹是由于其均质、耐久、可分等物理特性。马克思的处理有两个方面特别值得注意。第一，衡量商品价值并不以黄金的实际在场为前提。在物物交换正被取代时，无差别的、观念上的黄金量就能表现商品的价值，从而使货币交换得以确立。第二，金铸币是货币形式的一个进步，它出现在交换的货币性质牢固确立之时。这时流通手段是占支配地位的职能，这要求金属货币实际地现身于交易之中。",
+            {
+              "type": "note",
+              "id": "n_ch02_016",
+              "label": "16"
+            },
+            "这种实际在场的具体形式不可避免地是一种社会约定。作为社会约定，流通中的货币黄金需要社会权威，而国家是这种权威的自然来源。因此，对马克思来说，就流通职能而言，货币的适当形式是国家铸造的金铸币。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Commodity money for Marx arises spontaneously out of the process of exchange. Gold is the final candidate, after a long historical process, purely because of its physical characteristics such as homogeneity, durability, divisibility, and so on. Two aspects of Marx’s treatment are of special interest. First, measuring commodity values does not presuppose the physical presence of gold. Undifferentiated, ideal amounts of gold can express the values of commodities when barter is being superseded, thus allowing monetary exchange to be established. Second, gold coin is an advance in the form of money which arises when the monetary character of exchange is firmly established. Means of circulation is then the dominant function and this entails the actual physical presence of metallic money in transactions.",
+            {
+              "type": "note",
+              "id": "n_ch02_016",
+              "label": "16"
+            },
+            " The particular form of this physical presence is inevitably a social convention. As a social convention, circulating monetary gold needs social authority and the state is the natural source of the latter. Thus, for Marx, the adequate form of money, as far as the circulating function is concerned, is gold coin minted by the state."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u022"
+      ],
+      "page": "28"
+    },
+    {
+      "id": "ch02-u023",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思随后对货币黄金的分析，以这种黄金划分为贮藏量与流通量为前提。对马克思来说，一国货币黄金的总量中只有一部分处于流通之中，其余则贮藏在流通之外。",
+            {
+              "type": "note",
+              "id": "n_ch02_017",
+              "label": "17"
+            },
+            "这种做法与李嘉图截然相反，而与斯图亚特、图克和富拉顿属于同一传统。",
+            {
+              "type": "note",
+              "id": "n_ch02_018",
+              "label": "18"
+            },
+            "马克思主义货币分析把商品交换领域看作社会再生产中一个界限分明的区域，货币不断地进入和离开它。马克思使用的“流通渠道”一词就是明证。",
+            {
+              "type": "note",
+              "id": "n_ch02_019",
+              "label": "19"
+            },
+            "在尽可能最简单的分析情形即黄金货币的情形中，这体现为流通的黄金与贮藏的黄金。随着货币进出交换领域，一国的货币黄金不断地在贮藏与流通之间重新划分。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s subsequent analysis of monetary gold was premised on the division of such gold between hoarded and circulating quantities. For Marx, only a part of the entire amount of monetary gold in a country is in circulation while the rest is hoarded outside circulation.",
+            {
+              "type": "note",
+              "id": "n_ch02_017",
+              "label": "17"
+            },
+            " This approach is diametrically opposed to that of Ricardo and in the same tradition as Steuart, Tooke and Fullarton.",
+            {
+              "type": "note",
+              "id": "n_ch02_018",
+              "label": "18"
+            },
+            " Marxian monetary analysis sees the sphere of commodity exchange as a clearly demarcated area of social reproduction which money continuously enters and leaves. This is evidenced by the term ‘channels of circulation’ used by Marx.",
+            {
+              "type": "note",
+              "id": "n_ch02_019",
+              "label": "19"
+            },
+            " In the simplest possible analytical case, that of gold money, this translates into circulating gold and hoarded gold. As money moves in and out of the sphere of exchange, the monetary gold of a country is continuously re-divided between hoard and circulation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u023"
+      ],
+      "page": "28"
+    },
+    {
+      "id": "ch02-u024",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "贮藏与流通这一区分的重要性，从其思想谱系中就已显而易见。如果一国的黄金不必永久留在流通中，而是可以被贮藏起来，那么流通中的货币数量就根本不必受纯外生因素——例如新金矿的发现——的影响。同理，价格名目也不必立即随货币数量的变化而变化。马克思对货币数量论的著名拒斥，以上述一国货币黄金的划分为前提。",
+            {
+              "type": "note",
+              "id": "n_ch02_020",
+              "label": "20"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The importance of the distinction between hoard and circulation is already apparent in its intellectual pedigree. If a country’s gold need not remain permanently in circulation but can instead be hoarded, then the quantity of money in circulation need not be at all affected by purely exogenous factors, for example, by fresh gold discoveries. By the same token, the nomenclature of prices need not be immediately susceptible to changes in the quantity of money. Marx’s well-known rejection of the Quantity Theory of Money presupposes the above-mentioned division of a country’s monetary gold.",
+            {
+              "type": "note",
+              "id": "n_ch02_020",
+              "label": "20"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u024"
+      ],
+      "page": "29"
+    },
+    {
+      "id": "ch02-u025",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "有了贮藏与流通的区分，流通中的黄金就可以由两个方面完全刻画：第一，它在交换领域中的路径；第二，它的流通数量。先看第一点，流通黄金的路径完全是随机的。商品购买者一旦把黄金投入交换，铸币就继续被后来的购买者使用，不断远离其进入点。",
+            {
+              "type": "note",
+              "id": "n_ch02_021",
+              "label": "21"
+            },
+            "在给定的时期内，随着卖者变成买者，它的轨迹使它数次进出流通（因而数次出入贮藏）。换言之，黄金货币在贮藏与流通之间往返移动时，使用着大量的流通进入点和退出点。然而，无论金铸币循什么方向运动，它都没有义务返回它在期初进入交换的那一点。它的路径呈随机形状而非循环形状。如下文所见，这一点把真正货币与倾向于返回其交换进入点的信用货币区别开来。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Given the distinction between hoard and circulation, two aspects completely characterise circulating gold: first, its path in the sphere of exchange; second, its quantity in circulation. Starting with the first, the path of circulating gold is completely haphazard. Once a commodity buyer has thrown gold into exchange, the coin continues to be used by subsequent buyers, constantly distancing itself from its point of entry.",
+            {
+              "type": "note",
+              "id": "n_ch02_021",
+              "label": "21"
+            },
+            " In a given period of time, its trajectory brings it in and out of circulation (hence out of and into hoards) several times as sellers turn into buyers. Equivalently, there is a large number of points of entry into and exit from circulation which gold money uses as it moves from hoard to circulation and vice versa. Whatever direction gold coin might follow, however, it is under no compulsion to return to the point at which it entered exchange at the beginning of the period. Its path has a random rather than a circular shape. This, as we shall see below, distinguishes money-proper from credit money which tends to return to its point of entry into exchange."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u025"
+      ],
+      "page": "29"
+    },
+    {
+      "id": "ch02-u026",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "再看流通中的货币数量，马克思主义货币理论赋予交换现象一个确定的重要性层级。交换领域中的根本运动是商品的流通，这是社会物质再生产的必要过程。货币的流通是从属的运动，由以商品形式进行的物质交换这一首要过程引出。",
+            {
+              "type": "note",
+              "id": "n_ch02_022",
+              "label": "22"
+            },
+            "因此，流通货币的数量是内生决定的，其基础是商品价值、货币单位的价值和货币流通速度。随着这些参数不断改变每期所需的流通货币量，货币黄金在贮藏与流通之间重新划分，向交换领域供给黄金或从中吸收黄金。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Turning to the quantity of money in circulation, Marxian monetary theory ascribes a definite hierarchy of significance to exchange phenomena. The fundamental movement in the sphere of exchange is the circulation of commodities, a necessary process for the material reproduction of society. The circulation of money is a subordinate movement, elicited by the primary exchange of matter in the form of commodities.",
+            {
+              "type": "note",
+              "id": "n_ch02_022",
+              "label": "22"
+            },
+            " Accordingly, the quantity of circulating money is determined endogenously, on the basis of commodity values, the value of the unit of money, and the velocity of money. As these parameters continuously alter the requisite amount of circulating money per period, monetary gold is re-divided into hoard and circulation, supplying gold to or absorbing it from the sphere of exchange."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u026"
+      ],
+      "page": "29"
+    },
+    {
+      "id": "ch02-u027",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在一定假定下，可以精确地确定流通中的黄金量。迄今为止我们假定黄金是不断使商品得以交换的流通手段。为了完整起见，我们还必须引入作为支付手段的黄金，即货币第三职能的第(ii)部分。支付手段——“广义的流通手段”——涵盖货币因狭义商品交换以外的原因单方面进入交换的一切场合，例如纳税和补贴支付。这使我们能更现实地设定：每一时期都有一些商品是凭支付承诺而不是凭即期货币支付来交换的。这种基本的商业信用意味着，在信用期结束时，商业债务必须清偿，一定量的货币必须作为支付手段进入交换。因此，要确定流通中的货币总量，必须广义地考察货币，即既考察它流通商品的时候，也考察它在商品已经流通之后单方面结清债务的时候。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is possible to determine precisely the amount of gold in circulation, given certain assumptions. So far we have assumed that gold is the means of circulation continuously enabling commodities to exchange. For completeness we also have to introduce gold as means of payment, i.e. part (ii) of money’s third function. Means of payment – ‘broad means of circulation’ – covers all the instances of unilateral entry of money into exchange for reasons other than the narrow exchange of commodities, for example tax and subsidy payments. This allows us to postulate, more realistically, that some commodities are in every period exchanged on the basis of promises to pay rather than immediate money payment. Such basic commercial credit implies that at the end of the credit period, commercial debts have to be settled and a quantity of money has to enter exchange as means of payment. Thus in order to determine the total quantity of money in circulation, money has to be considered broadly, i.e. when it circulates commodities as well as when it unilaterally settles obligations after commodities have been circulated."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u027"
+      ],
+      "page": "30"
+    },
+    {
+      "id": "ch02-u028",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "由此得出两个推论。第一，每期实际流通的商品的价格总额与流通中的货币总量之间没有必然的关系，因为有些商品是凭信用而不是用货币交换的。第二，商业信用的存在意味着每期有一定量的到期支付债务需要清偿。当然，信用体系倾向于把这些债务集中起来，在票据交换过程中相互冲销。然而，全部商业信用债务完全相互抵消是极不可能的；因此原则上总会有一个余额需要货币的介入。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Two corollaries follow from the above. First, the total price of commodities actually circulated per period and the total quantity of money in circulation have no necessary relation with each other, since some commodities are exchanged on credit and not with money. Second, the existence of commercial credit implies a definite amount of obligations to pay which mature per period and need settlement. The credit system, of course, tends to gather those obligations and to cancel them against each other in a process of clearing. Nevertheless, it is highly unlikely that all commercial credit obligations will completely cancel out; hence, in principle a remainder will always necessitate the intervention of money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u028"
+      ],
+      "page": "30"
+    },
+    {
+      "id": "ch02-u029",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此，每期流通货币量的一部分是为了结清这类债务而进入流通的。由此可见，流通货币总量与流通商品价格总额的关系将更加松散。相反，正统理论倾向于假定交换的这两个方面之间存在固定的关系，可能受利息率影响——而利息率这一范畴在马克思分析的这一阶段尚未出现。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Part of the quantity of money in circulation per period, therefore, enters in order to settle such obligations. It follows that the total quantity of circulating money and the total price of commodities circulated will be even more loosely related. Orthodox theory, by contrast, tends to assume fixed relations between these aspects of exchange, possibly influenced by the rate of interest, a category which has not appeared in Marx’s analysis at this stage."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u029"
+      ],
+      "page": "30"
+    },
+    {
+      "id": "ch02-u030",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "与标准的费雪式和剑桥式货币数量恒等式做法的主要差别是显而易见的。后者不区分货币在交换中的职能，因而设定了每期产出价格与货币之间一种没有根据的紧密程度。此外，在马克思主义框架内，货币流通商品的速度与执行支付的速度是由很不相同的因素决定的。诚然，没有什么阻止同一个货币单位在两种职能之间交替；不过，前者的速度倾向于由交通和运输工具、消费习惯、产出的季节变动等因素决定。",
+            {
+              "type": "note",
+              "id": "n_ch02_023",
+              "label": "23"
+            },
+            "后者的速度则主要取决于信用体系在便利信用贷放、票据交换和支付方面的效率。",
+            {
+              "type": "note",
+              "id": "n_ch02_024",
+              "label": "24"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The main differences with the standard Fisherian and Cambridge approaches to the Quantity Theory identity are apparent. The latter do not distinguish between the functions of money in exchange and thus postulate an unwarranted degree of closeness between output price and money per period. Furthermore, within the Marxist framework the velocity of money in circulating commodities and in making payments is determined by very different factors. It is true that nothing stops the same unit of money from alternating between the functions; still, velocity in the former tends to be determined by factors such as means of communication and transport, consumption habits, seasonal variations of output, and so on.",
+            {
+              "type": "note",
+              "id": "n_ch02_023",
+              "label": "23"
+            },
+            " Velocity in the latter depends primarily on the efficiency of the credit system in facilitating the advance of credit, clearing and the making of payments.",
+            {
+              "type": "note",
+              "id": "n_ch02_024",
+              "label": "24"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u030"
+      ],
+      "page": "30–31"
+    },
+    {
+      "id": "ch02-u031",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "有了这些限定，马克思关于流通中货币数量的恒等式版本是：",
+            {
+              "type": "note",
+              "id": "n_ch02_025",
+              "label": "25"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Given those qualifications, Marx’s version of the identity for the quantity of money in circulation is:",
+            {
+              "type": "note",
+              "id": "n_ch02_025",
+              "label": "25"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u031"
+      ],
+      "page": "31"
+    },
+    {
+      "id": "ch02-u032",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "m ≡ tp",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            "/v",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " + tp",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            "/v",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            " – n (a",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " ∩ a",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            ")  (1)"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "m ≡",
+            {
+              "type": "em",
+              "children": [
+                " tp"
+              ]
+            },
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            "/v",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " + tp",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            "/v",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            " – n (a",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " ∩ a",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            ")  (1)"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch02-u032"
+      ],
+      "page": "31",
+      "review": "OCR 层将下标 flatten 为正常字号；tp1/v1/tp2/v2/a1/a2 实为下标，规范文本以 _{} 标记。符号 ≡ ∩ 来自 FreeSerif 字体。"
+    },
+    {
+      "id": "ch02-u033",
+      "canonical_kind": "definition",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "m — 流通中的黄金单位数量"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "m — the quantity of circulating gold units"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u033"
+      ],
+      "page": "31"
+    },
+    {
+      "id": "ch02-u035",
+      "canonical_kind": "definition",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "tp",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " — 实际用货币流通的商品的价格总额，即商品价值与货币单位价值之比"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "tp"
+              ]
+            },
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " — total price of commodities actually circulated with money, i.e., the ratio of commodity values to the value of the unit of money"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u035"
+      ],
+      "page": "31"
+    },
+    {
+      "id": "ch02-u037",
+      "canonical_kind": "definition",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "tp",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            " — 实际用货币结清的到期支付债务的价格总额"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "tp"
+              ]
+            },
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            " — total price of maturing payment obligations actually settled with money"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u037"
+      ],
+      "page": "31"
+    },
+    {
+      "id": "ch02-u039",
+      "canonical_kind": "definition",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "v",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " — 货币在商品流通中的流通速度"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "v"
+              ]
+            },
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " — velocity of money in commodity circulation"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u039"
+      ],
+      "page": "31"
+    },
+    {
+      "id": "ch02-u041",
+      "canonical_kind": "definition",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "v",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            " — 货币在执行支付时的流通速度"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "v"
+              ]
+            },
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            " — velocity of money in making payments"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u041"
+      ],
+      "page": "31"
+    },
+    {
+      "id": "ch02-u043",
+      "canonical_kind": "definition",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "a",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " — 用于商品流通的货币单位集合"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "a"
+              ]
+            },
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " — set of money units employed in commodity circulation"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u043"
+      ],
+      "page": "31"
+    },
+    {
+      "id": "ch02-u045",
+      "canonical_kind": "definition",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "a",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            " — 用于执行支付的货币单位集合"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "a"
+              ]
+            },
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            " — set of money units employed in making payments"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u045"
+      ],
+      "page": "31"
+    },
+    {
+      "id": "ch02-u047",
+      "canonical_kind": "definition",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "n (a",
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " ∩ a",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            ") — 在第一种和第二种职能之间交替使用的货币单位数目"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "n"
+              ]
+            },
+            " (",
+            {
+              "type": "em",
+              "children": [
+                "a"
+              ]
+            },
+            {
+              "type": "sub",
+              "children": [
+                "1"
+              ]
+            },
+            " ∩ a",
+            {
+              "type": "sub",
+              "children": [
+                "2"
+              ]
+            },
+            ") — the number of money units alternating between the first and second functions"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u047"
+      ],
+      "page": "31"
+    },
+    {
+      "id": "ch02-u049",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "如果无视信用介入交换的特殊性质，把货币对交换的一切介入都简单地看作“交易”，上式就会坍缩为类似通常费雪公式的形式："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "If the specific character of credit intervention in exchange were ignored and all of money’s interventions in exchange were considered simply ‘transactions’, the above would collapse into a form similar to the usual Fisherian formula:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u049"
+      ],
+      "page": "31"
+    },
+    {
+      "id": "ch02-u050",
+      "canonical_kind": "equation",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "m ≡ tp/v  (2)"
+          ],
+          "centered": true
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "m"
+              ]
+            },
+            " ≡",
+            {
+              "type": "em",
+              "children": [
+                " tp/v"
+              ]
+            },
+            "  (2)"
+          ],
+          "centered": true
+        }
+      ],
+      "source_ids": [
+        "ch02-u050"
+      ],
+      "page": "31"
+    },
+    {
+      "id": "ch02-u051",
+      "canonical_kind": "definition",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "tp — “交易”的价格总额，即以货币交换的商品价值加上支付中转移的价值，再除以货币单位的价值"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "tp — the total price of ‘transactions’, i.e. money-exchanged commodity values plus value transferred in payments divided by the value of the unit of money"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u051"
+      ],
+      "page": "31–32"
+    },
+    {
+      "id": "ch02-u053",
+      "canonical_kind": "definition",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "v — 无差别的货币流通速度"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            {
+              "type": "em",
+              "children": [
+                "v"
+              ]
+            },
+            " — undifferentiated money velocity"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u053"
+      ],
+      "page": "32"
+    },
+    {
+      "id": "ch02-u055",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "认为(1)式优于(2)式，有两个主要理由。第一，它明确承认信用对产出流通的影响，因而拒绝关于产出价格总额与货币数量的简单推断。产出也可以不经货币中介而交换。第二，它承认影响货币在不同职能中的流通速度的因素在性质上各不相同。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There are two main reasons for considering (1) superior to (2). First, it explicitly acknowledges the impact of credit on the circulation of output and hence rejects simple inferences about total output price and money quantity. Output is also exchanged without the intermediation of money. Second, it recognises the qualitatively different factors which influence the velocity of money in its different functions."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u055"
+      ],
+      "page": "32"
+    },
+    {
+      "id": "ch02-u056",
+      "canonical_kind": "subsubheading",
+      "zh": [
+        "b 法定货币的性质与流通"
+      ],
+      "en": [
+        "b The Character and Circulation of Fiat Money"
+      ],
+      "source_ids": [
+        "ch02-u056"
+      ],
+      "page": "32",
+      "type": "subheading",
+      "level": 3
+    },
+    {
+      "id": "ch02-u057",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思对法定货币——典型的黄金纸符号——的分析，与银行券及其演化无关。如下文所见，银行券是信用货币，与法定纸币有质的区别。马克思主义经济理论一般没有认识到这一点。",
+            {
+              "type": "note",
+              "id": "n_ch02_026",
+              "label": "26"
+            },
+            "马克思对法定货币的分析，指的是国家独立于信用体系发行、直接符号化贵金属的货币。他的“黄金符号”是类似于克纳普“国定论”货币的凭信货币，但与克纳普不同，马克思并不把这些符号仅仅视为国家任意权力的创造物。",
+            {
+              "type": "note",
+              "id": "n_ch02_027",
+              "label": "27"
+            },
+            "这种货币的一个典型例子是法国的指券。同理，马克思关于这种货币可能引发恶性通货膨胀的结论，并不直接适用于现代银行券的流通。他的恶性通货膨胀图式——下文将非常简要地考察——必须先适应信用货币的特性，才能开始对现代恶性通货膨胀乃至持续的高通货膨胀提供洞见。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s analysis of fiat money – typically paper symbols of gold – was unrelated to banknotes and their evolution. Banknotes, as we shall see below, are credit money, qualitatively different from fiat paper money. This is not generally appreciated in Marxist economic theory.",
+            {
+              "type": "note",
+              "id": "n_ch02_026",
+              "label": "26"
+            },
+            " Marx’s analysis of fiat money referred to money issued by the state independently of the credit system and in direct symbolisation of the precious metals. His ‘symbols of gold’ are fiduciary money similar to Knapp’s ‘chartalist’ money, but unlike Knapp, Marx did not treat these symbols as the creation solely of the arbitrary powers of the state.",
+            {
+              "type": "note",
+              "id": "n_ch02_027",
+              "label": "27"
+            },
+            " A typical instance of such money was the French Assignats. Marx’s conclusions about the potential of such money to create hyperinflation were not, by the same token, immediately applicable to the circulation of the modern banknote. His schema of hyperinflation, which we will consider very briefly below, has to be adapted to the peculiarities of credit money before it can begin to give insights into modern hyperinflations or, indeed, persistent high inflations."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u057"
+      ],
+      "page": "32"
+    },
+    {
+      "id": "ch02-u058",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对马克思来说，符号货币必然从金属货币的流通过程中产生。众所周知，金铸币会因磨损和欺诈而损失部分含金量。",
+            {
+              "type": "note",
+              "id": "n_ch02_028",
+              "label": "28"
+            },
+            "因此其价值含量倾向于低于其名义价值，这一事实自古以来就困扰着商人。换句话说，流通手段职能自动地把黄金货币变成它自身的符号。于是，交换本身为国家介入并发行真正的金属货币符号——如贱金属铸币和法定纸币——开辟了道路。",
+            {
+              "type": "note",
+              "id": "n_ch02_029",
+              "label": "29"
+            },
+            "因此，符号货币对应于流通手段职能，与信用体系对交换的介入无关。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For Marx, symbolic money arises necessarily out of the process of metallic circulation. It is well-known that gold coins tend to lose part of their gold content because of abrasion and fraud.",
+            {
+              "type": "note",
+              "id": "n_ch02_028",
+              "label": "28"
+            },
+            " Their value content, therefore, tends to be below their nominal value, a fact that has troubled merchants since time immemorial. To put it differently, the function of means of circulation automatically turns gold money into a symbol of itself. Thus exchange opens by itself the way for the state to intervene and issue proper symbols of metallic money such as base-metal coins and fiat paper money.",
+            {
+              "type": "note",
+              "id": "n_ch02_029",
+              "label": "29"
+            },
+            " Symbol money, therefore, corresponds to the function of means of circulation and is unrelated to the intervention of the credit system in exchange."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u058"
+      ],
+      "page": "32–33"
+    },
+    {
+      "id": "ch02-u059",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本章将集中于纸币而不是廉价铸币，因为法定货币流通的特性可以由前者完全展示。与黄金不同，法定货币从单一的点进入交换领域。这个点通常是国家支付公务员薪金、购买商品和服务、发放补贴及满足其他消费需求的地方。一旦进入交换，法定货币的路径与黄金一样随机，被其最初的收受者不断用于购买、支付等等。因此它自发地倾向于远离其在交换中的单一进入点。如果明确规定税款须用这种货币缴纳，或者像指券那样用法定货币购买公债或其他金融工具，它就可能返回其发行者即国家。",
+            {
+              "type": "note",
+              "id": "n_ch02_030",
+              "label": "30"
+            },
+            "它返回发行点必须由国家人为地促成，这恰恰证明它自身倾向于走随机的路径。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In this chapter we will concentrate on paper money rather than cheap coins, since the peculiarities of fiat money circulation can be completely demonstrated by the former. In contrast to gold, fiat money enters the sphere of exchange at a single point. That typically is the point at which the state pays for civil service salaries, goods, services, subsidies and its other consumption demands. Once in exchange, fiat money follows a path as haphazard as gold, being continually used by its original receivers for purchases, payments, and so on. It thus tends of its own accord to move away from its single point of entry in exchange. It could potentially return to its issuer, the state, if it were explicitly demanded that taxes be paid in such money or if bonds or other financial instruments were bought with fiat money as was done for the Assignats.",
+            {
+              "type": "note",
+              "id": "n_ch02_030",
+              "label": "30"
+            },
+            " Its return to its point of issue has to be artificially instigated by the state, proof of its own tendency to follow a random path."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u059"
+      ],
+      "page": "33"
+    },
+    {
+      "id": "ch02-u060",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "进一步区别于黄金的是，法定货币在流通之外毫无价值。它因便利交换而具有社会价值，但一旦离开这个领域，它就变成毫无价值的“纸片”。",
+            {
+              "type": "note",
+              "id": "n_ch02_031",
+              "label": "31"
+            },
+            "由此直接得出，法定货币不能像黄金那样不断地被贮藏在流通之外。加上它没有任何返回交换进入点的趋势，这意味着符号性的法定货币倾向于被禁锢在交换领域之内。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Further distinguishing it from gold, fiat money is totally worthless outside circulation. It has social worth as it facilitates exchange, but outside that sphere it simply turns into valueless ‘scraps of paper’.",
+            {
+              "type": "note",
+              "id": "n_ch02_031",
+              "label": "31"
+            },
+            " It follows immediately that fiat money cannot be hoarded outside circulation, as gold incessantly is. Together with the lack of any tendency to return to its point of entry in exchange, this means that symbolic fiat money tends to be trapped in the sphere of exchange."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u060"
+      ],
+      "page": "33"
+    },
+    {
+      "id": "ch02-u061",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对马克思来说，法定货币产生恶性通货膨胀的倾向，源于它滞留流通的趋势。如果其他条件不变，国家坚持发行符号，金属货币就会被逐出流通，而符号的数量会因为没有出口而膨胀。然而，实际被符号化的贵金属量与不断膨胀的法定货币量无关，它实际上由恒等式(1)决定。因此，单张法定货币倾向于符号化越来越少的贵金属，指券的遭遇正是如此。",
+            {
+              "type": "note",
+              "id": "n_ch02_032",
+              "label": "32"
+            },
+            "与这一趋势相对应的，是商品价格不断上涨。可以设想——但必须历史地、具体地加以证明——国家会陷入恶性循环：被迫印刷越来越多的货币以支付其开支，从而助长更高的价格上涨。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For Marx, the propensity of fiat money to generate hyperinflation results from its tendency to remain in circulation. If, other things being equal, the state persevered with the issue of symbol, metallic money would be expelled from circulation and the quantity of symbol would balloon for lack of an exit. Yet the quantity of precious metal actually symbolised would be unrelated to the expanding quantity of fiat money, and would actually be determined by identity (1). Therefore individual pieces of fiat money would tend to symbolise less and less of the precious metal, as indeed happened to the Assignats.",
+            {
+              "type": "note",
+              "id": "n_ch02_032",
+              "label": "32"
+            },
+            " The counterpart of this tendency would be ever increasing commodity prices. It is conceivable, but has to be demonstrated historically and concretely, that the state will find itself in a vicious circle, forced to print more and more money to cover its expenditures thus fostering still higher price rises."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u061"
+      ],
+      "page": "33"
+    },
+    {
+      "id": "ch02-u062",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这一论述与通常的货币数量论观点有一种明显但表面的相似。按照该理论，货币供给的外生增加会强化支出的急切性，从而刺激需求并影响价格和收入。然而在马克思主义的问题框架内，恶性通货膨胀与商品需求无关。相反，它源于货币在数量增加的情况下，仍必须在商品价值不变的基础上继续赋予正确的相对价格。其他条件不变，一枚金铸币如今由比如两倍于以前的纸片来符号化，这一事实只不过转化为一种盲目而自动的趋势：把价格提高一倍，以保持相对价格的名目。换句话说，一方面，国家似乎拥有外生地决定流通中法定货币数量的能力；另一方面，必要流通媒介的数量却由流通过程内生地决定。这一矛盾通过价格膨胀得到解决，价格膨胀重新确立了内生决定的流通媒介量的支配地位。对马克思来说，法定货币的恶性通货膨胀恰恰源于货币流通的内生性。自然，这不可能瞬间发生。它是一个渐进的过程：一种商品通过在交换中的接触迫使另一种商品的价格改变，起点是那些在交换中的路径与法定货币新增量的来源密切联系的商品。可以想见，这类商品可能从国家雇员的消费品到军火不等。",
+            {
+              "type": "note",
+              "id": "n_ch02_033",
+              "label": "33"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There is an evident, but superficial, similarity of this account with the usual Quantity Theory view. According to the Theory, exogenous increases of the supply of money result in the intensification of the eagerness to spend, hence they boost demand and influence prices and income.",
+            {
+              "type": "note",
+              "id": "n_ch02_033",
+              "label": "33"
+            },
+            " Within the Marxian problematic, however, hyperinflations are unrelated to the demand for commodities. Instead they result from money having to continue to assign correct relative prices, given unchanged underlying commodity values and despite its augmented quantity. The fact that a gold coin, other things being equal, is symbolised by, say, twice as many pieces of paper as before simply translates into a blind and automatic tendency to double prices in order to retain the nomenclature of relative prices. To put it differently, on the one hand, the state appears to possess the ability to determine exogenously the quantity of circulating fiat money. Yet, on the other hand, the quantity of the necessary circulating medium is endogenously determined by the process of circulation. The contradiction is resolved through price inflation which reasserts the dominance of the endogenously determined amount of the circulating medium. For Marx, fiat money hyperinflation results from the very endogeneity of monetary circulation. Naturally, this cannot take place instantaneously. It is, rather, a gradual process of one commodity forcing the change onto the price of another through their contact in exchange, starting with the commodities whose path in exchange is closely connected to the source of fresh additions to the quantity of fiat money. Such commodities could conceivably vary from the consumption goods of state employees to armaments."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u062"
+      ],
+      "page": "34"
+    },
+    {
+      "id": "ch02-u063",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本节要讨论的最后一个问题，德·布吕诺夫已经提出过："
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The last issue to be discussed in this section has already been posed by De Brunhoff:"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u063"
+      ],
+      "page": "34"
+    },
+    {
+      "id": "ch02-u064",
+      "canonical_kind": "quote",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "《资本论》对纸币的分析并不清楚。法定纸币毫无疑问是货币。但很难说它究竟是帕累托后来所说的“假货币”，还是其货币角色完全派生自黄金的真货币。",
+            {
+              "type": "note",
+              "id": "n_ch02_034",
+              "label": "34"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "quote",
+          "children": [
+            "The analysis of paper money is not clear in",
+            {
+              "type": "em",
+              "children": [
+                " Capital"
+              ]
+            },
+            ". Paper fiat money is without any doubt money. But it is hard to tell whether it is ‘false money’ as Pareto was later to say, or true money whose monetary role is entirely derivative from that of gold.",
+            {
+              "type": "note",
+              "id": "n_ch02_034",
+              "label": "34"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u064"
+      ],
+      "page": "34",
+      "indent": true
+    },
+    {
+      "id": "ch02-u065",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而，德·布吕诺夫关于“真”“假”货币的区分是错置的。理论的问题不是以黄金为基准给各种货币形式的社会有效性分等级，而是展示各种货币形式的演化路径，考察这些形式在多大程度上适当地对应货币的职能。法定货币——应当再次强调，银行券与这种货币有质的区别——是把流通手段职能拉伸到极限的结果，在这个意义上，它同黄金一样是“真”的货币形式。不过，法定货币不以信用关系为前提；因此它产生于交换的相当低的水平，此时信用体系不起压倒性作用。如下文所见，信用体系的发展通过普及信用货币的使用而取代法定货币。同理，如果信用体系受到极大的震荡，例如在战争时期，法定货币也可能出现。它对于流通职能的社会适当性的界限，恰恰在恶性通货膨胀的趋势中展示出来，这既证明这种货币固有的不稳定性，也证明货币表现价值的能力由交换过程以一种病理的方式恢复。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "De Brunhoff’s distinction between ‘true’ and ‘false’ money, however, is misplaced. The problem for theory is not to grade the social validity of the various forms of money, with gold as the benchmark. It is, rather, to demonstrate the path of evolution of the various forms of money, and to examine how adequately these forms correspond to money’s functions. Fiat money – it should be stressed again that banknotes are qualitatively different from such money – results from stretching the function of means of circulation to its limits, and in this sense it is as ‘true’ a form of money as gold. Nevertheless, fiat money presupposes no credit relations; as a result it arises at a rather low level of exchange where the credit system plays no overwhelming role. The development of the credit system supersedes fiat money by generalising the use of credit money, as we shall see below. By the same token, fiat money could also emerge if the credit system were extraordinarily shaken, e.g. in time of war. The limits of its social adequacy for the circulating function are demonstrated precisely in the tendency to hyperinflation, a testament to the inherent instability of such money as well as the pathological way in which money’s ability to express value is restored by the process of exchange."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u065"
+      ],
+      "page": "34–35"
+    },
+    {
+      "id": "ch02-u066",
+      "canonical_kind": "heading",
+      "zh": [
+        "ii 信用货币的推导与特征"
+      ],
+      "en": [
+        "ii The Derivation and Characteristics of Credit Money"
+      ],
+      "source_ids": [
+        "ch02-u066"
+      ],
+      "page": "35",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch02-u067",
+      "canonical_kind": "subheading",
+      "zh": [
+        "信用对货币形式与职能的影响"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "The Impact of Credit on the Forms and Functions of Money"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u067"
+      ],
+      "page": "35",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch02-u068",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "迄今为止，我们基于马克思本人的分析考察了真正货币的基本形式。本节将把这一分析扩展到更高级的、并且我们将论证是资本主义特有的货币形式。我们把后者称为信用货币，以表明信用关系对资本主义货币性质的决定性影响。信用货币的两种形式特别重要：银行券和存款货币。这里主张，这些货币形式及其执行的职能之所以取得其特殊性质，是资本主义交换中两种趋势的结果：(a)商业（或流通）信用关系的普遍化；(b)货币（或银行）信用关系的普遍化。我们将会看到，这些关系实质性地影响着资本主义交换的货币中介的内生性质。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "We have so far considered the elementary forms of money-proper, based on Marx’s own analysis. In this section we will extend this analysis to include more advanced and, it will be argued, specifically capitalist forms of money. The latter we will call credit money to indicate the determining influence of credit relations on the character of capitalist money. Two forms of credit money are of particular importance: banknotes, and deposit money. It is contended here that these forms of money and the functions which they perform assume their specific character as a result of two trends in capitalist exchange: (a) the generalisation of commercial (or circulation) credit relations; (b) the generalisation of monetary (or banking) credit relations. As we shall see, these relations materially influence the endogenous character of the monetary mediation of capitalist exchange."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u068"
+      ],
+      "page": "35"
+    },
+    {
+      "id": "ch02-u069",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "信用和信用体系问题在马克思主义经济学中绝非没有争议。",
+            {
+              "type": "note",
+              "id": "n_ch02_035",
+              "label": "35"
+            },
+            "不过，就我们的目的而言，只需区分商业信用与货币信用就够了。前者我们已经引入，是凭支付承诺而不是凭货币预付商品。后者是为赚取利息而贷放货币。经常性的货币信用贷放是生息资本的专门领域，即专门用于贷借、区别于产业资本和商人资本的资本。",
+            {
+              "type": "note",
+              "id": "n_ch02_036",
+              "label": "36"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The issues of credit and the credit system are by no means uncontroversial in Marxist economics.",
+            {
+              "type": "note",
+              "id": "n_ch02_035",
+              "label": "35"
+            },
+            " However, it will suffice for our purposes simply to distinguish between commercial and monetary credit. The former, which we have already introduced, is the advance of commodities against a promise to pay rather than money. The latter is the lending of money with a view to earning interest. Regular advance of monetary credit is the special province of interestbearing capital, i.e. capital specifically lent and borrowed and distinct from industrial and merchants’ capital.",
+            {
+              "type": "note",
+              "id": "n_ch02_036",
+              "label": "36"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u069"
+      ],
+      "page": "35",
+      "review": "原文“interestbearing”为OCR连写，应为“interest-bearing”。"
+    },
+    {
+      "id": "ch02-u070",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这里还需要马克思主义文献中已充分确立的两个前提。第一，资本主义交换的特殊性源于这样一个事实：在其中不断交换的货币和商品同时也是资本的形式；因此它们的相互作用包含剩余价值（更准确地说是利润）的实现和分配。",
+            {
+              "type": "note",
+              "id": "n_ch02_037",
+              "label": "37"
+            },
+            "第二，参与其中的各资本单位承受着外在的竞争压力，要缩短其流通时间（在交换领域中度过的时间），实现其剩余价值，并尽可能迅速地开始新的循环。",
+            {
+              "type": "note",
+              "id": "n_ch02_038",
+              "label": "38"
+            },
+            "除上述之外，前面已经说过，商业信用不经货币介入而把不同资本的循环连接起来。剩余价值凭支付承诺得到实现，生产重新开始，即不需要事先占有货币。这样，流通时间缩短，各单个资本循环的完成加速。",
+            {
+              "type": "note",
+              "id": "n_ch02_039",
+              "label": "39"
+            },
+            "马克思把加快单个资本从而社会总资本的循环，认定为商业信用在资本主义交换中的社会作用，这种信用成为快速积累的条件。",
+            {
+              "type": "note",
+              "id": "n_ch02_040",
+              "label": "40"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Two further premises, well established within Marxist literature, are necessary at this point. The first is that the specificity of capitalist exchange derives from the fact that the money and commodities continually exchanging within it are also forms of capital; hence their interaction contains the realisation and distribution of surplus value (more accurately, profit).",
+            {
+              "type": "note",
+              "id": "n_ch02_037",
+              "label": "37"
+            },
+            " The second is that the participating units of capital are under external competitive pressure to shorten their circulation time (time spent in the sphere of exchange), to realise their surplus value and to start new circuits as rapidly as possible.",
+            {
+              "type": "note",
+              "id": "n_ch02_038",
+              "label": "38"
+            },
+            " In addition to the above, it was already stated that commercial credit connects the circuits of different capitals without the intervention of money. Surplus value is realised and production restarted against promises to pay, i.e. without the need for prior possession of money. Thus, circulation time is reduced and the completion of the circuits of individual capitals is accelerated.",
+            {
+              "type": "note",
+              "id": "n_ch02_039",
+              "label": "39"
+            },
+            " Marx identified the speeding up of the circuits of individual capitals, and thus of the total social capital, as the social role of commercial credit in capitalist exchange, such credit becoming a condition for rapid accumulation.",
+            {
+              "type": "note",
+              "id": "n_ch02_040",
+              "label": "40"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u070"
+      ],
+      "page": "36"
+    },
+    {
+      "id": "ch02-u071",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "由此产生的商业信用的普遍化，以两种不同但相关的方式深刻影响货币在资本主义交换中的运行。第一，商业信用在交易中直接用单纯的支付承诺取代货币，从而否定货币作为流通手段的作用。由此可见，随着商业信用关系渗透交换，流通手段职能在资本主义交换中的重要性相应下降。第二，商业债务的存在立即提出债务清偿的需要。一般来说，商业债务到期时，尽管普遍地相互冲销，仍会有一些货币必须进入交换以结清剩余债务。因此，随着商业信用渗透交换，支付手段职能被推上支配地位。于是我们的第一个结果是：在资本主义交换中，与简单交换相反，存在一种趋势，即货币用于清偿债务而不是流通商品。如下文将论证的，支付手段逐渐上升为货币的支配职能，对应于资本主义特有货币即信用货币的出现。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The resultant generalisation of commercial credit profoundly affects the functioning of money in capitalist exchange in two distinct but related ways. First, commercial credit directly replaces money in transactions with mere promises to pay and thus negates money’s role as means of circulation. It follows that the latter function loses its significance in capitalist exchange commensurately with the permeation of such exchange by commercial credit relations. Second, the existence of commercial debts immediately poses the need for debt settlement. In general, when commercial debts mature, despite widespread cancellation against each other, some money will have to enter exchange to settle residual obligations. Thus, as commercial credit permeates exchange, the function of means of payment is propelled into dominance. So our first result is that in capitalist exchange, in contradistinction to simple exchange, there is a trend for money to settle debts rather than to circulate commodities. As we shall argue below, the gradual elevation of means of payment into the dominant function of money corresponds to the emergence of specifically capitalist money, i.e. credit money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u071"
+      ],
+      "page": "36–37"
+    },
+    {
+      "id": "ch02-u072",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对我们目的重要的第二种趋势，是货币（银行）信用关系在资本主义交换中的普遍化。我们的分析从各单个资本在其循环过程中系统性地生成货币贮藏出发。这些贮藏来自留存的利润、计提折旧的固定资本、流通时间的缩短等等。",
+            {
+              "type": "note",
+              "id": "n_ch02_041",
+              "label": "41"
+            },
+            "这些停滞的货币连同个人储蓄，为银行业的成长提供了原料和潜力。对马克思主义货币理论来说，银行业的一个规定性方面，是把社会的贮藏货币集中起来，转化为生息资本，随后作为货币信用贷放出去。原则上，借入的资本家把借得的资金用于扩大现有循环、开始新的资本循环，或者仅仅用于满足支付需要。这些资金的再循环增大了社会总资本的积累。这一过程的核心货币职能是形成贮藏，为货币信用提供基础。资本的实际积累越是促进银行业的成长，贮藏形成职能就越发占支配地位。我们稍后将更详细地考察这一点。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The second trend that is important for our purposes is the generalisation of monetary (banking) credit relations in capitalist exchange. Our analysis departs from the systematic generation of hoards of money as individual capitals traverse their circuits. Such hoards result from retained profits, amortised fixed capital, the shortening of circulation time, and so on.",
+            {
+              "type": "note",
+              "id": "n_ch02_041",
+              "label": "41"
+            },
+            " Together with personal savings, such stagnant money provides the raw material and the potential for the growth of banking. For Marxist monetary theory, a defining aspect of banking is the collection of society’s hoarded money, its transformation into interest-bearing capital, and its subsequent advance as monetary credit. In principle, borrowing capitalists use the funds borrowed to expand existing circuits and to start new circuits of capital, or simply to meet payment requirements. The recycling of these funds augments the accumulation of the total social capital. The function of money central to this process is the formation of hoards which provide the basis for monetary credit. To the degree to which the real accumulation of capital fosters the growth of banking, the function of hoard formation becomes increasingly dominant. We will consider this in more detail later."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u072"
+      ],
+      "page": "37"
+    },
+    {
+      "id": "ch02-u073",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "银行券和存款信用货币的出现，与支付职能和贮藏职能在资本主义交换中占支配地位密切相关。我们先考察银行券信用货币，然后转向存款货币。这里的出发点是资本对拥有支付手段以清偿债务的经常需要。这种需要使职能资本走向作为可贷货币控制者的银行。商业信用的一个主要方面是汇票（对商业债务人开出的书面支付命令）的普遍使用，这里用这个词的广义，指一切形式的商业借据。在最简单的层面上，职能资本家通过银行贴现汇票而获得银行券形式的必要支付手段。信用货币这样出现：银行作出支付承诺（即公众对银行的债权），由银行发行出来充当支付手段。对银行来说，这种贷放实际上是贷放其生息资本，要求按贴现率所表示的利息率支付利息。因此，尽可能抽象地看，银行券形式的信用货币出现在商业信用与货币信用相衔接的点上。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The emergence of banknote and deposit credit money is closely connected to the dominance of the payment and hoarding functions in capitalist exchange. We will first consider banknote credit money and then turn to deposit money. The starting point here is the constant need of capitals to possess means of payment for debt settlement. This need brings functioning capitals to banks as controllers of money for loan. Now, a major aspect of commercial credit is the generalised use of bills of exchange (written drafts on commercial debtors), the term used here in a generic sense to denote all forms of commercial iou. At the simplest level, functioning capitalists find the requisite means of payment in the form of banknotes supplied by banks against the discounting of bills of exchange. Credit money emerges as promises to pay are made by the banks (i.e. as claims by the public on banks) which are issued by the banks for use as means of payment. For the banks this advance is in reality the advance of their interest-bearing capital, commanding the payment of the rate of interest as expressed in the discount rate. Thus, treated as abstractly as possible, credit money in the form of the banknote emerges at the point at which commercial credit is articulated with monetary credit."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u073"
+      ],
+      "page": "37",
+      "review": "原文“iou”即IOU（借据），OCR以小写呈现。"
+    },
+    {
+      "id": "ch02-u074",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这里需要一个方法论说明。观察到现代银行券并不是向银行贴现汇票的产物，并不算特别深刻。然而，这绝不意味着上述推导是无关紧要的经济史练习。马克思主义经济学的方法是在最纯粹、最简单的层面上展示经济范畴的矛盾性质。就银行券信用货币而言，它的出现必须被理解为信用体系基本运作的结果，而不是国家控制的中央银行任意干预货币发行的结果。因此我们必须假定多家银行竞争发行信用货币的条件。如果我们不能在这样的条件下分析信用货币的基本特征，那么在中央银行垄断银行券发行这一更发达的条件下，我们肯定更不能分析它们。下文将考察这些特征，并考虑国家干预信用货币发行的某些含义。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "A methodological comment is necessary here. It is not particularly profound to observe that the modern banknote is not the product of discounting bills with banks. This, however, does not at all imply that the above derivation is an irrelevant exercise in economic history. The method of Marxist economics is to demonstrate the contradictory nature of economic categories at their purest and simplest level. In the case of banknote credit money, its emergence has to be understood as the outcome of the fundamental operations of the credit system, and not as a result of arbitrary state-controlled central bank intervention in the issuing of money. Thus we have to assume conditions of competitive issue of credit money by several banks. If we cannot analyse the fundamental traits of credit money under such conditions, we certainly cannot analyse them under the more developed conditions of central bank monopoly in banknote issue. Below we will examine those traits and consider some of the implications of state intervention in the issuing of credit money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u074"
+      ],
+      "page": "38"
+    },
+    {
+      "id": "ch02-u075",
+      "canonical_kind": "subheading",
+      "zh": [
+        "信用货币流通的特征"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Characteristics of Credit Money Circulation"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u075"
+      ],
+      "page": "38",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch02-u076",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在第i节，我们在流通手段职能占支配地位的条件下，考察了黄金和法定货币的流通路径与数量。下文我将论证，银行券——以及存款货币——这些方面的决定在性质上是不同的。也许最重要的结果是，信用货币对交换的中介的内生性质更为复杂。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In Section i, we considered the path and quantity of gold and fiat money in circulation, given the dominance of the function of means of circulation. Below I will argue that the determination of these aspects for banknotes – and deposit money – is qualitatively different. Perhaps the most important result is the greater complexity of the endogenous character of the mediation of exchange by credit money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u076"
+      ],
+      "page": "38"
+    },
+    {
+      "id": "ch02-u077",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在最简单的层面，即银行券信用货币竞争发行的层面，随着银行进行其惯常的贴现业务，存在众多的交换进入点。一旦进入交换，信用货币走的是循环路径，与真正货币相反。换句话说，信用货币倾向于返回其进入点，并经常性地退出交换领域。两个因素引致这种运动。第一，公众对银行的债务到期，如汇票、其他借据和直接贷款。这类债务的不断清偿，保证每期都有一部分流通银行券同样不断地返回银行。这种运动被富拉顿精辟地概括为银行券的“回流规律”。",
+            {
+              "type": "note",
+              "id": "n_ch02_042",
+              "label": "42"
+            },
+            "第二，随着货币贮藏在整个交换领域中形成，银行券也返回其发行者。银行对贮藏货币的集中，倾向于把银行券带回银行存入。",
+            {
+              "type": "note",
+              "id": "n_ch02_043",
+              "label": "43"
+            },
+            "这样，以银行券形式持有的对银行的债权，转化为存款货币，即另一种类型的对银行债权。这两种趋势的结果是，信用货币在交换中的路径是循环的，这一特征在中央银行控制其发行后仍然保留。马克思只是提示过信用货币的循环路径。",
+            {
+              "type": "note",
+              "id": "n_ch02_044",
+              "label": "44"
+            },
+            "这一循环路径把银行券与在交换中走完全随机路径的黄金区别开来。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "At the simplest level, that of competitive issue of banknote credit money, a multitude of points of entry into exchange exists as banks perform their customary discounting operations. Once in exchange, credit money follows a circular path, contrary to money-proper. To put it differently, credit money tends to return to its points of entry and regularly to vacate the sphere of exchange. Two factors induce this type of movement. First, the maturing of debts owing to banks by the public, such as bills, other ious and outright loans. The continuous settlement of such debts ensures the equally continuous return of part of the circulating banknotes to the banks per period. This type of movement was elegantly summarised by Fullarton as the ‘law of the reflux’ of the banknote.",
+            {
+              "type": "note",
+              "id": "n_ch02_042",
+              "label": "42"
+            },
+            " Secondly, banknotes also return to their issuers as hoards of money are created across the sphere of exchange. The gathering of hoarded money by banks tends to bring banknotes back to the banks to be deposited.",
+            {
+              "type": "note",
+              "id": "n_ch02_043",
+              "label": "43"
+            },
+            " In this way claims held against banks in the form of banknotes are transformed into deposited money, a different type of claim on banks. The result of those two tendencies is that the path of credit money in exchange is circular, a characteristic which it retains under central bank control of its issue. The circular path of credit money has only been hinted at by Marx.",
+            {
+              "type": "note",
+              "id": "n_ch02_044",
+              "label": "44"
+            },
+            " Its circular path distinguishes the banknote from gold, which follows a totally random path in exchange."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u077"
+      ],
+      "page": "38–39"
+    },
+    {
+      "id": "ch02-u078",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "就流通数量而言，银行券信用货币的性质同样有别于真正货币。就直接层面而言，它每期的数量由发行与退出交换这两个对立过程决定。然而与黄金不同，这些流量不是直接而且仅仅由不断把货币吸入和排出贮藏的交换内部因素——如商品价值和货币流通速度——决定的。毋宁说，这些流量还是随着实际资本积累的进行而发生的信用操作的余额。因此，决定这种信用货币数量的内生因素，比影响金属货币流量的因素复杂得多，对它们的完整研究属于信用理论。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As regards its quantity in circulation, banknote credit money is again distinct in its properties from money-proper. At one remove, its quantity per period is determined by the antithetical processes of issue and withdrawal from exchange. In contrast to gold, however, these flows are not determined directly and solely by internal exchange factors – such as commodity values and money velocity – which constantly attract and repel money from hoards. Rather, the flows are also the residual of credit operations that take place as real capital accumulation proceeds. The endogenous factors that determine the quantity of such credit money, therefore, are substantially more complex than those influencing the flows of metallic money and their complete study belongs to credit theory."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u078"
+      ],
+      "page": "39"
+    },
+    {
+      "id": "ch02-u079",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "仅仅为了指示所涉内生因素的类型，请注意：信用货币流出量的大小取决于商业信用的可得性及其随商业周期的变动，也取决于银行贴现贷放的周期性行为。同理，信用货币回流量的大小取决于工业销售的经常性，正是这种经常性使债务清偿和向银行贮藏成为可能。这同样是一个随商业周期变动的因素。除商业周期的考虑外，历史和制度因素也影响信用货币的流量。银行体系对交换的渗透程度及其在清算债务和集中贮藏方面的效率，是历史地形成的，不能一开始就假定。尤其是，信用货币仍然是一种社会约定，因此容许国家干预其流量。对信用体系运作的立法、行政或纯财务干预，都会影响其流通数量的决定。上述这类影响与交换的内部逻辑无关，而且比后者宽泛得多。因此，信用货币的流通数量不能像我们给黄金的那种决定一样得到精确的理论规定。信用货币当然不是永久禁锢在交换中的法定货币。然而，其流量的大小和规则性，取决于信用与实际积累的衔接以及信用体系的制度发展。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Purely as an indication of the type of endogenous factors involved, note that the size of credit money outflow depends on the availability of commercial credit and the latter’s variability over the trade cycle. It also depends on the cyclical behaviour of bank advances for discounting. By the same token, the size of credit money reflux depends on the regularity of industrial sales which allow debt settlement and hoarding with banks. This again is a factor that varies with the trade cycle. In addition to trade-cycle considerations, historical and institutional factors also affect the flows of credit money. The extent of penetration of exchange by the banking system and the latter’s efficiency in clearing debts and gathering hoards are historically conditioned, and cannot be assumed at the outset. Above all, credit money is still a social convention and as such admits of state interference with its flows. Legislative, administrative or purely financial intervention in the operations of the credit system affect the determination of its circulating quantity. Influences such as the above are unrelated to the internal logic of exchange and are substantially broader than the latter. For this reason, the quantity of credit money in circulation does not admit of as precise a theoretical determination as the one we have given for gold. Credit money is certainly not fiat money, permanently trapped in exchange. Nevertheless, the magnitude and regularity of its flows are conditional on the articulation of credit with real accumulation and on the institutional development of the credit system."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u079"
+      ],
+      "page": "39–40"
+    },
+    {
+      "id": "ch02-u080",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "信用货币流量与利息率的联系问题在这里出现。在正统经济理论中，货币供给的内生性通常被理解为它对利息率的函数依赖。应当注意，对马克思——以及李嘉图——来说，真正货币数量的决定与利息率无关。利息率由生息资本的运动决定，对后者的分析必须在比货币流通低得多的抽象层面上进行。然而对信用货币来说，与利息率的联系问题之所以出现，恰恰因为信用货币与生息资本的运动有有机的联系。",
+            {
+              "type": "note",
+              "id": "n_ch02_045",
+              "label": "45"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The question of the link between the flows of credit money and the rate of interest arises at this point. In orthodox economic theory, endogeneity of the supply of money is usually taken to mean its functional dependence on the rate of interest. It should be noted that for Marx – and Ricardo",
+            {
+              "type": "note",
+              "id": "n_ch02_045",
+              "label": "45"
+            },
+            " – determination of the quantity of money-proper is unrelated to the rate of interest. The rate of interest is determined by the movement of interest-bearing capital, the analysis of which has to be done at a considerably less abstract level than that of monetary circulation. For credit money, however, the issue of the link with the rate of interest emerges precisely because credit money is organically connected to the movement of interest-bearing capital."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u080"
+      ],
+      "page": "40"
+    },
+    {
+      "id": "ch02-u081",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这里有两个重要论点。第一，就信用货币的一般特征——主要是其循环路径——而言，利息率在分析上是无关的。这些特征是参照信用的基本性质即贷放与偿还推导出来的。第二，对利息率与信用货币流量之间联系的分析，必须以马克思对“自然利息率”概念的拒斥、以及他关于利息率完全由生息资本供求的偶然力量决定的论点为依据。",
+            {
+              "type": "note",
+              "id": "n_ch02_046",
+              "label": "46"
+            },
+            "后者的结构性决定因素——如贮藏倾向、利润率的运动、商业信用的周期性行为——位于实际积累过程之内，必须首先加以分析。就我们的目的而言，由此产生的生息资本的运动同时也就是信用货币的创造。因此在分析的起点，利息率和信用货币流量应被视为由实际积累内部的先行因素同时决定，而不是前者决定后者。所以，在这一抽象层面上，重要的是指出内生于积累过程的因素，例如上面已经提到的那些，它们一般地影响信用货币的供给和需求。利息率根本不必在分析中出现。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There are two important points to be made here. First, as far as the general features of credit money are concerned – primarily its circular path – the rate of interest is analytically irrelevant. These features are derived by reference to the elementary properties of credit, i.e. advance and repayment. Second, the analysis of the connection between the rate of interest and the flows of credit money has to be informed by Marx’s rejection of the concept of a ‘natural rate’ of interest, and by his argument that the rate of interest is determined entirely by the contingent forces of demand for and supply of interest-bearing capital.",
+            {
+              "type": "note",
+              "id": "n_ch02_046",
+              "label": "46"
+            },
+            " The structural determinants of the latter – such as the tendency to hoard, the movement of the rate of profit, the cyclical behaviour of commercial credit – lie within the process of real accumulation and have to be analysed first. For our purposes, the resultant movement of interest-bearing capital is also, and at the same time, the creation of credit money. Thus, at the start of the analysis, the rate of interest and the flows of credit money should be seen as simultaneously determined by prior factors within real accumulation, and not as the former determining the latter. What, therefore, matters at this level of abstraction is to indicate factors endogenous to the process of accumulation, such as the ones already mentioned above, which generally influence the supply of and demand for credit money. The rate of interest need not appear at all in the analysis."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u081"
+      ],
+      "page": "40–41"
+    },
+    {
+      "id": "ch02-u082",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "以这种方式提出信用货币流量问题，会得出一个重要后果。每一时期，交换领域按恒等式(1)都面临一个确定的流通货币需要量。信用货币可以连同其他流通货币一起满足其全部或一部分。然而，实际处于流通中的信用货币数量也由信用操作决定，其方式相当独立于狭义的交换内部因素。这个数量的决定是否具有规则性，以及是否处于合意的水平，不能一开始就得到一般保证。它与黄金的比例关系，从而价格名目的稳定，是由信用体系不断重新确立的。信用体系的制度弱点，例如在清算债务和审核贴现方面，可能任意改变流通数量。国家对发行和回流的直接操纵也可能造成同样的结果。肆无忌惮地发行信用货币加上回流不畅，会使流通量膨胀，造成类似于法定货币的价格紊乱。换句话说，信用货币与它所取代的黄金的关系固有不稳定，因为它建立在信用与实际积累的易变整合之上，马克思曾一闪而过地提示过这一点。",
+            {
+              "type": "note",
+              "id": "n_ch02_047",
+              "label": "47"
+            },
+            "即使没有国家对信用货币流量的干预，这种不稳定性也存在；然而，草率的国家干预——例如为了支付国家消费——可能加剧它。对于资本主义发展水平较低、预算赤字庞大、尤其严重依赖广泛银行券流通的国家，干预信用货币的流通可能导致经常性的价格膨胀。",
+            {
+              "type": "note",
+              "id": "n_ch02_048",
+              "label": "48"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "An important consequence follows from posing the issue of credit money flows in these terms. In every period the sphere of exchange faces a definite requirement for circulating money according to identity (1). Credit money might meet all or part of this, together with other circulating money. Yet the quantity of credit money that in actuality finds itself in circulation is also determined by credit operations, in a manner quite independent of narrow internal exchange factors. Whether this quantity achieves regularity in its determination, and if so at the desired level, cannot be generally guaranteed at the outset. Its proportionate relationship to gold, and hence the stability of the nomenclature of prices, is constantly re-established by the credit system. Institutional weaknesses of the credit system, for instance in clearing debts and in vetting discounts, could arbitrarily alter the circulating quantity. Plain state tampering with issue and reflux could have the same result. Unscrupulous issue of credit money and problematic reflux would swell the amount in circulation and result in price upsets similar to those for fiat money. Credit money, in other words, is inherently unstable in its relationship to the gold it replaces, based as it is on the volatile integration of credit with real accumulation, as was fleetingly suggested by Marx.",
+            {
+              "type": "note",
+              "id": "n_ch02_047",
+              "label": "47"
+            },
+            " This instability exists even without state interference in the flows of credit money; however, careless state intervention – for instance in order to pay for state consumption – could potentially increase it. For countries at a lower level of capitalist development, with substantial budget deficits and heavily reliant on extensive banknote circulation in particular, regular price inflation might result from interfering with the circulation of credit money.",
+            {
+              "type": "note",
+              "id": "n_ch02_048",
+              "label": "48"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u082"
+      ],
+      "page": "41"
+    },
+    {
+      "id": "ch02-u083",
+      "canonical_kind": "subheading",
+      "zh": [
+        "信用货币的进一步发展"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "The Further Development of Credit Money"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u083"
+      ],
+      "page": "42",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch02-u084",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "为了确立前述分析对现代信用货币的相关性，这里必须处理两个相关问题。第一，分析必须能够解释银行券信用货币发行的日益集中。必须考察由中央银行垄断银行券发行、并受国家密切监督的意义。第二，我们必须从存款信用货币自身的特征、以及银行券在发达资本主义交换中作用下降这两方面，讨论存款信用货币日益占优势的趋势。我们不能指望充分分析这些，但可以勾勒发展的模式，并指出未来工作的领域。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Two related issues have to be tackled at this point in order to establish the relevance of the preceding analysis for modern credit money. First, the analysis has to be able to explain the increasing centralisation of the issue of banknote credit money. The significance of the monopoly of banknote issue by the central bank, closely monitored by the state, has to be examined. Second, we have to discuss the increasing predominance of deposit credit money in terms of the characteristics of the latter and in terms of the reduced role of the banknote in advanced capitalist exchange. We cannot hope to analyse these fully, but we can sketch the pattern of development and point out areas for future work."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u084"
+      ],
+      "page": "42"
+    },
+    {
+      "id": "ch02-u085",
+      "canonical_kind": "subsubheading",
+      "zh": [
+        "a 中央银行对银行券的垄断"
+      ],
+      "en": [
+        "a Central Bank Monopoly of Banknotes"
+      ],
+      "source_ids": [
+        "ch02-u085"
+      ],
+      "page": "42",
+      "type": "subheading",
+      "level": 3
+    },
+    {
+      "id": "ch02-u086",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "按照前述分析的思路，这种垄断的出现必须被解释为银行券流通过程本身的结果，而不是一个任意的事件。这种垄断出现的根本原因，是银行券流通中支付手段固有的普遍性与私人银行券的特殊性之间的矛盾。一方面，支付手段必须随时随地在资本家之间适当地转移价值。作为支付手段，货币从外部现身于交换来清偿债务；它的实际在场是至关重要的事情。必须收受货币本身，债务才能最终清偿；因此货币必须具有一般的而非特殊的方面。要胜任支付这一社会任务，货币作为货币必须被普遍接受。另一方面，私人银行券的活动范围总是狭窄的；其一般性受到有限的地域流通范围、以及在每家银行直接影响圈之外必然可疑的可接受性的限制。私人银行券毕竟只是银行的一纸私人支付承诺，而银行的资信不可能立即具有一般性。因此，它狭隘的地方性，不能不持续挫败它在交换中扮演一般角色的企图。于是，银行券所要求的普遍性与私人银行券的狭窄范围之间产生了矛盾。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In the vein of the preceding analysis, the emergence of such monopoly has to be explained as the result of banknote circulation processes themselves, rather than as an arbitrary event. The fundamental cause of the emergence of this monopoly is the contradiction in banknote circulation between the universality inherent in means of payment, and the particularity of private banknotes. On the one hand, the means of payment have adequately to transfer value among capitalists at all times and all places. As means of payment, money meets obligations by appearing in exchange from without; its actual presence is the all-important thing. Money as such has to be received in order for debts to be settled finally; hence money has to have a general rather than a particular aspect. To be adequate to the social task of making payments, money as money has to be universally acceptable. On the other hand, the private banknote invariably has a narrow ambit; its generality is circumscribed by limited geographical circulation and its necessarily doubtful acceptability outside each bank’s immediate circle of economic influence. The private banknote is, after all, a mere private promise to pay by a bank, the creditworthiness of which cannot be immediately general. Its narrowly local character, therefore, cannot but continually frustrate its attempt to play a general role in exchange. A contradiction arises between the required generality of the banknote and the narrow ambit of the private banknote."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u086"
+      ],
+      "page": "42"
+    },
+    {
+      "id": "ch02-u087",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "资本主义交换寻求对这一现实矛盾的实际解决。实际的解决是一种能够超越狭窄私人界限、成为普遍接受的支付手段的单一银行券。这样看来，交换过程必须把一家银行的发行变成一般的支付手段。显然，这家银行应当具有非凡的资信，使其支付承诺获得普遍的可接受性。因此，早在英格兰银行的正式发行垄断权立法颁布、它逐渐转变为中央银行之前很久，英格兰银行券就已经是伦敦市场——这是该行最初特许状赋予的特权——以及英格兰各工业区公认的支付手段。交换过程本身倾向于使一家银行的支付承诺脱颖而出，这就为国家以自身资信为这些承诺提供后盾开辟了道路。国家对银行券发行的支持克服了银行券的特殊性，把它变成一般的支付手段。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Capitalist exchange seeks a practical resolution to this real contradiction. The practical resolution is a single banknote which can transcend narrow private limits and become the universally acceptable means of payment. Seen in this manner the process of exchange has to turn the issue of one bank into the general means of payment. It is clear that this bank should have exceptional creditworthiness, which will give its promises to pay general acceptability. Thus, Bank of England notes were the recognised means of payment in the London markets – a privilege afforded in the Bank’s original Charter – as well as in the industrial areas of England, long before the enactment of its formal monopoly of issue and its gradual transformation into a central bank. The process of exchange by itself tends to isolate one bank’s promises to pay, and this opens the way for the state to back those promises with its own creditworthiness. State backing of banknote issue overcomes the banknote’s particularity and turns it into a general means of payment."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u087"
+      ],
+      "page": "42–43"
+    },
+    {
+      "id": "ch02-u088",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "私人银行券流通中的矛盾在货币危机期间表现得格外尖锐。对马克思来说，这种危机的特征是清偿债务和履行商业支付义务的需要压倒一切；因此支付手段成为货币的支配职能。",
+            {
+              "type": "note",
+              "id": "n_ch02_049",
+              "label": "49"
+            },
+            "私人银行券在试图执行其危机职能时，不断撞上其狭窄可接受性的界限。它于是迫使交换寻求一种银行券作为普遍的支付手段。在19世纪的所有危机中，绝对必需的、决定性地化解货币恐慌的支付手段，是英格兰银行的银行券而不是其他银行的银行券。",
+            {
+              "type": "note",
+              "id": "n_ch02_050",
+              "label": "50"
+            },
+            "货币危机充当了使一种银行券的可接受性普遍化、加强其普遍支付手段作用的杠杆。这使国家更容易为一种银行券提供支持并集中其发行。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The contradiction in the circulation of the private banknote becomes sharply apparent during monetary crises. For Marx, such crises are characterised by the paramount need to settle debts and to pay for commercial obligations; hence means of payment becomes money’s dominant function.",
+            {
+              "type": "note",
+              "id": "n_ch02_049",
+              "label": "49"
+            },
+            " The private banknote continually faces the limits of its narrow acceptability as it attempts to perform its crisis function. It thus forces exchange to seek one banknote as the universal means of payment. In all the crises of the nineteenth century, the banknotes of the Bank of England, rather than those of other banks, were the absolutely necessary means of payment, which decisively resolved monetary panics.",
+            {
+              "type": "note",
+              "id": "n_ch02_050",
+              "label": "50"
+            },
+            " Monetary crises act as levers for generalising the acceptability of one banknote and strengthening its role as the universal means of payment. This makes it easier for the state to give its backing to one banknote and centralise its issue."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u088"
+      ],
+      "page": "43"
+    },
+    {
+      "id": "ch02-u089",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这里显而易见，现代信用货币理论与中央银行理论有很大的重叠，而后者不是我们关心的问题。我们只想分离出中央银行控制信用货币兴起的主要原因，即交换为信用生成的支付手段确保必要普遍性的趋势。不过应当强调，提供这种货币的中央银行并不是以毫无问题、简单的方式出现的。这个过程充满政治和经济的复杂性，可能慢得令人痛苦，美国和意大利就是例子。",
+            {
+              "type": "note",
+              "id": "n_ch02_051",
+              "label": "51"
+            },
+            "特定国家把一家银行的发行提升为一般支付手段的难易程度，只能具体地、历史地回答。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is apparent at this point that the theory of modern credit money overlaps greatly with the theory of central banking which is not our concern. We simply want to isolate the chief cause of the rise of central bank control over credit money, namely, the tendency of exchange to secure the universality necessary to credit-generated means of payment. It should, nevertheless, be emphasised that central banks which provide such money do not emerge in an unproblematic and simple fashion. The process is laden with political as well as economic complexities and can be agonisingly slow, as in the cases of the usa and Italy.",
+            {
+              "type": "note",
+              "id": "n_ch02_051",
+              "label": "51"
+            },
+            " How easily particular countries succeed in elevating the issue of one bank into the general means of payment can only be answered concretely and historically."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u089"
+      ],
+      "page": "43–44",
+      "review": "原文“usa”为USA（美国）的OCR小写形式。"
+    },
+    {
+      "id": "ch02-u090",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "完全抽象掉存款货币出现的影响，非常图式化地说，国家控制对银行券有两个重要影响。第一，流通的进入点和退出点缩减为一个：中央银行。信用货币的流量始于并终于中央银行，并通过银行体系的合作获得规则性。特别是银行券向中央银行的回流，成为银行体系的常规业务之一：各单个银行把银行券集中起来，通过普遍化的票据交换体系送回中央银行。其直接结果是，银行券数量的决定获得某种稳定性和规则性，并受中央银行密切监督。",
+            {
+              "type": "note",
+              "id": "n_ch02_052",
+              "label": "52"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Abstracting entirely from the effects of the emergence of deposit money, and very schematically, state control has two significant effects on banknotes. First, the points of entry and exit from circulation are reduced to one, the central bank. The flows of credit money begin and end at the central bank and they are given regularity through the co-operation of the banking system. The reflux of banknotes back to the central bank, in particular, becomes one of the regular operations of the banking system as banknotes are concentrated by individual banks and channelled back to the central bank in a generalised system of clearing. The immediate result of this is a degree of stability and regularity in the determination of banknote quantity, closely monitored by the central bank.",
+            {
+              "type": "note",
+              "id": "n_ch02_052",
+              "label": "52"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u090"
+      ],
+      "page": "44"
+    },
+    {
+      "id": "ch02-u091",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第二，国家干预增大了操纵银行券流量的可能性。国家直接干预银行券发行，使信用货币数量与它所取代的黄金完全不成比例的可能性增大，从而导致价格名目的紊乱。在银行券占货币存量很大部分、且国家预算赤字促使其操纵信用货币发行的国家，这种趋势必然更加明显。因此，国家干预一方面加强了银行券的普遍性，另一方面增大了它固有的潜在不稳定性。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Second, state intervention enhances the possibility of tampering with banknote flows. Direct state interference with the issue of banknotes makes it more likely that the quantity of credit money would be completely out of proportion with the gold it replaces, thus leading to upsets in the nomenclature of prices. This tendency will inevitably be more pronounced in countries where banknotes are a substantial part of the money stock, and where the state runs budget deficits that encourage it to tamper with credit-money issue. Thus state intervention, on the one hand, strengthens the universality of the banknote and, on the other, increases its inherent potential instability."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u091"
+      ],
+      "page": "44"
+    },
+    {
+      "id": "ch02-u092",
+      "canonical_kind": "subsubheading",
+      "zh": [
+        "b 存款货币"
+      ],
+      "en": [
+        "b Deposit Money"
+      ],
+      "source_ids": [
+        "ch02-u092"
+      ],
+      "page": "44",
+      "type": "subheading",
+      "level": 3
+    },
+    {
+      "id": "ch02-u093",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "现在我们可以转向存款制度中货币的支配职能，并为未来的工作指出一些指导线索。本文主张，存款货币对应于贮藏职能上升为支配地位。第一步是表明，银行券信用货币已经包含被完全观念性的对银行债权即存款取代的可能性。随后表明，基于分支银行制扩张的商业信用与货币信用衔接方式的变化，促成存款制度的确立。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "We can now turn to the dominant function of money in the deposit system, and indicate some guidelines for future work. It is argued that deposit money corresponds to the elevation of the hoarding function into dominance. The first step is to show that banknote credit money already contains the possibility of being supplanted by entirely ideal claims on banks, i.e. deposits. Subsequently, it is shown that changes in the articulation of commercial with monetary credit, based on the expansion of branch banking, foster the establishment of a deposit system."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u093"
+      ],
+      "page": "44"
+    },
+    {
+      "id": "ch02-u094",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "由银行券促成的交易，本质上以一般等价物躯体的观念性在场为前提。当银行券介入交换时，一般等价物的占有在参与者之间转移，但实际易手的却是无价值的银行券，即银行——哪怕是中央银行——的一纸支付承诺。这种交易潜在地包含着一种可能性：同样观念性地转移一般等价物，而不同时转移有形的支付承诺。原则上，对银行的债权可以不必采取银行券形式而转移。然而，这一可能性以具有社会意义的方式实现，并不直接来自交易本身的逻辑。要使这一可能性实现、使银行券被取代，银行体系必须成长到足以把货币的贮藏职能推上支配地位。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Transactions facilitated by banknotes are essentially premised on the ideal presence of the body of the universal equivalent. When banknotes intervene in exchange, possession of the universal equivalent is transferred between the participants but what actually changes hands is the valueless banknote, a mere promise to pay by a bank, even if it is the central bank. Contained potentially within the transaction is the possibility of an equally ideal transfer of the universal equivalent but without the simultaneous transfer of corporeal promises to pay. In principle, the claim on the bank could be transferred without it necessarily taking the banknote form. However, realisation of this possibility in a socially significant way does not follow directly from the logic of the transaction itself. For the possibility to be realised and the banknote to be superseded, the banking system has to grow sufficiently to propel the hoarding function of money into dominance."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u094"
+      ],
+      "page": "44–45"
+    },
+    {
+      "id": "ch02-u095",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币贮藏是马克思货币理论的一个关键方面。与凯恩斯不同，马克思不把贮藏当作个人消费选择的余额即个人储蓄，而是当作资本积累的一个系统性方面。",
+            {
+              "type": "note",
+              "id": "n_ch02_053",
+              "label": "53"
+            },
+            "两个例子足以说明这一点。当资本实现的利润超过即期再投资所需时，贮藏在结构上形成。当资本的流通时间缩短、从特定资本循环中释放资金时，贮藏再次形成。",
+            {
+              "type": "note",
+              "id": "n_ch02_054",
+              "label": "54"
+            },
+            "对我们的目的重要的是，贮藏为货币信用和银行体系的成长提供基础。如前所述，银行把贮藏转化为生息资本，从而把货币送回实际积累。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Hoarding of money is a crucial aspect of Marx’s monetary theory. Unlike Keynes, Marx treated hoarding not as a residual of individual consumption choices, i.e. as individual saving, but as a systematic aspect of capital accumulation.",
+            {
+              "type": "note",
+              "id": "n_ch02_053",
+              "label": "53"
+            },
+            " Two examples will suffice to demonstrate the point. Hoards are structurally formed when capitals realise profits in excess of what is required for immediate reinvestment. Hoards are again formed when the circulation time of capital is reduced, releasing funds from particular circuits of capital.",
+            {
+              "type": "note",
+              "id": "n_ch02_054",
+              "label": "54"
+            },
+            " What is important for our purposes is that hoards provide the basis for monetary credit and for the growth of the banking system. As has already been said, banks turn hoards into interest-bearing capital, and so return the money to real accumulation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u095"
+      ],
+      "page": "45"
+    },
+    {
+      "id": "ch02-u096",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "从这一观点看，货币存款是随着货币贮藏被集中和贷出而产生的对银行的债权。",
+            {
+              "type": "note",
+              "id": "n_ch02_055",
+              "label": "55"
+            },
+            "存款制度，即集中和利用暂时停滞货币的一般系统过程，以分支银行制的扩张为前提条件。银行必须能够广泛地伸入交换领域，才能维持一个集中贮藏的一般体系。正是这一发展，使银行券在发达资本主义中被取代、不再是主要的支付手段。有了系统性的贮藏集中，就可以观念性地转移货币，而不必让银行的支付承诺易手。支付可以改为直接转移对银行的债权，作为不同银行账户中的记账分录。其直接推论是，银行券乃至一切流通货币被挤出交换领域。就货币的职能而言，流通职能萎缩，贮藏职能占支配地位。存款货币如今作为货币“存量”，对应于这种支配地位。这一发展的潜力自19世纪40年代以来就已显现，但只有当银行体系的实际成长确立了贮藏职能在资本主义经济中的首要作用时，它才得以实现。",
+            {
+              "type": "note",
+              "id": "n_ch02_056",
+              "label": "56"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Viewed from this standpoint, money deposits are claims against banks which are generated as money hoards are concentrated and lent out.",
+            {
+              "type": "note",
+              "id": "n_ch02_055",
+              "label": "55"
+            },
+            " Now a deposit system, i.e. a general systematic process of collecting and utilising temporarily stagnant money, relies on the expansion of branch banking as a precondition. Banks have to be able to reach extensively in the sphere of exchange in order to sustain a general system of collecting hoards. Precisely this development allows the supersession of the banknote as the chief means of payment in advanced capitalism. Given the existence of systematic hoard collection, it is possible to transfer money ideally and without the passage of bank promises to pay. Instead payments can be made by transferring the claims on banks directly as entries in different bank accounts. The immediate corollary of this is that banknotes, indeed all circulating money, are displaced from the sphere of exchange. In terms of the functions of money, the circulating functions are diminished and the hoarding function becomes dominant. Depository money, as money ‘stock’ now, corresponds to this dominance. The potential for this development has been apparent since the 1840s,",
+            {
+              "type": "note",
+              "id": "n_ch02_056",
+              "label": "56"
+            },
+            " but it was realised only when the actual growth of the banking system established the primary role of the hoarding function in the capitalist economy."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u096"
+      ],
+      "page": "45–46"
+    },
+    {
+      "id": "ch02-u097",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "同样，银行券被存款机制逐渐取代，也与信用实践的变化有关。图式地说，商业信用与货币信用的衔接经历了一场影响银行券作用的转变。汇票的衰落有充分的文献记载，其经典解释明确基于分支银行制的兴起。",
+            {
+              "type": "note",
+              "id": "n_ch02_057",
+              "label": "57"
+            },
+            "贮藏集中体系的扩展，伴随着商业信用与货币信用的衔接从贴现汇票转向银行的透支和直接贷款。这一转变的迅速和有效程度，取决于银行体系的成熟度和深度。其必然推论是，私人创造的信用货币进入流通逐渐失去重要性。现在支付可以例如通过透支完成；这把日益受国家控制的银行券推到相对于存款机制的次要地位。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Equally, however, the gradual supersession of banknotes by the deposit mechanism is related to changes in credit practices. Put schematically, the articulation of commercial with monetary credit undergoes a transformation which affects the role of the banknote. The decline of the bill of exchange is well documented and its classic explanation has been explicitly based on the rise of branch banking.",
+            {
+              "type": "note",
+              "id": "n_ch02_057",
+              "label": "57"
+            },
+            " The extension of the system of hoard collection is accompanied by a shift in the articulation of commercial and monetary credit away from discounting bills and towards overdrafts and direct loans by banks. How swift and effective the shift is depends on the sophistication and depth of the banking system. The necessary corollary of this is that the entry of privately created credit money into circulation gradually loses its significance. Payments can now be effected, for example, via overdrafts; this pushes the increasingly state-controlled banknote into second place relative to the deposit mechanism."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u097"
+      ],
+      "page": "46"
+    },
+    {
+      "id": "ch02-u098",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "上述内容对现代存款货币的基本特征有什么含义？这里可以为研究方向确立一些重要的指引。第一，既然存款货币是由银行信用贷放生成的信用货币，对其数量决定的研究可以得益于我们已经就银行券信用货币数量得出的结论。内生因素，如货币信用和商业信用的周期性行为以及历史和制度现实，需要先行分析。其中最根本的，也许是资本主义积累生成货币贮藏的系统性结构趋势。此外，与利息率的联系问题，必须以比仅仅把利息率作为货币供给函数的一个自变量复杂得多的方式处理。恰恰因为信用货币数量的决定比真正货币更复杂，货币乘数及其不稳定性之类的问题，要求先研究信用与资本实际积累的衔接。第二，存款中介的路径概念（就“路径”能够确立而言），以及这种货币流通速度的性质，需要更密切的关注。存款货币的贷放与注销，即它在交换中运动的周期性，在文献中尚未得到充分研究。把这些与商业信用和货币信用的贷放和偿还系统地联系起来，很可能会就存款货币的数量得出重要结论。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "What are the implications of the above for the fundamental traits of modern deposit money? Some important pointers for the direction of research can be established here. First, since depository money is credit money generated by the advance of banking credit, the study of the determination of its quantity would benefit from the conclusions we have already drawn on the quantity of banknote credit money. Endogenous factors, such as the cyclical behaviour of monetary and commercial credit as well as historical and institutional realities, require prior analysis. Perhaps the most fundamental of these is the systematic structural tendency of capitalist accumulation to generate hoards of money. Furthermore, the issue of the link with the rate of interest has to be dealt with much more complexly than by merely including the latter as an argument in the money supply function. Precisely because the quantity of credit money is subject to a more complex determination than money-proper, issues such as the money multiplier and its instability require prior study of the articulation of credit with the real accumulation of capital. Second, the concept of the path of depository mediation (insofar as a ‘path’ could be established), and that of the character of the velocity of such money, require closer attention. The advance and cancellation of deposit money, i.e. the cyclicity of its movement in exchange, have not been adequately studied in the literature. It is probable that the systematic linking of these to the advance and repayment of commercial and monetary credit would yield important conclusions with regard to the quantity of deposit money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u098"
+      ],
+      "page": "46–47"
+    },
+    {
+      "id": "ch02-u099",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "就现代银行券而言，随着存款货币和贮藏上升为支配地位，其性质发生根本变化。显而易见，银行券不再衔接商业信用与货币信用，并已被存款机制取代、不再是主要的支付手段。例如在英国，银行券已退化为单纯的流通手段职能，主要在私人收入支出领域便利商品交换。这一点由银行券中介的交易笔数众多、金额细小，以及银行券流通中反映私人消费季节模式的强烈季节性所确立。",
+            {
+              "type": "note",
+              "id": "n_ch02_058",
+              "label": "58"
+            },
+            "当代资本主义流通中银行券的进入，在不受国家干预时，是由私人收入的支出引起的。银行券按照收入实现目的对货币的需求进入交换；因此其进入倾向于由需求决定。此外，回流倾向于发生在从私人收入中形成贮藏时，而不是在偿还对银行的债务时。个人从私人收入中创造贮藏，把银行券带回银行，转化为存款债权。银行体系把返回的信用货币流量集中起来，变成单一的、规则的流量，并把它导向中央银行、退出流通。存款信用货币兴起的结果，是削弱了现代银行券与信用贷放和偿还的联系。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As regards the modern banknote, a fundamental change in its character follows the rise of depository money and hoarding into dominance. It is immediately evident that the banknote no longer bridges commercial and monetary credit and has been supplanted as the chief means of payment by the deposit mechanism. Banknotes in Britain, for example, have been reduced to the function of simple means of circulation, facilitating primarily the exchange of commodities in the area of expenditure of private income. This is established by the multiplicity and small size of transactions mediated by banknotes, together with the strong seasonality in banknote circulation which reflects the seasonal pattern of private consumption.",
+            {
+              "type": "note",
+              "id": "n_ch02_058",
+              "label": "58"
+            },
+            " The entry of banknotes into contemporary capitalist circulation, when not interfered with by the state, is occasioned by the expenditure of private income. Banknotes enter exchange according to how money is demanded for purposes of income realisation; hence, their entry tends to be demand-determined. Furthermore, the reflux tends to take place as hoards out of private income are created, and not as debts to banks are paid. Hoard creation by individuals out of private income brings banknotes back to the banks to be transformed into depository claims. The banking system concentrates the returning flows of credit money, turns them into a single, regular flow and directs the latter to the central bank and out of circulation. The upshot of the rise of depository credit money is to attenuate the links of the modern banknote with the advance and repayment of credit."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u099"
+      ],
+      "page": "47"
+    },
+    {
+      "id": "ch02-u100",
+      "canonical_kind": "subheading",
+      "zh": [
+        "黄金在发达资本主义交换中的作用"
+      ],
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "The Role of Gold in Advanced Capitalist Exchange"
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u100"
+      ],
+      "page": "47",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch02-u101",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本章迄今论证了马克思主义理论为解释货币形式的变化提供了系统的基础，而黄金是货币的一个关键原初形式。这里我们应当简要考察随着资本主义交换的发展黄金的作用。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It has so far been argued in this chapter that Marxist theory provides a systematic basis for explaining the changes in the form of money, and that gold is a crucial original form of money. At this point we should briefly consider the role of gold as capitalist exchange develops."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u101"
+      ],
+      "page": "47"
+    },
+    {
+      "id": "ch02-u102",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "国内流通信用货币兴起的一个直接结果，是把黄金排挤到交换领域之外的贮藏中。取决于银行体系的发展程度，黄金贮藏倾向于被银行体系作为首屈一指的贮藏集中者所集中。马克思认为黄金贮藏既有国内作用也有国际作用。",
+            {
+              "type": "note",
+              "id": "n_ch02_059",
+              "label": "59"
+            },
+            "黄金贮藏的国内作用是在危机时刻支撑信用和货币体系：黄金作为支付手段总是被接受的；因此它总能化解货币危机。然而，信用货币的发展及其基于银行业（尤其是中央银行业）日益成熟而向存款货币的进一步演化，降低了黄金的国内重要性。马克思已经注意到，苏格兰与英格兰相比正是这种情况。",
+            {
+              "type": "note",
+              "id": "n_ch02_060",
+              "label": "60"
+            },
+            "稳定的银行体系在危机中能够越来越多地自行提供支付手段，或以银行券形式，或以存款信用形式。结果，黄金贮藏被缩减到其对外的世界市场作用。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "One immediate result from the domestic rise of circulating credit money is to displace gold into hoards outside the sphere of exchange. Depending on the degree of development of the banking system, the gold hoards will tend to be concentrated by the latter as the hoard collector par excellence. Hoards of gold were seen by Marx as having both a domestic and an international role.",
+            {
+              "type": "note",
+              "id": "n_ch02_059",
+              "label": "59"
+            },
+            " The domestic role of the gold hoard is to bolster the credit and monetary system in time of crisis: gold is always acceptable as means of payment; hence, it can always resolve a monetary crisis. However, the development of credit money and its further evolution into deposit money, based on growing sophistication of banking (central banking in particular), reduces the domestic significance of gold. Marx had already noted that this was the case in Scotland in contrast with England.",
+            {
+              "type": "note",
+              "id": "n_ch02_060",
+              "label": "60"
+            },
+            " A stable banking system can increasingly provide its own means of payment in a crisis, either as banknotes or as depository credits. The gold hoard, as a result, is reduced to its external world market role."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u102"
+      ],
+      "page": "47–48"
+    },
+    {
+      "id": "ch02-u103",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思论证说，在世界市场上，货币作为“世界货币”执行职能，充当国际接受的支付手段。这必须是黄金，因为货币的民族特性必须在世界市场上被抛弃。因此，马克思通常把黄金外流看作“世界货币”的流动，由对国外的支付债务引起，这些债务在外汇市场的正常运行中不容许用信用清偿。",
+            {
+              "type": "note",
+              "id": "n_ch02_061",
+              "label": "61"
+            },
+            "各国必须支付黄金来结清国际收支债务、购买急需的粮食、进行战争等等，这些职能在危机时期尤为突出。对我们的目的有趣的一点是，按照马克思，参与世界市场的国家必须拥有黄金贮藏，其规模表明一国应对世界市场波动、保护其政治权力的能力。",
+            {
+              "type": "note",
+              "id": "n_ch02_062",
+              "label": "62"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In the world market, Marx argued, money functions as ‘world money’, as the internationally acceptable means of payment. This has to be gold, since the national peculiarities of money have to be shed in the world market. Marx’s view of gold drains, as a result, was typically as flows of ‘world money’, invoked by payment obligations abroad which would not admit of credit settlement in the normal operation of the foreign exchange markets.",
+            {
+              "type": "note",
+              "id": "n_ch02_061",
+              "label": "61"
+            },
+            " Gold had to be paid by countries to settle balance of payments debts, to buy urgently required food supplies, to fight wars, and so on, functions particularly pronounced in times of crisis. The interesting point for our purposes is that, according to Marx, countries participating in the world market had to have a gold hoard, the size of which indicated a country’s ability to face up to the fluctuations of the world market and to protect its political power.",
+            {
+              "type": "note",
+              "id": "n_ch02_062",
+              "label": "62"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u103"
+      ],
+      "page": "48"
+    },
+    {
+      "id": "ch02-u104",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "于是，黄金在资本主义交换中的残余作用问题，变成了参与世界市场各国的国际贮藏的演化问题。可以有益地类比国内市场黄金贮藏的演化。黄金的世界作用，与信用体系的国际化以及银行跨国提供存款货币的能力成反比。只要信用生成的支付手段在国际上扩散，黄金贮藏就倾向于只在信用体系受到严重震荡、货币作为货币必须现身时才被使用。这通常发生在大商业危机、战争、自然灾害之类的时候。结果将是黄金流动的作用递减，这种金属越来越多地被禁闭在国际贮藏中。此外，黄金贮藏的国际分布将反映不同民族国家在世界市场上权重的变动，并将保持强烈的政治性质。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The question of the residual role of gold in capitalist exchange thus becomes a question about the evolution of the international hoards of countries participating in the world market. A parallel can usefully be drawn with the evolution of gold hoards in the domestic markets. The world role of gold depends inversely on the internationalisation of the credit system and the ability of banks to provide depository money across frontiers. Insofar as credit-generated means of payment proliferate internationally, the gold hoards will tend to be used only when the credit system has been severely shaken and money as money has to appear. This will typically happen in a major commercial crisis, a war, a natural disaster, and the like. A diminishing role for gold flows and the increasing confinement of the metal in international hoards will be the result. Furthermore, the distribution of gold hoards internationally will reflect the shifting weight of different nation states in the world market, and will retain a strong political character."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u104"
+      ],
+      "page": "48"
+    },
+    {
+      "id": "ch02-u105",
+      "canonical_kind": "heading",
+      "zh": [
+        "结论"
+      ],
+      "en": [
+        "Conclusion"
+      ],
+      "source_ids": [
+        "ch02-u105"
+      ],
+      "page": "49",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch02-u106",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本章的主要理论关切是货币各种形式之间质的区别。我们把这些区别与货币在交换中被主要要求执行的职能联系起来。更具体地说，经济理论通常假定，凡是充当交换手段的东西就是货币。货币流通职能的重要性不容否认，但在发达的资本主义流通中，支付职能和贮藏职能更为重要。货币主要是金属、银行券还是存款，取决于哪种职能占支配地位。因此，银行券和存款分别对应于支付手段和贮藏手段职能。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The main theoretical concern of this chapter has been the qualitative differences among the various forms of money. We related these differences to the functions that money is primarily called upon to perform in exchange. More specifically, economic theory usually assumes that money is anything that functions as means of exchange. The importance of money’s circulating function cannot be denied, but in developed capitalist circulation, the paying and hoarding functions are more significant. Whether money is primarily metal, banknotes or deposits depends on which function is dominant. Thus banknotes and deposits correspond to the functions of means of payment and means of hoarding, respectively."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u106"
+      ],
+      "page": "49"
+    },
+    {
+      "id": "ch02-u107",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思提出的货币理论为系统分析货币形式提供了框架。在这一框架内，价值尺度、交换手段、支付手段和贮藏手段职能在交换发展的不同水平上起支配作用。据此，我们为货币的基本形式即黄金推导了一个货币数量恒等式。这一恒等式不同于费雪版本和剑桥版本，因为它承认对货币的流通职能和支付职能有不同的内生影响，以及货币执行各自职能时有不同的流通速度。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The theory of money proposed by Marx provides a framework for systematic analysis of the forms of money. Within this framework, the functions of measure of value, means of exchange, means of payment and means of hoarding play the dominant role at different levels of the development of exchange. With this in mind, a Quantity of Money identity was derived for the fundamental form of money, i.e. gold. This identity is distinct from the Fisherian and Cambridge versions in that it recognises the different endogenous influences on the circulating and paying functions of money as well as the different velocities of money in the performance of the respective functions."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u107"
+      ],
+      "page": "49"
+    },
+    {
+      "id": "ch02-u108",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在资本主义特有的交换中，货币的流通职能逐渐失去重要性，而贮藏职能变得更加重要。与此相应，银行券对应于支付手段职能而不是狭义的交换手段，存款货币则对应于贮藏手段职能。我们把银行券和存款称为“信用货币”，以强调信用关系对其性质的决定作用。信用体系生成的货币依靠信用过程进入和退出交换，这赋予它特有的循环路径，我们在银行券的情形中已经较为详细地看到了这一点。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In specifically capitalist exchange, the circulating functions of money gradually lose their significance, while the hoarding function becomes more important. In accordance with this, banknotes correspond to the function of means of payment, rather than to narrow means of exchange, while deposit money corresponds to the function of means of hoarding. We called banknotes and deposits ‘credit money’ in order to stress the determining role of credit relations in their characterisation. Money generated by the credit system relies on credit processes for its entry and exit from exchange and this gives it its characteristic circular path, as we saw in some detail for banknotes."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u108"
+      ],
+      "page": "49"
+    },
+    {
+      "id": "ch02-u109",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这些结论对当代资本主义分析的含义是重要的。对现代存款货币的研究必须从支撑它的信用关系开始。考察实际积累创造贮藏的结构趋势，以及这些贮藏转化为生息资本的基本机制，是研究现代货币行为的前提条件。银行信用与商业信用的相互作用以及信用体系的制度发展，塑造信用货币的供给与注销。因此，存款信用货币决定的内生性研究，不能被表述为对利息率的简单函数依赖。事实上，在最基本、高度抽象的层面上，利息率不必作为决定性的影响出现在分析中。完整考察与存款相关——并在更远一层与世界货币相关——的贮藏职能，是为了充分刻画现代资本主义货币中介而有待完成的工作。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The implications for the analysis of contemporary capitalism are significant. The study of modern deposit money has to commence from the credit relations which underpin the latter. Examination of the structural tendency of real accumulation to create hoards, and the fundamentals of the transformation of those hoards into interest-bearing capital, are preconditions for the study of the behaviour of modern money. The interaction of banking and commercial credit and the institutional development of the credit system shape the supply and cancellation of credit money. Thus the study of the endogeneity of the determination of deposit credit money cannot be posed as a simple functional dependence on the rate of interest. Indeed, at the most basic and highly abstract level, the rate of interest need not appear in the analysis as a determining influence. The complete examination of the hoarding function as it relates to deposits – and, at a further remove, to world money – is work that remains to be done in order fully to characterise modern capitalist monetary mediation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch02-u109"
+      ],
+      "page": "49–50"
+    }
+  ]
+}

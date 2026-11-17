@@ -1,0 +1,3449 @@
+{
+  "id": "ch11",
+  "title": "11. 当代金融中的权力与信任关系*",
+  "originalTitle": "11. Relations of Power and Trust in Contemporary Finance*",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "outline": [
+    {
+      "anchor": "ch11-u002",
+      "title": "1 引言",
+      "originalTitle": "1 Introduction",
+      "level": 1
+    },
+    {
+      "anchor": "ch11-u008",
+      "title": "2 当代货币与金融：权力与信任的重要性",
+      "originalTitle": "2 Contemporary Money and Finance: The Importance of Power and Trust",
+      "level": 1
+    },
+    {
+      "anchor": "ch11-u011",
+      "title": "2.1 个人金融的增长",
+      "originalTitle": "2.1 Growth of Personal Finance",
+      "level": 2
+    },
+    {
+      "anchor": "ch11-u017",
+      "title": "2.2 中央银行独立性",
+      "originalTitle": "2.2 Central Bank Independence",
+      "level": 2
+    },
+    {
+      "anchor": "ch11-u025",
+      "title": "2.3 世界货币",
+      "originalTitle": "2.3 World Money",
+      "level": 2
+    },
+    {
+      "anchor": "ch11-u041",
+      "title": "3 分析资本主义经济的经济方面与非经济方面",
+      "originalTitle": "3 Analysing the Economic and the Non-Economic Aspects of the Capitalist Economy",
+      "level": 1
+    },
+    {
+      "anchor": "ch11-u056",
+      "title": "4 权力与信任在货币与信用领域中的特殊作用",
+      "originalTitle": "4 The Exceptional Role of Power and Trust in the Realm of Money and Credit",
+      "level": 1
+    },
+    {
+      "anchor": "ch11-u057",
+      "title": "4.1 货币经济权力与社会权力的根源",
+      "originalTitle": "4.1 The Roots of Money’s Economic and Social Power",
+      "level": 2
+    },
+    {
+      "anchor": "ch11-u071",
+      "title": "4.2 信用作为社会化的信任",
+      "originalTitle": "4.2 Credit as Socialised Trust",
+      "level": 2
+    },
+    {
+      "anchor": "ch11-u093",
+      "title": "结论",
+      "originalTitle": "Conclusion",
+      "level": 1
+    }
+  ],
+  "notes": {
+    "n_ch11_001": {
+      "number": "1",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "感谢 S. 艾巴尔对稿本提出的意见。一切错误由我负责。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thanks are due to S. Aybar for comments on the manuscript. All errors are my responsibility."
+          ]
+        }
+      ]
+    },
+    "n_ch11_002": {
+      "number": "2",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此，它呼应了 Lapavitsas 2003——后者引发了这场论争。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thus, it echoes Lapavitsas 2003 – which sparked the debate."
+          ]
+        }
+      ]
+    },
+    "n_ch11_003": {
+      "number": "3",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As in Gowan’s (1999) analysis of us political power behind the contemporary ‘Dollar-Wall Street Regime’."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As in Gowan’s (1999) analysis of us political power behind the contemporary ‘Dollar-Wall Street Regime’."
+          ]
+        }
+      ]
+    },
+    "n_ch11_004": {
+      "number": "4",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There is a significant amount of mainstream empirical work on this issue, including Mayer 1987, and Corbett and Jenkinson 1997."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There is a significant amount of mainstream empirical work on this issue, including Mayer 1987, and Corbett and Jenkinson 1997."
+          ]
+        }
+      ]
+    },
+    "n_ch11_005": {
+      "number": "5",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对确立“独立中央银行制度”的满意之情，由英国中央银行业泰斗古德哈特（Goodhart 1994 and 1995）表达得十分清楚。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The satisfaction of arriving at ‘independent central banking’ is expressed very clearly by Goodhart 1994 and 1995, the doyen of British central banking."
+          ]
+        }
+      ]
+    },
+    "n_ch11_006": {
+      "number": "6",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, pp. 240–4."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, pp. 240–4."
+          ]
+        }
+      ]
+    },
+    "n_ch11_007": {
+      "number": "7",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "见法恩，他把这一转变视为社会科学中的一场革命（1997 and 1999）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Fine, who views this transformation as a revolution in social science (1997 and 1999)."
+          ]
+        }
+      ]
+    },
+    "n_ch11_008": {
+      "number": "8",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "信息不对称概念在这方面非常重要，为市场失灵与国家干预的分析提供了新空间（例如见 Stiglitz 1993）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The concept of information asymmetry has been very important in this respect, providing fresh scope for analysis of market failure and state intervention (see, for instance, Stiglitz 1993)."
+          ]
+        }
+      ]
+    },
+    "n_ch11_009": {
+      "number": "9",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As in the work of North 1981, and 1990."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "As in the work of North 1981, and 1990."
+          ]
+        }
+      ]
+    },
+    "n_ch11_010": {
+      "number": "10",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Fine 2001, and Fine and Lapavitsas 2004."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Fine 2001, and Fine and Lapavitsas 2004."
+          ]
+        }
+      ]
+    },
+    "n_ch11_011": {
+      "number": "11",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, pp. 20–1."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, pp. 20–1."
+          ]
+        }
+      ]
+    },
+    "n_ch11_012": {
+      "number": "12",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, chs. 10 and 25."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, chs. 10 and 25."
+          ]
+        }
+      ]
+    },
+    "n_ch11_013": {
+      "number": "13",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Lapavitsas 2003, p. 3."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Lapavitsas 2003, p. 3."
+          ]
+        }
+      ]
+    },
+    "n_ch11_014": {
+      "number": "14",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "两者都是伊藤诚在本专题讨论撰稿中所关注的危险。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Both are dangers that concern Itoh in his contribution to this symposium."
+          ]
+        }
+      ]
+    },
+    "n_ch11_015": {
+      "number": "15",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Lapavitsas 2003; see also next section."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Lapavitsas 2003; see also next section."
+          ]
+        }
+      ]
+    },
+    "n_ch11_016": {
+      "number": "16",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fully discussed in Lapavitsas 2003."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Fully discussed in Lapavitsas 2003."
+          ]
+        }
+      ]
+    },
+    "n_ch11_017": {
+      "number": "17",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Elements of this approach can be found in Itoh and Lapavitsas 1999, and a fuller analysis in Lapavitsas 2003."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Elements of this approach can be found in Itoh and Lapavitsas 1999, and a fuller analysis in Lapavitsas 2003."
+          ]
+        }
+      ]
+    },
+    "n_ch11_018": {
+      "number": "18",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "包括以门格尔（Menger 1892）为首的奥地利传统。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Including the Austrian tradition, led by Menger 1892."
+          ]
+        }
+      ]
+    },
+    "n_ch11_019": {
+      "number": "19",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Recent major contributions are Wray 2004 and Ingham 2004b."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Recent major contributions are Wray 2004 and Ingham 2004b."
+          ]
+        }
+      ]
+    },
+    "n_ch11_020": {
+      "number": "20",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Lapavitsas 2005b."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Lapavitsas 2005b."
+          ]
+        }
+      ]
+    },
+    "n_ch11_021": {
+      "number": "21",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Itoh 1976."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See, for instance, Itoh 1976."
+          ]
+        }
+      ]
+    },
+    "n_ch11_022": {
+      "number": "22",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Lapavitsas 2003, ch. 3; and Lapavitsas 2005b."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Lapavitsas 2003, ch. 3; and Lapavitsas 2005b."
+          ]
+        }
+      ]
+    },
+    "n_ch11_023": {
+      "number": "23",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, p. 124, original emphasis."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1970, p. 124, original emphasis."
+          ]
+        }
+      ]
+    },
+    "n_ch11_024": {
+      "number": "24",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, ch. 4."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, ch. 4."
+          ]
+        }
+      ]
+    },
+    "n_ch11_025": {
+      "number": "25",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976a."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Marx 1976a."
+          ]
+        }
+      ]
+    },
+    "n_ch11_026": {
+      "number": "26",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 146."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx 1976b, p. 146."
+          ]
+        }
+      ]
+    },
+    "n_ch11_027": {
+      "number": "27",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "金融比信用更宽，正如伊藤诚在其论争撰稿中所观察。金融关系例如包括涉及资本财产权（股权）的股票市场交易，而非凭偿还承诺预付价值（信用）。因此股票市场交易中信任的基础不同，尽管仍深受信用体系影响。这显现在两方面：第一，利息率是股权价格的基准；第二，股票市场运作依赖借贷货币资本的动员，部分通过信用体系。无论如何，马克思主义政治经济学缺乏对股权与信用关系的成熟处理。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Finance is broader than credit, as Itoh observes in his contribution to this debate. Financial relations include, for instance, stock-market transactions involving property in capital (equity) rather than the advance of value against a promise of repayment (credit). Therefore, the basis of trust in stock-market transactions is different, though still heavily influenced by the credit system. This is apparent in two respects: first, the rate of interest is a benchmark for equity prices and, second, stock-market operations rely on mobilisation of loanable money capital, partly through the credit system. Be that as it may, Marxist political economy lacks developed treatments of the relationship between equity and credit."
+          ]
+        }
+      ]
+    },
+    "n_ch11_028": {
+      "number": "28",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Lapavitsas 2003, ch. 4."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Lapavitsas 2003, ch. 4."
+          ]
+        }
+      ]
+    },
+    "n_ch11_029": {
+      "number": "29",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Bryan 1995, and Bryan and Rafferty 1999 and 2005."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "See Bryan 1995, and Bryan and Rafferty 1999 and 2005."
+          ]
+        }
+      ]
+    },
+    "n_ch11_030": {
+      "number": "30",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Both in Lapavitsas 2003 and in Itoh and Lapavitsas 1999."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Both in Lapavitsas 2003 and in Itoh and Lapavitsas 1999."
+          ]
+        }
+      ]
+    }
+  },
+  "body": [
+    {
+      "id": "ch11-ack",
+      "canonical_kind": "ack",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "＊ ",
+            "首次发表于《历史唯物主义》（Historical Materialism）2006年第14卷第1期，第129–154页，题为“Power and Trust as Constituents of Money and Credit”。感谢布里尔（Brill）授予重印许可。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "* ",
+            "First published as ‘Power and Trust as Constituents of Money and Credit’, Historical Materialism, 2006, 14 (1), pp. 129–154. We are grateful to Brill for the reprint permission."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-ack"
+      ],
+      "page": "239"
+    },
+    {
+      "id": "ch11-u002",
+      "canonical_kind": "heading",
+      "zh": [
+        "1 引言",
+        {
+          "type": "note",
+          "id": "n_ch11_001",
+          "label": "1"
+        }
+      ],
+      "en": [
+        "1 Introduction",
+        {
+          "type": "note",
+          "id": "n_ch11_001",
+          "label": "1"
+        }
+      ],
+      "source_ids": [
+        "ch11-u002"
+      ],
+      "page": "239",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch11-u003",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "《历史唯物主义》（Historical Materialism）2006年第14卷第1期关于货币与金融的论争，是英语圈马克思主义政治经济学对这些主题重新燃起兴趣的证据。作为对该论争的贡献，本章考察作为当代货币与金融组成部分的权力与信任关系。更广泛地说，本章考虑货币与金融领域中经济关系与非经济关系的相互作用。",
+            {
+              "type": "note",
+              "id": "n_ch11_002",
+              "label": "2"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The debate on money and finance in issue 14.1 of",
+            {
+              "type": "em",
+              "children": [
+                " Historical Materialism"
+              ]
+            },
+            " (2006) is evidence of renewed interest in these topics within Anglophone Marxist political economy. Contributing to it, this chapter examines relations of power and trust as components of contemporary money and finance. More broadly, the chapter considers the interplay of economic and non-economic relations in the field of money and finance.",
+            {
+              "type": "note",
+              "id": "n_ch11_002",
+              "label": "2"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u003"
+      ],
+      "page": "239"
+    },
+    {
+      "id": "ch11-u004",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对政治经济学而言这是一个重要主题，因为它具有社会与政治含义。其中一些含义在第2节结合个人金融、独立中央银行制度与世界货币作了简要勾勒。随后表明，权力与信任关系渗透于资本主义经济的货币与金融机制之中，为积累提供支撑。剥削与压迫的阶级关系潜藏在当代货币与金融的技术外表之下。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This is an important subject for political economy because of its social and political implications. Some of the latter are briefly outlined in Section 2 with reference to personal finance, independent central banking and world money. It is then shown that relations of power and trust permeate the monetary and financial mechanisms of the capitalist economy, providing support for accumulation. Class relations of exploitation and oppression lurk beneath the technical façade of contemporary money and finance."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u004"
+      ],
+      "page": "239"
+    },
+    {
+      "id": "ch11-u005",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "重要的是注意到，主流经济学近来已擅长分析先前被视为非经济的关系，如信任、互惠与可信性。对主流经济学家而言，这些是非人格的、非历史的概念，可用于改善社会福利，也可影响经济政策，尤其在货币与金融领域。类似路径也见于许多非政府组织（ngos），尽管它们经常批评当代金融，尤其在全球化方面。因此，证明货币与金融所特有的非经济关系——特别是权力与信任——的阶级内容，就更加紧迫。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is important to note that mainstream economics has recently become adept at analysing relations previously considered non-economic, such as trust, reciprocity and credibility. For mainstream economists, these are impersonal and ahistorical concepts that could be used to improve social well-being as well as influence economic policy, especially in the realm of money and finance. A similar approach could be found among many non-governmental organisations (ngos) despite their frequent criticisms of contemporary finance, especially in relation to globalisation. Thus, there is added urgency to demonstrating the class content of non-economic relations characteristic of money and finance, particularly of power and trust."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u005"
+      ],
+      "page": "239"
+    },
+    {
+      "id": "ch11-u006",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "几乎无须说明，马克思主义政治经济学早就意识到政治权力在资本主义金融体系运行中的重要性。",
+            {
+              "type": "note",
+              "id": "n_ch11_003",
+              "label": "3"
+            },
+            "毕竟，只有自由市场意识形态家才会怀疑政治权力与其他非经济关系为资本主义积累提供关键服务。然而，本章的分析处于比政府或国际组织干预国内与国际金融运行更高的抽象层次。焦点在于第一原理，即嵌入资本主义货币与信用基本要素之中的权力与信任关系。具体而言，本章表明：在资本主义社会中，货币代表绝对购买力——因而赋予其持有者经济与社会权力——而信用代表在资本主义基础上社会化的信任。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It hardly needs stating that Marxist political economy has long been aware of the importance of political power in the operations of the capitalist financial system.",
+            {
+              "type": "note",
+              "id": "n_ch11_003",
+              "label": "3"
+            },
+            " After all, only free-market ideologues would doubt that political power and other non-economic relations offer crucial services to capitalist accumulation. However, analysis in this chapter is at a higher level of abstraction than that of interventions by governments or international organisations in the workings of domestic and international finance. The focus is on first principles, that is, on the relations of power and trust embedded in the rudiments of capitalist money and credit. Specifically, it is shown that, in capitalist society, money represents absolute buying power – hence affords to its holder economic and social power – while credit represents trust that is socialised on a capitalist basis."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u006"
+      ],
+      "page": "239–240"
+    },
+    {
+      "id": "ch11-u007",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "换言之，本章聚焦于埋藏在资本主义货币与金融机制内部的阶级关系的分子成分。于是第4节展示权力与信任关系借以为资本主义积累服务的货币机制与社会机制。这些权力与信任关系支撑第2节所分析的当代金融的关键方面。同样的关系也渗透于民族国家或国际组织对货币与金融的干预之中。这一点对马克思主义的——乃至仅仅激进主义的——当代货币与金融批判十分重要。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Put differently, the chapter focuses on molecular components of class relations buried within capitalist monetary and financial mechanisms. Thus, Section 4 demonstrates monetary and social mechanisms through which relations of power and trust are placed at the service of capitalist accumulation. These relations of power and trust underpin the key aspects of contemporary finance analysed in Section 2. The same relations also permeate the interventions in money and finance by national states or international organisations. The point is important for the Marxist – and even the merely radical – critique of contemporary money and finance."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u007"
+      ],
+      "page": "240"
+    },
+    {
+      "id": "ch11-u008",
+      "canonical_kind": "heading",
+      "zh": [
+        "2 当代货币与金融：权力与信任的重要性"
+      ],
+      "en": [
+        "2 Contemporary Money and Finance: The Importance of Power and Trust"
+      ],
+      "source_ids": [
+        "ch11-u008"
+      ],
+      "page": "240",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch11-u009",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "过去三十年间，货币与金融领域不断扩张，其运作日益国际化。此处无须罗列国际资本流动、每日外汇交易量、金融衍生品增长、股票市场扩散等数据。在把货币与金融的扩张视为既定前提之后，更重要的是勾勒其社会与政治意义及其深远的经济含义。货币与金融不同于资本主义活动的其他领域，因为第一，它们高度流动；第二，它们具有直接的非经济方面。例如，获得货币的机会赋予权力并维持资本主义社会各处的等级，这一点显而易见。同样，即使随意观察也能看出，信用机制通过提供对资源的支配而便利社会转变。最后，资产阶级选举与一般政治都与货币与金融紧密交织。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "During the last three decades, the realm of money and finance has expanded and become more international in its operations. It is superfluous here to recount data on international capital flows, volume of daily foreign exchange transactions, growth of financial derivatives, spread of stock markets, and so on. Taking the expansion of money and finance for granted, it is more important to outline its social and political significance as well as its far-reaching economic implications. Money and finance differ from other fields of capitalist activity because, first, they are highly fluid and, second, they have immediate non-economic aspects. It is evident, for instance, that access to money confers power and sustains hierarchy across capitalist society. Similarly, even casual observation shows that the mechanisms of credit facilitate social transformation by affording command over resources. Finally, bourgeois elections and politics in general are tightly interwoven with money and finance."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u009"
+      ],
+      "page": "240–241"
+    },
+    {
+      "id": "ch11-u010",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "过去三十年货币与金融的演变照亮了当代资本主义核心的社会关系。资本家阶级可支配的权力增加了，而全社会信任与互惠义务的动员加强了。与此同时，工人的社会地位及其参与社会生活的信心却受损了。要更清楚地看待这些发展，重要的是更仔细考察当代货币与金融的三个重要方面，即个人金融、独立中央银行制度与世界货币。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The evolution of money and finance during the last three decades throws light on social relations at the heart of contemporary capitalism. Power at the disposal of the capitalist class has increased, while the mobilisation of trust and reciprocal obligation across society has intensified. The social standing of workers and their confidence in participating in social life, meanwhile, have suffered. To get a clearer perspective on these developments, it is important to examine more closely three important aspects of contemporary money and finance, namely personal finance, independent central banking, and world money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u010"
+      ],
+      "page": "241"
+    },
+    {
+      "id": "ch11-u011",
+      "canonical_kind": "subheading",
+      "zh": [
+        "2.1 个人金融的增长"
+      ],
+      "en": [
+        "2.1 Growth of Personal Finance"
+      ],
+      "source_ids": [
+        "ch11-u011"
+      ],
+      "page": "241",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch11-u012",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "自20世纪70年代中期以来，信用（以及更一般的金融）已深入渗透个人收入领域。仅凭随意观察即可看出零售银行业的扩张，包括私人消费贷款与工人阶级住房的抵押贷款。这并未伴随信用在资本主义生产领域作用的同等扩张。发达国家的产业投资目前主要靠留存利润融资，即使是战后最初几十年曾严重依赖银行贷款的日本产业也是如此。",
+            {
+              "type": "note",
+              "id": "n_ch11_004",
+              "label": "4"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Since the mid-1970s, credit (and finance, more generally) has penetrated deeply into the realm of personal income. Casual observation alone indicates that retail banking has expanded, including loans for private consumption and mortgage lending for working-class housing. This has not been matched by an equivalent expansion of the role of credit in the realm of capitalist production. Industrial investment in developed countries is currently financed mostly through retained profits, even for Japanese industry that used to rely very heavily on bank loans during the initial postwar decades.",
+            {
+              "type": "note",
+              "id": "n_ch11_004",
+              "label": "4"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u012"
+      ],
+      "page": "241"
+    },
+    {
+      "id": "ch11-u013",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在净额基础上（即从公司金融负债中减去其金融资产），发达世界的产业投资很少利用来自银行、其他金融机构与股票市场的资金。公司对股票市场的参与确实增长了，但这是为兼并与收购融资，而非为产业投资。公司也自行从事金融活动，包括提供信用与直接参与金融衍生品交易。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "On a net basis (that is, subtracting financial assets of corporations from their financial liabilities), industrial investment in the developed world makes little use of funding from banks, other financial institutions and the stock market. The engagement of corporations in the stock market has certainly grown, but this is to finance mergers and acquisitions rather than industrial investment. Corporations also undertake financial activities themselves, including through provision of credit and direct involvement in the trading of financial derivatives."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u013"
+      ],
+      "page": "241"
+    },
+    {
+      "id": "ch11-u014",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这些发展的社会含义是深刻的。住房与个人金融提高了个人收入中作为利息与佣金支付给金融机构的比例。总货币收入的相当部分被经常而直接地转化为借贷资本。此外，工人的普通住房被转化为金融资产。在美国、英国、日本等地，工人阶级的住房也被卷入房地产泡沫，而此前那是商业物业与昂贵房地产的领域。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The social implications of these developments are profound. Housing and personal finance increases the proportion of personal income paid to financial institutions as interest and commissions. Substantial parts of aggregate money income are regularly and directly transformed into loanable capital. Moreover, the modest houses of workers are transformed into financial assets. In the usa, Britain, Japan, and elsewhere, working-class housing has participated in real-estate bubbles, previously the domain of commercial property and expensive real estate."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u014"
+      ],
+      "page": "241–242"
+    },
+    {
+      "id": "ch11-u015",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "消费信贷的易得性便利了以未来货币收入为抵押即时获取物质商品，从而逆转了从当前收入中储蓄以在未来获取商品的做法。获得个人信用的能力取决于货币收入、所持资产、偿还记录，以及一系列默会社会因素，如居住地、族裔与种族出身、性别与亲属关系。于是，获得个人信用的机会成为衡量投入接受者身上的社会信任与权力的尺度。另一方面，当个人信用枯竭时，工人面临物质商品丧失、流动性受限与社会地位崩溃。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Easy availability of consumer credit facilitates the immediate acquisition of material goods against pledges of future money income, thus reversing the practice of saving out of current income to acquire goods in the future. The ability to obtain personal credit depends on money income, assets held, track record of repayment, as well as a host of tacit social factors, such as place of abode, ethnic and racial origin, gender and kinship. Thus, access to personal credit becomes a measure of the social trust and power invested in the recipient. On the other hand, when personal credit dries up, workers face loss of material goods, restricted mobility, and collapse of social status."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u015"
+      ],
+      "page": "242"
+    },
+    {
+      "id": "ch11-u016",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "重要的是注意到，从个人货币收入与资产中获取利息的，既有金融机构也有资本主义公司（而非狭窄的食利者阶层）。所涉金融机构远不止银行，还包括在全社会动员小额闲置货币的养老基金、投资基金与保险公司。货币收入与资产向利息和借贷资本的转化，在点缀过去三十年的金融泡沫（股票市场与房地产）中显而易见。输家通常包括小买家，其损失代表货币资产向金融、产业与商业机构的一次性转移。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "It is important to note that both financial institutions and capitalist corporations (rather than a narrow layer of rentiers) obtain interest out of individual money income and assets. The financial institutions involved are far wider than banks and include pension funds, investment funds, and insurance companies which mobilise small sums of idle money across society. The transformation of money income and assets into interest and loanable capital is apparent in the financial bubbles (stock-market and real-estate) that have punctuated the last three decades. The losers have typically included small buyers, whose losses represented once-for-all transfers of money assets to financial, industrial and commercial institutions."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u016"
+      ],
+      "page": "242"
+    },
+    {
+      "id": "ch11-u017",
+      "canonical_kind": "subheading",
+      "zh": [
+        "2.2 中央银行独立性"
+      ],
+      "en": [
+        "2.2 Central Bank Independence"
+      ],
+      "source_ids": [
+        "ch11-u017"
+      ],
+      "page": "242",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch11-u018",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "同一时期，实际使用的货币与商品货币（黄金）之间残存的联系已被切断。当代货币压倒性地是信用货币，它依托中央银行货币（银行券与存款），而后者主要由国家债务工具支撑。主要中央银行继续持有巨额黄金贮藏，但货币商品并不对中央银行券与存款的价值施加经常性的控制影响。摆脱了守护黄金储备的需要后，中央银行现在在发放贷款、发行自身货币、尤其是决定利息率方面拥有更充分的自由裁量。因此，中央银行货币价值的稳定取决于两个因素：第一，中央银行对总信用流量的管理；第二，中央银行货币作为结清商业及其他债务的法定清偿手段（法偿）。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "During the same period, the vestigial links between money in use and commodity money (gold) have been severed. Contemporary money is overwhelmingly credit money that rests on central-bank money (banknotes and deposits) which is backed primarily by state instruments of debt. The leading central banks continue to hold vast hoards of gold, but the money commodity does not exercise a regular controlling influence on the value of central banknotes and deposits. Freed from the need to guard their gold reserves, central banks now possess fuller discretion in making loans, issuing their own money and, above all, determining interest rates. Consequently, stability of the value of central-bank money depends on two factors: first, on the central bank’s management of aggregate credit flows and, second, on central-bank money being legal tender for the settlement of commercial and other debts."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u018"
+      ],
+      "page": "242"
+    },
+    {
+      "id": "ch11-u019",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "中央银行对法偿的垄断是当代金融的基本成分。现代中央银行货币（银行券与存款）作为强制性支付手段起作用，主要由国家债务支撑。因此它具有法定货币的明确特征，即由国家权力支撑、凭法令强制流通的货币。尽管如此，现代中央银行货币仍由银行发行，换言之，它是从信用货币变异而来的法定货币。于是它与过去直接由国家印刷机发行的粗糙法定货币——如法国阿西涅纸币或普鲁士纸塔勒——几乎毫无相似之处。现代法定货币的管理借助于投入中央银行的社会权力与信任。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The central bank’s monopoly over legal tender is a fundamental component of contemporary finance. Modern central-bank money (banknotes and deposits) functions as obligatory means of payment, backed mostly by state debt. Consequently, it has clear aspects of fiat money, that is, of money with arbitrary circulation backed by the power of the state. Nevertheless, modern central-bank money is still issued by a bank, in other words, it is fiat money that has mutated out of credit money. Thus, it bears little resemblance to the crude fiat monies of the past that were issued directly from the state’s printing presses, such as French Assignats or Prussian paper Thalers. The management of modern fiat money draws on the social power and trust invested in the central bank."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u019"
+      ],
+      "page": "242–243"
+    },
+    {
+      "id": "ch11-u020",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "中央银行管理自身货币以及金融体系其他机构创造的信用货币，具有经济、社会、政治与习惯诸方面。为履行管理职能，中央银行必须掌握关于全经济信用流量、积累总体节奏、以及本国支出与债务结清的习惯和惯例模式的可靠信息。然后它必须利用这些信息平衡受其决策影响的产业家、商人与金融家的利益。资本家阶级各阶层都通过公开与私人渠道对中央银行施加道德压力。中央银行还必须权衡信用量变化——尤其在住房与个人消费方面——的社会含义。最后，它不得不考虑其行动的广泛政治含义。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "There are economic, social, political and customary aspects to the central bank managing its own money as well as the credit money created by other institutions of the financial system. To perform its managing function, the central bank must possess reliable information on the flows of credit across the economy, on the overall rhythm of accumulation, and on the habitual and customary patterns of spending and debt settlement in the country. It must then use this information to balance the interests of industrialists, merchants and financiers affected by its decisions. All sections of the capitalist class apply moral pressure onto the central bank through both public and private channels. The central bank must also weigh the social implications of changes in the volumes of credit, especially in housing and personal consumption. Finally, it is obliged to consider the broad political implications of its actions."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u020"
+      ],
+      "page": "243"
+    },
+    {
+      "id": "ch11-u021",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "中央银行对现代信用货币的管理是一个持续演变的过程。例如20世纪70与80年代的全球通货膨胀危机就代表捍卫信用货币价值的失败。该失败具有社会与政治含义，至少因为快速通货膨胀意味着债权人的损失，也因为工人试图获得货币工资的补偿性增长而扰乱了工资谈判。“独立中央银行制度”在20世纪90年代成为信用货币管理的代名词，正是资本家阶级善于从经验中学习的标志。",
+            {
+              "type": "note",
+              "id": "n_ch11_005",
+              "label": "5"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Central-bank management of modern credit money is a continuously evolving process. The global inflationary crises of the 1970s and 1980s, for instance, represented failure to defend the value of credit money. That failure had social and political implications, at the very least because rapid inflation meant losses for creditors and because wage bargaining was disrupted as workers attempted to obtain compensating increases in money wages. It is a sign of the ability of the capitalist class to learn from experience that ‘independent central banking’ became the byword for credit money management in the 1990s.",
+            {
+              "type": "note",
+              "id": "n_ch11_005",
+              "label": "5"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u021"
+      ],
+      "page": "243"
+    },
+    {
+      "id": "ch11-u022",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "“中央银行独立性”是一种便利的法律虚构，它把资产阶级选举过程与中央银行对经济与社会因素的摆弄分离开来。它允许中央银行发行自身货币并影响利息率，甚至无须接受议会选举那点微弱的监督。对社会产生深远后果的信用决策，似乎由不涉私利的专家基于客观的“技术”理由作出。与此同时，资本家阶级各阶层继续以千百种隐秘方式对中央银行施加压力。于是投入中央银行的社会信任被动员起来为资本利益服务，而社会却被阻止对这种信任的使用行使哪怕选举问责。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "‘Central-bank independence’ is a convenient legal fiction that separates the bourgeois electoral process from the juggling of economic and social factors undertaken by the central bank. It allows the central bank to issue its own money and influence interest rates without submitting even to the feeble scrutiny of parliamentary elections. Credit decisions that have profound consequences across society appear to be taken by disinterested experts on objective ‘technical’ grounds. Meanwhile, the various sections of the capitalist class continue to apply pressure on the central bank in a thousand furtive ways. The social trust invested in the central bank is thus mobilised in the interests of capital, while society is prevented from exercising even electoral accountability over the use of this trust."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u022"
+      ],
+      "page": "243"
+    },
+    {
+      "id": "ch11-u023",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "中央银行在当代金融中的卓越地位在资本主义历史上罕有先例。它们对信用体系的支配部分来自其对法偿享有的非凡垄断。于是中央银行系统地把货币的权力——由国家权力加固——置于资本的服务之下。这一发展对新自由主义——过去三十年盛行的经济意识形态——构成一个悖论。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The pre-eminence of central banks in contemporary finance has few precedents in the history of capitalism. Their dominance over the credit system derives partly from the extraordinary monopoly they enjoy over legal tender. Thus, central banks systematically place the power of money – buttressed by the power of the state – at the service of capital. This development represents a paradox for neoliberalism, the prevalent economic ideology of the last three decades."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u023"
+      ],
+      "page": "244"
+    },
+    {
+      "id": "ch11-u024",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "新自由主义政策宣扬自由市场的美德，但在货币上却选择了完全相反的路线。新自由主义政策制定者非但不允许竞争性金融机构自由创造信用货币，反而加强了中央银行对法偿的垄断。这被呈现为有益于社会的一步，因为据推测中央银行是全知而仁慈的货币垄断者。实践中，中央银行获得了为一般资本利益运用货币权力的空间，而极少顾及资产阶级选举过程。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Neoliberal policy has preached the virtues of free markets, but on money it has opted for completely the opposite course. Far from allowing free creation of credit money by competing financial institutions, neoliberal policymakers have strengthened the central bank’s monopoly over legal tender. This is presented as a socially beneficial step because, presumably, the central bank is an omniscient and benevolent monopolist of money. In practice, the central bank has been given room to use money’s power in the interests of capital in general, with scant regard for the bourgeois electoral process."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u024"
+      ],
+      "page": "244"
+    },
+    {
+      "id": "ch11-u025",
+      "canonical_kind": "subheading",
+      "zh": [
+        "2.3 世界货币"
+      ],
+      "en": [
+        "2.3 World Money"
+      ],
+      "source_ids": [
+        "ch11-u025"
+      ],
+      "page": "244",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch11-u026",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "过去三十年金融也日益国际化，由新技术以及金融自由化政策所支撑。金融国际化与世界货币密切相关，即与货币在国际层面的关键职能密切相关。世界货币提供必要的支付手段，用于结清商业义务以及在世界市场中各民族与各公司之间转移价值。",
+            {
+              "type": "note",
+              "id": "n_ch11_006",
+              "label": "6"
+            },
+            "但世界市场不只是国内市场的放大版。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Finance has also become increasingly international during the last three decades, sustained by new technologies as well as by the policy of financial liberalisation. The internationalisation of finance is closely related to world money, that is, to the key function of money at the international level. World money provides a necessary means of payment for settlement of commercial obligations and for transfer of value among nations and corporations in the world market.",
+            {
+              "type": "note",
+              "id": "n_ch11_006",
+              "label": "6"
+            },
+            " But the world market is not simply a larger version of the domestic market."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u026"
+      ],
+      "page": "244"
+    },
+    {
+      "id": "ch11-u027",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "国内市场由具有（或获得）民族性格的习惯与惯例实践支撑（并产生它们）。它由法律框架与执法实践支撑，后者借助于在民族国家历史过程中演变形成的制度与传统。同样，国内市场的习惯与法律实践反映阶级斗争的历史演变以及国家权力在特定国家的同质化作用。这些复杂因素——习惯的、等级的、历史的与政治的——为货币在国内的购买与支付能力提供关键支撑。此外，国内信用体系的机制进一步支撑国内货币，尤其当中央银行货币以法偿形式获得国家认可时。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The domestic market is buttressed by (and gives rise to) customs and habitual practices that have (or acquire) a national character. It is supported by a legal framework and enforcement practices that draw on institutions and traditions that have evolved in the course of a nation-state’s history. Similarly, the customary and legal practices of the domestic market reflect the historical evolution of class struggle and the homogenising role of state power in particular countries. These complex factors – customary, hierarchical, historical and political – provide vital support for the buying and paying ability of money domestically. Moreover, the mechanisms of the domestic credit system give further support to domestic money, particularly when central-bank money receives the imprimatur of the state in the form of legal tender."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u027"
+      ],
+      "page": "244"
+    },
+    {
+      "id": "ch11-u028",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "世界市场则不同。它确实包含使货币成为贸易参与者之间购买与支付所必需的交换过程。它也产生支撑货币世界使用的交换习惯与实践。然而世界贸易习惯与实践未必与国内的一致，从而引起诚信与可靠性方面的冲突，以及支付手段与方法方面的冲突。此外，支撑世界市场运行的法律与实践取决于若干国家之间的妥协。世界市场中不存在地位类似于国内市场中之民族国家的立法者与执法者。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The world market is different. It certainly contains processes of exchange that make money necessary for purchases and payments among trading participants. It also gives rise to customs and practices of exchange that sustain the world use of money. However, world trading customs and practices do not necessarily coincide with domestic ones, thus giving rise to conflicts of probity and reliability, as well as of means and methods of payment. The laws and practices that underpin the operations of the world market, moreover, depend on compromises among several states. There is no lawmaker and enforcer in the world market with a position analogous to that of the national state in the domestic market."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u028"
+      ],
+      "page": "245"
+    },
+    {
+      "id": "ch11-u029",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "同样，没有国家有权在整个世界市场强加单一法偿，也不存在能够创造普遍信用货币的有结构的世界信用体系。国际金融体系是流量、资产与市场的无政府整体；它不断创造信用货币，却缺乏产生类似于国内语境中中央银行货币的主导信用货币所需的连贯结构。因此，特定货币在世界市场中的使用服从国家之间的政治与军事互动。世界货币归根到底是“战争命脉”，是通过资助军队、贿赂盟友或收买敌人来进行国家间冲突的手段。当一国的货币被其他国家用作贮藏手段与支付手段、或记账单位时，该民族国家在世界权力等级中的地位就显著改善。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Equally, no state has the power to impose a single legal tender across the world market, and nor is there a structured world credit system capable of creating universal credit money. The international financial system is an anarchic whole of flows, assets and markets; it constantly creates credit money but lacks the coherent structure necessary for the emergence of dominant credit money analogous to central-bank money in the domestic context. Consequently, the use of particular monies in the world market is subject to political and military interaction among states. World money, finally, is the ‘sinews of war’, the means of pursuing conflicts among states by financing armies, bribing allies, or paying off enemies. A nation-state’s position in the hierarchy of world power improves dramatically when its money is used by other states as means of hoarding and payment, or as unit of account."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u029"
+      ],
+      "page": "245"
+    },
+    {
+      "id": "ch11-u030",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "资本主义历史上世界货币的典型形式是商品货币——黄金与白银。商品世界货币对各国货币有直接含义，因为它是固定汇率的共同锚——只要各国货币可兑换为它。汇率波动自动引起黄金或白银跨国界转移，而这又阻止汇率升降超出狭窄界限。此外，货币商品的价值对参与世界市场各国的价格体系起外部稳定作用。金属世界货币的流动在历史上为世界市场提供了自动秩序——尽管以重大金融、商业与产业危机为代价。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The typical form of world money in the history of capitalism has been commodity money – gold and silver. Commodity world money has immediate implications for national currencies, since it is a common anchor that fixes exchange rates – provided that national monies convert into it. Exchange-rate fluctuations automatically induce transfers of gold or silver across national borders, which, in turn, prevent exchange rates from rising or falling beyond narrow limits. The value of the money commodity, moreover, functions as an external stabilising influence on the price systems of countries participating in the world market. Flows of metallic world money have historically provided an automatic order to the world market – albeit at the cost of major financial, commercial and industrial crises."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u030"
+      ],
+      "page": "245"
+    },
+    {
+      "id": "ch11-u031",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "黄金与世界货币的联系首次松动，是英国在第一次世界大战爆发时暂停英镑兑换黄金。那一刻起，对世界货币施加某种程度的自觉管理变得必要，但两次世界大战之间年代的管理是灾难性失败。1944年布雷顿森林协定处理了这一问题，规定美元按每盎司35美元兑换黄金，尽管仅适用于官方交易。美元与黄金的联系为国际货币体系提供了锚，同时也固定了汇率。协定的关键是一系列对货币资本国际流动的管制，以及美国持有的巨额黄金贮藏。据此，1973年布雷顿森林协定的崩溃使黄金边缘化，开启了浮动汇率，并以新的紧迫性提出世界货币问题。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The link between gold and world money was first loosened when Britain suspended convertibility of sterling into gold at the outbreak of the First World War. At that moment, it became necessary to apply a degree of conscious management to world money, but its management during the interwar years was a catastrophic failure. The Bretton Woods agreement of 1944 dealt with the problem by imposing convertibility of the dollar into gold at $35 to the ounce, though only for official transactions. The link between dollar and gold provided an anchor for the international monetary system, while also fixing exchange rates. Critical to the agreement was a battery of controls over international flows of money capital, as well as the availability of a large hoard of gold held by the usa. By this token, the collapse of the Bretton Woods agreement in 1973 marginalised gold, ushered in floating exchange rates, and posed the problem of world money with renewed urgency."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u031"
+      ],
+      "page": "245–246"
+    },
+    {
+      "id": "ch11-u032",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "自20世纪70年代以来，世界市场一直挣扎着产生能够充分履行其职能的世界货币。逐渐地，美元崛起为准世界货币，代表资本主义历史上前所未有的发展。美元通过主要特定于美国经济的信用过程创造，其国内可接受性由作为美国政府债务工具支撑的法偿而确保。在国际舞台，美元的可接受性依托兼具经济与非经济方面的经常实践。这些实践包括：在石油等关键全球市场中把美元用作记账单位；在各民族之间用作支付手段；用作转移官方资金的手段，尤其在危机时期；在金融机构之间用作记账单位与支付手段。结果，美元储备习惯上由民族国家持有，也由在单个国家边界之外运作的国际公司持有。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Since the 1970s, the world market has been struggling to generate world money that would be able to discharge its functions adequately. Gradually, the us dollar has emerged as quasi-world money, representing an unprecedented development in the history of capitalism. Dollars are created through credit processes largely specific to the us economy, and their domestic acceptability is assured by being legal tender backed by us government instruments of debt. In the international arena, the acceptability of the dollar rests on regular practices that have both economic and non-economic aspects. These practices include using the dollar as unit of account in key global markets, such as the market for oil; as means of payment among nations; as means of transferring official funds, especially in times of crisis; as unit of account and means of payment among financial institutions. As a result, dollar reserves are customarily held by nation-states, but also by international corporations operating beyond the boundaries of individual states."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u032"
+      ],
+      "page": "246"
+    },
+    {
+      "id": "ch11-u033",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "美元作为准世界货币的角色揭示了世界市场内部权力与信任关系的重要性。美元的国际使用部分与美国在世界经济中的优势地位相关。例如美国是石油的大进口国，也是最大的（总量）借贷货币资本输出国。同样，大多数大型跨国公司总部设在美国，而美国金融机构在国际金融市场起主导作用。同时，美元的世界角色直接借助于美国的政治与军事霸权，该霸权自东方集团崩溃以来急剧加强。美元的世界角色在多大程度上依赖美国国家主动行使权力，在1997–8年亚洲危机过程中得到展示。当日本向亚洲国家提供危机融资、并提议设立单独基金以管理区域金融流量时，美国迅速扼杀了该提议，迫使处理危机时使用美元。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The role of the us dollar as quasi-world money reveals the importance of relations of power and trust within the world market. The international use of the dollar is partly associated with the preponderant role of the usa in the world economy. The usa, for instance, is a large importer of oil and the largest (gross) exporter of loanable money capital. Similarly, most of the large transnational corporations are domiciled in the usa, while us financial institutions play a dominant role in the international financial markets. At the same time, the world role of the dollar draws directly on the political and military hegemony of the us, sharply accentuated since the collapse of the Eastern bloc. The extent to which the world role of the dollar depends on the active exercise of power by the us state was demonstrated in the course of the Asian crisis of 1997–8. When Japan offered crisis finance to Asian countries, also proposing the setting up of a separate fund to manage regional financial flows, the usa rapidly scotched the proposal and forced use of the dollar in dealing with the crisis."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u033"
+      ],
+      "page": "246"
+    },
+    {
+      "id": "ch11-u034",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "美元的世界角色给美国带来的好处显而易见。第一，该国可以维持贸易差额的结构性赤字，实际上是用美国法偿向外国人购买商品。第二，它可以承诺以自身中央银行挥笔之间创造的货币偿还，从而从世界其余部分借款。第三，由于能够随意创造准世界货币，美国在国内推行货币政策方面获得相当大的自由。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The benefits to the usa from the world role of the dollar are easy to see. First, the country can maintain a structural deficit in its balance of trade, in effect buying commodities from foreigners with us legal tender. Second, it can borrow from the rest of the world by promising to repay in money generated by its own central bank at the stroke of a pen. Third, since it can create quasi-world money at will, the usa gains considerable freedom in pursuing monetary policy domestically."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u034"
+      ],
+      "page": "246–247"
+    },
+    {
+      "id": "ch11-u035",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "与此同时，其他国家的好处则难确定得多。显然——而且不言而喻——世界货币的存在有利于所有市场参与者，因为支付可以顺利而可靠地进行、价值可以转移。但就美元而言，这些好处是由使用它的实践本身创造的，换言之，来自外国人自己的行动。更强烈的是，由此产生的积累美元储备的必要性，起到了把外国人绑在使用美元作为世界货币上的作用。外国机构与公司持有的美元及以美元计价的债务工具贮藏越大，维持美元国际角色与价值的强制就越强。因为一旦美元的“世界”职能受损，输家必定包括已向美国贷款并持有大量美元的国家。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The benefits to other countries, meanwhile, are far more difficult to ascertain. Obviously – and trivially – the existence of world money is beneficial to all market participants since payments could be made and value transferred smoothly and reliably. But as far as the dollar is concerned, these benefits are created by the very practice of using it, in other words, from the actions of the foreigners themselves. Even more strongly, the resultant necessity of accumulating dollar reserves has had the effect of tying foreigners to using the dollar as world money. The larger the hoards of dollars and dollar-denominated debt instruments held by foreign institutions and corporations, the stronger the compulsion to maintain the international role and the value of the dollar. For, should the ‘world’ function of the dollar be damaged, the losers will certainly include the nations that have made loans to the usa and hold large amounts of dollars."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u035"
+      ],
+      "page": "247"
+    },
+    {
+      "id": "ch11-u036",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此美元作为准世界货币是深刻矛盾的。它自称是普遍的支付与贮藏手段，却与生产出的价值没有必然联系。它旨在成为全球支付承诺，却仍由民族信用机制创造。它借助世界市场的经济力量、习惯与法律实践，却无法通过排除其他货币的世界使用而确保对其全球角色的完全垄断。它依赖国家权力，却不是全球法偿。它旨在成为所有世界市场参与者的非人格仆人，却也内在地偏袒霸权国。此外，霸权国是世界上最大的（净）借款国，并有巨额而持久的贸易赤字。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The dollar as quasi-world money, therefore, is deeply contradictory. It purports to be a universal means of payment and hoarding but bears no necessary relation to produced value. It aims to be a global promise to pay, but remains created by national credit mechanisms. It draws on the economic forces, customs and legal practices of the world market, but cannot secure complete monopoly over its global role by excluding other monies from world use. It relies on state power, but it is not global legal tender. It aims to be an impersonal servant of all world-market participants, but it is also inherently biased in favour of the hegemonic state. The hegemon, moreover, is the largest (net) borrower in the world, and has a huge and persistent trade deficit."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u036"
+      ],
+      "page": "247"
+    },
+    {
+      "id": "ch11-u037",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "因此管理美元作为准世界货币要求系统运用政治与经济权力。20世纪80年代，美元管理涉及主要资本主义国家代表的临时聚会，如卢浮宫协议与广场协议。20世纪90年代情况变化，因为美国的霸权权力显著增加。次等资本主义强国对管理美元作为世界货币的投入变得更非正式、更间接。同时，复杂的经济与政治机制演变出来以便利世界货币管理，包括对国际银行与金融市场的监管与审慎干预。国际清算银行在这方面很重要，它收集信息并对国际银行在各金融市场的实践强制规范。国际货币基金组织更重要，它提供资金并影响整个国家的积累模式。尽管如此，成功一直难以捉摸，肯定无法与民族统治阶级管理国内货币的成功相比。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Managing the dollar as quasi-world money, therefore, requires systematic use of political and economic power. In the 1980s, dollar management involved ad hoc gatherings of representatives of the leading capitalist states, as in the Louvre and Plaza Accords. Things changed in the 1990s as the hegemonic power of the usa increased significantly. The input of lesser capitalist powers to managing the dollar as world money became more informal and indirect. At the same time, complex economic and political mechanisms evolved to facilitate world-money management, including regulatory and prudential intervention over international banks and financial markets. The Bank of International Settlements is important in this respect, collecting information and enforcing regularity on the practices of international banks across financial markets. The International Monetary Fund is even more important, making funds available and influencing the pattern of accumulation of entire countries. Nevertheless, success has been elusive, and certainly not comparable to that of national ruling classes in managing domestic money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u037"
+      ],
+      "page": "247"
+    },
+    {
+      "id": "ch11-u038",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "反复的金融危机伴随着美元作为准世界货币的崛起。它们通常与不断扩张的借贷货币资本流量相关，该流量目前使国际商品流量相形见绌。同样，汇率不稳定已呈现历史上前所未有的规模。试图通过盯住美元维持某种汇率稳定、同时又允许借贷货币资本跨境自由流动的发展中国家，遭受了重大危机——最近的是几个亚洲国家、土耳其与阿根廷。通常，相对小额世界货币的缺乏就把发展中国家抛入动荡。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Repeated financial crises have accompanied the rise of the dollar as quasi-world money. They are typically associated with expanding flows of loanable money capital that currently dwarf international flows of commodities. By the same token, exchange-rate instability has assumed historically unprecedented dimensions. Developing countries that attempt to maintain a degree of stability in their exchange rates by shadowing the dollar, while also allowing for free movement of loanable money capital across their borders, have been subjected to major crises – several Asian countries, Turkey and Argentina most recently. Typically, the lack of relative modest sums of world money catapults developing countries into turmoil."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u038"
+      ],
+      "page": "248",
+      "review": "原书排印作 relative modest sums（语法应为 relatively modest），系印刷讹误；译文按“相对小额”处理，原文照录。"
+    },
+    {
+      "id": "ch11-u039",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "同时，美元管理机制在保护美国与发达世界大部分免受货币金融动荡方面更成功，关键例外是日本。在美国经济意识形态与政策制定圈子里，逐渐开始浮现一种看法：深刻的经济不稳定已是过去之事。这种态度奇怪地令人想起20世纪60年代凯恩斯主义政策制定的自信。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "At the same time, the mechanisms of dollar management have had more success at protecting the usa and much of the developed world from monetary and financial turmoil, with the critical exception of Japan. Within the us circles of economic ideology and policy-making, the view has gradually begun to emerge that profound economic instability is a thing of the past, an attitude that is strangely reminiscent of Keynesian policy-making confidence in the 1960s."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u039"
+      ],
+      "page": "248"
+    },
+    {
+      "id": "ch11-u040",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "通过仔细考虑权力与信任在货币金融体系中的位置，可以获得对这些复杂发展的进一步洞见。但为此，首先必须考虑更广泛的问题：资本主义经济的经济方面与非经济方面之间的相互联系。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Further insight into these complex developments could be gained by considering closely the place of power and trust in the monetary and financial system. For that, however, it would first be necessary to consider the broader issue of the interconnection between the economic and the non-economic aspects of the capitalist economy."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u040"
+      ],
+      "page": "248"
+    },
+    {
+      "id": "ch11-u041",
+      "canonical_kind": "heading",
+      "zh": [
+        "3 分析资本主义经济的经济方面与非经济方面"
+      ],
+      "en": [
+        "3 Analysing the Economic and the Non-Economic Aspects of the Capitalist Economy"
+      ],
+      "source_ids": [
+        "ch11-u041"
+      ],
+      "page": "248",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch11-u042",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "经济关系与非经济关系在当代货币与金融领域密切互动。权力与信任关系渗透货币与金融领域，具有直接的政治与意识形态含义。对反对资本主义的人而言，理论上分析这些关系是紧迫需要。过去三十年主流经济学内部的发展加剧了理论介入的需要。",
+            {
+              "type": "note",
+              "id": "n_ch11_007",
+              "label": "7"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Economic and non-economic relations interact closely in the realm of contemporary money and finance. Relations of power and trust permeate the monetary and financial realm with immediate political and ideological implications. For those opposed to capitalism, there is an urgent need theoretically to analyse these relations. The need to engage theoretically has been exacerbated by developments within mainstream economics during the last three decades.",
+            {
+              "type": "note",
+              "id": "n_ch11_007",
+              "label": "7"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u042"
+      ],
+      "page": "248"
+    },
+    {
+      "id": "ch11-u043",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "主流经济学在不放弃其新古典核心的同时，积累了分析现象与实践的新能力，而这些在较早时代被视为其他社会科学（如社会学）的领地。",
+            {
+              "type": "note",
+              "id": "n_ch11_008",
+              "label": "8"
+            },
+            "分析焦点日益转向环绕市场的制度——经济的、社会的、政治的、甚至宗教的。",
+            {
+              "type": "note",
+              "id": "n_ch11_009",
+              "label": "9"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Without abandoning its neoclassical core, mainstream economics has accrued fresh capacity to analyse phenomena and practices that, in an earlier era, were considered the province of other social sciences, such as sociology.",
+            {
+              "type": "note",
+              "id": "n_ch11_008",
+              "label": "8"
+            },
+            " Analytical focus has turned increasingly on the institutions that surround markets – economic, social, political, and even religious.",
+            {
+              "type": "note",
+              "id": "n_ch11_009",
+              "label": "9"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u043"
+      ],
+      "page": "248–249"
+    },
+    {
+      "id": "ch11-u044",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尤其，主流经济学密切关注社会规范、习惯实践与市场参与者之间的非市场纽带。这些关系常用包罗一切的术语“社会资本”来捕捉。这是一个有缺陷的概念，因为资本是内在的经济术语，蕴含存量的自行运动与自我补充，几乎不适用于非经济关系。",
+            {
+              "type": "note",
+              "id": "n_ch11_010",
+              "label": "10"
+            },
+            "尽管如此，它使主流经济学得以在与保守经济社会学的公开合作中，咄咄逼人地进入非经济关系领域。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In particular, mainstream economics has focused closely on social norms, customary practices and non-market bonds between market participants. These relations are often captured with the catchall term ‘social capital’. This is a flawed concept, since capital is an inherently economic term that entails self-motion and self-replenishment of stocks, hardly applicable to non-economic relations.",
+            {
+              "type": "note",
+              "id": "n_ch11_010",
+              "label": "10"
+            },
+            " Nevertheless, it has allowed mainstream economics to move aggressively into the field of non-economic relations, in open collaboration with conservative economic sociology."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u044"
+      ],
+      "page": "249"
+    },
+    {
+      "id": "ch11-u045",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思主义政治经济学对主流的这些发展反应迟缓。反应的迟缓大概部分归于历史唯物主义的内核本身，尤其是马克思主义对“基础”与“上层建筑”的区分。众所周知，对马克思而言，某些社会关系对社会演变比其他更重要，应被赋予特殊的分析地位。",
+            {
+              "type": "note",
+              "id": "n_ch11_011",
+              "label": "11"
+            },
+            "于是经济处于社会的“基础”，为“上层建筑”的非经济关系定调。在经济内部，生产关系支配交换与分配关系，并取得分析上的优先。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marxist political economy has been slow to react to these developments in the mainstream. The tardiness of response probably owes something to the very kernel of historical materialism, above all, the Marxist distinction of ‘base’ and ‘superstructure’. For Marx, as is well-known, some social relations are more important than others for the evolution of society, and ought to be accorded special analytical status.",
+            {
+              "type": "note",
+              "id": "n_ch11_011",
+              "label": "11"
+            },
+            " Thus, the economy is at the ‘base’ of society, setting the tone for non-economic relations of the ‘superstructure’. Within the economy, relations of production dominate those of exchange and distribution, and take analytical precedence."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u045"
+      ],
+      "page": "249"
+    },
+    {
+      "id": "ch11-u046",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这是一个决定性洞见，但“基础”与“上层建筑”之间相互作用的进程在马克思主义理论内部远不清楚。然而可以肯定，马克思自己的经济分析充满对法律及其执行、政治斗争、历史事件与不同民族传统实践的提及。无论马克思以“基础”与“上层建筑”的区分意指什么，他都不回避把大量广泛非经济因素纳入对资本更深层经济核心的分析。《资本论》非凡的解释力来自抽象经济分析与对资本主义及前资本主义社会的历史、传统、习惯、政治与广泛社会方面讨论的不断融合。例如这在马克思对工作日长度与“资本主义积累的一般规律”的法律、习惯、政治与历史方面的分析中显而易见。",
+            {
+              "type": "note",
+              "id": "n_ch11_012",
+              "label": "12"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This is a decisive insight, but the course of interaction between ‘base’ and ‘superstructure’ is far from clear within Marxist theory. It is certain, however, that Marx’s own economic analysis brims with references to laws and their enforcement, political struggle, historical events and traditional practices among different peoples. Whatever Marx meant by the distinction between ‘base’ and ‘superstructure’, he did not balk at incorporating a host of broad non-economic factors in analysis of the deeper economic core of capital. The remarkable explanatory power of Capital derives from constant blending of abstract economic analysis with discussion of historical, traditional, customary, political and broadly social aspects of capitalist and pre-capitalist societies. This is evident, for instance, in Marx’s analysis of the legal, customary, political and historical aspects of the length of the working day and of the ‘General Law of Capitalist Accumulation’.",
+            {
+              "type": "note",
+              "id": "n_ch11_012",
+              "label": "12"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u046"
+      ],
+      "page": "249"
+    },
+    {
+      "id": "ch11-u047",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对马克思而言，资本主义积累过程把生产、流通与分配结合在一起，同时拥有自己的内在逻辑与动机，概括为价值自行增殖。积累为分析经济关系与非经济关系的相互作用提供了自然的理论场地，而不忽视后者历史上特定的资本主义性质。尽管如此，积累过程不是资本主义社会一切经济关系的指南，更不是一切非经济关系的指南。例如工人收入的支出只间接联系于资本主义积累。更重要的是，非经济的各领域——政治、意识形态、宗教、文化等——有自己的内在结构与动力，不可还原为资本主义积累的逻辑与动机。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For Marx, the process of capitalist accumulation brings together production, circulation, and distribution, while possessing its own internal logic and motives, summed in the self-expansion of value. Accumulation provides natural theoretical terrain for analysis of the interplay of economic and non-economic relations, without ignoring the historically specific, capitalist nature of the latter. Nonetheless, the process of accumulation is not a guide to all economic relations in capitalist society, and certainly not to all non-economic relations. The expenditure of workers’ income, for instance, is only indirectly connected to capitalist accumulation. More significantly, the various spheres of the non-economic – politics, ideology, religion, culture, and so on – have their own internal structure and dynamics that are irreducible to the logic and motives of capitalist accumulation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u047"
+      ],
+      "page": "250"
+    },
+    {
+      "id": "ch11-u048",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "本着这种精神，我在别处提出：存在对资本主义积累不可或缺的非经济关系，如资本家在生产点对工人行使的权力。",
+            {
+              "type": "note",
+              "id": "n_ch11_013",
+              "label": "13"
+            },
+            "这些区别于产生于经济领域之外但被置于资本服务之下的非经济关系，如劳动力再生产所特有的家庭关系。这一区分与庸俗马克思主义无关，也不把经济关系等同于市场关系。",
+            {
+              "type": "note",
+              "id": "n_ch11_014",
+              "label": "14"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In this spirit, it has been elsewhere suggested that non-economic relations exist which are integral to capitalist accumulation, such as power exercised by capitalists over workers at the point of production.",
+            {
+              "type": "note",
+              "id": "n_ch11_013",
+              "label": "13"
+            },
+            " These are distinguished from non-economic relations generated beyond the sphere of the economy but placed at the service of capital, such as familial relations characteristic of the reproduction of labour power. This distinction has nothing to do with vulgar Marxism, nor does it equate economic relations with market relations.",
+            {
+              "type": "note",
+              "id": "n_ch11_014",
+              "label": "14"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u048"
+      ],
+      "page": "250"
+    },
+    {
+      "id": "ch11-u049",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "于是资本更深层的经济运动涉及非经济关系，包括社会习惯与规范。例如工人在生产点的纪律与协调当然是经济关系，但依赖历史演变形成的工作习惯。此外，纪律与协调与资本主义权力同延，后者有阶级决定因素并导向剥削。同时，原本与资本直接领域无关的非经济关系，可能被后者调集。例如家庭之爱与互惠本身并无内在资本主义性质，尽管两者都从属于劳动力再生产并因而获得资本主义方面。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Thus, the deeper economic motion of capital involves non-economic relations, including social customs and norms. The discipline and the coordination of workers at the point of production, for instance, are certainly economic relations, but rely on historically evolved habits of work. Moreover, discipline and co-ordination are co-extensive with capitalist power, which has class determinants and leads to exploitation. At the same time, non-economic relations that are originally unrelated to the immediate realm of capital, could become marshalled by the latter. There is, for example, nothing inherently capitalist to familial love and reciprocity, despite both being subordinated to the reproduction of labour power and thus acquiring a capitalist aspect."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u049"
+      ],
+      "page": "250"
+    },
+    {
+      "id": "ch11-u050",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "带着这一区分，此处提出：货币与信用代表权力与信任关系，它们部分通过市场过程产生，部分产生于经济之外，并从属于资本主义利润获取。",
+            {
+              "type": "note",
+              "id": "n_ch11_015",
+              "label": "15"
+            },
+            "更广泛地说，货币与信用的制度与过程赋予资本主义社会各处的权力与信任以阶级方面。货币与信用机制系统地把权力与信任置于资本主义积累的服务之下。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "With this distinction in mind, it is proposed here that money and credit represent relations of power and trust, partly arising through market processes, partly generated outside the economy, which are subordinated to capitalist profit making.",
+            {
+              "type": "note",
+              "id": "n_ch11_015",
+              "label": "15"
+            },
+            " More broadly, the institutions and processes of money and credit assign a class aspect to power and trust across capitalist society. Monetary and credit mechanisms systematically place power and trust at the service of capitalist accumulation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u050"
+      ],
+      "page": "250–251"
+    },
+    {
+      "id": "ch11-u051",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "迪姆斯基在本专题讨论中内容丰富的撰稿里，把这一论证解读为把货币与信用还原为单纯的资本主义积累关系。他主张对货币与信用采取更广泛的“异端”路径，借助马克思主义对资本的基本分析，同时把它与其他研究资本主义经济的激进路径置于平等地位。为支持其观点，迪姆斯基一方面指出货币作为应对不确定性的社会手段的重要性，另一方面指出个人金融（包括储蓄机构）在当代资本主义中的分量。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In his informative contribution to this symposium, Dymski interprets this argument as the reduction of money and credit to mere relations of capitalist accumulation. He advocates a broader ‘heterodox’ approach to money and credit that draws on fundamental Marxist analysis of capital, while placing it on an equal footing with other radical approaches to the capitalist economy. To support his view, Dymski points, on the one hand, to the importance of money as the social means of dealing with uncertainty and, on the other, to the weight of personal finance in contemporary capitalism, including savings institutions."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u051"
+      ],
+      "page": "251"
+    },
+    {
+      "id": "ch11-u052",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "迪姆斯基的论证尽管有洞见，最终却缺乏说服力。以资本主义积累为分析出发点，不是把一切社会过程还原为剥削。它也不妨碍在与资本主义积累没有直接联系的领域分析货币与信用。相反，资本主义积累提供穿越构成货币与信用领域的经济与非经济关系迷宫的罗盘。即使剥削与压迫的阶级关系经由货币与信用折射，资本主义社会的阶级性质仍被置于首要位置。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Dymski’s argument, despite its insights, is ultimately unpersuasive. To take capitalist accumulation as the analytical point of departure is not to reduce all social processes to exploitation. Nor is it a barrier to analysing money and credit in fields that are not directly connected to capitalist accumulation. Rather, capitalist accumulation provides a compass through the maze of economic and non-economic relations that comprise the field of money and credit. The class nature of capitalist society is kept at the forefront, even when exploitative and oppressive class relations are refracted through money and credit."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u052"
+      ],
+      "page": "251"
+    },
+    {
+      "id": "ch11-u053",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "此外，尽管“异端”货币与金融路径之间的互动至关重要，但进入“异端”的“所有切入点”并非同等有效，也不可能如迪姆斯基似乎暗示的那样自然互补。对马克思主义政治经济学而言，资本与劳动之间的基本互动使经济的一切方面——包括货币与金融——呈现特定的面貌。剥削理论不是可以在触及货币与金融或其他具体经济问题时搁置一旁的思维练习。没有对阶级剥削与压迫的经常参照，马克思主义政治经济学就会沦为关于资本主义的或多或少有趣的观察的集合。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Furthermore, while it is vital for ‘heterodox’ approaches to money and finance to interact, not ‘all points of entry’ into ‘heterodoxy’ have equal validity, nor could they naturally supplement each other, as Dymski appears to suggest. For Marxist political economy, the fundamental interaction between capital and labour sheds a particular light on all aspects of the economy, including money and finance. The theory of exploitation is not a mental exercise that could be left aside when money and finance, or other concrete economic issues, are broached. Without constant reference to class exploitation and oppression, Marxist political economy would be reduced to a collection of more or less interesting observations about capitalism."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u053"
+      ],
+      "page": "251"
+    },
+    {
+      "id": "ch11-u054",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对迪姆斯基关于日本马克思主义宇野学派所主张的理论研究三层次的评估，也可以说几乎同样的话。迪姆斯基假定第一层次——即对资本基本运动的抽象研究——可以与随后两个层次（分别是历史阶段划分与特定国家的经验研究）“筑墙隔离”。但这不可能正确。没有第一层次的抽象研究，其他两个层次的宇野式分析就会漂泊于泛泛之论的海洋。尽管如此——鉴于伊藤诚在本专题讨论中对迪姆斯基的评论，这一点应当说明——宇野式分析内在有某种张力。区分三个研究层次的分析价值是清楚的，但理论如何在层次之间转移却不清楚。正是这一张力使迪姆斯基能够断言第一层次分析可以与其他层次“筑墙隔离”。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Much the same could be said about Dymski’s assessment of the three levels of theoretical research advocated by the Uno current of Japanese Marxism. Dymski assumes that the first level, that is, abstract research into the fundamental motion of capital, could be ‘walled off’ from the subsequent two levels of, respectively, historical periodisation and empirical study of particular countries. But this cannot be right. Without the first level of abstract research, Uno-type analyses at the other two levels would be cast adrift in a sea of generalities. Nevertheless, and this should be stated in view of Itoh’s remarks on Dymski in this symposium, there is a certain tension inherent to Uno-type analysis. While the analytical value of distinguishing among the three levels of research is clear, the way in which theory could shift between levels is not. Precisely this tension allows Dymski to assert that the first level of analysis could be ‘walled off’ from the others."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u054"
+      ],
+      "page": "251–252"
+    },
+    {
+      "id": "ch11-u055",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "据此，本章就货币与信用提出如下两个具体主张。",
+            {
+              "type": "note",
+              "id": "n_ch11_016",
+              "label": "16"
+            },
+            "第一，货币是交换关系的自发产物，代表绝对购买能力，后者是货币更广泛经济与社会权力的根源。第二，资本主义信用体系包含金字塔式的制度、市场与资产结构，它们在资本主义积累基础上自发出现并体现信任。此外，信用体系把信任从私人而主观的关系转变为社会而客观的关系，并置于资本的服务之下。两个主张都植根于宇野式分析，但在此得到发展，以纳入货币权力的社会成分与信用机制内部信任的转变，如下一节所示。",
+            {
+              "type": "note",
+              "id": "n_ch11_017",
+              "label": "17"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In this light, the following two specific claims are made in this chapter with regard to money and credit.",
+            {
+              "type": "note",
+              "id": "n_ch11_016",
+              "label": "16"
+            },
+            " The first is that money is a spontaneous product of exchange relations representing absolute ability to buy, the latter lying at the root of money’s broader economic and social power. The second is that the capitalist credit system comprises a pyramid-like structure of institutions, markets and assets that emerge spontaneously on the basis of capitalist accumulation and embody trust. The credit system, furthermore, transforms trust from a private and subjective into a social and objective relationship, which is placed at the service of capital. Both claims have roots in Uno-type analysis, but are developed here to include the social constituents of money’s power and the transformation of trust within the mechanisms of credit, as is shown in the following section.",
+            {
+              "type": "note",
+              "id": "n_ch11_017",
+              "label": "17"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u055"
+      ],
+      "page": "252"
+    },
+    {
+      "id": "ch11-u056",
+      "canonical_kind": "heading",
+      "zh": [
+        "4 权力与信任在货币与信用领域中的特殊作用"
+      ],
+      "en": [
+        "4 The Exceptional Role of Power and Trust in the Realm of Money and Credit"
+      ],
+      "source_ids": [
+        "ch11-u056"
+      ],
+      "page": "252",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch11-u057",
+      "canonical_kind": "subheading",
+      "zh": [
+        "4.1 货币经济权力与社会权力的根源"
+      ],
+      "en": [
+        "4.1 The Roots of Money’s Economic and Social Power"
+      ],
+      "source_ids": [
+        "ch11-u057"
+      ],
+      "page": "252",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch11-u058",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币在一般交换过程、尤其在资本主义经济中的作用，是经济理论中最困难的问题之一。在新古典经济学内部，货币通常被视为从直接商品交换中产生的交换手段。",
+            {
+              "type": "note",
+              "id": "n_ch11_018",
+              "label": "18"
+            },
+            "这一路径任意地优先对待货币的职能之一（交换手段），并构造与直接商品交换的历史和人类学证据几乎无关的物物交换抽象模型。此外，其方法论个人主义妨碍洞察市场与货币两者的社会支撑。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The role of money in the exchange process in general and in the capitalist economy in particular is one of the most difficult problems in economic theory. Within neoclassical economics, money is typically seen as means of exchange that emerges out of direct commodity exchange.",
+            {
+              "type": "note",
+              "id": "n_ch11_018",
+              "label": "18"
+            },
+            " This approach arbitrarily privileges one of money’s functions (means of exchange) and creates an abstract model of barter that bears little relation to the historical and anthropological evidence on direct commodity exchange. Moreover, its methodological individualism prevents insight into the social underpinnings of both markets and money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u058"
+      ],
+      "page": "252"
+    },
+    {
+      "id": "ch11-u059",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "另一路径根源古老但目前与后凯恩斯主义相关，它把货币视为契约与信用交易不可或缺的抽象记账单位。通常它把货币视为国家——或其他社会构成的权威——独立于交换过程的创造。",
+            {
+              "type": "note",
+              "id": "n_ch11_019",
+              "label": "19"
+            },
+            "迪姆斯基把货币视为应对不确定性的社会手段的观点同情这一路径。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "An alternative approach, with old roots but currently associated with post-Keynesianism, views money as abstract unit of account integral to contracts and credit transactions. Typically, it treats money as the creation of the state – or some other socially constituted authority – independently of the exchange process.",
+            {
+              "type": "note",
+              "id": "n_ch11_019",
+              "label": "19"
+            },
+            " Dymski’s view of money as a social means of dealing with uncertainty is sympathetic to this approach."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u059"
+      ],
+      "page": "252–253"
+    },
+    {
+      "id": "ch11-u060",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "尽管对主流经济学持批判立场，后凯恩斯主义在这一问题上却是新古典主义的镜像，因为它任意地优先对待货币的另一职能，即记账单位。新古典主义把货币视为单纯交换手段、罩在实际经济过程上的“面纱”，后凯恩斯主义替代路径则把货币视为人类与自然基本互动的一部分。新古典主义对“原始人”之间直接交换的漫画被正确拒绝，却只是被晦涩的故事取代：古代国家官员、或从事复杂信用交易的商人发明了抽象记账单位。",
+            {
+              "type": "note",
+              "id": "n_ch11_020",
+              "label": "20"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Despite its critical outlook with respect to mainstream economics, on this issue post-Keynesianism is the mirror image of neoclassicism, since it arbitrarily privileges another of money’s functions, that is, unit of account. While neoclassicism treats money as mere means of exchange, a ‘veil’ over real economic processes, the post-Keynesian alternative treats money as part of the fundamental human interaction with nature. The neoclassical caricature of direct exchange among ‘primitives’ is rightly rejected, only to be replaced by obscure tales of abstract units of account invented by ancient state officials, or by merchants engaging in complex credit transactions.",
+            {
+              "type": "note",
+              "id": "n_ch11_020",
+              "label": "20"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u060"
+      ],
+      "page": "253"
+    },
+    {
+      "id": "ch11-u061",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思对一般等价物的分析提供了一条免于那些弱点的通向货币之路，尤其当沿宇野学派最初提示的路线解释时。",
+            {
+              "type": "note",
+              "id": "n_ch11_021",
+              "label": "21"
+            },
+            "简言之，一般等价物代表从商品交换关系中自发而必然产生的绝对购买能力。货币的本质是对商品之间直接可交换性的垄断。货币的职能无一支配其余，而全都从货币本质流出。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx’s analysis of the universal equivalent offers a path to money that is free of those weaknesses, especially when interpreted along lines originally suggested by the Uno school.",
+            {
+              "type": "note",
+              "id": "n_ch11_021",
+              "label": "21"
+            },
+            " In a nutshell, the universal equivalent represents absolute ability to buy that emerges spontaneously and necessarily out of commodity exchange relations. The essence of money is monopoly over direct exchangeability among commodities. None of money’s functions dominates the rest, but all flow from money’s essence."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u061"
+      ],
+      "page": "253"
+    },
+    {
+      "id": "ch11-u062",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "通过聚焦货币所凝聚的社会关系——尤其环绕货币出现与使用的社会习惯与规范——这一分析可以进一步发展。",
+            {
+              "type": "note",
+              "id": "n_ch11_022",
+              "label": "22"
+            },
+            "货币的购买能力依托商品所有者彼此之间的“陌生性”，即依托亲属、等级、宗教等对商品所有者影响之弱。货币是“陌生人”的社会纽带，是把商品所有者在市场内外维系在一起的物的纽带（nexus rerum）。然而货币也（且必然）依赖商品所有者之间关于进入市场与在其中运作的盛行习惯与规范。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This analysis can be further developed by focusing on the social relations encapsulated by money, particularly the social customs and norms that surround money’s emergence and use.",
+            {
+              "type": "note",
+              "id": "n_ch11_022",
+              "label": "22"
+            },
+            " Money’s ability to buy rests on the ‘foreign-ness’ of commodity owners from each other, that is, on the weak influence on commodity owners of kinship, hierarchy, religion, and so on. Money is the social bond of ‘foreigners’, the nexus rerum holding commodity owners together in the market and beyond. However, money also (and necessarily) relies on customs and norms that prevail among commodity owners with regard to entering the market and operating within it."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u062"
+      ],
+      "page": "253"
+    },
+    {
+      "id": "ch11-u063",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "至少，货币依赖对暴力的习惯性与制度性排除，这种暴力很容易在商品所有者之间爆发。此外，货币的使用本身是一种社会规范：货币的购买能力是社会确立的，因为商品所有者提供商品换货币，预期他人也会如此。以商品换货币的经常实践验证商品所有者的预期。货币的习惯与规范方面存在于其一切形式中，包括黄金等商品货币。但它对当代信用货币形式是根本性的，后者不包含价值，其可接受性依托经济与社会安排。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "At the very least, money relies on the customary and institutional exclusion of violence that could easily break out among commodity owners. Moreover, the use of money is itself a social norm: money’s ability to buy is socially established because commodity owners offer their commodities for money in the expectation that others will also do so. The regular practice of exchanging commodities for money validates the expectations of commodity owners. The customary and norm-like aspect of money is present in all its forms, including commodity money, such as gold. But it is fundamental to contemporary forms of credit money that do not contain value and whose acceptability rests on economic and social arrangements."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u063"
+      ],
+      "page": "253–254"
+    },
+    {
+      "id": "ch11-u064",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "同情宇野式分析的宫泽在本专题讨论的撰稿中注意到这一路径的新颖性——即使按宇野传统衡量。他提议沿货币与商品物理属性之间假定联系的方向扩展它。按宫泽的看法，商品所有者从事交换时，必须保留某些商品以应对时间性与需求不匹配问题。货币因其物理属性、尤其耐久性，是最适合保留的商品。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Miyazawa, who is sympathetic to Uno-type analysis, has noted the novelty of this approach – even in terms of the Uno tradition – in his contribution to this symposium. He proposes to extend it in terms of a putative link between money and the physical properties of commodities. According to Miyazawa, when commodity owners engage in exchange, they must keep some commodities in reserve to deal with problems of timing and incompatibility of wants. Money is the commodity most suitable for keeping in reserve because of its physical properties, especially its durability."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u064"
+      ],
+      "page": "254"
+    },
+    {
+      "id": "ch11-u065",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而宫泽随后必须处理一个进一步的逻辑问题：即如果一种商品要被保留（或作为贮藏要素），它必须已被接受为比其他商品更一般的财富代表。马克思论证商品货币是“物质财富的物质象征……社会财富的总汇”。",
+            {
+              "type": "note",
+              "id": "n_ch11_023",
+              "label": "23"
+            },
+            "在发达资本主义中，几种商品可以充当财富的部分代表——汽车、游艇、飞机、宫殿式住宅与富人的其他华而不实之物——而只有货币是社会财富的一般代表。货币比其他商品更充分代表财富的能力，来自它对购买力的垄断，即来自它代表价值的能力。因此最终需要解释的是货币独特的购买能力，其物理属性对此只居次要地位。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "However, Miyazawa must then deal with a further logical problem, namely if a commodity is to be kept in reserve (or as hoard element) it must have already been accepted as a more general representation of wealth than other commodities. Marx argued that commodity money is ‘the material symbol of physical wealth … the compendium of social wealth’.",
+            {
+              "type": "note",
+              "id": "n_ch11_023",
+              "label": "23"
+            },
+            " In advanced capitalism, several commodities can act as partial representatives of wealth – cars, boats, planes, palatial houses and other fripperies of the rich – while only money is the general representative of social wealth. The ability of money to represent wealth more adequately than other commodities is due to its monopoly over buying power, that is, to its ability to represent value. What ultimately needs explaining, therefore, is money’s unique ability to buy, for which its physical properties are of secondary importance."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u065"
+      ],
+      "page": "254"
+    },
+    {
+      "id": "ch11-u066",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币对购买能力的垄断，是分析其在资本主义社会中更广泛经济与社会角色、以及附着于它的各种意义与表象的根本。货币成为资本，并提供资本循环运动的动机与关键阶段。",
+            {
+              "type": "note",
+              "id": "n_ch11_024",
+              "label": "24"
+            },
+            "货币的购买能力被资本占有，资本随后把货币变成在整个资本主义经济中系统转移资源的信号与手段。于是货币是资本主义收入的原初形式，也是工人及其他人获取使用价值的手段。在资本主义经济中，货币允许公司与个人制定并实施关于未来的计划。简言之，货币是资本主义经济的组织者。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Money’s monopoly over the ability to buy is fundamental to analysing its broader economic and social role in capitalist society, as well as the variety of meanings and representations attached to it. Money becomes capital, and supplies the motive as well as a key stage of the circular movement of capital.",
+            {
+              "type": "note",
+              "id": "n_ch11_024",
+              "label": "24"
+            },
+            " Money’s ability to buy is appropriated by capital, which subsequently turns money into both the signal and the means for transferring resources systematically across the capitalist economy. Money is, thus, the original form of capitalist income and the means of obtaining use values for workers and others. In a capitalist economy, money allows both corporations and individuals to make, and to put into effect, plans about the future. In short, money is the organiser of the capitalist economy."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u066"
+      ],
+      "page": "254"
+    },
+    {
+      "id": "ch11-u067",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "货币在资本主义经济中当然起应对不确定性手段的作用，但这主要由于经济的资本主义性格。渗透资本主义经济的市场过程部分是无政府的，部分是通过货币无意识地组织的。于是货币允许就未来采取头寸，尤其在资本主义投资领域。但货币在这方面的作用对社会并非一律有益，并可能引起新的不确定性。货币在经济中不可预测的移动——尤其如果金融家的“货币阶层”已经形成——构成不确定性的社会来源。这种不确定性是社会科学分析的恰当对象，而迪姆斯基所青睐的“不可知”未来的非历史不确定性则难以这样说。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Money certainly functions as means of dealing with uncertainty in a capitalist economy, but this is primarily due to the economy’s capitalist character. The market processes that permeate the capitalist economy are partly anarchic and partly unconsciously organised through money. Thus, money allows positions to be taken with regard to the future, especially in the field of capitalist investment. But money’s functioning in this respect is not uniformly beneficial to society, and could induce fresh uncertainty. Unpredictable shifts of money across the economy – especially if a ‘monied estate’ of financiers has come into being – constitute a social source of uncertainty. This uncertainty is a proper object of analysis by social science, something that cannot be easily said about the unhistorical uncertainty of the ‘unknowable’ future, favoured by Dymski."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u067"
+      ],
+      "page": "254–255"
+    },
+    {
+      "id": "ch11-u068",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "此外，货币对购买能力的垄断、因而对资源的支配，赋予其持有者更广泛的社会与政治权力，资本在全社会现成地发现这种权力。货币购买教育并直接转移特权，从而允许进入不同社会群体并直接或通过婚姻创造社会等级。货币在资产阶级选举过程与政治权力行使中也起关键作用。其社会渗透性赋予货币各种意义与表象，包括人类情感的表象。于是货币把交换关系的本质附着于范围极大的人类行动——它赋予内在与市场及商品无关的事物与活动以商品方面。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Moreover, money’s monopoly over the ability to buy, and hence its command over resources, afford to its holders broader social and political power, which capital finds ready-made across society. Money buys an education and transfers privilege directly, thus allowing access into different social groups and creating social hierarchies, directly or through marriage. Money also plays a critical role in the bourgeois electoral process and the exercise of political power. Its social pervasiveness gives to money a variety of meanings and representations, including of human sentiments. Thus, money attaches the essence of exchange relations to a huge range of human actions – it lends a commodity aspect to things and activities that are inherently unrelated to markets and commodities."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u068"
+      ],
+      "page": "255"
+    },
+    {
+      "id": "ch11-u069",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而同样，货币也引起个人、社会群体乃至整个社会阶级的反应，他们寻求否定其权力并颠覆商业伦理。过去二十年地方交换贸易体系（lets）的扩散就是资本主义社会内部这种自发反应的一例。概括说，lets 是排除官方货币的商品与服务交换网络，试图消除共同体生活中的剥削与金钱动机。沿类似路线，19世纪上半叶空想社会主义者欧文与无政府社会主义者蒲鲁东主张以劳动小时计价的“劳动货币”取代官方货币。据推测，“劳动货币”本会防止剥削、打破货币对经济活动的魔咒、并便利共同体团结。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Equally, however, money elicits the reaction of individuals, social groups and entire social classes that seek to negate its power and to subvert the commercial ethic. The proliferation of Local Exchange Trading Systems (lets) during the last two decades is an instance of this spontaneous reaction within capitalist society. Put summarily, lets are exchange networks for goods and services that exclude official money in an attempt to do away with exploitation and pecuniary motives in communal life. Along similar lines, during the first half of the nineteenth century, the utopian socialist Owen and the anarchist-socialist Proudhon advocated replacing official money with ‘labour money’ denominated in hours of labour. ‘Labour money’, presumably, would have prevented exploitation, broken the spell of money over economic activity, and facilitated communal solidarity."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u069"
+      ],
+      "page": "255"
+    },
+    {
+      "id": "ch11-u070",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思拒绝这些想法，因为剥削来自阶级关系，而阶级关系不能仅通过引入不同货币形式来转变。",
+            {
+              "type": "note",
+              "id": "n_ch11_025",
+              "label": "25"
+            },
+            "货币也许是资本主义经济的组织者，但它仍是市场关系的单纯产物，是商品所有者之间予取往来的结果。因此要真正转变社会，必须改变资本主义生产与交换关系，包括废除资本主义对生产资料的所有权与控制权。尽管如此，设计非剥削性“共同体”货币的尝试持续不断并非偶然。这类方案标志社会对货币危害社会生活之影响的抵抗深度，尽管它们通常仍未意识到货币经济与社会权力的更深来源。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marx rejected these ideas, since exploitation derives from class relations that cannot be transformed simply through the introduction of a different form of money.",
+            {
+              "type": "note",
+              "id": "n_ch11_025",
+              "label": "25"
+            },
+            " Money might be the organiser of the capitalist economy, but it remains a mere product of market relations, an outcome of the give-and-take among commodity owners. For a true transformation of society, therefore, capitalist relations of production and exchange must be altered, including the abolition of capitalist ownership and control over means of production. Still, the persistence of attempts to devise non-exploitative ‘communal’ monies is not accidental. Such schemes signify the depth of social resistance to the deleterious effect of money on social life, though they typically remain unaware of the deeper sources of money’s economic and social power."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u070"
+      ],
+      "page": "255–256"
+    },
+    {
+      "id": "ch11-u071",
+      "canonical_kind": "subheading",
+      "zh": [
+        "4.2 信用作为社会化的信任"
+      ],
+      "en": [
+        "4.2 Credit as Socialised Trust"
+      ],
+      "source_ids": [
+        "ch11-u071"
+      ],
+      "page": "256",
+      "type": "subheading",
+      "level": 2
+    },
+    {
+      "id": "ch11-u072",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "信用也纳入非经济关系，但其复杂程度与货币不在同一层级。分析信用关系，首先重要的是强调马克思主义政治经济学提出一种信用的货币理论。货币的存在是资本主义信用的前提，货币关系构成信用关系的基石。具体说，货币作为信用交易中的记账单位、作为信用余额须结清时的支付手段、作为贮藏结清信用义务能力的手段，是必要的。对马克思而言，货币作为信用基础的角色在积累正常过程中隐藏，但在危机中尖锐浮现，那时资本家必须拥有货币以结清债务。",
+            {
+              "type": "note",
+              "id": "n_ch11_026",
+              "label": "26"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Credit also incorporates non-economic relations but of a different order of complexity to money. To analyse credit relations, it is important first to emphasise that Marxist political economy proposes a monetary theory of credit. The existence of money is a precondition for capitalist credit, and monetary relations form the bedrock of credit relations. Specifically, money is necessary as a unit of account in credit transactions, as the means of payment when credit balances have to be settled, and as the means of storing the capacity to settle credit obligations. For Marx, the role of money as foundation of credit is hidden in the normal course of accumulation but emerges sharply during crises, when capitalists must possess money to settle debts.",
+            {
+              "type": "note",
+              "id": "n_ch11_026",
+              "label": "26"
+            }
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u072"
+      ],
+      "page": "256"
+    },
+    {
+      "id": "ch11-u073",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "信任内在于信用交易，因为信用代表预付价值并在较晚时点收取等价物。",
+            {
+              "type": "note",
+              "id": "n_ch11_027",
+              "label": "27"
+            },
+            "这对商业信用（即凭支付承诺预付商品）与银行（或货币）信用（即凭支付承诺预付货币）都成立。资本家极难在没有即时收取等价物的情况下让渡价值，因为资本主义活动的动机正是价值增殖。因此资本主义信用所需的信任必须依托习惯、法律与制度实践的精细机制。这些机制以两种相关但分离的方式维持对借款人偿还能力的信任。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Trust is inherent to credit transactions, since credit stands for advancing value and receiving an equivalent at a later point in time.",
+            {
+              "type": "note",
+              "id": "n_ch11_027",
+              "label": "27"
+            },
+            " This holds for both trade credit, that is, the advance of commodities against promises to pay, and banking (or monetary) credit, that is, the advance of money against promises to pay. It is profoundly difficult for capitalists to part with value without immediate receiving an equivalent, since the very motive of capitalist activity is the expansion of value. Consequently, the trust that is necessary for capitalist credit must rest on elaborate mechanisms of customary, legal and institutional practice. These mechanisms sustain trust in the ability of the borrower to repay in two related but separate ways."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u073"
+      ],
+      "page": "256",
+      "review": "原书排印作 without immediate receiving（语法应为 immediately），系印刷讹误；译文按“即时”处理，原文照录。"
+    },
+    {
+      "id": "ch11-u074",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "第一，信用机构系统收集并评估关于借款人经济活动的信息，从而作为整个资本主义经济的经济知识储存库起作用。第二，信用机构也收集并评价关于借款人政治关系、社会地位、家庭纽带与其他社会特征的信息，因为即使借款人经济活动失败，这些也能保证偿还。于是信用机构也是关于触及资本家阶级核心的社会关系的知识储存库。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "First, credit institutions systematically collect and assess information regarding the borrower’s economic activities, thus functioning as repositories of economic knowledge for the entire capitalist economy. Second, credit institutions also gather and evaluate information regarding the borrower’s political connections, social position, familial links and other social characteristics, since these could guarantee repayment even if the borrower’s economic activities failed. Thus, credit institutions are also a repository of knowledge regarding social connections that reach to the core of the capitalist class."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u074"
+      ],
+      "page": "256–257"
+    },
+    {
+      "id": "ch11-u075",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而信用体系机制的非凡之处在于：除收集信任所需信息外，它们还把该信任本身从主观而私人的关系转变为客观而社会的关系。",
+            {
+              "type": "note",
+              "id": "n_ch11_028",
+              "label": "28"
+            },
+            "这一转变赋予信任关系以鲜明的资本主义性格，并把它们置于资本主义积累的服务之下，尤其在成熟资本主义中。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "However, the remarkable aspect of the mechanisms of the credit system is that in addition to collecting information necessary for trust, they also transform that very trust from a subjective and private into an objective and social relationship.",
+            {
+              "type": "note",
+              "id": "n_ch11_028",
+              "label": "28"
+            },
+            " This transformation lends to relations of trust a distinctly capitalist character and places them at the service of capitalist accumulation, particularly in mature capitalism."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u075"
+      ],
+      "page": "257"
+    },
+    {
+      "id": "ch11-u076",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "商业信用依赖个别资本主义企业之间主观而私人的信任，因为这种信任借助企业在商业关系过程中彼此积累的知识。另一方面，银行信用依赖银行与企业之间较少主观与私人性的信任，因为银行向大量企业贷款并从其借款。而对银行存款的信任则取决于银行所作贷款的质量，换言之，取决于银行对广泛企业评估的质量。因此它比资本主义商业债权人之间的信任更非人格、更客观。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Trade credit depends on trust among individual capitalist enterprises that is subjective and private, since such trust draws on the knowledge that enterprises would have accumulated about each other in the course of their commercial relations. Banking credit, on the other hand, relies on trust between banks and enterprises which is less subjective and private, since banks lend to and borrow from large numbers of enterprises. Trust in a bank’s deposits, on the other hand, depends on the quality of the loans made by the bank, in other words, on the quality of the bank’s assessment of a broad range of enterprises. Hence it is more impersonal and objective than trust among capitalist trade creditors."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u076"
+      ],
+      "page": "257"
+    },
+    {
+      "id": "ch11-u077",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "银行之间的信任对货币市场至关重要，它更少主观与私人性。在货币市场中，银行经常相互贷款，产生市场利息率并为整个信用体系提供连贯性。货币市场信任是客观而日益社会化的关系。在货币市场中，银行的资产与负债被捆绑在一起作为单一商品交易，即作为借贷货币资本。一家银行向许多资本家贷款的纷繁脉络于是被其他银行评估与同质化。货币市场信任的客观与社会方面显现在授予银行的信用评级中。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Trust among banks, which is vital to the money market, is even less subjective and personal. In the money market, banks regularly lend to each other, giving rise to the market rate of interest and providing coherence to the credit system as a whole. Money-market trust is an objective and increasingly social relation. In the money market, the assets and liabilities of banks are bundled together and traded as a single commodity, that is, as loanable money capital. The disparate strands of lending by one bank to many capitalists are thus assessed and homogenised by other banks. The objective and social aspect of money-market trust is apparent in the credit rankings accorded to banks."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u077"
+      ],
+      "page": "257"
+    },
+    {
+      "id": "ch11-u078",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "最后，银行与中央银行之间的信任是资本主义信用体系内部最客观、最社会化的信任形式。中央银行支配货币市场，系统评估其他银行的资信，收集关于信用体系也关于整个经济的信息。即使在资本主义经济的界限内，某种程度的总体理性也内在于中央银行。因此对中央银行存款与银行券的信任具有强烈的社会方面。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Finally, trust between banks and the central bank is the most objective and social form of trust within the capitalist credit system. The central bank dominates the money market, systematically assesses the creditworthiness of other banks, and collects information about the credit system but also about the economy as a whole. A degree of aggregate rationality is integral to the central bank, even within the confines of the capitalist economy. Trust in the deposits and banknotes of the central bank, therefore, has a strong social aspect."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u078"
+      ],
+      "page": "257"
+    },
+    {
+      "id": "ch11-u079",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "当国家认可中央银行存款与银行券、把它们转变为结清商业及其他债务的法偿时，信任的社会方面被不可估量地加强。于是现代中央银行的非凡权力来自：第一，支配资本主义经济内部最客观、最社会化的信任；第二，拥有对作为法偿的货币创造的垄断。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The social aspect of trust is immeasurably strengthened when the state gives its imprimatur to central-bank deposits and banknotes, transforming them into legal tender for discharging commercial and other debts. Thus, the extraordinary power of modern central banks derives, first, from commanding the most objective and socialised trust within the capitalist economy and, second, from possessing a monopoly over the creation of money as legal tender."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u079"
+      ],
+      "page": "258"
+    },
+    {
+      "id": "ch11-u080",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "通过信用体系组织与社会化的信任被直接置于资本主义积累的服务之下。在经济各部门，商业信用调集生产与交换的习惯方面、诚信与守时的文化方面、以及历史形成的结清义务的制度机制。这些复杂因素结晶于商业债务工具中，其可度量的信任程度以借款人偿还货币的能力为枢轴。另一方面，银行信用超越特定个别部门，使全经济各地的习惯、文化习惯与制度实践彼此等价。银行债务工具——尤其货币市场与中央银行的工具——包含一般信任尺度，它仍以借款人偿还货币的能力为枢轴。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Trust organised and socialised through the credit system is placed directly at the service of capitalist accumulation. In each sector of the economy, trade credit marshals customary aspects of production and exchange, cultural aspects of probity and punctuality, as well as historically developed institutional mechanisms for discharging obligations. These complex factors are crystallised in instruments of trade indebtedness with a measurable degree of trust that pivots on the borrower’s ability to repay money. Banking credit, on the other hand, transcends particular individual sectors, and brings into equivalence customs, cultural habits and institutional practices across the economy. Instruments of banking indebtedness, particularly those of the money market and the central bank, contain a general measure of trust that still pivots on the borrower’s ability to repay money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u080"
+      ],
+      "page": "258"
+    },
+    {
+      "id": "ch11-u081",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "通过信用体系组织信任，资本家阶级系统地把资源转移给积累、使利润率平均化、并改变国民经济的生产能力。但这种信任的基础仍是偿还货币的能力，即或者产生货币利润、或者通过非经济手段获取货币。因此资本主义信任具有邪恶的道德品质。欺诈与欺骗从不远离表面，要求持续巡查并执行信用的法律与习惯实践。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "By organising trust through the credit system, the capitalist class systematically transfers resources to accumulation, equalises the rate of profit, and alters the productive capacity of the national economy. But the basis of such trust remains the ability to repay money, that is, either to generate money profits or to secure money through non-economic means. Hence, capitalist trust has a nefarious moral quality. Fraud and deception is never far from the surface, requiring continuous policing and enforcement of laws and customary practices of credit."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u081"
+      ],
+      "page": "258"
+    },
+    {
+      "id": "ch11-u082",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "迪姆斯基在其撰稿中正确指出，金融关系不仅涉及资本家之间的信用交易，也涉及对工人的个人金融、抵押贷款、保险等。然而这一信用方面远非问题，反而显示此处所提路径的力量。借贷货币资本由银行与其他金融机构在全社会动员，然后在银行信用基础上提供给资本家及其他人。从金融机构角度看，只要偿还与利息有保证，所有借款人都相同。组织与社会化信任的方法也可应用于与既非资本主义公司也非银行的借款人的交易。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Dymski rightly points out in his contribution that financial relations involve not only credit transactions among capitalists but also personal finance to workers, mortgages, insurance, and so on. Far from being problematic, however, this aspect of credit shows the strength of the approach proposed here. Loanable money capital is mobilised by banks and other financial institutions across society, and is then made available to capitalists and others on the basis of banking credit. From the perspective of financial institutions, as long as repayment and interest are guaranteed, all borrowers are the same. The methods through which trust is organised and socialised could also be applied to transactions with borrowers that are neither capitalist corporations nor banks."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u082"
+      ],
+      "page": "258"
+    },
+    {
+      "id": "ch11-u083",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "在个人金融中——包括抵押贷款、消费贷款、赊购等——信任通过从确保货币偿还能力的角度评估个人生活状况而确立。这些状况包括就业，也包括家庭地位、友谊、俱乐部成员身份与信用交易过往历史，全都进入个人信用评级。对个人的信任获得客观而社会的形式，但带有以偿还货币能力为枢轴的资本主义性格。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "In personal finance – including mortgages, consumer loans, buying on tick, and so on – trust is established by assessing the life conditions of the individual from the perspective of ensuring the ability to make money repayments. These conditions include employment but also family status, friendships, club memberships, and past history of credit transactions, all of which go into individual credit ratings. Trust in individuals acquires an objective and social form, but with a capitalist character that pivots on the ability to repay money."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u083"
+      ],
+      "page": "258–259"
+    },
+    {
+      "id": "ch11-u084",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "信用体系内部信任的社会化影响资本家阶级内部与全社会的权力。对信用体系有优先获取渠道的资本家在竞争战斗中占优势。控制或能够影响中央银行的人拥有压倒性社会权力。另一方面，预付给个人的信用代表较软但同样渗透的权力。个人与抵押贷款便利货币核算对个人与社会关系领域的渗透。个人拥有的社会信任以偿还货币的能力衡量，因此个人的私人、家庭与共同体活动按货币回报评价，即使这些活动产生货币回报。同样，获得信用的机会的波动可能摧毁个人的社会地位。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The socialisation of trust within the credit system affects power within the capitalist class and across society. Capitalists who have privileged access to the credit system have an advantage in the battle of competition. Those who control, or could influence, the central bank possess overwhelming social power. Credit advanced to individuals, on the other hand, represents softer but equally pervasive power. Personal and mortgage credit facilitate the permeation of the realms of individual and social relations by money accounting. The social trust possessed by an individual is measured by the ability to repay money, and hence the individual’s personal, familial and communal activities are evaluated in terms of monetary returns, even when these activities give rise to the monetary returns. By the same token, fluctuations in access to credit could destroy the social standing of the individual."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u084"
+      ],
+      "page": "259",
+      "review": "原书排印作 even when these activities give rise to the monetary returns，语义疑有脱漏（似应含否定，如 give rise to no monetary returns）；照字面译出并存疑。"
+    },
+    {
+      "id": "ch11-u085",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "据此看来，上文第2节对当代金融的讨论呈现不同面貌。全世界资本家阶级已发展出系统动员货币权力与信用相关信任的国内机制。由中央银行监管与管理的信用体系制度与市场，把社会权力与信任置于资本主义积累的服务之下。但在世界层面情况很不同：不存在垄断全世界购买能力的货币形式，也不存在能够在国际上社会化信任的信用机制。尽管过去三十年世界金融发生制度与政治转变，世界市场的混乱结构仍不利于两者。与世界市场重叠的民族国家体系给问题增加进一步复杂性。因此不足为奇，最近所有重大危机都发源于世界货币与世界金融的结合。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Seen in this light, the discussion of contemporary finance in Section 2 above takes a different aspect. Capitalist classes across the world have developed domestic mechanisms that systematically mobilise both the power of money and the trust associated with credit. The institutions and markets of the credit system, regulated and managed by the central bank, place social power and trust at the service of capitalist accumulation. But at the world level, things are very different: there is no form of money that monopolises buying ability across the world, nor are there credit mechanisms that could socialise trust internationally. The chaotic structure of the world market militates against both, despite the institutional and political transformation of world finance during the last three decades. The system of nation-states that overlaps with the world market adds further complexity to the problem. It is not surprising, therefore, that all recent major crises have emanated from world money in conjunction with world finance."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u085"
+      ],
+      "page": "259"
+    },
+    {
+      "id": "ch11-u086",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思主义政治经济学对世界市场中这类现象的研究几乎尚未触及表面。在这方面，布赖恩与拉弗蒂关于金融国际化的著作是开创性的。",
+            {
+              "type": "note",
+              "id": "n_ch11_029",
+              "label": "29"
+            },
+            "然而他们在本次论争撰稿中断言金融衍生品是世界货币的新形式，却大有问题。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Marxist political economy has barely begun to scratch the surface of such phenomena in the world market. In this respect, the work of Bryan and Rafferty on financial internationalisation has been path-breaking.",
+            {
+              "type": "note",
+              "id": "n_ch11_029",
+              "label": "29"
+            },
+            " However, their assertion in contribution to this debate that financial derivatives are a new form of world money is deeply problematic."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u086"
+      ],
+      "page": "259"
+    },
+    {
+      "id": "ch11-u087",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对布赖恩与拉弗蒂而言，衍生品是货币，因为它们能够通约世界市场中资本纷繁各异的“形式、位置与时间性”。由于被系统交易，衍生品也恢复货币的“商品形式”，只是这一次货币不是物理商品，而是作为商品交易的资本本身。于是衍生品是资本主义货币的真正形式，在世界市场层面创造。布赖恩与拉弗蒂进一步在批评我的著作时论证：寻求货币与权力之间、以及信用与信任之间的一般联系是非历史的。他们承认信任在衍生品交易中的重要性，但声称这种信任在全世界市场以资本主义方式确立，独立于民族国家与国际法庭。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "For Bryan and Rafferty, derivatives are money because they are able to commensurate a variety of disparate ‘forms, locations and temporalities’ of capital in the world market. Since they are systematically traded, derivatives also restore to money its ‘commodity form’, except that this time money is not a physical commodity but capital itself traded as a commodity. Derivatives, then, are the true form of capitalist money, created at the level of the world market. Bryan and Rafferty argue, furthermore, in criticism of my work, that it is unhistorical to seek a general link between money and power, as well as one between credit and trust. They recognise the importance of trust in derivatives transactions, but claim that such trust is established capitalistically across the world market, independently of nation-states and international courts."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u087"
+      ],
+      "page": "259–260"
+    },
+    {
+      "id": "ch11-u088",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "这一分析不可信。首先，我的著作中没有任何地方表明在货币与信用关系上采纳了非历史的权力与信任理论。",
+            {
+              "type": "note",
+              "id": "n_ch11_030",
+              "label": "30"
+            },
+            "相反，与货币和信用相关的权力与信任的资本主义性格是从第一原理寻求的。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "This analysis is not credible. To begin with, it is nowhere evident in my work that an unhistorical theory of power and trust is adopted in relation to money and credit.",
+            {
+              "type": "note",
+              "id": "n_ch11_030",
+              "label": "30"
+            },
+            " On the contrary, the capitalist character of power and trust associated with money and credit has been sought from first principles."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u088"
+      ],
+      "page": "260"
+    },
+    {
+      "id": "ch11-u089",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "无论如何，毫无疑问衍生品的主导形式是金融衍生品，被银行与其他金融机构广泛使用。金融衍生品通常允许在未来出售（或购买）标的金融资产、给予在未来购买（或出售）标的金融资产的权利、甚至交换标的金融资产的未来利息支付流。它们本质上是对金融变量未来运动的赌注，允许套期保值与投机两者。其惊人增长是布雷顿森林崩溃后金融不稳定的副产品，后者引起标的资产价值的快速波动，尤其通过利息率与汇率。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Be that as it may, there is no doubt that the dominant form of derivatives comprises specifically financial derivatives, which are used extensively by banks and other financial institutions. Financial derivatives typically allow for the sale (or purchase) of underlying financial assets in the future, give the right to buy (or sell) underlying financial assets in the future, or even swap streams of future interest payments on underlying financial assets. They are essentially bets on the future movement of financial variables, allowing for both hedging and speculation. Their phenomenal growth is a by-product of the financial instability that has followed the collapse of Bretton Woods, inducing rapid fluctuations in the values of underlying assets, especially through interest and exchange rates."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u089"
+      ],
+      "page": "260"
+    },
+    {
+      "id": "ch11-u090",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "衍生品当然代表商品化，但不是资本一般的商品化。相反，它们代表对资产的未来财产权、或买卖资产的权利、甚至拥有未来利息流的权利的商品化。它们不代表真正商品，也没有任何明确意义使它们是货币。布赖恩与拉弗蒂强调的通约职能，不过是罩在涉及若干标的金融资产的套期保值与投机策略上的商品形式外壳。衍生品在世界市场中没有明显的贮藏与支付职能，也肯定不是“全球金融体系的锚”。就今天存在这样的锚而言，那是美元，尽管它充满上文讨论的问题。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Derivatives certainly represent commodification, but not commodification of capital in general. Rather, they stand for commodification of future property over an asset, or of the right to buy and sell an asset, or even of the right to possess future interest streams. They do not represent proper commodities, nor is there any clear sense in which they are money. Their commensurating function, stressed by Bryan and Rafferty, is nothing more than the carapace of the commodity form placed over hedging and speculative strategies involving several underlying financial assets. Derivatives have no obvious hoarding and paying functions in the world market, and they are certainly not ‘the anchor of the global financial system’. Insofar as such an anchor exists today, that is the us dollar, though it is riddled with the problems discussed above."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u090"
+      ],
+      "page": "260"
+    },
+    {
+      "id": "ch11-u091",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "布赖恩与拉弗蒂在世界经济中寻求自发出现的、特定资本主义的货币形式是正确的。但他们过于草率地拒绝与黄金等作为生产商品的货币的联系。一般等价物是购买能力的垄断者，无论它采取商品货币还是信用货币形式。后者确实是典型的资本主义货币形式，但同样，金融工具可以看起来像货币而不是货币。货币商品理论为信用货币分析提供航舵，本会使布赖恩与拉弗蒂的衍生品分析大有裨益。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Bryan and Rafferty are right to seek spontaneously emerging, specifically capitalist forms of money in the world economy. But they too hastily reject connections with money as produced commodity such as gold. The universal equivalent is the monopolist of buying ability, whether it takes the form of commodity money or credit money. The latter is indeed the capitalist form of money par excellence but, by the same token, financial instruments can look like money without being money. A theory of the money commodity provides a rudder to analysis of credit money, which would have stood Bryan and Rafferty in good stead in their analysis of derivatives."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u091"
+      ],
+      "page": "260–261"
+    },
+    {
+      "id": "ch11-u092",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "世界市场的金融创新当然创造信用货币的新形式。例如货币市场基金能够在全世界收集资金并投资于各种金融资产，同时给予对其负债签发支票的权利。这确实是国际信用货币的新形式，与任何中央银行发行的法偿既无直接也无明确联系。可以肯定，衍生品不能这样说。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Financial innovation in the world market certainly creates new forms of credit money. Money-market funds, for instance, are able to collect funds across the world and invest them in a variety of financial assets, while also giving the right to sign cheques against their liabilities. This is, indeed, a new form of international credit money that is neither immediately nor clearly related to the legal tender issued by any central bank. It is certain that the same could not be said of derivatives."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u092"
+      ],
+      "page": "261"
+    },
+    {
+      "id": "ch11-u093",
+      "canonical_kind": "heading",
+      "zh": [
+        "结论"
+      ],
+      "en": [
+        "Conclusion"
+      ],
+      "source_ids": [
+        "ch11-u093"
+      ],
+      "page": "261",
+      "type": "subheading",
+      "level": 1
+    },
+    {
+      "id": "ch11-u094",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "过去三十年货币与金融内部的发展要求马克思主义的理论分析，尤其因为其社会与政治含义。货币作为资本主义经济组织者的角色加强了，其社会与政治权力增加了。信用与金融渗透社会生活，而中央银行的权力空前强大。在世界市场中，对充分世界货币的寻求被巨型危机点缀。同时，基层不断尝试驯服货币的社会权力并赋予信用更强的共同体方面。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Developments within money and finance during the last three decades call for theoretical Marxist analysis, particularly because of their social and political implications. The role of money as organiser of the capitalist economy has been strengthened, and its social and political power increased. Credit and finance have permeated social life, while the power of central banks is greater than ever. In the world market, the search for adequate world money is punctuated by gigantic crises. Meanwhile, attempts are continually made at grassroots level to tame the social power of money and give a stronger communal aspect to credit."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u094"
+      ],
+      "page": "261"
+    },
+    {
+      "id": "ch11-u095",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马克思主义对货币与金融理论兴趣的复兴在这方面是令人鼓舞的发展。《历史唯物主义》最近的论争强调资本主义阶级关系的重要性，即使它们经由货币与金融折射。尤其在本章中，论证了货币与信用捕捉市场与资本主义积累的关键社会关系。货币的社会与政治权力依托其对购买能力的垄断，资本在全社会占有它并用于促进积累。此外，资本主义信用体系赋予信任日益客观与社会的性格。信任于是被在全社会动员并置于资本主义积累的服务之下。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "The resurgence of Marxist theoretical interest in money and finance is an encouraging development in this respect. The recent debate in Historical Materialism stresses the importance of capitalist class relations, even when refracted through money and finance. In this chapter, in particular, it was argued that money and credit capture key social relations of markets and capitalist accumulation. Money’s social and political power rests on its monopoly of the ability to buy, which capital appropriates across society and puts to use in promoting accumulation. The capitalist credit system, moreover, gives to trust an increasingly objective and social character. Trust is thus mobilised across society and is placed at the service of capitalist accumulation."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u095"
+      ],
+      "page": "261"
+    },
+    {
+      "id": "ch11-u096",
+      "canonical_kind": "paragraph",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "然而把国内货币与信用置于资本家阶级服务之下的习惯、制度与机制，在世界市场中效力有限。在全世界调集货币权力以及在全球动员信任的困难，处于最近国际金融危机的根源。它们仍是当代资本主义的棘手问题，是巨型经济与社会动荡的原因，因而也是对反对资本主义者的行动召唤。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "However, the customs, institutions and mechanisms that place domestic money and credit at the service of the capitalist class have limited effectiveness in the world market. The difficulties attached to marshalling the power of money across the world as well as to mobilising trust globally lie at the root of recent international financial crises. They remain an intractable problem for contemporary capitalism, a cause of gigantic economic and social upheavals, and thus a call to action for those opposed to capitalism."
+          ]
+        }
+      ],
+      "source_ids": [
+        "ch11-u096"
+      ],
+      "page": "261–262"
+    }
+  ]
+}
