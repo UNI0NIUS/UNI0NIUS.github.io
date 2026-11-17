@@ -1,0 +1,51 @@
+{
+  "id": "names",
+  "title": "人名说明",
+  "originalTitle": "Note on Names",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "outline": [],
+  "notes": {},
+  "body": [
+    {
+      "id": "front-names-p001",
+      "canonical_kind": "paragraph",
+      "page": "ix",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "对于人名，凡存在通行的英文形式者，我均采用英文形式；没有的，则采用拉丁化形式。阿拉伯人名与术语的转写，依据《伊斯兰百科全书》（",
+            {
+              "type": "em",
+              "children": [
+                "Encyclopaedia of Islam"
+              ]
+            },
+            "）所用转写方案的一个略加简化的版本。希腊地名以及希腊的头衔、品级与官职，我保留其希腊语转写形式。希腊语、拉丁语及其他语言中的专门术语、品级与头衔，在书末的词汇表中加以解释。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "I have used standard English forms for personal names, where they exist; and where not, Latinized versions. Transliterations of Arabic names and terms are according to a slightly simplified version of that employed in the ",
+            {
+              "type": "em",
+              "children": [
+                "Encyclopaedia of Islam"
+              ]
+            },
+            ". I have left Greek place names and Greek titles, ranks, and offices in their transliterated Greek form. Greek, Latin and other technical terms, ranks, and titles are elucidated in a glossary at the end of the volume."
+          ]
+        }
+      ],
+      "source_ids": [
+        "front-names-p001"
+      ]
+    }
+  ]
+}

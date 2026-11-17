@@ -1,0 +1,269 @@
+{
+  "id": "front",
+  "title": "底本出版信息",
+  "originalTitle": "Original publication information",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "outline": [],
+  "notes": {},
+  "body": [
+    {
+      "id": "front-000",
+      "canonical_kind": "half_title",
+      "page": "",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "不死的帝国"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "基于卡尔·纽厄尔·杰克逊讲座（Carl Newell Jackson Lectures）"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "THE EMPIRE THAT WOULD NOT DIE",
+            {
+              "type": "linebreak"
+            },
+            "Based on the Carl Newell Jackson Lectures"
+          ]
+        }
+      ],
+      "source_ids": [
+        "front-000"
+      ]
+    },
+    {
+      "id": "front-001",
+      "canonical_kind": "title_page",
+      "page": "",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "不死的帝国",
+            {
+              "type": "linebreak"
+            },
+            "东罗马存续的悖论，640–740"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "约翰·哈尔登（John Haldon）著"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "马萨诸塞州剑桥",
+            {
+              "type": "linebreak"
+            },
+            "英国伦敦",
+            {
+              "type": "linebreak"
+            },
+            "2016年"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "THE EMPIRE THAT WOULD NOT DIE",
+            {
+              "type": "linebreak"
+            },
+            "The Paradox of Eastern Roman Survival, 640–740",
+            {
+              "type": "linebreak"
+            },
+            "JOHN HALDON",
+            {
+              "type": "linebreak"
+            },
+            "Cambridge, Massachusetts",
+            {
+              "type": "linebreak"
+            },
+            "London, England",
+            {
+              "type": "linebreak"
+            },
+            "2016"
+          ]
+        }
+      ],
+      "source_ids": [
+        "front-001"
+      ]
+    },
+    {
+      "id": "front-002",
+      "canonical_kind": "copyright",
+      "page": "",
+      "zh": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "版权所有 © 2016 哈佛学院校长与校董会（President and Fellows of Harvard College）",
+            {
+              "type": "linebreak"
+            },
+            "保留一切权利",
+            {
+              "type": "linebreak"
+            },
+            "美利坚合众国印制",
+            {
+              "type": "linebreak"
+            },
+            "第一次印刷"
+          ]
+        },
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "美国国会图书馆在版编目数据",
+            {
+              "type": "linebreak"
+            },
+            "Haldon, John F., author.",
+            {
+              "type": "linebreak"
+            },
+            "The empire that would not die: the paradox of eastern Roman survival, 640–740 / John Haldon.",
+            {
+              "type": "linebreak"
+            },
+            "pages cm",
+            {
+              "type": "linebreak"
+            },
+            "\"基于卡尔·纽厄尔·杰克逊讲座\"——半书名页。",
+            {
+              "type": "linebreak"
+            },
+            "含书目参考文献与索引。",
+            {
+              "type": "linebreak"
+            },
+            "ISBN 978-0-674-08877-1（无酸纸）",
+            {
+              "type": "linebreak"
+            },
+            "1. Byzantine Empire—History—527–1081. 2. Byzantine Empire—Foreign relations—Islamic Empire. 3. Byzantine Empire—Politics and government—527–1081. 4. War and society—Byzantine Empire. 5. Human ecology—Byzantine Empire. I. Title.",
+            {
+              "type": "linebreak"
+            },
+            "DF571.H354 2016",
+            {
+              "type": "linebreak"
+            },
+            "949.5'013—dc23 2015033363"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "paragraph",
+          "children": [
+            "Copyright © 2016 by the President and Fellows of Harvard College",
+            {
+              "type": "linebreak"
+            },
+            "All rights reserved",
+            {
+              "type": "linebreak"
+            },
+            "Printed in the United States of America",
+            {
+              "type": "linebreak"
+            },
+            "First printing",
+            {
+              "type": "linebreak"
+            },
+            "Library of Congress Cataloging-in-Publication Data",
+            {
+              "type": "linebreak"
+            },
+            "Haldon, John F., author.",
+            {
+              "type": "linebreak"
+            },
+            "The empire that would not die: the paradox of eastern Roman",
+            {
+              "type": "linebreak"
+            },
+            "survival, 640–740 / John Haldon.",
+            {
+              "type": "linebreak"
+            },
+            "pages cm",
+            {
+              "type": "linebreak"
+            },
+            "“Based on the Carl Newell Jackson Lectures”— Half title page.",
+            {
+              "type": "linebreak"
+            },
+            "Includes bibliographical references and index.",
+            {
+              "type": "linebreak"
+            },
+            "ISBN 978-0-674-08877-1 (alk. paper)",
+            {
+              "type": "linebreak"
+            },
+            "1. Byzantine Empire— History—527–1081. 2. Byzantine Empire—",
+            {
+              "type": "linebreak"
+            },
+            "Foreign relations— Islamic Empire. 3. Byzantine Empire— Politics and",
+            {
+              "type": "linebreak"
+            },
+            "government—527–1081. 4. War and society— Byzantine Empire.",
+            {
+              "type": "linebreak"
+            },
+            "5. Human ecology— Byzantine Empire. I. Title.",
+            {
+              "type": "linebreak"
+            },
+            "DF571.H354 2016",
+            {
+              "type": "linebreak"
+            },
+            "949.5'013— dc23 2015033363"
+          ]
+        }
+      ],
+      "source_ids": [
+        "front-002"
+      ]
+    }
+  ]
+}
