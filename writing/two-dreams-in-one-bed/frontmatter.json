@@ -1,0 +1,75 @@
+{
+  "id": "frontmatter",
+  "title": "版本说明",
+  "originalTitle": "Edition information",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "edition-notice",
+      "kind": "notice",
+      "shared": true,
+      "zh": [
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "底本为杜克大学出版社 2005 年英文版。原书页码沿用印本，原注按各篇原编号编排。〔校注〕用于标明校订中核查到的原文异写、数值差异或译名依据。"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "底本为杜克大学出版社 2005 年英文版。原书页码沿用印本，原注按各篇原编号编排。〔校注〕用于标明校订中核查到的原文异写、数值差异或译名依据。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fm-series",
+      "kind": "series_page",
+      "zh": [
+        "同床异梦／“亚太：文化、政治与社会”丛书／丛书主编：周蕾（Rey Chow）、H. D. 哈鲁图尼安（H. D. Harootunian）、三好将夫（Masao Miyoshi）"
+      ],
+      "en": [
+        "Two Dreams in One Bed asia-pacific: culture, politics, and society Editors: Rey Chow, H. D. Harootunian, and Masao Miyoshi"
+      ]
+    },
+    {
+      "id": "fm-title",
+      "kind": "title_page",
+      "zh": [
+        "同床异梦：帝国、社会生活与北朝鲜革命的满洲起源／Hyun Ok Park 著／杜克大学出版社／达勒姆与伦敦／2005"
+      ],
+      "en": [
+        "Two Dreams in One Bed: Empire, Social Life, and the Origins of the North Korean Revolution in Manchuria\nHyun Ok Park\nDuke University Press\nDurham and London\n2005"
+      ]
+    },
+    {
+      "id": "fm-copyright",
+      "kind": "copyright_page",
+      "zh": [
+        "© 2005 Duke University Press All rights reserved Printed in the United States of America on acid-free paper\nDesigned by Amy Ruth Buchanan Typeset in Quadraat by Tseng Information Systems, Inc. Library of Congress Cataloging-in-Publication Data appear on the last printed page of this book. Duke University Press gratefully acknowledges the support of the Korea Foundation, which provided funds toward the production of this book."
+      ],
+      "en": [
+        "© 2005 Duke University Press All rights reserved Printed in the United States of America on acid-free paper\nDesigned by Amy Ruth Buchanan Typeset in Quadraat by Tseng Information Systems, Inc. Library of Congress Cataloging-in-Publication Data appear on the last printed page of this book. Duke University Press gratefully acknowledges the support of the Korea Foundation, which provided funds toward the production of this book."
+      ],
+      "shared": true
+    },
+    {
+      "id": "fm-dedication",
+      "kind": "dedication",
+      "zh": [
+        "纪念我的母亲 Kim Yang Rye，并献给我的父亲 Park Ro Tack。"
+      ],
+      "en": [
+        "In memory of my mother, kim yang rye, and for my father, park ro tack"
+      ]
+    }
+  ],
+  "notes": {},
+  "outline": []
+}

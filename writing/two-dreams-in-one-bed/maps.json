@@ -1,0 +1,83 @@
+{
+  "id": "maps",
+  "title": "地图",
+  "originalTitle": "Maps",
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "map-1",
+      "kind": "figure",
+      "zh": [
+        "地图 1　东亚"
+      ],
+      "en": [
+        "map 1. East Asia"
+      ],
+      "type": "figure",
+      "src": "/writing/two-dreams-in-one-bed/assets/p008.png",
+      "imageWidth": 1200,
+      "imageHeight": 1850,
+      "linkImage": true,
+      "sharedFigure": true,
+      "parallelFigureCaption": [
+        "地图 1　东亚",
+        {
+          "type": "linebreak"
+        },
+        "map 1. East Asia"
+      ],
+      "readingText": "map 1. East Asia"
+    },
+    {
+      "id": "map-2",
+      "kind": "figure",
+      "zh": [
+        "地图 2　1920 年代的满洲"
+      ],
+      "en": [
+        "map 2. Manchuria in the 1920s"
+      ],
+      "type": "figure",
+      "src": "/writing/two-dreams-in-one-bed/assets/p009.png",
+      "imageWidth": 1200,
+      "imageHeight": 1850,
+      "linkImage": true,
+      "sharedFigure": true,
+      "parallelFigureCaption": [
+        "地图 2　1920 年代的满洲",
+        {
+          "type": "linebreak"
+        },
+        "map 2. Manchuria in the 1920s"
+      ],
+      "readingText": "map 2. Manchuria in the 1920s"
+    },
+    {
+      "id": "map-3",
+      "kind": "figure",
+      "zh": [
+        "地图 3　1930 年代的满洲"
+      ],
+      "en": [
+        "map 3. Manchuria in the 1930s"
+      ],
+      "type": "figure",
+      "src": "/writing/two-dreams-in-one-bed/assets/p010.png",
+      "imageWidth": 1200,
+      "imageHeight": 1850,
+      "linkImage": true,
+      "sharedFigure": true,
+      "parallelFigureCaption": [
+        "地图 3　1930 年代的满洲",
+        {
+          "type": "linebreak"
+        },
+        "map 3. Manchuria in the 1930s"
+      ],
+      "readingText": "map 3. Manchuria in the 1930s"
+    }
+  ],
+  "notes": {},
+  "outline": []
+}
