@@ -1,0 +1,1844 @@
+{
+  "id": "ch22",
+  "title": "物理实在的经典描述能被认为是完备的吗？",
+  "originalTitle": "Can Classical Description of Physical Reality Be Considered Complete?",
+  "outline": [
+    {
+      "anchor": "ch22-u005",
+      "title": "1 引言",
+      "originalTitle": "1 Introduction",
+      "level": 1
+    },
+    {
+      "anchor": "ch22-u010",
+      "title": "2 大象的诸显相",
+      "originalTitle": "2 Phases of an Elephant",
+      "level": 1
+    },
+    {
+      "anchor": "ch22-u029",
+      "title": "3 芝诺的复仇",
+      "originalTitle": "3 The Revenge of Zeno",
+      "level": 1
+    },
+    {
+      "anchor": "ch22-u037",
+      "title": "4 结论",
+      "originalTitle": "4 Conclusion",
+      "level": 1
+    },
+    {
+      "anchor": "ch22-u040",
+      "title": "5 附录",
+      "originalTitle": "5 Appendix",
+      "level": 1
+    },
+    {
+      "anchor": "ch22-u049",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch22-u001",
+      "source_ids": [
+        "ch22-u001"
+      ],
+      "page": "375",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch22-u004",
+      "source_ids": [
+        "ch22-u004"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Gabriel Catren"
+      ],
+      "zh": [
+        "加布里埃尔·卡特伦"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch22-u002",
+      "source_ids": [
+        "ch22-u002"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract We propose a definition of physical objects that aims to clarify some interpretational problems in quantum mechanics. We claim that the transformations induced by an objective property of a physical system must leave invariant all the other objective properties of the same system. The uncertainty principle is understood as a natural consequence of the imbrication between objective properties and non-objective properties. It follows from the proposed definition that in classical mechanics non-objective properties are wrongly considered objective. We conclude that, unlike classical mechanics, quantum mechanics provides a complete objective description of physical systems."
+      ],
+      "zh": [
+        "摘要 我们提出一个物理对象的定义，旨在澄清量子力学中的某些解释问题。我们主张，物理系统的某个客观性质所诱导的变换，必须使该系统的所有其他客观性质保持不变。在这一框架下，不确定性原理是客观性质与非客观性质相互交叠的自然结果。从所提出的定义可以得出：在经典力学中，非客观性质被错误地当作了客观性质。我们的结论是，与经典力学不同，量子力学提供了对物理系统的完备的客观描述。"
+      ],
+      "units": 94
+    },
+    {
+      "id": "ch22-u003",
+      "source_ids": [
+        "ch22-u003"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "G. Catren Centre de Recherche en Épistémologie Appliquée, CNRS/Ecole Polytechnique, 32 boulevard Victor, 75739 Paris cedex 15, France e-mail: gabrielcatren@yahoo.com.ar"
+      ],
+      "zh": [
+        "G. Catren Centre de Recherche en Épistémologie Appliquée, CNRS/Ecole Polytechnique, 32 boulevard Victor, 75739 Paris cedex 15, France e-mail: gabrielcatren@yahoo.com.ar"
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch22-u005",
+      "source_ids": [
+        "ch22-u005"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Introduction"
+      ],
+      "zh": [
+        "1 引言"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch22-u006",
+      "source_ids": [
+        "ch22-u006"
+      ],
+      "page": "376",
+      "canonical_kind": "paragraph",
+      "en": [
+        "According to Einstein, quantum mechanical description of physical reality cannot be considered complete. In his words, there are ‘elements of physical reality’ that do not ‘have a counterpart in the physical theory’.",
+        {
+          "type": "note",
+          "id": "ch22-n01",
+          "label": "1"
+        },
+        " In classical mechanics, the exact position and the exact momentum of a particle can be simultaneously predicted for all times from a given set of initial conditions. In quantum mechanics, on the other hand, the momentum of a system characterized by a well-defined position cannot be predicted by the theory (and vice versa). More generally, Heisenberg’s uncertainty principle states that canonically conjugated variables can be simultaneously predicted up to some inversely correlated uncertainties. The conceptual content of this principle has been the object of a heated debate that remains unresolved to this day.",
+        {
+          "type": "note",
+          "id": "ch22-n02",
+          "label": "2"
+        }
+      ],
+      "zh": [
+        "按照爱因斯坦的看法，物理实在的量子力学描述不能被认为是完备的。用他的话说，存在着一些“物理实在的要素”，它们“在物理理论中没有对应物”。",
+        {
+          "type": "note",
+          "id": "ch22-n01",
+          "label": "1"
+        },
+        " 在经典力学中，从给定的一组初始条件出发，可以在所有时刻同时预言粒子的精确位置和精确动量。另一方面，在量子力学中，具有确定位置的系统的动量不能由理论预言（反之亦然）。更一般地，海森堡的不确定性原理断言，对正则共轭变量只能在一定的不确定度内同时作预测，而且一个量的不确定度越小，另一个量可达到的最小不确定度就越大。这个原理的概念内容一直是一场激烈争论的对象，这场争论至今仍未解决。",
+        {
+          "type": "note",
+          "id": "ch22-n02",
+          "label": "2"
+        }
+      ],
+      "units": 125
+    },
+    {
+      "id": "ch22-u007",
+      "source_ids": [
+        "ch22-u007"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In this paper, we argue that quantum mechanics can be understood as the formalization of a rigorous definition of physical objects. According to the standard characterization, the objective properties that define a physical object are invariants under a certain set of transformations (Auyang, 1995; Born, 1998; Nozick, 1998; Weyl, 1952). However, there is no general prescription for determining which transformations are needed in order to define the objective properties of a given physical system. Our definition of physical objects claims that these transformations are induced by the objective properties themselves. In other words, we argue that the transformations induced by the objective properties of a physical system must be automorphisms of the system. This definition imposes a compatibility condition on the set of objective properties of a given object. This condition requires that an objective property be invariant under the transformations induced by the other objective properties of the same object. The significant result is that this compatibility condition is not consistent with classical mechanics, but rather with quantum mechanics."
+      ],
+      "zh": [
+        "在本文中，我们论证量子力学可以被理解为物理对象的一个严格定义的形式化。按照标准的刻画，定义物理对象的客观性质是在某组变换下的不变量（Auyang, 1995; Born, 1998; Nozick, 1998; Weyl, 1952）。然而，对于确定需要哪些变换来定义给定物理系统的客观性质，并无一套通用规则。我们对物理对象的定义主张，这些变换是由客观性质本身诱导的。换言之，我们论证，物理系统的客观性质所诱导的变换必须是该系统的自同构。这个定义对给定对象的客观性质集合施加了一个相容性条件。该条件要求：一个客观性质必须在同一对象的其他客观性质所诱导的变换下保持不变。重要的结果是，这个相容性条件与经典力学不相容，而与量子力学相容。"
+      ],
+      "units": 170
+    },
+    {
+      "id": "ch22-u008",
+      "source_ids": [
+        "ch22-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "According to our definition of physical objects, the uncertainty principle is the formal translation of the imbrication between objective properties and non-objective properties. As we shall see, asking which position is objective in a quantum system with a well-defined momentum is as nonsensical as asking which side of a die is the objective (or privileged) one. This means that in classical mechanics non-objective elements of physical reality are wrongly considered objective. On the other hand, we claim that quantum mechanics provides a complete description of all the objective properties of a physical object. It follows that the quantum description of a physical object is not incomplete, but rather that classical states are specified by means of too many variables. Since quantum states only describe all the objective properties of the object, they depend on half of the classical variables."
+      ],
+      "zh": [
+        "按照我们对物理对象的定义，不确定性原理是客观性质与非客观性质相互交叠的形式表达。正如我们将看到的，问在一个具有确定动量的量子系统中哪个位置是客观的，就像问骰子的哪一面是客观的（或享有特权的）一样无意义。这意味着在经典力学中，物理实在的非客观要素被错误地当作了客观的。另一方面，我们主张量子力学提供了对物理对象的所有客观性质的完备描述。由此可见，物理对象的量子描述并非不完备，毋宁是经典态借助了过多的变量来指定。由于量子态只描述对象的所有客观性质，它们只依赖经典变量的一半。"
+      ],
+      "units": 139
+    },
+    {
+      "id": "ch22-u009",
+      "source_ids": [
+        "ch22-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This article develops, in more conceptual terms, the interpretation of quantum mechanics begun in Catren (2008). This interpretation is founded on an analysis of the symplectic formulation of mechanics (Abraham and Marsden, 1978; Libermann and Marle, 1987; Marsden and Ratiu, 1999; Souriau, 1997) and the geometric quantization formalism (Brylinski, 1993; Kostant, 1970; Souriau, 1997; Woodhouse, 1992). In Section 2, we propose a definition of physical objects. In Section 3, we consider the dynamics of physical objects. In the last section we summarize the obtained results. Finally, in the appendix we give a brief description of the relevant mathematical structures from symplectic geometry."
+      ],
+      "zh": [
+        "本文进一步从概念上发展了 Catren (2008) 中开始的量子力学解释。这一解释奠基于对力学的辛表述（Abraham and Marsden, 1978; Libermann and Marle, 1987; Marsden and Ratiu, 1999; Souriau, 1997）和几何量子化形式体系（Brylinski, 1993; Kostant, 1970; Souriau, 1997; Woodhouse, 1992）的分析。在第 2 节，我们提出物理对象的定义。在第 3 节，我们考虑物理对象的动力学。在最后一节，我们总结所得结果。最后，在附录中，我们简要描述辛几何中相关的数学结构。"
+      ],
+      "units": 102
+    },
+    {
+      "id": "ch22-u010",
+      "source_ids": [
+        "ch22-u010"
+      ],
+      "page": "377",
+      "canonical_kind": "heading",
+      "en": [
+        "2 Phases of an Elephant"
+      ],
+      "zh": [
+        "2 大象的诸显相"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch22-u011",
+      "source_ids": [
+        "ch22-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In this section, we propose a definition of physical objects by means of two postulates. It is possible to show that these postulates cannot be implemented in the framework of classical mechanics (see Appendix and Catren, 2008). On the contrary, quantum mechanics can be considered a satisfactory implementation of the proposed definition of physical objects."
+      ],
+      "zh": [
+        "在本节中，我们借助两条公设提出物理对象的定义。可以表明，这两条公设不能在经典力学的框架中实现（见附录和 Catren, 2008）。相反，量子力学可以被看作所提出的物理对象定义的一个令人满意的实现。"
+      ],
+      "units": 55
+    },
+    {
+      "id": "ch22-u012",
+      "source_ids": [
+        "ch22-u012"
+      ],
+      "page": "378",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Physical experience is not a chaotic swarm of disconnected empirical data. As Whitehead put it: ‘Sometimes we see an elephant, and sometimes we do not’ (Whitehead, 1978, p. 4). In other words, physical reality is organized in different objective configurations that can be identified and recognized. According to a standard characterization, an object is a physical configuration that can be completely characterized by specifying the set of the object’s objective properties. Such a set will be called the eidos ε of the physical object.",
+        {
+          "type": "note",
+          "id": "ch22-n03",
+          "label": "3"
+        },
+        " In order to unpack this characterization, it is necessary to specify what we understand by objective properties. As we shall see, the characterization of objective properties as invariants under a certain set of transformations does not suffice for defining the notion of objective properties. In order to achieve a satisfactory definition of physical objects, it is necessary to take into account that a physical object does not only have objective properties that allow us to identify and recognize it: it also has different phases, aspects or profiles. In general, various kinds of transformations can be performed in order to observe the different phases of an object. For instance, there are objects that exhibit different phases when rotated around a given axis. The transformations that interchange the phases of an object will be called phase transformations of the object. A set of phases connected by means of a given one-parameter family of phase transformations will be called orbit of phases. For instance, the different phases observed when the object is rotated around a given axis belong to the same orbit of phases. Since a phase transformation only modifies the observed phase, the objective properties that define the object are necessarily invariant under phase transformations. In order to stress this fact, phase transformations will also be called automorphisms of the object. In this way, we recover the idea that an object can be defined by means of the invariants under a certain group of transformations (see for example Auyang, 1995; Born, 1998; Nozick, 1998). Following H. Weyl, we can thus state that ‘[. . . ] objectivity means invariance with respect to the group of automorphisms’ (Weyl, 1952). Nevertheless this standard characterization is insufficient for defining objectivity. This problem was clearly stated by R. Nozick (1998): ‘The notion of invariance under transformations cannot (without further supplementation) be a complete criterion of the objectivity of facts, for its application depends upon a selection of which transformations something is to be invariant under.’",
+        {
+          "type": "note",
+          "id": "ch22-n04",
+          "label": "4"
+        },
+        " The definition of physical objects that we will propose provides this ‘further supplementation’ by stating that the object’s automorphisms are induced by the objective properties of the object. Hence, not only is an objective property invariant under all the object’s automorphisms, but it also induces a one-parameter family of automorphisms."
+      ],
+      "zh": [
+        "物理经验不是一堆杂乱、互不关联的经验材料。正如怀特海所说：“有时我们看见一头大象，有时我们看不见”（Whitehead, 1978, p. 4）。换言之，物理实在被组织成不同的客观组态，它们可以被辨识和再次认出。按照标准的刻画，对象是一个物理组态，可以通过指定该对象的客观性质集合来完备地刻画它。这个集合将被称为物理对象的 eidos（本质形式）ε。",
+        {
+          "type": "note",
+          "id": "ch22-n03",
+          "label": "3"
+        },
+        " 为了展开这个刻画，必须明确我们所谓的客观性质是什么意思。正如我们将看到的，把客观性质刻画为某组变换下的不变量，不足以定义客观性质概念。为了达到物理对象的令人满意的定义，必须考虑到：物理对象不仅具有使我们能够辨识和再次认出它的客观性质，它还有不同的显相（phases）、侧面或轮廓。一般来说，可以执行各种变换来观察对象的不同显相。例如，有些对象绕给定轴旋转时展现出不同的显相。交换对象的诸显相的变换将被称为对象的显相变换。由给定的单参数显相变换族连接起来的一组显相将被称为显相轨道。例如，对象绕给定轴旋转时观察到的不同显相属于同一个显相轨道。由于显相变换只改变被观察的显相，定义对象的客观性质必然在显相变换下保持不变。为了强调这一点，显相变换也将被称为对象的自同构。这样，我们就恢复了如下想法：对象可以借助某个变换群下的不变量来定义（参见例如 Auyang, 1995; Born, 1998; Nozick, 1998）。跟随 H. 魏尔，我们可以这样表述：“……客观性意味着相对于自同构群的不变性”（Weyl, 1952）。然而这个标准刻画不足以定义客观性。R. 诺齐克（1998）清楚地陈述了这个问题：“变换下的不变性概念（若不进一步补充）不能成为事实客观性的完备判据，因为它的应用依赖于选择某物要在哪些变换下保持不变。”",
+        {
+          "type": "note",
+          "id": "ch22-n04",
+          "label": "4"
+        },
+        " 我们将提出的物理对象定义提供了这种“进一步补充”：它断言对象的自同构是由对象的客观性质诱导的。因此，客观性质不仅在对象的所有自同构下保持不变，而且还诱导一个单参数自同构族。"
+      ],
+      "units": 459
+    },
+    {
+      "id": "ch22-u013",
+      "source_ids": [
+        "ch22-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In order to formalize this idea, we will propose a definition of physical objects by means of two fundamental postulates. To do so, we will introduce some terminology. We will say that a physical object realizes a certain number of universal operators in a way that depends on the object. For example, an object that can be rotated around the z-axis realizes (in a particular way that depends on the object) the universal operator that generates universal rotations around the z-axis. We will sometimes say that a universal operator makes ingression into the object in a way that depends on the object. The important point is that two different objects can realize different universal operators and/or realize differently the same universal operator. Hence, an object can be characterized by the way in which it realizes a particular set of universal operators. Therefore, there are two ways of characterizing an object, namely by means of its objective properties or by specifying how it realizes certain universal operators. Our first postulate unifies these two ways of characterizing an object:"
+      ],
+      "zh": [
+        "为了形式化这个想法，我们将借助两条基本公设提出物理对象的定义。为此，我们引入一些术语。我们将说，物理对象以自身特有的方式实现若干普遍算符。例如，一个能绕 z 轴旋转的对象（以依赖于该对象的特定方式）实现生成绕 z 轴的普遍旋转的普遍算符。我们有时会说，普遍算符以依赖于对象的方式嵌入（ingression）对象之中。重要之点是，两个不同的对象可以实现不同的普遍算符，或者以不同方式实现同一个普遍算符。因此，对象可以通过它实现特定一组普遍算符的方式来刻画。于是，刻画对象有两种方式，即借助它的客观性质，或者通过指定它如何实现某些普遍算符。我们的第一条公设把这两种刻画对象的方式统一起来："
+      ],
+      "units": 178
+    },
+    {
+      "id": "ch22-u014",
+      "source_ids": [
+        "ch22-u014"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Postulate ♠: The value of an objective property of a given object specifies the particular way in which the object realizes an universal operator."
+      ],
+      "zh": [
+        "公设♠：给定对象的一个客观性质的取值，规定了该对象以何种特定方式实现一个普遍算符。"
+      ],
+      "units": 23
+    },
+    {
+      "id": "ch22-u015",
+      "source_ids": [
+        "ch22-u015"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The ingression of an universal operator into an object defines what we will call an eigenoperator of the object. For example, there are objects defined (at least partially) by the objective property that specifies how the universal operator that generates universal rotations around the z-axis makes ingression into the object. This ingression defines an eigenoperator that generates the object’s rotations around the z-axis. In this way, postulate ♠ states that the particular value p0 that an objective property p takes on a given object O defines an ingression application ",
+        {
+          "type": "math",
+          "tex": "\\iota_{p_0}",
+          "display": false
+        },
+        " of the form:"
+      ],
+      "zh": [
+        "普遍算符在一个对象中的嵌入，定义了我们所谓的对象的本征算符。例如，有些对象（至少部分地）由这样一个客观性质来定义：它指定生成绕 z 轴的普遍旋转的普遍算符如何嵌入该对象之中。这种嵌入定义了一个本征算符，生成该对象绕 z 轴的旋转。这样，公设♠断言，客观性质 p 在给定对象 O 上取的特定值 p0，定义了一个如下形式的嵌入映射 ",
+        {
+          "type": "math",
+          "tex": "\\iota_{p_0}",
+          "display": false
+        },
+        "："
+      ],
+      "units": 94
+    },
+    {
+      "id": "ch22-u016",
+      "source_ids": [
+        "ch22-u016"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\iota_{p_0}:\\ \\text{\\emph{universal operator}}\\ \\xi_p\\longrightarrow\\text{\\emph{eigenoperator}}\\ \\hat v_p\\tag{1}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\iota_{p_0}:\\ \\text{普遍算符}\\ \\xi_p\\longrightarrow\\text{本征算符}\\ \\hat v_p\\tag{1}",
+          "display": true
+        }
+      ],
+      "units": 18
+    },
+    {
+      "id": "ch22-u017",
+      "source_ids": [
+        "ch22-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Each possible value of the objective property p defines a different ingression of the same universal operator ",
+        {
+          "type": "math",
+          "tex": "\\xi_p",
+          "display": false
+        },
+        ", that is to say a different eigenoperator ",
+        {
+          "type": "math",
+          "tex": "\\hat v_p",
+          "display": false
+        },
+        " of O."
+      ],
+      "zh": [
+        "客观性质 p 的每一个可能值，都定义同一个普遍算符 ",
+        {
+          "type": "math",
+          "tex": "\\xi_p",
+          "display": false
+        },
+        " 的一种不同嵌入，也就是说 O 的一个不同的本征算符 ",
+        {
+          "type": "math",
+          "tex": "\\hat v_p",
+          "display": false
+        },
+        "。"
+      ],
+      "units": 31
+    },
+    {
+      "id": "ch22-u018",
+      "source_ids": [
+        "ch22-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The second postulate of our definition of physical objects specifies the nature of the transformations generated by the object’s eigenoperators:"
+      ],
+      "zh": [
+        "我们物理对象定义的第二条公设，规定了对象的本征算符所生成的是何种变换："
+      ],
+      "units": 20
+    },
+    {
+      "id": "ch22-u019",
+      "source_ids": [
+        "ch22-u019"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Postulate ♣: The transformations generated by an object’s eigenoperator are phase transformations."
+      ],
+      "zh": [
+        "公设♣：对象的本征算符所生成的变换是显相变换。"
+      ],
+      "units": 11
+    },
+    {
+      "id": "ch22-u020",
+      "source_ids": [
+        "ch22-u020"
+      ],
+      "page": "379",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In other words, a transformation generated by one of the object’s eigenoperators is not an objective transformation of the object into another object. In the previous example, this means that the object’s rotation around the z-axis is not an objective transformation of the object, but rather an automorphism that leaves the objective properties invariant. These two postulates can be assembled together by stating that an objective property specifies how a universal operator is realized by the object in the form of an eigenoperator that generates automorphisms of the object. We will sometimes summarize this characterization by saying that an objective property induces a one-parameter family of automorphisms. In this way, the object’s eidos (i.e. the set of its objective properties) defines the identity of the object by inducing the phase transformations between its different phases. We can therefore propose the following definition:"
+      ],
+      "zh": [
+        "换言之，对象的一个本征算符所生成的变换，不是把该对象变成另一个对象的客观变换。在前面的例子中，这意味着对象绕 z 轴的旋转不是对象的客观变换，而是使客观性质保持不变的自同构。这两条公设可以合并表述为：客观性质指定普遍算符如何以本征算符的形式被对象实现，而该本征算符生成对象的自同构。我们有时把这个刻画概括为：客观性质诱导一个单参数自同构族。这样，对象的 eidos（即其客观性质集合）通过诱导其不同显相之间的显相变换而定义对象的同一性。因此我们可以提出如下定义："
+      ],
+      "units": 143
+    },
+    {
+      "id": "ch22-u021",
+      "source_ids": [
+        "ch22-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Definition: An object is a physical configuration that can be completely characterized by specifying the values of the objective properties that induce all the object’s automorphisms."
+      ],
+      "zh": [
+        "定义：对象是一个物理组态，可以通过指定诱导该对象所有自同构的那些客观性质的值来完备地刻画它。"
+      ],
+      "units": 26
+    },
+    {
+      "id": "ch22-u022",
+      "source_ids": [
+        "ch22-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We could say that this definition provides a rigorous formalization of Weyl’s prescription: ‘Whenever you have to do with a structure-endowed entity Σ try to determine its group of automorphisms, the group of those element-wise transformations which leave all structural relations undisturbed. You can expect to gain a deep insight into the constitution of Σ in this way’ (Weyl, 1952). In the case of the proposed definition of physical objects, the objective properties that define the object do induce the object’s automorphisms."
+      ],
+      "zh": [
+        "我们可以说，这个定义提供了把魏尔的规则作了严格的形式化：“每当你处理一个被赋予结构的实体 Σ 时，试着确定它的自同构群，即那些保持所有结构关系不受扰动的逐元素变换构成的群。你可以期望以这种方式获得对 Σ 如何构成的深刻理解”（Weyl, 1952）。在所提出的物理对象定义的情形中，定义对象的客观性质确实诱导对象的自同构。"
+      ],
+      "units": 82
+    },
+    {
+      "id": "ch22-u023",
+      "source_ids": [
+        "ch22-u023"
+      ],
+      "page": "380",
+      "canonical_kind": "paragraph",
+      "en": [
+        "One significant consequence of this definition is that the phase transformations induced by an objective property in the object’s eidos cannot modify the other objective properties of the object. Objective properties must therefore be invariant under phase transformations induced by the other objective properties of the same object. Let’s consider for example an object defined by the eidos ε = {p1, p2,..., pn}, where each pi is an objective property of the object. This means that it is possible to completely characterize the object by the set of values that the properties p1, p2,..., pn take on the object. The standard definition of objectivity requires that the value of each objective property pi be invariant under a certain group of transformations. Nevertheless – as we have said before – it is not clearly stated which transformations have to be considered. Our definition bypasses this flaw by stating that each objective property pi induces a one-parameter family of automorphisms of the object. Hence, we arrive at the conclusion that each objective property has to be invariant under the automorphisms induced by all the other properties in the same eidos. This fact imposes a restrictive condition on the eidos of an object. The eidos is not merely an arbitrary collection of objective properties. Each property has to satisfy the condition of being invariant under the phase transformations induced by all the others. If a property p1 is invariant under the phase transformations induced by p2, we will say that these properties are commensurable or compatible. If a property is modified by the phase transformations induced by an objective property in the object’s eidos, we will say that the former is phased out by these phase transformations. Therefore, the eidos is characterized by an internal structure that guarantees the compatibility between the objective properties that define the object.",
+        {
+          "type": "note",
+          "id": "ch22-n05",
+          "label": "5"
+        },
+        " The object will be completely determined if the eidos contains the maximum number of mutually compatible independent properties. In particular, if a property q is modified by the phase transformations induced by an objective property p in the object’s eidos, then q cannot also be an objective property of the object. This statement can be considered the conceptual translation of the uncertainty principle. In particular, the momentum p is a property that induces transformations in the position q (and vice versa).",
+        {
+          "type": "note",
+          "id": "ch22-n06",
+          "label": "6"
+        },
+        " Hence, if the momentum p is an objective property in the object’s eidos, then the position q cannot also be an objective property. The position q is rather a phase that changes when the object is acted upon by the phase transformations induced by p. In other words, since q and p are incompatible, they cannot both be objective properties of the same object. Asking which position is objective in an object with a well-defined momentum p is as nonsensical as looking for the objective (or privileged) side of a die. Nevertheless, even if a die has no objective side, it will show a particular side when thrown. This does not mean that the resulting side was the objective but unknown side of the die, nor that it becomes the objective side of a new die produced by the toss. Analogously, even if a physical system with a well-defined momentum p has no objective position q, it will appear in a particular position q1 if a measurement of the position is performed. This does not mean that q1 was the objective but unknown position of the system, nor that q1 becomes the objective position of a new object produced by the measurement."
+      ],
+      "zh": [
+        "这个定义的一个重要后果是，对象的 eidos 中的某个客观性质所诱导的显相变换，不能改变该对象的其他客观性质。因此，客观性质必须在同一对象的其他客观性质所诱导的显相变换下保持不变。例如考虑一个由 eidos ε = {p1, p2, …, pn} 定义的对象，其中每个 pi 都是对象的客观性质。这意味着可以通过性质 p1, p2, …, pn 在该对象上取的值集合来完备地刻画该对象。客观性的标准定义要求每个客观性质 pi 的值在某群变换下保持不变。然而——如前所述——并没有明确说明必须考虑哪些变换。我们的定义通过断言每个客观性质 pi 诱导对象的一个单参数自同构族而绕过了这个缺陷。于是我们得出结论：每个客观性质必须在同一 eidos 中所有其他性质所诱导的自同构下保持不变。这个事实对对象的 eidos 施加了一个限制性条件。eidos 不是客观性质的任意汇集。每个性质都必须满足在其他所有性质诱导的显相变换下保持不变的条件。如果性质 p1 在 p2 诱导的显相变换下保持不变，我们就说这些性质是可通约的或相容的。如果一个性质被对象的 eidos 中某个客观性质诱导的显相变换所改变，我们就说前者因这些变换而只作为显相出现（phased out）。因此，eidos 由一个内部结构来刻画，它保证定义对象的客观性质之间的相容性。",
+        {
+          "type": "note",
+          "id": "ch22-n05",
+          "label": "5"
+        },
+        " 如果 eidos 包含最大数量的相互相容的独立性质，对象就被完全确定。特别地，如果性质 q 被对象的 eidos 中客观性质 p 诱导的显相变换所改变，那么 q 就不能同时是对象的客观性质。这个陈述可以被看作不确定性原理在概念上的表述。特别地，动量 p 是能够诱导位置 q 发生变换的性质（反之亦然）。",
+        {
+          "type": "note",
+          "id": "ch22-n06",
+          "label": "6"
+        },
+        " 因此，如果动量 p 是对象的 eidos 中的客观性质，那么位置 q 就不能同时是客观性质。位置 q 毋宁是一个显相，当对象受到 p 诱导的显相变换作用时它就改变。换言之，由于 q 与 p 不相容，它们不能同时是同一对象的客观性质。问在一个具有确定动量 p 的对象中哪个位置是客观的，就像寻找骰子的客观的（或优先的）面一样无意义。然而，即使骰子没有客观的面，掷出时它也会显示某个特定的面。这并不意味着结果面是骰子的客观但未知的面，也不意味着它成为投掷产生的新骰子的客观面。类似地，即使具有确定动量 p 的物理系统没有客观位置 q，如果执行位置测量，它也会出现在某个特定位置 q1。这并不意味着 q1 曾是系统的客观但未知的位置，也不意味着 q1 成为测量产生的新对象的客观位置。"
+      ],
+      "units": 585
+    },
+    {
+      "id": "ch22-u026",
+      "source_ids": [
+        "ch22-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Figure 1 resumes the proposed definition of physical objects. The property p is an objective property of the object represented. The value ",
+        {
+          "type": "math",
+          "tex": "p_0",
+          "display": false
+        },
+        " of this property specifies how the universal operator ",
+        {
+          "type": "math",
+          "tex": "\\xi_p",
+          "display": false
+        },
+        " makes ingression into the object. The ingression of the universal operator ",
+        {
+          "type": "math",
+          "tex": "\\xi_p",
+          "display": false
+        },
+        " defines the eigenoperator ",
+        {
+          "type": "math",
+          "tex": "\\hat v_p",
+          "display": false
+        },
+        ". This eigenoperator generates phase transformations that act upon the property q. Hence, the different values of this property are just different phases in the orbit of phases generated by the eigenoperator ",
+        {
+          "type": "math",
+          "tex": "\\hat v_p",
+          "display": false
+        },
+        "."
+      ],
+      "zh": [
+        "图 1 概括了所提出的物理对象定义。性质 p 是所表示对象的客观性质。这个性质的值 ",
+        {
+          "type": "math",
+          "tex": "p_0",
+          "display": false
+        },
+        " 指定普遍算符 ",
+        {
+          "type": "math",
+          "tex": "\\xi_p",
+          "display": false
+        },
+        " 如何嵌入对象之中。普遍算符 ",
+        {
+          "type": "math",
+          "tex": "\\xi_p",
+          "display": false
+        },
+        " 的嵌入定义本征算符 ",
+        {
+          "type": "math",
+          "tex": "\\hat v_p",
+          "display": false
+        },
+        "。这个本征算符生成作用于性质 q 的显相变换。因此，这个性质的不同值只是本征算符 ",
+        {
+          "type": "math",
+          "tex": "\\hat v_p",
+          "display": false
+        },
+        " 生成的显相轨道中的不同显相。"
+      ],
+      "units": 87
+    },
+    {
+      "id": "ch22-u024",
+      "source_ids": [
+        "ch22-u024",
+        "ch22-u025"
+      ],
+      "page": "",
+      "canonical_kind": "figure",
+      "en": [
+        "Fig. 1 Physical object defined by the objective property p ."
+      ],
+      "zh": [
+        "图 1 由客观性质 p 定义的物理对象。"
+      ],
+      "type": "figure",
+      "src": "/writing/constituting-objectivity/assets/ch22-u024.png",
+      "imageWidth": 914,
+      "imageHeight": 507,
+      "sharedFigure": true,
+      "linkImage": true,
+      "parallelFigureCaption": [
+        "Fig. 1 Physical object defined by the objective property p .",
+        {
+          "type": "break"
+        },
+        "图 1 由客观性质 p 定义的物理对象。"
+      ],
+      "units": 10
+    },
+    {
+      "id": "ch22-u027",
+      "source_ids": [
+        "ch22-u027"
+      ],
+      "page": "381",
+      "canonical_kind": "paragraph",
+      "en": [
+        "According to postulate ♣, the transformations induced by the objective properties of an object are phase transformations. As we have shown, the uncertainty principle is a formal consequence of this postulate. If the momentum p is an objective property of an object, then the position q is completely phased out by the phase transformations induced by p. Since the classical definition of objective physical states comprises both the exact position and the exact momentum of the system, this postulate cannot be consistently implemented in the framework of classical mechanics. We can also argue differently. If both the position and the momentum were included in the object’s eidos, then both the position and the momentum would be phased out by the phase transformations induced by the momentum and the position respectively. Therefore, both the position and the momentum would only be nonobjective phases, and the physical system would have no objective properties at all. We can thus conclude that the classical definition of states by means of both q and p is incompatible with our definition of physical objects. The classical definition of a physical state is consistent only if we deny that the transformations induced by an objective property of the system are phase transformations. In fact, in classical mechanics the transformations induced by an objective property are not interpreted as phase transformations, but rather as transformations between states that are objectively different. For example, the transformations induced by the Hamiltonian are interpreted as temporal evolutions between different objective states. In this way, the definition of classical states becomes consistent. Nevertheless, objective properties can no longer be defined as quantities that induce the object’s automorphisms. Hence, the classical definition of both objective properties and physical objects remains problematic. The situation has thus been conveniently reversed: the problem is no longer how to recover objectivity in quantum mechanics, but rather how to define classical objects in a consistent manner."
+      ],
+      "zh": [
+        "按照公设♣，对象的客观性质诱导的变换是显相变换。如我们所表明的，不确定性原理是这条公设的形式后果。如果动量 p 是对象的客观性质，那么位置 q 就被 p 诱导的显相变换完全成为显相。由于客观物理态的经典定义同时包含系统的精确位置和精确动量，这条公设不能在经典力学框架中一致地实现。我们也可以换一种方式论证。如果位置和动量都被包含在对象的 eidos 中，那么位置和动量就会分别被动量和位置诱导的显相变换所改变，因而只是显相。于是，位置和动量都只会是非客观的显相，物理系统将根本没有客观性质。因此我们可以得出结论：借助 q 和 p 两者定义态的经典定义，与我们的物理对象定义不相容。只有否认系统的客观性质诱导的变换是显相变换，物理态的经典定义才是一致的。事实上，在经典力学中，客观性质诱导的变换不被解释为显相变换，而是被解释为客观上不同的态之间的变换。例如，哈密顿量诱导的变换被解释为不同客观态之间的时间演化。这样，经典态的定义就变得一致了。然而，客观性质不再能被定义为诱导对象自同构的量。因此，客观性质和物理对象的经典定义仍然是有问题的。于是局面被恰当地颠倒过来：问题不再是如何在量子力学中恢复客观性，而是如何以一致的方式定义经典对象。"
+      ],
+      "units": 317
+    },
+    {
+      "id": "ch22-u028",
+      "source_ids": [
+        "ch22-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For the sake of simplicity we have only considered the case of an object with a well-defined momentum and a completely undetermined position. The reciprocal case – a well-defined position with an undetermined momentum – is completely analogous. In the general case, both the position and the momentum are subject to certain indeterminacies. In fact, the flexibility of quantum mechanics’ formalism makes it possible to define physical objects characterized by properties which are neither objective properties nor phases, but rather a mixture of both. In these cases, neither q nor p are sharp objective properties of the object. For example, if q is an unsharp objective property of an object, then the induced phase transformations are unsharp phase transformations. Therefore, the conjugated momentum p is phased out only partially. Hence, p is in turn an unsharp objective property that partially phases out the coordinate q. Therefore, q cannot be a sharp objective property (as it was assumed at the beginning) and the circle closes consistently. This means that a certain property can be partially considered an unsharp objective property of the object and partially a phase. It follows that the mere distinction between objective properties and phases does not suffice for treating generic cases. The resulting subtle equilibrium between unsharp objective properties and unsharp non-objective phases is formally governed by the uncertainty principle."
+      ],
+      "zh": [
+        "为简单起见，我们只考虑了具有确定动量和完全未定位置的对象的情形。相反的情形——确定的位置与未定的动量——完全类似。在一般情形中，位置和动量都受某种不确定性支配。事实上，量子力学形式体系的灵活性使得定义这样的物理对象成为可能：刻画它们的性质既不是客观性质也不是显相，而是两者的混合。在这些情形中，q 和 p 都不是对象的锐性客观性质。例如，如果 q 是对象的非锐性客观性质，那么诱导的显相变换就是非锐显相变换。因此，共轭动量 p 只是部分地呈现为显相。于是，p 反过来是一个非锐性客观性质，它又使坐标 q 部分地呈现为显相。因此，q 不能是锐性客观性质（正如一开始所假设的），这样，两项判断彼此相容。这意味着某个性质可以部分地被看作对象的非锐性客观性质，部分地被看作显相。由此可见，客观性质与显相的单纯区分不足以处理一般情形。非锐性客观性质与非锐非客观显相之间由此产生的微妙平衡，在形式上由不确定性原理支配。"
+      ],
+      "units": 221
+    },
+    {
+      "id": "ch22-u029",
+      "source_ids": [
+        "ch22-u029"
+      ],
+      "page": "382",
+      "canonical_kind": "heading",
+      "en": [
+        "3 The Revenge of Zeno"
+      ],
+      "zh": [
+        "3 芝诺的复仇"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch22-u034",
+      "source_ids": [
+        "ch22-u034"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[...] comment l’objet qui se meut serait-il en un point de son trajet ? H. Bergson, 1938, La pensée et le mouvant, (p. 158)"
+      ],
+      "zh": [
+        "“……运动着的对象怎么会处于其轨迹的某一点上呢？”（H. Bergson, 1938, La pensée et le mouvant, p. 158）"
+      ],
+      "type": "quote",
+      "units": 22
+    },
+    {
+      "id": "ch22-u030",
+      "source_ids": [
+        "ch22-u030"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The analysis presented in the previous section makes no reference to temporal processes. Since physics, as it is usually understood, studies the temporal evolution of physical systems, we will now introduce a temporal parameter t. The consideration of temporal processes allows to shift the discussion from momenta ",
+        {
+          "type": "math",
+          "tex": "p_i",
+          "display": false
+        },
+        " (observables that generate infinitesimal canonical transformations of positions ",
+        {
+          "type": "math",
+          "tex": "q_i",
+          "display": false
+        },
+        ") to velocities ",
+        {
+          "type": "math",
+          "tex": "\\dot q_i",
+          "display": false
+        },
+        " (infinitesimal temporal variations of qi)."
+      ],
+      "zh": [
+        "上一节给出的分析没有指涉时间过程。由于通常理解的物理学研究物理系统的时间演化，我们现在引入时间参数 t。考虑时间过程使我们能够把讨论从动量 pi（生成位置 qi 的无穷小正则变换的可观测量）转移到速度 ",
+        {
+          "type": "math",
+          "tex": "\\dot q_i",
+          "display": false
+        },
+        "（qi 的无穷小时间变化）。"
+      ],
+      "units": 69
+    },
+    {
+      "id": "ch22-u031",
+      "source_ids": [
+        "ch22-u031"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We will begin by noting that an object O characterized by a well-defined velocity lacks, by definition, a well-defined position. Analogously, a nomad is a person characterized by the property of not having a well-defined position. We claim that this trivial fact contains the conceptual kernel of the uncertainty principle for positions and velocities. One might argue that this lack of a well-defined position can be bypassed by decomposing the movement in instantaneous objects Ot that evolve in time, that is to say that change objectively as time passes. Even though the state of motion of the object O makes it impossible to assign it a constant position, it might still be possible to define the objective positions of the different instantaneous objects Ot. According to the standard terminology, the objects Ot might be called the instantaneous states of the object O. We will now analyze whether this strategy can be consistently pursued in the framework of our definition of physical objects."
+      ],
+      "zh": [
+        "我们首先注意到，以确定的速度为刻画的对象 O，按定义缺乏确定的位置。类似地，游牧者是以没有确定位置这一性质为刻画的人。我们主张，这个显而易见的事实包含着位置与速度的不确定性原理的概念内核。有人可能论证说，这种确定位置的缺乏可以通过把运动分解为随时间演化的瞬时对象 Ot 来绕过，也就是说这些瞬时对象随时间流逝而客观地变化。尽管对象 O 的运动状态使我们不可能给它指派恒定的位置，也许仍然有可能定义不同瞬时对象 Ot 的客观位置。按照标准术语，对象 Ot 可以被称为对象 O 的瞬时态。我们现在来分析，在我们的物理对象定义框架中，这个策略能否一致地贯彻。"
+      ],
+      "units": 162
+    },
+    {
+      "id": "ch22-u032",
+      "source_ids": [
+        "ch22-u032",
+        "ch22-u033",
+        "ch22-u035"
+      ],
+      "page": "383",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In what follows, we will restrict the analysis to the simplest case. Let’s consider an object O consisting of a free particle moving with a constant momentum p (or a constant velocity ˙q). In principle, we could decompose O in a sequence of instantaneous objects Ot. Each of these instantaneous objects Ot would be characterized by the objective property p (which induces the displacements in q) and its position q(t) at t. In other words, as in classical mechanics, both p and q(t) would be objective properties of the instantaneous object Ot. Even if q(t) is not an objective property of O, it might still be considered an objective property of the instantaneous object Ot. Nevertheless, this decomposition of O in instantaneous objects Ot characterized by both p and q(t) is inconsistent with the proposed definition of physical objects. Since the position q(t) changes in time, the different instantaneous objects Ot are objectively different. This results from the fact that the position q(t) is considered an objective property of Ot. Hence, the different instantaneous objects Ot differ in the objective property q(t). This means that temporal evolution is a non-trivial objective modification of the instantaneous objects Ot. Therefore, the Hamiltonian h, which induces the transformations of t, cannot be an objective property of the instantaneous object Ot. According to our definition of physical objects, if h were an objective property of Ot, then the transformations induced by h would be phase transformations that could not objectively modify the object. Since temporal evolution objectively modifies the instantaneous objects Ot, the Hamiltonian h cannot be an objective property of Ot. Nevertheless, this conclusion contradicts the fact that if p is an objective property of Ot, then ",
+        {
+          "type": "math",
+          "tex": "h=\\frac{p^2}{2m}",
+          "display": false
+        },
+        " should also be an objective property of Ot.",
+        " ",
+        "We can also argue in the opposite sense. Since p is an objective property of Ot, the Hamiltonian ",
+        {
+          "type": "math",
+          "tex": "h=\\frac{p^2}{2m}",
+          "display": false
+        },
+        " is also an objective property of Ot.",
+        " ",
+        "Hence, according to our definition of physical objects, the transformations induced by h are phase transformations.",
+        {
+          "type": "note",
+          "id": "ch22-n07",
+          "label": "7"
+        },
+        " Therefore, the different Ot are not different instantaneous objects Ot, but rather different phases of the same object O. We can thus conclude that the object O cannot be consistently decomposed in different instantaneous objects Ot. Hence, the object O is an indecomposable object with different non-objective temporal phases. In other words, what we observe at different times are not different instantaneous objects Ot, but rather different non-objective temporal phases of the same object O."
+      ],
+      "zh": [
+        "在下文中，我们把分析限制于最简单的情形。考虑一个由以恒定动量 p（或恒定速度 q̇）运动的自由粒子构成的对象 O。原则上，我们可以把 O 分解为一系列瞬时对象 Ot。每个瞬时对象 Ot 都由客观性质 p（它诱导 q 的位移）及其在 t 时刻的位置 q(t) 来刻画。换言之，正如在经典力学中一样，p 和 q(t) 都会是瞬时对象 Ot 的客观性质。即使 q(t) 不是 O 的客观性质，它仍然可以被看作瞬时对象 Ot 的客观性质。然而，把 O 分解为同时以 p 和 q(t) 为刻画的瞬时对象 Ot，与所提出的物理对象定义不一致。由于位置 q(t) 随时间变化，不同的瞬时对象 Ot 是客观上不同的。这源于位置 q(t) 被看作 Ot 的客观性质这一事实。因此，不同的瞬时对象 Ot 在客观性质 q(t) 上有差异。这意味着时间演化是对瞬时对象 Ot 的非平凡客观改变。因此，诱导 t 的变换的哈密顿量 h，不能是瞬时对象 Ot 的客观性质。按照我们的物理对象定义，如果 h 是 Ot 的客观性质，那么 h 诱导的变换就会是不能客观地改变对象的显相变换。由于时间演化客观地改变瞬时对象 Ot，哈密顿量 h 不能是 Ot 的客观性质。然而，这个结论与如下事实相矛盾：如果 p 是 Ot 的客观性质，那么 ",
+        {
+          "type": "math",
+          "tex": "h=\\frac{p^2}{2m}",
+          "display": false
+        },
+        " 也应当是 Ot 的客观性质。",
+        "我们也可以反过来论证。由于 p 是 Ot 的客观性质，哈密顿量 ",
+        {
+          "type": "math",
+          "tex": "h=\\frac{p^2}{2m}",
+          "display": false
+        },
+        " 也是 Ot 的客观性质。",
+        "因此，按照我们的物理对象定义，h 诱导的变换是显相变换。",
+        {
+          "type": "note",
+          "id": "ch22-n07",
+          "label": "7"
+        },
+        " 所以，不同的 Ot 不是不同的瞬时对象 Ot，而是同一对象 O 的不同显相。于是我们可以得出结论：对象 O 不能被一致地分解为不同的瞬时对象 Ot。因此，对象 O 是一个不可分解的对象，具有不同的非客观时间显相。换言之，我们在不同时刻观察到的不是不同的瞬时对象 Ot，而是同一对象 O 的不同非客观时间显相。"
+      ],
+      "units": 425
+    },
+    {
+      "id": "ch22-u036",
+      "source_ids": [
+        "ch22-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "These considerations do not mean that it is impossible to define physical objects that change objectively in time. We simply claim that a system moving with a constant velocity cannot be analyzed in terms of instantaneous objects (or objective states) that change objectively in time. However, in principle, it is possible to define an instantaneous object Ot such that its eidos contains the property t.",
+        {
+          "type": "note",
+          "id": "ch22-n08",
+          "label": "8"
+        },
+        " Since the time t is an objective property of the instantaneous object Ot, the property h is phased out by the phase transformations induced by t. Hence, the transformations induced by h are no longer phase transformations, but rather objective transformations of the object. Therefore, at different times t and t′, there are instantaneous objects Ot and Ot′ that are objectively different.",
+        {
+          "type": "note",
+          "id": "ch22-n09",
+          "label": "9"
+        }
+      ],
+      "zh": [
+        "这些考虑并不意味着不可能定义随时间客观地变化的物理对象。我们只是主张，以恒定速度运动的系统不能用随时间客观地变化的瞬时对象（或客观态）来分析。然而，原则上可以定义一个瞬时对象 Ot，使其 eidos 包含性质 t。",
+        {
+          "type": "note",
+          "id": "ch22-n08",
+          "label": "8"
+        },
+        " 由于时间 t 是瞬时对象 Ot 的客观性质，性质 h 就在 t 诱导的变换中只作为显相出现。于是，h 诱导的变换不再是显相变换，而是对象的客观变换。因此，在不同时刻 t 和 t′，存在客观上不同的瞬时对象 Ot 和 Ot′。",
+        {
+          "type": "note",
+          "id": "ch22-n09",
+          "label": "9"
+        }
+      ],
+      "units": 127
+    },
+    {
+      "id": "ch22-u037",
+      "source_ids": [
+        "ch22-u037"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Conclusion"
+      ],
+      "zh": [
+        "4 结论"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch22-u038",
+      "source_ids": [
+        "ch22-u038"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We have defined a physical object as a set of mutually compatible objective properties such that each objective property induces a one-parameter family of automorphisms. The compatibility condition guarantees that the objective properties are invariant under the automorphisms induced by all the other objective properties of the same object. The uncertainty principle is a direct consequence of the mutual imbrication between objective properties and non-objective phases: if p is a sharp objective property of an object, then the property q (phased out by the phase transformations induced by p) cannot also be an objective property."
+      ],
+      "zh": [
+        "我们把物理对象定义为一组相互相容的客观性质，使得每个客观性质诱导一个单参数自同构族。相容性条件保证客观性质在同一对象的所有其他客观性质诱导的自同构下保持不变。不确定性原理是客观性质与非客观显相之间相互交叠的直接后果：如果 p 是对象的锐性客观性质，那么性质 q（在 p 诱导的变换中只作为显相出现）就不能同时是客观性质。"
+      ],
+      "units": 95
+    },
+    {
+      "id": "ch22-u039",
+      "source_ids": [
+        "ch22-u039"
+      ],
+      "page": "384",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We could restate Einstein’s requirement by saying that a satisfactory physical theory has to provide a complete objective description of physical reality (Einstein et al., 1935). Firstly, this means that every objective property of physical reality should have a counterpart in the theory. Secondly, non-objective properties should not be mistaken for objective properties by the theory. The classical description of a physical system includes both its objective properties and its non-objective phases. Unlike classical mechanics, quantum mechanics provides a complete objective description of physical systems."
+      ],
+      "zh": [
+        "我们可以这样重述爱因斯坦的要求：令人满意的物理理论必须提供对物理实在的完备客观描述（Einstein et al., 1935）。首先，这意味着物理实在的每个客观性质都应当在理论中有对应物。其次，非客观性质不应当被理论误认为客观性质。物理系统的经典描述同时包含它的客观性质和它的非客观显相。与经典力学不同，量子力学提供了物理系统的完备的客观描述。"
+      ],
+      "units": 85
+    },
+    {
+      "id": "ch22-u040",
+      "source_ids": [
+        "ch22-u040"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "5 Appendix"
+      ],
+      "zh": [
+        "5 附录"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch22-u041",
+      "source_ids": [
+        "ch22-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We will now give a brief account of the formal structures that underlie the proposed definition of physical objects (for more details see Abraham and Marsden, 1978; Catren, 2008; Libermann and Marle, 1987; Marsden and Ratiu, 1999). A symplectic action of a Lie group ",
+        {
+          "type": "math",
+          "tex": "G",
+          "display": false
+        },
+        " (of Lie algebra ",
+        {
+          "type": "math",
+          "tex": "\\mathfrak g",
+          "display": false
+        },
+        ") on a symplectic manifold ",
+        {
+          "type": "math",
+          "tex": "(M,\\omega)",
+          "display": false
+        },
+        " is a group action ",
+        {
+          "type": "math",
+          "tex": "\\Phi:G\\times M\\to M",
+          "display": false
+        },
+        " that preserves the symplectic form ",
+        {
+          "type": "math",
+          "tex": "\\omega",
+          "display": false
+        },
+        ", i.e. that satisfies ",
+        {
+          "type": "math",
+          "tex": "\\Phi_g^*\\omega=\\omega",
+          "display": false
+        },
+        ", where ",
+        {
+          "type": "math",
+          "tex": "\\Phi_g^*",
+          "display": false
+        },
+        " is the pullback defined by the map ",
+        {
+          "type": "math",
+          "tex": "\\Phi_g(\\cdot)\\doteq\\Phi(g,\\cdot)",
+          "display": false
+        },
+        ". Such an action defines a map ",
+        {
+          "type": "math",
+          "tex": "\\iota:\\mathfrak g\\to TM",
+          "display": false
+        },
+        " (that we have called ingression) between Lie algebra elements ",
+        {
+          "type": "math",
+          "tex": "\\xi\\in\\mathfrak g",
+          "display": false
+        },
+        " (that we have called universal operators) and fundamental vector fields ",
+        {
+          "type": "math",
+          "tex": "v_\\xi",
+          "display": false
+        },
+        " on ",
+        {
+          "type": "math",
+          "tex": "M",
+          "display": false
+        },
+        " (that we have called realized operators). The fundamental vector field ",
+        {
+          "type": "math",
+          "tex": "v_\\xi",
+          "display": false
+        },
+        " is given by the expression\n",
+        {
+          "type": "math",
+          "tex": "v_\\xi(x)=\\left.\\frac{d}{d\\lambda}\\bigl(\\exp(-\\lambda\\xi)\\cdot x\\bigr)\\right|_{\\lambda=0},",
+          "display": true
+        },
+        "\nwhere ",
+        {
+          "type": "math",
+          "tex": "x\\in M",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "\\xi\\in\\mathfrak g",
+          "display": false
+        },
+        ". The symplectic action is said to be Hamiltonian if the ingression map ",
+        {
+          "type": "math",
+          "tex": "\\iota:\\mathfrak g\\to TM",
+          "display": false
+        },
+        " can be “factorized” as follows"
+      ],
+      "zh": [
+        "我们现在简要说明支撑所提出的物理对象定义的形式结构（更多细节见 Abraham and Marsden, 1978; Catren, 2008; Libermann and Marle, 1987; Marsden and Ratiu, 1999）。李群 ",
+        {
+          "type": "math",
+          "tex": "G",
+          "display": false
+        },
+        "（李代数为 ",
+        {
+          "type": "math",
+          "tex": "\\mathfrak g",
+          "display": false
+        },
+        "）在辛流形 ",
+        {
+          "type": "math",
+          "tex": "(M,\\omega)",
+          "display": false
+        },
+        " 上的辛作用，是保持辛形式 ",
+        {
+          "type": "math",
+          "tex": "\\omega",
+          "display": false
+        },
+        " 的群作用 ",
+        {
+          "type": "math",
+          "tex": "\\Phi:G\\times M\\to M",
+          "display": false
+        },
+        "。也就是说，",
+        {
+          "type": "math",
+          "tex": "\\Phi_g^*\\omega=\\omega",
+          "display": false
+        },
+        "，其中 ",
+        {
+          "type": "math",
+          "tex": "\\Phi_g^*",
+          "display": false
+        },
+        " 是由映射 ",
+        {
+          "type": "math",
+          "tex": "\\Phi_g(\\cdot)\\doteq\\Phi(g,\\cdot)",
+          "display": false
+        },
+        " 定义的拉回。这个作用定义了映射 ",
+        {
+          "type": "math",
+          "tex": "\\iota:\\mathfrak g\\to TM",
+          "display": false
+        },
+        "，也就是我们所说的嵌入。它把李代数元素 ",
+        {
+          "type": "math",
+          "tex": "\\xi\\in\\mathfrak g",
+          "display": false
+        },
+        "（普遍算符）映到 ",
+        {
+          "type": "math",
+          "tex": "M",
+          "display": false
+        },
+        " 上的基本向量场 ",
+        {
+          "type": "math",
+          "tex": "v_\\xi",
+          "display": false
+        },
+        "（实现算符）。基本向量场由下式给出\n",
+        {
+          "type": "math",
+          "tex": "v_\\xi(x)=\\left.\\frac{d}{d\\lambda}\\bigl(\\exp(-\\lambda\\xi)\\cdot x\\bigr)\\right|_{\\lambda=0},",
+          "display": true
+        },
+        "\n其中 ",
+        {
+          "type": "math",
+          "tex": "x\\in M",
+          "display": false
+        },
+        "，",
+        {
+          "type": "math",
+          "tex": "\\xi\\in\\mathfrak g",
+          "display": false
+        },
+        "。如果嵌入映射 ",
+        {
+          "type": "math",
+          "tex": "\\iota:\\mathfrak g\\to TM",
+          "display": false
+        },
+        " 可以按如下方式“分解”，就称此辛作用为哈密顿作用。"
+      ],
+      "units": 201
+    },
+    {
+      "id": "ch22-u042",
+      "source_ids": [
+        "ch22-u042"
+      ],
+      "page": "",
+      "canonical_kind": "figure",
+      "en": [
+        "Equation (2). The ingression ι from the Lie algebra g to TM factors through the co-momentum map μ̃ and π as g → C∞(M) → TM."
+      ],
+      "zh": [
+        "式（2）。嵌入映射 ι 从李代数 g 到 TM，经余动量映射 μ̃ 及 π 分解为 g → C∞(M) → TM。"
+      ],
+      "type": "figure",
+      "src": "/writing/constituting-objectivity/assets/ch22-u042.png",
+      "imageWidth": 722,
+      "imageHeight": 130,
+      "sharedFigure": true,
+      "linkImage": true,
+      "parallelFigureCaption": [
+        "Equation (2). The ingression ι from the Lie algebra g to TM factors through the co-momentum map μ̃ and π as g → C∞(M) → TM.",
+        {
+          "type": "break"
+        },
+        "式（2）。嵌入映射 ι 从李代数 g 到 TM，经余动量映射 μ̃ 及 π 分解为 g → C∞(M) → TM。"
+      ],
+      "units": 25
+    },
+    {
+      "id": "ch22-u043",
+      "source_ids": [
+        "ch22-u043"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "where ",
+        {
+          "type": "math",
+          "tex": "\\tilde{\\mu}:\\mathfrak g\\to C^\\infty(M)",
+          "display": false
+        },
+        " is the so-called co-momentum map and ",
+        {
+          "type": "math",
+          "tex": "\\pi:C^\\infty(M)\\to TM",
+          "display": false
+        },
+        " is the map between classical observables on ",
+        {
+          "type": "math",
+          "tex": "M",
+          "display": false
+        },
+        " and the so-called Hamiltonian vector fields. A classical observable ",
+        {
+          "type": "math",
+          "tex": "f\\in C^\\infty(M)",
+          "display": false
+        },
+        " defines a Hamiltonian vector field ",
+        {
+          "type": "math",
+          "tex": "v_f",
+          "display": false
+        },
+        " by means of the expression ",
+        {
+          "type": "math",
+          "tex": "i_{v_f}\\omega=df",
+          "display": false
+        },
+        ", where ",
+        {
+          "type": "math",
+          "tex": "i_{v_f}\\omega",
+          "display": false
+        },
+        " denotes the contraction of ",
+        {
+          "type": "math",
+          "tex": "v_f",
+          "display": false
+        },
+        " with the symplectic two-form ",
+        {
+          "type": "math",
+          "tex": "\\omega",
+          "display": false
+        },
+        ". The Hamiltonian vector field ",
+        {
+          "type": "math",
+          "tex": "v_f",
+          "display": false
+        },
+        " is the generator of the symplectic diffeomorphisms ",
+        {
+          "type": "math",
+          "tex": "\\phi_\\lambda^f:M\\to M",
+          "display": false
+        },
+        ", that is to say of the canonical transformations induced by the observable ",
+        {
+          "type": "math",
+          "tex": "f",
+          "display": false
+        },
+        ". In ",
+        {
+          "type": "math",
+          "tex": "\\mathbb R^2",
+          "display": false
+        },
+        ", the Hamiltonian vector field associated to an observable ",
+        {
+          "type": "math",
+          "tex": "f\\in C^\\infty(M)",
+          "display": false
+        },
+        " is given by the expression"
+      ],
+      "zh": [
+        "其中 ",
+        {
+          "type": "math",
+          "tex": "\\tilde{\\mu}:\\mathfrak g\\to C^\\infty(M)",
+          "display": false
+        },
+        " 是所谓的余动量映射，",
+        {
+          "type": "math",
+          "tex": "\\pi:C^\\infty(M)\\to TM",
+          "display": false
+        },
+        " 则把 ",
+        {
+          "type": "math",
+          "tex": "M",
+          "display": false
+        },
+        " 上的经典可观测量映到所谓的哈密顿向量场。经典可观测量 ",
+        {
+          "type": "math",
+          "tex": "f\\in C^\\infty(M)",
+          "display": false
+        },
+        " 通过 ",
+        {
+          "type": "math",
+          "tex": "i_{v_f}\\omega=df",
+          "display": false
+        },
+        " 定义哈密顿向量场 ",
+        {
+          "type": "math",
+          "tex": "v_f",
+          "display": false
+        },
+        "，其中 ",
+        {
+          "type": "math",
+          "tex": "i_{v_f}\\omega",
+          "display": false
+        },
+        " 是 ",
+        {
+          "type": "math",
+          "tex": "v_f",
+          "display": false
+        },
+        " 与辛二形式 ",
+        {
+          "type": "math",
+          "tex": "\\omega",
+          "display": false
+        },
+        " 的缩并。向量场 ",
+        {
+          "type": "math",
+          "tex": "v_f",
+          "display": false
+        },
+        " 生成辛微分同胚 ",
+        {
+          "type": "math",
+          "tex": "\\phi_\\lambda^f:M\\to M",
+          "display": false
+        },
+        "，也就是由可观测量 ",
+        {
+          "type": "math",
+          "tex": "f",
+          "display": false
+        },
+        " 诱导的正则变换。在 ",
+        {
+          "type": "math",
+          "tex": "\\mathbb R^2",
+          "display": false
+        },
+        " 中，与可观测量 ",
+        {
+          "type": "math",
+          "tex": "f\\in C^\\infty(M)",
+          "display": false
+        },
+        " 相应的哈密顿向量场由下式给出"
+      ],
+      "units": 130
+    },
+    {
+      "id": "ch22-u044",
+      "source_ids": [
+        "ch22-u044",
+        "ch22-u045",
+        "ch22-u046",
+        "ch22-u047"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "v_f=\\frac{\\partial f}{\\partial p}\\frac{\\partial}{\\partial q}-\\frac{\\partial f}{\\partial q}\\frac{\\partial}{\\partial p}.",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "v_f=\\frac{\\partial f}{\\partial p}\\frac{\\partial}{\\partial q}-\\frac{\\partial f}{\\partial q}\\frac{\\partial}{\\partial p}.",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch22-u048",
+      "source_ids": [
+        "ch22-u048"
+      ],
+      "page": "385",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In other words, a symplectic action is Hamiltonian if the fundamental vector field vξ that realizes on M the universal operator ξ ∈g can also be obtained as the Hamiltonian vector field vf associated to a physical observable f. It might seem that we have all the elements for implementing the proposed definition of physical objects. In fact, the sequence of maps (2) seems to be the formal implementation of the application (1) between universal operators and eigenoperators. According to (2), the objective properties f ∈C∞(M) “factorize” the ingression on M of universal operators ξ ∈g. Nevertheless, the two postulates that we used for defining physical objects are not satisfied in the classical framework. The main problem is that the homomorphism π between the Poisson algebra of classical observables f ∈C∞(M) and the Lie algebra of classical operators vf (under the Lie bracket of vector fields) is not an isomorphism of Lie algebras. This is a consequence of the fact that the map f →vf is not injective (since vk = 0 for any k ∈R). The fundamental consequence of this non-injectivity is that ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Lie}_{v_p}v_q=[v_q,v_p]=v_{\\{q,p\\}}=v_1=0",
+          "display": false
+        },
+        ", even if ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Lie}_{v_p}q=\\{q,p\\}=1",
+          "display": false
+        },
+        ". This means that in classical mechanics, a non-trivial transformation (generated by the classical operator vp) of the value of an objective property q does not necessarily modify the realized operator vq. This means that in classical mechanics, different states (characterized by different values of q) do not realize differently the same universal operator in g. Hence, an objective property cannot be defined – as we did in postulate ♠– as a quantity that specifies the particular way in which the object realizes a universal operator. As for postulate ♠ (according to which a realized operator generates automorphisms of the object), we have already shown why it cannot be consistently implemented in classical mechanics. In order to satisfy these postulates, it is necessary to extend the classical operators vf to quantum operators ˆvf such that the latter satisfy Dirac’s quantization conditions. In the framework of geometric quantization, this can be done by means of the socalled prequantization formalism (Brylinski, 1993; Kostant, 1970; Souriau, 1997; Woodhouse, 1992)."
+      ],
+      "zh": [
+        "换言之，如果实现在 M 上的普遍算符 ξ ∈ g 的基本向量场 vξ，也可以作为与某个物理可观测量 f 相关联的哈密顿向量场 vf 获得，那么这个辛作用就是哈密顿的。看起来我们已经具备了实现所提出的物理对象定义的所有要素。事实上，映射序列 (2) 似乎就是普遍算符与本征算符之间的应用 (1) 的形式实现。按照 (2)，客观性质 f ∈ C∞(M)“分解”了普遍算符 ξ ∈ g 在 M 上的嵌入。然而，我们用来定义物理对象的两条公设在经典框架中并不满足。主要问题是，经典可观测量的泊松代数 f ∈ C∞(M) 与经典算符的李代数 vf（在向量场的李括号下）之间的同态 π，不是李代数的同构。这是映射 f → vf 不是单射的后果（因为对任何 k ∈ R 都有 vk = 0）。这种非单射性的根本后果是：",
+        {
+          "type": "math",
+          "tex": "\\mathit{Lie}_{v_p}v_q=[v_q,v_p]=v_{\\{q,p\\}}=v_1=0",
+          "display": false
+        },
+        "，尽管 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Lie}_{v_p}q=\\{q,p\\}=1",
+          "display": false
+        },
+        "。这意味着在经典力学中，客观性质 q 的值的非平凡变换（由经典算符 vp 生成）未必改变实现算符 vq。这意味着在经典力学中，不同的态（以 q 的不同值为刻画）并不以不同方式实现 g 中的同一个普遍算符。因此，客观性质不能——像我们在公设♠中所做的那样——被定义为指定对象实现普遍算符的特定方式的量。至于公设♣（按照它，实现算符生成对象的自同构），我们已经表明为什么它不能在经典力学中一致地实现。为了满足这些公设，必须把经典算符 vf 扩展为量子算符 v̂f，使后者满足狄拉克的量子化条件。在几何量子化的框架中，这可以借助所谓的预量子化形式体系来完成（Brylinski, 1993; Kostant, 1970; Souriau, 1997; Woodhouse, 1992）。",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "这一处原书印作公设 ♠。生成自同构的要求见公设 ♣，译文据此处理。"
+          ]
+        }
+      ],
+      "units": 373
+    },
+    {
+      "id": "ch22-u049",
+      "source_ids": [
+        "ch22-u049"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch22-bibliography-001",
+      "source_ids": [
+        "ch22-ref002",
+        "ch22-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Abraham, R. and Marsden, J.E. [1978]: Foundations of Mechanics, second ed., Cambridge, MA: Addison-Wesley."
+      ],
+      "zh": [
+        "Abraham, R. and Marsden, J.E. [1978]: Foundations of Mechanics, second ed., Cambridge, MA: Addison-Wesley."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch22-bibliography-002",
+      "source_ids": [
+        "ch22-ref003",
+        "ch22-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Auyang, S.Y. [1995]: How Is Quantum Field Theory Possible?, Oxford/New York: Oxford University Press."
+      ],
+      "zh": [
+        "Auyang, S.Y. [1995]: How Is Quantum Field Theory Possible?, Oxford/New York: Oxford University Press."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch22-bibliography-003",
+      "source_ids": [
+        "ch22-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bergson, H. [1938]: La pensée et le mouvant, Paris: Presses Universitaires de France."
+      ],
+      "zh": [
+        "Bergson, H. [1938]: La pensée et le mouvant, Paris: Presses Universitaires de France."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch22-bibliography-004",
+      "source_ids": [
+        "ch22-ref004",
+        "ch22-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Born, M. [1998]: ‘Physical Reality’, in E. Castellani (ed.), Interpreting Bodies. Classical and Quantum Objects in Modern Physics, Princeton, NJ: Princeton University Press."
+      ],
+      "zh": [
+        "Born, M. [1998]: ‘Physical Reality’, in E. Castellani (ed.), Interpreting Bodies. Classical and Quantum Objects in Modern Physics, Princeton, NJ: Princeton University Press."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch22-bibliography-005",
+      "source_ids": [
+        "ch22-ref005",
+        "ch22-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Brylinski, J.-L. [1993]: Loop Spaces, Characteristic Classes, and Geometric Quantization, Progr. Math. 107, Boston, MA: Birkhäuser Boston."
+      ],
+      "zh": [
+        "Brylinski, J.-L. [1993]: Loop Spaces, Characteristic Classes, and Geometric Quantization, Progr. Math. 107, Boston, MA: Birkhäuser Boston."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch22-bibliography-006",
+      "source_ids": [
+        "ch22-ref006",
+        "ch22-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Castagnino, M., Catren, G. and Ferraro, R. [2002]: ‘Time Asymmetries in Quantum Cosmology and Boundary Conditions to the Wheeler-DeWitt Equation’, Classical and Quantum Gravity, Vol. 19, No. 18, pp. 4729–4746."
+      ],
+      "zh": [
+        "Castagnino, M., Catren, G. and Ferraro, R. [2002]: ‘Time Asymmetries in Quantum Cosmology and Boundary Conditions to the Wheeler-DeWitt Equation’, Classical and Quantum Gravity, Vol. 19, No. 18, pp. 4729–4746."
+      ],
+      "shared": true,
+      "units": 31
+    },
+    {
+      "id": "ch22-bibliography-007",
+      "source_ids": [
+        "ch22-ref007",
+        "ch22-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Catren, G. [2008]: ‘On Classical and Quantum Objectivity’, Foundations of Physics, Vol. 38, No. 5, pp. 470–487."
+      ],
+      "zh": [
+        "Catren, G. [2008]: ‘On Classical and Quantum Objectivity’, Foundations of Physics, Vol. 38, No. 5, pp. 470–487."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch22-bibliography-008",
+      "source_ids": [
+        "ch22-ref010",
+        "ch22-ref011"
+      ],
+      "page": "386",
+      "canonical_kind": "reference",
+      "en": [
+        "Einstein, A., Podolsky, B. and Rosen, N. [1935]: ‘Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?’, Physical Review, Vol. 47, pp. 777–780."
+      ],
+      "zh": [
+        "Einstein, A., Podolsky, B. and Rosen, N. [1935]: ‘Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?’, Physical Review, Vol. 47, pp. 777–780."
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch22-bibliography-009",
+      "source_ids": [
+        "ch22-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Goldstein, H. [1981]: Classical Mechanics, Cambridge, MA: Addison-Wesley."
+      ],
+      "zh": [
+        "Goldstein, H. [1981]: Classical Mechanics, Cambridge, MA: Addison-Wesley."
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch22-bibliography-010",
+      "source_ids": [
+        "ch22-ref011",
+        "ch22-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Heelan, P. [2004]: ‘The Phenomenological Role of Consciousness in Measurement’, Mind and Matter, Vol. 2, No. 1, pp. 61–84."
+      ],
+      "zh": [
+        "Heelan, P. [2004]: ‘The Phenomenological Role of Consciousness in Measurement’, Mind and Matter, Vol. 2, No. 1, pp. 61–84."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch22-bibliography-011",
+      "source_ids": [
+        "ch22-ref012",
+        "ch22-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hilgevoord, J. and Uffink, J. [2008]: ‘The Uncertainty Principle’, The Stanford Encyclopedia of Philosophy (Fall 2008 Edition), Edward N. Zalta (ed.), https://plato.stanford.edu/archives/fall2008/entries/qt-uncertainty."
+      ],
+      "zh": [
+        "Hilgevoord, J. and Uffink, J. [2008]: ‘The Uncertainty Principle’, The Stanford Encyclopedia of Philosophy (Fall 2008 Edition), Edward N. Zalta (ed.), https://plato.stanford.edu/archives/fall2008/entries/qt-uncertainty."
+      ],
+      "shared": true,
+      "units": 29
+    },
+    {
+      "id": "ch22-bibliography-012",
+      "source_ids": [
+        "ch22-ref013",
+        "ch22-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kostant, B. [1970]: ‘Quantization and Unitary Representations’, Lecture Notes in Mathematics, Vol. 170, Berlin/Heidelberg/New York: Springer."
+      ],
+      "zh": [
+        "Kostant, B. [1970]: ‘Quantization and Unitary Representations’, Lecture Notes in Mathematics, Vol. 170, Berlin/Heidelberg/New York: Springer."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch22-bibliography-013",
+      "source_ids": [
+        "ch22-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Lanczos, C. [1986]: The Variational Principles of Mechanics, New York: Dover."
+      ],
+      "zh": [
+        "Lanczos, C. [1986]: The Variational Principles of Mechanics, New York: Dover."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch22-bibliography-014",
+      "source_ids": [
+        "ch22-ref014",
+        "ch22-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Libermann, P. and Marle, C.-M. [1987]: Symplectic Geometry and Analytical Mechanics, Dordrecht, Holland: D. Reidel Publishing."
+      ],
+      "zh": [
+        "Libermann, P. and Marle, C.-M. [1987]: Symplectic Geometry and Analytical Mechanics, Dordrecht, Holland: D. Reidel Publishing."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch22-bibliography-015",
+      "source_ids": [
+        "ch22-ref015",
+        "ch22-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Marsden, J.E. and Ratiu, T.S. [1999]: Introduction to Mechanics and Symmetry, second ed., New York: Springer."
+      ],
+      "zh": [
+        "Marsden, J.E. and Ratiu, T.S. [1999]: Introduction to Mechanics and Symmetry, second ed., New York: Springer."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch22-bibliography-016",
+      "source_ids": [
+        "ch22-ref016",
+        "ch22-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Mittelsteadt, P. [2006]: ‘Einstein’s Objections Against Quantum Mechanics’, Physics and Philosophy, http://hdl.handle.net/2003/22995."
+      ],
+      "zh": [
+        "Mittelsteadt, P. [2006]: ‘Einstein’s Objections Against Quantum Mechanics’, Physics and Philosophy, http://hdl.handle.net/2003/22995."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch22-bibliography-017",
+      "source_ids": [
+        "ch22-ref017",
+        "ch22-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Nozick, R. [1998]: ‘Invariance and Objectivity’, Proceedings and Addresses of the American Philosophical Association, Vol. 72, No. 2, pp. 21–48."
+      ],
+      "zh": [
+        "Nozick, R. [1998]: ‘Invariance and Objectivity’, Proceedings and Addresses of the American Philosophical Association, Vol. 72, No. 2, pp. 21–48."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch22-bibliography-018",
+      "source_ids": [
+        "ch22-ref018",
+        "ch22-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Souriau, J.-M. [1997]: Structure of Dynamical Systems. A Symplectic View of Physics, Cambridge, MA: Birkhäuser Boston."
+      ],
+      "zh": [
+        "Souriau, J.-M. [1997]: Structure of Dynamical Systems. A Symplectic View of Physics, Cambridge, MA: Birkhäuser Boston."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch22-bibliography-019",
+      "source_ids": [
+        "ch22-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Weyl, H. [1952]: Symmetry, Princeton, NJ: Princeton University Press."
+      ],
+      "zh": [
+        "Weyl, H. [1952]: Symmetry, Princeton, NJ: Princeton University Press."
+      ],
+      "shared": true,
+      "units": 9
+    },
+    {
+      "id": "ch22-bibliography-020",
+      "source_ids": [
+        "ch22-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Whitehead, A.N. [1978]: Process and Reality, New York: Free Press."
+      ],
+      "zh": [
+        "Whitehead, A.N. [1978]: Process and Reality, New York: Free Press."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch22-bibliography-021",
+      "source_ids": [
+        "ch22-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Woodhouse, N. [1992]: Geometric Quantization, second ed., Oxford: Oxford University Press."
+      ],
+      "zh": [
+        "Woodhouse, N. [1992]: Geometric Quantization, second ed., Oxford: Oxford University Press."
+      ],
+      "shared": true,
+      "units": 11
+    }
+  ],
+  "notes": {
+    "ch22-n01": {
+      "number": "1",
+      "en": [
+        "This is the conclusion of the seminal Einstein-Podolsky-Rosen article (Einstein et al., 1935). An historical account can be found in (Mittelsteadt, 2006)."
+      ],
+      "zh": [
+        "这是开创性的爱因斯坦-波多尔斯基-罗森文章的结论（Einstein et al., 1935）。历史叙述见 (Mittelsteadt, 2006)。"
+      ]
+    },
+    "ch22-n02": {
+      "number": "2",
+      "en": [
+        "Many interpretations were proposed for the uncertainty principle. It was alternatively interpreted as a consequence of the unpredictable perturbations in experimental measures of physical quantities, as a result of the mutual incompatibility of certain experimental contexts, in terms of a subjective lack of knowledge of well-defined objective states, as a description of the statistical spread in an ensemble of similarly prepared systems, as the manifestation of an ontological indeterminateness in the definition of physical quantities, etc. (see for example Hilgevoord and Uffink, 2006)."
+      ],
+      "zh": [
+        "人们为不确定性原理提出过许多解释。它先后被解释为：物理量的实验测量中不可预言的扰动的后果；某些实验语境相互不相容的结果；对定义明确的客观态的主观无知；对相似制备的系统系综中统计弥散的描述；物理量定义中本体论不确定性的表现；等等（参见例如 Hilgevoord and Uffink, 2006）。"
+      ]
+    },
+    "ch22-n03": {
+      "number": "3",
+      "en": [
+        "This Husserlian terminology is borrowed from Heelan, (2004)."
+      ],
+      "zh": [
+        "这个胡塞尔式的术语借自 Heelan (2004)。"
+      ]
+    },
+    "ch22-n04": {
+      "number": "4",
+      "en": [
+        "Analogously, H. Weyl continues the preceding quotation as follows: ‘Reality may not always give a clear answer to the question what the actual group of automorphisms is [...]’ (Weyl, 1952)."
+      ],
+      "zh": [
+        "类似地，H. 魏尔把前面的引文继续如下：“对于实际的自同构群是什么这个问题，实在未必总能给出清楚的回答……”（Weyl, 1952）。"
+      ]
+    },
+    "ch22-n05": {
+      "number": "5",
+      "en": [
+        "In technical terms, the action induced by a property g on a property f is given by the Poisson bracket ",
+        {
+          "type": "math",
+          "tex": "\\delta_g f=\\{f,g\\}",
+          "display": false
+        },
+        ". The requirement of internal consistency of the eidos ε imposes the condition {f,g} = 0,∀f,g ∈ε. In other words, the eidos is a commutative Poisson algebra."
+      ],
+      "zh": [
+        "用技术术语说，性质 g 对性质 f 诱导的作用由泊松括号 ",
+        {
+          "type": "math",
+          "tex": "\\delta_g f=\\{f,g\\}",
+          "display": false
+        },
+        " 给出。eidos ε 的内部一致性要求施加条件 {f, g} = 0，∀f, g ∈ ε。换言之，eidos 是一个交换泊松代数。"
+      ]
+    },
+    "ch22-n06": {
+      "number": "6",
+      "en": [
+        "The Poisson bracket {q, p} = 1 means that the momentum p is the generator of the infinitesimal canonical transformations of the position q (and vice versa)."
+      ],
+      "zh": [
+        "泊松括号 {q, p} = 1 意味着动量 p 是位置 q 的无穷小正则变换的生成元（反之亦然）。"
+      ]
+    },
+    "ch22-n07": {
+      "number": "7",
+      "en": [
+        "This statement is a rigorous interpretation of the fact that ‘[...] the motion of a mechanical system corresponds to the continuous evolution or unfolding of a canonical transformation’ (Goldstein, 1981)."
+      ],
+      "zh": [
+        "这个陈述是对如下事实的严格解释：“……力学系统的运动对应于一个正则变换的连续演化或展开”（Goldstein, 1981）。"
+      ]
+    },
+    "ch22-n08": {
+      "number": "8",
+      "en": [
+        "We are supposing that it is possible to treat time and the Hamiltonian as another pair of conjugated canonical variables. In fact, this is possible in the framework of the so-called parameterized systems (see for example Lanczos, 1986 and Castagnino et al., 2002)."
+      ],
+      "zh": [
+        "我们假定可以把时间和哈密顿量当作另一对共轭正则变量来处理。事实上，这在所谓参数化系统的框架中是可能的（参见例如 Lanczos, 1986 和 Castagnino et al., 2002）。"
+      ]
+    },
+    "ch22-n09": {
+      "number": "9",
+      "en": [
+        "The arguments presented in this section suggest that a satisfactory comprehension of the uncertainty principle for time and energy might be an essential component of a consistent interpretation of quantum mechanics."
+      ],
+      "zh": [
+        "本节给出的论证提示，对时间与能量的不确定性原理的令人满意的理解，可能是量子力学的一致解释的一个本质成分。"
+      ]
+    }
+  }
+}

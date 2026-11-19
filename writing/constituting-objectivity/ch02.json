@@ -1,0 +1,1501 @@
+{
+  "id": "ch02",
+  "title": "论康德对牛顿力学的先验说明",
+  "originalTitle": "On Kant’s Transcendental Account of Newtonian Mechanics",
+  "outline": [
+    {
+      "anchor": "ch02-u003",
+      "title": "1 引言",
+      "originalTitle": "1 Introduction",
+      "level": 1
+    },
+    {
+      "anchor": "ch02-u009",
+      "title": "2 运动学",
+      "originalTitle": "2 Phoronomy",
+      "level": 1
+    },
+    {
+      "anchor": "ch02-u016",
+      "title": "3 数学的角色",
+      "originalTitle": "3 The Role of Mathematics",
+      "level": 1
+    },
+    {
+      "anchor": "ch02-u022",
+      "title": "4 回到运动学",
+      "originalTitle": "4 Back to Phoronomy",
+      "level": 1
+    },
+    {
+      "anchor": "ch02-u027",
+      "title": "5 自然的诸种意义",
+      "originalTitle": "5 Various Senses of Nature",
+      "level": 1
+    },
+    {
+      "anchor": "ch02-u031",
+      "title": "6 动力学",
+      "originalTitle": "6 Dynamics",
+      "level": 1
+    },
+    {
+      "anchor": "ch02-u040",
+      "title": "7 力学",
+      "originalTitle": "7 Mechanics",
+      "level": 1
+    },
+    {
+      "anchor": "ch02-u044",
+      "title": "8 现象学",
+      "originalTitle": "8 Phenomenology",
+      "level": 1
+    },
+    {
+      "anchor": "ch02-u050",
+      "title": "9 《遗著》",
+      "originalTitle": "9 Opus Postumum",
+      "level": 1
+    },
+    {
+      "anchor": "ch02-u060",
+      "title": "10 结论",
+      "originalTitle": "10 Conclusion",
+      "level": 1
+    },
+    {
+      "anchor": "ch02-u062",
+      "title": "书目",
+      "originalTitle": "Bibliography",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch02-u001",
+      "source_ids": [
+        "ch02-u001"
+      ],
+      "page": "51",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch02-u002",
+      "source_ids": [
+        "ch02-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Pierre Kerszberg"
+      ],
+      "zh": [
+        "皮埃尔·凯尔茨贝格"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch02-u004",
+      "source_ids": [
+        "ch02-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract Kant’s account of Newtonian science in terms of a priori structures of the mind has been generally interpreted as too restrictive. If Newtonian science is an instantiation of the system of categories, then, in order to retain any value, they need to be dynamized in accordance with the development of science beyond Newton. This paper suggests that the restriction in best understood as Kant attempt to provide a primary matrix of sense for any possible natural science, inasmuch as it reflects the “first idea” contained in the Copernican Revolution."
+      ],
+      "zh": [
+        "摘要　康德用心灵的先天结构来说明牛顿科学，这一做法通常被解释为限制过强。如果牛顿科学是范畴体系的一个实例，那么为了保留任何价值，范畴就需要依照牛顿之后的科学发展而被动态化。本文提出：这种限制最好被理解为康德试图为任何可能的自然科学提供一个原初的意义母体，因为它反映了哥白尼式革命所包含的“第一观念”。"
+      ],
+      "units": 90
+    },
+    {
+      "id": "ch02-u003",
+      "source_ids": [
+        "ch02-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Introduction"
+      ],
+      "zh": [
+        "1 引言"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch02-u005",
+      "source_ids": [
+        "ch02-u005"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "P. Kerszberg University of Toulouse II, Départment de Philosophie, 5 allées Antonio Machado F-31058 Toulouse Cedex 9, France pierre.kerszber@univ-tlse2.fr"
+      ],
+      "zh": [
+        "P. Kerszberg University of Toulouse II, Départment de Philosophie, 5 allées Antonio Machado F-31058 Toulouse Cedex 9, France pierre.kerszber@univ-tlse2.fr"
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch02-u006",
+      "source_ids": [
+        "ch02-u006"
+      ],
+      "page": "52",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the Critique of Pure Reason, Kant explained that a transcendental proof is not meant to “explain” natural phenomena (A174/B215–B216).",
+        {
+          "type": "note",
+          "id": "ch02-n01",
+          "label": "1"
+        },
+        " Its merit is to free the understanding so as to allow it to think them in ways other than those acknowledged by natural science in its own practice. Consider the possibility for space to be filled with matter, which is the cause of our sensation of the real. According to the transcendental principle of the Anticipations of Perception, space is always filled with matter, even if the filling does not reach the degree at which sensation begins. Color, heat, moment of gravity are examples of phenomena which show an infinite gradation of ever smaller degrees, without ever reaching the smallest possible degree. All levels of experience are represented in this gradation, from ordinary empirical judgment to a fundamental instance of modern physics. However, as Kant goes on to show, in the properly physical explanation of the filling of space, a presupposition of metaphysical type cannot be done away with. How is the physicist to explain the variety in the quantity of matter in bodies that have the same volume? In order to lend itself to mathematical language, the explanation rests on the assumption that the real in space is everywhere homogeneous, but the volume is empty in varying proportions. Against his own will or unconsciously, the physicist is also metaphysician, since the hypothesis according to which the real is everywhere of the same kind cannot be verified empirically, and the proof of empty space has no foundation in experience. Such an explanation is thus compelled to contradict the famous Newtonian imperative against such hypothesis (“hypotheses non fingo”). The transcendental proof is not metaphysically dogmatic in the precise sense that it allows for an alternative assumption, according to which matter fills space continuously by infinitesimal degrees: there is no place where matter is not present, even at the smallest possible degree. Kant leads metaphysics in a new direction, referred to as “general metaphysics” or transcendental philosophy, inasmuch as he is well aware that the latter assumption cannot give us insight into what actually occurs in material bodies as they differ in specific gravity. That is, the transcendental proof is not meant to step over the limits of natural science, but to free the understanding by dispensing physics with the burden of proving its own metaphysical presuppositions."
+      ],
+      "zh": [
+        "在《纯粹理性批判》中，康德解释说，先验证明并不意在“解释”自然现象（A174/B215–B216）。",
+        {
+          "type": "note",
+          "id": "ch02-n01",
+          "label": "1"
+        },
+        "它的长处在于解放知性，使知性能够以自然科学自身实践所承认的方式之外的方式来思维这些现象。考虑空间被物质填充的可能性——物质是我们关于实在的感觉的原因。按照“知觉的预测”这一先验原理，空间总是被物质填充的，即便填充没有达到感觉开始的程度。颜色、热、重力的瞬时强度是这样一些现象的例子：它们显示出无穷递减的程度等级，却永远达不到最小可能的程度。从普通经验判断到现代物理学的一个基本实例，经验的一切层次都在这个等级序列中得到表象。然而，正如康德接着表明的，在对空间填充的真正物理学的解释中，一个形而上学类型的预设无法被去除。物理学家如何解释体积相同的物体中物质的量各不相同？为了能用数学语言表述，这种解释依赖于如下假定：空间中的实在处处同质，但不同物体的体积中，空着的部分所占的比例不同。即使物理学家并不情愿，或没有意识到这一点，他也同时是形而上学家，因为“实在处处同类”这一假说无法经验地验证，而虚空空间的证明在经验中没有根据。于是这种解释被迫违背牛顿那条反对这类假说的著名律令（“我不构造假说”，hypotheses non fingo）。先验证明不属形而上学的独断，确切地说，这是因为它容许另一种假定：物质以无穷小的程度连续地填充空间——没有任何地方物质不在场，即便在最小可能的程度上。康德把形而上学引向一个新方向，即所谓“一般形而上学”或先验哲学，因为他清楚地知道：后一假定并不能让我们洞察比重不同的物质物体中实际发生着什么。也就是说，先验证明并不意在越过自然科学的界限，而是通过免除物理学证明其自身形而上学预设的负担，来解放知性。",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "此处的 moment of gravity 对应康德的 Moment der Schwere，指作为原因的实在在瞬时把握中的程度。参见《纯粹理性批判》A168–169/B210–211。"
+          ]
+        }
+      ],
+      "units": 397
+    },
+    {
+      "id": "ch02-u007",
+      "source_ids": [
+        "ch02-u007"
+      ],
+      "page": "53",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In fact this burden turns out to be too heavy. In the Metaphysical Foundations of Natural Science, Newton is accused by Kant to misinterpret the metaphysical implications of his own theoretical model (4:514). He was not willing to, or simply could not, equate the methodology of physical science with metaphysics. Newton is at variance with himself when he gives physicists too much freedom to explain the mechanism of the attractive force. Indeed, in a famous letter to Bentley, Newton said that this mechanism could be explained by the action of corpuscles, for example the pressure exerted by the ether. But the agent causing the propagation of force could still be viewed as immaterial, or it could still be ascribed to some immediate divine action. Metaphysics in Kant’s new sense requires resolution. Against Newton’s reluctance to assume instantaneous action at a distance for its own sake, Kant argues that gravity is an essential property of matter, which acts universally and immediately without the support of an intervening medium; moreover, the full universality of Newtonian physics is achieved by means of yet another universal force, repulsion, whose action Newton confined to the level of minute interactions between masses. As a matter of fact, action at a distance plays a fundamental role in the operations needed to measure the masses of celestial bodies, hence in the construction of a privileged reference frame capable of distinguishing true from apparent motions.",
+        {
+          "type": "note",
+          "id": "ch02-n02",
+          "label": "2"
+        },
+        " Newton asserts that the mass values of the planets can be derived from the gravitational attraction of their satellites; Kant then argues for the essentiality of the force of gravitation, that is, bodies attract each other merely as matter, because this is needed in order to say that the attractive forces of two planets are proportional to the quantity of matter of these heavenly bodies. Consequently, when Kant says that gravity is essential, he states the condition of a metaphysics of universal gravitation which would be naturalistic from beginning to end, in accordance with the actual aims of physics. Newton’s disagreement with himself is thus not freely assumed. He is in fact compelled to fall into such a disagreement, because he mistakenly believes that the extension from operational means to the being of phenomena (such as the cause of attractive force) requires metaphysical decision. The alternative task that transcendental philosophy sets for itself is to determine the metaphysical principles with which natural science is compelled to begin. This beginning, rather than the far-reaching implications of natural science beyond itself, is the proper place of metaphysical decision concerning natural science. Do the operational means of physics result from this beginning, and if so, how?"
+      ],
+      "zh": [
+        "事实上，这个负担被证明过于沉重。在《自然科学的形而上学初始根据》中，牛顿被康德指责误解了他自己理论模型的形而上学含义（4:514）。他不愿意、或者根本不能把物理科学的方法论与形而上学等同起来。当牛顿给物理学家过多自由去解释吸引力的机制时，他与自身相抵牾。的确，在致本特利的一封著名信件中，牛顿说这种机制可以由微粒的作用来解释，例如以太施加的压力。但引起力之传播的能动者仍可以被视为非物质的，或者仍可归于某种直接的神圣作用。康德新意义上的形而上学要求决断。针对牛顿不愿就超距瞬时作用本身作出承认的态度，康德论证说：重力是物质的本质属性，它普遍而直接地起作用，无需居间介质的支持；此外，牛顿物理学的完全普遍性还借助另一种普遍的力——排斥——而达成，牛顿把这种力的作用限于质量之间微小相互作用的层面。事实上，超距作用在测量天体质量所需的运算中、因而在构造一个能区分真运动与视运动的特优参照系中，扮演根本角色。",
+        {
+          "type": "note",
+          "id": "ch02-n02",
+          "label": "2"
+        },
+        "牛顿断言行星的质量可以根据其卫星受到的引力推导；康德于是论证引力的本质性，即物体仅仅作为物质而相互吸引，因为只有这样才说得上两颗行星的吸引力与这些天体的物质的量成正比。因此，当康德说重力是本质性的时，他陈述的是一种万有引力形而上学的条件——这种形而上学依照物理学的实际目标，从头到尾都是自然主义的。于是，牛顿与自身的分歧并不是他自由承担的。他事实上被迫陷入这种分歧，因为他错误地相信：从操作手段向现象之存在（例如吸引力的原因）的延伸需要形而上学决断。先验哲学为自己设定的替代任务是：确定自然科学被迫由之开始的那些形而上学原理。关于自然科学的形而上学决断，其恰当位置是这个开端，而不是自然科学超出自身的深远含义。物理学的操作手段是否由这个开端得出？如果是，如何得出？"
+      ],
+      "units": 440
+    },
+    {
+      "id": "ch02-u008",
+      "source_ids": [
+        "ch02-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Showing that they do is the main core of the Metaphysical Foundations. The work divides into four sections. Each section is to consider the concept of matter in one of its aspects and each is said to add a new determination to it. In defining matter in its basic sense, Kant states that motion is fundamental, and all other predicates of matter are said to find their ground in it. ‘Das Bewegliche’ means something which is capable of moving or of being moved; it includes both the fact of motion and a ‘that which’ moves. The subject-matter of the four sections is determined accordingly. The definition of matter according to Phoronomy (what we today would call kinematics) states that matter is the movable in space (pure quantum of motion); this is the purely geometrical aspect of motion. The definition according to the Dynamics states that matter is the movable inasmuch as it fills a space: it has the quality of an original power of motion, since this filling contains the fundamental forces which reside in matter. In the Mechanics, matter is regarded as having a moving force as a consequence of the motion of material bodies and their mutual actions. In the Phenomenology, matter is seen as having motion or rest relative to a mode of representation, that is, as appearance of outer sense. These four sections are thus the application of the four groups of categories that Kant had outlined in the Critique."
+      ],
+      "zh": [
+        "表明它们确实由之得出，正是《初始根据》的核心。该书分为四章。每章考察物质概念的一个方面，并且据说每章都给它添加一个新的规定。在按基本意义定义物质时，康德陈述运动是根本的，物质的其他一切谓词都在运动中找到根据。“可动者”（Das Bewegliche）指能够运动或被推动的东西；它既包含运动这一事实，也包含一个运动着的“某物”。四章的主题相应地被确定。按运动学（Phoronomy，即我们今天所称的 kinematics）对物质的定义陈述：物质是空间中的可动者（纯粹的运动量）；这是运动的纯几何方面。按动力学的定义陈述：物质是就其填充一个空间而言的可动者——它具有源始运动力的质，因为这种填充包含驻留于物质中的基本力。在力学中，物质被视为由于物质物体的运动及其相互作用而具有动力。在现象学中，物质被视为相对于一种表象方式、即作为外感官的显象而具有运动或静止。这四章因此就是康德在《批判》中勾勒的四组范畴的应用。"
+      ],
+      "units": 244
+    },
+    {
+      "id": "ch02-u009",
+      "source_ids": [
+        "ch02-u009"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 Phoronomy"
+      ],
+      "zh": [
+        "2 运动学"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch02-u010",
+      "source_ids": [
+        "ch02-u010"
+      ],
+      "page": "54",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant’s modification of Newton’s strategy reflects his concern throughout his intellectual journey about the limitations of natural philosophy based on Newtonian mechanics. A grounding in metaphysics is necessary for any such natural philosophy. Early in his precritical period Kant identified this grounding with the Leibnizean notions of substance and active force. Metaphysically speaking reality would thus consist in unextended, simple and non-interacting substances, determined by purely internal principles. But this worldview clashes with the teachings of Newtonian mechanics, which Kant always accepted as paradigmatic: material reality is spatiotemporal and essentially interactive. From the outset Kant’s examination of the natural sciences aimed at reconciling Leibniz (reality is deduced from some first general principles of natural bodies) and Newton’s “deduction from phenomena.” Kant’s formulation of those metaphysical principles with which science begins is his final breakthrough toward such a synthesis. However problematical it may be in its own terms, this strategy creates a number of problems within transcendental philosophy itself. Kant conscientiously speaks about Anfangsgründe rather than a priori principles. The metaphysical principles of natural science will not be a priori in the sense suggested in the Critique. Whereas Kant argued in the Critique that the categories of pure understanding are empty when deprived of content, whereas intuitions without concepts are blind (that is, meaningless) (A51/B75), in Metaphysical Foundations he said the “separated metaphysics of corporeal nature [enable us] … to realize the concepts and propositions of [transcendental philosophy], that is, to give a mere form of thought sense and meaning” (4:478). Thus the concrete instances provided by the special metaphysics of nature realize the pure concepts and principles of the understanding, i.e., they give them meaning in addition to filling them with content. This new relation between thought and content, form and matter, imposes a number of constraints on both. The first instance of a filling of a pure thought that is also meaningful for thought is empirical space."
+      ],
+      "zh": [
+        "康德对牛顿策略的修改，反映了他在整个思想历程中对基于牛顿力学的自然哲学之局限的关切。任何这样的自然哲学都需要形而上学的奠基。在前批判时期早期，康德把这种奠基等同于莱布尼茨式的实体与主动力概念。从形而上学上说，实在于是将由无广延的、单纯的、不相互作用的实体构成，由纯粹内在的原理所规定。但这一世界观与牛顿力学的教导相冲突，而康德始终把牛顿力学奉为范式：物质实在是时空性的、本质上相互作用的。从一开始，康德考察自然科学的目标，就是调和莱布尼茨从自然物体的若干首要一般原理演绎实在的做法与牛顿的“从现象演绎”。康德对科学由之开始的那些形而上学原理的表述，是他通向这种综合的最终突破。然而无论就其自身而言多么成问题，这一策略在先验哲学内部制造了不少问题。康德审慎地谈论“初始根据”（Anfangsgründe）而不是先天原理。自然科学的形而上学原理将不是《批判》所提示意义上的先天的。康德在《批判》中论证：纯粹知性的范畴被剥夺内容时是空洞的，而没有概念的直观是盲目的（即无意义的）（A51/B75）；在《初始根据》中他却说，“单独研究形体自然的形而上学［使我们］……实现［先验哲学的］概念和命题，也就是给纯然的思想形式以意义和含义”（4:478）。于是，自然的特殊形而上学所提供的具体实例实现了知性的纯粹概念和原理，即除了给它们填充内容之外还给它们以意义。思想与内容、形式与质料之间的这种新关系，对双方都施加了若干约束。经验空间是第一个既充实纯粹思想、又使之获得意义的实例。"
+      ],
+      "units": 320
+    },
+    {
+      "id": "ch02-u011",
+      "source_ids": [
+        "ch02-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The consideration of empirical space is forced on us by the movability of an object in space, which must be examined in accordance with a priori principles even though this concept is per se empirical and cannot be given a priori at all. Empirical space is not opposed to the pure form of outer sensible intuition, but rather is added to it (4:481). Empirical space, Kant writes, is “a space as a property of the things we are considering, namely, corporeal entities” (4:484). Since the metaphysical explication of matter is not concerned with a predicate that belongs to it as object, but rather proceeds in relation to the cognitive faculty in which its representation is given, it must be asked: How does general metaphysics accommodate such an addition to space as a subjective form?"
+      ],
+      "zh": [
+        "对象在空间中的可动性迫使我们考虑经验空间：尽管这个概念本身是经验的、根本无法先天地被给予，它却必须依照先天原理来考察。经验空间并不与外部感性直观的纯粹形式相对立，而是被添加到它之上（4:481）。康德写道，经验空间是“作为我们所考察的事物、即形体性存在者之属性的一个空间”（4:484）。既然对物质的形而上学阐明并不关心作为对象属于物质的某个谓词，而是相对于其表象被给予于其中的认识能力来进行，就必须问：一般形而上学如何容纳对作为主观形式的空间的这种添加？"
+      ],
+      "units": 136
+    },
+    {
+      "id": "ch02-u012",
+      "source_ids": [
+        "ch02-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The Phoronomy contains the principles of the application of the category of quantity to matter in motion. Under what conditions does matter in motion fall within the requirements of an extensive magnitude, according to which several parts of a given whole can be juxtaposed? Any matter in motion is composed of other motions which must be homogeneous to one another. The problem underlying the Phoronomy is thus the following: what are the minimum conditions of possibility for the composition of the smallest number of parts, that is, any two motions? Kant’s answer is that the sought-for composition requires two spaces. This is stated in the Proposition (Lehrsatz): “The composition of two motions of one and the same point can only be thought of by one of them being represented in absolute space, but instead of the second motion being so represented, a motion of the relative space in the opposite direction and with the same velocity is represented as being identical with the first motion” (4:490). Motion as quantity includes the concept of direction, which is spatial, and velocity, which is both spatial and temporal. But the pure doctrine of motion as quantum is to be arrived at away from time, “according to all three moments furnished by space” (4:495), namely: unity, plurality, and totality."
+      ],
+      "zh": [
+        "运动学包含把量的范畴应用于运动中的物质的原理。在什么条件下，运动中的物质符合外延量的要求——按照这一要求，一个给定整体的若干部分可以并列？任何运动中的物质都由其他运动复合而成，这些运动必须彼此同质。因此，运动学底层的问题是：最少数目的部分、即任意两个运动的复合，其最小可能性条件是什么？康德的回答是：所寻求的复合需要两个空间。这在定理（Lehrsatz）中陈述：“同一个点的两个运动的复合，只能这样被思维：其中一个运动被表象在绝对空间中，而第二个运动不这样被表象，代之以把相对空间沿相反方向、以相同速度的一个运动表象为与第一个运动相同”（4:490）。作为量的运动包含方向概念（它是空间性的）和速度概念（它既是空间性的又是时间性的）。但要获得关于运动作为量的纯粹学说，就必须撇开时间，“依照空间所提供的全部三个环节”（4:495），即：单一性、多数性与全体性。"
+      ],
+      "units": 217
+    },
+    {
+      "id": "ch02-u013",
+      "source_ids": [
+        "ch02-u013"
+      ],
+      "page": "55",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Whereas empty space is the formal condition of intuition for nature in general, material or empirical space is the condition for matter in motion to become an object of experience. Where does empirical space itself come from, what does it specify? In other words: what is the thought condition that allows us to posit a reference frame for the description of a body’s motion? Since this space is movable, it must be embedded in an even larger frame at rest thanks to which it can be perceived, and so on indefinitely as the frames become more encompassing. Newton’s mathematical theory of motion applied to the celestial bodies in the solar system, but Kant’s examination of this theory inserts it in the much larger field of the entire cosmos. One conclusion that first comes to mind is that all these larger frames at rest tend to approximate absolute space in the ontological sense of Newton. But since any frame in particular is still movable, absolute space as limit is a nothing for possible experience, that is, an idea of reason. As Kant puts it: “To assume an absolute space … as itself given means to assume something that cannot be perceived either in itself or in its consequences (motion in absolute space) for the sake of the possibility of experience, which must in actuality always be constituted without such a space” (4:481 emphasis added). The immediately sensible effects of absolute space (such as the centrifugal force) do not compel us to accept Newton’s switch away from them. The leap from the material to the purely spatial frame rests on a confusion between merely possible frames of reference and actually given frames. The enlarged frame beyond each given space, “though still material space,” is apprehended only in thought. New enlarged frames cannot be posited as better and better approximations of the largest possible frame, because this possibility of thought can never coincide with an actual object of experience (which is too large), and therefore must remain a pure possibility (a logical universality). When Newton absolutizes space, he mistakes “the logical universality of any space, with which I can compare each empirical space as being included in it, for the physical universality of a real container.” Newton argues for a transition from the relative (the possibility of measurement in relative spaces) to the absolute (the true magnitudes) via the recognition that apparent motions are differences of true motions. But inasmuch as a possibility of thought is meaningful only when filled with an actual object of experience, Kant assumes that the absolute and the relative are with us right from the start; their conjoined presence, all the way through every possible experience, forbids any leap to the absolute from within the relative."
+      ],
+      "zh": [
+        "虚空空间是一般自然的直观的形式条件，而物质空间或经验空间是运动中的物质成为经验对象的条件。经验空间本身从何而来，它规定了什么？换句话说：使我们能够设定一个参照系来描述物体运动的思想条件是什么？既然这个空间是可动的，它就必须嵌入一个更大的静止框架之中，凭借后者它才能被知觉；随着框架越来越包罗万象，如此无限进行。牛顿的运动数学理论应用于太阳系中的天体，而康德对这一理论的考察把它置入整个宇宙这一大得多的领域。首先浮现在脑海中的一个结论是：所有这些更大的静止框架都趋向于逼近牛顿本体论意义上的绝对空间。但既然任何特定框架仍然是可动的，作为极限的绝对空间对可能经验而言就是一个无，即理性的一个理念。正如康德所说：“假定一个绝对空间……本身被给予，就意味着为了经验的可能性而假定某种既不能在其自身、也不能在其后果（绝对空间中的运动）中被知觉的东西，而经验实际上必须总是在没有这样一个空间的情况下被构成”（4:481，强调为引者所加）。绝对空间的直接可感效应（例如离心力）并不迫使我们接受牛顿从这些效应转向绝对空间的做法。从物质框架向纯空间框架的跳跃，基于仅可能的参照系与实际被给予的参照系之间的混淆。超出每个给定空间的扩大框架，“虽然仍是物质空间”，却只在思想中被把握。新的扩大框架不能被设定为最大可能框架的越来越好的逼近，因为这种思想的可能性永远不能与一个现实的经验对象（它太大了）相重合，因此必须停留在纯粹可能性（一种逻辑的普遍性）。当牛顿把空间绝对化时，他把“任何空间的逻辑普遍性——我可以把每个经验空间作为被包含于其中而与之比较——误认为一个实在容器的物理普遍性”。牛顿经由承认视运动是真运动之差，论证从相对（在相对空间中测量的可能性）向绝对（真实的量）的过渡。但既然思想的可能性只有被现实的经验对象填充时才有意义，康德假定绝对与相对从一开始就与我们同在；它们贯穿一切可能经验的联合在场，禁止任何从相对内部向绝对的跳跃。"
+      ],
+      "units": 458
+    },
+    {
+      "id": "ch02-u014",
+      "source_ids": [
+        "ch02-u014"
+      ],
+      "page": "56",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now, the confusion of an object of thought with a real object is a process that Kant has described most generally as transcendental subreption. This is a process according to which one holds his own subjective representation as something objective, i.e., a cognition of what is really in the object. Through subreption the subjective representation is hypostasized into a thing thought as the ground of all things. The occurrence of such a mechanism is of course most typical in the ideas of reason. These are necessary (not arbitrary) concepts of reason inasmuch as they consider every cognition as determined by the absolute totality of conditions (soul, world, God), but their objective employment is “transcendent” rather than “transcendental” since no object corresponding to them can be given in experience. Since Kant’s discussion of space in Newton’s physics seems to refer to reason rather than the understanding, one interpretation of Kant’s project has been to argue that particular mathematical–physical theories such as Newton’s belong to the regulative use of reason, whereas the understanding constitutes experience as either ordinary experience or experience in general. This has become a rather common interpretation of Kant’s project in twentieth-century scholarship.",
+        {
+          "type": "note",
+          "id": "ch02-n03",
+          "label": "3"
+        },
+        " Obviously enough, this kind of interpretation was meant to remove Kant from too close an adherence to Euclidean geometry and Newtonian mechanics, thereby making transcendental philosophy immune to the later transformations of science brought about by Riemann or Einstein. More recently, in response to this view, Friedman has argued quite the opposite, namely, that Kant’s most general account of the possibility of experience in terms of a priori synthetic judgments is itself dependent on the particular examples provided by the exact sciences of nature. Therefore Kant’s metaphysical grounding of absolute space in his doctrine of pure natural science would be the primary example showing that his entire system is exposed to further progress of empirical natural science just as the principles of pure understanding are subject to refutation. The regulative use of reason is compatible with various theoretical models, whereas the outright refutation of Kant’s actual system would still leave it as an example of what needs to be done today, since a priori constitutive principles are still needed in order to ensure mathematical first principles in physics."
+      ],
+      "zh": [
+        "而把思想对象与实在对象相混淆，正是康德最一般地描述为先验偷换（transcendental subreption）的过程。这是一个把自己的主观表象当作某种客观的东西、即当作对对象中实在之物的认识的过程。通过偷换，主观表象被实体化为一个被思维为万物根据的东西。这种机制的发生当然最典型地见于理性的理念。这些理念是理性的必然（而非任意）概念，因为它们把每个认识都视为由条件的绝对总体（灵魂、世界、上帝）所规定；但它们的客观运用是“超验的”而非“先验的”，因为经验中不能给予任何与它们对应的对象。由于康德对牛顿物理学中空间的讨论似乎涉及理性而非知性，对康德方案的一种解释便主张：像牛顿这样的特殊数学—物理理论属于理性的调节性运用，而知性把经验构成为普通经验或一般经验。这在20世纪学术中已成为对康德方案相当常见的解释。",
+        {
+          "type": "note",
+          "id": "ch02-n03",
+          "label": "3"
+        },
+        "很显然，这种解释意在使康德不至于过分紧贴欧几里得几何与牛顿力学，从而使先验哲学免受黎曼或爱因斯坦带来的后来的科学变革的影响。更晚近地，作为对这一观点的回应，弗里德曼论证了恰恰相反的看法：康德用先天综合判断对经验可能性所作的最一般的说明，本身就依赖于自然的精确科学所提供的特殊例子。因此，康德在其纯粹自然科学学说中对绝对空间的形而上学奠基，将是表明其整个体系正如纯粹知性原理一样暴露于经验自然科学进一步进展（乃至反驳）之下的首要例子。理性的调节性运用与各种理论模型相容，而即便康德的实际体系被彻底反驳，它仍将是今天需要去做之事的一个范例，因为仍然需要先天构成性原理来确保物理学中的数学第一原理。"
+      ],
+      "units": 374
+    },
+    {
+      "id": "ch02-u015",
+      "source_ids": [
+        "ch02-u015"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Is the core of transcendental philosophy of science to be assessed in relation to the (otherwise legitimate) worry that it might dissolve in light of such theories as general relativity or quantum mechanics? Both interpretations agree at least on the following: If first principles are mathematical, then whether they retain their allegedly constitutive function or whether they are purely regulative and hover above empirical natural knowledge does not change anything to the fact that they can be historicized, generalized and relativized at will in accordance with the development of the mathematical and physical sciences themselves. This view echoes a rather standard interpretation inherited from neo-Kantianism, according to which Kant seeks to provide a legitimate (transcendental) grounding of Newtonian science, as if the latter was an instantiation of the system of categories of pure understanding.",
+        {
+          "type": "note",
+          "id": "ch02-n04",
+          "label": "4"
+        }
+      ],
+      "zh": [
+        "先验科学哲学的核心，是否应当相对于它可能在广义相对论或量子力学这类理论面前消解的（本身合理的）担忧来评估？两种解释至少在以下一点上一致：如果第一原理是数学的，那么无论它们保留其据称的构成性功能，还是纯粹调节性地悬浮于经验自然知识之上，都不改变如下事实：它们可以依照数学与物理科学自身的发展而被随意历史化、一般化和相对化。这一观点呼应了从新康德主义继承来的一种相当标准的解释：康德试图为牛顿科学提供一种合法的（先验的）奠基，仿佛后者是纯粹知性范畴体系的一个实例。",
+        {
+          "type": "note",
+          "id": "ch02-n04",
+          "label": "4"
+        }
+      ],
+      "units": 134
+    },
+    {
+      "id": "ch02-u016",
+      "source_ids": [
+        "ch02-u016"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 The Role of Mathematics"
+      ],
+      "zh": [
+        "3 数学的角色"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch02-u017",
+      "source_ids": [
+        "ch02-u017"
+      ],
+      "page": "57",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To be sure, Kant claims that “although a pure philosophy of nature in general … may indeed be possible even without mathematics, a pure doctrine of nature concerning determinate natural things … is only possible by means of mathematics. And, since in any doctrine of nature there is only as much proper science as there is a priori knowledge therein, a doctrine of nature will contain only as much proper science as there is mathematics capable of application there” (4:470). What is at stake here is not the trivial observation that the only possible science of nature must be expressed in mathematical language. Kant has shown anyway that there will always be completely naturalistic interpretations of physical theories, as long as they are formulated mathematically. In the Preface to Metaphysical Foundations, Kant argues that the concept of matter is given a “complete analysis” when presented in accordance with the four groups of categories of pure understanding, fully justifying the application of mathematics to physics. However, if this application is to succeed, the science of nature must be founded on something pure, for otherwise it would lose its character as necessity. How can science grow empirically without limit, and yet preserve its non-empirical and necessary foundation? In order to demonstrate this possibility, Kant shows that the something pure lying at the foundation of natural science (what he calls physica generalis) is made up of both mathematical and metaphysical propositions. Does this mean that the a priori knowledge of the objects of physica generalis combines mathematics and metaphysics so as to melt them together in some way?"
+      ],
+      "zh": [
+        "诚然，康德宣称：“虽然一般的纯粹自然哲学……也许确实没有数学也是可能的，但关于确定的自然事物的纯粹自然学说……只有借助数学才可能。而且，既然任何自然学说中包含多少先天知识就包含多少真正的科学，一个自然学说中包含多少能够应用于其中的数学，就包含多少真正的科学”（4:470）。这里的关键并不是唯一可能的自然科学必须用数学语言表达这一平凡观察。康德无论如何已经表明：只要物理理论用数学表述，就总会有对它们的完全自然主义的解释。在《初始根据》序言中，康德论证说：当物质概念依照纯粹知性的四组范畴被呈现时，它就得到“完整的分析”，从而充分证成数学对物理学的应用。然而，如果这种应用要成功，自然科学就必须奠基于某种纯粹的东西，否则它将丧失其必然性品格。科学如何能够无限制地经验增长，却仍保有其非经验的、必然的基础？为了证明这种可能性，康德表明：位于自然科学基础处的某种纯粹的东西（他称之为一般物理学，physica generalis）由数学命题和形而上学命题共同构成。这是否意味着一般物理学对象的先天知识把数学与形而上学结合起来，以某种方式把它们熔为一体？"
+      ],
+      "units": 264
+    },
+    {
+      "id": "ch02-u018",
+      "source_ids": [
+        "ch02-u018"
+      ],
+      "page": "58",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the Critique mathematics as knowledge by construction of concepts in intuition is clearly contrasted with philosophy as knowledge by concepts (A713/B741). Thus there is nothing in the examples provided by Kant to support the possibility of a transcendental synthesis of imagination (B154) to indicate that thinking a line by drawing it in thought, or a circle by describing it, requires a mere mathematical point, though it could be compatible with it; and even if the motion of a mathematical point were to be involved in the drawing of a straight line, this motion is still not necessarily the rectilinear inertial motion which grounds the principle of inertia in modern physics.",
+        {
+          "type": "note",
+          "id": "ch02-n05",
+          "label": "5"
+        },
+        " All true metaphysics, Kant says, that is, any metaphysics whether general or special, “is taken from the essential nature of the thinking faculty itself and therefore is by no means invented” (4:472). But a concept such as the mathematical concept, which is constructed in an intuition which is itself a priori, is an arbitrary concept which has been invented in order to be defined; such a concept “does not assure me of the existence or of the possibility of its object” (A729/B757). The contrast between the two kinds of knowledge is now to be re-assessed, however, since we are interested in the knowledge of determinate natural things, not nature in general. Inasmuch as they derive from the logical functions of unity in a judgment, the categories are themselves too general to yield the knowledge of determinate things. What are we to do with this generality? Kant goes so far to say that, when transposed from nature in general to determinate natural things, the transcendental possibility of thought loses its synthetic power and converts back into something analytical: “that it does not contradict itself” (4:470). How, then, can we find the a priori synthesis which will be appropriate to the new context? In the case of the knowledge of nature in general, mathematics did not have a specific function in transcendental synthesis. But as a construction of concepts in pure intuition, it can now be taken precisely as that which allows thought to be projected outside of its sphere. Pure mathematics proceeds synthetically in just the way needed by the a priori concept of matter: for “if pure intuition be wanting, there is nothing in which the matter for synthetic judgments a priori can be given” (4:471). That is, in the mathematical synthesis, the form may substitute for the matter of construction. Therefore, there must at the very least be a correspondence between mathematical construction (which takes us outside of the concept) and “the necessity of what belongs to the existence of a thing” (4:469), even though existence itself is of course not constructible. The latter necessity is the properly metaphysical one, which has as its purpose to present first the “principles of the construction of concepts that belong to the possibility of matter in general” (4:472). Kant’s Metaphysical Foundations presents the systematic exposition of those metaphysical propositions containing the general conditions of representability for determinate things in intuition. The principles of any construction (by which concepts are presented a priori) must themselves be presented, i.e., constructed. To that extent, since the transcendental conditions of possibility are now themselves equated with pure exteriority (constructibility), there is no other place in Kant’s theoretical philosophy where these conditions come closer to that which in outer intuition is actually made possible; they lose any reference to time, and become as anonymous – and therefore universal – as mathematics. In mathematics the pure concept of understanding is tied up with pure intuition, so that this concept must only be presented (externalized) in intuition in order to be thought (A719/B747), whereas the synthetic principles of pure understanding “cannot exhibit a priori any one of their concepts in a specific instance; they can only do this a posteriori, by means of experience” (A721/B749). To be sure, Kant also requires in the context of transcendental knowledge that for the objective reality of the categories to be verified (darzutun), always only outer intuitions are needed (B291). Thus “in order to supply something permanent in intuition corresponding to the concept of substance … we require an intuition in space (of matter).” But requirement for verification is not the same thing as exhibition of a built-in possibility, which belongs to mathematical concepts only."
+      ],
+      "zh": [
+        "在《批判》中，作为在直观中构造概念的知识，数学与作为凭借概念的知识，哲学，被清楚对照（A713/B741）。因此，康德为论证想象力的先验综合何以可能（B154）而给出的例子，并未表明在思想中画线或描圆以思维它们时，必须借助纯粹数学上的点，尽管这一过程与借助数学点相容；而且即便画直线涉及一个数学点的运动，这种运动仍然不必然是奠定现代物理学惯性原理的那种直线惯性运动。",
+        {
+          "type": "note",
+          "id": "ch02-n05",
+          "label": "5"
+        },
+        "康德说，一切真正的形而上学，即无论一般还是特殊的任何形而上学，“都取自思维能力自身的本质本性，因此绝不是发明出来的”（4:472）。但像数学概念这样的概念——它在一个本身是先天的直观中被构造——是为定义而被发明的任意概念；这样的概念“并不向我保证其对象的存在或可能性”（A729/B757）。然而，两类知识之间的对照现在要重新评估，因为我们感兴趣的是确定的自然事物的知识，而不是一般自然。范畴既然派生自判断中统一性的逻辑功能，其本身就过于一般，无法产出确定事物的知识。我们该拿这种一般性怎么办？康德甚至说：当从一般自然转移到确定的自然事物时，思想的先验可能性丧失其综合能力，转回为某种分析性的东西：“它不自相矛盾”（4:470）。那么，我们如何找到适合于新语境的先天综合？在一般自然的知识中，数学在先验综合中没有特定功能。但作为在纯粹直观中对概念的构造，它现在恰恰可以被取为使思想得以投射到其领域之外的东西。纯粹数学恰恰以物质的先天概念所需要的方式综合地进行：“如果缺少纯粹直观，就没有任何东西能在其中给出先天综合判断的质料”（4:471）。也就是说，在数学综合中，形式可以替代构造的质料。因此，在数学构造（它把我们带到概念之外）与“属于一物之实存的东西的必然性”（4:469）之间，至少必须有一种对应，尽管实存本身当然是不可构造的。后一种必然性是真正形而上学的必然性，其目的是首先呈现“属于一般物质之可能性的概念构造的原理”（4:472）。康德的《初始根据》对那些形而上学命题作了系统阐述，它们包含确定事物在直观中的可表象性的一般条件。任何构造（概念借它被先天地呈现）的原理本身也必须被呈现，即被构造。就此而言，既然先验可能性条件现在本身被等同于纯粹的外在性（可构造性），在康德的理论哲学中没有别处让这些条件比这里更接近外直观中实际被使之可能的东西；它们失去任何对时间的指涉，变得像数学一样匿名——因而普遍。在数学中，知性纯粹概念与纯粹直观绑在一起，以致这个概念只须在直观中被呈现（外在化）就能被思维（A719/B747）；而纯粹知性的综合原理“不能先天地在任何一个特定实例中展示它们的任何一个概念；它们只能后天地、借助经验做到这一点”（A721/B749）。诚然，康德在先验知识的语境中也要求：为了证实（darzutun）范畴的客观实在性，永远只需要外部直观（B291）。于是，“为了在直观中提供与实体概念相应的某种持存的东西……我们需要一个在空间中的（关于物质的）直观”。但证实的要求与对内在可能性的展示不是一回事，后者只属于数学概念。"
+      ],
+      "units": 730
+    },
+    {
+      "id": "ch02-u019",
+      "source_ids": [
+        "ch02-u019"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "That the form may substitute for the matter, in the mathematical synthesis, parallels the way the idea of reason schematizes a manifold of intuition even when an object cannot be given in experience at all.",
+        {
+          "type": "note",
+          "id": "ch02-n06",
+          "label": "6"
+        },
+        " The metaphysical synthesis of determinate nature is thus the exclusive property of the faculty of reason, in consequence of which the ideal of absolute constructibility cannot come full circle. As we progress into the Metaphysical Foundations, we attend to the limits of such absolute constructibility. Thus in the Phoronomy, we are told that construction can be carried out at best as “mediate composition” (4:494), removing any sense of immediate (non-conceptual) evidence proper to pure mathematical synthesis. Worse, in the case of Dynamics, the initial datum which is the moving force reveals how much the arbitrariness of mathematical synthesis (i.e., the fact that it may pick anything to serve as initial datum) remains an obstacle to the metaphysics of nature (4:498):"
+      ],
+      "zh": [
+        "在数学综合中形式可以替代质料，这平行于理性理念图型化直观杂多的方式——即便一个对象根本无法在经验中被给予。",
+        {
+          "type": "note",
+          "id": "ch02-n06",
+          "label": "6"
+        },
+        "于是，确定自然的形而上学综合只能由理性完成，因此绝对可构造性的理想无法贯彻到底。随着我们深入《初始根据》，我们注意到这种绝对可构造性的界限。于是在运动学中，我们被告知构造至多只能作为“间接复合”（4:494）进行，这就去除了纯粹数学综合所特有的直接（非概念）明证性的任何意味。更糟的是，在动力学的情形中，作为初始所予的动力揭示了数学综合的任意性（即它可以挑选任何东西充当初始所予这一事实）在多大程度上仍是自然形而上学的障碍（4:498）："
+      ],
+      "units": 158
+    },
+    {
+      "id": "ch02-u020",
+      "source_ids": [
+        "ch02-u020"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Here the mathematician has assumed something as an initial datum of the construction of the concept of matter, but this something does not admit of being further constructed. Now, he can indeed begin his construction from any datum he pleases, without involving himself also in explicating this datum in turn; but he is nevertheless not thereby authorized to explicate this datum as something wholly incapable of any mathematical construction in order thereby to prevent a return to the first [metaphysical] principles of natural science."
+      ],
+      "zh": [
+        "数学家在这里假定了某物作为物质概念构造的初始所予，但这个某物不容许进一步被构造。而他确实可以从他自行选定的任何所予开始构造，无须同时反过来阐明这个所予；但他并不因此有权把这个所予阐明为完全不能接受任何数学构造的东西，从而阻止向自然科学最初［形而上学］原理的回返。"
+      ],
+      "type": "quote",
+      "units": 84
+    },
+    {
+      "id": "ch02-u021",
+      "source_ids": [
+        "ch02-u021"
+      ],
+      "page": "59",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Mathematics is the construction of the concept in pure intuition, but mathematical physics falls into metaphysical dogmatism when such or such initial datum is declared to be no more susceptible to further construction. This dogmatism rests on the conflation of the initial datum with the unconditioned in the sense of the highest aims of reason. The unconditioned of the mathematician rears its head just when the power of mathematical synthesis gives out. That is why the initial datum should be understood as proceeding from reason, not understanding. Because it originates from the faculty of reason, the mathematical construction of the concept of matter accomplishes too much with respect to the dynamical properties of matter. Indeed, the mathematical treatment postulates these properties as “unconditioned original positions,” which explains why limits must be set to this mathematical construction. To do just that is the main business of the metaphysical investigation of natural science. The initial datum must be carefully distinguished from the unconditioned according to the proper metaphysics which we are to spell out now, because mathematics conflates the two as it is blinded by its own power. When does synthesis, first mathematical, become properly metaphysical?"
+      ],
+      "zh": [
+        "数学是在纯粹直观中对概念的构造，但当某某初始所予被宣布为不再能接受进一步构造时，数学物理学就陷入形而上学独断论。这种独断论基于把初始所予与理性最高目标意义上的无条件者相混淆。数学家的无条件者恰恰在数学综合的能力耗尽之时露头。这就是为什么初始所予应被理解为出自理性而非知性。正因为起源于理性能力，物质概念的数学构造就物质的动力学属性而言做得过头了。的确，数学处理把这些属性设定为“无条件的源始设定”，这解释了为什么必须给这种数学构造设限。做这件事正是自然科学的形而上学考察的主要事务。初始所予必须依照我们现在要阐明的真正形而上学，与无条件者仔细区分开来，因为数学被自己的力量蒙蔽而混淆了二者。综合何时从首先是数学的变成真正形而上学的？"
+      ],
+      "units": 194
+    },
+    {
+      "id": "ch02-u022",
+      "source_ids": [
+        "ch02-u022"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Back to Phoronomy"
+      ],
+      "zh": [
+        "4 回到运动学"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch02-u023",
+      "source_ids": [
+        "ch02-u023"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Physical space is the ever renewed possibility of extending the class of reference frames beyond any given limit and below any absolute limit (plurality-withintotality). On the other hand we know that geometrical space contains the ground for the possibility of constructing figures in pure intuition. If we now go a step further and ask what is the possibility of physico-geometrical space, we are left with the following problem: How can we construct – rather than simply postulate – the possibility of further frames of reference beyond the limits imposed by the confines of a physical system? Kant’s answer is that we need precisely two spaces in order to achieve such a synthesis – the absolute and the relative, which always interact in some way."
+      ],
+      "zh": [
+        "物理空间是把参照系类扩展到任何给定界限之外、任何绝对界限之下的不断更新的可能性（全体性中的多数性）。另一方面，我们知道几何空间包含在纯粹直观中构造图形之可能性的根据。如果我们现在再进一步，问物理—几何空间的可能性是什么，就剩下如下问题：我们如何能够构造——而不是简单设定——超出物理系统边界所加界限的进一步参照系的可能性？康德的回答是：我们恰恰需要两个空间才能达成这种综合——绝对空间与相对空间，它们总是以某种方式相互作用。"
+      ],
+      "units": 121
+    },
+    {
+      "id": "ch02-u024",
+      "source_ids": [
+        "ch02-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let a given velocity of a body in one direction be represented by means of two separate, smaller but equal velocities AB and CD; they can be regarded as the component-velocities of the given velocity AD. The question is: does the line AB + CD = AD represent the sum of the two velocities? If that were so, then the body should go twice as fast from A to D than it does from A to B or C to D. But then, the portion AB or CD of the line AD will of course no longer represent the velocity AB or CD taken separately one from another as components. In order for the composition to be possible in spatial intuition, we need to satisfy the following requirement: 2AB should be traversed in the same time as AB. Kant’s solution is to say that one of the two motions will be attributed to the body itself, whereas the other will be attributed to the space (frame of reference) in the other direction; the latter has the effect of doubling, as it were, the velocity of the separate component. The construction of the two velocities is thus intuitively possible only by means of two spaces moving in opposite directions, one absolute and one relative. It is this mixing of progression and regression within the same synthesis that bestows sense upon the overlap of the absolute and the relative. In Newton’s conception, the innumerability of relative motions in intuition was irresolvable in terms of kinematics alone."
+      ],
+      "zh": [
+        "设一个物体沿某一方向的给定速度用两个分开的、较小但相等的速度AB和CD来表象；它们可以被看作给定速度AD的分速度。问题是：线段AB＋CD＝AD是否表象两个速度之和？如果是这样，物体从A到D就应该比从A到B或从C到D快一倍。但这样一来，线段AD的AB或CD部分当然就不再表象作为分量彼此分开取的AB或CD速度。为了使复合在空间直观中可能，我们需要满足如下要求：2AB应在与AB相同的时间内被走过。康德的解答是说：两个运动之一将被归于物体本身，而另一个将被归于沿相反方向的空间（参照系）；后者的效果仿佛是把单独分量的速度加倍。于是，两个速度的构造只有借助沿相反方向运动的两个空间——一个绝对的、一个相对的——才在直观上可能。正是这种前进与回退在同一综合中的混合，赋予绝对与相对的重叠以意义。在牛顿的构想中，直观中相对运动的不可胜数性仅凭运动学是无法解决的。"
+      ],
+      "units": 252
+    },
+    {
+      "id": "ch02-u025",
+      "source_ids": [
+        "ch02-u025"
+      ],
+      "page": "60",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It was not reducible to something itself either intuitive or numerable. Kant has thus just achieved such a reduction while preserving the arbitrariness of mathematical synthesis (which frame counts as absolute, and which is relative, depends on the constructive process itself)."
+      ],
+      "zh": [
+        "它不可还原为本身或是直观性的或是可数的东西。康德于是刚刚完成了这样一种还原，同时保留了数学综合的任意性（哪个框架算绝对的、哪个是相对的，取决于构造过程本身）。"
+      ],
+      "units": 41
+    },
+    {
+      "id": "ch02-u026",
+      "source_ids": [
+        "ch02-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The doubling of space, and the full interchangeability of the two spaces, defines the metaphysical principle of Phoronomy. The interchangeability of the motion of a body in space and the motion of the reference frame in the opposite direction is nothing other than the principle of relativity of modern physics, viewed as condition of possibility for the experience of matter in motion. Thus, as soon as the object has been specified as material body in motion, the empirical or material space relative to it allows it to become an object of experience. The addition of this space to the body generates equivocity in intuition: whether the body moves in the space at rest, or whether the body is at rest in the space moving in the opposite direction, intuition cannot decide. This equivocity is the price to pay for granting the relativity principle a metaphysical status appropriate to transcendental reason, as opposed to the dogmatic metaphysics of the mathematician."
+      ],
+      "zh": [
+        "空间的加倍，以及两个空间的完全可互换性，定义了运动学的形而上学原理。物体在空间中的运动与参照系沿相反方向的运动之间的可互换性，不是别的，正是现代物理学的相对性原理——被视为运动中的物质之经验的可能性条件。于是，一旦对象被规定为运动中的物质物体，相对于它的经验空间或物质空间就使它得以成为经验的对象。把这个空间添加到物体上，在直观中产生了歧义：究竟是物体在静止的空间中运动，还是物体在沿相反方向运动的空间中静止，直观无法裁决。这种歧义是赋予相对性原理以适合于先验理性的形而上学地位（与数学家的独断形而上学相对）所要付出的代价。"
+      ],
+      "units": 159
+    },
+    {
+      "id": "ch02-u027",
+      "source_ids": [
+        "ch02-u027"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "5 Various Senses of Nature"
+      ],
+      "zh": [
+        "5 自然的诸种意义"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch02-u028",
+      "source_ids": [
+        "ch02-u028"
+      ],
+      "page": "61",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As far as the examination of matter-in-motion is concerned, it can be argued that here too, beyond his own interpretation of the cause of gravity, Newton is again at variance with himself. Indeed his “deduction from phenomena” tolerates two different epistemological strategies. In order to understand motion, Newton says, we have to “abstract from our senses, and consider things themselves, distinct from what are only sensible measures of them.”",
+        {
+          "type": "note",
+          "id": "ch02-n07",
+          "label": "7"
+        },
+        " This view concerning the intelligibility of motion clashes with any theory of the universal qualities of matter. For in the case of the structure of matter, Newton argues that “we no other way know the extension of bodies than by our senses.”",
+        {
+          "type": "note",
+          "id": "ch02-n08",
+          "label": "8"
+        },
+        " What is true of extension is also true of the other qualities such as hardness, impenetrability, mobility, and inertia; in contradistinction to the facts of motion, all these qualities are established “not from reason, but from sensation.” Where the power of sensation gives out, mathematics and experimentation take over, but nothing is changed in the continuous chain of sensibly experienced objects. A whole conception of nature is at stake in Newton’s conception of sensible continuity in the case of atoms. Things could not have a “nature” of their own unless they were made up of ultimately indivisible atoms: “should they wear or break in pieces, the nature of things depending on them would be changed.”",
+        {
+          "type": "note",
+          "id": "ch02-n09",
+          "label": "9"
+        },
+        " Gravity, on the other hand, as a force related to motion, is not an essential property of bodies because their nature is not changed whether or not they are subject to it. Since Kant denies that the intelligibility of motion requires that we abstract at some point from the senses, the following problem arises: what does this inseparable connection imply for our understanding of the forces and the inner structure of matter?"
+      ],
+      "zh": [
+        "就运动中的物质的考察而言，可以论证说：在这里，超出他本人对引力原因的解释，牛顿再次与自身相抵牾。的确，他的“从现象演绎”容许两种不同的认识论策略。牛顿说，为了理解运动，我们必须“从我们的感官抽象开来，考虑事物本身，把它们与只是它们的可感度量的东西区别开来”。",
+        {
+          "type": "note",
+          "id": "ch02-n07",
+          "label": "7"
+        },
+        "这种关于运动可理解性的观点，与任何关于物质普遍性质的理论相冲突。因为就物质的结构而言，牛顿论证说：“我们认识物体的广延没有别的途径，只有通过我们的感官。”",
+        {
+          "type": "note",
+          "id": "ch02-n08",
+          "label": "8"
+        },
+        "对广延成立的，对其他性质如硬度、不可入性、可动性和惯性也成立；与运动的事实相反，所有这些性质都是“不是从理性、而是从感觉”确立的。在感觉能力耗尽之处，数学和实验接手，但可感经验对象的连续链条没有任何改变。在原子的情形中，牛顿关于可感连续性的构想牵涉一整套自然观。事物不可能有自己的“本性”，除非它们由最终不可分的原子构成：“如果它们磨损或碎裂，依赖于它们的事物的本性就会改变。”",
+        {
+          "type": "note",
+          "id": "ch02-n09",
+          "label": "9"
+        },
+        "另一方面，重力作为一种与运动相关的力，不是物体的本质属性，因为无论物体是否受它作用，其本性都不改变。既然康德否认运动的可理解性要求我们在某处从感官抽象开来，就产生如下问题：这种不可分离的联系对我们理解物质的力和内部结构意味着什么？"
+      ],
+      "units": 298
+    },
+    {
+      "id": "ch02-u029",
+      "source_ids": [
+        "ch02-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant’s definition of nature in accordance with modern mathematical physics states that it is the totality of rules under which all appearances must come in order to be thought, provided that appearances are cognized by means of a necessary connection of them in experience (Prolegomena §36). This is nature in the formal sense, which is only thinkable in terms of the necessary unity of the connection between phenomena: conformity of things to the a priori (transcendental) conditions of the understanding in its empirical employment. But who is to say that this conformity exhausts the sense of nature? The objects of empirical cognition will always be “determinable in all sorts of additional ways,”",
+        {
+          "type": "note",
+          "id": "ch02-n10",
+          "label": "10"
+        },
+        " and there is no absolute guarantee that the understanding will always identify some necessity in them which reflects its own a priori structure. It cannot be a priori true that all experience leads to a recognizable connection in it. That is why Kant allows for another sense of nature which, while still formal, is not transcendental but metaphysical: “the primal, internal principle of everything that belongs to the existence of a thing” (4:467), i.e. that which constitutes the essence of a thing, the quality or set of qualities which characterize a thing and belong to it necessarily and specifically. The problem with this view of nature is that it echoes the now banished pre-Newtonian view dealing with the inner, nonmathematizable qualities of things. There will be as many sciences of nature as there are specifically different objects in nature. Since he is infatuated with the Newtonian method, does Kant simply leave behind this conception of scattered natures? His definition of nature as material throws out hints about such a rejection: “the sum total of all things insofar as they can be objects of our senses and hence also objects of experience.” Material nature includes the two senses of formal nature, transcendental and metaphysical, so that finally conformity to laws (formal transcendental nature) and the sum total of objects of experience (material nature) are present in the definition of nature as “conformity to law of all the objects of experience” (4:296). What does Kant actually do in Metaphysical Foundations? Obviously Newton’s methodological cunundrum is at the heart of the two foregoing senses of nature. In the Preface Kant further observes that the internal principle of a thing does not refer exclusively to its nature (or its existence); it can also refer to its possibility, in which case the principle belongs to the essence, not the nature, of the thing. Geometrical figures, or mathematical properties in general, fall within the range of the essence (see also the note in §63 of the Critique of Judgment)."
+      ],
+      "zh": [
+        "康德依照现代数学物理学对自然的定义陈述：自然是一切显象为了被思维而必须隶属的规则的总和，前提是显象凭借它们在经验中的必然联系而被认识（《导论》第36节）。这是形式意义上的自然，它只有按现象之间联系的必然统一性才可思维：事物对知性在其经验运用中的先天（先验）条件的符合。但谁能说这种符合穷尽了自然的意义？经验认识的对象将总是“可以按各种附加方式被规定的”，",
+        {
+          "type": "note",
+          "id": "ch02-n10",
+          "label": "10"
+        },
+        "而且没有绝对保证知性总能在它们中辨认出反映其自身先天结构的某种必然性。一切经验都在其中导向可辨认的联系，这不可能是先天为真的。这就是为什么康德容许自然的另一种意义：它虽然仍是形式的，却不是先验的而是形而上学的——“属于一物之实存的一切东西的源初的、内在的原理”（4:467），即构成一物之本质的东西，刻画一物并必然地、特殊地属于它的那种性质或性质集合。这种自然观的问题在于，它呼应了如今已被驱逐的前牛顿观点——处理事物内在的、不可数学化的性质。自然中有多少种特殊地不同的对象，就有多少门自然科学。既然康德醉心于牛顿方法，他是否干脆抛弃了这种认为各类事物各有其本性的构想？他把自然定义为质料性的，这暗示了这种抛弃：“一切事物的总和，就它们能够成为我们感官的对象、因而也能成为经验的对象而言。”质料自然包含形式自然的两种意义——先验的与形而上学的——于是最终，对定律的符合（形式先验自然）与经验对象的总和（质料自然）都出现在把自然定义为“一切经验对象的合规律性”（4:296）之中。康德在《初始根据》中实际做了什么？显然，牛顿的方法论难题处于上述两种自然意义的核心。康德在序言中进一步指出：一物的内在原理并不专指其本性（或其存在）；它也可以指其可能性，在这种情况下该原理属于事物的本质而非本性。几何图形，或一般的数学属性，落在本质的范围之内（另见《判断力批判》第63节的注）。"
+      ],
+      "units": 448
+    },
+    {
+      "id": "ch02-u030",
+      "source_ids": [
+        "ch02-u030"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Gravitation is the overarching concept between the two senses of nature, because it acts both within matter (ensuring the filling of space) and outside matter (between parts of matter)."
+      ],
+      "zh": [
+        "引力是两种自然意义之间的统摄性概念，因为它既在物质之内起作用（确保空间的填充），也在物质之外起作用（在物质的各部分之间）。"
+      ],
+      "units": 29
+    },
+    {
+      "id": "ch02-u031",
+      "source_ids": [
+        "ch02-u031"
+      ],
+      "page": "62",
+      "canonical_kind": "heading",
+      "en": [
+        "6 Dynamics"
+      ],
+      "zh": [
+        "6 动力学"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch02-u032",
+      "source_ids": [
+        "ch02-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the Dynamics these two senses of nature are dealt with in turn. First the distinction is made between two types of impenetrability, which refer to two different concepts of matter. According to the mathematical concept, matter resists all penetration with absolute necessity (4:502), which gives rise to the mathematical– mechanical mode of explanation of matter; if one follows this explanation, only atoms and the void are needed to account by composition for the constitution of matter. Mechanics is concerned with the actions of nature as arising from the shape of atoms as machines. However useful it may be for the practical purposes of exact science, this mode of intelligibility still reflects the mind’s old desire to transcend the limits of possible experience, because it has an empty concept at its foundation (absolute solidity) which can never be given in sensibility. In the dynamical concept of impenetrability, by contrast, the metaphysical–dynamical mode of explanation allows for an expanding force which “first makes matter itself possible.” The main point is that the dynamical concept cannot be comprehended or demonstrated a priori, that is, constructed in pure intuition. In fact, Kant opposes the dynamical and the mechanical mode of explanation as metaphysical versus mathematical. But the metaphysics of dynamics is critical and not dogmatic since, as we shall see, matter is conceived as relatively, rather than absolutely, impenetrable. Thus Kant explores here what critical reason is able to represent by its own means about the unattainable interiority of matter."
+      ],
+      "zh": [
+        "在动力学中，这两种自然意义被依次处理。首先区分两类不可入性，它们指涉两个不同的物质概念。按照数学的概念，物质以绝对必然性抵抗一切穿入（4:502），这产生了物质的数学—机械解释方式；如果遵循这种解释，只需要原子和虚空就能借复合说明物质的构成。力学关心的是自然的作用如何从作为机器的原子的形状产生。无论这种方式对精确科学的实用目的多么有用，这种可理解性方式仍反映心灵超越可能经验界限的古老欲望，因为它的基础处有一个永远不能在感性中被给予的空洞概念（绝对坚实性）。相反，在不可入性的动力学概念中，形而上学—动力学的解释方式容许一种膨胀力，它“首先使物质本身成为可能”。要点在于：动力学概念不能被先天地领会或演证，即不能在纯粹直观中被构造。事实上，康德把动力学解释和机械解释对立起来，视前者为形而上学的解释，后者为数学的解释。但动力学的形而上学是批判的而非独断的，因为如我们将看到的，物质被设想为相对地、而非绝对地不可入。于是康德在这里探究：批判的理性凭自己的手段，能够就物质那不可企及的内部表象出什么。"
+      ],
+      "units": 249
+    },
+    {
+      "id": "ch02-u033",
+      "source_ids": [
+        "ch02-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Whereas in Newton the geometrical and the dynamical properties intertwine in some way in order to produce a coherent analytical mechanics, Kant sharply opposes kinematics and dynamics. In the dynamical explication of the concept of matter, a property is added to the phoronomic one, namely, the capacity of resisting a motion within a certain space. The transcendental relationship between thought and sensibility is changed accordingly. According to the Anticipations of Perception in the Critique all reality has a degree in sensation which defines its reality. The object of sensation is given in an instant, as a shock, as it were, that is more or less intense. This intensity may be diminished in thought so as to gradually vanish from X to O, which is what it means to anticipate the continuity of perception. Opposed to the concept of reality, the concept of negation refers to the complete absence of reality from a sensible intuition. By complete absence, Kant does not mean the nonperceptible degrees from O to X, but rather a completely empty space or time. Kant opposes reality and negation in terms of being and not-being, which transcendentally means the distinction of one and the same time as filled or empty. By means of the fullness of time, the concept of reality can be schematized, i.e., applied to appearances. Kant states that the schema of a reality is precisely the continuous production of that which fills time, but he does not explicitly states what the schema of negation is, as if the concept of negation could have no schema: it cannot be applied to appearances essentially because it refers to the complete absence of appearances. Now, mathematical physics achieves what is transcendentally problematical, namely, it provides a schema which can hardly be specified transcendentally."
+      ],
+      "zh": [
+        "在牛顿那里，几何属性与动力学属性以某种方式交织以产生连贯的分析力学，而康德把运动学与动力学尖锐对立。在物质概念的动力学阐明中，一个属性被添加到运动学属性之上，即抵抗某一空间内的运动的能力。思想与感性之间的先验关系相应改变。按照《批判》中的“知觉的预测”，一切实在在感觉中都有一个规定其实在性的程度。感觉的对象在一瞬间被给予，仿佛一次或多或少强烈的冲击。这种强度可以在思想中被减小，以致从X到O逐渐消失，这就是预测知觉连续性的含义。与实在性概念相对，否定性概念指实在性从一个感性直观中的完全缺席。所谓完全缺席，康德不是指从O到X的不可知觉的程度，而是指一个完全空的空间或时间。康德用存在与非存在来对立实在性与否定性，这在先验上意味着同一个时间被填充或空虚的区分。借助时间的充实，实在性概念可以被图型化，即被应用于显象。康德陈述：一个实在性的图型恰恰是填充时间者的连续产生；但他没有明确陈述否定性的图型是什么，仿佛否定性概念不可能有图型：它本质上不能应用于显象，因为它指显象的完全缺席。而数学物理学达成了先验上成问题的事情：它提供了一个在先验上几乎无法规定的图型。"
+      ],
+      "units": 296
+    },
+    {
+      "id": "ch02-u034",
+      "source_ids": [
+        "ch02-u034"
+      ],
+      "page": "63",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The schema in question is the property of filling a space, not a time. Filling a space means that matter is capable of resisting everything movable that strives to press into the space filled by a body. Kant sets out to show that this impenetrability is constituted by moving force as the cause of matter’s motion. In turn, he proves that there are only two possible moving forces, repulsion and attraction. In so far as matter consists in or maintains itself through repelling other forces, in the absence of attraction it would have no cohesion; it would be infinitely scattered so that the consistency of matter occupying a given space could not be explained. Taken together as the limit of one another, these forces constitute the quality of matter in motion. Prior to Kant, impenetrability (the property of filling a space) would be explicitly distinguished from a body’s having a force. Thus Euler thought of impenetrability as fundamental in the sense that all other properties could be derived from it; any force was an effect of impenetrability. For Boscovitch the essence of matter was force, and impenetrability was its effect. But for Kant matter fills a space in virtue of being endowed with a force of repulsion. Kant favors the dynamical explication even in the case of impenetrability, which is the very property which was thought to be central to the mechanistic interpretation. According to the latter, matter is absolutely impenetrable, that is, impenetrability is greater than any finite degree; variations in the density of bodies are explained in terms of relative amounts of filled and empty space that they contain."
+      ],
+      "zh": [
+        "所论的图型是填充一个空间、而非一个时间的属性。填充空间意味着物质能够抵抗一切力图挤入被物体填充的空间的可动者。康德着手表明：这种不可入性由作为物质运动之原因的动力构成。他进而证明只有两种可能的动力：排斥与吸引。就物质在于排斥其他力或借此维持自身而言，若没有吸引，它就没有内聚；它将无限散开，以致物质何以能凝聚在给定空间内就无法解释。这两种力作为彼此的界限合在一起，构成运动中的物质的质。在康德之前，不可入性（填充空间的属性）会被明确地与物体具有力区分开来。于是欧拉认为不可入性是根本的，其他一切属性都可以从它导出；任何力都是不可入性的结果。对博斯科维奇来说，物质的本质是力，不可入性是它的结果。但对康德来说，物质凭被赋予排斥力而填充空间。甚至在不可入性——恰恰是被认为对机械论解释最核心的那个属性——的情形中，康德也偏爱动力学阐明。按照后者〔机械论解释〕，物质是绝对不可入的，即不可入性大于任何有限程度；物体密度的差异用它们所包含的充实空间与空虚空间的相对数量来解释。"
+      ],
+      "units": 271
+    },
+    {
+      "id": "ch02-u035",
+      "source_ids": [
+        "ch02-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now, Kant calls attraction a fundamental force because it cannot be derived from reversed repulsion. Starting from a given expansive force in a given direction, an expansive force originating from another body could always be found, which is both greater and in the opposite direction. That is, the original expansive force turns, via a change of direction and intensity, into what Kant calls a compressive force. The greater compressive force is needed in order for expanding matter to avoid complete dispersion or dissolution in empty space. Why, then, do we need attraction, which is a qualitatively different force? Why could we not keep identifying attractive force with the possibility of compressive force exceeding any given expansive force? Kant resists the suggestion that one force could be deduced from the other. They are both fundamental in the sense that each is unconditioned, but unconditionality as understood here differs in essential respects from the mathematician’s sense of arbitrary initial datum. Indeed, a difference prevails between repulsion and attraction at the level of the possibility of experience of matter. While the property of filling a space is apprehended immediately as a surface phenomenon, so that repulsion is action by contact, attractive force is not immediately sensible, and is rather given mediately, or “inferred” (4:513) because the center of attraction is always concealed within the body. The concept of negation is thus rendered determinate as attractive force; this concept ceases to be empty, since the action of universal attraction in all parts of the universe is nothing other than the force of gravitation as identified and made calculable by Newton. But whereas attraction acts immediately at a distance according to mathematical physics, transcendentally it is not immediately sensible. Facing the attractive force as an unconditioned, critical reason observes how the possibility or essence of attraction is at variance with its own nature."
+      ],
+      "zh": [
+        "而康德称吸引为基本力，因为它不能从反向的排斥导出。从给定方向上的给定膨胀力出发，总能找到源于另一物体的膨胀力，它既更大又方向相反。也就是说，源始的膨胀力经由方向和强度的改变，变成康德所谓压缩力。需要更大的压缩力，膨胀的物质才能避免在虚空空间中完全散开或消解。那么，我们为什么需要吸引这种在质上不同的力？为什么不能继续把吸引力等同于压缩力超过任何给定膨胀力的可能性？康德抵制一种力可以从另一种力推出的建议。它们都是基本的，即各自都是无条件的，但这里理解的无条件性与数学家任意初始所予的意义上的无条件性有本质区别。的确，在物质经验可能性的层面上，排斥与吸引之间存在一个差别。填充空间的属性作为表面现象被直接把握，因此排斥是接触作用；而吸引力不是直接可感的，而是间接地被给予、或被“推论出来”（4:513），因为吸引中心总是隐藏在物体内部。否定性概念于是被规定为吸引力；这个概念不再是空洞的，因为普遍吸引在宇宙一切部分中的作用，不是别的，正是被牛顿辨认出来并使之可计算的重力。但按照数学物理学吸引直接超距地起作用，而在先验上它不是直接可感的。面对作为无条件者的吸引力，批判的理性看到吸引的可能性或本质如何与它自己的本性相抵牾。"
+      ],
+      "units": 309
+    },
+    {
+      "id": "ch02-u036",
+      "source_ids": [
+        "ch02-u036"
+      ],
+      "page": "64",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant distinguishes true from apparent attraction in the following way. When one body X collides with another Y, and body Y is impelled toward a third body Z, it appears that Y is attracted to Z. This appearance, however, is merely an epiphenomenon of impact (4:514). True attractive force, on the other hand, belongs to the essence or possibility of matter. The reasoning using a minimum of three matters confuses accidental impact and essential force. Attraction at a distance is made evident by any instantaneous distribution of matter, while impulsion cannot be represented without an account of the genesis of that distribution. Now, since attraction is immediately infinite whereas repulsion is always confined within the limits of a solid, in what sense can we speak of a relation between the two forces? A determinate degree of filling of space results from the limitation of repulsion by attraction, not a reciprocal limitation between two equal terms. The bridge between the two forces is secured by what Kant calls derivative forces (4:526–527). One such derivative force is cohesion, which is attraction thought as active only for particles in contact. As a derivative force, cohesion is not linked to the concept of matter by a priori synthesis; it can be known by experience only. Taken together, these forces in the dynamical synthesis provide a view of material nature quite different from the mechanical one, in which absolute solids are separated from one another by empty spaces."
+      ],
+      "zh": [
+        "康德按如下方式区分真吸引与表面吸引。当物体X与另一物体Y碰撞、物体Y被推向第三个物体Z时，看上去Y被Z吸引。然而这一显象只是碰撞的副现象（4:514）。真正的吸引力则属于物质的本质或可能性。使用最少三个物质的推理混淆了偶然的碰撞与本质性的力。超距吸引由物质的任何瞬时分布而显明，而推动的表象则离不开对那一分布之发生的说明。而既然吸引力直接作用于无限远、排斥却总是限于一个固体的界限之内，我们在什么意义上能谈两种力之间的关系？空间填充的确定程度来自吸引对排斥的限制，而不是两个对等项之间的相互限制。两种力之间的桥梁由康德所谓派生力确保（4:526–527）。一种这样的派生力是内聚力，即被设想为只对接触的粒子起作用的吸引。作为派生力，内聚并不借先天综合与物质概念相联系；它只能凭经验被认识。合在一起，动力学综合中的这些力提供了一种与机械论自然观很不相同的质料自然观——在后者中，绝对固体被虚空空间彼此隔开。"
+      ],
+      "units": 246
+    },
+    {
+      "id": "ch02-u037",
+      "source_ids": [
+        "ch02-u037"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A central point in the Dynamics is that attraction, which acts at a distance, is more fundamental than repulsion. Even contact action between bodies must be thought of as a mode of action at distance, since the inner determination of gravity is concealed in, not beyond, sensible experience itself; two bodies in contact still occupy different spaces. But showing how action at a distance is possible remains quite problematical for the critical philosopher, since the inner determination of gravity is concealed in sensible experience itself. In some deep sense attraction is a fundamental force in that, if we follow the dynamical mode of explanation, we shall never really understand how it is possible in accordance with its own nature. This does not prevent the mechanical philosophy to still ask for a knowledge of its inner determinations, which would explain the mechanisms of gravity. Do the two modes of explanation, then, fall into some kind of antinomical reasoning?"
+      ],
+      "zh": [
+        "动力学的一个中心论点是：超距起作用的吸引比排斥更根本。甚至物体之间的接触作用也必须被设想为超距作用的一种方式，因为重力的内在规定隐藏在感性经验本身之中、而不是在其之外；接触的两个物体仍占据不同的空间。但对批判哲学家来说，表明超距作用如何可能仍相当成问题，因为重力的内在规定隐藏在感性经验本身之中。在某种深刻的意义上，吸引是一种基本力：如果我们遵循动力学解释方式，我们将永远不能真正理解它依照其自身本性如何可能。这并不妨碍机械论哲学仍然要求关于其内在规定、从而能解释重力机制的知识。那么，两种解释方式是否陷入某种二律背反式的推理？"
+      ],
+      "units": 157
+    },
+    {
+      "id": "ch02-u038",
+      "source_ids": [
+        "ch02-u038"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "There is yet another reason why the attractive force is even more fundamental than the repulsive. This has to do with the fact that it is not confined to intensive quality. Attraction, Kant says, rests on quantity, i.e., the quantity of matter contained in a given space, whereas the expansive force rests essentially on the intensity with which it fills the given space. Therefore attraction supports the possibility of a synthesis of quantity and quality. The successful schematization of negation is thus a bit tricky, because it borrows what it needs for its purposes from the categories of quantity. The implicit presence of quantity in the Dynamics draws attention to the significance of kinematics for Kant’s whole project. Indeed it is important to bear in mind that the Phoronomy contains the one single metaphysical principle of the whole of natural science: this principle is the Grundsatz according to which the motion of a body can always be interchanged with the motion of the corresponding material space (reference frame) in the opposite direction with equal velocity. All the other chapters of the Metaphysical Foundations consists in definitions, theorems, or laws."
+      ],
+      "zh": [
+        "吸引力比排斥力更根本还有另一个理由。这与它不限于强度性的质这一事实有关。康德说，吸引基于量，即给定空间中所包含的物质的量，而膨胀力本质上基于它填充给定空间的强度。因此吸引支持量与质之综合的可能性。于是，否定性的成功图型化有点棘手，因为它为自己的目的从量的范畴借来所需的东西。量在动力学中的隐含在场，使人注意运动学对康德整个方案的意义。的确，重要的是记住：运动学包含整个自然科学唯一的一条形而上学原理：这条原理就是那个根本命题（Grundsatz）——物体的运动总是可以与相应物质空间（参照系）沿相反方向、以相等速度的运动互换。《初始根据》的所有其他章节都由定义、定理或定律组成。"
+      ],
+      "units": 190
+    },
+    {
+      "id": "ch02-u039",
+      "source_ids": [
+        "ch02-u039"
+      ],
+      "page": "65",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Furthermore, quality in natural science cannot be conceived apart from the category of relation, since dynamically the body is characterized in terms of relations to its possible effects in other bodies, where these effects are described in terms of a rule that governs them. This is the distinctive character of the dynamical explanation, since mechanists conceive of space-filling (solidity) as a property a body has apart from its relations to others; absolute impenetrability is not ascribed by them to a thing on account of that thing’s possible causal relations."
+      ],
+      "zh": [
+        "此外，自然科学中的质不能离开关系范畴来设想，因为在动力学上，物体要由它同自己可能在其他物体上产生的效果之间的关系来刻画，而这些效果则由支配它们的规则来描述。这是动力学解释的独特之处，因为机械论者把空间填充（坚实性）设想为物体独立于它对他物的关系而具有的属性；他们并不是因一物可能的因果关系而把绝对不可入性归于该物。"
+      ],
+      "units": 89
+    },
+    {
+      "id": "ch02-u040",
+      "source_ids": [
+        "ch02-u040"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "7 Mechanics"
+      ],
+      "zh": [
+        "7 力学"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch02-u041",
+      "source_ids": [
+        "ch02-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant considers three laws of mechanics, none of them being identical to any of Newton’s three laws of motion. The first law states that the quantity of matter taken as a whole remains the same, and is neither increased nor diminished. This law refers to motion only secondarily, inasmuch as motion comes into play only as far as the measurement of the quantity of motion is concerned. The quantity of matter for a given body cannot be determined in isolation from the other bodies, for example by measuring its density and volume (Newton’s procedure). Outside measurement, this first law seems to embody in some way the ancient atomistic insight according to which nothing arises out of nothing. The second law is reminiscent of Newton’s law of inertia, except that it refers to change of matter, not change of motion: it states that every change of matter has an external cause. Most notable is the absence of any explicit reference to Newton’s own second law of motion, which is the pillar of Newtonian mechanics. Only Kant’s third law looks similar to Newton’s own third law: this is the law of action and reaction, according to which in all communication of motion action and reaction are always equal to one another. There is no clear indication that Kant thought that Newton’s second law can be derived from his own, though in fact he may have thought so. In any event it is still best to think of his relation to Newtonian mechanics in terms of the critical concern for setting limits to reason, assuming that reason in mathematical physics operates without making the experience of time explicitly intelligible. Time in physics is a purely operational tool that transcendental consciousness does not or cannot interrogate. From this viewpoint, since Newton’s second law makes use of the concept of acceleration and thus includes a reference to time, there is no way in which it can or should be made intelligible transcendentally."
+      ],
+      "zh": [
+        "康德考虑三条力学定律，其中没有一条与牛顿三条运动定律中的任何一条相同。第一定律陈述：作为整体看的物质的量保持不变，既不增加也不减少。这条定律只是次级地涉及运动，因为运动只在运动量的测量方面才登场。给定物体的物质的量不能与其他物体隔离开来确定，例如通过测量其密度和体积（牛顿的程序）。在测量之外，这第一定律似乎以某种方式体现了古代原子论的洞见：无中不能生有。第二定律令人想起牛顿的惯性定律，只是它涉及物质的变化而非运动的变化：它陈述物质的每一变化都有一个外部原因。最引人注目的是完全没有明确提到牛顿本人的第二运动定律——牛顿力学的支柱。只有康德的第三定律看上去与牛顿本人的第三定律相似：这是作用与反作用定律，按照它，在一切运动传递中作用与反作用总是彼此相等。没有清楚的迹象表明康德认为牛顿第二定律可以从他自己的定律导出，尽管事实上他可能这样认为。无论如何，最好仍从为理性设限这一批判关切来理解他与牛顿力学的关系，即假定数学物理学中的理性在运作时并未使时间经验明确地可理解。物理学中的时间是一种纯操作性工具，先验意识不追问、也不能追问它。从这个观点看，既然牛顿第二定律使用加速度概念、因而包含对时间的指涉，就既无法也无须从先验层面阐明这条定律。"
+      ],
+      "units": 327
+    },
+    {
+      "id": "ch02-u042",
+      "source_ids": [
+        "ch02-u042"
+      ],
+      "page": "66",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The experience of time is accessible within the realm of transcendental consciousness only. Each schema of imagination is a particular determination in time (Zeitbestimming). In the Second Analogy of Experience the law of causality is proved to be ground of all changes, so that “progression in time determines everything” (A210/B255). Now, Kant also argues in the Second Analogy that causality brings us back to substance, the permanence of which is stated as a principle in the First Analogy of Experience: the permanent in all appearances (as identical substratum) is nothing other than the object referred to in all possible experiences. This is achieved via a series of intermediary concepts: from causality down to action, from action down to force, from force down to substance. How do action and force secure the connection between causality and substance? In order to have objective cognition of a change, we need to know the real forces which make it possible, something which can only be given empirically. These real forces will be the moving forces in the metaphysics of nature, where Kant writes (Second Law of Mechanics in Metaphysical Foundations) that any change of matter has an external cause. Beginning with the conservation of substance (First Law of Mechanics), natural science goes on to deal with force, but since force is essentially external, it fails to provide us with the expected link between substance and action. Hence an important restriction to objective causality in the Second Analogy: it does not apply to those cases where causality does not lead to an action, for example the perception of a house, as opposed to the apprehension of a happening such as a ship moving downstream. The Third Analogy widens the scope of causal action, and so it provides the missing link. This principle states the simultaneity of substances in the following manner. Two objects exist simultaneously if the perception of A followed by B is equivalent to the perception of B followed by A. In the latter half of this proposition the analogy of succession is taken backwards, implying what was forbidden by the Second Analogy, namely, that progression in time does not determine everything. For example the static perception of the parts of a house is now sufficient to determine an action: as soon as floors have been added to a basement, this basement is not quite what it was before, when it was perceived in isolation as a mere moment in succession. Why does this twist imposed on causality lead to action? Because the one substance from which we began as ultimate identical substratum can now be fragmented into many substances without losing its identity, provided that a physical influence travels from one fragmented substance to the other. In this way, the dynamical relation in the universal reciprocal action allows us to conceive phenomena external to one another as forming a compound. But physical influence cannot occur in the void. The condition of possibility for the simultaneity of substances is that space be necessary full, by contrast with the empty form of sensibility which space was as a purely formal condition of intuition. This full space is needed as a character of transcendental experience, if the latter is still to belong to a coherent world. How does it relate to the empirical space of physical science?"
+      ],
+      "zh": [
+        "时间经验只在先验意识的领域内可通达。想象力的每个图型都是时间中的一个特殊规定（Zeitbestimmung）。在第二经验类比中，因果律被证明是一切变化的根据，以致“时间中的前进规定一切”（A210/B255）。而康德在第二类比中还论证：因果性把我们带回实体，实体的持存性在第一经验类比中被陈述为一条原理：一切显象中的持存者（作为同一的基底）不是别的，正是一切可能经验所指涉的对象。这经由一系列中介概念达成：从因果性下行到作用，从作用下行到力，从力下行到实体。作用与力如何确保因果性与实体之间的联系？为了对一个变化有客观认识，我们需要知道使之可能的实在的力，而这只能经验地被给予。这些实在的力将是自然形而上学中的动力，康德在那里写道（《初始根据》力学第二定律）：物质的任何变化都有外部原因。从实体守恒（力学第一定律）出发，自然科学进而处理力；但既然力本质上是外在的，它未能给我们提供实体与作用之间预期的联系。于是第二类比中的客观因果性有一个重要限制：它不适用于因果性不导向作用的情形，例如对一座房子的知觉，与对一个事件（如船顺流而下）的领会相对。第三类比拓宽了因果作用的范围，从而提供了缺失的环节。这条原理按如下方式陈述实体的同时性：如果先知觉A再知觉B与先知觉B再知觉A等价，那么这两个对象就同时存在。在这个命题的后半部分，相继类比被倒过来用，蕴含了第二类比所禁止的东西，即时间中的前进并不规定一切。例如，对房子各部分的静态知觉现在足以规定一个作用：一旦在地下室之上加盖了楼层，这个地下室就不再完全是它以前的样子——那时它被孤立地知觉为相继中的一个单纯环节。为什么这种对因果性的扭转导向作用？因为我们由之出发、作为终极同一基底的那一个实体，现在可以分成许多实体而不丧失其同一性，只要有一种物理影响从其中一个实体传到另一个。这样，普遍交互作用中的动力学关系使我们能够把彼此外在的现象设想为构成一个复合体。但物理影响不能在虚空中发生。实体同时性的可能性条件是空间必然充实，与空间作为纯形式直观条件时曾是感性的空洞形式相对。如果先验经验仍要属于一个连贯的世界，就需要这个充实的空间作为先验经验的一个特征。它与物理科学的经验空间是什么关系？"
+      ],
+      "units": 553
+    },
+    {
+      "id": "ch02-u043",
+      "source_ids": [
+        "ch02-u043"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If Kant’s third law of Mechanics in Metaphysical Foundations looks identical to Newton’s own third law, its proof is not. Kant proves the law of action and reaction by asserting that action and reaction are equal in the communication of motion. Something rather weird occurs here, because the proof is based on impact, which makes it difficult to extend it to action at a distance. Kant argues that the communication of motion cannot be understood in such a way that one body is in motion and a second body is completely at rest until the moment of impact, after which the situation is reversed. If both bodies are in motion, then each one must be the cause of the other’s motion, that is, action and reaction are required in the communication of motion. The Third Law of Mechanics thus provides a rule for constructing in intuition the communication of motion. Kant is attempting to show how the fullness of space (Third Analogy) is used in physics as a condition of possibility for the intelligibility of the laws of motion, which is why communication of motion is understood in terms of impact, and also why Kant adds that the proof could be extended to action at a distance – if only the fullness of space could be made intuitable at all degrees of perception."
+      ],
+      "zh": [
+        "如果说康德《初始根据》中的力学第三定律看上去与牛顿本人的第三定律相同，其证明却不同。康德通过断言作用与反作用在运动传递中相等来证明作用与反作用定律。这里发生了相当奇怪的事情，因为证明基于碰撞，这使它难以扩展到超距作用。康德论证说，运动传递不能被理解为：一个物体在运动而第二个物体完全静止，直到碰撞那一刻，此后情况颠倒。如果两个物体都在运动，那么每一个都必须是另一个运动的原因，也就是说，运动传递中要求作用与反作用。于是力学第三定律提供了一条在直观中构造运动传递的规则。康德试图表明空间的充实（第三类比）如何在物理学中被用作运动定律可理解性的可能性条件——这就是为什么运动传递按碰撞来理解，也是为什么康德补充说证明可以扩展到超距作用——前提是，在知觉的所有程度上，空间的充实都能以直观把握。"
+      ],
+      "units": 222
+    },
+    {
+      "id": "ch02-u044",
+      "source_ids": [
+        "ch02-u044"
+      ],
+      "page": "67",
+      "canonical_kind": "heading",
+      "en": [
+        "8 Phenomenology"
+      ],
+      "zh": [
+        "8 现象学"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch02-u045",
+      "source_ids": [
+        "ch02-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the Phoronomy, absolute space was an idea of reason, not a physical reality. Always the final leap to the largest possible space is an act of pure thought, not a mathematical construction. In the last chapter of Metaphysical Foundations, matter is now defined as the movable inasmuch as it is an object of possible experience."
+      ],
+      "zh": [
+        "在运动学中，绝对空间是理性的一个理念，不是物理实在。向最大可能空间的最后一跃永远是纯粹思想的行动，不是数学构造。在《初始根据》的最后一章，物质现在被定义为就其是可能经验的对象而言的可动者。"
+      ],
+      "units": 56
+    },
+    {
+      "id": "ch02-u046",
+      "source_ids": [
+        "ch02-u046"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The connection between motion of a body and the space in which it takes place has now to be understood in terms of possible experience. Experience itself is the connection between appearances. Kant begins by saying that the principle of relativity in the Phoronomy does not raise above appearances, since the free choice between motion of the body in absolute space or the opposite motion of the relative space excludes their connection."
+      ],
+      "zh": [
+        "物体的运动与运动发生于其中的空间之间的联系，现在必须按可能经验来理解。经验本身就是显象之间的联系。康德首先说，运动学中的相对性原理并不超出显象之上，因为在物体于绝对空间中的运动与相对空间的相反运动之间的自由选择排除了它们的联系。"
+      ],
+      "units": 72
+    },
+    {
+      "id": "ch02-u047",
+      "source_ids": [
+        "ch02-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "He goes on to explain what it means to view absolute space as an operational rule for the determination of true magnitudes, or as a cause of the acceleration of moving bodies in the context of dynamics. Absolute space, as he puts it, is a “strange concept,” and we must understand the reason why it is nevertheless the foundation of all possible motion. As an idea, it can be used as a rule thanks to which all motion can be regarded as relative. This can be seen in circular motion, in which the connection between appearances is now fixed: since the effects of motion with respect to space become significant in dynamics, the opposite motion of a relative space cannot be freely exchanged with the motion of the body. The continuous change of rectilinear motion (circular motion) is thus a connection between appearances inasmuch as it contradicts the mere appearance of rectilinear motion."
+      ],
+      "zh": [
+        "他接着解释：把绝对空间看作确定真实量的操作规则、或在动力学语境中看作运动物体加速度的原因，意味着什么。如他所说，绝对空间是一个“奇怪的概念”，我们必须理解它为什么仍然是一切可能运动的基础。作为一个理念，它可以用作一条规则，凭借它一切运动都可以被视为相对的。这在圆周运动中可以看出：在那里，显象之间的联系现在被固定了——既然运动相对于空间的效应在动力学中变得重要，相对空间的相反运动就不能与物体的运动自由互换。直线运动的连续变化（圆周运动）因此是显象之间的一种联系，因为它与直线运动的单纯显象相矛盾。"
+      ],
+      "units": 153
+    },
+    {
+      "id": "ch02-u048",
+      "source_ids": [
+        "ch02-u048"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Consider the two hypotheses: the earth at rest and the stars in motion (Ptolemy) versus the rotating earth and the stars at rest (Copernicus). Again from the phoronomic standpoint the two hypotheses are equivalent, because the two appearances contradict each other, and they cannot be interpreted in terms of some connection between them. The absence of connection is a consequence of the fact that appearances are given passively: the parts of the earth remain attached, things do not spontaneously fly off in outer space. But we can also relate actively to our environment; experimentation on or near the surface of the earth allows us to establish the rotating motion of the earth about its own axis. Since all that can be established is a continuous change in the relation between matters, this motion is true motion, i.e., motion that is not contradictory of another motion; this is still different from absolute motion. Now, Kant says, true motion could still be represented in absolute space – something we can do, for example, by using Newton’s two globe experiment, or any experiment in which centrifugal effects clearly compensate for the effect of gravitation. True motion in the dynamic sense is relative, that is, it is the relation to one another of the parts of the movable body. The only thinkable absolute motion in a consistent Newtonian theory would be the motion of the whole universe in empty space (which can never become an object of experience), because then true motion would seem to be irrespective of other matter (4:562–3)."
+      ],
+      "zh": [
+        "考虑两个假说：地球静止而群星运动（托勒密），以及地球自转而群星静止（哥白尼）。同样从运动学立场看，两个假说等价，因为两个显象彼此矛盾，不能按它们之间的某种联系来解释。联系的缺席是显象被被动给予这一事实的后果：地球的各部分保持连接，东西不会自发飞到外层空间去。但我们也能主动地关联于我们的环境；在地球表面或近旁的实验使我们能够确立地球绕自身轴的旋转运动。既然所能确立的只是物质之间关系的连续变化，这种运动就是真运动，即不与另一运动相矛盾的运动；这仍然不同于绝对运动。而康德说，真运动仍可以在绝对空间中被表象——我们可以这样做，例如利用牛顿的双球实验，或任何离心效应明显补偿引力效应的实验。动力学意义上的真运动是相对的，即它是可动物体各部分之间的相互关系。在一个连贯的牛顿理论中唯一可设想的绝对运动，将是整个宇宙在虚空空间中的运动（它永远不能成为经验的对象），因为那时真运动似乎就与其他物质无关了（4:562–3）。"
+      ],
+      "units": 259
+    },
+    {
+      "id": "ch02-u049",
+      "source_ids": [
+        "ch02-u049"
+      ],
+      "page": "68",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Though not meaningful by itself, absolute space is meaningful when it is used as rule for the connection between appearances. Indeed, between the appearances and their connection in terms of experience, there is no continuity but contradiction. In this way, Kant expresses his opinion that in natural science an unbridgeable gap exists between the passive accumulation of sensory data and their rational organization in a coherent system of nature. In the final analysis, contradiction awaits Kant’s own metaphysics of nature, since Metaphysical Foundations concludes with the observation that the metaphysical theory of natural bodies is unable to decide between the possibility or the impossibility of empty space. The ultimate mystery of nature is how matter itself sets limits to its own extension; this ultimate mystery is no longer in the hands of reason and its self-imposed limits. The metaphysics of nature cannot probe into this question. This is the point at which physics begins."
+      ],
+      "zh": [
+        "绝对空间虽然就其自身没有意义，但当它被用作显象之间联系的规则时就有意义。的确，在显象与它们按经验的联系之间，没有连续性，只有矛盾。康德以此表达他的意见：在自然科学中，感官数据的被动积累与它们在连贯自然系统中的理性组织之间，存在不可逾越的鸿沟。归根结底，矛盾也在等待康德本人的自然形而上学，因为《初始根据》以如下观察收尾：自然物体的形而上学理论无法裁决虚空空间的可能或不可能。自然的终极奥秘是物质本身如何给自己的广延设限；这个终极奥秘不再掌握在理性及其自我设限的手中。自然形而上学无法探查这个问题。这正是物理学开始之处。"
+      ],
+      "units": 154
+    },
+    {
+      "id": "ch02-u050",
+      "source_ids": [
+        "ch02-u050"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "9 Opus Postumum"
+      ],
+      "zh": [
+        "9 《遗著》"
+      ],
+      "type": "subheading",
+      "units": 3
+    },
+    {
+      "id": "ch02-u051",
+      "source_ids": [
+        "ch02-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If Newton was found to be at variance with himself as regards the interpretation of absolute space and the status of universal gravity, in his last, postcritical and unfinished work Kant objected to him in an even more radical way. Here Newton’s work is presented as a rival to Kant’s own Metaphysical Foundations. The very title of Newton’s book is declared to be contradictory, since there can be no philosophical principles of mathematics any more than there can be mathematical principles of philosophy (21:208 and 22:512). There could be no hybrid science of both, yet Kant points out that they can still be associated to one another in some way, which is what happens when knowledge is scientific knowledge. In short, in the Opus Postumum Kant says that Newton’s achievement consisted in realizing something impossible by means of a bold stroke, namely, a philosophical use of mathematics (22:522)."
+      ],
+      "zh": [
+        "如果说牛顿在绝对空间的解释和万有引力的地位问题上被发现与自身相抵牾，那么康德在其最后的、后批判的、未完成的著作中，以甚至更激进的方式反对他。在这里，牛顿的著作被呈现为康德本人《初始根据》的对手。牛顿那本书的书名本身被宣布为自相矛盾，因为不可能有数学的哲学原理，正如不可能有哲学的数学原理（21:208与22:512）。不可能有二者混合的科学；然而康德指出，它们仍能以某种方式彼此关联，而当知识是科学知识时发生的正是这种关联。简言之，康德在《遗著》中说，牛顿的成就在于凭大胆的一击实现了某种不可能之事，即对数学的哲学运用（22:522）。"
+      ],
+      "units": 151
+    },
+    {
+      "id": "ch02-u052",
+      "source_ids": [
+        "ch02-u052"
+      ],
+      "page": "69",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If the Metaphysical Foundations were to be regarded as a specification of nature in general in terms of the empirical properties of matter, then it would of course be tempting to interpret Kant’s post-critical investigations of empirical aspects of nature other than gravitation (such as heat and electricity) as further specifications of the same kind. On this assumption Kant would be exposed to the objection that Hegel levelled against all idealistic philosophies of nature, namely, that the application of the same mould or formula (categorial structure of the understanding/reason) to the most diverse materials would condemn the original idea from which we started to remain always in its primitive condition.",
+        {
+          "type": "note",
+          "id": "ch02-n11",
+          "label": "11"
+        },
+        " Even more dramatically, if Kant’s view was indeed that natural phenomena can only be subsumed through the ever more specific descriptions supplied by the never ending progress of scientific knowledge, then the whole project could certainly not succeed, since through this further development of the exact sciences themselves, a point is finally reached where the basic principles of Newtonian physics can no longer be consistently maintained. Assuming that the transcendental principles of pure understanding include a strict conservation principle for the total quantity of substance and an equally strict determinism, assuming also that the a priori geometry of outer intuition is necessarily Euclidean, then the failure of Kant’s system is obvious. In fact, turning an apparent drawback to his own advantage, Kant is precisely eager to show that the transcendental account of the scientific investigation of nature cannot but remain in its primitive condition. This primitive condition is its true state. The fertility of the original idea is then all the more visible and effective when it is confined to its primitiveness."
+      ],
+      "zh": [
+        "如果《初始根据》被视为按物质的经验属性对一般自然的特殊化，那么当然很容易把康德后批判时期对引力之外的自然经验方面（如热和电）的研究解释为同类的进一步特殊化。按照这一假定，康德就会暴露于黑格尔对一切观念论自然哲学提出的反对之下：把同一个模子或公式（知性/理性的范畴结构）应用于最多样的材料，将注定我们由之出发的那个原初观念永远停留在其原始状态。",
+        {
+          "type": "note",
+          "id": "ch02-n11",
+          "label": "11"
+        },
+        "更具戏剧性的是，如果康德的观点确实是自然现象只能通过科学知识永无止境的进步所提供的越来越特殊的描述来归摄，那么整个方案肯定无法成功，因为通过精确科学自身的这种进一步发展，最终会达到一个点，在那里牛顿物理学的基本原理再也无法连贯地维持。假定纯粹知性的先验原理包含实体总量的严格守恒原理和同样严格的决定论，再假定外直观的先天几何必然是欧几里得的，那么康德体系的失败就是显而易见的。事实上，康德把一个表面的不利转化为自己的优势：他恰恰急于表明，对自然的科学研究的先验说明不能不停留在其原始状态。这个原始状态就是它的真实状态。原初观念的丰产性，恰恰在它被限于其原始性时，才更加可见、更加有效。"
+      ],
+      "units": 283
+    },
+    {
+      "id": "ch02-u053",
+      "source_ids": [
+        "ch02-u053"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The original idea is the metaphysical principle of the Phoronomy, the only Grundsatz of the entire Metaphysical Foundations according to which the motion of a body can always be interchanged with the motion of the corresponding space. Interchangeability ensures mathematical construction. In Newton’s system all motions precede the moving forces, so that the latter are effects of the former. The moving forces are thus entirely subdued to mathematics and the formal conditions of appearances (XXII:513). Now, if the whole of natural science could be reduced to Phoronomy, then, Kant points out, Newton’s mathematical principles of natural science would be possible despite being self-contradictory, that is, they would be possible as philosophy (XXII:523). On Kant’s interpretation, Newton acted as a philosopher precisely in that the mathematical principles at work in the case of such forces as the centripetal or the centrifugal force compelled him to deal with an original force such as universal gravitation; thereby mathematics became the proper instrument of the moving forces. In so doing Newton turned the whole of his own mechanics into a phoronomy; here it should be recalled that Newton thought of the force of gravitation he had discovered as “mathematical” in essence. Newton thus accomplished a crucial step when, from apparent motion, he deduced force as the cause of motion. But the step involves more than whatever the mathematical tool is able to reveal about it. Moving forces are also discovered empirically in experience. Kant thinks about the whole body of knowledge referred to as the experimental physics of the eighteenth century: forces involved in chemical phenomena, the cohesion of fluids and solids, magnetism, etc. In the case of the metaphysics of nature, mathematics combined with the categories of understanding provided the fundamental criterion of scientificity, namely, systematic knowledge. But if the other moving forces are given in experience, they cannot lend themselves to a systematic plan. Kant’s project in the Opus Postumum is referred to as “transition” or Übergang: that is, there exists a smooth transition from mathematics and metaphysics to empirical physics, despite the fact that the latter looks unsystematic because of the astonishing diversity of physical and chemical phenomena."
+      ],
+      "zh": [
+        "原初观念就是运动学的形而上学原理——整个《初始根据》唯一的根本命题（Grundsatz）：物体的运动总是可以与相应空间的运动互换。可互换性确保数学构造。在牛顿体系中，一切运动先于动力，因此后者是前者的结果。动力于是完全臣服于数学和显象的形式条件（XXII:513）。而康德指出，如果整个自然科学都能还原为运动学，那么牛顿的自然科学的数学原理尽管自相矛盾却仍是可能的，也就是说，它们作为哲学是可能的（XXII:523）。按照康德的解释，牛顿恰恰是作为哲学家行事的：在向心力或离心力这类力的情形中起作用的数学原理，迫使他处理像万有引力这样的源始的力；数学由此成为动力的恰当工具。这样做时，牛顿把他自己的整个力学变成了一门运动学；这里应当回想，牛顿把他所发现的重力设想为本质上是“数学的”。于是，当牛顿从视运动演绎出作为运动原因的力时，他完成了关键的一步。但这一步所包含的，超出数学工具所能揭示的任何东西。动力也在经验中被经验地发现。康德想到的是被称为18世纪实验物理学的那整个知识体：化学现象中涉及的力、流体和固体的内聚、磁等等。在自然形而上学的情形中，数学与知性范畴的结合提供了科学性的根本判据，即系统性知识。但如果其他动力是在经验中被给予的，它们就无法服从一个系统计划。康德在《遗著》中的方案被称为“过渡”（Übergang）：也就是说，尽管经验物理学由于物理和化学现象惊人的多样性而显得不系统，从数学和形而上学到经验物理学仍存在一个平滑的过渡。"
+      ],
+      "units": 359
+    },
+    {
+      "id": "ch02-u054",
+      "source_ids": [
+        "ch02-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Physics is now defined as “the system of the moving forces of matter inasmuch as it can be exhibited in experience” (XXII:511). That is, in apparent opposition to Metaphysical Foundations, moving force is taken as the basis of motion so that motion is derived from it. Opposition does not mean rejection, however, nor does it mean that Kant would at last do full justice to the Newtonian conception of force as the cause of motion. Kant’s purpose is to reveal the philosophical part in Newton’s thought that Newton could not recognize, or that he identified mistakenly as metaphysics of nature."
+      ],
+      "zh": [
+        "物理学现在被定义为“物质的动力的系统，就它能在经验中被展示而言”（XXII:511）。也就是说，与《初始根据》表面相反，动力被取为运动的基础，运动由它导出。然而对立并不意味着拒斥，也不意味着康德终于要完全公正地对待牛顿把力视为运动原因的构想。康德的目的是揭示牛顿思想中牛顿自己未能辨认、或被他错误地等同于自然形而上学的那个哲学部分。"
+      ],
+      "units": 101
+    },
+    {
+      "id": "ch02-u055",
+      "source_ids": [
+        "ch02-u055"
+      ],
+      "page": "70",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the final page of Metaphysical Foundations, which announces the Opus Postumum, Kant had already returned to the possibility that attraction might be merely apparent (cohesion). In line with the previous demonstration according to which space cannot be empty, he calls aether any matter below the threshold of perception. It would be scattered continuously over all cosmic spaces, exerting a compression such that matter is always full by virtue of its sole expansive force."
+      ],
+      "zh": [
+        "在预告《遗著》的《初始根据》最后一页，康德已经回到吸引可能只是表面现象（内聚）的可能性。依照先前关于空间不可能空虚的演证，他把处于知觉阈限之下的任何物质都称为以太。它将连续地散布于一切宇宙空间，施加一种压缩，使物质仅凭自身的膨胀力便能始终充实。"
+      ],
+      "units": 74
+    },
+    {
+      "id": "ch02-u056",
+      "source_ids": [
+        "ch02-u056"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant now proposes to add physical principles to the metaphysical/mathematical principles of natural science. The principles are no longer the moving forces, because they remain dependent on the existence of a given motion. Rather, they are “forces which would never be present in matter without an external moving cause” (XXI:356). This external cause is the aether, which as matter is compressed so as to generate the phenomenon of attraction. On this basis, an attempt to deduce the two moving forces from one fundamental force (the aether) is now permitted."
+      ],
+      "zh": [
+        "康德现在提议给自然科学的形而上学/数学原理添加物理原理。这些原理不再是动力，因为动力仍依赖于给定运动的存在。毋宁说，它们是“没有外部运动原因就绝不会存在于物质中的力”（XXI:356）。这个外部原因就是以太，它作为物质被压缩，以致产生吸引的现象。在此基础上，现在允许尝试从一种基本力（以太）演绎出两种动力。"
+      ],
+      "units": 91
+    },
+    {
+      "id": "ch02-u057",
+      "source_ids": [
+        "ch02-u057"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is not the association of space with moving objects in it, but the deduction itself which has the effect of making space a sensible object. The concepts of physics so understood can no longer be simply given by reason or experience (given in the sense of conceptus dati). Rather, they are fabricated (conceptus factitii) (21:358) quite on purpose, as it were, in order to make possible the search for the physical principles of nature. Fabricated concepts are, Kant says, “regulative principles which are at the same time constitutive” (22:241). As a result of the fabrication, any partitioning of the appearances of the world in terms of specific categories is to be dropped; Kant speaks of a filling of space which can be either extensive or intensive. A new concept, or “third thing,” emerges from their conflation: this is the aether, which is a “continual … agitation, by attraction and repulsion” (22:211–213). As a third term, the aether as a putatively real object in the world corresponds to the transcendental schematism in the cognitive faculties. The transition (or Übergang) from mathematics and metaphysics to physics is thus something like the working out of the schematism of nature itself, disclosing what Kant called the possibility of the possibility of experience. The Critique had merely demonstrated that schematizable categories are needed to account for the possibility of experience. The question as to how they actually do that was left outside of it. By probing deeply into empirical nature, the mind probes in turn into its most original powers, and reaches a point where it has nothing to learn about new developments in science. Let us see how Kant reaches the puzzling conclusion that the aether is an object produced by the mind, which affects the mind while bypassing the mediation of empirical experience."
+      ],
+      "zh": [
+        "使空间成为感性对象的，不是空间与其中运动对象的关联，而是演绎本身。如此理解的物理学概念不能再简单地由理性或经验给予（在 conceptus dati〔所予概念〕的意义上给予）。毋宁说，它们仿佛完全是有意地被制造出来（conceptus factitii〔制成概念〕）（21:358），为的是使对自然的物理原理的探求成为可能。康德说，制成的概念是“同时是构成性的调节性原理”（22:241）。作为制造的结果，按特殊范畴对世界显象的任何划分都要放弃；康德谈到一种可以是外延的或强度的空间填充。从二者的合流中产生一个新概念或“第三者”：这就是以太，它是“凭借吸引与排斥的……持续搅动”（22:211–213）。作为第三项，作为世界中假定实在对象的以太，对应于认识能力中的先验图型法。于是从数学和形而上学到物理学的过渡（Übergang），就像是自然本身的图型法的实施，揭示出康德所谓经验之可能性的可能性。《批判》只是演证了需要可图型化的范畴来说明经验的可能性。它们实际如何做到这一点的问题被留在它之外。通过深入探查经验自然，心灵反过来探查它最源始的能力，并达到这样一个地步，于是无须再从科学的新发展中学到什么。让我们看看康德如何得出那个令人困惑的结论：以太是心灵产生的对象，它作用于心灵而无须经由经验中介。"
+      ],
+      "units": 304
+    },
+    {
+      "id": "ch02-u058",
+      "source_ids": [
+        "ch02-u058"
+      ],
+      "page": "71",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Despite their non-systematic character, the moving forces given in experience can be known systematically as a whole. The concepts appropriate for this kind of knowledge will not be a part of physical science itself, since they will merely provide the formal framework for this science to be a true science. What is it that can be said about this form which is not included in Kant’s previous works? The metaphysics of nature is an intermediary step between the Critique and the Opus Postumum in the following precise sense. While in the former work Kant addressed the question of how to follow Copernicus’s “first idea” (Bxvi) in order to bring out the conditions whereby the mind has access to the outer natural world, Metaphysical Foundations presented systematically the “first principles” of the metaphysics of nature without which natural science could not be regarded as a science. Hence the various formal modes of access to the natural world are complemented with all that is real in the objects of our external senses, namely, all that is determinable in space plus the moving forces (4:523). Now, the need to give a coherent description of the moving forces which are discovered empirically captures what is at least a pretention (Tendenz at 22:166, Aufforderung at 21:635) constitutive of physical science. This pretention is even more fundamental that the principle with which science begins, since it sends us back to a form which is more primitive than any other form: by means of new a priori principles, physics is given “the sketch (Umris) of the form” (21:360) whereby the manifold of physical perceptions is organized in accordance with their predefined place in the architectonic of reason. The task of the Transition project is to provide such a formal sketch. Kant argues that this task can be accomplished if a material principle of the origin of motion can now be found within possible experience itself. This principle is the aether, which is “primary matter” (erste Materie) or “elementary matter” (Elementarstoff), or again “an element which refers to the mere existence of matter without its particular forces” (21:312, 217; 22:610). This matter is cause of its own motion, so that one must assume “uniform and constant persistence of this motion” (21:217). On account of the rational need for systematicity in the whole of experience, Kant thus ends up by postulating something like a generalized principle of inertia at the basis of the mind’s most intimate relation to the natural world. In this way a quasi-organic connection is finally brought out between the outer and the inner dimension of nature, a connection which appears as a duality in natural science via the principle of relativity and the principle of inertia."
+      ],
+      "zh": [
+        "尽管经验中给予的动力具有非系统品格，它们作为整体仍可以被系统地认识。适合于这种知识的概念将不是物理科学本身的一部分，因为它们只为这门科学成为真正的科学提供形式框架。关于这个形式，有什么是康德先前著作中没有包含而可以说的？自然形而上学是《批判》与《遗著》之间的一个中间步骤，其精确意义如下。在前一部著作中，康德处理如何遵循哥白尼的“第一观念”（Bxvi）以揭示心灵通达外部自然世界的条件的问题；《初始根据》则系统地呈现自然形而上学的“第一原理”，没有它们自然科学就不能被视为科学。于是，通达自然世界的各种形式方式，被补以我们外感官对象中一切实在的东西，即空间中一切可规定的东西加上动力（4:523）。而对经验发现的动力作出连贯描述的需要，至少体现了物理科学的一项构成性诉求（22:166 处的 Tendenz，21:635 处的 Aufforderung）。这一诉求甚至比科学由之开始的原理更根本，因为它把我们送回一个比任何其他形式都更原始的形式：借助新的先天原理，物理学被给予“形式的轮廓（Umriß）”（21:360），物理知觉的杂多借此按照它们在理性建筑术中预先确定的位置被组织起来。过渡方案的任务就是提供这样一个形式轮廓。康德论证说，如果现在能在可能经验本身之内找到一个运动起源的质料性原理，这个任务就能完成。这个原理就是以太，它是“原初物质”（erste Materie）或“基本物质”（Elementarstoff），或者又是“一个指涉物质的单纯存在而不带其特殊力的要素”（21:312, 217; 22:610）。这种物质是其自身运动的原因，因此必须假定“这种运动的匀一而恒常的持存”（21:217）。出于对全部经验之系统性的理性需要，康德最终在心灵与自然世界最内在关系的基础处设定了某种类似广义惯性原理的东西。这样，自然的外在维度与内在维度之间终于呈现出一种准有机的联系，这种联系在自然科学中经由相对性原理和惯性原理显现为一种二元性。"
+      ],
+      "units": 458
+    },
+    {
+      "id": "ch02-u059",
+      "source_ids": [
+        "ch02-u059"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The problem with this final step is that Kant thought that the same formal structure of the mind in the Critique operates at the level of the more primitive state of the form as well. Indeed Kant goes on to argue that what makes possible the systematic unity of the moving forces is also what makes possible the material unity of experience. The aether is supposed to do this because the totality of matter is unified by means of constant activity into a whole which is both spatial and dynamic."
+      ],
+      "zh": [
+        "这最后一步的问题在于，康德认为《批判》中同一个心灵形式结构也在形式的更原始状态的层面上运作。的确，康德接着论证说：使动力的系统统一成为可能的东西，也是使经验的质料统一成为可能的东西。以太被指望做到这一点，因为物质的总体凭借恒常的活动被统一为一个既是空间性的又是动力学性的整体。"
+      ],
+      "units": 90
+    },
+    {
+      "id": "ch02-u060",
+      "source_ids": [
+        "ch02-u060"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "10 Conclusion"
+      ],
+      "zh": [
+        "10 结论"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch02-u061",
+      "source_ids": [
+        "ch02-u061"
+      ],
+      "page": "72",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant’s merit is to be gauged against the fact that the “first idea” (Copernicus) leading to science, the “first principle” of natural science, and the “primary matter” of the mind-dependent world are all constrained by the same set of categories and ideas. Whether or not this merit is still great enough, it should be borne in mind that Kant’s interest in mathematics and physics is motivated by his concern for metaphysics, not primarily by these sciences as such. Thus in Prolegomena §40 he states that, as far as their own safety and certainty are concerned, both pure mathematics and pure natural science stood in need of transcendental investigation, “not for themselves, but for the sake of another science, namely, metaphysics.” The Metaphysical Foundations describe the lesson that transcendental philosophy is to retain from their unique combination successfully achieved by Newton in mathematical physics: i.e., an access to the a priori conditions of possibility of natural knowledge via their outer representation. Hence the principles of pure understanding are not to be seen as specialized in accordance with intuition and empirical experience. Rather, through contact with the propositions of natural science, they open themselves up to an outer representation of what they are as pure ideas."
+      ],
+      "zh": [
+        "康德的功绩应当对照如下事实来衡量：导向科学的“第一观念”（哥白尼）、自然科学的“第一原理”、以及依赖心灵的世界的“原初物质”，全都受同一组范畴和理念约束。无论这一功绩是否仍然足够伟大，都应记住：康德对数学和物理学的兴趣是由他对形而上学的关切激发的，而不是首先由这些科学本身激发的。于是他在《导论》第40节中陈述：就其自身的安全与确定性而言，纯粹数学和纯粹自然科学都需要先验研究，“不是为了它们自己，而是为了另一门科学，即形而上学”。《初始根据》描述了先验哲学应当从牛顿在数学物理学中成功实现的二者的独特结合中吸取的教训：即通过自然知识的先天可能性条件的外在表象来认识这些条件。因此，纯粹知性原理不应被看作依照直观和经验而被特殊化的。毋宁说，通过与自然科学命题的接触，它们向自身作为纯粹理念之所是的一种外部表象敞开自己。"
+      ],
+      "units": 205
+    },
+    {
+      "id": "ch02-u062",
+      "source_ids": [
+        "ch02-u062"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "Bibliography"
+      ],
+      "zh": [
+        "书目"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch02-bibliography-001",
+      "source_ids": [
+        "ch02-ref002"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Brittan, G. Kant’s Theory of Science. Princeton, NJ: Princeton University Press, 1978."
+      ],
+      "zh": [
+        "Brittan, G. Kant’s Theory of Science. Princeton, NJ: Princeton University Press, 1978."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch02-bibliography-002",
+      "source_ids": [
+        "ch02-ref002"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Butts, R., ed. Kant’s Philosophy of Physical Science. Dordrecht, The Netherlands: Reidel, 1986."
+      ],
+      "zh": [
+        "Butts, R., ed. Kant’s Philosophy of Physical Science. Dordrecht, The Netherlands: Reidel, 1986."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch02-bibliography-003",
+      "source_ids": [
+        "ch02-ref002",
+        "ch02-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Edwards, J. Substance, Force, and the Possibility of Knowledge: On Kant’s Philosophy of Material Nature. Berkeley, CA: University of California Press, 2000."
+      ],
+      "zh": [
+        "Edwards, J. Substance, Force, and the Possibility of Knowledge: On Kant’s Philosophy of Material Nature. Berkeley, CA: University of California Press, 2000."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch02-bibliography-004",
+      "source_ids": [
+        "ch02-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M. Kant and the Exact Sciences. Cambridge, MA: Harvard University Press, 1992."
+      ],
+      "zh": [
+        "Friedman, M. Kant and the Exact Sciences. Cambridge, MA: Harvard University Press, 1992."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch02-bibliography-005",
+      "source_ids": [
+        "ch02-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Gloy, K. Die Kantische Theorie der Naturwissenschaft. Berlin: de Gruyter, 1976."
+      ],
+      "zh": [
+        "Gloy, K. Die Kantische Theorie der Naturwissenschaft. Berlin: de Gruyter, 1976."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch02-bibliography-006",
+      "source_ids": [
+        "ch02-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hoppe, H. Kants Theorie der Physik. Frankfurt a.M.: Klostermann, 1969."
+      ],
+      "zh": [
+        "Hoppe, H. Kants Theorie der Physik. Frankfurt a.M.: Klostermann, 1969."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch02-bibliography-007",
+      "source_ids": [
+        "ch02-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kerszberg, P. Kant et la Nature. Paris: Belles-Lettres, 1999."
+      ],
+      "zh": [
+        "Kerszberg, P. Kant et la Nature. Paris: Belles-Lettres, 1999."
+      ],
+      "shared": true,
+      "units": 9
+    },
+    {
+      "id": "ch02-bibliography-008",
+      "source_ids": [
+        "ch02-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Mudroch, V. Kants Theorie der physikalischen Gesetze. Berlin: de Gruyter, 1987."
+      ],
+      "zh": [
+        "Mudroch, V. Kants Theorie der physikalischen Gesetze. Berlin: de Gruyter, 1987."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch02-bibliography-009",
+      "source_ids": [
+        "ch02-ref003",
+        "ch02-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Plaass, P. Kant’s Theory of Natural Science. Trans. A.E. Miller and M.G. Miller. Dordrecht, The Netherlands: Reidel, 1994."
+      ],
+      "zh": [
+        "Plaass, P. Kant’s Theory of Natural Science. Trans. A.E. Miller and M.G. Miller. Dordrecht, The Netherlands: Reidel, 1994."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch02-bibliography-010",
+      "source_ids": [
+        "ch02-ref004",
+        "ch02-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Pollok, K. Kants Metaphysische Anfangsgründe der Naturwissenschaft: Ein kritischer Kommentar. Hamburg, Germany: F.Meiner, 2001."
+      ],
+      "zh": [
+        "Pollok, K. Kants Metaphysische Anfangsgründe der Naturwissenschaft: Ein kritischer Kommentar. Hamburg, Germany: F.Meiner, 2001."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch02-bibliography-011",
+      "source_ids": [
+        "ch02-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schäfer, L. Kants Metaphysik der Natur. Berlin: de Gruyter, 1966."
+      ],
+      "zh": [
+        "Schäfer, L. Kants Metaphysik der Natur. Berlin: de Gruyter, 1966."
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch02-bibliography-012",
+      "source_ids": [
+        "ch02-ref005",
+        "ch02-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Tuschling, B. Metaphysische and transzendentale Dynamik in Kants opus postumum. Berlin: de Gruyter, 1971."
+      ],
+      "zh": [
+        "Tuschling, B. Metaphysische and transzendentale Dynamik in Kants opus postumum. Berlin: de Gruyter, 1971."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch02-bibliography-013",
+      "source_ids": [
+        "ch02-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Vuillemin J. Physique et métaphysique kantiennes. Paris: Presses Universitaires de France, 1955."
+      ],
+      "zh": [
+        "Vuillemin J. Physique et métaphysique kantiennes. Paris: Presses Universitaires de France, 1955."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch02-bibliography-014",
+      "source_ids": [
+        "ch02-ref006",
+        "ch02-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Warren, D. Reality and Impenetrability in Kant’s Philosophy of Nature. New York: Routledge, 2001."
+      ],
+      "zh": [
+        "Warren, D. Reality and Impenetrability in Kant’s Philosophy of Nature. New York: Routledge, 2001."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch02-bibliography-015",
+      "source_ids": [
+        "ch02-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Watkins, E., ed. Kant and the Exact Sciences. Oxford: Oxford University Press, 2001."
+      ],
+      "zh": [
+        "Watkins, E., ed. Kant and the Exact Sciences. Oxford: Oxford University Press, 2001."
+      ],
+      "shared": true,
+      "units": 13
+    }
+  ],
+  "notes": {
+    "ch02-n01": {
+      "number": "1",
+      "en": [
+        "Citations to Kant’s texts are given in parentheses. Citations from the Critique of Pure Reason are located by reference to Kant’s first (A) and/or second (B) editions. All other passages from Kant’s works are cited by the volume and page number in the standard edition of Kant’s works."
+      ],
+      "zh": [
+        "康德文本的引注在括号中给出。《纯粹理性批判》的引文按康德第一版（A）和/或第二版（B）定位。康德其他著作的所有段落均按标准版康德著作集的卷次与页码引注。"
+      ]
+    },
+    "ch02-n02": {
+      "number": "2",
+      "en": [
+        "See M. Friedman, Kant and the Exact Sciences (Cambridge, MA: Harvard University Press, 1992)."
+      ],
+      "zh": [
+        "见 M. 弗里德曼：《康德与精确科学》（Kant and the Exact Sciences），马萨诸塞州剑桥：哈佛大学出版社，1992年。"
+      ]
+    },
+    "ch02-n03": {
+      "number": "3",
+      "en": [
+        "See in particular G. Buchdahl, “Gravity and Intelligibility: Newton to Kant”, in The Methodological Heritage of Newton. Eds. R. Butts and J. Davis (Oxford: Blackwell, 1970), pp. 74–102."
+      ],
+      "zh": [
+        "尤其见 G. 布赫达尔：《引力与可理解性：从牛顿到康德》（Gravity and Intelligibility: Newton to Kant），载《牛顿的方法论遗产》（The Methodological Heritage of Newton），R. 巴茨、J. 戴维斯编（牛津：布莱克韦尔出版社，1970年），第74–102页。"
+      ]
+    },
+    "ch02-n04": {
+      "number": "4",
+      "en": [
+        "For an alternative account emphasizing Kant’s rationalistic background, see E. Watkins, “Kant’s Justification of the Laws of Mechanics”, in E. Watkins (ed.), Kant and the Sciences (Oxford: Oxford University Press, 2000), pp. 136–159."
+      ],
+      "zh": [
+        "关于强调康德理性论背景的另一种说明，见 E. 沃特金斯：《康德对力学定律的证成》（Kant's Justification of the Laws of Mechanics），载 E. 沃特金斯（编）：《康德与科学》（Kant and the Sciences）（牛津：牛津大学出版社，2000年），第136–159页。"
+      ]
+    },
+    "ch02-n05": {
+      "number": "5",
+      "en": [
+        "Compare M. Friedman, “Matter and Motion in the Metaphysical Foundations and the First Critique”, in E. Watkins (ed.), Kant and the Sciences, op. cit., pp. 62–64."
+      ],
+      "zh": [
+        "对照 M. 弗里德曼：《〈初始根据〉与第一批判中的物质与运动》（Matter and Motion in the Metaphysical Foundations and the First Critique），载 E. 沃特金斯（编）：《康德与科学》，前引书，第62–64页。"
+      ]
+    },
+    "ch02-n06": {
+      "number": "6",
+      "en": [
+        "Prolegomena to Any Future Metaphysics (4:328)."
+      ],
+      "zh": [
+        "《未来形而上学导论》（4:328）。"
+      ]
+    },
+    "ch02-n07": {
+      "number": "7",
+      "en": [
+        "I. Newton, Mathematical Principles of Natural Philosophy, trans. A. Motte, rev. F. Cajori (Berkeley, CA: University of California Press, 1934), p. 8."
+      ],
+      "zh": [
+        "牛顿：《自然哲学的数学原理》，A. 莫特译，F. 卡约里修订（加利福尼亚州伯克利：加利福尼亚大学出版社，1934年），第8页。"
+      ]
+    },
+    "ch02-n08": {
+      "number": "8",
+      "en": [
+        "Ibid., p. 399."
+      ],
+      "zh": [
+        "同上，第399页。"
+      ]
+    },
+    "ch02-n09": {
+      "number": "9",
+      "en": [
+        "I. Newton, Opticks (New York: Dover, 1952), p. 376."
+      ],
+      "zh": [
+        "牛顿：《光学》（Opticks）（纽约：多佛出版社，1952年），第376页。"
+      ]
+    },
+    "ch02-n10": {
+      "number": "10",
+      "en": [
+        "I. Kant, Critique of Judgment, Introduction (5:183)."
+      ],
+      "zh": [
+        "康德：《判断力批判》，导言（5:183）。"
+      ]
+    },
+    "ch02-n11": {
+      "number": "11",
+      "en": [
+        "G.W.F. Hegel, Phenomenology of Spirit, trans. A.V. Miller (Oxford: Oxford University Press, 1977), p. 8."
+      ],
+      "zh": [
+        "黑格尔：《精神现象学》，A. V. 米勒译（牛津：牛津大学出版社，1977年），第8页。"
+      ]
+    }
+  }
+}

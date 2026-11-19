@@ -1,0 +1,2185 @@
+{
+  "id": "ch15",
+  "title": "可认识的宇宙：物理宇宙学中的先验论证",
+  "originalTitle": "A Cognizable Universe: Transcendental Arguments in Physical Cosmology",
+  "outline": [
+    {
+      "anchor": "ch15-u003",
+      "title": "1 引言",
+      "originalTitle": "1 Introduction",
+      "level": 1
+    },
+    {
+      "anchor": "ch15-u010",
+      "title": "2 人择推理",
+      "originalTitle": "2 The Anthropic Reasoning",
+      "level": 1
+    },
+    {
+      "anchor": "ch15-u014",
+      "title": "3 爱因斯坦的“无边界提议”",
+      "originalTitle": "3 Einstein’s “No-Boundary Proposal”",
+      "level": 1
+    },
+    {
+      "anchor": "ch15-u034",
+      "title": "4 稳恒态宇宙学",
+      "originalTitle": "4 Steady-State Cosmology",
+      "level": 1
+    },
+    {
+      "anchor": "ch15-u061",
+      "title": "5 欧几里得量子宇宙学",
+      "originalTitle": "5 Euclidean Quantum Cosmology",
+      "level": 1
+    },
+    {
+      "anchor": "ch15-u080",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch15-u001",
+      "source_ids": [
+        "ch15-u001"
+      ],
+      "page": "269",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch15-u002",
+      "source_ids": [
+        "ch15-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Yuri Balashov"
+      ],
+      "zh": [
+        "尤里·巴拉绍夫"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch15-u004",
+      "source_ids": [
+        "ch15-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract Cosmology deals with a unique object which comprises everything and yet is self-contained and singular. To describe this object in the language of physics, certain conditions must be in place. The increased role of such conditions finds its manifestation in distinct argument patterns. One popular case in point has to do with the anthropic arguments, some of which can be looked upon as varieties of transcendental reasoning, broadly construed. After reviewing this aspect of anthropic arguments, I show that the scope of transcendental inference at work in twentieth-century cosmology has been more extensive. Indeed, one important thread of such inference – the claim that, in order to be mathematically tractable, the Universe as a whole has to be a certain way – can be traced back to the first relativistic cosmological model proposed by Einstein in 1917. A somewhat different strategy of the same broad sort played a major role in shaping the steady-state theory, the main rival of big-bang cosmology in 1948–1965. Finally, the famous “no-boundary” condition for quantum cosmology would (if it could bear the weight of far-reaching interpretations put on it) be another example of grounding the mere possibility of the physical description of the Universe in its global properties."
+      ],
+      "zh": [
+        "摘要 宇宙学研究一个独一无二的对象，它囊括一切，然而又是自足的和单一的。要用物理学的语言描述这个对象，须满足某些条件。这些条件越来越重要，在若干特有的论证形式中体现得尤其清楚。一个流行的例子与人择论证有关，其中一些可以被视为广义理解的先验推理的变体。在回顾了人择论证的这一方面之后，我表明，二十世纪宇宙学中起作用的先验推断的范围更为广泛。的确，这种推断的一条重要线索——即认为一个能在数学上处理的宇宙，作为整体必须有某些特征——可以追溯到爱因斯坦 1917 年提出的第一个相对论宇宙学模型。同一大类中一种略有不同的策略在塑造稳恒态理论（1948–1965 年间大爆炸宇宙学的主要对手）方面起了重要作用。最后，量子宇宙学著名的“无边界”条件（如果它确实支持人们在其上作出的那些影响广泛的解释）将是另一个例子，把对宇宙进行物理描述的单纯可能性奠基于其全局性质之中。"
+      ],
+      "units": 203
+    },
+    {
+      "id": "ch15-u003",
+      "source_ids": [
+        "ch15-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Introduction"
+      ],
+      "zh": [
+        "1 引言"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch15-u005",
+      "source_ids": [
+        "ch15-u005"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "Y. Balashov University of Georgia, USA"
+      ],
+      "zh": [
+        "Y. Balashov University of Georgia, USA"
+      ],
+      "shared": true,
+      "units": 6
+    },
+    {
+      "id": "ch15-u006",
+      "source_ids": [
+        "ch15-u006"
+      ],
+      "page": "270",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It has been a recurrent topic in philosophical discussions of physical cosmology, both by philosophers and physicists, to emphasize the special nature of its object, the Universe as a whole, which comprises all that exists and yet is manifestly singular. The fact that the object of cosmology combines these features naturally gives rise to a number of intriguing questions about the relationship between the general and the particular in the physical description of the Universe. Such questions have been framed in somewhat different ways,",
+        {
+          "type": "note",
+          "id": "ch15-n01",
+          "label": "1"
+        },
+        " emphasizing the unusual and often surprising connection, revealed or at least suggested by the cosmological perspective, between the members of traditional dichotomies: (1) laws of physics and boundary conditions, (2) necessity and contingency, (3) physics and geometry of the Universe as a whole. This, in turn, has been argued to have interesting methodological implications, by influencing explanatory standards and expectations, introducing novel inference patters or even imposing new Big Principles.",
+        {
+          "type": "note",
+          "id": "ch15-n02",
+          "label": "2"
+        }
+      ],
+      "zh": [
+        "在哲学家和物理学家对物理宇宙学的哲学讨论中，一个反复出现的话题是强调其对象即宇宙整体的特殊本性：它囊括一切存在的东西，然而又显然是单一的。宇宙学的对象兼具这些特征，这一事实自然引出了关于宇宙的物理描述中一般与特殊之间关系的一系列耐人寻味的问题。这些问题以略有不同的方式被表述，",
+        {
+          "type": "note",
+          "id": "ch15-n01",
+          "label": "1"
+        },
+        " 强调宇宙学视角揭示或至少提示的传统二分法成员之间不寻常且往往令人惊讶的联系：(1) 物理定律与边界条件，(2) 必然性与偶然性，(3) 宇宙整体的物理学与几何学。进而有人论证，这具有有趣的方法论蕴涵，因为它影响解释标准和期望，引入新的推断模式，甚至强加新的大原理。",
+        {
+          "type": "note",
+          "id": "ch15-n02",
+          "label": "2"
+        }
+      ],
+      "units": 154
+    },
+    {
+      "id": "ch15-u007",
+      "source_ids": [
+        "ch15-u007"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I add my voice to those who think that modern physical cosmology embodies some of these distinctive features. But I believe one aspect of its methodology – one that it shares with other areas of contemporary physics, as evidenced by this volume – has so far been neglected. I argue below that transcendental reasoning, broadly construed, has been a recurrent topic in the development of relativistic cosmology since its beginning. The reasoning of this sort seeks to infer features of the entire Universe from conditions that make its physical description possible or coherent."
+      ],
+      "zh": [
+        "我也认为，现代物理宇宙学具备其中一些独特特征。但我认为，其方法论的一个方面——正如本书所表明的，它与当代物理学其他领域共享的方面——迄今被忽视了。我在下面论证，广义理解的先验推理自相对论宇宙学开端以来就是其发展中反复出现的主题。这种推理试图从使宇宙的物理描述成为可能或融贯的条件推出整个宇宙的特征。"
+      ],
+      "units": 91
+    },
+    {
+      "id": "ch15-u008",
+      "source_ids": [
+        "ch15-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Two disclaimers are in order. First, while I borrow the term ‘transcendental’ from a venerable historical tradition, I make no attempt to relate my use it to any major representatives of that tradition. My objective is more modest: to show that a certain peculiar pattern of reasoning, roughly characterized as above, has been employed in modern cosmology on several occasions. Second, my consideration will, of necessity, be brief and abstract from many complexities of the historical cases at hand."
+      ],
+      "zh": [
+        "有两点声明是必要的。第一，虽然我从一个古老的历史传统中借用了“先验的”这个术语，我并不试图把我的用法与该传统的任何主要代表联系起来。我的目标更为有限：表明一种大致如上刻画的独特推理模式已在现代宇宙学中被多次使用。第二，篇幅所限，我的考察会略去这些历史案例的许多复杂细节。"
+      ],
+      "units": 79
+    },
+    {
+      "id": "ch15-u009",
+      "source_ids": [
+        "ch15-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I begin by reviewing a recent instance of transcendental reasoning in cosmology, the anthropic reasoning, but only to set it aside. My real interest is to argue that non-anthropic transcendental arguments have been at play at some crucial junctures in the history of twentieth-century cosmology. In Sections 3–5 I focus on three important episodes: (1) Einstein’s first relativistic cosmological model, (2) the steady-state theory, and (3) Hartle-Hawking’s “no-boundary” condition for quantum cosmology. Different as these developments are, they have something in common; they attempt, in their distinct ways and with varying degree of success, to incorporate the idea that the mere possibility of a coherent physical description of the Universe as a whole poses constraints on what kind of entity it could be."
+      ],
+      "zh": [
+        "我首先回顾宇宙学中先验推理的一个晚近实例，即人择推理，但只是为了把它搁置一旁。我真正的兴趣是论证，非人择的先验论证在二十世纪宇宙学史的某些关键关头起了作用。在第 3–5 节中，我聚焦于三个重要事件：(1) 爱因斯坦的第一个相对论宇宙学模型，(2) 稳恒态理论，(3) 哈特尔–霍金的量子宇宙学“无边界”条件。尽管这些发展各不相同，它们有某种共同之处；它们各自尝试论证同一个想法，方式不同，成效也不一：只要要求对宇宙整体作出自洽的物理描述，宇宙就只能是某些类型的实体。"
+      ],
+      "units": 124
+    },
+    {
+      "id": "ch15-u010",
+      "source_ids": [
+        "ch15-u010"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 The Anthropic Reasoning"
+      ],
+      "zh": [
+        "2 人择推理"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch15-u011",
+      "source_ids": [
+        "ch15-u011"
+      ],
+      "page": "271",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If certain physical properties of the Universe were even slightly different, it would not contain complex material structures. In particular, it would not contain observers capable of posing questions about the physical properties of the Universe. Importantly, the properties at hand comprise both nomic and non-nomic properties of the Universe as a whole (or at least of a large physically isolated and self-contained part of it): those having to do with the fundamental physical laws operating across it as well as those having to do with its physical state. The first category includes the values of various physical constants (such as ",
+        {
+          "type": "math",
+          "tex": "e",
+          "display": false
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "m_p",
+          "display": false
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "G",
+          "display": false
+        },
+        ", and ",
+        {
+          "type": "math",
+          "tex": "\\alpha_e",
+          "display": false
+        },
+        "), while the second certain cosmological parameters (such as ",
+        {
+          "type": "math",
+          "tex": "\\rho",
+          "display": false
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "H",
+          "display": false
+        },
+        ", and ",
+        {
+          "type": "math",
+          "tex": "\\Lambda",
+          "display": false
+        },
+        ").",
+        {
+          "type": "note",
+          "id": "ch15-n03",
+          "label": "3"
+        },
+        " Why do we observe these particular values of such parameters and, hence, a particular physical makeup of the Universe, rather than some other? One answer is that we do it simply because a Universe with a different makeup would remain unobservable: there would be no one to observe it."
+      ],
+      "zh": [
+        "如果宇宙的某些物理性质哪怕稍有不同，它就不会包含复杂的物质结构。特别是，它不会包含能够提出关于宇宙物理性质问题的观察者。重要的是，手头的性质既包括宇宙整体（或至少其一个大的物理上孤立且自足的部分）的律则性质，也包括非律则性质：既涉及在其中起作用的根本物理定律，也涉及它的物理状态。第一类包括各种物理常数的值（如 ",
+        {
+          "type": "math",
+          "tex": "e",
+          "display": false
+        },
+        "、",
+        {
+          "type": "math",
+          "tex": "m_p",
+          "display": false
+        },
+        "、",
+        {
+          "type": "math",
+          "tex": "G",
+          "display": false
+        },
+        " 和 ",
+        {
+          "type": "math",
+          "tex": "\\alpha_e",
+          "display": false
+        },
+        "），第二类包括某些宇宙学参数（如 ",
+        {
+          "type": "math",
+          "tex": "\\rho",
+          "display": false
+        },
+        "、",
+        {
+          "type": "math",
+          "tex": "H",
+          "display": false
+        },
+        " 和 ",
+        {
+          "type": "math",
+          "tex": "\\Lambda",
+          "display": false
+        },
+        "）。",
+        {
+          "type": "note",
+          "id": "ch15-n03",
+          "label": "3"
+        },
+        " 为什么我们观察到这些参数的这些特定值，从而观察到宇宙的特定物理构成，而不是别的？一个回答是，我们之所以如此，仅仅是因为构成不同的宇宙将仍然不可观察：不会有人去观察它。"
+      ],
+      "units": 169
+    },
+    {
+      "id": "ch15-u012",
+      "source_ids": [
+        "ch15-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "While certain interpretations of this situation may be questionable, one of them – involving the so-called weak anthropic reasoning – is valid. In order to perform its task, however, the reasoning needs to be supplemented with an additional assumption to the effect that an observable portion of the Universe is a small fragment of a larger portion, which, in turn, is a member of a huge ensemble of (lower-case) universes, each having a relevantly different physical makeup (where the latter may include both nomic and global non-nomic properties). If all relevantly different makeups are realized in such an ensemble the fact that we observe a very special one – that compatible with our existence – is not surprising. In order to be cognizable, the (lower-case) universe around us must be a certain way: it must allow cognizers. The real significance of this reasoning lies in modifying the antecedent likelihood of competing hypotheses about the universe (and the Universe). Suppose, on one such hypothesis, the actual value of a certain physical constant is antecedently unlikely, but the hypothesis is otherwise very successful.",
+        {
+          "type": "note",
+          "id": "ch15-n04",
+          "label": "4"
+        },
+        " One can support the hypothesis in the face of its initial implausibility by invoking a weak anthropic argument that the unlikely value of the constant is required for the observability of the universe (i.e., for the presence of observers in it) and, hence, the Universe must be structured accordingly, to allow for that value to be realized in one of its relatively isolated parts."
+      ],
+      "zh": [
+        "尽管对这一情况的某些诠释可能成问题，其中一种——涉及所谓的弱人择推理——是有效的。然而，为了完成其任务，这种推理需要补充一个附加假设，其大意是：宇宙的可观察部分是一个更大部分的小碎片，而这个更大部分又是一个巨大的（小写）宇宙系综的成员，各个宇宙的物理构成在所讨论的方面彼此有别（后者可以既包括律则性质也包括全局的非律则性质）。如果所涉及的各种不同物理构成都在这样一个系综中实现，那么我们观察到一个非常特殊的构成——与我们的存在相容的构成——这一事实就不令人惊讶。为了可认识，我们周围的（小写）宇宙必须具有某种特定方式：它必须允许认识者存在。这种推理的真正意义在于调整对宇宙（小写和大写）的竞争性假说的事前可信度。假设在这样一个假设下，某个物理常数的实际值事前看来不太可能，但这个假设在其他方面非常成功。",
+        {
+          "type": "note",
+          "id": "ch15-n04",
+          "label": "4"
+        },
+        " 面对其起初看来不大可信，人们可以通过诉诸弱人择论证来支持这个假设：这个常数的不太可能的值是宇宙的可观察性（即其中观察者的存在）所要求的，因此宇宙必须相应地构造，以允许这个值在其某个相对孤立的部分中实现。"
+      ],
+      "units": 242
+    },
+    {
+      "id": "ch15-u013",
+      "source_ids": [
+        "ch15-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "One can put this inference pattern in more formal terms and make its Bayesian pedigree more explicit (see Bostrom, 2002). However, the broadly transcendental nature of the inference is obvious: knowledge of the universe (and of the Universe) is constrained by the global physical conditions necessary for such knowledge to take place.",
+        {
+          "type": "note",
+          "id": "ch15-n05",
+          "label": "5"
+        },
+        " It would, however, be wrong to think that transcendental reasoning in physical cosmology is confined to occasional (and often problematic) applications of anthropic arguments. Even a cursory look at the history of twentieth-century cosmology suggests otherwise."
+      ],
+      "zh": [
+        "人们可以用更形式的术语表述这种推断模式，并更清楚地显示它具有何种贝叶斯结构（参见 Bostrom, 2002）。然而，这种推断的广义先验本性是明显的：关于宇宙（小写和大写）的知识受到这种知识得以发生所必需的全局物理条件的约束。",
+        {
+          "type": "note",
+          "id": "ch15-n05",
+          "label": "5"
+        },
+        " 然而，如果认为物理宇宙学中的先验推理限于人择论证的偶尔（且往往成问题的）应用，那就错了。即使粗略地看一下二十世纪宇宙学的历史，也会得出相反的结论。"
+      ],
+      "units": 88
+    },
+    {
+      "id": "ch15-u014",
+      "source_ids": [
+        "ch15-u014"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Einstein’s “No-Boundary Proposal”"
+      ],
+      "zh": [
+        "3 爱因斯坦的“无边界提议”"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch15-u015",
+      "source_ids": [
+        "ch15-u015"
+      ],
+      "page": "272",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Soon after completion of his work on general relativity Einstein applied the new theory to the geometry of the Universe as a whole, thereby starting an entirely new chapter in the history of cosmology (Einstein, 1917). Einstein assumed that the large-scale structure of the Universe must be unchanging and was led to his first relativistic cosmological model by considerations having to do with the difficulty of formulating boundary conditions at infinity similar to those that would obtain in a static Newtonian Universe with no matter at infinity. The problem with boundary conditions was twofold. Part of it had to do with Mach’s principle. At that time, Einstein thought that any viable theory of gravitation had to incorporate this principle, but a model with a flat spatial metric at matter-devoid infinity would violate it (for on Mach’s principle, all metrical properties of space must be due to the influence of matter). Secondly, Einstein was worried that boundary conditions of this sort would bring with them a “definite choice of the system of reference, which is contrary to the spirit of the relativity principle” (Einstein [1917], 1923, p. 183)."
+      ],
+      "zh": [
+        "在完成广义相对论的工作后不久，爱因斯坦就把新理论应用于宇宙整体的几何学，由此开启了宇宙学史的全新一章（Einstein, 1917）。爱因斯坦假定宇宙的大尺度结构必须是不变的，他试图为这类宇宙规定无穷远处的边界条件，类似于无穷远处没有物质的静态牛顿宇宙，但遇到了困难。正是这些困难促使他提出第一个相对论宇宙学模型。边界条件的问题是双重的。一部分与马赫原理有关。当时爱因斯坦认为，任何可行的引力理论都必须纳入这个原理，但一个在缺乏物质的无穷远处具有平坦空间度规的模型会违反它（因为按照马赫原理，空间的一切度规性质都必须归因于物质的影响）。第二，爱因斯坦担心这类边界条件会带来“参考系的确定选择，这与相对性原理的精神相违背”（Einstein [1917], 1923, p. 183）。"
+      ],
+      "units": 187
+    },
+    {
+      "id": "ch15-u016",
+      "source_ids": [
+        "ch15-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Einstein’s solution was, as we know, ingenious: to get around the problem of boundary conditions, he proposed that the Universe had no boundary. Rather, it must be a spatially closed spherical world. “[I]f it were possible to regard the universe as a continuum which is finite (closed) with respect to its spatial dimensions, we should have no need at all of any … boundary conditions [at spatial infinity]” (ibid., p. 183). The idealized geometry of such a world would be described by the following metric and stress-energy tensor:"
+      ],
+      "zh": [
+        "我们知道，爱因斯坦的解决方案是巧妙的：为了绕开边界条件问题，他提出宇宙没有边界。相反，它必须是一个空间上闭合的球形世界。“如果有可能把宇宙看作一个就其空间维度而言有限（闭合）的连续统，我们就完全不需要任何……［空间无穷远处的］边界条件”（同上, p. 183）。这样一个世界的理想化几何将由以下度规和应力–能量张量描述："
+      ],
+      "units": 88
+    },
+    {
+      "id": "ch15-u017",
+      "source_ids": [
+        "ch15-u017",
+        "ch15-u018",
+        "ch15-u029",
+        "ch15-u019",
+        "ch15-u021",
+        "ch15-u020"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\begin{gathered}g_{14}=g_{24}=g_{34}=0;\\quad g_{44}=1\\\\g_{mn}=-\\left(\\delta_{mn}+\\frac{x_mx_n}{R^2-(x_1^2+x_2^2+x_3^2)}\\right)\\\\T^{44}=\\rho;\\quad T^{\\mu\\nu}=0\\ \\text{unless }\\mu=\\nu=4\\end{gathered}\\tag{1}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\begin{gathered}g_{14}=g_{24}=g_{34}=0;\\quad g_{44}=1\\\\g_{mn}=-\\left(\\delta_{mn}+\\frac{x_mx_n}{R^2-(x_1^2+x_2^2+x_3^2)}\\right)\\\\T^{44}=\\rho;\\quad T^{\\mu\\nu}=0\\ \\text{（}\\mu=\\nu=4\\text{ 除外）}\\end{gathered}\\tag{1}",
+          "display": true
+        }
+      ],
+      "units": 51
+    },
+    {
+      "id": "ch15-u022",
+      "source_ids": [
+        "ch15-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Here ",
+        {
+          "type": "math",
+          "tex": "\\rho",
+          "display": false
+        },
+        " is the average density of matter in the Universe, R its radius of curvature, and c is set to 1. That was the model Einstein wanted to have. But it turned out to be inconsistent with his field equations of general relativity:"
+      ],
+      "zh": [
+        "这里 ",
+        {
+          "type": "math",
+          "tex": "\\rho",
+          "display": false
+        },
+        " 是宇宙中物质的平均密度，R 是其曲率半径，c 设为 1。这就是爱因斯坦想要拥有的模型。但结果证明它与他的广义相对论场方程不一致："
+      ],
+      "units": 44
+    },
+    {
+      "id": "ch15-u023",
+      "source_ids": [
+        "ch15-u023"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "R_{\\mu\\nu}-\\tfrac12 Rg_{\\mu\\nu}=-\\kappa T_{\\mu\\nu}\\tag{2}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "R_{\\mu\\nu}-\\tfrac12 Rg_{\\mu\\nu}=-\\kappa T_{\\mu\\nu}\\tag{2}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch15-u024",
+      "source_ids": [
+        "ch15-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This prompted Einstein to modify his original equations by introducing the famous Λ-term:"
+      ],
+      "zh": [
+        "这促使爱因斯坦通过引入著名的 Λ 项来修改其原初方程："
+      ],
+      "units": 13
+    },
+    {
+      "id": "ch15-u025",
+      "source_ids": [
+        "ch15-u025"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "R_{\\mu\\nu}-\\tfrac12 Rg_{\\mu\\nu}-\\Lambda g_{\\mu\\nu}=-\\kappa T_{\\mu\\nu}\\tag{3}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "R_{\\mu\\nu}-\\tfrac12 Rg_{\\mu\\nu}-\\Lambda g_{\\mu\\nu}=-\\kappa T_{\\mu\\nu}\\tag{3}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch15-u026",
+      "source_ids": [
+        "ch15-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Inserting the desired model (1) into the modified equations (3) yields the following relationships:"
+      ],
+      "zh": [
+        "把期望的模型 (1) 代入修改后的方程 (3)，得到以下关系："
+      ],
+      "units": 14
+    },
+    {
+      "id": "ch15-u027",
+      "source_ids": [
+        "ch15-u027"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\Lambda=\\frac{\\kappa\\rho}{2}=\\frac{1}{R^2}\\tag{4}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\Lambda=\\frac{\\kappa\\rho}{2}=\\frac{1}{R^2}\\tag{4}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch15-u028",
+      "source_ids": [
+        "ch15-u028"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "M=2\\pi^2R^3\\rho\\tag{5}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "M=2\\pi^2R^3\\rho\\tag{5}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch15-u030",
+      "source_ids": [
+        "ch15-u030"
+      ],
+      "page": "273",
+      "canonical_kind": "paragraph",
+      "en": [
+        "where M is the mass of the closed Universe."
+      ],
+      "zh": [
+        "其中 M 是闭合宇宙的质量。"
+      ],
+      "units": 9
+    },
+    {
+      "id": "ch15-u031",
+      "source_ids": [
+        "ch15-u031"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Certain aspects of this derivation are notable. First, Einstein’s train of thought in deriving the model seems to have been the following:"
+      ],
+      "zh": [
+        "这个推导的某些方面值得注意。首先，爱因斯坦推导模型的思路似乎是如下这样的："
+      ],
+      "units": 22
+    },
+    {
+      "id": "ch15-u032",
+      "source_ids": [
+        "ch15-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. In order to be mathematically tractable (i.e., to absolve one of the necessity to deal with boundary conditions at infinity) and physically consistent (to satisfy the demands of Mach’s principle: no geometry – not even a flat geometry – without matter), the Universe must possess a certain global property: be spatially closed and thus have no boundary in space (Einstein’s “no-boundary proposal”).\n2. In order for the Universe to possess this property and be static, Einstein’s field equations (i.e. a law of nature) must be modified."
+      ],
+      "zh": [
+        "1. 为了在数学上可处理（即免除处理无穷远处边界条件的必要性）并且在物理上融贯（满足马赫原理的要求：没有物质就没有几何——甚至没有平坦几何），宇宙必须具有某种全局性质：在空间上闭合，从而在空间中没有边界（爱因斯坦的“无边界提议”）。\n2. 为了使宇宙具有这种性质并且是静态的，爱因斯坦的场方程（即一条自然定律）必须被修改。"
+      ],
+      "units": 87
+    },
+    {
+      "id": "ch15-u033",
+      "source_ids": [
+        "ch15-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I submit that these two steps embody, in a very clear sense, transcendental reasoning: to be describable in the language of physics, the Universe has to be a certain way. Remarkably, the way the Universe has to be includes both its geometry and physics. Despite the fact that Einstein himself took the connection between the geometry and physics of the Universe, manifested in Eqs. (4) and (5), for granted, it is very striking. Equations (4) and (5) relate quantities of two rather different sorts: ",
+        {
+          "type": "math",
+          "tex": "\\Lambda",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "\\kappa",
+          "display": false
+        },
+        ", figuring in the fundamental laws of physics, which describe all possible ways the Universe could have been, and the quantities ",
+        {
+          "type": "math",
+          "tex": "R",
+          "display": false
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "M",
+          "display": false
+        },
+        ", and ",
+        {
+          "type": "math",
+          "tex": "\\rho",
+          "display": false
+        },
+        ", representing a unique way the Universe actually is. Both kinds of quantities, however, pertain to the Universe as a whole and this gives some reason to treat them on a par. And yet the correlation between them is unusual. Although Einstein did not find it particularly remarkable, Hermann Weyl, for example, wrote that the correlation between Λ and M, as expressed in Eqs. (4) and (5), “obviously makes great demands on our credulity” (quoted in North, 1965, p. 83). And Eddington noted that the correlation had a strange consequence that “the creation of a new stellar system in a distant part of the world would have to propagate to us, not merely a gravitational field, but a modification of the law of gravitation itself” (ibid., p. 85). Moreover, the propagation would have to be instantaneous. These implications of Eqs. (4) and (5) should not detract from the significance of the main thread which led Einstein to his cosmological model. Upon reflection, the demand that reality has to be structured in a certain way in order to be describable in the language of physics should not strike one as outrageous: we see it at work in different quarters of physics. Cosmology, however, adds the grandeur of scale to it, and, in some cases, an interesting connection between the material structure of the Universe and its nomic structure. Einstein set a notable precedent for thinking along these lines."
+      ],
+      "zh": [
+        "我提出，这两个步骤在非常清楚的意义上体现了先验推理：为了能用物理学的语言描述，宇宙必须具有某种特定方式。值得注意的是，宇宙必须具有的方式既包括其几何学也包括其物理学。尽管爱因斯坦自己把式 (4) 和 (5) 中体现的宇宙几何学与物理学之间的联系视为理所当然，它还是非常引人注目的。式 (4) 和 (5) 把两类相当不同的量联系起来：",
+        {
+          "type": "math",
+          "tex": "\\Lambda",
+          "display": false
+        },
+        " 和 ",
+        {
+          "type": "math",
+          "tex": "\\kappa",
+          "display": false
+        },
+        " 出现在物理学的基本定律中，这些定律描述宇宙可能存在的一切方式；而量 ",
+        {
+          "type": "math",
+          "tex": "R",
+          "display": false
+        },
+        "、",
+        {
+          "type": "math",
+          "tex": "M",
+          "display": false
+        },
+        " 和 ",
+        {
+          "type": "math",
+          "tex": "\\rho",
+          "display": false
+        },
+        " 代表宇宙实际存在的唯一方式。然而，两类量都涉及宇宙整体，这给出了某种理由把它们同等对待。但它们之间的关联是不寻常的。尽管爱因斯坦没有觉得它特别值得注意，例如赫尔曼·魏尔写道，式 (4) 和 (5) 表达的 Λ 与 M 之间的关联“显然要我们相信太多东西”（引自 North, 1965, p. 83）。而爱丁顿指出，这种关联有一个奇怪的后果：“在宇宙的遥远一隅形成一个新的恒星系统，传到我们这里的必定既有引力场，又有引力定律自身的改变”（同上, p. 85）。而且，这种传播必须是瞬时的。式 (4) 和 (5) 的这些蕴涵不应贬低引导爱因斯坦达到其宇宙学模型的主线的意义。细想之下，实在为了能用物理学语言描述而必须以某种方式构造的要求，不应让人觉得离谱：我们看到它在物理学的不同领域起作用。然而，宇宙学给它增添了尺度的宏伟，并且在某些情况下，增添了宇宙的物质结构与其律则结构之间的有趣联系。爱因斯坦为沿这些思路思考树立了一个值得注意的先例。"
+      ],
+      "units": 347
+    },
+    {
+      "id": "ch15-u034",
+      "source_ids": [
+        "ch15-u034"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Steady-State Cosmology"
+      ],
+      "zh": [
+        "4 稳恒态宇宙学"
+      ],
+      "type": "subheading",
+      "units": 3
+    },
+    {
+      "id": "ch15-u035",
+      "source_ids": [
+        "ch15-u035"
+      ],
+      "page": "274",
+      "canonical_kind": "paragraph",
+      "en": [
+        "And the precedent was not without its followers. In 1948–1965, the big-bang cosmology had to fight a major rival, the steady-state theory (SST). According to SST, the expanding Universe, instead of evolving from the hot big bang, is stationary on the large scale. The dilution of matter due to the cosmic expansion is compensated for by the creation of new matter, and any other global process operative in the Universe is regarded as being self-perpetuating."
+      ],
+      "zh": [
+        "而这个先例并非没有追随者。1948–1965 年间，大爆炸宇宙学面对一个主要竞争对手，即稳恒态理论（SST）。按照稳恒态理论，膨胀的宇宙不是从热大爆炸演化而来，而是在大尺度上定态的。宇宙膨胀导致的物质稀释由新物质的创生来补偿，而宇宙中起作用的任何其他全局过程都被视为自我维持的。"
+      ],
+      "units": 76
+    },
+    {
+      "id": "ch15-u036",
+      "source_ids": [
+        "ch15-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The 1964–1965 discovery of the microwave background radiation, soon afterwards identified by the majority of cosmologists as a relic of the hot big bang, dealt a crushing blow to SST and vindicated the big-bang scenario. But the rivalry between the two competing theories of the Universe greatly stimulated theoretical and observational developments in the 1950s."
+      ],
+      "zh": [
+        "1964–1965 年微波背景辐射的发现——不久后被大多数宇宙学家认定为热大爆炸的遗迹——给了稳恒态理论致命一击，并证实了大爆炸图景。但两种相互竞争的宇宙理论之间的对抗极大地刺激了 1950 年代的理论和观测发展。"
+      ],
+      "units": 56
+    },
+    {
+      "id": "ch15-u037",
+      "source_ids": [
+        "ch15-u037"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Both versions of SST (Bondi and Gold, 1948; Hoyle, 1948) were driven by methodological reflections on the nature of cosmology as a science,",
+        {
+          "type": "note",
+          "id": "ch15-n06",
+          "label": "6"
+        },
+        " in which transcendental motives played a major role. In the Bondi–Gold version, the guiding idea had to do with a possible influence the Universe at large may have on the local laws of physics. If the Universe changed radically in space or time, one could not, according to Bondi and Gold, apply physical principles discovered locally to other parts of the Universe. To guarantee the universal validity of physical laws, the Universe must be uniform in both space and time. The standard relativistic models fulfill this requirement only partially, in the form of the cosmological principle, which proclaims the large-scale homogeneity and isotropy of the Universe in space. But Bondi and Gold were convinced that one could not stop halfway here. The Universe must be constant on a large scale, not only in space, but also in time. Otherwise there would be no guarantee that the laws of physics discovered here and now could apply to the distant past of the Universe. In order to be describable by physical principles, discovered here and now, the past of the Universe must, in its gross features, be like its present. Bondi and Gold put these considerations in the form of the “perfect cosmological principle” (PCP). Their entire theory was then derived from this single principle, without relying on any particular field theory of gravitation."
+      ],
+      "zh": [
+        "稳恒态理论的两个版本（Bondi and Gold, 1948; Hoyle, 1948）都由对宇宙学作为一门科学之本性的方法论反思所驱动，",
+        {
+          "type": "note",
+          "id": "ch15-n06",
+          "label": "6"
+        },
+        " 其中先验动机起了重要作用。在邦迪–戈尔德版本中，其指导思想是，宇宙整体可能影响局部的物理定律。按照邦迪和戈尔德，如果宇宙随空间位置或时间而发生根本变化，人们就不能把局部发现的物理原理应用于宇宙的其他部分。为了保证物理定律的普遍有效性，宇宙必须在空间和时间中都是均匀的。标准相对论模型只部分地满足这个要求，其形式是宇宙学原理，它宣告宇宙在空间中的大尺度均匀性和各向同性。但邦迪和戈尔德确信，人们不能在这里半途而废。宇宙必须在大尺度上恒定，不仅在空间中，而且在时间中。否则就没有保证此时此地发现的物理定律能应用于宇宙的遥远过去。为了能被此时此地发现的物理原理描述，宇宙的过去在其总体特征上必须像它的现在。邦迪和戈尔德把这些考虑表述为“完美宇宙学原理”（PCP）。然后他们的整个理论都从这单一原理推导出来，而不依赖任何特定的引力场论。"
+      ],
+      "units": 246
+    },
+    {
+      "id": "ch15-u038",
+      "source_ids": [
+        "ch15-u038"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The derivation proceeds as follows (see, e.g., Bondi, 1960, pp. 145–146). Bondi and Gold start with the generic Robertson-Walker metric:"
+      ],
+      "zh": [
+        "推导如下进行（参见如 Bondi, 1960, pp. 145–146）。邦迪和戈尔德从一般的罗伯逊–沃尔克度规出发："
+      ],
+      "units": 22
+    },
+    {
+      "id": "ch15-u039",
+      "source_ids": [
+        "ch15-u039"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "ds^2=c^2dt^2-R^2(t)(dr^2+r^2d\\theta^2+r^2\\sin^2\\theta\\,d\\phi^2)\\left(1+\\frac{kr^2}{4}\\right)^{-2}\\tag{6}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "ds^2=c^2dt^2-R^2(t)(dr^2+r^2d\\theta^2+r^2\\sin^2\\theta\\,d\\phi^2)\\left(1+\\frac{kr^2}{4}\\right)^{-2}\\tag{6}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 31
+    },
+    {
+      "id": "ch15-u040",
+      "source_ids": [
+        "ch15-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The spatial curvature ",
+        {
+          "type": "math",
+          "tex": "k/R^2",
+          "display": false
+        },
+        " is responsible for certain observable effects (for example, the number of galaxies observable in the unit volume of space) and, therefore, according to PCP, must be constant. Since R(t) is not constant (otherwise there would be no red shifts in the spectra of distant galaxies), this gives k = 0. The Hubble parameter H is also an observable quantity. From ",
+        {
+          "type": "math",
+          "tex": "H=\\dot R/R=\\mathrm{const.}",
+          "display": false
+        },
+        ", it follows that R(t) = exp(Ht). Thus the metric of the stationary Universe is"
+      ],
+      "zh": [
+        "空间曲率 ",
+        {
+          "type": "math",
+          "tex": "k/R^2",
+          "display": false
+        },
+        " 会造成某些可观察效应（例如空间单位体积中可观察的星系数目），因此按照完美宇宙学原理必须是常数。由于 R(t) 不是常数（否则遥远星系的光谱中就不会有红移），这给出 k = 0。哈勃参数 H 也是可观察量。从 ",
+        {
+          "type": "math",
+          "tex": "H=\\dot R/R=\\mathrm{const.}",
+          "display": false
+        },
+        "得出 R(t) = exp(Ht)。因此定态宇宙的度规是"
+      ],
+      "units": 87
+    },
+    {
+      "id": "ch15-u041",
+      "source_ids": [
+        "ch15-u041"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "ds^2=c^2dt^2-(dr^2+r^2d\\theta^2+r^2\\sin^2\\theta\\,d\\phi^2)\\exp(2Ht)\\tag{7}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "ds^2=c^2dt^2-(dr^2+r^2d\\theta^2+r^2\\sin^2\\theta\\,d\\phi^2)\\exp(2Ht)\\tag{7}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch15-u042",
+      "source_ids": [
+        "ch15-u042"
+      ],
+      "page": "275",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This model, which is formally similar to one of the early de Sitter solutions, represents the way the whole Universe has to be in order to secure the consistency of physics throughout its space–time volume. And just like in Einstein’s model, the geometrical way the Universe has to be entails modifications in its basic physics. The Universe is expanding (here SST differs from Einstein’s static model), but its density is constant and non-zero. Therefore there must be continuous creation of new matter, which should be incorporated into the basic laws of nature."
+      ],
+      "zh": [
+        "这个模型在形式上类似于早期德西特解之一，它给出了宇宙作为整体所须具有的形态，这样物理学才能在宇宙的整个时空范围内保持一致。而且正如爱因斯坦的模型一样，宇宙必须具有的几何方式蕴涵其基本物理学的修改。宇宙在膨胀（这里稳恒态理论不同于爱因斯坦的静态模型），但其密度是恒定的非零量。因此必须有新物质的连续创生，它应当被纳入基本自然定律。"
+      ],
+      "units": 93
+    },
+    {
+      "id": "ch15-u043",
+      "source_ids": [
+        "ch15-u043"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "One way (due to Hoyle [1948]), in which this was done, takes a cue from Einstein’s modification of the field equations of general relativity briefly discussed above (see Eq. 3). Like Einstein, Hoyle introduced into them an additional symmetrical tensor term ",
+        {
+          "type": "math",
+          "tex": "C_{\\mu\\nu}",
+          "display": false
+        },
+        ":"
+      ],
+      "zh": [
+        "霍伊尔（1948）提出一种做法，借鉴了上文所述爱因斯坦对广义相对论场方程的修改（参见式 3）。像爱因斯坦一样，霍伊尔向其中引入一个附加的对称张量项 ",
+        {
+          "type": "math",
+          "tex": "C_{\\mu\\nu}",
+          "display": false
+        },
+        "："
+      ],
+      "units": 44
+    },
+    {
+      "id": "ch15-u044",
+      "source_ids": [
+        "ch15-u044"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "R_{\\mu\\nu}-\\tfrac12 Rg_{\\mu\\nu}-C_{\\mu\\nu}=-\\frac{8\\pi G}{c^4}T_{\\mu\\nu},\\tag{8}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "R_{\\mu\\nu}-\\tfrac12 Rg_{\\mu\\nu}-C_{\\mu\\nu}=-\\frac{8\\pi G}{c^4}T_{\\mu\\nu},\\tag{8}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch15-u045",
+      "source_ids": [
+        "ch15-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "where"
+      ],
+      "zh": [
+        "其中"
+      ],
+      "units": 1
+    },
+    {
+      "id": "ch15-u046",
+      "source_ids": [
+        "ch15-u046",
+        "ch15-u059",
+        "ch15-u047"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "C_{\\mu\\nu}=C_{\\mu;\\nu}=\\frac{\\partial C_\\mu}{\\partial x^\\nu}-\\Gamma_{\\mu\\nu}^{\\alpha}C_\\alpha\\tag{9}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "C_{\\mu\\nu}=C_{\\mu;\\nu}=\\frac{\\partial C_\\mu}{\\partial x^\\nu}-\\Gamma_{\\mu\\nu}^{\\alpha}C_\\alpha\\tag{9}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch15-u048",
+      "source_ids": [
+        "ch15-u048"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "and"
+      ],
+      "zh": [
+        "并且"
+      ],
+      "units": 1
+    },
+    {
+      "id": "ch15-u049",
+      "source_ids": [
+        "ch15-u049"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "C_\\mu=\\frac{3c}{a}(1,0,0,0),\\quad a=\\mathrm{const}\\tag{10}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "C_\\mu=\\frac{3c}{a}(1,0,0,0),\\quad a=\\mathrm{const}\\tag{10}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch15-u050",
+      "source_ids": [
+        "ch15-u050"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Under the normal assumption that the only non-vanishing component of ",
+        {
+          "type": "math",
+          "tex": "T_{\\mu\\nu}",
+          "display": false
+        },
+        " is ",
+        {
+          "type": "math",
+          "tex": "T_{00}=\\rho c^2",
+          "display": false
+        },
+        ", a solution of Eq. (8):"
+      ],
+      "zh": [
+        "在 ",
+        {
+          "type": "math",
+          "tex": "T_{\\mu\\nu}",
+          "display": false
+        },
+        " 的唯一非零分量是 ",
+        {
+          "type": "math",
+          "tex": "T_{00}=\\rho c^2",
+          "display": false
+        },
+        " 的通常假设下，式 (8) 的一个解："
+      ],
+      "units": 24
+    },
+    {
+      "id": "ch15-u051",
+      "source_ids": [
+        "ch15-u051"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "ds^2=c^2dt^2-(dx_1^2+dx_2^2+dx_3^2)\\exp\\left(\\frac{2ct}{a}\\right)\\tag{11}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "ds^2=c^2dt^2-(dx_1^2+dx_2^2+dx_3^2)\\exp\\left(\\frac{2ct}{a}\\right)\\tag{11}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch15-u052",
+      "source_ids": [
+        "ch15-u052"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "gives a de Sitter-type metric of the stationary Universe (Hoyle, 1948, pp. 375–377). Of course, the proper density of matter in SST, unlike that in the de Sitter model, is a constant non-zero quantity given by"
+      ],
+      "zh": [
+        "给出定态宇宙的德西特型度规（Hoyle, 1948, pp. 375–377）。当然，稳恒态理论中物质的固有密度不同于德西特模型中的密度，是一个恒定的非零量，由下式给出："
+      ],
+      "units": 37
+    },
+    {
+      "id": "ch15-u053",
+      "source_ids": [
+        "ch15-u053"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\rho=\\frac{3c^2}{8\\pi Ga^2}\\tag{12}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\rho=\\frac{3c^2}{8\\pi Ga^2}\\tag{12}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch15-u054",
+      "source_ids": [
+        "ch15-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It can be shown that the vector field ",
+        {
+          "type": "math",
+          "tex": "C_\\mu",
+          "display": false
+        },
+        " is responsible for the “creation-of-matter” process. From Eq. (8) we have:"
+      ],
+      "zh": [
+        "可以表明，矢量场 ",
+        {
+          "type": "math",
+          "tex": "C_\\mu",
+          "display": false
+        },
+        " 对“物质创生”过程负责。从式 (8) 我们有："
+      ],
+      "units": 21
+    },
+    {
+      "id": "ch15-u055",
+      "source_ids": [
+        "ch15-u055",
+        "ch15-u056"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "(C^{\\mu\\nu})_{;\\nu}=-\\frac{8\\pi G}{c^4}(T^{\\mu\\nu})_{;\\nu}\\tag{13}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "(C^{\\mu\\nu})_{;\\nu}=-\\frac{8\\pi G}{c^4}(T^{\\mu\\nu})_{;\\nu}\\tag{13}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch15-u057",
+      "source_ids": [
+        "ch15-u057"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Since ",
+        {
+          "type": "math",
+          "tex": "(C^{0\\nu})_{;\\nu}\\ne0",
+          "display": false
+        },
+        ", a continuous creation of matter and energy uniformly occurs."
+      ],
+      "zh": [
+        "由于 ",
+        {
+          "type": "math",
+          "tex": "(C^{0\\nu})_{;\\nu}\\ne0",
+          "display": false
+        },
+        "，物质和能量便均匀地持续创生。"
+      ],
+      "units": 15
+    },
+    {
+      "id": "ch15-u058",
+      "source_ids": [
+        "ch15-u058"
+      ],
+      "page": "276",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The details of Hoyle’s model are not of primary interest to us. But it is worth reflecting on the result. The modified field equations of gravitation (8) represent a general relation between physical quantities ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "T_{\\mu\\nu}",
+          "display": false
+        },
+        ". Incorporated in this general relation, however, is another quantity, ",
+        {
+          "type": "math",
+          "tex": "C_{\\mu\\nu}",
+          "display": false
+        },
+        ", having, it would seem, a purely factual significance, as it is constructed from the vector field ",
+        {
+          "type": "math",
+          "tex": "C_\\mu",
+          "display": false
+        },
+        ", which has its origin in the features of a particular model of the Universe. Thus, in order to derive this model from the modified field theory of gravitation, one has first to ground the theory itself in the model at hand. What legitimizes creating such a “centaur,” in which the nomic and apparently non-nomic features are blended together in a single relation, is, again, the idea that for the Universe as a whole, the distinction between the general and the particular fades away. Yet the particular “mixture” of them, which is represented by Eq. (8), must be in place to insure the consistency between the laws physics and the cosmological behavior of this very special Universe."
+      ],
+      "zh": [
+        "霍伊尔模型的细节不是我们首要的兴趣。但这个结果值得反思。修改后的引力场方程 (8) 代表物理量 ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " 与 ",
+        {
+          "type": "math",
+          "tex": "T_{\\mu\\nu}",
+          "display": false
+        },
+        " 之间的一般关系。然而，在这个一般关系中纳入了另一个量 ",
+        {
+          "type": "math",
+          "tex": "C_{\\mu\\nu}",
+          "display": false
+        },
+        "，它似乎具有纯粹事实性的意义，因为它由矢量场 ",
+        {
+          "type": "math",
+          "tex": "C_\\mu",
+          "display": false
+        },
+        " 构造，而后者起源于宇宙的某个特定模型的特征。因此，为了从修改后的引力场论推导出这个模型，人们必须首先把这个理论本身奠基于手头的模型之中。使创造这样一个“半人马”——在其中律则特征和表面上非律则的特征在单一关系中混合在一起——合法化的，又是这样一个想法：对宇宙整体而言，一般与特殊之间的区分消失了。然而，由式 (8) 代表的它们的特殊“混合”不可或缺，因为它保证物理定律与这个十分特殊的宇宙的整体行为一致。"
+      ],
+      "units": 187
+    },
+    {
+      "id": "ch15-u060",
+      "source_ids": [
+        "ch15-u060"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The two cases, Einstein’s static model and the steady-state model, thus have much in common in that both centrally involve transcendental arguments, in the sense noted in Section 1. Both cases present considerable historical interest. Both, however, represent dead ends in cosmological theory. It would be interesting to see what else, besides the anthropic arguments (briefly considered in Section 2), may illustrate the contemporary value of transcendental reasoning in cosmology. I would like to look at one rather controversial case and end on a cautious note."
+      ],
+      "zh": [
+        "因此，爱因斯坦静态模型和稳恒态模型这两个案例有许多共同之处，两者都以第 1 节所说的先验论证为主轴。两个案例都呈现了相当大的历史兴趣。然而，两者都代表宇宙学理论中的死胡同。看看除了（第 2 节简要考虑的）人择论证之外，还有什么可以例示先验推理在宇宙学中的当代价值，将是有趣的。我想考察一个相当有争议的案例，并以谨慎的调子结束。"
+      ],
+      "units": 86
+    },
+    {
+      "id": "ch15-u061",
+      "source_ids": [
+        "ch15-u061"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "5 Euclidean Quantum Cosmology"
+      ],
+      "zh": [
+        "5 欧几里得量子宇宙学"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch15-u062",
+      "source_ids": [
+        "ch15-u062"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The case in question is the Euclidean, or Riemannian, quantum cosmology (Hartle and Hawking, 1983).",
+        {
+          "type": "note",
+          "id": "ch15-n07",
+          "label": "7"
+        },
+        " Its central idea is to use the path-integral approach to quantum gravity to calculate the wave function of the Universe. The propagator of quantum gravity, ",
+        {
+          "type": "math",
+          "tex": "K(\\Sigma_i,\\gamma_i,\\phi_i;\\Sigma_f,\\gamma_f,\\phi_f)",
+          "display": false
+        },
+        ", is supposed to integrate over the set of all 4D Lorentzian manifolds interpolating between the initial and final 3D configurations ",
+        {
+          "type": "math",
+          "tex": "(\\Sigma_i,\\gamma_i,\\phi_i)",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "(\\Sigma_f,\\gamma_f,\\phi_f)",
+          "display": false
+        },
+        ", which include Riemannian metric fields ",
+        {
+          "type": "math",
+          "tex": "\\gamma_i",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "\\gamma_f",
+          "display": false
+        },
+        " and matter field configurations ",
+        {
+          "type": "math",
+          "tex": "\\phi_i",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "\\phi_f",
+          "display": false
+        },
+        ":"
+      ],
+      "zh": [
+        "相关案例是欧几里得的或黎曼的量子宇宙学（Hartle and Hawking, 1983）。",
+        {
+          "type": "note",
+          "id": "ch15-n07",
+          "label": "7"
+        },
+        " 其核心想法是用量子引力的路径积分进路计算宇宙的波函数。量子引力的传播子 ",
+        {
+          "type": "math",
+          "tex": "K(\\Sigma_i,\\gamma_i,\\phi_i;\\Sigma_f,\\gamma_f,\\phi_f)",
+          "display": false
+        },
+        " 应当对在初始和终态三维构型 ",
+        {
+          "type": "math",
+          "tex": "(\\Sigma_i,\\gamma_i,\\phi_i)",
+          "display": false
+        },
+        " 与 ",
+        {
+          "type": "math",
+          "tex": "(\\Sigma_f,\\gamma_f,\\phi_f)",
+          "display": false
+        },
+        " 之间插值的一切四维洛伦兹流形的集合积分，这些构型包括黎曼度规场 ",
+        {
+          "type": "math",
+          "tex": "\\gamma_i",
+          "display": false
+        },
+        " 和 ",
+        {
+          "type": "math",
+          "tex": "\\gamma_f",
+          "display": false
+        },
+        " 以及物质场构型 ",
+        {
+          "type": "math",
+          "tex": "\\phi_i",
+          "display": false
+        },
+        " 和 ",
+        {
+          "type": "math",
+          "tex": "\\phi_f",
+          "display": false
+        },
+        "："
+      ],
+      "units": 105
+    },
+    {
+      "id": "ch15-u063",
+      "source_ids": [
+        "ch15-u063",
+        "ch15-u069",
+        "ch15-u064"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "K(\\Sigma_i,\\gamma_i,\\phi_i;\\Sigma_f,\\gamma_f,\\phi_f)=\\int_{\\mathcal P_L}e^{iA/\\hbar}\\,d\\mu\\tag{14}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "K(\\Sigma_i,\\gamma_i,\\phi_i;\\Sigma_f,\\gamma_f,\\phi_f)=\\int_{\\mathcal P_L}e^{iA/\\hbar}\\,d\\mu\\tag{14}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch15-u065",
+      "source_ids": [
+        "ch15-u065"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But Lorentzian integration is not well defined (one reason being the oscillatory nature of the complex exponent). Accordingly, one follows Hawking’s earlier proposal and replaces it with integration over the set of compact Riemannian 4-manifolds. The action A then becomes a “Euclidean” action ",
+        {
+          "type": "math",
+          "tex": "A_E",
+          "display": false
+        },
+        " and is assigned a real-valued weight:"
+      ],
+      "zh": [
+        "但洛伦兹积分没有良好定义（一个原因是复指数的振荡本性）。因此，人们遵循霍金早先的提议，把它替换为对紧黎曼四维流形集合的积分。作用量 A 于是变成“欧几里得”作用量 ",
+        {
+          "type": "math",
+          "tex": "A_E",
+          "display": false
+        },
+        "，并被赋予实值权重："
+      ],
+      "units": 51
+    },
+    {
+      "id": "ch15-u066",
+      "source_ids": [
+        "ch15-u066",
+        "ch15-u067",
+        "ch15-u070",
+        "ch15-u071"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "K(\\Sigma_i,\\gamma_i,\\phi_i;\\Sigma_f,\\gamma_f,\\phi_f)=\\int_{\\mathcal P_L}e^{-A_E/\\hbar}\\,d\\mu\\tag{15}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "K(\\Sigma_i,\\gamma_i,\\phi_i;\\Sigma_f,\\gamma_f,\\phi_f)=\\int_{\\mathcal P_L}e^{-A_E/\\hbar}\\,d\\mu\\tag{15}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch15-u068",
+      "source_ids": [
+        "ch15-u068"
+      ],
+      "page": "277",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Compact Riemannian geometries are geodesically complete, hence there are no singularities. This suggests the idea that one can avoid the initial cosmological singularity as well by eliminating the initial configuration (or replacing it, so to speak, with an empty set) and integrating over the compact 4-manifolds with a single boundary",
+        {
+          "type": "note",
+          "id": "ch15-n08",
+          "label": "8"
+        },
+        ":"
+      ],
+      "zh": [
+        "紧黎曼几何是测地完备的，因此没有奇点。这提示了一个想法：人们也可以通过消除初始构型（或者可以说用空集替换它），并对只有单一边界的紧四维流形积分，来避免初始宇宙学奇点",
+        {
+          "type": "note",
+          "id": "ch15-n08",
+          "label": "8"
+        },
+        "："
+      ],
+      "units": 50
+    },
+    {
+      "id": "ch15-u072",
+      "source_ids": [
+        "ch15-u072",
+        "ch15-u073",
+        "ch15-u079"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "K(\\varnothing;\\Sigma_f,\\gamma_f,\\phi_f)=\\int_{\\mathcal P_L}e^{-A_E/\\hbar}\\,d\\mu\\tag{16}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "K(\\varnothing;\\Sigma_f,\\gamma_f,\\phi_f)=\\int_{\\mathcal P_L}e^{-A_E/\\hbar}\\,d\\mu\\tag{16}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch15-u074",
+      "source_ids": [
+        "ch15-u074"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The Hartle–Hawking program builds on this framework by identifying the propagator of this sort with the “wave function of the Universe”:"
+      ],
+      "zh": [
+        "哈特尔–霍金纲领在这个框架上建立，把这种传播子等同于“宇宙的波函数”："
+      ],
+      "units": 22
+    },
+    {
+      "id": "ch15-u075",
+      "source_ids": [
+        "ch15-u075"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\Psi_0(\\Sigma_f,\\gamma_f,\\phi_f)\\equiv K(\\varnothing;\\Sigma_f,\\gamma_f,\\phi_f)\\tag{17}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\Psi_0(\\Sigma_f,\\gamma_f,\\phi_f)\\equiv K(\\varnothing;\\Sigma_f,\\gamma_f,\\phi_f)\\tag{17}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch15-u076",
+      "source_ids": [
+        "ch15-u076"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "and claiming that it gives the probability amplitude of “creation of the Universe ex nihilo.” To quote from Hartle and Hawking’s seminal paper, “[t]his means that the Universe does not have any boundaries in space or time (at least in the Euclidean regime). There is thus no problem of boundary conditions” (Hartle and Hawking, 1983, p. 2961). If this interpretation of Eq. (17) were plausible it would present another remarkable example of transcendental inference in cosmology. At the very least, one could say that, in order to be singularity-free and insensitive to boundary conditions, the Universe has to be a certain way: without a boundary, Euclidean in the past, and with a determinate probability of emerging from nothing."
+      ],
+      "zh": [
+        "并声称它给出“宇宙从无中创生（ex nihilo）”的概率幅。引用哈特尔和霍金开创性论文的话：“这意味着宇宙在空间或时间中没有任何边界（至少在欧几里得情形中）。因此没有边界条件问题”（Hartle and Hawking, 1983, p. 2961）。如果对式 (17) 的这种诠释是可信的，它将呈现宇宙学中先验推断的另一个值得注意的例子。至少人们可以说，为了无奇点且对边界条件不敏感，宇宙必须没有边界，过去具有欧几里得几何，并以某一确定的概率从无中出现。"
+      ],
+      "units": 119
+    },
+    {
+      "id": "ch15-u077",
+      "source_ids": [
+        "ch15-u077"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Unfortunately, as noted by many critics (see, e.g., Butterfield and Isham, 1999, section 5.5; McCabe, 2005, pp. 79–81), Hartle and Hawking’s result does not warrant the interpretation they put on it. First, it is doubtful that the features noted above – not having a past boundary and being Euclidean in the past – have anything to do with the Universe in which we live, for Eq. (17) describes a wave function, not a single classical manifold. Second, there is no clear sense in which “emergence from nothing” or even “from a Euclidean regime” could be viewed as itself a process in time. Finally, it is unclear whether the proposal actually gets rid of boundary conditions or, rather, provides a recipe for a boundary condition (of the wave function of the Universe); in other words, it is unclear in what sense it is a “no-boundary” proposal."
+      ],
+      "zh": [
+        "不幸的是，正如许多批评者指出的（参见如 Butterfield and Isham, 1999, 第 5.5 节; McCabe, 2005, pp. 79–81），哈特尔和霍金的结果并不足以支持他们对这一结果的解释。首先，上面指出的特征——没有过去边界并且在过去是欧几里得的——是否与我们生活于其中的宇宙有任何关系，是可疑的，因为式 (17) 描述的是一个波函数，而不是单一的经典流形。第二，没有清楚的意义可以把“从无中出现”或甚至“从欧几里得阶段出现”本身看作时间中的过程。最后，不清楚这个提议是否真的摆脱了边界条件，还是毋宁说提供了一个为宇宙波函数设定边界条件的方法；换句话说，不清楚它在什么意义上是一个“无边界”提议。"
+      ],
+      "units": 146
+    },
+    {
+      "id": "ch15-u078",
+      "source_ids": [
+        "ch15-u078"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This prompts one to end on a cautious note. Transcendental arguments have been crucially involved in the history of modern physical cosmology. One also finds a different variety of them at work in weak anthropic arguments. Given the importance of transcendental reasoning, one should not be surprised to see other examples of its application – or at least attempted application – in contemporary cosmological theory.",
+        {
+          "type": "note",
+          "id": "ch15-n09",
+          "label": "9"
+        }
+      ],
+      "zh": [
+        "因此，结论也要有所保留。先验论证在现代物理宇宙学的历史中起了关键作用。人们也在弱人择论证中发现它们的一个不同变种在起作用。鉴于先验推理的重要性，看到它在当代宇宙学理论中应用——或至少试图应用——的其他例子，人们不应感到惊讶。",
+        {
+          "type": "note",
+          "id": "ch15-n09",
+          "label": "9"
+        }
+      ],
+      "units": 63
+    },
+    {
+      "id": "ch15-u080",
+      "source_ids": [
+        "ch15-u080"
+      ],
+      "page": "278",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch15-bibliography-001",
+      "source_ids": [
+        "ch15-ref002",
+        "ch15-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Balashov, Yuri (1992), “Transcendental Background to the Anthropic Reasoning in Cosmology,” Man & World 25: 115–132."
+      ],
+      "zh": [
+        "Balashov, Yuri (1992), “Transcendental Background to the Anthropic Reasoning in Cosmology,” Man & World 25: 115–132."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch15-bibliography-002",
+      "source_ids": [
+        "ch15-ref003",
+        "ch15-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Balashov, Yuri (1994), “Uniformitarianism in Cosmology: Background and Philosophical Implications of the Steady-State Theory,” Studies in History and Philosophy of Science 25B: 933–958."
+      ],
+      "zh": [
+        "Balashov, Yuri (1994), “Uniformitarianism in Cosmology: Background and Philosophical Implications of the Steady-State Theory,” Studies in History and Philosophy of Science 25B: 933–958."
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch15-bibliography-003",
+      "source_ids": [
+        "ch15-ref004",
+        "ch15-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Balashov, Yuri (2002), “Laws of Physics and the Universe,” in Y. Balashov and V. Vizgin, eds., Einstein Studies in Russia. Boston, MA/Basel/Berlin: Birkhäuser, pp. 107–148."
+      ],
+      "zh": [
+        "Balashov, Yuri (2002), “Laws of Physics and the Universe,” in Y. Balashov and V. Vizgin, eds., Einstein Studies in Russia. Boston, MA/Basel/Berlin: Birkhäuser, pp. 107–148."
+      ],
+      "shared": true,
+      "units": 28
+    },
+    {
+      "id": "ch15-bibliography-004",
+      "source_ids": [
+        "ch15-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Barrow, John and Tipler, Frank (1986), The Anthropic Cosmological Principle. Oxford: Clarendon."
+      ],
+      "zh": [
+        "Barrow, John and Tipler, Frank (1986), The Anthropic Cosmological Principle. Oxford: Clarendon."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch15-bibliography-005",
+      "source_ids": [
+        "ch15-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bondi, Hermann (1960), Cosmology. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Bondi, Hermann (1960), Cosmology. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch15-bibliography-006",
+      "source_ids": [
+        "ch15-ref005",
+        "ch15-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bondi, Hermann and Gold, Thomas (1948), “The Steady-State Theory of the Expanding Universe,” Monthly Notices of the Royal Astronomical Society 108: 252–270."
+      ],
+      "zh": [
+        "Bondi, Hermann and Gold, Thomas (1948), “The Steady-State Theory of the Expanding Universe,” Monthly Notices of the Royal Astronomical Society 108: 252–270."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch15-bibliography-007",
+      "source_ids": [
+        "ch15-ref006",
+        "ch15-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bostrom, Nick (2002), Anthropic Bias: Observation Selection Effects in Science and Philosophy. New York: Routledge."
+      ],
+      "zh": [
+        "Bostrom, Nick (2002), Anthropic Bias: Observation Selection Effects in Science and Philosophy. New York: Routledge."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch15-bibliography-008",
+      "source_ids": [
+        "ch15-ref007",
+        "ch15-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Butterfield, Jeremy and Isham, Chris (1999), “On the Emergence of Time in Quantum Gravity,” in J. Butterfield, ed., The Arguments of Time. Oxford: Oxford University Press, pp. 111–168."
+      ],
+      "zh": [
+        "Butterfield, Jeremy and Isham, Chris (1999), “On the Emergence of Time in Quantum Gravity,” in J. Butterfield, ed., The Arguments of Time. Oxford: Oxford University Press, pp. 111–168."
+      ],
+      "shared": true,
+      "units": 29
+    },
+    {
+      "id": "ch15-bibliography-009",
+      "source_ids": [
+        "ch15-ref008",
+        "ch15-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Einstein, Albert (1917), “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie,” Königlich Preussiche Akademie der Wissenschaften (Berlin). Sitzungsberichte: 142–152. Page references in text are to the English translation in A. Einstein et al., The Principle of Relativity. London: Methuen, 1923, pp. 175–188."
+      ],
+      "zh": [
+        "Einstein, Albert (1917), “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie,” Königlich Preussiche Akademie der Wissenschaften (Berlin). Sitzungsberichte: 142–152. Page references in text are to the English translation in A. Einstein et al., The Principle of Relativity. London: Methuen, 1923, pp. 175–188."
+      ],
+      "shared": true,
+      "units": 41
+    },
+    {
+      "id": "ch15-bibliography-010",
+      "source_ids": [
+        "ch15-ref009",
+        "ch15-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Gale, George (1992), “Rationalist Programmes in Early Modern Cosmology,” The Astronomy Quarterly 8: 4–21."
+      ],
+      "zh": [
+        "Gale, George (1992), “Rationalist Programmes in Early Modern Cosmology,” The Astronomy Quarterly 8: 4–21."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch15-bibliography-011",
+      "source_ids": [
+        "ch15-ref010",
+        "ch15-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Gale, George (1999), “Milne, Bondi and the ‘Second Way’ to Cosmology,” in H. Goenner, J. Renn, J. Ritter, and T. Sauer, eds., The Expanding Worlds of General Relativity. Boston, MA/ Basel/Berlin: Birkhäuser, pp. 343–375."
+      ],
+      "zh": [
+        "Gale, George (1999), “Milne, Bondi and the ‘Second Way’ to Cosmology,” in H. Goenner, J. Renn, J. Ritter, and T. Sauer, eds., The Expanding Worlds of General Relativity. Boston, MA/ Basel/Berlin: Birkhäuser, pp. 343–375."
+      ],
+      "shared": true,
+      "units": 36
+    },
+    {
+      "id": "ch15-bibliography-012",
+      "source_ids": [
+        "ch15-ref011",
+        "ch15-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Gale, George and Shanks, Niall (1996), “Methodology and the Birth of Modern Cosmological Inquiry,” Studies in History and Philosophy of Modern Physics 27B: 279–296."
+      ],
+      "zh": [
+        "Gale, George and Shanks, Niall (1996), “Methodology and the Birth of Modern Cosmological Inquiry,” Studies in History and Philosophy of Modern Physics 27B: 279–296."
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch15-bibliography-013",
+      "source_ids": [
+        "ch15-ref012",
+        "ch15-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Gale, George and Urani, John (1993), “Philosophical Midwifery and the Birth-Pangs of Modern Cosmology,” American Journal of Physics 61: 66–73."
+      ],
+      "zh": [
+        "Gale, George and Urani, John (1993), “Philosophical Midwifery and the Birth-Pangs of Modern Cosmology,” American Journal of Physics 61: 66–73."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch15-bibliography-014",
+      "source_ids": [
+        "ch15-ref013",
+        "ch15-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hartle, James and Hawking, Stephen (1983), “Wave Function of the Universe,” Physical Review D28: 2960–2975."
+      ],
+      "zh": [
+        "Hartle, James and Hawking, Stephen (1983), “Wave Function of the Universe,” Physical Review D28: 2960–2975."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch15-bibliography-015",
+      "source_ids": [
+        "ch15-ref014",
+        "ch15-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hoyle, Fred (1948), “A New Model for the Expanding Universe,” Monthly Notices of the Royal Astronomical Society 108: 372–382."
+      ],
+      "zh": [
+        "Hoyle, Fred (1948), “A New Model for the Expanding Universe,” Monthly Notices of the Royal Astronomical Society 108: 372–382."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch15-bibliography-016",
+      "source_ids": [
+        "ch15-ref015",
+        "ch15-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kragh, Helge (1996), Cosmology and Controversy: The Historical Development of Two Theories of the Universe. Princeton, NJ: Princeton University Press."
+      ],
+      "zh": [
+        "Kragh, Helge (1996), Cosmology and Controversy: The Historical Development of Two Theories of the Universe. Princeton, NJ: Princeton University Press."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch15-bibliography-017",
+      "source_ids": [
+        "ch15-ref016",
+        "ch15-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "McCabe, Gordon (2005), “The Structure and Interpretation of Cosmology: Part II. The Concept of Creation in Inflation and Quantum Cosmology,” Studies in History and Philosophy of Modern Physics 36: 67–102."
+      ],
+      "zh": [
+        "McCabe, Gordon (2005), “The Structure and Interpretation of Cosmology: Part II. The Concept of Creation in Inflation and Quantum Cosmology,” Studies in History and Philosophy of Modern Physics 36: 67–102."
+      ],
+      "shared": true,
+      "units": 31
+    },
+    {
+      "id": "ch15-bibliography-018",
+      "source_ids": [
+        "ch15-ref017",
+        "ch15-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "McMullin, Ernan (1993), “Indifference Principle and Anthropic Principle in Cosmology,” Studies in the History and Philosophy of Science 24: 359–389."
+      ],
+      "zh": [
+        "McMullin, Ernan (1993), “Indifference Principle and Anthropic Principle in Cosmology,” Studies in the History and Philosophy of Science 24: 359–389."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch15-bibliography-019",
+      "source_ids": [
+        "ch15-ref018",
+        "ch15-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "McMullin, Ernan (1994), “Long Ago and Far Away: Cosmology as Extrapolation,” in R. Fuller, ed., Bang: The Evolving Cosmos. Lanham, MD: University Press of America, pp. 105–145."
+      ],
+      "zh": [
+        "McMullin, Ernan (1994), “Long Ago and Far Away: Cosmology as Extrapolation,” in R. Fuller, ed., Bang: The Evolving Cosmos. Lanham, MD: University Press of America, pp. 105–145."
+      ],
+      "shared": true,
+      "units": 28
+    },
+    {
+      "id": "ch15-bibliography-020",
+      "source_ids": [
+        "ch15-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Merleau Ponty, Jacques (1965), Cosmologie du XX Siècle. Paris: Gallimard."
+      ],
+      "zh": [
+        "Merleau Ponty, Jacques (1965), Cosmologie du XX Siècle. Paris: Gallimard."
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch15-bibliography-021",
+      "source_ids": [
+        "ch15-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Milne, Edward Arthur (1948), Kinematic Relativity. Oxford: Clarendon."
+      ],
+      "zh": [
+        "Milne, Edward Arthur (1948), Kinematic Relativity. Oxford: Clarendon."
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch15-bibliography-022",
+      "source_ids": [
+        "ch15-ref019",
+        "ch15-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Munitz, Milton (1962), “The Logic of Cosmology,” The British Journal for the Philosophy of Science 13: 34–50."
+      ],
+      "zh": [
+        "Munitz, Milton (1962), “The Logic of Cosmology,” The British Journal for the Philosophy of Science 13: 34–50."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch15-bibliography-023",
+      "source_ids": [
+        "ch15-ref020",
+        "ch15-ref021"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "North, John (1965), The Measure of the Universe. A History of Modern Cosmology. Oxford: Clarendon."
+      ],
+      "zh": [
+        "North, John (1965), The Measure of the Universe. A History of Modern Cosmology. Oxford: Clarendon."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch15-bibliography-024",
+      "source_ids": [
+        "ch15-ref021",
+        "ch15-ref022"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Roush, Sherrylin (2003), “Copernicus, Kant, and the Anthropic Cosmological Principles,” Studies in History and Philosophy of Modern Physics 34: 5–35."
+      ],
+      "zh": [
+        "Roush, Sherrylin (2003), “Copernicus, Kant, and the Anthropic Cosmological Principles,” Studies in History and Philosophy of Modern Physics 34: 5–35."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch15-bibliography-025",
+      "source_ids": [
+        "ch15-ref022",
+        "ch15-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Vilenkin, Alexander (2004), “Anthropic Predictions: The Case of the Cosmological Constant,” http://www.arxiv.org/abs/astro-ph/0407586."
+      ],
+      "zh": [
+        "Vilenkin, Alexander (2004), “Anthropic Predictions: The Case of the Cosmological Constant,” http://www.arxiv.org/abs/astro-ph/0407586."
+      ],
+      "shared": true,
+      "units": 18
+    }
+  ],
+  "notes": {
+    "ch15-n01": {
+      "number": "1",
+      "en": [
+        "See, in particular, Bondi (1960), Munitz (1962), North (1965), Merleau-Ponty (1965). For recent discussions, see Gale (1992, 1999), Gale and Urani (1993), McMullin (1993, 1994), Gale and Shanks (1996), Balashov (1994, 2002) and references therein."
+      ],
+      "zh": [
+        "特别参见 Bondi (1960), Munitz (1962), North (1965), Merleau-Ponty (1965)。晚近的讨论参见 Gale (1992, 1999), Gale and Urani (1993), McMullin (1993, 1994), Gale and Shanks (1996), Balashov (1994, 2002) 及其中引用的文献。"
+      ]
+    },
+    "ch15-n02": {
+      "number": "2",
+      "en": [
+        "As was done by Edward Milne in his cosmological project (Milne, 1948). On Milne’s “rationalist program,” see, e.g., Gale (1992, 1999)."
+      ],
+      "zh": [
+        "正如爱德华·米尔恩在其宇宙学纲领中所做的那样（Milne, 1948）。关于米尔恩的“理性论纲领”，参见如 Gale (1992, 1999)。"
+      ]
+    },
+    "ch15-n03": {
+      "number": "3",
+      "en": [
+        "See Barrow and Tipler (1986) for a useful survey of various “anthropic constraints.”"
+      ],
+      "zh": [
+        "关于各种“人择约束”的有用综述，参见 Barrow and Tipler (1986)。"
+      ]
+    },
+    "ch15-n04": {
+      "number": "4",
+      "en": [
+        "One good example is the vacuum-energy driven cosmological constant Λ. See Vilenkin (2004) for a recent discussion."
+      ],
+      "zh": [
+        "一个好例子是真空能驱动的宇宙学常数 Λ。晚近的讨论参见 Vilenkin (2004)。"
+      ]
+    },
+    "ch15-n05": {
+      "number": "5",
+      "en": [
+        "On the transcendental nature of weak anthropic reasoning, see Balashov (1992) and Roush (2003)."
+      ],
+      "zh": [
+        "关于弱人择推理的先验本性，参见 Balashov (1992) 和 Roush (2003)。"
+      ]
+    },
+    "ch15-n06": {
+      "number": "6",
+      "en": [
+        "See Balashov (1994) for a discussion of the methodological foundations of SST. For a detailed history of the big bang-steady state controversy, see Kragh (1996)."
+      ],
+      "zh": [
+        "关于稳恒态理论方法论基础的讨论，参见 Balashov (1994)。关于大爆炸–稳恒态争论的详细历史，参见 Kragh (1996)。"
+      ]
+    },
+    "ch15-n07": {
+      "number": "7",
+      "en": [
+        "My account of the Hartle–Hawking proposal is based on an excellent critical review by Gordon McCabe (2005, pp. 74–81). His notation is used throughout."
+      ],
+      "zh": [
+        "我对哈特尔–霍金提议的说明基于戈登·麦凯布的一篇出色的批判性评论（2005, pp. 74–81）。全文采用他的记号。"
+      ]
+    },
+    "ch15-n08": {
+      "number": "8",
+      "en": [
+        "Even so, the “Euclidean” action is in general not positive definite, so the exponent diverges. To tame it, one needs to integrate over a select subset of four-geometries."
+      ],
+      "zh": [
+        "即便如此，“欧几里得”作用量一般不是正定的，因此指数发散。要控制这种发散，需要把积分限于某个经过选择的四维几何子集。"
+      ]
+    },
+    "ch15-n09": {
+      "number": "9",
+      "en": [
+        "A version of this paper was presented at the conference “Cosmology: Physics and Philosophical Perspectives” held at University of Notre Dame, Indiana, USA in April 2005. My thanks to the audience for a stimulating discussion."
+      ],
+      "zh": [
+        "本文的一个版本曾在 2005 年 4 月于美国印第安纳州圣母大学举行的“宇宙学：物理学与哲学视角”会议上报告。感谢听众富有启发的讨论。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1271 @@
+{
+  "id": "ch05",
+  "title": "莫里茨·石里克：在先天综合判断与约定主义之间",
+  "originalTitle": "Moritz Schlick: Between Synthetic A Priori Judgment and Conventionalism",
+  "outline": [
+    {
+      "anchor": "ch05-u011",
+      "title": "1 石里克与康德主义：寻找自己的哲学方位",
+      "originalTitle": "1 Schlick and Kantism: Finding One’s Philosophical Bearing",
+      "level": 1
+    },
+    {
+      "anchor": "ch05-u019",
+      "title": "2 约定主义？",
+      "originalTitle": "2 Conventionalism?",
+      "level": 1
+    },
+    {
+      "anchor": "ch05-u026",
+      "title": "3 作为约定的隐定义",
+      "originalTitle": "3 Implicit Definitions as Conventions",
+      "level": 1
+    },
+    {
+      "anchor": "ch05-u031",
+      "title": "4 与实在论相容的假设",
+      "originalTitle": "4 Realism-Compatible Hypotheses",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch05-u001",
+      "source_ids": [
+        "ch05-u001"
+      ],
+      "page": "117",
+      "canonical_kind": "chapter_heading",
+      "en": [
+        {
+          "type": "note",
+          "id": "ch05-n01",
+          "label": "1"
+        }
+      ],
+      "zh": [
+        {
+          "type": "note",
+          "id": "ch05-n01",
+          "label": "1"
+        }
+      ],
+      "units": 1
+    },
+    {
+      "id": "ch05-u002",
+      "source_ids": [
+        "ch05-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Christian Bonnet and Ronan de Calan"
+      ],
+      "zh": [
+        "克里斯蒂安·博内、罗南·德·卡朗"
+      ],
+      "units": 6
+    },
+    {
+      "id": "ch05-u003",
+      "source_ids": [
+        "ch05-u003"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract The present article aims at tracing Moritz Schlick’s theoretical route from 1915 to 1936 – the year he was assassinated. The authors describe this route as Schlick’s attempt at successively evading what one could define as two flaws in modern philosophy – the Charybdis of Kantian epistemology and the Scylla of radical conventionalism."
+      ],
+      "zh": [
+        "摘要 本文旨在勾勒莫里茨·石里克从1915年到1936年——他遇刺身亡的那一年——的理论历程。作者把这一历程描述为石里克接连规避现代哲学中两个可称为缺陷的东西的尝试：康德认识论的卡律布狄斯漩涡与激进约定主义的斯库拉海怪。"
+      ],
+      "units": 52
+    },
+    {
+      "id": "ch05-u004",
+      "source_ids": [
+        "ch05-u004"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Such an original and daring guideline also deviates from all great epistemological philosophies dating from the beginning of the century with which the Vienna Circle’s founder engaged in fruitful dialogue – among which Neokantianism and phenomenology, as well as Hilbertian Axiomatic or Poincaré and Duhem’s doctrines."
+      ],
+      "zh": [
+        "这样一条原创而大胆的路线，也偏离了世纪初以来所有伟大的认识论哲学——维也纳学派创始人与它们进行过富有成果的对话——其中包括新康德主义与现象学，以及希尔伯特公理化、彭加勒与迪昂的学说。"
+      ],
+      "units": 45
+    },
+    {
+      "id": "ch05-u005",
+      "source_ids": [
+        "ch05-u005"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In Otto Neurath’s opinion, what made Austrian philosophy, and more particularly the Vienna Circle, so singular, was that Austria “had been spared any Kantian interlude.",
+        {
+          "type": "note",
+          "id": "ch05-n02",
+          "label": "2"
+        },
+        "” However relevant this analysis may be in certain respects, it can scarcely pertain to Moritz Schlick who insisted on confronting himself with Kant, underlining the convergent issues between his own doctrine and transcendental philosophy not only in his early texts, which commentators have regularly labelled as Kantian or neo-Kantian,",
+        {
+          "type": "note",
+          "id": "ch05-n03",
+          "label": "3"
+        },
+        " but also in his texts dating from the 1930s."
+      ],
+      "zh": [
+        "在奥托·纽拉特看来，使奥地利哲学、尤其是维也纳学派如此独特的，是奥地利“幸免了任何康德主义的插曲。",
+        {
+          "type": "note",
+          "id": "ch05-n02",
+          "label": "2"
+        },
+        "”无论这个分析在某些方面多么中肯，它都很难适用于莫里茨·石里克：石里克坚持与康德正面交锋，强调自己的学说与先验哲学有哪些共同关切，不仅在其早期文本中——评论者一贯给这些文本贴上康德主义或新康德主义的标签",
+        {
+          "type": "note",
+          "id": "ch05-n03",
+          "label": "3"
+        },
+        "——而且在其1930年代的文本中也是如此。"
+      ],
+      "units": 83
+    },
+    {
+      "id": "ch05-u006",
+      "source_ids": [
+        "ch05-u006"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "C. Bonnet Université Paris 1 (Panthéon-Sorbonne) and Institut d’Histoire et de Philosophie des Sciences et des Techniques (IHPST) R. de Calan Ecole Normale Supérieure of Lyon and Centre d’Etudes en Rhétorique, Philosophie et Histoire des Idées (CERPHI)"
+      ],
+      "zh": [
+        "C. Bonnet Université Paris 1 (Panthéon-Sorbonne) and Institut d’Histoire et de Philosophie des Sciences et des Techniques (IHPST) R. de Calan Ecole Normale Supérieure of Lyon and Centre d’Etudes en Rhétorique, Philosophie et Histoire des Idées (CERPHI)"
+      ],
+      "shared": true,
+      "units": 37
+    },
+    {
+      "id": "ch05-u007",
+      "source_ids": [
+        "ch05-u007"
+      ],
+      "page": "118",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Indeed, in 1932 in Form and Content, if Schlick objected – as all the logical empiricists",
+        {
+          "type": "note",
+          "id": "ch05-n04",
+          "label": "4"
+        },
+        " did – to the Kantian idea according to which synthetic a priori judgments existed and allowed us to grasp reality without relying on experience at all, he nevertheless gave credit to the concept of a priori. More precisely, Schlick agreed with Kant that only the a priori was endowed with an absolute validity, anywhere at any time, for he “saw clearly, of course, that all analytic propositions must be a priori” and that “the validity of a tautology is quite independent of experience, as it rests on nothing but the definitions of the concepts occurring in it.",
+        {
+          "type": "note",
+          "id": "ch05-n05",
+          "label": "5"
+        },
+        "” To Schlick’s mind, Kant’s relevance was therefore twofold: on the one hand, the latter was right “to insist that the term a priori must not be understood psychologically, but logically: that is to say, a judgment a priori is not one that is generated in the mind without any previous experience […], but it is one whose truth is not based on experience; it would not have come into existence without experience, but does not derive its validity from it.",
+        {
+          "type": "note",
+          "id": "ch05-n06",
+          "label": "6"
+        },
+        "” As a matter of fact, though Schlick had chosen to keep aloof from his early Kantian background, after having been tempted, quite like Helmoltz,",
+        {
+          "type": "note",
+          "id": "ch05-n07",
+          "label": "7"
+        },
+        " to regard the a priori as a psycho-physiological concept, in 1932, rather paradoxically, he seemed to have adopted Kant’s ideas as regards the purely transcendental conception of the a priori. On the other hand, Schlick gave Kant credit for having stated “that if a proposition is valid a priori it must owe its validity to the form of knowledge, not to its material, because our understanding cannot possibly know beforehand what material will present itself to the mind in experience, while it might very well impress its own form on any material.",
+        {
+          "type": "note",
+          "id": "ch05-n08",
+          "label": "8"
+        },
+        "” In other words, the a priori is strictly formal: “Tautologies (or analytic judgements) are the only propositions a priori, they have absolute validity, but they owe it to their own form, not to a correspondence to facts, they tell us nothing about the world, they represent empty structures.",
+        {
+          "type": "note",
+          "id": "ch05-n09",
+          "label": "9"
+        },
+        "”"
+      ],
+      "zh": [
+        "的确，1932年在《形式与内容》中，尽管石里克像所有逻辑经验论者",
+        {
+          "type": "note",
+          "id": "ch05-n04",
+          "label": "4"
+        },
+        "一样，反对康德关于先天综合判断存在、并使我们完全不依赖经验就能把握实在的观念，他仍然肯定先天概念的价值。更确切地说，石里克同意康德：只有先天的东西才具有无论何时何地都成立的绝对有效性，因为他“当然清楚地看到，一切分析命题都必须是先天的”，并且“重言式的有效性完全独立于经验，因为它仅以其中出现的概念的定义为根据。",
+        {
+          "type": "note",
+          "id": "ch05-n05",
+          "label": "5"
+        },
+        "”在石里克看来，康德的见解因此有两点仍然成立：一方面，康德正确地“坚持先天一词不应在心理学上、而应在逻辑学上理解：也就是说，先天判断不是无需任何先前经验就在心中产生的判断……，而是其真不基于经验的判断；没有经验它固然不会产生，但它的有效性并不来自经验。",
+        {
+          "type": "note",
+          "id": "ch05-n06",
+          "label": "6"
+        },
+        "”事实上，尽管石里克选择疏远他早期的康德主义背景——他曾像亥姆霍兹一样",
+        {
+          "type": "note",
+          "id": "ch05-n07",
+          "label": "7"
+        },
+        "，倾向于把先天看作心理—生理学概念——1932年他却似乎颇为悖谬地采纳了康德关于先天的纯粹先验构想的观念。另一方面，石里克肯定康德提出了“如果一个命题先天有效，它的有效性必定归于知识的形式而非其质料，因为我们的知性不可能预先知道什么质料将在经验中呈现给心灵，却完全可能把自己的形式印在任何质料之上。",
+        {
+          "type": "note",
+          "id": "ch05-n08",
+          "label": "8"
+        },
+        "”换言之，先天是严格形式的：“重言式（或分析判断）是唯一的先天命题，它们具有绝对有效性，但这归于它们自身的形式，而非与事实的符合；它们关于世界什么也没告诉我们，它们表象空洞的结构。",
+        {
+          "type": "note",
+          "id": "ch05-n09",
+          "label": "9"
+        },
+        "”"
+      ],
+      "units": 354
+    },
+    {
+      "id": "ch05-u008",
+      "source_ids": [
+        "ch05-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Despite Kant’s acknowledgment of the purely formal nature of the a priori and his positing of the truly formal character of synthetic a priori propositions – which, he believed, were evinced in our cognitive activity – as well as of their being devoid of any ambition, in principle, to provide information about the content or about the matter of reality, from Schlick’s point of view, Kantian synthetic a priori propositions do have an intrinsic content: “Space, time and the categories are spoken of as ‘pure forms’ in Kant’s philosophy, but they are used as if they were a strange mixture of form and content. There is no such mixture, of course, and as soon as one realizes that only the Logical deserves to be called pure Form, one will easily get rid of the confusion which seems to give some plausibility to Kant’s explanation of the supposed possibility of synthetic judgements a priori.",
+        {
+          "type": "note",
+          "id": "ch05-n10",
+          "label": "10"
+        },
+        "”"
+      ],
+      "zh": [
+        "尽管康德承认先天的纯粹形式本性，并设定先天综合命题的真正形式特征——他相信这些命题在我们的认识活动中得到表明——以及它们原则上不抱任何提供关于实在的内容或质料的信息的野心，但在石里克看来，康德的先天综合命题确实具有内在的内容：“在康德哲学中，空间、时间与范畴被称为‘纯粹形式’，但它们被使用时却仿佛是形式与内容的奇怪混合。当然不存在这种混合；一旦人们认识到只有逻辑的东西才配称为纯粹形式，就很容易摆脱那种似乎使康德对所谓先天综合判断之可能性的解释显得可信的混淆。",
+        {
+          "type": "note",
+          "id": "ch05-n10",
+          "label": "10"
+        },
+        "”"
+      ],
+      "units": 151
+    },
+    {
+      "id": "ch05-u009",
+      "source_ids": [
+        "ch05-u009"
+      ],
+      "page": "119",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If Schlick was at odds with Kant over the existence of a synthetic a priori knowledge, he was nevertheless more Kantian than Kant himself as he literally proposed to hollow the Kantian notion of a priori out of all its material content. In fact, as Schlick saw it, not only did the very idea of an a priori intuition unveil the hybridism which was at the heart of the Kantian notion of form, but it was also meaningless insofar as the a priori could be nothing but either intellectual or conceptual. So, if Kant was right in stating that knowledge was purely conceptual, Schlick was convinced that some consequences of this idea eluded Kant since the latter considered intuition as a reliable element leading to knowledge, as can be construed from his conception of geometry."
+      ],
+      "zh": [
+        "如果说石里克在先天综合知识的存在问题上与康德不合，那么他简直比康德本人更康德，因为他提出要把康德先天概念的一切质料内容统统掏空。事实上，在石里克看来，先天直观这个观念本身不仅暴露了处于康德形式概念核心的混合主义，而且是无意义的，因为先天只能是理智的或概念的。于是，如果康德正确地断言知识是纯粹概念性的，石里克则确信这个观念的某些后果被康德忽略了，因为康德把直观看作导向知识的可靠要素——这可以从他的几何学构想中看出来。"
+      ],
+      "units": 135
+    },
+    {
+      "id": "ch05-u010",
+      "source_ids": [
+        "ch05-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Yet, at the time, the latest scientific discoveries such as the axiomatisation of geometry or the theory of relativity tended to suggest against Kantism that the ‘transcendental’ tenet on which both geometric and physical knowledge relied might very well be a strictly conceptual a priori. If Kant believed in such baffling things as synthetic a priori judgments, it is undoubtedly because “among both the definitions and the empirical propositions of the exact sciences we find statements that are deceptively similar to synthetic judgments a priori. In the class of definitions, which by their very nature possess a validity independent of experience and thus are a priori, there are a great many conventions that, viewed superficially, seem not to be derivable from definitions and hence to be synthetic.",
+        {
+          "type": "note",
+          "id": "ch05-n11",
+          "label": "11"
+        },
+        "”"
+      ],
+      "zh": [
+        "然而在当时，几何学的公理化或相对论等最新科学发现，倾向于提示与康德主义相反的东西：几何知识与物理知识所依赖的“先验”论旨，完全可能是一种严格概念性的先天。如果康德相信先天综合判断这种令人困惑的东西，那无疑是因为“在精确科学的定义与经验命题之中，我们发现了表面上与先天综合判断相似的陈述。在定义这一类中——定义按其本性就具有独立于经验的、从而先天的有效性——有大量约定，粗看起来似乎不能从定义推出，从而似乎是综合的。",
+        {
+          "type": "note",
+          "id": "ch05-n11",
+          "label": "11"
+        },
+        "”"
+      ],
+      "units": 127
+    },
+    {
+      "id": "ch05-u011",
+      "source_ids": [
+        "ch05-u011"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Schlick and Kantism: Finding One’s Philosophical Bearing"
+      ],
+      "zh": [
+        "1 石里克与康德主义：寻找自己的哲学方位"
+      ],
+      "type": "subheading",
+      "units": 8
+    },
+    {
+      "id": "ch05-u012",
+      "source_ids": [
+        "ch05-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Schlick altered the various philosophical courses he chartered vis-à-vis Kantism. If we follow Alberto Coffa,",
+        {
+          "type": "note",
+          "id": "ch05-n12",
+          "label": "12"
+        },
+        " Schlick was one of the first philosophers who drew a lesson from the theory of relativity. His first reaction, shared by many others, was to examine the theory of relativity in a light which still owed much to Kantism. Broadly speaking, as Michael Friedman puts it, if Schlick and most of the logical positivists kept discarding the Kantian conception of science, and more particularly Kant’s theory of synthetic a priori judgments, they were however not won over to the radically opposed empirical conception of geometry and they even thought, at first, that “although Kant was wrong to think that Euclidean Geometry is synthetic a priori and we can in fact use non-Euclidean geometry instead in physical theory, the question whether space is Euclidean or non-Euclidean is nonetheless not a straightforwardly empirical question. Indeed, the logical positivists here agree with Kant in rather maintaining a sharp distinction between the underlying spatiotemporal framework of physical theory, on the one hand, and the empirical laws then formulated within this framework, on the other.",
+        {
+          "type": "note",
+          "id": "ch05-n13",
+          "label": "13"
+        },
+        "”"
+      ],
+      "zh": [
+        "石里克改变了他在康德主义面前规划的各条哲学航线。如果我们跟随阿尔贝托·科法",
+        {
+          "type": "note",
+          "id": "ch05-n12",
+          "label": "12"
+        },
+        "，石里克是最早从相对论中吸取教益的哲学家之一。他的第一反应——与许多其他人相同——仍深受康德主义影响，因而从康德主义立场出发考察相对论。大体上说，用迈克尔·弗里德曼的话说，尽管石里克与大多数逻辑实证主义者不断抛弃康德的科学构想、尤其是康德的先天综合判断理论，他们却并未被彻底对立的几何学经验构想所争取过去，他们起初甚至认为：“虽然康德错误地认为欧氏几何是先天综合的、而我们事实上可以在物理理论中改用非欧几何，但空间是欧氏的还是非欧氏的问题，仍然不是一个直接的经验问题。的确，逻辑实证主义者在这里与康德一致，宁可维持一个鲜明的区分：一方面是物理理论底层的时空框架，另一方面是随后在这个框架内表述的经验定律。",
+        {
+          "type": "note",
+          "id": "ch05-n13",
+          "label": "13"
+        },
+        "”"
+      ],
+      "units": 185
+    },
+    {
+      "id": "ch05-u013",
+      "source_ids": [
+        "ch05-u013"
+      ],
+      "page": "120",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In 1915, in The Philosophical Significance of the Principle of Relativity, Schlick noticed that though restricted theory of relativity was not contradictory in itself, it “might yet – in Kant’s terms – be in conflict with our a priori intuition, and would then have no validity for the objective world, because the latter is subject to the laws of our intuition.",
+        {
+          "type": "note",
+          "id": "ch05-n14",
+          "label": "14"
+        },
+        "” And once the transcendental guarantee of a continuity between the intuitive space and the physical one has been forlorn – that is, once pure intuition has been dismissed – then the compatibility between the two spaces can no longer be taken for granted: “the theory is perfectly compatible with our immediate awareness of time, for the simple reason that the latter tells us nothing whatever about those properties of time that are dealt with in relativity theory. The time of our intuition is psychological time – a qualitative, unmeasurable thing – whereas Einstein’s theory deals with the measurement of time.",
+        {
+          "type": "note",
+          "id": "ch05-n15",
+          "label": "15"
+        },
+        "”"
+      ],
+      "zh": [
+        "1915年，在《相对性原理的哲学意义》中，石里克指出，虽然狭义相对论本身并不矛盾，它“仍可能——用康德的术语说——与我们的先天直观相冲突，从而对客观世界没有有效性，因为客观世界服从我们直观的法则。",
+        {
+          "type": "note",
+          "id": "ch05-n14",
+          "label": "14"
+        },
+        "”而一旦直观空间与物理空间之间连续性的先验保证被放弃——也就是说，一旦纯直观被摒弃——两种空间之间的相容性就不再能被视为理所当然：“这个理论与我们对时间的直接意识完全相容，理由很简单：后者关于相对论所处理的那些时间性质什么也没告诉我们。我们直观的时间是心理时间——一种质的、不可测量的东西——而爱因斯坦的理论处理的是时间的测量。",
+        {
+          "type": "note",
+          "id": "ch05-n15",
+          "label": "15"
+        },
+        "”"
+      ],
+      "units": 155
+    },
+    {
+      "id": "ch05-u014",
+      "source_ids": [
+        "ch05-u014"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In 1918, in the General Theory of Knowledge, Schlick went on asserting that “there is only one form in which apodictic knowledge of reality is still discussable, namely, the one discovered by Kant.",
+        {
+          "type": "note",
+          "id": "ch05-n16",
+          "label": "16"
+        },
+        "” Still, “it is clear that the Kantian solution, even if correct, would not signify a resounding triumph for rationalism. For the a priori knowledge that his theory allows us has not concrete, material meaning in any individual case either in scientific research or in our daily life. Propositions that express merely the forms in which (according to Kant) all of our experience must appear are quite general.",
+        {
+          "type": "note",
+          "id": "ch05-n17",
+          "label": "17"
+        },
+        "” In other words, these a priori principles are so broad that they do not intervene directly in the physicist’s work. Their apodicticity does not allow them to have any scientific bearing as it is unable to modify the nature of any scientific proposition. “For example, we might assert with apodictic certainty that each single real event has a cause. But in no case would we be in a position to decide a priori which cause belongs to which event.",
+        {
+          "type": "note",
+          "id": "ch05-n18",
+          "label": "18"
+        },
+        "”"
+      ],
+      "zh": [
+        "1918年，在《普通认识论》中，石里克继续断言“关于实在的确然知识只还有一种形式仍可讨论，那就是康德发现的形式。",
+        {
+          "type": "note",
+          "id": "ch05-n16",
+          "label": "16"
+        },
+        "”尽管如此，“显然，康德的解决方案即便正确，也不意味着理性论的一场辉煌胜利。因为他的理论容许我们拥有的先天知识，无论在科学研究还是在日常生活中，在任何个别情形下都没有具体的、质料的意义。仅仅表达（按康德）我们一切经验必须显现于其中的形式的命题，是完全一般的。",
+        {
+          "type": "note",
+          "id": "ch05-n17",
+          "label": "17"
+        },
+        "”换言之，这些先天原理如此宽泛，以至于不直接介入物理学家的工作。这种确然性并不能赋予它们任何科学作用，因为它无法改变任何科学命题的本性。“例如，我们可以以确然的确定性断言每个实在事件都有原因。但我们决不能先天决定哪个原因属于哪个事件。",
+        {
+          "type": "note",
+          "id": "ch05-n18",
+          "label": "18"
+        },
+        "”"
+      ],
+      "units": 179
+    },
+    {
+      "id": "ch05-u015",
+      "source_ids": [
+        "ch05-u015"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This concept of a priori can have different meanings. In a letter to Reichenbach written back in 1920,",
+        {
+          "type": "note",
+          "id": "ch05-n19",
+          "label": "19"
+        },
+        " Schlick pointed that Kant had identified the most universal laws of nature with the object-constituting principles. As regards Kantian criticism, Schlick considered this identification so fundamental that “one cannot undermine it without distancing oneself from Kantian philosophy as a whole”. Of course, Schlick granted Kant that knowledge had to be based on object-constituting principles and he acknowledged that the Kantian distinction between constituting principles and empirical laws was reliable. Yet, he definitely dismissed the solution which likened those principles to synthetic a priori judgments."
+      ],
+      "zh": [
+        "这个先天概念可以有不同的含义。在1920年写给赖欣巴赫的一封信中",
+        {
+          "type": "note",
+          "id": "ch05-n19",
+          "label": "19"
+        },
+        "，石里克指出，康德把最普遍的自然法则与构成对象的原理等同起来。就康德批判而言，石里克认为这个等同如此根本，以至于“不疏远整个康德哲学，就不可能动摇它”。当然，石里克承认康德所说的知识必须基于构成对象的原理，也承认康德对构成性原理与经验定律的区分是可靠的。然而，他明确摒弃了把那些原理比作先天综合判断的解决方案。"
+      ],
+      "units": 102
+    },
+    {
+      "id": "ch05-u016",
+      "source_ids": [
+        "ch05-u016"
+      ],
+      "page": "121",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In 1921, Schlick’s “Critical or Empiricist Interpretation of Modern Physics” delved into Cassirer’s Einstein’s Theory of Relativity.",
+        {
+          "type": "note",
+          "id": "ch05-n20",
+          "label": "20"
+        },
+        " Schlick’s disquisition was a major step in his assessment of the Kantian conception of science and of its ability to account for the theory of relativity. Though Kant could not be blamed for being unaware not only of non-Euclidian geometry but also of the theory of relativity, it remained that from then on, the theoretical framework of his epistemology could only be upheld provided that the bases of the theory of relativity were synthetic propositions universally valid for all kinds of experience. And it seems that such synthetic propositions can be found nowhere, not even in the neo-Kantian Cassirer’s works."
+      ],
+      "zh": [
+        "1921年，石里克的《对现代物理学的批判的或经验论的解释》深入讨论了卡西尔的《爱因斯坦相对论》。",
+        {
+          "type": "note",
+          "id": "ch05-n20",
+          "label": "20"
+        },
+        " 石里克的这篇论文是他评估康德科学构想及其说明相对论之能力的重要一步。虽然不能责怪康德不仅不知道非欧几何、也不知道相对论，但事实仍然是：从那时起，他的认识论的理论框架唯有在相对论的基础是对一切经验普遍有效的综合命题这一条件下，才能维持。而这样的综合命题似乎无处可寻，甚至在新康德主义者卡西尔的著作中也没有。"
+      ],
+      "units": 117
+    },
+    {
+      "id": "ch05-u017",
+      "source_ids": [
+        "ch05-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The theory of coincidences on which both Schlick and Cassirer relied to think out relativity – or, more precisely, the idea according to which physics as a whole has to be seen as a set of laws which accounts for spatiotemporal coincidences between two objects or more – can play the role of a methodological abstraction, but it can absolutely not play that of a synthetic a priori principle in the Kantian meaning. Indeed, the theory of coincidences needs not propound any precise determination of the form of space and time, even as far as the core conditions of the possibilities of experience are concerned. As he equated “pure intuition, which is a methodological presupposition”, with the concept of coincidence, Cassirer emptied the notion of intuition from its content (that is, from the a priori forms on which geometrical axioms are based), making it pointless. Yet, according to Schlick, this new method of objectification wanted new procedures and Cassirer could hardly implement any: “Cassirer declares Kant’s pure intuition to be a ‘specific method of objectification’, which indeed it is as well, but its nature is not exhausted by this. Kant certainly wanted to purge it of everything psychological – but I shall never be able to persuade myself that he succeeded. For no such success is possible, without employing the sole method which permits us to separate the purely conceptual elements of geometry from the psychologically intuitive, namely, the method of implicit definition, first framed in modern mathematics.",
+        {
+          "type": "note",
+          "id": "ch05-n21",
+          "label": "21"
+        },
+        "”"
+      ],
+      "zh": [
+        "石里克与卡西尔都依赖的重合理论——更确切地说，物理学整体必须被看作一组说明两个或更多对象之间时空重合的定律这一观念——可以扮演方法论抽象的角色，但绝不能扮演康德意义上的先天综合原理的角色。的确，重合理论无需提出任何关于空间与时间形式的精确规定，即便就经验可能性的核心条件而言也是如此。当卡西尔把“作为方法论预设的纯直观”与重合概念等同时，他把直观概念的内容（即几何公理所基于的先天形式）掏空了，使它变得没有意义。然而按照石里克，这种新的客观化方法要求新的程序，而卡西尔几乎无法实施任何程序：“卡西尔宣称康德的纯直观是‘一种特定的客观化方法’，它确实也是，但它的本性并不就此穷尽。康德当然想把它里面一切心理学的东西清除掉——但我永远无法说服自己相信他成功了。因为若不采用唯一能把几何学的纯概念要素与心理学直观要素分开的方法——即现代数学中首次构想的隐定义方法——这种成功是不可能的。",
+        {
+          "type": "note",
+          "id": "ch05-n21",
+          "label": "21"
+        },
+        "”"
+      ],
+      "units": 245
+    },
+    {
+      "id": "ch05-u018",
+      "source_ids": [
+        "ch05-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If the principles constitutive of the Naturwissenschaft cannot be defined as synthetic a priori judgments, then what are they? “There are two other possibilities”, Schlick said,",
+        {
+          "type": "note",
+          "id": "ch05-n22",
+          "label": "22"
+        },
+        " “they can be considered either as hypotheses or as conventions”. Does this allow us to view Schlick as a conventionalist?"
+      ],
+      "zh": [
+        "如果构成自然科学的原理不能被定义为先天综合判断，那么它们是什么？“还有另外两种可能性”，石里克说",
+        {
+          "type": "note",
+          "id": "ch05-n22",
+          "label": "22"
+        },
+        "，“它们可以被看作假设，或者被看作约定”。这是否允许我们把石里克看作约定主义者？"
+      ],
+      "units": 46
+    },
+    {
+      "id": "ch05-u019",
+      "source_ids": [
+        "ch05-u019"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 Conventionalism?"
+      ],
+      "zh": [
+        "2 约定主义？"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch05-u020",
+      "source_ids": [
+        "ch05-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The term conventionalism first needs to be defined, as it was used to qualify so many different doctrines that it ended up giving rise to much confusion. Indeed, resorting to conventions does not necessarily lead to conventionalism and therefore the status of these conventions as well as their field of application also have to be further delineated: are these conventions thoroughly arbitrary stipulations? To what constraints are they subjected? Can they be applied to all sciences or to some very restricted fields only?"
+      ],
+      "zh": [
+        "约定主义一词首先需要定义，因为它曾被用来刻画如此多不同的学说，以至于最终引起许多混淆。的确，诉诸约定并不必然导向约定主义，因此这些约定的地位及其应用范围也必须进一步划定：这些约定是完全任意的规定吗？它们服从什么约束？它们能应用于一切科学，还是只应用于某些非常有限的领域？"
+      ],
+      "units": 83
+    },
+    {
+      "id": "ch05-u021",
+      "source_ids": [
+        "ch05-u021"
+      ],
+      "page": "122",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The reason why the doctrine of conventionalism remains hard to circumscribe seems to spring mostly from a failure to understand its paternity. This confusion is quite obvious if one peruses the section devoted to the foundation of physics in the Vienna Circle manifesto: not only are the distinctions between the very singular doctrines of Mach, Poincaré and Duhem blurred, but their doctrines are also fused into a single one. “Originally, the Vienna Circle’s strongest interest was in the method of empirical science. Inspired by the ideas of Mach, Poincaré, and Duhem, the problems of mastering reality through scientific systems, especially through systems of hypotheses and axioms, were discussed. A system of axioms, cut loose from all empirical application, can at first be regarded as a system of implicit definitions; that is to say, the concepts that appear in the axioms are fixed, or as it were defined, not from their content but only from their mutual relations through the axioms. Such a system of axioms attains a meaning for reality only by the addition of further definitions, namely the ‘coordinating definitions’, which state what objects of reality are to be regarded as members of the system of axioms. The development of empirical science, which is to represent reality by means of as uniform and simple a net of concepts and judgments as possible, can now proceed in one of two ways, as history shows. The changes imposed by new experience can be made either in the axioms or in the coordinating definitions. Here we touch the problem of conventions, particularly treated by Poincaré.",
+        {
+          "type": "note",
+          "id": "ch05-n23",
+          "label": "23"
+        },
+        "”"
+      ],
+      "zh": [
+        "约定主义学说之所以难以界定，其原因似乎主要在于人们未能理解它的师承。如果翻阅维也纳学派宣言中讨论物理学基础的那一节，这种混淆就相当明显：不仅马赫、彭加勒与迪昂各自独特的学说之间的区分被模糊了，而且他们的学说还被熔铸成单一的一个。“最初，维也纳学派最强烈的兴趣在经验科学的方法。受马赫、彭加勒与迪昂思想的启发，学派讨论了通过科学体系、尤其是通过假设与公理体系来掌握实在的问题。一个脱离一切经验应用的公理体系，起初可以被看作一个隐定义体系；也就是说，出现在公理中的概念不是从其内容、而是只从它们通过公理形成的相互关系中被固定、或仿佛被定义。这样的公理体系只有通过追加进一步的定义——即‘协调定义’——才获得对实在的意义，协调定义指明实在的哪些对象应被视为公理体系的成员。经验科学要用尽可能均匀而简单的概念与判断之网来表象实在，它的发展现在可以沿两条道路之一进行，正如历史所表明的。新经验强加的改变，既可以在公理中作出，也可以在协调定义中作出。这里我们触及约定问题，彭加勒对此有专门处理。",
+        {
+          "type": "note",
+          "id": "ch05-n23",
+          "label": "23"
+        },
+        "”"
+      ],
+      "units": 263
+    },
+    {
+      "id": "ch05-u022",
+      "source_ids": [
+        "ch05-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The interest of this exemplary text is twofold: on the one hand, it introduces the main theses of Schlick’s General Theory of Knowledge; on the other hand, it unveils the three highly questionable influences under which Schlick seemed to be. Two conclusions should be drawn at this point: first, Schlick obviously contributed to lay the theoretical foundations that would lead to what he would himself call an extreme form of conventionalism – with which he would however not side; secondly, both Schlick’s extreme conventionalism and his realism were fostered by the latter’s paradoxical and even ill-construed reading of the French philosophers’ works. As regards this legacy, the link Schlick operated between Duhem and Mach can be all the more taken for granted as Duhem himself commented on Mach’s Mechanics to praise and approve of it.",
+        {
+          "type": "note",
+          "id": "ch05-n24",
+          "label": "24"
+        },
+        " On the contrary, even by any stretch of the imagination, comparing Duhem and Poincaré seems rather far-fetched given their radical disagreement as far as the tenets on which the foundation of physical theory is based are concerned, that is to say the nature of the mathematical reasoning, the role of definitions, the existence of a continuity or not between the mathematical and physical methods, and the status of hypotheses in physics."
+      ],
+      "zh": [
+        "这段典范文本的意义是双重的：一方面，它引入了石里克《普通认识论》的主要论题；另一方面，它暴露了石里克似乎受到的三种大可质疑的影响。在这一点上应得出两个结论：第一，石里克显然参与奠定了理论地基，这些地基将导向他本人所谓约定主义的极端形式——但他自己并不站在这一边；第二，石里克的极端约定主义与他的实在论，都受到他对法国哲学家著作的悖谬乃至错误解读的滋养。就这份遗产而言，石里克在迪昂与马赫之间建立的联系越发可以被视为理所当然，因为迪昂本人曾评论马赫的《力学》以示赞扬与认可。",
+        {
+          "type": "note",
+          "id": "ch05-n24",
+          "label": "24"
+        },
+        " 相反，无论怎么发挥想象力，把迪昂与彭加勒相提并论都显得相当牵强，因为他们在物理理论奠基所基于的论旨上存在根本分歧，即数学推理的本性、定义的作用、数学方法与物理方法之间是否存在连续性、以及假设在物理学中的地位。"
+      ],
+      "units": 205
+    },
+    {
+      "id": "ch05-u023",
+      "source_ids": [
+        "ch05-u023"
+      ],
+      "page": "123",
+      "canonical_kind": "paragraph",
+      "en": [
+        "When he showed that the reasoning by recurrence might be used to prove the rules of algebraic calculus, Poincaré also held that it equated the exact type of the synthetic a priori judgment. He thus refused to contemplate the mathematical reasoning as a deductive one. Yet, he acknowledged that geometrical axioms could be granted the status of conventions, or “disguised definitions”, given the fact that these axioms were the result of the free adoption of a group of transformation through which properties that are approximately induced from our experience were redefined in the field of mathematical idealities. He thus argued for a kind of mathematisation of nature which allowed a continuity as well as a hierarchy linking arithmetic to geometry, geometry to mechanics, and mechanics to physics. Eventually, in the field of physics, he discovered a set of hypotheses which partook neither of the conventional nature of geometrical postulates nor of the principles of mechanics."
+      ],
+      "zh": [
+        "当彭加勒表明用数学归纳法可以证明代数演算的规则时，他还认为这种推理正是先天综合判断的典型形式。他因此拒绝把数学推理看作演绎推理。然而他承认，几何公理可以被赋予约定的地位，或“伪装的定义”，因为这些公理是自由采纳某个变换群的结果，通过这个群，从我们的经验中近似归纳出的性质在数学理想性的领域中被重新定义。他由此主张一种自然的数学化，它容许一种连续性以及把算术与几何、几何与力学、力学与物理学联结起来的层级。最终，在物理学领域，他发现了一组假设，它们既不分有几何公设的约定本性，也不分有力学原理的本性。"
+      ],
+      "units": 155
+    },
+    {
+      "id": "ch05-u024",
+      "source_ids": [
+        "ch05-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As for Duhem, he judged that “the reasoning by recurrence is nothing but a form of deductive reasoning among others",
+        {
+          "type": "note",
+          "id": "ch05-n25",
+          "label": "25"
+        },
+        "” – in other words, that thinkers demonstrations are relying on syllogisms. In fact, as he was restrained by his very academic view of mathematics, Duhem never investigated the conventional status of either arithmetic or geometrical formulations. Moreover, he never acknowledged any continuity between the nature of the mathematical reasoning and that of the physical one. Added to that, he insisted that, just like Poincaré’s principles of mechanics, many of the hypotheses on which physical theory is founded have no experimental basis at all, that “there can be no question of either confirming or contradicting them by experiment,",
+        {
+          "type": "note",
+          "id": "ch05-n26",
+          "label": "26"
+        },
+        "” that these hypotheses are nothing but conventions."
+      ],
+      "zh": [
+        "至于迪昂，他判定“数学归纳法不外乎演绎推理的诸形式之一",
+        {
+          "type": "note",
+          "id": "ch05-n25",
+          "label": "25"
+        },
+        "”——换言之，思想家的证明依赖三段论。事实上，由于受其极为学院派的数学观所限，迪昂从未研究算术或几何表述的约定地位。此外，他从不承认数学推理的本性与物理推理的本性之间有任何连续性。再加上，他坚持认为，正如彭加勒的力学原理一样，物理理论所基于的许多假设根本没有实验基础，“谈不上用实验来确证或反驳它们",
+        {
+          "type": "note",
+          "id": "ch05-n26",
+          "label": "26"
+        },
+        "”，这些假设不外乎约定。"
+      ],
+      "units": 123
+    },
+    {
+      "id": "ch05-u025",
+      "source_ids": [
+        "ch05-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The conclusion that should be drawn at this point is that far from reading Poincaré through Duhem’s eyes – which was what most logician empiricists did, considering that this was the canonical reading – Schlick was unfaithful to both thinkers. So, we should now enquire into the status of the implicit definitions as well as into the way they may be linked to Poincaré’s “disguised definitions” or conventions, and further into the regulating role of the “coordinating definitions” the realism of which seems incompatible with Duhem’s theory. Eventually, we will see what may set Schlick apart from extreme conventionalists."
+      ],
+      "zh": [
+        "在这一点上应得出的结论是：石里克远非透过迪昂的眼睛读彭加勒——大多数逻辑经验论者正是这样做的，并认为这是标准解读——而是对两位思想家都不忠实。于是我们现在应当探究隐定义的地位，以及它们与彭加勒的“伪装定义”或约定可能的联系方式，进而探究“协调定义”的调节作用，后者的实在论似乎与迪昂的理论不相容。最后，我们将看到什么可能使石里克区别于极端约定主义者。"
+      ],
+      "units": 97
+    },
+    {
+      "id": "ch05-u026",
+      "source_ids": [
+        "ch05-u026"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Implicit Definitions as Conventions"
+      ],
+      "zh": [
+        "3 作为约定的隐定义"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch05-u027",
+      "source_ids": [
+        "ch05-u027"
+      ],
+      "page": "124",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The concept of implicit definition implies a form of reasoning which is utterly dissimilar to the process of mathematisation as Poincaré saw it – and against which the latter often argued – namely the Hilbertian axiomatic. In the Foundations of Geometry, Hilbert considered that the meaning of expressions such as ‘point’, ‘straight ‘line’, ‘to be located on …’ and ‘to be located between … and …’ is neither presupposed by the axioms of geometry nor explicated by separated definitions. Therefore, the only reliable definition for these terms is precisely the one that the axioms in which they appear give them. The function of these axioms is to establish relations between concepts. They define a structure which is utterly independent from any experience or intuition and which can be studied in itself so that the geometrical reasoning needs no longer be founded on, or justified by, any specific intuition. In the General Theory of Knowledge, Schlick acknowledged that the Hilbertian notion of ‘implicit definition’ had a broad epistemological bearing and he applied it to Naturwissenschaft. In this field, implicit definitions allowed him to define the system of concepts without relying on intuition at all: the concepts are not determined by any intuitive or empirical contents but only by the relations they share in the system of signs in which they appear. As a result, the realms of concept and intuition are not linked any more as they are in the Kantian system and “the bridges between them are down.",
+        {
+          "type": "note",
+          "id": "ch05-n27",
+          "label": "27"
+        },
+        "”"
+      ],
+      "zh": [
+        "隐定义概念所依赖的推理方式，就是希尔伯特公理化。它与彭加勒所理解的数学化过程截然不同，彭加勒也曾多次反对这种公理化。在《几何基础》中，希尔伯特认为，“点”“直线”“位于……之上”“位于……与……之间”这类表达式的意义，既不是几何公理所预设的，也不是由单独的定义所阐明的。因此，对这些词项唯一可靠的定义，恰恰是它们出现于其中的公理给予它们的定义。这些公理的功能是在概念之间建立关系。它们定义一个完全独立于任何经验或直观的结构，这个结构可以就其自身被研究，于是几何推理不再需要以任何特定直观为基础或证成。在《普通认识论》中，石里克承认希尔伯特的“隐定义”概念具有广泛的认识论作用，并把它应用于自然科学。在这个领域，隐定义使他能够完全不依赖直观来定义概念体系：概念不由任何直观的或经验的内容规定，而只由它们在出现于其中的符号体系中所分有的关系规定。结果，概念领域与直观领域不再像康德体系中那样相互联结，“它们之间的桥梁已经断开。",
+        {
+          "type": "note",
+          "id": "ch05-n27",
+          "label": "27"
+        },
+        "”"
+      ],
+      "units": 243
+    },
+    {
+      "id": "ch05-u028",
+      "source_ids": [
+        "ch05-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "What is basically characteristic of an axiomatic system is the fact that its axioms implicitly define their primitive terms – which is not the case at all as regards Poincaré’s ‘disguised definitions’ since they are exact mathematical conventional reformulations of ‘approximate’ intuitive links, as has been gathered by now. What needs to be grasped at this point is that the way the different propositions are linked to one another in an axiomatic is strictly deductive, that is, analytic. Once any series of implicit definitions has been circumscribed within a system by axioms, all propositions can be deduced logically. Schlick applied this idea to the astronomical field: “For example, astronomy can report purely descriptively the positions of the planets at various times and thus describe events in the solar system by means of an immense number of historical judgments. But it can also designate the planets by means of the concepts of bodies that move in accordance with certain equations, which amounts to an implicit definition. From these basic equations of astronomy we can then obtain purely deductively all the desired assertions about the past and future locations of the bodies that make up the solar system.",
+        {
+          "type": "note",
+          "id": "ch05-n28",
+          "label": "28"
+        },
+        "”"
+      ],
+      "zh": [
+        "公理体系根本的特征在于：它的公理隐式地定义其初始词项——彭加勒的“伪装定义”则完全不是如此，因为如现在所了解的，它们是对“近似的”直观联系的精确数学约定式重述。在这一点上需要把握的是：公理化中不同命题相互联结的方式是严格演绎的，即分析的。一旦任何一系列隐定义被公理限定在一个体系之内，一切命题都可以逻辑地演绎出来。石里克把这个观念应用于天文学领域：“例如，天文学可以纯描述性地报告行星在各个时刻的位置，从而借助大量历史判断描述太阳系中的事件。但它也可以借助按某些方程运动的物体概念来指称行星，这相当于一个隐定义。从这些天文学基本方程出发，我们就能纯演绎地获得关于构成太阳系的物体的过去与未来位置的一切所需断言。",
+        {
+          "type": "note",
+          "id": "ch05-n28",
+          "label": "28"
+        },
+        "”"
+      ],
+      "units": 195
+    },
+    {
+      "id": "ch05-u029",
+      "source_ids": [
+        "ch05-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Schlick and Poincaré thus diverged on one precise point, namely the kind of reasoning at work as far as astronomy and, more generally, physics are concerned. If one take sides with Poincaré’s perspective of mathematisation, then astronomical propositions do not fall within the province of discursive thought but within that of a certain type of application of reasoning by recurrence to phenomena (so, within that of a theory of measurement) to which physical hypotheses must be added, none of them having anything to do with the strictly analytic model that may be found in syllogisms. In this case, astronomical and geometrical formulations derive neither from postulates nor from logical deductions but they are a matter for calculus."
+      ],
+      "zh": [
+        "石里克与彭加勒由此在一个确切的点上分道扬镳，即就天文学以及更一般的物理学而言起作用的推理类型。如果站在彭加勒的数学化观点一边，那么天文学命题不属于论证性思维的辖区，而属于把数学归纳法应用于现象的某种类型（从而属于一种测量理论），还必须加上物理假设，它们都与三段论中可找到的严格分析模型毫无关系。在这种情况下，天文学与几何学的表述既不来自公设也不来自逻辑演绎，而是演算的事情。"
+      ],
+      "units": 117
+    },
+    {
+      "id": "ch05-u030",
+      "source_ids": [
+        "ch05-u030"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As for Schlick, he saw mathematical concepts (combinatorial operations) as discursive concepts (subsumption operations), which Poincaré had explicitly opposed. The former denied neither that mathematical concepts worked according to the same logic as generic concepts, nor that geometrical and astronomical propositions, as they are mathematised or arithmetised, were analytic propositions. Thus, on these points, Schlick’s conclusions were not far from Duhem’s except that they relied on a modern conception of mathematics to which the French philosopher owed nothing."
+      ],
+      "zh": [
+        "至于石里克，他把数学概念（组合运算）看作论证性概念（涵摄运算），而彭加勒曾明确反对这一点。前者既不否认数学概念按与一般概念相同的逻辑起作用，也不否认几何与天文学命题就其被数学化或算术化而言是分析命题。于是在这些点上，石里克的结论与迪昂相去不远，只是它们依赖一种现代数学构想，而那位法国哲学家并未得益于这种构想。"
+      ],
+      "units": 78
+    },
+    {
+      "id": "ch05-u031",
+      "source_ids": [
+        "ch05-u031"
+      ],
+      "page": "125",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Realism-Compatible Hypotheses"
+      ],
+      "zh": [
+        "4 与实在论相容的假设"
+      ],
+      "type": "subheading",
+      "units": 3
+    },
+    {
+      "id": "ch05-u032",
+      "source_ids": [
+        "ch05-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This axiomatic construction of knowledge, which Schlick seemed then to be promoting, might appear as a form of extreme conventionalism, be it not counterbalanced by an utterly realistic theory of meaning. The latter is characterised by the affixing of “coordinating definitions” to implicit definitions, which gives an axiomatic its meaning. The link between the concept and reality is seen as a link between a sign and what it refers to and knowledge, just like truth, is conceived of as the ‘univocal coordination’ (eindeutige Zuordnung) of concepts with reality, that is, as a fixed correspondence between the signs and the objects or the state of affairs to which they refer. Starting from these premises, Schlick discriminated between two kinds of judgments: on the one hand, those which issue from arbitrary decisions and introduce new signs through basic stipulations; on the other hand, those which are formed by concepts that have already been defined and which create new relations with one another: “We do not need to learn separately which fact is designated by a particular judgment; we can tell this from the judgment itself. A cognitive judgment is a new combination made up exclusively of old concepts. […] Only the primitive concepts and judgments – those to which knowledge reduces all the others – depend on conventions and have to be learned as arbitrary signs.",
+        {
+          "type": "note",
+          "id": "ch05-n29",
+          "label": "29"
+        },
+        "” This theory of univocal coordination led Schlick to question the alleged isomorphism of both the conceptual system and the world of experience: “Obviously, to suppose that the world is intelligible is to assume the existence of a system of implicit definitions that corresponds exactly to the system of empirical judgments. And our knowledge of reality would be better off if we knew that concepts always exist which are generated by implicit definitions and which guarantee a strictly unambiguous designation of the world of fact. But on this point we have already had to adopt a skeptical attitude, and we shall not go beyond it in the course of our study. Thus the claim that a particular conceptual system provides perfect knowledge in the sense described – or even the claim that such system exists – cannot itself be proved to be a true judgment. Rather, it is an hypothesis, and for precisely this reason every judgment about real facts that is neither a definition nor a purely descriptive judgments bears the character of an hypothesis.",
+        {
+          "type": "note",
+          "id": "ch05-n30",
+          "label": "30"
+        },
+        "”"
+      ],
+      "zh": [
+        "石里克当时似乎在推动的这种知识公理化构造，可能显得是极端约定主义的一种形式，若非有一种彻底实在论的意义理论与之制衡。后者的特征是把“协调定义”附加于隐定义，从而赋予公理化以意义。概念与实在之间的联系被看作符号与其所指之间的联系，而知识——正如真理——被构想为概念与实在的“单义协调”（eindeutige Zuordnung），即符号与其所指的对象或事态之间的固定对应。从这些前提出发，石里克区分两类判断：一类出自任意决定，通过基本规定引入新符号；另一类由已被定义的概念构成，在概念之间建立新关系：“我们无需单独学习某个特定判断指称哪个事实；我们可以从判断本身看出这一点。认识判断是纯粹由旧概念构成的新组合。……只有初始概念与初始判断——知识把其余一切判断都归约为它们——依赖约定，必须作为任意符号来学习。",
+        {
+          "type": "note",
+          "id": "ch05-n29",
+          "label": "29"
+        },
+        "”这种单义协调理论使石里克质疑概念体系与经验世界两者所谓的同构：“显然，假定世界是可理解的，就是假定存在一个与经验判断体系精确对应的隐定义体系。如果我们知道总存在由隐定义生成、并保证对事实世界作严格无歧义指称的概念，我们关于实在的知识就会更有保障。但在这一点上我们已经不得不采取怀疑的态度，并且在我们的研究进程中不会超出它。于是，声称某个特定概念体系提供上述意义上的完备知识——甚至声称这样的体系存在——本身不能被证明为真判断。相反，它是一个假设，正因如此，关于实在事实的每个既非定义亦非纯描述性判断的判断，都带有假设的特征。",
+        {
+          "type": "note",
+          "id": "ch05-n30",
+          "label": "30"
+        },
+        "”"
+      ],
+      "units": 394
+    },
+    {
+      "id": "ch05-u033",
+      "source_ids": [
+        "ch05-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "When he decided that physical theories could be equated with ‘hypotheses’ and underlined their inability to be validated by experience, Schlick seemed to follow Duhem’s holistic doctrine. Yet, his realism of principle – which is based on the introduction of coordinating definitions – is actually utterly impervious to the processes at work in The Aim and Structure of Physical Theory. In effect, this theory of definitions supposes a monadic or atomic correspondence as regards primary concepts and world properties, which Duhem’s doctrine of ‘theoretical fact’, as a symbolic construction, wholly proscribes."
+      ],
+      "zh": [
+        "当石里克判定物理理论可以等同于“假设”、并强调它们无法被经验验证时，他似乎遵循迪昂的整体论学说。然而，他的原则实在论——基于协调定义的引入——实际上根本无法接受《物理理论的目的与结构》所采取的那些程序。事实上，这种定义理论就初始概念与世界性质而言预设一种单子式或原子式的对应，而迪昂把“理论事实”作为符号构造的学说完全排斥这种对应。"
+      ],
+      "units": 89
+    },
+    {
+      "id": "ch05-u034",
+      "source_ids": [
+        "ch05-u034"
+      ],
+      "page": "126",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This same realism of principle gave birth to a later argument with Eddington’s and Carnap’s views of extreme conventionalism. During the First International Congress for the Unity of Science in Paris in 1935, Schlick made a presentation – which was symptomatically called “Are the laws of nature conventions?” – in which he made himself clear on a point that had so far remained much ambiguous in his works. Indeed, he definitely opposed the role both theoreticians ascribed to the laws of nature, that is to say the role of Eddington’s ‘implicit definitions’ and that of Carnap’s ‘syntactic rules’. According to Schlick, both interpretations were wrong because they had been induced by major mistakes as regards logic: “It is due to the formulation of the law – usually in the form of an equation – as it is written on paper, but without enough consideration given to the definitional explications through which the expression attains its meaning and which are usually not sufficiently explicitly or completely formulated.",
+        {
+          "type": "note",
+          "id": "ch05-n31",
+          "label": "31"
+        },
+        "” In other words, both Eddington and Carnap misjudged the determining role of the coordinating definitions which give the laws of nature an empirical content and allow the law of conservation of energy as well as the law of inertia, among others, to express facts and not conventions: “The energy principle, for example, is generally considered to express that ‘objective’ order of facts which makes it impossible to produce work out of nothing – an impossibility which is continually impressed upon us in our daily experience and which is certainly quite independent of the manner in which we care to formulate it.",
+        {
+          "type": "note",
+          "id": "ch05-n32",
+          "label": "32"
+        },
+        "”"
+      ],
+      "zh": [
+        "同一种原则实在论引发了后来与爱丁顿及卡尔纳普的极端约定主义观点的论战。1935年在巴黎举行的第一届国际科学统一大会上，石里克作了报告——其标题颇具症候性：“自然定律是约定吗？”——他在其中澄清了一个迄今在其著作中一直相当含糊的要点。的确，他明确反对这两位理论家赋予自然定律的角色，即爱丁顿的“隐定义”的角色与卡尔纳普的“句法规则”的角色。按照石里克，这两种解释都是错误的，因为它们是由逻辑方面的重大错误诱导的：“这是由于定律的表述——通常是方程形式——如其写在纸上的样子，而没有充分考虑表达式借以获得意义的那些定义性阐明，这些阐明通常没有被足够明确或完整地表述。",
+        {
+          "type": "note",
+          "id": "ch05-n31",
+          "label": "31"
+        },
+        "”换言之，爱丁顿与卡尔纳普都误判了协调定义的决定性作用，正是协调定义赋予自然定律以经验内容，使能量守恒定律与惯性定律等能够表达事实而非约定：“例如，能量原理通常被认为表达事实的‘客观’秩序，正是它使无中生有地产生功成为不可能——这种不可能性在我们的日常经验中不断被印在我们心上，并且肯定完全独立于我们乐意采用的表述方式。",
+        {
+          "type": "note",
+          "id": "ch05-n32",
+          "label": "32"
+        },
+        "”"
+      ],
+      "units": 262
+    },
+    {
+      "id": "ch05-u035",
+      "source_ids": [
+        "ch05-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The specificity of natural sciences, which Eddington as well as Carnap failed to see, is that they cannot bypass the meaning of their own terms, which is usually allowed inside an axiomatic that thinks of signs only as far as their relations to one another are concerned: “The proper content of a natural law may be seen in the fact that to certain grammatical rules (for instance, of a geometry) some quite definite propositions correspond as true descriptions of reality. And this fact is completely invariant with respect to any arbitrary changes in notation.",
+        {
+          "type": "note",
+          "id": "ch05-n33",
+          "label": "33"
+        },
+        "” The invariance of natural law thus has to be taken into account not as regards experience but as regards conceptual systems as well as variable, interchangeable axiomatics through which science is built."
+      ],
+      "zh": [
+        "自然科学的独特性——爱丁顿与卡尔纳普都没能看到——在于它们不能绕过自己词项的意义，而在只就符号相互关系考虑符号的公理化内部，这通常是被允许的：“自然定律的本来内容可以见于这个事实：某些语法规则（例如某种几何学的规则）对应着某些作为实在之真描述的确定命题。而这个事实对于记法的任何任意改变是完全不变的。",
+        {
+          "type": "note",
+          "id": "ch05-n33",
+          "label": "33"
+        },
+        "”于是，自然定律的不变性必须被考虑，不是就经验而言，而是就概念体系以及科学借以构造的可变、可互换的公理化而言。"
+      ],
+      "units": 126
+    },
+    {
+      "id": "ch05-u036",
+      "source_ids": [
+        "ch05-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Although Schlick’s axiomatic doctrine tends to converge on conventionalism, his realism consisted in maintaining a world of facts or intuitions as bases for the world of knowledge or for concepts, the latter ones being contemplated as an ideal superstructure that has an intrinsic formal autonomy. Because of his hypothesis according to which coordinating definitions may be a link between these two worlds, Schlick closed the door on conventionalism without returning to a metaphysical realism."
+      ],
+      "zh": [
+        "尽管石里克的公理化学说倾向于与约定主义汇合，他的实在论在于维持一个事实或直观的世界，作为知识世界或概念世界的基础，后者被看作具有内在形式自主性的观念上层建筑。由于他假设协调定义可以是这两个世界之间的纽带，石里克对约定主义关上了门，却没有回到形而上学实在论。"
+      ],
+      "units": 74
+    }
+  ],
+  "notes": {
+    "ch05-n01": {
+      "number": "1",
+      "en": [
+        "Translated into English by Estelle Folest (Université Paris III)."
+      ],
+      "zh": [
+        "由埃斯特尔·福莱斯特（巴黎第三大学）译为英文。"
+      ]
+    },
+    "ch05-n02": {
+      "number": "2",
+      "en": [
+        "Cf. Le développement du Cercle de Vienne et l’avenir de l’empirisme logique, Actualités scientifiques et industrielles, Paris, Hermann, 1936, p. 8."
+      ],
+      "zh": [
+        "参《维也纳学派的发展与逻辑经验论的未来》（Le développement du Cercle de Vienne et l'avenir de l'empirisme logique），《科学与工业实际》丛书，巴黎：赫尔曼出版社，1936年，第8页。"
+      ]
+    },
+    "ch05-n03": {
+      "number": "3",
+      "en": [
+        "Alberto Coffa underlines that in Schlick’s early works, before he arrived in Vienna, “we are back in the world of Kantian questions and semi-Kantian answers” (The Semantic Tradition from Kant to Carnap. To the Vienna Station, Cambridge, Cambridge University Press, 1991, p. 171). Michael Friedman also argues that “Schlick was not a positivist or strict empiricist in 1918, but a neoKantian or ‘critical’ realist” (Reconsidering Logical Positivism, Cambridge, Cambridge University Press, 1999, p. 20)."
+      ],
+      "zh": [
+        "阿尔贝托·科法强调，在石里克到达维也纳之前的早期著作中，“我们回到了康德式问题与半康德式答案的世界”（《从康德到卡尔纳普的语义学传统：通往维也纳车站》（The Semantic Tradition from Kant to Carnap. To the Vienna Station），剑桥：剑桥大学出版社，1991年，第171页）。迈克尔·弗里德曼也论证说，“1918年的石里克不是实证主义者或严格经验论者，而是新康德主义者或‘批判的’实在论者”（《重思逻辑实证主义》（Reconsidering Logical Positivism），剑桥：剑桥大学出版社，1999年，第20页）。"
+      ]
+    },
+    "ch05-n04": {
+      "number": "4",
+      "en": [
+        "This objection, shared by all logician empiricists, is even presented in the 1929 Manifest as “the fundamental thesis of modern empiricism ‘die Grundthese des modernen Empirismus’ ”."
+      ],
+      "zh": [
+        "这个为所有逻辑经验论者共有的反驳，甚至在1929年的宣言中被表述为“现代经验论的基本论题‘die Grundthese des modernen Empirismus’”。"
+      ]
+    },
+    "ch05-n05": {
+      "number": "5",
+      "en": [
+        "Form and Content: Schlick, Philosophical Papers, edited by Henk L. Mulder and Barbara F.B. van de Velde-Schlick, vol. 2, Dordrecht, The Netherlands, Reidel, 1979, p. 343."
+      ],
+      "zh": [
+        "《形式与内容》：石里克，《哲学论文集》（Philosophical Papers），亨克·L. 穆尔德、芭芭拉·F. B. 范德维尔德—石里克编，第2卷，荷兰多德雷赫特：赖德尔出版社，1979年，第343页。"
+      ]
+    },
+    "ch05-n06": {
+      "number": "6",
+      "en": [
+        "Form and Content: op. cit., p. 342."
+      ],
+      "zh": [
+        "《形式与内容》：前引书，第342页。"
+      ]
+    },
+    "ch05-n07": {
+      "number": "7",
+      "en": [
+        "See Coffa, The Semantic Tradition, p. 171–172."
+      ],
+      "zh": [
+        "见科法：《语义学传统》，第171–172页。"
+      ]
+    },
+    "ch05-n08": {
+      "number": "8",
+      "en": [
+        "Form and Content: op. cit., p. 351."
+      ],
+      "zh": [
+        "《形式与内容》：前引书，第351页。"
+      ]
+    },
+    "ch05-n09": {
+      "number": "9",
+      "en": [
+        "Ibid."
+      ],
+      "zh": [
+        "同上。"
+      ]
+    },
+    "ch05-n10": {
+      "number": "10",
+      "en": [
+        "Ibid."
+      ],
+      "zh": [
+        "同上。"
+      ]
+    },
+    "ch05-n11": {
+      "number": "11",
+      "en": [
+        "General Theory of Knowledge, translated by Albert E. Blumberg, La Salle, Ill., Open Court, 1974, p. 74."
+      ],
+      "zh": [
+        "《普通认识论》（General Theory of Knowledge），阿尔伯特·E. 布隆伯格译，伊利诺伊州拉萨尔：开放法庭出版社，1974年，第74页。"
+      ]
+    },
+    "ch05-n12": {
+      "number": "12",
+      "en": [
+        "Cf. The Semantic Tradition, p. 196."
+      ],
+      "zh": [
+        "参《语义学传统》，第196页。"
+      ]
+    },
+    "ch05-n13": {
+      "number": "13",
+      "en": [
+        "Michael Friedman, Reconsidering Logical Positivism, p. 60."
+      ],
+      "zh": [
+        "迈克尔·弗里德曼：《重思逻辑实证主义》，第60页。"
+      ]
+    },
+    "ch05-n14": {
+      "number": "14",
+      "en": [
+        "Philosophical Papers, vol. 1, p. 162."
+      ],
+      "zh": [
+        "《哲学论文集》，第1卷，第162页。"
+      ]
+    },
+    "ch05-n15": {
+      "number": "15",
+      "en": [
+        "Ibid."
+      ],
+      "zh": [
+        "同上。"
+      ]
+    },
+    "ch05-n16": {
+      "number": "16",
+      "en": [
+        "General Theory of Knowledge, p. 344."
+      ],
+      "zh": [
+        "《普通认识论》，第344页。"
+      ]
+    },
+    "ch05-n17": {
+      "number": "17",
+      "en": [
+        "Op. cit., p. 346."
+      ],
+      "zh": [
+        "前引书，第346页。"
+      ]
+    },
+    "ch05-n18": {
+      "number": "18",
+      "en": [
+        "Ibid."
+      ],
+      "zh": [
+        "同上。"
+      ]
+    },
+    "ch05-n19": {
+      "number": "19",
+      "en": [
+        "Schlick to Reichenbach, November 26, 1920, Archives of Scientific Philosophy, University of Pittsburgh, HR-015-63-22."
+      ],
+      "zh": [
+        "石里克致赖欣巴赫，1920年11月26日，匹兹堡大学科学哲学档案馆，HR-015-63-22。"
+      ]
+    },
+    "ch05-n20": {
+      "number": "20",
+      "en": [
+        "Philosophical Papers, Dordrecht, The Netherlands, Reidel, 1978, vol. 1, p. 322–334."
+      ],
+      "zh": [
+        "《哲学论文集》，荷兰多德雷赫特：赖德尔出版社，1978年，第1卷，第322–334页。"
+      ]
+    },
+    "ch05-n21": {
+      "number": "21",
+      "en": [
+        "Op. cit., p. 331."
+      ],
+      "zh": [
+        "前引书，第331页。"
+      ]
+    },
+    "ch05-n22": {
+      "number": "22",
+      "en": [
+        "Schlick to Reichenbach, November 26, 1920."
+      ],
+      "zh": [
+        "石里克致赖欣巴赫，1920年11月26日。"
+      ]
+    },
+    "ch05-n23": {
+      "number": "23",
+      "en": [
+        "«The Scientific Conception of the World: The Vienna Circle», in Otto Neurath, Empiricism and Sociology, edited by Marie Neurath and Robert S. Cohen, Dordrecht, The Netherlands, Reidel, 1973, p. 311–312."
+      ],
+      "zh": [
+        "《科学的世界观：维也纳学派》（The Scientific Conception of the World: The Vienna Circle），载奥托·纽拉特：《经验论与社会学》（Empiricism and Sociology），玛丽·纽拉特、罗伯特·S. 科恩编，荷兰多德雷赫特：赖德尔出版社，1973年，第311–312页。"
+      ]
+    },
+    "ch05-n24": {
+      "number": "24",
+      "en": [
+        "«Analyse de l’ouvrage de Ernst Mach, La Mécanique», in P. Duhem, L’évolution de la mécanique (1903), Vrin, Mathesis, 1992."
+      ],
+      "zh": [
+        "《评恩斯特·马赫〈力学〉一书》（Analyse de l'ouvrage de Ernst Mach, La Mécanique），载 P. 迪昂：《力学的演化》（L'évolution de la mécanique，1903），巴黎：Vrin 出版社，Mathesis 丛书，1992年。"
+      ]
+    },
+    "ch05-n25": {
+      "number": "25",
+      "en": [
+        "Pierre Duhem, «la nature du raisonnement mathématique», Revue de Philosophie, tome 21, p. 533."
+      ],
+      "zh": [
+        "皮埃尔·迪昂：《数学推理的本性》（la nature du raisonnement mathématique），《哲学评论》（Revue de Philosophie），第21卷，第533页。"
+      ]
+    },
+    "ch05-n26": {
+      "number": "26",
+      "en": [
+        "Pierre Duhem, The Aim and Structure of Physical Theory (1906/1914), translated by Philip P. Wiener, Princeton University Press, 1991, p. 215."
+      ],
+      "zh": [
+        "皮埃尔·迪昂：《物理理论的目的与结构》（The Aim and Structure of Physical Theory，1906/1914），菲利普·P. 维纳译，普林斯顿大学出版社，1991年，第215页。"
+      ]
+    },
+    "ch05-n27": {
+      "number": "27",
+      "en": [
+        "General Theory of Knowledge, p. 38."
+      ],
+      "zh": [
+        "《普通认识论》，第38页。"
+      ]
+    },
+    "ch05-n28": {
+      "number": "28",
+      "en": [
+        "General Theory of Knowledge, p. 70."
+      ],
+      "zh": [
+        "《普通认识论》，第70页。"
+      ]
+    },
+    "ch05-n29": {
+      "number": "29",
+      "en": [
+        "General Theory of Knowledge, p. 67."
+      ],
+      "zh": [
+        "《普通认识论》，第67页。"
+      ]
+    },
+    "ch05-n30": {
+      "number": "30",
+      "en": [
+        "General Theory of Knowledge, § 11, p. 70–71."
+      ],
+      "zh": [
+        "《普通认识论》，第11节，第70–71页。"
+      ]
+    },
+    "ch05-n31": {
+      "number": "31",
+      "en": [
+        "«Are Natural Law Conventions?», in Schlick, Philosophical Papers, vol. 2, p. 440."
+      ],
+      "zh": [
+        "《自然定律是约定吗？》（Are Natural Law Conventions?），载石里克：《哲学论文集》，第2卷，第440页。"
+      ]
+    },
+    "ch05-n32": {
+      "number": "32",
+      "en": [
+        "Schlick, op. cit., p. 443."
+      ],
+      "zh": [
+        "石里克，前引书，第443页。"
+      ]
+    },
+    "ch05-n33": {
+      "number": "33",
+      "en": [
+        "Schlick, ibid."
+      ],
+      "zh": [
+        "石里克，同上。"
+      ]
+    }
+  }
+}

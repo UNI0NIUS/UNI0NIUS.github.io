@@ -1,0 +1,2013 @@
+{
+  "id": "ch24",
+  "title": "量子场论中的符号构造",
+  "originalTitle": "Symbolic Constructions in Quantum Field Theory",
+  "outline": [
+    {
+      "anchor": "ch24-u006",
+      "title": "1 科学的符号解释",
+      "originalTitle": "1 Symbolic Interpretation of Science",
+      "level": 1
+    },
+    {
+      "anchor": "ch24-u023",
+      "title": "2 作为基本理论概念的场",
+      "originalTitle": "2 The Field as Basic Theoretical Concept",
+      "level": 1
+    },
+    {
+      "anchor": "ch24-u031",
+      "title": "3 量子场论的不同侧面",
+      "originalTitle": "3 The Different Facets of Quantum Field Theory",
+      "level": 1
+    },
+    {
+      "anchor": "ch24-ref001",
+      "title": "4 结论",
+      "originalTitle": "4 Conclusions",
+      "level": 1
+    },
+    {
+      "anchor": "ch24-u045",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch24-u001",
+      "source_ids": [
+        "ch24-u001"
+      ],
+      "page": "403",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch24-u005",
+      "source_ids": [
+        "ch24-u005"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Hans Günter Dosch, Volkhard F. Müller, and Norman Sieroka"
+      ],
+      "zh": [
+        "汉斯·京特·多施、福尔克哈德·米勒、诺曼·西罗卡"
+      ],
+      "units": 9
+    },
+    {
+      "id": "ch24-u002",
+      "source_ids": [
+        "ch24-u002"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract The aim of this short essay is to show that the view of physics as a symbolic construction of nature is specially suitable for the examination of epistemic problems of modern particle physics. We point out that the awareness of these problems arose already with the foundation of classical electrodynamics. Then we give a short description of salient features of quantum field theory, and finally we show the adequacy of the symbolic approach in some relevant cases.",
+        {
+          "type": "note",
+          "id": "ch24-n01",
+          "label": "1"
+        }
+      ],
+      "zh": [
+        "摘要 这篇短文的目的是表明，把物理学视为对自然的符号构造的观点，特别适合用来考察现代粒子物理学的认识问题。我们指出，对这些问题的意识在经典电动力学奠基时就已经产生。然后我们简短描述量子场论的显著特征，最后我们在一些相关情形中表明符号进路的恰当性。",
+        {
+          "type": "note",
+          "id": "ch24-n01",
+          "label": "1"
+        }
+      ],
+      "units": 78
+    },
+    {
+      "id": "ch24-u006",
+      "source_ids": [
+        "ch24-u006"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Symbolic Interpretation of Science"
+      ],
+      "zh": [
+        "1 科学的符号解释"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch24-u007",
+      "source_ids": [
+        "ch24-u007"
+      ],
+      "page": "404",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The ongoing success of Newtonian and Euler–Lagrangian mechanics led in the eighteenth and early nineteenth century to a widely accepted mechanistic Weltbild. This Weltbild, however, came to a crisis through the progress of electrodynamics which later culminated in the establishment of Maxwell’s equations. The essentially new ingredient of these equations is the displacement current. Its derivation took place within a mechanistic model of the ether, which was the assumed carrier of electromagnetic phenomena. Thereby electrodynamics was formally embedded in the mechanistic Euler–Lagrange field theory. It turned out, however, that a mechanistic interpretation of the ether became less and less tenable, so that the concept of a field was emerging as an assignment of space–time points to measurable quantities without assuming a material carrier of the field. This concept existed besides the old concepts of mechanics and allowed an adequate description of electrodynamic phenomena. Many of the epistemic problems related to quantum field theory already appeared with the rise of the electrodynamical field theory in the middle of the nineteenth century."
+      ],
+      "zh": [
+        "牛顿力学与欧拉–拉格朗日力学的持续成功，在十八世纪和十九世纪初导致了一种被广泛接受的机械论世界图景（Weltbild）。然而，随着电动力学的进展——它后来在麦克斯韦方程组的确立中达到顶点——这种世界图景陷入了危机。这些方程本质上的新成分是位移电流。它的推导是在以太的机械论模型内完成的，以太当时被假定为电磁现象的载体。电动力学由此在形式上被嵌入机械论的欧拉–拉格朗日场论。然而结果表明，对以太的机械论解释越来越站不住脚，于是场的概念逐渐确立：场给每个时空点赋一个可测量的量，无须假定场有物质载体。这个概念与力学的旧概念并存，并允许对电动力学现象作出恰当的描述。与量子场论相关的许多认识问题，早在十九世纪中叶电动力学场论兴起时就已出现。"
+      ],
+      "units": 173
+    },
+    {
+      "id": "ch24-u008",
+      "source_ids": [
+        "ch24-u008"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "Hans Günter Dosch Institut für Theoretische Physik, Universität Heidelberg, Philosophenweg 16, D69120 Heidelberg, Germany e-mail: h.g.dosch@thphys.uni-heidelberg.de"
+      ],
+      "zh": [
+        "Hans Günter Dosch Institut für Theoretische Physik, Universität Heidelberg, Philosophenweg 16, D69120 Heidelberg, Germany e-mail: h.g.dosch@thphys.uni-heidelberg.de"
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch24-u003",
+      "source_ids": [
+        "ch24-u003"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "Volkhard F. Müller Fachbereich Physik der Technischen Universität Kaiserslautern, Postfach 3049, D67653 Kaiserslautern, Germany e-mail: vfm@physik.uni-kl.de"
+      ],
+      "zh": [
+        "Volkhard F. Müller Fachbereich Physik der Technischen Universität Kaiserslautern, Postfach 3049, D67653 Kaiserslautern, Germany e-mail: vfm@physik.uni-kl.de"
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch24-u004",
+      "source_ids": [
+        "ch24-u004"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "Norman Sieroka ETH Zürich, Professur für Philosophie, ETH Zentrum RAC G16, CH 8092 Zürich, Switzerland e-mail: sieroka@phil.gess.ethz.ch"
+      ],
+      "zh": [
+        "Norman Sieroka ETH Zürich, Professur für Philosophie, ETH Zentrum RAC G16, CH 8092 Zürich, Switzerland e-mail: sieroka@phil.gess.ethz.ch"
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch24-u009",
+      "source_ids": [
+        "ch24-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A short historical sketch of concepts will be given, beginning with the theory of signs (symbols) of Hermann von Helmholtz and Heinrich Hertz. Further development appears in the works of Henri Poincaré and Hermann Weyl."
+      ],
+      "zh": [
+        "我们将给出一个概念史的简短勾勒，从赫尔曼·冯·亥姆霍兹与海因里希·赫兹的记号（符号）理论开始。进一步的发展出现在亨利·彭加勒与赫尔曼·魏尔的著作中。"
+      ],
+      "units": 35
+    },
+    {
+      "id": "ch24-u010",
+      "source_ids": [
+        "ch24-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Helmholtz’s theory of signs",
+        {
+          "type": "note",
+          "id": "ch24-n02",
+          "label": "2"
+        },
+        " was influenced by the physiology of sensation. Starting from the fact that our sensation gives us a message only of the peculiarity of the evoking external influence Helmholtz concluded that sensation can be accepted as a sign of this external influence, but not as a copy. Though he insists that our sensual impressions are only signs they are not to be disposed of as empty phantoms (leerer Schein) but ‘they are signs of something, be it existing or happening, and what is most important, they map the law of what is happening’.",
+        {
+          "type": "note",
+          "id": "ch24-n03",
+          "label": "3"
+        },
+        " For Helmholtz the relevant feature of science is not the particular set of signs, but that what he calls ‘law’ and which he defines as the unchanging relation between changing variables (signs)."
+      ],
+      "zh": [
+        "亥姆霍兹的记号理论",
+        {
+          "type": "note",
+          "id": "ch24-n02",
+          "label": "2"
+        },
+        "受到感觉生理学的影响。从如下事实出发——我们的感觉只向我们传递引起它的外部影响之特性的消息——亥姆霍兹得出结论：感觉可以被接受为这种外部影响的记号，但不是它的摹本。虽然他坚持我们的感官印象只是记号，它们却不应被当作空洞的幻象（leerer Schein）而抛弃，毋宁说“它们是某种东西的记号，无论这东西是存在着的还是发生着的，而最重要的是，它们映绘了所发生之事的规律”。",
+        {
+          "type": "note",
+          "id": "ch24-n03",
+          "label": "3"
+        },
+        " 对亥姆霍兹来说，科学的相关特征不是特定的记号集合，而是他称为“规律”的东西，他把它定义为变化着的变量（记号）之间不变的关系。"
+      ],
+      "units": 128
+    },
+    {
+      "id": "ch24-u011",
+      "source_ids": [
+        "ch24-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A further reason why talking about symbols or functional relations seems fundamental for physics results from the fact that experiments reveal how things under investigation act, i.e. the way they impinge on measuring devices. Hence, one has to acknowledge the possibility that we might be unable to distinguish between two quite different intrinsic properties, namely if they happen to be exactly the same with respect to the way they impinge on our instruments. By the same token we must then accept the possibility that we know almost nothing about the intrinsic nature of physical objects."
+      ],
+      "zh": [
+        "谈论符号或函数关系对物理学显得是根本性的，还有一个理由来自如下事实：实验揭示的是被研究对象如何作用，即它们作用于测量装置的方式。因此必须承认这种可能性：我们也许无法区分两种截然不同的内在性质——如果它们作用于我们仪器的方式恰好完全相同的话。出于同样的理由，我们必须接受这种可能性：我们对物理对象的内在本质几乎一无所知。"
+      ],
+      "units": 96
+    },
+    {
+      "id": "ch24-u012",
+      "source_ids": [
+        "ch24-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hertz considers as the principal aim of conscious natural science (bewusster Naturerkenntnis) to foresee future experiences. He proposes a sign theory which is more explicit than Helmholtz’s. Hertz gives a set of rules, both formative and descriptive, the core of which is:"
+      ],
+      "zh": [
+        "赫兹把有意识的自然认识（bewusster Naturerkenntnis）的主要目的视为预见未来的经验。他提出了一个比亥姆霍兹更明确的记号理论。赫兹给出了一组规则，既是构成性的又是描述性的，其核心是："
+      ],
+      "units": 42
+    },
+    {
+      "id": "ch24-u015",
+      "source_ids": [
+        "ch24-u015"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "We form for us phantom pictures (Scheinbilder) or symbols of the external objects and in such a way that the logical (denknotwendig) consequences of the pictures are always pictures of the physically necessary (naturnotwendig) consequences of the depicted objects.",
+        {
+          "type": "note",
+          "id": "ch24-n04",
+          "label": "4"
+        }
+      ],
+      "zh": [
+        "我们为自己构造外部对象的幻象（Scheinbilder）或符号，并且以这样的方式构造：这些图景的思维必然的（denknotwendig）后果，始终是被描绘对象的自然必然的（naturnotwendig）后果的图景。",
+        {
+          "type": "note",
+          "id": "ch24-n04",
+          "label": "4"
+        }
+      ],
+      "type": "quote",
+      "units": 39
+    },
+    {
+      "id": "ch24-u013",
+      "source_ids": [
+        "ch24-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "He does not take it for granted that such a procedure is possible, rather he observes that experience tells us that it is."
+      ],
+      "zh": [
+        "他并不把这样一种程序的可能性视为理所当然，毋宁说他观察到，经验告诉我们它是可能的。"
+      ],
+      "units": 23
+    },
+    {
+      "id": "ch24-u014",
+      "source_ids": [
+        "ch24-u014"
+      ],
+      "page": "405",
+      "canonical_kind": "paragraph",
+      "en": [
+        "There is a crucial difference between the sign theory of Hertz and that of Helmholtz. Helmholtz’s signs are related to the sensual impressions whereas those of Hertz can be free creations of the mind. Here a semiotic distinction drawn by Charles Sanders Peirce is helpful to contrast between these two types of ‘signs’; namely the distinction between indexical signs and symbols.",
+        {
+          "type": "note",
+          "id": "ch24-n05",
+          "label": "5"
+        },
+        " The former show some existential relation to their objects of reference; i.e. their meaning is based on a cause and effect relationship. A symbol on the other hand carries pure meaning and lacks such a relationship."
+      ],
+      "zh": [
+        "赫兹的记号理论与亥姆霍兹的记号理论之间有一个关键差别。亥姆霍兹的记号关联于感官印象，而赫兹的记号可以是心灵的自由创造。这里，查尔斯·桑德斯·皮尔士作出的一个符号学区分有助于对照这两种“记号”：即指示性记号与符号的区分。",
+        {
+          "type": "note",
+          "id": "ch24-n05",
+          "label": "5"
+        },
+        " 前者与其指涉对象显示某种存在性的关系，即它们的意义基于因果关系。另一方面，符号承载纯粹的意义，缺乏这样的关系。"
+      ],
+      "units": 98
+    },
+    {
+      "id": "ch24-u016",
+      "source_ids": [
+        "ch24-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Thus, one can take Helmholtz’s approach, to be a theory of indexical signs, whereas Hertz’s theory should count as one of symbols."
+      ],
+      "zh": [
+        "因此，可以把亥姆霍兹的进路视为一种指示性记号的理论，而赫兹的理论应算作一种符号的理论。"
+      ],
+      "units": 22
+    },
+    {
+      "id": "ch24-u017",
+      "source_ids": [
+        "ch24-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The historical development went further away from a theory of indexical signs and moved gradually towards a theory of symbols. Both Helmholtz and Hertz were certainly motivated by the unreconciled differences of classical mechanics and of Maxwell’s theory but they had no reason to doubt the unconditioned physical validity of both these theories. This was no longer the case for the next main contributor in this tradition, the great mathematician Henri Poincaré who lived long enough to see the beginning erosion of classical physics at the turn to the twentieth century. He expounded his views on the epistemological foundation of science in three works: La Science et l’Hypothèse (1903), La Valeur de la Science (1905), and Science et Méthode (1908).",
+        {
+          "type": "note",
+          "id": "ch24-n06",
+          "label": "6"
+        },
+        " Much like Helmholtz and Hertz he takes the success of science as a starting point and concludes – like today’s miracle argument – that this success would not be possible if science would not give us knowledge of something real (quelque chose de la réalité). However, in line with what is today called the pessimistic meta-induction, he goes on to argue that what science can attain is not the things themselves, but only the relations between the things (les rapports entre les choses). Outside these relations there is no recognizable (connaisable) reality."
+      ],
+      "zh": [
+        "历史的发展进一步远离指示性记号的理论，逐渐走向符号的理论。亥姆霍兹与赫兹无疑都受到经典力学与麦克斯韦理论之间未调和差异的促动，但他们没有理由怀疑这两个理论无条件的物理有效性。对这一传统中的下一位主要贡献者——伟大的数学家亨利·彭加勒——来说情况不再是这样，他亲历了二十世纪之交经典物理学开始动摇的局面。他在三部著作中阐述了他关于科学之认识论基础的观点：《科学与假设》（La Science et l'Hypothèse，1903）、《科学的价值》（La Valeur de la Science，1905）和《科学与方法》（Science et Méthode，1908）。",
+        {
+          "type": "note",
+          "id": "ch24-n06",
+          "label": "6"
+        },
+        " 与亥姆霍兹和赫兹非常相似，他把科学的成功作为出发点，并得出结论——与今天的“无奇迹论证”一样——如果科学不给我们关于某种实在的东西（quelque chose de la réalité）的知识，这种成功就是不可能的。然而，与今天所谓的悲观元归纳相一致，他接着论证：科学所能达到的不是事物本身，而只是事物之间的关系（les rapports entre les choses）。在这些关系之外没有可认识的（connaisable）实在。"
+      ],
+      "units": 210
+    },
+    {
+      "id": "ch24-u018",
+      "source_ids": [
+        "ch24-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Poincaré stresses the importance of conventions in science – indeed he is notoriously credited as the very founding father of conventionalism. He lived until 1912 and saw the big changes occurring at the turn of the century. He seems not to have been impressed strongly enough by the birth of quantum physics, but the effects of special relativity on mechanics shook him considerably, as can be read from the last chapter of La Science et l’Hypothèse, entitled ‘La fin de la matière’. He also foresaw the consequences of these theories for the then best established physical theory, Newton’s theory of gravitation."
+      ],
+      "zh": [
+        "彭加勒强调约定在科学中的重要性——的确，他素来被视为约定主义的奠基人。他活到 1912 年，看到了世纪之交发生的巨大变化。量子物理学的诞生似乎没有给他留下足够强烈的印象，但狭义相对论对力学的冲击相当大地撼动了他，这可以从《科学与假设》题为“物质的终结”（La fin de la matière）的最后一章读出。他还预见了这些理论对当时确立得最好的物理理论——牛顿引力理论——的后果。",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "〈物质的终结〉初刊于1906年2月17日的《雅典娜神殿》，后收入《科学与假设》的版本可见1917年版"
+          ]
+        }
+      ],
+      "units": 100
+    },
+    {
+      "id": "ch24-u019",
+      "source_ids": [
+        "ch24-u019"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The fourth eminent figure whose interpretation of science we shall discuss briefly is the mathematician Hermann Weyl. He did not only live during the period of great changes in the first decades of the twentieth century but also contributed essentially to them and was fully aware of their epistemological impact."
+      ],
+      "zh": [
+        "我们将简要讨论其科学解释的第四位杰出人物是数学家赫尔曼·魏尔。他不仅生活在二十世纪头几十年巨变的时期，而且对这些巨变作出了本质性的贡献，并充分意识到它们的认识论影响。"
+      ],
+      "units": 50
+    },
+    {
+      "id": "ch24-u020",
+      "source_ids": [
+        "ch24-u020"
+      ],
+      "page": "406",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In contrast to metaphysical inclinations of his earlier writings, Weyl refers in the philosophical publications of his later years to symbolic construction as the adequate approach to mathematics and physics. This becomes clear already from the titles of his articles; ‘Science as a Symbolic Construction of Man’",
+        {
+          "type": "note",
+          "id": "ch24-n07",
+          "label": "7"
+        },
+        " and ‘On the Symbolism of Mathematics and Mathematical Physics’.",
+        {
+          "type": "note",
+          "id": "ch24-n08",
+          "label": "8"
+        },
+        " In the former paper, much like the philosopher Ernst Cassirer, he uses case studies to show the development from substantial to symbolic forms. He also quotes approvingly the symbolic approach of Hertz and comes to such definite statements as:"
+      ],
+      "zh": [
+        "与他早期著作的形而上学倾向相反，魏尔在晚年的哲学出版物中把符号构造作为数学与物理学的恰当进路。这从他的文章标题就已经清楚：“科学作为人类的符号构造”",
+        {
+          "type": "note",
+          "id": "ch24-n07",
+          "label": "7"
+        },
+        "与“论数学与数学物理的符号主义”。",
+        {
+          "type": "note",
+          "id": "ch24-n08",
+          "label": "8"
+        },
+        " 在前一篇论文中，与哲学家恩斯特·卡西尔非常相似，他使用案例研究来表明从实体性形式到符号形式的发展。他还赞许地引用赫兹的符号进路，并作出这样明确的断言："
+      ],
+      "units": 95
+    },
+    {
+      "id": "ch24-u026",
+      "source_ids": [
+        "ch24-u026"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "It is the free spirit working in symbols that constructs for itself an objective frame in physics which it then uses to order the manifold of phenomena. For this it does not need to import such means as space, time and particles of substance: it takes everything from out of itself.",
+        {
+          "type": "note",
+          "id": "ch24-n09",
+          "label": "9"
+        }
+      ],
+      "zh": [
+        "正是在符号中运作的自由精神，为自己在物理学中构造了一个客观框架，然后用它来整理现象的杂多。为此它无须从外部引入空间、时间和实体微粒等手段，而是从自身取得这一切。",
+        {
+          "type": "note",
+          "id": "ch24-n09",
+          "label": "9"
+        }
+      ],
+      "type": "quote",
+      "units": 51
+    },
+    {
+      "id": "ch24-u021",
+      "source_ids": [
+        "ch24-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This general development in physics fits well with the Philosophy of Symbolic Forms of Ernst Cassirer.",
+        {
+          "type": "note",
+          "id": "ch24-n10",
+          "label": "10"
+        },
+        " Cassirer even remarks that it were just the exact natural sciences which first became aware of the symbolic character of their means.",
+        {
+          "type": "note",
+          "id": "ch24-n11",
+          "label": "11"
+        },
+        " He refers explicitly to Maxwell’s theory, which he calls an ‘important and methodologically essential cut’ in physics.",
+        {
+          "type": "note",
+          "id": "ch24-n12",
+          "label": "12"
+        },
+        " There already the circle of description of physical processes by reduction to intuitive relations was broken in favour of a purely mathematical determination and thus a transition was made from intuition into the realm of pure meaning (Bedeutung).",
+        {
+          "type": "note",
+          "id": "ch24-n13",
+          "label": "13"
+        }
+      ],
+      "zh": [
+        "物理学中的这一总体发展与恩斯特·卡西尔的符号形式哲学非常契合。",
+        {
+          "type": "note",
+          "id": "ch24-n10",
+          "label": "10"
+        },
+        " 卡西尔甚至评论说，恰恰是精确的自然科学最先意识到其手段的符号特征。",
+        {
+          "type": "note",
+          "id": "ch24-n11",
+          "label": "11"
+        },
+        " 他明确指涉麦克斯韦理论，称之为物理学中“一道重要且具有根本方法论意义的分界”。",
+        {
+          "type": "note",
+          "id": "ch24-n12",
+          "label": "12"
+        },
+        " 在那里，把物理过程还原为直观关系的描述方式已被打破，让位于纯粹的数学规定，由此完成了从直观到纯粹意义（Bedeutung）领域的过渡。",
+        {
+          "type": "note",
+          "id": "ch24-n13",
+          "label": "13"
+        }
+      ],
+      "units": 93
+    },
+    {
+      "id": "ch24-u022",
+      "source_ids": [
+        "ch24-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Our aim is to corroborate this point of view analysing especially the developments of quantum field theory in the course of the twentieth century."
+      ],
+      "zh": [
+        "我们的目标是通过特别分析量子场论在二十世纪进程中的发展来佐证这一观点。"
+      ],
+      "units": 24
+    },
+    {
+      "id": "ch24-u023",
+      "source_ids": [
+        "ch24-u023"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 The Field as Basic Theoretical Concept"
+      ],
+      "zh": [
+        "2 作为基本理论概念的场"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch24-u024",
+      "source_ids": [
+        "ch24-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Phenomena ascribed to subnuclear particles and their interaction form the physical domain of relativistic quantum field theory. The salient feature that characterises the interaction of subnuclear particles is the possible transmutation of matter into energy and vice versa: particles can be created or annihilated, provided certain conservation laws are respected. Many of the objects, however, which are conveniently called subnuclear particles, are not stable but decay spontaneously into lighter particles. Thus, strictly speaking, they cannot appear in an asymptotic state. Nevertheless, it is theoretically appealing and proves to be empirically justified to treat an unstable particle also as forming asymptotic states, provided its lifetime is large compared with the reaction time in a scattering process. This indicates that the notion of a subnuclear particle is firmly based on the related theoretical perspective. The huge disparity in lifetimes of the various subnuclear particles demands particular attention to this dependence on the theoretical frame."
+      ],
+      "zh": [
+        "归于亚核粒子及其相互作用的现象构成了相对论性量子场论的物理领域。刻画亚核粒子相互作用的显著特征是物质与能量相互转化的可能性：只要遵守某些守恒律，粒子就可以被产生或湮灭。然而，许多被方便地称为亚核粒子的对象并不稳定，而是自发衰变为更轻的粒子。因此严格说来，它们不能出现在渐近态中。尽管如此，只要不稳定粒子的寿命与散射过程中的反应时间相比足够长，把它也当作构成渐近态来处理，在理论上是吸引人的，而且已证明有经验根据。这表明亚核粒子概念牢固地基于相关的理论视角。各种亚核粒子寿命的巨大差异要求特别注意这种对理论框架的依赖。"
+      ],
+      "units": 152
+    },
+    {
+      "id": "ch24-u025",
+      "source_ids": [
+        "ch24-u025"
+      ],
+      "page": "407",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The basic concept of the theory are relativistic quantum fields, not particles. The quantum fields, in terms of which the theory is constructed, are operators that depend on space–time and act on state vectors. Their dependence on the relativistic space–time variables shows the behaviour of a generalised function; therefore in general pointwise products of fields are not defined. Converting indiscriminately the products of classical fields into the corresponding products of quantum fields produces mathematically ill-defined objects, from which infinities emerge when used in the context of a quantum field theory."
+      ],
+      "zh": [
+        "理论的基本概念是相对论性量子场，而不是粒子。理论借以构造的量子场是依赖于时空、作用于态矢量的算符。它们对相对论性时空变量的依赖显示出广义函数的行为；因此一般来说场的逐点乘积没有定义。不加区分地把经典场的乘积转换为相应量子场的乘积，会产生数学上不良定义的对象，在量子场论语境中使用它们时会出现无穷大。"
+      ],
+      "units": 92
+    },
+    {
+      "id": "ch24-u027",
+      "source_ids": [
+        "ch24-u027"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Quantum field theory has grown out of classical field theory by the application of ‘quantisation rules’, which extend the rules that converted classical mechanics into quantum mechanics. Later on, a systematic reformulation of the originally ill-defined approach to relativistic quantum field theory was achieved – the so-called perturbative renormalisation theory – which provides a mathematically well-defined formal power series. This form, however, is only useful for interactions which are weak."
+      ],
+      "zh": [
+        "量子场论是通过应用“量子化规则”从经典场论成长起来的，这些规则扩展了把经典力学转换为量子力学的规则。后来，对原先不良定义的相对论性量子场论进路实现了系统的重新表述——所谓微扰重整化理论——它提供了一个数学上良定义的形式幂级数。然而，这种形式只对弱的相互作用有用。"
+      ],
+      "units": 68
+    },
+    {
+      "id": "ch24-u028",
+      "source_ids": [
+        "ch24-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Classical electrodynamics can be directly formulated in terms of the electromagnetic field. An electromagnetic potential acting as an ancillary mathematical object can be substituted for this field. However, the relation between electromagnetic field and potential is not a one-to-one relation: a whole equivalence class of the latter corresponds to a given field. Nevertheless, quantum electrodynamics (QED), i.e. the quantum field theory describing the electromagnetic interaction, involves the operator version of the potential as a basic quantum field. Its interactions show the so-called local gauge symmetry. This symmetry implies that the interaction encoded in the theory is local, i.e. there is no action-at-a-distance, and all physical effects propagate with finite velocity (Nahwirkungsprinzip). All sectors of the Standard Model of particle physics",
+        {
+          "type": "note",
+          "id": "ch24-n14",
+          "label": "14"
+        },
+        " obey such a local gauge symmetry, which is why it is called a quantum gauge field theory. The basic matter fields of this model are the quark fields in its strong-interaction sector, as wells as additional lepton fields (electrons, e.g.) in the sector of weak and electromagnetic interactions. The gauge fields (photons and gluons, e.g.) mediate the interaction between the matter fields. The fields of protons and neutrons, the constituents of the atomic nucleus, are constructed from quark fields."
+      ],
+      "zh": [
+        "经典电动力学可以直接用电磁场来表述。一个作为辅助数学对象的电磁势可以替代这个场。然而，电磁场与势之间的关系不是一一对应：给定一个场，对应的是势的一个完整等价类。尽管如此，量子电动力学（QED），即描述电磁相互作用的量子场论，把势的算符版本作为基本量子场纳入其中。它的相互作用显示出所谓局域规范对称性。这个对称性意味着理论中编码的相互作用是局域的，即没有超距作用，一切物理效应都以有限速度传播（近作用原理，Nahwirkungsprinzip）。粒子物理学标准模型",
+        {
+          "type": "note",
+          "id": "ch24-n14",
+          "label": "14"
+        },
+        "的所有部分都服从这样的局域规范对称性，这就是它被称为量子规范场论的原因。这个模型的基本物质场是其强相互作用部分中的夸克场，以及弱相互作用和电磁相互作用部分中的轻子场（例如电子）。规范场（如光子场与胶子场）传递物质场之间的相互作用。质子与中子——原子核的组分——的场由夸克场构造而来。"
+      ],
+      "units": 203
+    },
+    {
+      "id": "ch24-u029",
+      "source_ids": [
+        "ch24-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the course of its evolution quantum field theory has expanded in several directions. Each direction represents a particular aspect of the theory. Taken together, these facets can be characterized very briefly as follows.\n",
+        {
+          "type": "em",
+          "children": [
+            "General Theory of Quantised Fields"
+          ]
+        },
+        " : Paying attention to the mathematical properties of a local quantum field, a general framework – but only a framework – of a relativistic quantum field theory has been formed by way of few well-defined postulates, usually called ‘Wightman axioms’.",
+        {
+          "type": "note",
+          "id": "ch24-n15",
+          "label": "15"
+        },
+        " A number of physically important structural consequences, all well established, follow from this. A far-reaching mathematical consequence is that the theory allows to be transformed into an Euclidean formulation."
+      ],
+      "zh": [
+        "在其演化过程中，量子场论向几个方向扩展。每个方向代表理论的一个特定方面。合起来看，这些侧面可以非常简短地概述如下。\n",
+        {
+          "type": "em",
+          "children": [
+            "量子化场的一般理论"
+          ]
+        },
+        "：关注局域量子场的数学性质，人们通过少数良定义的公设——通常称为“怀特曼公理”",
+        {
+          "type": "note",
+          "id": "ch24-n15",
+          "label": "15"
+        },
+        "——形成了相对论性量子场论的一个一般框架，但也只是一个框架。由此推出许多物理上重要的、全都确立已久的结构性结论。一个深远的数学结论是，这个理论允许被转换为欧几里得表述。"
+      ],
+      "units": 105
+    },
+    {
+      "id": "ch24-u030",
+      "source_ids": [
+        "ch24-u030"
+      ],
+      "page": "408",
+      "canonical_kind": "paragraph",
+      "en": [
+        {
+          "type": "em",
+          "children": [
+            "Perturbative Renormalisation Theory"
+          ]
+        },
+        ": The well-defined theory of quantum fields without interaction forms the basis of this approach, the desired interaction being treated as a ‘small’ perturbation via a formal perturbation expansion.",
+        {
+          "type": "note",
+          "id": "ch24-n16",
+          "label": "16"
+        },
+        " This expansion involves an inductive procedure – called ‘renormalisation’ – which generates finite modified local products of field operators representing the interaction. Of all facets, perturbative renormalisation theory provides the most distinctive predictions, since it accounts for the electromagnetic and weak sectors of the Standard Model. Here, there is a direct correspondence between ‘particles’ and ‘fields’.\n",
+        {
+          "type": "em",
+          "children": [
+            "Lattice Gauge Theory"
+          ]
+        },
+        ": The first step of this constructive approach is to replace (Euclidean) space–time by a lattice, which is a discrete structure.",
+        {
+          "type": "note",
+          "id": "ch24-n17",
+          "label": "17"
+        },
+        " It does not resort to a perturbation expansion and preserves the local gauge symmetry, aiming at the domain of strong interaction of the Standard Model. The emerging mathematical system is treated by numerical simulations, combined with a crucial transition procedure back to continuous space–time. Most remarkably, the basic quantum fields involved do not necessarily correspond to asymptotic particles.\n",
+        {
+          "type": "em",
+          "children": [
+            "Constructive Quantum Field Theory"
+          ]
+        },
+        ": In view of the unsatisfactory status of the formal renormalised perturbation theory, serious efforts have been made to construct rigorously a quantum field theory allowing for interaction.",
+        {
+          "type": "note",
+          "id": "ch24-n18",
+          "label": "18"
+        },
+        " Up till now this has been achieved for (fictitious) two- and three-dimensional space–times, but not yet for the physically relevant four-dimensional case.\n",
+        {
+          "type": "em",
+          "children": [
+            "Local Quantum Physics"
+          ]
+        },
+        ": This approach, often referred to as ‘algebraic quantum field theory’, aims at formulating a conceptual frame serving as a foundational basis of quantum field theory.",
+        {
+          "type": "note",
+          "id": "ch24-n19",
+          "label": "19"
+        },
+        " Its basic concept is local observables, whereas quantum fields only act as particular building blocks of observables."
+      ],
+      "zh": [
+        {
+          "type": "em",
+          "children": [
+            "微扰重整化理论："
+          ]
+        },
+        "良定义的无相互作用量子场理论构成这个进路的基础，所期望的相互作用通过形式微扰展开被当作“小”微扰处理。",
+        {
+          "type": "note",
+          "id": "ch24-n16",
+          "label": "16"
+        },
+        " 这个展开涉及一个归纳程序——称为“重整化”——它产生代表相互作用的、有限的、修正的场算符局域乘积。在所有侧面中，微扰重整化理论提供最独特的预言，因为它说明标准模型中的电磁相互作用和弱相互作用。在这里，“粒子”与“场”之间有直接的对应。\n",
+        {
+          "type": "em",
+          "children": [
+            "格点规范理论："
+          ]
+        },
+        "这个构造性进路的第一步是把（欧几里得）时空替换为格点，即一个离散结构。",
+        {
+          "type": "note",
+          "id": "ch24-n17",
+          "label": "17"
+        },
+        " 它不求助于微扰展开，并保持局域规范对称性，瞄准标准模型的强相互作用领域。涌现的数学系统用数值模拟处理，并结合一个回到连续时空的关键过渡程序。最值得注意的是，所涉及的基本量子场不必对应于渐近粒子。\n",
+        {
+          "type": "em",
+          "children": [
+            "构造性量子场论："
+          ]
+        },
+        "鉴于形式重整化微扰理论的不令人满意的状况，人们作出了严肃的努力，要严格构造一个允许相互作用的量子场论。",
+        {
+          "type": "note",
+          "id": "ch24-n18",
+          "label": "18"
+        },
+        " 到目前为止，这对（虚构的）二维与三维时空已经实现，但对物理上相关的四维情形还没有。\n",
+        {
+          "type": "em",
+          "children": [
+            "局域量子物理学："
+          ]
+        },
+        "这个进路常被称为“代数量子场论”，目标是表述一个作为量子场论基础根据的概念框架。",
+        {
+          "type": "note",
+          "id": "ch24-n19",
+          "label": "19"
+        },
+        " 它的基本概念是局域可观测量，而量子场只充当可观测量的特定构件。"
+      ],
+      "units": 267
+    },
+    {
+      "id": "ch24-u031",
+      "source_ids": [
+        "ch24-u031"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 The Different Facets of Quantum Field Theory"
+      ],
+      "zh": [
+        "3 量子场论的不同侧面"
+      ],
+      "type": "subheading",
+      "units": 8
+    },
+    {
+      "id": "ch24-u032",
+      "source_ids": [
+        "ch24-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Our presentation of quantum field theory has been very brief, and we now present a philosophical framework in a similarly sketchy way. A much more detailed discussion of quantum field theory and of the sign-theoretic terminology in which it can be phrased has been dealt with elsewhere.",
+        {
+          "type": "note",
+          "id": "ch24-n20",
+          "label": "20"
+        },
+        " Suffice it to say here that the difference between ‘intuition’ and ‘meaning’ stressed by Cassirer finds its semiotic counterpart (which, of course, is much less philosophically laden) in the difference between connotation and denotation. The current paper might thus be viewed as an attempt to give a broader philosophical setting for our aforementioned work."
+      ],
+      "zh": [
+        "我们对量子场论的介绍非常简短，现在我们以同样概要的方式给出一个哲学框架。对量子场论以及它可以借以表述的记号理论术语的更详细讨论，已在别处处理。",
+        {
+          "type": "note",
+          "id": "ch24-n20",
+          "label": "20"
+        },
+        " 这里只需说：卡西尔强调的“直观”与“意义”之间的差别，在内涵与指称的差别中找到了它的符号学对应物（当然，这个对应物的哲学负载要少得多）。因此，本文可以被看作为我们上述工作提供一个更广阔哲学设定的一次尝试。"
+      ],
+      "units": 101
+    },
+    {
+      "id": "ch24-u033",
+      "source_ids": [
+        "ch24-u033"
+      ],
+      "page": "409",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We suggest that the various facets of quantum field theory which have just been mentioned are related as different symbolic forms or constructions in the sense of Cassirer and Weyl. Some of the respective entities and concepts involved in the general theory of quantised fields, in perturbative renormalisation theory, and in lattice gauge theory differ markedly from each other."
+      ],
+      "zh": [
+        "我们提议，刚才提到的量子场论的各个侧面，作为卡西尔与魏尔意义上的不同符号形式或符号构造而相互关联。量子化场的一般理论、微扰重整化理论与格点规范理论中所涉及的相应实体与概念，有些彼此显著不同。"
+      ],
+      "units": 59
+    },
+    {
+      "id": "ch24-u034",
+      "source_ids": [
+        "ch24-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Even though the various facets of quantum field theory also have common elements, their marked differences prevent a hierarchical order between them. Their status ought to be made intelligible as different symbolic forms. Three examples will help understand this."
+      ],
+      "zh": [
+        "尽管量子场论的各个侧面也有共同要素，它们的显著差异使其无法排成一个层级。它们的地位应当作为不同的符号形式而被理解。三个例子有助于理解这一点。"
+      ],
+      "units": 39
+    },
+    {
+      "id": "ch24-u035",
+      "source_ids": [
+        "ch24-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "First, recall that up till now no quantum field theory, which describes interaction between particles in four space–time dimensions, has been constructed on a sound mathematical footing. The Wightman axioms, forming the basis of the general theory of quantised fields, are considered to form the core structure of a theory based on field operators; but they do not formulate the dynamical evolution in terms of field operators. It is this dynamical evolution, however, that entails the specific physical outcome of the theory. Moreover, in contrast to perturbative gauge theory and lattice gauge theory the physically distinguished non-Abelian gauge symmetry is not present in the Wightman axioms. Nevertheless, the Wightman axioms allow to derive some stringent structural consequences as e.g. the symmetry between matter and antimatter or the connection between spin and statistics. These predictions are in fact experimentally very well satisfied and any violation of them would seriously call into question the concept of a local quantum field."
+      ],
+      "zh": [
+        "首先，回想一下，到目前为止还没有一个描述四维时空中粒子间相互作用的量子场论是在健全的数学基础上构造出来的。构成量子化场的一般理论之基础的怀特曼公理，被认为是基于场算符的理论的核心结构；但它们没有用场算符表述动力学演化。然而，正是这种动力学演化带来理论的具体物理结果。此外，与微扰规范理论和格点规范理论相反，物理上突出的非阿贝尔规范对称性不在怀特曼公理之中。尽管如此，怀特曼公理允许推出一些严格的结构性结论，例如物质与反物质之间的对称性，或自旋与统计之间的联系。这些预言与实验结果高度吻合，一旦发现违反这些预言的情形，局域量子场的概念就会受到严重质疑。"
+      ],
+      "units": 160
+    },
+    {
+      "id": "ch24-u036",
+      "source_ids": [
+        "ch24-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Second, concrete quantum field theories have been generated by ‘quantising’ a heuristic classical precursor theory. In the case of the Standard Model there are two complementary symbolic forms to perform a ‘quantisation’ of the classical precursor: perturbative renormalisation theory and lattice gauge theory. Perturbative renormalisation theory is only formulated as a formal power series based on free quantum fields and cannot create hadrons like protons and neutrons which are basic constituents of matter. Moreover, in order to implement (covariantly) the local gauge symmetry, it employs unphysical degrees of freedom, so called ghost fields. Lattice gauge theory avoids these unphysical entities and starts with a well-defined nonperturbative set-up albeit not on continuous space–time but on a discrete lattice. The respective predictive power of these two symbolic forms points to complementary physical domains. The perturbative theory accounts for electroweak processes and for the short-distance behaviour of the strong interactions. In contrast, the lattice gauge theory aims at the long-distance properties, i.e. the spectrum of hadrons dynamically generated from fundamental degrees of freedom of the theory (the quark and gluon fields). Perturbative renormalisation theory merely leads to a formal power series and lattice gauge theory encompasses only certain elements of the aforementioned Wightman axioms."
+      ],
+      "zh": [
+        "第二，具体的量子场论是通过“量子化”一个启发性的经典先行理论而产生的。就标准模型而言，有两种互补的符号形式来执行对先行的经典理论的“量子化”：微扰重整化理论与格点规范理论。微扰重整化理论只被表述为基于自由量子场的形式幂级数，不能产生质子与中子这样的强子——它们是物质的基本组分。此外，为了（协变地）实现局域规范对称性，它使用了非物理的自由度，即所谓鬼场。格点规范理论避免这些非物理实体，从一个良定义的非微扰设定出发，尽管不是在连续时空上，而是在离散格点上。这两种符号形式各自的预言能力指向互补的物理领域。微扰理论说明电弱过程以及强相互作用的短距离行为。相反，格点规范理论瞄准长距离性质，即从理论的基本自由度（夸克场与胶子场）动力学地产生的强子谱。微扰重整化理论只给出一个形式幂级数，而格点规范理论只包含上述怀特曼公理的某些要素。"
+      ],
+      "units": 203
+    },
+    {
+      "id": "ch24-u037",
+      "source_ids": [
+        "ch24-u037"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Third, in perturbation theory the concept of spontaneously breaking a local gauge symmetry has proven to be of great efficiency and led to the discovery of the weak gauge bosons. In contradistinction, within the realm of lattice gauge theory it was proven that local gauge symmetry cannot be spontaneously broken.",
+        {
+          "type": "note",
+          "id": "ch24-n21",
+          "label": "21"
+        }
+      ],
+      "zh": [
+        "第三，在微扰理论中，自发破缺局域规范对称性的概念已被证明非常有效，并导致了弱规范玻色子的发现。相反，在格点规范理论的范围内已经证明，局域规范对称性不能自发破缺。",
+        {
+          "type": "note",
+          "id": "ch24-n21",
+          "label": "21"
+        }
+      ],
+      "units": 50
+    },
+    {
+      "id": "ch24-u038",
+      "source_ids": [
+        "ch24-u038"
+      ],
+      "page": "410",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If one looks at particle physics more generally, even more symbolic forms can be found at work. Consider, for instance, electrons, heavy and light quarks. The symbolic forms in which electrons occur include classical mechanics, non-relativistic quantum mechanics and quantum field theory. Heavy quarks only occur in the context of non-relativistic quantum mechanics and quantum field theory, whereas light quarks occur only in that of quantum field theory. For a philosophy of symbolic forms this is not a problem, but it would be a problem if one were to stick to intuition as the one firm ground from which questions like ‘Does particle xyz exist?’ must find a definite answer."
+      ],
+      "zh": [
+        "如果更一般地看粒子物理学，可以发现更多符号形式在起作用。例如考虑电子、重夸克与轻夸克。电子出现于其中的符号形式包括经典力学、非相对论性量子力学和量子场论。重夸克只出现在非相对论性量子力学与量子场论的语境中，而轻夸克只出现在量子场论的语境中。对符号形式哲学来说这不是问题，但如果人们坚持直观是唯一坚实的根据、“粒子 xyz 是否存在？”这样的问题必须从中找到确定答案，那就会是问题。"
+      ],
+      "units": 110
+    },
+    {
+      "id": "ch24-u039",
+      "source_ids": [
+        "ch24-u039"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now, think about the relation between ‘higher’ (more fundamental) and ‘lower’ theories. In general the former does not make the latter obsolete. This is quite obvious in the case of ‘macroscopic’ problems. The unresolved difficulties of quantum field theory, for instance, do not prevent us from solving most complicated problems concerning the propagation of radio waves. It might even be necessary to use the lower theory in the higher one in an essential way, as e.g. in the analytic description of bound states in quantum field theory. In order to calculate the Lamb-shift, which is one of the triumphs of relativistic quantum field theory, one starts with a quantum field theory in a given ‘external’ classical field, though this field should in principle also be described in quantum field theory. Thus, in order to calculate the Lamb-shift one has to make use of different symbolic forms at the same time; namely the ‘higher’ quantum and the ‘lower’ classical field theory."
+      ],
+      "zh": [
+        "现在，想想“更高”（更基本）与“更低”理论之间的关系。一般来说前者并不使后者过时。这在“宏观”问题的情形中相当明显。例如，量子场论未解决的困难并不妨碍我们解决关于无线电波传播的最复杂问题。甚至可能必须在更高理论中以本质性的方式使用更低理论，例如在量子场论中束缚态的解析描述中。为了计算兰姆位移——相对论性量子场论的胜利之一——人们从一个给定“外部”经典场中的量子场论出发，尽管这个场原则上也应该在量子场论中描述。因此，为了计算兰姆位移，必须同时使用不同的符号形式：即“更高的”量子场论与“更低的”经典场论。"
+      ],
+      "units": 161
+    },
+    {
+      "id": "ch24-u040",
+      "source_ids": [
+        "ch24-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Viewing different theories in physics and even the various facets of quantum field theory as different symbolic forms is a decisively non-realist position. Such a position puts special emphasis on the creative part played by the human mind in the generation of scientific theories. Already Weyl emphasised that only transcendental approaches in philosophy can account for this creativity, and this is why he uses the term ‘symbolic construction’.",
+        {
+          "type": "note",
+          "id": "ch24-n22",
+          "label": "22"
+        },
+        " According to Cassirer, all knowledge inheres a ‘primordially producing and not only re-producing power’.",
+        {
+          "type": "note",
+          "id": "ch24-n23",
+          "label": "23"
+        },
+        " Rather than merely teaching us something about facts, tools are manufactured to make the world understandable:"
+      ],
+      "zh": [
+        "把物理学中不同的理论、甚至量子场论的各个侧面视为不同的符号形式，是一种鲜明的非实在论立场。这样的立场特别强调人类心灵在科学理论产生中所起的创造性部分。魏尔早已强调，只有哲学中的先验进路才能说明这种创造性，这就是他使用“符号构造”一词的原因。",
+        {
+          "type": "note",
+          "id": "ch24-n22",
+          "label": "22"
+        },
+        " 按照卡西尔，一切知识都蕴含一种“原初的创造能力，而不仅仅是再现能力”。",
+        {
+          "type": "note",
+          "id": "ch24-n23",
+          "label": "23"
+        },
+        " 工具被制造出来使世界变得可理解，而不只是教给我们关于事实的某些东西："
+      ],
+      "units": 98
+    },
+    {
+      "id": "ch24-u042",
+      "source_ids": [
+        "ch24-u042"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The history of physics [...] is not a history of discovering a simple line of ‘facts’, but of discovering ever new tools of thought.",
+        {
+          "type": "note",
+          "id": "ch24-n24",
+          "label": "24"
+        }
+      ],
+      "zh": [
+        "物理学的历史［……］不是发现一条简单的“事实”线索的历史，而是发现愈来愈新的思维工具的历史。",
+        {
+          "type": "note",
+          "id": "ch24-n24",
+          "label": "24"
+        }
+      ],
+      "type": "quote",
+      "units": 23
+    },
+    {
+      "id": "ch24-u041",
+      "source_ids": [
+        "ch24-u041"
+      ],
+      "page": "411",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The history of the gauge principle gives further evidence in favor of such a view. Brought forward initially by Weyl in 1918, the gauge principle was meant to unify gravitation and electromagnetism, the only two types of interaction known at that time. Although it turned out to be empirically invalid in that context, it reappeared about 10 years later in quantum mechanics and it is by now of greatest significance in quantum field theory. If one thinks of physics as simply discovering facts about nature this is hard to understand. One would have to talk about some historical ‘ironies’ or something alike.",
+        {
+          "type": "note",
+          "id": "ch24-n25",
+          "label": "25"
+        },
+        " However, from the point of view of a philosophy of symbolic forms this makes perfect sense and there is nothing ironic about it. If the creativity of the human mind plays a central role, then the reappearance of the gauge principle simply shows that this principle is a resourceful ‘tool of thought’.",
+        {
+          "type": "note",
+          "id": "ch24-n26",
+          "label": "26"
+        }
+      ],
+      "zh": [
+        "规范原理的历史为这种观点提供了进一步的证据。规范原理最初由魏尔在 1918 年提出，意在统一引力与电磁——当时已知的仅有的两种相互作用类型。虽然它在那个语境中被证明在经验上无效，大约 10 年后它在量子力学中重新出现，而如今它在量子场论中具有最大的重要性。如果把物理学想成只是发现关于自然的事实，这就难以理解。人们将不得不谈论某种历史的“反讽”或类似的东西。",
+        {
+          "type": "note",
+          "id": "ch24-n25",
+          "label": "25"
+        },
+        " 然而，从符号形式哲学的观点看，这完全说得通，其中没有任何反讽。如果人类心灵的创造性起核心作用，那么规范原理的重新出现恰恰表明，这个原理是一个富于巧思的“思维工具”。",
+        {
+          "type": "note",
+          "id": "ch24-n26",
+          "label": "26"
+        }
+      ],
+      "units": 154
+    },
+    {
+      "id": "ch24-u043",
+      "source_ids": [
+        "ch24-u043"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Furthermore, a significant feature of a symbolic approach is that it acknowledges the usefulness and empirical success of the different facets of quantum field theory. If one looks at the publications within what may be called philosophy of quantum field theory,",
+        {
+          "type": "note",
+          "id": "ch24-n27",
+          "label": "27"
+        },
+        " most of it being rather realist in spirit, those coexisting different facets have largely been ignored. Most of the literature only takes perturbative renormalisation theory into account. This leads to what Whitehead would call a ‘fallacy of misplaced concreteness’.",
+        {
+          "type": "note",
+          "id": "ch24-n28",
+          "label": "28"
+        },
+        " Discussing only one facet and then taking it for being ‘the real one’ is dangerous, since several important concepts and predictions stemming from the other facets cannot be taken into account; and this has led to several rather misguided discussions.",
+        {
+          "type": "note",
+          "id": "ch24-n29",
+          "label": "29"
+        }
+      ],
+      "zh": [
+        "此外，符号进路的一个显著特征是，它承认量子场论不同侧面的有用性与经验成功。如果看看可以称为量子场论哲学的出版物，",
+        {
+          "type": "note",
+          "id": "ch24-n27",
+          "label": "27"
+        },
+        " 其中大多数遵循实在论思路，那些共存的不同侧面在很大程度上被忽视了。大多数文献只考虑微扰重整化理论。这导致怀特海所谓的“具体性误置的谬误”。",
+        {
+          "type": "note",
+          "id": "ch24-n28",
+          "label": "28"
+        },
+        " 只讨论一个侧面然后把它当作“真实的那一个”是危险的，因为来自其他侧面的几个重要概念与预言无法被考虑；而这已经导致了几场相当误入歧途的讨论。",
+        {
+          "type": "note",
+          "id": "ch24-n29",
+          "label": "29"
+        }
+      ],
+      "units": 120
+    },
+    {
+      "id": "ch24-u044",
+      "source_ids": [
+        "ch24-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The miracle argument is the cornerstone of realism. According to it, only realism can account for the empirical success of science in a satisfying way. But this argument fails in the case of quantum field theory. A realist position in some way or other has to single out one facet, so that the empirical success of the other facets would be turned into a miracle, unless finally an all-embracing theory which unifies all facets is found. Basing one’s realism on the general theory of quantised fields, for instance, amounts to restricting the theoretical claim to the very core of local quantum field theory. The price to be paid for eschewing thereby the formulation of an explicit dynamics is that only few (albeit fundamental and experimentally very well satisfied) physical relations result. In order to arrive at a wealth of physical relations aiming to cope with the immense body of detailed measurements performed in the subnuclear domain, an adequate concrete quantum field theory has to be created, i.e. in terms of specific fields and their interaction, thus fixing the dynamical content of the theory. But here again different facets offer different forms of description and realms of prediction. Thus, to a large extent, the choice between facets is dictated by the questions asked. The facets are symbolic forms and there is no single facet ‘depicting reality point by point’. Even if some day a ‘completed version’ of quantum field theory could be obtained this would not per se alter the symbolic construction of the theory and its concentration on meaning. This remains true even if beyond quantum field theory a new theory valid on smaller scales turned out to be developed in the future."
+      ],
+      "zh": [
+        "无奇迹论证是实在论的基石。按照它，只有实在论才能以令人满意的方式说明科学的经验成功。但这个论证在量子场论的情形中失败了。实在论立场必须以某种方式挑出一个侧面，于是其他侧面的经验成功就会变成奇迹，除非最终找到一个统一所有侧面的包罗万象的理论。例如，把实在论建立在量子化场的一般理论之上，等于把理论要求限制在局域量子场论的最核心处。由此回避显式动力学表述所要付出的代价是，只得到很少的（尽管是基本的、实验上得到非常好满足的）物理关系。为了得到丰富的物理关系，以应对在亚核领域完成的大量详细测量，必须创造一个恰当的具体量子场论，即用特定的场及其相互作用来表述，从而固定理论的动力学内容。但在这里，不同的侧面再次提供不同的描述形式与预言范围。因此，在很大程度上，侧面之间的选择由所提的问题决定。这些侧面是符号形式，不存在“逐点描绘实在”的单一侧面。即使有一天能获得量子场论的“完成版本”，这本身也不会改变理论的符号构造及其对意义的专注。即使将来在量子场论之外发展出在更小尺度上有效的新理论，这一点仍然成立。"
+      ],
+      "units": 284
+    },
+    {
+      "id": "ch24-ref001",
+      "source_ids": [
+        "ch24-ref001"
+      ],
+      "page": "412",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Conclusions"
+      ],
+      "zh": [
+        "4 结论"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch24-u046",
+      "source_ids": [
+        "ch24-u046"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We have presented arguments to the effect that a symbolic approach is appropriate for a full account of contemporary physics. Such an approach allows for the different and empirically successful facets of quantum field theory, as indeed any serious interpretation of contemporary physics should."
+      ],
+      "zh": [
+        "我们提出了这样的论证：符号进路适合对当代物理学作出完整的说明。这样的进路容纳量子场论不同且在经验上成功的侧面，正如任何严肃的当代物理学解释都应做的那样。"
+      ],
+      "units": 44
+    },
+    {
+      "id": "ch24-u047",
+      "source_ids": [
+        "ch24-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Like Cassirer we claimed that along with the establishment of Maxwell’s theory a transition occurred away from intuition towards the realm of symbols and pure meaning. Hence, it is not astonishing that the aforementioned protagonists of a symbolic approach in science were themselves eminent physicists and mathematicians. Helmholtz, Hertz, Poincaré and Weyl creatively contributed to the further development of physics and were all in a position to experience a certain and particular permanence in the mathematical descriptions of their discipline. While certain everyday connotations arguably changed quite radically at the transition from classical mechanics to field physics or to quantum mechanics, the change in the symbolic constructions given in terms of mathematical relations was rather restrained.",
+        {
+          "type": "note",
+          "id": "ch24-n30",
+          "label": "30"
+        }
+      ],
+      "zh": [
+        "与卡西尔一样，我们主张随着麦克斯韦理论的确立，发生了一个远离直观、走向符号与纯粹意义领域的过渡。因此，上述科学中符号进路的主角们本身就是杰出的物理学家与数学家，这并不令人惊讶。亥姆霍兹、赫兹、彭加勒与魏尔创造性地促进了物理学的进一步发展，并且全都能够体验到其学科的数学描述中某种特定的恒常性。虽然某些日常内涵在从经典力学到场物理学或量子力学的过渡中可以说发生了相当剧烈的变化，但以数学关系给出的符号构造的变化却相对有限。",
+        {
+          "type": "note",
+          "id": "ch24-n30",
+          "label": "30"
+        }
+      ],
+      "units": 116
+    },
+    {
+      "id": "ch24-u048",
+      "source_ids": [
+        "ch24-u048"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Cassirer must be credited for widening this symbolic approach to other human cultural enterprises like art, myth and religion. Of course, differences in degrees must be taken into account here. Moving from myth to science is certainly more radical than moving from one physical theory to another. However, as we have pointed out, there are crucial differences even between such related symbolic forms as the facets of quantum field theory regarding the concepts involved and the entities described."
+      ],
+      "zh": [
+        "必须归功于卡西尔的是，他把这种符号进路扩展到其他人类文化事业，如艺术、神话与宗教。当然，这里必须考虑程度上的差异。从神话走向科学无疑比从一个物理理论走向另一个更剧烈。然而，正如我们指出的，即使在量子场论各侧面这样相关的符号形式之间，就所涉及的概念与所描述的实体而言，也存在关键的差异。"
+      ],
+      "units": 78
+    },
+    {
+      "id": "ch24-u045",
+      "source_ids": [
+        "ch24-u045"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch24-bibliography-001",
+      "source_ids": [
+        "ch24-ref005",
+        "ch24-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Buchholz, D. and Haag, R. (2000). The quest for understanding in relativistic quantum physics. J. Math. Phys., 41:3674–3697."
+      ],
+      "zh": [
+        "Buchholz, D. and Haag, R. (2000). The quest for understanding in relativistic quantum physics. J. Math. Phys., 41:3674–3697."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch24-bibliography-002",
+      "source_ids": [
+        "ch24-ref006",
+        "ch24-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cao, T. Y. (1996). Conceptual Developments of 20th Century Field Theories. Cambridge University Press, Cambridge."
+      ],
+      "zh": [
+        "Cao, T. Y. (1996). Conceptual Developments of 20th Century Field Theories. Cambridge University Press, Cambridge."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch24-bibliography-003",
+      "source_ids": [
+        "ch24-ref007",
+        "ch24-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cao, T. Y. and Schweber, S. S. (1993). The conceptual foundations and the philosophical aspects of renormalization theory. Synthese, 97(1):33–108."
+      ],
+      "zh": [
+        "Cao, T. Y. and Schweber, S. S. (1993). The conceptual foundations and the philosophical aspects of renormalization theory. Synthese, 97(1):33–108."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch24-bibliography-004",
+      "source_ids": [
+        "ch24-ref008",
+        "ch24-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E. (1921). Zur Einsteinschen Relativitätstheorie. Bruno Cassirer, Berlin. Reprint Darmstadt, 1989."
+      ],
+      "zh": [
+        "Cassirer, E. (1921). Zur Einsteinschen Relativitätstheorie. Bruno Cassirer, Berlin. Reprint Darmstadt, 1989."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch24-bibliography-005",
+      "source_ids": [
+        "ch24-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E. (1923–1929). Philosophie der Symbolischen Formen. Bruno Cassirer, Berlin, 3 volumes."
+      ],
+      "zh": [
+        "Cassirer, E. (1923–1929). Philosophie der Symbolischen Formen. Bruno Cassirer, Berlin, 3 volumes."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch24-bibliography-006",
+      "source_ids": [
+        "ch24-ref009",
+        "ch24-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E. (1995). Das Symbolproblem und seine Stellung im System der Philosophie. In Cassirer, E., editor, Symbol, Technik, Sprache. Aufsätze aus den Jahren 1927–1933, pages 1–21. Meiner, Hamburg."
+      ],
+      "zh": [
+        "Cassirer, E. (1995). Das Symbolproblem und seine Stellung im System der Philosophie. In Cassirer, E., editor, Symbol, Technik, Sprache. Aufsätze aus den Jahren 1927–1933, pages 1–21. Meiner, Hamburg."
+      ],
+      "shared": true,
+      "units": 30
+    },
+    {
+      "id": "ch24-bibliography-007",
+      "source_ids": [
+        "ch24-ref013",
+        "ch24-ref014"
+      ],
+      "page": "413",
+      "canonical_kind": "reference",
+      "en": [
+        "Coleman, R. and Korté, H. (2001). Hermann Weyl: mathematician, physicist, philosopher. In Scholz, E., editor, Hermann Weyl’s ‘Raum-Zeit-Materie’ and a General Introduction to His Scientific Work, pages 157–386. Birkhäuser, Basel."
+      ],
+      "zh": [
+        "Coleman, R. and Korté, H. (2001). Hermann Weyl: mathematician, physicist, philosopher. In Scholz, E., editor, Hermann Weyl’s ‘Raum-Zeit-Materie’ and a General Introduction to His Scientific Work, pages 157–386. Birkhäuser, Basel."
+      ],
+      "shared": true,
+      "units": 31
+    },
+    {
+      "id": "ch24-bibliography-008",
+      "source_ids": [
+        "ch24-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Descartes, R. (1644). Principia Philosophiæ. Elzevir, Amsterdam, Tannery edition."
+      ],
+      "zh": [
+        "Descartes, R. (1644). Principia Philosophiæ. Elzevir, Amsterdam, Tannery edition."
+      ],
+      "shared": true,
+      "units": 9
+    },
+    {
+      "id": "ch24-bibliography-009",
+      "source_ids": [
+        "ch24-ref014",
+        "ch24-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Dosch, H. G., Müller, V. F., and Sieroka, N. (2005). Quantum Field Theory in a Semiotic Perspective. Springer, Berlin/Heidelberg."
+      ],
+      "zh": [
+        "Dosch, H. G., Müller, V. F., and Sieroka, N. (2005). Quantum Field Theory in a Semiotic Perspective. Springer, Berlin/Heidelberg."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch24-bibliography-010",
+      "source_ids": [
+        "ch24-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Elitzur, S. (1975). Impossibility of spontaneously breaking local gauge theories. Phys. Rev., D12:3978–3982."
+      ],
+      "zh": [
+        "Elitzur, S. (1975). Impossibility of spontaneously breaking local gauge theories. Phys. Rev., D12:3978–3982."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch24-bibliography-011",
+      "source_ids": [
+        "ch24-ref015",
+        "ch24-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Faddeev, L. D. and Slavnov, A. A. (1991). Gauge Fields: An Introduction to Quantum Theory. Addison-Wesley, Redwood, CA, 2nd edition."
+      ],
+      "zh": [
+        "Faddeev, L. D. and Slavnov, A. A. (1991). Gauge Fields: An Introduction to Quantum Theory. Addison-Wesley, Redwood, CA, 2nd edition."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch24-bibliography-012",
+      "source_ids": [
+        "ch24-ref016",
+        "ch24-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Gawedzki, K. and Kupiainen, A. (1985). Gross-Neveu model through convergent perturbation expansion. Commun. Math. Phys., 102:1–30."
+      ],
+      "zh": [
+        "Gawedzki, K. and Kupiainen, A. (1985). Gross-Neveu model through convergent perturbation expansion. Commun. Math. Phys., 102:1–30."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch24-bibliography-013",
+      "source_ids": [
+        "ch24-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Glimm, J. and Jaffe, A. (1987). Quantum Physics. Springer, New York, 2nd edition."
+      ],
+      "zh": [
+        "Glimm, J. and Jaffe, A. (1987). Quantum Physics. Springer, New York, 2nd edition."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch24-bibliography-014",
+      "source_ids": [
+        "ch24-ref017",
+        "ch24-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hartmann, S. (2001). Effective field theories, reductionism and scientific explanation. Stud. Hist. Philos. Mod. Phys., 32(2):267–304."
+      ],
+      "zh": [
+        "Hartmann, S. (2001). Effective field theories, reductionism and scientific explanation. Stud. Hist. Philos. Mod. Phys., 32(2):267–304."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch24-bibliography-015",
+      "source_ids": [
+        "ch24-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Helmholtz, H. v. (1892). Handbuch der physiologischen Optik. Voss, Hamburg, 2nd edition."
+      ],
+      "zh": [
+        "Helmholtz, H. v. (1892). Handbuch der physiologischen Optik. Voss, Hamburg, 2nd edition."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch24-bibliography-016",
+      "source_ids": [
+        "ch24-ref018",
+        "ch24-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Helmholtz, H. v. (1921). Die Tatsachen in der Wahrnehmung. In Hertz, P. and Schlick, M., editors, Hermann von Helmholtz, Schriften zur Erkenntnistheorie, pages 109–152. Springer, Berlin."
+      ],
+      "zh": [
+        "Helmholtz, H. v. (1921). Die Tatsachen in der Wahrnehmung. In Hertz, P. and Schlick, M., editors, Hermann von Helmholtz, Schriften zur Erkenntnistheorie, pages 109–152. Springer, Berlin."
+      ],
+      "shared": true,
+      "units": 27
+    },
+    {
+      "id": "ch24-bibliography-017",
+      "source_ids": [
+        "ch24-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hertz, H. (1894). Die Prinzipien der Mechanik. Barth, Leipzig. Preface by H. v. Helmholtz."
+      ],
+      "zh": [
+        "Hertz, H. (1894). Die Prinzipien der Mechanik. Barth, Leipzig. Preface by H. v. Helmholtz."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch24-bibliography-018",
+      "source_ids": [
+        "ch24-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Itzykson, C. and Zuber, J.-B. (1980). Quantum Field Theory. McGraw-Hill, New York."
+      ],
+      "zh": [
+        "Itzykson, C. and Zuber, J.-B. (1980). Quantum Field Theory. McGraw-Hill, New York."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch24-bibliography-019",
+      "source_ids": [
+        "ch24-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Jost, R. (1965). The General Theory of Quantized Fields. American Mathematical Society, Providence, RI."
+      ],
+      "zh": [
+        "Jost, R. (1965). The General Theory of Quantized Fields. American Mathematical Society, Providence, RI."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch24-bibliography-020",
+      "source_ids": [
+        "ch24-ref019",
+        "ch24-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Montvay, I. and Münster, G. (1994). Quantum Fields on a Lattice. Cambridge University Press, Cambridge."
+      ],
+      "zh": [
+        "Montvay, I. and Münster, G. (1994). Quantum Fields on a Lattice. Cambridge University Press, Cambridge."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch24-bibliography-021",
+      "source_ids": [
+        "ch24-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Peirce, C. S. (1998). The Essential Peirce—Volume II. Indiana University Press, Bloomington, IN."
+      ],
+      "zh": [
+        "Peirce, C. S. (1998). The Essential Peirce—Volume II. Indiana University Press, Bloomington, IN."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch24-bibliography-022",
+      "source_ids": [
+        "ch24-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Poincaré, H. (1903). La Science et l’Hypothèse. Flammarion, Paris."
+      ],
+      "zh": [
+        "Poincaré, H. (1903). La Science et l’Hypothèse. Flammarion, Paris."
+      ],
+      "shared": true,
+      "units": 9
+    },
+    {
+      "id": "ch24-bibliography-023",
+      "source_ids": [
+        "ch24-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Poincaré, H. (1905). La Valeur de la Science. Flammarion, Paris."
+      ],
+      "zh": [
+        "Poincaré, H. (1905). La Valeur de la Science. Flammarion, Paris."
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch24-bibliography-024",
+      "source_ids": [
+        "ch24-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Poincaré, H. (1908). Science et Méthode. Flammarion, Paris."
+      ],
+      "zh": [
+        "Poincaré, H. (1908). Science et Méthode. Flammarion, Paris."
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch24-bibliography-025",
+      "source_ids": [
+        "ch24-ref020",
+        "ch24-ref021"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Robinson, D. (1992). Renormalization and the effective field theory programme. In Hull, D., Forbes, M., and Okruhlik, K., editors, Proceedings of the 1992 Biennial Meeting of the Philosophy of Science Association, volume 1, pages 393–403. East Lansing, MI Philosophy of Science Association."
+      ],
+      "zh": [
+        "Robinson, D. (1992). Renormalization and the effective field theory programme. In Hull, D., Forbes, M., and Okruhlik, K., editors, Proceedings of the 1992 Biennial Meeting of the Philosophy of Science Association, volume 1, pages 393–403. East Lansing, MI Philosophy of Science Association."
+      ],
+      "shared": true,
+      "units": 43
+    },
+    {
+      "id": "ch24-bibliography-026",
+      "source_ids": [
+        "ch24-ref021",
+        "ch24-ref022"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schmitz-Rigal, C. (2002). Die Kunst des offenen Wissens. Cassirer-Forschungen, volume 7 Meiner, Hamburg."
+      ],
+      "zh": [
+        "Schmitz-Rigal, C. (2002). Die Kunst des offenen Wissens. Cassirer-Forschungen, volume 7 Meiner, Hamburg."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch24-bibliography-027",
+      "source_ids": [
+        "ch24-ref022",
+        "ch24-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Streater, R. F. and Wightman, A. S. (1980). PCT, Spin and Statistics, and All That. Benjamin, Reading, MA, 3rd edition."
+      ],
+      "zh": [
+        "Streater, R. F. and Wightman, A. S. (1980). PCT, Spin and Statistics, and All That. Benjamin, Reading, MA, 3rd edition."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch24-bibliography-028",
+      "source_ids": [
+        "ch24-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Veltman, M. (2003). Facts and Mysteries in Elementary Particle Physics. World Scientific, Singapore."
+      ],
+      "zh": [
+        "Veltman, M. (2003). Facts and Mysteries in Elementary Particle Physics. World Scientific, Singapore."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch24-bibliography-029",
+      "source_ids": [
+        "ch24-ref023",
+        "ch24-ref024"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Weyl, H. (1949). Wissenschaft als symbolische Konstruktion des Menschen. Eranos-Jahrbuch, pages 375–431. Reprinted in Gesammelte Abhandlungen, edited by K. Chandrasekharan, Berlin, 1968."
+      ],
+      "zh": [
+        "Weyl, H. (1949). Wissenschaft als symbolische Konstruktion des Menschen. Eranos-Jahrbuch, pages 375–431. Reprinted in Gesammelte Abhandlungen, edited by K. Chandrasekharan, Berlin, 1968."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch24-bibliography-030",
+      "source_ids": [
+        "ch24-ref024",
+        "ch24-ref025"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Weyl, H. (1953). Über den Symbolismus der Mathematik und mathematischen Physik. Stud. Gen., 6:219–228. Reprinted in Gesammelte Abhandlungen, edited by K. Chandrasekharan, Berlin, 1968."
+      ],
+      "zh": [
+        "Weyl, H. (1953). Über den Symbolismus der Mathematik und mathematischen Physik. Stud. Gen., 6:219–228. Reprinted in Gesammelte Abhandlungen, edited by K. Chandrasekharan, Berlin, 1968."
+      ],
+      "shared": true,
+      "units": 26
+    },
+    {
+      "id": "ch24-bibliography-031",
+      "source_ids": [
+        "ch24-ref025"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Whitehead, A. N. (1925). Science and the Modern World. Macmillan, New York."
+      ],
+      "zh": [
+        "Whitehead, A. N. (1925). Science and the Modern World. Macmillan, New York."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch24-bibliography-032",
+      "source_ids": [
+        "ch24-ref025"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Wilson, K. G. (1974). Confinement of quarks. Phys. Rev., D10:2445–2459."
+      ],
+      "zh": [
+        "Wilson, K. G. (1974). Confinement of quarks. Phys. Rev., D10:2445–2459."
+      ],
+      "shared": true,
+      "units": 12
+    }
+  ],
+  "notes": {
+    "ch24-n01": {
+      "number": "1",
+      "en": [
+        "For more details we refer to Dosch et al. (2005)."
+      ],
+      "zh": [
+        "更多细节参见 Dosch et al. (2005)。"
+      ]
+    },
+    "ch24-n02": {
+      "number": "2",
+      "en": [
+        "Helmholtz (1892, 1921)."
+      ],
+      "zh": [
+        "Helmholtz (1892, 1921)."
+      ]
+    },
+    "ch24-n03": {
+      "number": "3",
+      "en": [
+        "Helmholtz (1921, p. 116)."
+      ],
+      "zh": [
+        "Helmholtz (1921, p. 116)."
+      ]
+    },
+    "ch24-n04": {
+      "number": "4",
+      "en": [
+        "Hertz (1894, pp. 1–2)."
+      ],
+      "zh": [
+        "Hertz (1894, pp. 1–2)."
+      ]
+    },
+    "ch24-n05": {
+      "number": "5",
+      "en": [
+        "See Peirce (1998, pp. 273–274, 291–292)."
+      ],
+      "zh": [
+        "参见 Peirce (1998, pp. 273–274, 291–292)。"
+      ]
+    },
+    "ch24-n06": {
+      "number": "6",
+      "en": [
+        "Poincaré (1903, 1905, 1908)."
+      ],
+      "zh": [
+        "Poincaré (1903, 1905, 1908)."
+      ]
+    },
+    "ch24-n07": {
+      "number": "7",
+      "en": [
+        "‘Wissenschaft als symbolische Konstruktion des Menschen’ (Weyl, 1949)."
+      ],
+      "zh": [
+        "‘Wissenschaft als symbolische Konstruktion des Menschen’ (Weyl, 1949)."
+      ]
+    },
+    "ch24-n08": {
+      "number": "8",
+      "en": [
+        "‘Über den Symbolismus der Mathematik und mathematischen Physik’ (Weyl, 1953)."
+      ],
+      "zh": [
+        "‘Über den Symbolismus der Mathematik und mathematischen Physik’ (Weyl, 1953)."
+      ]
+    },
+    "ch24-n09": {
+      "number": "9",
+      "en": [
+        "Weyl (1949, vol. 4, p. 327)."
+      ],
+      "zh": [
+        "Weyl (1949, vol. 4, p. 327)."
+      ]
+    },
+    "ch24-n10": {
+      "number": "10",
+      "en": [
+        "See Schmitz-Rigal (2002)."
+      ],
+      "zh": [
+        "参见 Schmitz-Rigal (2002)。"
+      ]
+    },
+    "ch24-n11": {
+      "number": "11",
+      "en": [
+        "Cassirer (1923, vol. 1, p. 5)."
+      ],
+      "zh": [
+        "Cassirer (1923, vol. 1, p. 5)."
+      ]
+    },
+    "ch24-n12": {
+      "number": "12",
+      "en": [
+        "Cassirer (1995, p. 16)."
+      ],
+      "zh": [
+        "Cassirer (1995, p. 16)."
+      ]
+    },
+    "ch24-n13": {
+      "number": "13",
+      "en": [
+        "Cassirer (1923, vol. 1, p. 16–17)."
+      ],
+      "zh": [
+        "Cassirer (1923, vol. 1, p. 16–17)."
+      ]
+    },
+    "ch24-n14": {
+      "number": "14",
+      "en": [
+        "See Veltman (2003). Here and in the following we generally do not quote the original literature but monographs on the subject."
+      ],
+      "zh": [
+        "参见 Veltman (2003)。这里及下文我们一般不引用原始文献，而引用关于该主题的专著。"
+      ]
+    },
+    "ch24-n15": {
+      "number": "15",
+      "en": [
+        "Streater and Wightman (1980); Jost (1965)."
+      ],
+      "zh": [
+        "Streater and Wightman (1980); Jost (1965)."
+      ]
+    },
+    "ch24-n16": {
+      "number": "16",
+      "en": [
+        "Itzykson and Zuber (1980); Faddeev and Slavnov (1991)."
+      ],
+      "zh": [
+        "Itzykson and Zuber (1980); Faddeev and Slavnov (1991)."
+      ]
+    },
+    "ch24-n17": {
+      "number": "17",
+      "en": [
+        "Wilson (1974); Montvay and Münster (1994)."
+      ],
+      "zh": [
+        "Wilson (1974); Montvay and Münster (1994)."
+      ]
+    },
+    "ch24-n18": {
+      "number": "18",
+      "en": [
+        "Glimm and Jaffe (1987); Gawedzki and Kupiainen (1985)."
+      ],
+      "zh": [
+        "Glimm and Jaffe (1987); Gawedzki and Kupiainen (1985)."
+      ]
+    },
+    "ch24-n19": {
+      "number": "19",
+      "en": [
+        "Buchholz and Haag (2000)."
+      ],
+      "zh": [
+        "Buchholz and Haag (2000)."
+      ]
+    },
+    "ch24-n20": {
+      "number": "20",
+      "en": [
+        "Dosch et al. (2005)."
+      ],
+      "zh": [
+        "Dosch et al. (2005)."
+      ]
+    },
+    "ch24-n21": {
+      "number": "21",
+      "en": [
+        "Unless done explicitly by way of fixing a gauge (Elitzur, 1975)."
+      ],
+      "zh": [
+        "除非通过固定规范显式地这样做（Elitzur, 1975）。"
+      ]
+    },
+    "ch24-n22": {
+      "number": "22",
+      "en": [
+        "See, e.g., Weyl (1949), passim."
+      ],
+      "zh": [
+        "参见例如 Weyl (1949)，各处。"
+      ]
+    },
+    "ch24-n23": {
+      "number": "23",
+      "en": [
+        "Cassirer (1929, vol. 1, p. 9)."
+      ],
+      "zh": [
+        "Cassirer (1929, vol. 1, p. 9)."
+      ]
+    },
+    "ch24-n24": {
+      "number": "24",
+      "en": [
+        "Cassirer (1921, p. 88)."
+      ],
+      "zh": [
+        "Cassirer (1921, p. 88)."
+      ]
+    },
+    "ch24-n25": {
+      "number": "25",
+      "en": [
+        "Cf. J.D. Dyson (1983): ‘Unfashionable Pursuits’; quoted in Coleman and Korté (2001, pp. 312–313)."
+      ],
+      "zh": [
+        "见 J.D. Dyson (1983): ‘Unfashionable Pursuits’；引自 Coleman and Korté (2001, pp. 312–313)。"
+      ],
+      "editorial": [
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "底本把作者缩写印作 J. D. Dyson。作者为弗里曼·J. 戴森（Freeman J. Dyson）"
+          ]
+        }
+      ]
+    },
+    "ch24-n26": {
+      "number": "26",
+      "en": [
+        "Indeed the principle of a Nahgeometrie (geometry of vicinity), which lies at the base of Weyl’s introduction of a gauge principle, can be traced back at least to Descartes, who grounded the concept of space and movement on it. See Descartes (1644) (Principia Philosophiae), II, 10ff., especially 25."
+      ],
+      "zh": [
+        "的确，作为魏尔引入规范原理之基础的邻近几何（Nahgeometrie）原则，至少可以追溯到笛卡尔，他把空间与运动概念建立在其上。见 Descartes (1644) (Principia Philosophiae), II, 10ff., 特别是 25。"
+      ]
+    },
+    "ch24-n27": {
+      "number": "27",
+      "en": [
+        "See Cao (1996)."
+      ],
+      "zh": [
+        "参见 Cao (1996)。"
+      ]
+    },
+    "ch24-n28": {
+      "number": "28",
+      "en": [
+        "Cf. Whitehead (1925, Chapter 3)."
+      ],
+      "zh": [
+        "见 Whitehead (1925, Chapter 3)。"
+      ]
+    },
+    "ch24-n29": {
+      "number": "29",
+      "en": [
+        "One being the debate about ‘quasi-autonomous domains’ in Robinson (1992); Cao and Schweber (1993); Hartmann (2001)."
+      ],
+      "zh": [
+        "其中之一是关于“准自主领域”的争论，见 Robinson (1992); Cao and Schweber (1993); Hartmann (2001)。"
+      ]
+    },
+    "ch24-n30": {
+      "number": "30",
+      "en": [
+        "Adhering mainly to the intuitive concepts of everyday life also seems to be the reason why people from outside physics tend to interpret transitions between theories much more dramatically than people judging from inside physics."
+      ],
+      "zh": [
+        "主要固守日常生活的直观概念，似乎也是物理学之外的人比物理学界内的人更倾向于把理论更迭解读为剧变的原因。"
+      ]
+    }
+  }
+}

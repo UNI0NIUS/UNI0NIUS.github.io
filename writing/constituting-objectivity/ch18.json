@@ -1,0 +1,2335 @@
+{
+  "id": "ch18",
+  "title": "对应与互补性的一种先验说明",
+  "originalTitle": "A Transcendental Account of Correspondence and Complementarity",
+  "outline": [
+    {
+      "anchor": "ch18-u003",
+      "title": "1 一个最简康德式框架",
+      "originalTitle": "1 A Minimal Kantian Framework",
+      "level": 1
+    },
+    {
+      "anchor": "ch18-u015",
+      "title": "2 对应",
+      "originalTitle": "2 Correspondence",
+      "level": 1
+    },
+    {
+      "anchor": "ch18-u031",
+      "title": "3 互补性",
+      "originalTitle": "3 Complementarity",
+      "level": 1
+    },
+    {
+      "anchor": "ch18-u045",
+      "title": "4 结论：对应与互补性",
+      "originalTitle": "4 Conclusions: Correspondence and Complementarity",
+      "level": 1
+    },
+    {
+      "anchor": "ch18-u050",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch18-u001",
+      "source_ids": [
+        "ch18-u001"
+      ],
+      "page": "317",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch18-u002",
+      "source_ids": [
+        "ch18-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Hernán Pringe"
+      ],
+      "zh": [
+        "埃尔南·普林格"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch18-u004",
+      "source_ids": [
+        "ch18-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract The aim of this work is to analyse the epistemological role of the Bohrian notions of correspondence and complementarity from a transcendental perspective. We argue that the principle of correspondence is regulative in the strict Kantian sense. In particular, we maintain that until the introduction of complementarity this principle functions as a maxim for the reflection upon nature in the attempt to exhibit concepts of physical objects directly in intuition. On the contrary, from the point of view of complementarity, the principle of correspondence guides the reflection when symbolic analogies are established. This transcendental reading of Bohr’s thought enables us to account for the conceptual development of his interpretation of quantum theory from 1913 to the Como Lecture in 1927."
+      ],
+      "zh": [
+        "摘要 本文旨在从先验的视角分析玻尔的对应与互补概念的认识论作用。我们论证，对应原理在严格的康德意义上是调节性的。具体而言，我们主张：在互补性引入之前，这一原理作为反思自然的一条准则而起作用，借此在直观中直接呈示物理对象的概念。相反，从互补性的观点看，对应原理在象征类比被建立时引导反思。对玻尔思想的这种先验解读，使我们能够说明他对量子理论的解释从1913年到1927年科莫演讲的概念发展。"
+      ],
+      "units": 121
+    },
+    {
+      "id": "ch18-u003",
+      "source_ids": [
+        "ch18-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 A Minimal Kantian Framework"
+      ],
+      "zh": [
+        "1 一个最简康德式框架"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch18-u005",
+      "source_ids": [
+        "ch18-u005"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "H. Pringe Department of Logic, History and Philosophy of Science, Faculty of Philosophy, University of Barcelona, Spain"
+      ],
+      "zh": [
+        "H. Pringe Department of Logic, History and Philosophy of Science, Faculty of Philosophy, University of Barcelona, Spain"
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch18-u006",
+      "source_ids": [
+        "ch18-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the first part of this paper we discuss the minimal Kantian framework necessary for our investigation. Secondly, we study the history of the notion of correspondence, from its origins in 1913 to the Bohr–Kramers–Slater’s theory. We turn further to the notion of complementarity and its connection with the question of symbolic knowledge in quantum mechanics. Finally, we analyse the role of correspondence in the framework of complementarity.",
+        {
+          "type": "note",
+          "id": "ch18-n01",
+          "label": "1"
+        }
+      ],
+      "zh": [
+        "在本文第一部分，我们讨论这项研究所需的最简康德式框架。其次，我们研究对应概念的历史，从它1913年的起源到玻尔–克拉默斯–斯莱特理论。然后我们转向互补性概念及其与量子力学中象征知识问题的联系。最后，我们分析对应在互补性框架中的作用。",
+        {
+          "type": "note",
+          "id": "ch18-n01",
+          "label": "1"
+        }
+      ],
+      "units": 70
+    },
+    {
+      "id": "ch18-u007",
+      "source_ids": [
+        "ch18-u007"
+      ],
+      "page": "318",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In order to introduce the Kantian elements that we need for our analysis of Bohr’s thought the study of the following example will suffice.",
+        {
+          "type": "note",
+          "id": "ch18-n02",
+          "label": "2"
+        },
+        " Consider the analogy:",
+        {
+          "type": "note",
+          "id": "ch18-n03",
+          "label": "3"
+        },
+        " “C is the cause of E, as A is the cause of B”, where A, B and E are given events, but C is unknown. E being given, its cause C is searched for in experience under the assumption that the causal relation between C and E is identical in certain sense to the already known between A and B. This procedure is empirical, and thus the analogy so established is a posteriori. However, transcendental philosophy determines its a priori conditions of possibility. These are of two different kinds."
+      ],
+      "zh": [
+        "为了引入我们分析玻尔思想所需的康德式要素，研究下面这个例子就足够了。",
+        {
+          "type": "note",
+          "id": "ch18-n02",
+          "label": "2"
+        },
+        " 考虑这个类比：",
+        {
+          "type": "note",
+          "id": "ch18-n03",
+          "label": "3"
+        },
+        " “C是E的原因，正如A是B的原因”，其中A、B、E是给定的事件，而C是未知的。既然E被给定，人们就在经验中寻找它的原因C，其预设是C与E之间的因果关系在某种意义上等同于A与B之间已知的因果关系。这一程序是经验性的，因此如此建立的类比是后天的。然而，先验哲学规定它的先天可能性条件。这些条件有两种不同的种类。"
+      ],
+      "units": 116
+    },
+    {
+      "id": "ch18-u008",
+      "source_ids": [
+        "ch18-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Firstly, for the search of the unknown cause C to have sense, we must presuppose that any event E has in general a cause, even though this may remain unknown for the meantime. Kant argues that each event must have a cause, because only by having it can it be represented in general as objective, i.e., as belonging to the necessary sequence of experience and not merely to the contingent sequence of our perceptions. This is the a priori principle of temporal sequence according to the law of causality. In Kant’s own words:"
+      ],
+      "zh": [
+        "首先，要使对未知原因C的寻找有意义，我们必须预设任何事件E一般而言都有一个原因，尽管这个原因暂时可能仍是未知的。康德论证说，每个事件都必须有一个原因，因为唯有具有原因，它才能一般而言被表象为客观的，即属于经验的必然序列，而不仅仅属于我们知觉的偶然序列。这就是按照因果性规律的时间序列的先天原理。用康德自己的话说："
+      ],
+      "units": 94
+    },
+    {
+      "id": "ch18-u012",
+      "source_ids": [
+        "ch18-u012"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "All alterations occur in accordance with the law of the connection of cause and effect.",
+        {
+          "type": "note",
+          "id": "ch18-n04",
+          "label": "4"
+        }
+      ],
+      "zh": [
+        "一切变化都按照因果联结的规律发生。",
+        {
+          "type": "note",
+          "id": "ch18-n04",
+          "label": "4"
+        }
+      ],
+      "type": "quote",
+      "units": 15
+    },
+    {
+      "id": "ch18-u009",
+      "source_ids": [
+        "ch18-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The empirical analogy C:E = A:B is hence based on the a priori analogy C:E = Cause:Effect. The a priori analogy guides our search for the unknown term C by pointing out the essential feature it must possess: C must contain the condition for a rule in accordance to which E always, necessarily follows.",
+        {
+          "type": "note",
+          "id": "ch18-n05",
+          "label": "5"
+        }
+      ],
+      "zh": [
+        "因此，经验类比 C:E = A:B 以先天类比 C:E = 原因:结果 为基础。先天类比通过指出未知项C必须具有的本质特征来引导我们对它的寻找：C 必须含有一条规则所要求的条件，按照这条规则，E总是必然地随之而来。",
+        {
+          "type": "note",
+          "id": "ch18-n05",
+          "label": "5"
+        }
+      ],
+      "units": 56
+    },
+    {
+      "id": "ch18-u010",
+      "source_ids": [
+        "ch18-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Secondly, the analogy C:E = A:B presupposes that the particular causal law between A and B is not just valid in respect to them, but may obtain in other cases as well. This is not a trivial assumption, since it could be the case that laws relating different pairs of causes and effects bore no resemblance at all. In this regard, Kant states:"
+      ],
+      "zh": [
+        "其次，类比 C:E = A:B 预设了A与B之间的特殊因果规律不仅对它们有效，而且也可能在其他情形中成立。这个假设并非不言而喻，因为有可能联结不同原因–结果对的规律彼此毫无相似之处。就此，康德指出："
+      ],
+      "units": 64
+    },
+    {
+      "id": "ch18-u053",
+      "source_ids": [
+        "ch18-u053"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[T]he multiplicity and diversity of empirical laws could be so great that it might be possible for us to connect perceptions to some extent in accordance with particular laws discovered on various occasions into one experience, but never to bring these empirical laws themselves to the unity of kinship under a common principle.",
+        {
+          "type": "note",
+          "id": "ch18-n06",
+          "label": "6"
+        }
+      ],
+      "zh": [
+        "经验性规律的杂多性与差异性可能如此之大，以至于我们也许能够按照在各种场合发现的特殊规律把知觉在某种程度上联结为一个经验，却永远无法把这些经验性规律本身凭借它们的亲缘关系，把这些规律统一在共同原理之下。",
+        {
+          "type": "note",
+          "id": "ch18-n06",
+          "label": "6"
+        }
+      ],
+      "type": "quote",
+      "units": 54
+    },
+    {
+      "id": "ch18-u011",
+      "source_ids": [
+        "ch18-u011"
+      ],
+      "page": "319",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Were the multiplicity and diversity of empirical laws so great that they made up “a raw chaotic aggregate,”",
+        {
+          "type": "note",
+          "id": "ch18-n07",
+          "label": "7"
+        },
+        " no connection between them could be found and the analogy C:E = A:B could not be established. Thus, for this analogy to be possible, we must assume that particular causal laws may be brought under more general ones. In our case, the law connecting A and B, and the one relating C and E must be conceivable as falling under a common principle, i.e., as being able to receive systematic unity. This logical or methodological assumption concerning the multiplicity of empirical laws depends in turn on a transcendental presupposition regarding nature itself.",
+        {
+          "type": "note",
+          "id": "ch18-n08",
+          "label": "8"
+        },
+        " The presupposition that nature qualifies as an empirical system through the affinity of particular laws under more general ones is what Kant calls “the transcendental principle of the power of judgment.”",
+        {
+          "type": "note",
+          "id": "ch18-n09",
+          "label": "9"
+        }
+      ],
+      "zh": [
+        "如果经验性规律的杂多与差异大到构成“一个原始的混沌聚合体”，",
+        {
+          "type": "note",
+          "id": "ch18-n07",
+          "label": "7"
+        },
+        " 它们之间就找不到任何联系，类比 C:E = A:B 也就无法建立。因此，要使这一类比成为可能，我们必须假设特殊的因果规律可以被纳入更一般的规律之下。在我们的例子中，联结A与B的规律以及联结C与E的规律必须可以被设想为落在一个共同原则之下，即能够得到系统的统一。这个关于经验性规律之杂多性的逻辑的或方法论的假设，又依赖于一个关于自然本身的先验预设。",
+        {
+          "type": "note",
+          "id": "ch18-n08",
+          "label": "8"
+        },
+        " 特殊规律在更一般规律之下具有亲和性，自然因而能够构成一个经验系统，这一预设就是康德所称的“判断力的先验原理”。",
+        {
+          "type": "note",
+          "id": "ch18-n09",
+          "label": "9"
+        }
+      ],
+      "units": 143
+    },
+    {
+      "id": "ch18-u013",
+      "source_ids": [
+        "ch18-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Therefore, two different kinds of principles ground the analogy C:E = A:B. On the one hand, the principle of causality, which depends on the pure concept of understanding and, on the other hand, the principle of systematicity of nature, that is assumed by the (reflecting) power of judgment. By means of the first one, events are constituted as objective alterations.",
+        {
+          "type": "note",
+          "id": "ch18-n10",
+          "label": "10"
+        },
+        " On the contrary, the second principle regulates the subsumption of these objective cognitions under empirical laws of increasing generality. In the first case, the power of judgment determines the a priori spatio-temporal manifold of C and E according to the principle of causality, so that C is represented as being objectively before E and not just as a previous element in the subjective sequence of perceptions. In the second case, the power of judgment reflects upon the empirical manifold of events in order to find the empirical law under which they stand and, in turn, to subsume this law under more general ones."
+      ],
+      "zh": [
+        "因此，两种不同种类的原理为类比 C:E = A:B 奠基。一方面是因果性原理，它依赖于纯粹知性概念；另一方面是自然的系统性原理，它由（反思性的）判断力所设定。借助前者，事件被构成为客观的变化。",
+        {
+          "type": "note",
+          "id": "ch18-n10",
+          "label": "10"
+        },
+        " 相反，第二条原理调节着把这些客观知识纳入越来越一般的经验性规律之下的活动。在第一种情形中，判断力按照因果性原理规定C与E的先天时空杂多，使得C被表象为客观上在E之前，而不仅仅是知觉主观序列中的一个在先要素。在第二种情形中，判断力反思事件的经验杂多，以便找到它们所隶属的经验性规律，进而把这条规律纳入更一般的规律之下。"
+      ],
+      "units": 164
+    },
+    {
+      "id": "ch18-u014",
+      "source_ids": [
+        "ch18-u014"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the next section we shall study how these constitutive and regulative principles performs their epistemological task in the “old quantum theory” by following Bohr’s thought from 1913 to 1924. In particular we shall see how the principle of correspondence plays the role of a maxim for the reflection when empirical analogies of the form just discussed are searched for. Specifically, in this period Bohr aims at establishing analogies connecting the classical relation between electronic motion and radiation with the quantum-theoretical one. According to classical electrodynamics, the accelerated motion of an orbiting electron causes a radiation field. But, precisely for this reason, the theory seems to preclude a stable atomic model.",
+        {
+          "type": "note",
+          "id": "ch18-n11",
+          "label": "11"
+        },
+        " Thus, a quantum-theoretical law analogue to the classical is searched for, so that the electronic motion inside stable atoms may also be represented as causing the radiation spectra in a way to be determined. The core of the problem is that the analogies obtained remain merely formal because in quantum theory a causal connection between electronic motion and radiation cannot be exhibited in space and time. This will provoke a turning point in Bohr’s thought, leading to the framework of complementarity."
+      ],
+      "zh": [
+        "在下一节中，我们将循着玻尔1913年到1924年的思想，研究这些构成性原理与调节性原理如何在“旧量子论”中履行其认识论任务。特别地，我们将看到，当人们寻找刚才讨论的那种形式的经验类比时，对应原理如何扮演反思的一条准则的角色。具体来说，在这一时期玻尔旨在建立类比，把电子运动与辐射之间的经典关系同量子理论的关系联结起来。按经典电动力学，绕核电子的加速运动引起一个辐射场。但恰恰因此，该理论似乎排除了一个稳定的原子模型。",
+        {
+          "type": "note",
+          "id": "ch18-n11",
+          "label": "11"
+        },
+        " 于是人们寻找一条与经典规律类似的量子理论规律，以便稳定原子内部的电子运动也能被表象为以一种待确定的方式引起辐射光谱。问题的核心在于：所得到的类比仍然是纯形式的，因为在量子理论中，电子运动与辐射之间的因果联系无法在时空中展示。这将引发玻尔思想的一个转折，导向互补性框架。"
+      ],
+      "units": 192
+    },
+    {
+      "id": "ch18-u015",
+      "source_ids": [
+        "ch18-u015"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 Correspondence"
+      ],
+      "zh": [
+        "2 对应"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch18-u016",
+      "source_ids": [
+        "ch18-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The principle of correspondence states the methodological requirement of searching for analogies between quantum theory and classical physics:",
+        {
+          "type": "note",
+          "id": "ch18-n12",
+          "label": "12"
+        }
+      ],
+      "zh": [
+        "对应原理陈述了这样一个方法论要求：在量子理论与经典物理学之间寻找类比：",
+        {
+          "type": "note",
+          "id": "ch18-n12",
+          "label": "12"
+        }
+      ],
+      "units": 18
+    },
+    {
+      "id": "ch18-u020",
+      "source_ids": [
+        "ch18-u020"
+      ],
+      "page": "320",
+      "canonical_kind": "quote",
+      "en": [
+        "An attempt is made to elucidate the problems by means of a general principle which postulates a formal correspondence between the fundamentally different conceptions of the classical electrodynamics and those of the quantum theory.",
+        {
+          "type": "note",
+          "id": "ch18-n13",
+          "label": "13"
+        }
+      ],
+      "zh": [
+        "我们尝试借助一条一般原理来阐明这些问题，该原理以经典电动力学和量子理论各自的观念虽根本不同、彼此却有形式对应为公设。",
+        {
+          "type": "note",
+          "id": "ch18-n13",
+          "label": "13"
+        }
+      ],
+      "type": "quote",
+      "units": 34
+    },
+    {
+      "id": "ch18-u017",
+      "source_ids": [
+        "ch18-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This means that one ought to trace the analogy between the quantum theory and the ordinary theory of radiation as closely as possible.",
+        {
+          "type": "note",
+          "id": "ch18-n14",
+          "label": "14"
+        }
+      ],
+      "zh": [
+        "这意味着，人们应当尽可能仔细地考察量子理论与通常辐射理论之间的类比。",
+        {
+          "type": "note",
+          "id": "ch18-n14",
+          "label": "14"
+        }
+      ],
+      "units": 23
+    },
+    {
+      "id": "ch18-u018",
+      "source_ids": [
+        "ch18-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "More precisely, in the “old quantum theory” three assumptions are made by the correspondence principle. The first of them is the affinity between classical and quantum laws. In view of it, knowledge of the classical laws may provide clues to discovering the quantum ones. The second assumption is the claim that quantum laws are rational generalizations of classical laws. Finally, according to the correspondence principle classical laws may be regained in a certain limit. There should be a gradual transition between classical and quantum theories that makes a generalization of classical physics in the atomic realm possible, guaranteeing at the same time an asymptotic agreement of quantum and classical laws when the quantum of action vanishes. In this way, the correspondence principle expresses the demands of the Kantian principles of the hypothetical use of reason",
+        {
+          "type": "note",
+          "id": "ch18-n15",
+          "label": "15"
+        },
+        " or maxims of the power of judgment",
+        {
+          "type": "note",
+          "id": "ch18-n16",
+          "label": "16"
+        },
+        ": the principles of continuity, homogeneity and specification. In sum, Bohr’s main presupposition is that quantum and classical theories may be brought into a system in spite of their intrinsic differences.",
+        {
+          "type": "note",
+          "id": "ch18-n17",
+          "label": "17"
+        }
+      ],
+      "zh": [
+        "更确切地说，在“旧量子论”中，对应原理包含三项假定。第一个是经典规律与量子规律之间的亲和性。鉴于此，对经典规律的知识可以为发现量子规律提供线索。第二个假设是这样一个主张：量子规律是经典规律的合理推广。最后，按对应原理，可在某一极限下恢复出经典规律。经典理论与量子理论之间应当有一个渐进的过渡，使得经典物理学在原子领域的推广成为可能，同时保证当作用量子趋于消失时量子规律与经典规律的渐近一致。这样，对应原理表达了康德式的理性的假设运用之原理",
+        {
+          "type": "note",
+          "id": "ch18-n15",
+          "label": "15"
+        },
+        "或判断力之准则",
+        {
+          "type": "note",
+          "id": "ch18-n16",
+          "label": "16"
+        },
+        "的要求：连续性原理、同质性原理与特殊化原理。总之，玻尔的主要预设是：尽管量子理论与经典理论有内在差异，它们仍可以被纳入一个系统。",
+        {
+          "type": "note",
+          "id": "ch18-n17",
+          "label": "17"
+        }
+      ],
+      "units": 172
+    },
+    {
+      "id": "ch18-u019",
+      "source_ids": [
+        "ch18-u019"
+      ],
+      "page": "321",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Under the guidance of the correspondence principle, from 1913 to 1923 Bohr assumes that the quantum relation between radiation spectra and electronic motion inside the atom is in certain aspects and within certain limits identical to the corresponding relation between radiation and electronic motion in classical electrodynamics. In particular, the following relations are determined as identical in the limit of low frequencies: (i) the quantum and the classical relations between optical and mechanical frequencies.",
+        {
+          "type": "note",
+          "id": "ch18-n18",
+          "label": "18"
+        },
+        " (ii) The quantum relation between the probabilities of transitions among stationary states and the amplitudes of the Fourier expansion of the displacements of the particles in the corresponding stationary states, and the classical relation between the intensities of radiation and the amplitudes of the Fourier expansion of the displacements of the particles in multiperiodic systems.",
+        {
+          "type": "note",
+          "id": "ch18-n19",
+          "label": "19"
+        },
+        " (iii) The quantum relation between the polarisation of the radiation emitted in a transition among stationary states and the amplitudes of the Fourier expansion of the displacements of the particles in the corresponding stationary states, and the classical relation between the polarisation of radiation and the amplitudes of the Fourier expansion of the displacements of the particles in multiperiodic systems.",
+        {
+          "type": "note",
+          "id": "ch18-n20",
+          "label": "20"
+        }
+      ],
+      "zh": [
+        "在对应原理的引导下，从1913年到1923年，玻尔假设辐射光谱与原子内部电子运动之间的量子关系在某些方面和某些限度内等同于经典电动力学中辐射与电子运动之间的相应关系。特别地，在低频极限下，以下各对关系被视为相同：(i) 光学频率与力学频率之间的量子关系和经典关系。",
+        {
+          "type": "note",
+          "id": "ch18-n18",
+          "label": "18"
+        },
+        " (ii) 定态之间跃迁的概率与相应定态中粒子位移的傅里叶展开振幅之间的量子关系，以及多周期系统中辐射强度与粒子位移的傅里叶展开振幅之间的经典关系。",
+        {
+          "type": "note",
+          "id": "ch18-n19",
+          "label": "19"
+        },
+        " (iii) 定态间跃迁所发射辐射的偏振与相应定态中粒子位移的傅里叶展开振幅之间的量子关系，以及多周期系统中辐射偏振与粒子位移的傅里叶展开振幅之间的经典关系。",
+        {
+          "type": "note",
+          "id": "ch18-n20",
+          "label": "20"
+        }
+      ],
+      "units": 189
+    },
+    {
+      "id": "ch18-u021",
+      "source_ids": [
+        "ch18-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "However, these analogies remain merely formal, because thereby no causal and spatio-temporal representation of the quantum process connecting electronic motion and radiation is given. For example, the quantum relation between optical and mechanical frequencies corresponds to the classical relation in the limit of low frequencies. But the classical relation is based on a causal and spatio-temporal mechanism of radiation. On the contrary, there is nothing of that sort in the quantum case. Moreover:"
+      ],
+      "zh": [
+        "然而，这些类比仍然是纯形式的，因为由此并没有给出把电子运动与辐射联结起来的量子过程的因果的、时空的表象。例如，光学频率与力学频率之间的量子关系在低频极限下对应于经典关系。但经典关系基于一个因果的、时空的辐射机制。相反，量子情形中没有任何这类的东西。此外："
+      ],
+      "units": 73
+    },
+    {
+      "id": "ch18-u025",
+      "source_ids": [
+        "ch18-u025"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[A]t the present state we do not possess any means of describing in detail the process of direct transition between two stationary states accompanied by an emission or absorption of radiation and cannot be sure beforehand that such a description will be possible at all by means of laws consistent with the application of the principle of conservation of energy.",
+        {
+          "type": "note",
+          "id": "ch18-n21",
+          "label": "21"
+        }
+      ],
+      "zh": [
+        "在目前阶段，我们还没有办法详细描述两个定态之间伴随着辐射发射或吸收的直接跃迁过程，也无法事先确定这样一种描述究竟能否借助与能量守恒原理的应用相一致的规律而成为可能。",
+        {
+          "type": "note",
+          "id": "ch18-n21",
+          "label": "21"
+        }
+      ],
+      "type": "quote",
+      "units": 61
+    },
+    {
+      "id": "ch18-u022",
+      "source_ids": [
+        "ch18-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The quantum-theoretical analogue of the classical orbits may be exhibited in intuition by the stationary state picture. But its relation to radiation constantly moves away from the classical model. While classical electromagnetism establishes that the frequency of emission of an orbiting electron is equal to its frequency of motion, this simple relation is already abandoned in 1913. In the case of multiperiodic systems, in turn, the electronic motion grounds only the probability of radiation, as Bohr argues in 1918."
+      ],
+      "zh": [
+        "经典轨道的量子理论对应物可以通过定态图像在直观中展示。但它与辐射的关系却不断远离经典模型。经典电磁学确立绕核电子的发射频率等于其运动频率，而这个简单关系在1913年就已被放弃。反过来，在多周期系统的情形中，电子运动只决定辐射的概率，正如玻尔1918年所论证的。"
+      ],
+      "units": 79
+    },
+    {
+      "id": "ch18-u023",
+      "source_ids": [
+        "ch18-u023"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The main difficulty for determining the mechanism of radiation is the tension between the continuous and discontinuous aspects of the issue. On the one hand, the picture of stationary states provides a continuous representation of electronic motion. On the other hand, the transitions among these states are nevertheless conceived as discontinuous. A new side of this problem is illuminated in 1924 by the Bohr– Kramer–Slater (BKS) theory,",
+        {
+          "type": "note",
+          "id": "ch18-n22",
+          "label": "22"
+        },
+        " which entails that if a continuous spatio-temporal connection between electronic motion in the stationary states and radiation is assumed, so that this accounts for the statistical laws of transitions, then a causal relation between electronic motion and radiation in individual processes cannot be maintained."
+      ],
+      "zh": [
+        "规定辐射机制的主要困难在于该问题的连续方面与不连续方面之间的张力。一方面，定态图像提供了电子运动的连续表象。另一方面，这些状态之间的跃迁仍被设想为不连续的。1924年的玻尔–克拉默斯–斯莱特（BKS）理论揭示了这一问题的新侧面：",
+        {
+          "type": "note",
+          "id": "ch18-n22",
+          "label": "22"
+        },
+        " 如果假设定态中的电子运动与辐射之间有一种连续的时空联系，以便说明跃迁的统计规律，那么电子运动与辐射在个别过程中的因果关系就无法维持。"
+      ],
+      "units": 112
+    },
+    {
+      "id": "ch18-u024",
+      "source_ids": [
+        "ch18-u024"
+      ],
+      "page": "322",
+      "canonical_kind": "paragraph",
+      "en": [
+        "An atom in a stationary state is in this case conceived in analogy to a corresponding system of classical charges that oscillate at the transition frequencies allowed by the state: the so-called “virtual” oscillators. The analogy has a very limited scope, since in fact these oscillators do not obey Maxwell’s laws.",
+        {
+          "type": "note",
+          "id": "ch18-n23",
+          "label": "23"
+        },
+        " However, it suffices to provide a spatio-temporal description of the interaction between radiation and matter. The restriction to the use of the category of causality in regard to electronic motion and radiation corresponds in the “virtual” model to the violation of conservation principles in individual transitions occurring in distant atoms. By means of its virtual field an atom may induce a certain transition in another atom, but then undergo a different one, so that neither energy nor momentum remains conserved. Only if one considers a statistical average of such events are the conservation principles satisfied.",
+        {
+          "type": "note",
+          "id": "ch18-n24",
+          "label": "24"
+        },
+        " Thus, by assuming the continuous spatio-temporal character of the relation between the electronic motion in stationary states and radiation, and even in the absence of any further knowledge of this relation, the model of virtual oscillators precludes a causal account of the radiation involved in individual transitions."
+      ],
+      "zh": [
+        "在这种情况下，处于定态的原子被设想为类似于一个相应的经典电荷系统，这些电荷以该状态所允许的跃迁频率振荡：即所谓的“虚”振子。这个类比的适用范围非常有限，因为这些振子事实上并不服从麦克斯韦定律。",
+        {
+          "type": "note",
+          "id": "ch18-n23",
+          "label": "23"
+        },
+        " 然而，它足以提供辐射与物质之间相互作用的时空描述。在“虚振子”模型中，对电子运动与辐射使用因果性范畴的限制，对应于守恒原理在遥远原子中发生的个别跃迁中的违反。一个原子可以通过它的虚场在另一个原子中诱发某种跃迁，但自身却经历另一种跃迁，于是能量和动量都不再守恒。只有考虑这类事件的统计平均，守恒原理才得到满足。",
+        {
+          "type": "note",
+          "id": "ch18-n24",
+          "label": "24"
+        },
+        " 因此，通过假设定态中电子运动与辐射之间关系的连续时空特征，即使对这种关系没有任何进一步的知识，虚振子模型也排除了对个别跃迁中所涉辐射的因果说明。"
+      ],
+      "units": 193
+    },
+    {
+      "id": "ch18-u026",
+      "source_ids": [
+        "ch18-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But a causal connection between electronic motion and radiation is, in Kantian terms, a necessary condition of their being unified in experience. For this reason, the representation of electronic motion cannot be referred to the empirical content provided by radiation, remaining thereby a formal one. It merely possesses the mathematical sense of the classical equations of motion:"
+      ],
+      "zh": [
+        "但是，用康德的术语说，电子运动与辐射之间的因果联系是它们在经验中被统一的必要条件。因此，电子运动的表象无法指涉辐射所提供的经验内容，从而仍然是形式的。它只具有经典运动方程的数学意义："
+      ],
+      "units": 57
+    },
+    {
+      "id": "ch18-u030",
+      "source_ids": [
+        "ch18-u030"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "At the present state of science it does not seem possible to avoid the formal character of the quantum theory which is shown by the fact that the interpretation of atomic phenomena does not involve a description of the mechanism of the discontinuous processes, which in the quantum theory of spectra are designated as transitions between stationary states of the atom.",
+        {
+          "type": "note",
+          "id": "ch18-n25",
+          "label": "25"
+        }
+      ],
+      "zh": [
+        "在科学的目前状况下，似乎不可能避免量子理论的形式特征；这一特征表现在：对原子现象的解释并不涉及对不连续过程之机制的描述，而这些过程在光谱的量子理论中被标示为原子定态之间的跃迁。",
+        {
+          "type": "note",
+          "id": "ch18-n25",
+          "label": "25"
+        }
+      ],
+      "type": "quote",
+      "units": 61
+    },
+    {
+      "id": "ch18-u027",
+      "source_ids": [
+        "ch18-u027"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Bohr’s main point is however that the analogies established through the correspondence principle not only are but can only be formal, for the BKS-theory implies that the spatio-temporal representation of the radiation mechanism impedes any causal description of individual processes. Radiation cannot be subsumed under the category of causality as the effect of electronic motion, and therefore electrons in stationary states cannot be constituted as objects of possible experience in the Kantian sense. In other words, the representation of the electronic motion in stationary states lacks the empirical content associated to radiation spectra and remains merely formal. Experience of electrons in stationary states, i.e., their spatio-temporal and causal representation, is not possible."
+      ],
+      "zh": [
+        "然而玻尔的主要论点是：通过对应原理建立的类比不仅是形式的，而且只能是形式的，因为 BKS 理论意味着，辐射机制的时空表象阻碍了对个别过程的任何因果描述。辐射不能作为电子运动的结果而被纳入因果性范畴，因此定态中的电子不能在康德意义上被构成为可能经验的对象。换言之，定态中电子运动的表象缺乏与辐射光谱相关联的经验内容，仍然是纯形式的。对定态中电子的经验，即它们的时空的、因果的表象，是不可能的。"
+      ],
+      "units": 113
+    },
+    {
+      "id": "ch18-u028",
+      "source_ids": [
+        "ch18-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Even though some predictions of the BKS-theory were contradicted by experiments conducted by Bothe and Geiger",
+        {
+          "type": "note",
+          "id": "ch18-n26",
+          "label": "26"
+        },
+        " and the theory was hence abandoned, Bohr kept on claiming the incompatibility between a spatio-temporal continuous description of optical phenomena and a causal connection in individual transitions processes. If, in view of experimental results, this connection is to be accepted, then, Bohr argues, a continuous spatio-temporal description of optical phenomena cannot be achieved.",
+        {
+          "type": "note",
+          "id": "ch18-n27",
+          "label": "27"
+        }
+      ],
+      "zh": [
+        "尽管 BKS 理论的某些预测被博特与盖革所做的实验反驳，",
+        {
+          "type": "note",
+          "id": "ch18-n26",
+          "label": "26"
+        },
+        " 该理论因此被放弃，玻尔却仍然坚持光学现象的连续时空描述与个别跃迁过程中的因果联系之间的不相容。玻尔论证说，如果鉴于实验结果必须接受这种联系，那么光学现象的连续时空描述就无法达成。",
+        {
+          "type": "note",
+          "id": "ch18-n27",
+          "label": "27"
+        }
+      ],
+      "units": 69
+    },
+    {
+      "id": "ch18-u029",
+      "source_ids": [
+        "ch18-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The further development of Bohr’s thought is addressed to reconsider how the formalism of quantum theory may acquire objective reference, given the incompatibility between a spatio-temporal and a causal account of phenomena. In this situation and in accordance with a strict Kantian way of thinking, Bohr is led to assert the necessity of symbolic analogies for a proper interpretation of the formalism of quantum theory:",
+        {
+          "type": "note",
+          "id": "ch18-n28",
+          "label": "28"
+        }
+      ],
+      "zh": [
+        "玻尔思想的进一步发展致力于重新考虑：鉴于对现象的时空说明与因果说明之间的不相容，量子理论的形式体系如何能够获得客观指涉。在这种情境下，依照严格的康德式思维方式，玻尔因而主张，要恰当地解释量子理论的形式体系，必须借助象征类比：",
+        {
+          "type": "note",
+          "id": "ch18-n28",
+          "label": "28"
+        }
+      ],
+      "units": 65
+    },
+    {
+      "id": "ch18-u036",
+      "source_ids": [
+        "ch18-u036"
+      ],
+      "page": "323",
+      "canonical_kind": "quote",
+      "en": [
+        "I feel … that we must take recourse to symbolic analogies to a still higher degree than before. Just lately I have been racking my brains trying to imagine such analogies.",
+        {
+          "type": "note",
+          "id": "ch18-n29",
+          "label": "29"
+        }
+      ],
+      "zh": [
+        "我感到……我们必须比以往更多地借助象征类比。最近我一直在绞尽脑汁，试图设想这样的类比。",
+        {
+          "type": "note",
+          "id": "ch18-n29",
+          "label": "29"
+        }
+      ],
+      "type": "quote",
+      "units": 30
+    },
+    {
+      "id": "ch18-u031",
+      "source_ids": [
+        "ch18-u031"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Complementarity"
+      ],
+      "zh": [
+        "3 互补性"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch18-u032",
+      "source_ids": [
+        "ch18-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Bohr’s solution to the problem of the objective reference of quantum theory bases on the consideration of symbolic analogies under the notion of complementarity.",
+        {
+          "type": "note",
+          "id": "ch18-n30",
+          "label": "30"
+        },
+        " The Bohrian position may be reconstructed as follows."
+      ],
+      "zh": [
+        "玻尔在互补性框架内借助象征类比解决量子理论的客观指涉问题。",
+        {
+          "type": "note",
+          "id": "ch18-n30",
+          "label": "30"
+        },
+        " 玻尔的立场可以重构如下。"
+      ],
+      "units": 32
+    },
+    {
+      "id": "ch18-u033",
+      "source_ids": [
+        "ch18-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The objective reference of the theory is achieved when the mathematical formalism acquires empirical content. But empirical data are received in space and time. In a physical experiment these data must be constituted as objective cognitions for them to count as empirical results and thus to be more than illusions of mere subjective validity:"
+      ],
+      "zh": [
+        "当数学形式体系获得经验内容时，理论的客观指涉就达成了。但经验材料是在时空中被接受的。在物理实验中，这些材料必须被构成为客观认识，才能算作经验结果，从而不仅仅是只有主观有效性的幻象："
+      ],
+      "units": 54
+    },
+    {
+      "id": "ch18-u054",
+      "source_ids": [
+        "ch18-u054"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The description of atomic phenomena has … a perfectly objective character, in the sense that no explicit reference is made to any individual observer.",
+        {
+          "type": "note",
+          "id": "ch18-n31",
+          "label": "31"
+        }
+      ],
+      "zh": [
+        "对原子现象的描述具有……完全客观的特征，其意义在于没有明确提及任何个别观察者。",
+        {
+          "type": "note",
+          "id": "ch18-n31",
+          "label": "31"
+        }
+      ],
+      "type": "quote",
+      "units": 23
+    },
+    {
+      "id": "ch18-u034",
+      "source_ids": [
+        "ch18-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In order to obtain this objective character, Bohr underlines, the empirical data associated with atomic phenomena must be subsumed under the category of causality:"
+      ],
+      "zh": [
+        "玻尔强调，为了获得这种客观特征，与原子现象相关联的经验材料必须被纳入因果性范畴之下："
+      ],
+      "units": 24
+    },
+    {
+      "id": "ch18-u055",
+      "source_ids": [
+        "ch18-u055"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[I]t should not be forgotten that the concept of causality underlies the very interpretation of each result of experiment, and that even in the co-ordination of experience one can never, in the nature of things, have to do with well-defined breaks in the causal chain.",
+        {
+          "type": "note",
+          "id": "ch18-n32",
+          "label": "32"
+        }
+      ],
+      "zh": [
+        "不应忘记，因果性概念构成了对每一个实验结果之解释的基础；而且即使在经验的协调中，从事物的本性来说，人们也绝不会遇到因果链条中明确定义的断裂。",
+        {
+          "type": "note",
+          "id": "ch18-n32",
+          "label": "32"
+        }
+      ],
+      "type": "quote",
+      "units": 46
+    },
+    {
+      "id": "ch18-u035",
+      "source_ids": [
+        "ch18-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Specifically, classical concepts must be applied so that a spatio-temporal and causal description of the result of the observations is given,",
+        {
+          "type": "note",
+          "id": "ch18-n33",
+          "label": "33"
+        },
+        " for only classical concepts can simultaneously fulfil the demands of spatio-temporality and causality,",
+        {
+          "type": "note",
+          "id": "ch18-n34",
+          "label": "34"
+        },
+        " guaranteeing thereby the objectivity of the description:"
+      ],
+      "zh": [
+        "具体来说，必须应用经典概念，以便给出观察结果的时空的、因果的描述，",
+        {
+          "type": "note",
+          "id": "ch18-n33",
+          "label": "33"
+        },
+        " 因为唯有经典概念才能同时满足时空性与因果性的要求，",
+        {
+          "type": "note",
+          "id": "ch18-n34",
+          "label": "34"
+        },
+        " 从而保证描述的客观性："
+      ],
+      "units": 41
+    },
+    {
+      "id": "ch18-u056",
+      "source_ids": [
+        "ch18-u056"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "However far the phenomena transcend the scope of classical physical explanation, the account of all evidence must be expressed in classical terms. The argument is simply that by the word ‘experiment’ we refer to a situation where we can tell others what we have done and what we have learned and that, therefore, the account of experimental arrangement and of the results of the observations must be expressed in unambiguous language with suitable application of the terminology of classical physics.",
+        {
+          "type": "note",
+          "id": "ch18-n35",
+          "label": "35"
+        }
+      ],
+      "zh": [
+        "无论现象在多大程度上超出经典物理解释的范围，对一切证据的说明都必须用经典术语来表达。论据很简单：我们用“实验”一词指的是这样一种情境，在其中我们能够告诉别人我们做了什么、学到了什么；因此，对实验装置和观察结果的说明必须用无歧义的语言来表达，并适当运用经典物理学的术语。",
+        {
+          "type": "note",
+          "id": "ch18-n35",
+          "label": "35"
+        }
+      ],
+      "type": "quote",
+      "units": 80
+    },
+    {
+      "id": "ch18-u037",
+      "source_ids": [
+        "ch18-u037"
+      ],
+      "page": "324",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now the main issue arises: there is no single spatio-temporal and causal picture which can embrace the totality of the different images associated to an atomic system. Rather, a proper interpretation of all empirical data demands incompatible pictures, the paradigmatic example of which are the wave- and particle-pictures:"
+      ],
+      "zh": [
+        "现在主要问题出现了：没有任何单一的兼具时空性和因果性的图像能够囊括与一个原子系统相关联的各种不同图像的全体。相反，对所有经验材料的恰当解释要求互不相容的图像，其范例就是波动图像与粒子图像："
+      ],
+      "units": 48
+    },
+    {
+      "id": "ch18-u043",
+      "source_ids": [
+        "ch18-u043"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Very striking illustrations are afforded by the well-known dilemmas regarding the properties of electromagnetic radiation as well as of material corpuscles, evidenced by the circumstances that in both cases contrasting pictures as waves and particles appear equally indispensable for the full account of experimental evidence.",
+        {
+          "type": "note",
+          "id": "ch18-n36",
+          "label": "36"
+        }
+      ],
+      "zh": [
+        "关于电磁辐射以及物质微粒之性质的众所周知的两难提供了非常鲜明的例证：在这两种情形中，波与粒子这两种对立的图像对于完整说明实验证据来说都显得同样不可或缺。",
+        {
+          "type": "note",
+          "id": "ch18-n36",
+          "label": "36"
+        }
+      ],
+      "type": "quote",
+      "units": 45
+    },
+    {
+      "id": "ch18-u038",
+      "source_ids": [
+        "ch18-u038"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As long as all the different pictures are necessary for an exhaustive interpretation of the empirical data, while they exclude each other, the pictures are called complementary:"
+      ],
+      "zh": [
+        "只要所有这些不同图像对于经验材料的穷尽解释都是必要的，而它们又相互排斥，这些图像就被称为互补的："
+      ],
+      "units": 27
+    },
+    {
+      "id": "ch18-u057",
+      "source_ids": [
+        "ch18-u057"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[E]vidence obtained under different experimental conditions cannot be comprehended within a single picture, but must be regarded as complementary in the sense that only the totality of the phenomena exhausts the possible information about the objects.",
+        {
+          "type": "note",
+          "id": "ch18-n37",
+          "label": "37"
+        }
+      ],
+      "zh": [
+        "在不同实验条件下获得的证据无法被纳入单一图像之中，而必须被视为互补的，其意义在于：只有现象的全体才穷尽了关于对象的可能信息。",
+        {
+          "type": "note",
+          "id": "ch18-n37",
+          "label": "37"
+        }
+      ],
+      "type": "quote",
+      "units": 37
+    },
+    {
+      "id": "ch18-u039",
+      "source_ids": [
+        "ch18-u039"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The classical pictures which we introduce to describe experimental results gained in different experimental contexts should be used as symbols of the quantum object. Accordingly, the quantum object is represented as behaving in certain experimental situations as if it were a particle or as if it were a wave:"
+      ],
+      "zh": [
+        "我们为描述在不同实验语境中获得的实验结果而引入的经典图像，应当被用作量子对象的象征。相应地，量子对象被表象为在某些实验情境中表现得仿佛它是一个粒子，在另一些情境中仿佛它是一个波："
+      ],
+      "units": 49
+    },
+    {
+      "id": "ch18-u058",
+      "source_ids": [
+        "ch18-u058"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[W]e symbolize [the quantum object] by the abstractions of isolated particles and radiation.",
+        {
+          "type": "note",
+          "id": "ch18-n38",
+          "label": "38"
+        }
+      ],
+      "zh": [
+        "我们用孤立粒子与辐射这两种抽象来象征[量子对象]。",
+        {
+          "type": "note",
+          "id": "ch18-n38",
+          "label": "38"
+        }
+      ],
+      "type": "quote",
+      "units": 14
+    },
+    {
+      "id": "ch18-u040",
+      "source_ids": [
+        "ch18-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This symbolic character of the objective reference prevents the unjustified statements we would make if we affirmed that the object was in fact a particle in certain situations and in fact a wave in others, for in neither case does the object possess all the properties associated to the corresponding picture. In this respect, Heisenberg states:"
+      ],
+      "zh": [
+        "客观指涉的这种象征特征防止了我们若断言对象在某些情境中事实上是粒子、在另一些情境中事实上是波时会作出的无根据陈述，因为在这两种情形中对象都不具有与相应图像相关联的全部属性。在这方面，海森堡指出："
+      ],
+      "units": 56
+    },
+    {
+      "id": "ch18-u059",
+      "source_ids": [
+        "ch18-u059"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Both pictures (the particle- and the wave-picture) can only claim a right as analogies that sometimes apply and sometimes fail. In fact, it is, e.g., only experimentally proved that electrons behave like particles in certain experiments, but it is by no means shown that electrons possess all the attributes of the corpuscular picture. The same is valid mutatis mutandis for the wave-picture.",
+        {
+          "type": "note",
+          "id": "ch18-n39",
+          "label": "39"
+        }
+      ],
+      "zh": [
+        "两种图像（粒子图像与波动图像）只在作为时而适用、时而失效的类比时才有根据。事实上，例如，实验仅仅证明了电子在某些实验中表现得像粒子，但绝没有表明电子具有微粒图像的一切属性。对波动图像来说，同样的结论在作必要修正后也成立（mutatis mutandi）。",
+        {
+          "type": "note",
+          "id": "ch18-n39",
+          "label": "39"
+        }
+      ],
+      "type": "quote",
+      "units": 63
+    },
+    {
+      "id": "ch18-u041",
+      "source_ids": [
+        "ch18-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "These symbolic analogies, based on the classical pictures through which the experiments are described, provide the concepts of quantum objects with empirical content and, thus, the mathematical formalism of the theory with physical reference:"
+      ],
+      "zh": [
+        "这些象征类比基于描述实验所用的经典图像，它们为量子对象的概念提供经验内容，从而为理论的数学形式体系提供物理指涉："
+      ],
+      "units": 34
+    },
+    {
+      "id": "ch18-u060",
+      "source_ids": [
+        "ch18-u060"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[I]t continues to be the application of these [classical] concepts alone that makes it possible to relate the symbolism of the quantum theory to the data of experience.",
+        {
+          "type": "note",
+          "id": "ch18-n40",
+          "label": "40"
+        }
+      ],
+      "zh": [
+        "仍然是唯有这些[经典]概念的应用，才使得把量子理论的象征体系与经验材料联系起来成为可能。",
+        {
+          "type": "note",
+          "id": "ch18-n40",
+          "label": "40"
+        }
+      ],
+      "type": "quote",
+      "units": 29
+    },
+    {
+      "id": "ch18-u042",
+      "source_ids": [
+        "ch18-u042"
+      ],
+      "page": "325",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Moreover, precisely by taking part of these analogies, those incompatible classical descriptions of experiments acquire systematic unity. When we affirm that a quantum object behaves in certain situations as if it were a wave and in certain others as if it were a particle, we conceive the corresponding wave- and particle-like phenomena as phenomena of the quantum object. In this way, they become connected and subsumed under a common general representation. But thereby no spatio-temporal process by means of which the object causes the phenomena is assumed, for the demands of spatio-temporal co-ordination and causality are also complementary:"
+      ],
+      "zh": [
+        "此外，恰恰是由于纳入这些类比，那些互不相容的经典实验描述获得了系统统一性。当我们断言量子对象在某些情境中表现得仿佛是波、在另一些情境中仿佛是粒子时，我们就把相应的呈波动性的现象与呈粒子性的现象设想为量子对象的现象。这样，它们就被联结起来并纳入一个共同的一般表象之下。但由此并没有假设对象借以引起现象的任何时空过程，因为时空协调与因果性的要求也是互补的："
+      ],
+      "units": 98
+    },
+    {
+      "id": "ch18-u049",
+      "source_ids": [
+        "ch18-u049"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The very nature of the quantum theory thus forces us to regard the space-time co-ordination and the claim of causality … as complementary but exclusive features of the description.",
+        {
+          "type": "note",
+          "id": "ch18-n41",
+          "label": "41"
+        }
+      ],
+      "zh": [
+        "因此，量子理论的本性本身就迫使我们把时空协调与因果性要求……视为描述的两个互补而又互斥的特征。",
+        {
+          "type": "note",
+          "id": "ch18-n41",
+          "label": "41"
+        }
+      ],
+      "type": "quote",
+      "units": 28
+    },
+    {
+      "id": "ch18-u044",
+      "source_ids": [
+        "ch18-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In Kantian terms, the object is conceived as a cause, but the category of causality does not receive a spatio-temporal schematization.",
+        {
+          "type": "note",
+          "id": "ch18-n42",
+          "label": "42"
+        },
+        " This representation of the quantum object just brings about systematic unity among its phenomena and does not take part of their constitution as objective cognitions, which is rather the result of the application of classical concepts."
+      ],
+      "zh": [
+        "用康德的术语说，对象被设想为原因，但因果性范畴在此并未通过时空图型来应用。",
+        {
+          "type": "note",
+          "id": "ch18-n42",
+          "label": "42"
+        },
+        " 量子对象的这种表象只在其现象之间带来系统统一性，并不把这些现象构成为客观认识；后者毋宁是应用经典概念的结果。"
+      ],
+      "units": 57
+    },
+    {
+      "id": "ch18-u045",
+      "source_ids": [
+        "ch18-u045"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Conclusions: Correspondence and Complementarity"
+      ],
+      "zh": [
+        "4 结论：对应与互补性"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch18-u046",
+      "source_ids": [
+        "ch18-u046"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let us consider the analogy with which we have begun our discussion once again: “C is the cause of E, as A is the cause of B.” From 1913 to 1923 Bohr tries to establish analogies of this form in order to determine the quantum-theoretical relation between electronic motion and radiation on the basis of the knowledge of the classical laws. The principle of correspondence plays at this stage the role of a regulative maxim for our reflection upon nature. However, the analogies so obtained remain merely formal, because no causal and spatio-temporal exhibition of the mechanism of radiation is given. In Kantian terms, electronic motion is not constituted as the cause of radiation."
+      ],
+      "zh": [
+        "让我们再次考虑我们讨论由之开始的那个类比：“C是E的原因，正如A是B的原因。”从1913年到1923年，玻尔试图建立这种形式的类比，以便在经典规律知识的基础上规定电子运动与辐射之间的量子理论关系。对应原理在这一阶段扮演我们反思自然的一条调节性准则的角色。然而，如此获得的类比仍然是纯形式的，因为没有给出辐射机制的因果的、时空的展示。用康德的术语说，此时还无法把电子运动构成为辐射的原因。"
+      ],
+      "units": 114
+    },
+    {
+      "id": "ch18-u047",
+      "source_ids": [
+        "ch18-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Moreover, the BKS-theory of 1924 implies that it is impossible to obtain a continuous spatio-temporal description of the way in which electronic motion grounds the probabilities of transitions, compatible with a causal relation between electronic motion and radiation in individual processes. In spite of the failure of the theory, Bohr does not reject this incompatibility between causal connections and spatio-temporal descriptions. Thus, Bohr’s position entails now that electronic motion cannot be constituted as the cause of radiation in quantum theory, for this would demand a causal and spatio-temporal representation of the radiation mechanism. Electronic motion and radiation cannot be directly represented in a single intuitive picture."
+      ],
+      "zh": [
+        "此外，1924年的 BKS 理论意味着：不可能获得一种关于电子运动如何决定跃迁概率的连续时空描述，使之与个别过程中电子运动与辐射之间的因果关系相容。尽管该理论失败了，玻尔并不拒绝因果联系与时空描述之间的这种不相容。于是，玻尔的立场现在意味着：在量子理论中电子运动不能被构成为辐射的原因，因为这将要求辐射机制的因果的、时空的表象。电子运动与辐射无法在单一的直观图像中被直接表象。"
+      ],
+      "units": 106
+    },
+    {
+      "id": "ch18-u048",
+      "source_ids": [
+        "ch18-u048"
+      ],
+      "page": "326",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The impossibility of a direct exhibition of quantum objects and processes in intuition leads Bohr to the introduction of the notion of complementarity in 1927. Within this new framework, the analogies of the type “C is the cause of E, as A is the cause of B” do not lose their central role. Rather, they are now used in order to exhibit the concepts of quantum objects indirectly in intuition. The analogies possess in this case a mere symbolic character. Specifically, the relation between a quantum object and the empirical data is conceived in terms of one of the complementary pictures by means of which the experimental results are interpreted. Thereby, a quantum object is conceived as cause of the complementary phenomena, but no spatio-temporal representation of the causal relationship between object and phenomena is given."
+      ],
+      "zh": [
+        "在直观中无法直接呈示量子对象和量子过程，这促使玻尔在1927年引入互补性概念。在这个新框架内，“C是E的原因，正如A是B的原因”这种类型的类比并没有失去其核心作用。相反，它们现在被用来在直观中间接呈示量子对象的概念。这些类比在这种情形下只具有象征的特征。具体来说，量子对象与经验材料之间的关系借助解释实验结果所用的互补图像之一来设想。由此，量子对象被设想为互补现象的原因，但对象与现象之间因果关系的时空表象并没有被给出。"
+      ],
+      "units": 136
+    },
+    {
+      "id": "ch18-u051",
+      "source_ids": [
+        "ch18-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In this situation, the correspondence principle retains its epistemological significance as a rule guiding an extensive application of classical concepts, but now in order to obtain symbols of quantum objects. These symbols are used as complementary pictures that, by exhausting the possible empirical information about the quantum objects, provide the mathematical formalism of the theory with complete physical reference. As Heisenberg indicates:"
+      ],
+      "zh": [
+        "在这种情境下，对应原理保留了其认识论意义，作为引导经典概念之广泛应用的规则，但现在是为了获得量子对象的象征。这些象征被用作互补的图像，这些图像涵盖了关于量子对象的全部可能经验信息，从而给理论的数学形式体系以完整的物理指涉。正如海森堡所指出的："
+      ],
+      "units": 62
+    },
+    {
+      "id": "ch18-ref003",
+      "source_ids": [
+        "ch18-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The Bohrian correspondence principle states in its most general formulation that there is a qualitative analogy, which can be carried out in detail, between quantum theory and the classical theory belonging to the respective picture employed. This analogy does not just serve as a guide to the discovery of formal laws; its particular value is that it furnishes at the same time the physical interpretation of the discovered laws.",
+        {
+          "type": "note",
+          "id": "ch18-n43",
+          "label": "43"
+        }
+      ],
+      "zh": [
+        "玻尔的对应原理在其最一般的表述中断言：在量子理论与属于所采用的相应图像的经典理论之间，存在一种能够落实到细节的定性类比。这种类比不仅充当发现形式规律的向导；它的特殊价值在于同时提供了所发现规律的物理解释。",
+        {
+          "type": "note",
+          "id": "ch18-n43",
+          "label": "43"
+        }
+      ],
+      "type": "quote",
+      "units": 69
+    },
+    {
+      "id": "ch18-u052",
+      "source_ids": [
+        "ch18-u052"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "By means of this use of the correspondence principle Bohr aims at guaranteeing the systematic unity of physics. Classical and quantum theories do not make up a “patchwork,”",
+        {
+          "type": "note",
+          "id": "ch18-n44",
+          "label": "44"
+        },
+        " but may be brought into a system. Their systematic unity is nevertheless not to be found at the end of a reduction program. But we must leave the discussion of this problem for another occasion."
+      ],
+      "zh": [
+        "通过对应原理的这种运用，玻尔旨在保证物理学的系统统一性。经典理论与量子理论并不只是“拼凑在一起”，",
+        {
+          "type": "note",
+          "id": "ch18-n44",
+          "label": "44"
+        },
+        " 而是可以被纳入一个系统。然而它们的系统统一性却并非来自还原纲领的完成。但我们必须把这个问题的讨论留待另一次机会。"
+      ],
+      "units": 63
+    },
+    {
+      "id": "ch18-u050",
+      "source_ids": [
+        "ch18-u050"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch18-bibliography-001",
+      "source_ids": [
+        "ch18-ref005",
+        "ch18-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr’s Collected Works (BCW), Rosenfeld, L., Rud Nielsen, J., Rüdinger, E., Aaserud, F. (eds.), North-Holland, Amsterdam; American Elsevier, New York, 1972 ff."
+      ],
+      "zh": [
+        "Bohr’s Collected Works (BCW), Rosenfeld, L., Rud Nielsen, J., Rüdinger, E., Aaserud, F. (eds.), North-Holland, Amsterdam; American Elsevier, New York, 1972 ff."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch18-bibliography-002",
+      "source_ids": [
+        "ch18-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1913), “On the Constitution of Atoms and Molecules,” in: BCW 2, pp. 161–233."
+      ],
+      "zh": [
+        "Bohr, N. (1913), “On the Constitution of Atoms and Molecules,” in: BCW 2, pp. 161–233."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch18-bibliography-003",
+      "source_ids": [
+        "ch18-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1918–1922), “On the Quantum Theory of Line Spectra,” in: BCW 3, pp. 67–184."
+      ],
+      "zh": [
+        "Bohr, N. (1918–1922), “On the Quantum Theory of Line Spectra,” in: BCW 3, pp. 67–184."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch18-bibliography-004",
+      "source_ids": [
+        "ch18-ref006",
+        "ch18-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1921), “On the Application of Quantum Theory to Atomic Problems,” in BCW 3, pp. 364–380."
+      ],
+      "zh": [
+        "Bohr, N. (1921), “On the Application of Quantum Theory to Atomic Problems,” in BCW 3, pp. 364–380."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch18-bibliography-005",
+      "source_ids": [
+        "ch18-ref007",
+        "ch18-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1922), The Theory of Spectra and Atomic Constitution, Cambridge University Press, Cambridge."
+      ],
+      "zh": [
+        "Bohr, N. (1922), The Theory of Spectra and Atomic Constitution, Cambridge University Press, Cambridge."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch18-bibliography-006",
+      "source_ids": [
+        "ch18-ref008",
+        "ch18-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1927), “The Quantum Postulate and the Recent Development of Atomic Theory,” in: Bohr (1934), pp. 52–91."
+      ],
+      "zh": [
+        "Bohr, N. (1927), “The Quantum Postulate and the Recent Development of Atomic Theory,” in: Bohr (1934), pp. 52–91."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch18-bibliography-007",
+      "source_ids": [
+        "ch18-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1929), “Introductory Survey,” in: Bohr (1934), pp. 1–24."
+      ],
+      "zh": [
+        "Bohr, N. (1929), “Introductory Survey,” in: Bohr (1934), pp. 1–24."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch18-bibliography-008",
+      "source_ids": [
+        "ch18-ref009",
+        "ch18-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1934), Atomic Theory and the Description of Nature, Cambridge University Press, Cambridge."
+      ],
+      "zh": [
+        "Bohr, N. (1934), Atomic Theory and the Description of Nature, Cambridge University Press, Cambridge."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch18-bibliography-009",
+      "source_ids": [
+        "ch18-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1937), “Causality and Complementarity,” in: Bohr (1998), pp. 83–91."
+      ],
+      "zh": [
+        "Bohr, N. (1937), “Causality and Complementarity,” in: Bohr (1998), pp. 83–91."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch18-bibliography-010",
+      "source_ids": [
+        "ch18-ref010",
+        "ch18-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1949), “Discussion with Einstein on Epistemological Problems in Atomic Physics,” in: Bohr (1958a), pp. 32–66."
+      ],
+      "zh": [
+        "Bohr, N. (1949), “Discussion with Einstein on Epistemological Problems in Atomic Physics,” in: Bohr (1958a), pp. 32–66."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch18-bibliography-011",
+      "source_ids": [
+        "ch18-ref015"
+      ],
+      "page": "327",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1956), “Mathematics and Natural Philosophy,” in: Bohr (1998), pp. 164–169."
+      ],
+      "zh": [
+        "Bohr, N. (1956), “Mathematics and Natural Philosophy,” in: Bohr (1998), pp. 164–169."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch18-bibliography-012",
+      "source_ids": [
+        "ch18-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1958a), Atomic Physics and Human Knowledge, Wiley, New York."
+      ],
+      "zh": [
+        "Bohr, N. (1958a), Atomic Physics and Human Knowledge, Wiley, New York."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch18-bibliography-013",
+      "source_ids": [
+        "ch18-ref015",
+        "ch18-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1958b), “Quantum Physics and Philosophy. Causality and Complementarity,” in: Bohr (1963), pp. 1–7."
+      ],
+      "zh": [
+        "Bohr, N. (1958b), “Quantum Physics and Philosophy. Causality and Complementarity,” in: Bohr (1963), pp. 1–7."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch18-bibliography-014",
+      "source_ids": [
+        "ch18-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1963), Essays 1958–1962 on Atomic Physics and Human Knowledge, Wiley, London."
+      ],
+      "zh": [
+        "Bohr, N. (1963), Essays 1958–1962 on Atomic Physics and Human Knowledge, Wiley, London."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch18-bibliography-015",
+      "source_ids": [
+        "ch18-ref016",
+        "ch18-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1998), Causality and Complementarity. The Philosophical Writings of Niels Bohr, vol. IV, Faye, J. and Folse, H. (eds.), Ox Bow, Woodbridge, CT."
+      ],
+      "zh": [
+        "Bohr, N. (1998), Causality and Complementarity. The Philosophical Writings of Niels Bohr, vol. IV, Faye, J. and Folse, H. (eds.), Ox Bow, Woodbridge, CT."
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch18-bibliography-016",
+      "source_ids": [
+        "ch18-ref017",
+        "ch18-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N., Kramers, H. and Slater, J. (1924), “The Quantum Theory of Radiation,” in: BCW 5, pp. 99–118."
+      ],
+      "zh": [
+        "Bohr, N., Kramers, H. and Slater, J. (1924), “The Quantum Theory of Radiation,” in: BCW 5, pp. 99–118."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch18-bibliography-017",
+      "source_ids": [
+        "ch18-ref018",
+        "ch18-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bothe, W. and Geiger, H. (1925), “Über das Wesen des Comptoneffekts: ein experimenteller Beitrag zur Theorie der Strahlung”, Zeitschrift für Physik, 32, pp. 639–663."
+      ],
+      "zh": [
+        "Bothe, W. and Geiger, H. (1925), “Über das Wesen des Comptoneffekts: ein experimenteller Beitrag zur Theorie der Strahlung”, Zeitschrift für Physik, 32, pp. 639–663."
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch18-bibliography-018",
+      "source_ids": [
+        "ch18-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cartwright, N. (1999), The Dappled World, Cambridge University Press, Cambridge."
+      ],
+      "zh": [
+        "Cartwright, N. (1999), The Dappled World, Cambridge University Press, Cambridge."
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch18-bibliography-019",
+      "source_ids": [
+        "ch18-ref019",
+        "ch18-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Chevalley, C. (1994), “Niels Bohr’s Words and the Atlantis of Kantianism,” in Faye, J. and Folse, H. (eds.), Niels Bohr and Contemporary Philosophy, Kluwer, Dordrecht, The Netherlands, pp. 33–55."
+      ],
+      "zh": [
+        "Chevalley, C. (1994), “Niels Bohr’s Words and the Atlantis of Kantianism,” in Faye, J. and Folse, H. (eds.), Niels Bohr and Contemporary Philosophy, Kluwer, Dordrecht, The Netherlands, pp. 33–55."
+      ],
+      "shared": true,
+      "units": 30
+    },
+    {
+      "id": "ch18-bibliography-020",
+      "source_ids": [
+        "ch18-ref020",
+        "ch18-ref021"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Chevalley, C. (1995), “On Objectivity as Intersubjective Agreement,” in Krüger and Falkenburg (eds.), Physik, Philosophie und die Einheit der Wissenschaften, Spektrum, Heidelberg, Germany, pp. 332–346."
+      ],
+      "zh": [
+        "Chevalley, C. (1995), “On Objectivity as Intersubjective Agreement,” in Krüger and Falkenburg (eds.), Physik, Philosophie und die Einheit der Wissenschaften, Spektrum, Heidelberg, Germany, pp. 332–346."
+      ],
+      "shared": true,
+      "units": 26
+    },
+    {
+      "id": "ch18-bibliography-021",
+      "source_ids": [
+        "ch18-ref021",
+        "ch18-ref022"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Darrigol, O. (1992), From C-numbers to Q-numbers. The Classical Analogy in the History of Quantum Theory, University of California Press, Berkeley, CA."
+      ],
+      "zh": [
+        "Darrigol, O. (1992), From C-numbers to Q-numbers. The Classical Analogy in the History of Quantum Theory, University of California Press, Berkeley, CA."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch18-bibliography-022",
+      "source_ids": [
+        "ch18-ref022"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Heisenberg, W. (1930), Physikalische Prinzipien der Quantentheorie, Hirzel, Leipzig, Germany."
+      ],
+      "zh": [
+        "Heisenberg, W. (1930), Physikalische Prinzipien der Quantentheorie, Hirzel, Leipzig, Germany."
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch18-bibliography-023",
+      "source_ids": [
+        "ch18-ref022",
+        "ch18-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Honner, J. (1987), The Description of Nature. Niels Bohr and the Philosophy of Quantum Physics, Clarendon, Oxford."
+      ],
+      "zh": [
+        "Honner, J. (1987), The Description of Nature. Niels Bohr and the Philosophy of Quantum Physics, Clarendon, Oxford."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch18-bibliography-024",
+      "source_ids": [
+        "ch18-ref023",
+        "ch18-ref024"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kants gesammelte Schriften (AA), Königlichen Preußischen (Deutschen) Akademie der Wissenschaften, Berlin, 1902 ff."
+      ],
+      "zh": [
+        "Kants gesammelte Schriften (AA), Königlichen Preußischen (Deutschen) Akademie der Wissenschaften, Berlin, 1902 ff."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch18-bibliography-025",
+      "source_ids": [
+        "ch18-ref024",
+        "ch18-ref025"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I. (1781), Critique of Pure Reason (1781 = A, 1787 = B), Guyer, P. and Wood, A. (trans. and eds.), Cambridge University Press, Cambridge, 1998."
+      ],
+      "zh": [
+        "Kant, I. (1781), Critique of Pure Reason (1781 = A, 1787 = B), Guyer, P. and Wood, A. (trans. and eds.), Cambridge University Press, Cambridge, 1998."
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch18-bibliography-026",
+      "source_ids": [
+        "ch18-ref025",
+        "ch18-ref026"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I. (1783), Prolegomena to Any Future Metaphysics That Will Be Able to Come Forward as Science, Hatfield, G. (trans.) in Theoretical Philosophy after 1781, Allison, H. and Heath, P. (trans. and eds.), Hatfield, G. and Friedman, M. (trans.), Cambridge University Press, Cambridge, 2002 (AA IV, pp. 253–384)."
+      ],
+      "zh": [
+        "Kant, I. (1783), Prolegomena to Any Future Metaphysics That Will Be Able to Come Forward as Science, Hatfield, G. (trans.) in Theoretical Philosophy after 1781, Allison, H. and Heath, P. (trans. and eds.), Hatfield, G. and Friedman, M. (trans.), Cambridge University Press, Cambridge, 2002 (AA IV, pp. 253–384)."
+      ],
+      "shared": true,
+      "units": 49
+    },
+    {
+      "id": "ch18-bibliography-027",
+      "source_ids": [
+        "ch18-ref026",
+        "ch18-ref027"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I. (1790), Critique of the Power of Judgment, Guyer, P. and Matthews, E. (trans.), Guyer, P. (ed.), Cambridge University Press, Cambridge, 2000 (AA V, 165–486 and AA XX, pp. 193–251)."
+      ],
+      "zh": [
+        "Kant, I. (1790), Critique of the Power of Judgment, Guyer, P. and Matthews, E. (trans.), Guyer, P. (ed.), Cambridge University Press, Cambridge, 2000 (AA V, 165–486 and AA XX, pp. 193–251)."
+      ],
+      "shared": true,
+      "units": 33
+    },
+    {
+      "id": "ch18-bibliography-028",
+      "source_ids": [
+        "ch18-ref027",
+        "ch18-ref028"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Petruccioli, S. (1993), Atoms, Metaphors and Paradoxes. Niels Bohr and the Construction of a New Physics, Cambridge University Press, Cambridge."
+      ],
+      "zh": [
+        "Petruccioli, S. (1993), Atoms, Metaphors and Paradoxes. Niels Bohr and the Construction of a New Physics, Cambridge University Press, Cambridge."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch18-bibliography-029",
+      "source_ids": [
+        "ch18-ref028",
+        "ch18-ref029"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Pringe, H. (2007), Critique of the Quantum Power of Judgment. A Transcendental Foundation of Quantum Objectivity, de Gruyter, Berlin."
+      ],
+      "zh": [
+        "Pringe, H. (2007), Critique of the Quantum Power of Judgment. A Transcendental Foundation of Quantum Objectivity, de Gruyter, Berlin."
+      ],
+      "shared": true,
+      "units": 19
+    }
+  ],
+  "notes": {
+    "ch18-n01": {
+      "number": "1",
+      "en": [
+        "The importance of these results for a transcendental foundation of quantum objectivity is discussed in Pringe (2007)."
+      ],
+      "zh": [
+        "Pringe (2007) 讨论了这些结果对于量子客观性之先验基础的重要性。"
+      ]
+    },
+    "ch18-n02": {
+      "number": "2",
+      "en": [
+        "See Pringe (2007), pp. 19ff."
+      ],
+      "zh": [
+        "参见 Pringe (2007), pp. 19ff."
+      ]
+    },
+    "ch18-n03": {
+      "number": "3",
+      "en": [
+        "According to Kant, an analogy is “a perfect similarity between two relations in wholly dissimilar things.” AA IV, pp. 357–358. Kant (1783), p. 147."
+      ],
+      "zh": [
+        "按康德的说法，类比是“两个关系之间的完全相似，尽管所涉及的事物全不相同”。AA IV, pp. 357–358. Kant (1783), p. 147."
+      ]
+    },
+    "ch18-n04": {
+      "number": "4",
+      "en": [
+        "B232. Kant (1781), p. 304."
+      ],
+      "zh": [
+        "B232. Kant (1781), p. 304."
+      ]
+    },
+    "ch18-n05": {
+      "number": "5",
+      "en": [
+        "A193/B238–B239. Kant (1781), p. 307."
+      ],
+      "zh": [
+        "A193/B238–B239. Kant (1781), p. 307."
+      ]
+    },
+    "ch18-n06": {
+      "number": "6",
+      "en": [
+        "AA XX, p. 209. Kant (1790), p. 13. See also AA V, p. 183. Kant (1790), p. 70."
+      ],
+      "zh": [
+        "AA XX, p. 209. Kant (1790), p. 13. 另见 AA V, p. 183. Kant (1790), p. 70."
+      ]
+    },
+    "ch18-n07": {
+      "number": "7",
+      "en": [
+        "AA XX, p. 209. Kant (1790), p. 13."
+      ],
+      "zh": [
+        "AA XX, p. 209. Kant (1790), p. 13."
+      ]
+    },
+    "ch18-n08": {
+      "number": "8",
+      "en": [
+        "AA XX, p. 215. Kant (1790), pp. 18–19. Otherwise, by aiming at a system of empirical laws, we would set as a goal an idea that, albeit convenient for the economy of reason, contradicted the arrangement of nature. Thereby, our knowledge would make no progress."
+      ],
+      "zh": [
+        "AA XX, p. 215. Kant (1790), pp. 18–19. 否则，若以经验性规律的系统为目标，我们就会把一个虽然有利于理性之节省、却与自然的安排相矛盾的理念设为目标。由此，我们的知识将不会有任何进步。"
+      ]
+    },
+    "ch18-n09": {
+      "number": "9",
+      "en": [
+        "AA XX, p. 209. Kant (1790), p. 13."
+      ],
+      "zh": [
+        "AA XX, p. 209. Kant (1790), p. 13."
+      ]
+    },
+    "ch18-n10": {
+      "number": "10",
+      "en": [
+        "An exhaustive analysis of the constitution problem would demand the consideration of all principles of pure understanding and not just the principle of causality. But this is not necessary for our purposes."
+      ],
+      "zh": [
+        "对构造问题的详尽分析将要求考虑纯粹知性的所有原理，而不仅仅是因果性原理。但这对我们的目的来说并无必要。"
+      ]
+    },
+    "ch18-n11": {
+      "number": "11",
+      "en": [
+        "This was the problem of Rutherford’s atomic model."
+      ],
+      "zh": [
+        "这就是卢瑟福原子模型的问题。"
+      ]
+    },
+    "ch18-n12": {
+      "number": "12",
+      "en": [
+        "See Pringe (2007), pp. 49ff."
+      ],
+      "zh": [
+        "参见 Pringe (2007), pp. 49ff."
+      ]
+    },
+    "ch18-n13": {
+      "number": "13",
+      "en": [
+        "Bohr (1922), p. 2. Bohr used for the first time the expression principle of correspondence in 1920. Now he points out that “the first germ” of this principle may already be found in his trilogy of 1913."
+      ],
+      "zh": [
+        "Bohr (1922), p. 2. 玻尔在1920年首次使用对应原理这一表述。现在他指出，这一原理的“最初萌芽”已可见于他1913年的三部曲。"
+      ]
+    },
+    "ch18-n14": {
+      "number": "14",
+      "en": [
+        "Bohr (1918–1922), p. 70."
+      ],
+      "zh": [
+        "Bohr (1918–1922), p. 70."
+      ]
+    },
+    "ch18-n15": {
+      "number": "15",
+      "en": [
+        "A657/B685. Kant (1781), p. 598. Each of these logical principles presupposes in turn a corresponding transcendental one."
+      ],
+      "zh": [
+        "A657/B685. Kant (1781), p. 598. 这些逻辑原理中的每一条又预设了一条相应的先验原理。"
+      ]
+    },
+    "ch18-n16": {
+      "number": "16",
+      "en": [
+        "AA V, p. 182. Kant (1790), p. 69. These maxims are based on the transcendental principle of the reflecting power of judgment."
+      ],
+      "zh": [
+        "AA V, p. 182. Kant (1790), p. 69. 这些准则基于反思性判断力的先验原理。"
+      ]
+    },
+    "ch18-n17": {
+      "number": "17",
+      "en": [
+        "Along Kantian lines, one may argue that this methodological assumption about the systematic unity of theories depends on a transcendental one about the systematic unity of nature."
+      ],
+      "zh": [
+        "沿康德的思路，人们可以论证：这个关于理论之系统统一性的方法论假设，依赖于一个关于自然之系统统一性的先验假设。"
+      ]
+    },
+    "ch18-n18": {
+      "number": "18",
+      "en": [
+        "Bohr (1913), pp. 172ff."
+      ],
+      "zh": [
+        "Bohr (1913), pp. 172ff."
+      ]
+    },
+    "ch18-n19": {
+      "number": "19",
+      "en": [
+        "Bohr (1918–1922), pp. 97–98."
+      ],
+      "zh": [
+        "Bohr (1918–1922), pp. 97–98."
+      ]
+    },
+    "ch18-n20": {
+      "number": "20",
+      "en": [
+        "Idem."
+      ],
+      "zh": [
+        "Idem."
+      ]
+    },
+    "ch18-n21": {
+      "number": "21",
+      "en": [
+        "Bohr (1921), p. 372."
+      ],
+      "zh": [
+        "Bohr (1921), p. 372."
+      ]
+    },
+    "ch18-n22": {
+      "number": "22",
+      "en": [
+        "Bohr, Kramers and Slater (1924)."
+      ],
+      "zh": [
+        "Bohr, Kramers and Slater (1924)."
+      ]
+    },
+    "ch18-n23": {
+      "number": "23",
+      "en": [
+        "Darrigol (1992), p. 257."
+      ],
+      "zh": [
+        "Darrigol (1992), p. 257."
+      ]
+    },
+    "ch18-n24": {
+      "number": "24",
+      "en": [
+        "On the BKS theory see also Petruccioli (1993), pp. 111ff."
+      ],
+      "zh": [
+        "关于 BKS 理论，另见 Petruccioli (1993), pp. 111ff."
+      ]
+    },
+    "ch18-n25": {
+      "number": "25",
+      "en": [
+        "Bohr, Kramers and Slater (1924), p. 101."
+      ],
+      "zh": [
+        "Bohr, Kramers and Slater (1924), p. 101."
+      ]
+    },
+    "ch18-n26": {
+      "number": "26",
+      "en": [
+        "Bothe and Geiger (1925)."
+      ],
+      "zh": [
+        "Bothe and Geiger (1925)."
+      ]
+    },
+    "ch18-n27": {
+      "number": "27",
+      "en": [
+        "BCW 5, pp. 204–205."
+      ],
+      "zh": [
+        "BCW 5, pp. 204–205."
+      ]
+    },
+    "ch18-n28": {
+      "number": "28",
+      "en": [
+        "Pringe (2007). Although Chevalley acknowledges the Kantian origin of Bohr’s concept of symbol, she argues that Bohr turns out to be a Kantian “heretic”. See Chevalley (1995), p. 344. On the Bohrian notion of symbol see also Honner (1987), pp. 153–160."
+      ],
+      "zh": [
+        "Pringe (2007). 尽管舍瓦莱承认玻尔象征概念的康德起源，她论证说玻尔最终成了一个康德式的“异端”。见 Chevalley (1995), p. 344. 关于玻尔的象征概念，另见 Honner (1987), pp. 153–160."
+      ]
+    },
+    "ch18-n29": {
+      "number": "29",
+      "en": [
+        "BCW 5, p. 85. Already in 1913 Bohr speaks of “the most beautiful analogi [sic] between the old electrodynamics and the considerations used in my paper” (BCW 2, pp. 584). In 1922 he discusses the issue of analogies in atomic physics with Høffding (BCW 10, pp. 513–514) and turns to this in his Nobel Lecture at the end of the year once again (BCW 4, p. 482). However, it is only after the failure of the BKS-theory that Bohr comes to consider these analogies as symbolic ones. See Chevalley (1994), pp. 37ff."
+      ],
+      "zh": [
+        "BCW 5, p. 85. 早在1913年，玻尔就谈到“旧电动力学与我论文中所使用的考虑之间最美丽的类比（analogi [sic]）”（BCW 2, pp. 584）。1922年他与赫夫丁讨论原子物理学中的类比问题（BCW 10, pp. 513–514），并在年底的诺贝尔演讲中再次转向这个问题（BCW 4, p. 482）。然而，只是在 BKS 理论失败之后，玻尔才开始把这些类比视为象征性的。见 Chevalley (1994), pp. 37ff."
+      ]
+    },
+    "ch18-n30": {
+      "number": "30",
+      "en": [
+        "See Pringe (2007), pp. 75ff."
+      ],
+      "zh": [
+        "参见 Pringe (2007), pp. 75ff."
+      ]
+    },
+    "ch18-n31": {
+      "number": "31",
+      "en": [
+        "Bohr (1958b), p. 3."
+      ],
+      "zh": [
+        "Bohr (1958b), p. 3."
+      ]
+    },
+    "ch18-n32": {
+      "number": "32",
+      "en": [
+        "Bohr (1937), p. 87."
+      ],
+      "zh": [
+        "Bohr (1937), p. 87."
+      ]
+    },
+    "ch18-n33": {
+      "number": "33",
+      "en": [
+        "“Strictly speaking, the idea of observation belongs to the causal spatio-temporal way of description.” Bohr (1927), p. 67."
+      ],
+      "zh": [
+        "“严格说来，观察的观念属于因果的时空描述方式。”Bohr (1927), p. 67."
+      ]
+    },
+    "ch18-n34": {
+      "number": "34",
+      "en": [
+        "“[T]he union of [the space-time co-ordination and the claim of causality] characterizes the classical theories.” Bohr (1927), p. 54."
+      ],
+      "zh": [
+        "“[时空协调与因果性要求]的结合刻画了经典理论。”Bohr (1927), p. 54."
+      ]
+    },
+    "ch18-n35": {
+      "number": "35",
+      "en": [
+        "Bohr (1949), p. 39."
+      ],
+      "zh": [
+        "Bohr (1949), p. 39."
+      ]
+    },
+    "ch18-n36": {
+      "number": "36",
+      "en": [
+        "Bohr (1956), p. 167."
+      ],
+      "zh": [
+        "Bohr (1956), p. 167."
+      ]
+    },
+    "ch18-n37": {
+      "number": "37",
+      "en": [
+        "Bohr (1949), p. 40."
+      ],
+      "zh": [
+        "Bohr (1949), p. 40."
+      ]
+    },
+    "ch18-n38": {
+      "number": "38",
+      "en": [
+        "Bohr (1927), p. 69."
+      ],
+      "zh": [
+        "Bohr (1927), p. 69."
+      ]
+    },
+    "ch18-n39": {
+      "number": "39",
+      "en": [
+        "Heisenberg (1930), p. 7. Our translation."
+      ],
+      "zh": [
+        "Heisenberg (1930), p. 7. 我们的译文。"
+      ]
+    },
+    "ch18-n40": {
+      "number": "40",
+      "en": [
+        "Bohr (1929), p. 16."
+      ],
+      "zh": [
+        "Bohr (1929), p. 16."
+      ]
+    },
+    "ch18-n41": {
+      "number": "41",
+      "en": [
+        "Bohr (1927), pp. 54–55."
+      ],
+      "zh": [
+        "Bohr (1927), pp. 54–55."
+      ]
+    },
+    "ch18-n42": {
+      "number": "42",
+      "en": [
+        "Precisely for this reason, objective reality is accorded to the category by means of symbols."
+      ],
+      "zh": [
+        "恰恰因此，客观实在性通过象征而被赋予该范畴。"
+      ]
+    },
+    "ch18-n43": {
+      "number": "43",
+      "en": [
+        "Heisenberg (1930), p. 78. Our translation."
+      ],
+      "zh": [
+        "Heisenberg (1930), p. 78. 我们的译文。"
+      ]
+    },
+    "ch18-n44": {
+      "number": "44",
+      "en": [
+        "Cartwright (1999)."
+      ],
+      "zh": [
+        "Cartwright (1999)."
+      ]
+    }
+  }
+}

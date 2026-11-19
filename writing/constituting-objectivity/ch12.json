@@ -1,0 +1,1481 @@
+{
+  "id": "ch12",
+  "title": "最小作用量原理能被视为一种相对化的先天吗？",
+  "originalTitle": "Can the Principle of Least Action Be Considered a Relativized A Priori?",
+  "outline": [
+    {
+      "anchor": "ch12-u010",
+      "title": "1 最小作用量原理一瞥",
+      "originalTitle": "1 The PLA in a Nutshell",
+      "level": 1
+    },
+    {
+      "anchor": "ch12-u016",
+      "title": "2 理性的动力学",
+      "originalTitle": "2 The Dynamics of Reason",
+      "level": 1
+    },
+    {
+      "anchor": "ch12-u028",
+      "title": "3 马克斯·普朗克论原理与常数",
+      "originalTitle": "3 Max Planck on Principles and Constants",
+      "level": 1
+    },
+    {
+      "anchor": "ch12-u041",
+      "title": "4 大卫·希尔伯特与作为公理化方法核心的 PLA",
+      "originalTitle": "4 David Hilbert and the PLA as Core of the Axiomatic Method",
+      "level": 1
+    },
+    {
+      "anchor": "ch12-u053",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch12-u001",
+      "source_ids": [
+        "ch12-u001"
+      ],
+      "page": "215",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch12-u002",
+      "source_ids": [
+        "ch12-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Michael Stöltzner"
+      ],
+      "zh": [
+        "米夏埃尔·施特尔茨纳"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch12-u003",
+      "source_ids": [
+        "ch12-u003"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract Hardly another principle of classical physics has to a larger extent nourished hopes into a universal theory and has simultaneously been plagued by mathematical counterexamples than the Principle of Least Action (PLA). I investigate whether the PLA can be interpreted as a historically relativized constitutive a priori principle of mathematical physics along the lines Michael Friedman has drawn in Dynamics of Reason , using the example of relativity theory. Such an interpretation suggests itself, historically, because two main advocates of the PLA, Max Planck and David Hilbert, considered relativity theory as a case in point for the PLA. But they were also aware of the mathematical pitfalls and that without physical specification the PLA only represented an empty form. I argue that the different levels required for a consistent application of the PLA in mathematical physics induce a stratification that bears close parallels to the one by which Friedman intends to overcome the joint challenges of epistemological holism and a relativist reading of Kuhnian incommensurability. Yet, two differences remain. First, the mathe matical and physical levels of the PLA are more intertwined than in Friedman’s case. Second, although the PLA has survived quite a few scientific revolutions, so has the formulation of physical theories in terms of differential equations."
+      ],
+      "zh": [
+        "摘要 经典物理学中，几乎没有哪条原理比最小作用量原理（PLA）更能激发建立普适理论的希望，同时又遭遇如此多的数学反例。我以相对论为例，考察能否循迈克尔·弗里德曼在《理性的动力学》中提出的思路，把最小作用量原理解释为数学物理学的一条历史上相对化的构成性先天原理。从历史上看，这种解释是顺理成章的，因为最小作用量原理的两位主要倡导者——马克斯·普朗克与大卫·希尔伯特——都把相对论视为该原理的一个恰当例证。但他们也意识到其中的数学陷阱，并意识到若无物理上的具体规定，最小作用量原理只是一个空洞的形式。我论证：要在数学物理学中一致地运用最小作用量原理所需的各个不同层面，引出了一种分层，它与弗里德曼用来克服认识论整体论和库恩式不可通约性的相对主义解读这两重挑战的分层极为相似。然而仍有两点差异。第一，最小作用量原理的数学层面与物理层面比弗里德曼的情形更加交织。第二，尽管最小作用量原理经历了相当多的科学革命而幸存，用微分方程表述物理理论的做法也同样幸存了下来。"
+      ],
+      "units": 209
+    },
+    {
+      "id": "ch12-u004",
+      "source_ids": [
+        "ch12-u004"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "M. Stöltzner Department of Philosophy, University of South Carolina, Columbia, SC 29208, USA e-mail: stoeltzn@sc.edu"
+      ],
+      "zh": [
+        "M. Stöltzner Department of Philosophy, University of South Carolina, Columbia, SC 29208, USA e-mail: stoeltzn@sc.edu"
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch12-u005",
+      "source_ids": [
+        "ch12-u005"
+      ],
+      "page": "216",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If one wants to embark on a Kantian analysis of the Principle of Least Action (henceforth PLA), there are basically two routes. First, one may focus on the formal teleology the PLA has often been associated with and interpret the PLA in the perspective of the Critique of Judgment as a regulative principle of reflective judgment. Along this line, as I have argued elsewhere (Stöltzner, 2000, 2005), the distinctive features of the PLA are: (i) its globality as compared to the local differential equations; (ii) the systemic modal structure of the actual dynamics and the possible dynamics that are set up in order to obtain a mathematically well-defined extremal principle. The strength of a formal-teleological surplus of the PLA over the standard formulation in terms of differential equations crucially hinges on mathematical subtleties and the concept of causal explanation assumed, rather than express a metaphysical harmony of the world."
+      ],
+      "zh": [
+        "如果要对最小作用量原理（以下简称 PLA）展开康德式分析，基本上有两条路线。第一，可以聚焦于 PLA 常被与之关联的形式目的论，从《判断力批判》的视角把 PLA 解释为反思性判断力的一条调节性原理。沿着这条路线，正如我在别处论证的（Stöltzner, 2000, 2005），PLA 的独特特征是：(i) 与局域微分方程相比的全局性；(ii) 实际动力学同各种可能动力学组成的系统性模态结构，后者是为取得数学上确有定义的极值原理而设定的。与标准的微分方程表述相比，PLA 多出了形式目的论这一层含义。它究竟有多强，关键取决于数学上的细节和所采纳的因果解释观，因此不能据此断言世界存在某种形而上学的和谐。"
+      ],
+      "units": 149
+    },
+    {
+      "id": "ch12-u006",
+      "source_ids": [
+        "ch12-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Second, one may focus on the PLA’s role as a mathematical principle that, after appropriate specification, permits one to succinctly formulate physical theories as different as classical mechanics, electrodynamics, relativity theory, and quantum physics. Taken in its abstract generality, the PLA has survived many vicissitudes of the scientific world-view and the minor or major revolutions in physical theory. This suggests viewing the PLA as a historically relativized constitutive a priori principle in the sense recently advocated by Michael Friedman (2001). Such is the line taken by the present paper. Friedman’s conception of the dynamics of reason reaches back to the interpretation of the Kantian categories of space and time outlined in Hans Reichenbach’s (1920) early analysis of the theory of relativity and, thus, to neo-Kantian debates about a modernization of the Critique of Pure Reason in the face of twentieth century physics."
+      ],
+      "zh": [
+        "第二，可以聚焦于 PLA 作为一条数学原理的作用：经过适当的具体规定后，它允许人们以简洁的方式表述经典力学、电动力学、相对论和量子物理学这样各不相同的物理理论。就其抽象的普遍性而言，PLA 经历了科学世界观的诸多变迁和物理理论中大大小小的革命而幸存。这提示我们把 PLA 视为迈克尔·弗里德曼（2001）最近倡导的那种历史上相对化的构成性先天原理。本文采取的就是这条路线。弗里德曼的理性动力学构想可以追溯到汉斯·赖欣巴赫（1920）对相对论的早期分析中所勾画的康德时空范畴解释，从而追溯到面对二十世纪物理学时关于《纯粹理性批判》现代化的新康德主义争论。"
+      ],
+      "units": 142
+    },
+    {
+      "id": "ch12-u007",
+      "source_ids": [
+        "ch12-u007"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Both assessments of the PLA do not necessarily contradict one another. On the one hand, the Marburg neo-Kantians, most prominently Ernst Cassirer, considered the Kantian categories not as constitutive but as regulative principles precisely to allow for a historical evolution of the basic principles of science in which the a priori appeared as an absolute – not historically relativized – invariant attained only in the ideal limit of the scientific enterprise as a whole. On the other hand, in the case of a mathematical principle applied to physics, the regulative principle of formal teleology represents a norm imposed on the mathematical architecture of a physical theory. If the PLA incorporating this formal teleology acts as the core mathematical axiom of a physical theory so conceived, it may thus be considered as constitutive for the particular natural laws – the mathematical models – derived from this axiom system. In a historical perspective, one might perhaps say that the first approach departs from Kant’s critical analysis of the debates on physical teleology and natural theology that surrounded the birth of the PLA in the eighteenth century, while the second is associated with two important debates in the second half of the nineteenth century. Hermann von Helmholtz not only successfully applied the PLA beyond the narrower context of mechanics, thus bringing about its renaissance among his fellow physicists, but he also gave the ‘return to Kant’ prevailing within the German philosophical community an influential scientific twist."
+      ],
+      "zh": [
+        "对 PLA 的这两种评估并不必然相互矛盾。一方面，马堡新康德主义者——最突出的是恩斯特·卡西尔——恰恰把康德范畴视为调节性而非构成性原理，以便允许科学基本原理的历史演化，其中先天表现为一种绝对的——非历史相对化的——不变者，只在科学事业整体的理想极限中达到。另一方面，就一条应用于物理学的数学原理而言，形式目的论的调节性原理代表施加于物理理论之数学架构上的一条规范。如果体现这种形式目的论的 PLA 充当如此构想的物理理论的核心数学公理，那么它就可以被视为对从这个公理系统推导出的特殊自然规律——数学模型——具有构成性。从历史视角看，也许可以说第一条进路出发于康德对十八世纪围绕 PLA 诞生而展开的物理目的论与自然神学争论的批判分析，而第二条进路则与十九世纪下半叶的两场重要争论相关联。赫尔曼·冯·亥姆霍兹不仅成功地把 PLA 应用于力学较窄语境之外，从而促成它在物理学同行中的复兴，而且还让德国哲学界流行的“回到康德”转向科学，并产生了深远影响。"
+      ],
+      "units": 239
+    },
+    {
+      "id": "ch12-u008",
+      "source_ids": [
+        "ch12-u008"
+      ],
+      "page": "217",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Helmholtz’s scientific achievements prompted the question whether the PLA represented “a valuable heuristic principle and leitmotif in striving for a formulation of the laws of new classes of phenomena” (1886, p. 210) or whether it was it just – as Ernst Mach held – a more economical reformulation of the same facts and thus “new only in form and not in matter” (1989, p. 452) Through the mathematical investigations of Karl Weierstraß and David Hilbert, it became clear that any surplus of the PLA over the differential equations required mathematical precision rather than strong metaphysical commitments. Nonetheless, Logical Empiricists largely sided with Mach, while Max Planck and Hilbert firmly believed in the significance of the PLA for a unified conception of physics. Even more so, Planck and Hilbert’s emphatic pronouncement played an important role in making the PLA a shibboleth for Logical Empiricists (Stöltzner, 2003). This basic disagreement makes the PLA an interesting test case as to whether the Logical Empiricist conception of constitutive principles in natural science, which basically takes them as part of pragmatics, needs to be revised in the direction outlined by Friedman, in particular if one wants to understand the progress of modern mathematical physics."
+      ],
+      "zh": [
+        "亥姆霍兹的科学成就引出了这样的问题：PLA 究竟是“在争取表述新现象类规律的努力中一条有价值的启发式原理和主导动机”（1886, p. 210），还是仅仅像恩斯特·马赫所认为的那样，是对同样事实的更经济的重新表述，因而“只在形式上而非内容上是新的”（1989, p. 452）？通过卡尔·魏尔斯特拉斯与大卫·希尔伯特的数学研究，人们清楚了：PLA 相对于微分方程的任何盈余都需要的是数学上的精确性，而不是强的形而上学承诺。尽管如此，逻辑经验论者大体站在马赫一边，而马克斯·普朗克与希尔伯特则坚信 PLA 对物理学统一构想的意义。更有甚者，普朗克与希尔伯特如此鲜明的表态，很大程度上使 PLA 成了辨别逻辑经验论者立场的标志（Stöltzner, 2003）。这一根本分歧使 PLA 成为一个有趣的检验案例：逻辑经验论把自然科学中的构成性原理基本上视为语用学的一部分，这种构想是否需要按弗里德曼勾画的方向修正，尤其是当人们想要理解现代数学物理学的进步时。"
+      ],
+      "units": 197
+    },
+    {
+      "id": "ch12-u009",
+      "source_ids": [
+        "ch12-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "After a brief characterization of the PLA and a rehearsal of Friedman’s approach, I study Planck and Hilbert’s interpretations of the PLA. Although both are in many respects water on Friedman’s mills – and stand in historical vicinity to his primary example general relativity –, two major problems remain. First, the mathematical and physical levels of the PLA are more intertwined than Friedman assumes, and what counts as ‘natural’ or ‘deep’ according to the respective standards does not always coincide. Second, although the PLA has survived quite a few scientific revolutions, so has the formulation of physical theories in terms of differential equations. Hence, there have always been two different lines of constitutive principles that show little sign of convergence despite the fact that in many cases both formulations yield physically equivalent results."
+      ],
+      "zh": [
+        "在简要刻画 PLA 并回顾弗里德曼的进路之后，我将考察普朗克与希尔伯特对 PLA 的解释。尽管两者在许多方面都支持弗里德曼的立场——并且与他的首要例子广义相对论在历史上相近——但仍有两个主要问题。第一，PLA 的数学层面与物理层面比弗里德曼假定的更加交织，按各自标准算作“自然的”或“深刻的”东西并不总是一致。第二，尽管 PLA 经历了相当多的科学革命而幸存，用微分方程表述物理理论的做法也同样幸存。因此，始终存在两条不同的构成性原理路线，尽管在许多情形中两种表述给出物理上等价的结果，它们却几乎没有会聚的迹象。"
+      ],
+      "units": 131
+    },
+    {
+      "id": "ch12-u010",
+      "source_ids": [
+        "ch12-u010"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 The PLA in a Nutshell"
+      ],
+      "zh": [
+        "1 最小作用量原理一瞥"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch12-u011",
+      "source_ids": [
+        "ch12-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For the purpose of the present paper, I understand the PLA as an umbrella term for all integral variational principles in theoretical physics, among them Hamilton’s and Maupertuis’ principles. Mathematicians treat all those principles within the discipline of variational calculus and speak of a variational problem rather than the PLA. In an abstract sense the PLA states that the actual dynamics u yields an extremal value of the action functional W[u] in comparison to all possible dynamics (u + δu) ∈ ",
+        {
+          "type": "math",
+          "tex": "M_u",
+          "display": false
+        },
+        ", where δ denotes the variation of a quantity, u + δu the varied dynamics, and ",
+        {
+          "type": "math",
+          "tex": "M_u",
+          "display": false
+        },
+        " a function space that includes both the actual and all possible dynamics. W[u] is the integral of the Lagrangian L that incorporates the physics contained in the PLA. Since the PLA is an integral principle, the boundary conditions must be specified in order to arrive at a mathematically well-defined variational problem."
+      ],
+      "zh": [
+        "就本文的目的而言，我把 PLA 理解为理论物理学中一切积分变分原理的总称，其中包括哈密顿原理与莫佩尔蒂原理。数学家在变分法这门学科内处理所有这些原理，并且说的是变分问题而不是 PLA。在抽象意义上，PLA 断言：与一切可能动力学 (u + δu) ∈ ",
+        {
+          "type": "math",
+          "tex": "M_u",
+          "display": false
+        },
+        " 相比，现实动力学 u 使作用量泛函 W[u] 取极值，其中 δ 表示一个量的变分，u + δu 表示变动后的动力学，",
+        {
+          "type": "math",
+          "tex": "M_u",
+          "display": false
+        },
+        " 是既包含现实动力学也包含一切可能动力学的函数空间。W[u] 是拉格朗日量 L 的积分，L 体现了 PLA 所包含的物理内容。由于 PLA 是一条积分原理，必须指定边界条件才能得到数学上定义良好的变分问题。"
+      ],
+      "units": 150
+    },
+    {
+      "id": "ch12-u012",
+      "source_ids": [
+        "ch12-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In classical mechanics, L is the difference of kinetic and potential energy, the PLA reads"
+      ],
+      "zh": [
+        "在经典力学中，L 是动能与势能之差，最小作用量原理写作"
+      ],
+      "units": 15
+    },
+    {
+      "id": "ch12-u013",
+      "source_ids": [
+        "ch12-u013",
+        "ch12-u055"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "W = \\int_a^b L(t,u(t),\\dot u(t))\\,\\mathrm{d}t = \\mathrm{Extr.}!",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "W = \\int_a^b L(t,u(t),\\dot u(t))\\,\\mathrm{d}t = \\mathrm{Extr.}!",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch12-u015",
+      "source_ids": [
+        "ch12-u015"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "with ",
+        {
+          "type": "math",
+          "tex": "\\delta u,\\delta\\dot u = 0",
+          "display": false
+        },
+        " at the boundary, and ",
+        {
+          "type": "math",
+          "tex": "u",
+          "display": false
+        },
+        " belongs to a class of admitted solutions ",
+        {
+          "type": "math",
+          "tex": "M",
+          "display": false
+        },
+        " (",
+        {
+          "type": "math",
+          "tex": "= C^2, PC^1,\\ldots",
+          "display": false
+        },
+        ") of the variational problem."
+      ],
+      "zh": [
+        "其中在边界上 ",
+        {
+          "type": "math",
+          "tex": "\\delta u,\\delta\\dot u = 0",
+          "display": false
+        },
+        "，而 ",
+        {
+          "type": "math",
+          "tex": "u",
+          "display": false
+        },
+        " 属于变分问题的一类容许解 ",
+        {
+          "type": "math",
+          "tex": "M",
+          "display": false
+        },
+        "（",
+        {
+          "type": "math",
+          "tex": "= C^2, PC^1,\\ldots",
+          "display": false
+        },
+        "）。"
+      ],
+      "units": 29
+    },
+    {
+      "id": "ch12-u056",
+      "source_ids": [
+        "ch12-u056"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Variation leads to the Euler-Lagrange equations,"
+      ],
+      "zh": [
+        "变分导出欧拉–拉格朗日方程，"
+      ],
+      "units": 6
+    },
+    {
+      "id": "ch12-u057",
+      "source_ids": [
+        "ch12-u057"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\frac{\\mathrm d}{\\mathrm dt}\\frac{\\partial}{\\partial\\dot u}L(t,u(t),\\dot u(t))-\\frac{\\partial}{\\partial u}L(t,u(t),\\dot u(t))=0",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\frac{\\mathrm d}{\\mathrm dt}\\frac{\\partial}{\\partial\\dot u}L(t,u(t),\\dot u(t))-\\frac{\\partial}{\\partial u}L(t,u(t),\\dot u(t))=0",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 29
+    },
+    {
+      "id": "ch12-u014",
+      "source_ids": [
+        "ch12-u014"
+      ],
+      "page": "218",
+      "canonical_kind": "paragraph",
+      "en": [
+        "which typically – but not always – correspond to the standard equations of motion. But they are only a necessary condition for the variational problem. Other necessary conditions include the continuity properties of u, the form of the constraints imposed on the system, and that there are no (conjugate) points between a and b through which all (u + δu) ∈ Mu have to pass. To find sufficient conditions has been a most difficult task. The first one was obtained only by Weierstraß, and Hilbert’s main achievements in variational calculus lay precisely in this domain. Roughly speaking, sufficient conditions correspond to embedding the extremals into a suitable field of extremals (Mayer fields). This embedding expresses the above-mentioned global features of the PLA; and if a sufficient condition is fulfilled, the PLA represents a stronger claim than the corresponding differential equations."
+      ],
+      "zh": [
+        "它们通常——但不总是——对应于标准的运动方程。但它们只是变分问题的必要条件。其他必要条件包括 u 的连续性性质、施加于系统的约束的形式，以及在 a 与 b 之间不存在一切 (u + δu) ∈ Mu 都必须通过的（共轭）点。寻找充分条件一直是一项极其困难的任务。直到魏尔斯特拉斯才有人求得第一个充分条件，而希尔伯特在变分法中的主要成就恰恰在这个领域。粗略地说，充分条件对应于把极值曲线嵌入一个合适的极值曲线场（迈耶场）。这种嵌入表达了上述 PLA 的全局特征；如果一个充分条件得到满足，PLA 就代表比相应微分方程更强的断言。"
+      ],
+      "units": 136
+    },
+    {
+      "id": "ch12-u016",
+      "source_ids": [
+        "ch12-u016"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 The Dynamics of Reason"
+      ],
+      "zh": [
+        "2 理性的动力学"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch12-u017",
+      "source_ids": [
+        "ch12-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Friedman’s overall intention is to develop a modified Kantian epistemology that successfully answers the combined challenges of W.V. Quine’s epistemological holism and the prevailing relativist readings of Thomas S. Kuhn’s theory of scientific revolutions. Friedman’s analysis departs from diagnosing a far-reaching resemblance between Rudolf Carnap’s (1950) linguistic frameworks and Kuhn’s (1962) scientific paradigms. For, both frameworks and paradigms provide the basic concepts and rules under which science is ‘normally’ performed and define a standard of scientific rationality. The transitions between different frameworks or paradigms that characterize scientific revolutions cannot be assessed in this way, even though the later framework typically permits one to reconstruct the pre-revolutionary paradigm as a limit case and justify the revolution as rational. But this retrospective reconstruction fails to reflect the historical situation before the revolution, when the new concepts to come were still unavailable to science. Instrumentalistically-minded practitioners may well use bits and pieces of a new paradigm as a black-box device for making predictions, however without ascribing to it explanatory value. Predictive success alone, however, cannot motivate shifting badly understood or even ill-defined concepts into the core of a new paradigm or positing them as the axioms of a new linguistic framework, let alone overcome the problem of Kuhnian incommensurability."
+      ],
+      "zh": [
+        "弗里德曼的总体意图是发展一种修正的康德式认识论，成功回应蒯因的认识论整体论与对托马斯·库恩科学革命理论的主流相对主义解读这两重挑战。弗里德曼的分析从诊断鲁道夫·卡尔纳普（1950）的语言框架与库恩（1962）的科学范式之间的深远相似性出发。因为框架与范式都提供科学“常规地”进行所依据的基本概念和规则，并定义科学合理性的标准。标志科学革命的不同框架或范式之间的过渡不能以这种方式评估，尽管后来的框架通常允许人们把革命前的范式重构为一个极限情形，并把革命辩护为合理的。但这种回溯性重构未能反映革命前的历史处境，当时即将到来的新概念对科学尚不可用。秉持工具主义立场的研究者尽可以把新范式的零碎片段当作预言的黑箱装置来使用，却不赋予它解释价值。然而，单凭预言上的成功，并不能促使人们把理解得很差甚至定义不良的概念移入新范式的核心，或把它们设定为新语言框架的公理，更不用说克服库恩式不可通约性问题了。"
+      ],
+      "units": 207
+    },
+    {
+      "id": "ch12-u018",
+      "source_ids": [
+        "ch12-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The only remedy, Friedman argues, is to understand the scientific enterprise not as a succession of radically distinct speech communities but as “a common tradition of cultural change” that contains “different evolutionary stages of a single language” (2001, p. 60). This single language does not correspond to a single all-encompassing Carnapian framework, but contains stratifications that allow for communication across and transition between different frameworks or paradigms and render the new paradigm a real possibility already before the revolution. This “is already more than half the battle” (ibid. p. 103)."
+      ],
+      "zh": [
+        "弗里德曼论证，唯一的补救是把科学事业理解为“一个文化变迁的共同传统”，它包含“单一语言的不同演化阶段”（2001, p. 60），而不是根本不同的言语共同体的接续。这单一语言并不对应一个包罗万象的卡尔纳普式框架，而是包含一些分层，允许不同框架或范式之间的交流与过渡，并使新范式在革命之前就已经是一种现实的可能性。这“就已经解决了大半难题”（同上，p. 103）。"
+      ],
+      "units": 90
+    },
+    {
+      "id": "ch12-u019",
+      "source_ids": [
+        "ch12-u019"
+      ],
+      "page": "219",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Friedman’s dynamics of reason involves three different strata: (i) empirical laws properly so-called; (ii) a set of constitutive a priori principles that (a) render these laws meaningful as mathematical entities and (b) relate these mathematical entities to possible empirical circumstances by coordinative definitions; (iii) philosophical meta-principles or meta-paradigms that serve as a guidance “in motivating and sustaining the transition from one paradigm or conceptual framework to another” (ibid., p. 46). How the first two strata relate in detail can best be seen at the examples of Newtonian mechanics, relativistic electrodynamics, and general relativity, while other disciplines are still lacking the degree of mathematization presupposed in Friedman’s conception."
+      ],
+      "zh": [
+        "弗里德曼的理性动力学涉及三个不同的层：(i) 严格意义上的经验规律；(ii) 一组构成性先天原理，它们 (a) 使这些规律作为数学实体有意义，并且 (b) 通过协调定义把这些数学实体与可能的经验情境联系起来；(iii) 哲学元原理或元范式，它们在“激励和维持从一个范式或概念框架向另一个的过渡”中起引导作用（同上，p. 46）。前两层如何具体关联，最好从牛顿力学、相对论性电动力学和广义相对论的例子来看，而其他学科仍缺乏弗里德曼构想所预设的数学化程度。"
+      ],
+      "units": 107
+    },
+    {
+      "id": "ch12-u023",
+      "source_ids": [
+        "ch12-u023"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[A]dvanced theories in mathematical physics … should be viewed as consisting of two asymmetrically functioning parts: a properly empirical part containing laws such as universal gravitation, Maxwell’s equations of electromagnetism, or Einstein’s equations for the gravitational field; and a constitutively a priori part containing both the relevant mathematical principles used in formulating the theory (Euclidean geometry, the geometry of Minkowski space—time, the Riemannian theory of manifolds) and certain particularly fundamental physical principles (the Newtonian laws of motion, the light principle, the equivalence principle) (ibid., p. 71)."
+      ],
+      "zh": [
+        "数学物理学中的成熟理论……应被视为由两个功能不对称的部分组成：一个真正的经验部分，包含万有引力、麦克斯韦电磁方程组或爱因斯坦引力场方程这样的规律；以及一个构成性地先天的部分，既包含表述理论所用的相关数学原理（欧几里得几何、闵可夫斯基时空几何、黎曼流形理论），也包含某些特别基本的物理原理（牛顿运动定律、光速原理、等效原理）（同上，p. 71）。"
+      ],
+      "type": "quote",
+      "units": 87
+    },
+    {
+      "id": "ch12-u020",
+      "source_ids": [
+        "ch12-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Mathematical concepts are, for one, a condition of the possibility of physical theories, e.g., by allowing one to represent space-time in terms of Riemannian manifolds. But additionally pure mathematics has the remarkable property that across revolutions it usually tends to preserve the earlier concepts as a special case, such that in retrospect the new concepts appear as extensions or generalizations of the earlier ones. Euclidean geometry is, for instance, simply a Riemannian geometry with zero curvature. “Revolutionary transitions within pure mathematics, then, have the striking property of continuously (and, as it were, monotonically) preserving … retrospective communicative rationality” (ibid., p. 96). But mathematics alone cannot mediate across revolutions in physical science because the very same mathematical structures may be used to conceptualize incommensurable theories. Riemannian manifolds, for instance, are the mathematical basis of general relativity, but supplemented with a different set of coordinating principles they allow a mathematically elegant, albeit non-standard, reformulation of Newtonian mechanics."
+      ],
+      "zh": [
+        "数学概念一方面是物理理论之可能性的条件，例如允许人们用黎曼流形表象时空。但此外，纯粹数学有一个显著特性：跨越革命，它通常倾向于把较早的概念作为特例保留下来，使得回溯地看，新概念表现为较早概念的扩展或推广。例如，欧几里得几何不过是曲率为零的黎曼几何。“于是，纯粹数学内部的革命性过渡具有一个引人注目的特性：连续地（并且可以说单调地）保存……回溯的交流合理性”（同上，p. 96）。但单靠数学不能跨越物理科学的革命进行调解，因为完全相同的数学结构可以被用来概念化不可通约的理论。例如，黎曼流形是广义相对论的数学基础，但配上一组不同的协调原理，它们就允许对牛顿力学作一种数学上优雅尽管非标准的重新表述。"
+      ],
+      "units": 155
+    },
+    {
+      "id": "ch12-u021",
+      "source_ids": [
+        "ch12-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is the coordinative principles through which the formulas of mathematical physics acquire an empirical meaning. These principles cannot be tested in the usual sense because they are constitutive for those specific empirical laws that face the tribunal of experience. But they do have empirical content and are revisable in the course of history, although a scientific revolution is needed to unseat a well-established coordinative principle because of the failure of the particular laws constituted by it. The examples of the Michelson-Morley and the Eötvös experiment show that coordinative principles, such as the light principle and the principle of equivalence, often emerge out of well-corroborated empirical facts. But in elevating them to a constitutive a priori principle, “an essentially non-empirical element of ‘convention’ or ‘decision’ must necessarily intervene” (ibid., p. 91). Once the new paradigm is established and the old laws are reformulated in terms of it, the decision between the old and the new may appear as a plainly empirical fact."
+      ],
+      "zh": [
+        "正是通过协调原理，数学物理学的公式获得经验意义。这些原理不能在通常意义上被检验，因为它们对那面对经验法庭的特定经验规律具有构成性。但它们确实有经验内容，并且在历史进程中是可修正的，不过，如果想因为某条协调原理所构成的具体规律失效而推翻这条久已确立的原理，就需要一场科学革命。迈克耳孙–莫雷实验与厄缶实验的例子表明，协调原理（如光速原理与等效原理）往往从得到充分佐证的经验事实中产生。但在把它们提升为构成性先天原理时，“一个本质上非经验的‘约定’或‘决定’要素必然要介入”（同上，p. 91）。一旦新范式确立、旧规律用它重新表述，新旧之间的抉择就可能显得是一个纯然经验的事实。"
+      ],
+      "units": 162
+    },
+    {
+      "id": "ch12-u022",
+      "source_ids": [
+        "ch12-u022"
+      ],
+      "page": "220",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The purely mathematical and the coordinative constitutive a priori principles, accordingly, not only define a space of logical and empirical possibility for physical science, but in virtue of their internal dynamics and mutual relationship they also suggest what counts as reason or justification for any such possibility. But even if a transformation can be justified retrospectively, the question remains how the new paradigm can at all develop from within the pre-revolutionary framework. Here the philosophical principles play a decisive role because they smoothen out the revolutionary transitions prospectively. To allow for a rational transition despite a Kuhnian incommensurability at the manifest level of the language spoken by the practitioners (cf. 101), Friedman requires"
+      ],
+      "zh": [
+        "因此，纯数学的与协调的构成性先天原理不仅为物理科学定义了一个逻辑可能与经验可能的空间，而且凭借其内在动力学和相互关系，它们还提示了什么算作任何这种可能性的理由或辩护。但即使一个转变能被回溯地辩护，问题仍然是：新范式究竟如何能从革命前的框架内部发展出来。在这里哲学原理起决定性作用，因为它们能在科学革命发生前为范式过渡铺路。尽管研究者所使用的语言在显性层面存在库恩式不可通约性（参见 p. 101），弗里德曼仍认为可以有合理的过渡，条件是"
+      ],
+      "units": 113
+    },
+    {
+      "id": "ch12-u027",
+      "source_ids": [
+        "ch12-u027"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "first, that the new conceptual framework or paradigm should contain the previous constitutive framework as an approximate limiting case …; second that the new constitutive principles should also evolve continuously out of the old constitutive principles, by a series of natural transformations; and third, that this process of continuous conceptual transformation should be motivated and sustained by an appropriate new philosophical framework, which, in particular, interacts productively with both older philosophical meta-frameworks and new developments taking place in the sciences themselves. This new philosophical meta-framework thereby helps to define what we mean, at this point, by a natural, reasonable, or responsible conceptual transformation (ibid., p. 66)."
+      ],
+      "zh": [
+        "第一，新的概念框架或范式应把先前的构成性框架作为近似的极限情形包含在内……；第二，新的构成性原理也应通过一系列自然的转变从旧的构成性原理连续地演化出来；第三，这种连续的概念转变过程应由一个适当的新哲学框架来激励和维持，该框架尤其要与较旧的哲学元框架以及科学本身中发生的新发展富有成效地互动。这个新的哲学元框架由此帮助定义我们在此刻所谓自然的、合理的或负责任的概念转变是什么意思（同上，p. 66）。"
+      ],
+      "type": "quote",
+      "units": 105
+    },
+    {
+      "id": "ch12-u024",
+      "source_ids": [
+        "ch12-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Moreover, philosophy provides “a new source of ideas, alternative programs, and expanded possibilities.(ibid., p. 25)”. Philosophy can fulfill both roles only if it does not limit itself to a mere logic of science that is always bound to a rigid conceptual framework. But then one may wonder how “a subject inevitably and permanently fraught with unresolved intellectual disagreements [can] possibly help us to achieve a new rational consensus.” But Friedman only requires: first, “that the new constitutive framework become a reasonable and responsible live option”; second, that there exists “a relatively stable consensus on what are the important contributions to the debate”; third, that “characteristically philosophical reflection interacts with properly scientific reflection in such a way that controversial and conceptually problematic philosophical themes become productively intertwined with relatively uncontroversial and unproblematic scientific accomplishments” (All ibid., p. 107)."
+      ],
+      "zh": [
+        "此外，哲学提供“新的观念来源、可供选择的纲领，以及范围更广的可能性”（同上，p. 25）。哲学只有不把自己局限于总是绑定于僵硬概念框架的单纯科学逻辑，才能同时履行这两种角色。但这时人们可能纳闷：“一个不可避免地、持久地充满未解决的思想分歧的学科［如何］可能帮助我们达成新的理性共识。”但弗里德曼只要求：第一，“新的构成性框架成为一个合理且负责任的现实选项”；第二，存在“关于哪些是对争论的重要贡献的相对稳定的共识”；第三，“典型地哲学性的反思与真正的科学反思以这样的方式互动：有争议的、概念上有问题的哲学主题与相对无争议、无问题的科学成就富有成效地交织在一起”（均见同上，p. 107）。"
+      ],
+      "units": 138
+    },
+    {
+      "id": "ch12-u025",
+      "source_ids": [
+        "ch12-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the case of special relativity theory, for instance, there was common agreement that Mach’s criticism of the Newtonian concept of absolute motion was pivotal and combined with other investigations about relative and inertial motions. Einstein succeeded in putting these insights together with “recently established empirical facts concerning the velocity of light in a striking and hitherto unexpected manner” (ibid., p. 108) because he had been familiar with late nineteenth century debates on the foundations of geometry and Poincaré’s conventionalist resolution of the problem how to determine the proper physical geometry. The same philosophical meta-principles also played an important, though somewhat different role, in general relativity that showed that even philosophical principles as deeply entrenched as space and time can undergo transitions."
+      ],
+      "zh": [
+        "例如在狭义相对论的情形中，人们普遍认同马赫对牛顿绝对运动概念的批判具有关键意义。这一批判与其他有关相对运动和惯性运动的研究结合了起来。爱因斯坦成功地把这些洞见与“最近确立的关于光速的经验事实以一种引人注目且迄今未曾预料的方式”结合起来（同上，p. 108），因为他熟悉十九世纪晚期关于几何学基础的争论，以及彭加勒对如何确定恰当物理几何这一问题的约定论解决方案。同样的哲学元原理在广义相对论中也起了重要但略有不同的作用，广义相对论表明：即使像空间与时间这样根深蒂固的哲学原理也能经历转变。"
+      ],
+      "units": 122
+    },
+    {
+      "id": "ch12-u026",
+      "source_ids": [
+        "ch12-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Friedman’s dynamics of reason also contains a global perspective. Putting together that, in virtue of the mathematical constitutive principles, transitions between different paradigms correspond to well-defined conceptual extensions and that the constitutive philosophical meta-principles provide the inter-paradigm transitions with a measure of naturalness, he argues “that we can thus view the evolution of succeeding paradigms or frameworks as a convergent series, as it were, in which we successively refine our constitutive principles in the direction of ever greater generality and adequacy” (ibid., p. 63). But “this is explicitly not convergence to an entirely independent ‘reality’ (however conceived) but rather convergence within the evolving sequence of constitutive frameworks itself” (ibid, p. 118), that is, ‘internal’ or Kant’s ‘empirical’ realism. For, any strong version of scientific realism presupposes a unique sequence of successor theories, which contradicts the obvious plurality of historical pathways."
+      ],
+      "zh": [
+        "弗里德曼的理性动力学还包含一个全局视角。把以下两点合在一起：凭借数学构成性原理，不同范式之间的过渡对应于定义良好的概念扩展；构成性的哲学元原理为范式间过渡提供一种自然性的度量——他论证“我们可以因此把相继范式或框架的演化视为一个收敛级数，在其中我们朝着越来越大的普遍性与恰当性方向相继精炼我们的构成性原理”（同上，p. 63）。但“这明确不是向一个完全独立的‘实在’（无论如何构想）的收敛，而是在演化着的构成性框架序列内部的收敛”（同上，p. 118），即“内在的”实在论或康德的“经验的”实在论。因为任何强版本的科学实在论都预设一个唯一的后继理论序列，这与历史路径的明显多样性相矛盾。"
+      ],
+      "units": 140
+    },
+    {
+      "id": "ch12-u028",
+      "source_ids": [
+        "ch12-u028"
+      ],
+      "page": "221",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Max Planck on Principles and Constants"
+      ],
+      "zh": [
+        "3 马克斯·普朗克论原理与常数"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch12-u029",
+      "source_ids": [
+        "ch12-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In 1915 Max Planck wrote an encyclopedia entry on the PLA. It opened emphatically."
+      ],
+      "zh": [
+        "1915 年，马克斯·普朗克为百科全书撰写了一个关于 PLA 的条目。它以强调的语气开篇。"
+      ],
+      "units": 14
+    },
+    {
+      "id": "ch12-u034",
+      "source_ids": [
+        "ch12-u034"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "As long as there exists physical science, its highest desirable goal had been the solution of the problem to integrate all natural phenomena observed and still to be observed into a single simple principle …. It is natural that this goal has not been reached to date, nor ever will it be reached entirely. [However,] … the history of theoretical physics demonstrates that … this ideal problem is not merely utopical, but eminently fertile … Among the more or less general laws which manifest the achievements of physical science in the course of the last centuries, the Principle of Least Action is probably the one which, as regards form and content, may claim to come nearest to that final ideal goal of theoretical research (1944, p. 68)."
+      ],
+      "zh": [
+        "只要存在物理科学，其最可欲的最高目标就一直是解决这样一个问题：把一切已观察到的和仍将观察到的自然现象整合进一条单一的简单原理……。这个目标迄今尚未达到、也永远不会完全达到，这是自然的。［然而，］……理论物理学的历史表明……这个理想问题并非纯粹乌托邦式的，而是极富成效的……在过去几个世纪彰显物理科学成就的那些或多或少普遍的规律中，最小作用量原理也许是就形式与内容而言最有权声称接近理论研究那个最终理想目标的一条（1944, p. 68）。"
+      ],
+      "type": "quote",
+      "units": 123
+    },
+    {
+      "id": "ch12-u030",
+      "source_ids": [
+        "ch12-u030"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Planck was well aware of the mathematical pitfalls. Only after a precise mathematical specification of the Lagrangian and of the conditions for the virtual displacements the PLA ceased to be “an empty form” (ibid., p. 70). Moreover, when emphasizing that the PLA did not reintroduce any material teleology into physics but was consistent with a causal explanation of all natural phenomena, Planck took a surprisingly instrumentalist tack and compared the reference to events at a later time in the PLA to calculations in which one keeps redundant variables in order to maintain the symmetry of the equations. In both cases, “[t]he question of their legitimacy has nothing to do with teleology, but it is merely a practical one” (ibid., p. 72). And Planck even provided examples how the PLA led science astray if interpreted as instance of a universal teleology."
+      ],
+      "zh": [
+        "普朗克对数学陷阱心知肚明。只有对拉格朗日量和虚位移条件作出精确的数学规定之后，PLA 才不再是“一个空洞的形式”（同上，p. 70）。此外，在强调 PLA 并没有把任何质料目的论重新引入物理学、而是与一切自然现象的因果解释相容时，普朗克采取了一种令人惊讶的工具主义立场，把 PLA 中对较晚时刻事件的指涉比作为了保持方程对称性而保留冗余变量的计算。在两种情形中，“它们的合法性问题与目的论毫无关系，而纯粹是一个实际计算中的问题”（同上，p. 72）。普朗克甚至给出了例子，说明若把 PLA 解释为普遍目的论的实例，它会如何把科学引入歧途。"
+      ],
+      "units": 141
+    },
+    {
+      "id": "ch12-u031",
+      "source_ids": [
+        "ch12-u031"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "“The fundamental importance of the Principle of Least Action became generally recognized only when it proved its applicability to such systems whose mechanism is either completely unknown or too complex to think of a reduction to ordinary coordinates” (ibid., p. 76). For, the PLA as an integral principle was independent of any choice of coordinates. Around 1910, Planck became increasingly convinced that his law of black-body radiation required a fundamental break with classical electrodynamics because the latter unavoidably yielded Jeans’s law, in blatant contradiction to everyday experience."
+      ],
+      "zh": [
+        "“最小作用量原理的根本重要性，只是当它证明了自己对这样一些系统的可适用性时才得到普遍承认：这些系统的机制要么完全未知，要么过于复杂而无法设想还原为通常的坐标”（同上，p. 76）。因为 PLA 作为积分原理独立于任何坐标选择。1910 年前后，普朗克越来越确信他的黑体辐射定律要求与经典电动力学根本决裂，因为后者不可避免地导出金斯定律，与日常经验公然矛盾。"
+      ],
+      "units": 87
+    },
+    {
+      "id": "ch12-u058",
+      "source_ids": [
+        "ch12-u058"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[O]ne will not for this purpose have to give up the Principle of Least Action, which has so strongly attested its universal significance, but the universal validity of the Hamiltonian differential equations; for those are derived from the Principle of Least Action under the assumption that all physical processes can be reduced to changes occurring continuously in time. Once radiation processes do no longer obey the Hamiltonian differential equations, the ground is cut from Jeans’s theory (1910, p. 239)."
+      ],
+      "zh": [
+        "为此人们不必放弃已如此有力地证明其普遍意义的最小作用量原理，而要放弃的是哈密顿微分方程的普遍有效性；因为那些方程是在一切物理过程都能还原为时间中连续发生的变化的假设下从最小作用量原理推导出来的。一旦辐射过程不再服从哈密顿微分方程，金斯理论的基础就被抽掉了（1910, p. 239）。"
+      ],
+      "type": "quote",
+      "units": 80
+    },
+    {
+      "id": "ch12-u032",
+      "source_ids": [
+        "ch12-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The PLA was not simply applicable to discontinuous functions as well, such functions had even been an important source of mathematical progress in variational calculus. The PLA was thus perfectly consistent with a different coordinative principle according to which atomic processes were quantized."
+      ],
+      "zh": [
+        "PLA 并非只适用于连续函数，它也同样适用于不连续函数。这类函数甚至一直是变分法数学进步的重要来源。因此 PLA 与另一条协调原理——按照它原子过程是量子化的——完全相容。",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "原文作 “was not simply applicable to discontinuous functions as well”，按下文对不连续函数的论述，读作“也适用于不连续函数”。"
+          ]
+        }
+      ],
+      "units": 43
+    },
+    {
+      "id": "ch12-u033",
+      "source_ids": [
+        "ch12-u033"
+      ],
+      "page": "222",
+      "canonical_kind": "paragraph",
+      "en": [
+        "That the PLA was deeper than a merely heuristic principle can also be seen at the fact that it matched what Planck considered as the most basic distinction in the physical world. There were, on the one hand, reversible processes governed by strictly causal dynamical laws. “All of them can be subsumed without difficulty under a single dynamical law, the Principle of Least Action” (ibid., p. 59). “In the realm of irreversible processes, however, the Principle of Least Action is no longer sufficient because the principle of entropy increase introduces an entirely novel element into the physical world view that is in itself extraneous to the action principle” (ibid., p. 11)."
+      ],
+      "zh": [
+        "PLA 比一条单纯启发式原理更深刻，这也可以从它与普朗克视为物理世界中最基本区分的东西相吻合这一事实看出。一方面，有受严格因果的动力学规律支配的可逆过程。“它们全都能毫无困难地归摄在一条单一的动力学规律之下，即最小作用量原理”（同上，p. 59）。“然而在不可逆过程的领域，最小作用量原理不再充分，因为熵增加原理把一个全新的要素引入物理世界观，这个要素本身对作用量原理是外在的”（同上，p. 11）。"
+      ],
+      "units": 111
+    },
+    {
+      "id": "ch12-u035",
+      "source_ids": [
+        "ch12-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Its pivotal status in the architecture of the physical world-view and the emphasis that the PLA represented a form to be completed by physical specifications suggest investigating whether Planck in effect treated the PLA as a relativized a priori in Friedman’s sense. Since he did not attribute much importance to the mathematical architecture involved, we have to look whether setting up a suitable PLA represented a coordinative a priori principle on a par with Newton’s laws or the principle of equivalence, while the respective Lagrangian corresponded to the empirical laws specific for each domain. Although the PLA had not developed out of well-known empirical facts, Planck had cited quantum discontinuity in its favor."
+      ],
+      "zh": [
+        "PLA 在物理世界观架构中的枢纽地位，以及普朗克所强调的这一点，即 PLA 是有待物理内容来充实的形式，提示我们考察普朗克是否实际上把 PLA 当作弗里德曼意义上的相对化先天来处理。既然他不认为所涉及的数学架构有多重要，我们就必须考察：建立一个合适的 PLA 是否代表一条与牛顿定律或等效原理并列的协调性先天原理，而相应的拉格朗日量则对应于各特定领域的经验规律。尽管 PLA 并不是从众所周知的经验事实中发展出来的，普朗克却曾援引量子不连续性来支持它。"
+      ],
+      "units": 113
+    },
+    {
+      "id": "ch12-u036",
+      "source_ids": [
+        "ch12-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The main test for relativized constitutive principles is how they behave ‘normally’ and in times of turmoil. Here Planck was pretty explicit. “[I]n all recent conflicts [between facts and theories] the great general physical principles held the field, namely, the principle of conservation of energy, the principle of conservation of momentum, the Principle of Least Action, the main laws of thermodynamics” (ibid., p. 44), while well-accustomed intuitive foundations had to give way, among them the immutability of chemical atoms, the independence of space and time, and the continuity of all dynamical effects in nature. This insight was part of a general tendency of simultaneous de-anthropomorphization and unification that Planck diagnosed within modern physics. Moreover, our present picture already contained certain traits that most likely would remain constant forever. “This constancy … is that which we now call the real [das Reale]”(ibid., p. 22). In 1925, Planck even conveived relativity theory within an overall convergence to absolute reality. “Yet when space and time have been denied the character of being absolute, the absolute has not been blotted out, it has just been moved more backward, to wit, into the metric of the four-dimensional manifold” (ibid., p. 154). Outdated absolute concepts are relativized just in order to find deeper absolute concepts."
+      ],
+      "zh": [
+        "对相对化构成性原理的主要检验，是看它们在“常规”时期和动荡时期的表现。在这里普朗克相当明确。“在［事实与理论之间的］一切近期冲突中，伟大的普遍物理原理都守住了阵地，即能量守恒原理、动量守恒原理、最小作用量原理、热力学主要定律”（同上，p. 44），而习以为常的直观基础则不得不让路，其中包括化学原子的不可变性、空间与时间的独立性、以及自然界一切动力学效应的连续性。这一洞见是普朗克在现代物理学中诊断出的同时去人类中心化与统一化总趋势的一部分。此外，我们当前的图景已经包含某些很可能永远保持不变的特征。“这种恒常性……就是我们现在称为实在的东西［das Reale］”（同上，p. 22）。1925 年，普朗克甚至把相对论置于向绝对实在的总体收敛之中来构想。“然而，当空间与时间被否认具有绝对性时，绝对者并没有被抹去，它只是被移到了更后面，即移入四维流形的度规之中”（同上，p. 154）。过时的绝对概念被相对化，恰恰是为了找到更深刻的绝对概念。"
+      ],
+      "units": 210
+    },
+    {
+      "id": "ch12-u037",
+      "source_ids": [
+        "ch12-u037"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Planck’s convergent realism seems to openly contradict any relativized a priori. But Planck himself intended to remain consistent with Kant’s critical philosophy. Since there was no way to distinguish between ‘world view’ and ‘world’, he argued, we could interpret ‘world’ itself as the ideal aim of all scientific research. Moreover, the constant elements in our world-view were abstract principles, such as the PLA, that remained empty without physical specification while entities such as the indivisible chemical atoms were superseded by new ones."
+      ],
+      "zh": [
+        "普朗克的收敛实在论似乎与任何相对化先天公然矛盾。但普朗克本人意图与康德的批判哲学保持一致。他论证，既然无法区分“世界图景”与“世界”，我们就可以把“世界”本身解释为一切科学研究的理想目标。此外，我们世界图景中的恒常要素是抽象原理（如 PLA），它们没有物理规定就仍是空洞的，而像不可分的化学原子这样的实体则被新实体取代。"
+      ],
+      "units": 82
+    },
+    {
+      "id": "ch12-u038",
+      "source_ids": [
+        "ch12-u038"
+      ],
+      "page": "223",
+      "canonical_kind": "paragraph",
+      "en": [
+        "And there was also another side to Planck’s realism. His own quantum of action and Boltzmann’s constant characterizing thermal radiation, and the gravitational constant provide a universal system of units that does not depend on a metric convention. While present-day physicists aspire at reducing the fundamental constants of nature to laws, Planck considered them as “the invariable building blocks from which the edifice of the physical world is composed” (ibid., p. 39). Each major step towards the ideal aim of absolute knowledge uncovered a hitherto unknown constant of nature. First, “[t]he modification brought into mechanics by the principle of relativity contains as its essential part the introduction of a new universal constant alien to classical mechanics, the velocity of light in vacuum” (ibid., p. 82). Second, “the laws of thermal radiation, specific heat, electron emission, radioactivity unanimously indicate that not only matter itself but also the effects originating from matter … possess discontinuous properties, which once again is characterized by a new constant of nature: the elementary quantum of action (ibid., p. 83f.)."
+      ],
+      "zh": [
+        "普朗克的实在论还有另一面。他自己的作用量子、表征热辐射的玻尔兹曼常数以及引力常数，提供了一种独立于度量约定的普适单位制。当代物理学家力图把自然的基本常数还原为规律，普朗克却把它们视为“构成物理世界大厦的不变基石”（同上，p. 39）。朝向绝对知识这一理想目标的每一重大步骤都揭示了一个迄今未知的自然常数。第一，“相对性原理给力学带来的修正，其本质部分是引入一个经典力学所没有的新的普遍常数——真空中的光速”（同上，p. 82）。第二，“热辐射、比热、电子发射、放射性的规律一致表明：不仅物质本身，而且源自物质的效应……都具有不连续的性质，这再一次由一个新的自然常数来刻画：基本作用量子”（同上，p. 83f.）。"
+      ],
+      "units": 173
+    },
+    {
+      "id": "ch12-u039",
+      "source_ids": [
+        "ch12-u039"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Since the abstract principles held the field in each scientific revolution, it is the universal constants that represent a Kuhnian incommensurability, e.g., between the paradigms of classical mechanics and relativity theory or between Jeans’s and Planck’s laws of radiation. For, the fundamental constant of the latter theory cannot be expressed in terms of the former. If one formulates the latter theory by way of a PLA, the new constant, of course, has to enter. Thus the full-fledged action principle contains both constitutive and empirical elements."
+      ],
+      "zh": [
+        "既然抽象原理在每次科学革命中都守住阵地，那么代表库恩式不可通约性的就是普遍常数，例如在经典力学范式与相对论范式之间，或在金斯辐射定律与普朗克辐射定律之间。因为后一理论的基本常数不能用前一理论表达。如果借助 PLA 表述后一理论，新常数当然必须进入。因此充分发展的作用量原理既包含构成性要素也包含经验要素。"
+      ],
+      "units": 86
+    },
+    {
+      "id": "ch12-u040",
+      "source_ids": [
+        "ch12-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To conclude, Planck treated the PLA in its abstract form as constitutive for the domain of reversible physics, while the coordination was established through a suitable Lagrangian. No doubt, Planck was well-informed about and derived major motivations from the philosophical debates surrounding the PLA, giving them a rather Kantian twist both as regards causality and formal teleology. Needless to say, Planck’s talk about the ideal aim of theoretical physics did not exclude that the PLA one day could be integrated into a more comprehensive formal principle."
+      ],
+      "zh": [
+        "总之，普朗克把抽象形式的 PLA 视为构成可逆过程物理学的原理，而协调则通过一个合适的拉格朗日量建立。无疑，普朗克充分了解围绕 PLA 的哲学争论并从中获得主要动机，无论在因果性还是形式目的论方面都以近乎康德式的思路重提这些争论。不用说，普朗克关于理论物理学理想目标的谈论并不排除 PLA 有一天可能被整合进一个更广泛的形式原理。"
+      ],
+      "units": 86
+    },
+    {
+      "id": "ch12-u041",
+      "source_ids": [
+        "ch12-u041"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 David Hilbert and the PLA as Core of the Axiomatic Method"
+      ],
+      "zh": [
+        "4 大卫·希尔伯特与作为公理化方法核心的 PLA"
+      ],
+      "type": "subheading",
+      "units": 12
+    },
+    {
+      "id": "ch12-u042",
+      "source_ids": [
+        "ch12-u042"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Again in 1915, David Hilbert gave an independent derivation of the field equations of general relativity by means of a single action principle. The paper that was rushed out in two parts (1916, 1917) bore the ambitious title “The Foundations of Physics.” In it, he combined what he had learned about the physical characteristics of Einstein’s theory in the making with his top expertise in variational calculus. The correct form of Einstein’s equations was entered only into the galley proofs, such that Hilbert cannot claim full priority. But they were not his primary objective. What is more, both “Hilbert and Einstein saw their achievements of November 1915 as the culmination of year-long efforts of scientific research along their respective research programs” (Sauer, 1999, p. 566). These were by no means identical, followed different heuristics, and attributed different weight to the PLA (Rowe, 2001)."
+      ],
+      "zh": [
+        "还是在 1915 年，大卫·希尔伯特借助单一的作用量原理独立推导了广义相对论的场方程。这篇分两部分仓促发表的论文（1916, 1917）有一个雄心勃勃的标题：《物理学的基础》。在其中，他把自己对正在形成中的爱因斯坦理论之物理特征的了解与他在变分法上的顶尖专长结合起来。爱因斯坦方程的正确形式只是在校样阶段才加入，因此希尔伯特不能声称完全的优先权。但它们也不是他的首要目标。更重要的是，“希尔伯特与爱因斯坦都把他们在 1915 年 11 月的成就视为各自研究纲领下一年来科学研究的顶点”（Sauer, 1999, p. 566）。这两个纲领绝不相同，遵循不同的启发法，并赋予 PLA 不同的分量（Rowe, 2001）。"
+      ],
+      "units": 143
+    },
+    {
+      "id": "ch12-u043",
+      "source_ids": [
+        "ch12-u043"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the “Foundations”, Hilbert poses four axioms and two physicality conditions."
+      ],
+      "zh": [
+        "在《基础》中，希尔伯特提出四条公理和两个物理性条件。"
+      ],
+      "units": 11
+    },
+    {
+      "id": "ch12-u044",
+      "source_ids": [
+        "ch12-u044"
+      ],
+      "page": "224",
+      "canonical_kind": "paragraph",
+      "en": [
+        "(I) Mie’s axiom of the world function H demands that the variation of ",
+        {
+          "type": "math",
+          "tex": "\\int H\\sqrt g\\,\\mathrm{d}\\omega",
+          "display": false
+        },
+        " vanishes for each gravitational potential ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " and each electromagnetic potential ",
+        {
+          "type": "math",
+          "tex": "q_s",
+          "display": false
+        },
+        ", where g is the determinant of ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "\\mathrm{d}\\omega=\\mathrm{d}\\omega_1\\mathrm{d}\\omega_2\\mathrm{d}\\omega_3\\mathrm{d}\\omega_4",
+          "display": false
+        },
+        " is the differential of the world parameters ",
+        {
+          "type": "math",
+          "tex": "\\omega_k",
+          "display": false
+        },
+        " uniquely fixing the world points. H contains gravitational arguments, the ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " and their first an second partial derivatives with respect to the ",
+        {
+          "type": "math",
+          "tex": "\\omega_k",
+          "display": false
+        },
+        ", and electromagnetic arguments, the ",
+        {
+          "type": "math",
+          "tex": "q_s",
+          "display": false
+        },
+        " and their first partial derivatives with respect to the ",
+        {
+          "type": "math",
+          "tex": "\\omega_k",
+          "display": false
+        },
+        ". Axiom (II) states that H be invariant with respect to an arbitrary transformation of the world parameters ",
+        {
+          "type": "math",
+          "tex": "\\omega_k",
+          "display": false
+        },
+        ". Hilbert considers this axiom as “the simplest mathematical expression of the requirement that the coordinates in themselves do not possess any physical significance” (1924, p. 50). And in a footnote, he connects it to Einstein’s idea of general invariance (today: ‘covariance’). Hilbert next formulates a theorem that he calls the “leitmotif for the construction of his theory” (1916, p. 396), but does not provide a proof. Its main objective had been to show that “the electrodynamic phenomena are an effect of gravitation” (1916, p. 397). In the 1924 reprint, this claim was tacitly dropped and a weakened version of Noether’s second theorem was proven as theorem II."
+      ],
+      "zh": [
+        "(I) 米氏世界函数公理要求：对每个引力势 ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " 和每个电磁势 ",
+        {
+          "type": "math",
+          "tex": "q_s",
+          "display": false
+        },
+        "，积分 ",
+        {
+          "type": "math",
+          "tex": "\\int H\\sqrt g\\,\\mathrm{d}\\omega",
+          "display": false
+        },
+        " 的变分为零，其中 g 是 ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " 的行列式，",
+        {
+          "type": "math",
+          "tex": "\\mathrm{d}\\omega=\\mathrm{d}\\omega_1\\mathrm{d}\\omega_2\\mathrm{d}\\omega_3\\mathrm{d}\\omega_4",
+          "display": false
+        },
+        " 是唯一确定世界点的世界参数 ",
+        {
+          "type": "math",
+          "tex": "\\omega_k",
+          "display": false
+        },
+        " 的微分。H 包含引力自变量，即 ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " 及其对 ",
+        {
+          "type": "math",
+          "tex": "\\omega_k",
+          "display": false
+        },
+        " 的一阶和二阶偏导数，以及电磁自变量，即 ",
+        {
+          "type": "math",
+          "tex": "q_s",
+          "display": false
+        },
+        " 及其对 ",
+        {
+          "type": "math",
+          "tex": "\\omega_k",
+          "display": false
+        },
+        " 的一阶偏导数。公理 (II) 断言 H 对世界参数 ",
+        {
+          "type": "math",
+          "tex": "\\omega_k",
+          "display": false
+        },
+        " 的任意变换不变。希尔伯特把这条公理视为“坐标本身不具有任何物理意义这一要求的最简单数学表达”（1924, p. 50）。并在一个脚注中把它与爱因斯坦的广义不变性（今天称“协变性”）思想联系起来。希尔伯特接下来表述了一条他称为“其理论构造的主导动机”（1916, p. 396）的定理，但没有给出证明。它的主要目标是表明“电动力学现象是引力的一种效应”（1916, p. 397）。在 1924 年的重印本中，这个主张被悄悄放弃，诺特第二定理的一个弱化版本作为定理 II 得到证明。"
+      ],
+      "units": 241
+    },
+    {
+      "id": "ch12-u045",
+      "source_ids": [
+        "ch12-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Although sufficient for a derivation of geometrical properties, such as Noether’s second theorem and the Bianchi identities, axioms (I) and (II) do not fix H uniquely, such that Hilbert introduced two further axioms of a more physical kind. Axiom (III) demands the additivity of pure gravity and electromagnetism H = R + L, with R being the Riemann scalar curvature and L not containing second derivatives of the ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        ". This guarantees that no higher than second order derivatives of the ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " appear in the field equations, such that one obtains a reasonable dynamics. Axiom (IV) specifies the signature of the metric in order to obtain the required 3 + 1 pseudo-geometry for space– time. In addition, there are two supplementary conditions requiring that the physical solutions respect causal order and are free of singularities. Gödel’s universe, in which one can return into one’s own past, and the boom of research into singularities since the 1960s have shown that both conditions of Hilbert’s were too restrictive."
+      ],
+      "zh": [
+        "尽管公理 (I) 与 (II) 足以推导几何性质（如诺特第二定理和比安基恒等式），它们并不唯一确定 H，因此希尔伯特又引入两条更具物理性的公理。公理 (III) 要求纯引力项与电磁项可加 H = R + L，其中 R 是黎曼标量曲率，L 不含 ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " 的二阶导数。这保证场方程中不出现高于二阶的 ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " 导数，从而得到合理的动力学。公理 (IV) 指定度规的号差，以获得时空所需的 3 + 1 伪几何。此外还有两个补充条件，要求物理解尊重因果秩序且无奇点。哥德尔宇宙——在其中人可以回到自己的过去——以及 1960 年代以来奇点研究的繁荣表明，希尔伯特的这两个条件都过于苛刻。"
+      ],
+      "units": 166
+    },
+    {
+      "id": "ch12-u046",
+      "source_ids": [
+        "ch12-u046"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hilbert’s axiomatization of general relativity exhibits a three-layered structure that not only goes naturally with the different steps in specifying the PLA, but that is also typical for his axiomatic method as a whole. Hilbert did not treat an axiom system as a homogeneous conceptual framework in which only logical deductions operate. This can already be seen in the Sixth Problem of 1900, where he gave a programmatic outline of the axiomatization of physics."
+      ],
+      "zh": [
+        "希尔伯特对广义相对论的公理化展示了一种三层结构，它不仅与具体规定 PLA 的不同步骤自然契合，而且对他的整个公理化方法也是典型的。希尔伯特并不把公理系统视为一个只有逻辑演绎在其中运作的同质概念框架。这已经可以在 1900 年的第六问题中看到，他在那里给出了物理学公理化的纲领性概述。"
+      ],
+      "units": 74
+    },
+    {
+      "id": "ch12-u048",
+      "source_ids": [
+        "ch12-u048"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[W]e shall try first by a small number of axioms to include as large a class as possible of physical phenomena, and then by adjoining new axioms to arrive gradually at the more special theories … . The mathematician will have also to take account not only of those theories coming near to reality, but also, as in geometry, of all logically possible theories.\n\nFurther, the mathematician has the duty to test exactly in each instance whether the new axioms are compatible with the previous ones. The physicist, as his theories develop, often finds himself forced by the results of his experiments to make new hypotheses, while he depends, with respect to the compatibility of the new hypotheses with the old axioms, solely upon these experiments or upon a certain physical intuition (1900, p. 272f./454f.)."
+      ],
+      "zh": [
+        "［我们］将首先尝试用少数几条公理囊括范围尽可能广的一类物理现象，然后通过添加新公理逐渐达到更特殊的理论……。数学家还必须不仅考虑接近实在的那些理论，而且像在几何学中那样考虑一切逻辑上可能的理论。\n\n此外，数学家有责任在每种情形中精确检验新公理是否与先前的公理相容。物理学家在其理论发展中，常常发现自己被实验结果所迫而提出新假设，而在新假设与旧公理的相容性方面，他只能依赖这些实验或某种物理直观（1900, p. 272f./454f.）。"
+      ],
+      "type": "quote",
+      "units": 135
+    },
+    {
+      "id": "ch12-u047",
+      "source_ids": [
+        "ch12-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The task of the mathematician begins with establishing the completeness of the axioms, i.e., that they permit one to derive all laws of the respective domain. Next is the internal consistency of the axioms. For instance, in the theory based on Fourier’s heat equation “it is necessary to prove that the familiar boundary-value problem of potential theory is always solvable; for only the solution of this boundary-value problem shows that a temperature distribution satisfying the equation of heat conduction is at all possible” (1918, p. 410/1111). Cast in Friedman’s terms, internal consistency of a suitable axiom system is an a priori condition that a certain physical phenomenon is logically possible."
+      ],
+      "zh": [
+        "数学家的任务从确立公理的完备性开始，即它们允许人们推导相应领域的一切规律。接下来是公理的内在一致性。例如，在基于傅里叶热方程的理论中，“必须证明位势理论中熟悉的边值问题总是可解的；因为只有这个边值问题的解才表明满足热传导方程的温度分布确实可能存在”（1918, p. 410/1111）。用弗里德曼的术语说，一个合适公理系统的内在一致性是某个物理现象在逻辑上可能的先天条件。"
+      ],
+      "units": 112
+    },
+    {
+      "id": "ch12-u049",
+      "source_ids": [
+        "ch12-u049"
+      ],
+      "page": "225",
+      "canonical_kind": "paragraph",
+      "en": [
+        "By interpreting an axiom system in terms of appropriate number fields, Hilbert played internal consistency back to the consistency of arithmetic, which was to be proven by the finite means of meta-mathematics. But in 1930, Gödel’s incompleteness theorem demonstrated that it was impossible to reach the desired absolute foundation of mathematics along these lines. Interestingly, in the same year, Hilbert viewed precisely this attempt as the legitimate heir of the Kantian a priori that “still contains anthropological dross from which it must be liberated [such as the preference of Euclidean geometry]; afterwards only the a priori attitude is left over which also underlies pure mathematical knowledge: essentially it is the finite attitude which I have characterized in several works” (1930, p. 962/1163). Hilbert’s third requirement was external consistency. Kinetic theory is consistent with thermodynamics, and Einsteinian gravity possesses a well-defined Newtonian limit, while quantum theory contradicts Maxwell’s equations, such that a new foundation of electrodynamics is called for. Recall that Friedman saw the main role of mathematics in establishing such a precise relationship between conceptual frameworks."
+      ],
+      "zh": [
+        "通过用适当的数域解释公理系统，希尔伯特把内在一致性归结为算术的一致性，后者则有待以元数学的有穷手段证明。但 1930 年，哥德尔不完备定理表明沿这条路线不可能达到所期望的数学的绝对奠基。有趣的是，同年希尔伯特恰恰把这一尝试视为康德式先天的合法继承者，它“仍包含必须从中清除的人类学杂质［例如对欧几里得几何的偏爱］；此后剩下的只有先天的态度，它也构成纯粹数学知识的基础：本质上就是我在几部著作中刻画过的有穷态度”（1930, p. 962/1163）。希尔伯特的第三个要求是外在一致性。分子运动论与热力学一致，爱因斯坦引力具有定义良好的牛顿极限，而量子理论与麦克斯韦方程组矛盾，因此需要电动力学的新奠基。回想弗里德曼把数学的主要作用视为在概念框架之间建立这种精确关系。"
+      ],
+      "units": 177
+    },
+    {
+      "id": "ch12-u050",
+      "source_ids": [
+        "ch12-u050"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The fourth requirement, which Hilbert called ‘deepening the foundations’, started from the analysis of the independence of the axioms and was an heir of the failed attempts to prove the fundamental presuppositions of science themselves. But these reductions “only make it possible to trace things back to certain deeper propositions, which in turn now to be regarded as new axioms …. The actual axioms of geometry, arithmetic, statics, mechanics, radiation theory, or thermodynamics arose in this way” (1918, p. 407/1109). There was no unique way of ‘deepening the foundations’ of a given theory. Hilbert lauded both Boltzmann and Hertz for having deepened the foundations of Lagrange’s mechanics containing arbitrary forces and constraints to either forces without constraints or constraints without forces. Moreover, by ‘deepening the foundations’, one may arrive at a physically unintuitive formulation, given that one intends to keep a very deep mathematical concept, such as continuity."
+      ],
+      "zh": [
+        "第四个要求——希尔伯特称之为“深化基础”——从公理独立性的分析出发，是证明科学本身基本预设的那些失败尝试的继承者。但这些还原“只是使人能够把事物回溯到某些更深刻的命题，这些命题现在又要被视为新的公理……。几何学、算术、静力学、力学、辐射理论或热力学的实际公理就是这样产生的”（1918, p. 407/1109）。“深化”一个给定理论的基础并没有唯一的方式。希尔伯特赞扬玻尔兹曼与赫兹，因为他们把包含任意力与约束的拉格朗日力学的基础分别深化为无约束的力或无力的约束。此外，为了保留连续性之类内涵深刻的数学概念，“深化基础”可能会导向物理上不直观的表述。"
+      ],
+      "units": 148
+    },
+    {
+      "id": "ch12-u052",
+      "source_ids": [
+        "ch12-u052"
+      ],
+      "page": "226",
+      "canonical_kind": "quote",
+      "en": [
+        "The axioms of classical mechanics can be deepened if, using the axiom of continuity, one imagines continuous motions to be decomposed into small uniform rectilinear motions caused by discrete impulses and following one another in rapid succession. One then applies Bertrand’s maximum principle as the essential axiom of mechanics, according to which the motion that actually occurs after each impulse is that which always maximizes the kinetic energy of the system with respect to all motions that are compatible with the law of the conservation of energy (1918, p. 409/1111)."
+      ],
+      "zh": [
+        "如果运用连续性公理，把连续运动设想为分解为由离散冲量引起、彼此快速相继的小匀速直线运动，经典力学的公理就可以被深化。然后人们把伯特兰极大值原理作为力学的本质公理来应用，按照它，每次冲量之后实际发生的运动，是在与能量守恒定律相容的一切运动中总是使系统动能最大的那个运动（1918, p. 409/1111）。"
+      ],
+      "type": "quote",
+      "units": 91
+    },
+    {
+      "id": "ch12-u051",
+      "source_ids": [
+        "ch12-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "All four requirements together with the fact that a unique and realist interpretation was not aspired at, suggest considering Hilbert’s axiomatic method as a mathematical reorganization and stratification of a physical theory aimed at casting as much as possible in terms of constitutive a priori principles. For, mathematics has the advantage that the relationship across frameworks is rigorous and that one can precisely spot coordinating principles, such as general covariance and – less convincingly – Bertrand’s principle. Moreover, Hilbert’s axiomatic treatment of phenomenological theories, among them Kirchhoff’s law of radiation and continuum mechanics, shows that he tried to establish empirical facts as constitutive principles under the joint guidance of a general philosophical outlook on the axiomatization of science and of the well-known heuristic powers of the PLA. This did not involve realist or reductionist aspirations, especially after the road to an immutable foundation of mathematics was barred. In the case continuum mechanics, he simply argued as had Planck in the above mentioned case of radiation, that the PLA was applicable even though, as of 1907, knowledge about the molecular constitution of matter was insufficient. But there are problems to such an interpretation, especially if one looks at the “Foundations”. For one, Hilbert’s first axiom already contained a strong physical claim insofar as all energy-matter was subsumed under Mie’s theory, a claim that Einstein considered as highly premature. Even more, the whole rationale of the failed theorem I was to blur the boundary between mathematics and physics. For, Hilbert believed “that a reduction of all physical constants to mathematical constants should be possible” (1916, p. 407). Hence, in some cases, the ‘deepening’ was to unearth what Hilbert typically – and pretty vaguely – described as the non-Leibnizian pre-established harmony between mathematics and physics. Not least this repeated allusion made Hilbert’s axiomatic method suspicious among Logical Empiricists."
+      ],
+      "zh": [
+        "所有这四个要求，加上并不追求唯一的实在论解释这一事实，提示我们把希尔伯特的公理化方法视为对物理理论的数学重组与分层，旨在尽可能多地用构成性先天原理来表述。因为数学有这样的优点：框架之间的关系是严格的，人们能精确地定位协调原理，如广义协变性——以及不那么令人信服的——伯特兰原理。此外，希尔伯特对现象论理论（其中包括基尔霍夫辐射定律和连续介质力学）的公理化处理表明，他试图在关于科学公理化的一般哲学观点与 PLA 众所周知的启发式力量的共同引导下，把经验事实确立为构成性原理。这并不涉及实在论或还原论的抱负，尤其是在寻求数学固定不变的基础已行不通之后。谈到连续介质力学时，他的论证与普朗克上述关于辐射的论证相同：尽管截至 1907 年关于物质分子构成的知识尚不充分，PLA 仍然适用。但这种解释有一些问题，尤其是当人们看《基础》时。首先，希尔伯特的第一条公理已经包含一个强的物理主张，因为一切能量–物质都被归摄在米氏理论之下，而爱因斯坦认为这个主张为时过早。更有甚者，失败的定理 I 的整个理由就是模糊数学与物理学之间的边界。因为希尔伯特相信“把一切物理常数还原为数学常数应当是可能的”（1916, p. 407）。因此在某些情形中，“深化”是要发掘希尔伯特通常——而且相当含糊地——描述为数学与物理学之间的非莱布尼茨式前定和谐的东西。尤其是这种反复的暗示使希尔伯特的公理化方法在逻辑经验论者中间引起怀疑。"
+      ],
+      "units": 301
+    },
+    {
+      "id": "ch12-u054",
+      "source_ids": [
+        "ch12-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But the problem of non-uniqueness is more generic. The mathematician’s ‘deepening’ and the physicist’s search for the ‘deepest’ principles may yield diverging results. This is problematic even if one does not heed realist or structural realist aspirations. What is more, throughout its history the PLA has always been accompanied by largely equivalent formulations in terms of differential equations. Even if one emphasizes the philosophical and mathematical differences between both approaches – as I have done in the present paper – there is little sign of convergence to constitutive principles “of ever greater generality and adequacy” (Friedman, 2001, p. 63)."
+      ],
+      "zh": [
+        "但非唯一性问题更为一般。数学家的“深化”与物理学家对“最深刻”原理的寻求可能给出分歧的结果。即使不理会实在论或结构实在论的抱负，这也是成问题的。更有甚者，纵观其历史，PLA 始终伴随着用微分方程表述的大体等价的版本。即使强调两种进路之间的哲学与数学差异——如我在本文中所做的——也几乎没有向“越来越普遍和恰当”（Friedman, 2001, p. 63）的构成性原理收敛的迹象。"
+      ],
+      "units": 97
+    },
+    {
+      "id": "ch12-u053",
+      "source_ids": [
+        "ch12-u053"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch12-bibliography-001",
+      "source_ids": [
+        "ch12-ref003",
+        "ch12-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Carnap, R. (1950), “Empiricism, Semantics, and Ontology”, Revue internationale de philosophie, 4, 20–40."
+      ],
+      "zh": [
+        "Carnap, R. (1950), “Empiricism, Semantics, and Ontology”, Revue internationale de philosophie, 4, 20–40."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch12-bibliography-002",
+      "source_ids": [
+        "ch12-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M. (2001), Dynamics of Reason, Stanford: CSLI Publications."
+      ],
+      "zh": [
+        "Friedman, M. (2001), Dynamics of Reason, Stanford: CSLI Publications."
+      ],
+      "shared": true,
+      "units": 9
+    },
+    {
+      "id": "ch12-bibliography-003",
+      "source_ids": [
+        "ch12-ref004",
+        "ch12-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hilbert, D. (1900), “Mathematische Probleme”, Göttinger Nachrichten. Mathematisch-Physikalische Klasse, 253–297. English translation in Bulletin of the American Mathematical Society, 8 (1902), 437–479."
+      ],
+      "zh": [
+        "Hilbert, D. (1900), “Mathematische Probleme”, Göttinger Nachrichten. Mathematisch-Physikalische Klasse, 253–297. English translation in Bulletin of the American Mathematical Society, 8 (1902), 437–479."
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch12-bibliography-004",
+      "source_ids": [
+        "ch12-ref005",
+        "ch12-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hilbert, D. (1916), “Die Grundlagen der Physik (Erste Mitteilung)”, Göttinger Nachrichten. Mathematisch-Physikalische Klasse, 395–407."
+      ],
+      "zh": [
+        "Hilbert, D. (1916), “Die Grundlagen der Physik (Erste Mitteilung)”, Göttinger Nachrichten. Mathematisch-Physikalische Klasse, 395–407."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch12-bibliography-005",
+      "source_ids": [
+        "ch12-ref006",
+        "ch12-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hilbert, D. (1917), “Die Grundlagen der Physik (Zweite Mitteilung)”, Göttinger Nachrichten. Mathematisch-Physikalische Klasse, 53–76."
+      ],
+      "zh": [
+        "Hilbert, D. (1917), “Die Grundlagen der Physik (Zweite Mitteilung)”, Göttinger Nachrichten. Mathematisch-Physikalische Klasse, 53–76."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch12-bibliography-006",
+      "source_ids": [
+        "ch12-ref007",
+        "ch12-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hilbert, D. (1918), “Axiomatisches Denken”, Mathematische Annalen, 78, 405–415. English translation in W. Ewald (ed.), From Kant to Hilbert: A Source Book in the Foundations of Mathematics, vol. II. Oxford: Clarendon Press, 1996, 1105–1115."
+      ],
+      "zh": [
+        "Hilbert, D. (1918), “Axiomatisches Denken”, Mathematische Annalen, 78, 405–415. English translation in W. Ewald (ed.), From Kant to Hilbert: A Source Book in the Foundations of Mathematics, vol. II. Oxford: Clarendon Press, 1996, 1105–1115."
+      ],
+      "shared": true,
+      "units": 36
+    },
+    {
+      "id": "ch12-bibliography-007",
+      "source_ids": [
+        "ch12-ref008",
+        "ch12-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hilbert, D. (1924), “Die Grundlagen der Physik”, reprinted in Hilbertiana – Fünf Aufsätze von David Hilbert, Darmstadt: Wissenschaftliche Buchgesellschaft, 1964, 47–78."
+      ],
+      "zh": [
+        "Hilbert, D. (1924), “Die Grundlagen der Physik”, reprinted in Hilbertiana – Fünf Aufsätze von David Hilbert, Darmstadt: Wissenschaftliche Buchgesellschaft, 1964, 47–78."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch12-bibliography-008",
+      "source_ids": [
+        "ch12-ref009",
+        "ch12-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hilbert, D. (1930), “Naturerkennen und Logik”, Die Naturwissenschaften, 18, 959–963. English translation in W. Ewald (ed.), op.cit., vol. II., 1157–1165."
+      ],
+      "zh": [
+        "Hilbert, D. (1930), “Naturerkennen und Logik”, Die Naturwissenschaften, 18, 959–963. English translation in W. Ewald (ed.), op.cit., vol. II., 1157–1165."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch12-bibliography-009",
+      "source_ids": [
+        "ch12-ref010",
+        "ch12-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kuhn, Thomas S. (1962), The Structure of Scientific Revolutions, Chicago, IL: University of Chicago Press."
+      ],
+      "zh": [
+        "Kuhn, Thomas S. (1962), The Structure of Scientific Revolutions, Chicago, IL: University of Chicago Press."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch12-bibliography-010",
+      "source_ids": [
+        "ch12-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Mach, E. (1989), The Science of Mechanics. Account of Its Development, La Salle, IL: Open Court."
+      ],
+      "zh": [
+        "Mach, E. (1989), The Science of Mechanics. Account of Its Development, La Salle, IL: Open Court."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch12-bibliography-011",
+      "source_ids": [
+        "ch12-ref013",
+        "ch12-ref014"
+      ],
+      "page": "227",
+      "canonical_kind": "reference",
+      "en": [
+        "Planck, M. (1910), “Zur Theorie der Wärmestrahlung”, in: Physikalische Abhandlungen und Vorträge, Braunschweig, Vieweg, 1958, vol. II, 237–247."
+      ],
+      "zh": [
+        "Planck, M. (1910), “Zur Theorie der Wärmestrahlung”, in: Physikalische Abhandlungen und Vorträge, Braunschweig, Vieweg, 1958, vol. II, 237–247."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch12-bibliography-012",
+      "source_ids": [
+        "ch12-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Planck, M. (1944), Wege zur physikalischen Erkenntnis. Reden und Vorträge, Leipzig: S. Hirzel."
+      ],
+      "zh": [
+        "Planck, M. (1944), Wege zur physikalischen Erkenntnis. Reden und Vorträge, Leipzig: S. Hirzel."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch12-bibliography-013",
+      "source_ids": [
+        "ch12-ref014",
+        "ch12-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Reichenbach, H. (1920), Relativitätstheorie und Erkenntnis A Priori, Berlin: Springer; English translation, Los Angeles: University of California Press, 1965"
+      ],
+      "zh": [
+        "Reichenbach, H. (1920), Relativitätstheorie und Erkenntnis A Priori, Berlin: Springer; English translation, Los Angeles: University of California Press, 1965"
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch12-bibliography-014",
+      "source_ids": [
+        "ch12-ref015",
+        "ch12-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Rowe, D.E. (2001), “Einstein Meets Hilbert: At the Crossroads of Physics and Mathematics”, Physics in Perspective, 3, 379–424."
+      ],
+      "zh": [
+        "Rowe, D.E. (2001), “Einstein Meets Hilbert: At the Crossroads of Physics and Mathematics”, Physics in Perspective, 3, 379–424."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch12-bibliography-015",
+      "source_ids": [
+        "ch12-ref016",
+        "ch12-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Sauer, T. (1999), “The Relativity of Discovery: Hilbert’s First Note on the Foundations of Physics”, Archive for the History of Exact Sciences, 53, 529–575."
+      ],
+      "zh": [
+        "Sauer, T. (1999), “The Relativity of Discovery: Hilbert’s First Note on the Foundations of Physics”, Archive for the History of Exact Sciences, 53, 529–575."
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch12-bibliography-016",
+      "source_ids": [
+        "ch12-ref017",
+        "ch12-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Stöltzner, M. (2000), “Le principe de moindre action et les trois ordres de la téléologie formelle dans la Physique”, Archives de Philosophie, 63, 621–655."
+      ],
+      "zh": [
+        "Stöltzner, M. (2000), “Le principe de moindre action et les trois ordres de la téléologie formelle dans la Physique”, Archives de Philosophie, 63, 621–655."
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch12-bibliography-017",
+      "source_ids": [
+        "ch12-ref018",
+        "ch12-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Stöltzner, M. (2003), “The Least Action Principle as the Logical Empiricist’s Shibboleth”, Studies in History and Philosophy of Modern Physics, 34, 285–318."
+      ],
+      "zh": [
+        "Stöltzner, M. (2003), “The Least Action Principle as the Logical Empiricist’s Shibboleth”, Studies in History and Philosophy of Modern Physics, 34, 285–318."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch12-bibliography-018",
+      "source_ids": [
+        "ch12-ref019",
+        "ch12-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Stöltzner, M. (2005), “Drei Ordnungen formaler Teleologie. Ansichten des Prinzips der kleinsten Wirkung”, in M. Stöltzner and P. Weingartner (eds.), Formale Teleologie und Kausalität, Paderborn: Mentis, 199–241."
+      ],
+      "zh": [
+        "Stöltzner, M. (2005), “Drei Ordnungen formaler Teleologie. Ansichten des Prinzips der kleinsten Wirkung”, in M. Stöltzner and P. Weingartner (eds.), Formale Teleologie und Kausalität, Paderborn: Mentis, 199–241."
+      ],
+      "shared": true,
+      "units": 28
+    },
+    {
+      "id": "ch12-bibliography-019",
+      "source_ids": [
+        "ch12-ref020",
+        "ch12-ref021"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Von Helmholtz, H. (1886), “Über die physikalische Bedeutung des Princips der kleinsten Wirkung”, in: Wissenschaftliche Abhandlungen, Leipzig, 1895, vol. III, 203–248."
+      ],
+      "zh": [
+        "Von Helmholtz, H. (1886), “Über die physikalische Bedeutung des Princips der kleinsten Wirkung”, in: Wissenschaftliche Abhandlungen, Leipzig, 1895, vol. III, 203–248."
+      ],
+      "shared": true,
+      "units": 22
+    }
+  ],
+  "notes": {}
+}

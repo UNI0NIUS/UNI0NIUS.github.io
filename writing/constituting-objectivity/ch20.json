@@ -1,0 +1,1029 @@
+{
+  "id": "ch20",
+  "title": "退相干与客观性的构成",
+  "originalTitle": "Decoherence and the Constitution of Objectivity",
+  "outline": [
+    {
+      "anchor": "ch20-u008",
+      "title": "1 态矢量的形式主义实在论：研究退相干的标准进路",
+      "originalTitle": "1 Formalist Realism of State Vectors: A Standard Approach to Decoherence",
+      "level": 1
+    },
+    {
+      "anchor": "ch20-u018",
+      "title": "2 对退相干的彻底经验论解读",
+      "originalTitle": "2 A Thoroughly Empiricist Reading of Decoherence",
+      "level": 1
+    },
+    {
+      "anchor": "ch20-u029",
+      "title": "3 先验意义上的退相干",
+      "originalTitle": "3 Decoherence in a Transcendental Sense",
+      "level": 1
+    },
+    {
+      "anchor": "ch20-u038",
+      "title": "参考文献",
+      "originalTitle": "Bibliography",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch20-u001",
+      "source_ids": [
+        "ch20-u001"
+      ],
+      "page": "347",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch20-u002",
+      "source_ids": [
+        "ch20-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Michel Bitbol"
+      ],
+      "zh": [
+        "米歇尔·比托尔"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch20-u003",
+      "source_ids": [
+        "ch20-u003"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract A transcendental interpretation of decoherence theories is presented, as a middle way between the realist and empiricist interpretations. From a transcendental standpoint, the latter interpretations are both biased. The realist one is biased in favor of formal constructs taken as descriptive of a reality more real than phenomena; and the empiricist one is biased in favor of phenomena, thus forgetting that they acquire their meaning from the formalism in which they are embedded. By contrast with these two positions, transcendental epistemology sees decoherence as one step in a stratified process of constitution of objectivity adapted to microphysical phenomena."
+      ],
+      "zh": [
+        "摘要 本文提出对退相干理论的一种先验解释，作为实在论解释与经验论解释之间的中道。从先验的立场看，后两种解释都是有偏的。实在论解释偏重形式构造，把它们看作对一种比现象更真实的实在的描述；经验论解释则偏向现象，从而忘记了现象是从其嵌入于其中的形式体系中获得意义的。与这两种立场相对，先验认识论把退相干看作一个构成客观性的多层过程中的一步。这个过程是针对微观物理现象展开的。"
+      ],
+      "units": 99
+    },
+    {
+      "id": "ch20-u004",
+      "source_ids": [
+        "ch20-u004"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "M. Bitbol CREA, CNRS/Ecole Polytechnique, Paris, France"
+      ],
+      "zh": [
+        "M. Bitbol CREA, CNRS/Ecole Polytechnique, Paris, France"
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch20-u005",
+      "source_ids": [
+        "ch20-u005"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "According to Zurek (1982, 2003), the ideal of decoherence theories is to use quantum mechanics as a fundamental tool to clarify its own interpretation. But in spite of their remarkable achievements, decoherence theories have not completely fulfilled this program. Firstly, the measurement problem still retains an irreducibly philosophical component which is stubbornly resistant (Joos et al., 2003). This component is basically the issue of the transition from potentiality to actuality, from an extended potentiality to a particular, unique and local actuality. Secondly, it is wrong to think that a satisfactory interpretation of quantum mechanics may arise entirely from decoherence theories. Indeed, one should not forget that the results of decoherence theories, and of the experiments which tend to corroborate them (Brune et al., 1996; Dreyer, 1997; Hagley et al., 1997) depend, for their evaluation and their formulation, on a preliminary interpretation of quantum mechanics. In other terms, their putative interpretational contents are not independent of the interpretation they presuppose."
+      ],
+      "zh": [
+        "按照祖雷克（Zurek, 1982, 2003）的看法，退相干理论的理想是把量子力学用作澄清其自身解释的基本工具。但尽管取得了非凡的成就，退相干理论并未完全实现这一纲领。首先，测量问题仍然保留着一个不可还原的哲学成分，它顽固地抵抗着消解（Joos et al., 2003）。这个成分基本上就是从潜能到现实、从在空间上延展的潜能到特殊的、唯一的、局域的现实之过渡的问题。其次，认为量子力学的令人满意的解释可以完全从退相干理论中产生，这是错误的。的确，人们不应忘记，退相干理论的结果，以及倾向于确证这些结果的实验（Brune et al., 1996; Dreyer, 1997; Hagley et al., 1997），就其评价和表述而言，都依赖于对量子力学的一种先行解释。换言之，它们所谓的解释内容并不独立于它们所预设的解释。"
+      ],
+      "units": 159
+    },
+    {
+      "id": "ch20-u006",
+      "source_ids": [
+        "ch20-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This means that the interpretational contents of decoherence theories are basically circular. But this circle does not necessarily have to be vicious. I shall argue that decoherence theories provide us with genuine proof of self-consistence: a proof of the mutual consistence between the interpretation they start from and their own interpretational contribution. Such proof is less than what their creators hoped for, but is not negligible."
+      ],
+      "zh": [
+        "这意味着退相干理论的解释内容带有循环性。但这个循环不必然是恶性的。我将论证，退相干理论为我们提供了真正的自洽性证明：即它们由以出发的那种解释与它们自身的解释贡献之间相互一致性的证明。这比理论创立者希望证明的要少，但并非无足轻重。"
+      ],
+      "units": 66
+    },
+    {
+      "id": "ch20-u007",
+      "source_ids": [
+        "ch20-u007"
+      ],
+      "page": "348",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This importance of the preliminary interpretation on the status of decoherence is now beginning to attract attention. A good example is Ulrich Mohrhoff (2001). According to him « Decoherence is not a part of any interpretational strategy. It is a physical phenomenon predicted by quantum mechanics and, like quantum mechanics itself, in need of an interpretation ». In the same way as quantum mechanics itself, decoherence is already influenced by some underlying interpretations; usually a strange mixture of at least two interpretations. The most common mixture is made up of a large amount of realism of formal essences, and a touch of empiricism. My first task will therefore be to disentangle these two components, realist and empiricist, in the standard mixture of interpretations. I shall then undertake to reconcile the conclusions drawn from the two interpretational components by adopting the standpoint of transcendental epistemology. Decoherence will eventually be seen as an element in a multi-layered strategy of constituting objectivities in physics."
+      ],
+      "zh": [
+        "先行解释为何关系到退相干理论的地位，如今开始受到重视。一个很好的例子是乌尔里希·莫尔霍夫（Ulrich Mohrhoff, 2001）。在他看来，“退相干不是任何解释策略的一部分。它是量子力学所预言的一种物理现象，并且像量子力学本身一样，需要一种解释”。正如量子力学本身一样，退相干已经受到某些底层解释的影响；通常是至少两种解释的奇怪混合。最常见的混合由大量的形式本质实在论加少许经验论构成。因此，我的第一项任务就是把标准解释混合中的这两个成分——实在论的与经验论的——拆解开来。然后，我将通过采取先验认识论的立场，着手调和从这两个解释成分得出的结论。退相干最终将被看作物理学中构成不同客观性的多层策略中的一个要素。"
+      ],
+      "units": 159
+    },
+    {
+      "id": "ch20-u008",
+      "source_ids": [
+        "ch20-u008"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Formalist Realism of State Vectors: A Standard Approach to Decoherence"
+      ],
+      "zh": [
+        "1 态矢量的形式主义实在论：研究退相干的标准进路"
+      ],
+      "type": "subheading",
+      "units": 11
+    },
+    {
+      "id": "ch20-u009",
+      "source_ids": [
+        "ch20-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The realist component of the underlying interpretation of quantum mechanics almost entirely determines the vocabulary and the program of decoherence theories. But what is the specific motivation of this realist view? Its motivation is a twofold characterization of reality that a neo-Kantian philosopher would construe as a twofold characterization of objectivity. Reality, in this approach, is a structure which remains invariant across a given set of substitutions of experimental procedures. It is also, more specifically, a structure which evolves according to a law which takes on the form of a partial differential equation. Now, in quantum mechanics, state vectors obey these two conditions. Firstly, a single state vector is enough to derive probabilistic predictions for any type of measurement which may be performed after a given preparation: in this sense, it is a predictive invariant. Secondly, state vectors are ruled by a partial differential equation including time among its variables: the Schrödinger equation or the Dirac equation. These two reality-like characteristics make it tempting to endow the state vector with ontological status. The state vector is construed as a reflection of some intrinsic feature of physical systems called their « state », in virtue of a dubious but widespread analogy with the classical state."
+      ],
+      "zh": [
+        "量子力学底层解释中的实在论成分几乎完全决定了退相干理论的词汇和纲领。但这种实在论观点的具体动机是什么？其动机是对实在的一种双重刻画，新康德主义哲学家会把它理解为对客观性的双重刻画。在这种进路中，实在是在给定的一组实验程序替换之下保持不变的结构。更具体地说，它也是按照采取偏微分方程形式的定律演化的结构。而在量子力学中，态矢量满足这两个条件。首先，单个态矢量就足以导出在给定制备之后可以执行的任何类型测量的概率预言：在这个意义上，它是预测中保持不变的量。其次，态矢量受一个把时间包含在其变量之中的偏微分方程支配：薛定谔方程或狄拉克方程。这两个通常被归于实在的特征使人忍不住赋予态矢量以本体论地位。凭借一种可疑但流传甚广的与经典态的类比，态矢量被理解为物理系统的某种内在特征——即所谓系统的“态”——的反映。"
+      ],
+      "units": 202
+    },
+    {
+      "id": "ch20-u010",
+      "source_ids": [
+        "ch20-u010"
+      ],
+      "page": "349",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If one takes this standard interpretation seriously, the aim of decoherence theories is to show that the structure of quantum micro-states entails the macro-state structure that can be witnessed in the laboratory and in ordinary life. The quantum states are usually superpositions, linear combinations of accessible states represented in formalism by eigenstates of the corresponding observables. By contrast, on the macroscopic scale, only one of these accessible states may be obtained at a time. In superpositions, the various accessible states interfere, whereas the states witnessed on a macroscopic scale are mutually exclusive and do not interfere. The solution provided by decoherence to this problem of existence of a gap between the quantum domain and the semi-classical macroscopic domain is called « environment-induced superselection », or « einselection ». This solution consists in showing that the phase coherences of the state of an apparatus correlated to a micro-system are rapidly diluted in its environment. The almost complete disappearance of the interference terms is then equivalent to a superselection rule which only retains the eigenstates of a given observable, itself selected by the decoherence process."
+      ],
+      "zh": [
+        "如果认真对待这种标准解释，退相干理论的目标就是表明：量子微观态的结构蕴涵着在实验室和日常生活中可以见证的宏观态结构。量子态通常是叠加态，即诸可及态的线性组合，这些可及态在形式体系中由相应可观测量的本征态表示。相比之下，在宏观尺度上，每次只能获得这些可及态中的一个。在叠加态中，各个可及态相互干涉，而在宏观尺度上见证到的态则相互排斥、互不干涉。退相干为量子域与半经典宏观域之间存在鸿沟这一问题提供的解决方案，被称为“环境诱导超选择”（environment-induced superselection），或简称“环境超选择”（einselection）。这个解决方案在于表明：与微观系统相关联的仪器状态的相位相干性会迅速分散到环境中。干涉项的几乎完全消失，于是等价于一条超选择规则，它只保留某个给定可观测量的本征态，而这个可观测量本身又是由退相干过程选出的。"
+      ],
+      "units": 179
+    },
+    {
+      "id": "ch20-u011",
+      "source_ids": [
+        "ch20-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This well-known result is clearly important, but the realist interpretation of state vectors tends to overrate it. According to the perspective of a realism of formal essences, linear superpositions of vectors in a Hilbert space faithfully represent physical reality. Then, everything else, including the classical behavior of macroscopic objects is nothing but superficial appearance. According to this interpretation, decoherence is thus able to do nothing less than derive classical appearances from a quantum reality."
+      ],
+      "zh": [
+        "这个众所周知的结果显然重要，但对态矢量的实在论解释倾向于高估它。按照形式本质实在论的视角，希尔伯特空间中矢量的线性叠加忠实地表征物理实在。于是，其余一切，包括宏观物体的经典行为，都不过是表面的显象。按照这种解释，退相干因而足以从量子实在推导出经典显象。"
+      ],
+      "units": 74
+    },
+    {
+      "id": "ch20-u012",
+      "source_ids": [
+        "ch20-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Accordingly, the authors who support this realist interpretation claim that decoherence is able to explain why a universe which is essentially ruled by quantum laws appears classical on a large scale of size and complexity. Decoherence theories are specifically ascribed the task of explaining the strange subdivision of the world established by Bohr between the classical and quantum domains retrospectively, in the framework of quantum formalism. Along with the realist interpretation of decoherence, the bohrian divide is only a practical distinction between what appears to us macroobservers, and what supposedly exists according to a quantum description. Appearance is explained by Being, in the most common one-directional and causal-like meaning of the term ‘explanation’. Appearance as an explanandum is displayed by our measuring instruments, whereas Being as an explanans is revealed by our theoretical thought (in the same way as in Kant’s inaugural dissertation of 1770, which belongs to his precritical philosophy, our senses show us things as they appear whereas reason represents things as they are). Experimental appearance can rationally be shown to be a consequence of what is in reality, provided Being is construed in the appropriate way."
+      ],
+      "zh": [
+        "相应地，支持这种实在论解释的作者们声称，退相干能够解释为什么一个本质上受量子定律支配的宇宙，在尺度较大、结构较复杂时呈现出经典行为。退相干理论被特别赋予这样一项任务：在量子形式体系的框架内，回溯性地解释玻尔在经典域与量子域之间建立的那种奇怪的世界划分。伴随对退相干的实在论解释，玻尔式划分只是我们宏观观察者所见的显象与按照量子描述据说存在的东西之间的一种实用区分。显象由存在来解释，这里用的是“解释”一词最常见的单向的、类因果的意义。作为被解释项的显象由我们的测量仪器展示出来，而作为解释项的存在则由我们的理论思维揭示出来（正如在康德 1770 年的就职论文中——它属于康德的前批判哲学——感官向我们显示事物如其所显，而理性则表象事物如其所是）。只要存在被以恰当的方式理解，实验显象就可以被合理地表明是实在之物的后果。"
+      ],
+      "units": 189
+    },
+    {
+      "id": "ch20-u013",
+      "source_ids": [
+        "ch20-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "However, some difficulties make us suspicious that although decoherence theories are a success insofar as they have defined and accurately predicted a whole new domain of phenomena which were detected experimentally a few years ago, they have much less foundational abilities than their realist interpreters assume. Let me examine three of these difficulties in turn."
+      ],
+      "zh": [
+        "然而，某些困难使我们怀疑：尽管退相干理论是成功的——它们界定并精确预言了一整片新的现象领域，这些现象几年前已被实验探测到——但它们的为量子理论奠定解释基础的能力远不如其实在论解释者所设想的那样。让我依次考察其中三个困难。"
+      ],
+      "units": 55
+    },
+    {
+      "id": "ch20-u014",
+      "source_ids": [
+        "ch20-u014"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The first is the persistence of residual interference effects, namely non-diagonal terms in the density matrix of the system object + apparatus. Since the process which leads to the decrease of these diagonal terms is in principle reversible, one might witness the resurgence of interference effects between macroscopic states. This possibility is not purely fanciful. Long-term experiments have been performed by the same team of the Ecole Normale Supérieure, in Paris, who detected decoherence effects for the first time on small mesoscopic systems (dubbed « Schrödinger’s kittens »). These experiments (Raimond et al., 1997) resulted in beautiful curves of periodical recurrence, that show a virtually complete recovery of phase correlations before these correlations are lost again."
+      ],
+      "zh": [
+        "第一个困难是残余干涉效应的持续存在，即客体＋仪器系统的密度矩阵中的非对角项。由于导致这些非对角项减小的过程在原则上是可逆的，人们可能会见证宏观态之间干涉效应的复苏。这种可能性并非纯粹的空想。巴黎高等师范学院的同一个团队——他们最早在小介观系统（被称为“薛定谔的小猫”）上探测到退相干效应——已经完成了长期实验。这些实验（Raimond et al., 1997）得到了漂亮的周期性回归曲线，显示出相位关联在再次丧失之前的几乎完全恢复。",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "原书此处写作 “these diagonal terms”。依上一句及随后的干涉讨论，译文作“非对角项”。"
+          ]
+        }
+      ],
+      "units": 113
+    },
+    {
+      "id": "ch20-u015",
+      "source_ids": [
+        "ch20-u015"
+      ],
+      "page": "350",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Of course, one may reply by pointing out that decoherence theorists do not claim to have proven that a genuinely classical world emerges out of the quantum world, but only, once again, that what emerges is a set of quasi-classical, and possibly temporary, appearances. This is credible enough, since residual terms are small, and recurrence periods are very long when large systems are concerned. Here, Boltzmann’s argument against Loschmidt (Reichenbach, 1956) may be used with reasonable success: one does not prove that the macroscopic phenomena are the only consequence of a certain microscopic behaviour, but that they are the most probable consequence in the long run. However, it must be noticed that Boltzmann-like arguments point towards a variety of physical explanations that are weaker than strict derivability."
+      ],
+      "zh": [
+        "当然，人们可以回应说，退相干理论家并不声称已经证明一个真正经典的世界从量子世界中涌现出来，而只是——再一次——声称涌现出来的是一组准经典的显象，且可能只是暂时的。这足够可信，因为残余项很小，而且就大系统而言回归周期非常长。这里，玻尔兹曼反对洛施密特的论证（Reichenbach, 1956）可以相当成功地使用：人们不是证明宏观现象是某种微观行为的唯一后果，而是证明它们是长远来看最可能的后果。然而必须注意到，玻尔兹曼式的论证指向的是比严格可推导性更弱的一类物理解释。"
+      ],
+      "units": 127
+    },
+    {
+      "id": "ch20-u016",
+      "source_ids": [
+        "ch20-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The second difficulty is more serious. Decoherence yields a density matrix with negligible non-diagonal terms. But, as Bernard d’Espagnat (1994) pointed out, it does not provide one with proper statistical mixtures; only with so-called improper mixtures bearing the trace of entanglement. Thus, Decoherence does not amount to a true state reduction. The gulf between potentiality and actuality has not been crossed by decoherence. To cope with this problem, many authors, including Zurek and Gell-Mann, suggested some combination of decoherence and Many-World interpretation: Many-World interpretations ascribe each term of a decoherence-induced improper mixture, the status of one actuality existing in parallel with many others; Conversely, decoherence solves the preferred basis problem that plagues the ManyWorld interpretations. But the very need of some version of the Many-World interpretation is enough to show that decoherence, in its realist version, is not able to solve the measurement problem as it is construed under realist premises, nor explain the univocity of the events of the macro-world by itself."
+      ],
+      "zh": [
+        "第二个困难更严重。退相干产生一个非对角项可忽略的密度矩阵。但正如贝尔纳·德·埃斯帕尼亚（Bernard d’Espagnat, 1994）所指出的，它并不提供真正的统计混合态（proper mixture），只得到仍带有纠缠痕迹的非真混合态（improper mixture）。因此，退相干并不等于真正的态约化。潜能与现实之间的鸿沟并未被退相干跨越。为应对这个问题，包括祖雷克和盖尔曼在内的许多作者建议把退相干与多世界解释以某种方式结合起来：多世界解释赋予退相干诱导的非真混合态中的每一项以与其他许多现实并行存在的一个现实的地位；反过来，退相干解决了困扰多世界解释的优选基问题。但对某个版本的多世界解释的需要本身就足以表明：实在论版本的退相干既不能解决在实在论前提下理解的测量问题，也不能凭自身解释宏观世界事件的唯一性。"
+      ],
+      "units": 163
+    },
+    {
+      "id": "ch20-u017",
+      "source_ids": [
+        "ch20-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The third difficulty is more subtle but also deeper than the two previous ones. As Zurek (1982) pointed out, decoherence processes only occur as an effect of the interaction between appropriately defined sub-systems; usually three sub-systems called the object, the apparatus, and the environment. This procedure is supported by the existence of theorems of « tridecompositionality ». The theorems of tridecompositionality state the uniqueness of the decomposition of the state vector of a system made of three interacting sub-systems into a diagonal (« Schmidt ») superposition of tensor products of three state vectors, if such a decomposition exists at all (Bub, 1997). Now, on what grounds can one assume that the universe is somehow divided into sub-systems, that the decomposition does exist, and that the interest of the experimenter can be focused on one of these subsystems (the object)? If one thinks hard about this question, one soon realizes that the only ground and origin of this assumption is our macroscopic experience of spatially separated bodies. But is it legitimate to take our macroscopic experience as a basis for a theory which is supposed to explain how this experience is generated out of something truly deeper and truly different? Is it acceptable to take appearances as a starting point of a theory which is supposed to deal primarily with Being? This strategy is clearly circular. And such a circle is a threat for a realist reading of decoherence theories. For, in such a reading, one would like to get a one-directional derivation (and hence an explanation in the most common acceptation) of classical appearances from a microscopic reality allegedly represented in a faithful manner by quantum formalism. Circularity is disastrous for any realist interpretation of explanation. But if another, weaker interpretation is adopted, this feature of decoherence theories can become more acceptable. Even the circle between the presuppositions of decoherence and their outcome may turn out to make sense. One must only be willing to explore other, less common, varieties of explanation."
+      ],
+      "zh": [
+        "第三个困难比前两个更微妙，但也更深。正如祖雷克（Zurek, 1982）所指出的，退相干过程只有在恰当划分的子系统相互作用时才会发生。通常划分为客体、仪器和环境。这一程序得到“三分解唯一性”定理的支持。三分解唯一性定理断言：由三个相互作用的子系统构成的系统，其态矢量分解为三个态矢量的张量积的对角（“施密特”）叠加——如果这种分解存在的话——是唯一的（Bub, 1997）。那么，人们凭什么可以假定宇宙以某种方式被划分为子系统、假定这种分解确实存在、并且假定实验者可以把关注集中在其中一个子系统上（客体）？如果认真思考这个问题，人们很快就会意识到，这个假设的唯一根据和来源是我们关于空间上分离的物体的宏观经验。但是，把我们的宏观经验用作一个理论的基础，而这个理论本应解释这种经验如何从某种真正更深、真正不同的东西中产生，这合法吗？把显象用作一个本应首要处理存在的理论的出发点，这可以接受吗？这种策略显然是循环的。而这样的循环对退相干理论的实在论解读构成威胁。因为在这种解读中，人们希望得到经典显象从据说被量子形式体系忠实表征的微观实在出发的单向推导（从而得到最常见意义上的解释）。循环性对任何关于解释的实在论理解都是灾难性的。但如果采纳另一种更弱的解释，退相干理论的这一特征就可以变得更容易接受。甚至退相干的预设与其结果之间的循环，也可能被表明是有意义的。人们只需要愿意探索其他不那么常见的解释种类。"
+      ],
+      "units": 328
+    },
+    {
+      "id": "ch20-u018",
+      "source_ids": [
+        "ch20-u018"
+      ],
+      "page": "351",
+      "canonical_kind": "heading",
+      "en": [
+        "2 A Thoroughly Empiricist Reading of Decoherence"
+      ],
+      "zh": [
+        "2 对退相干的彻底经验论解读"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch20-u019",
+      "source_ids": [
+        "ch20-u019"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I shall now consider the second type of interpretation of decoherence theories: the empiricist interpretation. In an empiricist framework, the standard of reality is diametrically opposed to that of a realism of formal essences. What is real, according to an empiricist thinker, is the fact; the experimental fact as it is directly witnessed in a laboratory, as it is expressed in short descriptive propositions, and as it is sketchily interpreted by means of models borrowed from empirically valid theories. Instead of granting ontological value to abstract invariants and universal law-like formalisms, the empiricist puts ontological weight on concrete variations and particular events. In that respect, the empiricist philosophers of science are heirs to nominalism. According to empiricists, physical laws are only there to anticipate, by means of a structural scaffolding devoid of any picture-like significance, constant correlations between possible facts. The laws of classical mechanics thus anticipate strict correlations between possible phenomena. Then, as soon as one has selected the initial conditions by identifying them as a set of actual facts, these formal correlations are turned into definite predictions for later actual facts. As for the laws of quantum mechanics, they anticipate probabilistic correlations between possible phenomena. These formal correlations become testable as soon as an initial state vector has been associated to an actual preparation, since probabilities can then be calculated from this state vector and compared to actual experimental outcomes. A. Peres (1995) and J. Schwinger (2003) are among the physicists who recently and forcefully advocated this view. A. Peres stated what he believes is the true but highly restrictive status of quantum mechanics thus: « Quantum theory is a set of rules allowing the computation of probabilities for the outcome of tests which follow specified preparations ». All the terms borrowed from the ontological framework of classical physics, such as « system » and « state », are redefined accordingly:"
+      ],
+      "zh": [
+        "我现在来考察退相干理论的第二种解释类型：经验论解释。在经验论框架中，实在的标准与形式本质实在论的标准截然相反。按照经验论思想家的看法，实在的东西是事实；是在实验室中直接见证到的实验事实，是以简短的描述性命题表达出来、并借助从经验上有效的理论借来的模型加以粗略解释的实验事实。经验论者不把本体论价值赋予抽象不变量和普遍定律式的形式体系，而是把本体论分量放在具体变化和特殊事件上。在这方面，经验论的科学哲学家是唯名论的继承者。按照经验论者的看法，物理定律的存在只是为了借助一个没有任何图像式意义的结构脚手架，预期可能事实之间的恒常关联。于是，经典力学的定律预期可能现象之间的严格关联。然后，一旦人们通过把初始条件认定为一组实际事实而选定了它们，这些形式关联就转化为对后续实际事实的确定预言。至于量子力学的定律，它们预期可能现象之间的概率性关联。一旦一个初始态矢量被关联到一个实际的制备，这些形式关联就变得可检验，因为此时可以从这个态矢量计算概率，并与实际实验结果相比较。A. 佩雷斯（Peres, 1995）和 J. 施温格（Schwinger, 2003）是近来有力倡导这种观点的物理学家。A. 佩雷斯这样陈述他心目中量子力学的真实但高度受限的地位：“量子理论是一套规则，允许计算在特定制备之后进行检验时，各种结果的概率。”所有从经典物理学的本体论框架借来的术语，如“系统”和“态”，都相应地被重新定义："
+      ],
+      "units": 307
+    },
+    {
+      "id": "ch20-u020",
+      "source_ids": [
+        "ch20-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "– « A quantum system is defined by an equivalence class of preparations ».\n– « We can define a state as follows: a state is characterized by the probabilities of the various outcomes of every conceivable test »."
+      ],
+      "zh": [
+        "– “一个量子系统由制备的一个等价类来定义。”\n– “我们可以这样定义态：一个态由每一种可设想的检验的各种结果的概率来刻画。”"
+      ],
+      "units": 33
+    },
+    {
+      "id": "ch20-u021",
+      "source_ids": [
+        "ch20-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Along with this class of views, which was also developed in a more nuanced way by B. Van Fraassen (1991), state vectors are by no means reflections of a reality deeper than the facts they enable us to predict. They are essentially sophisticated tools of probability valuation, adapted to situations where phenomena cannot be properly separated from their experimental context, which is precisely the case in microphysics."
+      ],
+      "zh": [
+        "按照这类观点——B. 范·弗拉森（Van Fraassen, 1991）也以更细致的方式发展过它——态矢量绝不是比它们使我们能够预言的事实更深的实在的反映。它们本质上是精密的概率赋值工具，适应于现象无法与其实验语境恰当分离的情形，而这正是微观物理学的情况。"
+      ],
+      "units": 67
+    },
+    {
+      "id": "ch20-u022",
+      "source_ids": [
+        "ch20-u022"
+      ],
+      "page": "352",
+      "canonical_kind": "paragraph",
+      "en": [
+        "What then is the meaning of decoherence according to such a thoroughly empiricist interpretation of quantum mechanics? Obviously, decoherence cannot be taken to have explained the emergence of classical appearances from a deeper reality allegedly represented by the symbols of quantum mechanics. For, in an empiricist framework of thought, reality is nothing else and nothing beyond the « classical appearances » themselves. According to an empiricist reading, if anything can be said to emerge as a consequence of a decoherence process, this is a purely formal, symbolic, abstract sort of emergence. The standard, kolmogorovian form of probability valuation, emerges from the quantum form of probability valuation. A probability theory adapted to predicting distributions of intrinsically occurring events, emerges from a more general probability theory adapted to predicting contextual events (Bitbol, 1996, 2000). Nothing more emerges by way of the decoherence process, but nothing less either."
+      ],
+      "zh": [
+        "那么，按照对量子力学的这种彻底经验论解释，退相干的意义是什么？显然，退相干不能被认为解释了经典显象从据说由量子力学的符号表征的更深实在中的涌现。因为在经验论的思想框架中，实在不是别的，也不超出“经典显象”本身。按照经验论解读，如果说有什么东西可以作为退相干过程的后果而涌现，那也是一种纯粹形式的、符号的、抽象的涌现。标准的、柯尔莫哥洛夫式的概率赋值形式，从量子式的概率赋值形式中涌现出来。一种适应于预言可以独立于实验语境而发生的事件之分布的概率理论，从一种适应于预言语境性事件的更一般的概率理论中涌现出来（Bitbol, 1996, 2000）。经由退相干过程涌现的东西不多于此，但也不少于此。"
+      ],
+      "units": 143
+    },
+    {
+      "id": "ch20-u023",
+      "source_ids": [
+        "ch20-u023"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The three difficulties of realist interpretations of decoherence are then seen in a very different light."
+      ],
+      "zh": [
+        "于是，退相干的实在论解释的三个困难就获得了完全不同的理解。"
+      ],
+      "units": 16
+    },
+    {
+      "id": "ch20-u024",
+      "source_ids": [
+        "ch20-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The first difficulty, namely the persistence of small interference terms is no longer harmful for an empiricist. It only means that complete detachment of experimental phenomena with respect to their context is an idealisation, and that the algorithm of probability valuation must take this into account. No weakening of the concept of explanation is involved here; rather, a strengthening of our grasp of the bounds of empirical science."
+      ],
+      "zh": [
+        "第一个困难，即微小干涉项的持续存在，对经验论者不再有害。它只意味着实验现象相对于其语境的完全脱离是一种理想化，概率赋值的算法必须把这一点考虑在内。这里不涉及解释概念的弱化；毋宁说，是对经验科学界限之把握的加强。"
+      ],
+      "units": 68
+    },
+    {
+      "id": "ch20-u025",
+      "source_ids": [
+        "ch20-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The second difficulty is even less of a problem for an empiricist thinker. S/he is even entitled to wonder how anybody ever entertained the strange belief that actual facts can somehow be derived from a purely formal manipulation of possibilities and their correlations. This is tantamount to thinking that the concrete reality of everyday life can arise from a pure thought process; or that existence can be derived from essence, in the same way as the ontological proof of God’s existence provided by St Anselm and Descartes (Van Fraassen, 1980). In a strictly empiricist framework, the only thing which can be demonstrated by decoherence is that a classical system of probability valuations which lean(s) towards the ‘ignorance’ interpretation can emerge (approximately) from a quantum system of probability valuations which is definitely averse to any ‘ignorance’ interpretation. One has no good reason to expect anything more spectacular, let alone more metaphysical, from decoherence theories."
+      ],
+      "zh": [
+        "第二个困难对经验论思想家来说更不是问题。他或她甚至有理由奇怪，怎么会有人持有这样一种奇怪的信念：实际事实竟然可以以某种方式从对可能性及其关联的纯形式操作中推导出来。这等于认为日常生活的具体实在可以从一个纯粹思维过程中产生；或者认为存在可以从本质推导出来，就像圣安瑟尔谟和笛卡尔提供的上帝存在的本体论证明那样（Van Fraassen, 1980）。在严格的经验论框架中，退相干所能证明的唯一事情是：允许以“无知”来解释概率的经典赋值体系，可以从无法作这种解释的量子赋值体系中近似地得到。人们没有充分理由期望退相干理论给出更惊人的东西，更不用说更形而上学的东西了。"
+      ],
+      "units": 155
+    },
+    {
+      "id": "ch20-u026",
+      "source_ids": [
+        "ch20-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "True, the ignorance interpretation of probability valuations enables one to figure out that a given property is realised in nature independently of its experimental manifestation. Therefore, it is tempting to believe that, as soon as decoherence has yielded a quasi-classical probabilistic structure, some true property is around, irrespective of and independently from any experimental test. But it would be absurd to suppose that the probabilistic formalism is able to single out this putative property by itself. And since, according to radical empiricist philosophers of science, the quantum formalism is but a special type of probabilistic formalism, it is equally absurd to suppose that it could select a given value by itself. No form of probability theory may have an explanation in store for the unicity and identity of each experimental fact. Providing probabilistic valuations of how frequently one should expect a certain type of experimental fact to occur, presupposes the unicity and identity of each fact. But presupposing it is quite another thing to explaining it."
+      ],
+      "zh": [
+        "诚然，概率赋值的无知解释使人能够设想：某个给定性质在自然中被实现，独立于它的实验显现。因此，人们忍不住相信，一旦退相干产生了一个准经典的概率结构，某个真实的性质就在那里，无关乎且独立于任何实验检验。但假定概率形式体系能够凭自身挑出这个设想的性质，那是荒谬的。而且，既然按照激进的经验论科学哲学家的看法，量子形式体系不过是一种特殊类型的概率形式体系，那么假定它能够凭自身选出某个给定值，同样是荒谬的。任何形式的概率理论都不可能解释每次实验为何会得到一个具体而唯一的结果。提供关于人们应当期望某类实验事实以何种频率出现的概率赋值，预设了每个事实的唯一性和同一性。但预设它是一回事，解释它完全是另一回事。"
+      ],
+      "units": 166
+    },
+    {
+      "id": "ch20-u027",
+      "source_ids": [
+        "ch20-u027"
+      ],
+      "page": "353",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Finally, the third difficulty can be provided with an interesting germ of solution in a thoroughly empiricist frame of thought. It is perfectly true that there is a kind of circle between the assumption of decoherence theories according to which the universe is divided into at least three sub-systems, and their conclusion according to which macro-objects behave like mutually separated entities endowed with intrinsic and stable properties. But this element of circularity is by no means shocking or even surprising for an empiricist. According to an empiricist, one cannot avoid starting from tangible, real and concrete mesoscopic facts when a physical theory is to be elaborated. The only condition which must be imposed onto the theory is to be compatible, at the end of the day, with this concrete reality which was naturally taken as its starting point. Now this is exactly what decoherence does by imposing a sort of feed-back process on quantum theory. Decoherence shows that the formal apparatus of quantum mechanics does not deny the structure of its real, factual contents, provided certain assumptions are introduced in order to restrict the range of possible evolutions of its probabilistic predictive symbols. This is much less than someone who believes in the reality of essences dreams of, yet neither is this negligible."
+      ],
+      "zh": [
+        "最后，第三个困难在彻底经验论的思想框架中已有可能找到解决的线索。的确，在退相干理论关于宇宙被划分为至少三个子系统的假设，与其关于宏观物体表现得像被赋予内禀而稳定的性质的相互分离实体的结论之间，存在某种循环。但这种循环成分对经验论者来说绝不令人震惊，甚至不令人惊讶。按照经验论者的看法，当一个物理理论有待建立时，人们无法避免从可触的、实在的、具体的介观事实出发。必须施加于理论的唯一条件是：它最终要与这个被自然当作其出发点的具体实在相容。而这正是退相干通过对量子理论施加某种反馈过程所做的事情。退相干表明，只要引入某些假设以限制其用来作概率预测的符号的可能演化范围，量子力学的形式体系就能与它所涉及的实际事实的结构相容。这远少于相信本质实在的人所梦想的东西，但也并非无足轻重。"
+      ],
+      "units": 213
+    },
+    {
+      "id": "ch20-u028",
+      "source_ids": [
+        "ch20-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But can one contend that decoherence « explains » anything if this view is accepted? Of course not if the usual, linear, causal, acceptation of « explanation » is retained. But there may be some prospect for an explanatory reading of decoherence in a non-realist view of quantum mechanics as well, provided an alternative meaning is ascribed to the concept of « explanation ». This can be seen in a more convincing way by considering a third interpretation of quantum mechanics which is neither realist nor empiricist but transcendental."
+      ],
+      "zh": [
+        "但是，如果接受这种观点，人们还能主张退相干“解释”了什么吗？如果保留“解释”一词通常的、线性的、因果的含义，当然不能。但只要赋予“解释”概念另一种含义，即使在量子力学的非实在论观点中，也可能有对退相干作解释性解读的前景。通过考察量子力学的第三种既非实在论也非经验论而是先验的解释，这一点可以更有说服力地看出来。"
+      ],
+      "units": 83
+    },
+    {
+      "id": "ch20-u029",
+      "source_ids": [
+        "ch20-u029"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Decoherence in a Transcendental Sense"
+      ],
+      "zh": [
+        "3 先验意义上的退相干"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch20-u030",
+      "source_ids": [
+        "ch20-u030"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The transcendental interpretation that I wish to develop at this point, is similar in some respects and different in some other respects to the former interpretations. It borrows something from both the formal realist and the empiricist interpretations, in the true spirit of Kant’s transcendentalism that was elaborated as a middle way between Wolff’s metaphysical dogmatism and Hume’s empiricism. But the transcendental line of thought also rejects the distinctive ontological claims of the two former interpretations. In a transcendental approach, neither formal universals nor factual particulars taken in isolation are taken to be real. Instead, what is taken as fundamental is the very process of definition of formal universals and factual particulars by one another, of which scientific investigations offer the purest instantiation."
+      ],
+      "zh": [
+        "我希望在此发展的先验解释，在某些方面与前述两种解释相似，在另一些方面又与它们不同。它从形式实在论解释和经验论解释双方都有所借鉴，这正符合康德先验论的真正精神——康德的先验论正是作为沃尔夫的形而上学独断论与休谟的经验论之间的中道而建立起来的。但先验的思想路线也拒绝前述两种解释各自独特的本体论主张。在先验进路中，孤立看待的形式共相和事实殊相都不被认为是实在的。相反，被视为根本的东西，正是形式共相与事实殊相相互规定的过程本身，而科学研究提供了这个过程最纯粹的实例。"
+      ],
+      "units": 123
+    },
+    {
+      "id": "ch20-u031",
+      "source_ids": [
+        "ch20-u031"
+      ],
+      "page": "354",
+      "canonical_kind": "paragraph",
+      "en": [
+        "According to a transcendentalist philosopher, empiricists are right when they suggest that the classical organization of the macro-mesoscopic world is a precondition for quantum formalism. They are right to point out that our ordinary belief in the intrinsic occurrence of mutually exclusive elementary events, and in the intrinsic possession of properties, is bound to be the starting point of the elaboration of quantum formalisms (and of any other theoretical formalism as well). Indeed, if it were not the case, no one could tell what the quantum probabilistic valuations are about. Probabilities are probabilities of well-defined events, and therefore belief in these well-defined events is and must be a basic supposition of quantum theories. This is the reason for which Bohr insisted so much on the necessity of describing part of the experimental devices in a classical framework: this type of description, according to him, was a pragmatic and epistemological necessity. However, unlike empiricist philosophers committed to their « two dogmas », transcendentalists are definitely averse to endowing the classical mode of organization of directly observable events with a foundational status. Being a pragmatic precondition for is not tantamount to Being full stop. Having been used as an indispensible starting point of an epistemic process is not equivalent to having more ontological weight than the end product of this very epistemic process. One should realize that choosing a starting point has no ontological implication at all."
+      ],
+      "zh": [
+        "按照先验论哲学家的看法，当经验论者提出宏观—介观世界的经典组织是量子形式体系的一个前提条件时，他们是对的。他们正确地指出，日常经验使我们相信，相互排斥的基本事件本就会各自发生，事物本身也具有其性质。这一信念，必然是量子形式体系（以及任何其他理论形式体系）之建立的出发点。的确，若非如此，没有人能说出量子概率赋值是关于什么的。概率是定义明确的事件的概率，因此对这些定义明确的事件的信念是而且必须是量子理论的一个基本设定。这就是玻尔如此强调必须在经典框架中描述部分实验装置的原因：在他看来，这种描述是一种实用上和认识论上的必然。然而，与固守其“两个教条”的经验论哲学家不同，先验论者断然不愿赋予直接可观察事件的经典组织方式以奠基地位。作为一个实用性前提，并不等同于存在本身。被用作一个认识过程不可或缺的出发点，并不等价于比这个认识过程本身的最终产物具有更多的本体论分量。人们应当认识到，选择一个出发点没有任何本体论含意。"
+      ],
+      "units": 233
+    },
+    {
+      "id": "ch20-u032",
+      "source_ids": [
+        "ch20-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Transcendentalism also differs from empiricism by emphasizing that isolated actual facts are purely anecdotal. Actual facts only acquire their meaning from a certain formalism which connects them to other facts by means of law-like statements. A mere sequence of facts is no experience at all, in kantian terms: it is at most a rhapsody of phenomena. Facts are organized into an experience stricto sensu by their being embedded within a universally shared formal framework; a formal framework in which every single fact is construed as a special aspect or facet of some unifying invariant. Within our close mesoscopic environment, the natural organizing framework is what Kant called the system of the categories of understanding. This system underpins classical physics. But for domains that are increasingly distant from our direct neighborhood, the organizing framework may differ considerably from its kantian paradigm. As Cassirer pointed out, this difference is not a sign of failure of transcendental epistemology; it rather corresponds to an appropriate generalization of the objectifying function of kantian categories."
+      ],
+      "zh": [
+        "先验论与经验论的不同还在于它强调：孤立考察的事实只不过是零散的个案。实际事实只有从某个形式体系中获得意义，这个形式体系借助定律式的陈述把它们与其他事实联系起来。用康德的术语说，事实仅仅相继出现，还称不上经验，至多是一堆杂凑的现象。事实通过被嵌入一个普遍共享的形式框架而被组织成严格意义上的经验（stricto sensu）；在这个形式框架中，每一个事实都被理解为某个统一不变量的一个特殊方面或侧面。在我们切近的介观环境中，自然的组织框架就是康德所谓的知性范畴体系。这个体系支撑着经典物理学。但对于离我们直接邻域越来越远的领域，组织框架可能与康德范式有相当大的差异。正如卡西尔所指出的，这种差异不是先验认识论失败的标志；它毋宁对应于康德范畴之客观化功能的一种恰当推广。"
+      ],
+      "units": 169
+    },
+    {
+      "id": "ch20-u033",
+      "source_ids": [
+        "ch20-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now, as soon as one understands the crucial role of the organizing structures beyond and above the isolated empirical data, facts tend to be relegated to the background. Conversely, the universal meaning of facts, as provided by a formal framework, comes to the fore, and the speculative interest of reason is stimulated by this inversion in the order of priorities. One then seems to fall closer and closer to the doctrinal antithesis of empiricism, namely realism of formal essences."
+      ],
+      "zh": [
+        "于是，一旦人们理解了超越并高于孤立经验材料的组织结构的关键作用，事实就倾向于被推到背景之中。反过来，由形式框架提供的事实的普遍意义走到前台，而理性的思辨兴趣被这种优先次序的颠倒所激发。人们于是似乎越来越接近经验论在学说上的对立面，即形式本质实在论。"
+      ],
+      "units": 79
+    },
+    {
+      "id": "ch20-u034",
+      "source_ids": [
+        "ch20-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "However, transcendental philosophy is just as little attracted to realism of formal essences as to empiricism. According to it, form cannot be made completely independent of content. It is even less likely for content to be derived from pure form. In particular, any attempt at grounding the facts that are presupposed by the quantum formalism on a theorem of this very formalism, looks awkward from a transcendentalist standpoint. For a modern transcendentalist, form and facts are interdependent, and none of them should be given any priority, let alone any autonomy with respect to the other. Just as much as facts need a formal framework in order to acquire their objective meaning, formalism needs facts in order to be filled in by them; formalism needs facts in order to be about something. To paraphrase Kant, facts without formalisms are blind (not to say meaningless) and formalisms without facts are empty."
+      ],
+      "zh": [
+        "然而，先验哲学对形式本质实在论的兴趣并不比对经验论的兴趣更多。按照它的看法，形式不能完全独立于内容。内容从纯形式推导出来就更不可能了。特别是，任何试图把量子形式体系所预设的事实奠定在这个形式体系本身的某个定理之上的努力，从先验论的立场看都显得别扭。对现代先验论者来说，形式与事实相互依赖，任何一方都不应被赋予相对于另一方的任何优先性，更不用说任何自主性。正如事实需要一个形式框架才能获得其客观意义，形式体系也需要事实来充实它。因此，形式体系总要有事实作为它所谈论的内容。套用康德的话说，没有形式体系的事实是盲目的（更不必说是无意义的），而没有事实的形式体系是空洞的。"
+      ],
+      "units": 149
+    },
+    {
+      "id": "ch20-u035",
+      "source_ids": [
+        "ch20-u035"
+      ],
+      "page": "355",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now what about decoherence in a transcendentalist context? The two first difficulties of the realist reading of decoherence are solved in the empiricist’s way. But the solution of the third difficulty is more demanding, and also more significant, than in the empiricist frame of thought. The empiricists were content to say that decoherence proves that quantum formalism does not contradict its real basis made of actual facts. In contrast, according to a transcendentalist, facts are no more real than forms, and forms are no more real than factual appearances. Decoherence then has a much more important role to play in transcendentalism than in empiricism. Here, Decoherence proves the validity of one of the two directions of the dialectic by means of which facts and forms are mutually defined in the quantum paradigm. The first direction of the dialectic, which goes from facts, especially spectral data, to the quantum formalism, was progressively clarified during the first quarter of the twentieth century by Bohr and Heisenberg. It involves the correspondence principle, which extrapolates from the classical-like interpretation of the instruments’ working and readings, towards a new theoretical formalism able to predict the instrument’s readings in a coherent way. But one had to wait until the end of the twentieth century in order to clarify the second direction of the dialectic, the direction which starts from the formalism to disclose the structure of the facts about which it provides probabilistic predictions. As soon as this was done, by way of decoherence theories, the system made of the quantum formalism and its empirical presuppositions was shown to be completely self-consistent."
+      ],
+      "zh": [
+        "那么在先验论语境中退相干又如何？退相干的实在论解读的前两个困难以经验论者的方式得到解决。但第三个困难的解决比在经验论思想框架中要求更高，也更有意义。经验论者满足于说，退相干证明量子形式体系不与其由实际事实构成的实在基础相矛盾。相比之下，按照先验论者的看法，事实并不比形式更实在，形式也不比事实性显象更实在。于是，退相干在先验论中比在经验论中扮演重要得多的角色。在这里，退相干验证了量子范式中事实与形式相互规定的两个方向之一。辩证法的第一个方向从事实——尤其是光谱数据——走向量子形式体系，它在二十世纪前二十五年间由玻尔和海森堡逐步澄清。它涉及对应原理，该原理从对仪器如何工作及其读数的近似经典解释出发，推演出一种新的理论形式体系，能够以融贯的方式预言仪器的读数。但人们不得不等到二十世纪末，才澄清辩证法的第二个方向，即从形式体系出发、揭示它为其提供概率预言的那些事实之结构的方向。一旦这件事经由退相干理论完成，由量子形式体系及其经验预设构成的系统就被表明是完全自洽的。"
+      ],
+      "units": 266
+    },
+    {
+      "id": "ch20-u036",
+      "source_ids": [
+        "ch20-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Clearly, the transcendentalist reading of quantum mechanics has gone beyond the empiricist agnosticism. In transcendentalism, formalism is no longer seen as a mere instrument for predicting facts that really exist; it is no longer a mere shadow of the system of facts. It is constitutive, in the sense that it endows facts with objective meaning by construing them as aspects of a structural invariant. In this respect, decoherence itself can rightly be said to have a constitutive role: it operates as a second step in a two-step process of constitution of objectivity. To understand this, we must state this stratified process as precisely as possible."
+      ],
+      "zh": [
+        "显然，对量子力学的先验论解读已经超越了经验论的不可知论。在先验论中，形式体系不再被看作预言真实存在的事实的单纯工具；它不再是事实系统的单纯影子。它是构成性的，意思是它通过把事实理解为某个结构不变量的诸方面而赋予事实以客观意义。在这方面，退相干本身也可以正当地被说成具有构成性作用：它作为一个两步的客观性构成过程中的第二步起作用。要理解这一点，我们必须尽可能精确地陈述这个分层的过程。"
+      ],
+      "units": 105
+    },
+    {
+      "id": "ch20-u037",
+      "source_ids": [
+        "ch20-u037"
+      ],
+      "page": "356",
+      "canonical_kind": "paragraph",
+      "en": [
+        "– In the first step, quantum formalism as a whole prescribes a statistical order to micro-events. Through this, clusters of contextual phenomena are anticipated by means of decontextualized probabilistic invariants called « state vectors », ruled by a universal law of evolution. This clearly corresponds to an act of constitution of objectivity, since decontextualizing anticipation means disconnecting it from particular circumstances, or making it invariant with respect to any change of these circumstances.\n– In the second step, one shows (through decoherence) that, in certain well-specified circumstances, traditional types of invariants isomorphic to classical properties can be made compatible with the new types of invariants introduced by quantum formalism. This step also corresponds to an act of constitution of objectivity, though a higher-order type of objectivity, since the traditional universe of individual objects and detached features, which is necessarily presupposed by experimentalists, emerges as a possible domain for the objectified (but unusual, interference-like) probabilistic valuations of quantum mechanics. That a certain (interference-free) structure of probabilistic valuations is necessary if the latter are to bear on the behaviour of classical objects was pointed out long ago by G. Boole (1952), and then cogently commented by I. Pitowsky (1994) in quantum context. Boole’s structure is the condition that must be fulfilled if a certain set of numbers included in the interval [0, 1] is to be considered as a probabilistic valuation for the occurrence of intrinsic properties of classical objects (Mittelstaedt, 1998). And decoherence is precisely the theoretical device which shows that Boole’s classical probabilistic structure is (approximately) compatible, under certain assumptions, with the quantum theoretical probabilistic structure. It is no wonder that G. Boole called his classical probabilistic structures: « conditions of possible experience », with overtly Kantian undertones. They are indeed preconditions for objectifying the domain of probabilistic valuations; and they are therefore constitutive of objectivity in this sense.\n\nTo recapitulate, the first step in the constitution of objectivity in quantum mechanics consists in extracting a universal, invariant, tool of probabilistic valuation; and the second step (represented by decoherence) consists in showing how the structure of this probabilistic valuation can be made approximately compatible, at the macroscopic level, with the assumption that it bears on a domain of randomly distributed intrinsic properties of objects."
+      ],
+      "zh": [
+        "– 在第一步中，量子形式体系作为整体给微观事件规定了一种统计秩序。借此，语境性现象的簇丛通过被称为“态矢量”的去语境化概率不变量而被预期，这些不变量受一条普遍演化定律支配。这显然对应于一个客观性构成的行为，因为去语境化的预期意味着把它与特殊境况断开，或者说使它相对于这些境况的任何变化保持不变。\n– 在第二步中，人们（通过退相干）表明，在某些明确规定的境况下，与经典性质同构的传统类型的不变量，可以与量子形式体系引入的新类型的不变量相容。这一步也对应于一个客观性构成的行为，不过是更高阶类型的客观性，因为实验者必然预设的由个体对象和脱离语境的特征构成的传统世界，作为量子力学之客观化的（但不寻常的、类干涉的）概率赋值的一个可能领域而涌现出来。如果概率赋值要关乎经典对象的行为，某种（无干涉的）概率赋值结构就是必要的，这一点 G. 布尔（Boole, 1952）很久以前就指出过，随后 I. 皮托夫斯基（Pitowsky, 1994）在量子语境中作了有力的评论。布尔结构是这样一个条件：如果包含在区间 [0, 1] 内的某组数要被看作关于经典对象内禀性质之发生的概率赋值，就必须满足它（Mittelstaedt, 1998）。而退相干恰恰是这样一个理论装置，它表明在某些假设下，布尔的经典概率结构与量子理论的概率结构（近似地）相容。难怪 G. 布尔把他的经典概率结构称为“可能经验的条件”，带有明显的康德式弦外之音。它们确实是使概率赋值领域客观化的前提条件；因此它们在这个意义上是客观性的构成条件。\n\n概括地说，量子力学中客观性构成的第一步在于提取一个普遍的、不变的概率赋值工具；第二步（由退相干代表）在于表明这个概率赋值的结构如何在宏观层次上被弄得与如下假设近似相容：这一赋值适用于具有内禀性质的对象，而这些性质按随机方式分布。"
+      ],
+      "units": 368
+    },
+    {
+      "id": "ch20-u039",
+      "source_ids": [
+        "ch20-u039"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now, what about explanation in this transcendentalist context? We have just seen that, unlike the empiricist’s, the transcendentalist’s reading of decoherence does not boil down to a proof of non-contradiction. It rather displays how facts and formalism can shape each other in a fully consistent way; and it shows that this mutual shaping is a precondition for a stratified, two-step, objective knowledge. On the other hand, unlike formal realists, transcendentalist philosophers do not claim that decoherence provides us with a one-directional derivation of the factual domain out of formalism. In the usual sense of causation, whose theoretical equivalent is one-way derivation, the formalism of quantum mechanics as construed by transcendentalists therefore does not explain the classical-like organization of facts. But in another sense, in the structural sense of mutually defining relation, one can say that decoherence, together with the converse process from observables to formalism typical of Bohr’s correspondence principle, is explanatory. Here, it is not decoherence alone, but the whole process which includes (i) theory formulation and (ii) the proof of the self-consistence of the system made of the theory and its empirical presuppositions, which can be called an explanation in the sense of a structural explanation. It should be remembered that what is taken as a proper « explanation » crucially depends on what is implied by a why-question (Van Fraassen, 1980), and that in many circumstances a why-question asked in a scientific context only implies embedding the explanandum within a coherent structural network."
+      ],
+      "zh": [
+        "那么，在这个先验论语境中解释又如何？我们刚刚看到，与经验论者的解读不同，先验论者对退相干的解读并不归结为一个无矛盾性证明。它毋宁展示了事实与形式体系如何能以完全一致的方式相互塑造；并且它表明这种相互塑造是分层的、两步形成客观知识的前提。另一方面，与形式实在论者不同，先验论哲学家并不声称退相干为我们提供了事实领域从形式体系出发的单向推导。在因果作用的通常意义上——其理论等价物是单向推导——先验论者所理解的量子力学形式体系因此并不解释事实的类经典组织。但在另一种意义上，在相互规定的结构意义上，人们可以说，退相干连同玻尔对应原理所特有的从可观测量到形式体系的反向过程，是解释性的。在这里，不是退相干单独，而是包括（i）理论的表述和（ii）由理论及其经验预设构成的系统之自洽性证明的整个过程，才能在结构解释的意义上被称为一个解释。应当记住，什么被当作恰当的“解释”，关键取决于一个为什么问题所隐含的东西（Van Fraassen, 1980）；而且在许多情况下，在科学语境中提出的为什么问题只隐含着把被解释项嵌入一个融贯的结构网络之中。"
+      ],
+      "units": 244
+    },
+    {
+      "id": "ch20-u038",
+      "source_ids": [
+        "ch20-u038"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "Bibliography"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch20-bibliography-001",
+      "source_ids": [
+        "ch20-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bitbol, M. (1996), Mécanique quantique, une introduction philosophique, Flammarion, Paris"
+      ],
+      "zh": [
+        "Bitbol, M. (1996), Mécanique quantique, une introduction philosophique, Flammarion, Paris"
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch20-bibliography-002",
+      "source_ids": [
+        "ch20-ref003",
+        "ch20-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bitbol, M. (1998), «Some steps towards a transcendental deduction of quantum mechanics», Philosophia Naturalis, 35, 253–280"
+      ],
+      "zh": [
+        "Bitbol, M. (1998), «Some steps towards a transcendental deduction of quantum mechanics», Philosophia Naturalis, 35, 253–280"
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch20-bibliography-003",
+      "source_ids": [
+        "ch20-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bitbol, M. (2000), Physique et philosophie de l’esprit, Flammarion, Paris"
+      ],
+      "zh": [
+        "Bitbol, M. (2000), Physique et philosophie de l’esprit, Flammarion, Paris"
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch20-bibliography-004",
+      "source_ids": [
+        "ch20-ref004",
+        "ch20-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Boole, G. (ed.) (1952), « On the theory of probabilities », Studies in Logic and Probability, Open Court Publishing, London"
+      ],
+      "zh": [
+        "Boole, G. (ed.) (1952), « On the theory of probabilities », Studies in Logic and Probability, Open Court Publishing, London"
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch20-bibliography-005",
+      "source_ids": [
+        "ch20-ref007",
+        "ch20-ref008"
+      ],
+      "page": "357",
+      "canonical_kind": "reference",
+      "en": [
+        "Brune, M., Hagley, E., Dreyer, J., Maître, X., Maali, A., Wunderlich, C., Raimond, J.M., and Haroche, S. (1996), « Observing the Progressive decoherence of the meter in a quantum measurement », Physical Review Letters, 77, 4887"
+      ],
+      "zh": [
+        "Brune, M., Hagley, E., Dreyer, J., Maître, X., Maali, A., Wunderlich, C., Raimond, J.M., and Haroche, S. (1996), « Observing the Progressive decoherence of the meter in a quantum measurement », Physical Review Letters, 77, 4887"
+      ],
+      "shared": true,
+      "units": 35
+    },
+    {
+      "id": "ch20-bibliography-006",
+      "source_ids": [
+        "ch20-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bub, J. (1997), Interpreting the Quantum World, Cambridge University Press, Cambridge"
+      ],
+      "zh": [
+        "Bub, J. (1997), Interpreting the Quantum World, Cambridge University Press, Cambridge"
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch20-bibliography-007",
+      "source_ids": [
+        "ch20-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "d’Espagnat, B. (1994), Le réel voilé, Fayard, Paris"
+      ],
+      "zh": [
+        "d’Espagnat, B. (1994), Le réel voilé, Fayard, Paris"
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch20-bibliography-008",
+      "source_ids": [
+        "ch20-ref008",
+        "ch20-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Dreyer, J. (1997), Atomes de Rydberg et cavités: observation et décohérence dans une mesure quantique, Thèse de doctorat de l’Université Paris VI"
+      ],
+      "zh": [
+        "Dreyer, J. (1997), Atomes de Rydberg et cavités: observation et décohérence dans une mesure quantique, Thèse de doctorat de l’Université Paris VI"
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch20-bibliography-009",
+      "source_ids": [
+        "ch20-ref009",
+        "ch20-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hagley, E., Maître, X., Wunderlich, C., Brune, M., Raimond, J.M., and Haroche, S. (1997), « Generation of Einstein-Podolsky-Rosen pairs of atoms », Physical Review Letters, 79, 1–5"
+      ],
+      "zh": [
+        "Hagley, E., Maître, X., Wunderlich, C., Brune, M., Raimond, J.M., and Haroche, S. (1997), « Generation of Einstein-Podolsky-Rosen pairs of atoms », Physical Review Letters, 79, 1–5"
+      ],
+      "shared": true,
+      "units": 27
+    },
+    {
+      "id": "ch20-bibliography-010",
+      "source_ids": [
+        "ch20-ref010",
+        "ch20-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Joos, E., Zeh, H.D., Kiefer, C., Giulini, D., Kupsch, K., and Stamatescu, I.O. (2003), Decoherence and the Appearance of a Classical World in Quantum Theory, Springer, Heidelberg"
+      ],
+      "zh": [
+        "Joos, E., Zeh, H.D., Kiefer, C., Giulini, D., Kupsch, K., and Stamatescu, I.O. (2003), Decoherence and the Appearance of a Classical World in Quantum Theory, Springer, Heidelberg"
+      ],
+      "shared": true,
+      "units": 29
+    },
+    {
+      "id": "ch20-bibliography-011",
+      "source_ids": [
+        "ch20-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I. (2004), Inaugural Dissertation of 1770, Kessinger Publishing, Whitefish MT"
+      ],
+      "zh": [
+        "Kant, I. (2004), Inaugural Dissertation of 1770, Kessinger Publishing, Whitefish MT"
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch20-bibliography-012",
+      "source_ids": [
+        "ch20-ref011",
+        "ch20-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Mittelstaedt, P. (1998), The Interpretation of Quantum Mechanics and the Measurement Process, Cambridge University Press, Cambridge"
+      ],
+      "zh": [
+        "Mittelstaedt, P. (1998), The Interpretation of Quantum Mechanics and the Measurement Process, Cambridge University Press, Cambridge"
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch20-bibliography-013",
+      "source_ids": [
+        "ch20-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Mohrhoff, U. (2001), « Two theories of decoherence », arXiv: quant-ph/0108002"
+      ],
+      "zh": [
+        "Mohrhoff, U. (2001), « Two theories of decoherence », arXiv: quant-ph/0108002"
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch20-bibliography-014",
+      "source_ids": [
+        "ch20-ref012",
+        "ch20-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Omnès, R. (1994), The Interpretation of Quantum Mechanics, Princeton University Press, Princeton, NJ"
+      ],
+      "zh": [
+        "Omnès, R. (1994), The Interpretation of Quantum Mechanics, Princeton University Press, Princeton, NJ"
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch20-bibliography-015",
+      "source_ids": [
+        "ch20-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Peres, A. (1995), Quantum Theory, Concepts and Methods, Kluwer, Dordrecht"
+      ],
+      "zh": [
+        "Peres, A. (1995), Quantum Theory, Concepts and Methods, Kluwer, Dordrecht"
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch20-bibliography-016",
+      "source_ids": [
+        "ch20-ref013",
+        "ch20-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Pitowsky, I. (1994), « George Boole’s ‘conditions of possible experience’ and the quantum puzzle », British Journal for the Philosophy of Science, 45, 95–125"
+      ],
+      "zh": [
+        "Pitowsky, I. (1994), « George Boole’s ‘conditions of possible experience’ and the quantum puzzle », British Journal for the Philosophy of Science, 45, 95–125"
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch20-bibliography-017",
+      "source_ids": [
+        "ch20-ref014",
+        "ch20-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Raimond, J.M., Brune, M., and Haroche, S. (1997), « Reversible decoherence of a mesoscopic superposition of field states », Physical Review Letters, 79, 1964–1967"
+      ],
+      "zh": [
+        "Raimond, J.M., Brune, M., and Haroche, S. (1997), « Reversible decoherence of a mesoscopic superposition of field states », Physical Review Letters, 79, 1964–1967"
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch20-bibliography-018",
+      "source_ids": [
+        "ch20-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Reichenbach, H. (1956), The Direction of Time, University of California Press, Berkeley, CA"
+      ],
+      "zh": [
+        "Reichenbach, H. (1956), The Direction of Time, University of California Press, Berkeley, CA"
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch20-bibliography-019",
+      "source_ids": [
+        "ch20-ref015",
+        "ch20-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schrödinger, E. (ed.) (1935), « La situation présente en mécanique quantique », Physique quantique et représentation du monde, Points-Seuil, Paris"
+      ],
+      "zh": [
+        "Schrödinger, E. (ed.) (1935), « La situation présente en mécanique quantique », Physique quantique et représentation du monde, Points-Seuil, Paris"
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch20-bibliography-020",
+      "source_ids": [
+        "ch20-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schwinger, J. (2003), Quantum Mechanics, A Symbolism of Measurements, Springer, Heidelberg"
+      ],
+      "zh": [
+        "Schwinger, J. (2003), Quantum Mechanics, A Symbolism of Measurements, Springer, Heidelberg"
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch20-bibliography-021",
+      "source_ids": [
+        "ch20-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Van Fraassen, B. (1980), The Scientific Image, Oxford University Press, Oxford"
+      ],
+      "zh": [
+        "Van Fraassen, B. (1980), The Scientific Image, Oxford University Press, Oxford"
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch20-bibliography-022",
+      "source_ids": [
+        "ch20-ref016",
+        "ch20-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Van Fraassen, B. (1991), Quantum Mechanics, An Empiricist View, Oxford University Press, Oxford"
+      ],
+      "zh": [
+        "Van Fraassen, B. (1991), Quantum Mechanics, An Empiricist View, Oxford University Press, Oxford"
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch20-bibliography-023",
+      "source_ids": [
+        "ch20-ref017",
+        "ch20-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Zurek, W.H. (1982), « Environment-induced superselection rules », Physical Review, D26, 1862–1880"
+      ],
+      "zh": [
+        "Zurek, W.H. (1982), « Environment-induced superselection rules », Physical Review, D26, 1862–1880"
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch20-bibliography-024",
+      "source_ids": [
+        "ch20-ref018",
+        "ch20-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Zurek, W.H. (2003), « Decoherence, einselection, and the quantum origins of the classical », Reviews of Modern Physics, 75, 715–775"
+      ],
+      "zh": [
+        "Zurek, W.H. (2003), « Decoherence, einselection, and the quantum origins of the classical », Reviews of Modern Physics, 75, 715–775"
+      ],
+      "shared": true,
+      "units": 20
+    }
+  ],
+  "notes": {}
+}

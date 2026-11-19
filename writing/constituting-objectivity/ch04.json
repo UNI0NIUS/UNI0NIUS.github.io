@@ -1,0 +1,2055 @@
+{
+  "id": "ch04",
+  "title": "论从实体性到功能性的转变：将卡西尔的量子力学哲学带入二十一世纪",
+  "originalTitle": "On the Transposition of the Substantial into the Functional: Bringing Cassirer’s Philosophy of Quantum Mechanics into the Twenty-First Century",
+  "outline": [
+    {
+      "anchor": "ch04-u003",
+      "title": "1 引言",
+      "originalTitle": "1 Introduction",
+      "level": 1
+    },
+    {
+      "anchor": "ch04-u009",
+      "title": "2 从康德到卡西尔",
+      "originalTitle": "2 From Kant to Cassirer",
+      "level": 1
+    },
+    {
+      "anchor": "ch04-u019",
+      "title": "3 群论与知觉",
+      "originalTitle": "3 Group Theory and Perception",
+      "level": 1
+    },
+    {
+      "anchor": "ch04-u037",
+      "title": "4 时空、结构与群论",
+      "originalTitle": "4 Space–Time, Structures and Group Theory",
+      "level": 1
+    },
+    {
+      "anchor": "ch04-u046",
+      "title": "5 量子力学、因果性与对象",
+      "originalTitle": "5 Quantum Mechanics, Causality and Objects",
+      "level": 1
+    },
+    {
+      "anchor": "ch04-u081",
+      "title": "6 结论：二十一世纪的卡西尔",
+      "originalTitle": "6 Conclusion: Cassirer in the Twenty-First Century",
+      "level": 1
+    },
+    {
+      "anchor": "ch04-u089",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch04-u001",
+      "source_ids": [
+        "ch04-u001"
+      ],
+      "page": "95",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch04-u002",
+      "source_ids": [
+        "ch04-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Angelo Cei and Steven French"
+      ],
+      "zh": [
+        "安杰洛·切伊、史蒂文·弗兰奇"
+      ],
+      "units": 5
+    },
+    {
+      "id": "ch04-u004",
+      "source_ids": [
+        "ch04-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract Cassirer’s neo-Kantian philosophy of scientific knowledge has been the subject of renewed interest recently, in particular with regard to the interpretation of General Relativity. However, Cassirer’s analysis of Quantum Mechanics, found in Determinism and Indeterminism in Modern Physics , has not received the attention it deserves. Our aim in this paper is to sketch out the central themes of this work and illustrate its relevance for contemporary discussions of structuralism in the quantum context. Cassirer’s general philosophy of physics is outlined before presenting the analysis of the nature and role of the causality principle. We place particular emphasis on the hierarchical view of scientific laws and principles which set causality at the apex and expressed it in abstract functional terms. Through such notions, transcendental philosophy can accommodate statistical laws and hence it can render harmless the apprent threat of quantum indeterminism. It is also shown that the uncertainty principle, quantum holism and the implications of quantum statistics are the grounds for Cassirer’s conclusion that the true import of quantum mechanics was the reconceptualisation of our notion of object. Such reconceptualisation is structural, with point particles understood as ‘intersections of relations’. A brief comparison of Cassirer’s neo-Kantian structuralism with some modern forms concludes our analysis."
+      ],
+      "zh": [
+        "摘要 卡西尔的新康德主义科学知识哲学近来重新受到关注，尤其是在广义相对论的解释方面。然而，卡西尔在《现代物理学中的决定论与非决定论》中对量子力学的分析，却没有得到应有的重视。本文旨在勾画这部著作的核心论题，并说明它对当代量子语境中结构主义讨论的相关性。我们先概述卡西尔的一般物理学哲学，再呈现他对因果性原理的本性与作用的分析。我们特别强调他关于科学定律与原理的层级观：这一观点把因果性置于顶端，并以抽象的功能性术语表达它。借助这些概念，先验哲学能够容纳统计定律，从而化解量子非决定论表面上的威胁。我们还表明，不确定度原理、量子整体论以及量子统计的蕴涵，正是卡西尔如下结论的根据：量子力学的真正意蕴在于重新构想我们的对象概念。这种重新构想是结构性的，点粒子被理解为“关系的交点”。最后，我们把卡西尔的新康德主义结构主义与某些现代形式作简要比较，以结束我们的分析。"
+      ],
+      "units": 204
+    },
+    {
+      "id": "ch04-u003",
+      "source_ids": [
+        "ch04-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Introduction"
+      ],
+      "zh": [
+        "1 引言"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch04-u005",
+      "source_ids": [
+        "ch04-u005"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "A. Cei and S. French Prof. Steven French, Angelo Cei, Department of Philosophy, University of Leeds, Woodhouse Lane, Leeds LS2 9JT, UK e-mail: S.R.D.French@leeds.ac.uk; a.cei02@leeds.ac.uk"
+      ],
+      "zh": [
+        "A. Cei and S. French Prof. Steven French, Angelo Cei, Department of Philosophy, University of Leeds, Woodhouse Lane, Leeds LS2 9JT, UK e-mail: S.R.D.French@leeds.ac.uk; a.cei02@leeds.ac.uk"
+      ],
+      "shared": true,
+      "units": 35
+    },
+    {
+      "id": "ch04-u006",
+      "source_ids": [
+        "ch04-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Although Cassirer’s neo-Kantian philosophy in general and its application to General Relativity in particular have been the subject of renewed interest recently, his analysis of quantum theory in Determinism and Indeterminism in Modern Physics has not received the attention it deserves. Our aim in this paper is to sketch out the central themes of this work and illustrate its relevance for contemporary discussions of structuralism in the quantum context."
+      ],
+      "zh": [
+        "尽管卡西尔的新康德主义哲学总体上、尤其是它对广义相对论的应用，近来重新受到关注，但他在《现代物理学中的决定论与非决定论》中对量子理论的分析却没有得到应有的重视。本文旨在勾画这部著作的核心论题，并说明它对当代量子语境中结构主义讨论的相关性。"
+      ],
+      "units": 69
+    },
+    {
+      "id": "ch04-u007",
+      "source_ids": [
+        "ch04-u007"
+      ],
+      "page": "96",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We begin with an outline of Cassirer’s neo-Kantian approach to the philosophy of physics in general, before presenting his analysis of the nature and role of the causality principle. In particular we shall emphasise Cassirer’s hierarchical view of scientific laws and principles which set causality at the apex and expressed it in abstract functional terms. This made room within his transcendental philosophy for statistical laws and hence the apparent threat of quantum indeterminism was rendered harmless. Indeed, the true import of quantum mechanics, as far as Cassirer was concerned, was the reconceptualisation of our notion of object. Drawing on the uncertainty principle, quantum holism and the implications of quantum statistics, Cassirer argued that the appropriate reconceptualisation was structural, with point particles understood as ‘intersections of relations’."
+      ],
+      "zh": [
+        "我们先概述卡西尔新康德主义的一般物理学哲学进路，再呈现他对因果性原理的本性与作用的分析。我们尤其要强调卡西尔关于科学定律与原理的层级观：它把因果性置于顶端，并以抽象的功能性术语表达之。这在他的先验哲学内部为统计定律腾出了空间，从而化解了量子非决定论表面上的威胁。的确，就卡西尔而言，量子力学的真正意蕴在于重新构想我们的对象概念。借助不确定度原理、量子整体论以及量子统计的蕴涵，卡西尔论证说，恰当的重新构想是结构性的，点粒子被理解为“关系的交点”。"
+      ],
+      "units": 126
+    },
+    {
+      "id": "ch04-u008",
+      "source_ids": [
+        "ch04-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We conclude with a brief comparison of Cassirer’s neo-Kantian structuralism with some modern forms and consider how much of his position can be projected onto today’s discussions."
+      ],
+      "zh": [
+        "最后，我们把卡西尔的新康德主义结构主义与某些现代形式作简要比较，并考虑他的立场有多少可以投射到今天的讨论中。"
+      ],
+      "units": 27
+    },
+    {
+      "id": "ch04-u009",
+      "source_ids": [
+        "ch04-u009"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 From Kant to Cassirer"
+      ],
+      "zh": [
+        "2 从康德到卡西尔"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch04-u010",
+      "source_ids": [
+        "ch04-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Cassirer’s philosophy of science is a form of transcendental idealism, in which the fundamental principles of theoretical natural science express the universal patterns by means of which thought orders the manifold of phenomena. Cassirer’s version of kantianism evolved from the Marburg School’s interpretation of Kant.",
+        {
+          "type": "note",
+          "id": "ch04-n01",
+          "label": "1"
+        },
+        " We shall not pursue the issue of the extent to which Cassirer can be considered an epigone of that view. We will rather focus on three features of such a legacy relevant to the present discussion. These elements also allow us to appreciate the distance that Cassirer places between himself and Kant. In the reading of the Marburg School:"
+      ],
+      "zh": [
+        "卡西尔的科学哲学是先验观念论的一种形式，其中理论自然科学的基本原理表达着普遍的模式，思维借这些模式整理现象的杂多。卡西尔版本的康德主义是从马堡学派对康德的解释演化而来的。",
+        {
+          "type": "note",
+          "id": "ch04-n01",
+          "label": "1"
+        },
+        " 我们不打算追究卡西尔在多大程度上可以被视为这一观点的追随者，而是聚焦于这份遗产中与当前讨论相关的三个特征。这些要素也让我们能够体会卡西尔在自己与康德之间拉开的距离。在马堡学派的解读中："
+      ],
+      "units": 104
+    },
+    {
+      "id": "ch04-u011",
+      "source_ids": [
+        "ch04-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "(a) The main lesson of Kantianism is that science and its objectivity are facts. Such facts are the explananda of a philosophical theory of knowledge whose questions are how we have knowledge of nature and why such knowledge is objective. In this view, foundational issues in science have primarily an epistemological dimension.\n(b) In such a picture thought plays a “constructive” role and broadly speaking objectivity is to be understood as emerging from this constructive activity.\n(c) The kantian notion of pure intuition as distinct from understanding, as well as the relative doctrine of mathematics as resulting from the injection of the logical forms of the categories in the pure intuition of space and time has to be rejected since it is denied by the development of modern mathematics in which it is shown that intuition does not play any role."
+      ],
+      "zh": [
+        "（a）康德主义的主要教益是：科学及其客观性是事实。这些事实是一种哲学知识理论的被解释项，该理论的问题是：我们如何拥有关于自然的知识，以及这种知识为什么是客观的。在这种观点中，科学中的基础问题首先具有认识论维度。\n（b）在这样一幅图景中，思维扮演“构造性的”角色，大体上说，客观性应被理解为从这种构造活动中涌现出来的。\n（c）康德关于纯直观区别于知性的概念，以及相应的把数学视为把范畴的逻辑形式注入空间与时间的纯直观之结果的学说，必须被抛弃，因为现代数学的发展否证了它：在现代数学中，直观不起任何作用。"
+      ],
+      "units": 141
+    },
+    {
+      "id": "ch04-u012",
+      "source_ids": [
+        "ch04-u012"
+      ],
+      "page": "97",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the light of (a) and (b) it is very natural to adopt a relativized view of the a priori principles of science. After all if the history of science presents us with profoundly different theoretical frameworks it is sound to expect different a priori principles to be instantiated to grant in some form the universal unity and objectivity that those frameworks enjoy (Ryckman, 1999). In this sense, we will see that Cassirer’s analysis of Quantum Mechanics will aim to highlight precisely the kind of assumptions allowing the construction of objectivity in the quantum domain."
+      ],
+      "zh": [
+        "鉴于（a）与（b），采纳一种关于科学先天原理的相对化观点是非常自然的。毕竟，如果科学史向我们呈现了深刻不同的理论框架，那么合理的预期就是：不同的先天原理被实例化，以某种形式保证这些框架所享有的普遍统一性与客观性（Ryckman, 1999）。在这个意义上，我们将看到，卡西尔对量子力学的分析恰恰旨在凸显那类容许在量子领域中构造客观性的假设。"
+      ],
+      "units": 95
+    },
+    {
+      "id": "ch04-u013",
+      "source_ids": [
+        "ch04-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The epistemological framework that Cassirer projects onto Quantum Mechanics is grounded in his peculiar appreciation of the significance of (c). Historically the rejection of the idea of pure intuition dates back to the crisis of the understanding of mathematics as based on intuition springing from the rise of the non-Euclidean geometries (Ryckman, 1991; Friedman, 2000). The role played by developments in the foundation of mathematics of the late nineteenth century in shaping Cassirer’s approach is twofold. On the one hand, from (c) we draw the idea that mathematical concepts are logical in nature and in this sense they play with respect to natural knowledge the same role that in the Kantian picture was played by categories.",
+        {
+          "type": "note",
+          "id": "ch04-n02",
+          "label": "2"
+        },
+        " They structure the manifold of experience allowing for our knowledge of it. On the other hand, the developments in the foundations of mathematics are the source of the concept around which revolves the revised notion of synthetic a priori employed to analyse quantum theory."
+      ],
+      "zh": [
+        "卡西尔投射到量子力学上的认识论框架，奠基于他对（c）之意义的独特领会。从历史上看，对纯直观观念的拒斥可以追溯到非欧几何兴起所引发的、把数学理解为基于直观的那场危机（Ryckman, 1991; Friedman, 2000）。十九世纪末数学基础的发展在塑造卡西尔进路方面起了双重作用。一方面，从（c）我们得出这样的观念：数学概念在本性上是逻辑的，在这个意义上，它们对自然知识所起的作用，就是康德图景中范畴所起的作用。",
+        {
+          "type": "note",
+          "id": "ch04-n02",
+          "label": "2"
+        },
+        " 它们结构化经验的杂多，使我们能够认识它。另一方面，数学基础的发展提供了一个核心概念。用于分析量子理论的修订版综合先天观，正是围绕这个概念建立的。"
+      ],
+      "units": 160
+    },
+    {
+      "id": "ch04-u014",
+      "source_ids": [
+        "ch04-u014"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The rejection of pure intuition involves the dismissal of the model of Kantian Schematism. Roughly speaking the idea to be rejected is that pure intuition of space and time represents the “place” in which the pure logic of understanding encounters the manifold of perception.",
+        {
+          "type": "note",
+          "id": "ch04-n03",
+          "label": "3"
+        },
+        " Neo-Kantianism now has to explain how this encounter, this synthesis, takes place if there is no pure intuition to act as the general “theatre”. Cassirer’s answer (Cassirer, 1907) relies on the notion of Zuordnung or functional coordination.",
+        {
+          "type": "note",
+          "id": "ch04-n04",
+          "label": "4"
+        },
+        " Such a notion is taken as a primitive, fundamental one and “has no other meaning than that of relation and mutual coordination of one thing to another”(Ryckman, 1991, p. 63)."
+      ],
+      "zh": [
+        "对纯直观的拒斥意味着对康德图型法模型的摒弃。粗略地说，要拒斥的观念是：空间与时间的纯直观构成了知性的纯粹逻辑与知觉杂多相遇的“场所”。",
+        {
+          "type": "note",
+          "id": "ch04-n03",
+          "label": "3"
+        },
+        " 现在，新康德主义必须说明：如果没有纯直观充当总的“剧场”，这种相遇、这种综合如何发生。卡西尔的回答（Cassirer, 1907）依赖于“对应”（Zuordnung）即功能性协调的概念。",
+        {
+          "type": "note",
+          "id": "ch04-n04",
+          "label": "4"
+        },
+        " 这个概念被当作原初的、根本的概念，它“没有别的含义，就是一物与另一物的关系和相互协调”（Ryckman, 1991, p. 63）。"
+      ],
+      "units": 112
+    },
+    {
+      "id": "ch04-u015",
+      "source_ids": [
+        "ch04-u015"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "An interesting element to emphasize here is that Cassirer is using this notion to mimic precisely the Kantian move in the Schematism without making use of the idea of pure intuition:"
+      ],
+      "zh": [
+        "这里值得强调的一个有趣要素是：卡西尔使用这个概念，恰恰是在不使用纯直观观念的情况下模仿康德在图型法中的步骤："
+      ],
+      "units": 31
+    },
+    {
+      "id": "ch04-u017",
+      "source_ids": [
+        "ch04-u017"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "“[these] same basic syntheses upon which mathematics and logic rest, also govern the scientific structure of empirical knowledge and first enable us, by a fixed lawful ordering of phenomena to speak of its objective significance” (Cassirer, 1907, p. 45; quoted in English in Ryckman, 1991, p. 65). We could think of it as a generalized form of schematization."
+      ],
+      "zh": [
+        "“数学与逻辑所依赖的〔这些〕同样的基本综合，也支配着经验知识的科学结构，并且首先通过对现象的固定的合规律排序，使我们能够谈论它的客观意义”（Cassirer, 1907, p. 45；英译引自 Ryckman, 1991, p. 65）。我们可以把它设想为图型化的一种推广形式。"
+      ],
+      "type": "quote",
+      "units": 58
+    },
+    {
+      "id": "ch04-u016",
+      "source_ids": [
+        "ch04-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This notion is modeled on that of function in analysis and according to Cassirer its key role in allowing us to form the fundamental concepts of science has to do with the fact that a function instantiates a general rule or law that relate all the members of the series and that law, rather than being inducible by enumeration of each of the members, can be seen as the fundamental form of each of them (Cassirer, 1953)."
+      ],
+      "zh": [
+        "这个概念以分析学中的函数概念为模型；按照卡西尔的看法，它之所以在使我们形成科学基本概念方面起关键作用，是因为函数实例化了一条关联序列全部成员的普遍规则或定律，而这条定律与其说能通过枚举每个成员归纳出来，不如说可以被看作每个成员的根本形式（Cassirer, 1953）。"
+      ],
+      "units": 77
+    },
+    {
+      "id": "ch04-u018",
+      "source_ids": [
+        "ch04-u018"
+      ],
+      "page": "98",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The extent and importance of the notion of functional coordination and the role it plays in generalizing the Kantian idea of schematism, setting it free from pure intuition, can be seen in the role that the mathematical notion of group plays for Cassirer with respect to perceptual experience."
+      ],
+      "zh": [
+        "功能性协调概念的范围与重要性，以及它在把康德图型法观念从纯直观中解放出来、加以推广方面所起的作用，可以从数学的群概念在卡西尔那里对知觉经验所起的作用中看出来。"
+      ],
+      "units": 48
+    },
+    {
+      "id": "ch04-u019",
+      "source_ids": [
+        "ch04-u019"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Group Theory and Perception"
+      ],
+      "zh": [
+        "3 群论与知觉"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch04-u020",
+      "source_ids": [
+        "ch04-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Proceeding ahistorically, the central importance of group theory for his work is nicely displayed in Cassirer’s discussion of the psychology of perception (Cassirer, 1944). Here the concept of a group is referred to at the very beginning as the ‘universal instrument of mathematical thought’ (p. 1), insofar as it acts as an ‘organizing and clarifying principle’, across the range of mathematical fields."
+      ],
+      "zh": [
+        "先撇开历史顺序来看，群论对卡西尔工作的核心重要性，在他关于知觉心理学的讨论（Cassirer, 1944）中得到了很好的展示。在那里，群的概念一开始就被称为“数学思维的普遍工具”（第1页），因为它在整个数学领域范围内充当“组织与澄清的原理”。"
+      ],
+      "units": 62
+    },
+    {
+      "id": "ch04-u021",
+      "source_ids": [
+        "ch04-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Adopting a historical stance, Cassirer begins with Helmholtz’s ‘empiristic’ approach to perception and in particular the latter’s – fundamentally grouptheoretic – analysis of the notion of space. However, this then takes us a further epistemological step back to the question, ‘what is the foundation for the notion of group?’ Poincaré’s answer, famously (but surprisingly ignored by recent philosophers of science, it seems), was to take this notion as a priori and as arising from an ‘original intuition’ underpinning all experience. Thus the general concept of a group ‘pre-exists’ in the mind (at least potentially) and this understanding underpins Poincaré’s conventionalism: from the possible groups which are latent in the mind one must be chosen to form ‘a kind of standard’ in terms of which natural phenomena can be compared. The role of experience is then limited to helping to indicate which choice ‘adapts itself best to the properties of our body’ (p. 4). Interestingly, Poincaré himself applied a group-theoretic understanding to the psychological problem of how, in the great flux of sense impressions, we manage to differentiate the spatial movements of an object from qualitative alteration. The answer, of course, is that displacements can be compensated for, something represented group-theoretically by the inverse operation. Although it is experience that reveals such compensation, it acts not as the source of the relevant geometrical concepts but only as the ‘occasional source of their formation’ (p. 5)."
+      ],
+      "zh": [
+        "采取历史的立场，卡西尔从亥姆霍兹对知觉的“经验论”进路出发，尤其是后者对空间概念的分析——那根本上是群论式的。然而，这又把我们在认识论上往后带了一步，来到这个问题：“群概念的根据是什么？”彭加勒的著名回答（但近来的科学哲学家似乎令人惊讶地忽视了它）是把这个概念当作先天的，当作产生于支撑一切经验的“原初直观”。于是，群的一般概念（至少潜在地）“预先存在”于心中，这种理解支撑着彭加勒的约定主义：必须从潜在于心中的可能的群里选择一个，构成“一种标准”，自然现象可以据此加以比较。经验的作用于是被限定为帮助指明哪个选择“最适应我们身体的性质”（第4页）。有趣的是，彭加勒本人把群论式的理解应用于一个心理学问题：在感觉印象的巨大流变中，我们如何把对象的空间运动与性质变化区分开。答案当然是：位移可以被补偿，这在群论上由逆运算来表示。虽然揭示这种补偿的是经验，但经验并不充当相关几何概念的来源，而只是“其形成的机缘性来源”（第5页）。"
+      ],
+      "units": 232
+    },
+    {
+      "id": "ch04-u022",
+      "source_ids": [
+        "ch04-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now, Cassirer takes Poincaré’s attempt to construct a bridge between mathematics and psychology as not merely an original and stimulating conjunction of ideas by a brilliant thinker but as indicative of a fundamental and epistemological ‘inner connection’ between the concept of group and fundamental problems in the psychology of perception. As he insists, the nature of the game here is logical, rather than ontological, in that he is not suggesting that psychology can be reduced to group theory and hence mathematics, but rather that insofar as perception cannot be understood in the absence of some organising and coordinative scheme, and insofar as such a scheme is provided by the intellect, group theoretical type concepts will be found to be applicable."
+      ],
+      "zh": [
+        "卡西尔认为，彭加勒在数学与心理学之间架桥的尝试，不仅是一位杰出思想家对观念的原创而富有启发的联结，而且表明群概念与知觉心理学的根本问题之间存在一种根本的、认识论的“内在联系”。正如他坚持的，这里的问题在本性上是逻辑的而非本体论的：他并不是说心理学可以还原为群论从而还原为数学，而是说，只要离开某种组织与协调图式就无法理解知觉，只要这种图式由理智提供，就会发现群论类型的概念是可应用的。"
+      ],
+      "units": 120
+    },
+    {
+      "id": "ch04-u023",
+      "source_ids": [
+        "ch04-u023"
+      ],
+      "page": "99",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As Cassirer notes, the group theoretical analysis of geometry begins with a shift in focus from the ‘hic et nunc’ or individuality of an object, to those properties describable in terms of (crucially) invariant formulae. On this basis the equivalence of spatial concepts can be established, so that the ‘essence’ of a triangle, for example, remains unchanged, even if its ‘individuality’ is altered by displacement or expansion. With the realisation regarding the choice of the group of transformations in terms of which this ‘essence’ can be delineated, we arrive at Klein’s view that ‘the characteristic properties of a multiplicity must not be defined in terms of the elements of which the multiplicity is composed, but solely in terms of the group to which the multiplicity is related’ (p. 7). A different choice of group will obviously lead to a different determination of what is taken to be (geometrically) identical or different. In particular, shifting to a different group structure – from Euclidean to projective geometry, say – results in a shift of what are taken to be the ‘independent geometrical individualities’ of the objects concerned. Thus the distinct conics of Euclidean geometry are reduced to just the one in projective geometry. The geometrical figures themselves are only a kind of ‘plastic material’ (p. 8) and the true foundation of mathematical certainty lies in the rule by which the (group theoretical) elements are related. In this manner, the elements – geometrical figures in this case – lose their individuality but a sense of definiteness is still retained, in terms of the relevant group-theoretic context."
+      ],
+      "zh": [
+        "正如卡西尔指出的，几何学的群论分析始于焦点的转移：从对象的“此时此地”（hic et nunc）或个体性，转向那些可以用（关键地）不变公式描述的性质。在此基础上可以确立空间概念的等价性，于是例如一个三角形的“本质”保持不变，即便它的“个体性”因位移或扩张而改变。随着对变换群之选择的认识——这种“本质”正是据此被勾画的——我们到达克莱因的观点：“一个流形的特征性质，绝不能根据构成该流形的元素来定义，而只能根据该流形所关联的群来定义”（第7页）。选择不同的群，显然会导致对（几何上）相同或相异之物的不同规定。特别地，转换到不同的群结构——比如从欧氏几何到射影几何——会导致所涉对象的“独立几何个体性”的转换。于是，欧氏几何中彼此有别的圆锥曲线，在射影几何中被归并为唯一的一种。几何图形本身只是一种“可塑材料”（第8页），数学确定性的真正根据在于（群论的）元素相互关联的规则。这样，元素——此处即几何图形——失去了个体性，但一种确定感仍然保留，依据的是相关的群论语境。"
+      ],
+      "units": 259
+    },
+    {
+      "id": "ch04-u024",
+      "source_ids": [
+        "ch04-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is here that there appears to be a clear difference from perception, concerned as it apparently is with the ‘hit et nunc’ and individual content. Granted this, granted that perception cannot attain that sense of ‘universality’ towards which geometrical thought progresses, nevertheless the ‘sensualistic thesis’ of modern psychology, which insist that perception is nothing but a bundle of sense impressions, must be abandoned in the face of the phenomenological facts."
+      ],
+      "zh": [
+        "正是在这里，似乎出现了与知觉的明显差别，因为知觉显然关涉“此时此地”与个体内容。即便如此，即便承认知觉达不到几何思维所趋向的那种“普遍性”感，现代心理学的“感觉主义论题”——坚持知觉不外乎一束感觉印象——仍然必须面对现象学事实而被放弃。"
+      ],
+      "units": 71
+    },
+    {
+      "id": "ch04-u025",
+      "source_ids": [
+        "ch04-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Consider, for example, the fact of perceptual constancy, whereby quite dramatic changes in the intensity of illumination and – to a degree – the colour of illumination, do not apparently affect our perception of colours. Similarly, our perception of spatial shape and size remains broadly constant – within limits – despite changes undergone by the object itself. What can be extracted from such facts is the fundamental significance of concepts of invariance and transformation, and even granted that, as noted above, psychology cannot be reduced to mathematics, it is remarkable that such group theoretic concepts should appear in the exposition of such psychological facts. What this suggests is some kind of ‘mediate connection’ (p. 12) whereby the ‘form of universality’ represented by group theory may be seen to be present with respect to both mathematical and perceptual concepts."
+      ],
+      "zh": [
+        "例如，考虑知觉恒常性这一事实：照明强度的剧烈变化以及——在一定程度上——照明颜色的变化，看来并不影响我们对颜色的知觉。同样，我们对空间形状与大小的知觉大体保持恒定——在限度之内——尽管对象本身经历了变化。从这些事实中可以提取出不变性与变换概念的根本重要性；而且，即便如上所述承认心理学不能还原为数学，这类群论概念竟然出现在对这些心理学事实的阐述中，仍然是引人注目的。这暗示着某种“中介性联系”（第12页），借此，群论所代表的“普遍性形式”可以被看作既呈现于数学概念方面，也呈现于知觉概念方面。"
+      ],
+      "units": 134
+    },
+    {
+      "id": "ch04-u026",
+      "source_ids": [
+        "ch04-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A nice distinction between Cassirer and Russell can be drawn at this point, a distinction which has some significance for our understanding of both the history and foundations of structuralism. We recall the central role played in Russell’s epistemology by his causal theory of perception, which assumes a straightforward correspondence between ‘percepts’ and stimuli, such that differences in our percepts imply differences in the stimuli. Indeed, Russell rejected the views of the Gestalt psychologists and insisted that claims that the continuity of the percept is neither that of the mathematical continuum nor that of ‘deceptive’ vagueness ‘go beyond what the evidence warrants’ (Russell, 1927, p. 280). It is on this basis that Russell’s structuralism – which has proven so influential – is constructed. The above assumption, together with that of spatio-temporal continuity, suffice ‘… to give a great deal of knowledge as to the structure of stimuli (ibid., p. 227; his emphasis), leaving the ‘intrinsic characters’ of the stimuli unknown. Hence, all that we know about the external world is its structure:"
+      ],
+      "zh": [
+        "在这一点上可以勾画卡西尔与罗素之间的一个很好的区别，这个区别对我们理解结构主义的历史与基础都有某种意义。我们记得，罗素的因果知觉理论在其认识论中扮演核心角色，该理论假定“知觉项”与刺激之间有直接的对应，使得我们知觉项中的差异蕴涵刺激中的差异。的确，罗素拒斥格式塔心理学家的观点，坚持认为，如果主张知觉的连续性既非数学连续统的连续性，也非“欺骗性的”模糊性，这就“超出了证据所支持的范围”（Russell, 1927, p. 280）。正是在这个基础上，构造了罗素那已被证明影响深远的结构主义。上述假设加上时空连续性假设，就足以“……给出大量关于刺激之结构的知识”（同上，第227页；着重号为原文所加），而刺激的“内禀特征”仍是未知的。于是，我们关于外部世界所知道的一切就是它的结构："
+      ],
+      "units": 169
+    },
+    {
+      "id": "ch04-u031",
+      "source_ids": [
+        "ch04-u031"
+      ],
+      "page": "100",
+      "canonical_kind": "quote",
+      "en": [
+        "When we are dealing with inferred entities, as to which … we know nothing beyond structure, we may be said to know the equations, but not what they mean: so long as they lead to the same results as regards percepts, all interpretations are equally legitimate. (ibid., p. 287)"
+      ],
+      "zh": [
+        "当我们处理推论出来的实体时——关于它们……我们除了结构一无所知——可以说我们知道方程，却不知道它们意味着什么：只要它们就知觉项而言导出相同的结果，一切解释都同等合法。（同上，第287页）"
+      ],
+      "type": "quote",
+      "units": 48
+    },
+    {
+      "id": "ch04-u027",
+      "source_ids": [
+        "ch04-u027"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As Cassirer notes, this whole approach depends on what he calls the ‘constancy hypothesis’ of an immediate correspondence between stimulus and sensation. However, experiments such as those demonstrating ‘perceptual constancy’ as well as others which support the claims of gestalt psychology undermine such a hypothesis. There can be no mere reflection of the ‘external’ by the internal’ (p. 19). Indeed, Cassirer insists, the real problem is that ‘we do not stick to the given’, the ‘hit et nunc’ or particularity of a stimulus, but rather go beyond this so that perception is integrated into the total experience. It is in virtue of such integration that perception becomes ‘objective’. And the means by which it becomes such is through analogy with the concept of transformation:"
+      ],
+      "zh": [
+        "正如卡西尔指出的，这整个进路依赖于他所谓的“恒常性假设”，即刺激与感觉之间的直接对应。然而，证明“知觉恒常性”的实验以及支持格式塔心理学主张的其他实验，都削弱了这一假设。不可能有内部对外部的单纯反映（第19页）。的确，卡西尔坚持说，真正的问题在于“我们并不停留于被给予者”，不滞留于刺激的“此时此地”或特殊性，而是超出它，使知觉被整合进总体经验。正是凭借这种整合，知觉才成为“客观的”。而它成为客观的手段，是通过与变换概念的类比："
+      ],
+      "units": 124
+    },
+    {
+      "id": "ch04-u095",
+      "source_ids": [
+        "ch04-u095"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Psychology dismisses the dogma of the strict one-to-one correspondence between physical stimuli and perceptions. It is, on the contrary, the “transformed” impression, i.e., the impression as modified with respect to the various phenomena of constancy, which is regarded as the “true” impression, since we can on these grounds construct knowledge of reality. (p. 35)"
+      ],
+      "zh": [
+        "心理学摒弃了物理刺激与知觉之间严格一一对应的教条。相反，被视为“真实”印象的，是“经过变换的”印象，即就各种恒常性现象而言被修正过的印象，因为正是在这些根据上我们能够构造关于实在的知识。（第35页）"
+      ],
+      "type": "quote",
+      "units": 55
+    },
+    {
+      "id": "ch04-u028",
+      "source_ids": [
+        "ch04-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We recall that in the domain of mathematics and geometry in particular, this concept of transformation, as represented group-theoretically, allows us to transcend the particularity of geometrical intuition and move towards universality via the choice of an appropriate group, each group yielding a different set of invariants under the relevant transformations and hence represent different geometrical properties. Likewise, in perception we go beyond the particular and integrate the perception in a given context. And in that context, the ‘apprehension’ of the particular involves an apprehension of the possibilities of transformation which it contains (p. 15). These possibilities can be ordered, as it were, along certain dimensions, such as the conditions of illumination for example. Thus, ‘[t]he perceptual image … [also] … involves … reference to certain possible groups of transformation. It changes when we refer it to a different group and determine the “invariants” of perception accordingly’ (p. 16). Consider the observations made by Gestalt psychologists, for example, which show how changes in the distribution of light and shadow can lead to a shift in perception from one mode of ‘apprehension’ to another (ibid.). According to Cassirer, this shift – made by a ‘free choice’ – between perceptual structures is analogous to the shift between different geometries when we move from one group to another. Perception thus involves a process of ‘objectification’, to be understood via the formation of invariants (p. 20)."
+      ],
+      "zh": [
+        "我们记得，在数学领域、尤其是几何学中，这个以群论方式表示的变换概念，使我们能够超越几何直观的特殊性，通过选择恰当的群走向普遍性；每个群在相关变换下给出一组不同的不变量，从而代表不同的几何性质。同样，在知觉中我们超出特殊者，把知觉整合进给定语境。而在那个语境中，对特殊者的“领会”包含着对其所含变换可能性的领会（第15页）。这些可能性可以仿佛沿着某些维度被排序，例如照明的条件。于是，“知觉图像……〔也〕……包含……对某些可能的变换群的指涉。当我们把它指涉于不同的群并相应地规定知觉的‘不变量’时，它就改变了”（第16页）。例如考虑格式塔心理学家所作的观察，它们表明光与影分布的变化如何导致知觉从一种“领会”方式转向另一种（同上）。按照卡西尔，这种通过“自由选择”在知觉结构之间作出的转换，类似于我们从一个群转向另一个群时在不同几何学之间的转换。知觉因此包含一个“客观化”过程，要通过不变量的形成来理解（第20页）。"
+      ],
+      "units": 228
+    },
+    {
+      "id": "ch04-u029",
+      "source_ids": [
+        "ch04-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Of course, this analogy cannot be taken too far, principally because the kinds of determination we find in perception are always only approximate, rather than absolute. Increase the intensity of the colour of illumination too far, for example, and the perceptual constancy of colour tone breaks down. Perception is always vague and imprecise and at best only tends towards the ideal attained by mathematics."
+      ],
+      "zh": [
+        "当然，这个类比不能推得太远，主要是因为我们在知觉中发现的那类规定总是只是近似的，而非绝对的。例如，把照明颜色的强度增加得太过，色调的知觉恒常性就会瓦解。知觉总是模糊而不精确的，至多只是趋向数学所达到的理想。"
+      ],
+      "units": 64
+    },
+    {
+      "id": "ch04-u030",
+      "source_ids": [
+        "ch04-u030"
+      ],
+      "page": "101",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hence the concepts of group and invariant function as ‘mediating principles of a higher order’ (p. 19) which help bring mathematical and psychological problems under a ‘common denominator’. And the nature of this common denominator can be understood if we shift our epistemological focus from objects per se to the process of objectification. Consider not just mathematics, but science as a whole: adding the physical and chemical constants to geometrical invariants, it is in these terms that ‘… we formulate the “existence” of physical objects’ (p. 20), just as we effectively construct the “true” colour in perception through a similar process of objectification. In general, ‘[t]he positing of something endowed with objective existence and nature depends on the formation of constants …’ of this sort, whether that ‘something’ be a physical or perceptual object."
+      ],
+      "zh": [
+        "于是，群与不变量概念充当“更高阶的中介原理”（第19页），帮助把数学问题与心理学问题归于一个“共同分母”。如果我们把认识论焦点从对象本身转向客观化过程，就能理解这个共同分母的本性。不仅考虑数学，而且考虑整个科学：把物理与化学常量加到几何不变量上，正是用这些术语，“……我们表述物理对象的‘存在’”（第20页），正如我们在知觉中通过类似的客观化过程实际地构造“真实的”颜色。一般说来，“设定某个具有客观存在与本性的东西，依赖于这类常量的形成……”，无论那个“东西”是物理对象还是知觉对象。"
+      ],
+      "units": 133
+    },
+    {
+      "id": "ch04-u032",
+      "source_ids": [
+        "ch04-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The rejection of ‘sensationistic’ psychology with its reliance on imagistic mechanics, has consequences which extends beyond a rejection of the kind of structuralism we find in Russell’s Analysis of Matter, into Cassirer’s neo-kantian form. The grouptheoretic interpretation of the foundations of geometry of course constitutes an integral component of Cassirer’s neo-kantian position in general. General concepts, such as that of a triangle, say, are represented not by an image but only via a rule, since the latter incorporates the generality and universality which the image cannot capture and which so bothered Berkeley, for example. The same is the case for perceptual concepts as well, so that the concept ‘dog’, for example, is not to be understood as represented by some bundle of properties, but by an appropriate rule (p. 22). And group theory, of course, gives us a more precise ‘handle’ on the nature of such rules: ‘The rule may, in simple and exact terms, be defined as that group of transformations with regard to which the variation of the particular image is considered’ (ibid.). The history of geometry as Cassirer sees it, from Euclid to Poncelet, is a history of emancipation, from elements given in intuition, to the relations between such elements. From a group-theoretic perspective, ‘[t]he “nature” or “essence” of a figure is defined in terms of the operations which may be said to generate the figure’ (p. 24). And these operations are characterised in terms of the relevant group, of course."
+      ],
+      "zh": [
+        "对依赖意象力学的“感觉主义”心理学的拒斥，其后果超出了对罗素《物质的分析》中那种结构主义的拒斥，延伸到卡西尔的新康德主义形式。几何学基础的群论解释当然构成卡西尔一般新康德主义立场的内在成分。一般概念，例如三角形的概念，不是由一个图像、而是只通过一条规则来表象的，因为规则包含图像无法捕捉的普遍性与一般性——例如曾令贝克莱大为困扰的东西。知觉概念也是如此，于是“狗”的概念不应被理解为由某束性质来表象，而是由一条恰当的规则来表象（第22页）。而群论当然给了我们对这类规则之本性的更精确“抓手”：“这条规则可以用简单而精确的术语定义为这样一个变换群：特殊图像的变化正是就它而言被考虑的”（同上）。卡西尔所见的几何学史，从欧几里得到彭赛列，是一部解放史：从直观中被给予的元素，解放到这些元素之间的关系。从群论观点看，“图形的‘本性’或‘本质’是根据可以说生成该图形的运算来定义的”（第24页）。而这些运算当然是根据相关的群来刻画的。"
+      ],
+      "units": 245
+    },
+    {
+      "id": "ch04-u033",
+      "source_ids": [
+        "ch04-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As in the history of geometry, so in the history of the psychology of perception, as the sensationistic views of Berkeley and Hume, inherited by Russell, are replaced by those of Ehrenfels and Koehler and the Gestalt psychologists in general, with their emphasis on ‘form-qualities’ and physical Gestalten (see French forthcoming). In both cases, a crucial role is played by the relevant invariances and just as certain heterogeneous geometrical figures come to be seen as identical, by virtue of being inter-transformable via certain group operations, so in the case of perception, a similar ‘identity’ allows one to grasp the relevant structures. Corresponding to the mathematical notion of transformability, Gestalt psychologists in particular have emphasised the notion of ‘transposability’, and corresponding to the shift away from geometrical elements to relations, within the domain of perception we see a shift away from bundles of simple sense impressions to forms, taken as primitive. Of course, as has been noted, the analogy cannot be taken too far. In mathematics the invariants and transformations are subject to a logical systematization which is not available in the psychology of perception, although the Gestalt psychologists’ notion of ‘laws of understanding’ goes some way towards formalising this understanding."
+      ],
+      "zh": [
+        "正如几何学史一样，知觉心理学史也是如此：贝克莱与休谟的感觉主义观点——为罗素所继承——被埃伦费尔斯、苛勒以及一般格式塔心理学家的观点取代，后者强调“形式性质”与物理格式塔（见 French 即出）。在两种情形中，相关的不变性都扮演关键角色；正如某些异质的几何图形由于可以通过某些群运算相互变换而被看作相同，在知觉的情形中，一种类似的“同一性”使人能够把握相关结构。与数学的可变换性概念相应，格式塔心理学家尤其强调“可转换性”概念；与从几何元素转向关系相应，在知觉领域内我们看到从一束束简单感觉印象转向被视为原初的形式。当然，如前所述，这个类比不能推得太远。在数学中，不变量与变换服从一种逻辑系统化，这在知觉心理学中是不可得的，尽管格式塔心理学家的“理解定律”概念在形式化这种理解方面走出了一段路。"
+      ],
+      "units": 200
+    },
+    {
+      "id": "ch04-u034",
+      "source_ids": [
+        "ch04-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Furthermore, both geometry and perception, ‘… share the function of objective knowledge’ (p. 31) and in these terms a form of ‘mediation’ can obtain between them, as suggested above. This allows for what Cassirer calls an ‘upward and downward reference’:"
+      ],
+      "zh": [
+        "此外，几何学与知觉“……分有客观知识的功能”（第31页），用这些术语来说，两者之间可以获得一种“中介”，如上所述。这容许卡西尔所谓的“向上与向下的指涉”："
+      ],
+      "units": 39
+    },
+    {
+      "id": "ch04-u035",
+      "source_ids": [
+        "ch04-u035"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "If we proceed in the upward direction we come to the all-comprehensive geometrical systematization achieved by group theory; if we proceed in the downward direction, we encounter those “schemata” that are present already in perception and immediate intuition. (p. 31)"
+      ],
+      "zh": [
+        "如果我们沿向上的方向前进，就到达群论所达成的包罗一切的几何系统化；如果沿向下的方向前进，就遇到那些已经呈现于知觉与直接直观中的“图式”。（第31页）"
+      ],
+      "type": "quote",
+      "units": 40
+    },
+    {
+      "id": "ch04-u096",
+      "source_ids": [
+        "ch04-u096"
+      ],
+      "page": "102",
+      "canonical_kind": "quote",
+      "en": [
+        "On such a basis, he concludes, ‘… psychology and epistemology may meet and cooperatively attack the numerous problems still to be solved’. (p. 35)"
+      ],
+      "zh": [
+        "在这样的基础上，他得出结论：“……心理学与认识论可以会合，协力攻克仍有待解决的众多问题”。（第35页）"
+      ],
+      "type": "quote",
+      "units": 23
+    },
+    {
+      "id": "ch04-u036",
+      "source_ids": [
+        "ch04-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "There is much more to be said about this paper, of course, in particular with regard to its place within Cassirer’s corpus but having outlined the group-theoretic context, we shall move on to consider his approach to the foundations of physics, and quantum theory in particular."
+      ],
+      "zh": [
+        "当然，关于这篇论文还有更多可说的，尤其是它在卡西尔著作整体中的位置；但既已勾画了群论语境，我们就转而考虑他对物理学基础、尤其是量子理论的进路。"
+      ],
+      "units": 46
+    },
+    {
+      "id": "ch04-u037",
+      "source_ids": [
+        "ch04-u037"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Space–Time, Structures and Group Theory"
+      ],
+      "zh": [
+        "4 时空、结构与群论"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch04-u038",
+      "source_ids": [
+        "ch04-u038"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The central theme which runs through Cassirer’s writings in this area is the analysis of the concept of object (Ihmig, 1999). And the fundamental perspective from which this analysis should proceed is, of course, epistemological:"
+      ],
+      "zh": [
+        "贯穿卡西尔这一领域著作的核心论题是对象概念的分析（Ihmig, 1999）。而这一分析应由以出发的根本视角当然是认识论的："
+      ],
+      "units": 35
+    },
+    {
+      "id": "ch04-u097",
+      "source_ids": [
+        "ch04-u097"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "… epistemological reflection leads us everywhere to the insight that what the various sciences call the “object” is nothing in itself, fixed once for all, but that it is first determined by some standpoint of knowledge. (Cassirer, 1953, p. 356)"
+      ],
+      "zh": [
+        "……认识论反思处处引导我们达到这一洞见：各门科学所谓的“对象”，并不是什么自在的、一劳永逸地固定下来的东西，而是首先由某种知识观点所规定的。（Cassirer, 1953, p. 356）"
+      ],
+      "type": "quote",
+      "units": 39
+    },
+    {
+      "id": "ch04-u039",
+      "source_ids": [
+        "ch04-u039"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We recall that Cassirer’s interest in this issue can be traced back to his reflections on the nature of space and the influence of Klein’s Erlanger programme, with its emphasis on group-theoretic notions. What this yields, of course, is a structural conception of geometrical objects which shifts the focus from individual geometrical figures, grasped intuitively, to the relevant geometrical transformations and the associated laws. This shift is then manifested in Cassirer’s neo-Kantian assertion of ‘the priority of the concept of law over the concept of object.’"
+      ],
+      "zh": [
+        "我们记得，卡西尔对这一问题的兴趣可以追溯到他对空间本性的反思以及克莱因埃尔朗根纲领的影响，后者强调群论概念。这当然产生了一种几何对象的结构性构想，把焦点从直观把握的个别几何图形，转向相关的几何变换及伴随的定律。这一转移随后体现在卡西尔新康德主义的主张中：“定律概念优先于对象概念。”"
+      ],
+      "units": 86
+    },
+    {
+      "id": "ch04-u040",
+      "source_ids": [
+        "ch04-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This assertion in turn forms an integral component of Cassirer’s interpretation of the Kantian understanding of objectivity:"
+      ],
+      "zh": [
+        "这个主张又构成卡西尔对康德式客观性理解之解释的内在成分："
+      ],
+      "units": 17
+    },
+    {
+      "id": "ch04-u098",
+      "source_ids": [
+        "ch04-u098"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "For objectivity itself - following the critical analysis and interpretation of this concept - is only another label for the validity of certain connective relations that have to be ascertained separately and examined in terms of their structure. The tasks of the criticism of knowledge (“Erkenntniskritik”) is to work backwards from the unity of the general object concept to the manifold of the necessary and sufficient conditions that constitute it. In this sense, that which knowledge calls its “object” breaks down into a web of relations that are held together in themselves through the highest rules and principles. (Cassirer 1913, trans. in Ihmig, op. cit., p. 522)"
+      ],
+      "zh": [
+        "因为客观性本身——按照对这一概念的批判分析与解释——不过是某些联结关系之有效性的另一个名称，这些关系必须分别加以确认并按其结构加以审查。知识批判（“Erkenntniskritik”）的任务，是从一般对象概念的统一性回溯到构成它的那些必要且充分条件的杂多。在这个意义上，知识称之为其“对象”的东西，分解为一张关系之网，这些关系通过最高规则与原理而在自身之中结合在一起。（Cassirer 1913，译文见 Ihmig，前引书，第522页）"
+      ],
+      "type": "quote",
+      "units": 105
+    },
+    {
+      "id": "ch04-u041",
+      "source_ids": [
+        "ch04-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "These ‘highest rules and principles’ are the symmetry principles which represent that which is invariant in the web of relations itself. And these principles, in turn, are represented group-theoretically; thus the relevant group effectively lays down the general conditions in terms of which something can be viewed as an object. We shall return to the analysis of such principles below."
+      ],
+      "zh": [
+        "这些“最高规则与原理”就是对称性原理，它们代表关系之网本身中不变的东西。而这些原理又以群论方式被表示；于是相关的群实际规定了普遍条件，某物据此才能被看作一个对象。我们将在下文回到对这类原理的分析。"
+      ],
+      "units": 60
+    },
+    {
+      "id": "ch04-u042",
+      "source_ids": [
+        "ch04-u042"
+      ],
+      "page": "103",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Cassirer’s ‘application’ of this framework to the foundations of relativity theory is well known (Ihmig, op. cit., pp. 524–528). According to Ihmig, what it does is restore the unity of the concept of object which is apparently undermined by the relativistic transformations. From the structuralist perspective, this unity is ‘reinstated on a higher level.’ (ibid., p. 525) via the ‘lawful unity’ of inertial systems offered by the Lorentz transformations. The process of abstraction from a substantivalist conception of objects to a structuralist one is furthered by the General Theory of Relativity and what we are left with is an understanding of the objects of a theory as defined by those transformations which leave the relevant physical magnitudes invariant. Thus Cassirer saw General Relativity as the natural conclusion of the structuralist tendency."
+      ],
+      "zh": [
+        "卡西尔把这个框架“应用”于相对论基础是众所周知的（Ihmig，前引书，第524–528页）。按照伊米希的说法，它所做的是恢复对象概念的统一性，这种统一性表面上被相对论变换削弱了。从结构主义观点看，这种统一性“在更高层次上被重新确立”（同上，第525页），凭借的是洛伦兹变换所提供的惯性系的“合规律的统一性”。从实体主义的对象构想向结构主义构想的抽象过程，被广义相对论进一步推进，我们最后剩下的是这样理解理论的对象：它们由那些使相关物理量保持不变的变换所定义。于是卡西尔把广义相对论看作结构主义倾向的自然归宿。"
+      ],
+      "units": 132
+    },
+    {
+      "id": "ch04-u044",
+      "source_ids": [
+        "ch04-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Cassirer’s understanding of the foundations of General Relativity has been further pursued by Ryckman (1999), who points to the central importance of the principle of general covariance in this understanding. According to Ryckman, Cassirer viewed general covariance as a principle of objectivity which offers a ‘deanthropomorphized’ conception of a physical object. Furthermore, he (Ryckman) claims, this view of Cassirer’s meshed with Einstein’s own and underpinned the latter’s objections to quantum mechanics through its implementation in the separability principle."
+      ],
+      "zh": [
+        "赖克曼（Ryckman, 1999）进一步推进了对卡西尔广义相对论基础理解的研究，他指出了广义协变性原理在这种理解中的核心重要性。按照赖克曼，卡西尔把广义协变性看作一条客观性原理，它提供一种“去拟人化的”物理对象构想。此外，他（赖克曼）声称，卡西尔的这种观点与爱因斯坦本人的观点相契合，并通过在可分离性原理中的贯彻，支撑了后者对量子力学的反驳。"
+      ],
+      "units": 78
+    },
+    {
+      "id": "ch04-u045",
+      "source_ids": [
+        "ch04-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As the requirement that the laws of nature be formulated so that they remain valid in any frame of reference, general covariance ‘… is a further manifestation of the guiding methodological principle of “synthetic unity” necessary to the concept of the object of physical knowledge.’ (ibid., p. 604). Regarded as a synthetic requirement, general covariance comes to be seen as both a formal restriction and a heuristic guide for the discovery of general laws of nature (ibid.). Physical objectivity – apparently lost by space and time themselves – re-emerges in deanthropomorphised form in terms of the functional forms of connection and coexistence:"
+      ],
+      "zh": [
+        "作为自然定律必须表述得在任何参照系中保持有效的要求，广义协变性“……是‘综合统一’这一指导性方法论原理的又一表现，该原理对物理知识的对象概念是必要的”（同上，第604页）。被视为一种综合要求，广义协变性被看作既是形式限制，又是发现普遍自然定律的启发式指南（同上）。物理客观性——空间与时间本身似乎已失去的——以去拟人化的形式、用联结与共存的功能形式重新出现："
+      ],
+      "units": 99
+    },
+    {
+      "id": "ch04-u049",
+      "source_ids": [
+        "ch04-u049"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "With the demand that laws of nature be generally covariant, physics has completed the transposition of the substantial into the functional - it is no longer the existence of particular entities, definite permanencies propagating in space and time, that form “the ultimate stratum of objectivity” but rather “the invariance of relations between magnitudes”. (ibid., p. 606, citing Cassirer, 1957, p. 467)"
+      ],
+      "zh": [
+        "随着自然定律必须广义协变这一要求，物理学完成了从实体性到功能性的转变——构成“客观性的终极层次”的，不再是特殊实体的存在、在时空中延续的确定持存者，而是“量之间关系的不变性”。（同上，第606页，引 Cassirer, 1957, p. 467）"
+      ],
+      "type": "quote",
+      "units": 60
+    },
+    {
+      "id": "ch04-u046",
+      "source_ids": [
+        "ch04-u046"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "5 Quantum Mechanics, Causality and Objects"
+      ],
+      "zh": [
+        "5 量子力学、因果性与对象"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch04-u047",
+      "source_ids": [
+        "ch04-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "There has been comparatively little discussion of Cassirer’s analysis of the other major revolution of the twentieth century, namely quantum mechanics, as presented most famously in his classic work Determinism and Indeterminism in Modern Physics (Cassirer, 1936).",
+        {
+          "type": "note",
+          "id": "ch04-n05",
+          "label": "5"
+        }
+      ],
+      "zh": [
+        "关于卡西尔对二十世纪另一场大革命即量子力学的分析——最著名地呈现于其经典著作《现代物理学中的决定论与非决定论》（Cassirer, 1936）——讨论相对较少。",
+        {
+          "type": "note",
+          "id": "ch04-n05",
+          "label": "5"
+        }
+      ],
+      "units": 37
+    },
+    {
+      "id": "ch04-u048",
+      "source_ids": [
+        "ch04-u048"
+      ],
+      "page": "104",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The focus of the work is the notion of causality and Cassirer can be characterised as attempting to protect Kant from the impact of quantum theory by demonstrating how a neo-Kantian understanding of causality can be preserved in this new context. In a nutshell, this understanding takes causality to be a general, ‘transcendental’ principle which refers not to objects, of course, but to our cognition of them (1936/56, p. 58). As such, it is a ‘… guide-line which leads us from cognition to cognition and thus only indirectly from event to event, a proposition which allows us to reduce individual statements to general and universal ones and to represent the former by the latter’ (ibid., p. 65). And from this standpoint, the concepts of chance and causality do not stand in opposition, but rather ‘side by side’ (ibid., p. 104), in a ‘complementary relationship’ (ibid. p. 103) which is as it must be if we are to determine an event as completely as possible. In classical physics the relationship is represented by that between ‘the course of an event’ and knowledge of its initial conditions, or more generally, by that between ‘nomological’ laws and ‘ontological’ laws which ‘nowhere contradict each other’ but, rather, ‘interweave’, giving rise to the universal form of ‘order according to law’ (ibid., p. 105)."
+      ],
+      "zh": [
+        "这部著作的焦点是因果性概念；可以把卡西尔刻画为试图保护康德免受量子理论的冲击，办法是表明新康德主义的因果性理解如何能在这个新语境中保留下来。简言之，这种理解把因果性当作一条普遍的、“先验的”原理，它当然不指涉对象，而指涉我们对对象的认识（1936/56, p. 58）。作为这样的原理，它是“……一条引导我们从认识走向认识、从而只间接地从事件走向事件的指导线索，一个使我们能把个别陈述归约为一般和普遍的陈述、并用后者表示前者的命题”（同上，第65页）。从这个观点看，偶然性与因果性概念并不对立，而是“并肩而立”（同上，第104页），处于一种“互补关系”（同上，第103页）——如果我们要尽可能完备地规定一个事件，就必须如此。在经典物理学中，这种关系由“事件进程”与其初始条件知识之间的关系来表示，或者更一般地，由“规律性的”定律与“本体论的”定律之间的关系来表示，两者“在任何地方都不相互矛盾”，而是“相互交织”，产生“按定律的秩序”这一普遍形式（同上，第105页）。"
+      ],
+      "units": 218
+    },
+    {
+      "id": "ch04-u050",
+      "source_ids": [
+        "ch04-u050"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Cassirer’s effort to rescue causality can thus be represented as follows: If one wishes to express it in the language of Kant “the law of causality belongs, according to Cassirer, to the modal principles, it is a postulate of empirical thought” (quoted in Rudolph, p. 241). Thus, that which was taken to be constructive is now elevated to the status of a regulative principle."
+      ],
+      "zh": [
+        "卡西尔拯救因果性的努力因此可以表述如下：如果愿意用康德的语言表达，“按照卡西尔，因果律属于模态原理，它是经验思维的一个公设”（引自 Rudolph，第241页）。于是，从前被视为构成性的东西，现在被提升到调节性原理的地位。"
+      ],
+      "units": 64
+    },
+    {
+      "id": "ch04-u051",
+      "source_ids": [
+        "ch04-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Quantum physics, of course, poses a more serious challenge to such a view, standing as it does in ‘far greater contrast’ to classical physics than General Relativity does (op. cit., p. 105). However, this challenge can be met as long as we cleave to the essential idea that causality expresses ‘something about the structure of empirical knowledge’ (p. 114). In particular, quantum mechanics does not dispense with conformity to law, even if ‘law’ must now be understood as ‘statistical’ rather than ‘dynamical’, as in the classical case. The challenge is to our characterisation of ‘the physical concept of reality’ (ibid., p. 128) and in particular, it is the classical concept of object which is undermined, a shift which Cassirer portrays as jumping from the frying pan into the fire! In other words, the true import of quantum physics lies not in the apparent implication of some kind of indeterminism but in its further support for a shift away from the notion of object, to that of fundamental laws and principles, understood, ultimately, in a structural sense."
+      ],
+      "zh": [
+        "当然，量子物理对这种观点提出了更严重的挑战，因为它与经典物理学的“反差远大于”广义相对论（前引书，第105页）。然而，只要我们坚持这个根本观念——因果性表达“关于经验知识结构的某种东西”（第114页）——这个挑战就能应对。特别地，量子力学并不取消合规律性，即便“定律”现在必须被理解为“统计的”而非经典情形中的“动力学的”。受到挑战的是我们对“物理实在概念”的刻画（同上，第128页），尤其被削弱的是经典的对象概念；卡西尔把这一转变描绘为跳出油锅又入火坑！换言之，量子物理的真正意蕴不在于某种非决定论的表面蕴涵，而在于它进一步支持从对象概念转向基本定律与原理概念——这些定律与原理最终要在结构意义上理解。"
+      ],
+      "units": 176
+    },
+    {
+      "id": "ch04-u052",
+      "source_ids": [
+        "ch04-u052"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "What does such a shift amount to? To address this question we need to engage in a deeper analysis of the case for causality."
+      ],
+      "zh": [
+        "这种转变意味着什么？要回答这个问题，我们需要对因果性的理据作更深入的分析。"
+      ],
+      "units": 24
+    },
+    {
+      "id": "ch04-u053",
+      "source_ids": [
+        "ch04-u053"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The notion of causality that Cassirer is defending can be “expressed in the language of Kant” but it is certainly not Kantian. He is here characterizing causality as a postulate of empirical thought. Postulates are meant to specify the kind of attitude that thought entertains with regard to representation. For example if you have the representation of Italian people having cappuccino in a coffee bar in Leeds and find it nice you might think that such representation is not possible. Kant would say that the representation conforms to the law of the understanding, and thus it is indeed possible (Kant definitely is not a big name in coffee expertise!). But for Kant the Causal Law is one of the Analogies of Experience; in other terms that law is meant to structure the representation not to tell us what is the modality in which the understanding conceives it."
+      ],
+      "zh": [
+        "卡西尔所捍卫的因果性概念可以“用康德的语言表达”，但它肯定不是康德式的。他在这里把因果性刻画为经验思维的一个公设。公设旨在指明思维对表象所持的态度类型。例如，如果你有一个表象：意大利人在利兹的一家咖啡馆里喝卡布奇诺，并且觉得这不错，你可能会认为这个表象是不可能的。康德会说，这个表象符合知性的法则，因此它确实是可能的（康德在咖啡鉴赏方面肯定不是什么权威！）。但对康德来说，因果律是经验类比之一；换言之，那条定律旨在结构化表象，而不是告诉我们知性以何种模态构想它。"
+      ],
+      "units": 147
+    },
+    {
+      "id": "ch04-u054",
+      "source_ids": [
+        "ch04-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "So why is that? Why does Cassirer want to show that causality still plays somehow a Kantian role and at the same time wants to twist the very notion so much?"
+      ],
+      "zh": [
+        "那么这是为什么？为什么卡西尔既想表明因果性仍以某种方式扮演康德式的角色，同时又想把这个概念本身扭转到如此地步？"
+      ],
+      "units": 31
+    },
+    {
+      "id": "ch04-u055",
+      "source_ids": [
+        "ch04-u055"
+      ],
+      "page": "105",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The answer to this question involve an analysis of Cassirer’s conception of the body of knowledge of mathematical physics. He draws a distinction between three ‘basic’ types of statements in physics: statements of the results of measurements (Ch. 3); statements of laws (Ch. 4) and statements of principles (Ch. 5)."
+      ],
+      "zh": [
+        "这个问题的答案涉及对卡西尔关于数学物理学知识整体之构想的分析。他区分了物理学中三类“基本”陈述：测量结果的陈述（第3章）；定律的陈述（第4章）；原理的陈述（第5章）。"
+      ],
+      "units": 50
+    },
+    {
+      "id": "ch04-u056",
+      "source_ids": [
+        "ch04-u056"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The first represent ‘that decisive transformation’ (p. 31) from immediate perceptual data to experimental observation, where the latter must be understood as a determination into which concepts of measure and number enter. This transformation is highly complex and in Cassirer’s discussion we may perhaps see a ‘foreshadowing’ of Suppes’s characterisation of the ‘conceptual grinder’ which takes us from sense data to data models."
+      ],
+      "zh": [
+        "第一类陈述代表从直接知觉材料到实验观察的“那个决定性转换”（第31页），后者必须被理解为一种有量度与数概念进入其中的规定。这个转换高度复杂，在卡西尔的讨论中，我们或许可以看到对苏佩斯所刻画的“概念研磨机”的一种“预示”——正是它把我们从感觉材料带到数据模型。"
+      ],
+      "units": 63
+    },
+    {
+      "id": "ch04-u057",
+      "source_ids": [
+        "ch04-u057"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Statements of laws effectively join the particular to the whole and they are able to do this through the mathematical concept of function. This notion plays a key role in Cassirer’s architecture of science. There are a few things to note about his discussion here. The first is that with regard to the relationship between these two kinds of statements, Cassirer rejects induction as an appropriate way of characterising it. Indeed, he sees the problem of induction as the ‘chief stumbling block’ for the philosophy of science in general (ibid., p. 39). Instead, what we have in the move from statements of measurement to statements of laws is a ‘characteristic transformation’ from a ‘here-thus’ to an ‘if-then’ (ibid., p. 41) and the hypothetical judgments embodied in the latter cannot be regarded as mere summaries of individual facts since they pertain to classes of magnitudes which typically consist of infinitely many elements. Not only are classes of a different nature from that of their elements, according to Russell’s theory of types (ibid.), but we cannot say anything about such a class of elements if each one has not been previously tested and examined (ibid.). What a statement of law represents is an ‘abrogation’ of the space–time realm in which individual facts are situated and this ‘change of dimension’ cannot be captured as mere induction. What grants the passage here from the particular to the general? And further from these laws to the principle? In answering this question one answers the first part of the preceding one. Why is causality still around?"
+      ],
+      "zh": [
+        "定律陈述实际地把特殊者联结到整体，它们之所以能做到这一点，是通过数学的函数概念。这个概念在卡西尔的科学架构中起关键作用。关于他这里的讨论，有几点值得注意。首先，就这两类陈述之间的关系而言，卡西尔拒斥把归纳当作刻画它的恰当方式。的确，他把归纳问题看作一般科学哲学的“主要绊脚石”（同上，第39页）。相反，从测量陈述到定律陈述的运动中，我们具有的是一种从“此处—如此”到“如果—那么”的“特征性转换”（同上，第41页），而后者所体现的假言判断不能被看作个别事实的单纯概括，因为它们涉及量的类，而这些类通常由无穷多个元素组成。按照罗素的类型论（同上），类不仅在本性上不同于其元素，而且如果没有事先逐一检验这些元素，就无法对这一类作出断言（同上）。定律陈述所代表的是对个别事实所处时空领域的“废除”，这种“维度的改变”不能被把握为单纯的归纳。是什么保证了这里从特殊到普遍的过渡？进而从这些定律到原理的过渡？回答这个问题，也就回答了前一个问题的第一部分：为什么因果性仍然在场？"
+      ],
+      "units": 261
+    },
+    {
+      "id": "ch04-u058",
+      "source_ids": [
+        "ch04-u058"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "From the traditional Kantian standpoint the model of causality is formulated in the second analogy and it is the core of Kant’s response to Hume. Hume says that we at most represent events as successive in time and constantly conjoined and this is all causality is about and in the second analogy Kant points out that the very possibility of such representation implies the working of a rule of ordering that makes possible that succession. Now, temporal ordering is certainly not something we grasp by perception so it must necessarily come from somewhere else. Thus it is provided by the understanding; hence it is possible to attach to it some form of a priori necessity. Cassirer has certainly abandoned that standpoint especially because of his rejection of a role for intuition. In other terms he need not have any principle to grant permanence, succession or coexistence in time because in his view the intuition of space and time are not playing any role in modern science. The analogies are nonetheless playing another role in Kantian philosophy: they ground in the activity of the understanding the fundamental Laws of Newtonian mechanics (Friedman 1992). It is our contention that Causality interpreted as a general principle is granting for Cassirer the possibility to apply universally the idea of functional coordination according to a law."
+      ],
+      "zh": [
+        "从传统康德主义观点看，因果性的模型在第二类比中表述，它是康德回应休谟的核心。休谟说，我们至多把事件表象为时间中相继且恒常结合的，这就是因果性的全部；而在第二类比中康德指出，这种表象的可能性本身就蕴涵一条排序规则的运作，是它使那种相继成为可能。现在，时间排序肯定不是我们通过知觉把握的东西，所以它必然来自别处。于是它由知性提供；因此可以把某种形式的先天必然性归于它。卡西尔肯定已经放弃了那个立场，尤其是因为他拒斥直观的作用。换言之，他不需要任何原理来保证时间中的持存、相继或共存，因为在他看来空间与时间直观在现代科学中不起任何作用。尽管如此，类比在康德哲学中仍扮演另一个角色：它们在知性的活动中为牛顿力学的基本定律奠基（Friedman 1992）。我们的主张是：被解释为普遍原理的因果性，对卡西尔来说保证了按定律普遍应用功能性协调观念的可能性。"
+      ],
+      "units": 221
+    },
+    {
+      "id": "ch04-u059",
+      "source_ids": [
+        "ch04-u059"
+      ],
+      "page": "106",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let’s put the issue in slightly different terms: Cassirer views the causal principle as a guarantee of the indefinite growth of the body of natural knowledge since he needs a criterion that make sense of the fact that “the process of conversion of the observational data into exact statements of measure, gathering together of the measurements in equations between functions, and the systematic unification of these equations through general principles” can never be completed. The reason for this new role for causality has to do, in the first instance, with the entangled notions of law and function."
+      ],
+      "zh": [
+        "让我们用稍有不同的术语表述这个问题：卡西尔把因果原理看作自然知识整体无限增长的保证，因为他需要一个判准来说明这个事实：“把观察材料转换为精确的量度陈述、把测量汇集为函数之间的方程、再通过普遍原理把这些方程系统地统一起来”这个过程永远不可能完成。因果性之所以获得这个新角色，首先与定律和函数这两个纠缠在一起的概念有关。"
+      ],
+      "units": 97
+    },
+    {
+      "id": "ch04-u060",
+      "source_ids": [
+        "ch04-u060"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "What is noteworthy here is the similarity of Cassirer’s consideration of the mathematical aspect of laws with more recent structuralist discussions, Thus, he notes that once placed in this form, phenomena are effectively established as ‘enduring thoughts’ (ibid., p. 38), in the sense that their duration extends far beyond their original representation in this form. As an example, he gives that of Fourier’s theory of heat which was developed in the context of a view of heat as a fluid but whose mathematical description – in terms of which the phenomena were represented as the results of ‘purely geometrical relations’ – came to be seen as independent from these particular hypothetical presuppositions. It is this separation of the fundamental structure, as represented by the mathematical equations, from the underlying metaphysical commitments – which may of course play a crucial heuristic role – which was also noted by Poincaré, for example, and which lies at the heart of modern forms of ‘structural realism’ (Ladyman, 1998). Even more interestingly, perhaps, Cassirer goes on to point out how Fourier’s formulae were subsequently resurrected by Heisenberg in the development of quantum mechanics, Saunders uses this example to illustrate the ‘heuristic plasticity’ of such formulae (1993), and we take this to be broadly the same as what Cassirer calls their ‘indwelling sagacity’ (Spürkraft). The central idea is that it is by means of this plastic mathematics that fundamental structural aspects of classical dynamics are isolated, become entrenched and are thereby preserved in subsequent developments. In particular, as Saunders notes, certain of these features (those which are group-theoretic in particular), provide ‘… over-arching abstract frameworks … within which one dynamical structure may be embedded in another’ (op. cit., p. 308). Both Cassirer and Saunders see this feature as indicative of the significant independence of the relationships represented by the equations and formulae, from the hypothetical/ metaphysical presuppositions which led to their elaboration in the first place. The characteristic mathematical formulation is thus a crucial component of the notion of law and in this sense Cassirer is very close to Kant who expressed clearly is scepticism towards the scientific standards of a discipline which did not achieve a mathematical formulation at least of its basic laws and principles."
+      ],
+      "zh": [
+        "这里值得注意的是，卡西尔对定律之数学方面的考虑与晚近结构主义讨论的相似性。于是他指出，现象一旦被置入这种形式，就实际地被确立为“持存的思想”（同上，第38页），意思是它们的存续远远超出它们在这种形式中的原初表象。他举的例子是傅里叶的热理论：它是在把热看作流体的观点语境中发展起来的，但其数学描述——现象据此被表象为“纯粹几何关系”的结果——后来被看作独立于这些特定的假设性预设。正是基本结构（由数学方程表示）与底层形而上学承诺（它们当然可能起关键的启发作用）的这种分离，也被例如彭加勒注意到，并且处于现代形式的“结构实在论”的核心（Ladyman, 1998）。也许更有趣的是，卡西尔接着指出傅里叶的公式后来如何在量子力学的发展中被海森堡复活；桑德斯用这个例子说明这类公式的“启发可塑性”（1993），我们认为这大体上就是卡西尔所谓的公式的“内在敏锐”（Spürkraft）。核心想法是：正是借助这种可塑的数学，经典动力学的基本结构方面被隔离出来、变得稳固，从而在后续发展中被保存下来。特别地，正如桑德斯指出的，这些特征中的某些（尤其是群论的那些）提供“……总揽性的抽象框架……在这种框架内，一种动力学结构可以嵌入另一种动力学结构”（前引书，第308页）。卡西尔与桑德斯都把这一特征看作表明：方程与公式所表示的关系，显著地独立于当初导致其构想的假设性/形而上学预设。于是，特征性的数学表述是定律概念的内在成分，在这个意义上卡西尔非常接近康德——康德明确质疑过这样一门学科的科学性：它甚至无法以数学表述其基本定律和原理。"
+      ],
+      "units": 365
+    },
+    {
+      "id": "ch04-u061",
+      "source_ids": [
+        "ch04-u061"
+      ],
+      "page": "107",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the case of Kant, mathematics and the objectivity of the laws are constructed out of the same source. Mathematics depends upon the injection of the categorical order into the pure intuition of time. In particular this has to do with the order of succession, permanence and simultaneity, a process which is crucial for the construction of objectivity itself and starts precisely with the determination of something persisting in the flowing of experience: “…the substratum of everything real, i.e. everything that belong to the existence of things, is substance, of which everything that belongs to existence can be thought only as a determination” (Critique of Pure Reason, CE B225, p. 300)."
+      ],
+      "zh": [
+        "在康德那里，数学与定律的客观性出于同一个源头构造出来。数学依赖于把范畴秩序注入时间纯直观。特别地，这关涉相继、持存与同时的秩序，这个过程对客观性本身的构造至关重要，并且恰恰始于对经验之流中某种持存者的规定：“……一切实在东西的基体，即一切属于事物实存的东西的基体，是实体，一切属于实存的东西都只能被思维为它的规定”（《纯粹理性批判》，CE B225，第300页）。"
+      ],
+      "units": 112
+    },
+    {
+      "id": "ch04-u062",
+      "source_ids": [
+        "ch04-u062"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The Kantian notion of objectivity has to do with the necessity of meshing the logical order of categories with the perceptual content of sensibility within the framework provided by space and time. Mathematics comes to being in this process when the intuition of time is considered in its purity independently from any perception. In this sense, physical objects are substrata logically required as holders of the various determinations and mark one of the crucial elements of our comprehension of the world: permanence in time. Cassirer’s deeper departure from Kant starts precisely here and from this standpoint it possible to grasp the gist of his radical form of structuralism about physics."
+      ],
+      "zh": [
+        "康德的客观性概念关涉这样一种必要性：在空间与时间提供的框架内，把范畴的逻辑秩序与感性的知觉内容啮合起来。当时间直观在其纯粹性中、独立于任何知觉被考虑时，数学就在这个过程中产生。在这个意义上，物理对象是逻辑上被要求的基体，充当各种规定的承载者，并标示我们理解世界的关键要素之一：时间中的持存。卡西尔对康德更深的偏离恰恰从这里开始，从这个观点出发，可以把握他关于物理学的激进结构主义形式的要旨。"
+      ],
+      "units": 110
+    },
+    {
+      "id": "ch04-u063",
+      "source_ids": [
+        "ch04-u063"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For Cassirer mathematics plays a crucial architectonic role as well, but it does it alongside logic in a context in which the landscape of logic has been enriched by the results of Frege and his followers. Cassirer rejects completely the idea that mathematics is constructed out of pure intuition and logic. He maintains that such structural features embody a synthetic element as far as mathematical natural knowledge is concerned (see Friedman, op. cit., p. 92). Now the rejection of the role of pure intuition here is combined with the idea that the Kantian distinction between Sensibility and Understanding as faculties is untenable. Thought in generating our knowledge of reality acts as a whole."
+      ],
+      "zh": [
+        "对卡西尔来说，数学也起关键的架构作用，但它是与逻辑并肩起作用的，而逻辑的图景已经因弗雷格及其追随者的成果而丰富起来。卡西尔完全拒斥数学由纯直观与逻辑构造而成的观念。他主张，就数学的自然知识而言，这类结构特征体现着综合的要素（见 Friedman，前引书，第92页）。现在，这里对纯直观作用的拒斥与另一个观念结合在一起：康德把感性与知性作为两种能力的区分是站不住脚的。思维在生成我们关于实在的知识时是作为整体起作用的。"
+      ],
+      "units": 113
+    },
+    {
+      "id": "ch04-u064",
+      "source_ids": [
+        "ch04-u064"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "How is objectivity to be constructed in this picture? Again the logical element provided by mathematics and logic (regarded as on a par) has to provide order in the appearance. But the first step in the introduction of an element of permanence does not take place via the adoption of the notion of a substance as a substratum. For Cassirer physics characteristically and progressively assigns this role to the notion of function. He presents this point for the first time in an early writing concerned with the interpretation of Leibniz’s concept of force that Cassirer takes to be a model for the notion of substance: “the continuous persistence of force is not to be understood as “material constancy of a thing” but a persisting identity of a superordinate law” (Rudolf, 1994, p. 236). The picture we end up with then, is that laws are represented by equations expressing relations between functions."
+      ],
+      "zh": [
+        "在这幅图景中客观性如何构造？同样，由数学与逻辑（被视为平级）提供的逻辑要素必须在显象中提供秩序。但引入持存要素的第一步，不是通过采纳作为基体的实体概念发生的。对卡西尔来说，物理学特征性地、渐进地把这个角色分配给函数概念。他在一篇早期著作中首次提出这一点，该文讨论莱布尼茨力概念的解释，卡西尔把这个概念看作实体概念的模型：“力的持续存在不应被理解为‘物的质料性恒常’，而应被理解为一条上位定律的持存同一性”（Rudolf, 1994, p. 236）。于是我们最终得到的图景是：定律由表达函数之间关系的方程来表示。"
+      ],
+      "units": 151
+    },
+    {
+      "id": "ch04-u065",
+      "source_ids": [
+        "ch04-u065"
+      ],
+      "page": "108",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Moving on and upwards, as it were, statements of principle, seen as ‘statements of third order’, arise when one begins to consider how the laws are inter-related and the process here is what underlies the great moments of unification in science, for example. As a typical example, Cassirer gives the principle of least action and notes again, that as it was developed and made more precise through history, the metaphysical basis for it was increasingly lost from view (ibid., p. 48). However, the price for universality is the apparent loss of the subject of the principle (Cassirer nicely refers to its ‘iridescent indeterminateness’ (ibid., p. 51), but rather than seeing this as a defect, Cassirer insists that it points to the real import and methodological character of such principles: they function as heuristic rules for seeking and finding laws (ibid., p. 52). And they do this by presupposing ‘certain common determinations’ which hold for all natural phenomena, and then effectively consider what, in a particular domain, corresponds to these determinations. Thus their power and value lie in this ‘capacity for “synopsis” ’ (ibid.), which affords an overview of more than one physical domain. Unlike the laws themselves, the principles do not refer directly to phenomena, but to ‘… the form of laws according to which we order these phenomena’ (ibid.). The relationship between principles and laws is akin to that between laws and measurement results in that a ‘new dimension’ is entered and the purposes of a ‘pure immanence’ are served, in the sense of ‘the inner construction and securing of experience’ (ibid., p. 54)."
+      ],
+      "zh": [
+        "继续前行、仿佛向上走，原理陈述——被看作“三阶陈述”——在人们开始考虑定律如何相互关联时出现，这个过程是科学史上重大统一的基础。卡西尔举出的典型例子是最小作用量原理，并再次指出，随着它在历史中被发展、被精确化，它的形而上学基础日益从视野中消失（同上，第48页）。然而，普遍性的代价是原理似乎失去了确定的研究对象（卡西尔巧妙地称之为它的“闪烁不定的不确定性”（同上，第51页）），但卡西尔并不把这看作缺陷，而是坚持它指向这类原理的真正意蕴与方法论特征：它们充当寻求和发现定律的启发式规则（同上，第52页）。它们做到这一点，是通过预设对一切自然现象都成立的“某些共同规定”，然后实际地考虑在特定领域中什么对应于这些规定。于是它们的力量与价值在于这种“‘总览’的能力”（同上），它提供对不止一个物理领域的概观。与定律本身不同，原理不直接指涉现象，而是指涉“……我们据以整理这些现象的定律的形式”（同上）。原理与定律的关系类似于定律与测量结果的关系：进入了一个“新维度”，服务于“纯粹内在性”的目的，即“经验的内部构造与确保”（同上，第54页）。"
+      ],
+      "units": 263
+    },
+    {
+      "id": "ch04-u066",
+      "source_ids": [
+        "ch04-u066"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Putting it a little crudely perhaps, ‘statements of measurements are individual, statements of laws general, and statements of principle universal’ (ibid.). However, Cassirer emphasises that the relationships between them should not be characterised in terms of any kind of spatial metaphor since these statements all mutually condition and support one another (ibid., p. 35) in a kind of ‘reciprocal interweaving and bonding’ (ibid.). Consider the relationship between statements of measurement and statements of laws, for example: the former, as already indicated, do not constitute some bedrock of ‘facts’ since, as Cassirer claims, in an early reference to theory-ladenness, that ‘everything significantly factual is already theory’ (ibid.). Thus we should not see these statements as forming the structure of a pyramid; this would suggest that the top ‘layers’; could somehow be removed without affecting the bottom, but such a suggestion is simply untenable since the truth of all such statements at whatever ‘level’ is due to their mutual interconnection (one might draw the obvious analogy with the coherence theory of truth here). Rather than a pyramid, Cassirer likens this structure to a Parmenidean ‘well rounded’ sphere, wherein the various elements can be logically distinguished, even though they cannot be ascribed any kind of independent existence. Significantly, Cassirer insists that within such a structure there is ‘… no proper substantial carrier, nothing that per se est et per se concipitur’ (ibid.); rather there is ‘… only a functional coordination in which all the elements, all the determining factors of physical truth, uniformly participate’ (ibid.)."
+      ],
+      "zh": [
+        "也许说得粗率一点：“测量陈述是个别的，定律陈述是一般的，原理陈述是普遍的”（同上）。然而，卡西尔强调，它们之间的关系不应以任何空间隐喻来刻画，因为这些陈述全都相互制约、相互支持（同上，第35页），处于一种“相互的交织与黏合”之中（同上）。例如考虑测量陈述与定律陈述的关系：如前所述，前者并不构成某种“事实”的基岩，因为正如卡西尔在早期提及理论负载性时所主张的，“一切有意义的事实都已经是理论”（同上）。于是我们不应把这些陈述看作构成金字塔结构；那会暗示顶“层”可以以某种方式被移除而不影响底部，但这种暗示根本站不住脚，因为一切这类陈述无论在哪个“层面”上，其真都归功于它们的相互关联（这里可以作一个明显的类比：真理融贯论）。卡西尔不是把这个结构比作金字塔，而是比作巴门尼德式的“滚圆”球体，其中各要素可以在逻辑上区分，尽管不能被赋予任何独立存在。意味深长的是，卡西尔坚持在这种结构内“……没有真正的实体性承载者，没有 per se est et per se concipitur〔凭自身存在且凭自身被构想〕的东西”（同上）；相反，“……只有一种功能性协调，一切要素、物理真理的一切规定因素都均一地参与其中”（同上）。"
+      ],
+      "units": 250
+    },
+    {
+      "id": "ch04-u067",
+      "source_ids": [
+        "ch04-u067"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Likewise, from Cassirer’s structuralist perspective, there are no substantial carriers of physical properties, but only functional coordinations to which our metaphysical notion of a physical object is ultimately reduced."
+      ],
+      "zh": [
+        "同样，从卡西尔的结构主义观点看，没有物理性质的实体性承载者，只有功能性协调，我们关于物理对象的形而上学概念最终被归约为它。"
+      ],
+      "units": 29
+    },
+    {
+      "id": "ch04-u068",
+      "source_ids": [
+        "ch04-u068"
+      ],
+      "page": "109",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Indeed, it is only through the mediation of the results of measurements that the ‘concepts and judgments’ of physics can refer to an object and acquire objectivity. It is at this level of statements that we find the ‘feature of individuality’ that objects are typically taken to have, in the sense that such statements pertain to a definite here and now. In other words, what we have here is a form of what has been called ‘space–time individuality’, in the sense that the individuality (and distinguishability) of objects is ultimately grounded via their location in space–time (see French and Krause, 2006). It is precisely this that quantum mechanics will undermine. To use Eddington’s phrase, this level of statement yields only a ‘legend’ of individuality’, which results when our ‘ordinary’ frames of thought are transformed by the mathematics relevant to quantum theory (French, 2003). In this sense, in which the statements of the results of measurements are the beginning and end of physics, ‘[w]hat physics calls an “object” is nothing ultimately but an aggregate of characteristic numbers’ (ibid., p. 36). Of course, as far as Cassirer is concerned, such an aggregate is determined and informed by the other elements of the structure, namely the laws and principles. Physical knowledge must not be thought of as a mere aggregate of data, since the data are mutually conditioned and interrelated. What is important is that ‘… we do not need to posit objects as sundered beingsin-themselves behind these determinations’ (ibid.)."
+      ],
+      "zh": [
+        "的确，只有通过测量结果的中介，物理学的“概念与判断”才能指涉对象并获得客观性。正是在陈述的这个层面，我们发现了对象通常被认为具有的“个体性特征”，意思是这类陈述涉及确定的此时此地。换言之，我们这里具有的是所谓“时空个体性”的一种形式，意思是对象的个体性（与可区分性）最终通过它们在时空中的位置来奠基（见 French and Krause, 2006）。量子力学将要削弱的恰恰是这个。用爱丁顿的话说，这个层面的陈述只给出一种“个体性的传说”，它产生于我们的“日常”思维框架被量子理论相关的数学所变换之时（French, 2003）。在这个意义上——测量结果的陈述是物理学的起点与终点——“物理学称之为‘对象’的东西，归根结底不外乎特征数的聚合”（同上，第36页）。当然，就卡西尔而言，这种聚合由结构的其他要素即定律与原理所规定和赋形。物理知识不能被设想为数据的单纯聚合，因为数据相互制约、相互关联。重要的是“……我们不需要在这些规定背后设定作为分离的自在存在者的对象”（同上）。"
+      ],
+      "units": 249
+    },
+    {
+      "id": "ch04-u069",
+      "source_ids": [
+        "ch04-u069"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The overall framework, then, is the same as in the space–time case, at least insofar as it involves a shift from things-as-substances to relations as the ground of objectivity in science; or as Cassirer put it, ‘[w]e are concerned not so much with the existence of things as with the objective validity of relations; and all our knowledge of atoms can be led back to, and depends on, this validity’ (Cassirer, 1936, p. 143). In classical mechanics objectivity rests on the spatio-temporal persistence of individual objects and here, ‘ “[o]bjective” denotes a being which can be recognized as the same in spite of all changes in its individual determinations, and this recognition is possible only if we posit a spatial substratum.’ (ibid., p. 177). As Cassirer points out, ‘The entire axiomatic system of classical mechanics is based on this presupposition.’ (ibid.). As is well known, this presupposition features explicitly in Boltzmann’s axioms for example and it forms the basis of the ‘world-view’ of classical (particle) physics in which we have individual objects possessing at all times well-defined properties and traversing well-defined spatio-temporal trajectories. It is this world-view that is apparently overturned by quantum mechanics (at least under the orthodox interpretation) and in the new situation in which we find ourselves, we cannot say that the particles unambiguously possess definite properties at all times, even beyond measurement interactions, or that they travel along well-defined trajectories. It is at this juncture that Cassirer asks a pair of crucial questions: ‘… what are these electrons whose path we can no longer follow? Is there any sense in ascribing to them a definite, strictly determined existence, which, however, is only incompletely accessible to us?’ (ibid., p. 178). In answering these questions, Cassirer makes the fundamental demand of the ontic form of structural realism (Ladyman, 1998), namely that we take the ‘conditions of accessibility’ as ‘conditions of the objects of experience’. If we do that, then ‘… there will no longer exist an empirical object that in principle can be designated as utterly inaccessible; and there may be classes of presumed objects which we will have to exclude from the domain of empirical existence because it is shown that with the empirical and theoretical means of knowledge at our disposal, they are not accessible or determinable’ (ibid., p. 179). There are no epistemically inaccessible objects laying behind the structures which we can know."
+      ],
+      "zh": [
+        "于是，总体框架与时空情形相同，至少就它涉及从作为实体的物转向作为科学中客观性根据的关系而言；或者用卡西尔的话说：“我们关切的与其说是物的存在，不如说是关系的客观有效性；我们关于原子的一切知识都可以回溯到这种有效性，并依赖于它”（Cassirer, 1936, p. 143）。在经典力学中，客观性依托于个别对象的时空持存，在这里，“‘客观的’指这样一个存在者：尽管其个别规定发生一切变化，它仍能被识别为同一个，而这种识别只有在我们设定一个空间基体时才可能”（同上，第177页）。正如卡西尔指出的，“经典力学的整个公理体系都基于这个预设”（同上）。众所周知，这个预设例如明确出现在玻尔兹曼的公理中，它构成经典（粒子）物理学“世界图景”的基础：在其中，个别对象在任何时候都具有定义良好的性质，并沿定义良好的时空轨迹行进。表面上被量子力学颠覆的正是这个世界图景（至少在正统解释下）；在我们发现自己所处的新境况中，我们不能说粒子在任何时候——甚至在测量相互作用之外——都无歧义地具有确定性质，也不能说它们沿定义良好的轨迹行进。正是在这个关口，卡西尔提出一对关键问题：“……这些我们再也无法追踪其路径的电子是什么？把一种确定的、严格被规定的、然而只是不完全地为我们所通达的存在归于它们，还有任何意义吗？”（同上，第178页）。在回答这些问题时，卡西尔提出了本体性结构实在论的根本要求（Ladyman, 1998），即把“可达性条件”当作“经验对象的条件”。如果我们这样做，那么“……就不再存在原则上可以被指认为完全不可通达的经验对象；并且可能有某些被设想的对象类，我们必须把它们从经验存在的领域中排除，因为已经表明，凭我们掌握的经验与理论认识手段，它们是不可通达或不可规定的”（同上，第179页）。在我们能认识的结构背后，没有认识上不可通达的对象。"
+      ],
+      "units": 398
+    },
+    {
+      "id": "ch04-u070",
+      "source_ids": [
+        "ch04-u070"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "What is an electron then? Not, Cassirer insists, an individual object (ibid., p. 180) and he cites Born’s comment (from 1926) that from the perspective of quantum statistics, the particles cannot be identified as individuals at all (ibid., p. 184). Cassirer writes,"
+      ],
+      "zh": [
+        "那么电子是什么？卡西尔坚持说，不是个体对象（同上，第180页），他引用玻恩（1926年）的评论：从量子统计的观点看，粒子根本不能被识别为个体（同上，第184页）。卡西尔写道："
+      ],
+      "units": 42
+    },
+    {
+      "id": "ch04-u071",
+      "source_ids": [
+        "ch04-u071"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The impossibility of delimiting different electrons from one another, and of ascribing to each of them an independent individuality, has been brought into clear light through the evolution of the modern quantum theory, and particularly through the considerations connected with the Pauli exclusion principle. (ibid., p. 184, fn. 17)",
+        {
+          "type": "note",
+          "id": "ch04-n06",
+          "label": "6"
+        }
+      ],
+      "zh": [
+        "把不同的电子相互区分开、并把独立的个体性归于每一个电子的不可能性，已经通过现代量子理论的演化、尤其是通过与泡利不相容原理相关的考虑，由此清楚地显现出来。（同上，第184页，注17）",
+        {
+          "type": "note",
+          "id": "ch04-n06",
+          "label": "6"
+        }
+      ],
+      "type": "quote",
+      "units": 49
+    },
+    {
+      "id": "ch04-u070-continuation",
+      "source_ids": [
+        "ch04-u070-continuation"
+      ],
+      "page": "110",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Of course, this is to follow the ‘received view’ regarding the indistinguishability of quantum particles which draws the conclusion that they are non-individuals in some sense. Nevertheless, Cassirer takes it to further support the shift away from particles as substantival ‘things’. If we want to continue to talk, in everyday language, about electrons as objects – because we lack the logico-linguistic resources to do otherwise – then we can do so ‘only indirectly’, ‘… not insofar as they themselves, as individuals, are given, but so far as they are describable as “points of intersection” of certain relations’ (ibid.). And this relational conception of an object is taken straight from Kant himself: ‘All we know in matter is merely relations… but among these relations some are self-subsistent and permanent, and through these we are given a determinate object’ (Kant, Critique of Pure Reason B 341, CE, p. 379; in Cassirer, 1956, p. 182). Charge, understood as an intrinsic or state-independent property of particles, is just such a ‘self-subsistent and permanent relation’ but as Cassirer points out, in an acute rebuttal of the assumption made by the ‘standard’ realist, ‘… the constancy of a certain relation is not at all sufficient for the inference of a constant carrier’ (ibid.). The permanence of charge justifies our regarding the electron, say, as a ‘determinate object’, where the scare quotes indicate that the sense is that of an entity prior to reconceptualisation in structural terms, but it is does not justify what Cassirer calls the ‘substantialization and hypostasis’ of the electron in the sense of an entity which is not so reconceptualised."
+      ],
+      "zh": [
+        "当然，这是遵循关于量子粒子不可区分性的“通行观点”，该观点得出它们在某种意义上是非个体的结论。尽管如此，卡西尔认为这进一步支持从作为实体性“物”的粒子转向。如果我们想继续用日常语言把电子当作对象来谈论——因为我们缺乏另作处理的逻辑—语言资源——那么我们只能“间接地”这样做，“……不是就它们自身作为个体被给予而言，而是就它们可以被描述为某些关系的‘交点’而言”（同上）。而这种对象的关系性构想直接来自康德本人：“我们在物质中所认识的一切不过是关系……但这些关系中有些是自持且持存的，通过它们，一个确定的对象被给予我们”（Kant, Critique of Pure Reason B 341, CE, p. 379；见 Cassirer, 1956, p. 182）。电荷，被理解为粒子的内禀的或独立于状态的性质，正是这样一种“自持且持存的关系”；但正如卡西尔在敏锐反驳“标准”实在论者的假设时指出的，“……某种关系的恒常性根本不足以推出一个恒常的承载者”（同上）。电荷的持存证成我们把例如电子看作“确定对象”——引号表示这里的意义是尚未按结构术语重新构想的实体——但它并不证成卡西尔所谓的电子的“实体化与实体性设定”，即作为一个未经如此重新构想的实体。"
+      ],
+      "units": 263
+    },
+    {
+      "id": "ch04-u072",
+      "source_ids": [
+        "ch04-u072"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Charge, like the other intrinsic properties, features in the relevant laws of physics and according to Cassirer, what we have here is a reversal of the classical relationship between the concepts of object and law (ibid., pp. 131–132): instead of beginning with a ‘definitely determined entity’ which possess certain properties and which then enters into definite relations with other entities, where these relations are expressed as laws of nature, what we now begin with are the laws which express the relations in terms of which the ‘entities’ are constituted. From the structuralist perspective, the entity ‘… constitutes no longer the self-evident starting point but the final goal and end of the considerations: the terminus a quo has become a terminus ad quem’ (ibid., p. 131). Objectivity, therefore, is determinable through law, which is prior to it (ibid., p. 176) and the boundaries of law mark the boundaries of objective knowledge (ibid., p. 132)."
+      ],
+      "zh": [
+        "电荷与其他内禀性质一样，出现在相关的物理定律中；按照卡西尔，我们这里具有的是对象概念与定律概念之间经典关系的颠倒（同上，第131–132页）：不再从一个“被确定规定的实体”出发——它具有某些性质，然后与其他实体进入确定关系，这些关系被表达为自然定律——我们现在由以出发的是定律，定律表达关系，而“实体”正是按这些关系被构成的。从结构主义观点看，实体“……不再是自明的出发点，而是考虑的最终目标与终点：出发点（terminus a quo）成了趋向的终点（terminus ad quem）”（同上，第131页）。因此，客观性可以通过先于它的定律来规定（同上，第176页），定律的边界标示客观知识的边界（同上，第132页）。"
+      ],
+      "units": 153
+    },
+    {
+      "id": "ch04-u073",
+      "source_ids": [
+        "ch04-u073"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The significance of quantum physics for epistemology lies precisely with these considerations regarding the nature of objects. As already indicated, the ‘principle’ of causality can be retained, since it should be regarded not as a proposition pertaining to events themselves, but, rather, ‘… a stipulation concerning the means through which things and events are constituted in experience.’ (Werkmeister, 1949, p. 789). As such, the principle is not undermined by quantum mechanics; indeed, Cassirer insists, understood as a demand for strict functional dependence, the essence of causality remains untouched (op. cit., p. 188). At best the formulation of the principle must be corrected, following the articulation of the uncertainty relations. Cassirer examines the impact of the latter in the following manner: the logical form of the causality principle is that of ‘If x, then y’. Now, what can we say about this form if uncertainty has ‘crept’ into x? Logically, of course, we are not entitled to infer any uncertainty in the y and hence the statement ‘If x, then y’ is not invalid."
+      ],
+      "zh": [
+        "量子物理对认识论的意义恰恰在于这些关于对象本性的考虑。如前所述，因果性“原理”可以保留，因为它不应被看作涉及事件本身的命题，而是“……关于事物与事件在经验中借以被构成的手段的一项约定”（Werkmeister, 1949, p. 789）。作为这样的原理，它不被量子力学削弱；的确，卡西尔坚持，被理解为对严格函数依赖的要求，因果性的本质依然未受触动（前引书，第188页）。至多必须随着不确定度关系的表述而修正原理的表述。卡西尔以如下方式审查后者的影响：因果原理的逻辑形式是“如果 x，那么 y”。现在，如果不确定性已经“潜入”x，关于这个形式我们能说什么？当然，从逻辑上我们无权推出 y 中有任何不确定性，因此陈述“如果 x，那么 y”并不失效。"
+      ],
+      "units": 172
+    },
+    {
+      "id": "ch04-u074",
+      "source_ids": [
+        "ch04-u074"
+      ],
+      "page": "111",
+      "canonical_kind": "paragraph",
+      "en": [
+        "All that we can say is that in order for it to be useful in the quantum domain, the values of x must be ‘permissible’, in the sense that they can be determined by an appropriate mode of measurement. The causal relation as such is not affected, only its domain of legitimate application, and this is now further delineated by the uncertainty relations."
+      ],
+      "zh": [
+        "我们所能说的一切是：为了在量子领域中有用，x 的值必须是“可允许的”，意思是它们能够由恰当的测量方式规定。因果关系本身不受影响，受影响的只是其合法应用的领域，而这个领域现在由不确定度关系进一步划定。"
+      ],
+      "units": 63
+    },
+    {
+      "id": "ch04-u075",
+      "source_ids": [
+        "ch04-u075"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Moving back to our sketch of Cassirer’s view of General Relativity, the retention of causality provides of course a further connection between Cassirer and Einstein. Ryckman notes that general covariance underpins Einstein’s criterion of observer independent objectivity in terms of his famous and much discussed principle of separability (Ryckman, op. cit.). Put simply, this embodies the idea that spatially separated systems possess distinct states. The origins of the principle lie in field theory, where field quantities are defined at space–time points and the (mathematical) separability of the points is inherited (ontologically) by these field quantities which in turn represent properties of systems. The connection to General Relativity is provided by Schlick who claimed that only general covariance can adequately satisfy the Maxwellian requirement that causal differences between two events should not depend upon the particular spatio-temporal locations of the events (Ryckman, ibid., p. 609). This further requires a way of distinguishing causal occurrences so that they may be regarded as similar but not identical and this is what the principle of separability allows."
+      ],
+      "zh": [
+        "回到我们对卡西尔广义相对论观的勾画，因果性的保留当然提供了卡西尔与爱因斯坦之间的又一联系。赖克曼指出，广义协变性支撑着爱因斯坦的观察者无关的客观性判准，体现在他那著名且被广泛讨论的可分离性原理中（Ryckman，前引书）。简单说，这体现着空间上分离的系统各有其自身的状态的想法。该原理的根源在场论：场量在时空点上定义，点的（数学的）可分离性被这些场量（本体论地）继承，而场量又代表系统的性质。与广义相对论的联系由石里克提供，他声称只有广义协变性才能充分满足麦克斯韦式的要求：两个事件之间的因果差异不应依赖于事件的特定时空位置（Ryckman，同上，第609页）。这进一步要求一种区分因果发生的方式，使它们可以被看作相似而不相同，而这正是可分离性原理所容许的。"
+      ],
+      "units": 174
+    },
+    {
+      "id": "ch04-u076",
+      "source_ids": [
+        "ch04-u076"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As is now well known, separability was central to the EPR objection and in one of his famous letters to Born, Einstein insisted that,"
+      ],
+      "zh": [
+        "众所周知，可分离性在 EPR 反驳中处于核心地位；在给玻恩的一封著名信件中，爱因斯坦坚持说："
+      ],
+      "units": 24
+    },
+    {
+      "id": "ch04-u079",
+      "source_ids": [
+        "ch04-u079"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[u]nless one makes this kind of assumption about the independence of the existence (the ‘being-thus’) of objects which are far apart from one another in space – which stems in the first place from everyday thinking – physical thinking in the familiar sense would not be possible. It is also hard to see any way of formulating and testing the laws of physics unless one makes a clear distinction of this kind. This principle has been carried to extremes in the field theory by localising the elementary objects on which it is based and which exist independently of each other, as well as the elementary laws which have been postulated for it, in the infinitely small (four-dimensional) elements of space. (Born-Einstein Letters, pp. 170–171)"
+      ],
+      "zh": [
+        "除非人们对空间上彼此远隔的对象的存在独立性（其“如此存在”）作出这类假设——它首先来自日常思维——否则熟悉意义上的物理思维就不可能。也很难看出有任何表述和检验物理定律的方式，除非人们作出这类明确的区分。在场论中，这条原理被推向极端：把它所基于的、彼此独立存在的基本对象，以及为它设定的基本定律，都定域于空间的无穷小（四维）元素之中。（《玻恩—爱因斯坦通信集》，第170–171页）"
+      ],
+      "type": "quote",
+      "units": 124
+    },
+    {
+      "id": "ch04-u077",
+      "source_ids": [
+        "ch04-u077"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As Ryckman puts it, by ‘… distinguishing physical systems by virtue of causal independence of measurement interactions, [separability] serves as a principle of individuation in lieu of the usual identification of physical systems by reference to a fixed background of space and time…’ (ibid., p. 615). The lesson to be drawn is that Einstein’s criterion of ‘observer objectivity’ is not the expression of a ‘simple minded realism’, ‘… but rather a presupposition for the application of causal laws in the physical description of the world.’ (ibid., p. 616)."
+      ],
+      "zh": [
+        "用赖克曼的话说，“……凭借测量相互作用的因果独立性来区分物理系统，〔可分离性〕充当一种个体化原理，取代通常参照固定时空背景对物理系统的识别……”（同上，第615页）。应吸取的教益是：爱因斯坦的“观察者客观性”判准不是“头脑简单的实在论”的表达，“……而是把因果定律应用于世界的物理描述的一个预设”（同上，第616页）。"
+      ],
+      "units": 86
+    },
+    {
+      "id": "ch04-u078",
+      "source_ids": [
+        "ch04-u078"
+      ],
+      "page": "112",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Howard has famously understood separability both in spatio-temporal terms and as a sufficient condition for the individuality of physical systems (1984). The failure of separability in quantum mechanics was then taken to imply a kind of non-individuality for quantum systems. Elsewhere (French, 1989), this move has been resisted, on the grounds that it presupposes that spatio-temporal location is the ‘Principle of Individuality’. On an alternative understanding of the latter, one could accommodate the failure of separability through the introduction of Teller’s ‘non-supervenient’ relations holding between the particles. Ryckman, however, takes Howard to have simply missed the point, since ‘… it is not possible to use the bare points of the manifold… as a means of individuating separate physical systems’ (ibid., p. 617, fn. 51), because – and this is the ‘central message’ of general covariance – the bare manifold is not space–time. Thus the principle of separability is not to be understood as a form of spatio-temporal principle of individuality."
+      ],
+      "zh": [
+        "在霍华德那一著名解读中，可分离性一方面要从时空关系来理解，另一方面是物理系统具备个体性的充分条件（1984）。量子力学中可分离性的失效于是被当作蕴涵量子系统的某种非个体性。在别处（French, 1989），这一步骤受到抵制，理由是它预设时空位置就是“个体性原理”。按照对后者的另一种理解，可以通过引入特勒的、在粒子之间成立的“非随附”关系来容纳可分离性的失效。然而赖克曼认为霍华德根本没有抓住要点，因为“……不可能把流形的裸点……用作区分分离物理系统的手段”（同上，第617页，注51），因为——这正是广义协变性的“核心信息”——裸流形不是时空。于是可分离性原理不应被理解为一种时空的个体性原理。"
+      ],
+      "units": 158
+    },
+    {
+      "id": "ch04-u080",
+      "source_ids": [
+        "ch04-u080"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "How is it to be understood then? And if, as Ryckman suggests, it does function as some kind of principle of individuation, how does this mesh with Cassirer’s apparent realisation that quantum particles should not be regarded as individuals? Our suggestion is that it acts as a principle of ‘pseudo-individuality’ which allows us to distinguish systems – in a limited and localised way – in terms of their independent causal effects but does not give us licence to effectively import this principle beyond the observable effects and regard the systems as full-blown individual objects.",
+        {
+          "type": "note",
+          "id": "ch04-n07",
+          "label": "7"
+        },
+        " Citing Heisenberg, Cassirer writes, ‘The process of observation cannot be simply objectified; its results cannot be turned immediately into real objects.’ (1937, p. 142). The apparent failure of separability in EPR situations should then be read, not as a failure of the principle as a ‘Principle of Pseudo-Individuality’ but as a failure of the attempt to regard it as a Principle of (Full-Blown) Individuality and import it beyond the immediate measurement situation. In line with Ladyman’s ontic structural realism (Ladyman, 1998; French and Ladyman, 2003), how this failure in turn should be understood is not in terms of the systems being nonindividual objects, but in terms of their not being objects at all. In this way, structuralism as informed by Cassirer’s approach, may offer a different ontological perspective on the implications of the Bell/EPR results."
+      ],
+      "zh": [
+        "那么它应如何理解？如果像赖克曼暗示的那样，它确实充当某种个体化原理，这如何与卡西尔显然认识到的“量子粒子不应被视为个体”相契合？我们的建议是：它充当一种“准个体性”原理，使我们能够以有限且定域的方式、凭系统独立的因果效应来区分它们，但并不许可我们把这个原理实际地搬到可观察效应之外、把系统看作十足的个体对象。",
+        {
+          "type": "note",
+          "id": "ch04-n07",
+          "label": "7"
+        },
+        " 卡西尔引用海森堡写道：“观察过程不能被简单地客观化；其结果不能直接转变为实在对象。”（1937, p. 142）。于是，EPR 情境中可分离性的表面失效，应被读作：不是该原理作为“准个体性原理”的失效，而是把它当作（十足的）个体性原理、把它搬到直接测量情境之外这一尝试的失效。与莱德曼的本体性结构实在论一致（Ladyman, 1998; French and Ladyman, 2003），这种失效又应如何理解？不是系统是非个体对象，而是它们根本不是对象。这样，受卡西尔进路启发的结构主义，可以为贝尔/EPR 结果的蕴涵提供一种不同的本体论视角。"
+      ],
+      "units": 228
+    },
+    {
+      "id": "ch04-u081",
+      "source_ids": [
+        "ch04-u081"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "6 Conclusion: Cassirer in the Twenty-First Century"
+      ],
+      "zh": [
+        "6 结论：二十一世纪的卡西尔"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch04-u082",
+      "source_ids": [
+        "ch04-u082"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In order to highlight the relevance of Cassirer’s analysis for the contemporary debate on structuralism it is useful to isolate the main tenets of his view:"
+      ],
+      "zh": [
+        "为了凸显卡西尔的分析对当代结构主义争论的相关性，把他观点的主要论旨分离出来是有益的："
+      ],
+      "units": 26
+    },
+    {
+      "id": "ch04-u083",
+      "source_ids": [
+        "ch04-u083"
+      ],
+      "page": "113",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. Holism. As we have seen Cassirer distinguishes three kinds of statements in the architecture of physics characterized by a different level of generality. Not only are the fundamental concepts of a theory implicitly defined by the mutual interplay of all the features of the theoretical framework in which they appear, but each single statement makes complete sense as such only in relation to the others.\n2. Functional Coordination. This is the core concept in Cassirer’s account. Modelled on the notion of series as employed in calculus, the notion of functional coordination grounds the abovementioned shift from objects to relations since it replaces the idea of an object as the bearer of the properties and the element that is constant through change, with the constancy of a rule that relates various elements always in the same way. The concept captures the sense in which the data, laws and principles relate to each other.\n3. The centrality of the notion of Law. The laws are the features that in the theoretical set-up bring about the coordinative component. They express the pattern that we then find instantiated in the various singular cases. In this sense the principles just replicate this coordinative “move” at the more general level of the laws themselves.\n4. Neo-kantian conception of laws. Cassirer relies on a concept of law that evolves from the kantian tradition (the Marburg school in particular). Accordingly a law consists of a logico-mathematical element expressing the synthetic constructive role of thought in determining our knowledge and of empirical perceptual elements resulting from our experience."
+      ],
+      "zh": [
+        "1. 整体论。如我们所见，卡西尔在物理学架构中区分三类陈述，以不同的普遍性水平为特征。不仅理论的基本概念由它们出现于其中的理论框架一切特征的相互作用隐式定义，而且每个单个陈述只有相对于其他陈述才作为自身具有完整意义。\n2. 功能性协调。这是卡西尔说明中的核心概念。以微积分中使用的序列概念为模型，功能性协调概念为上述从对象到关系的转向奠基，因为它用一条始终以相同方式关联各要素的规则的恒常性，取代了对象作为性质承载者、作为变化中恒常要素的观念。这个概念捕捉了数据、定律与原理相互关联的意义。\n3. 定律概念的中心地位。定律是在理论设置中带来协调成分的特征。它们表达模式，我们随后发现这模式实例化于各个单称情形。在这个意义上，原理只是在定律本身这一更一般的层面复制这个协调“步骤”。\n4. 定律的新康德主义构想。卡西尔依赖一个从康德传统（尤其是马堡学派）演化而来的定律概念。据此，定律由一个逻辑—数学要素与经验性的知觉要素组成，前者表达思维在规定我们的知识时的综合构造作用，后者来自我们的经验。"
+      ],
+      "units": 260
+    },
+    {
+      "id": "ch04-u084",
+      "source_ids": [
+        "ch04-u084"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "From this general framework two conclusions about the nature of theoretical physics follow straightforwardly. In the framework of theoretical physics:"
+      ],
+      "zh": [
+        "从这个一般框架直接得出关于理论物理学本性的两个结论。在理论物理学的框架内："
+      ],
+      "units": 20
+    },
+    {
+      "id": "ch04-u085",
+      "source_ids": [
+        "ch04-u085"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "(a) Relations are conceptually prior to objects. (b) Objectivity has nothing to do with the existence of objects independent from our thought."
+      ],
+      "zh": [
+        "（a）关系在概念上先于对象。（b）客观性与独立于我们思维的对象的存在毫无关系。"
+      ],
+      "units": 22
+    },
+    {
+      "id": "ch04-u086",
+      "source_ids": [
+        "ch04-u086"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The objects of the theory emerge from the interplay of the laws and the principles of the theory itself because they express the kind of constant pattern that ties together the empirical features that in different ways we consider properties of the object or consequences of the dynamics that the theory ascribes to its objects. In this sense, a working theory “generates” its own objects, and their objectivity is grounded in the very ground of the universality of laws and principles: the universal logical validity of mathematics."
+      ],
+      "zh": [
+        "理论的对象从理论本身的定律与原理的相互作用中涌现，因为这些定律和原理表达恒常模式，把经验特征联结在一起——我们以不同方式把这些特征看作对象的性质，或看作理论归于其对象的动力学的后果。在这个意义上，一个运转中的理论“生成”它自己的对象，而它们的客观性奠基于定律与原理之普遍性的根据本身：数学的普遍逻辑有效性。"
+      ],
+      "units": 87
+    },
+    {
+      "id": "ch04-u087",
+      "source_ids": [
+        "ch04-u087"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As we have shown above, Cassirer’ diagnosis about the nature of the conceptual challenge represented by quantum mechanics conforms to these principles. Quantum mechanics does not question the ideal of a nature ordered according to accessible laws and principles; rather, it presents us with a profoundly different picture of these items. In particular quantum objects appear to lack individuality as a consequence of the laws and the principles of the framework. Nonetheless this framework provides us with perfectly objective knowledge of quantum phenomena. Put in different terms, any understanding of phenomena that involves the adoption of the principles of quantum mechanics will lead us to ascribe individuality to the items of the theory only in a problematic sense."
+      ],
+      "zh": [
+        "如我们上面表明的，卡西尔关于量子力学所代表的概念挑战之本性的诊断，符合这些论旨。量子力学并不质疑自然按可通达的定律与原理有序化这一理想；相反，它向我们呈现了这些要素的一幅深刻不同的图景。特别地，量子对象显得缺乏个体性，这是框架的定律与原理的后果。尽管如此，这个框架仍为我们提供关于量子现象的完全客观的知识。换种说法，任何涉及采纳量子力学原理的现象理解，都只会引导我们在成问题的意义上把个体性归于理论的要素。"
+      ],
+      "units": 118
+    },
+    {
+      "id": "ch04-u088",
+      "source_ids": [
+        "ch04-u088"
+      ],
+      "page": "114",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Notice that Cassirer tends to stick with the view of individuality that is traditionally endorsed by Born and the standard interpretation. Recent accounts have questioned the force of arguments against the individuality of quantum objects based on the structure of the theory (see French and Krause, 2006) which indicate that the status of individuality in quantum physics is far more problematic than it appears in the standard interpretation. Nevertheless, as these accounts are based on a thorough conceptual analysis of the fundamental principles of the theory, their implication for any interpretation can be seen as independently refining the results of Cassirer’s reading rather than questioning his basic framework. Most importantly, these more recent accounts can be seen as agreeing with conclusion a) at least when it comes to the quantum domain."
+      ],
+      "zh": [
+        "请注意，卡西尔倾向于坚持玻恩与标准解释传统上认可的个体性观点。晚近的说明已经质疑了基于理论结构反对量子对象个体性的论证的力度（见 French and Krause, 2006），这些说明表明，个体性在量子物理中的地位远比标准解释中呈现的更成问题。尽管如此，由于这些说明基于对理论基本原理的彻底概念分析，它们对任何解释的蕴涵都可以被看作独立地精炼卡西尔解读的结果，而不是质疑他的基本框架。最重要的是，这些较晚近的说明可以被看作至少在量子领域中同意结论（a）。"
+      ],
+      "units": 131
+    },
+    {
+      "id": "ch04-u090",
+      "source_ids": [
+        "ch04-u090"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This might sound like an attempt to suggest that that the debate on structuralism should move in a Kantian direction. It is our contention that the peculiarities of Cassirer’s picture and the similarities between his account and the terms of the contemporary debate are such that Neo-Kantianism could be viewed as a relevant option. However, Cassirer’s account in our view presents elements of interest in a more general sense for the structuralist agenda."
+      ],
+      "zh": [
+        "这听起来可能像是试图暗示结构主义争论应当朝康德主义方向移动。我们的主张是：卡西尔图景的独特性，以及他的说明与当代争论所用框架之间的相似性，使得新康德主义可以被看作一个相关的选项。然而在我们看来，卡西尔的说明在更一般的意义上对结构主义议程也包含有趣的要素。"
+      ],
+      "units": 73
+    },
+    {
+      "id": "ch04-u091",
+      "source_ids": [
+        "ch04-u091"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "First of all, Cassirer’s conclusions about quantum mechanics are not a consequence of his Neo-Kantianism. All that is needed to conclude that quantum objects are not individuals are assumptions 1–3. The only remaining commitment is to a notion of law compatible with idea of functional coordination, but in Cassirer’s work there are no elements that lead to the conclusion that the Neo-Kantian notion of law is the only possible candidate although it is certainly a very natural one, conceptually speaking."
+      ],
+      "zh": [
+        "首先，卡西尔关于量子力学的结论并不是他的新康德主义的后果。要得出量子对象不是个体的结论，所需要的只是假设1–3。唯一剩下的承诺是接受一个与功能性协调观念相容的定律概念，但在卡西尔的著作中没有任何要素导向这样的结论：新康德主义的定律概念是唯一可能的候选者——尽管从概念上说它无疑是一个非常自然的候选者。"
+      ],
+      "units": 81
+    },
+    {
+      "id": "ch04-u092",
+      "source_ids": [
+        "ch04-u092"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This allows us to look at Cassirer’s other tenets from a different perspective. In our view, if the relational notions of laws and principles can be detached from the neo-kantian background, there are interesting consequences for the idea of objectivity. From the transcendental idealist standpoint this notion is profoundly linked with the universality of laws and results in particular from the logical nature of mathematics. The objects that a naïve realist reading of the theory would like to postulate as independent from the theory itself are simply independent from the mind setup of a particular human as such. They are not beyond the representation provided by the theory. Rather the representation itself as a piece of objective scientific work is invariant for representation users as it would be if they were “out there”."
+      ],
+      "zh": [
+        "这使我们能够从另一个视角看待卡西尔的其他论旨。在我们看来，如果定律与原理的关系性概念能够脱离新康德主义背景，就会对客观性观念产生有趣的后果。从先验观念论观点看，这个概念与定律的普遍性深刻相连，尤其产生于数学的逻辑本性。对理论的朴素实在论解读想要设定为独立于理论本身的对象，其实只是独立于某个特定人类个体的心智设置。它们并不超出理论提供的表象。相反，表象本身作为一项客观的科学工作，对于使用这一表象的人，表象本身保持不变，就像这些对象真的“在外面”一样。"
+      ],
+      "units": 133
+    },
+    {
+      "id": "ch04-u093",
+      "source_ids": [
+        "ch04-u093"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The adoption of a different understanding of the laws may lead to a view of objectivity closer to the classical realist ideal of a mind independent reality to which knowledge gives us access but linked to the fundamentally relational nature of our knowledge."
+      ],
+      "zh": [
+        "采纳对定律的不同理解，可能导向一种更接近经典实在论理想的客观性观——知识使我们通达独立于心灵的实在——但同时与我们知识的根本关系性本性相联系。"
+      ],
+      "units": 43
+    },
+    {
+      "id": "ch04-u094",
+      "source_ids": [
+        "ch04-u094"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "More generally we take all of the above points to suggest that a crucial aspect of Cassirer’s lesson has to do with the role that an account of the laws of nature should play in the debate on structuralism."
+      ],
+      "zh": [
+        "更一般地，我们认为上述各点都表明：卡西尔教益的一个关键方面，关涉对自然定律的说明应当在结构主义争论中扮演的角色。"
+      ],
+      "units": 39
+    },
+    {
+      "id": "ch04-u089",
+      "source_ids": [
+        "ch04-u089"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch04-bibliography-001",
+      "source_ids": [
+        "ch04-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E (1907) Kant und die moderne Mathematik Kantstudien, 12, 1–49."
+      ],
+      "zh": [
+        "Cassirer, E (1907) Kant und die moderne Mathematik Kantstudien, 12, 1–49."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch04-bibliography-002",
+      "source_ids": [
+        "ch04-ref007",
+        "ch04-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E. (1944) The Concept of Group and the Theory of Perception, Philosophy and Phenomenological Research 5, 1–36."
+      ],
+      "zh": [
+        "Cassirer, E. (1944) The Concept of Group and the Theory of Perception, Philosophy and Phenomenological Research 5, 1–36."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch04-bibliography-003",
+      "source_ids": [
+        "ch04-ref008",
+        "ch04-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E. (1913) “Erkenntnistheorie nebst der Grenzfragen der Logik” Jahrbücher der Philosophoie."
+      ],
+      "zh": [
+        "Cassirer, E. (1913) “Erkenntnistheorie nebst der Grenzfragen der Logik” Jahrbücher der Philosophoie."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch04-bibliography-004",
+      "source_ids": [
+        "ch04-ref009",
+        "ch04-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E. (1953) Substance and Function & Einstein’s Theory of Relativity Trans. by W.C. Swabey and M.C. Swabey."
+      ],
+      "zh": [
+        "Cassirer, E. (1953) Substance and Function & Einstein’s Theory of Relativity Trans. by W.C. Swabey and M.C. Swabey."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch04-bibliography-005",
+      "source_ids": [
+        "ch04-ref012",
+        "ch04-ref013"
+      ],
+      "page": "115",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E. (1956) Determinism and Indeterminism in Modern Physics Trans. by O.T. Benfey, Yale University Press, New Haven."
+      ],
+      "zh": [
+        "Cassirer, E. (1956) Determinism and Indeterminism in Modern Physics Trans. by O.T. Benfey, Yale University Press, New Haven."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch04-bibliography-006",
+      "source_ids": [
+        "ch04-ref013",
+        "ch04-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E. (1957) Das Erkenntnisprobleme in der Philosophie und Wissenschaft der neueren Zeit. Stuttgart: Kohlhammer."
+      ],
+      "zh": [
+        "Cassirer, E. (1957) Das Erkenntnisprobleme in der Philosophie und Wissenschaft der neueren Zeit. Stuttgart: Kohlhammer."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch04-bibliography-007",
+      "source_ids": [
+        "ch04-ref014",
+        "ch04-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "French (1989) ‘Identity and Individuality in Classical and Quantum Physcis’, Australasian Journal of Philosophy 67, 432–446."
+      ],
+      "zh": [
+        "French (1989) ‘Identity and Individuality in Classical and Quantum Physcis’, Australasian Journal of Philosophy 67, 432–446."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch04-bibliography-008",
+      "source_ids": [
+        "ch04-ref015",
+        "ch04-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "French, S. (2003) Scribbling on the Blank Sheet: Eddington’s Structuralist Conception of Objects, Studies in History and Philosophy of Modern Physics 34, 227–259."
+      ],
+      "zh": [
+        "French, S. (2003) Scribbling on the Blank Sheet: Eddington’s Structuralist Conception of Objects, Studies in History and Philosophy of Modern Physics 34, 227–259."
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch04-bibliography-009",
+      "source_ids": [
+        "ch04-ref016",
+        "ch04-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "French, S., & Krause, D., (2006) Identity in Physics: A Historical, Philosophical, Formal Analysis, Oxford University Press, New York."
+      ],
+      "zh": [
+        "French, S., & Krause, D., (2006) Identity in Physics: A Historical, Philosophical, Formal Analysis, Oxford University Press, New York."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch04-bibliography-010",
+      "source_ids": [
+        "ch04-ref017",
+        "ch04-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "French, S., & Ladyman, J. (2003), Remodelling Structural Realism: Quantum Physics and the Metaphysics of Structure, and The Dissolution of Objects: A Reply to Cao, Synthese 136, 31–56 and 73–77."
+      ],
+      "zh": [
+        "French, S., & Ladyman, J. (2003), Remodelling Structural Realism: Quantum Physics and the Metaphysics of Structure, and The Dissolution of Objects: A Reply to Cao, Synthese 136, 31–56 and 73–77."
+      ],
+      "shared": true,
+      "units": 31
+    },
+    {
+      "id": "ch04-bibliography-011",
+      "source_ids": [
+        "ch04-ref018",
+        "ch04-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M., (1992) Causal Laws and the Foundations of Natural Science. In P. Guyer (ed.) The Cambridge to Kant, Cambridge University Press, Cambridge."
+      ],
+      "zh": [
+        "Friedman, M., (1992) Causal Laws and the Foundations of Natural Science. In P. Guyer (ed.) The Cambridge to Kant, Cambridge University Press, Cambridge."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch04-bibliography-012",
+      "source_ids": [
+        "ch04-ref019",
+        "ch04-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M., (2000) A Parting of the Ways. Carnap, Cassirer, and Heidegger Open Court, Chicago, IL."
+      ],
+      "zh": [
+        "Friedman, M., (2000) A Parting of the Ways. Carnap, Cassirer, and Heidegger Open Court, Chicago, IL."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch04-bibliography-013",
+      "source_ids": [
+        "ch04-ref020",
+        "ch04-ref021"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Ihmig, K-N. (1999) Ernst Cassirer and the Structural Conception of Objects in Modern Science: The Importance of the “Erlanger Program” Science in Context 12, 4, 513–529."
+      ],
+      "zh": [
+        "Ihmig, K-N. (1999) Ernst Cassirer and the Structural Conception of Objects in Modern Science: The Importance of the “Erlanger Program” Science in Context 12, 4, 513–529."
+      ],
+      "shared": true,
+      "units": 27
+    },
+    {
+      "id": "ch04-bibliography-014",
+      "source_ids": [
+        "ch04-ref021",
+        "ch04-ref022"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Itzkoff, S.W. (1997) Ernst Cassirer: Scientific Knowledge and the Concept of Man, University of Notre Dame Press, Notre Dame, IN."
+      ],
+      "zh": [
+        "Itzkoff, S.W. (1997) Ernst Cassirer: Scientific Knowledge and the Concept of Man, University of Notre Dame Press, Notre Dame, IN."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch04-bibliography-015",
+      "source_ids": [
+        "ch04-ref022",
+        "ch04-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I. (1998) Critique of Pure Reason. Trans. by P. Guyer and A.W. Wood, Cambridge University Press, Cambridge."
+      ],
+      "zh": [
+        "Kant, I. (1998) Critique of Pure Reason. Trans. by P. Guyer and A.W. Wood, Cambridge University Press, Cambridge."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch04-bibliography-016",
+      "source_ids": [
+        "ch04-ref023",
+        "ch04-ref024"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Ladyman, J. (1998), What is Structural Realism?, Studies in History and Philosophy of Science 29, 409–424."
+      ],
+      "zh": [
+        "Ladyman, J. (1998), What is Structural Realism?, Studies in History and Philosophy of Science 29, 409–424."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch04-bibliography-017",
+      "source_ids": [
+        "ch04-ref024",
+        "ch04-ref025"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Rudolph, E. (1994) Substance as Function: Ernst Cassirer’s Interpretation of Leibniz as criticism of Kant. In Rudolph, E., Stamatescu I.O., (Eds) Philosophy, Mathematics and Modern Physics. A Dialogue, Springer, Heidelberg."
+      ],
+      "zh": [
+        "Rudolph, E. (1994) Substance as Function: Ernst Cassirer’s Interpretation of Leibniz as criticism of Kant. In Rudolph, E., Stamatescu I.O., (Eds) Philosophy, Mathematics and Modern Physics. A Dialogue, Springer, Heidelberg."
+      ],
+      "shared": true,
+      "units": 31
+    },
+    {
+      "id": "ch04-bibliography-018",
+      "source_ids": [
+        "ch04-ref025"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Russell, B. (1927) The Analysis of Matter, Kegan Paul, Trench, Trubner & Co, London."
+      ],
+      "zh": [
+        "Russell, B. (1927) The Analysis of Matter, Kegan Paul, Trench, Trubner & Co, London."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch04-bibliography-019",
+      "source_ids": [
+        "ch04-ref025",
+        "ch04-ref026"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Ryckman, T.A. (1991) Conditio sine qua non? Zuordnung in the early epistemologies of Cassirer and Schlick Synthese 88, 57–95."
+      ],
+      "zh": [
+        "Ryckman, T.A. (1991) Conditio sine qua non? Zuordnung in the early epistemologies of Cassirer and Schlick Synthese 88, 57–95."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch04-bibliography-020",
+      "source_ids": [
+        "ch04-ref026",
+        "ch04-ref027"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Ryckman, T.A. (1999) Einstein, Cassirer, and General Covariance – Then and Now Science in Context 12, 4, 585–619."
+      ],
+      "zh": [
+        "Ryckman, T.A. (1999) Einstein, Cassirer, and General Covariance – Then and Now Science in Context 12, 4, 585–619."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch04-bibliography-021",
+      "source_ids": [
+        "ch04-ref027",
+        "ch04-ref028"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Saunders, S.W. (1993), To What Physics Corresponds. In French, S., and Kaminga, H. (eds.), Correspondence, Invariance, and Heuristics; Essays in Honour of Heinz Post, Kluwer, Dordrecht, pp. 295–326."
+      ],
+      "zh": [
+        "Saunders, S.W. (1993), To What Physics Corresponds. In French, S., and Kaminga, H. (eds.), Correspondence, Invariance, and Heuristics; Essays in Honour of Heinz Post, Kluwer, Dordrecht, pp. 295–326."
+      ],
+      "shared": true,
+      "units": 30
+    },
+    {
+      "id": "ch04-bibliography-022",
+      "source_ids": [
+        "ch04-ref028",
+        "ch04-ref029"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Werkmeister, W.H., 1949. [1973]. Cassirer’s advance beyond neo-Kantianism. In: Schilpp, P.A., The Philosophy of Ernst Cassirer. Open Court, La Salle, IL, pp.757–798."
+      ],
+      "zh": [
+        "Werkmeister, W.H., 1949. [1973]. Cassirer’s advance beyond neo-Kantianism. In: Schilpp, P.A., The Philosophy of Ernst Cassirer. Open Court, La Salle, IL, pp.757–798."
+      ],
+      "shared": true,
+      "units": 26
+    }
+  ],
+  "notes": {
+    "ch04-n01": {
+      "number": "1",
+      "en": [
+        "For Cassirer’s relationship with Cohen and the Marburgh School see Friedman (2000)."
+      ],
+      "zh": [
+        "关于卡西尔与柯亨及马堡学派的关系，见 Friedman (2000)。"
+      ]
+    },
+    "ch04-n02": {
+      "number": "2",
+      "en": [
+        "This is particularly evident in Cassirer (1907), where he responds to logicist criticisms of the Kantian idea of synthetic a priori. Cassirer claims that the logical and thus analytical nature of mathematics does not compromise the fundamental Kantian idea of the a priori synthesis of the understanding. Mathematics is in fact synthetic when considered in its role in ordering the manifold of perceptual experience in theoretical natural science.(see Friedman, 2000)."
+      ],
+      "zh": [
+        "这在 Cassirer (1907) 中尤为明显，他在其中回应了逻辑主义对康德先天综合观念的批评。卡西尔主张，数学的逻辑的从而分析的本性，并不损害知性之先天综合这一根本的康德观念。事实上，就数学在理论自然科学中整理知觉经验杂多的作用而言，它是综合的（见 Friedman, 2000）。"
+      ]
+    },
+    "ch04-n03": {
+      "number": "3",
+      "en": [
+        "This is, also, the core of Kant’s explanation of the mathematical nature of Physics since the schematization of categories in the pure intuition of time determines the conditions of possibility of arithmetic and the schematization of categories in the pure intuition of space to geometry."
+      ],
+      "zh": [
+        "这也是康德说明物理学之数学本性的核心，因为范畴在时间纯直观中的图型化规定了算术的可能性条件，范畴在空间纯直观中的图型化则规定了几何学的可能性条件。"
+      ]
+    },
+    "ch04-n04": {
+      "number": "4",
+      "en": [
+        "Ryckman (Ryckman, 1991) explores the extent to which the notion of coordination was in the early twentieth century the focus of a wide variety of analyses of science and identifies in it a further element of commonality between Neo-Kantianism and Logical Empiricism."
+      ],
+      "zh": [
+        "赖克曼（Ryckman, 1991）探究了协调概念在二十世纪初在多大程度上成为各式各样的科学分析的焦点，并在其中识别出新康德主义与逻辑经验论之间的又一个共同要素。"
+      ]
+    },
+    "ch04-n05": {
+      "number": "5",
+      "en": [
+        "A sketch is given in Itzkoff (1997, pp. 83–98)."
+      ],
+      "zh": [
+        "伊茨科夫（Itzkoff, 1997, pp. 83–98）给出了一个梗概。"
+      ]
+    },
+    "ch04-n06": {
+      "number": "6",
+      "en": [
+        "And here Cassirer follows Weyl in associating the Exclusion Principle with Leibniz’s Principle of Identity of Indiscernibles (see French and Krause, 2006)."
+      ],
+      "zh": [
+        "在这里，卡西尔跟随魏尔，把不相容原理与莱布尼茨的不可分辨者同一性原理联系起来（见 French and Krause, 2006）。"
+      ]
+    },
+    "ch04-n07": {
+      "number": "7",
+      "en": [
+        "This notion of a kind of ‘pseudo-individuality’ has been introduced by Toraldo di Francia (see French and Krause, op. cit.)."
+      ],
+      "zh": [
+        "这种“准个体性”概念由托拉尔多·迪·弗兰西亚引入（见 French and Krause，前引书）。"
+      ]
+    }
+  }
+}

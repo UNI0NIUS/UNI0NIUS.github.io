@@ -1,0 +1,2001 @@
+{
+  "id": "ch17",
+  "title": "陈酿入新瓶，其味愈醇：玻尔互补性观点中的康德风味",
+  "originalTitle": "Old Wine Enriched in New Bottles: Kantian Flavors in Bohr’s Viewpoint of Complementarity",
+  "outline": [
+    {
+      "anchor": "ch17-u052",
+      "title": "参考文献",
+      "originalTitle": "Bibliography",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch17-u001",
+      "source_ids": [
+        "ch17-u001"
+      ],
+      "page": "301",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch17-u002",
+      "source_ids": [
+        "ch17-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Steen Brock"
+      ],
+      "zh": [
+        "斯滕·布罗克"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch17-u003",
+      "source_ids": [
+        "ch17-u003"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract In this chapter, I discuss in what sense and to which extent Niels Bohr’s philosophical interpretation of early Quantum Mechanics can be assessed as answering to some of the core features of Kant’s Natural Philosophy, especially the Kantian idea of Schemata and the Kantian account of the relation and unity between kinematics and dynamics. In the later half of the chapter, my discussion focus on Bohr’s two notions of “idealization” and “abstraction” in an attempt to explain his understanding of the essential link between theoretical concepts and the design and conduct of experiments. Finally, after giving a brief sketch of Ernst Cassirer’s interpretation of early Quantum Mechanics, I explain in what sense the combination of Bohr’s and Cassirer’s respective interpretations lead to a more elaborate Natural Philosophy than the interpretations of Bohr and Cassirer taken in isolation."
+      ],
+      "zh": [
+        "摘要 本章讨论尼尔斯·玻尔对早期量子力学的哲学解释在何种意义上、以及在多大程度上可以说回应了康德自然哲学的某些核心特征，尤其是康德的图型（Schemata）观念，以及康德关于运动学与动力学之间关系与统一的说明。在本章后半部分，我的讨论聚焦于玻尔的“理想化”与“抽象”这两个概念，试图解释他对理论概念与实验的设计和实施之间本质联系的理解。最后，在简要勾勒恩斯特·卡西尔对早期量子力学的解释之后，我说明玻尔与卡西尔各自解释的结合在何种意义上导向一种比单独看待玻尔或卡西尔的解释更为完备的自然哲学。"
+      ],
+      "units": 138
+    },
+    {
+      "id": "ch17-u004",
+      "source_ids": [
+        "ch17-u004"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "S. Brock Associate Professor, Department of Philosophy and the History of Ideas, University of Aarhus, Denmark; Executive Editor, SATS Nordic Journal of Philosophy"
+      ],
+      "zh": [
+        "S. Brock Associate Professor, Department of Philosophy and the History of Ideas, University of Aarhus, Denmark; Executive Editor, SATS Nordic Journal of Philosophy"
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch17-u005",
+      "source_ids": [
+        "ch17-u005"
+      ],
+      "page": "302",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In my opinion, Niels Bohr’s understanding of quantum physics is clear and straightforward. The problems he wanted to focus on are clear as are the concepts or ideas he pointed to as central to the themes at stake. So in contrast to most other interpreters of Bohr, I think that what he says is clear. But the implications and points he makes may not be as clear. It may not be clear how quantum physics is seen either as a specific branch of physics or a paradigm for other sciences, neither is it clear in what sense the understanding of quantum physics along Bohrian lines relates to philosophical issues. In this chapter I will try to answer these questions. It turns out that the assessment of Bohr’s understanding of quantum physics does not make much sense unless one refers to many themes and concepts in Kant’s philosophy. This is not to say that Bohr’s understanding of physics is “Kantian” nor to say that there is a systematic link between Bohr’s thought and Kant’s. However, both historical and philosophical links can easily be found between Bohr’s and Kant’s views. As I have argued elsewhere, the (neo)-Kantian features of the philosophy of physics mainly put forward by Helmholtz and Planck left their mark on the general understanding of physics and its possible developments for all leading physicists of Bohr’s generation.",
+        {
+          "type": "note",
+          "id": "ch17-n01",
+          "label": "1"
+        },
+        " It would then come as a big surprise if Bohr’s understanding of physics did not share many parallels with Kant’s."
+      ],
+      "zh": [
+        "在我看来，尼尔斯·玻尔对量子物理学的理解是清楚而直截了当的。他想要关注的问题是清楚的，他指出作为相关主题之核心的那些概念或观念也是清楚的。因此，与大多数其他玻尔解释者相反，我认为他所说的东西是清楚的。但他所作论证的含意与要点也许不那么清楚。量子物理学如何既被视为物理学的一个特定分支、又被视为其他科学的范式，这一点可能不清楚；沿玻尔路线对量子物理学的理解在何种意义上与哲学问题相关，这一点也不清楚。本章我将尝试回答这些问题。结果表明，除非参照康德哲学中的许多主题与概念，否则对玻尔的量子物理学理解的评估就没有多大意义。这并不是说玻尔对物理学的理解是“康德式的”，也不是说玻尔的思想与康德的思想之间存在系统的联系。然而，在玻尔与康德的观点之间，很容易找到历史与哲学两方面的联系。正如我在别处论证的，主要由亥姆霍兹和普朗克提出的物理学哲学的（新）康德主义特征，给玻尔那一代物理学领军人物对物理学及其发展前景的总体理解留下了印记。",
+        {
+          "type": "note",
+          "id": "ch17-n01",
+          "label": "1"
+        },
+        " 因此，如果玻尔对物理学的理解与康德的思想没有许多平行之处，那才会令人十分惊讶。"
+      ],
+      "units": 249
+    },
+    {
+      "id": "ch17-u006",
+      "source_ids": [
+        "ch17-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "So what are Bohr’s exact thoughts on quantum physics? First, Bohr held the traditional belief that physics was some sort of continuously developing epistemic undertaking, despite the historical fact that the conditions for pursuing this goal change radically as time goes on. Consequently Bohr thought that certain empirical findings, related to a new set of bold ideas, implied that physics – around 1925 – found itself in quite an unusual situation where the very idea of what it means to have a theoretical understanding of certain parts of Nature had become unclear. There was something about what it means to observe, to conduct experiments, to measure and to formulate theoretical thoughts that had been blurred. So the serious concern, in 1925, was that physics did not just need a new theory to account for a new surprising set of experimental findings; it rather needed a new kind of theory, where the links between observations, experiments, measurements, concepts and judgments was seen in a different way than it had previously been."
+      ],
+      "zh": [
+        "那么，玻尔关于量子物理学的确切想法是什么？首先，玻尔持有这样一种传统信念：物理学是某种持续发展的认识事业，尽管历史事实是，追求这一目标的条件随着时间推移发生了根本变化。因此玻尔认为，某些经验发现与一组新的大胆观念相联系，意味着物理学——在 1925 年前后——发现自己处于一种相当不寻常的境地：对自然的某些部分拥有理论理解究竟意味着什么，这一观念本身已经变得不清楚了。观察、做实验、测量和提出理论各意味着什么，在某些方面已经变得模糊。因此，1925 年的严重关切是：物理学不仅仅需要一个新理论来说明一组新的令人惊讶的实验发现；它更需要一种新的理论，其中观察、实验、测量、概念与判断之间的联系要以不同于以往的方式来看待。"
+      ],
+      "units": 168
+    },
+    {
+      "id": "ch17-u007",
+      "source_ids": [
+        "ch17-u007"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Accordingly, this was the perspective from which Bohr tried to assess both Heisenberg’s and Schroedinger’s “quantum mechanics”. Here we must tread carefully. Bohr used the term “quantum physics” to refer to the whole world of physics after the discovery of the photon and the formulation of the Bohr model of the atom, and, last but not least, after the introduction of Planck’s “quantum postulate” concerning the limited divisibility of energy. However, Heisenberg’s and Schroedinger’s formulas were the first that could be seen as examples of a new kind of theory, called “quantum theory”. What, according to Bohr, constitutes such a theory? There are three crucial factors in his conception. Firstly, the new kind of theory was, by contrast to the vague definition of “quantum physics”, formulated as applicable to a definite realm of physical items, namely atoms. The two examples of a new kind of theory were both “atomic theories”. It should therefore be noted that the title that Bohr chose for his first compilation of philosophical essays was Atomic Theory and the Description of Nature. The title of the Como Lecture (Bohr, 1928) should also be noted, since it contains the same expression Atomic theory."
+      ],
+      "zh": [
+        "因此，这就是玻尔试图评估海森堡和薛定谔的“量子力学”时所持的视角。这里我们必须小心行事。玻尔用“量子物理学”这个词来指称光子发现、玻尔原子模型提出之后——最后但并非最不重要地，还有普朗克关于能量有限可分性的“量子公设”引入之后——的整个物理学世界。然而，海森堡和薛定谔的公式是最先可以被看作一种新型理论——称为“量子理论”——之范例的东西。按玻尔的看法，什么构成这样一种理论？他的构想中有三个关键因素。第一，与“量子物理学”的模糊定义相反，这种新型理论被表述为应用于特定的一类物理对象，即原子。这种新型理论的两个例子都是“原子理论”。因此应当注意，玻尔为他的第一部哲学论文集选择的书名是《原子理论与自然描述》。科莫演讲（Bohr, 1928）的标题也值得注意，因为它包含同样的表述“原子理论”。"
+      ],
+      "units": 196
+    },
+    {
+      "id": "ch17-u008",
+      "source_ids": [
+        "ch17-u008"
+      ],
+      "page": "303",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Secondly, Bohr considers theories to be normative constructs. They answer to general principles for the description of Nature. These principles have physical, methodological, metaphysical, and epistemological features: Physics is understood as an empirically informed, experimentally based, construction of both (a) concepts for the description of phenomena, and (b) theoretical formula (containing those concepts) that model the essential physical characteristics of certain kinds of physical systems. Many things could be said about this notion of the theory and the relation between theories and models; but the fact is that Bohr, more or less as a matter of course, followed the tradition and methods of Hamiltonian physics. The Canon here was the Hamiltonian phase–space method of representing physical systems (associated with the Hamilton Principle, i.e. the mathematical integration formulation of the Principle of Least Action, and the mathematical use of Poisson Brackets in determining the possible constants of motion for given systems of objects). Bohr would add two distinctive features to this Hamiltonian approach. The first concerns the relation between two Hemholtzian points – one about the necessity of a unifying concept of physical change, i.e. the concept of energy, and another about the idea that physical systems (like an atom) possess a necessary “stability”. Accordingly, Bohr’s addition led to the following claims to the effect that the new quantum theory should both (a) express a generalization of the very concept of energy, and (b) introduce a new general idea about what it means to say that physical systems are “stable”. In a sense, Bohr was here advocating his own original ideas about the “binding energy” and “energy states” of elementary particles bound within an atomic system, which precisely provided the two former ideas."
+      ],
+      "zh": [
+        "第二，玻尔认为理论是规范性的构造。它们回应描述自然的一般原理。这些原理具有物理的、方法论的、形而上学的和认识论的特征：物理学被理解为一种由经验提供依据、以实验为基础的构造，既构造 (a) 描述现象的概念，也构造 (b)（包含那些概念的）理论公式，后者对某些种类的物理系统的本质物理特征建模。关于这种理论观以及理论与模型之间的关系，可以说很多东西；但事实是，玻尔或多或少理所当然地遵循了哈密顿物理学的传统与方法。这里的典范是表征物理系统的哈密顿相空间方法（与哈密顿原理——即最小作用量原理的数学积分表述——相关联，以及在确定给定对象系统的可能运动常量时对泊松括号的数学使用）。玻尔会给这种哈密顿进路增添两个独特的特征。第一个涉及两个亥姆霍兹式论点之间的关系——一个关于统一描述物理变化的概念为何必不可少，这个概念就是能量，另一个关于物理系统（如原子）具有某种必然“稳定性”的观念。相应地，玻尔的补充导致了如下主张：新的量子理论应当既 (a) 表达能量概念本身的一个推广，又 (b) 引入关于物理系统“稳定”意味着什么的一个新的普遍观念。在某种意义上，玻尔在这里是在倡导他自己关于束缚在原子系统内的基本粒子的“结合能”与“能量态”的原创观念，而这些观念恰恰提供了前面那两个观念。"
+      ],
+      "units": 284
+    },
+    {
+      "id": "ch17-u009",
+      "source_ids": [
+        "ch17-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The third basic feature of the scientific theories that mattered to Bohr is in a sense the most important: Bohr reacted vividly to Heisenberg’s early formulation of the Indeterminacy Relations (IR) in the paper Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik.",
+        {
+          "type": "note",
+          "id": "ch17-n02",
+          "label": "2"
+        },
+        " As the title indicates, the issue was that the new kind of theory, atomic-quantum theory, had to be understood as applicable within an intuitive form of experience. Heisenberg had in effect formulated a bold new conception of such an intuition; namely the idea that one should relate the intuitive understanding of the application of physical formula to a description of experimental design. I believe it is extremely important to note that this was a basic issue for Bohr when he composed his Como Lecture in September 1927. Indeed, the main point of the Como Lecture was to show how the new set of quantum theoretical formula could be “adopted on to a new form of intuition.”",
+        {
+          "type": "note",
+          "id": "ch17-n03",
+          "label": "3"
+        }
+      ],
+      "zh": [
+        "对玻尔来说重要的科学理论的第三个基本特征在某种意义上是最重要的：玻尔对海森堡在《论量子理论运动学与力学的直观内容》（Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik）一文中对不确定关系（IR）的早期表述作出了强烈反应。",
+        {
+          "type": "note",
+          "id": "ch17-n02",
+          "label": "2"
+        },
+        " 正如标题所示，问题在于这种新型理论——原子–量子理论——必须被理解为适用于一种直观的经验形式。海森堡实际上提出了关于这种直观的一个大胆的新构想：即应当把物理公式之应用的直观理解与实验设计的描述联系起来。我认为极其重要的是要注意到，这是玻尔 1927 年 9 月撰写科莫演讲时的一个基本问题。的确，科莫演讲的主旨就是要表明，新的一组量子理论公式如何能够“被纳入一种新的直观形式”。",
+        {
+          "type": "note",
+          "id": "ch17-n03",
+          "label": "3"
+        }
+      ],
+      "units": 159
+    },
+    {
+      "id": "ch17-u010",
+      "source_ids": [
+        "ch17-u010"
+      ],
+      "page": "304",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Here we face two basic problems: what Bohr meant by this, and how it relates to the original view of Kant concerning the unity of thought and intuition. Firstly, although Bohr maintained Heisenberg’s ambition to provide a new form of intuition by developing an account of the description of experimental design, he radically changed the idea of such a design, as we shall see below. This change reveals Bohr as a forerunner to ideas that were later developed by some of Wittgenstein’s pupils, W.H. Watson and S. Toulmin, and which later led to the formulation of the so called “semantic conception of theories” (known through the paradigms of B.C. van Fraassen and Ronald Giere).",
+        {
+          "type": "note",
+          "id": "ch17-n04",
+          "label": "4"
+        },
+        " These aspects of Bohr’s ideas deserve attention – and I will say more about it below – but in the present context it is more important to note another more “classical” part of Bohr’s theory. As Rom Harré has convincingly suggested, Bohr’s understanding of the relation between the description of experiments and the theoretical representation of Nature can be seen as a bold new formulation of the Kantian idea of schematism.",
+        {
+          "type": "note",
+          "id": "ch17-n05",
+          "label": "5"
+        },
+        " Bohr formulated a new conception of what it means to realize concepts within the framework of an experimental set-up. In short, the required applicability of physical formula was conceived in a Kantian way by analyzing how the means of empirical physical experience correspond to a basic set of concepts. For Kant, the role of classical geometry was to construct recognizable patterns that could be postulated in advance to characterize the manifest forms of physical experience. These geometrical schemes formed the backbone of the idea that (Newtonian) mechanics is a way of anticipating physical experience and is not a conjecture about the true, ontological structure of the Universe. We shall see that Bohr in effect substituted a set of procedures concerning the adequate “space–time configuration” of physical apparatus for Kant’s geometrical schemes."
+      ],
+      "zh": [
+        "这里我们面临两个基本问题：玻尔这样说的意思是什么，以及它与康德关于思维与直观之统一的原始观点有什么关系。首先，尽管玻尔保留了海森堡的抱负——通过说明怎样描述实验设计来提供新的直观形式——但他根本改变了这种设计的观念，我们将在下文看到。这一变化表明玻尔是一些观念的先驱，这些观念后来由维特根斯坦的某些学生——W.H. 沃森和 S. 图尔敏——发展出来，并进一步导致了所谓“理论的语义观”的表述（通过范·弗拉森和罗纳德·吉尔的范式而为人所知）。",
+        {
+          "type": "note",
+          "id": "ch17-n04",
+          "label": "4"
+        },
+        " 玻尔思想的这些方面值得关注——我下文还会多说一些——但在当前语境中，更重要的是注意玻尔理论的另一个更“古典”的部分。正如罗姆·哈雷令人信服地提出的，玻尔对实验描述与自然的理论表征之间关系的理解，可以被看作康德图型法观念的一个大胆的新表述。",
+        {
+          "type": "note",
+          "id": "ch17-n05",
+          "label": "5"
+        },
+        " 玻尔提出了一个新的构想，说明在实验装置的框架内实现概念意味着什么。简言之，物理公式所要求的应用性是以康德的方式来设想的：通过分析取得物理经验的手段如何对应于一组基本概念。对康德来说，古典几何学的作用是构造可辨认的模式，这些模式可以被先行设定，以刻画物理经验的显见形式。这些几何图型构成了如下观念的支柱：（牛顿）力学是预期物理经验的一种方式，而不是关于宇宙之真实的本体论结构的猜想。我们将看到，玻尔实际上用一组关于物理仪器之恰当“时空配置”的程序取代了康德的几何图型。"
+      ],
+      "units": 317
+    },
+    {
+      "id": "ch17-u011",
+      "source_ids": [
+        "ch17-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We should be careful at this point: Kant’s schemata were defined as “time-determinations a priori”.",
+        {
+          "type": "note",
+          "id": "ch17-n06",
+          "label": "6"
+        },
+        " They made the basic categories of human Understanding applicable by “constructing”, in an intuitive way, the way in which a temporal series of manifest spatial positions could be interpreted as an objective representation of the possibility for objects of experience to entertain some sort of characteristic physical change. The schemata, as it were, translate a temporal series of spatial manifestations into a description of the characteristic kinematics and dynamics of the physical objects posited in theoretical thought. So the Kantian idea of schematism forms the heart of a certain understanding of what it means to establish a “mechanics” in relation to a field of physical experience. There is a defining unity between “kinematics” and “dynamics” that constitutes a “mechanics”: This was also Heisenberg’s view when he successfully developed a new form of “mechanics”: quantum mechanics.",
+        {
+          "type": "note",
+          "id": "ch17-n07",
+          "label": "7"
+        }
+      ],
+      "zh": [
+        "在这一点上我们应当小心：康德的图型被定义为“先天的时间规定”。",
+        {
+          "type": "note",
+          "id": "ch17-n06",
+          "label": "6"
+        },
+        " 图型使人类知性的基本范畴得以应用。它们在直观中“构造”一种解释方式，借此把依时间相继显现的空间位置，看作经验对象可能发生某种特有物理变化的客观表征。可以说，图型把空间显现的时间序列翻译成对理论思维中所设定的物理对象的特征性运动学与动力学的描述。因此，康德的图型法观念构成了某种理解的核心，这种理解关乎就一个物理经验领域而言建立一门“力学”意味着什么。“运动学”与“动力学”之间有一种构成“力学”的规定性统一：这也是海森堡成功发展出一种新形式的“力学”——量子力学——时所持的观点。",
+        {
+          "type": "note",
+          "id": "ch17-n07",
+          "label": "7"
+        }
+      ],
+      "units": 150
+    },
+    {
+      "id": "ch17-u012",
+      "source_ids": [
+        "ch17-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We now have three elements to consider (a) the conjecture of the importance of experimental design, (b) the link between temporal determinations within the intuition and the representation of objective forms of physical change, and (c) the idea of uniting kinematics and dynamics in a new non-classical way. In a technical, methodological sense, this was what Bohr originally had in mind when he formulated the idea of complementarity. Let us translate this into Bohr’s own terms. Bohr first of all considered “complementarity” to be a generalization of the Kantian ideal of causality, where causality is a principle of knowledge and not an ontological claim. Bohr then claims that:"
+      ],
+      "zh": [
+        "我们现在有三个要素要考虑：(a) 关于实验设计之重要性的推测；(b) 直观之内的时间规定与物理变化的客观形式的表征之间的联系；(c) 以一种新的、非古典的方式统一运动学与动力学的观念。在技术的、方法论的意义上，这就是玻尔最初提出互补性观念时心里所想的东西。让我们把这翻译成玻尔自己的术语。玻尔首先把“互补性”看作康德因果性理想的一个推广，其中因果性是一条认识原理，而不是一个本体论断言。玻尔于是宣称："
+      ],
+      "units": 108
+    },
+    {
+      "id": "ch17-u014",
+      "source_ids": [
+        "ch17-u014"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[T]he trend of the whole argumentation presented in the Como lecture was to show that the viewpoint of complementarity might be regarded as a rational generalization of the very ideal of causality. (APHK, p. 41)"
+      ],
+      "zh": [
+        "科莫演讲整套论证的用意，是要表明互补性观点可以被看作因果性理想本身的一个合理推广。（APHK, p. 41）"
+      ],
+      "type": "quote",
+      "units": 36
+    },
+    {
+      "id": "ch17-u013",
+      "source_ids": [
+        "ch17-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "And he explains this as follows:"
+      ],
+      "zh": [
+        "而他对此作了如下解释："
+      ],
+      "units": 6
+    },
+    {
+      "id": "ch17-u015",
+      "source_ids": [
+        "ch17-u015"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The use of energy conservation in connection with the idea of stationary states (…) means an upholding of causality particularly striking when we realize that the very idea of motion, on which the classical definition of kinetic energy rests, has become ambiguous in the field of atomic constitution. As I have stressed by the argumentation mentioned, space time co-ordination and dynamical conservation laws may be considered as two complementary aspects of ordinary causality. (Works VI, p. 37 – Faraday Lecture)"
+      ],
+      "zh": [
+        "把能量守恒与定态观念联系起来使用（……）意味着对因果性的一种坚持，当我们意识到运动观念本身——古典的动能定义就建立在它之上——在原子构造领域已经变得含混时，这种坚持就显得尤为突出。正如我通过上述论证所强调的，时空协调与动力学守恒定律可以被看作通常因果性的两个互补方面。（Works VI, p. 37 – Faraday Lecture）"
+      ],
+      "type": "quote",
+      "units": 78
+    },
+    {
+      "id": "ch17-u016",
+      "source_ids": [
+        "ch17-u016"
+      ],
+      "page": "305",
+      "canonical_kind": "paragraph",
+      "en": [
+        "“Space–time coordination” of experimental phenomena can therefore no longer be seen as a representation of the kinematics of the atomic systems whose characteristics we try to measure. So the joint content of “dynamic conservation laws” and “space– time coordination” no longer expresses the unity characterizing a proper theoretical representation of the energy states of physical systems. The two do not form a unit but are “complementary”. It should be noted that this is a normative statement, not a logical statement about a well-defined conceptual relation. The normative statement can be expressed thus:"
+      ],
+      "zh": [
+        "因此，实验现象的“时空协调”不能再被看作对我们试图测量其特征的原子系统的运动学的表征。于是，“动力学守恒定律”与“时空协调”的联合内容不再表达那种刻画着物理系统能量态的恰当理论表征的统一性。两者不构成一个统一体，而是“互补的”。应当注意，这是一个规范性陈述，而不是关于一个定义明确的概念关系的逻辑陈述。这个规范性陈述可以这样表达："
+      ],
+      "units": 93
+    },
+    {
+      "id": "ch17-u019",
+      "source_ids": [
+        "ch17-u019"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[I]n the description of atomic phenomena, the quantum postulate presents us with the task of developing a “complementarity” theory, the consistency of which can be judged only by weighing the possibilities of definition and observation. (ATDN, p. 55)"
+      ],
+      "zh": [
+        "在描述原子现象时，量子公设向我们提出了发展一种“互补性”理论的任务，这种理论的一致性只有通过权衡定义的可能性与观察的可能性才能评判。（ATDN, p. 55）"
+      ],
+      "type": "quote",
+      "units": 39
+    },
+    {
+      "id": "ch17-u017",
+      "source_ids": [
+        "ch17-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "“The possibilities of definition”, i.e. the possibility of defining the energy states of elementary particles bound within an atomic system must, as stated in the Como Lecture, be dependent upon the possibility of making a certain set of observations. Not just anything counts as a description of an atomic phenomenon. The mere report of either spatio-temporal change or a dynamic effect does not in itself qualify as such a description. To describe a phenomenon one has to know in advance in what sense this phenomenon is part of the conditions for making various claims about a certain kind of atomic system. The lines in a line spectrum, or the click in a Geiger counter, or the tracks in a cloud chamber, can be called manifestations of something. The aim is to be able to see such manifestations as phenomena, and this, Bohr says, requires some sort of comprehension of what is manifest.",
+        {
+          "type": "note",
+          "id": "ch17-n08",
+          "label": "8"
+        },
+        " So it is not the very manifest spatio-temporal changes that are significant in an experiment, it is the form of these manifest changes."
+      ],
+      "zh": [
+        "“定义的可能性”，即定义束缚在原子系统内的基本粒子的能量态的可能性，正如科莫演讲中所陈述的，必须依赖于作出某组观察的可能性。并非任何东西都算作对原子现象的描述。仅仅报告时空变化或动力学效应，本身并不构成这样的描述。要描述一个现象，必须先弄清它在哪种意义上为有关某类原子系统的各种主张提供了部分条件。线状谱中的谱线、盖革计数器中的咔嗒声、云室中的径迹，都可以称为某种东西的显现。目标是能够把这样的显现看作现象，而玻尔说，这需要对所显现的东西有某种理解。",
+        {
+          "type": "note",
+          "id": "ch17-n08",
+          "label": "8"
+        },
+        " 因此，在实验中重要的不是显见的时空变化本身，而是这些显见变化的形式。"
+      ],
+      "units": 176
+    },
+    {
+      "id": "ch17-u018",
+      "source_ids": [
+        "ch17-u018"
+      ],
+      "page": "306",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Here, and in the following couple of sections, I will try to characterize the aim and the methodological strategy of Bohr’s viewpoint of Complementarity. However, I will first give a more detailed account of how the viewpoint “works”, and what it implies, below. Let me begin the methodological part by noting that, for Bohr, all physical observations build upon some idealizations of a certain spatio-temporal form, such as the prolongation of a harmonic wave, or the continuous track of a particle. The observation of such forms is necessary. According to Bohr’s understanding of Heisenberg’s IR, the new thing in quantum physics is that such forms somehow mutually exclude one another. In respect to any significant “individual part” of an experimental set up, if the notion of, say, tracks, is essential for your description of the function of the experiment, then it does not make sense to also describe this function in terms of, say, the prolongation of a harmonic wave. If we put this in a very formal manner, we can see that the situation is quite the same as that depicted by Kant: if you have a well-conceived algorithm concerning intuitive temporal determinations such that you have established, a priori, what it means to associate such determinations with dynamic features that characterize a system of causally related objects, then you have already established the conditions for the possibility of formulating a lawful, objective representation of these systems. Clearly, this is also Bohr’s goal in introducing the idea of complementarity as a generalized form of causality. Heisenberg’s IR constitute a logic of discovery, not the limits of a formerly established epistemic practice",
+        {
+          "type": "note",
+          "id": "ch17-n09",
+          "label": "9"
+        },
+        ":"
+      ],
+      "zh": [
+        "在这里以及接下来的两节中，我将尝试刻画玻尔互补性观点的目标与方法论策略。不过，我首先会在下文更详细地说明这一观点如何“运作”、它意味着什么。让我这样开始方法论部分：对玻尔来说，一切物理观察都建立在某种时空形式的某些理想化之上，例如谐波的延拓，或粒子的连续径迹。对这样的形式的观察是必要的。按照玻尔对海森堡不确定关系的理解，量子物理学中的新东西在于：这样的形式以某种方式相互排斥。就实验装置的任何重要的“个别部分”而言，如果比如说径迹概念对你描述实验的功能是本质的，那么再用比如说谐波的延拓来描述这一功能就没有意义了。如果我们以一种非常形式化的方式来表述这一点，就能看出情形与康德所描绘的完全相同：如果你有一个形成直观时间规定的一套明确规则，使得你已经先天地确立了把这样的规定与刻画因果相关对象系统的动力学特征联系起来意味着什么，那么你就已经确立了对这些系统作出合规律的客观表征之可能性的条件。显然，这也是玻尔把互补性观念作为因果性的推广形式引入时的目标。海森堡的不确定关系构成的是一种发现的逻辑，而不是某种先前确立的认识实践的界限：",
+        {
+          "type": "note",
+          "id": "ch17-n09",
+          "label": "9"
+        }
+      ],
+      "units": 272
+    },
+    {
+      "id": "ch17-u024",
+      "source_ids": [
+        "ch17-u024"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "It is only the mutual exclusion of any two experimental procedures, permitting the unambiguous definition of complementary physical quantities, which provides room for new physical laws, the coexistence of which might at first appear irreconcilable with the basic principles of science. It is just this entirely new situation as regards the description of physical phenomena, that the notion of complementarity aims at characterizing. (Bohr, 1935 [the EPR-paper], p. 148)"
+      ],
+      "zh": [
+        "正是任何两种允许无歧义地定义互补物理量的实验程序之间的相互排斥，为新的物理定律提供了空间，而这些定律的共存乍看之下可能与科学的基本原理不可调和。互补性概念所要刻画的，正是这种关于物理现象描述的全新局面。（Bohr, 1935 [EPR 论文], p. 148）"
+      ],
+      "type": "quote",
+      "units": 69
+    },
+    {
+      "id": "ch17-u020",
+      "source_ids": [
+        "ch17-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We can see that the new kind of “definition” of physical quantities, i.e. the new kind of conceptually mediated account of quantum phenomena, provides room for a variety of new physical laws. The new Heisenbergian rules for the account of experimental data (the new “possibilities of observation”) have thus been weighted, or balanced, with a new set of “definitions” concerning the understanding of the character of atomic objects. A new kind of intuition has been projected onto a set of new kinds of physical laws. This is strictly un-Kantian but definitely has a Kantian ring to it."
+      ],
+      "zh": [
+        "我们可以看到，物理量的新型“定义”，即借助概念说明量子现象的新方式，为各种新的物理定律提供了空间。于是，说明实验数据的新的海森堡式规则（新的“观察的可能性”）就要与一组用来理解原子对象特性的新“定义”相权衡，以求两者相称。一种新的直观被投射到一组新型物理定律之上。这严格说是非康德的，但确实带有康德的味道。"
+      ],
+      "units": 98
+    },
+    {
+      "id": "ch17-u021",
+      "source_ids": [
+        "ch17-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "After we have thus pointed out how Bohr’s view of complementarity is far from revolutionary in these respects, we can still note something radically new in his understanding of physics (all physics and not only quantum physics). I shall now try to formulate as briefly as possible how Bohr’s philosophy of physics counts as a “modern” view of physics, with many parallels to the philosophy of the later Wittgenstein."
+      ],
+      "zh": [
+        "在如此指出玻尔的互补性观点在这些方面远非革命性的之后，我们仍然可以注意到他对物理学（全部物理学，而不仅是量子物理学）的理解中某种根本新的东西。我现在将尝试尽可能简要地表述，玻尔的物理学哲学如何算作一种“现代的”物理学观，与后期维特根斯坦的哲学有许多平行之处。"
+      ],
+      "units": 69
+    },
+    {
+      "id": "ch17-u022",
+      "source_ids": [
+        "ch17-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To begin with, it is clear from the early drafts of the Como paper, that Bohr introduced a totally new conception of the instruments of physical measurement.",
+        {
+          "type": "note",
+          "id": "ch17-n10",
+          "label": "10"
+        },
+        " Such instruments, like rulers, meters, scales, and clocks, are in no way independent, given, well-defined or, as Rom Harré has put it, “transparent” items.",
+        {
+          "type": "note",
+          "id": "ch17-n11",
+          "label": "11"
+        },
+        " In a very deep sense, there are no objectively given rulers, meters, scales, and clocks. There is only a set of apparatus that is what it is because of the use we give it."
+      ],
+      "zh": [
+        "首先，从科莫论文的早期草稿中可以清楚看出，玻尔引入了关于物理测量仪器的一种全新构想。",
+        {
+          "type": "note",
+          "id": "ch17-n10",
+          "label": "10"
+        },
+        " 这样的仪器——尺、量表、天平、钟——绝不是独立的、被给予的、定义明确的，或者用罗姆·哈雷的话说，“透明的”物件。",
+        {
+          "type": "note",
+          "id": "ch17-n11",
+          "label": "11"
+        },
+        " 在很深的意义上，不存在客观被给予的尺、量表、天平和钟。只有一组装置；它们分别算是什么仪器，取决于我们怎样使用它们。"
+      ],
+      "units": 85
+    },
+    {
+      "id": "ch17-u023",
+      "source_ids": [
+        "ch17-u023"
+      ],
+      "page": "307",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This shall of course not be understood in the following two-steps way: (1) we have a kind of proto-idea about, say, the kind of determinations a ruler is meant to measure (“length of distance”), and (2) we then correct this by saying “but such determinations are in fact relative to ‘uses’ or intentions”. We shall rather say that what it means for an object to be ascribed a certain physical measure is related from the outset to the possibility of there being a certain procedure for utilizing some instrument. This is why Bohr calls the observable spatio-temporal determinations associated with a kind of measurement an “idealization”. The very idea of particles, waves, emissions, impacts, and all other kinds of movements in space–time, is our mathematical construct. However, these constructs adequately model the structure and function of a given experimental set up."
+      ],
+      "zh": [
+        "这当然不应按以下两步方式来理解：(1) 我们对比如说尺所要测量的那种规定（“距离的长度”）有某种原初观念，(2) 然后我们纠正说“但这样的规定实际上相对于‘用途’或意图”。我们应当这样说：给一个对象赋予某个物理量值，从一开始就意味着存在一种可行的仪器操作程序。这就是为什么玻尔把与某种测量相关联的可观察时空规定称为“理想化”。粒子、波、发射、碰撞以及时空中一切其他种类运动的观念本身，都是我们的数学构造。然而，这些构造恰当地对给定实验装置的结构与功能建模。"
+      ],
+      "units": 142
+    },
+    {
+      "id": "ch17-u025",
+      "source_ids": [
+        "ch17-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The methodological and physical core of this is that one can design measurement apparatus and whole experimental set-ups. Rulers, meters, scales, and clocks can now be seen as integrated into an experimental set-up; and their being so integrated is a main part of our designing the kinematics and the dynamics of the experimental design. It is only in such a complete experimental context that you have measurement apparatus at all. We should realize that there are no “isolated” rulers, meters, scales or clocks. If you use a rod as a ruler, there is a dynamic aspect of how you are allowed to perform the measurement of spatial positions (of length). There is no a priori sense of what it means to “place” the ruler against another object. The spatial determination thus has both a dynamic and a temporal aspect. It is the joint determination of these spatio-temporal and dynamic features that is called an “idealization”."
+      ],
+      "zh": [
+        "这一点的方法论与物理核心在于：人们能够设计测量仪器和整个实验装置。尺、量表、天平和钟如今可以被看作整合进一个实验装置之中；而它们如此被整合，正是我们为实验设计运动学和动力学条件的主要环节之一。只有在这样一个完整的实验语境中，你才根本拥有测量仪器。我们应当认识到，不存在“孤立的”尺、量表、天平或钟。如果你把一根杆用作尺，那么你被允许如何进行空间位置（长度）的测量就有一个动力学方面。把尺“贴靠”到另一个对象上意味着什么，并没有先天的意义。因此，空间规定既有动力学方面，也有时间方面。正是这些时空特征与动力学特征的联合规定被称为“理想化”。"
+      ],
+      "units": 155
+    },
+    {
+      "id": "ch17-u026",
+      "source_ids": [
+        "ch17-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The “schematization” – as we might rightly call it – of such an integrated set of determinations means that three things have to be taken into account. Firstly, as we have already indicated, one and the same parts of an experimental design, say a plate, may in one case be an integrated part of a device that indicates a temporal (by contrast to a dynamic or a spatial) feature of the design, whereas in another case it is the latter feature that is the focal point. The “performance” of the experiment thus implies that one looks exclusively at one feature within the integrated set of determinations for the given item, say the plate. It is when one and the same such part of a device has two mutually exclusive focal points within the performance of an experiment that one can say the two performances are “complementary”. So complementarity is not just about particles versus waves, kinematics versus dynamics and so on. The things that are “complementary” are the forms of uniting a kinematic and a dynamic description of an experimental design in order to make sense of the phenomena which are produced accordingly."
+      ],
+      "zh": [
+        "对这样一组整合的规定所作的“图型化”——我们可以恰当地这样称呼它——意味着必须考虑三件事。第一，正如我们已经指出的，实验设计的同一个部件，比如一块板，在一种情况下可以是指示实验时间特征的装置的一部分，另一次实验着眼的却是动力学或空间特征。因此，实验的“执行”意味着人们只关注给定物件（比如那块板）的整合规定集合中的一个特征。当装置的同一个部件在实验执行中具有两个相互排斥的焦点时，就可以说这两种执行是“互补的”。所以互补性不仅仅关乎粒子对波、运动学对动力学等等。“互补的”东西是把实验设计的运动学描述与动力学描述统一起来、以便理解由此产生的那些现象的形式。"
+      ],
+      "units": 191
+    },
+    {
+      "id": "ch17-u027",
+      "source_ids": [
+        "ch17-u027"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This is our second implication: the intelligibility and significance of an experimental design aims at selecting a priori the kinds of manifestations that have explanatory value; be it clicks in a Geiger counter, tracks in a bubble chamber, spots on a screen, spectral lines in a spectrometer, or vibrations in a spring. The physical results of an experiment consist in such manifestations. I here use Bohr’s terminology; the first aim of an experiment is to “comprehend” such manifestations. Such comprehension is what constitutes what Bohr calls a phenomenon. We should namely:"
+      ],
+      "zh": [
+        "这是我们的第二个含义：要使实验设计可理解且有意义，须预先挑出哪些种类的显现具有解释价值——无论是盖革计数器中的咔嗒声、气泡室中的径迹、屏幕上的斑点、光谱仪中的谱线，还是弹簧的振动。实验的物理结果就在于这样的显现。我在这里使用玻尔的术语：实验的首要目标是“理解”这样的显现。正是这样的理解构成了玻尔所称的现象。也就是说，我们应当："
+      ],
+      "units": 91
+    },
+    {
+      "id": "ch17-u029",
+      "source_ids": [
+        "ch17-u029"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[R]eserve the word “phenomenon” for the comprehension of the effects observed under given experimental conditions. (Bohr, 1938, p. 24)"
+      ],
+      "zh": [
+        "“现象”一词只用于理解在给定实验条件下观察到的效应。（Bohr, 1938, p. 24）"
+      ],
+      "type": "quote",
+      "units": 20
+    },
+    {
+      "id": "ch17-u028",
+      "source_ids": [
+        "ch17-u028"
+      ],
+      "page": "308",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For instance, the track in the bubble chamber is considered to be the trajectory of a charged elementary particle, or the click in the Geiger counter is considered to be the emission of an elementary particle from an atomic system. These are phenomena because if one talks about the “trajectories” or “emissions” of elementary particles, one does not merely account for the workings of a physical experiment in ordinary or classical macro physical fashion; rather, one is using the best of quantum physical theories in order to make explanatory sense of the given experimental manifestations. In fact, Bohr’s understanding of “phenomena” is even more theoretical and is far from reducing to empirical events:"
+      ],
+      "zh": [
+        "例如，气泡室中的径迹被认为是带电基本粒子的轨迹，或者盖革计数器中的咔嗒声被认为是基本粒子从原子系统中的发射。这些是现象，因为如果人们谈论基本粒子的“轨迹”或“发射”，就不是仅仅以日常的或古典宏观物理的方式说明物理实验的运作；相反，人们是在使用最好的量子物理理论，以便对给定的实验显现作出解释性的理解。事实上，玻尔对“现象”的理解甚至更具理论性，远不能还原为经验事件："
+      ],
+      "units": 113
+    },
+    {
+      "id": "ch17-u032",
+      "source_ids": [
+        "ch17-u032"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The essential lesson of the analysis of measurements in quantum theory is thus the emphasis on the necessity, in the account of phenomena, of taking the whole experimental arrangement into consideration, in complete conformity with the fact that all unambiguous interpretation of the quantum mechanical formalism involves the fixation of the external conditions, defining the initial state of the atomic system concerned and the character of the possible predictions as regards subsequent observable properties of that system. Any measurement in quantum theory can in fact only refer either to a fixation of the initial state or to the test of such predictions, and it is first the combination of measurements of both kinds which constitutes a well-defined phenomenon. (Bohr, 1938, p. 20)"
+      ],
+      "zh": [
+        "因此，量子理论中测量分析的本质教训，是强调在说明现象时必须把整个实验安排考虑在内；这完全符合如下事实：量子力学形式主义的一切无歧义解释都有赖于先确定外部条件，由这些条件界定原子系统的初态，并限定对于该系统后来可观察到的性质可以作出怎样的预测。量子理论中的任何测量实际上只能指涉初始态的固定或对这类预测的检验，而只有两类测量的结合才构成一个定义明确的现象。（Bohr, 1938, p. 20）"
+      ],
+      "type": "quote",
+      "units": 122
+    },
+    {
+      "id": "ch17-u030",
+      "source_ids": [
+        "ch17-u030"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Our third implication is that the comprehension of physical manifestations is expressed in terms of abstractions as Bohr calls it.",
+        {
+          "type": "note",
+          "id": "ch17-n12",
+          "label": "12"
+        },
+        " In our example, the “abstraction” in question was the idea of an elementary particle. This is not merely an idea about a particle, but an idea about how one and the same physical entity can both be bound within an atomic system and be able to be freely moving in space and time, which means that the item can be both bound and free within the same experimental set-up. This illustrates how an abstraction is the idea of an object within the phenomena that a given experimental set up “affords”.",
+        {
+          "type": "note",
+          "id": "ch17-n13",
+          "label": "13"
+        },
+        " For instance we have made it clear that an “electron” is something that can be “emitted”, either spontaneously or by some kind of induced influence. So the elementary particles are “abstractions” in two ways. They are literally speaking “abstracts” from atomic systems since they can be emitted from them, and they are abstract ideas in terms of which we can comprehend manifestations and thus recognize phenomena."
+      ],
+      "zh": [
+        "我们的第三个含义是：对物理显现的理解是以玻尔所称的抽象来表达的。",
+        {
+          "type": "note",
+          "id": "ch17-n12",
+          "label": "12"
+        },
+        " 在我们的例子中，所涉的“抽象”是基本粒子的观念。这不仅仅是关于一个粒子的观念，而是关于同一个物理实体如何既能束缚在原子系统之内、又能在时空中自由运动的观念，这意味着该物件在同一个实验装置之内可以既是束缚的又是自由的。这说明，抽象是关于某个对象的观念，而该对象见于给定实验装置能够“提供”的现象之中。",
+        {
+          "type": "note",
+          "id": "ch17-n13",
+          "label": "13"
+        },
+        " 例如，我们已经表明，“电子”是某种可以被“发射”的东西，或是自发地，或是通过某种诱导影响。所以基本粒子在两种意义上是“抽象”。字面上说，它们是从原子系统中“抽离出来的东西”，因为它们可以从原子系统中被发射出来；而且它们是抽象观念，借助它们我们能够理解显现、从而辨认现象。"
+      ],
+      "units": 176
+    },
+    {
+      "id": "ch17-u031",
+      "source_ids": [
+        "ch17-u031"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We saw that the performance of an experiment, involving two succeeding measurements, leads to the comprehension of a single phenomenon. We have now “analyzed” the possibility and significance of such single phenomena, and this brings us to Bohr’s main thesis, that the task of a theoretical science is to combine such analysis with a proper kind of synthesis",
+        {
+          "type": "note",
+          "id": "ch17-n14",
+          "label": "14"
+        },
+        ": First, there is the direct methodological instruction about how to “synthesize” phenomena in terms of theoretical constructs, or “abstractions”, in the sense that was explained above:"
+      ],
+      "zh": [
+        "我们看到，涉及两次相继测量的实验执行导致对单个现象的理解。我们现在已经“分析”了这样的单个现象的可能性与意义，这就把我们带到玻尔的主要论题：理论科学的任务是把这样的分析与一种恰当的综合结合起来。",
+        {
+          "type": "note",
+          "id": "ch17-n14",
+          "label": "14"
+        },
+        " 首先，有直接的方法论指示，说明如何按上文解释的意义、用理论构造或“抽象”来“综合”现象："
+      ],
+      "units": 84
+    },
+    {
+      "id": "ch17-u055",
+      "source_ids": [
+        "ch17-u055"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The Viewpoint of Complementarity allows us indeed to avoid any futile discussion about determinism or indeterminism of physical events, by offering a straightforward generalization of the very ideal of causality, which can aim only at the synthesis of phenomena describable in terms of a behavior of objects independent of the means of observation. (Bohr, 1938, p. 25)"
+      ],
+      "zh": [
+        "互补性观点确实使我们能够避免关于物理事件的决定论或非决定论的任何无谓讨论，因为它提供了因果性理想本身的一个直接推广，而因果性理想原本只着眼于综合那些可用独立于观察手段的对象行为来描述的现象。（Bohr, 1938, p. 25）"
+      ],
+      "type": "quote",
+      "units": 57
+    },
+    {
+      "id": "ch17-u033",
+      "source_ids": [
+        "ch17-u033"
+      ],
+      "page": "309",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The idea is that we should refrain from trying to see a causal link between experimental phenomena. Such an effort simply makes no sense if we understand a “phenomenon” as Bohr did. The aim is rather to classify experiences. For instance, the phenomenon in which an electron ray splits in two, tells us that such electrons can be both in a “spin up” and a “spin down” state within the bound system of an atom. Accordingly, my conjecture is that Bohr simply points to the ambition of mapping the electron configuration diagrams of all well known atomic systems."
+      ],
+      "zh": [
+        "这个想法是：我们应当避免试图在实验现象之间看到因果联系。如果我们像玻尔那样理解“现象”，这样的努力根本没有意义。目标毋宁是对经验进行分类。例如，电子射线一分为二的现象告诉我们，这样的电子在原子的束缚系统之内既可以处于“自旋向上”态，也可以处于“自旋向下”态。据此，我的推测是，玻尔只是指向绘制所有已知原子系统的电子组态图这一抱负。"
+      ],
+      "units": 98
+    },
+    {
+      "id": "ch17-u038",
+      "source_ids": [
+        "ch17-u038"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "I need recall only briefly, how often the development of physics has taught us that a consistent application even of the most elementary concepts indispensable for the description of our daily experience, is based on assumptions initially unnoticed, the explicit considerations of which is, however, essential if we wish to obtain a classification of more extended ",
+        {
+          "type": "em",
+          "children": [
+            "domains"
+          ]
+        },
+        " of experience as clear and free from arbitrariness as possible. (Bohr, 1937, p. 290, italics mine!)"
+      ],
+      "zh": [
+        "我只需简要回顾，物理学的发展多么经常地教导我们：即使是对描述日常经验不可或缺的最初等概念的一贯应用，也建立在最初未被注意到的假定之上；然而，如果我们希望获得对更广阔",
+        {
+          "type": "em",
+          "children": [
+            "经验领域"
+          ]
+        },
+        "的尽可能清楚、尽可能免于任意性的分类，对这些假定的明确考虑就是本质的。（Bohr, 1937, p. 290，强调为我所加！）"
+      ],
+      "type": "quote",
+      "units": 73
+    },
+    {
+      "id": "ch17-u034",
+      "source_ids": [
+        "ch17-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "So the synthesis of phenomena is a means to an end. This end is the classification of physical domains, like that of atomic systems, where we map this domain by setting up a table of possible energy states of elementary particles bound within such systems, i.e. the electron configuration schemes of the periodic table including stable isotopes."
+      ],
+      "zh": [
+        "因此，现象的综合是达到目的的手段。这个目的是物理领域的分类，比如原子系统的领域；例如对原子系统分类，可以把其中束缚粒子的可能能量态列表，构成包含稳定同位素的元素周期表的电子组态图式。"
+      ],
+      "units": 58
+    },
+    {
+      "id": "ch17-u035",
+      "source_ids": [
+        "ch17-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The second part of Bohr’s idea about the “synthesis of phenomena” concerns the epistemic progress that characterizes the development of a given branch of science. Bohr claims that:"
+      ],
+      "zh": [
+        "玻尔关于“现象的综合”的想法的第二部分，涉及刻画某一科学分支发展的认识进步。玻尔宣称："
+      ],
+      "units": 28
+    },
+    {
+      "id": "ch17-u056",
+      "source_ids": [
+        "ch17-u056"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The extension of our knowledge may lead to the recognition of relations between formerly unconnected groups of phenomena, the harmonious synthesis of which demands a renewed revision of the presuppositions for the unambiguous application of even our most elementary concepts. (Bohr, 1936, p. 28)"
+      ],
+      "zh": [
+        "我们知识的扩展可能导致认识到先前互不关联的现象组之间的关系，而这些现象的和谐综合要求重新修订即使是最初等概念的无歧义应用的前提。（Bohr, 1936, p. 28）"
+      ],
+      "type": "quote",
+      "units": 44
+    },
+    {
+      "id": "ch17-u036",
+      "source_ids": [
+        "ch17-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This is the goal of a scientific discipline like “atomic theory”. However whenever such a goal is beginning to take form, an “epistemological lesson” appears. Here Bohr is definitely not Kantian. The lesson is that our previous understanding of how to use concepts in the description of phenomena has proved to be conditioned in a way that we should no longer maintain. The point is not so much that there are conditions for the application of concepts, at all. The point is different and twofold. Firstly, what we previously saw as forming a necessary background for the applicability of a concept has proven not to be so – at least in some new and special context. Secondly, realizing all this opens up the possibility that phenomena that one might have thought could and should never be related to one another, can nevertheless be “synthesized” in a certain way."
+      ],
+      "zh": [
+        "这就是像“原子理论”这样的科学学科的目标。然而，每当这样的目标开始成形时，就会出现一个“认识论教训”。在这里玻尔肯定不是康德式的。这个教训是：我们先前关于如何在现象描述中使用概念的理解，已被证明是受到了某些旧条件的限制，而这些限制已不宜坚持。需要说明的远不只是概念的应用有条件，而是以下两点。第一，我们先前看作构成某个概念之应用性的必要背景的东西，已被证明并非如此——至少在某些新的特殊语境中。第二，认识到这一切，就开启了这样的可能性：那些人们原以为绝不可能、也绝不应该相互关联的现象，仍然能够以某种方式被“综合”。"
+      ],
+      "units": 147
+    },
+    {
+      "id": "ch17-u037",
+      "source_ids": [
+        "ch17-u037"
+      ],
+      "page": "310",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A clear example of this is the study of biological organisms, where two different approaches to that study, physicalism and vitalism respectively, seemed to be irreconcilable. In fact it was in this context that the father of Niels Bohr, the physiologist Christian Bohr, formulated the idea of complementarity.",
+        {
+          "type": "note",
+          "id": "ch17-n15",
+          "label": "15"
+        },
+        " Niels adopted his father’s views and reformulated them in strict analogy with his account of quantum physical experimentation. So the argument here is not only the dual aspect view that biological organisms essentially have, namely both physiological properties and the ability to sustain and project a biological process of life. The point is more sophisticated, for the argument is that the study of a biological organism as a physiological system only makes sense because one is able to treat the organism as a self-sustaining life process when one is conducting the physiological study. First of all, the organism must not die or be in a special psychological condition when one wants to investigate its characteristic physiological processes. Similarly, the study of the organism as a life process presupposes that one can control some of the physiological features of it, e.g. provide the organism with food and air, or shield it from various influences like heat, bullets, or flooding waters."
+      ],
+      "zh": [
+        "一个清楚的例子是对生物有机体的研究，其中两种不同的研究进路——物理主义与活力论——似乎不可调和。事实上，正是在这个语境中，尼尔斯·玻尔的父亲、生理学家克里斯蒂安·玻尔提出了互补性观念。",
+        {
+          "type": "note",
+          "id": "ch17-n15",
+          "label": "15"
+        },
+        " 尼尔斯采纳了他父亲的观点，并严格按照他对量子物理实验的说明的类比重新表述了它们。所以这里的论证不仅是生物有机体本质上具有的双方面观点，即既有生理属性，又有维持和展开生物生命过程的能力。更细致的论点是：只有能在生理研究中把有机体作为自我维持的生命过程对待，把它作为生理系统研究才有意义。首先，当人们想要研究有机体的特征性生理过程时，它不能死去，也不能处于某种特殊的心理状态。同样，把有机体作为生命过程来研究，预设了人们能够控制它的某些生理特征，例如给有机体提供食物和空气，或保护它免受热、子弹或洪水等各种影响。"
+      ],
+      "units": 208
+    },
+    {
+      "id": "ch17-u039",
+      "source_ids": [
+        "ch17-u039"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Again, the crucial thing, in biology as in quantum physics, is that one learns that the conditions for the study of one aspect have connections with the conditions for the study of other aspects. As Bohr puts it, the viewpoint of complementarity is based on the possibility of “scrutinizing presuppositions” or conditions.",
+        {
+          "type": "note",
+          "id": "ch17-n16",
+          "label": "16"
+        },
+        " This possibility reveals, according to Bohr, that one has caught a glimpse of a “harmony” that lies deeper than the apparent opposition between the various aspects. As I have argued elsewhere, Bohr – on a very special private occasion – formulated as early as 1928 what I call his “manifesto” which, in the fullest way, expresses Bohr’s vision of the far reaching philosophical implications of quantum physics for all fields of experience",
+        {
+          "type": "note",
+          "id": "ch17-n17",
+          "label": "17"
+        },
+        ":"
+      ],
+      "zh": [
+        "再一次，关键之点——在生物学中正如在量子物理学中——是人们认识到：研究一个方面的条件与研究其他方面的条件有联系。用玻尔的话说，互补性观点建立在“审查前提”或条件的可能性之上。",
+        {
+          "type": "note",
+          "id": "ch17-n16",
+          "label": "16"
+        },
+        " 按玻尔的看法，这种可能性揭示出，人们已经瞥见了一种比各个方面之间的表面对立更深的“和谐”。正如我在别处论证的，玻尔——在一个非常特殊的私人场合——早在 1928 年就表述了我所称的他的“宣言”，它以最充分的方式表达了玻尔关于量子物理学对一切经验领域的深远哲学含意的愿景：",
+        {
+          "type": "note",
+          "id": "ch17-n17",
+          "label": "17"
+        }
+      ],
+      "units": 122
+    },
+    {
+      "id": "ch17-u041",
+      "source_ids": [
+        "ch17-u041"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Everywhere, new forms of outlook are brought up and new fields and connections (",
+        {
+          "type": "em",
+          "children": [
+            "Zusammenhang"
+          ]
+        },
+        ") dawn upon us. But as every road we choose is branching and curving, we soon lose our sense of direction and will sooner or later return to our point of departure. Despite of this we are always able to return home enriched (",
+        {
+          "type": "em",
+          "children": [
+            "mit einem Ertrag"
+          ]
+        },
+        "). The richness of that which we can collect and piece together is unlimited. As we investigate into deeper and deeper presuppositions we realize broader and broader connections. In this way our lives are informed by still richer impressions of an eternal and unlimited harmony; only, the harmony itself can never be caught, it can only be glimpsed. And with any effort to catch hold on it, it slips by the nature of its essence through our fingers. Nothing is fixed. Every thought, even every word, is only suited to underline a connection, which can never be fully described, but always reflected deeper. ",
+        {
+          "type": "em",
+          "children": [
+            "Such is, undeniably, the conditions for human thought"
+          ]
+        },
+        "… we can only complete our picture of the conditions of life by recognizing the play of oppositions. It is precisely in this vertigo of facing the unlimited that we recollect those vague forebodings which form the background of the spontaneous excitement of the youth. (Bohr, 1985, p. 263, my translation from Danish, italics mine)"
+      ],
+      "zh": [
+        "到处都有新的观照形式被提出，新的领域与关联（Zusammenhang）向我们显现。但由于我们选择的每条路都分岔弯曲，我们很快就失去方向感，迟早会回到出发点。尽管如此，我们总是能够满载而归（mit einem Ertrag）。我们能够收集和拼合的东西的丰富性是无限的。当我们探究越来越深的前提时，我们认识到越来越广的关联。这样，我们的生活就被一种永恒而无限的和谐的越来越丰富的印象所充实；只是，和谐本身永远无法被捕获，只能被瞥见。而任何想要抓住它的努力，它却总会从我们指间溜走，这是它的本性所致。没有任何东西是固定的。每个思想，甚至每个词，都只适合强调一种关联，这种关联永远无法被完全描述，却总能让我们作更深入的反思。",
+        {
+          "type": "em",
+          "children": [
+            "不可否认，这就是人类思维的条件"
+          ]
+        },
+        "……我们只有通过认识到对立双方的相互作用，才能完成我们关于生活条件的图景。正是在面对无限者的这种眩晕中，我们回想起那些模糊的预感，它们构成了青年自发激情的背景。（Bohr, 1985, p. 263，我自丹麦文翻译，强调为我所加）"
+      ],
+      "type": "quote",
+      "units": 223
+    },
+    {
+      "id": "ch17-u040",
+      "source_ids": [
+        "ch17-u040"
+      ],
+      "page": "311",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This view is not Kantian. Bohr is known to have associated it with a variety of Romantic philosophical ideas, especially those of Schiller and Goethe.",
+        {
+          "type": "note",
+          "id": "ch17-n18",
+          "label": "18"
+        },
+        " But there is still a Kantian ring to this Romantic Manifesto. At the heart of the view is the idea that human thought is bound to speculate about those transcendent things and relations that we can never have an explicit justifiable knowledge about. There is also the idea that “deep down” Nature possesses a harmony or unity, a Logos that does not correspond to a given World Order. It is rather a Logos that exhibits itself in the multitude of changes and forms of interaction that characterizes all domains of knowledge. So even if the basic features of Nature will forever escape our understanding, and Nature perhaps is so complex and disordered that we can never tell its “plan”, we should still never say that Nature is unintelligible. Nature will never be like a closed door. Nature will forever be a ground, a place, or condition of possibility. This, one might argue, is the common metaphysical stance of Bohr and the German idealists, including Kant."
+      ],
+      "zh": [
+        "这种观点不是康德式的。众所周知，玻尔把它与各种浪漫主义哲学观念联系起来，尤其是席勒和歌德的观念。",
+        {
+          "type": "note",
+          "id": "ch17-n18",
+          "label": "18"
+        },
+        " 但这份浪漫主义宣言仍然带有康德的味道。这种观点的核心是这样的观念：人类思维注定要思辨那些我们永远无法拥有明确的、可辩护的知识的超验事物与关系。还有这样的观念：自然“在深处”拥有一种和谐或统一，一种逻各斯，它并不对应于一个预先给定的世界秩序。它毋宁是一种在刻画一切知识领域的众多变化与相互作用形式中展现自身的逻各斯。因此，即使自然的基本特征将永远逃脱我们的理解，即使自然也许如此复杂无序、以至于我们永远无法说出它的“计划”，我们仍然绝不应说自然是不可理解的。自然永远不会像一扇关闭的门。自然永远将是一个根据、一个场所、一种可能性条件。可以说，这就是玻尔与包括康德在内的德国观念论者的共同形而上学立场。"
+      ],
+      "units": 190
+    },
+    {
+      "id": "ch17-u042",
+      "source_ids": [
+        "ch17-u042"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Bohr certainly did not see himself as a Kantian philosopher. He thought that any “conceptual frame” in any science would prove too narrow and would have to be replaced by new schemes.",
+        {
+          "type": "note",
+          "id": "ch17-n19",
+          "label": "19"
+        },
+        " Neither did Bohr agree with a dialectic view like that of Hegel; there was to Bohr no necessary kind of development of physical thought, no necessary direction. Now these two views do not challenge the possibility of describing the trend or pattern in the actual historical development of physics, so far. We have accordingly seen that Bohr did not believe that quantum physics was something entirely revolutionary. Even if, in his mature understanding, he no longer thought of his own early “principle of correspondence” as important, there is no doubt in my opinion that Bohr in some sense saw quantum physics as a rational continuation of older forms of physics. We have even seen, in respect to basic notions such as causality and unity, that Bohr saw quantum physics as a generalization of older kinds of thought."
+      ],
+      "zh": [
+        "玻尔当然不把自己看作康德式哲学家。他认为任何科学中的任何“概念框架”都会显得过于狭窄，都必须被新的图式取代。",
+        {
+          "type": "note",
+          "id": "ch17-n19",
+          "label": "19"
+        },
+        " 玻尔也不赞同像黑格尔那样的辩证观点；对玻尔来说，物理思维没有必然的发展方式，没有必然的方向。不过，这两点并不妨碍我们描述物理学迄今实际发展的趋势或模式。因此我们已经看到，玻尔并不相信量子物理学是某种完全革命性的东西。即使在他成熟的理解中，他不再认为自己早先的“对应原理”重要，在我看来毫无疑问，玻尔在某种意义上把量子物理学看作较早物理学形式的合理延续。我们甚至看到，就因果性和统一这样的基本概念而言，玻尔把量子物理学看作较早思想种类的推广。"
+      ],
+      "units": 169
+    },
+    {
+      "id": "ch17-u043",
+      "source_ids": [
+        "ch17-u043"
+      ],
+      "page": "312",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Bohr is far from clear on these issues. Obviously, quantum physics, and any of the other kinds of “new possible sciences”, in biology and elsewhere, that Bohr suggested, can all be said to “contain” their predecessors. The range of phenomena of the new theory simply exceeds the range of the predecessors. But is that all? Two things seem to be pressing. Firstly, Bohr’s general idea about the possibility of an expansion of the sciences needs the support of some concept of morphology. Because, the different forms of phenomena with which the sciences are concerned are not only interrelated, according to the complementarity viewpoint, they are also integrated and united in a way we have to explain further. Secondly, the idea that the sciences become more “general” can be understood in many ways. I have for example tried to account elsewhere for the difference in the way in which Helmholtz and Planck conceived such a generalization.",
+        {
+          "type": "note",
+          "id": "ch17-n20",
+          "label": "20"
+        },
+        " There are three issues here. Firstly physical theories may be more and more universal (and that will involve an idea about how the various fields of applicability of older theories become “united” by means of the new universal theory). Secondly, theories can also become more allgemein (and let us call this “general”). This means that the way in which the theory covers a field of individual examples is more general than the way in which older theories did. Thus, whereas Newtonian mechanics dealt only with such and such material particulars, and then later with field theories, the idea of point masses has become part of a more general idea about the spatial distribution of forces within the field. Finally, there is a third important aspect of the generalization of physical theory, namely the sense in which the mathematical expressions of physical theory become more and more general. So the whole issue about what generalization means in mathematics should also be accounted for."
+      ],
+      "zh": [
+        "玻尔在这些问题上远不清楚。显然，量子物理学——以及玻尔所提示的生物学和其他领域中任何其他种类的“新可能的科学”——都可以说“包含”它们的先驱。新理论所涵盖的现象范围，比前一代理论更广。但仅此而已吗？有两件事似乎迫在眉睫。第一，玻尔关于科学扩展之可能性的一般观念，需要某种形态学概念的支持。因为，按互补性观点，科学所关注的不同现象形式不仅相互关联，而且以我们必须进一步说明的方式被整合和统一。第二，科学变得更“一般”的观念可以有许多理解方式。例如，我曾在别处尝试说明亥姆霍兹和普朗克构想这种推广的方式的差异。",
+        {
+          "type": "note",
+          "id": "ch17-n20",
+          "label": "20"
+        },
+        " 这里有三个问题。第一，物理理论可能越来越普适（这将涉及一个观念：较早理论的各种应用领域如何借助新的普适理论而被“统一”）。第二，理论也可以变得更 allgemein（让我们称之为“一般的”）。这意味着理论覆盖个别实例领域的方式比较早理论的方式更一般。于是，牛顿力学只处理这样那样的物质殊相，而后来随着场论的出现，质点观念已成为关于场中力的空间分布的一个更一般观念的一部分。最后，物理理论的推广还有第三个重要方面，即物理理论的数学表达式变得越来越一般的那种意义。因此，关于推广在数学中意味着什么的整个问题也应当得到说明。"
+      ],
+      "units": 317
+    },
+    {
+      "id": "ch17-u044",
+      "source_ids": [
+        "ch17-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Not many philosophers of science have managed to take these three kinds of generalization into account. Among the few who have, I will now discuss Ernst Cassirer’s view about the development of physics. I will try to argue that his account makes Bohr’s position stronger. I will not argue that Cassirer’s account is just the support Bohr needs, nor will I claim that Cassirer’s view is in any sense closer to Bohr’s than to, say, Planck’s. Cassirer is in fact very close to Planck.",
+        {
+          "type": "note",
+          "id": "ch17-n21",
+          "label": "21"
+        },
+        " I simply claim that the joint position of Cassirer and Bohr is stronger than Bohr’s, or anybody else’s, alone."
+      ],
+      "zh": [
+        "没有多少科学哲学家成功地把这三种推广考虑在内。在少数做到的人当中，我现在要讨论恩斯特·卡西尔关于物理学发展的观点。我将尝试论证，他的说明使玻尔的立场更强。我不会论证卡西尔的说明恰恰是玻尔所需要的支持，也不主张比起普朗克等人，卡西尔更接近玻尔。卡西尔事实上非常接近普朗克。",
+        {
+          "type": "note",
+          "id": "ch17-n21",
+          "label": "21"
+        },
+        " 我只是声称，卡西尔与玻尔的联合立场比玻尔或任何其他人单独的立场更强。"
+      ],
+      "units": 103
+    },
+    {
+      "id": "ch17-u045",
+      "source_ids": [
+        "ch17-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Cassirer describes the development of any branch of physics by mentioning three phases characterized by a certain kind of crucial statement. The first phase is characterized by statements of the results of measurement (Massaussagen). Cassirer describes this phase as a transformation from an everyday mode of understanding to a systematic-theoretical outlook. An example would be the successive introduction of new concepts for the description of experimental results by Coulomb, Ampere, Faraday, and others before the formulation of a theoretical system of laws; before, say, Maxwell. To use Planck’s expressions, this transition from an ordinary “World of Sense” to a theoretically posited “Real World” has one important implication: the concepts introduced in the description of phenomena have a determinate function in relation to the kinds of judgment associated with theoretical thought. So this is an entirely Kantian view about the unity of Thought and Judgment and about the transition from “judgments of perception” to “judgments of experience”.",
+        {
+          "type": "note",
+          "id": "ch17-n22",
+          "label": "22"
+        },
+        " In our context, the important thing is that Cassirer presents Heisenberg’s IR as a late crucial example of how to introduce concepts in physical thought with the aim of stating the results of measurement in a new fashion. The special thing about IR, according to Cassirer, is that the mathematical relation between continuity and discrete elements is altered by comparison to older physical thought.",
+        {
+          "type": "note",
+          "id": "ch17-n23",
+          "label": "23"
+        },
+        " In the kind of experiments where we utilize IR we do not aim at tracing dynamically interacting material particulars in space and time. We try to grasp a complete, individual, phenomenon. Such a phenomenon is “continuous” with other phenomena we might observe. The “jumps” from one phenomenon to the other are movements not in space and time but within the wholeness and unity of the kind of atomic physical system in question."
+      ],
+      "zh": [
+        "卡西尔通过提到三个阶段来描述任何物理学分支的发展，每个阶段都以某种关键陈述为特征。第一阶段以测量结果的陈述（Massaussagen）为特征。卡西尔把这个阶段描述为从日常的理解转向系统的理论视角。一个例子是库仑、安培、法拉第等人在理论定律系统表述之前——比如说在麦克斯韦之前——相继引入描述实验结果的新概念。用普朗克的表述来说，从通常的“感觉世界”向理论设定的“实在世界”的这一过渡有一个重要含意：用来描述现象的概念，在理论思维所涉及的各种判断中有明确的功能。因此这是关于思维与判断之统一、以及从“知觉判断”向“经验判断”过渡的一种完全康德式的观点。",
+        {
+          "type": "note",
+          "id": "ch17-n22",
+          "label": "22"
+        },
+        " 在我们的语境中，重要的是卡西尔把海森堡的不确定关系呈现为当时一个重要的新例子，说明如何在物理思维中引入概念，以便用新的方式陈述测量结果。按卡西尔的看法，不确定关系的特殊之处在于：与较早的物理思想相比，连续性与离散元素之间的数学关系被改变了。",
+        {
+          "type": "note",
+          "id": "ch17-n23",
+          "label": "23"
+        },
+        " 在我们利用不确定关系的那类实验中，我们的目标不是追踪时空中动力学相互作用的物质殊相。我们试图把握一个完整的、个别的现象。这样的现象与我们可能观察到的其他现象是“连续的”。从一个现象到另一个现象的“跳跃”不是时空中的运动，而是在所讨论的那类原子物理系统的整体性与统一性之内的运动。"
+      ],
+      "units": 292
+    },
+    {
+      "id": "ch17-u046",
+      "source_ids": [
+        "ch17-u046"
+      ],
+      "page": "313",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Before his account of Heisenberg’s IR, Cassirer has in his text carefully reminded his readers of some important parts of Kant’s epistemology: The notion of continuity in our observations is, Kantian wise, intimately connected with the issue of causality.",
+        {
+          "type": "note",
+          "id": "ch17-n24",
+          "label": "24"
+        },
+        " For that in a nutshell was the point of the Kantian Schemata. The idea was to make some sort of continuity a paradigm for the adequate causal representation of a range of physical items. In classical physics, the relevant kind of continuity is the intuitively represented movements of phenomena in space and time. In quantum physics, the kind of intuitiveness is different; but formally the two approaches have the same rational core: there is a specific formal account of the relation between continuity and causality in respect to individual features of given physical systems.",
+        {
+          "type": "note",
+          "id": "ch17-n25",
+          "label": "25"
+        },
+        " The difference is a difference in the mathematical formulation of the issue. We have gone from a Euclidean, intuitive method of representation, to a more abstract topology.",
+        {
+          "type": "note",
+          "id": "ch17-n26",
+          "label": "26"
+        }
+      ],
+      "zh": [
+        "在说明海森堡的不确定关系之前，卡西尔在文本中仔细提醒读者注意康德认识论的某些重要部分：按康德的方式，我们观察中的连续性概念与因果性问题密切相关。",
+        {
+          "type": "note",
+          "id": "ch17-n24",
+          "label": "24"
+        },
+        " 因为简言之，这就是康德图型的要点。其想法是让某种连续性成为对一系列物理对象作恰当因果表征的范式。在古典物理学中，相关的连续性种类是现象在时空中被直观地表象的运动。在量子物理学中，直观性的种类不同；但在形式上，两种进路有相同的合理内核：就给定物理系统的个别特征而言，对连续性与因果性之间的关系有一种特定的形式说明。",
+        {
+          "type": "note",
+          "id": "ch17-n25",
+          "label": "25"
+        },
+        " 差异在于这个问题的数学表述。我们已经从欧几里得式的直观表象方法走向了一种更抽象的拓扑学。",
+        {
+          "type": "note",
+          "id": "ch17-n26",
+          "label": "26"
+        }
+      ],
+      "units": 160
+    },
+    {
+      "id": "ch17-u047",
+      "source_ids": [
+        "ch17-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "According to Cassirer, this first phase of the development of a branch of physics is followed by a phase where the formulation of statements of Laws is crucial. Here the important thing is completeness, and not ontology. The formulation of natural laws is part of the task of circumscribing a specific domain of physical experience (DIMP 44). Again, what matters is the Kantian idea of a field of experience corresponding to a certain clarity concerning the applicability of a set of concepts; namely those that were associated with the already introduced statements of the results of measurement. What matters is the very exercise of being able to survey the range of relevant phenomena, and this requires a special kind of comprehension. We see that Cassirer here formulates what he takes to be a well taken Kantian insight, in a manner very close to how Bohr explained the viewpoint of complementarity in quantum physics."
+      ],
+      "zh": [
+        "按卡西尔的看法，物理学分支发展的第一阶段之后是一个以定律陈述的表述为关键的阶段。这里重要的是完备性，而不是本体论。自然定律的表述是圈定一个特定物理经验领域这项任务的一部分（DIMP 44）。再一次，重要的是康德式的观念：一个经验领域对应于关于一组概念之应用性的某种清楚性；这组概念就是与已经引入的测量结果陈述相关联的那些概念。重要的是能够纵览相关现象的整个范围，而这需要一种特殊的理解。我们看到，卡西尔在这里以非常接近玻尔解释量子物理学中互补性观点的方式，表述了他认为站得住脚的康德式洞见。"
+      ],
+      "units": 153
+    },
+    {
+      "id": "ch17-u048",
+      "source_ids": [
+        "ch17-u048"
+      ],
+      "page": "314",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The third phase in the development of a branch of science is the expression of principles, which for Cassirer means regulative principles for finding out, and expressing, new kinds of physical laws. Principles like the Principle of Least Action and the Principle of the Conservation of Energy are each to be recognized as “birthplaces from which new laws spring, again and again”.",
+        {
+          "type": "note",
+          "id": "ch17-n27",
+          "label": "27"
+        },
+        " Similarly the General Principle of Causality is a regulative principle for establishing new methods of measurement in the natural sciences.",
+        {
+          "type": "note",
+          "id": "ch17-n28",
+          "label": "28"
+        },
+        " I have elsewhere traced the various formulations of the Principle of Least Action in detail, from Maupertuis to Planck, and the connection of this basic principle of physics to all other principles and fundamental concepts.",
+        {
+          "type": "note",
+          "id": "ch17-n29",
+          "label": "29"
+        },
+        " So I will here turn straight to Cassirer’s main point about principles. For they are not only principles behind the formulation of new laws and methods, they are themselves developing, i.e. what it takes to formulate the principles adequately is changing. The Principle of Least Action, the Principle of the Conservation of Energy, the Principle of Causality, the Principle of Continuity, all have to be reformulated as time goes on. A telling example would be that according to Bohr, energy is not just energy, since we have to distinguish between bound and free energy. We already saw that it is an important part of the Como Lecture in which Bohr characterizes Heisenberg’s and Schroedinger’s different forms of quantum mechanics as invoking different generalizations of the concept of energy. It is at this point that we see how Cassirer’s account can lend support to Bohr’s."
+      ],
+      "zh": [
+        "科学分支发展的第三阶段是原理的表达，对卡西尔来说，这意味着用于发现并表达新型物理定律的调节性原理。像最小作用量原理和能量守恒原理这样的原理，每一个都应被认作“新定律不断由此产生的地方”。",
+        {
+          "type": "note",
+          "id": "ch17-n27",
+          "label": "27"
+        },
+        " 同样，因果性的一般原理是在自然科学中确立新测量方法的调节性原理。",
+        {
+          "type": "note",
+          "id": "ch17-n28",
+          "label": "28"
+        },
+        " 我曾在别处详细追溯从莫佩尔蒂到普朗克的最小作用量原理的各种表述，以及这一物理学基本原理与所有其他原理和基本概念的联系。",
+        {
+          "type": "note",
+          "id": "ch17-n29",
+          "label": "29"
+        },
+        " 所以这里我直接转向卡西尔关于原理的主要论点。因为原理不仅是新定律与新方法之表述背后的原理，它们本身也在发展，也就是说，恰当地表述原理所需要的东西在变化。最小作用量原理、能量守恒原理、因果性原理、连续性原理，都必须随着时间的推移重新表述。一个说明问题的例子是：按玻尔的看法，能量不只是能量，因为我们必须区分束缚态的能量与自由态的能量。我们已经看到，科莫演讲的一个重要部分就是玻尔把海森堡和薛定谔的不同形式的量子力学刻画为援引了能量概念的不同推广。正是在这一点上，我们看到卡西尔的说明如何能够支持玻尔的说明。"
+      ],
+      "units": 262
+    },
+    {
+      "id": "ch17-u049",
+      "source_ids": [
+        "ch17-u049"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is difficult to judge whether Bohr simply means that physics is better off after the advent of quantum physics because a lot of confusion that previously colored the enterprise has vanished, or whether he is prepared to say in what sense physics is better off. For whatever the merits of the physics of our time, it will always, according to Bohr, be in need of a correction, yet to come; a correction that will in principle be of the same fundamental kind as the correction of classical physics.",
+        {
+          "type": "note",
+          "id": "ch17-n30",
+          "label": "30"
+        },
+        " The critique will be as severe and all embracing. Could that be what the theory of super strings is already saying?"
+      ],
+      "zh": [
+        "很难判断玻尔究竟是说，量子物理学出现之后物理学境况更好了，因为先前影响这门学科的许多困惑已经消失，还是他准备说明物理学在何种意义上境况更好。因为无论我们时代的物理学有什么优点，按玻尔的看法，它总是需要一种尚待到来的修正；这种修正在原则上将与对古典物理学的修正属于同一种基本类型。",
+        {
+          "type": "note",
+          "id": "ch17-n30",
+          "label": "30"
+        },
+        " 批判将同样严厉而包罗一切。超弦理论已经在说的，会不会就是这个？"
+      ],
+      "units": 110
+    },
+    {
+      "id": "ch17-u050",
+      "source_ids": [
+        "ch17-u050"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "By contrast, Cassirer is able to point to a distinguished feature of the development of new laws and of new (expressions of) principles: it is as if the focal point of physics shifts, gradually, from material individuals to something more general. Here Cassirer is very precise: Every piece of physics aims at formulating a certain set of constant values. The development concerns what has such constant values. It was a first step forward when one formulated material constants like mass density and conductivity. A second step was when one formulated constants of Nature, as such, like the elementary charge and mass of the electron and the velocity of electromagnetic waves in vacuum. Today, we have taken the final step which deals with universal constants in an even more general sense. Cassirer here believes the group of natural constants has definite mathematical properties.",
+        {
+          "type": "note",
+          "id": "ch17-n31",
+          "label": "31"
+        }
+      ],
+      "zh": [
+        "相比之下，卡西尔能够指出提出新定律与重新表述原理的过程的一个显著特征：物理学的焦点似乎逐渐从物质个体转向某种更一般的东西。在这里卡西尔非常精确：每一门物理学都旨在确定一组恒定的量值。随学科发展而改变的，是哪些量被当作恒量。当人们表述质量密度和电导率这样的物质常量时，迈出了第一步。当人们表述自然本身的常量——如电子的基本电荷与质量、电磁波在真空中的速度——时，迈出了第二步。今天，我们迈出了最后一步，处理更一般意义上的普适常量。卡西尔在这里相信，自然常量群具有确定的数学性质。",
+        {
+          "type": "note",
+          "id": "ch17-n31",
+          "label": "31"
+        }
+      ],
+      "units": 142
+    },
+    {
+      "id": "ch17-u051",
+      "source_ids": [
+        "ch17-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "On the face of it, this view seems to differ radically from Bohr’s. Cassirer explicitly argues that modern physics is turning physical thought into a Neo-Platonic exercise, where our conceptual grasp of Nature converges with an absolutely given world of ideas or LOGOS. However as soon as we remind ourselves of another part of Cassirer’s philosophy, a close parallel to Bohr emerges: Cassirer is also a neo-Fichtean philosopher. The disclosure of a real and intelligible world is as such an unfolding of the subject of thought and action, the unfolding of a human “I” within the posited Real World. Cassirer’s neo-platonic view is not a view from nowhere about a converging insight into the absolute structure of being. His idea is not that the content of physical thought is converging towards absolute truth. Cassirer rather considers that the situation and the conditions in which modern physicists find themselves have become closely related to basic objective structures of Nature. Cassirer’s view is a view about freedom and possibility. The modern physicist is free to unfold her theoretical effort in a way that no scientist before her has been."
+      ],
+      "zh": [
+        "表面上看，这种观点似乎与玻尔的观点根本不同。卡西尔明确论证说，现代物理学正在把物理思维变成一种新柏拉图主义的探求，其中我们对自然的概念把握与一个绝对被给予的理念世界或逻各斯（LOGOS）相汇聚。然而，只要我们想起卡西尔哲学的另一部分，与玻尔的密切平行就浮现出来：卡西尔也是一位新费希特主义哲学家。一个实在的可理解世界的揭示，本身就是思维与行动之主体的展开，是人类的“我”在所设定的实在世界之内的展开。卡西尔的新柏拉图主义观点不是一种无所立足的观点，以为我们会不断接近对存在绝对结构的洞见。他的想法不是物理思维的内容正在向绝对真理汇聚。卡西尔毋宁认为，现代物理学家所处的情境与条件已经与自然的基本客观结构密切相关。卡西尔的观点是关于自由与可能性的观点。现代物理学家能够以任何先前的科学家都不曾有过的方式自由地展开她的理论努力。"
+      ],
+      "units": 187
+    },
+    {
+      "id": "ch17-u053",
+      "source_ids": [
+        "ch17-u053"
+      ],
+      "page": "315",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The possible lines of further research are not only more but “point in all directions”, i.e. the manifold of relevant phenomena have no explicit boundaries."
+      ],
+      "zh": [
+        "进一步研究的可能路线不仅更多，而且“指向一切方向”，也就是说，相关现象的杂多没有明确的边界。"
+      ],
+      "units": 26
+    },
+    {
+      "id": "ch17-u054",
+      "source_ids": [
+        "ch17-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "These are very big metaphysical issues characterizing post-Fichtean, especially Goethean, philosophical speculation; and neither Bohr nor Cassirer can be said to have dealt with them properly. However, I believe that the combination of Cassirer’s imposing version and Bohr’s more modest version of neo-Fichtean thoughts provide us with some of the cornerstones of a new adequate kind of Natural Philosophy where the rational epistemic progress and the unfolding of subjective features of Human Understanding are seen as two sides of the same coin."
+      ],
+      "zh": [
+        "这些是刻画后费希特主义、尤其是歌德式哲学思辨的非常大的形而上学问题；玻尔和卡西尔都不能说恰当地处理了它们。然而我相信，卡西尔的新费希特主义思想的宏大版本与玻尔的更为有限的版本的结合，为我们提供了一种新的、恰当的自然哲学的某些基石，在这种自然哲学中，合理的认识进步与人类知性之主观特征的展开被看作同一枚硬币的两面。"
+      ],
+      "units": 82
+    },
+    {
+      "id": "ch17-u052",
+      "source_ids": [
+        "ch17-u052"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "Bibliography"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch17-bibliography-001",
+      "source_ids": [
+        "ch17-ref003",
+        "ch17-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Bohr, 1928): “The Quantum Postulate and the Recent Development of Atomic Theory”, Atomic Theory and the Description of Nature, Cambridge University Press, Cambridge 1934"
+      ],
+      "zh": [
+        "(Bohr, 1928): “The Quantum Postulate and the Recent Development of Atomic Theory”, Atomic Theory and the Description of Nature, Cambridge University Press, Cambridge 1934"
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch17-bibliography-002",
+      "source_ids": [
+        "ch17-ref004",
+        "ch17-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Bohr, 1935): “Can Quantum-Mechanical description of Reality Be Considered Complete?”, Physical Review 48, 696–702"
+      ],
+      "zh": [
+        "(Bohr, 1935): “Can Quantum-Mechanical description of Reality Be Considered Complete?”, Physical Review 48, 696–702"
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch17-bibliography-003",
+      "source_ids": [
+        "ch17-ref005",
+        "ch17-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Bohr, 1936): “Analysis and Synthesis in Science”, International Encyclopedia of Unified Science I, no. 1, Chicago University Press, Chicago 1938, 28"
+      ],
+      "zh": [
+        "(Bohr, 1936): “Analysis and Synthesis in Science”, International Encyclopedia of Unified Science I, no. 1, Chicago University Press, Chicago 1938, 28"
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch17-bibliography-004",
+      "source_ids": [
+        "ch17-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Bohr, 1937): “Causality and Complementarity”, Philosophy of Science 4, 289–298"
+      ],
+      "zh": [
+        "(Bohr, 1937): “Causality and Complementarity”, Philosophy of Science 4, 289–298"
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch17-bibliography-005",
+      "source_ids": [
+        "ch17-ref006",
+        "ch17-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Bohr, 1938): “The Causality problem in Atomic Physics”, New Theories in Physics, International Institute of Intellectual Co-operation, Paris 1939, 11–45"
+      ],
+      "zh": [
+        "(Bohr, 1938): “The Causality problem in Atomic Physics”, New Theories in Physics, International Institute of Intellectual Co-operation, Paris 1939, 11–45"
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch17-bibliography-006",
+      "source_ids": [
+        "ch17-ref007",
+        "ch17-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Bohr, 1954): “The Unity of Knowledge”, Atomic Physics and Human Knowledge, Wiley, New York 1958"
+      ],
+      "zh": [
+        "(Bohr, 1954): “The Unity of Knowledge”, Atomic Physics and Human Knowledge, Wiley, New York 1958"
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch17-bibliography-007",
+      "source_ids": [
+        "ch17-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Bohr, 1986): Niels Bohr’s Collected Works, Vol. VI, North-Holland, Amsterdam 1986"
+      ],
+      "zh": [
+        "(Bohr, 1986): Niels Bohr’s Collected Works, Vol. VI, North-Holland, Amsterdam 1986"
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch17-bibliography-008",
+      "source_ids": [
+        "ch17-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Bohr, 1985): Naturbeskrivelse og menneskelig erkendelse, København, Rhodos 1985"
+      ],
+      "zh": [
+        "(Bohr, 1985): Naturbeskrivelse og menneskelig erkendelse, København, Rhodos 1985"
+      ],
+      "shared": true,
+      "units": 9
+    },
+    {
+      "id": "ch17-bibliography-009",
+      "source_ids": [
+        "ch17-ref008",
+        "ch17-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Brock, 2003): Niels Bohr’s Philosophy of Quantum Physics in the Light of the Helmholtzian Tradition of Theoretical Physics, Logos Verlag, Berlin 2003"
+      ],
+      "zh": [
+        "(Brock, 2003): Niels Bohr’s Philosophy of Quantum Physics in the Light of the Helmholtzian Tradition of Theoretical Physics, Logos Verlag, Berlin 2003"
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch17-bibliography-010",
+      "source_ids": [
+        "ch17-ref009",
+        "ch17-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Brock, 2005): “Einstein’s and Planck’s different adoption of the Helmholtzian Tradition of Theoretical Physics”, translated into Russian language, in the proceedings from the Annual Meeting of the Russian Academy of Science, December 2005, on Einstein, Relativity, and Philosophy."
+      ],
+      "zh": [
+        "(Brock, 2005): “Einstein’s and Planck’s different adoption of the Helmholtzian Tradition of Theoretical Physics”, translated into Russian language, in the proceedings from the Annual Meeting of the Russian Academy of Science, December 2005, on Einstein, Relativity, and Philosophy."
+      ],
+      "shared": true,
+      "units": 38
+    },
+    {
+      "id": "ch17-bibliography-011",
+      "source_ids": [
+        "ch17-ref010",
+        "ch17-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Cassirer, 1936): Ziele und Wege der Wirklichkeitserkenntnis, Felix Meiner, Hamburg, Germany 1998"
+      ],
+      "zh": [
+        "(Cassirer, 1936): Ziele und Wege der Wirklichkeitserkenntnis, Felix Meiner, Hamburg, Germany 1998"
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch17-bibliography-012",
+      "source_ids": [
+        "ch17-ref011",
+        "ch17-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(DIMP) Determinism and Indeterminism in Modern Physics, Yale University Press, New Haven, CT 1956"
+      ],
+      "zh": [
+        "(DIMP) Determinism and Indeterminism in Modern Physics, Yale University Press, New Haven, CT 1956"
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch17-bibliography-013",
+      "source_ids": [
+        "ch17-ref012",
+        "ch17-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Chevalley, 1994): “Niels Bohr’s Words and the Atlantis of Kantianism”, in Niels Bohr and Contemporary Philosophy (eds. Faye and Folse), Boston Studies in the Philosophy of Science 153, Dordrecht, The Netherlands 1994"
+      ],
+      "zh": [
+        "(Chevalley, 1994): “Niels Bohr’s Words and the Atlantis of Kantianism”, in Niels Bohr and Contemporary Philosophy (eds. Faye and Folse), Boston Studies in the Philosophy of Science 153, Dordrecht, The Netherlands 1994"
+      ],
+      "shared": true,
+      "units": 32
+    },
+    {
+      "id": "ch17-bibliography-014",
+      "source_ids": [
+        "ch17-ref013",
+        "ch17-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Chevalley, 1995): “Philosophy and the Birth of Quantum Theory”, Physics, Philosophy and the Scientific Community (ed. K. Gavrogly et al.), Klüwer, Dordrecht, The Netherlands 1995"
+      ],
+      "zh": [
+        "(Chevalley, 1995): “Philosophy and the Birth of Quantum Theory”, Physics, Philosophy and the Scientific Community (ed. K. Gavrogly et al.), Klüwer, Dordrecht, The Netherlands 1995"
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch17-bibliography-015",
+      "source_ids": [
+        "ch17-ref014",
+        "ch17-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Giere, 1988): Explaining Science. A Cognitive Approach, Chicago University Press, Chicago, IL 1988"
+      ],
+      "zh": [
+        "(Giere, 1988): Explaining Science. A Cognitive Approach, Chicago University Press, Chicago, IL 1988"
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch17-bibliography-016",
+      "source_ids": [
+        "ch17-ref015",
+        "ch17-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Harré, 1986): Varieties of Realism. A Rationale for the Natural Sciences, Blackwell, Oxford 1986"
+      ],
+      "zh": [
+        "(Harré, 1986): Varieties of Realism. A Rationale for the Natural Sciences, Blackwell, Oxford 1986"
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch17-bibliography-017",
+      "source_ids": [
+        "ch17-ref016",
+        "ch17-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Harré, 1990): “Exploring the Human Umwelt”, in Harré and His Critics (ed. R. Bhaskar), Blackwell, Oxford 1990"
+      ],
+      "zh": [
+        "(Harré, 1990): “Exploring the Human Umwelt”, in Harré and His Critics (ed. R. Bhaskar), Blackwell, Oxford 1990"
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch17-bibliography-018",
+      "source_ids": [
+        "ch17-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Harré, 1998): “Recovering the Experiment”, Philosophy 73, 1998, 353–377"
+      ],
+      "zh": [
+        "(Harré, 1998): “Recovering the Experiment”, Philosophy 73, 1998, 353–377"
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch17-bibliography-019",
+      "source_ids": [
+        "ch17-ref017",
+        "ch17-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Heisenberg, 1927): “Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik”, Zeitschrift für Physik 43, 172–198"
+      ],
+      "zh": [
+        "(Heisenberg, 1927): “Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik”, Zeitschrift für Physik 43, 172–198"
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch17-bibliography-020",
+      "source_ids": [
+        "ch17-ref020"
+      ],
+      "page": "316",
+      "canonical_kind": "reference",
+      "en": [
+        "(Heisenberg, 1930): The Physical Principles of the Quantum Theory, Dover, Chicago, IL 1930."
+      ],
+      "zh": [
+        "(Heisenberg, 1930): The Physical Principles of the Quantum Theory, Dover, Chicago, IL 1930."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch17-bibliography-021",
+      "source_ids": [
+        "ch17-ref020",
+        "ch17-ref021"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Honner, 1987): The Description of Nature. Niels Bohr and the Philosophy of Quantum Physics, Clarendon, Oxford 1987"
+      ],
+      "zh": [
+        "(Honner, 1987): The Description of Nature. Niels Bohr and the Philosophy of Quantum Physics, Clarendon, Oxford 1987"
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch17-bibliography-022",
+      "source_ids": [
+        "ch17-ref021",
+        "ch17-ref022"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Kant, Prol.): Prolegomenon zu einer jeden künftigen Metaphysik, Philip Reclam Junior, Berlin 1979"
+      ],
+      "zh": [
+        "(Kant, Prol.): Prolegomenon zu einer jeden künftigen Metaphysik, Philip Reclam Junior, Berlin 1979"
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch17-bibliography-023",
+      "source_ids": [
+        "ch17-ref022"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Kant, Kr. d. r. V): Kritik der reinen Vernunft, Felix Meiner, Hamburg, Germany 1990"
+      ],
+      "zh": [
+        "(Kant, Kr. d. r. V): Kritik der reinen Vernunft, Felix Meiner, Hamburg, Germany 1990"
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch17-bibliography-024",
+      "source_ids": [
+        "ch17-ref022",
+        "ch17-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Kant, MAN): Metaphysische Anfangsgründe der Naturwissenschaften, Werkausgabe IX, Suhrkamp, Frankfurt am Main 1991"
+      ],
+      "zh": [
+        "(Kant, MAN): Metaphysische Anfangsgründe der Naturwissenschaften, Werkausgabe IX, Suhrkamp, Frankfurt am Main 1991"
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch17-bibliography-025",
+      "source_ids": [
+        "ch17-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Toulmin, 1953): The Philosophy of Science: An Introduction. Hutchinson, London 1953"
+      ],
+      "zh": [
+        "(Toulmin, 1953): The Philosophy of Science: An Introduction. Hutchinson, London 1953"
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch17-bibliography-026",
+      "source_ids": [
+        "ch17-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(van Fraassen, 1980): The Scientific Image, Oxford University Press, Oxford 1980"
+      ],
+      "zh": [
+        "(van Fraassen, 1980): The Scientific Image, Oxford University Press, Oxford 1980"
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch17-bibliography-027",
+      "source_ids": [
+        "ch17-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "(Watson, 1938): On Understanding Physics, Cambridge University Press, Cambridge 1938"
+      ],
+      "zh": [
+        "(Watson, 1938): On Understanding Physics, Cambridge University Press, Cambridge 1938"
+      ],
+      "shared": true,
+      "units": 10
+    }
+  ],
+  "notes": {
+    "ch17-n01": {
+      "number": "1",
+      "en": [
+        "Brock (2003)."
+      ],
+      "zh": [
+        "Brock (2003)."
+      ]
+    },
+    "ch17-n02": {
+      "number": "2",
+      "en": [
+        "Heisenberg (1927)."
+      ],
+      "zh": [
+        "Heisenberg (1927)."
+      ]
+    },
+    "ch17-n03": {
+      "number": "3",
+      "en": [
+        "See the concluding section of Bohr (1928)."
+      ],
+      "zh": [
+        "参见 Bohr (1928) 的结尾一节。"
+      ]
+    },
+    "ch17-n04": {
+      "number": "4",
+      "en": [
+        "Watson (1938), Toulmin (1953), van Fraassen (1980), Giere (1988)."
+      ],
+      "zh": [
+        "Watson (1938), Toulmin (1953), van Fraassen (1980), Giere (1988)."
+      ]
+    },
+    "ch17-n05": {
+      "number": "5",
+      "en": [
+        "Harré (1986, 1990)."
+      ],
+      "zh": [
+        "Harré (1986, 1990)."
+      ]
+    },
+    "ch17-n06": {
+      "number": "6",
+      "en": [
+        "Kant Kr.d.r.V, Teil I, Analytik der Grundsätze, A145/B184."
+      ],
+      "zh": [
+        "Kant Kr.d.r.V, Teil I, Analytik der Grundsätze, A145/B184."
+      ]
+    },
+    "ch17-n07": {
+      "number": "7",
+      "en": [
+        "The logic of the structure of Heisenberg (1930) is the same as in Kant(MAN)."
+      ],
+      "zh": [
+        "Heisenberg (1930) 的结构逻辑与康德的 MAN（《自然科学的形而上学初始根据》）相同。"
+      ]
+    },
+    "ch17-n08": {
+      "number": "8",
+      "en": [
+        "More on this below."
+      ],
+      "zh": [
+        "下文详述。"
+      ]
+    },
+    "ch17-n09": {
+      "number": "9",
+      "en": [
+        "This is an important point in (Cassirer, DIMP, p. 122ff). See also what I call Bohr’s manifesto, below."
+      ],
+      "zh": [
+        "这是 (Cassirer, DIMP, p. 122ff) 中的一个重要论点。另见下文我所说的玻尔的“宣言”。"
+      ]
+    },
+    "ch17-n10": {
+      "number": "10",
+      "en": [
+        "Works VI, p. 75."
+      ],
+      "zh": [
+        "Works VI, p. 75."
+      ]
+    },
+    "ch17-n11": {
+      "number": "11",
+      "en": [
+        "Harré (1998), p. 353 ff."
+      ],
+      "zh": [
+        "Harré (1998), p. 353 ff."
+      ]
+    },
+    "ch17-n12": {
+      "number": "12",
+      "en": [
+        "Bohr, Works VI, p. 98, ATDN, p. 69."
+      ],
+      "zh": [
+        "Bohr, Works VI, p. 98, ATDN, p. 69."
+      ]
+    },
+    "ch17-n13": {
+      "number": "13",
+      "en": [
+        "In the sense of Harré (1990). This notion of “affordances” is in effect a variety of the notion of secondary properties interpreted in accordance with Gibson’s account of perception."
+      ],
+      "zh": [
+        "在 Harré (1990) 的意义上。这种“可供性”概念实际上是第二性的质这一概念的一个变种，按吉布森的知觉说明来解释。"
+      ]
+    },
+    "ch17-n14": {
+      "number": "14",
+      "en": [
+        "On the general relation between analysis of observations and synthesis of phenomena, see Bohr (1936)."
+      ],
+      "zh": [
+        "关于观察的分析与现象的综合之间的一般关系，参见 Bohr (1936)。"
+      ]
+    },
+    "ch17-n15": {
+      "number": "15",
+      "en": [
+        "See Brock (2003), p. 261 ff."
+      ],
+      "zh": [
+        "参见 Brock (2003), p. 261 ff。"
+      ]
+    },
+    "ch17-n16": {
+      "number": "16",
+      "en": [
+        "Bohr (1985), pp. 261–262."
+      ],
+      "zh": [
+        "Bohr (1985), pp. 261–262."
+      ]
+    },
+    "ch17-n17": {
+      "number": "17",
+      "en": [
+        "Brock (2003), p. 269."
+      ],
+      "zh": [
+        "Brock (2003), p. 269."
+      ]
+    },
+    "ch17-n18": {
+      "number": "18",
+      "en": [
+        "Brock (2003), p. 257; Honner (1987), p. 6, 197; Chevalley (1994, 1995)."
+      ],
+      "zh": [
+        "Brock (2003), p. 257; Honner (1987), p. 6, 197; Chevalley (1994, 1995)."
+      ]
+    },
+    "ch17-n19": {
+      "number": "19",
+      "en": [
+        "Conclusion of Bohr (1954)."
+      ],
+      "zh": [
+        "Bohr (1954) 的结尾部分。"
+      ]
+    },
+    "ch17-n20": {
+      "number": "20",
+      "en": [
+        "Brock (2003), p. 82 ff."
+      ],
+      "zh": [
+        "Brock (2003), p. 82 ff."
+      ]
+    },
+    "ch17-n21": {
+      "number": "21",
+      "en": [
+        "Incidentally, Einstein was also in line with Planck. See Brock (2005, 2003, p. 142ff)."
+      ],
+      "zh": [
+        "顺便说一句，爱因斯坦也与普朗克一致。参见 Brock (2005, 2003, p. 142ff)。"
+      ]
+    },
+    "ch17-n22": {
+      "number": "22",
+      "en": [
+        "Kant, Prol., § 1, p. 18."
+      ],
+      "zh": [
+        "Kant, Prol., § 1, p. 18."
+      ]
+    },
+    "ch17-n23": {
+      "number": "23",
+      "en": [
+        "Cassirer, DIMP, p. 181."
+      ],
+      "zh": [
+        "Cassirer, DIMP, p. 181."
+      ]
+    },
+    "ch17-n24": {
+      "number": "24",
+      "en": [
+        "Cassirer, DIMP, p. 155 ff."
+      ],
+      "zh": [
+        "Cassirer, DIMP, p. 155 ff."
+      ]
+    },
+    "ch17-n25": {
+      "number": "25",
+      "en": [
+        "Cassirer, DIMP, p. 162 ff."
+      ],
+      "zh": [
+        "Cassirer, DIMP, p. 162 ff."
+      ]
+    },
+    "ch17-n26": {
+      "number": "26",
+      "en": [
+        "Cassirer, DIMP, p. 187."
+      ],
+      "zh": [
+        "Cassirer, DIMP, p. 187."
+      ]
+    },
+    "ch17-n27": {
+      "number": "27",
+      "en": [
+        "Cassirer, DIMP, p. 53."
+      ],
+      "zh": [
+        "Cassirer, DIMP, p. 53."
+      ]
+    },
+    "ch17-n28": {
+      "number": "28",
+      "en": [
+        "Cassirer, DIMP, p. 60."
+      ],
+      "zh": [
+        "Cassirer, DIMP, p. 60."
+      ]
+    },
+    "ch17-n29": {
+      "number": "29",
+      "en": [
+        "Brock (2003), p. 74 ff."
+      ],
+      "zh": [
+        "Brock (2003), p. 74 ff."
+      ]
+    },
+    "ch17-n30": {
+      "number": "30",
+      "en": [
+        "Bohr (1954)."
+      ],
+      "zh": [
+        "Bohr (1954)."
+      ]
+    },
+    "ch17-n31": {
+      "number": "31",
+      "en": [
+        "Cassirer (1936), III, 2–3, pp. 106–134."
+      ],
+      "zh": [
+        "Cassirer (1936), III, 2–3, pp. 106–134."
+      ]
+    }
+  }
+}

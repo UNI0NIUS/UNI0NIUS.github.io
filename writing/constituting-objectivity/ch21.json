@@ -1,0 +1,2157 @@
+{
+  "id": "ch21",
+  "title": "客观知识的纠缠根源",
+  "originalTitle": "The Entangled Roots of Objective Knowledge",
+  "outline": [
+    {
+      "anchor": "ch21-u003",
+      "title": "1 量子纠缠与客观化的界限",
+      "originalTitle": "1 Quantum Entanglement and the Limits of Objectification",
+      "level": 1
+    },
+    {
+      "anchor": "ch21-u012",
+      "title": "2 被观察者解纠缠的对象",
+      "originalTitle": "2 Objects Disentangled by the Observer",
+      "level": 1
+    },
+    {
+      "anchor": "ch21-u031",
+      "title": "3 从纠缠中涌现的对象",
+      "originalTitle": "3 Objects Emerging from Entanglement",
+      "level": 1
+    },
+    {
+      "anchor": "ch21-u052",
+      "title": "4 与对象解纠缠的客观性",
+      "originalTitle": "4 Objectivity Disentangled from Objects",
+      "level": 1
+    },
+    {
+      "anchor": "ch21-u062",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch21-u001",
+      "source_ids": [
+        "ch21-u001"
+      ],
+      "page": "359",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch21-u002",
+      "source_ids": [
+        "ch21-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Stefano Osnaghi"
+      ],
+      "zh": [
+        "斯特凡诺·奥斯纳吉"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch21-u004",
+      "source_ids": [
+        "ch21-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract If no model based on locally interacting objects fits quantum phenomena, how can knowledge grounded in the quantum theory be objective ? According to a common view, the conditions which ensure the reproducibility of experiments and the predictability of results are fulfilled in the quantum world owing to the “appearance” of macroscopic objects through decoherence. Based on the analysis of some recent experiments on quantum entanglement, I will point out the circularity of this argument. More generally, I will suggest that the objective features of scientific knowledge do not need to reflect the structure of an “external world”, and that they can be understood as the outgrowth of a systematic endeavour to organize experience in a way which makes prediction possible."
+      ],
+      "zh": [
+        "摘要 如果没有任何以物体间的局域相互作用为基础的模型能够符合量子现象，那么奠基于量子理论的知识如何可能是客观的？按照一种常见观点，确保实验可重复性和结果可预言性的条件，在量子世界中是借助宏观对象经由退相干的“显现”而得到满足的。基于对近来一些量子纠缠实验的分析，我将指出这一论证的循环性。更一般地，我将提出：科学知识的客观特征不必反映某个“外部世界”的结构，它们可以被理解为为使预测成为可能而系统地组织经验的产物。"
+      ],
+      "units": 121
+    },
+    {
+      "id": "ch21-u003",
+      "source_ids": [
+        "ch21-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Quantum Entanglement and the Limits of Objectification"
+      ],
+      "zh": [
+        "1 量子纠缠与客观化的界限"
+      ],
+      "type": "subheading",
+      "units": 8
+    },
+    {
+      "id": "ch21-u005",
+      "source_ids": [
+        "ch21-u005"
+      ],
+      "page": "360",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let us consider a typical microscopic system, a so-called Rydberg atom. In several respects, Rydberg atoms are aptly described by a semi-classical picture (a compact core and an external electron which rotates on a circular orbit corresponding to either the ground or the excited energy level). However, when we make two Rydberg atoms interact in suitable conditions,",
+        {
+          "type": "note",
+          "id": "ch21-n01",
+          "label": "1"
+        },
+        " they become entangled (Schrödinger, 1935a). Two entangled atoms display a special kind of correlation, called “EPR” (Einstein et al., 1935), which cannot be explained by any local realistic model, i.e. any model in which the results of measurement reveal the individual properties of two objects and in which these properties change only through local interactions (Bell, 1964; Shimony, 2005).",
+        {
+          "type": "note",
+          "id": "ch21-n02",
+          "label": "2"
+        }
+      ],
+      "zh": [
+        "让我们考虑一个典型的微观系统，即所谓的里德伯原子。在若干方面，里德伯原子适合用半经典图像来描述（一个紧致的原子实和一个沿圆形轨道运动的外围电子，轨道对应于基态或激发能级）。然而，当我们让两个里德伯原子在适当条件下相互作用时，",
+        {
+          "type": "note",
+          "id": "ch21-n01",
+          "label": "1"
+        },
+        " 它们就会纠缠起来（Schrödinger, 1935a）。两个纠缠原子表现出一种特殊的关联，称为“EPR”（Einstein et al., 1935），它不能由任何局域实在论模型解释，即不能由任何这样的模型解释：其中测量结果揭示两个对象的个体性质，且这些性质只通过局域相互作用而改变（Bell, 1964; Shimony, 2005）。",
+        {
+          "type": "note",
+          "id": "ch21-n02",
+          "label": "2"
+        }
+      ],
+      "units": 117
+    },
+    {
+      "id": "ch21-u006",
+      "source_ids": [
+        "ch21-u006"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "S. Osnaghi Universidade Federal da Bahia, UFBa – Instituto de Física, Campus Universitario de Ondina, Salvador – BA 40210-340 Brazil stefano.osnaghi@free.fr"
+      ],
+      "zh": [
+        "S. Osnaghi Universidade Federal da Bahia, UFBa – Instituto de Física, Campus Universitario de Ondina, Salvador – BA 40210-340 Brazil stefano.osnaghi@free.fr"
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch21-u008",
+      "source_ids": [
+        "ch21-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If this fact appears puzzling, it is not only because it deceives the naïve expectation that the phenomena can be explained based on a natural ontology of objects and properties, but also because it prevents the literal construal of the very linguistic expressions that we use to denote microscopic phenomena. More generally, the possibility of acquiring knowledge based on observation seems to require an intentional correlate (objects) for our cognitive acts and experimental manipulations. But given the empirical consequences of entanglement, it is not clear how a coherent account of microscopic phenomena in terms of the contextual behaviour (if not the “real properties”) of some objects can be provided.",
+        {
+          "type": "note",
+          "id": "ch21-n03",
+          "label": "3"
+        }
+      ],
+      "zh": [
+        "如果这个事实显得令人困惑，那不仅因为它辜负了那种朴素期望——现象可以基于对象与性质的自然本体论来解释——而且因为它妨碍了对我们用来指称微观现象的那些语言表达式的字面理解。更一般地，获得基于观察的知识的可能性，似乎要求我们的认知行为和实验操作有一个意向关联项（对象）。但给定纠缠的经验后果，我们不清楚如何能够用某些对象的语境性行为（如果不是“实在性质”的话）来提供对微观现象的融贯说明。",
+        {
+          "type": "note",
+          "id": "ch21-n03",
+          "label": "3"
+        }
+      ],
+      "units": 109
+    },
+    {
+      "id": "ch21-u009",
+      "source_ids": [
+        "ch21-u009"
+      ],
+      "page": "361",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In addition to these difficulties, one must also consider those brought about by situations such as that described by Schrödinger in his famous cat example (Schrödinger, 1935b). According to quantum mechanics, in such situations, it should be possible to observe EPR correlations in measurements involving macroscopic systems. The virtual existence of such correlations gives rise to a latent contradiction between quantum theory and the rules that we use to anticipate ordinary experience, since such rules are modelled upon the dispositional properties of objects. A related problem arises when we consider the results of a measurement. Indeed, in order for experimental activity to be possible at all, the results of measurements must be “objective”, which means for example that different observers must agree on the occurrence of a given result. These features are habitually explained by assuming that the results reflect the properties of some object, which exists independently of any observation. But such an explanation is at odds with the quantum mechanical account of the observation process, which predicts that the observed system S and the measurement apparatus M end up in an entangled state. Von Neumann’s postulate of projection (1955, chapter 5), stating that the entangled state S+M is “reduced” abruptly by the act of observation, is a way of getting rid of this paradox. However, because of the ad hoc nature of the postulate, this solution is widely considered to be unsatisfactory. To explain the “reduction”, some scholars have therefore conjectured that the state of a system under observation can be affected by the mind of the observer (Wigner, 1961).",
+        {
+          "type": "note",
+          "id": "ch21-n04",
+          "label": "4"
+        },
+        " Others have argued that it is possible to do away with the postulate of projection by taking into account the effects of decoherence within a theoretical framework which gives information a central role (see e.g. Zurek, 2004)."
+      ],
+      "zh": [
+        "除了这些困难，还必须考虑薛定谔在其著名的猫的例子中描述的那类情形所带来的困难（Schrödinger, 1935b）。按照量子力学，在这类情形中，应当有可能在涉及宏观系统的测量中观察到 EPR 关联。这类关联的潜在存在，在量子理论与我们用来预期日常经验的规则之间引起了潜在的矛盾，因为这些规则是以对象的倾向性质为模型的。当我们考虑测量结果时，一个相关的问题出现了。的确，为了使实验活动根本成为可能，测量结果必须是“客观的”，这意味着例如不同观察者必须就某个给定结果的出现达成一致。这些特征通常被这样解释：假定结果反映了某个独立于任何观察而存在的对象的性质。但这种解释与量子力学对观察过程的说明相冲突，后者预言被观察系统 S 与测量仪器 M 最终处于纠缠态。冯·诺伊曼的投影公设（1955, 第 5 章）断言纠缠态 S+M 被观察行为突然“约化”，这是摆脱这个悖论的一种方式。然而，由于该公设的特设性质，这个解决方案被广泛认为不令人满意。因此，为了解释“约化”，一些学者猜想被观察系统的态可能受观察者心灵的影响（Wigner, 1961）。",
+        {
+          "type": "note",
+          "id": "ch21-n04",
+          "label": "4"
+        },
+        " 另一些人论证说，在一个赋予信息以核心地位的理论框架内考虑退相干的效应，就有可能抛弃投影公设（参见例如 Zurek, 2004）。"
+      ],
+      "units": 301
+    },
+    {
+      "id": "ch21-u010",
+      "source_ids": [
+        "ch21-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I believe that the notion of information can indeed be useful in understanding the implications of entanglement. But it is essential to state clearly what information is about (Bell, 1990). Niels Bohr’s “instrumentalist” answer to this question was that the information provided by quantum states is about the results “obtainable under experimental conditions described in classical terms” (Bohr, 1948, p. 314). It is generally accepted that, owing to its lack of ontological commitment, this view avoids the paradoxes related to quantum entanglement. Yet it is not clear how such a view can also account for the objective features of physical experience. The instrumentalist view seems incapable of shedding any light on the fact that there is an intersubjective agreement on measurement outcomes, and that these are reproducible and predictable. Likewise, the effectiveness of the notion of object in ordinary experience and in the construction of physical models remains unexplained. Instrumentalists have sometimes replied to these objections by simply rejecting the request for explanation. Here, however, I will argue that instrumentalism can in fact provide a rational and consistent framework in which the objective features of physical knowledge can be understood. But in order to do this, the hypothesis that physics addresses (and theories describe) a pre-structured reality must be abandoned, and a constructivist point of view should be endorsed."
+      ],
+      "zh": [
+        "我相信信息概念确实有助于理解纠缠的含意。但至关重要的是要明确信息是关于什么的（Bell, 1990）。尼尔斯·玻尔对这个问题的“工具主义”回答是：量子态提供的信息是关于“在以经典术语描述的实验条件下可获得的结果”的（Bohr, 1948, p. 314）。人们普遍接受，由于缺乏本体论承诺，这种观点避免了与量子纠缠相关的悖论。然而不清楚的是，这种观点如何也能说明物理经验的客观特征。工具主义观点似乎无法对以下事实提供任何启示：测量结果能得到不同主体的一致认可，而且可以复现和预测。同样，对象概念在日常经验和物理模型建构中的有效性也仍然未得到解释。工具主义者有时干脆拒绝解释的要求来回应这些反驳。但在这里，我将论证工具主义实际上能够提供一个合理而一致的框架，在其中物理知识的客观特征可以得到理解。但要做到这一点，必须放弃物理学处理（且理论描述）一个预先结构化实在的假设，并采取一种建构主义的观点。"
+      ],
+      "units": 219
+    },
+    {
+      "id": "ch21-u011",
+      "source_ids": [
+        "ch21-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I will discuss these ideas in the light of some recent experiments of cavity-QED. This is not because I believe that the results of these experiments",
+        {
+          "type": "note",
+          "id": "ch21-n05",
+          "label": "5"
+        },
+        " provide grounds for my claim. I find these experiments instructive for other reasons. By their very nature, the gedankenexperiments that usually illustrate the exotic implications of quantum entanglement are not framed within laboratory practice: measurement protocols are not given a precise operational meaning and the possible results are not expressed in terms of experimentally distinguishable alternatives. Within the representationalist view of theories, in which observables reflect properties, such an idealization is perfectly harmless: granted that certain classes of properties are instantiated in the real world (for example that a cat is either living or dead), there is no need to state how the corresponding observable can be measured in order to know that it is well defined. But if this view is precisely what is being questioned, the analysis of real experiments presents the advantage of compelling us to take the operational meaning of the symbolism into account while formulating any question."
+      ],
+      "zh": [
+        "我将结合近来一些腔量子电动力学（cavity-QED）实验来讨论这些想法。这并不是因为我相信这些实验的结果 ",
+        {
+          "type": "note",
+          "id": "ch21-n05",
+          "label": "5"
+        },
+        " 为我的主张提供了根据。我觉得这些实验有教益是出于别的理由。通常用来例示量子纠缠之奇异含意的那些思想实验（Gedankenexperimente），就其本性而言并不在实验室实践的框架内：测量协议没有被赋予精确的操作意义，可能的结果也没有用实验上可区分的选项来表达。在理论的表征主义观点中——其中可观测量反映性质——这种理想化完全无害：只要承认某类性质在实在世界中被实例化（例如猫要么活着要么死了），就无需陈述相应的可观测量如何能被测量，便能知道它是定义良好的。但如果这种观点恰恰是被质疑的东西，那么分析真实实验就有这样一个好处：它迫使我们在提出任何问题时都把符号体系的操作意义考虑在内。"
+      ],
+      "units": 178
+    },
+    {
+      "id": "ch21-u012",
+      "source_ids": [
+        "ch21-u012"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 Objects Disentangled by the Observer"
+      ],
+      "zh": [
+        "2 被观察者解纠缠的对象"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch21-u013",
+      "source_ids": [
+        "ch21-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let us consider a field C stored in a superconducting cavity (Raimond et al., 2001) and let N be the observable which corresponds to the photon number. Suppose that C is prepared in a superposition of two eigenstates of N:"
+      ],
+      "zh": [
+        "让我们考虑储存在超导腔中的场 C（Raimond et al., 2001），并设 N 为对应于光子数的可观测量。假设 C 被制备在 N 的两个本征态的叠加态中："
+      ],
+      "units": 40
+    },
+    {
+      "id": "ch21-u014",
+      "source_ids": [
+        "ch21-u014"
+      ],
+      "page": "362",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\frac{1}{\\sqrt 2}\\bigl(\\lvert0\\rangle+\\lvert1\\rangle\\bigr)\\tag{1}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\frac{1}{\\sqrt 2}\\bigl(\\lvert0\\rangle+\\lvert1\\rangle\\bigr)\\tag{1}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch21-u015",
+      "source_ids": [
+        "ch21-u015"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is well known that no statistical ensemble of zero-photon fields and one-photon fields can reproduce the predictions of Eq. (1) for a set of measurements which involve observables incompatible with N. Hence we are not allowed to assert that the cavity contains either one or zero photons. However, the propositions by which we express the result of a measurement of N are exactly of this sort. Indeed, measuring N means to answer the question as to how many photons the cavity contains. More precisely, it means to provide an objective answer to such a question, i.e. an answer on which different observers would agree and which can, for example, be confirmed by the immediate repetition of the measurement. This remark lies at the bottom of the common idea that, after the measurement of a given observable has been carried out, the state vector associated with a system must be an eigenstate of that observable. For example, in the case discussed above, after the measurement and depending on the result, the field is attributed either state ",
+        {
+          "type": "math",
+          "tex": "\\lvert1\\rangle",
+          "display": false
+        },
+        " or ",
+        {
+          "type": "math",
+          "tex": "\\lvert0\\rangle",
+          "display": false
+        },
+        ". This seems to imply that a process of “state reduction”, in which the superposition (Eq. 1) “collapses” into the eigenstate of N corresponding to the observed result, must take place during the observation.",
+        {
+          "type": "note",
+          "id": "ch21-n06",
+          "label": "6"
+        },
+        " This section is devoted to showing that, if one advocates an instrumentalist interpretation of formalism, the very notion of state reduction is superfluous. Postulating such a process only makes sense if one assumes a descriptive interpretation of the state vector. Then, however, one has to deal with the difficulties arising from the fact that state reduction is at odds with the dynamical equations of standard quantum mechanics."
+      ],
+      "zh": [
+        "众所周知，对于一组涉及与 N 不相容的可观测量的测量，零光子场与单光子场的任何统计系综都重现式（1）的预测。因此我们不允许断言腔中包含一个或零个光子。然而，我们用来表达 N 的测量结果的命题恰恰是这种形式的。的确，测量 N 意味着回答腔中包含多少个光子的问题。更精确地说，它意味着对这个问题提供一个客观的回答，即不同观察者会一致同意、并且例如可以通过立即重复测量来确证的回答。这个评论正是如下常见想法的根基：在对某个给定可观测量的测量完成之后，与系统相关联的态矢量必须是该可观测量的本征态。例如，在上面讨论的情形中，测量之后依结果而定，场被赋予态 ",
+        {
+          "type": "math",
+          "tex": "\\lvert1\\rangle",
+          "display": false
+        },
+        " 或 ",
+        {
+          "type": "math",
+          "tex": "\\lvert0\\rangle",
+          "display": false
+        },
+        "。这似乎意味着，在观察期间必须发生一个“态约化”过程，其中叠加态（式 1）“坍缩”到对应于观察结果的 N 的本征态。",
+        {
+          "type": "note",
+          "id": "ch21-n06",
+          "label": "6"
+        },
+        " 本节致力于表明：如果主张对形式体系的工具主义解释，态约化概念本身就是多余的。只有假定对态矢量的描述性解释，设定这样的过程才有意义。但那样一来，就必须应对态约化与标准量子力学的动力学方程相冲突所引起的困难。"
+      ],
+      "units": 282
+    },
+    {
+      "id": "ch21-u016",
+      "source_ids": [
+        "ch21-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In order to establish if state reduction is really demanded by the phenomena, one has to build a model of the measurement process, draw experimental predictions from that model, and finally compare such predictions with the results obtained in the corresponding experimental context. As an example we can analyse an experiment in which an atom “measures” non-destructively the number of photons of a field prepared in state (Eq. 1) (Raimond et al., 2001). The first step of the experiment involves the preparation of the field state. An “excited” atom A0 is sent through the empty cavity. The frequency of the electronic transition e → g is adjusted (using Stark effect) so as to be resonant with the cavity. This enables the atom decay and the corresponding emission of one photon. If the parameters are fixed in such a way that the decay rate is 1/2, the state of the compound system right after the A0–C interaction reads:"
+      ],
+      "zh": [
+        "为了确定态约化是否真的为现象所要求，必须建立测量过程的模型，从该模型导出实验预言，最后把这些预言与在相应实验语境中获得的结果相比较。作为例子，我们可以分析这样一个实验：利用一个原子，对制备成式（1）所示状态的场的光子数作非破坏性“测量”（Raimond et al., 2001）。实验的第一步涉及场态的制备。一个处于“激发态”的原子 ",
+        {
+          "type": "math",
+          "tex": "A_0",
+          "display": false
+        },
+        " 被送过空腔。电子跃迁 e → g 的频率被调节（利用斯塔克效应）以与腔共振。这使得原子可以衰变并相应地发射一个光子。如果参数被固定为使得衰变概率为 1/2，那么在 ",
+        {
+          "type": "math",
+          "tex": "A_0",
+          "display": false
+        },
+        " 与 ",
+        {
+          "type": "math",
+          "tex": "C",
+          "display": false
+        },
+        " 的 相互作用之后紧接着，复合系统的态为："
+      ],
+      "units": 158
+    },
+    {
+      "id": "ch21-u017",
+      "source_ids": [
+        "ch21-u017",
+        "ch21-u018",
+        "ch21-u019",
+        "ch21-u020",
+        "ch21-u021",
+        "ch21-u022",
+        "ch21-u023"
+      ],
+      "page": "363",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}&\\frac1{\\sqrt 2}\\bigl(\\lvert0\\rangle\\otimes\\lvert e\\rangle-i\\lvert1\\rangle\\otimes\\lvert g\\rangle\\bigr)\\\\&=\\frac1{\\sqrt 2}\\Bigl\\{\\frac1{\\sqrt 2}\\bigl(\\lvert0\\rangle-\\lvert1\\rangle\\bigr)\\otimes\\frac1{\\sqrt 2}\\bigl(\\lvert e\\rangle+i\\lvert g\\rangle\\bigr)\\\\&\\qquad\\quad+\\frac1{\\sqrt 2}\\bigl(\\lvert0\\rangle+\\lvert1\\rangle\\bigr)\\otimes\\frac1{\\sqrt 2}\\bigl(\\lvert e\\rangle-i\\lvert g\\rangle\\bigr)\\Bigr\\}\\end{aligned}\\tag{2}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}&\\frac1{\\sqrt 2}\\bigl(\\lvert0\\rangle\\otimes\\lvert e\\rangle-i\\lvert1\\rangle\\otimes\\lvert g\\rangle\\bigr)\\\\&=\\frac1{\\sqrt 2}\\Bigl\\{\\frac1{\\sqrt 2}\\bigl(\\lvert0\\rangle-\\lvert1\\rangle\\bigr)\\otimes\\frac1{\\sqrt 2}\\bigl(\\lvert e\\rangle+i\\lvert g\\rangle\\bigr)\\\\&\\qquad\\quad+\\frac1{\\sqrt 2}\\bigl(\\lvert0\\rangle+\\lvert1\\rangle\\bigr)\\otimes\\frac1{\\sqrt 2}\\bigl(\\lvert e\\rangle-i\\lvert g\\rangle\\bigr)\\Bigr\\}\\end{aligned}\\tag{2}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 73
+    },
+    {
+      "id": "ch21-u024",
+      "source_ids": [
+        "ch21-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The atom states ",
+        {
+          "type": "math",
+          "tex": "\\tfrac1{\\sqrt 2}(\\lvert e\\rangle+i\\lvert g\\rangle)",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "\\tfrac1{\\sqrt 2}(\\lvert e\\rangle-i\\lvert g\\rangle)",
+          "display": false
+        },
+        " are the eigenstates of an observable Q linked to the phase of the atomic dipole."
+      ],
+      "zh": [
+        "原子态 ",
+        {
+          "type": "math",
+          "tex": "\\tfrac1{\\sqrt 2}(\\lvert e\\rangle+i\\lvert g\\rangle)",
+          "display": false
+        },
+        " 与 ",
+        {
+          "type": "math",
+          "tex": "\\tfrac1{\\sqrt 2}(\\lvert e\\rangle-i\\lvert g\\rangle)",
+          "display": false
+        },
+        " 是与原子偶极相位相关联的可观测量 Q 的本征态。"
+      ],
+      "units": 38
+    },
+    {
+      "id": "ch21-u025",
+      "source_ids": [
+        "ch21-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let us call the corresponding eigenvalues “+” and “−”. “Preparing state (Eq. 1)” amounts to measuring Q and to disregarding the experimental sequences in which such a measurement has not yielded “–”."
+      ],
+      "zh": [
+        "让我们把相应的本征值称为“+”和“−”。“制备态（式 1）”就等于测量 Q，并舍弃那些该测量未给出“–”的实验序列。"
+      ],
+      "units": 29
+    },
+    {
+      "id": "ch21-u026",
+      "source_ids": [
+        "ch21-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Once state (Eq. 1) has been prepared, the photon number is measured by a Rydberg atom A1. The atom is first prepared in a superposition of ",
+        {
+          "type": "math",
+          "tex": "\\lvert e\\rangle",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "\\lvert g\\rangle",
+          "display": false
+        },
+        " and then sent through the cavity. This time, the frequency of the atomic transition g → e is tuned off-resonance, hence the atom can neither emit nor absorb a photon. Nevertheless, due to the strong coupling between the confined field and Rydberg atoms, the oscillation of the atomic dipole is affected by the intensity of the cavity field. Consequently, the phase of the atomic dipole, which can be measured by atom interferometry, carries the information about the number of photons “seen” by the atom.",
+        {
+          "type": "note",
+          "id": "ch21-n07",
+          "label": "7"
+        },
+        " We can now return to the question formulated above. Firstly, we note that the “measuring interaction” between the atom and the field results in an entangled state, as can be seen by testing the correlations existing between C and A1 after the interaction (which can be done by means of other atoms). Hence, no state reduction occurs within this model. Still no special problem arises when it comes to the objectivity of the results. This can be seen by sending a second atom A2 through the cavity in order to check the reproducibility of the result “found” by A1. In most situations this would not be possible, since the field’s energy is generally measured by absorption. In this experiment, however, the field state is probed without disturbance: even if atom A1 finds a photon, it does not absorb it. Thus the measurement can be repeated by a second atom A2, and it turns out that there is a perfect correlation between the number of photons found by atom A1 and that found by A2. Obviously, such correlations can be predicted by a model which does not involve state reduction. Moreover, for measurements involving observables incompatible with N, the entangled state A1 + C + A2 predicts correlations which cannot be derived from a “reduced” state and which are in fact observed (Nogues et al., 1999)."
+      ],
+      "zh": [
+        "一旦态（式 1）被制备好，光子数就由一个里德伯原子 A₁ 来测量。该原子首先被制备在 ",
+        {
+          "type": "math",
+          "tex": "\\lvert e\\rangle",
+          "display": false
+        },
+        " 与 ",
+        {
+          "type": "math",
+          "tex": "\\lvert g\\rangle",
+          "display": false
+        },
+        " 的叠加态中，然后被送过腔。这一次，原子跃迁 g → e 的频率被调离共振，因此原子既不能发射也不能吸收光子。然而，由于限于腔内的场与里德伯原子之间的强耦合，原子偶极的振荡受到腔场强度的影响。于是，可以通过原子干涉测量术测量的原子偶极相位，携带着关于原子“看到”的光子数的信息。",
+        {
+          "type": "note",
+          "id": "ch21-n07",
+          "label": "7"
+        },
+        " 现在我们可以回到上面提出的问题。首先我们注意到，原子与场之间的“测量相互作用”产生一个纠缠态，这可以通过检验相互作用后 C 与 A₁ 之间存在的关联来看出（这可以借助其他原子来完成）。因此，在这个模型中没有态约化发生。当涉及结果的客观性时，仍然没有出现特殊问题。这可以通过送第二个原子 A₂ 穿过腔、以检验 A₁“发现”的结果的可重复性来看出。在大多数情形中这是不可能的，因为场的能量通常通过吸收来测量。然而在这个实验中，场态被无扰动地探测：即使原子 A₁ 发现了一个光子，它也不吸收它。于是测量可以由第二个原子 A₂ 重复，而且结果表明原子 A₁ 发现的光子数与 A₂ 发现的光子数之间有完美的关联。显然，这样的关联可以由不涉及态约化的模型预言。此外，对于涉及与 N 不相容的可观测量的测量，纠缠态 A₁ + C + A₂ 预言了无法从“约化”态导出、而实际上被观察到的关联（Nogues et al., 1999）。"
+      ],
+      "units": 339
+    },
+    {
+      "id": "ch21-u027",
+      "source_ids": [
+        "ch21-u027"
+      ],
+      "page": "364",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Of course a real measuring chain is immensely more complicated than a couple of atoms. Indeed, in the above experiment, the final reading is obtained by ionising the atom, amplifying the signal electronically, etc. Furthermore, when we say that the atom recorded a given result, we actually mean that someone looked at the output of a complex apparatus, and inferred that the atom was in the atomic configuration corresponding to “having recorded” that result. From an instrumentalist point of view, however, these remarks are quite irrelevant. On the one hand, if we proceed “bit by bit”, any step of the observation chain (including a human observer) can in principle be included in a model of the measurement process, and will (by construction) obey the linear dynamical equations of quantum mechanics, resulting in an entangled state. On the other hand, no such model will provide anything else than predictions about the results which can be found by an observer placed in a well-defined experimental context. In other words, one cannot expect that “at some point” the model will exhibit a link with the “objective world” which would “explain” the occurrence of a particular result."
+      ],
+      "zh": [
+        "当然，真实的测量链比一对原子复杂无数倍。的确，在上述实验中，最终读数是通过使原子电离、以电子学方式放大信号等等获得的。此外，当我们说原子记录了某个给定结果时，我们实际上是指某人查看了一台复杂仪器的输出，并推断原子处于对应于“已记录”该结果的原子组态。然而从工具主义的观点看，这些评论相当无关紧要。一方面，如果我们逐环节建模，观察链的任何环节（包括人类观察者）原则上都可以被纳入测量过程的模型，并且将（按构造）服从量子力学的线性动力学方程，产生一个纠缠态。另一方面，这样的模型所提供的东西，不外乎关于置于定义明确的实验语境中的观察者所能发现的结果的预言。换言之，人们不能期望模型“在某个环节”展示出与“客观世界”的某种联系，来“解释”某个特殊结果的出现。"
+      ],
+      "units": 193
+    },
+    {
+      "id": "ch21-u028",
+      "source_ids": [
+        "ch21-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Although (as is apparent from the preceding account of the cavity-QED experiment) the use of the term state in laboratory jargon resembles that of a predicate in ordinary language, all that the state vector provides in the instrumentalist interpretation is the formal link between an experimental preparation and its possible outcomes. Since the state vector is defined in terms of both a given preparation and a given measurement, asking what the state vector of the system is before the preparation, or after the measurement, simply does not make sense. Therefore, it is pointless to speculate on a transition occurring during the preparation or the measurement. It is important to stress that such remarks in no way imply that the instrumentalist account of the phenomena is incomplete: one is free to consider an extended experimental context, but then the state vector assigned to the (compound) system under study will reflect the new experimental conditions, and will refer to a new preparation and a new measurement."
+      ],
+      "zh": [
+        "尽管（正如前面对腔 QED 实验的说明所显明的）实验室行话中“态”一词的用法类似于日常语言中谓词的用法，但在工具主义解释中，态矢量所提供的只是实验制备与其可能结果之间的形式联系。既然态矢量是借助给定制备和给定测量两者来定义的，那么问系统在制备之前或测量之后的态矢量是什么，就根本没有意义。因此，推想制备或测量期间发生了怎样的状态转变，因而无从着手。必须强调，这样的评论绝不意味着工具主义对现象的说明是不完备的：人们可以自由地考虑一个扩展的实验语境，但那时赋予所研究的（复合）系统的态矢量将反映新的实验条件，并将指涉新的制备和新的测量。"
+      ],
+      "units": 164
+    },
+    {
+      "id": "ch21-u029",
+      "source_ids": [
+        "ch21-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The foregoing argument shows that, if one is prepared to acknowledge that a system does not have a state vector independently of the manipulations that are being considered, then postulating pre-constituted objects (in order to ground the objectivity of the results) and a process of state reduction (in order to enable the correspondence between such putative objects and the symbolism) is altogether unnecessary. This simplification, however, comes at a cost, since the instrumentalist interpretation of the state vector seems to lead to an epistemological impasse. We can wonder for example on what grounds (if we accept that interpretation) we assign a state vector to a system prepared in a specific way, or why we trust the predictions of that state vector concerning future measurements. For many scientists, the only reasonable answer to such questions is to postulate that the measurement outcomes reflect a “real” state of affairs “which exists objectively and independently of any observation or measurement” (Einstein, 1953), and to regard the state vector of a system as a description of such a reality.",
+        {
+          "type": "note",
+          "id": "ch21-n08",
+          "label": "8"
+        },
+        " Under these hypotheses, it is perfectly reasonable to suppose that, during a measurement, the system’s state undergoes a transition from the linear superposition which describes it immediately before the observation to the eigenstate “found” in the measurement. Since such a transition cannot be described by the standard linear equations of motion, it may seem inevitable to conjecture that the reduction is brought about by some extra-physical agent, which introduces a “non-linearity” into the evolution of the state vector.",
+        {
+          "type": "note",
+          "id": "ch21-n09",
+          "label": "9"
+        },
+        " Along these lines, some scholars have suggested that the collapse of the observed system into a well-determined “objective” state should be related to the consciousness of the observer (Wigner, 1961)."
+      ],
+      "zh": [
+        "上述论证表明，如果人们愿意承认系统并不独立于所考虑的操作而拥有态矢量，那么（为了奠定结果的客观性而）设定预先构成的对象、以及（为了使这些设想的对象与符号体系之间的对应成为可能而）设定态约化过程，就完全是不必要的。然而这种简化是有代价的，因为对态矢量的工具主义解释似乎导致一个认识论僵局。例如我们可以追问：（如果接受那种解释）我们凭什么给以特定方式制备的系统赋予一个态矢量，或者为什么我们相信该态矢量关于未来测量的预言。对许多科学家来说，这类问题的唯一合理回答是设定测量结果反映某种“客观地、独立于任何观察或测量而存在的”“实在”事态（Einstein, 1953），并把系统的态矢量看作对这种实在的描述。",
+        {
+          "type": "note",
+          "id": "ch21-n08",
+          "label": "8"
+        },
+        " 在这些假设下，完全可以合理地假定：在测量期间，系统的态经历一个过渡，从紧接观察之前描述它的线性叠加态，过渡到测量中“发现”的本征态。由于这样的过渡无法由标准的线性运动方程描述，猜测态约化由某种物理过程之外的因素引起——它向态矢量的演化引入某种“非线性”——似乎是不可避免的。",
+        {
+          "type": "note",
+          "id": "ch21-n09",
+          "label": "9"
+        },
+        " 沿此思路，一些学者提出，被观察系统向某个充分确定的“客观”态的坍缩，应当与观察者的意识相关联（Wigner, 1961）。"
+      ],
+      "units": 283
+    },
+    {
+      "id": "ch21-u030",
+      "source_ids": [
+        "ch21-u030"
+      ],
+      "page": "365",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is important to emphasize that, even though in the instrumentalist approach there is an implicit reference to a “virtual” observer (better: to a specific context of observation), and this reference is regarded as a precondition for attributing a meaning to the theoretical symbols, there is still no room for any influence of the observer’s mind on the physical world. Conversely, in the descriptivist approach, for which the state of the system exists independently of any pragmatic framework, the meaning of the state vector does not depend on the operations implemented by a virtual observer (it is fixed by the “reality” which the state vector is supposed to mirror). What the descriptivist approach does require, however, is a conscious observer capable of “breaking” the entanglement between the observed system and all the systems that have previously interacted with it (like the atom A0 in the example above). The role attributed to mind within such an approach is not that of constituting (in a Kantian sense) the objects putatively underlying the measurement results. Rather, the observer’s mind is supposed to act upon the physical world so as to restore the straightforward correspondence between such objects and the symbols which are supposed to objectively describe them."
+      ],
+      "zh": [
+        "必须强调，尽管在工具主义进路中隐含地指涉一个“虚拟”观察者（更准确地说，是一个特定的观察语境），并且这种指涉被视为赋予理论符号以意义的前提条件，但仍然没有任何余地让观察者的心灵对物理世界施加影响。反过来，在描述主义进路中——系统的态独立于任何实用框架而存在——态矢量的意义不依赖于虚拟观察者实施的操作（它由态矢量据说要映现的“实在”固定）。然而描述主义进路确实要求的，是一个有意识的观察者，能够“打断”被观察系统与先前与之相互作用过的所有系统（如上面例子中的原子 A0）之间的纠缠。在这种进路中赋予心灵的角色，不是（在康德意义上）构成据说支撑测量结果的对象。毋宁说，观察者的心灵被设想为作用于物理世界，以恢复这些对象与据说客观地描述它们的符号之间的直接对应。"
+      ],
+      "units": 204
+    },
+    {
+      "id": "ch21-u031",
+      "source_ids": [
+        "ch21-u031"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Objects Emerging from Entanglement"
+      ],
+      "zh": [
+        "3 从纠缠中涌现的对象"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch21-u032",
+      "source_ids": [
+        "ch21-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Except for the proposals involving ad hoc modifications of the Schrödinger equation,",
+        {
+          "type": "note",
+          "id": "ch21-n10",
+          "label": "10"
+        },
+        " state reduction entails the splitting of quantum dynamics into two distinct laws of evolution. Usually, as we have seen, this splitting is in turn associated with a dualist ontology. In order to avoid dualism, one should exhibit a linear process capable of explaining how a predictive structure compatible with objectification can emerge when quantum theory is applied to the domain of ordinary “macroscopic” experience. It is generally believed that such an explanation can be provided based on decoherence (see e.g. Zurek, 2004), that is an effect which can be understood by taking into account the propagation of entanglement to all the systems surrounding the measuring agent, rather than postulating that the agent is responsible for the “reduction” of the overall entangled state."
+      ],
+      "zh": [
+        "除了涉及对薛定谔方程作特设修改的方案之外，",
+        {
+          "type": "note",
+          "id": "ch21-n10",
+          "label": "10"
+        },
+        " 态约化意味着把量子动力学拆分为两条不同的演化定律。如我们所见，这种拆分通常又与一种二元论本体论相关联。为了避免二元论，应当展示一个线性过程，能够解释当量子理论被应用于日常“宏观”经验领域时，一个与客观化相容的预言结构如何能够涌现。人们普遍相信，这样的解释可以基于退相干来提供（参见例如 Zurek, 2004）；退相干是这样一种效应：它可以通过考虑纠缠向围绕测量作用者的所有系统的传播来理解，而不是设定该作用者对整体纠缠态的“约化”负责。"
+      ],
+      "units": 135
+    },
+    {
+      "id": "ch21-u033",
+      "source_ids": [
+        "ch21-u033"
+      ],
+      "page": "366",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To illustrate this idea, we can consider another cavity-QED experiment in which the electromagnetic field generated by a microwave source and injected into a superconducting cavity plays the role of the “macroscopic system”. The high reflectivity of the cavity walls, together with a negligible thermal radiation (the cavity is cooled down to temperatures of less than 1 K), ensures a very good isolation of the field C from the environment E. The method of preparing a “macroscopic” superposition of field states exploits the dispersive interaction between the field and a Rydberg atom A0 prepared in superposition of ",
+        {
+          "type": "math",
+          "tex": "\\lvert e\\rangle",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "\\lvert g\\rangle",
+          "display": false
+        },
+        " (Raimond et al., 2001). The electronic configurations corresponding to ",
+        {
+          "type": "math",
+          "tex": "\\lvert e\\rangle",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "\\lvert g\\rangle",
+          "display": false
+        },
+        " behave like two distinct optical media. Therefore, when interacting dispersively with the atom, the quasi-monochromatic cavity field splits into two components which accumulate different phase delays with respect to the same wave propagating in vacuum. The corresponding state evolution is:"
+      ],
+      "zh": [
+        "为了例示这个想法，我们可以考虑另一个腔 QED 实验，其中由微波源产生并注入超导腔的电磁场扮演“宏观系统”的角色。腔壁的高反射率加上可忽略的热辐射（腔被冷却到低于 1 K 的温度），使场 C 与环境 E 得到很好的隔离。制备场态的“宏观”叠加的方法，利用场与制备在 ",
+        {
+          "type": "math",
+          "tex": "\\lvert e\\rangle",
+          "display": false
+        },
+        " 和 ",
+        {
+          "type": "math",
+          "tex": "\\lvert g\\rangle",
+          "display": false
+        },
+        " 叠加态中的里德伯原子 A0 之间的色散相互作用（Raimond et al., 2001）。对应于 ",
+        {
+          "type": "math",
+          "tex": "\\lvert e\\rangle",
+          "display": false
+        },
+        " 和 ",
+        {
+          "type": "math",
+          "tex": "\\lvert g\\rangle",
+          "display": false
+        },
+        " 的电子组态表现得像两种不同的光学介质。因此，当与原子发生色散相互作用时，准单色腔场分裂为两个分量，它们相对于在真空中传播的同一波积累不同的相位延迟。相应的态演化为："
+      ],
+      "units": 160
+    },
+    {
+      "id": "ch21-u034",
+      "source_ids": [
+        "ch21-u034",
+        "ch21-u035",
+        "ch21-u036",
+        "ch21-u037",
+        "ch21-u038",
+        "ch21-u039",
+        "ch21-u040",
+        "ch21-u046"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}&\\lvert\\alpha\\rangle\\otimes\\tfrac1{\\sqrt 2}(\\lvert g\\rangle+\\lvert e\\rangle)=\\tfrac1{\\sqrt 2}(\\lvert\\alpha\\rangle\\otimes\\lvert g\\rangle+\\lvert\\alpha\\rangle\\otimes\\lvert e\\rangle)\\\\&\\qquad\\to\\frac1{\\sqrt 2}\\bigl(\\lvert e^{-i\\varphi}\\alpha\\rangle\\otimes\\lvert g\\rangle+e^{i\\varphi}\\lvert e^{i\\varphi}\\alpha\\rangle\\otimes\\lvert e\\rangle\\bigr)\\end{aligned}\\tag{3}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}&\\lvert\\alpha\\rangle\\otimes\\tfrac1{\\sqrt 2}(\\lvert g\\rangle+\\lvert e\\rangle)=\\tfrac1{\\sqrt 2}(\\lvert\\alpha\\rangle\\otimes\\lvert g\\rangle+\\lvert\\alpha\\rangle\\otimes\\lvert e\\rangle)\\\\&\\qquad\\to\\frac1{\\sqrt 2}\\bigl(\\lvert e^{-i\\varphi}\\alpha\\rangle\\otimes\\lvert g\\rangle+e^{i\\varphi}\\lvert e^{i\\varphi}\\alpha\\rangle\\otimes\\lvert e\\rangle\\bigr)\\end{aligned}\\tag{3}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 66
+    },
+    {
+      "id": "ch21-u041",
+      "source_ids": [
+        "ch21-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "where ",
+        {
+          "type": "math",
+          "tex": "\\lvert\\alpha\\rangle",
+          "display": false
+        },
+        " (called a “coherent state”) represents a classical field whose phase and intensity are determined by the phase and modulus of the complex number α. The effect of the dispersive interaction upon the field phase is expressed by the factor ",
+        {
+          "type": "math",
+          "tex": "e^{\\pm i\\varphi}",
+          "display": false
+        },
+        ". We can see from Eq. (3) that, if the parameters are set so as to have ",
+        {
+          "type": "math",
+          "tex": "\\varphi=\\pi/2",
+          "display": false
+        },
+        ", the interaction produces an entangled state whose components represent classical fields which oscillate with opposite phases. Then, by measuring the observable Q of the atom (see Eq. 2), one can for example prepare the state:"
+      ],
+      "zh": [
+        "其中 ",
+        {
+          "type": "math",
+          "tex": "\\lvert\\alpha\\rangle",
+          "display": false
+        },
+        "（称为“相干态”）表示一个经典场，其相位和强度由复数 α 的相位和模决定。色散相互作用对场相位的影响由因子 ",
+        {
+          "type": "math",
+          "tex": "e^{\\pm i\\varphi}",
+          "display": false
+        },
+        " 表达。从式 (3) 可以看出，如果参数设置为使 ",
+        {
+          "type": "math",
+          "tex": "\\varphi=\\pi/2",
+          "display": false
+        },
+        "，相互作用就产生一个纠缠态，其分量表示以相反相位振荡的经典场。然后，通过测量原子的可观测量 Q（见式 2），例如可以制备态："
+      ],
+      "units": 101
+    },
+    {
+      "id": "ch21-u042",
+      "source_ids": [
+        "ch21-u042",
+        "ch21-u043"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\frac1{\\sqrt 2}\\bigl(\\lvert i\\alpha\\rangle+\\lvert-i\\alpha\\rangle\\bigr)\\tag{4}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\frac1{\\sqrt 2}\\bigl(\\lvert i\\alpha\\rangle+\\lvert-i\\alpha\\rangle\\bigr)\\tag{4}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch21-u044",
+      "source_ids": [
+        "ch21-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Similarly to state (Eq. 1) in the preceding section, state (Eq. 4) predicts results which are at odds with what can be expected for any statistical ensemble of classical fields. These results can be observed with the help of an atom A1. After state (Eq. 4) has been prepared at time t0, A1 enters the cavity at time t1, and interacts dispersively with the field so as to produce an entangled state. As in the experiment discussed in the previous section, the information carried by A1 can be manipulated in order to yield a complete reconstruction of the state of C at t1. Finally, by repeating the experiment and varying the delay between t1 and t0, one can observe how the interference pattern predicted by Eq. (4) is progressively washed out by decoherence."
+      ],
+      "zh": [
+        "与前一节的态（式 1）类似，态（式 4）预言的结果与对经典场的任何统计系综所能期望的结果相冲突。这些结果可以借助原子 A1 来观察。在时刻 t0 制备好态（式 4）之后，A1 在时刻 t1 进入腔，并与场发生色散相互作用，从而产生一个纠缠态。正如前一节讨论的实验一样，可以处理原子 A₁ 携带的信息，完整重建场 C 在 t₁ 时刻的态。最后，通过重复实验并改变 t1 与 t0 之间的延迟，可以观察式 (4) 预言的干涉图样如何逐渐被退相干抹去。"
+      ],
+      "units": 133
+    },
+    {
+      "id": "ch21-u045",
+      "source_ids": [
+        "ch21-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The effect of decoherence can be understood as follows. Notwithstanding the good isolation, dissipation is so effective that shortly after state (Eq. 4) has been prepared, C displays parasitic correlations with the environment E. Hence, when A1 measures an observable pertaining to C, the corresponding statistical distributions are no longer those which can be deduced from the state (Eq. 4), but rather those predicted by an entangled state C+E. Remarkably, the marginal distributions deduced from such an entangled state for measurements involving C alone do not display the interference pattern predicted by Eq. (4). Instead, these distributions are quasi-identical to those predicted by a statistical mixture of coherent states of C, i.e. to those expected for a statistical ensemble of classical fields in which each field has a well-determined phase and intensity. More generally, it can be shown that, regardless of how C is prepared, its state (i.e. the state that must be used to predict the results of measurements involving C alone) collapses into a statistical mixture of coherent states well before relaxing towards thermal equilibrium (which, in the case outlined here, essentially corresponds to the vacuum state)."
+      ],
+      "zh": [
+        "退相干的效应可以如下理解。尽管隔离良好，耗散仍然非常有效，以至于在态（式 4）制备后不久，场 C 与环境 E 就显出额外的关联。于是，当 A1 测量属于 C 的可观测量时，相应的统计分布不再是能从态（式 4）导出的那些，而是由纠缠态 C+E 预言的那些。值得注意的是，从这种纠缠态导出的、仅对场 C 测量时的边缘分布，并不显示式 (4) 预言的干涉图样。相反，这些分布与由 C 的相干态的统计混合预言的分布几乎相同，即与对每个场都有充分确定的相位和强度的经典场统计系综所期望的分布几乎相同。更一般地，可以表明，无论 C 如何制备，它的态（即必须用来预言仅涉及 C 的测量结果的那个态）早在场弛豫至热平衡之前，就已成为相干态的统计混合。就此处的实验而言，热平衡基本对应于真空态。"
+      ],
+      "units": 192
+    },
+    {
+      "id": "ch21-u047",
+      "source_ids": [
+        "ch21-u047"
+      ],
+      "page": "367",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A suggestive interpretation of this experiment is the following. Imagine that A1 plays a role analogous to the memory of an observer (an extraordinarily simplified memory, made up of a single qubit). Such a memory is obviously incapable of gathering and processing all the information disseminated in the environment. Rather, it has to rely on the information encoded in the marginal distributions derived from the entangled state C+E, which show no sign of the interference predicted by Eq. (4). Read in this way, the experiment provides a paradigmatic example of the idea according to which, should a superposition between state vectors representing different classical properties occur, its non-classical implications would cease to be observable almost instantaneously (for an ordinary observer). This simple idea suggests a possible explanation for the “emergence” of classical objects within a quantum universe. What appear to us as the properties of objects (starting with their localization in space) would really be clusters of stable correlations between our memories (rather: us, qua memories) and the complex systems surrounding us, once the selective action of the environment has been taken into account. Within such a framework, the very existence of microscopic observables which take “objective” values when measured would be explained by the fact that, in order to be observed, microscopic systems have to be coupled with macroscopic apparatus for which decoherence continuously selects a set of “preferred states” (corresponding to their putative properties) (Zurek, 2004).",
+        {
+          "type": "note",
+          "id": "ch21-n11",
+          "label": "11"
+        }
+      ],
+      "zh": [
+        "对这个实验的一个有启发性的解释如下。设想 A1 扮演类似于观察者记忆的角色（一个极端简化的记忆，由单个量子比特构成）。这样的记忆显然无法收集和处理散布在环境中的所有信息。毋宁说，它必须依赖从纠缠态 C+E 导出的边缘分布中编码的信息，而这些分布不显示式 (4) 预言的干涉的任何迹象。这样来读，这个实验提供了一个范例，例示了如下想法：如果出现表示不同经典性质的态矢量之间的叠加，其非经典含意将（对普通观察者而言）几乎立刻变得不可观测。这个简单想法为经典对象在量子宇宙中的“涌现”提供了一个可能的解释。向我们显现为对象性质的东西（首先是它们在空间中的定域），实际上是我们的记忆（更好是说：作为记忆的我们）与围绕我们的复杂系统之间的稳定关联簇，一旦把环境的选择性作用考虑在内的话。在这样的框架内，微观可观测量在被测量时取“客观”值这一事实本身，就可以由如下事实来解释：为了被观察，微观系统必须与宏观仪器耦合，而退相干为这些仪器持续选择一组“优选态”（对应于它们设想的性质）（Zurek, 2004）。",
+        {
+          "type": "note",
+          "id": "ch21-n11",
+          "label": "11"
+        }
+      ],
+      "units": 239
+    },
+    {
+      "id": "ch21-u048",
+      "source_ids": [
+        "ch21-u048"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The constitution of objectivity in ordinary experience is thus pictured as a natural process entirely described by quantum mechanics. Moreover, a naturalistic explanation of how “the sentient beings we know” have emerged, and why they have “the particular concepts they do for describing their world” (Vaidman, 2002), can be put forward: because they allow deterministic predictions and an effective organization of experience, the objective structures selected by decoherence can be regarded as representing an opportunity of survival for biological organisms which are able to exploit the information thus made available.",
+        {
+          "type": "note",
+          "id": "ch21-n12",
+          "label": "12"
+        }
+      ],
+      "zh": [
+        "于是，日常经验中客观性的构成被描绘为一个完全由量子力学描述的自然过程。此外，还可以提出一种自然主义的解释，说明“我们所知的有感知能力的存在者”如何涌现，以及为什么他们拥有“他们用来描述其世界的那些特定概念”（Vaidman, 2002）：因为退相干选出的客观结构使确定性的预测和有效组织经验成为可能，它们可以被看作对能够利用由此获得的信息的生物体的一种生存机会。",
+        {
+          "type": "note",
+          "id": "ch21-n12",
+          "label": "12"
+        }
+      ],
+      "units": 90
+    },
+    {
+      "id": "ch21-u049",
+      "source_ids": [
+        "ch21-u049"
+      ],
+      "page": "368",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This argument is not prima facie at odds with the Bohrian conception of formalism. However, a closer analysis shows that the search for a “naturalistic” solution of the measurement problem is in fact incompatible with the instrumentalist approach. In his well-known reflection on the role and status of “classical” concepts, Bohr pointed out that experimentation presupposes a conceptual framework with certain characteristics. These characteristics must ensure the unambiguous definition of the context in which measurements are carried out on the one hand, and the communicability of the results on the other. For Bohr, ordinary language and classical models met these characteristics, hence their irreducible role in microscopic physics.",
+        {
+          "type": "note",
+          "id": "ch21-n13",
+          "label": "13"
+        },
+        " It should be stressed that, in so far as quantum mechanics is understood as a contextual predictive algorithm (Bitbol, 1996), Bohr’s reflection on the role of classical concepts in no way questions the applicability of the theory to the macroscopic systems which represent the experimental context. Indeed, nothing prevents one from conceiving a physical model which would include, besides the degrees of freedom of a system S, also those of a system E representing some experimental context, and those of a system O representing an observer. However, the correlations between S and O that can be deduced from such a model will typically be understood as referring to the results of a series of possible observations made upon the compound system S+O+E.",
+        {
+          "type": "note",
+          "id": "ch21-n14",
+          "label": "14"
+        },
+        " The fact that such correlations are to some extent “isomorphic” to the results experienced by an observer when undertaking certain experiments is what allows us to call this “a model of observation”. However, the isomorphism “holds by construction”: it cannot serve to prove the consistency between ordinary experience and the quantum theory, nor does it provide a bridge between the “subjective” experiences of the observer and some “objective” reality. Rather, it connects two sorts of situations: those experienced by an observer who observes S and those experienced by an observer who observes S+O+E. The very definition of these experimental observations and of their possible outcomes rests on a network of acknowledged facts and operations whose structure and characteristics are presupposed by any model of observation (in the same way as Escher’s Drawing hands presupposes a drawing hand).",
+        {
+          "type": "note",
+          "id": "ch21-n15",
+          "label": "15"
+        }
+      ],
+      "zh": [
+        "这个论证乍看（prima facie）并不与玻尔对形式体系的构想相冲突。然而，更仔细的分析表明，寻求测量问题的“自然主义”解决方案实际上与工具主义进路不相容。在其关于“经典”概念的作用与地位的著名反思中，玻尔指出，实验活动预设了一个具有某些特征的概念框架。这些特征必须一方面确保进行测量的语境的无歧义定义，另一方面确保结果的可传达性。对玻尔来说，日常语言和经典模型满足这些要求，因此它们在微观物理学中具有不可还原的作用。",
+        {
+          "type": "note",
+          "id": "ch21-n13",
+          "label": "13"
+        },
+        " 必须强调，只要量子力学被理解为一个语境性的预言算法（Bitbol, 1996），玻尔关于经典概念之作用的反思就绝不质疑该理论对代表实验语境的宏观系统的可应用性。的确，没有什么阻止人们构想这样一个物理模型：除了系统 S 的自由度之外，还包括代表某个实验语境的系统 E 的自由度，以及代表观察者的系统 O 的自由度。然而，从这样的模型能导出的 S 与 O 之间的关联，通常将被理解为指涉对复合系统 S+O+E 所作的一系列可能观察的结果。",
+        {
+          "type": "note",
+          "id": "ch21-n14",
+          "label": "14"
+        },
+        " 这种关联在某种程度上与观察者在某些实验中所得到的结果“同构”，正是这一点使我们称之为“一个观察模型”。然而，这种同构“按构造成立”：它不能用来证明日常经验与量子理论之间的一致性，也不提供观察者“主观”经验与某种“客观”实在之间的桥梁。毋宁说，它连接两类情形：观察者对 S 进行实验时的情形，与另一观察者对 S+O+E 进行实验时的情形。这些实验观察及其可能结果的定义本身，依赖于一个由公认的事实和操作构成的网络，任何观察模型都预设这个网络的结构和特征（正如埃舍尔的《画手》（Drawing Hands）预设了一只正在画的手）。",
+        {
+          "type": "note",
+          "id": "ch21-n15",
+          "label": "15"
+        }
+      ],
+      "units": 371
+    },
+    {
+      "id": "ch21-u050",
+      "source_ids": [
+        "ch21-u050"
+      ],
+      "page": "369",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Nonetheless, the programmes aiming at a complete naturalisation of epistemology regard the possibility of providing a theoretical model of measurement, including the context and the observer, as a crucial issue of completeness. It is quite typical of such approaches to overlook the transcendental nature of Bohr’s argument and to understand it as a physical assumption that the “classical world is physically distinct from the microsystems described by quantum mechanics” (Rovelli, 1996). Along the same lines, the virtual observer presupposed by the instrumentalist conception of formalism is improperly thematised as an external observer, i.e. a physical system which interacts with the observed system and yet is arbitrarily placed out of the range of the theory (Wheeler, 1957).",
+        {
+          "type": "note",
+          "id": "ch21-n16",
+          "label": "16"
+        },
+        " Based on these premises, providing a quantum mechanical description of the “external observer” and of the “macroscopic world” is presented as a way of getting rid of the arbitrary splitting of the physical world allegedly implied by Bohr’s argument. However, what is really at stake in the attempts to “close the epistemological circle” via decoherence (Bacciagaluppi, 2005) is the possibility of providing an “objective description” of the universe in which any intrinsic dependence on the operations carried out by a virtual observer has been eliminated. The naturalised account of observation outlined above, in which the atom A1 played the role of the observer, is meant to provide an elementary example of how such a programme could work. What is essential in that example is the assumption that the state vector of the observer describes the properties of a memory capable of storing information. Also, the values recorded by the memory are supposed to reflect the “subjective experiences” of the observer."
+      ],
+      "zh": [
+        "尽管如此，那些旨在完全自然化认识论的纲领，把提供包括语境和观察者在内的测量的理论模型的可能性，视为完备性的关键问题。这类进路的典型做法是忽视玻尔论证的先验性质，把它理解为一条物理假设：“经典世界在物理上不同于量子力学所描述的微观系统”（Rovelli, 1996）。沿同样思路，形式体系的工具主义构想所预设的虚拟观察者，被不恰当地当作一个外部观察者，即一个与被观察系统相互作用、却被任意置于理论范围之外的物理系统（Wheeler, 1957）。",
+        {
+          "type": "note",
+          "id": "ch21-n16",
+          "label": "16"
+        },
+        " 基于这些前提，提供“外部观察者”和“宏观世界”的量子力学描述，被呈现为摆脱玻尔论证据说隐含的对物理世界的任意拆分的一种方式。然而，在经由退相干“闭合认识论圆圈”的尝试中（Bacciagaluppi, 2005），真正的问题是，能否对宇宙作出一种“客观描述”，其中任何对虚拟观察者所执行操作的内在依赖都已被消除。上面概述的自然化的观察说明——其中原子 A1 扮演观察者的角色——意在提供这样一个基本例子，说明这种纲领如何可能运作。那个例子中关键的东西是这样一条假设：观察者的态矢量描述一个能够存储信息的记忆的性质。而且，记忆记录的值被设想为反映观察者的“主观经验”。"
+      ],
+      "units": 277
+    },
+    {
+      "id": "ch21-u051",
+      "source_ids": [
+        "ch21-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If one assumes such a descriptive interpretation of the state vector (which is sharply at odds with Bohr’s), the stable correlations between observed systems and naturalised observers can possibly serve as an objective correlate of macroscopic experience, i.e. the ensemble of facts on which experimental practice relies. It should however be stressed that, in deducing the effects of decoherence at the beginning of this section, we relied on a Bohrian conception of formalism. In order to see those results as implying the “emergence of objects” within a framework in which the cognitive processes have been naturalised, one should be able to show that the memory records of naturalised observers are in agreement with the contextual predictions of the instrumentalist interpretation. This is the programme initiated by Hugh Everett (1957). Unlike the approaches involving state reduction, this programme aims at providing a strictly physical and unitary account of what exists. The descriptivist conception of theories that underlies the two proposals is nonetheless the same."
+      ],
+      "zh": [
+        "如果假定对态矢量的这种描述性解释（它与玻尔的解释尖锐冲突），被观察系统与自然化观察者之间的稳定关联就可能充当宏观经验的客观相关项，即实验实践所依赖的事实总体。然而必须强调，在本节开头推导退相干的效应时，我们依赖的是玻尔对形式体系的构想。为了把那些结果看作意味着在认知过程已被自然化的框架内“对象的涌现”，应当能够表明自然化观察者的记忆记录与工具主义解释的语境性预言相一致。这就是休·埃弗里特（Hugh Everett, 1957）发起的纲领。与涉及态约化的进路不同，这个纲领旨在对存在之物提供严格的物理说明，其中演化是幺正的。不过，支撑这两个方案的描述主义理论观是相同的。"
+      ],
+      "units": 164
+    },
+    {
+      "id": "ch21-u052",
+      "source_ids": [
+        "ch21-u052"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Objectivity Disentangled from Objects"
+      ],
+      "zh": [
+        "4 与对象解纠缠的客观性"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch21-u053",
+      "source_ids": [
+        "ch21-u053"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If the formulations of quantum mechanics involving state reduction are widely regarded as unsatisfactory, those based on Everett’s ideas encounter serious difficulties as well.",
+        {
+          "type": "note",
+          "id": "ch21-n17",
+          "label": "17"
+        },
+        " As for the instrumentalist approach, its capacity to dissolve the paradoxes associated with quantum entanglement depends on the fact that it is logically independent from the metaphysical assumptions that the observables of quantum theory reflect a pre-structured reality, and the results obtained when such observables are measured reflect some objective property. However, unless a theory of scientific knowledge containing no such assumptions is put forward, the instrumentalist approach cannot but appear as a provisional, partial and somewhat ad hoc solution (as it is generally considered to be indeed). In this section, I will sketch a few ideas that can be used to construct such an alternative epistemological framework."
+      ],
+      "zh": [
+        "如果说涉及态约化的量子力学表述被广泛认为不令人满意，那么基于埃弗里特想法的表述也遇到严重困难。",
+        {
+          "type": "note",
+          "id": "ch21-n17",
+          "label": "17"
+        },
+        " 至于工具主义进路，它消解与量子纠缠相关悖论的能力，取决于它在逻辑上独立于如下形而上学假设：量子理论的可观测量反映一个预先结构化的实在，且测量这些可观测量时获得的结果反映某种客观性质。然而，除非提出一个不包含这类假设的科学知识理论，工具主义进路就只能显得是一个临时的、局部的、有点特设的解决方案（事实上它通常正是被这样认为的）。在本节中，我将勾勒几个可用于构造这样一个替代性认识论框架的想法。"
+      ],
+      "units": 132
+    },
+    {
+      "id": "ch21-u054",
+      "source_ids": [
+        "ch21-u054"
+      ],
+      "page": "370",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To begin with, we note that denying that measurement protocols are determined by the purpose of detecting existing properties does not imply arguing that they spring from a free creative act of the researcher. New measurement protocols have to fit the existing conceptual and pragmatic frameworks, and to generalize them in a coherent way. To be sure, in order to structure experimental facts and operations, the physicist relies on the notions of “system” and “observable”, which are clearly a legacy of the ontological way of thinking. Yet, the existence of an isomorphism between physical systems and the objects of ordinary discourse, as well as between observables and properties, cannot be taken for granted."
+      ],
+      "zh": [
+        "首先我们注意到，否认测量协议由探测现存性质的目的所决定，并不意味着主张它们出自研究者的自由创造行为。新的测量协议必须适合现存的概念框架和实用框架，并以融贯的方式推广它们。诚然，为了组织实验事实和操作，物理学家依赖“系统”和“可观测量”概念，它们显然是本体论思维方式的遗产。然而，物理系统与日常所说的对象之间，可观测量与性质之间，是否存在同构关系，都还有待说明。"
+      ],
+      "units": 113
+    },
+    {
+      "id": "ch21-u055",
+      "source_ids": [
+        "ch21-u055"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "What then, according to this view, is the status of objects? Although, from an operational standpoint, it would be quite misleading to assert that the objects of ordinary discourse (including microscopic ones) are what scientific knowledge is about, their central role in scientific practice is fully acknowledged.",
+        {
+          "type": "note",
+          "id": "ch21-n18",
+          "label": "18"
+        },
+        " Indeed, objects effectively sum up a series of instructions, operations and expectations which are essential in both defining experiments (Bohr, 1948) and working out new models and measurement protocols (Pickering, 1984). Incidentally, we note that, since macroscopic and microscopic objects are on the same footing inasmuch as those pragmatic functions are concerned, the traditional (and problematic) empiricist’s distinction between “observable” and “unobservable” objects becomes irrelevant."
+      ],
+      "zh": [
+        "那么按照这种观点，对象的地位是什么？尽管从操作的立场看，断言日常话语的对象（包括微观对象）是科学知识所针对的事物会相当误导，但它们在科学实践中的核心作用得到充分承认。",
+        {
+          "type": "note",
+          "id": "ch21-n18",
+          "label": "18"
+        },
+        " 的确，对象有效地概括了一系列指令、操作和期望，它们对于定义实验（Bohr, 1948）以及制订新模型和测量协议（Pickering, 1984）都是不可或缺的。顺便我们注意到，既然就那些实用功能而言宏观对象与微观对象处于同等地位，经验论者传统的（且有问题的）“可观察”对象与“不可观察”对象之分就变得无关紧要了。"
+      ],
+      "units": 112
+    },
+    {
+      "id": "ch21-u056",
+      "source_ids": [
+        "ch21-u056"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the light of these considerations, the paradoxes mentioned in the introduction lose any physical import. Let us take the “collision between two atoms” for example. How can it be that, although we prepare two atoms, make them interact and finally measure their properties, we cannot anticipate the results thus obtained by means of any model involving the causal interaction between two individual objects? According to the instrumentalist view, the answer is that physics is committed to anticipating the correlations between acknowledged facts, and this can certainly be achieved regardless of whether the predictive algorithm fits the categories used to denote and coordinate those facts."
+      ],
+      "zh": [
+        "鉴于这些考虑，导论中提到的悖论不再构成物理上的问题。以“两个原子的碰撞”为例。怎么会这样：尽管我们制备两个原子、让它们相互作用并最终测量它们的性质，我们却无法用任何涉及两个个体对象之间因果相互作用的模型来预期由此获得的结果？按照工具主义观点，回答是：物理学致力于预期公认事实之间的关联，预测算法即使不采用我们用来指称和组织这些事实的范畴，也能做到这一点。"
+      ],
+      "units": 105
+    },
+    {
+      "id": "ch21-u057",
+      "source_ids": [
+        "ch21-u057"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Similarly, the fact that the behaviour of ordinary objects seem not to conform to quantum mechanics does not prevent one from treating macroscopic systems quantum-mechanically, nor does it threaten the “objectivity” of the facts occurring in the laboratory (typically, measurement outcomes). Paradoxes such as that of Schrödinger’s cat stem from the uncritical mixing of two “language games”, that of ordinary experience and that of physics. If both are expected to provide representations of the world, the latter (which is supposed to be more accurate) must be able to include the former (which is indisputably corroborated by experience). However, according to a pragmatic view, there is no reason to expect that the syntactic and semantic structures which have proved effective in ordinary life admit of a translation into physical terms. For one thing, ordinary language serves a number of purposes which go beyond those of physics and, for another thing, it does not have to face the same requirements for precision and coherence when predictive implications are at stake. If we are concerned with the physical implications of a sentence, it must necessarily be framed in a well-specified experimental context and enunciated in a way that can be operationally understood."
+      ],
+      "zh": [
+        "类似地，日常对象的行为似乎不符合量子力学这一事实，既不妨碍人们量子力学地处理宏观系统，也不会动摇实验室中所见事实的“客观性”，测量结果就是典型例子。薛定谔的猫之类的悖论，源于两种“语言游戏”——日常经验的语言游戏与物理学的语言游戏——的不加批判的混用。如果两者都被期望提供世界的表征，那么后者（据说更精确）必须能够包含前者（无可争辩地被经验确证）。然而按照一种实用主义观点，没有理由期望在日常生活中被证明有效的句法和语义结构允许翻译成物理术语。一方面，日常语言服务于超出物理学目的的许多目的；另一方面，当涉及预言含意时，它不必面对同样的精确性和融贯性要求。如果我们关心一个句子的物理含意，它就必须被置于明确规定的实验语境中，并以操作上可理解的方式陈述。"
+      ],
+      "units": 199
+    },
+    {
+      "id": "ch21-u058",
+      "source_ids": [
+        "ch21-u058"
+      ],
+      "page": "371",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let us consider for instance the typical claim that “we don’t observe cats in a superposition between life and death”, which may seem to threaten the universal validity of quantum theory (Leggett, 1987, p. 98; Zurek, 1991, p. 37).",
+        {
+          "type": "note",
+          "id": "ch21-n19",
+          "label": "19"
+        },
+        " If such a statement is formulated in operational terms, its paradoxical aspects disappear – at the cost, of course, of recognizing that it must be framed in well-defined physical contexts. This means that, firstly, one has to operationally define a quantum observable (i.e. a special kind of operator in a Hilbert space) whose eigenvalues l and d provide a satisfactory model of the infinite dispositional implications of the predicates “living” and “dead”. Then one must be able to control all the degrees of freedom involved in this definition, and to isolate those conventionally associated with the system C (representing the cat) from those associated with the system E (representing the environment), so as to avoid the effects of decoherence. Finally, one must explicitly state the procedure for preparing and testing C in a superposition of the eigenstates ",
+        {
+          "type": "math",
+          "tex": "\\lvert l\\rangle",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "\\lvert d\\rangle",
+          "display": false
+        },
+        ". If these preliminary operations are successfully completed, actually detecting a quantum interference pattern (itself defined in operational terms) will come as no surprise at all!",
+        {
+          "type": "note",
+          "id": "ch21-n20",
+          "label": "20"
+        }
+      ],
+      "zh": [
+        "例如让我们考虑这个典型断言：“我们观察不到处于生与死叠加态的猫”，它似乎威胁量子理论的普遍有效性（Leggett, 1987, p. 98; Zurek, 1991, p. 37）。",
+        {
+          "type": "note",
+          "id": "ch21-n19",
+          "label": "19"
+        },
+        " 如果这个陈述用操作术语来表述，其悖论性方面就消失了——当然，代价是承认它必须被置于定义明确的物理语境中。这意味着：首先，必须在操作上定义一个量子可观测量（即希尔伯特空间中的一种特殊算符），其本征值 l 和 d 为谓词“活的”和“死的”的无穷多的行为倾向提供令人满意的模型。然后必须能够控制这个定义中涉及的所有自由度，并把按约定与系统 C（代表猫）相关联的自由度同与系统 E（代表环境）相关联的自由度隔离开来，以避免退相干的效应。最后，必须明确陈述在 ",
+        {
+          "type": "math",
+          "tex": "\\lvert l\\rangle",
+          "display": false
+        },
+        " 与 ",
+        {
+          "type": "math",
+          "tex": "\\lvert d\\rangle",
+          "display": false
+        },
+        " 本征态的叠加中制备和检验 C 的程序。如果这些预备操作成功完成，实际探测到量子干涉图样（它本身也用操作术语定义）就根本不会令人惊讶！",
+        {
+          "type": "note",
+          "id": "ch21-n20",
+          "label": "20"
+        }
+      ],
+      "units": 208
+    },
+    {
+      "id": "ch21-u059",
+      "source_ids": [
+        "ch21-u059"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The experiment discussed in Section 3 provides a good example of how a superposition of “classical” states can be given an operational meaning. Of course, this is not achieved within the framework of a single experiment. Rather, it involves a complex constructive process by which the sequences of operations traditionally used to measure the putative properties of classical radiation are connected to the cavity QED protocols used to measure the quantum field observables.",
+        {
+          "type": "note",
+          "id": "ch21-n21",
+          "label": "21"
+        },
+        " This process presupposes a framework of facts and procedures whose definition and structure rely on the notion of “classical electromagnetic field”. And since (in the instrumentalist interpretation of formalism) the effects of decoherence measured by the experiment only acquire a meaning within such a framework, it is difficult to see in which sense they could provide an explanation of the emergence of the concept of classical electromagnetic field."
+      ],
+      "zh": [
+        "第 3 节讨论的实验提供了一个好例子，说明“经典”态的叠加如何能被赋予操作意义。当然，这不是在单个实验的框架内完成的。毋宁说，它涉及一个复杂的建构过程，借此，传统上用来测量经典辐射的设想性质的操作序列，与用来测量量子场可观测量的腔 QED 协议联系起来。",
+        {
+          "type": "note",
+          "id": "ch21-n21",
+          "label": "21"
+        },
+        " 这个过程预设了一个事实与程序的框架，其定义和结构依赖“经典电磁场”概念。而且既然（在对形式体系的工具主义解释中）实验测得的退相干效应只有在这个框架内才获得意义，就很难看出它们在什么意义上能够提供对经典电磁场概念之涌现的解释。"
+      ],
+      "units": 141
+    },
+    {
+      "id": "ch21-u060",
+      "source_ids": [
+        "ch21-u060"
+      ],
+      "page": "372",
+      "canonical_kind": "paragraph",
+      "en": [
+        "These considerations can straightforwardly be extended to the attempts to derive the objective features of measurement results from a formal account of the observation process. Since the state vector of a system S refers to the results one can expect from measurements performed on S, the assignment of a state vector to S presupposes that there are sets of facts which (within a well-established practice) can be consistently interpreted as the indication that such or such result occurred. “Consistently” means that, for example, one can expect there will be intersubjective agreement about the occurrence of one or the other result. It follows that the existence of facts which “objectively” indicate the occurrence of some result is presupposed by any physical model of the measurement process itself. Let us suppose for instance that M is the system that represents the apparatus (or the observer) which measures S. The observables of M will in this case be operationally defined so as to reproduce the “good” correlations between M and S, i.e. the correlations which enable the identification of M with a “measurement apparatus of S”. But once such a model has been constructed and given an operational meaning, all it can provide are predictions concerning the results of measurements carried out upon the compound system S+M. As we saw in the previous section, these predictions are unlikely to provide a better insight into the “foundations” of the theory than any other quantum model (actually, the opposite is true, since this particular model does not explore any border situation, and is entirely conceived so as to fit the existing factual framework)."
+      ],
+      "zh": [
+        "这些考虑可以直接推广到那些试图从对观察过程的形式说明推导测量结果之客观特征的尝试。既然系统 S 的态矢量指涉对 S 执行的测量所能期望的结果，给 S 赋予态矢量就预设了存在一些事实集合，它们（在确立的实践内）可以被一致地解释为某某结果出现的指示。“一致地”意味着例如人们可以期望对这一或那一结果的出现会有主体间的一致。由此可见，“客观地”指示某个结果出现的事实的存在，是测量过程本身的任何物理模型所预设的。例如设 M 为代表测量 S 的仪器（或观察者）的系统。M 的可观测量在这种情况下将在操作上被定义，以重现 M 与 S 之间恰当的关联，即那些使 M 能被认定为“S 的测量仪器”的关联。但一旦这样的模型被构造出来并被赋予操作意义，它所能提供的就只是关于对复合系统 S+M 执行的测量结果的预言。正如我们在前一节所见，这些预言不太可能比任何其他量子模型更好地洞察理论的“基础”（实际上恰恰相反，因为这个特殊模型不探索任何边界情形，而且完全是为适合现存事实框架而构想的）。"
+      ],
+      "units": 270
+    },
+    {
+      "id": "ch21-u061",
+      "source_ids": [
+        "ch21-u061"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The foregoing analysis suggests that the instrumentalist interpretation of the state vector can be fruitfully associated with an operationalist–constructivist account of scientific activity, according to which experimental facts and theoretical models (including the definition of observables) co-emerge through a dynamic process. Rather than being constrained by the purpose of providing a faithful representation of a pre-structured reality, such a process is driven by our need to establish stable correlations between facts, in order to efficiently anticipate the outcomes of our actions.",
+        {
+          "type": "note",
+          "id": "ch21-n22",
+          "label": "22"
+        },
+        " In this framework, quantum entanglement (like the other structural features of quantum mechanics) does not appear to reflect the structure of a putative reality underlying the phenomena, but rather the conditions of invariance which make the reproducibility and predictability of experimental operations possible. If these ideas proved correct, adequatio ad rem would no longer be required in order to have an effective coordination of experimental situations. The representationalist conception of knowledge that underlies both the formulation of the quantum paradoxes and their dualist or naturalistic solutions could be relinquished. And empirical adequacy would be understood as a consequence of the close link which exists between the structure of theoretical models and the conditions of possibility of an effective know-how."
+      ],
+      "zh": [
+        "上述分析提示，对态矢量的工具主义解释可以富有成效地与一种操作主义—建构主义的科学活动说明相结合，按照这种说明，实验事实与理论模型（包括可观测量的定义）通过一个动态过程共同涌现。这样的过程不受提供预先结构化实在的忠实表征这一目的的约束，而是由我们的需要驱动的：在事实之间建立稳定关联，以便有效预期我们行动的结果。",
+        {
+          "type": "note",
+          "id": "ch21-n22",
+          "label": "22"
+        },
+        " 在这个框架中，量子纠缠（像量子力学的其他结构特征一样）显得不是反映支撑现象的设想实在的结构，而是反映使实验操作的可重复性和可预言性成为可能的不变性条件。如果这些想法被证明正确，为了有效协调实验情境，就不再需要“与物相符”（adequatio ad rem）。支撑量子悖论的表述及其二元论或自然主义解决方案的表征主义知识观，就可以被放弃。而经验适当性将被理解为理论模型的结构与有效实践技能（know-how）的可能性条件之间存在的密切联系的一个后果。"
+      ],
+      "units": 201
+    },
+    {
+      "id": "ch21-u062",
+      "source_ids": [
+        "ch21-u062"
+      ],
+      "page": "373",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch21-bibliography-001",
+      "source_ids": [
+        "ch21-ref002",
+        "ch21-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bacciagaluppi, G. “The role of decoherence in quantum mechanics”. In: E. N. Zalta (ed.), The Stanford Encyclopedia of Philosophy, 2005. Available online: http://plato.stanford.edu/archives/sum2005/entries/qm-decoherence/."
+      ],
+      "zh": [
+        "Bacciagaluppi, G. “The role of decoherence in quantum mechanics”. In: E. N. Zalta (ed.), The Stanford Encyclopedia of Philosophy, 2005. Available online: http://plato.stanford.edu/archives/sum2005/entries/qm-decoherence/."
+      ],
+      "shared": true,
+      "units": 30
+    },
+    {
+      "id": "ch21-bibliography-002",
+      "source_ids": [
+        "ch21-ref003",
+        "ch21-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Barrett, J. The Quantum Mechanics of Minds and Worlds. Oxford, Oxford University Press, 1999."
+      ],
+      "zh": [
+        "Barrett, J. The Quantum Mechanics of Minds and Worlds. Oxford, Oxford University Press, 1999."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch21-bibliography-003",
+      "source_ids": [
+        "ch21-ref004",
+        "ch21-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bell, J. S. “On Einstein–Podolsky–Rosen paradox”. Physics, 1, 1964, 195–200. (Reprinted in: Wheeler, J. A. & Zurek, W. H. (eds.), Quantum Theory and Measurement. Princeton, NJ, Princeton University Press, 1983, pp. 403–408."
+      ],
+      "zh": [
+        "Bell, J. S. “On Einstein–Podolsky–Rosen paradox”. Physics, 1, 1964, 195–200. (Reprinted in: Wheeler, J. A. & Zurek, W. H. (eds.), Quantum Theory and Measurement. Princeton, NJ, Princeton University Press, 1983, pp. 403–408."
+      ],
+      "shared": true,
+      "units": 35
+    },
+    {
+      "id": "ch21-bibliography-004",
+      "source_ids": [
+        "ch21-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bell, J. S. “Against ‘measurement’ ”. Physics World, 8, 1990, 33–40."
+      ],
+      "zh": [
+        "Bell, J. S. “Against ‘measurement’ ”. Physics World, 8, 1990, 33–40."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch21-bibliography-005",
+      "source_ids": [
+        "ch21-ref005",
+        "ch21-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bertet, P., Osnaghi, S., Rauschenbeutel, A., Nogues, G., Auffeves, A., Brune, M., Raimond, J. M. & Haroche, S. “A complementarity experiment with an interferometer at the quantum-classical border”. Nature, 411, 2001, 166–170."
+      ],
+      "zh": [
+        "Bertet, P., Osnaghi, S., Rauschenbeutel, A., Nogues, G., Auffeves, A., Brune, M., Raimond, J. M. & Haroche, S. “A complementarity experiment with an interferometer at the quantum-classical border”. Nature, 411, 2001, 166–170."
+      ],
+      "shared": true,
+      "units": 32
+    },
+    {
+      "id": "ch21-bibliography-006",
+      "source_ids": [
+        "ch21-ref006",
+        "ch21-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bitbol, M. Mécanique quantique, une introduction philosophique. Paris, Champs Flammarion, 1996."
+      ],
+      "zh": [
+        "Bitbol, M. Mécanique quantique, une introduction philosophique. Paris, Champs Flammarion, 1996."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch21-bibliography-007",
+      "source_ids": [
+        "ch21-ref007",
+        "ch21-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bitbol, M. L’aveuglante proximité du réel, anti-réalisme & quasi-réalisme en physique. Paris, Flammarion, 1998a."
+      ],
+      "zh": [
+        "Bitbol, M. L’aveuglante proximité du réel, anti-réalisme & quasi-réalisme en physique. Paris, Flammarion, 1998a."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch21-bibliography-008",
+      "source_ids": [
+        "ch21-ref008",
+        "ch21-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bitbol, M. “Some steps towards a transcendental deduction of quantum mechanics”. Philosophia naturalis, 35, 1998b, 253–280."
+      ],
+      "zh": [
+        "Bitbol, M. “Some steps towards a transcendental deduction of quantum mechanics”. Philosophia naturalis, 35, 1998b, 253–280."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch21-bibliography-009",
+      "source_ids": [
+        "ch21-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bitbol, M. Physique et philosophie de l’esprit. Paris, Flammarion, 2000a."
+      ],
+      "zh": [
+        "Bitbol, M. Physique et philosophie de l’esprit. Paris, Flammarion, 2000a."
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch21-bibliography-010",
+      "source_ids": [
+        "ch21-ref009",
+        "ch21-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bitbol, M. “Arguments transcendantaux en physique moderne”. La querelle des arguments transcendantaux, Cahiers de philosophie de l’Université de Caen, 35, 2000b, 81–101."
+      ],
+      "zh": [
+        "Bitbol, M. “Arguments transcendantaux en physique moderne”. La querelle des arguments transcendantaux, Cahiers de philosophie de l’Université de Caen, 35, 2000b, 81–101."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch21-bibliography-011",
+      "source_ids": [
+        "ch21-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohm, D. Causality and Chance in Modern Physics. Londres, Routledge & Kegan Paul, 1957."
+      ],
+      "zh": [
+        "Bohm, D. Causality and Chance in Modern Physics. Londres, Routledge & Kegan Paul, 1957."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch21-bibliography-012",
+      "source_ids": [
+        "ch21-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. “On the notions of causality and complementarity”. Dialectica, 2, 1948, 312–319."
+      ],
+      "zh": [
+        "Bohr, N. “On the notions of causality and complementarity”. Dialectica, 2, 1948, 312–319."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch21-bibliography-013",
+      "source_ids": [
+        "ch21-ref010",
+        "ch21-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bouwmeester, D., Ekert, A. K. & Zeilinger, A. (eds.). The Physics of Quantum Information. Berlin, Springer, 2001."
+      ],
+      "zh": [
+        "Bouwmeester, D., Ekert, A. K. & Zeilinger, A. (eds.). The Physics of Quantum Information. Berlin, Springer, 2001."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch21-bibliography-014",
+      "source_ids": [
+        "ch21-ref011",
+        "ch21-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Einstein, A. “Remarques préliminaires sur les concepts fondamentaux”. In: André, G. (ed.), Louis de Broglie: Physicien et Penseur. Paris, Albin Michel, 1953, pp. 4–15."
+      ],
+      "zh": [
+        "Einstein, A. “Remarques préliminaires sur les concepts fondamentaux”. In: André, G. (ed.), Louis de Broglie: Physicien et Penseur. Paris, Albin Michel, 1953, pp. 4–15."
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch21-bibliography-015",
+      "source_ids": [
+        "ch21-ref012",
+        "ch21-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Einstein, A., Podolsky, B. & Rosen, N. “Can quantum mechanical description of physical reality be considered complete?”. Physical Review, 47, 1935, 777–780."
+      ],
+      "zh": [
+        "Einstein, A., Podolsky, B. & Rosen, N. “Can quantum mechanical description of physical reality be considered complete?”. Physical Review, 47, 1935, 777–780."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch21-bibliography-016",
+      "source_ids": [
+        "ch21-ref013",
+        "ch21-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Everett III, H. “Relative state formulation of quantum mechanics”. Reviews of Modern Physics, 29, 1957, 454–462. (Reprinted in: Wheeler, J. A. & Zurek, W. H. (eds.), Quantum Theory and Measurement. Princeton, NJ, Princeton University Press, 1983, pp. 315–323.)"
+      ],
+      "zh": [
+        "Everett III, H. “Relative state formulation of quantum mechanics”. Reviews of Modern Physics, 29, 1957, 454–462. (Reprinted in: Wheeler, J. A. & Zurek, W. H. (eds.), Quantum Theory and Measurement. Princeton, NJ, Princeton University Press, 1983, pp. 315–323.)"
+      ],
+      "shared": true,
+      "units": 39
+    },
+    {
+      "id": "ch21-bibliography-017",
+      "source_ids": [
+        "ch21-ref014",
+        "ch21-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Ghirardi, G. C., Rimini, A. & Weber, T. “Unified dynamics for microscopic and macroscopic systems”. Physical Review, D34, 1986, 470–491."
+      ],
+      "zh": [
+        "Ghirardi, G. C., Rimini, A. & Weber, T. “Unified dynamics for microscopic and macroscopic systems”. Physical Review, D34, 1986, 470–491."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch21-bibliography-018",
+      "source_ids": [
+        "ch21-ref015",
+        "ch21-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hughes, R. I. G. Quantum Mechanics, Its Structure and Interpretation. Cambridge, MA, Harvard University Press, 1989."
+      ],
+      "zh": [
+        "Hughes, R. I. G. Quantum Mechanics, Its Structure and Interpretation. Cambridge, MA, Harvard University Press, 1989."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch21-bibliography-019",
+      "source_ids": [
+        "ch21-ref016",
+        "ch21-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kent, A. “Against many-world interpretation”. International Journal of Modern Physics, A5, 1990, 1745–1762."
+      ],
+      "zh": [
+        "Kent, A. “Against many-world interpretation”. International Journal of Modern Physics, A5, 1990, 1745–1762."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch21-bibliography-020",
+      "source_ids": [
+        "ch21-ref017",
+        "ch21-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Leggett, A. J. “Reflections on the quantum measurement paradox”. In: Hiley, B. J. & Peat, F. D. (eds.), Quantum Implications: Essays in Honour of David Bohm. London, Routledge & Kegan Paul, 1987."
+      ],
+      "zh": [
+        "Leggett, A. J. “Reflections on the quantum measurement paradox”. In: Hiley, B. J. & Peat, F. D. (eds.), Quantum Implications: Essays in Honour of David Bohm. London, Routledge & Kegan Paul, 1987."
+      ],
+      "shared": true,
+      "units": 30
+    },
+    {
+      "id": "ch21-bibliography-021",
+      "source_ids": [
+        "ch21-ref018",
+        "ch21-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Mittelstaedt, P. “The constitution of objects in Kant’s philosophy and in modern physics”. In: Parrini, P. (ed.), Kant and Contemporary Epistemology. Dordrecht, Kluwer, 1994, pp. 115–129."
+      ],
+      "zh": [
+        "Mittelstaedt, P. “The constitution of objects in Kant’s philosophy and in modern physics”. In: Parrini, P. (ed.), Kant and Contemporary Epistemology. Dordrecht, Kluwer, 1994, pp. 115–129."
+      ],
+      "shared": true,
+      "units": 27
+    },
+    {
+      "id": "ch21-bibliography-022",
+      "source_ids": [
+        "ch21-ref019",
+        "ch21-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Murdoch, D. Niels Bohr’s Philosophy of Physics. Cambridge, Cambridge University Press, 1987."
+      ],
+      "zh": [
+        "Murdoch, D. Niels Bohr’s Philosophy of Physics. Cambridge, Cambridge University Press, 1987."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch21-bibliography-023",
+      "source_ids": [
+        "ch21-ref020",
+        "ch21-ref021"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Nogues, G., Rauschenbeutel, A., Osnaghi, S., Brune, M., Raimond, J. M. & Haroche, S. “Seeing a single photon without destroying it”. Nature, 400, 1999, 239–242."
+      ],
+      "zh": [
+        "Nogues, G., Rauschenbeutel, A., Osnaghi, S., Brune, M., Raimond, J. M. & Haroche, S. “Seeing a single photon without destroying it”. Nature, 400, 1999, 239–242."
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch21-bibliography-024",
+      "source_ids": [
+        "ch21-ref021",
+        "ch21-ref022"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Osnaghi, S., Bertet, P., Auffeves, A., Maioli, P., Brune, M., Raimond, J. M. & Haroche, S. “Coherent control of an atom collision in a cavity”. Physical Review Letters, 87, 2001, 037902–037905."
+      ],
+      "zh": [
+        "Osnaghi, S., Bertet, P., Auffeves, A., Maioli, P., Brune, M., Raimond, J. M. & Haroche, S. “Coherent control of an atom collision in a cavity”. Physical Review Letters, 87, 2001, 037902–037905."
+      ],
+      "shared": true,
+      "units": 31
+    },
+    {
+      "id": "ch21-bibliography-025",
+      "source_ids": [
+        "ch21-ref024",
+        "ch21-ref025"
+      ],
+      "page": "374",
+      "canonical_kind": "reference",
+      "en": [
+        "Park, J. L. “The self-contradictory foundations of formalistic quantum measurement theories”. International Journal of Theoretical Physics, 8(3), 1973, 211–218."
+      ],
+      "zh": [
+        "Park, J. L. “The self-contradictory foundations of formalistic quantum measurement theories”. International Journal of Theoretical Physics, 8(3), 1973, 211–218."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch21-bibliography-026",
+      "source_ids": [
+        "ch21-ref025",
+        "ch21-ref026"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Pickering, A. Constructing Quarks. A Sociological History of Particle Physics. Chicago, IL, Chicago University Press, 1984."
+      ],
+      "zh": [
+        "Pickering, A. Constructing Quarks. A Sociological History of Particle Physics. Chicago, IL, Chicago University Press, 1984."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch21-bibliography-027",
+      "source_ids": [
+        "ch21-ref026",
+        "ch21-ref027"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Raimond, J. M., Brune, M. & Haroche, S. “Manipulating quantum entanglement with atoms and photons in a cavity”. Reviews of Modern Physics, 73, 2001, 565–582."
+      ],
+      "zh": [
+        "Raimond, J. M., Brune, M. & Haroche, S. “Manipulating quantum entanglement with atoms and photons in a cavity”. Reviews of Modern Physics, 73, 2001, 565–582."
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch21-bibliography-028",
+      "source_ids": [
+        "ch21-ref027"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Rosenfeld, L. “Foundations of quantum theory and complementarity”. Nature, 190, 1961, 384–388."
+      ],
+      "zh": [
+        "Rosenfeld, L. “Foundations of quantum theory and complementarity”. Nature, 190, 1961, 384–388."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch21-bibliography-029",
+      "source_ids": [
+        "ch21-ref027",
+        "ch21-ref028"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Rovelli, C. “Relational quantum mechanics”. International Journal of Theoretical Physics, 35, 1996, 1637–1678."
+      ],
+      "zh": [
+        "Rovelli, C. “Relational quantum mechanics”. International Journal of Theoretical Physics, 35, 1996, 1637–1678."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch21-bibliography-030",
+      "source_ids": [
+        "ch21-ref028",
+        "ch21-ref029"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Saunders, S. “Decoherence, relative states and evolutionary adaptation”. Foundations of Physics, 23, 1993, 1553–1585."
+      ],
+      "zh": [
+        "Saunders, S. “Decoherence, relative states and evolutionary adaptation”. Foundations of Physics, 23, 1993, 1553–1585."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch21-bibliography-031",
+      "source_ids": [
+        "ch21-ref029",
+        "ch21-ref030"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schrödinger, E. “Discussion of probability relations between separated systems”. Proceedings of the Cambridge Philosophical Society, 31, 1935a, 555–563."
+      ],
+      "zh": [
+        "Schrödinger, E. “Discussion of probability relations between separated systems”. Proceedings of the Cambridge Philosophical Society, 31, 1935a, 555–563."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch21-bibliography-032",
+      "source_ids": [
+        "ch21-ref030",
+        "ch21-ref031"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schrödinger, E. “Die gegenwärtige Situation in der Quantenmechanik”. Die Naturwissenschaften, 23, 1935b, 807–812, 823–828, 844–849. (Translated into English in: Wheeler, J. A. & Zurek, W. H. (eds.), Quantum Theory and Measurement. Princeton, NJ, Princeton University Press, 1983, pp. 152–167.)"
+      ],
+      "zh": [
+        "Schrödinger, E. “Die gegenwärtige Situation in der Quantenmechanik”. Die Naturwissenschaften, 23, 1935b, 807–812, 823–828, 844–849. (Translated into English in: Wheeler, J. A. & Zurek, W. H. (eds.), Quantum Theory and Measurement. Princeton, NJ, Princeton University Press, 1983, pp. 152–167.)"
+      ],
+      "shared": true,
+      "units": 42
+    },
+    {
+      "id": "ch21-bibliography-033",
+      "source_ids": [
+        "ch21-ref031",
+        "ch21-ref032"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Shimony, A. “Bell’s Theorem”. In: Zalta, E. N. (ed.), The Stanford Encyclopedia of Philosophy, 2005. Available on-line: http://plato.stanford.edu/archives/sum2005/entries/bell-theorem."
+      ],
+      "zh": [
+        "Shimony, A. “Bell’s Theorem”. In: Zalta, E. N. (ed.), The Stanford Encyclopedia of Philosophy, 2005. Available on-line: http://plato.stanford.edu/archives/sum2005/entries/bell-theorem."
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch21-bibliography-034",
+      "source_ids": [
+        "ch21-ref032",
+        "ch21-ref033"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Vaidman, L. “The many-worlds interpretation of quantum mechanics”. In: Zalta, E. N. (ed.), The Stanford Encyclopedia of Philosophy, 2002. Available online: http://plato.stanford.edu/archives/sum2002/entries/qm-manyworlds."
+      ],
+      "zh": [
+        "Vaidman, L. “The many-worlds interpretation of quantum mechanics”. In: Zalta, E. N. (ed.), The Stanford Encyclopedia of Philosophy, 2002. Available online: http://plato.stanford.edu/archives/sum2002/entries/qm-manyworlds."
+      ],
+      "shared": true,
+      "units": 29
+    },
+    {
+      "id": "ch21-bibliography-035",
+      "source_ids": [
+        "ch21-ref033"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "van Fraassen, B. C. The Scientific Image. Oxford, Oxford University Press, 1980."
+      ],
+      "zh": [
+        "van Fraassen, B. C. The Scientific Image. Oxford, Oxford University Press, 1980."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch21-bibliography-036",
+      "source_ids": [
+        "ch21-ref033",
+        "ch21-ref034"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "van Fraassen, B. C. Quantum Mechanics, an Empiricist View. Oxford, Oxford University Press, 1991."
+      ],
+      "zh": [
+        "van Fraassen, B. C. Quantum Mechanics, an Empiricist View. Oxford, Oxford University Press, 1991."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch21-bibliography-037",
+      "source_ids": [
+        "ch21-ref034",
+        "ch21-ref035"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "von Neumann, J. Mathematical Foundations of Quantum Mechanics (1932). Trans. by R. T. Beyer. Princeton, NJ, Princeton University Press, 1955."
+      ],
+      "zh": [
+        "von Neumann, J. Mathematical Foundations of Quantum Mechanics (1932). Trans. by R. T. Beyer. Princeton, NJ, Princeton University Press, 1955."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch21-bibliography-038",
+      "source_ids": [
+        "ch21-ref035",
+        "ch21-ref036"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "von Weizsäcker, C. F. The Unity of Nature. Trans. by F. J. Zucker. New York, Farrar-Straus-Giroux, 1980."
+      ],
+      "zh": [
+        "von Weizsäcker, C. F. The Unity of Nature. Trans. by F. J. Zucker. New York, Farrar-Straus-Giroux, 1980."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch21-bibliography-039",
+      "source_ids": [
+        "ch21-ref036",
+        "ch21-ref037"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Wheeler, J. A. “Assessment of Everett’s ‘Relative State’ formulation of quantum theory”. Reviews of Modern Physics, 29, 1957, 463–465. (Reprinted in: Wheeler, J. A. & Zurek, W. H. (eds.), Quantum Theory and Measurement. Princeton, NJ, Princeton University Press, 1983, pp. 324–326.)"
+      ],
+      "zh": [
+        "Wheeler, J. A. “Assessment of Everett’s ‘Relative State’ formulation of quantum theory”. Reviews of Modern Physics, 29, 1957, 463–465. (Reprinted in: Wheeler, J. A. & Zurek, W. H. (eds.), Quantum Theory and Measurement. Princeton, NJ, Princeton University Press, 1983, pp. 324–326.)"
+      ],
+      "shared": true,
+      "units": 42
+    },
+    {
+      "id": "ch21-bibliography-040",
+      "source_ids": [
+        "ch21-ref037",
+        "ch21-ref038"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Wigner, E. “Remarks on the mind-body question”. In: Good, I. J. (ed.), The Scientist Speculates. London, Heinemann, 1961, pp. 284–302. (Reprinted in: Wheeler, J. A. & Zurek, W. H. (eds.), Quantum Theory and Measurement. Princeton, NJ, Princeton University Press, 1983, pp. 168–181.)"
+      ],
+      "zh": [
+        "Wigner, E. “Remarks on the mind-body question”. In: Good, I. J. (ed.), The Scientist Speculates. London, Heinemann, 1961, pp. 284–302. (Reprinted in: Wheeler, J. A. & Zurek, W. H. (eds.), Quantum Theory and Measurement. Princeton, NJ, Princeton University Press, 1983, pp. 168–181.)"
+      ],
+      "shared": true,
+      "units": 43
+    },
+    {
+      "id": "ch21-bibliography-041",
+      "source_ids": [
+        "ch21-ref038",
+        "ch21-ref039"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Zurek, W. H. “Decoherence and the transition from quantum to classical”. Physics Today, 44, 1991, 36–44."
+      ],
+      "zh": [
+        "Zurek, W. H. “Decoherence and the transition from quantum to classical”. Physics Today, 44, 1991, 36–44."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch21-bibliography-042",
+      "source_ids": [
+        "ch21-ref039",
+        "ch21-ref040"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Zurek, W. H. “Decoherence, einselection and the quantum origins of the classical”. Reviews of Modern Physics, 75, 2004, 715–775."
+      ],
+      "zh": [
+        "Zurek, W. H. “Decoherence, einselection and the quantum origins of the classical”. Reviews of Modern Physics, 75, 2004, 715–775."
+      ],
+      "shared": true,
+      "units": 20
+    }
+  ],
+  "notes": {
+    "ch21-n01": {
+      "number": "1",
+      "en": [
+        "The dipole–dipole interaction between Rydberg atoms is exceptionally strong and can be further enhanced by a superconducting cavity quasi-resonant with the relevant electronic transition. Under these conditions, it is sufficient for one atom to come within a millimetric distance of the other in order to observe non-classical correlations between their respective external electrons (Osnaghi et al., 2001)."
+      ],
+      "zh": [
+        "里德伯原子之间的偶极—偶极相互作用异常强，并且可以通过与相关电子跃迁准共振的超导腔进一步增强。在这些条件下，一个原子只需进入距另一个原子毫米量级的距离内，就足以在它们各自的外围电子之间观察到非经典关联（Osnaghi et al., 2001）。"
+      ]
+    },
+    "ch21-n02": {
+      "number": "2",
+      "en": [
+        "Like the wave-like behaviour of particles and, more generally, the interference patterns exhibited by quantum systems, the entanglement is a consequence of the structural relations existing between quantum observables (or, more precisely, between the statistical results obtained when these observables are measured). As is well known, these relations are suitably represented in a vector space, in which each vector corresponds to a particular “preparation” of the system under study (see for instance Hughes, 1989, pp. 107–113)."
+      ],
+      "zh": [
+        "正如粒子的类波行为、以及更一般地量子系统显示的干涉图样一样，纠缠是量子可观测量之间（更精确地说，是测量这些可观测量时获得的统计结果之间）存在的结构关系的后果。众所周知，这些关系在一个矢量空间中得到恰当表示，其中每个矢量对应于所研究系统的一个特定“制备”（参见例如 Hughes, 1989, pp. 107–113）。"
+      ]
+    },
+    "ch21-n03": {
+      "number": "3",
+      "en": [
+        "See Bitbol (1996, cap. 4). The attempts to provide such an account, by discarding one or the other feature of the “natural” ontology, include Bohr’s complementarity (see Rosenfeld, 1961), “hidden variables” theories (Bohm, 1957), and non-standard logic (see Mittelstaedt, 1994)."
+      ],
+      "zh": [
+        "参见 Bitbol (1996, 第 4 章)。通过抛弃“自然”本体论的这一或那一特征来提供这种说明的尝试，包括玻尔的互补性（参见 Rosenfeld, 1961）、“隐变量”理论（Bohm, 1957）和非标准逻辑（参见 Mittelstaedt, 1994）。"
+      ]
+    },
+    "ch21-n04": {
+      "number": "4",
+      "en": [
+        "See Bitbol (2000a, cap. 1) for a critical discussion."
+      ],
+      "zh": [
+        "批判性讨论参见 Bitbol (2000a, 第 1 章)。"
+      ]
+    },
+    "ch21-n05": {
+      "number": "5",
+      "en": [
+        "For a review of recent experiments on quantum entanglement see Bouwmeester et al. (2001)."
+      ],
+      "zh": [
+        "关于近来量子纠缠实验的综述，参见 Bouwmeester et al. (2001)。"
+      ]
+    },
+    "ch21-n06": {
+      "number": "6",
+      "en": [
+        "More generally, it is the entangled state of the compound system field + measuring apparatus that is supposed to be “reduced” to a product state. See van Fraassen (1991) for a thorough discussion."
+      ],
+      "zh": [
+        "更一般地，被设想为“约化”为乘积态的，是场＋测量仪器这个复合系统的纠缠态。详尽讨论参见 van Fraassen (1991)。"
+      ]
+    },
+    "ch21-n07": {
+      "number": "7",
+      "en": [
+        "So far, the experiment has been carried out using a resonant version of this technique (Nogues et al., 1999)."
+      ],
+      "zh": [
+        "迄今为止，该实验是用这种技术的共振版本完成的（Nogues et al., 1999）。"
+      ]
+    },
+    "ch21-n08": {
+      "number": "8",
+      "en": [
+        "See Park (1973, pp. 216–217), Bitbol (2000a, pp. 72–83)."
+      ],
+      "zh": [
+        "参见 Park (1973, pp. 216–217), Bitbol (2000a, pp. 72–83)。"
+      ]
+    },
+    "ch21-n09": {
+      "number": "9",
+      "en": [
+        "More generally, it is the entangled state of the compound system field + measuring apparatus that is supposed to be “reduced” to a product state. See van Fraassen (1991) for a thorough discussion."
+      ],
+      "zh": [
+        "更一般地，被设想为“约化”为乘积态的，是场＋测量仪器这个复合系统的纠缠态。详尽讨论参见 van Fraassen (1991)。"
+      ]
+    },
+    "ch21-n10": {
+      "number": "10",
+      "en": [
+        "See e.g. Ghirardi et al. (1986)."
+      ],
+      "zh": [
+        "参见例如 Ghirardi et al. (1986)。"
+      ]
+    },
+    "ch21-n11": {
+      "number": "11",
+      "en": [
+        "For an experimental illustration of the latter point see Bertet et al. (2001)."
+      ],
+      "zh": [
+        "后一点的实验例示参见 Bertet et al. (2001)。"
+      ]
+    },
+    "ch21-n12": {
+      "number": "12",
+      "en": [
+        "See Saunders (1993)."
+      ],
+      "zh": [
+        "参见 Saunders (1993)。"
+      ]
+    },
+    "ch21-n13": {
+      "number": "13",
+      "en": [
+        "The transcendental nature of this argument is analysed in Bitbol (1996, pp. 263–269). For a discussion of the Kantian influence and pragmatist strain in Bohr’s ideas, see Murdoch (1987, pp. 225–235)."
+      ],
+      "zh": [
+        "这个论证的先验性质在 Bitbol (1996, pp. 263–269) 中分析。关于玻尔思想中的康德影响和实用主义倾向的讨论，参见 Murdoch (1987, pp. 225–235)。"
+      ]
+    },
+    "ch21-n14": {
+      "number": "14",
+      "en": [
+        "See Bitbol (2000a, p. 275)."
+      ],
+      "zh": [
+        "参见 Bitbol (2000a, p. 275)。"
+      ]
+    },
+    "ch21-n15": {
+      "number": "15",
+      "en": [
+        "See Bitbol (2000b, p. 99)."
+      ],
+      "zh": [
+        "参见 Bitbol (2000b, p. 99)。"
+      ]
+    },
+    "ch21-n16": {
+      "number": "16",
+      "en": [
+        "Similar statements can be found in Zurek (2004). The ambiguities of Bohr’s own formulation are highlighted in Bitbol (1996, pp. 263–269)."
+      ],
+      "zh": [
+        "类似的陈述可以在 Zurek (2004) 中找到。玻尔本人表述的歧义在 Bitbol (1996, pp. 263–269) 中得到突显。"
+      ]
+    },
+    "ch21-n17": {
+      "number": "17",
+      "en": [
+        "See Kent (1990) and Barrett (1999)."
+      ],
+      "zh": [
+        "参见 Kent (1990) 和 Barrett (1999)。"
+      ]
+    },
+    "ch21-n18": {
+      "number": "18",
+      "en": [
+        "See van Fraassen (1980, pp. 80–83) for a discussion."
+      ],
+      "zh": [
+        "讨论参见 van Fraassen (1980, pp. 80–83)。"
+      ]
+    },
+    "ch21-n19": {
+      "number": "19",
+      "en": [
+        "In the more concrete framework of the experiment discussed in Section 3, this claim would amount to asserting that we never observe one field which oscillates with two different phases at the same time. This statement is a tautology if literally construed. It is false if it refers to the empirical implications of a superposition of coherent states like Eq. (4). Indeed, such implications are observed, at least inasmuch as “to observe” means to collect the (statistical) results of a series of well-defined measurements."
+      ],
+      "zh": [
+        "在第 3 节讨论的实验的更具体框架中，这个断言等于说我们从未观察到一个同时以两个不同相位振荡的场。如果按字面理解，这个陈述是同义反复。如果它指涉像式 (4) 那样的相干态叠加的经验含意，那它就是假的。的确，这样的含意是被观察到的，至少就“观察”意味着收集一系列定义明确的测量的（统计）结果而言。"
+      ]
+    },
+    "ch21-n20": {
+      "number": "20",
+      "en": [
+        "It might be objected that the phrasing commonly associated with experiments involving, say, atoms, shows no trace of such an operational reduction. But this happens because, in that case, there is a well-established practice in which the operational implications of expressions like “the atom is in a superposition state” are tacitly acknowledged by the actors involved."
+      ],
+      "zh": [
+        "有人可能反驳说，通常与涉及比方说原子的实验相关联的措辞，没有显示这种操作还原的任何痕迹。但这是因为在那种情况下，存在一种确立的实践，其中像“原子处于叠加态”这样的表达式的操作含意被参与的行动者默会地承认。"
+      ]
+    },
+    "ch21-n21": {
+      "number": "21",
+      "en": [
+        "An important step in this constructive process was, for example, the study of the properties of the so-called “coherent states”. Among the state vectors which serve to anticipate the behaviour of a quantum field, the coherent states are those whose predictions conform (to some extent) with the laws of classical electromagnetism, provided that one identifies the expectation values of certain quantum observables with the “corresponding” classical quantities. Coherent states provide a theoretical bridge between the practice associated with classical electromagnetism, on the one hand, and the measurement protocols of cavity QED, on the other. Based on this correspondence, one can characterise a field prepared by a classical source through quantum measurements, typically carried out by means of individual atoms."
+      ],
+      "zh": [
+        "这个建构过程中的一个重要步骤，例如是对所谓“相干态”性质的研究。在用来预期量子场行为的态矢量中，相干态是这样一些态：只要把某些量子可观测量的期望值与“对应的”经典量等同起来，它们的预言就（在某种程度上）符合经典电磁学定律。相干态在一方面的与经典电磁学相关联的实践与另一方面的腔 QED 测量协议之间提供了理论桥梁。基于这种对应，可以通过量子测量——典型地借助单个原子执行——来刻画由经典源制备的场。"
+      ]
+    },
+    "ch21-n22": {
+      "number": "22",
+      "en": [
+        "See Bitbol (1996, 1998a, b). See also von Weizsäcker (1980)."
+      ],
+      "zh": [
+        "参见 Bitbol (1996, 1998a, b)。另见 von Weizsäcker (1980)。"
+      ]
+    }
+  }
+}

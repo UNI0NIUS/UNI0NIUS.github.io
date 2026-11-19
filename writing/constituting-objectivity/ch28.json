@@ -1,0 +1,1331 @@
+{
+  "id": "ch28",
+  "title": "结构实在论与溯因—先验论证",
+  "originalTitle": "Structural Realism and Abductive-Transcendental Arguments",
+  "outline": [
+    {
+      "anchor": "ch28-u003",
+      "title": "1 先验论证与溯因—先验论证",
+      "originalTitle": "1 Transcendental and Abductive-Transcendental Arguments",
+      "level": 1
+    },
+    {
+      "anchor": "ch28-u025",
+      "title": "2 没有物理实例的对称性",
+      "originalTitle": "2 Physical Symmetries Without Real Instantiations",
+      "level": 1
+    },
+    {
+      "anchor": "ch28-u033",
+      "title": "3 结构实在论的两条路线",
+      "originalTitle": "3 Two Strands of Structural Realism",
+      "level": 1
+    },
+    {
+      "anchor": "ch28-u041",
+      "title": "4 中间型结构实在论",
+      "originalTitle": "4 Intermediate Structural Realism",
+      "level": 1
+    },
+    {
+      "anchor": "ch28-u047",
+      "title": "5 结构实在论与溯因—先验分析",
+      "originalTitle": "5 Structural Realism and Abductive-Transcendental Analysis",
+      "level": 1
+    },
+    {
+      "anchor": "ch28-u049",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch28-u001",
+      "source_ids": [
+        "ch28-u001"
+      ],
+      "page": "491",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch28-u002",
+      "source_ids": [
+        "ch28-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Holger Lyre"
+      ],
+      "zh": [
+        "霍尔格·吕雷"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch28-u004",
+      "source_ids": [
+        "ch28-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract The paper deals with an attempt to present an “abductive-transcendental” argument in favour of a particular version of structural realism (SR), dubbed Intermediate SR. In the first part of the paper the general structure of transcendental arguments is scrutinized with a close view on Kant’s original version and the prospect of their abductive variation. Then the role of symmetries in modern physics, especially symmetries without real instantiations and in particular gauge symmetries is discussed. This is combined with a presentation of SR as a promising current version of scientific realism. The discussion is supported by various arguments from gauge theories in modern physics. Intermediate SR, a realist position about all and only structurally derivable entities located between the extremes of Epistemic and Ontic SR turns out as the best fit to our current fundamental gauge physics and this finally leads to an abductive-transcendental reasoning concerning this position."
+      ],
+      "zh": [
+        "摘要 本文尝试提出一种“溯因—先验”论证，支持结构实在论（SR）的一个特定版本，称为中间型结构实在论。文章第一部分仔细审查先验论证的一般结构，密切关注康德的原初版本及其溯因变体的前景。然后讨论对称性在现代物理学中的作用，特别是无实在实例化的对称性，尤其是规范对称性。这与把 SR 呈现为科学实在论一个有前景的当代版本相结合。讨论得到现代物理学中规范理论各种论证的支持。中间型结构实在论——只承认由结构导出的实体为实在，并承认所有这类实体。它介于认识论结构实在论与本体论结构实在论之间——被证明最契合我们当前的基础规范物理学，这最终引出关于该立场的溯因—先验推理。"
+      ],
+      "units": 148
+    },
+    {
+      "id": "ch28-u005",
+      "source_ids": [
+        "ch28-u005"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "H. Lyre Philosophy Department, University of Bonn e-mail: lyre@uni-bonn.de"
+      ],
+      "zh": [
+        "H. Lyre Philosophy Department, University of Bonn e-mail: lyre@uni-bonn.de"
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch28-u003",
+      "source_ids": [
+        "ch28-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Transcendental and Abductive-Transcendental Arguments"
+      ],
+      "zh": [
+        "1 先验论证与溯因—先验论证"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch28-u006",
+      "source_ids": [
+        "ch28-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It seems to be a clear lesson from the history of modern physics, that the Kantian program – taken literally – is wrong-headed. Kant’s way of deriving Newtonian physics in his Metaphysical Foundations of Natural Science (1786) seems evidence enough that his way of deriving the fundamental laws of physics is fatally flawed. Why, then, should one be interested in the Kantian program at all? Indeed a reason could be that if we strip off the inclinations of armchair philosophy from Kant’s program, there might remain a core which could be still of value in modern science."
+      ],
+      "zh": [
+        "从现代物理学的历史中似乎可以得出一条明确的教训：康德纲领——按字面理解——是误入歧途的。康德在其《自然科学的形而上学初始根据》（1786）中推导牛顿物理学的方式，似乎足以证明他推导物理学基本定律的方式有致命缺陷。那么，为什么还要对康德纲领感兴趣呢？的确，一个理由可能是：如果剥去康德纲领中扶手椅哲学的倾向，也许还剩下一个核心，它在现代科学中仍然有价值。"
+      ],
+      "units": 95
+    },
+    {
+      "id": "ch28-u007",
+      "source_ids": [
+        "ch28-u007"
+      ],
+      "page": "492",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This core, the core of the whole Kantian enterprise, survives in the structure and nature of transcendental arguments on which we will focus in the following."
+      ],
+      "zh": [
+        "这个核心——整个康德事业的核心——存活在先验论证的结构与本性之中，我们下面将聚焦于此。"
+      ],
+      "units": 26
+    },
+    {
+      "id": "ch28-u008",
+      "source_ids": [
+        "ch28-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant introduces transcendental arguments as arguments referring to the very preconditions of experience. In Critique B 25 (Kant A 1781 / B 1787) he writes:"
+      ],
+      "zh": [
+        "康德引入先验论证，作为指涉经验本身的前提条件的论证。在《纯粹理性批判》B 25（康德 A 1781 / B 1787）中他写道："
+      ],
+      "units": 24
+    },
+    {
+      "id": "ch28-u014",
+      "source_ids": [
+        "ch28-u014"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "I call all cognition transcendental that is occupied not so much with objects but rather with our mode of cognition of these objects insofar as this is to be possible a priori. (p. 149)"
+      ],
+      "zh": [
+        "我把这样的认识称为先验的：它关注的与其说是对象，不如说是我们认识对象的方式，条件是这种认识方式能够先天地成立。（第 149 页）"
+      ],
+      "type": "quote",
+      "units": 34
+    },
+    {
+      "id": "ch28-u009",
+      "source_ids": [
+        "ch28-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "And in B 80 we find:"
+      ],
+      "zh": [
+        "而在 B 80 我们看到："
+      ],
+      "units": 6
+    },
+    {
+      "id": "ch28-u014b",
+      "source_ids": [
+        "ch28-u014b"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "…that not every a priori cognition must be called transcendental, but only that by means of which we cognize that and how certain representations (intuitions or conceptions) are applied entirely a priori, or are possible (i.e., the possibility of cognition or its use a priori). (p. 196)"
+      ],
+      "zh": [
+        "……并非任何先天知识都必须称为先验的，只有这样的知识才如此：借助它，我们认识到某些表象（直观或概念）可以完全先天地应用或成为可能，也认识到它们如何做到这一点（即认识的可能性或其先天的使用）。（第 196 页）"
+      ],
+      "type": "quote",
+      "units": 48
+    },
+    {
+      "id": "ch28-u010",
+      "source_ids": [
+        "ch28-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hence, transcendental knowledge is meta-knowledge about how a priori knowledge is used. As such, transcendental knowledge is itself a priori knowledge. We must therefore first clarify our understanding of the a priori. One of the difficulties with Kant is that in his formulations he invites us to misinterpret the way in which his account leads to a subject-relatedness of knowledge. We may very well understand his talk about “modes of cognition” and “representations” as talk about the particular human cognitive machinery. And Kant endorses such an understanding for instance in passages like A 26–27 about the a priori character of space:"
+      ],
+      "zh": [
+        "于是，先验知识是关于先天知识如何被使用的元知识。作为这样的知识，先验知识本身就是先天知识。因此我们必须首先澄清我们对先天的理解。康德的一个困难在于：他的表述方式诱使我们误解他的说明如何导致知识的主体相关性。我们完全可能把他关于“认识方式”和“表象”的说法理解为关于特定人类认知机器的说法。而康德本人在例如 A 26–27 关于空间之先天性质的段落中也认可这种理解："
+      ],
+      "units": 102
+    },
+    {
+      "id": "ch28-u014c",
+      "source_ids": [
+        "ch28-u014c"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "We can therefore speak of space, extended objects, and so on, only from the human standpoint … For we cannot judge at all whether the intuitions of other thinking beings are bound to the same conditions that limit our intuition and that are universally valid for us. (p. 160)"
+      ],
+      "zh": [
+        "因此我们只能从人类的立场出发谈论空间、广延的对象等等……因为我们根本无法判断，其他思维存在者的直观是否也受到那些限制我们的直观、对我们普遍有效的条件的约束。（第 160 页）"
+      ],
+      "type": "quote",
+      "units": 48
+    },
+    {
+      "id": "ch28-u011",
+      "source_ids": [
+        "ch28-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "From a general epistemological perspective, however, it is certainly not necessary to restrict the a priori forms of cognition especially to humans. On the contrary: in B 72 for instance Kant, too, adds that"
+      ],
+      "zh": [
+        "然而，从一般认识论的观点看，把认识的先天形式特别局限于人类显然并非必要。恰恰相反：例如在 B 72，康德也补充说："
+      ],
+      "units": 34
+    },
+    {
+      "id": "ch28-u014d",
+      "source_ids": [
+        "ch28-u014d"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "It is also not necessary for us to limit the kind of intuition in space and time to the sensibility of human beings; it may well be that all finite thinking beings must necessarily agree with human beings in this regard (though we cannot decide this)… (p. 191)"
+      ],
+      "zh": [
+        "我们也无须把空间和时间中的直观方式局限于人类的感性；很可能一切有限的思维存在者在这方面都必然与人类一致（尽管我们无法裁定这一点）……（第 191 页）"
+      ],
+      "type": "quote",
+      "units": 48
+    },
+    {
+      "id": "ch28-u012",
+      "source_ids": [
+        "ch28-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant’s point is in fact far better made if we think of the preconditions of experience – manifested in the a priori forms of cognition – as entirely general methodological preconditions. Call this the generality claim. It is the claim that the results of the transcendental method aren’t at all bound to human experience or cognition in particular, but rather to experience or cognition in general. And that they therefore apply to any cognitive system or agent with “empirical competence.”"
+      ],
+      "zh": [
+        "事实上，如果我们把经验的前提条件——体现在认识的先天形式中——理解为完全一般的方法论前提条件，康德的论点就表达得好得多。称之为普遍性主张。它主张：先验方法得出的结论适用于一般意义上的经验或认识，无须专指人类的经验或认识；因此它们适用于任何具有“经验能力”的认知系统或认知者。"
+      ],
+      "units": 78
+    },
+    {
+      "id": "ch28-u013",
+      "source_ids": [
+        "ch28-u013"
+      ],
+      "page": "493",
+      "canonical_kind": "paragraph",
+      "en": [
+        "While it is perhaps not entirely clear whether Kant himself definitely subscribes to the generality claim, he nevertheless subscribes to a further feature of his enterprise, which is in fact a natural consequence of the generality claim. This feature is the view of the a priori as being no part of the cognitive machinery itself, or, to put it bluntly, the view that the a priori forms of cognition are not themselves instantiated in terms of the mind’s hardware. Surely, Kant falls back on a whole variety of capacities of the mind such as intuition, understanding, faculty of judgement or the like to spell out his aprioristic approach, but simultaneously he explicitly denies that ideas a priori – neither pure intuitions nor categories – are innate (see for instance the “Streitschrift gegen Eberhard”, 1790). Speaking in more modern terms, the a priori forms are not subject to empirical cognitive science, as also pointed out in the Critique B 78:"
+      ],
+      "zh": [
+        "虽然康德本人是否明确赞同普遍性主张也许并不完全清楚，但他仍然赞同其事业的另一个特征，它事实上是普遍性主张的自然推论。这个特征就是这样的观点：先天不是认知机器本身的一部分，或者直截了当地说，认识的先天形式自身并不是由心智的硬件结构直接实现的。诚然，康德在阐明其先天主义进路时诉诸心灵的多种能力，如直观、知性、判断力等等，但他同时明确否认先天观念——无论是纯直观还是范畴——是天赋的（参见例如 1790 年的“Streitschrift gegen Eberhard”［《驳埃伯哈德》论战文］）。用更现代的话说，先天形式不属于经验认知科学的研究对象，正如《批判》B 78 也指出的："
+      ],
+      "units": 157
+    },
+    {
+      "id": "ch28-u021",
+      "source_ids": [
+        "ch28-u021"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[Transcendental logic…] “has no empirical principles, thus it draws nothing from psychology (as one has occasionally been persuaded), which therefore has no influence at all on the canon of the understanding. It is a proven doctrine, and everything in it must be completely a priori.” (p. 195)"
+      ],
+      "zh": [
+        "［先验逻辑……］“没有任何经验性原则，因而不从心理学中汲取任何东西（如人们有时所误信的），心理学因此对知性的法规毫无影响。它是一门已被证明的学说，其中一切都必须完全是先天的。”（第 195 页）"
+      ],
+      "type": "quote",
+      "units": 47
+    },
+    {
+      "id": "ch28-u015",
+      "source_ids": [
+        "ch28-u015"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Thus, Kant subscribes to a mind-dependency of our knowledge in a rather indirect sense only. What he intends is a methodological understanding of the a priori: It is, for instance, a methodological requirement to bring the manifold of sense data into a temporal one after another, a spatial side by side, or a causal connectedness. It is the general structure of a transcendental argument from which the justification of the doctrine of such a methodological a priori can be drawn."
+      ],
+      "zh": [
+        "因此，康德只是在相当间接的意义上赞同我们知识的心灵依赖性。他意图的是对先天的方法论理解：例如，把感觉材料的杂多纳入时间上的先后相继、空间上的彼此并列或因果上的关联，这是一条方法论要求。正是先验论证的一般结构，使我们能够从中引出对这样一种方法论先天学说的证成。"
+      ],
+      "units": 80
+    },
+    {
+      "id": "ch28-u016",
+      "source_ids": [
+        "ch28-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "What, now, is the general structure of a transcendental argument? An informal version following Kant would be that the possibility of experience (E) demands the very preconditions of experience (PE) to hold. By reading this in the sense that the fact of E implies PE, one would make the argument an instance of modus ponens:"
+      ],
+      "zh": [
+        "那么，先验论证的一般结构是什么？一个追随康德的非形式版本是：经验（E）的可能性要求经验的前提条件（PE）本身成立。如果把这一点读作 E 这一事实蕴涵 PE，就会使该论证成为肯定前件式的一个实例："
+      ],
+      "units": 55
+    },
+    {
+      "id": "ch28-u017",
+      "source_ids": [
+        "ch28-u017"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\frac{\\begin{array}{c}E\\\\E\\to PE\\end{array}}{PE}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\frac{\\begin{array}{c}E\\\\E\\to PE\\end{array}}{PE}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch28-u018",
+      "source_ids": [
+        "ch28-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The major drawback of this reading, however, is that this doesn’t render transcendental arguments as synthetic a priori, for neither the first nor the second premiss of the above conclusion is synthetic a priori. The first premiss, the mere fact that E, is contingent and thus synthetic a posteriori, whereas the second premiss represents an analytic statement. Obviously, the transcendental argument structure cannot be captured in a strict logical way, but should perhaps rather be reconstructed as an inference to the best explanation: the existence and validity of PE is the most plausible explanation for E."
+      ],
+      "zh": [
+        "然而这种读法的主要缺陷在于：它并没有把先验论证呈现为先天综合的，因为上述推论的两个前提都不是先天综合的。第一个前提——E 这一单纯事实——是偶然的，因而是后天综合的；第二个前提则是一个分析陈述。显然，先验论证的结构无法以严格逻辑的方式刻画，也许应当重建为对最佳解释的推论：PE 的存在与有效性是对 E 最可信的解释。"
+      ],
+      "units": 96
+    },
+    {
+      "id": "ch28-u019",
+      "source_ids": [
+        "ch28-u019"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Of course, the reconstruction of transcendental arguments as inferences to the best explanation heavily undermines Kant’s own far more rigorous understanding of his enterprise. For it is Kant’s special claim that synthetic judgements a priori are accompanied by necessity and generality. But it is exactly this demand, which should better be weakened in view of a modern revised use of transcendental arguments, and indeed in two senses: As the best explanation for E, PE is only very likely, but not necessary. Further on, the contingency of E as a premiss indicates that the conclusion doesn’t yield in any possible world, but only in E-worlds, worlds in which experience takes place. We might therefore introduce the term abductive-transcendental argument for any inference to the most plausible and obvious preconditions of experience."
+      ],
+      "zh": [
+        "当然，把先验论证重建为对最佳解释的推论，严重削弱了康德本人对其事业远为严格的理解。因为康德的特殊主张是：先天综合判断伴随着必然性与普遍性。但恰恰是这一要求，鉴于先验论证的现代修订用法应当被弱化，而且是在两重意义上：作为对 E 的最佳解释，PE 只是很可能成立，而非必然成立。再者，E 作为前提的偶然性表明，结论并非在任何可能世界中都成立，而只在 E 世界——即经验发生的世界——中成立。因此我们可以引入溯因—先验论证这个术语，指任何推向最可信、最显明的经验前提条件的推理。"
+      ],
+      "units": 130
+    },
+    {
+      "id": "ch28-u020",
+      "source_ids": [
+        "ch28-u020"
+      ],
+      "page": "494",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As a further digression from Kant’s original approach, mention should be made that the introduction of the thing-in-itself isn’t a necessary consequence of the transcendentally motivated methodological a priori. It is widely believed that perhaps the most urgent reason for Kant to introduce the thing-in-itself doesn’t lie in his transcendental epistemology as such, but rather in the overall architecture of his philosophical system – in particular his account of free will beyond the dichotomy of compatibilism and non-compatibilism. Kant saw it as an explanation how we can have strict causal determinism in the realm of theoretical philosophy, where we are dealing with the things as phenomena, and at the same time the freedom of will within the realm of practical philosophy, where we are bound to the idea of absolute freedom."
+      ],
+      "zh": [
+        "作为对康德原初进路的进一步偏离，应当提到：自在之物的引入并不是先验地促成的方法论先天的必然推论。人们广泛认为，康德引入自在之物的最迫切理由也许不在于他的先验认识论本身，而在于其哲学系统的整体架构——特别是他关于自由意志的说明，超出了相容论与非相容论的二分。康德把它视为一种解释，说明我们如何能够在理论哲学领域——在那里我们打交道的是作为显象的事物——拥有严格的因果决定论，同时在实践哲学领域——在那里我们绑定于绝对自由的观念——拥有意志自由。"
+      ],
+      "units": 130
+    },
+    {
+      "id": "ch28-u022",
+      "source_ids": [
+        "ch28-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To sum up: neither the general structure of an abductive-transcendental argument nor the methodological nature of the a priori depends on"
+      ],
+      "zh": [
+        "总结一下：溯因—先验论证的一般结构和先天的方法论本性都不依赖于："
+      ],
+      "units": 21
+    },
+    {
+      "id": "ch28-u023",
+      "source_ids": [
+        "ch28-u023"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "– The existence of a particular, perhaps innate structure of our cognitive ability"
+      ],
+      "zh": [
+        "– 我们认知能力的某种特定的、也许是天赋的结构的存在"
+      ],
+      "units": 12
+    },
+    {
+      "id": "ch28-u023b",
+      "source_ids": [
+        "ch28-u023b"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "– Necessity in the strong sense of being the case in all possible worlds"
+      ],
+      "zh": [
+        "– 强意义上的必然性，即在一切可能世界中都成立"
+      ],
+      "units": 13
+    },
+    {
+      "id": "ch28-u023c",
+      "source_ids": [
+        "ch28-u023c"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "– The existence of epistemically inaccessible things-in-themselves"
+      ],
+      "zh": [
+        "– 认识上不可通达的自在之物的存在"
+      ],
+      "units": 6
+    },
+    {
+      "id": "ch28-u024",
+      "source_ids": [
+        "ch28-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Remarkably, perhaps, such an understanding of a methodological a priori is in principle also in tune with a naturalistic picture of the world. Transcendental arguments impose constraints on the constitution of the knowledgeable world and possess insofar a certain normative character. Construed as abductive-transcendental arguments, however, that is as inferences to the best explanation, such normativity doesn’t come equipped with absolute necessity."
+      ],
+      "zh": [
+        "也许值得注意的是，这样一种方法论先天的理解原则上也与自然主义的世界图景合拍。先验论证对可认识的世界的构成施加约束，就此而言具有某种规范性特征。然而，一旦被构建为溯因—先验论证，即对最佳解释的推论，这种规范性就不带有绝对必然性。"
+      ],
+      "units": 62
+    },
+    {
+      "id": "ch28-u025",
+      "source_ids": [
+        "ch28-u025"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 Physical Symmetries Without Real Instantiations"
+      ],
+      "zh": [
+        "2 没有物理实例的对称性"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch28-u026",
+      "source_ids": [
+        "ch28-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "From a transcendental meta-perspective about science we now shift to modern science directly, in particular to the role of symmetries. Symmetries are the hallmark of modern physics – and they come in many different varieties: we distinguish continuous from discrete, global from local, active from passive, geometrical from dynamical, and so on. Given the preeminent role symmetries play in contemporary physics, it is more than natural to ask for a deeper reason for their omnipresence. One such reason can be seen in the quite general characterization which can be given to symmetries as an overall topos: they seem to provide a formal device for the general interplay between change – captured in terms of symmetry transformations – and persistence – the symmetry invariants. Let us follow this general theme in some more detail."
+      ],
+      "zh": [
+        "现在我们从关于科学的先验元视角直接转向现代科学，特别是对称性的作用。对称性是现代物理学的标志——而且种类繁多：我们区分连续与离散、整体与局域、主动与被动、几何与动力学等等。鉴于对称性在当代物理学中扮演卓越角色，追问其无处不在的更深理由再自然不过。一个这样的理由可以从把对称性作为一个总体论题（topos）所给出的相当一般的刻画中看到：它们似乎为变化——用对称变换刻画——与持存——对称不变量——之间的一般相互作用提供了一个形式框架。让我们更详细地追随这个一般主题。"
+      ],
+      "units": 129
+    },
+    {
+      "id": "ch28-u027",
+      "source_ids": [
+        "ch28-u027"
+      ],
+      "page": "495",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Given any domain D (usually the state space of the physical system), a symmetry of D consists in a set of one-to-one mappings, the symmetry transformations, of D onto itself, such that the structure of D is preserved. The structure of D can be understood as a set of relations imposed on D. It can then easily be seen that the symmetry transformations of D form a group and simultaneously exemplify equivalence relations and, hence, induce a partitioning of D into equivalence classes. It becomes clear from such a characterization that symmetries can be used as tools to filter out specific structural aspects. Moreover, since the set of all symmetries of a domain D is sufficient to characterize the entire structure of D and if structural aspects provide the relevant aspects of a given domain, symmetries may very well work as filters for relevance."
+      ],
+      "zh": [
+        "给定任一域 D（通常是物理系统的态空间），D 的一个对称性在于一组 D 到自身的一一映射——对称变换——使得 D 的结构得以保持。D 的结构可以理解为施加于 D 的一组关系。于是容易看出，D 的对称变换构成一个群，同时由群作用诱导一个等价关系，把 D 划分成若干等价类。从这样的刻画可以清楚看出，对称性可以用作滤出特定结构方面的工具。此外，既然一个域 D 的全部对称性足以刻画 D 的整个结构，而结构方面又提供一个给定域的相关方面，对称性就完全可以充当相关性的过滤器。"
+      ],
+      "units": 144
+    },
+    {
+      "id": "ch28-u028",
+      "source_ids": [
+        "ch28-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Consider the simple example of the (cyclic) group of rotations of a square. We get four rotations around 90°, 180° and 270° as well as the identity mapping with 0° or 360° respectively. These four rotations R1 to R4 form a group G, that is any combined transformation Ri × Rj can be mapped onto one of the elements of G. G is the group of isometries of the square, that is the group of actions which preserve and characterize the “relevant structure” of the square as a geometrical figure."
+      ],
+      "zh": [
+        "考虑正方形旋转（循环）群的简单例子。我们得到绕 90°、180° 和 270° 的旋转，以及分别对应 0° 或 360° 的恒等映射，共四个旋转。这四个旋转 R1 到 R4 构成一个群 G，即任何组合变换 Ri × Rj 都可以映射到 G 的某个元素。G 是正方形保定向的等距变换群，即保持并刻画正方形作为几何图形的“相关结构”的作用的群。",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "英文底本把这四个旋转称为正方形的“等距群”。它们构成旋转群，若计入反射，完整的等距群共有八个元素"
+          ]
+        }
+      ],
+      "units": 89
+    },
+    {
+      "id": "ch28-u029",
+      "source_ids": [
+        "ch28-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A further distinction, not yet mentioned, is definitely important for modern physics: the distinction between symmetry transformations with or without real instantiations. The example just given is obviously a symmetry for which real instantiations in terms of rotations of squared corporeal objects in the world can be considered. Quite generally, space–time transformations instantiated in terms of rotations, translations or boosts of reference frames are paradigmatic cases of symmetries in physics with real instantiations. By way of contrast, symmetries without real instantiations include for instance scale transformations, coordinate transformations or, what will be our particular concern, gauge transformations."
+      ],
+      "zh": [
+        "还有一个尚未提到的区分对现代物理学肯定重要：有无物理实例的对称变换之间的区分。刚才给出的例子显然是一种可以体现为现实中方形物体的旋转。相当一般地说，以参考系的旋转、平移或洛伦兹推进（boosts）所实现的时空变换，是具有物理实例的典型对称性。作为对照，没有物理实例的对称性包括例如标度变换、坐标变换，或者我们将特别关注的规范变换。"
+      ],
+      "units": 98
+    },
+    {
+      "id": "ch28-u030",
+      "source_ids": [
+        "ch28-u030"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "One might in fact wonder why symmetries without real instantiations are of any value in physics at all. Apparently, such symmetries reflect a redundancy in the description of a system. Striving for non-redundancy such symmetries seem, on a rigorous level, to be superfluous. At the same time, however, the merit of symmetries about superfluous descriptive structure may nevertheless lie in their way of highlighting certain relevant structural invariants. In this sense symmetries without real instantiations fall precisely under the class of “filters for relevance.”"
+      ],
+      "zh": [
+        "人们事实上可能纳闷：没有物理实例的对称性在物理学中究竟有什么价值。显然，这样的对称性反映了对系统描述中的一种冗余。追求非冗余的话，这样的对称性在严格层面上似乎是多余的。然而同时，关于多余描述结构的对称性，其优点也许恰恰在于它们凸显某些相关结构不变量的方式。在这个意义上，没有物理实例的对称性恰恰落入“相关性过滤器”这一类。"
+      ],
+      "units": 84
+    },
+    {
+      "id": "ch28-u031",
+      "source_ids": [
+        "ch28-u031"
+      ],
+      "page": "496",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Gauge theories in modern physics, that is theories which are characterised by their respective gauge symmetries, are most prominently displayed in the Yang-Mills theories of the Standard Model and represent the most important case of an application of symmetries as filters for relevance. Within the Lagrangian approach, the common mathematical framework of the practising high energy physicist, a gauge theory is mainly represented by a Lagrangian L built out of three terms: the kinetic part ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        ", the gauge field Lagrangian ",
+        {
+          "type": "math",
+          "tex": "L_f",
+          "display": false
+        },
+        " and the interaction term ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{int}}",
+          "display": false
+        },
+        ". In Standard Model gauge theories, L shows a symmetry under both global and local gauge transformations, that is transformations of the Dirac wave spinor which represents the fundamental fermionic matter fields and which is governed by ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        ". The requirement to formulate a respective gauge theory in the most general gauge covariant representation, that is to represent the theory in such a way that no dependency from the obviously non-instantiable gauge transformations exists (both global and local), is usually known as the gauge principle. This requirement is fulfilled on the Lagrangian level if ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        " is enlarged to ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        " + ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{int}}",
+          "display": false
+        },
+        ", where ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{int}}",
+          "display": false
+        },
+        " includes an inhomogeneous term – basically the gradient of the phase of the wave function – needed to satisfy the gauge symmetry requirement. As such, ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        " has no further physical significance (as sometimes mistakenly stated in parts of the textbook literature), the structure of ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        ", however, does of course reflect the particular gauge symmetry. Technically speaking, ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        " mainly includes the connection field of a principal fiber bundle, the appropriate geometrical structure to describe a Lagrangian gauge theory. The connection has values in the Lie algebra of the Lie structure group of the bundle, the physically considered gauge group (for a detailed presentation see for instance Lyre, 2004a, b)."
+      ],
+      "zh": [
+        "现代物理学中的规范理论，即由各自的规范对称性刻画的理论，最突出地体现在标准模型的杨—米尔斯理论中，代表了对称性作为相关性过滤器应用的最重要情形。在拉格朗日进路——高能物理研究者共同使用的数学框架——中，规范理论主要由一个拉格朗日量 L 表示，它由三项构成：动能部分 ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        "、规范场拉格朗日量 ",
+        {
+          "type": "math",
+          "tex": "L_f",
+          "display": false
+        },
+        " 和相互作用项 ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{int}}",
+          "display": false
+        },
+        "。在标准模型规范理论中，L 在整体和局域规范变换下都显示对称性，即狄拉克波旋量的变换，该旋量表示基本费米子物质场并受 ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        " 支配。要求以最一般的规范协变表示来表述相应的规范理论，即以不存在对显然不可实例化的规范变换（无论整体还是局域）的依赖的方式表示理论，这通常被称为规范原理。在拉格朗日量层面，如果把 ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        " 扩充为 ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        " + ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{int}}",
+          "display": false
+        },
+        "，这个要求就得到满足，其中 ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{int}}",
+          "display": false
+        },
+        " 包含一个非齐次项——基本上是波函数相位的梯度——用以满足规范对称性要求。就此而言，",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        " 没有进一步的物理意义（如有时部分教科书文献错误陈述的那样），然而 ",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        " 的结构当然反映特定的规范对称性。技术上说，",
+        {
+          "type": "math",
+          "tex": "L_{\\mathrm{kin}}",
+          "display": false
+        },
+        " 主要包含主纤维丛的联络场，这是描述拉格朗日规范理论的恰当几何结构。联络取值于丛的李结构群——物理上考虑的规范群——的李代数（详细论述参见例如 Lyre, 2004a, b）。",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "底本在本段后半仍写 ",
+            {
+              "type": "math",
+              "tex": "L_{\\mathrm{kin}}",
+              "display": false
+            },
+            "。联络通过协变导数引入，出现在作者前述的 ",
+            {
+              "type": "math",
+              "tex": "L_{\\mathrm{kin}}+L_{\\mathrm{int}}",
+              "display": false
+            },
+            " 中，未作协变化的自由动能项本身不含联络。"
+          ]
+        }
+      ],
+      "units": 313
+    },
+    {
+      "id": "ch28-u032",
+      "source_ids": [
+        "ch28-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The gauge symmetry group not only determines the connection, physically identified as the gauge potential, but also the derivative of the potential, the gauge field tensor (out of which ",
+        {
+          "type": "math",
+          "tex": "L_f",
+          "display": false
+        },
+        " is built). While the gauge potential isn’t a directly observable, i.e. measurable, quantity, the gauge field strength is. Whether a particular gauge field is realized in nature is of course an empirical question, its mathematical characterization can however simply be given by the gauge group under which the gauge tensor, technically the curvature tensor of the bundle, is preserved. Due to the Standard Model, the groups U(1), SU(2) and SU(3) refer to gauge fields with real instantiations. Again, the field tensors are invariants under the respective gauge symmetries, meaning that the gauge transformations themselves have no physical instantiations. In principle only the gauge invariants allow for a realistic interpretation (though this does not necessarily mean that the gauge invariance of a quantity is sufficient for its observability)."
+      ],
+      "zh": [
+        "规范对称群不仅决定联络——物理上认定为规范势——还决定势的导数，即规范场张量（",
+        {
+          "type": "math",
+          "tex": "L_f",
+          "display": false
+        },
+        " 由它构成）。规范势不是直接可观察的即可测量的量，规范场强则是。某个特定规范场是否在自然界中实现当然是经验问题，但其数学刻画可以简单地由规范群给出：规范张量——技术上即丛的曲率张量——在该群下保持不变。根据标准模型，群 U(1)、SU(2) 和 SU(3) 指涉具有物理实例的规范场。再次强调，场张量在各自规范对称性下是不变量，这意味着规范变换本身没有物理实例。原则上只有规范不变量允许实在论解释（尽管这并不必然意味着一个量的规范不变性足以保证其可观察性）。",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "底本把各场强张量都称为规范变换下的“不变量”。对非阿贝尔规范群，场强一般协变地变换，取适当迹等得到的量才是规范不变量"
+          ]
+        }
+      ],
+      "units": 162
+    },
+    {
+      "id": "ch28-u033",
+      "source_ids": [
+        "ch28-u033"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Two Strands of Structural Realism"
+      ],
+      "zh": [
+        "3 结构实在论的两条路线"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch28-u034",
+      "source_ids": [
+        "ch28-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is now time to introduce Structural Realism (SR). Broadly construed, SR is the doctrine that scientific realists should be committed to the structural content of our best theories rather than its content in terms of object-like entities. The account has its forerunners in such eminent thinkers like Poincaré, Eddington, Weyl on the physicists side as well as Cassirer, Schlick, Russell and Quine on the side of philosophy. The recent debate decomposes into two strands. John Worrall (1989) recommended SR as an appropriate means to make capital out of the prospects of realism, notably its straightforward explanation of the success of science without making it a miracle (the “no miracles argument”), while simultaneously escaping the two most dominant anti-realistic arguments: the pessimistic meta-induction (PMI) and theory underdetermination (TUD). Let us call this the Worrall-type SR, based on arguments from the general philosophy of science, in particular arguments about the pros and cons of scientific realism. The second strand was mainly inaugurated by the work of Steven French (1998) and James Ladyman (1998; French and Ladyman, 2003) and here the idea is that arguments in favour of SR are derived directly from an ontological analysis of the particular sciences, notably modern physics. Call this the French– Ladyman-type SR, to which we will focus in a moment."
+      ],
+      "zh": [
+        "现在该引入结构实在论（SR）了。宽泛地说，SR 是这样一种学说：科学实在论者应对当前最佳理论的结构内容作实在论承诺，而非对理论所说的对象型实体作这样的承诺。这一说明的先驱在物理学家一侧有彭加勒、爱丁顿、魏尔这样的杰出思想家，在哲学一侧有卡西尔、石里克、罗素和蒯因。最近的争论分为两条路线。约翰·沃勒尔（1989）推荐 SR 作为恰当手段，既保留实在论有说服力之处——特别是它对科学成功的不诉诸奇迹的直接解释（“无奇迹论证”）——同时又避开两个最主导的反实在论论证：悲观元归纳（PMI）和理论欠决定性（TUD）。让我们称之为沃勒尔型 SR，它基于一般科学哲学的论证，特别是关于科学实在论利弊的论证。第二条路线主要由史蒂文·弗兰奇（1998）和詹姆斯·莱德曼（1998；French and Ladyman, 2003）的工作开创，这里的想法是：支持 SR 的论证直接来自对特定科学、特别是现代物理学的本体论分析。称之为弗兰奇—莱德曼型 SR，我们马上聚焦于它。"
+      ],
+      "units": 215
+    },
+    {
+      "id": "ch28-u035",
+      "source_ids": [
+        "ch28-u035"
+      ],
+      "page": "497",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But let us, ever so briefly, first consider Worrall-type SR. Confronted with PMI, SR proponents point out that the structural aspects show a far greater continuity through theory change than the notorious turn overs of theoretical terms referring to supposed object-like entities. A nice little example can be given from the early history of gauge theories. Classical electromagnetism shows a well-known gauge freedom in the potential-formulation under a group isomorphic to the real numbers. Quantum electrodynamics, the historical successor, is properly understood as a U(1) gauge theory with an underlying fiber bundle structure, where the potentials represent connection fields which again take on values in the reals, now considered as the Lie algebra of the bundle’s structure group, the gauge group U(1). The group and invariance structure of the former theory has thus been embedded into the larger mathematical structure of the successor theory."
+      ],
+      "zh": [
+        "但让我们先极其简要地考虑沃勒尔型 SR。面对 PMI，SR 的支持者指出：结构方面在理论变迁中表现出的连续性，远大于那些指称假定对象式实体的理论词项的著名更替。可以从规范理论的早期历史给出一个小而好的例子。经典电磁学在势表述中显示一种众所周知的规范自由，其规范群同构于实数的加法群。量子电动力学——历史上的后继者——恰当理解为具有底层纤维丛结构的 U(1) 规范理论，其中势表示联络场，联络场仍取值于实数，只是现在实数被视为丛的结构群——规范群 U(1)——的李代数。于是前一个理论的群与不变性结构被嵌入后继理论更大的数学结构之中。"
+      ],
+      "units": 146
+    },
+    {
+      "id": "ch28-u036",
+      "source_ids": [
+        "ch28-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Surely not every progress in science shows such an elegant retention of structure through theory change. In order to avoid the force of PMI, one has to come up with an at least half-convincing reconstruction of the history of scientific progress in terms of an entirely structural characterization of theories. And this, of course, is an open research project, albeit certain steps in this direction are in fact already done (one such step is the work of Scheibe (1997/1999) about theory reduction within a fairly structural approach). Nevertheless, it seems quite reasonable to try to circumvent the anti-realistic threat of PMI from a structuralist perspective, and likewise the threat of TUD. By not committing us to an ontology of objects, SR proponents claim, we are able to escape the usual underdetermination scenarios. For there is a far greater similarity between theory alternatives or rivalling theoretical frameworks regarding their structural content as opposed to their entity content. Of course it is not clear whether TUD as a general threat is always limited to rival entities as opposed to structure. But given the fact that convincing cases of TUD (i.e. no fancy artificial or pathological examples) within the practising sciences are seldom to be found anyhow, a convincing case of structural incompatibility of two otherwise empirically indistinguishable theories is indeed not in sight."
+      ],
+      "zh": [
+        "当然，并非科学的每一步进步都在理论变迁中显示如此优雅的结构保留。要避免 PMI 的力量，就必须以完全结构化的理论刻画，对科学进步的历史给出至少半令人信服的重建。而这当然是一个开放的研究计划，尽管朝这个方向的某些步骤事实上已经完成（一个这样的步骤是沙伊贝（1997/1999）关于相当结构化进路中理论还原的工作）。尽管如此，从结构主义视角尝试规避 PMI 的反实在论威胁、以及同样规避 TUD 的威胁，似乎相当合理。SR 支持者声称，由于不承诺于对象的本体论，我们就能避开通常的欠决定性情景。因为理论备选或相互竞争的理论框架之间，就其结构内容而言的相似性远大于就其实体内容而言。当然，TUD 作为一般威胁是否总是限于竞争实体而非结构，并不清楚。但鉴于在实际科学研究中本来就很少找到令人信服的 TUD 案例（即不是异想天开的人为或病态例子），两个在其他方面经验上不可区分的理论在结构上不相容的令人信服的案例，确实还看不到。"
+      ],
+      "units": 223
+    },
+    {
+      "id": "ch28-u037",
+      "source_ids": [
+        "ch28-u037"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For TUD, too, a nice gauge theoretic example can be given: Gauge theories comprise so-called holonomy and non-trivial topological effects. Regarding the former the Aharonov-Bohm (AB) effect is a case at hand. In this type of effect the gauge field seems to interact non-locally with the matter field wave function, thereby violating both the principle of local action and the concept of point-like interaction. In order to avoid such non-locality an explanation in terms of gauge potentials can be given at the metaphysical price of giving up separability and observability of the underlying entities while at the same time retaining local action and point-like interaction. A third interpretation is also feasible in terms of holonomies or Wilson loops as basic entities (that is loop integrals of the potential), which violate separability and point-like interaction, but are gauge invariant and, hence, observable. The metaphysical question about the underlying basic entities of gauge theories (fields, potentials or holonomies) is thus underdetermined by empirical evidence. SR, however, has a straightforward response at hand: it is precisely the gauge group (as well as the entire fiber bundle structure) which is invariant in all three rivalling interpretations. The anti-realistic threat of TUD vanishes once our realistic commitment sticks with the group structure only (cf. Lyre, 2004a, b)."
+      ],
+      "zh": [
+        "对 TUD 也可以给出一个漂亮的规范理论例子：规范理论包含所谓和乐与非平凡拓扑效应。关于前者，阿哈罗诺夫—玻姆（AB）效应就是一例。在这类效应中，规范场似乎与物质场波函数非定域地相互作用，从而违反定域作用原理和点状相互作用概念。为避免这种非定域性，可以用规范势给出解释，其形而上学代价是放弃底层实体的可分离性与可观察性，同时保留定域作用与点状相互作用。第三种解释也可行：以和乐或威尔逊回路（这里用势的闭路积分来刻画）为基本实体，它们违反可分离性与点状相互作用，但是规范不变的，因而可观察。于是，关于规范理论底层基本实体（场、势还是和乐）的形而上学问题被经验证据欠决定。然而 SR 有现成的直接回应：恰恰是规范群（以及整个纤维丛结构）在三种竞争解释中都不变。一旦我们的实在论承诺只固守群结构，TUD 的反实在论威胁就消失了（参见 Lyre, 2004a, b）。"
+      ],
+      "units": 212
+    },
+    {
+      "id": "ch28-u038",
+      "source_ids": [
+        "ch28-u038"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But, as mentioned, such “indirect” Worrall-type evidence for SR isn’t the only game in town. A more direct proof for SR’s metaphysical picture of the world would be far more significant. This is exactly the more recent strategy of the French–Ladyman-type of arguments in favour of SR. And although it is certainly not possible to read off one’s metaphysics from physics in a naïve manner, it might very well be possible to draw certain consequences from an ontological analysis."
+      ],
+      "zh": [
+        "但如前所述，这种“间接的”沃勒尔型 SR 证据并不是唯一的选择。对 SR 的形而上学世界图景的更直接证明会有意义得多。这正是较新的弗兰奇—莱德曼型支持 SR 论证的策略。虽然肯定不可能以朴素的方式从物理学读出形而上学，但完全可能从本体论分析中引出某些结论。"
+      ],
+      "units": 80
+    },
+    {
+      "id": "ch28-u039",
+      "source_ids": [
+        "ch28-u039"
+      ],
+      "page": "498",
+      "canonical_kind": "paragraph",
+      "en": [
+        "One such consequence could be the “metaphysical underdetermination” ascribed to quantum theory by French (1998). He argues that quantum theory is plagued by an underdetermination of a very special kind which affects even the core metaphysical concept of individuality itself – more precisely the question whether quantum particle indistinguishability leaves us with non-individuals or rather some form of primitive thisness or haecceity. And indeed a rather similar scenario applies to the metaphysics of spacetime points, where diffeomorphism invariance plays the analogous role to permutation invariance in quantum theory (cf. Stachel, 2002)."
+      ],
+      "zh": [
+        "一个这样的结论可能是弗兰奇（1998）归于量子理论的“形而上学欠决定性”。他论证说，量子理论受一种非常特殊的欠决定性困扰，它甚至影响个体性这一核心形而上学概念本身——更准确地说，是量子粒子不可分辨性留给我们的究竟是非个体，还是某种原初的“此性”（thisness，亦称 haecceity）这个问题。的确，类似情景也适用于时空点的形而上学，其中微分同胚不变性扮演类似于量子理论中置换不变性的角色（参见 Stachel, 2002）。"
+      ],
+      "units": 90
+    },
+    {
+      "id": "ch28-u040",
+      "source_ids": [
+        "ch28-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In view of the above mentioned TUD scenario of gauge theories we may as well state that insofar as the notions of locality and separability are underdetermined in their application and hence the spatiotemporal nature of our physics’ most fundamental entities as well as the doctrine of Humean supervenience are left undecided, again a type of underdetermination occurred which affects genuine and deep metaphysical concepts – and which therefore suggests in a more direct way to give up any realistic commitment according object-like entities and to stick with the symmetry structure alone. So besides quantum theory and general relativity we also find French–Ladyman-type of arguments for SR in the field of gauge theories. Indeed, an increasing community of authors within recent years has joined the new strand of SR including Tian Yu Cao, Mauro Dorato, Michael Esfeld, Michael Redhead, Dean Rickles, Simon Saunders and Howard Stein, to mention just a few."
+      ],
+      "zh": [
+        "鉴于上述规范理论的 TUD 情景，我们也可以说：既然定域性与可分离性概念在其应用中被欠决定，从而我们物理学最基本实体的时空本性以及休谟式随附学说都悬而未决，那么就又出现了一种影响真正而深刻的形而上学概念的欠决定性——它因此以更直接的方式建议放弃任何关于对象式实体的实在论承诺，只坚持对称结构。所以除了量子理论和广义相对论，我们也在规范理论领域找到弗兰奇—莱德曼型的支持 SR 论证。的确，近年来加入 SR 新路线的作者群体不断扩大，包括曹天予、毛罗·多拉托、米夏埃尔·埃斯菲尔德、迈克尔·雷德黑德、迪恩·里克尔斯、西蒙·桑德斯和霍华德·斯坦，仅举数例。"
+      ],
+      "units": 151
+    },
+    {
+      "id": "ch28-u041",
+      "source_ids": [
+        "ch28-u041"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Intermediate Structural Realism"
+      ],
+      "zh": [
+        "4 中间型结构实在论"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch28-u042",
+      "source_ids": [
+        "ch28-u042"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "James Ladyman (1998) introduced another distinction between two kinds or variants of SR: an epistemic (ESR) and an ontic version (OSR). His idea was to combine the French–Ladyman-type of arguments for SR in particular with OSR. There is, however, no immediate reason for this parallel. While it may be the case that Worrall-type SR is more naturally in tune with ESR – the view that structures as well as the bearers of the structure exist, but that such bearers are epistemically inaccessible to us – no such immediate connection between French–Ladyman-type arguments and OSR – the radical view that, as the slogan goes, “structures is all there is” – exists. It may instead very well be the case that authors who prefer to consider French–Ladyman-type of arguments for SR, will nevertheless reject OSR."
+      ],
+      "zh": [
+        "詹姆斯·莱德曼（1998）引入了 SR 的两种类型或变体之间的另一个区分：认识论结构实在论（ESR）和本体论结构实在论（OSR）。他的想法是把弗兰奇—莱德曼型支持 SR 论证特别与 OSR 结合起来。然而这种对应没有直接理由。虽然沃勒尔型 SR 也许更自然地与 ESR 合拍——即结构与结构的承载者都存在、但这样的承载者在认识上不可通达的观点——弗兰奇—莱德曼型论证与 OSR——如口号所说“结构就是一切”的激进观点——之间却不存在这种直接联系。完全可能的是：偏好考虑弗兰奇—莱德曼型支持 SR 论证的作者，仍然会拒斥 OSR。"
+      ],
+      "units": 132
+    },
+    {
+      "id": "ch28-u043",
+      "source_ids": [
+        "ch28-u043"
+      ],
+      "page": "499",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Michael Esfeld (2004), for instance, argues for a version of SR he calls moderate SR. But at the same time, Esfeld joins company with the majority of both defenders and critics of SR who feel uneasy – to say the least – with the radical idea of OSR, which seems to suggest that if it is only structures that exist and if structures are really just sets of relations, but that such relations need certain relata as their very constituents, then the doctrine of OSR seems to be a doctrine about relations without relata – and that is a logical inconsistency. Instead, what is quite possible and according to Esfeld appropriate to quantum theory (with its tensor product structure of Hilbert state spaces which lead to correlations and entangled states) is a pure ontology of relations, such that the relata exist but are individuated only through their structural and, hence, relational properties. Esfeld therefore seeks to reject the idea of intrinsic properties on the fundamental level."
+      ],
+      "zh": [
+        "例如，米夏埃尔·埃斯菲尔德（2004）论证了他称为温和结构实在论 的一个版本。但同时，埃斯菲尔德与大多数 SR 的辩护者和批评者站在一起，他们对 OSR 的激进想法感到不安——至少可以说。这个想法似乎暗示：如果只有结构存在，而结构真的只是关系集合，但这样的关系需要某些关系项作为其本身的构成要素，那么 OSR 学说似乎就是关于无关系项的关系的学说——而这是逻辑上的不一致。相反，相当可能而且按埃斯菲尔德的看法适合于量子理论（其希尔伯特态空间的张量积结构导致关联与纠缠态）的，是一种纯粹的关系本体论：关系项存在，但只通过其结构的、因而关系性的性质被个体化。因此埃斯菲尔德试图拒斥基本层面上的内在性质观念。"
+      ],
+      "units": 163
+    },
+    {
+      "id": "ch28-u044",
+      "source_ids": [
+        "ch28-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A further difficulty, however, arises here as well. As we have seen above, the overall topos of symmetries is their handling of the quite general concepts of change and persistence. This is in particular true for the symmetries of physical state spaces such as the Hilbert space of a quantum system. The symmetries of the state space highlight its structural features as invariants under the symmetry transformations. Such invariants, however, comprise intrinsic properties of physical object-systems. But Esfeld’s moderate SR focuses exclusively on state-dependent properties connected with the self-adjoint operators on a Hilbert space such as spatial position or particular spin directions. Inevitably, however, via its symmetries, any state space will at the same time also comprise state-independent, intrinsic properties – on the fundamental level all and those properties which are given by the invariants under the Poincaré and various gauge groups, i.e. mass, spin and the various charges."
+      ],
+      "zh": [
+        "然而这里也出现另一个困难。如上所见，对称性的总体论题是它们对变化与持存这两个相当一般的概念的处理。这对物理态空间——如量子系统的希尔伯特空间——的对称性尤其成立。态空间的对称性凸显其结构特征，作为对称变换下的不变量。然而这样的不变量包含物理对象系统的内在性质。但埃斯菲尔德的温和结构实在论 只关注与希尔伯特空间上自伴算符相联系的态依赖性质，如空间位置或特定自旋方向。然而不可避免的是，任何态空间通过其对称性同时也会包含不依赖具体状态的内在性质——在基本层面上，恰恰是那些由彭加勒群和各种规范群下的不变量给出的性质，即质量、自旋和各种荷。"
+      ],
+      "units": 149
+    },
+    {
+      "id": "ch28-u045",
+      "source_ids": [
+        "ch28-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is therefore implausible to seek for a pure metaphysics of relations – and this is all the more so if we are in search for a structurally declared metaphysics build on symmetries. State-independent, intrinsic properties are a necessary consequence of this view. And this is particularly important in case of the invariants of a state space under symmetry transformations without real instantiations such as gauge transformations. In this case a fortiori only the symmetry invariants can have a certain physical significance."
+      ],
+      "zh": [
+        "因此，寻求纯粹的关系形而上学是不可信的——如果我们在寻找建立在对称性之上的、以结构为基础的形而上学，就更是如此。不依赖具体状态的内在性质是这一观点的必然推论。这在态空间于没有物理实例的对称变换（如规范变换）下的不变量的情形中尤其重要。在这种情况下，更有理由说，只有对称不变量才能具有某种物理意义。"
+      ],
+      "units": 81
+    },
+    {
+      "id": "ch28-u046",
+      "source_ids": [
+        "ch28-u046"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Nevertheless, two further limiting remarks about the nature of the symmetry invariance properties are in order. First, such properties are, as we may say, still structurally defined or derived. That is, their ontological status is secondary in contrast to the symmetry structure which is primary. And second: Invariance properties are not sufficient for an individuation of objects. They merely allow for the determination of object classes – no essentialism has been invoked. Let us call the view about SR thus developed “Intermediate SR” – a position between ESR and OSR. Its connection to ESR is that the relata are not denied, its OSR connection is that the relata are, however, only structurally defined in the above sense."
+      ],
+      "zh": [
+        "尽管如此，关于对称不变性性质的本性，还有两条进一步的限定性评论是恰当的。第一，这样的性质仍然是——我们可以说——结构上定义或导出的。也就是说，与作为首要的对称结构相比，它们的本体论地位是次要的。第二：不变性性质不足以个体化对象。它们只足以确定对象属于哪一类，无须诉诸本质主义。让我们把这样得到的立场称为“中间型结构实在论”（ISR）——一个介于 ESR 与 OSR 之间的立场。它与 ESR 的联系在于不否认关系项；它与 OSR 的联系在于关系项只在上述意义上被结构地定义。"
+      ],
+      "units": 115
+    },
+    {
+      "id": "ch28-u047",
+      "source_ids": [
+        "ch28-u047"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "5 Structural Realism and Abductive-Transcendental Analysis"
+      ],
+      "zh": [
+        "5 结构实在论与溯因—先验分析"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch28-u048",
+      "source_ids": [
+        "ch28-u048"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It has sometimes been claimed in the literature that ESR is a variant of Kantianism (cf. French and Ladyman, 2003). Taken literally, this claim is of course nonsense, but a certain family resemblance stems from the fact that ESR denies access to the intrinsic natures of the things – and this echoes the Kantian thing-in-itself. But Kant’s program has of course far wider scope not invoked by ESR. It is a merging of transcendental idealism and empirical realism and, according to the former, the Kantian view refers to structures as transcendental structures of knowledge or cognition (from which the transcendental subject can be determined), whereas according to the latter it shows no realistic preference for structures over objects."
+      ],
+      "zh": [
+        "文献中有时声称 ESR 是康德主义的一个变体（参见 French and Ladyman, 2003）。按字面理解，这个声称当然是无稽之谈，但某种家族相似来自这样的事实：ESR 认为我们无法认识事物的内在本性——而这呼应康德的自在之物。但康德纲领的范围当然远为宽广，不是 ESR 所诉诸的。它是先验观念论与经验实在论的融合：按前者，康德观点把结构指为先验的知识或认识结构（由此可以规定先验主体）；按后者，它并不显示对结构甚于对象的实在论偏好。"
+      ],
+      "units": 117
+    },
+    {
+      "id": "ch28-u050",
+      "source_ids": [
+        "ch28-u050"
+      ],
+      "page": "500",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Moreover, SR, as a branch of scientific realism, concerns the status of theoretical terms rather than common-sense reality, whereas Kant considers reality in toto. So the claim should not be that any version of SR is literally a variant of Kantianism, but nevertheless the attempt shall now be made to collect the previous results together and to sketch the structure of an abductive-transcendental argument in favour of SR, more particularly ISR."
+      ],
+      "zh": [
+        "此外，SR 作为科学实在论的一个分支，关注理论词项的地位而非常识实在，而康德考虑的是整体实在。所以不应声称任何版本的 SR 按字面是康德主义的变体；尽管如此，现在应当尝试把前面的结果汇集起来，勾勒一个支持 SR、更具体地说支持 ISR 的溯因—先验论证的结构。"
+      ],
+      "units": 71
+    },
+    {
+      "id": "ch28-u051",
+      "source_ids": [
+        "ch28-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The first premiss is about the notion of experience: Experience means to recognize the change of the variable in relation to the permanent or persistent. Take this as an analytic statement about experience and, hence, empirical science. Experience would be impossible in both a world of absolute change or absolute persistence."
+      ],
+      "zh": [
+        "第一个前提关于经验概念：经验意味着以永久或持存的东西为参照，辨认哪些东西发生了变化。把这当作关于经验、因而关于经验科学的分析陈述。在绝对变化或绝对持存的世界中，经验都不可能。"
+      ],
+      "units": 51
+    },
+    {
+      "id": "ch28-u052",
+      "source_ids": [
+        "ch28-u052"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This relates to the second premiss: Symmetry is the general mathematical tool to analyze the interplay between change and persistence. Any empirical science must allow, at its bottom level, a law-like description of the world in terms of symmetry structures."
+      ],
+      "zh": [
+        "这关系到第二个前提：对称性是分析变化与持存相互作用的一般数学工具。任何经验科学都必须在最基础的层次容许用对称结构按定律描述世界。"
+      ],
+      "units": 40
+    },
+    {
+      "id": "ch28-u053",
+      "source_ids": [
+        "ch28-u053"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Thirdly: ISR is the minimal doctrine satisfying a realist commitment to empirical science. This is of course not to say that ISR is the only reasonable realist doctrine (which would be an absurd armchair verdict), but that it is minimal as regards a science of structurally defined entities."
+      ],
+      "zh": [
+        "第三：ISR 是满足对经验科学的实在论承诺的所作承诺最少的学说。这当然不是说 ISR 是唯一合理的实在论学说（那会是荒谬的扶手椅裁决），而是说它就一门关于结构定义的实体的科学而言是最小的。"
+      ],
+      "units": 48
+    },
+    {
+      "id": "ch28-u054",
+      "source_ids": [
+        "ch28-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "From this it follows that ISR is most plausibly the core of any realist position of fundamental empirical science. Here again the conclusion only presents ISR as a core position which must perhaps eventually be embedded in a wider position in the sense that more than structurally defined entities constituted by relational properties and intrinsic invariance properties are taken into account. The assumption, however, is that Occam’s razor (a further tacit premiss in the above argument) cuts in favour of ISR. Hence, as an inference from the most basic premisses about empirical science to the best realist explanation of its success today, ISR turns out the most plausible and natural candidate."
+      ],
+      "zh": [
+        "由此推出：ISR 最可信地是基础经验科学任何实在论立场的核心。这里结论同样只把 ISR 呈现为核心立场，它也许最终必须嵌入更宽的立场，意思是容许考虑其他实体，超出由关系性质和内在不变性质来确定的实体。然而假设是：奥卡姆剃刀（上述论证中另一个隐含前提）有利于 ISR。因此，作为从关于经验科学的最基本前提到对其今日成功的最佳实在论解释的推理，ISR 显得是最可信、最自然的候选者。"
+      ],
+      "units": 111
+    },
+    {
+      "id": "ch28-u049",
+      "source_ids": [
+        "ch28-u049"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch28-bibliography-001",
+      "source_ids": [
+        "ch28-ref006",
+        "ch28-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "M. Esfeld (2004): Quantum Entanglement and a Metaphysics of Relations. Studies in History and Philosophy of Modern Physics, 35(4):601–617."
+      ],
+      "zh": [
+        "M. Esfeld (2004): Quantum Entanglement and a Metaphysics of Relations. Studies in History and Philosophy of Modern Physics, 35(4):601–617."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch28-bibliography-002",
+      "source_ids": [
+        "ch28-ref007",
+        "ch28-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "S. French (1998): On the Withering Away of Physical Objects. In: Interpreting Bodies: Classical and Quantum Objects in Modern Physics, ed. E. Castellani. Princeton, NJ: Princeton University Press, pp. 93–113."
+      ],
+      "zh": [
+        "S. French (1998): On the Withering Away of Physical Objects. In: Interpreting Bodies: Classical and Quantum Objects in Modern Physics, ed. E. Castellani. Princeton, NJ: Princeton University Press, pp. 93–113."
+      ],
+      "shared": true,
+      "units": 31
+    },
+    {
+      "id": "ch28-bibliography-003",
+      "source_ids": [
+        "ch28-ref008",
+        "ch28-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "S. French and J. Ladyman (2003): Remodelling Structural Realism: Quantum Physics and the Metaphysics of Structure. Synthese, 136(1):31–56."
+      ],
+      "zh": [
+        "S. French and J. Ladyman (2003): Remodelling Structural Realism: Quantum Physics and the Metaphysics of Structure. Synthese, 136(1):31–56."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch28-bibliography-004",
+      "source_ids": [
+        "ch28-ref009",
+        "ch28-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "I. Kant. Kritik der reinen Vernunft. Riga, 1781 (B edition 1787). [Kant quotes and pages refer to: P. Guyer and A. W. Wood (eds.), I. Kant: Critique of Pure Reason. Cambridge University Press, 1998]."
+      ],
+      "zh": [
+        "I. Kant. Kritik der reinen Vernunft. Riga, 1781 (B edition 1787). [Kant quotes and pages refer to: P. Guyer and A. W. Wood (eds.), I. Kant: Critique of Pure Reason. Cambridge University Press, 1998]."
+      ],
+      "shared": true,
+      "units": 34
+    },
+    {
+      "id": "ch28-bibliography-005",
+      "source_ids": [
+        "ch28-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "I. Kant. Metaphysische Anfangsgründe der Naturwissenschaft. Riga, 1786."
+      ],
+      "zh": [
+        "I. Kant. Metaphysische Anfangsgründe der Naturwissenschaft. Riga, 1786."
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch28-bibliography-006",
+      "source_ids": [
+        "ch28-ref010",
+        "ch28-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "I. Kant. Über eine Entdeckung nach der alle neue Kritik der reinen Vernunft durch eine ältere entbehrlich gemacht werden soll (“Streitschrift gegen Eberhard”). 1790."
+      ],
+      "zh": [
+        "I. Kant. Über eine Entdeckung nach der alle neue Kritik der reinen Vernunft durch eine ältere entbehrlich gemacht werden soll (“Streitschrift gegen Eberhard”). 1790."
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch28-bibliography-007",
+      "source_ids": [
+        "ch28-ref011",
+        "ch28-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "J. Ladyman (1998): What Is Structural Realism? Studies in History and Philosophy of Science, 29(3):409–424."
+      ],
+      "zh": [
+        "J. Ladyman (1998): What Is Structural Realism? Studies in History and Philosophy of Science, 29(3):409–424."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch28-bibliography-008",
+      "source_ids": [
+        "ch28-ref014"
+      ],
+      "page": "501",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Lyre (2004a): Lokale Symmetrien und Wirklichkeit. Mentis, Paderborn."
+      ],
+      "zh": [
+        "H. Lyre (2004a): Lokale Symmetrien und Wirklichkeit. Mentis, Paderborn."
+      ],
+      "shared": true,
+      "units": 9
+    },
+    {
+      "id": "ch28-bibliography-009",
+      "source_ids": [
+        "ch28-ref014",
+        "ch28-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Lyre (2004b): Holism and Structuralism in U(1) Gauge Theory. Studies in History and Philosophy of Modern Physics 35(4):643–670."
+      ],
+      "zh": [
+        "H. Lyre (2004b): Holism and Structuralism in U(1) Gauge Theory. Studies in History and Philosophy of Modern Physics 35(4):643–670."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch28-bibliography-010",
+      "source_ids": [
+        "ch28-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "E. Scheibe (1997/1999): Die Reduktion physikalischer Theorien. 2 volumes, Springer, Berlin."
+      ],
+      "zh": [
+        "E. Scheibe (1997/1999): Die Reduktion physikalischer Theorien. 2 volumes, Springer, Berlin."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch28-bibliography-011",
+      "source_ids": [
+        "ch28-ref015",
+        "ch28-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "J. Stachel (2002): ‘The Relations Between Things’ Versus ‘The Things Between Relations’: The Deeper Meaning of the Hole Argument. In: D. Malament (ed.), Reading Natural Philosophy: Essays in the History and Philosophy of Science and Mathematics. Open Court, La Salle, IL, pp. 231–266."
+      ],
+      "zh": [
+        "J. Stachel (2002): ‘The Relations Between Things’ Versus ‘The Things Between Relations’: The Deeper Meaning of the Hole Argument. In: D. Malament (ed.), Reading Natural Philosophy: Essays in the History and Philosophy of Science and Mathematics. Open Court, La Salle, IL, pp. 231–266."
+      ],
+      "shared": true,
+      "units": 44
+    },
+    {
+      "id": "ch28-bibliography-012",
+      "source_ids": [
+        "ch28-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "J. Worrall (1989): Structural Realism: The Best of Both Worlds? Dialectica, 43:99–124."
+      ],
+      "zh": [
+        "J. Worrall (1989): Structural Realism: The Best of Both Worlds? Dialectica, 43:99–124."
+      ],
+      "shared": true,
+      "units": 14
+    }
+  ],
+  "notes": {}
+}

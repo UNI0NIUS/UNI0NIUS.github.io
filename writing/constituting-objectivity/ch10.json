@@ -1,0 +1,2771 @@
+{
+  "id": "ch10",
+  "title": "自然规律：康德式进路",
+  "originalTitle": "Laws of Nature: The Kantian Approach",
+  "outline": [
+    {
+      "anchor": "ch10-u003",
+      "title": "1 似律性、成律性、合律性",
+      "originalTitle": "1 Lawlikeness, Lawness, Lawfulness",
+      "level": 1
+    },
+    {
+      "anchor": "ch10-u012",
+      "title": "2 休谟式与前休谟式尝试的失败",
+      "originalTitle": "2 The Failure of the Humean and Pre-Humean Attempts",
+      "level": 1
+    },
+    {
+      "anchor": "ch10-u021",
+      "title": "3 回到康德",
+      "originalTitle": "3 Back to Kant",
+      "level": 1
+    },
+    {
+      "anchor": "ch10-u022",
+      "title": "3.1 问题的现状",
+      "originalTitle": "3.1 The Status Quaestionis",
+      "level": 2
+    },
+    {
+      "anchor": "ch10-u027",
+      "title": "3.2 先验层面",
+      "originalTitle": "3.2 The Transcendental Level",
+      "level": 2
+    },
+    {
+      "anchor": "ch10-u028",
+      "title": "3.2.1 立法的知性",
+      "originalTitle": "3.2.1 The Lawgiving Understanding",
+      "level": 3
+    },
+    {
+      "anchor": "ch10-u034",
+      "title": "3.2.2 一般自然与一般经验",
+      "originalTitle": "3.2.2 Nature überhaupt and Experience überhaupt",
+      "level": 3
+    },
+    {
+      "anchor": "ch10-u042",
+      "title": "3.3 形而上学层面",
+      "originalTitle": "3.3 The Metaphysical Level",
+      "level": 2
+    },
+    {
+      "anchor": "ch10-u043",
+      "title": "3.3.1 初始根据（Anfangsgründe）的问题",
+      "originalTitle": "3.3.1 The Problem of the Anfangsgründe",
+      "level": 3
+    },
+    {
+      "anchor": "ch10-u051",
+      "title": "3.3.2 物理自然的数学合律性",
+      "originalTitle": "3.3.2 The Mathematical Lawfulness of Physical Nature",
+      "level": 3
+    },
+    {
+      "anchor": "ch10-u058",
+      "title": "3.4 经验层面",
+      "originalTitle": "3.4 The Empirical Level",
+      "level": 2
+    },
+    {
+      "anchor": "ch10-u059",
+      "title": "3.4.1 经验规律与第二经验类比",
+      "originalTitle": "3.4.1 The Empirical Laws and the Second Analogy of Experience",
+      "level": 3
+    },
+    {
+      "anchor": "ch10-u085",
+      "title": "3.4.2 体系的统一性",
+      "originalTitle": "3.4.2 The Unity of System",
+      "level": 3
+    },
+    {
+      "anchor": "ch10-u106",
+      "title": "3.4.3 合律性",
+      "originalTitle": "3.4.3 Lawfulness",
+      "level": 3
+    },
+    {
+      "anchor": "ch10-u112",
+      "title": "3.4.4 石里克问题",
+      "originalTitle": "3.4.4 Schlick’s Problem",
+      "level": 3
+    },
+    {
+      "anchor": "ch10-u117",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch10-u001",
+      "source_ids": [
+        "ch10-u001"
+      ],
+      "page": "183",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch10-u002",
+      "source_ids": [
+        "ch10-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Giovanni Boniolo"
+      ],
+      "zh": [
+        "乔瓦尼·博尼奥洛"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch10-u004",
+      "source_ids": [
+        "ch10-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract The problem of the laws of nature inside a Kantian perspective is analyzed. In this way I try also to cover a lack in the contemporary debate on this issue: a debate that, almost totally and incredibly, has neglected, and is neglecting, the Kantian position. In particular, I show how the three Kantian levels (the transcendental, the metaphysical, and the empirical one) are connected and how the problem of nomologicity versus accidentality could be solved at the empirical level."
+      ],
+      "zh": [
+        "摘要 本文在康德视角内分析自然规律问题。借此我也试图弥补当代关于这一问题的讨论中的一个缺失：这场讨论几乎完全地、令人难以置信地忽视了、并且仍在忽视康德的立场。特别地，我表明康德的三个层面（先验的、形而上学的和经验的）如何相互联系，以及律则性与偶然性之争如何在经验层面得到解决。"
+      ],
+      "units": 80
+    },
+    {
+      "id": "ch10-u003",
+      "source_ids": [
+        "ch10-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Lawlikeness, Lawness, Lawfulness"
+      ],
+      "zh": [
+        "1 似律性、成律性、合律性"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch10-u005",
+      "source_ids": [
+        "ch10-u005"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "G. Boniolo Dipartimento di Medicina, Chirurgia e Odontoiatria, Faculty of Medicine, University of Milano, Italy FIRC Institute of Molecular Oncology, Via Adamello, 16, 20139, Milano, Italy e-mail: giovanni.boniolo@ifom-ieo-campus.it"
+      ],
+      "zh": [
+        "G. Boniolo Dipartimento di Medicina, Chirurgia e Odontoiatria, Faculty of Medicine, University of Milano, Italy FIRC Institute of Molecular Oncology, Via Adamello, 16, 20139, Milano, Italy e-mail: giovanni.boniolo@ifom-ieo-campus.it"
+      ],
+      "shared": true,
+      "units": 31
+    },
+    {
+      "id": "ch10-u006",
+      "source_ids": [
+        "ch10-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In The Structure of Science, E. Nagel is extremely pessimistic about the possibility of explicating in a rigorous way the concept of “law of nature”:"
+      ],
+      "zh": [
+        "在《科学的结构》中，E. 内格尔对以严格方式澄清“自然规律”概念的可能性极为悲观："
+      ],
+      "units": 25
+    },
+    {
+      "id": "ch10-u009",
+      "source_ids": [
+        "ch10-u009"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "There is […] more than an appearance of futility in the recurring attempts to define with great logical precision what is a law of nature – virtue of its possessing an inherent “essence” which the definition must articulate. For not only is the term ‘law’ vague in its current usage, but its historical meaning has undergone many changes. (Nagel, 1961, pp. 49–50)"
+      ],
+      "zh": [
+        "反复尝试以极大的逻辑精确性来定义什么是自然规律——凭借它拥有一种内在的“本质”，而定义必须阐明这种本质——这些尝试[……]不只是表面上显得徒劳。因为“规律”一词不仅在当前用法中含糊不清，其历史含义也经历了许多变化。（Nagel, 1961, pp. 49–50）"
+      ],
+      "type": "quote",
+      "units": 61
+    },
+    {
+      "id": "ch10-u007",
+      "source_ids": [
+        "ch10-u007"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If we seriously considered this suggestion, there would be little point in working on this topic. Actually Nagel’s graphic and discouraging judgment can be considered as the honest conclusion that a good observer of the discussions on laws among the German and Austrian neo-positivists and the American post-positivists must arrive at."
+      ],
+      "zh": [
+        "如果我们认真考虑这个说法，那么在这个题目上工作就没有什么意义了。事实上，内格尔这个形象而令人沮丧的判断，可以被看作一个诚实的结论：任何仔细观察德奥新实证主义者与美国后实证主义者之间关于规律的讨论的人，都必然得出这个结论。"
+      ],
+      "units": 51
+    },
+    {
+      "id": "ch10-u008",
+      "source_ids": [
+        "ch10-u008"
+      ],
+      "page": "184",
+      "canonical_kind": "paragraph",
+      "en": [
+        "After 1961 and Nagel’s dismal epigraph on the failure of the neo-positivist and post-positivist attempts to grasp nomologicity, something apparently strange happened. While both neo-positivist and post-positivist attempts were strongly characterised by an emphasis on the logical structure of the statements supposed to be laws, and on a radical refusal of both modal approaches and metaphysical solutions, after the 1960s both the modal and the metaphysical way have been brought up again, as if all the previous caution was forgotten. This passage from a strong anti-metaphysical position to a strong metaphysical one was made possible by a sort of inter-kingdom during which supporters of the counterfactual approach played the role of joining ring."
+      ],
+      "zh": [
+        "1961年之后，在内格尔为新实证主义和后实证主义把握律则性的尝试之失败写下阴郁的题辞之后，发生了某种看似奇怪的事情。新实证主义和后实证主义的尝试都强烈地以强调被认为是规律的陈述的逻辑结构为特征，并激进地拒斥模态进路和形而上学解决方案；然而在1960年代之后，模态之路和形而上学之路都被重新提起，仿佛先前的一切谨慎都被遗忘了。从强反形而上学立场到强形而上学立场的这一转变，之所以可能，是由于一段某种“空位期”，其间反事实条件句进路的支持者扮演了连接环的角色。"
+      ],
+      "units": 113
+    },
+    {
+      "id": "ch10-u010",
+      "source_ids": [
+        "ch10-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Needless to say, the new metaphysical attempts have been severely criticised, not least because the memory of the anti-metaphysical heritage had not completely vanished. Nevertheless all this debate has been characterised by a surprising omission of the Kantian approach.",
+        {
+          "type": "note",
+          "id": "ch10-n01",
+          "label": "1"
+        },
+        " This is not the right place to inquire into the sociological and historical reasons for this oblivion. Our aim is rather to recall what Kant said in order to show the relevance of his suggestions."
+      ],
+      "zh": [
+        "不用说，新的形而上学尝试受到了严厉批评，尤其因为反形而上学遗产的记忆尚未完全消失。然而，所有这些讨论都有一个令人惊讶的特点：遗漏了康德式进路。",
+        {
+          "type": "note",
+          "id": "ch10-n01",
+          "label": "1"
+        },
+        "这里不是探究这种遗忘的社会学和历史原因的恰当场所。我们的目的毋宁是回顾康德所说的话，以表明其建议的相关性。"
+      ],
+      "units": 74
+    },
+    {
+      "id": "ch10-u011",
+      "source_ids": [
+        "ch10-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To begin with, a terminological remark is in order. There is a difference between: (1) lawlikeness; (2) lawness; (3) lawfulness. Lawlikeness regards the fact that certain statements, in particular the universal conditionals, have the form of a law, even if it is not said that they are laws. Lawness",
+        {
+          "type": "note",
+          "id": "ch10-n02",
+          "label": "2"
+        },
+        " has to do with the necessary and sufficient conditions characterising a law. Therefore lawness is what characterises a lawlike statement to be a law. What I will call “Schlick’s problem” is exactly the problem concerning lawness, that is, using different words, nomologicity. Finally lawfulness will be used to indicate, with Pearson (1892, p. 72), “what is not prohibited by the law”. Thus I will speak of the lawfulness of nature to indicate what is allowed and not allowed in nature.",
+        {
+          "type": "note",
+          "id": "ch10-n03",
+          "label": "3"
+        }
+      ],
+      "zh": [
+        "首先需要一个术语上的说明。以下三者之间有区别：(1) 似律性（lawlikeness）；(2) 成律性（lawness）；(3) 合律性（lawfulness）。似律性涉及这样一个事实：某些陈述，特别是全称条件句，具有规律的形式，即使还不能断定它们确实是规律。成律性",
+        {
+          "type": "note",
+          "id": "ch10-n02",
+          "label": "2"
+        },
+        "涉及刻画一条规律的必要且充分条件。因此，成律性就是使一个似律陈述成为规律的东西。我所谓“石里克问题”恰恰就是关于成律性的问题，换个词说，就是律则性问题。最后，合律性将沿用皮尔逊（1892, p. 72）的用法，表示“不被规律禁止的东西”。因此我将用自然的合律性来表示自然中什么被允许、什么不被允许。",
+        {
+          "type": "note",
+          "id": "ch10-n03",
+          "label": "3"
+        }
+      ],
+      "units": 129
+    },
+    {
+      "id": "ch10-u012",
+      "source_ids": [
+        "ch10-u012"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 The Failure of the Humean and Pre-Humean Attempts"
+      ],
+      "zh": [
+        "2 休谟式与前休谟式尝试的失败"
+      ],
+      "type": "subheading",
+      "units": 9
+    },
+    {
+      "id": "ch10-u013",
+      "source_ids": [
+        "ch10-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "One of the purposes of the philosophers belonging to the composite neo-positivist movement concerned the search for a rigorous criterion demarcating the not cognitively significant statements from the cognitively significant statements. As we know, it was thought that such a criterion could be identifiable by means of empirical verification. Immediately a new problem arose: the laws of nature are universal statements and therefore never verifiable in a conclusive way. What, then, should we do?"
+      ],
+      "zh": [
+        "属于成分复杂的新实证主义运动的哲学家们，其目的之一是寻找一个严格判据，把无认知意义的陈述与有认知意义的陈述区分开。众所周知，人们认为这个判据可以通过经验证实来识别。立刻出现了一个新问题：自然规律是全称陈述，因此永远不可能以结论性的方式被证实。那么我们该怎么办？"
+      ],
+      "units": 74
+    },
+    {
+      "id": "ch10-u014",
+      "source_ids": [
+        "ch10-u014"
+      ],
+      "page": "185",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This was the problem tackled by M. Schlick in his 1931 ‘Die kausalität in der gegenwartigen Physik’. During his discussion he investigated the possibility of introducing what, since then, has been called Maxwell’s requisite, according to which in the laws of nature values of the space–time coordinates must not appear (cf. Maxwell, 1873, p. II). He went on to identify the following problem:"
+      ],
+      "zh": [
+        "这正是 M. 石里克在其1931年的《当代物理学中的因果性》（Die Kausalität in der gegenwärtigen Physik）中处理的问题。在讨论中，他考察了引入此后所谓麦克斯韦要求的可能性，按照这个要求，自然规律中不得出现时空坐标的值（参见 Maxwell, 1873, p. II）。他接着指出了如下问题："
+      ],
+      "units": 64
+    },
+    {
+      "id": "ch10-u020",
+      "source_ids": [
+        "ch10-u020"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "So far as I can see, it would be imaginable, for example, that regular measurements of the elementary quantum of electricity (electron charge) would yield values for this quantity that fluctuate up and down quite uniformly by 5%, in say 7 hours, and then another 7 hours, and then 10 hours, without our being able to find even the slightest ‘cause’ for this; and perhaps there would be another fluctuation on the top of this, for which an absolute change of the earth’s position in space would be held responsible. The Maxwellian condition would then no longer be satisfied. (Schlick, 1931, pp. 181–182)"
+      ],
+      "zh": [
+        "就我所见，可以设想例如这样的情形：对基本电量子（电子电荷）的定期测量会给出这样的值，这个量相当均匀地上下波动5%，比如先持续7小时，接着又是7小时，然后是10小时，而我们却找不到哪怕最轻微的“原因”；也许在此之上还有另一种波动，人们会把地球在空间中位置的绝对变化当作它的原因。那样麦克斯韦条件就不再满足了。（Schlick, 1931, pp. 181–182）"
+      ],
+      "type": "quote",
+      "units": 104
+    },
+    {
+      "id": "ch10-u015",
+      "source_ids": [
+        "ch10-u015"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Then Schlick went on to suggest that the prediction of new data could be the right mark for a law to count as such. Though necessary, the criterion of the empirical confirmation reveals some problems, since the confirmation of a single prediction implies neither the definitive verification of the law nor the certainty that a causal relation really exists in the world (idem, p. 51)."
+      ],
+      "zh": [
+        "接着石里克提出，对新数据的预言可能是一条规律算作规律的恰当标志。经验确证判据虽然必要，却暴露出一些问题，因为单个预言的确证既不意味着规律的最终证实，也不意味着世界中确实存在因果关系的确定性（同上，p. 51）。"
+      ],
+      "units": 65
+    },
+    {
+      "id": "ch10-u016",
+      "source_ids": [
+        "ch10-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Schlick’s way out of this conundrum was extremely interesting. On the one hand, laws cannot be considered real scientific statements since they cannot be conclusively verified. But on the other hand they cannot even be simply expunged as not cognitively significant. Instead they must be seen as schemes to build up singular statements: the only ones that can be conclusively verified.",
+        {
+          "type": "note",
+          "id": "ch10-n04",
+          "label": "4"
+        }
+      ],
+      "zh": [
+        "石里克摆脱这个困境的办法极为有趣。一方面，规律不能被视为真正的科学陈述，因为它们不能被结论性地证实。但另一方面，它们也不能简单地作为无认知意义的东西被清除。毋宁说，它们必须被视为构造单称陈述的图式：唯有单称陈述才能被结论性地证实。",
+        {
+          "type": "note",
+          "id": "ch10-n04",
+          "label": "4"
+        }
+      ],
+      "units": 61
+    },
+    {
+      "id": "ch10-u017",
+      "source_ids": [
+        "ch10-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "However, Schlick considers the empirical confirmation of the predictions as the core requisite to demarcate a statement expressing a nomological regularity from a statement expressing an accidental regularity (I call it Schlick’s criterion), that is, using a late terminology, to solve the problem of the difference between a nomological universal statement and an accidental universal statement (I call it Schlick’s problem).",
+        {
+          "type": "note",
+          "id": "ch10-n05",
+          "label": "5"
+        }
+      ],
+      "zh": [
+        "然而，石里克把预言的经验确证视为核心要求，用以区分表达律则规则性的陈述与表达偶然规则性的陈述（我称之为石里克判据），也就是说，用后来的术语讲，用以解决律则全称陈述与偶然全称陈述之区别的问题（我称之为石里克问题）。",
+        {
+          "type": "note",
+          "id": "ch10-n05",
+          "label": "5"
+        }
+      ],
+      "units": 61
+    },
+    {
+      "id": "ch10-u018",
+      "source_ids": [
+        "ch10-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "There are two main reasons why this 1931 essay remains extremely important for the contemporary setting of the question concerning laws of nature. First. Schlick completely changes the physiognomy of the problem related to the nature of laws. To be sure, in the pre-neo-positivist period, chiefly within the European epistemological debate at the end of the nineteenth century, that problem had been tackled, but it had been dealt with from an essentially gnoseological point of view, that is, mainly the cognitive role of laws was discussed. With Schlick the problem concerns the determination of the necessary and sufficient conditions to characterise lawness (Schlick’s problem)."
+      ],
+      "zh": [
+        "这篇1931年的论文对当代自然规律问题的设定仍然极为重要，主要有两个原因。第一，石里克彻底改变了与规律之本性相关的问题的面貌。诚然，在前新实证主义时期，主要在十九世纪末欧洲认识论讨论中，这个问题已被处理过，但基本上是从认识论（gnoseological）观点处理的，即主要讨论规律的认知作用。随着石里克，问题变成了规定刻画成律性的必要且充分条件（石里克问题）。"
+      ],
+      "units": 104
+    },
+    {
+      "id": "ch10-u019",
+      "source_ids": [
+        "ch10-u019"
+      ],
+      "page": "186",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Second. Schlick’s work brilliantly exemplifies the research tradition of the neo-positivists, the post-positivists of the “standard view”, and the new regularists. It is a strong Humean tradition, which refuses a causal structure of the world, and at the same time considers as necessary, in a purely epistemological sense, the nomological statements describing the empirical regularities. The problem, for such a tradition, is not to understand why laws of nature are metaphysically necessary, but to differentiate the nomological regularities from the accidental regularities. Those who accept this approach, that is, the classical regularists (for example, Schlick, Reichenbach, Nagel, Pap) and the new regularists (for example, van Fraassen), will engage in a programme aimed at finding either logico-classical conditions (for example, Reichenbach, Nagel, Pap), or modal conditions (for example, A. Burks), or pragmatical conditions (for example, N. Goodman), or structural conditions (for example, van Fraassen). Those who do not accept this kind of program, that is, the anti-Humeans (the intensional realists such as D. Lewis; the necessitarists, such as W. Sellars, R. Pargetter, S. McCall, and P. Vallentyne; and the realists on the universals such as W. Kneale, D. Armstrong, F. Dretske, and M. Tooley) on the contrary take up a research programme addressed to show that laws are strictly connected to metaphysical nomologicity. It is this duality between Humean regularists and anti-Humean realists that has monopolised the debate on the laws of nature. Now, what about Kant? He was more or less neglected."
+      ],
+      "zh": [
+        "第二，石里克的工作出色地例示了新实证主义者、“标准观点”的后实证主义者以及新规则论者的研究传统。这是一个强的休谟式传统，它拒斥世界的因果结构，同时又在纯认识论的意义上把描述经验规则性的律则陈述视为必然的。对这一传统来说，问题不是理解自然规律为什么在形而上学上是必然的，而是把律则规则性与偶然规则性区分开。接受这一进路的人，即经典规则论者（例如石里克、赖欣巴赫、内格尔、帕普）和新规则论者（例如范·弗拉森），将致力于一个纲领，旨在寻找逻辑—经典条件（例如赖欣巴赫、内格尔、帕普）、或模态条件（例如 A. 伯克斯）、或语用条件（例如 N. 古德曼）、或结构条件（例如范·弗拉森）。不接受这类纲领的人，即反休谟论者（内涵实在论者如 D. 刘易斯；必然论者如 W. 塞拉斯、R. 帕杰特、S. 麦考尔和 P. 瓦伦泰因；以及共相实在论者如 W. 尼尔、D. 阿姆斯特朗、F. 德雷茨克和 M. 图利），则采取一个旨在表明规律与形而上学的律则性紧密相连的研究纲领。正是休谟式规则论者与反休谟式实在论者之间的这种二元对立，垄断了关于自然规律的讨论。那么康德呢？他差不多被忽视了。"
+      ],
+      "units": 242
+    },
+    {
+      "id": "ch10-u021",
+      "source_ids": [
+        "ch10-u021"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Back to Kant"
+      ],
+      "zh": [
+        "3 回到康德"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch10-u022",
+      "source_ids": [
+        "ch10-u022"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.1 The Status Quaestionis"
+      ],
+      "zh": [
+        "3.1 问题的现状"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch10-u023",
+      "source_ids": [
+        "ch10-u023"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Dealing with the topic of laws of nature in Kant’s critical works is not an easy task, especially if we consider the difficulties regarding the connection of the various levels within which the discussion about laws is carried out. There is (1) the transcendental level, almost exclusively dealt with in the Kritik der reinen Vernunft (1781 and 1787); (2) the metaphysical level in the Metaphysische Anfangsgründe der Naturwissenschaft (1786); (3) the empirical level, particularly discussed in the Kritik der Urteilskraft (1790). In what follows, I will offer an overview of Kant’s position concerning these three levels."
+      ],
+      "zh": [
+        "在康德的批判著作中处理自然规律这个题目不是易事，尤其考虑到关于规律之讨论所处的各个层面之间联系的困难。有 (1) 先验层面，几乎专门在《纯粹理性批判》（1781和1787）中处理；(2) 形而上学层面，在《自然科学的形而上学初始根据》（1786）中；(3) 经验层面，特别在《判断力批判》（1790）中讨论。下文我将概述康德关于这三个层面的立场。"
+      ],
+      "units": 96
+    },
+    {
+      "id": "ch10-u024",
+      "source_ids": [
+        "ch10-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let me make one last preliminary note. We must specify some lexical aspects, especially related to the terms Gesetzlichkeit and Gesetzmässigkeit. Both stem from Gesetz, a term which in the 1700 German and, thus, also in Kant’s language, means ‘law’ in the sense of something imposed. It differs from Recht, i.e., from ‘law’ seen as a command resulting from an agreement among independent individuals. In other words, the difference between Gesetz and Recht is precisely the Latin difference between lex and jus. So Kant uses Gesetz when talking about law of nature and moral law, while he uses Recht when dealing with political issues (cf. Krieger, 1965)."
+      ],
+      "zh": [
+        "让我作最后一条预备性说明。我们必须澄清一些词汇方面的问题，特别是与 Gesetzlichkeit 和 Gesetzmässigkeit 这两个术语相关的。两者都来自 Gesetz，这个词在18世纪的德语、从而也在康德的语言中，意指作为被强加之物的“规律”。它不同于 Recht，即作为独立个体之间协议之结果的命令的“法”。换言之，Gesetz 与 Recht 的区别正是拉丁语 lex 与 jus 的区别。所以康德在谈论自然规律和道德律时用 Gesetz，在处理政治问题时用 Recht（参见 Krieger, 1965）。"
+      ],
+      "units": 108
+    },
+    {
+      "id": "ch10-u025",
+      "source_ids": [
+        "ch10-u025"
+      ],
+      "page": "187",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Both Gesetzlichkeit and Gesetzmässigkeit are used by Kant in the sense of “to be in accordance with a law,” “to be allowed by a law.” Nevertheless, since the first is present only a few times in all his writings, this specification could be considered useless. Actually there are two different questions which Kant, because of obvious historical contextual limitations, does not distinguish. The first concerns the conformity to a law of something extralinguistical, i.e., its lawfulness. In this sense, nature is lawful, that is, it lies in accordance with a law. The second regards the universal statements. As we can see, while each law is a universal conditional statement, not each conditional universal statement is a law. While the term Gesetzmässigkeit is appropriate for the idea of lawfulness of something extralinguistical, the term Gesetzlichkeit is appropriate for the idea of nomological validity of an universal conditional statement, i.e., for its being law, or for its lawness. Both problems are present in Kant, with the difference that the first, concerning lawfulness of nature, is explicitly discussed, while the other, regarding lawness, i.e., the nomological validity, of a lawlike statement, is discussed only implicitly."
+      ],
+      "zh": [
+        "Gesetzlichkeit 和 Gesetzmässigkeit 康德都是在“与一条规律相符”“被一条规律允许”的意义上使用的。然而，由于前者在他全部著作中只出现少数几次，这个澄清似乎可以视为无用。实际上有两个不同的问题，康德由于明显的历史语境限制而没有加以区分。第一个涉及某个语言之外的东西对一条规律的符合，即它的合律性。在这个意义上，自然是合律的，即它处于与一条规律相符之中。第二个涉及全称陈述。我们可以看到，虽然每条规律都是一个全称条件句，但并非每个全称条件句都是规律。Gesetzmässigkeit 一词适合表示语言之外某物的合律性观念，而 Gesetzlichkeit 一词适合表示一个全称条件句的律则有效性观念，即它之为规律，或它的成律性。两个问题在康德那里都存在，区别在于：第一个关于自然的合律性的问题被明确讨论，而另一个关于似律陈述的成律性即律则有效性的问题只被隐含地讨论。"
+      ],
+      "units": 195
+    },
+    {
+      "id": "ch10-u026",
+      "source_ids": [
+        "ch10-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Considering these differences, it should be noted that the issue of lawfulness is present at the transcendental, at the metaphysical, and at the empirical level. The issue of the nomological validity is present only at the empirical level. In fact this is not surprising. Suffice it to recall that it is related to the distinction between accidental universal statements and nomological universal statements. This is not a problem at the transcendental level, because at this level, which universal statements are to be regarded as laws is well known: these are those which make the application of the categories possible, that is, the pure principles of understanding. Nor is it a problem at the metaphysical level: here the universal statements considered to be laws are precisely the metaphysical principles. The question takes on a different dimension at the empirical level, where it seems to be extremely problematical to sharply differentiate the empirical laws, i.e., the nomological universal statements, from the accidental universal statements."
+      ],
+      "zh": [
+        "考虑到这些区别，应当注意：合律性问题在先验、形而上学和经验三个层面都存在。律则有效性问题只存在于经验层面。事实上这并不奇怪。只需回想一下，它与偶然全称陈述和律则全称陈述的区分相关。这在先验层面不是问题，因为在这个层面上，哪些全称陈述应被视为规律是众所周知的：就是使范畴的应用成为可能的那些陈述，即纯粹知性原理。在形而上学层面也不是问题：这里被视为规律的全称陈述恰恰就是形而上学原理。这个问题在经验层面获得了不同的维度，在那里，把经验规律即律则全称陈述与偶然全称陈述严格区分开来，似乎极其成问题。"
+      ],
+      "units": 163
+    },
+    {
+      "id": "ch10-u027",
+      "source_ids": [
+        "ch10-u027"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.2 The Transcendental Level"
+      ],
+      "zh": [
+        "3.2 先验层面"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch10-u028",
+      "source_ids": [
+        "ch10-u028"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.2.1 The Lawgiving Understanding"
+      ],
+      "zh": [
+        "3.2.1 立法的知性"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch10-u029",
+      "source_ids": [
+        "ch10-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As is well known, Kant considers the faculty of understanding (Verstand) from many different angles: as spontaneity of knowledge, as faculty of thinking, as faculty of concepts, as faculty of judging (Vermögen zu Urteilen), as faculty of knowledge, and as faculty of rules. For understanding has the faculty of producing by itself the relevant representations. Moreover, if it is considered as faculty of thinking, since thinking, in this sense, means knowing by concepts, therefore it is, on the one hand, faculty of knowing, and, on the other hand, faculty of judging, because concepts are predicates of possible judgements (this is the Leitfaden that makes it possible to infer the table of the categories from the table of the judgements). Finally, it is a faculty of rules, since concepts are rules."
+      ],
+      "zh": [
+        "众所周知，康德从许多不同角度考察知性（Verstand）能力：作为知识的自发性，作为思维的能力，作为概念的能力，作为判断的能力（Vermögen zu Urteilen），作为认识的能力，以及作为规则的能力。因为知性具有自行产生相关表象的能力。此外，如果把它视为思维的能力，由于在这个意义上思维意味着通过概念来认识，因此它一方面是认识的能力，另一方面是判断的能力，因为概念是可能判断的谓词（这就是据以从判断表推出范畴表的线索，即 Leitfaden）。最后，它是规则的能力，因为概念就是规则。"
+      ],
+      "units": 130
+    },
+    {
+      "id": "ch10-u030",
+      "source_ids": [
+        "ch10-u030"
+      ],
+      "page": "188",
+      "canonical_kind": "paragraph",
+      "en": [
+        "At this point it is worth recalling that in the mid-1700s, philosophers addressing the epistemological problem of knowledge-formation, proceeded along two possible ways: (1) the object is given to us inductively, in order to be represented in its theoretical bareness; (2) the knowing subject knows the object producing it completely through its own representations (cf. KdrV, pp. 264–265, B 167–168). Kant, as we read in his letter of February 21, 1772, to Marcus Herz, rejects both the first possibility, which would imply an intellectus ectypus, and the second, which would imply an intellectus archetypus.",
+        {
+          "type": "note",
+          "id": "ch10-n06",
+          "label": "6"
+        },
+        " He proposes a third way between the radical kind of empiricism (the first possibility) and extreme rationalism (the second possibility). This solution means that there are “two stems of the human cognition (zwei Stämme der menschlichen Erkenntnis)” (idem, p. 152, B 29)",
+        {
+          "type": "note",
+          "id": "ch10-n07",
+          "label": "7"
+        },
+        ": sensibility and understanding. In this way, “experience itself is a kind of cognition requiring the understanding, whose rules I have to presuppose in myself before any object is given to me, hence a priori, which rule is expressed in concepts a priori, to which all objects of experience necessarily conform, and with which they must agree” (idem, p. 111, B XVII)."
+      ],
+      "zh": [
+        "这里值得回想：18世纪中叶，处理知识形成这一认识论问题的哲学家沿两条可能的道路前进：(1) 对象归纳地被给予我们，使我们能够表象未经理论加工的对象；(2) 认识主体通过自己的表象完全地产生对象从而认识对象（参见 KdrV, pp. 264–265, B 167–168）。正如我们在康德1772年2月21日致马库斯·赫茨的信中读到的，康德既拒斥第一种可能——它意味着摹型理智（intellectus ectypus），也拒斥第二种——它意味着原型理智（intellectus archetypus）。",
+        {
+          "type": "note",
+          "id": "ch10-n06",
+          "label": "6"
+        },
+        "他在激进的经验论（第一种可能）与极端的理性论（第二种可能）之间提出第三条道路。这个解决方案意味着存在“人类知识的两个主干（zwei Stämme der menschlichen Erkenntnis）”（同上，p. 152, B 29）",
+        {
+          "type": "note",
+          "id": "ch10-n07",
+          "label": "7"
+        },
+        "：感性和知性。这样，“经验本身是一种需要知性的认识，知性的规则我必须在任何对象被给予我之前、从而先天地在我自身中预设，这些规则表达在先天概念中，一切经验对象都必然符合这些概念，并且必须与它们一致”（同上，p. 111, B XVII）。"
+      ],
+      "units": 199
+    },
+    {
+      "id": "ch10-u031",
+      "source_ids": [
+        "ch10-u031"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now we are at the very heart of Kant’s Copernican revolution,",
+        {
+          "type": "note",
+          "id": "ch10-n08",
+          "label": "8"
+        },
+        " according to which:"
+      ],
+      "zh": [
+        "现在我们正处于康德哥白尼式革命",
+        {
+          "type": "note",
+          "id": "ch10-n08",
+          "label": "8"
+        },
+        "的核心，按照这场革命："
+      ],
+      "units": 14
+    },
+    {
+      "id": "ch10-u121",
+      "source_ids": [
+        "ch10-u121"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "reason has insight only into what it itself produces according to its own design; that it must take the lead with principles for its judgments according to constant laws and compel nature to answer to its questions, rather than letting guide its movement by keeping reason, as it were, in leading-strings. (idem, pp. 108–109, B XIII)"
+      ],
+      "zh": [
+        "理性只洞察它自己按照自己的设计所产生的东西；它必须带着按恒定规律作出判断的原理走在前面，迫使自然回答它的问题，而不是让自然仿佛牵着理性的学步带引导它的运动。（同上，pp. 108–109, B XIII）"
+      ],
+      "type": "quote",
+      "units": 57
+    },
+    {
+      "id": "ch10-u032",
+      "source_ids": [
+        "ch10-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "All the above considerations lead us to the idea that human understanding imposes its laws a priori – its pure principles (die Grundsätze der reinen Verstand) – on the world, constituting it as nature in its lawful character:"
+      ],
+      "zh": [
+        "上述全部考虑把我们引向这样一个观念：人的知性先天地把自身的规律，即它的纯粹原理（die Grundsätze der reinen Verstand），加诸世界，把世界构成为具有合律品格的自然："
+      ],
+      "units": 36
+    },
+    {
+      "id": "ch10-u122",
+      "source_ids": [
+        "ch10-u122"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "that the highest legislation for nature must lie in ourselves, i.e., in our understanding, and that we must not seek the universal laws of nature from nature by means of experience, but conversely, that we must seek nature, as regards its universal conformity to law, solely in the conditions of the possibility of experience that lie in our sensibility an understanding. (P, pp. 73, 319)"
+      ],
+      "zh": [
+        "对自然的最高立法必定在我们自身之中，即在我们的知性之中；我们不应通过经验从自然中寻求自然的普遍规律，相反，就自然的普遍合律性而言，我们必须仅仅在寓于我们的感性和知性之中的经验可能性条件中寻求自然。（P, pp. 73, 319）"
+      ],
+      "type": "quote",
+      "units": 66
+    },
+    {
+      "id": "ch10-u123",
+      "source_ids": [
+        "ch10-u123"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "the understanding does not draw its (a priori) laws from nature, but prescribes them to it. (idem, pp. 73–74, 320)"
+      ],
+      "zh": [
+        "知性不是从自然中汲取其（先天）规律，而是把规律规定给自然。（同上，pp. 73–74, 320）"
+      ],
+      "type": "quote",
+      "units": 21
+    },
+    {
+      "id": "ch10-u033",
+      "source_ids": [
+        "ch10-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Briefly put, it is the human understanding that produces the lawfulness of experience."
+      ],
+      "zh": [
+        "简言之，正是人的知性产生了经验的合律性。"
+      ],
+      "units": 13
+    },
+    {
+      "id": "ch10-u034",
+      "source_ids": [
+        "ch10-u034"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.2.2 Nature überhaupt and Experience überhaupt"
+      ],
+      "zh": [
+        "3.2.2 一般自然与一般经验"
+      ],
+      "type": "subheading",
+      "units": 8
+    },
+    {
+      "id": "ch10-u035",
+      "source_ids": [
+        "ch10-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The Transcendental Analytic (including the Analytic of Principles) may be seen as a long argument for the claim that the understanding anticipates a priori the form of possible experience in general (überhaupt). This ‘form’ of possible experience überhaupt is nothing but the regularity (Gesetzmässigkeit) of the phenomena in space and time (cf. Scaravelli, 1968, p. 292). Therefore the lawfulness, the Gesetzmässigkeit, of possible nature in general (möglichen Natur überhaupt) is the result of the legislating understanding."
+      ],
+      "zh": [
+        "先验分析论（包括原理分析论）可以被看作一个长篇论证，用以支持如下主张：知性先天预期了一般（überhaupt）可能经验的形式。一般可能经验的这种“形式”不是别的，正是时空中现象的合律性（Gesetzmässigkeit）（参见 Scaravelli, 1968, p. 292）。因此，一般可能自然（möglichen Natur überhaupt）的合律性，即 Gesetzmässigkeit，是立法的知性的结果。"
+      ],
+      "units": 76
+    },
+    {
+      "id": "ch10-u036",
+      "source_ids": [
+        "ch10-u036"
+      ],
+      "page": "189",
+      "canonical_kind": "paragraph",
+      "en": [
+        "At this point, it should be easy to grasp the true meaning of the principle of the synthetic a priori judgements, according to which “Every object stands under the necessary conditions of synthetic unity of the manifold of intuition in a possible experience” (KdrV, p. 283, B 197), that is, “The conditions of the possibility of experience in general [überhaupt] are at the same time conditions of the possibility of the objects of experience” (ibidem). For the conditions of the possibility of experience are exactly the pure principles of the understanding, that is, what makes both the constitution of objects and the constitution of the relations among them possible."
+      ],
+      "zh": [
+        "在这一点上，应该不难把握先天综合判断之原理的真正含义，按照该原理，“每一个对象都服从可能经验中直观杂多之综合统一的必要条件”（KdrV, p. 283, B 197），也就是说，“一般（überhaupt）经验之可能性的条件同时就是经验对象之可能性的条件”（同上）。因为经验之可能性的条件恰恰就是知性的纯粹原理，即既使对象的构成、又使对象之间关系的构成得以可能的东西。"
+      ],
+      "units": 109
+    },
+    {
+      "id": "ch10-u038",
+      "source_ids": [
+        "ch10-u038"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It follows immediately that nature is not something bare given to human being, but something cognitively constituted both (1) regarding its elements, that is, phenomena, and (2) regarding the nomological relations connecting those phenomena. In brief, it is to be thought of both (1) as natura materialiter spectata, that is, as the class of the phenomena constituted as such by the forms of space and time and then by the categories, and (2) as natura formaliter spectata, that is, as the class of the nomological relations among phenomena (cf. idem, pp. 262–264, B 163–165) constituted by the pure principles of the understanding, especially by the analogies of experience."
+      ],
+      "zh": [
+        "由此直接可得：自然不是赤裸裸地给予人类的东西，而是在认知上被构成的东西，这既涉及（1）它的要素，即现象，也涉及（2）连接这些现象的律则关系。简言之，它既应被思考为（1）质料上考察的自然（natura materialiter spectata），即由空间与时间形式、进而由范畴如此构成的现象的类；也应被思考为（2）形式上考察的自然（natura formaliter spectata），即由知性的纯粹原理、尤其是由经验类比所构成的现象间律则关系的类（参见同上，pp. 262–264, B 163–165）。"
+      ],
+      "units": 110
+    },
+    {
+      "id": "ch10-u039",
+      "source_ids": [
+        "ch10-u039"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let us focus on the meaning of ‘überhaupt’. We know that “transcendental” means all knowledge “that is occupied not so much with objects but rather with our mode of cognition of objects insofar as this is to be possible a priori” (idem, p. 149, B 25). Therefore dealing with the possibility of nature überhaupt means exactly dealing with the way according to which it is made possible a priori."
+      ],
+      "zh": [
+        "让我们聚焦于“一般”（überhaupt）的含义。我们知道，“先验的”意指一切“并不着重考察对象，而是考察我们认识对象的方式——就这种认识方式应当是先天可能的而言”的知识（同上，p. 149, B 25）。因此，处理一般自然的可能性，恰恰就是处理它得以先天可能的方式。"
+      ],
+      "units": 69
+    },
+    {
+      "id": "ch10-u040",
+      "source_ids": [
+        "ch10-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To grasp the relation between possible experience überhaupt and possible nature überhaupt, it is worth mentioning the main two meanings of the term ‘experience’ (Erfahrung): (1) one regarding “with”",
+        {
+          "type": "note",
+          "id": "ch10-n09",
+          "label": "9"
+        },
+        " what knowledge begins; (2) one concerning the realisation of knowledge through the matching between the empirical datum and the categorial apparatus. It is exactly this second meaning which is now interesting for us:"
+      ],
+      "zh": [
+        "要把握一般可能经验与一般可能自然之间的关系，值得提及“经验”（Erfahrung）一词的两个主要含义：（1）指知识“由之（mit）开始”的东西",
+        {
+          "type": "note",
+          "id": "ch10-n09",
+          "label": "9"
+        },
+        "；（2）指通过经验材料与范畴装置的匹配而实现的知识。正是第二个含义现在令我们感兴趣："
+      ],
+      "units": 62
+    },
+    {
+      "id": "ch10-u045",
+      "source_ids": [
+        "ch10-u045"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The possibility of experience in general is therefore at the same time the universal law of nature, and the principles of the former are themselves the laws of the latter. (P, pp. 72, 319)"
+      ],
+      "zh": [
+        "因此，一般经验的可能性同时就是自然的普遍规律，而前者的原理本身就是后者的规律。（P, pp. 72, 319）"
+      ],
+      "type": "quote",
+      "units": 34
+    },
+    {
+      "id": "ch10-u041",
+      "source_ids": [
+        "ch10-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Taking into account what has been said on nature überhaupt and on the law-giving understanding, since natura formaliter spectata is the product of the imposition of the pure laws of the understanding, it is nothing but a different way of considering the Gesetzmässigkeit der Natur überhaupt, that is, the lawfulness of nature at the transcendental level."
+      ],
+      "zh": [
+        "考虑到前面关于一般自然与立法知性所说的内容，既然形式上考察的自然（natura formaliter spectata）是施加知性纯粹规律的产物，它就不过是看待一般自然的合律性（Gesetzmässigkeit der Natur überhaupt）的另一种方式，即先验层面上自然的合律性。"
+      ],
+      "units": 56
+    },
+    {
+      "id": "ch10-u042",
+      "source_ids": [
+        "ch10-u042"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.3 The Metaphysical Level"
+      ],
+      "zh": [
+        "3.3 形而上学层面"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch10-u043",
+      "source_ids": [
+        "ch10-u043"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.3.1 The Problem of the Anfangsgründe"
+      ],
+      "zh": [
+        "3.3.1 初始根据（Anfangsgründe）的问题"
+      ],
+      "type": "subheading",
+      "units": 8
+    },
+    {
+      "id": "ch10-u044",
+      "source_ids": [
+        "ch10-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As soon as we move from the transcendental level of the pure principles of understanding (die Grundsätze der reinen Verstand) to the metaphysical level of the first metaphysical principles (die metaphysische Anfangsgründe) we bump into one of the main problems raised by contemporary Kantian scholars: what is the logical connection (if there is one) between the two kinds of principles? Though this is not the right place to discuss this question in detail, something must be said about it (cf. for example, Buchdahl, 1971; Allison, 1994; Friedman, 1994; O’Shea, 1997)."
+      ],
+      "zh": [
+        "一旦我们从知性纯粹原理（die Grundsätze der reinen Verstand）的先验层面转到第一形而上学原理（die metaphysische Anfangsgründe）的形而上学层面，就会撞上当代康德学者提出的主要问题之一：这两类原理之间的逻辑联系（如果有的话）是什么？虽然这里不是详细讨论该问题的恰当场所，但还是必须说上几句（例如参见 Buchdahl, 1971; Allison, 1994; Friedman, 1994; O’Shea, 1997）。"
+      ],
+      "units": 90
+    },
+    {
+      "id": "ch10-u046",
+      "source_ids": [
+        "ch10-u046"
+      ],
+      "page": "190",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Both in chapter III of the Doctrine of Method and in the Introduction to the Anfangsgründe, Kant gives a taxonomy of the different philosophical fields. In particular he defines metaphysics as “the system of pure reason (science), the whole (true as well as apparent) philosophical cognition from pure reason in systematic interconnection” (KdrV, p. 696, B 869)."
+      ],
+      "zh": [
+        "无论是在先验方法论第三章还是在《初始根据》的导论中，康德都给出了不同哲学领域的分类。特别是，他把形而上学定义为“纯粹理性（科学）的体系，即出自纯粹理性的全部哲学知识（无论是真的还是貌似真的）的系统关联”（KdrV, p. 696, B 869）。"
+      ],
+      "units": 57
+    },
+    {
+      "id": "ch10-u047",
+      "source_ids": [
+        "ch10-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Metaphysics itself is divided into two parts: (1) metaphysics of nature that concerns the speculative employment of pure reason",
+        {
+          "type": "note",
+          "id": "ch10-n10",
+          "label": "10"
+        },
+        "; (2) metaphysics of morals that concerns the practical employment of pure reason. One of the two fields of the metaphysics of nature is the “doctrine of bodies” (Körperlehre) – as Kant calls it in the Anfangsgründe – which deals with the objects of external senses. This is “physics [die Metaphysik der körperlichen Natur heisst Physik]” (idem, p. 699, B 874), or “physica rationalis”, or “physicam puram” (idem, p. 147, fn., B 21)."
+      ],
+      "zh": [
+        "形而上学本身分为两部分：（1）涉及纯粹理性思辨运用的自然形而上学",
+        {
+          "type": "note",
+          "id": "ch10-n10",
+          "label": "10"
+        },
+        "；（2）涉及纯粹理性实践运用的道德形而上学。自然形而上学的两个领域之一是“物体学说”（Körperlehre）——康德在《初始根据》中如此称呼它——它处理外部感官的对象。这就是“物理学（die Metaphysik der körperlichen Natur heisst Physik）”（同上，p. 699, B 874），或“理性物理学”（physica rationalis），或“纯粹物理学”（physicam puram）（同上，p. 147，脚注, B 21）。"
+      ],
+      "units": 89
+    },
+    {
+      "id": "ch10-u048",
+      "source_ids": [
+        "ch10-u048"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now since both the Grundsätze der reinen Verstand and the metaphysische Anfangsgründe are synthetic a priori judgements, what is the difference between them? To answer this question, it is necessary (though not sufficient) to grasp the difference between general metaphysics dealing with nature überhaupt, and the particular metaphysics concerning nature in particular, that is, that particularisation of nature limited to the particular (besondere) class of objects considered by that given science. This does not mean at all that general metaphysics and the particular metaphysics are independent from one another. Actually, the principles of the former, related to the possibility of an object überhaupt, make it possible that this object is also an object investigable by physics, in particular by pure physics."
+      ],
+      "zh": [
+        "既然纯粹知性原理（Grundsätze der reinen Verstand）与形而上学初始根据（metaphysische Anfangsgründe）都是先天综合判断，那么它们之间的区别何在？要回答这个问题，必须（虽不充分）把握处理一般自然的一般形而上学与涉及特殊自然的特殊形而上学之间的区别，这里所说的特殊自然，是限定在某门科学所研究的特定（besondere）对象类别内的自然。这绝不意味着一般形而上学与特殊形而上学彼此独立。实际上，前者的原理关涉一般对象的可能性，正是它们使这个对象也成为物理学、尤其是纯粹物理学可研究的对象。"
+      ],
+      "units": 121
+    },
+    {
+      "id": "ch10-u049",
+      "source_ids": [
+        "ch10-u049"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The transition from the transcendental level to the metaphysical one is made possible by the introduction of a particular concept allowing us to delimit the search in question to a specific field. In the case of physics, since we are dealing with objects affecting the external senses, the empirical concept to be introduced is that of matter (cf. also KdU, pp. 20–21, 181–182 – II Introduction). Of course it must not be intended as this or that particular matter, but as “matter in general (Materie überhaupt)” (M, pp. 11, 475)."
+      ],
+      "zh": [
+        "从先验层面到形而上学层面的过渡，是通过引入一个特殊概念而得以可能的，该概念使我们能把所讨论的探究限定于特定领域。就物理学而言，由于我们处理的是刺激外部感官的对象，要引入的经验概念就是物质概念（另见 KdU, pp. 20–21, 181–182——第二导论）。当然，它绝不能被理解为这种或那种特殊物质，而应被理解为“一般物质（Materie überhaupt）”（M, pp. 11, 475）。"
+      ],
+      "units": 91
+    },
+    {
+      "id": "ch10-u050",
+      "source_ids": [
+        "ch10-u050"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Between the Grundsätze and the Anfangsgründe there is no change in epistemological status, since both include synthetic a priori judgements. What occurs is a change in epistemological rank: although both classes are formed by universal statements, they have a different “rank in regard to generality” (KdrV, p. 697, B 871): the object of the Grundsätze is nature überhaupt, while the object of the Anfangsgründe is particular physical nature."
+      ],
+      "zh": [
+        "在纯粹原理（Grundsätze）与初始根据（Anfangsgründe）之间没有认识论地位的变化，因为两者都包含先天综合判断。发生的是认识论等级的变化：虽然两类原理都由全称陈述构成，但它们具有不同的“普遍性等级”（KdrV, p. 697, B 871）：纯粹原理的对象是一般自然，而初始根据的对象是特殊的物理自然。"
+      ],
+      "units": 68
+    },
+    {
+      "id": "ch10-u051",
+      "source_ids": [
+        "ch10-u051"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.3.2 The Mathematical Lawfulness of Physical Nature"
+      ],
+      "zh": [
+        "3.3.2 物理自然的数学合律性"
+      ],
+      "type": "subheading",
+      "units": 9
+    },
+    {
+      "id": "ch10-u052",
+      "source_ids": [
+        "ch10-u052"
+      ],
+      "page": "191",
+      "canonical_kind": "paragraph",
+      "en": [
+        "On several occasions, especially in the part of the Transcendental Doctrine of Method, in the section entitled ‘The Discipline of the Pure Reason in Its Dogmatic Use’, Kant claims that while philosophical knowledge is discursive, that is, based on concepts, mathematical knowledge is based on the construction of concepts."
+      ],
+      "zh": [
+        "康德多次宣称——尤其是在先验方法论部分题为“纯粹理性独断运用的训练”的一节中——哲学知识是推论性的，即基于概念的，而数学知识则基于概念的构造。"
+      ],
+      "units": 49
+    },
+    {
+      "id": "ch10-u053",
+      "source_ids": [
+        "ch10-u053"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let me give the reason why mathematics is so successful in physics, particularly in pure physics",
+        {
+          "type": "note",
+          "id": "ch10-n11",
+          "label": "11"
+        },
+        ". Pure physics deals with objects deprived of empirical intuition, and we can positively deal with them only by constructing their concepts, that is, by using mathematics. If one reflects on this aspect of mathematical physics, one becomes aware that Kant states something which will be easily agreed on: doing theoretical physics means representing objects conceptually, away from the empirical component."
+      ],
+      "zh": [
+        "让我给出数学在物理学、尤其是纯粹物理学中如此成功的原因",
+        {
+          "type": "note",
+          "id": "ch10-n11",
+          "label": "11"
+        },
+        "。纯粹物理学处理的是缺乏经验直观的对象，我们只能通过构造它们的概念、即通过使用数学来对它们作出正面的论述。只要反思数学物理学的这一方面，就会意识到康德说出了某个很容易获得赞同的东西：做理论物理学意味着在概念上表象对象，远离经验成分。"
+      ],
+      "units": 76
+    },
+    {
+      "id": "ch10-u054",
+      "source_ids": [
+        "ch10-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Granted that mathematics allows us to construct the concepts of physical objects without having an intuition of them, the task is to understand how this happens: “But in order to make possible the application of mathematics to the doctrine of body, which only through this can become natural science, principles for the construction of the concepts [Prinzipien der Konstruktion der Begriffe] that belong to the possibility of matter in general [Materie überhaupt] must be introduced first” (M, pp. 8, 472)."
+      ],
+      "zh": [
+        "既然数学允许我们在没有直观的情况下构造物理对象的概念，任务就是理解这是如何发生的：“但是，为了使数学应用于物体学说成为可能——物体学说只有借此才能成为自然科学——必须首先引入属于一般物质（Materie überhaupt）之可能性的那些概念构造原则（Prinzipien der Konstruktion der Begriffe）”（M, pp. 8, 472）。"
+      ],
+      "units": 80
+    },
+    {
+      "id": "ch10-u055",
+      "source_ids": [
+        "ch10-u055"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "These “principles of the construction of the concepts (Prinzipien der Konstruktion der Begriffe)” are nothing other than the first metaphysical principles of natural science. By analyzing the concept of matter überhaupt, a priori principles can be found, which allow for the application of mathematics and, thus, the construction of the concepts of rational physics. This is why “all natural philosophers who have wished to proceed mathematically in their occupation have always, and must have always, made use of metaphysical principles (albeit unconsciously), even if they themselves solemnly guarded against all claims of metaphysics upon their science […]. Thus these mathematical physicists could no way avoid metaphysical principles” (ibidem)."
+      ],
+      "zh": [
+        "这些“概念构造原则（Prinzipien der Konstruktion der Begriffe）”不是别的，正是自然科学的第一形而上学原理。通过分析一般物质的概念，可以找到先天原理，它们使数学的应用、从而使理性物理学概念的构造成为可能。这就是为什么“一切希望在其工作中以数学方式行事的自然哲学家，总是已经、而且必然总是已经利用了形而上学原理（尽管是不自觉地），即便他们自己曾郑重地防范形而上学对其科学的一切要求……。因此，这些数学物理学家无论如何也回避不了形而上学原理”（同上）。"
+      ],
+      "units": 107
+    },
+    {
+      "id": "ch10-u056",
+      "source_ids": [
+        "ch10-u056"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Therefore, the “possibility of a mathematical doctrine of nature (der Möglichkeit einer mathematischen Naturlehre)” is based on the “principles of the construction (Prinzipien der Konstruktion) of these concepts” (idem, pp. 9, 473) of objects of the external senses, independently of whether or not they are intuited."
+      ],
+      "zh": [
+        "因此，“数学的自然学说之可能性（der Möglichkeit einer mathematischen Naturlehre）”基于外部感官对象之概念的“构造原则（Prinzipien der Konstruktion）”（同上，pp. 9, 473），而无论这些对象是否被直观。"
+      ],
+      "units": 46
+    },
+    {
+      "id": "ch10-u057",
+      "source_ids": [
+        "ch10-u057"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To sum up, if at the transcendental level the law-giving understanding produces the lawfulness of nature überhaupt (the Gesetzmässigkeit der Natur überhaupt), that is, produces natura formaliter spectata, something different happens at the metaphysical level. We have seen that the first metaphysical principles make the mathematization of physics possible. That is, they allow us a particular way of representing both objects of the external senses and abstract objects (not to be confused with objects überhaupt). This means that they allow us a mathematical representation of the lawfulness of the physical nature which, as particularisation of nature überhaupt, is made cognitively significant by means of the pure principles. In other words, at the metaphysical level, we have the lawfulness of a mathematised particular nature."
+      ],
+      "zh": [
+        "总之，如果在先验层面立法的知性产生一般自然的合律性（Gesetzmässigkeit der Natur überhaupt），即产生形式上考察的自然（natura formaliter spectata），那么在形而上学层面发生的则是不同的事情。我们已经看到，第一形而上学原理使物理学的数学化成为可能。也就是说，它们允许我们以一种特殊方式表象外部感官的对象与抽象对象（不要与一般对象混淆）。这意味着它们允许我们对物理自然的合律性作数学的表象；这种物理自然作为一般自然的特殊化，借助纯粹原理而获得认知意义。换言之，在形而上学层面，我们拥有的是一种数学化的特殊自然的合律性。"
+      ],
+      "units": 123
+    },
+    {
+      "id": "ch10-u058",
+      "source_ids": [
+        "ch10-u058"
+      ],
+      "page": "192",
+      "canonical_kind": "heading",
+      "en": [
+        "3.4 The Empirical Level"
+      ],
+      "zh": [
+        "3.4 经验层面"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch10-u059",
+      "source_ids": [
+        "ch10-u059"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.4.1 The Empirical Laws and the Second Analogy of Experience"
+      ],
+      "zh": [
+        "3.4.1 经验规律与第二经验类比"
+      ],
+      "type": "subheading",
+      "units": 12
+    },
+    {
+      "id": "ch10-u060",
+      "source_ids": [
+        "ch10-u060"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We know that all the phenomena, in order to be given, have to fall under the pure forms of intuition (space and time), and, in order to be known, they have to fall under the categories of the understanding, that is, under the pure principles of the understanding or, in other words, under the laws of nature überhaupt. However, apart from nature überhaupt, which is constituted and regulated by the pure principles of understanding (at the transcendental level), there is also nature in particular, which is constituted and regulated by the empirical laws (at the empirical level):"
+      ],
+      "zh": [
+        "我们知道，一切现象要被给予，就必须落在直观的纯粹形式（空间与时间）之下；要被认识，就必须落在知性范畴之下，即落在知性的纯粹原理之下，换言之，落在一般自然的规律之下。然而，除了由知性纯粹原理构成并调节的一般自然（在先验层面）之外，还有由经验规律构成并调节的特殊自然（在经验层面）："
+      ],
+      "units": 97
+    },
+    {
+      "id": "ch10-u064",
+      "source_ids": [
+        "ch10-u064"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Particular laws [besondere Gesetze, also called empirische Gesetze or empirische Grundsätzse (cf. KdrV, pp. 283–284, B 197–200)], because they concern empirically determined appearances, cannot be completely derived from the categories, although they all stand under them. Experience must be added in order to come to know particular laws at all; but about experience in general [überhaupt], and about what can be cognized as an object of experience, only those a priori laws offer instruction. (idem, p. 264, B 165)"
+      ],
+      "zh": [
+        "特殊规律［besondere Gesetze，亦称经验规律（empirische Gesetze）或经验原理（empirische Grundsätzse）（参见 KdrV, pp. 283–284, B 197–200）］，由于涉及在经验上被规定的显象，不能从范畴中完全推导出来，尽管它们全都处于范畴之下。必须加上经验，才能根本认识特殊规律；但关于一般（überhaupt）经验、关于什么能被认识为经验的对象，只有那些先天规律提供教导。（同上，p. 264, B 165）"
+      ],
+      "type": "quote",
+      "units": 81
+    },
+    {
+      "id": "ch10-u061",
+      "source_ids": [
+        "ch10-u061"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The empirical laws are obviously different from the pure principles of understanding which apply to nature überhaupt and have the transcendental function both of constituting natura materialiter spectata, and of regulating natura formaliter spectata (cf. also P, pp. 71–74, 318–320). They cannot be derived from the pure principles of understanding, but they can be found by resorting to experience (cf. KdrV, p. 320, B 263; KdU, pp. 23–24, 184–85 – II Introduction). Nevertheless, although they cannot be established only on the basis of the pure principles of understanding, they depend on them, since such principles are the transcendental laws of nature überhaupt, that is, of nature for which they – the empirical laws – rule the particular relations. This means that beyond Natur überhaupt, there is a Natur (im empirischen Verstande) (KdrV, p. 320, B 263) particularising the former, but this is possible only thanks to the former."
+      ],
+      "zh": [
+        "经验规律显然不同于适用于一般自然的知性纯粹原理，后者具有既构成质料上考察的自然（natura materialiter spectata）、又调节形式上考察的自然（natura formaliter spectata）的先验功能（另见 P, pp. 71–74, 318–320）。经验规律不能从知性的纯粹原理推导出来，但可以诉诸经验而被找到（参见 KdrV, p. 320, B 263; KdU, pp. 23–24, 184–85——第二导论）。然而，尽管它们不能仅凭知性的纯粹原理确立，它们却依赖于这些原理，因为这些原理是一般自然的先验规律，而经验规律所支配的正是这个一般自然的特殊关系。这意味着，在一般自然（Natur überhaupt）之外，还有一个使前者特殊化的经验意义上的自然（Natur im empirischen Verstande）（KdrV, p. 320, B 263），但这只有借助前者才有可能。"
+      ],
+      "units": 149
+    },
+    {
+      "id": "ch10-u062",
+      "source_ids": [
+        "ch10-u062"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "At this point I must clarify the relation between the empirical laws and the pure principles which is articulated in the second Analogy of Experience. Let us put aside the huge secondary literature on the relation between the second Analogy of Experience and the empirical laws, and let us try to get a grip on Kant’s texts directly. We are told that according to the principle of the Analogies of Experience:"
+      ],
+      "zh": [
+        "在这一点上，我必须澄清在第二经验类比中得到表述的经验规律与纯粹原理之间的关系。让我们把关于第二经验类比与经验规律之关系的浩繁二手文献放在一边，试着直接把握康德的文本。我们被告知，按照经验类比的原理："
+      ],
+      "units": 71
+    },
+    {
+      "id": "ch10-u065",
+      "source_ids": [
+        "ch10-u065"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Experience is possible only through the representation of a necessary connection of perceptions. (idem, p. 295, B 218)"
+      ],
+      "zh": [
+        "经验只有通过知觉之必然联系的表象才是可能的。（同上，p. 295, B 218）"
+      ],
+      "type": "quote",
+      "units": 18
+    },
+    {
+      "id": "ch10-u063",
+      "source_ids": [
+        "ch10-u063"
+      ],
+      "page": "193",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As the Beweis of this principle begins, experience is empirical knowledge, that is, objective knowledge which, in the case of the connections of perceptions, is made possible precisely thanks to the analogies of experience. These regulate necessarily the connections between perceptions, in function of the three modalities of time: permanence, succession, and coexistence. It should be noted that the analogies of experience concern neither the phenomena nor the synthesis of their intuition. Phenomena refer to the Axioms of Intuition and the Anticipations of Perception, which make possible the “existence [of such appearances] and their relation to one another with regard to this their existence” (idem, p. 297, B 220)."
+      ],
+      "zh": [
+        "正如该原理的证明（Beweis）开始时所说，经验是经验知识，即客观知识；就知觉的联系而言，这种知识恰恰是借助经验类比才成为可能的。这些类比依据时间的三种样态——持存、相继与并存——必然地调节知觉之间的联系。应当注意，经验类比既不涉及现象，也不涉及现象直观的综合。现象涉及直观公理与知觉的预测，它们使“［这类显象的］存在及其就这种存在而言的相互关系”成为可能（同上，p. 297, B 220）。"
+      ],
+      "units": 109
+    },
+    {
+      "id": "ch10-u066",
+      "source_ids": [
+        "ch10-u066"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "First the phenomena as such are constituted. Then, in order to objectively rule the relations among them, the analogies of experience come into play, i.e., the regulative principles of the understanding, which are prior to all experience and so make it possible (idem, pp. 295–296, B 218–2199). Thus, there is a Regelmässigkeit of nature überhaupt made possible exactly by the analogies of experience. In other words, the law-giving understanding, especially inasmuch as it imposes the analogies of experience (which are regulative, i.e., they provide rules), constitutes the Gesetzmässigkeit of nature.",
+        {
+          "type": "note",
+          "id": "ch10-n12",
+          "label": "12"
+        }
+      ],
+      "zh": [
+        "首先，现象本身被构成。然后，为了客观地支配现象之间的关系，经验类比开始起作用，即知性的调节性原理开始起作用；它们先于一切经验，从而使经验成为可能（同上，pp. 295–296, B 218–219）。于是，有一种恰恰由经验类比使之可能的一般自然的规则性（Regelmässigkeit）。换言之，立法的知性——尤其是就它施加经验类比（它们是调节性的，即提供规则）而言——构成了自然的合律性（Gesetzmässigkeit）。",
+        {
+          "type": "note",
+          "id": "ch10-n12",
+          "label": "12"
+        }
+      ],
+      "units": 94
+    },
+    {
+      "id": "ch10-u067",
+      "source_ids": [
+        "ch10-u067"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Among the three analogies, the second is particularly important, since it concerns the succession of perceptions in time, and thus their causal connection. With reference to causality, it should be recalled that the category of causality is one thing, while the schema of causality is another. Moreover the principle of causality is yet another thing."
+      ],
+      "zh": [
+        "在三个类比中，第二个尤为重要，因为它涉及知觉在时间中的相继，从而涉及它们的因果联系。关于因果性，应当回想：因果性范畴是一回事，因果性图型是另一回事，而因果性原理又是另一回事。"
+      ],
+      "units": 55
+    },
+    {
+      "id": "ch10-u068",
+      "source_ids": [
+        "ch10-u068"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But what is the category of causality?"
+      ],
+      "zh": [
+        "但因果性范畴是什么？"
+      ],
+      "units": 7
+    },
+    {
+      "id": "ch10-u124",
+      "source_ids": [
+        "ch10-u124"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[…] the concept of cause, which signifies a particular kind of synthesis, in which given something A something entirely different B is posited according to a rule [… in a way such that the latter] follows from it necessarily and in accordance with an absolutely universal rule. (KdrV, pp. 222–223, B 122–124)"
+      ],
+      "zh": [
+        "［……］原因概念，它标示一种特殊的综合：在这种综合中，给定某物 A，就按照一条规则设定完全不同的某物 B［……以致后者］必然地、按照一条绝对普遍的规则从前者得出。（KdrV, pp. 222–223, B 122–124）"
+      ],
+      "type": "quote",
+      "units": 52
+    },
+    {
+      "id": "ch10-u069",
+      "source_ids": [
+        "ch10-u069"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The category of causality being specified, let us recall the schema of causality:"
+      ],
+      "zh": [
+        "因果性范畴既已明确，让我们回想因果性的图型："
+      ],
+      "units": 13
+    },
+    {
+      "id": "ch10-u125",
+      "source_ids": [
+        "ch10-u125"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The schema of cause [Ursache], and of causality [Kausalität] of a thing in general [eines Dinges überhaupt] is the real upon which, whenever it is posited, something else always follows. It therefore consists in the succession of the manifold insofar as it is subject to a rule. (idem, p. 275, B 183)"
+      ],
+      "zh": [
+        "原因（Ursache）的图型，即一般事物（eines Dinges überhaupt）的因果性（Kausalität）的图型，是这样一个实在的东西：每当它被设定，总有别的东西随之而来。因此它在于杂多的相继，就这种相继服从一条规则而言。（同上，p. 275, B 183）"
+      ],
+      "type": "quote",
+      "units": 52
+    },
+    {
+      "id": "ch10-u070",
+      "source_ids": [
+        "ch10-u070"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "and the principle of the second Analogy of Experience, i.e., the synthetic a priori judgement expressing the principle of causality:"
+      ],
+      "zh": [
+        "以及第二经验类比的原理，即表达因果性原理的先天综合判断："
+      ],
+      "units": 21
+    },
+    {
+      "id": "ch10-u126",
+      "source_ids": [
+        "ch10-u126"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "All alterations occur in accordance with the law of the connection of cause and effect. (idem, p. 304, B 232)"
+      ],
+      "zh": [
+        "一切变化都按照原因与结果相联系的规律发生。（同上，p. 304, B 232）"
+      ],
+      "type": "quote",
+      "units": 20
+    },
+    {
+      "id": "ch10-u071",
+      "source_ids": [
+        "ch10-u071"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Each time that a change of a certain thing in general (überhaupt) occurs, it is regulated by a necessary and universal law, that is, by the “law of connection of cause and effect”: the principle of causality. Put differently, each time that an alteration occurs from a phenomenal situation A überhaupt to a phenomenal situation B überhaupt, there occurs a universal and necessary judgement which rules it:"
+      ],
+      "zh": [
+        "每当一般（überhaupt）某物发生变化，它都受一条必然且普遍的规律支配，即受“原因与结果相联系的规律”支配：这就是因果性原理。换言之，每当从一般现象情境 A 到一般现象情境 B 发生变化，就有一个支配它的普遍而必然的判断："
+      ],
+      "units": 67
+    },
+    {
+      "id": "ch10-u127",
+      "source_ids": [
+        "ch10-u127"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "For each alteration leading to an event B überhaupt, there is an event A überhaupt such as A überhaupt is the cause of B überhaupt"
+      ],
+      "zh": [
+        "对每一个导致事件 B（一般）的变化，都有一个事件 A（一般），使得 A（一般）是 B（一般）的原因。"
+      ],
+      "type": "quote",
+      "units": 25
+    },
+    {
+      "id": "ch10-u073",
+      "source_ids": [
+        "ch10-u073"
+      ],
+      "page": "194",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If we indicate “A überhaupt” by A and “B überhaupt” by B, then the principle of transcendental causality, contained in the principle of the second Analogy of Experience, can be formulated as"
+      ],
+      "zh": [
+        "如果我们用 A 表示“一般 A”，用 B 表示“一般 B”，那么包含在第二经验类比原理中的先验因果性原理就可以表述为"
+      ],
+      "units": 32
+    },
+    {
+      "id": "ch10-u131",
+      "source_ids": [
+        "ch10-u131"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\forall x\\, Ax \\xrightarrow{CT} Bx",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\forall x\\, Ax \\xrightarrow{CT} Bx",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 6
+    },
+    {
+      "id": "ch10-u074",
+      "source_ids": [
+        "ch10-u074"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "where CT indicates that we are dealing with causality in the transcendental sense. It is important to point out that A and B are not particular events, neither tokens of event-type nor event-type, but events überhaupt, i.e., events which can be identified only within Kant’s transcendental architectonic."
+      ],
+      "zh": [
+        "其中 CT 表示我们是在先验意义上处理因果性。重要的是要指出，A 和 B 不是特定事件，既不是事件类型的殊例也不是事件类型，而是一般事件，即只能在康德的先验建筑术内识别的事件。"
+      ],
+      "units": 48
+    },
+    {
+      "id": "ch10-u075",
+      "source_ids": [
+        "ch10-u075"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Here we are dealing with A and B überhaupt; we are at the transcendental level, where nature, even if formaliter spectata, has to be intended überhaupt. Obviously enough, at this level, the problem of lawness is trivial: the universal statement ∀x A(x) →CT B(x) is certainly a law, since it is produced as such by the legislating understanding."
+      ],
+      "zh": [
+        "这里我们处理的是一般 A 与一般 B；我们处于先验层面，在这里，自然即使是形式上考察的，也必须被理解为一般的。显然，在这个层面，成律性在这一层面无须另行论证：全称陈述 ∀x A(x) →CT B(x) 当然是一条规律，因为它正是由立法的知性作为规律产生出来的。"
+      ],
+      "units": 60
+    },
+    {
+      "id": "ch10-u078",
+      "source_ids": [
+        "ch10-u078"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now we can move to the issue concerning the relation between the particular causal laws and transcendental causality. We know that in order to perceive a change not merely as a subjective succession, but as a temporal objective succession, a rule establishing what comes first and what comes after must come into play. We also know that this rule is a priori. However, we do not know anything else, or, rather, we do not know anything else at this a priori level."
+      ],
+      "zh": [
+        "现在我们可以转到特殊因果规律与先验因果性之关系的问题。我们知道，要把一个变化不仅知觉为主观的相继，而且知觉为时间上客观的相继，就必须有一条确立何者在先、何者在后的规则起作用。我们也知道这条规则是先天的。然而，我们不知道任何别的东西，或者说，在这个先天层面上我们不知道任何别的东西。"
+      ],
+      "units": 82
+    },
+    {
+      "id": "ch10-u079",
+      "source_ids": [
+        "ch10-u079"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We should not be deceived by the examples discussed by Kant: the sun warming up a stone, the sun melting wax, the river pushing a ship, the weight of the ball producing a concavity, etc. In all these cases, we know which causal force is involved, and so we could interpret the second Analogy as stating that not only is the succession of perceptions objectivised thanks to the causal rule, but also that all the similar cases fall under the same rule. However, this is not true. As was said before, Kant is absolutely clear in that respect: the particular causal empirical laws cannot be known a priori, nor deduced from the principles a priori, especially from the principle of the second Analogy. For"
+      ],
+      "zh": [
+        "我们不应被康德讨论的例子所迷惑：太阳晒热石头、太阳融化蜡、河流推动船只、球的重量压出凹痕，等等。在所有这些情形中，我们知道涉及的是哪种因果力，于是我们可能把第二经验类比解释为：不仅知觉的相继借助因果规则而被客观化，而且所有类似情形都落在同一条规则之下。然而这并不正确。如前所述，康德在这一点上绝对清楚：特殊的因果经验规律不能先天被认识，也不能从先天原理、尤其不能从第二经验类比的原理推导出来。因为"
+      ],
+      "units": 124
+    },
+    {
+      "id": "ch10-u082",
+      "source_ids": [
+        "ch10-u082"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "how in general anything can be altered, how it is possible that upon a state in one point of time an opposite one could follow in the next – of these we have a priori not the least concept. For this acquaintance with actual forces is required, which can only be given empirically, e.g., aquaintance with moving forces, or, what comes to the same thing, with certain successive appearances (as motions) which indicate such forces. But the form of such an alteration, the condition under which alone it, as the arising of another state, can occur (whatever the content, i.e., the state, that is altered might be), consequently the succession of states itself (that which has happened), can still be considered a priori according to the law of causality and the conditions of time. (idem, p. 314, B 252)"
+      ],
+      "zh": [
+        "一般而言某物如何能够变化，一个时间点上的状态如何可能在下一时间点后继以相反的状态——关于这些，我们先天没有丝毫概念。因为这需要对现实的力有所知悉，而这种知悉只能在经验上被给予，例如对运动力的知悉，或者同样地，对指示这种力的某些相继显象（作为运动）的知悉。但是，这种变化的形式，即它作为另一状态的产生唯一能在其下发生的条件（无论被变化的内容、即状态是什么），从而状态相继本身（所发生的东西），仍然可以按照因果性规律与时间条件先天加以考察。（同上，p. 314, B 252）"
+      ],
+      "type": "quote",
+      "units": 140
+    },
+    {
+      "id": "ch10-u080",
+      "source_ids": [
+        "ch10-u080"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Only the formal condition of possibility of knowledge of any alteration is given a priori, that is, we know a priori only that each time an alteration occurs, ∀x A(x) →CT B(x) holds, but certainly we do not know the particular instantiation of the causal law applying to that particular alteration. Only by reflecting (this verb is not fortuitous) on the particular phenomenal situation, the knowing subject can arrive at the determination of the universal statement causally connecting A-type event to B-type event, that is, to a statement such as"
+      ],
+      "zh": [
+        "关于任一变化，我们先天得到的只是认识它如何可能的形式条件，也就是说，我们先天只知道：每当一个变化发生时，∀x A(x) →CT B(x) 成立，但我们当然不知道适用于该特定变化的因果规律的特殊实例化。只有通过反思（这个动词不是偶然的）特定的现象情境，认识主体才能达到对把 A 型事件与 B 型事件因果地联系起来的全称陈述的规定，即达到这样一个陈述："
+      ],
+      "units": 92
+    },
+    {
+      "id": "ch10-u083",
+      "source_ids": [
+        "ch10-u083"
+      ],
+      "page": "195",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\forall x\\, Ax \\xrightarrow{CE} Bx",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\forall x\\, Ax \\xrightarrow{CE} Bx",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 6
+    },
+    {
+      "id": "ch10-u084",
+      "source_ids": [
+        "ch10-u084"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now, the causal relation between being A and being B is no more a transcendental relation (CT), but an empirical relation (CE)."
+      ],
+      "zh": [
+        "现在，A 与 B 之间的因果关系不再是先验关系（CT），而是经验关系（CE）。"
+      ],
+      "units": 22
+    },
+    {
+      "id": "ch10-u085",
+      "source_ids": [
+        "ch10-u085"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.4.2 The Unity of System"
+      ],
+      "zh": [
+        "3.4.2 体系的统一性"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch10-u086",
+      "source_ids": [
+        "ch10-u086"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Although most Kant’s commentators agree in claiming that the Analytic of Principles does not solve the problem of the empirical laws, some of them argue that it is solved in the Appendix to the Transcendental Dialectic of the Kritik der reinen Vernunft, and others affirm that it is solved in the Kritik der Urteilskraft (cf. Scaravelli, 1968, pp. 369–371; Guyer, 1990; Kitcher, 1994, p. 257; O’Shea, 1997, pp. 242–248)."
+      ],
+      "zh": [
+        "尽管大多数康德注释者都同意原理分析论没有解决经验规律的问题，但其中一些人主张该问题在《纯粹理性批判》先验辩证论的附录中得到了解决，另一些人则断言它在《判断力批判》中得到了解决（参见 Scaravelli, 1968, pp. 369–371; Guyer, 1990; Kitcher, 1994, p. 257; O’Shea, 1997, pp. 242–248）。"
+      ],
+      "units": 71
+    },
+    {
+      "id": "ch10-u087",
+      "source_ids": [
+        "ch10-u087"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The commentators arguing the first possibility base their interpretations on the consideration that the Appendix anticipates almost all of what is going to be at issue in the Kritik der Urteilskraft. As far as this interpretative proposal is concerned, I am inclined to consider it as forcing Kant’s words well beyond their intention, especially in view of the architectonic of his critical philosophy, theorised in the Doctrine of Method of the Kritik der reinen Vernunft, and practically displayed firstly with the three Critiques, and particularised in the Metaphysische Anfangsgründe der Naturwissenschaft, as far as the topic on nature is concerned (“the starry heaven above me”), and in Die Metaphysik der Sitten, as far as the problem of freedom is concerned (“the moral law within me”). It should also be observed that Kant himself writes explicitly that the critique of pure reason without the critique of the capacity of judgment is incomplete (KdU, pp. 4–5, 167–168 – Preface)."
+      ],
+      "zh": [
+        "主张第一种可能性的注释者，其解释基于如下考虑：附录几乎预示了《判断力批判》将要讨论的全部内容。就这一解释方案而言，我倾向于认为它把康德的话强行推到了远超其本意的地步，尤其是考虑到他批判哲学的建筑术——这一建筑术在《纯粹理性批判》的方法论中得到理论阐述，首先通过三大批判得到实际展示，并就自然主题（“我头上的星空”）在《自然科学的形而上学初始根据》中、就自由问题（“我心中的道德律”）在《道德形而上学》中得到具体化。还应注意到，康德本人明确写道：没有判断力批判，纯粹理性批判就是不完整的（KdU, pp. 4–5, 167–168——序言）。"
+      ],
+      "units": 158
+    },
+    {
+      "id": "ch10-u088",
+      "source_ids": [
+        "ch10-u088"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The thesis granting the Appendix an anticipation of topics analysed in the third critique turns out to be problematical, especially if we compare the two writings. As Allison (1994, p. 305, note 5) pointed out, a mistake is made by some commentators when they fail to distinguish sharply between reason in its regulative use and the reflecting capacity of judgment. Other important differences are also neglected. Let us focus on the problems of unity of nature and the systematicy of knowledge."
+      ],
+      "zh": [
+        "认为附录已经预示了《第三批判》所分析的主题，这一主张难以成立，尤其是当我们比较这两部著作时。正如阿利森（Allison, 1994, p. 305，注 5）所指出的，一些注释者犯了一个错误：他们没有严格区分调节性运用中的理性与反思性判断力。其他重要差异也被忽视了。让我们聚焦于自然的统一性与知识的系统性问题。"
+      ],
+      "units": 81
+    },
+    {
+      "id": "ch10-u089",
+      "source_ids": [
+        "ch10-u089"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant writes that it is a requirement of reason (Forderung der Vernunft) – which in the Appendix is called interest of reason (Interesse der Vernunft) – in its logical use, to find an unconditioned condition “with which its [of the understanding] unity will be completed” (KdrV, p. 392, B364). We know that the unconditioned can be found by reasoning prosyllogistically on the basis of the three forms of the syllogism: the categorical, the hypothetical, and the disjunctive syllogism. In that way, the three transcendental ideas can be identified. If they are considered objectively, they lead to dialectical conclusions, while, if considered as focus imaginarius, that is, as a regulative ideal, they are what Kant considers “an excellent and indispensably necessary regulative use” (idem, p. 591, B 672)."
+      ],
+      "zh": [
+        "康德写道，在理性的逻辑运用中，寻找一个无条件的条件——“借助它，［知性的］统一性将得以完成”（KdrV, p. 392, B364）——是理性的要求（Forderung der Vernunft），在附录中被称为理性的旨趣（Interesse der Vernunft）。我们知道，基于三段论的三种形式——直言的、假言的与选言的三段论——通过前溯三段论推理（prosyllogistically）可以找到无条件者。以这种方式，可以识别出三个先验理念。如果客观地看待它们，它们会导致辩证的推论；而如果把它们视为想象焦点（focus imaginarius），即视为调节性的理想，它们就是康德所认为的“一种卓越且不可或缺的调节性运用”（同上，p. 591, B 672）。"
+      ],
+      "units": 125
+    },
+    {
+      "id": "ch10-u090",
+      "source_ids": [
+        "ch10-u090"
+      ],
+      "page": "196",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The Appendix ought to be read on this basis. What is it that is implied in a focus imaginarius? Nothing but an idea (in the subjective, regulative sense) concentrating, as it were, what we know by means of the categories. Just like the optical focus is the point toward which the rays of light converge, the transcendental idea allows for the convergence of what is already constituted by the intervention of the categorial apparatus, that is, what is already known. This means that the transcendental idea allows for the unity (Einheit) of knowledge; it allows us to have a set of synthetic judgements structured as a system (System) (idem, pp. 591–592, B 673).",
+        {
+          "type": "note",
+          "id": "ch10-n13",
+          "label": "13"
+        }
+      ],
+      "zh": [
+        "附录应当在此基础上阅读。想象焦点（focus imaginarius）中蕴含着什么？只是一个理念（在主观的、调节性的意义上），它仿佛把我们借助范畴所知道的东西汇聚起来。正如光学焦点是光线汇聚于其上的点，先验理念使已经通过范畴装置的介入而构成的东西、即已经被认识的东西得以汇聚。这意味着先验理念使知识的统一性（Einheit）成为可能；它使我们拥有一组被构造为体系（System）的综合判断（同上，pp. 591–592, B 673）。",
+        {
+          "type": "note",
+          "id": "ch10-n13",
+          "label": "13"
+        }
+      ],
+      "units": 114
+    },
+    {
+      "id": "ch10-u091",
+      "source_ids": [
+        "ch10-u091"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Therefore, “the systematic unity or the unity of reason of the manifold of the understanding’s cognition is a logical principle [… which assists the understanding in those cases in which] the understanding alone does not attain to rules” (idem, p. 593, B 676). This occurs precisely because “human reason has a natural propensity to overstep” the limits of possible experience (idem, p. 590, B 670). Naturally enough, one must be careful to use it rigorously in a regulative way."
+      ],
+      "zh": [
+        "因此，“知性认识之杂多的系统统一性或理性统一性是一条逻辑原则［……它在知性单独达不到规则的情形中辅助知性］”（同上，p. 593, B 676）。这种情况的发生，恰恰是因为“人类理性有一种越界的自然倾向”，即越过可能经验的界限（同上，p. 590, B 670）。自然，必须小心严格地以调节的方式运用它。"
+      ],
+      "units": 78
+    },
+    {
+      "id": "ch10-u092",
+      "source_ids": [
+        "ch10-u092"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In short, understanding unifies (from the transcendental point of view) the empirical multiplicity through categories; reason unifies (from the regulative, that is, methodological, point of view) the “manifold of concepts through ideas” (idem, p. 591, B 672). Moreover since concepts are predicates of possible judgements, reason also unifies in a system the empirical judgments, or the empirical laws."
+      ],
+      "zh": [
+        "简言之，知性（从先验的观点看）通过范畴统一经验的杂多；理性（从调节的、即方法论的观点看）通过理念统一“概念的杂多”（同上，p. 591, B 672）。此外，由于概念是可能判断的谓词，理性也把经验判断、即经验规律统一在一个体系中。"
+      ],
+      "units": 58
+    },
+    {
+      "id": "ch10-u093",
+      "source_ids": [
+        "ch10-u093"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It follows that at the cognitive top, i.e., at the transcendental level, we have the eight pure principles of understanding (plus the pure principles derived from them), which make nature überhaupt possible. At the metaphysical level, we have the first 12 metaphysical principles allowing us to have a mathematised and almost-axiomatised discipline of the physical objects (those falling under the external senses). At the empirical level, we have both the infinite universal empirical judgments, i.e., the infinite empirical laws, and the infinite singular and particular empirical judgments, most of which are unified into a system."
+      ],
+      "zh": [
+        "由此可得，在认知的顶端，即在先验层面，我们有知性的八条纯粹原理（加上由它们派生的纯粹原理），它们使一般自然成为可能。在形而上学层面，我们有最初 12 条形而上学原理，使我们拥有一门关于物理对象（外感官的对象）的数学化、近乎公理化的学科。在经验层面，我们既有无限多的全称经验判断、即无限多的经验规律，也有无限多的单称与特称经验判断，其中大部分被统一在一个体系中。"
+      ],
+      "units": 97
+    },
+    {
+      "id": "ch10-u094",
+      "source_ids": [
+        "ch10-u094"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This infinite multiplicity of empirical laws, which are contingent in comparison with the products of the pure understanding but necessary precisely because they are laws,",
+        {
+          "type": "note",
+          "id": "ch10-n14",
+          "label": "14"
+        },
+        " is unified into a system. Such a system is made possible only thanks to reason used regulatively: it is reason that searches for the unconditioned in the conditioned series."
+      ],
+      "zh": [
+        "经验规律的这种无限杂多——与纯粹知性的产物相比是偶然的，但恰恰因为它们是规律而又是必然的",
+        {
+          "type": "note",
+          "id": "ch10-n14",
+          "label": "14"
+        },
+        "——被统一在一个体系中。这样一个体系只有借助调节性运用的理性才成为可能：正是理性在有条件的序列中寻找无条件者。"
+      ],
+      "units": 54
+    },
+    {
+      "id": "ch10-u095",
+      "source_ids": [
+        "ch10-u095"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "At this point we should throw some light upon the ideas allowing for such unity, that is, the principles guiding the formation of the system of laws. Following this, we should analyze the epistemological status of these principles in order to justify them. As far as the first problem is concerned:"
+      ],
+      "zh": [
+        "在这一点上，我们应当阐明使这种统一性成为可能的理念，即指导规律体系之形成的原则。随后，我们应当分析这些原则的认识论地位，以便为它们辩护。就第一个问题而言："
+      ],
+      "units": 51
+    },
+    {
+      "id": "ch10-u096",
+      "source_ids": [
+        "ch10-u096"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Reason thus prepares the field for the understanding: 1. by a principle of sameness of kind in the manifold under higher genera, 2. by a principle of variety of what is same in kind under lower species; and in order to complete the systematic unity it adds 3. still another law of the affinity of all concepts, which offers a continuous transition from every species to every other through a gradual increase of varieties. (KdrV, p. 598, B 685–686)"
+      ],
+      "zh": [
+        "理性就这样为知性作准备：（1）按同类性原则，把杂多归入较高的属；（2）按差异性原则，把同类者区分为较低的种。为使体系的统一性得以完成，理性还补上一条（3）适用于一切概念的亲和性规律，借助差异程度的逐渐增加，使每一种都能连续过渡到任一其他种。（KdrV, p. 598, B 685–686）"
+      ],
+      "type": "quote",
+      "units": 80
+    },
+    {
+      "id": "ch10-u097",
+      "source_ids": [
+        "ch10-u097"
+      ],
+      "page": "197",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Following Kant’s suggestion, we call these principles"
+      ],
+      "zh": [
+        "按照康德的建议，我们把这些原则称为"
+      ],
+      "units": 7
+    },
+    {
+      "id": "ch10-u098",
+      "source_ids": [
+        "ch10-u098"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. The principle of homogeneity (entia praeter necessitatem non esse multiplicanda); which is related to the idea of unity\n2. The principle of specification (entium varietates non temere esse minuendas); which is related to the idea of multiplicity\n3. The principle of continuity (continui specierum – formarum logicarum –); which is related to the idea of affinity"
+      ],
+      "zh": [
+        "1. 同质性原则（entia praeter necessitatem non esse multiplicanda，如无必要勿增实体），它与统一性理念相关。\n2. 特殊化原则（entium varietates non temere esse minuendas，勿轻减实体的差异），它与杂多性理念相关。\n3. 连续性原则（continui specierum – formarum logicarum –，种的连续——逻辑形式的连续），它与亲和性理念相关。"
+      ],
+      "units": 55
+    },
+    {
+      "id": "ch10-u099",
+      "source_ids": [
+        "ch10-u099"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Rigorously speaking, only the first principle about the subsumption of species to genus, and genus to higher genus on the basis of homogeneity, which implies the use of Ockham’s razor, is strictly related to reason’s tendency to unity. Nevertheless, the second principle is necessary to limit the “rashness of the first principle” (idem, p. 596, B 682), that is, the “inclination to unanimity” (idem, p. 599, B 688). Our attention is thus focused on the fact that Porphyri’s tree, relative to concepts, can be run bottom-up, that is, from what is more particular to what is more general, but it can be also run top-down, that is, toward the less general. In the former case we find the system, in the latter case we find the chaotic infinite multiplicity of the particular empirical laws and the singular empirical judgments. Lastly, the third principle fulfils Kant’s intention to have three moments in any one partition, and allows us to find the connection between the first two principles. Indeed this principles invites us to search for the affinity which has to be found thanks to the fact that species “are all collectively descendent, through every degree of extended determination, from a single highest genus” (idem, p. 598, B 686).",
+        {
+          "type": "note",
+          "id": "ch10-n15",
+          "label": "15"
+        }
+      ],
+      "zh": [
+        "严格说来，只有第一条原则——关于基于同质性把种归摄于属、把属归摄于更高属的原则，它蕴含着奥卡姆剃刀的使用——才与理性趋向统一的倾向严格相关。然而，第二条原则对于限制“第一条原则的鲁莽”（同上，p. 596, B 682）、即“齐一化偏好”（同上，p. 599, B 688）是必要的。于是我们的注意力集中在这一事实：就概念而言，波菲利之树既可以自下而上运行，即从更特殊者走向更普遍者，也可以自上而下运行，即走向更不普遍者。在前一种情形中我们找到体系，在后一种情形中我们找到特殊经验规律与单称经验判断的混沌的无限杂多。最后，第三条原则实现了康德在任何划分中都要有三个环节的意图，并使我们能找到前两条原则之间的联系。的确，这条原则促使我们寻找各个种之间的亲和性。各个种“全都由同一个最高属，经过每一级更细的规定，共同衍生出来”，因此这种亲和性可以找到（同上，p. 598, B 686）。",
+        {
+          "type": "note",
+          "id": "ch10-n15",
+          "label": "15"
+        }
+      ],
+      "units": 207
+    },
+    {
+      "id": "ch10-u100",
+      "source_ids": [
+        "ch10-u100"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Next we need a better understanding of the content and status of these principles. First of all, Kant gives them a name:"
+      ],
+      "zh": [
+        "接下来我们需要更好地理解这些原则的内容与地位。首先，康德给了它们一个名称："
+      ],
+      "units": 22
+    },
+    {
+      "id": "ch10-u128",
+      "source_ids": [
+        "ch10-u128"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "I call all subjective principles that are taken not from the constitution of the object but from the interest of reason in regards to a certain possible perfection of the cognition of this object, maxims of reason. (idem, p. 603, B 694)"
+      ],
+      "zh": [
+        "我把一切不是取自对象的性状、而是取自理性对该对象认识的某种可能完善性的旨趣的主观原则，称为理性的准则。（同上，p. 603, B 694）"
+      ],
+      "type": "quote",
+      "units": 42
+    },
+    {
+      "id": "ch10-u101",
+      "source_ids": [
+        "ch10-u101"
+      ],
+      "page": "198",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Both in the Appendix and in the Kritik der Urteilskraft, there are passages where the status of the maxims (principles) of reason and the reflecting capacity of judgment is discussed. Nevertheless Kant seems to suggest many contradictory theses, and therefore some commentators (for instance, Kemp Smith, 1923, p. 547) have strongly questioned the consistency of the Prussian philosopher, in particular in the Analytic. This problem can be skipped for our own purposes (cf. O’Shea, 1997, pp. 229–237). It is best to move to another extremely relevant point of the Appendix, in particular where Kant makes an interesting remark related to the third idea “which contains a merely relative supposition of a being as the sole and all-sufficient cause of all cosmological series, [this] is the rational concept of God” (KdrV, p. 613, B 713). This idea, due to the interest of reason, according to which we have to think as if there were a sovereign reason which is the cause of any phenomenon and any series of phenomena, “opens out for our reason, as applied to the field of experience, entirely new prospects for connecting up things in the world in accordance with teleological laws [teleologischen Gesetzen], and thereby attaining to the greatest systematic unity among them” (idem, p. 614, B 714–715)."
+      ],
+      "zh": [
+        "无论是在附录中还是在《判断力批判》中，都有一些段落讨论理性准则（原则）与反思性判断力的地位。然而康德似乎提出了许多相互矛盾的论题，因此一些注释者（例如肯普·斯密，Kemp Smith, 1923, p. 547）强烈质疑这位普鲁士哲学家的一致性，尤其是在分析论中。就我们自己的目的而言，这个问题可以跳过（参见 O’Shea, 1997, pp. 229–237）。最好转到附录的另一个极其相关的要点，尤其是康德就第三个理念所作的有趣评论：“它包含对一个存在者的纯然相对的假设，这个存在者是一切宇宙论序列的唯一且充足的原因，［这］就是上帝的理性概念”（KdrV, p. 613, B 713）。这个理念基于理性的旨趣——按照这种旨趣，我们必须这样思考：仿佛有一个至上的理性，它是一切现象和一切现象序列的原因——它“为应用于经验领域的我们的理性开辟了全新的前景，即按照目的论规律［teleologischen Gesetzen］把世界中的事物联系起来，从而在它们之间达到最大的系统统一性”（同上，p. 614, B 714–715）。"
+      ],
+      "units": 214
+    },
+    {
+      "id": "ch10-u103",
+      "source_ids": [
+        "ch10-u103"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It should be noted that in this way “the purposive unity of things [zweckmässige Einheit der Dinge]” (ibidem) is introduced as a consequence of the fact that we must think the world as if it were caused by a supreme Being. This is nothing other than the external purposiveness, analyzed specifically in the Kritik der Urteilskraft. What is remarkable is that in this third Critique, Kant suggests something seemingly contrary to the above. For teleology and theology must be differentiated both in the sense of the non-derivability of purposiveness from the concept of God, and in the sense of non-derivability of the opposite possibility. Of course, we should not fall in a circulus vitiosus in probando, that is, in a diallelus, arguing firstly the purposiveness on the basis of the concept of God and then the concept of God on the basis of purposiveness (KdU, pp. 261–262, 381–382). However, since by starting from the fictionalistic idea of a supreme Being, cause of everything, the idea of purposiveness can be introduced even if in a “presumptuous (vermessen)” way (idem, p. 264, 383), similarly the same could be done the other way around, that is, it can be claimed that:"
+      ],
+      "zh": [
+        "应当注意，以这种方式，“事物的合目的统一性［zweckmässige Einheit der Dinge］”（同上）是作为如下事实的推论被引入的：我们必须把世界思考为仿佛由一个最高存在者所引起。这不是别的，正是外在的合目的性，它在《判断力批判》中得到专门分析。值得注意的是，在这第三批判中，康德提出了某种看似与上述相反的东西。目的论和神学必须区分。合目的性不能从上帝概念推导出来，上帝概念也不能从合目的性推导出来。当然，我们不应陷入证明中的恶性循环（circulus vitiosus in probando），即循环论证（diallelus）：先基于上帝概念论证合目的性，再基于合目的性论证上帝概念（KdU, pp. 261–262, 381–382）。然而，既然从作为万物原因的最高存在者这一虚构主义理念出发，合目的性理念即便以一种“僭妄的（vermessen）”方式也能被引入（同上，p. 264, 383），那么同样也可以反过来做，即可以主张："
+      ],
+      "units": 200
+    },
+    {
+      "id": "ch10-u108",
+      "source_ids": [
+        "ch10-u108"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The peculiar character of my cognitive powers is such that the only way I can judge [how] those things are possible and produced is by conceiving, [to account] for this production, a cause that acts according to intentions, and hence a being that produces [things] in a way analogous to the causality of an understanding. (idem, pp. 280, 397–398)"
+      ],
+      "zh": [
+        "我的认识能力具有这样的特性：要判断那些事物［如何］成为可能并如何产生，我只能［为了说明］它们的产生，设想一个依照意图起作用的原因，也就是设想一个以类似于知性的因果作用的方式产生［事物］的存在者。（同上，pp. 280, 397–398）"
+      ],
+      "type": "quote",
+      "units": 60
+    },
+    {
+      "id": "ch10-u104",
+      "source_ids": [
+        "ch10-u104"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Note that this not a Beweis of the existence of a supreme Being, but only an indication of the fact that, due to the way according to which our cognitive capacities are structured, we need to resort to a supreme Being in order to have the concept of world encompassed in a system and, thus, to have the unity of nature (cf. idem, pp. 281, 399)."
+      ],
+      "zh": [
+        "注意，这不是对最高存在者存在的证明（Beweis），而只是对如下事实的提示：由于我们认知能力的构造方式，我们需要诉诸一个最高存在者，才能拥有被囊括在一个体系中的世界概念，从而拥有自然的统一性（参见同上，pp. 281, 399）。"
+      ],
+      "units": 66
+    },
+    {
+      "id": "ch10-u105",
+      "source_ids": [
+        "ch10-u105"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "However, both in the Appendix and more systematically in the Kritik der Urteilskraft, Kant shows that referring to a final cause, or to a teleological relation, or to some nexus finalis, must absolutely not be intended as a denial of efficient causality, that is, as a denial of the possibility of having a mechanical or physical relation, i.e., a nexus effectivus (KdrV, p. 615, B 715–716). This must be considered with great care, failing which both the Appendix and the Kritik der Urteilskraft will be misread as Kant’s attempt to replace efficient causality by teleology. These are two ways of approaching empirical knowledge that, for Kant, must be equally taken into consideration. Put differently, we can pose causal why-questions, but we can pose purposive why-questions as well, even if it is not said that we are obliged to look for both a causal and a purposive answer."
+      ],
+      "zh": [
+        "然而，无论是在附录中，还是在《判断力批判》中更系统地，康德都表明：诉诸目的因、诉诸目的论关系、诉诸某种目的关联（nexus finalis），绝不能被理解为对动力因果性的否定，即不能被理解为对拥有机械的或物理的关系、即作用关联（nexus effectivus）的可能性的否定（KdrV, p. 615, B 715–716）。这一点必须极其小心地对待，否则附录与《判断力批判》都会被误读为康德试图用目的论取代动力因果性。对康德来说，这是两种必须同等加以考虑的经验知识进路。换言之，我们可以提出因果性的“为什么”问题，但也可以提出目的性的“为什么”问题，尽管这并不意味着我们有义务同时寻找因果的答案与目的的答案。"
+      ],
+      "units": 149
+    },
+    {
+      "id": "ch10-u106",
+      "source_ids": [
+        "ch10-u106"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.4.3 Lawfulness"
+      ],
+      "zh": [
+        "3.4.3 合律性"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch10-u107",
+      "source_ids": [
+        "ch10-u107"
+      ],
+      "page": "199",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The second Analogy of Experience shows that a causal lawfulness (Gesetzmässigkeit) is imposed on nature überhaupt, though this lawfulness does not come into play in the particular natures. The latter are constituted as such by the empirical causal laws and by the empirical purposive laws, which have been found thanks to the maxims of the reflecting capacity of judgment. Indeed these maxims, precisely by reflecting on the particular phenomenon, allow us to produce hypotheses which make that given particular cognitively significant sub specie instantiation of an empirical law. That is, they allow for the lawfulness of the particular natures by prompting us to produce the appropriate cognitively constituting empirical laws."
+      ],
+      "zh": [
+        "第二经验类比表明，一种因果的合律性（Gesetzmässigkeit）被施加于一般自然，尽管这种合律性并不在特殊自然中起作用。特殊自然之为特殊自然，是由经验因果规律与经验目的规律构成的，而这些规律是借助反思性判断力的准则被找到的。的确，这些准则恰恰通过反思特定现象，使我们能够提出假设，把该特殊现象视为一条经验规律的实例，从而赋予它认知意义。也就是说，它们通过促使我们产生适当的、在认知上起构成作用的经验规律，使特殊自然的合律性成为可能。"
+      ],
+      "units": 110
+    },
+    {
+      "id": "ch10-u109",
+      "source_ids": [
+        "ch10-u109"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We have just one Natur überhaupt, but we have infinite spezifisch-verschiedene Naturen, which, according to the interest of reason in its regulative use, are to be unified into a systematic unity. Thus, nature at the empirical level is not made lawful by means of the pure laws of understanding, but by means of the particular empirical laws found by reflecting thanks to the maxims of the capacity of judgment. The Gesetzmässigkeit at the empirical level is made possible by the reflecting capacity of judgment which, analogously to the legislating understanding of nature überhaupt, could perfectly well be considered to be the legislator of the natures besondere."
+      ],
+      "zh": [
+        "我们只有一个一般自然（Natur überhaupt），但我们有无穷多种彼此有别的自然（spezifisch-verschiedene Naturen），按照理性在其调节性运用中的旨趣，它们应当被统一在一个系统统一性中。因此，经验层面的自然不是借助知性的纯粹规律而成为合律的，而是借助通过判断力准则进行反思所找到的特殊经验规律。经验层面的合律性（Gesetzmässigkeit）由反思性判断力使之可能；正如立法的知性之于一般自然，反思性判断力完全可以被视为特殊自然（natures besondere）的立法者。"
+      ],
+      "units": 106
+    },
+    {
+      "id": "ch10-u110",
+      "source_ids": [
+        "ch10-u110"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I want to repeat again that the second Analogy does not state, or give us, the uniformity of nature, not even in the sense of nature überhaupt. The uniformity of nature (the Ordnung der Natur) does not result from finding the empirical laws, but it is an implicit a priori presupposition of the two maxims guiding us to discover particular laws:"
+      ],
+      "zh": [
+        "我想再次重申：第二经验类比并没有陈述或给予我们自然的齐一性，甚至不是在一般自然的意义上。自然的齐一性（自然的秩序，Ordnung der Natur）不是发现经验规律的结果，而是指导我们发现特殊规律的两条准则的一个隐含的先天预设："
+      ],
+      "units": 61
+    },
+    {
+      "id": "ch10-u129",
+      "source_ids": [
+        "ch10-u129"
+      ],
+      "page": "200",
+      "canonical_kind": "quote",
+      "en": [
+        "Hence, though the understanding cannot determine anything a priori with regard to these [objects], still it must, in order to investigate these empirical so-called laws, lay on an a priori principle at the basis of all the reflection on nature: the principle that a cognizable order of nature [erkennbare Ordnung der Natur] in terms of these laws is possible […] since without presupposing this harmony we would have no order of nature [Ordnung der Natur] in terms of empirical laws, and hence nothing to guide us in using empirical laws so as to experience and investigate nature in its diversity. (idem, pp. 24–25, 185 – II Introduction)"
+      ],
+      "zh": [
+        "因此，尽管知性不能就这些［对象］先天规定任何东西，但为了研究这些所谓的经验规律，它仍然必须把一条先天原则置于对自然的一切反思的基础之上：按照这些规律，一种可认识的自然秩序［erkennbare Ordnung der Natur］是可能的［……］因为若不预设这种和谐，我们就不会有按照经验规律的自然秩序［Ordnung der Natur］，从而没有任何东西指导我们运用经验规律去体验并研究多样的自然。（同上，pp. 24–25, 185——第二导论）"
+      ],
+      "type": "quote",
+      "units": 106
+    },
+    {
+      "id": "ch10-u111",
+      "source_ids": [
+        "ch10-u111"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Therefore, the reflecting capacity of judgment presupposes the uniformity of nature at the empirical level, since it is exactly here that it plays its role. It follows that, still at the empirical level, nature is made lawful through the causal and purposive laws which are found hypothetically by applying the two maxims."
+      ],
+      "zh": [
+        "因此，反思性判断力预设了经验层面上自然的齐一性，因为它恰恰是在这里发挥作用。由此可得，仍然在经验层面，自然借助因果规律和目的规律而合律，这些规律是应用两条准则提出的假设。"
+      ],
+      "units": 52
+    },
+    {
+      "id": "ch10-u112",
+      "source_ids": [
+        "ch10-u112"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.4.4 Schlick’s Problem"
+      ],
+      "zh": [
+        "3.4.4 石里克问题"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch10-u113",
+      "source_ids": [
+        "ch10-u113",
+        "ch10-u116"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now the problem of the nomological validity of the empirical universal judgements, that is, Schlick’s problem (the problem of lawness) is easily tractable. Given a particular ‘a’ of the sort A and a particular ‘b’ of the sort B, why can I state that the universal statement of the type ",
+        {
+          "type": "math",
+          "tex": "\\forall x\\, Ax \\to Bx",
+          "display": false
+        },
+        " is really a causal law of the type ",
+        {
+          "type": "math",
+          "tex": "\\forall x\\, Ax \\xrightarrow{CE} Bx",
+          "display": false
+        },
+        ", or a purposive law of the type ",
+        {
+          "type": "math",
+          "tex": "\\forall x\\, Ax \\xrightarrow{PE} Bx",
+          "display": false
+        },
+        "?"
+      ],
+      "zh": [
+        "现在，经验全称判断的律则有效性问题，即石里克问题（成律性问题），就容易处理了。给定 A 类的一个殊相 a 和 B 类的一个殊相 b，我凭什么断言，形如 ",
+        {
+          "type": "math",
+          "tex": "\\forall x\\, Ax \\to Bx",
+          "display": false
+        },
+        " 的全称陈述，确实是一条形如 ",
+        {
+          "type": "math",
+          "tex": "\\forall x\\, Ax \\xrightarrow{CE} Bx",
+          "display": false
+        },
+        " 的因果规律，或一条形如 ",
+        {
+          "type": "math",
+          "tex": "\\forall x\\, Ax \\xrightarrow{PE} Bx",
+          "display": false
+        },
+        " 的目的规律？"
+      ],
+      "units": 82
+    },
+    {
+      "id": "ch10-u114",
+      "source_ids": [
+        "ch10-u114",
+        "ch10-u130"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In other words, what is it that assures me that I have a nomological universal and not an accidental universal? The answer is clear: this assurance is provided by the reflecting capacity of judgment! Its maxims spur me both to search for a (causal or purposive) universal subsuming under itself that particular, and to interpret it as an hypothetical law. We can formulate the wrong",
+        " ",
+        "hypothetical law, both in the sense of having found the wrong nomological universal and in the sense of having confused an accidental universal with a nomological one. However, this is the price that the knowing subject must pay, since he has neither an intellectus ectypus, nor an intellectus archetypus."
+      ],
+      "zh": [
+        "换言之，是什么向我保证我拥有的是一个律则全称而不是一个偶然全称？答案是清楚的：这种保证由反思性判断力提供！它的准则既促使我去寻找一个把该殊相归摄于自身之下的（因果的或目的的）全称，又促使我把它解释为一条假设性规律。我们也可能提出错误的",
+        "假设性规律——既可能在找到了错误的律则全称的意义上，也可能在把偶然全称与律则全称混淆了的意义上。然而，这是认识主体必须付出的代价，因为他既没有摹型理智（intellectus ectypus），也没有原型理智（intellectus archetypus）。"
+      ],
+      "units": 114
+    },
+    {
+      "id": "ch10-u118",
+      "source_ids": [
+        "ch10-u118"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Note, however, that by taking into account the meaning of the maxims of the reflecting capacity of judgment, to take as nomological what is in fact accidental is almost impossible. If I take a coin out of my pocket and see that it is a nickel, I would hardly claim that the statement “All coins in my pocket are nickels” is an empirical law. This is a universal statement which, however, is neither causal nor purposive, whereas the maxims of the reflecting capacity of judgment spur me to search for only causal and purposive laws."
+      ],
+      "zh": [
+        "然而请注意，考虑到反思性判断力准则的含义，把事实上偶然的东西当作律则的东西几乎是不可能的。如果我从口袋里掏出一枚硬币，看到它是一枚镍币，我几乎不会声称“我口袋里的所有硬币都是镍币”这个陈述是一条经验规律。这是一个全称陈述，但它既不是因果的也不是目的的，而反思性判断力的准则只促使我去寻找因果规律与目的规律。"
+      ],
+      "units": 95
+    },
+    {
+      "id": "ch10-u119",
+      "source_ids": [
+        "ch10-u119"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The case in which we have statements such as “All ravens are black” is different. Is it accidental or nomological? Kant would have said without hesitation that it is a nomological statement, not because it proves simply that being raven causes being black, but because being raven in a given environmental circumstance causes being black, in that evironment."
+      ],
+      "zh": [
+        "“所有渡鸦都是黑的”这类陈述的情形则不同。它是偶然的还是律则的？康德会毫不犹豫地说它是一个律则陈述，不是因为它简单地证明“是渡鸦”导致“是黑的”，而是因为在给定环境条件下“是渡鸦”导致“是黑的”——在那个环境中。"
+      ],
+      "units": 58
+    },
+    {
+      "id": "ch10-u120",
+      "source_ids": [
+        "ch10-u120"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Briefly put, nature überhaupt is lawful because the understanding is a priori law-giver; nature besondere is lawful because of the legislating reflecting capacity of judgment, even if only the possibility of generating hypothetical laws is granted thereby. Moreover, the pure principles of understanding and the first metaphysical principles are nomological, because they are produced as such by the understanding. To put it differently, the empirical laws are hypothetically nomological because only in this way does the reflecting capacity of judgment succeed in using them to subsume the particular, that is, to give it cognitive significance. This amounts to seeing it as a sub specie instantiation of an empirical law.",
+        {
+          "type": "note",
+          "id": "ch10-n16",
+          "label": "16"
+        }
+      ],
+      "zh": [
+        "简言之，一般自然是合律的，因为知性是先天的立法者；特殊自然（nature besondere）的合律性来自反思性判断力的立法，尽管这种立法所能提供的只是提出假设性规律的可能性。此外，知性的纯粹原理与第一形而上学原理是律则的，因为它们正是由知性作为律则产生出来的。换言之，经验规律是假设性地律则的，因为只有这样，反思性判断力才能成功地用它们来归摄殊相，即赋予殊相认知意义。这等于把殊相看作一条经验规律的实例（sub specie instantiation）。",
+        {
+          "type": "note",
+          "id": "ch10-n16",
+          "label": "16"
+        }
+      ],
+      "units": 109
+    },
+    {
+      "id": "ch10-u117",
+      "source_ids": [
+        "ch10-u117"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch10-bibliography-001",
+      "source_ids": [
+        "ch10-ref005",
+        "ch10-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Allison, H.E.: 1994, ‘Causality and Causal Laws in Kant. A Critique of Michael Friedman’, in P. Parrini (ed.), Kant and Contemporary Epistemology, Kluwer, Dordrecht, pp. 291–307."
+      ],
+      "zh": [
+        "Allison, H.E.: 1994, ‘Causality and Causal Laws in Kant. A Critique of Michael Friedman’, in P. Parrini (ed.), Kant and Contemporary Epistemology, Kluwer, Dordrecht, pp. 291–307."
+      ],
+      "shared": true,
+      "units": 28
+    },
+    {
+      "id": "ch10-bibliography-002",
+      "source_ids": [
+        "ch10-ref006",
+        "ch10-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Boniolo, G., Budinich, P.: 2005, ‘The Role of Mathematics in Physical Sciences and Dirac’s Methodological Revolution’; in G. Boniolo, P. Budinich, M. Trobok (eds.), Mathematics and Physics: an Interdisciplinary Approach, Springer, Dordrecht, pp. 75–96."
+      ],
+      "zh": [
+        "Boniolo, G., Budinich, P.: 2005, ‘The Role of Mathematics in Physical Sciences and Dirac’s Methodological Revolution’; in G. Boniolo, P. Budinich, M. Trobok (eds.), Mathematics and Physics: an Interdisciplinary Approach, Springer, Dordrecht, pp. 75–96."
+      ],
+      "shared": true,
+      "units": 35
+    },
+    {
+      "id": "ch10-bibliography-003",
+      "source_ids": [
+        "ch10-ref007",
+        "ch10-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Boniolo, G.: 2007, On Scientific Representations. From Kant to a New Philosophy of Science, Palgrave Macmillan, Houndmills."
+      ],
+      "zh": [
+        "Boniolo, G.: 2007, On Scientific Representations. From Kant to a New Philosophy of Science, Palgrave Macmillan, Houndmills."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch10-bibliography-004",
+      "source_ids": [
+        "ch10-ref008",
+        "ch10-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Buchdahl, G.: 1971, ‘The Conception of Lawlikeness in Kant’s Philosophy of Science’, Synthese 23, pp. 24–46; now L.W. Beck (ed.), Kant’s Theory of Knowledge, Reidel, Dordrecht, 1974, pp. 128–150."
+      ],
+      "zh": [
+        "Buchdahl, G.: 1971, ‘The Conception of Lawlikeness in Kant’s Philosophy of Science’, Synthese 23, pp. 24–46; now L.W. Beck (ed.), Kant’s Theory of Knowledge, Reidel, Dordrecht, 1974, pp. 128–150."
+      ],
+      "shared": true,
+      "units": 32
+    },
+    {
+      "id": "ch10-bibliography-005",
+      "source_ids": [
+        "ch10-ref009",
+        "ch10-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M.: 1994, ‘Kant and the Twentieth Century’, in P. Parrini (ed.), Kant and Contemporary Epistemology, Kluwer, Dordrecht, pp. 27–46."
+      ],
+      "zh": [
+        "Friedman, M.: 1994, ‘Kant and the Twentieth Century’, in P. Parrini (ed.), Kant and Contemporary Epistemology, Kluwer, Dordrecht, pp. 27–46."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch10-bibliography-006",
+      "source_ids": [
+        "ch10-ref013",
+        "ch10-ref014"
+      ],
+      "page": "201",
+      "canonical_kind": "reference",
+      "en": [
+        "Guyer, P.: 1990, ‘Reason and Reflective Judgment: Kant on the Significance of Systematicity’, Nous 24, pp. 17–43."
+      ],
+      "zh": [
+        "Guyer, P.: 1990, ‘Reason and Reflective Judgment: Kant on the Significance of Systematicity’, Nous 24, pp. 17–43."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch10-bibliography-007",
+      "source_ids": [
+        "ch10-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I.: 1986, Briefwechsel, Felix Meiner Verlag, Hamburg."
+      ],
+      "zh": [
+        "Kant, I.: 1986, Briefwechsel, Felix Meiner Verlag, Hamburg."
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch10-bibliography-008",
+      "source_ids": [
+        "ch10-ref014",
+        "ch10-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I.: 1987, Erste Einleitung to the Kritik der Urteilskraft, Engl. transl. First Introduction, in Critique of Judgement, ed. by W.S. Pluhar, Hackett Publishing, Indianapolis, IN, pp. 385–441."
+      ],
+      "zh": [
+        "Kant, I.: 1987, Erste Einleitung to the Kritik der Urteilskraft, Engl. transl. First Introduction, in Critique of Judgement, ed. by W.S. Pluhar, Hackett Publishing, Indianapolis, IN, pp. 385–441."
+      ],
+      "shared": true,
+      "units": 30
+    },
+    {
+      "id": "ch10-bibliography-009",
+      "source_ids": [
+        "ch10-ref015",
+        "ch10-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I.: 1781–1787[2], Kritik der reinen Vernunft, Engl. transl. Immanuel Kant’s Critique of Pure Reason, ed. by P. Guyer and A.W. Wood, Cambridge University Press, Cambridge, 1998."
+      ],
+      "zh": [
+        "Kant, I.: 1781–1787[2], Kritik der reinen Vernunft, Engl. transl. Immanuel Kant’s Critique of Pure Reason, ed. by P. Guyer and A.W. Wood, Cambridge University Press, Cambridge, 1998."
+      ],
+      "shared": true,
+      "units": 30
+    },
+    {
+      "id": "ch10-bibliography-010",
+      "source_ids": [
+        "ch10-ref016",
+        "ch10-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I.: 1783, Prolegomena zur einer jeden künftigen Metaphysik die als Wissenschaft wird auftreten Können, Engl. transl. Prolegomena to Any Future Metaphysics, ed. by G. Hatfield, Cambridge University Press, Cambridge, 1997."
+      ],
+      "zh": [
+        "Kant, I.: 1783, Prolegomena zur einer jeden künftigen Metaphysik die als Wissenschaft wird auftreten Können, Engl. transl. Prolegomena to Any Future Metaphysics, ed. by G. Hatfield, Cambridge University Press, Cambridge, 1997."
+      ],
+      "shared": true,
+      "units": 31
+    },
+    {
+      "id": "ch10-bibliography-011",
+      "source_ids": [
+        "ch10-ref017",
+        "ch10-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I.: 1786, Metaphysischen Anfangsgründe der Naturwissenschaft, Engl. transl. Metaphysical Foundations of Natural Science, ed. by M. Friedman, Cambridge University Press, Cambridge, 2004."
+      ],
+      "zh": [
+        "Kant, I.: 1786, Metaphysischen Anfangsgründe der Naturwissenschaft, Engl. transl. Metaphysical Foundations of Natural Science, ed. by M. Friedman, Cambridge University Press, Cambridge, 2004."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch10-bibliography-012",
+      "source_ids": [
+        "ch10-ref018",
+        "ch10-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I.: 1790, Kritik der Urteilskraft, Engl. transl. Critique of Judgement, ed. by W.S. Pluhar, Hackett Publishing, Indianapolis, IN, 1987."
+      ],
+      "zh": [
+        "Kant, I.: 1790, Kritik der Urteilskraft, Engl. transl. Critique of Judgement, ed. by W.S. Pluhar, Hackett Publishing, Indianapolis, IN, 1987."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch10-bibliography-013",
+      "source_ids": [
+        "ch10-ref019",
+        "ch10-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I.: 1800, Logik, Engl. transl. Logic, ed. by R.S. Hartman and W. Schwarz, Dover, New York, 1974."
+      ],
+      "zh": [
+        "Kant, I.: 1800, Logik, Engl. transl. Logic, ed. by R.S. Hartman and W. Schwarz, Dover, New York, 1974."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch10-bibliography-014",
+      "source_ids": [
+        "ch10-ref020",
+        "ch10-ref021"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I.: 1956–1964, Werkausgabe, vols. I–XII, ed. by W. von Weishedel, Suhrkamp, Frankfurt a.M., 1968."
+      ],
+      "zh": [
+        "Kant, I.: 1956–1964, Werkausgabe, vols. I–XII, ed. by W. von Weishedel, Suhrkamp, Frankfurt a.M., 1968."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch10-bibliography-015",
+      "source_ids": [
+        "ch10-ref021",
+        "ch10-ref022"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kemp Smith, N.: 1923, A Commentary to Kant’s ‘Critique of Pure Reason’, Humanities Press, London, 1950."
+      ],
+      "zh": [
+        "Kemp Smith, N.: 1923, A Commentary to Kant’s ‘Critique of Pure Reason’, Humanities Press, London, 1950."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch10-bibliography-016",
+      "source_ids": [
+        "ch10-ref022",
+        "ch10-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kitcher, P.: 1994, ‘The Unity of Science and the Unity of Nature’, in P. Parrini (ed.), Kant and Contemporary Epistemology, Kluwer, Dordrecht, pp. 253–272."
+      ],
+      "zh": [
+        "Kitcher, P.: 1994, ‘The Unity of Science and the Unity of Nature’, in P. Parrini (ed.), Kant and Contemporary Epistemology, Kluwer, Dordrecht, pp. 253–272."
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch10-bibliography-017",
+      "source_ids": [
+        "ch10-ref023",
+        "ch10-ref024"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kitcher, P.: 1998, ‘Projecting the Order of Nature’, in Patricia Kitcher (ed.), Kant’s Critique of Pure Reason. Critical Essays, Rowan & Littlefield, Lanham, MD, pp. 219–238."
+      ],
+      "zh": [
+        "Kitcher, P.: 1998, ‘Projecting the Order of Nature’, in Patricia Kitcher (ed.), Kant’s Critique of Pure Reason. Critical Essays, Rowan & Littlefield, Lanham, MD, pp. 219–238."
+      ],
+      "shared": true,
+      "units": 26
+    },
+    {
+      "id": "ch10-bibliography-018",
+      "source_ids": [
+        "ch10-ref024",
+        "ch10-ref025"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Krieger, L.: 1965, ‘Kant and the Crisis of Natural Law’, Journal of the History of Ideas 26, pp. 191–210."
+      ],
+      "zh": [
+        "Krieger, L.: 1965, ‘Kant and the Crisis of Natural Law’, Journal of the History of Ideas 26, pp. 191–210."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch10-bibliography-019",
+      "source_ids": [
+        "ch10-ref025"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Maxwell, J.C.: 1873, Treatise on Electricity and Magnetism, Dover, New York, 1952."
+      ],
+      "zh": [
+        "Maxwell, J.C.: 1873, Treatise on Electricity and Magnetism, Dover, New York, 1952."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch10-bibliography-020",
+      "source_ids": [
+        "ch10-ref025",
+        "ch10-ref026"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Nagel, E.: 1961, The Structure of Science. Problems in the Logic of Scientific Explanation, Harcour, Brace & World, New York."
+      ],
+      "zh": [
+        "Nagel, E.: 1961, The Structure of Science. Problems in the Logic of Scientific Explanation, Harcour, Brace & World, New York."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch10-bibliography-021",
+      "source_ids": [
+        "ch10-ref026",
+        "ch10-ref027"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "O’Shea, J.R.: 1997, ‘The Needs of Understanding: Kant on Empirical Laws and Regulative Ideals’, International Journal of Philosophical Studies 5, pp. 216–254."
+      ],
+      "zh": [
+        "O’Shea, J.R.: 1997, ‘The Needs of Understanding: Kant on Empirical Laws and Regulative Ideals’, International Journal of Philosophical Studies 5, pp. 216–254."
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch10-bibliography-022",
+      "source_ids": [
+        "ch10-ref027"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Pearson, K.: 1892, The Grammar of Science, J.M. Dent & Sons, London, 1943."
+      ],
+      "zh": [
+        "Pearson, K.: 1892, The Grammar of Science, J.M. Dent & Sons, London, 1943."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch10-bibliography-023",
+      "source_ids": [
+        "ch10-ref027"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Scaravelli, L.: 1968, Scritti kantiani, La Nuova Italia, Firenze."
+      ],
+      "zh": [
+        "Scaravelli, L.: 1968, Scritti kantiani, La Nuova Italia, Firenze."
+      ],
+      "shared": true,
+      "units": 9
+    },
+    {
+      "id": "ch10-bibliography-024",
+      "source_ids": [
+        "ch10-ref027",
+        "ch10-ref028"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schlick, M.: 1931, ‘Die kausalität in der gegenwartigen Physik’, Die Naturwissenschaften 19, pp. 145–162; Engl. transl. ‘Causality in Contemporary Physics’, in Schlick, 1979, vol. II, pp. 176–209."
+      ],
+      "zh": [
+        "Schlick, M.: 1931, ‘Die kausalität in der gegenwartigen Physik’, Die Naturwissenschaften 19, pp. 145–162; Engl. transl. ‘Causality in Contemporary Physics’, in Schlick, 1979, vol. II, pp. 176–209."
+      ],
+      "shared": true,
+      "units": 29
+    },
+    {
+      "id": "ch10-bibliography-025",
+      "source_ids": [
+        "ch10-ref028"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Vallentyne, P.: 1988, ‘Explicating Lawhood’, Philosophy of Science 55, pp. 598–613."
+      ],
+      "zh": [
+        "Vallentyne, P.: 1988, ‘Explicating Lawhood’, Philosophy of Science 55, pp. 598–613."
+      ],
+      "shared": true,
+      "units": 12
+    }
+  ],
+  "notes": {
+    "ch10-n01": {
+      "number": "1",
+      "en": [
+        "For Kant’s writings, I use the English translations indicated in the references. However I have compared them with I. Kant, Werkausgabe, edited by W. von Weischedel, 1956–1964, Suhrkamp, Frankfurt a.M. 1968, voll. I–XII. In particular, I quote (1) Kritik der reinen Vernunft by (KdrV, p. xx, Byy); (2) Prolegomena zu einer jeden künftigen Metaphysik, die als Wissenschaft wird auftreten können by (P, p. xx, yy); (3) Metaphysische Anfangsgründe der Naturwissenschaft by (M, p. xx, yy); (4) Kritik der Urteilskraft by (KdU, p. xx, yy); (5) Logik by (L, pp. xx). Where xx indicates the pages of the English translation used, and yy the pages, if quoted, of the original text to which the translation refers. Note that I do not use the first edition of the Kritik der reinen Vernunft. Laws of nature and the relevance of a Kantian approach in the philosophy of science are discussed in more details in Boniolo (2007)."
+      ],
+      "zh": [
+        "康德的著作，我使用参考文献中列出的英译本。但我已将它们与 W. von Weischedel 编的《康德著作集》（I. Kant, Werkausgabe，1956–1964，苏尔坎普出版社，美因河畔法兰克福，1968， I–XII 卷）作了对照。具体引用方式为：(1)《纯粹理性批判》（Kritik der reinen Vernunft）记作（KdrV, p. xx, Byy）；(2)《未来形而上学导论》（Prolegomena zu einer jeden künftigen Metaphysik, die als Wissenschaft wird auftreten können）记作（P, p. xx, yy）；(3)《自然科学的形而上学初始根据》（Metaphysische Anfangsgründe der Naturwissenschaft）记作（M, p. xx, yy）；(4)《判断力批判》（Kritik der Urteilskraft）记作（KdU, p. xx, yy）；(5)《逻辑学》（Logik）记作（L, pp. xx）。其中 xx 表示所用英译本的页码，yy 表示该译本所依据的原文页码（如有引用）。注意我不使用《纯粹理性批判》第一版。关于自然规律以及康德进路在科学哲学中的相关性，更详细的讨论见 Boniolo (2007)。"
+      ]
+    },
+    "ch10-n02": {
+      "number": "2",
+      "en": [
+        "This is my neologism. Some authors prefer to speak about lawhood (cf. Vallentyne, 1988)."
+      ],
+      "zh": [
+        "这是我的新造词。有些作者更喜欢用 lawhood（规律地位）一词（参见 Vallentyne, 1988）。"
+      ]
+    },
+    "ch10-n03": {
+      "number": "3",
+      "en": [
+        "Note that ‘nature’ in this context must be interpreted in a Kantian way."
+      ],
+      "zh": [
+        "注意此处的“自然”必须按康德的方式来理解。"
+      ]
+    },
+    "ch10-n04": {
+      "number": "4",
+      "en": [
+        "Of course in 1931 Schlick cannot be aware of the critics by Popper and Carnap to the impossibility of conclusively verifying a singular statement."
+      ],
+      "zh": [
+        "当然，1931年的石里克不可能知道波普尔和卡尔纳普后来围绕单称陈述能否被最终证实提出的批评。"
+      ]
+    },
+    "ch10-n05": {
+      "number": "5",
+      "en": [
+        "Schlick writes explicitly about the possibility that there are regularities due to chance (idem, p. 184)."
+      ],
+      "zh": [
+        "石里克明确写到存在出于偶然的规则性的可能性（同上，p. 184）。"
+      ]
+    },
+    "ch10-n06": {
+      "number": "6",
+      "en": [
+        "Cf. Kant (1986, pp. 99–106). Note that there is also another possibility: Leibniz’s preestablished harmony, that Kant rejects as well (cf. KdrV, pp. 264–265, B 167)."
+      ],
+      "zh": [
+        "参见 Kant (1986, pp. 99–106)。注意还有另一种可能：莱布尼茨的前定和谐，康德同样拒斥（参见 KdrV, pp. 264–265, B 167）。"
+      ]
+    },
+    "ch10-n07": {
+      "number": "7",
+      "en": [
+        "Note that in the Cambridge edition of the KdrV that I use, the term ‘Erkenntnis’ is translated by ‘cognition’, while I prefer the more classical term ‘knowledge’."
+      ],
+      "zh": [
+        "注意在我所用的剑桥版 KdrV 中，术语“Erkenntnis”被译作“cognition”（认识），而我更倾向于更经典的术语“knowledge”（知识）。"
+      ]
+    },
+    "ch10-n08": {
+      "number": "8",
+      "en": [
+        "“This would be just like the first thoughts of Copernicus (mit den ersten Gedanken des Kopernicus)” (KdrV, p. 110, B XVI)."
+      ],
+      "zh": [
+        "“这就好比哥白尼的最初想法（mit den ersten Gedanken des Kopernicus）”（KdrV, p. 110, B XVI）。"
+      ]
+    },
+    "ch10-n09": {
+      "number": "9",
+      "en": [
+        "It is important to be aware of the fact that “though all our knowledge begins with [mit] experience, it does not follow that it all arise out of [aus] experience” (KdrV, p. 136, B 1, my italics)."
+      ],
+      "zh": [
+        "重要的是要意识到：“虽然我们的一切知识都从经验开始（mit），但并不能由此推出它们都产生自经验（aus）”（KdrV, p. 136, B 1，着重号为引者所加）。"
+      ]
+    },
+    "ch10-n10": {
+      "number": "10",
+      "en": [
+        "It should be pointed out that we are dealing with the ‘metaphysics of nature’ and not with ‘metaphysics in nature’."
+      ],
+      "zh": [
+        "应当指出，我们这里处理的是“自然的形而上学”，而不是“自然中的形而上学”。"
+      ]
+    },
+    "ch10-n11": {
+      "number": "11",
+      "en": [
+        "As well-know this is the widely discussed problem of the relation between physics and mathematics; cf. Boniolo, Budinich, 2005."
+      ],
+      "zh": [
+        "众所周知，这就是被广泛讨论的物理学与数学的关系问题；参见 Boniolo, Budinich, 2005。"
+      ]
+    },
+    "ch10-n12": {
+      "number": "12",
+      "en": [
+        "Note that the Analogies of Experience, which are regulative, constitute the lawfulness of nature. As we will see later on, and as Kant himself specifies (KdrV, pp. 601–602, B 691), the analogies regulate in the sense that they impose laws, and thus constitute nature as natura formaliter spectata. Another remark should be in order. There are two meanings of “regulative” to be distinguished: (1) “regulative” in the sense of the pure laws (rules) which are constitutively imposed to rule nature; (2) “regulative” in the sense of the heuristic rules helping the scientific research."
+      ],
+      "zh": [
+        "注意，经验类比是调节性的，却构成了自然的合律性。正如我们后面将看到的，也如康德本人所明确的（KdrV, pp. 601–602, B 691），类比的调节意义在于它们施加规律，从而把自然构成为形式上考察的自然（natura formaliter spectata）。还应作另一说明。“调节性的”有两种含义须加区分：（1）“调节性的”指被构成性地施加以支配自然的纯粹规律（规则）；（2）“调节性的”指帮助科学研究的启发式规则。"
+      ]
+    },
+    "ch10-n13": {
+      "number": "13",
+      "en": [
+        "It should be noted here that “unity” has not to be intended in the transcendental sense, since it was the unity allowed by the I think. Instead now it must be intended as a methodological unity."
+      ],
+      "zh": [
+        "这里应当注意，“统一性”不能在先验意义上理解，因为那是“我思”所允许的统一性。相反，现在它必须被理解为方法论的统一性。"
+      ]
+    },
+    "ch10-n14": {
+      "number": "14",
+      "en": [
+        "With reference to this point Kant writes that “the word nature already carries with it the concept of laws, and the latter carries with it the concept of necessity of all determinations of a thing belonging to its existence” (M, p. 4, 469)."
+      ],
+      "zh": [
+        "关于这一点，康德写道：“自然这个词本身就带有规律的概念，而后者又带有属于一物存在的一切规定之必然性的概念”（M, p. 4, 469）。"
+      ]
+    },
+    "ch10-n15": {
+      "number": "15",
+      "en": [
+        "From these three principles of reason, Kant derives also that one according to which non datur vacuum formarum, and its corollary: datur continuum formarum."
+      ],
+      "zh": [
+        "从理性的这三条原则出发，康德还推导出这样一条原则：不存在形式的真空（non datur vacuum formarum），及其推论：存在形式的连续统（datur continuum formarum）。"
+      ]
+    },
+    "ch10-n16": {
+      "number": "16",
+      "en": [
+        "Kitcher (1998) arrives at the same result by emphasising the role of the system. He speaks in term of ‘lawfulness’, but, as seen, this should not be the right term."
+      ],
+      "zh": [
+        "基切尔（Kitcher, 1998）通过强调体系的作用达到了同样的结果。他用的是“合律性”（lawfulness）一词，但如我们所见，这应当不是恰当的术语。"
+      ]
+    }
+  }
+}

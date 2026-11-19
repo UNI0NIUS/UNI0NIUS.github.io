@@ -1,0 +1,1524 @@
+{
+  "id": "ch29",
+  "title": "暂定的知识",
+  "originalTitle": "Provisional Knowledge",
+  "outline": [
+    {
+      "anchor": "ch29-u003",
+      "title": "1 引言",
+      "originalTitle": "1 Introduction",
+      "level": 1
+    },
+    {
+      "anchor": "ch29-u008",
+      "title": "2 物理学基础主义的一个经验论理据",
+      "originalTitle": "2 An Empiricist Rationale for Physics-Fundamentalism",
+      "level": 1
+    },
+    {
+      "anchor": "ch29-u018",
+      "title": "3 批判性评估",
+      "originalTitle": "3 Critical Evaluation",
+      "level": 1
+    },
+    {
+      "anchor": "ch29-u032",
+      "title": "4 把科学视为真理来源的问题",
+      "originalTitle": "4 Problems with Science as a Source of Truths",
+      "level": 1
+    },
+    {
+      "anchor": "ch29-u038",
+      "title": "5 重新考察陈述如何成功地表象世界",
+      "originalTitle": "5 Reconsidering Representational Success for Statements",
+      "level": 1
+    },
+    {
+      "anchor": "ch29-u042",
+      "title": "6 知识是暂定的",
+      "originalTitle": "6 Knowledge Is Provisional",
+      "level": 1
+    },
+    {
+      "anchor": "ch29-u053",
+      "title": "7 暂定的知识、真与实用主义",
+      "originalTitle": "7 Provisional Knowledge, Truth, and Pragmatism",
+      "level": 1
+    },
+    {
+      "anchor": "ch29-u059",
+      "title": "8 一个形而上学隐喻",
+      "originalTitle": "8 A Metaphysical Metaphor",
+      "level": 1
+    },
+    {
+      "anchor": "ch29-ref001",
+      "title": "9 暂定的知识",
+      "originalTitle": "9 Provisional Knowledge",
+      "level": 1
+    },
+    {
+      "anchor": "ch29-u066",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch29-u001",
+      "source_ids": [
+        "ch29-u001"
+      ],
+      "page": "503",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch29-u002",
+      "source_ids": [
+        "ch29-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Paul Teller"
+      ],
+      "zh": [
+        "保罗·特勒"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch29-u004",
+      "source_ids": [
+        "ch29-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract Physics, and science generally, rarely function according to the mechanist tradition of founding all scientific knowledge on “shaped matter in motion” of the physical parts of a system. Rather we employ a vast range of explanatory strategies a great many of which work in terms of “stripping detail” when detail is not relevant to the problem at hand. Most of these strategies involve some level of idealization, inaccuracy, or distortion, which raises the worry: When accounts in science involve distortion, how can they count as knowledge? This problem motivates reconstruing knowledge, and in particular its requirement of (unqualified) truth in its content component, in terms of the kinds of standards that require something less than perfect precision and accuracy, in analogy to the context and interest dependent standards that we apply for representational accuracy of things such as maps and pictures. The paper concludes with consideration of possible connections with pragmatism and with ways of thinking about “independent reality”."
+      ],
+      "zh": [
+        "摘要 物理学乃至科学整体，很少按机械论传统所设想的方式开展——该传统把一切科学知识奠基于系统物理部分的“运动中的有形物质”。相反，我们采用范围极广的解释策略，其中许多在细节与手头问题无关时以“剥离细节”的方式运作。这些策略大多涉及某种程度的理想化、不准确或扭曲，这引起一个担忧：当科学中的说明涉及扭曲时，它们如何能算作知识？这个问题促使我们重新构想知识，特别是其内容成分中对（无条件的）真的要求，按具体任务所要求的精密程度和准确程度来理解它。与地图或图画一样，对表象准确性的要求取决于使用语境和目的。文章最后考虑与实用主义的可能联系，以及思考“独立实在”的方式。"
+      ],
+      "units": 160
+    },
+    {
+      "id": "ch29-u005",
+      "source_ids": [
+        "ch29-u005"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "P. Teller Department of Philosophy, University of California at Davis e-mail: prteller@ucdavis.edu"
+      ],
+      "zh": [
+        "P. Teller Department of Philosophy, University of California at Davis e-mail: prteller@ucdavis.edu"
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch29-u003",
+      "source_ids": [
+        "ch29-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Introduction"
+      ],
+      "zh": [
+        "1 引言"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch29-u006",
+      "source_ids": [
+        "ch29-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The expression, “provisional knowledge” would appear to be a complete oxymoron. If something is knowledge, it is justified and true – what could be provisional about the knowledge itself? The qualifier, “provisional”, could only be understood as applying to ones attitude towards a knowledge claim, expressing caution as to whether what is claimed to be knowledge will really prove to be so. It may transpire that one had made a mistake, in which case there never was any knowledge, provisional or otherwise."
+      ],
+      "zh": [
+        "“暂定的知识”这个表达似乎是一个彻底自相矛盾的说法。如果某个东西是知识，它就是得到证成且为真的——知识本身有什么可以是暂定的？“暂定的”这个限定词只能被理解为应用于一个人对知识主张的态度，表达对被称为知识的东西是否真的将被证明是知识的谨慎。也许后来发现一个人犯了错误，那样的话就从来没有任何知识，无论暂定的还是别的。"
+      ],
+      "units": 81
+    },
+    {
+      "id": "ch29-u007",
+      "source_ids": [
+        "ch29-u007"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Or so it would seem. I will provide a critique of a foundationalist attitude towards knowledge in science, one that will then require us to rethink the nature of such knowledge for which, in turn, the qualification of “provisional” will prove to be exactly appropriate."
+      ],
+      "zh": [
+        "或者看起来是这样。我将批判一种对科学中知识的基础主义态度，这将进而要求我们重新思考这种知识的本性，而对这种知识来说，“暂定的”这个限定将被证明恰恰恰当。"
+      ],
+      "units": 45
+    },
+    {
+      "id": "ch29-u008",
+      "source_ids": [
+        "ch29-u008"
+      ],
+      "page": "504",
+      "canonical_kind": "heading",
+      "en": [
+        "2 An Empiricist Rationale for Physics-Fundamentalism"
+      ],
+      "zh": [
+        "2 物理学基础主义的一个经验论理据"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch29-u009",
+      "source_ids": [
+        "ch29-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The following sketch may be no better than a caricature. But if successful, as with any successful caricature, it will make manifest important features, the examination of which will help us vividly to see some of empiricism’s shortcomings.",
+        {
+          "type": "note",
+          "id": "ch29-n01",
+          "label": "1"
+        }
+      ],
+      "zh": [
+        "下面的勾勒也许不比一幅漫画更好。但如果成功，就像任何成功的漫画一样，它将凸显重要特征，考察这些特征将帮助我们鲜明地看到经验论的某些短处。",
+        {
+          "type": "note",
+          "id": "ch29-n01",
+          "label": "1"
+        }
+      ],
+      "units": 38
+    },
+    {
+      "id": "ch29-u010",
+      "source_ids": [
+        "ch29-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "From the corpuscularian philosophy and the clock metaphor of the scientific revolution we have inherited the entrenched idea that the behavior, indeed everything about objects, is to be explained in terms of their parts, and, ultimately, the shaped matter in motion of the parts. I will use mechanism broadly for this attitude. As science has developed we have evolved how we think of these “parts” and how their operation collectively constitutes the behavior of the larger wholes. But thinking of the behavior of the whole in terms of the (successors of) “shaped matter in motion of the parts” has remained entrenched. Henceforth I will use “shaped matter in motion” with the quotes as shorthand for contemporary theorizing about the ultimate constituents of matter."
+      ],
+      "zh": [
+        "从科学革命的微粒哲学和时钟隐喻，我们继承了这样一个根深蒂固的观念：对象的行为、乃至对象的一切，都要用构成它们的各个部分来解释，归根结底要诉诸这些部分中运动的有形物质。我将宽泛地用机械论指称这种态度。随着科学的发展，我们对这些“部分”以及它们的活动如何共同构成更大整体的行为的思考方式已经演变。但用“部分的运动中的有形物质”（的后继概念）来思考整体行为的做法仍然根深蒂固。此后我将把带引号的“运动中的有形物质”用作关于物质终极成分的当代理论建构的简写。"
+      ],
+      "units": 123
+    },
+    {
+      "id": "ch29-u011",
+      "source_ids": [
+        "ch29-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I suspect that the following line of argument has implicitly encouraged the view that all factual knowledge ultimately concerns only “shaped matter in motion”. Here is a three-line version of the argument:"
+      ],
+      "zh": [
+        "我怀疑下面这条论证路线暗中助长了这样的观点：一切事实知识归根结底只涉及“运动中的有形物质”。这是该论证的三行版本："
+      ],
+      "units": 32
+    },
+    {
+      "id": "ch29-u012",
+      "source_ids": [
+        "ch29-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "(a) Our only source of information about what is external to us is via perception of “shaped matter in motion”.\n(b) “Shaped matter in motion” can only carry information about “shaped matter in motion”.\n(c) So all knowledge of the external world is knowledge of “shaped matter in motion”."
+      ],
+      "zh": [
+        "(a) 我们关于外在于我们的东西的信息的唯一来源，是对“运动中的有形物质”的知觉。\n(b) “运动中的有形物质”只能携带关于“运动中的有形物质”的信息。\n(c) 所以关于外部世界的一切知识都是关于“运动中的有形物质”的知识。"
+      ],
+      "units": 49
+    },
+    {
+      "id": "ch29-u014",
+      "source_ids": [
+        "ch29-u014"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In a little more detail: By factual knowledge I will understand all knowledge except definitions, combinatorial facts, and generally facts about structure abstracted from concrete realizations, viz, mathematics broadly. Henceforth restriction to the factual will be understood. Now, as good empiricists we assume that all factual knowledge comes through our senses and hence comes via (impressions of) physical things such as trees and (bodies of) people and their observable properties and behavior: shapes, sizes, configurations, color….",
+        {
+          "type": "note",
+          "id": "ch29-n02",
+          "label": "2"
+        },
+        " That is, any difference in what can be known must be “underwritten” by a difference in sensory input and so a difference in the perceived (macroscopic) physical configuration. Variations in the conclusions we draw from experience must correspond to variations in the perceptual evidence. (Note well: This presupposes a unique function from “evidence” to rational – that is justified – conclusions.)"
+      ],
+      "zh": [
+        "稍详细一点：事实知识我理解为除定义、组合事实、以及一般地从具体实现中抽象出来的关于结构的事实——即宽泛的数学——之外的一切知识。此后将默认限于事实知识。那么，作为好的经验论者，我们假设一切事实知识都通过我们的感官而来，因此经由物理事物（的印象）而来，如树木和人（的身体）及其可观察性质与行为：形状、大小、构型、颜色……",
+        {
+          "type": "note",
+          "id": "ch29-n02",
+          "label": "2"
+        },
+        " 也就是说，可知东西的任何差异都必须由感官输入的差异、因而由被知觉的（宏观）物理构型的差异来“担保”。我们从经验得出的结论的变化必须对应于知觉证据的变化。（请注意：这预设了从“证据”到合理的——即得到证成的——结论的唯一函数。）"
+      ],
+      "units": 135
+    },
+    {
+      "id": "ch29-u015",
+      "source_ids": [
+        "ch29-u015"
+      ],
+      "page": "505",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The upshot is that whatever we know must be in causal connection with the physical processes that immediately affect our senses. Assuming further that what is causally connected with these exemplars of the physical fairly counts as physical we conclude that all objects of factual knowledge count as physical. The argument concludes by applying the basic precept of mechanism: Ultimately all understanding of physical phenomena proceeds in terms of the “shaped matter in motion” of the parts. So the objects of all factual knowledge are, ultimately, knowledge about “shaped matter in motion”."
+      ],
+      "zh": [
+        "结果是：我们所知的任何东西都必须与直接影响我们感官的物理过程处于因果联系中。再假设与这些典型物理过程有因果联系的东西也可合理地归为物理事物，我们得出结论：一切事实知识的对象都算作物理的。论证最后应用机械论的基本准则：归根结底，对物理现象的一切理解都按部分的“运动中的有形物质”进行。所以一切事实知识归根结底都关于“运动中的有形物质”。"
+      ],
+      "units": 92
+    },
+    {
+      "id": "ch29-u016",
+      "source_ids": [
+        "ch29-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "By fundamental physics I understand the science of the ultimate constituents of matter and their behavior. Then, since the objects of factual knowledge involve only “shaped matter in motion” and fundamental physics is the ultimate science of that subject, we conclude."
+      ],
+      "zh": [
+        "基础物理学我理解为关于物质终极成分及其行为的科学。那么，既然事实知识的对象只涉及“运动中的有形物质”，而基础物理学是该主题的终极科学，我们得出结论。"
+      ],
+      "units": 41
+    },
+    {
+      "id": "ch29-u017",
+      "source_ids": [
+        "ch29-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Physics-fundamentalism: Fundamental physics is the ultimate source for understanding all natural phenomena."
+      ],
+      "zh": [
+        "物理学基础主义：基础物理学是理解一切自然现象的终极来源。"
+      ],
+      "units": 12
+    },
+    {
+      "id": "ch29-u018",
+      "source_ids": [
+        "ch29-u018"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Critical Evaluation"
+      ],
+      "zh": [
+        "3 批判性评估"
+      ],
+      "type": "subheading",
+      "units": 3
+    },
+    {
+      "id": "ch29-u019",
+      "source_ids": [
+        "ch29-u019"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Short of this sort of extreme empiricism, I don’t see how physics-fundamentalism gets its credentials. But it only has to be explicitly stated for flaws to leap out at us."
+      ],
+      "zh": [
+        "除了这种极端经验论，我看不出物理学基础主义如何获得其资格。但它只要被明确陈述出来，缺陷就会向我们跳出来。"
+      ],
+      "units": 30
+    },
+    {
+      "id": "ch29-u020",
+      "source_ids": [
+        "ch29-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To begin with, we contribute to perceptual phenomena. For example, our color phenomenology is a physiological construct of our trichromatic color visual system. Limiting artifacts such as color metamers and color constancy show that the system is no mirror of nature.",
+        {
+          "type": "note",
+          "id": "ch29-n03",
+          "label": "3"
+        },
+        " For a second example, the problems of constitution and of indeterminate spatial and temporal boundaries show that both our perception and our conception of discrete physical objects are idealizations that we impose on or build into experience. These examples multiply: broadly, perceptual phenomena are inexact in the sense that we refine their content with more exact scientific accounts of perception."
+      ],
+      "zh": [
+        "首先，我们对知觉现象有所贡献。例如，我们的色彩经验是由三色视觉系统在生理层面构成的。同色异谱与颜色恒常性等反映视觉系统局限的现象表明，该系统不是自然之镜。",
+        {
+          "type": "note",
+          "id": "ch29-n03",
+          "label": "3"
+        },
+        " 第二个例子：构成问题以及不确定的时空边界问题表明，我们对离散物理对象的知觉和构想都是我们施加于经验或构建进经验的理想化。这样的例子可以倍增：宽泛地说，知觉现象是不精确的，意思是我们用更精确的科学知觉说明来细化其内容。"
+      ],
+      "units": 101
+    },
+    {
+      "id": "ch29-u021",
+      "source_ids": [
+        "ch29-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Further, we contribute by what we do with what we perceive, that is we contribute to the theoretical phenomena.",
+        {
+          "type": "note",
+          "id": "ch29-n04",
+          "label": "4"
+        },
+        " By theoretical phenomena I mean any phenomena, in a very broad sense, that do not count as perceptual: For example, the advance of the perihelion of Mercury, phase transitions as from liquid to gas, and beta decay."
+      ],
+      "zh": [
+        "再者，我们通过对我们所知觉的东西的处理而有所贡献，即我们对理论现象有所贡献。",
+        {
+          "type": "note",
+          "id": "ch29-n04",
+          "label": "4"
+        },
+        " 理论现象我指任何不算知觉现象的现象（很宽泛的意义上）：例如水星近日点的进动、从液态到气态这样的相变、以及 β 衰变。"
+      ],
+      "units": 56
+    },
+    {
+      "id": "ch29-u022",
+      "source_ids": [
+        "ch29-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant’s a priori synthetic contribution to (largely Newtonian) theoretical phenomena, of course, no longer receive serious consideration. But the late nineteenth and early twentieth centuries saw proposal for a relativized, “dynamical” conception of constitutive a priori principles. Citing just one of many expositions, Friedman (2001) suggests that in Newtonian mechanics the three laws of motion function as constitutive a priori principles that characterize the notion of an inertial frame required for the empirical content of the law of gravitation. In the general theory of relativity Einstein revises the constitutive principles by using the equivalence principle to found empirical content for his law of the metrical field."
+      ],
+      "zh": [
+        "康德对（主要是牛顿的）理论现象的先天综合贡献当然不再受到认真考虑。但十九世纪末二十世纪初出现了相对化的、“动力学的”构成性先天原则构想的提议。仅引用众多阐述中的一个：弗里德曼（2001）提出，在牛顿力学中，三条运动定律作为构成性先天原则起作用，它们刻画引力定律的经验内容所需的惯性系概念。在广义相对论中，爱因斯坦修订这些构成性原则，用等效原理为他的度规场定律奠定经验内容。"
+      ],
+      "units": 106
+    },
+    {
+      "id": "ch29-u023",
+      "source_ids": [
+        "ch29-u023"
+      ],
+      "page": "506",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We can say much more broadly that theoretical phenomena are instituted through the (successful) models that we devise, while here leaving open the extent to which the structure of such modeling might be further articulated as suggested by Friedman and others. Hooke’s law provides a simple example of what I have in mind. To what does it apply? What counts as a spring? Whenever the restoring force for a deformed material can be expressed as a Taylor series there is a linear first term. We count a material as a spring just in case, for ranges in which we are interested, the restoring force is well approximated by the linear first term of the Taylor expansion, that is exactly if the material satisfies Hooke’s law. More generally, laws, or as Giere recommends calling them, (model building) principles, function as tools in constructing models that can be brought into agreement, closely enough for our purposes, with perceptual or other, theoretical, phenomena (Giere, 1999, Chapter 5; 2006, pp. 69–71) Moving on from the point that we contribute to both the perceptual and theoretical phenomena, in the mechanist tradition explanation is to run in terms of “shaped matter in motion”. But physics – indeed, most of science – employs a vast range of alternative kinds of explanatory accounts. Many can be broadly characterized as “detail-stripping” accounts, that is ones that work without, or even in virtue of ignoring, the details of “shaped matter in motion”. I will illustrate:"
+      ],
+      "zh": [
+        "我们可以更宽泛地说，理论现象是通过我们设计的（成功的）模型而设立的，同时这里对这种建模的结构可在多大程度上按弗里德曼等人的建议作进一步阐明，本文暂且不论。胡克定律提供了我所想东西的简单例子。它适用于什么？什么算弹簧？只要变形材料的恢复力可以表示为泰勒级数，在平衡位置附近便可考察展开式中的一次项。我们把一种材料算作弹簧，恰恰当在我们感兴趣的范围内，恢复力被泰勒展开的线性第一项很好地近似，即恰恰当该材料满足胡克定律。更一般地，定律——或如吉尔建议称呼的，（模型构建）原理——作为构建模型的工具起作用，这些模型可以在满足我们目的所需的程度上与知觉现象或其他理论现象吻合（Giere, 1999, Chapter 5; 2006, pp. 69–71）。从我们对知觉现象和理论现象都有所贡献这一点继续前进：在机械论传统中，解释要按“运动中的有形物质”进行。但物理学——乃至大部分科学——采用范围极广的替代性解释说明。许多可以宽泛地刻画为“剥离细节”的说明，即不需要、甚至凭借忽略“运动中的有形物质”的细节而运作的说明。我将举例说明：",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "底本把线性项称为首项。这里指在平衡位置附近展开，且该项系数非零、在所考察范围内足够近似真实恢复力的情形"
+          ]
+        }
+      ],
+      "units": 244
+    },
+    {
+      "id": "ch29-u024",
+      "source_ids": [
+        "ch29-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To begin in an Aristotelian spirit, consider functional accounts. In understanding how a clock works we want to understand how the pendulum and gears interact to produce the signature regular motion. We want only relevant macroscopic facts – the details of microscopic configuration would positively get in the way. (Putnam, 1975, pp. 295–298) Ironically, this consideration is implicit in, but almost always ignored by, the mechanist tradition."
+      ],
+      "zh": [
+        "以亚里士多德式的精神开始，考虑功能说明。在理解时钟如何工作时，我们想理解摆和齿轮如何相互作用以产生标志性的规则运动。我们只想要相关的宏观事实——微观构型的细节恰恰会碍事。（Putnam, 1975, pp. 295–298）具有讽刺意味的是，这个考虑隐含在机械论传统中，却几乎总是被它忽略。"
+      ],
+      "units": 67
+    },
+    {
+      "id": "ch29-u025",
+      "source_ids": [
+        "ch29-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The example generalizes to the idea of functional explanation (Cummins, 1975), as illustrated with computer programs and wiring diagrams for radios. Suppose that we want to understand some complex disposition of a composite object. We analyze the object into relevant parts and characterize the relevant simpler dispositions of these parts. We then analyze the disposition of the whole as the organized, arranged, or programmed deployment of the dispositions of the parts. As in the special case of explaining the functioning of a clock, the microscopic details of how the parts get their simpler dispositions are irrelevant: The account stands however the component dispositions are realized."
+      ],
+      "zh": [
+        "这个例子推广为功能解释的观念（Cummins, 1975），以计算机程序和收音机接线图为例。假设我们想理解复合物体的某种复杂倾向。我们把该物体分析为相关的部分，并刻画这些部分的相关较简单倾向。然后我们把整体的倾向分析为各部分的倾向按特定的组织、安排或程序发挥作用。正如解释时钟运作的特例一样，部分如何获得其较简单倾向的微观细节是无关的：无论组件倾向如何实现，说明都成立。"
+      ],
+      "units": 105
+    },
+    {
+      "id": "ch29-u026",
+      "source_ids": [
+        "ch29-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Functional accounts overlap with many others. For example, Batterman (2002) discusses what he calls “asymptotic reasoning” on which we ignore – or strip the account of – details by using the description provided by the ideal limit of some parameter, as in treatment of critical phenomena such as transitions from solid to liquid to gas. Such limiting techniques bring to the fore the relevant relational structure of the whole, for example self-similarity in renormalization group treatments. Such accounts facilitate us in ignoring, for example, exactly which molecule touches off the process of condensation of a droplet, something that is never relevant to the kind of understanding we want when we ask why or how condensation occurs. We can also see the idea of limits as detail stripping in cases such as recovering Newtonian descriptions from special relativity by letting ",
+        {
+          "type": "math",
+          "tex": "v/c\\to0",
+          "display": false
+        },
+        "."
+      ],
+      "zh": [
+        "功能说明与许多其他说明重叠。例如，贝特曼（2002）讨论了他称为“渐近推理”的东西：我们使用某个参数的理想极限所提供的描述来忽略——或从说明中剥离——细节，如在处理从固态到液态到气态的转变这样的临界现象时。这样的极限技术把整体的相关关系结构凸显出来，例如重整化群处理中的自相似性。这样的说明使我们能够忽略例如究竟是哪个分子触发了液滴凝结过程——当我们问凝结为何或如何发生时，这种东西对我们想要的那种理解从来无关。我们也可以在诸如取 ",
+        {
+          "type": "math",
+          "tex": "v/c\\to0",
+          "display": false
+        },
+        " 的极限 而从狭义相对论恢复牛顿描述的情形中，看到把极限作为细节剥离的观念。"
+      ],
+      "units": 140
+    },
+    {
+      "id": "ch29-u027",
+      "source_ids": [
+        "ch29-u027"
+      ],
+      "page": "507",
+      "canonical_kind": "paragraph",
+      "en": [
+        "So doing enables us to ignore the details of the finite value of the velocity of light and its relativistic repercussions."
+      ],
+      "zh": [
+        "这样做使我们能够忽略光速有限值的细节及其相对论影响。"
+      ],
+      "units": 21
+    },
+    {
+      "id": "ch29-u028",
+      "source_ids": [
+        "ch29-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For another kind of example, statistical mechanics uses a probability distribution over the states of motion of individual molecules precisely to strip an account of detailed information about individual particle behavior, which details are irrelevant to the facts about thermal phenomena."
+      ],
+      "zh": [
+        "再举另一类例子：统计力学使用单个分子运动态上的概率分布，恰恰是为了从说明中剥离关于单个粒子行为的详细信息，而这些细节对热现象的事实是无关的。"
+      ],
+      "units": 41
+    },
+    {
+      "id": "ch29-u029",
+      "source_ids": [
+        "ch29-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Broadly, physics, and the rest of science, uses a wide range of techniques of idealization and approximation, such as a fixed external potential or treating interacting particles as interacting only with their average field. Such modeling techniques omit detail, simplify, and outright distort in ways irrelevant to solution of the present problem; or, while relevant, deploy departures that one can live with and that substantially facilitate problem solution. Idealization can be thought of generally as detail-stripping insofar as idealization omits characteristics or distorts in ways that avoid complications that impede solving the problem to hand.",
+        {
+          "type": "note",
+          "id": "ch29-n05",
+          "label": "5"
+        }
+      ],
+      "zh": [
+        "宽泛地说，物理学及其余科学使用范围极广的理想化与近似技术，如固定外势，或把相互作用的粒子处理为只与它们的平均场相互作用。这样的建模技术以与解决当前问题无关的方式省略细节、简化、乃至干脆扭曲；或者虽然相关，却部署我们可以容忍且大大便利问题解决的偏离。理想化可以一般地被理解为细节剥离，只要理想化以避免省略某些特征，或作适度改动，以免不必要的复杂性妨碍求解。",
+        {
+          "type": "note",
+          "id": "ch29-n05",
+          "label": "5"
+        }
+      ],
+      "units": 95
+    },
+    {
+      "id": "ch29-u030",
+      "source_ids": [
+        "ch29-u030"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In a great many cases the accounts stand on their own, not needing any “foundation” from a more fundamental theory to provide solutions for the problems they were designed to address. For example, the accomplishments of fluid mechanics of the eighteenth and nineteenth centuries stand as solutions to the problems that they addressed without any need for retrospective “foundational” support. Where a more fundamental theory does add detail to such theories, usually what is added is just that: further detail."
+      ],
+      "zh": [
+        "在非常多的情形中，说明自立自足，不需要来自更基础理论的任何“基础”来为它们被设计来解决的问题提供解答。例如，十八、十九世纪流体力学的成就作为对其所处理问题的解答而成立，完全不需要追溯性的“基础”支持。当更基础的理论确实给这样的理论增添细节时，通常所增添的恰恰就是：进一步的细节。"
+      ],
+      "units": 80
+    },
+    {
+      "id": "ch29-u031",
+      "source_ids": [
+        "ch29-u031"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Moreover, when a “more fundamental” theory does play a role in understanding a “less fundamental” theory, the account makes heavy use of further idealization. Often one requires exogenous supplementation and the resulting account does not conform to the mechanist paradigm of spelling out blow-by-blow details of the “shaped matter in motion”. For example in the relation between thermodynamics and statistical mechanics the use of a distribution over the motions of individual constituents not only strips the account of the details of the state of motion of the individual constituents but also requires a material assumption in addition to the “foundational theory” in the appeal to an initial distribution. More broadly, there is no uniquely “correct” way to break a composite into parts, an important consideration in treating correlation based phenomena such as phase transitions, superconductivity, and superfluidity. Choices of state and phase spaces descriptions are best made with a view to solving specific problems (Auyang, 1998, pp. 57 and passim.)"
+      ],
+      "zh": [
+        "此外，当“更基础的”理论确实在理解“较不基础的”理论中起作用时，说明大量使用进一步的理想化。常常需要外源补充，所得说明不符合机械论范式——逐一交代“运动中的有形物质”的细节。例如在热力学与统计力学的关系中，使用单个成分运动上的分布，不仅从说明中剥离了单个成分运动态的细节，而且在诉诸初始分布时，需要在“基础理论”之外添加一个实质性假设。更宽泛地说，把复合物分解为部分没有唯一“正确”的方式，这在处理基于关联的现象如相变、超导和超流时是重要考虑。态空间与相空间描述的选择最好着眼于解决特定问题来作出（Auyang, 1998, pp. 57 and passim.）。"
+      ],
+      "units": 160
+    },
+    {
+      "id": "ch29-u032",
+      "source_ids": [
+        "ch29-u032"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Problems with Science as a Source of Truths"
+      ],
+      "zh": [
+        "4 把科学视为真理来源的问题"
+      ],
+      "type": "subheading",
+      "units": 9
+    },
+    {
+      "id": "ch29-u033",
+      "source_ids": [
+        "ch29-u033"
+      ],
+      "page": "508",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The foregoing problems with traditional fundamentalism themselves face difficulties. They are at odds with the tradition according to which science is a source of unqualified truths. I will characterize our traditional conception of knowledge as involving a justificatory component and a content component that requires representation of things as they are. Ordinarily we take the content component to be truth, in turn understood as something that is not graded, not context dependent, not qualified in any way. I will encapsulate this attitude towards truth by speaking of “unqualified truth”. We now face the following problem: When science produces only idealizations it fails to provide unqualified truths, and so fails to provide knowledge. As I have already sketched, and will further sketch below, usually – if not always – this is the best that physics has to offer. Must we, after all, count physics as epistemically deeply impoverished? The problem generally infects much of science."
+      ],
+      "zh": [
+        "前述传统基础主义的种种问题本身也面临困难。它们与科学是无条件真之来源这一传统相冲突。我将把我们传统的知识构想刻画为包含一个证成成分和一个内容成分，后者要求表象事物如其所是。通常我们把内容成分理解为真，而真又被理解为不分等级、不依赖语境、不带任何限定的东西。我将通过谈论“无条件的真”来概括这种对真的态度。我们现在面临如下问题：当科学只产生理想化时，它未能提供无条件的真，因而未能提供知识。如我已经勾勒并将在下面进一步勾勒的，通常——如果不是总是——这已是物理学所能提供的最好东西。我们终究必须把物理学算作认识上极度贫乏的吗？科学研究的许多领域都面临这个问题。"
+      ],
+      "units": 152
+    },
+    {
+      "id": "ch29-u034",
+      "source_ids": [
+        "ch29-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To plumb the depths of this problem it will be instructive critically to examine a contemporary reason for expecting unqualified truths from physics and elsewhere in science. It is claimed that the world exhibits exact natural kinds and quantities, that we can identify and label these, and so conclude that we can use the terms that refer to the exact kinds and quantities to formulate unqualified, exceptionless, general truths. But, in fact, we never succeed in the claimed exact reference fixing. The paradigmatic example of mass will have to suffice. The Newtonian era took ‘mass’ to refer to a completely determinate quantity. In special relativity mass splits into rest and relativistic mass, and relativistically mass and energy are interconvertible. In a special case – gravitational energy – it isn’t even exactly localizable. In quantum field theories the status of mass is further complicated by the fact that it functions as a renormalization parameter: We substitute (imperfect) observational values for what clearly is not accurately described in the theory (Teller, 1995, Chapter 7). It’s a real stretch to think that anywhere in this history has ‘mass’ been univocally attached to some one determinate “feature of nature”."
+      ],
+      "zh": [
+        "要探究这个问题的深度，批判性地考察一个当代的、期待从物理学及科学其他部分获得无条件真的理由，将是有益的。有人声称，世界展现精确的自然类与量，我们能够识别并标记它们，于是得出结论：我们可以使用指称这些精确类与量的词项来表述无条件的、无例外的普遍真。但事实上，我们从未成功做到所声称的精确指称固定。这里举质量作为典型例子。牛顿时代把“质量”理解为指称一个完全确定的量。在狭义相对论中，质量分裂为静止质量与相对论质量，而且在相对论中质量与能量可相互转化。在一个特例——引力能——中，它甚至不能精确定域。在量子场论中，质量的地位因它作为重整化参数起作用而进一步复杂化：我们用（不完美的）观察值替代理论中显然未被准确描述的东西（Teller, 1995, Chapter 7）。认为这段历史中任何地方“质量”曾单义地附着于某个确定的“自然特征”，实在是很牵强的。"
+      ],
+      "units": 193
+    },
+    {
+      "id": "ch29-u035",
+      "source_ids": [
+        "ch29-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The travails of mass exemplify a general characteristic of physics as it is actually practiced: Broadly, the detailed-stripped accounts are inaccurate. I won’t assume that they always are. For example Batterman (2002) might argue that since the stripped details are irrelevant to the question at hand, no inaccuracy is involved. But when we examine the way in which the details are stripped in practice, often inaccuracy results – to be sure, inaccuracy that is harmless to the levels of accuracy required by the problem to hand."
+      ],
+      "zh": [
+        "质量概念在不同理论中的变迁，体现出物理实践的一个普遍特征：宽泛地说，剥离细节的说明是不准确的。我不假设它们总是不准确。例如贝特曼（2002）可能论证说，既然被剥离的细节与手头问题无关，就不涉及不准确。但当我们考察实践中细节被剥离的方式时，常常产生不准确——诚然，这种不准确对手头问题所要求的准确度水平是无害的。"
+      ],
+      "units": 85
+    },
+    {
+      "id": "ch29-u036",
+      "source_ids": [
+        "ch29-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Traditionally these complaints are brushed aside: Fundamentalists characterize the detail stripped accounts as “useful fictions”, to be “made honest” by micro-accounts. But we never have the reductions that would be needed for such a resuscitation of unqualified truth in physics, and even if we did, they would fail to reinstate unqualified truth because all of our current “fundamental” theories are themselves highly idealized. The standard model of the constituents of matter is so-called for good reason. Its quanta are an artifact of an idealized flat (or symmetrically curved) space–time. It suffers the internal inconsistency of Haag’s problem, it does not incorporate gravity. Conversely, we don’t know how to quantize our best theory of gravitation (Teller, 2004, pp. 433, 435–437)."
+      ],
+      "zh": [
+        "传统上这些抱怨被撇到一边：基础主义者把剥离细节的说明刻画为“有用的虚构”，要靠微观解释来“坐实”。但我们从未拥有在物理学中如此复活无条件真所需的还原，而且即使拥有，它们也无法恢复无条件真，因为我们当前所有“基础”理论本身就是高度理想化的。物质成分的标准模型之所以如此称呼是有充分理由的。其中的量子依赖于把时空理想化为平坦或按对称方式弯曲的做法。它遭受哈格问题的内部不一致，它不包含引力。反过来，我们不知道如何量子化我们最好的引力理论（Teller, 2004, pp. 433, 435–437）。"
+      ],
+      "units": 121
+    },
+    {
+      "id": "ch29-u037",
+      "source_ids": [
+        "ch29-u037"
+      ],
+      "page": "509",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Elsewhere I will argue that all knowledge in science – indeed, all knowledge of any kind – exhibits some combination of imprecision and inaccuracy.",
+        {
+          "type": "note",
+          "id": "ch29-n06",
+          "label": "6"
+        },
+        " In particular, no Theory of Everything (TOE) is in sight, and as all advocates acknowledge, any TOE will be of no help for most of the knowledge that we value. A sober survey will reveal that most, if not all, that we now count as knowledge in science is in some way imprecise and/or inaccurate. Insofar as our objective is to interpret the knowledge provided by our current science, or any remotely like it with respect to the limitations it now exhibits, we must come to terms with this situation."
+      ],
+      "zh": [
+        "我将在别处论证，科学中的一切知识——乃至任何种类的一切知识——都表现出不精确与不准确的某种组合。",
+        {
+          "type": "note",
+          "id": "ch29-n06",
+          "label": "6"
+        },
+        " 特别地，没有任何万有理论（TOE）在望，而且正如所有倡导者承认的，任何 TOE 对我们珍视的大部分知识都毫无帮助。清醒的考察将揭示，我们现在算作科学中知识的东西，大部分（如果不是全部）都以某种方式不精确和/或不准确。只要我们的目标是解释我们当前科学——或任何在这些局限上与它大致相近的科学——所提供的知识，我们就必须正视这一状况。"
+      ],
+      "units": 113
+    },
+    {
+      "id": "ch29-u038",
+      "source_ids": [
+        "ch29-u038"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "5 Reconsidering Representational Success for Statements"
+      ],
+      "zh": [
+        "5 重新考察陈述如何成功地表象世界"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch29-u039",
+      "source_ids": [
+        "ch29-u039"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I take these problems to indicate that we need to reexamine the way in which we evaluate statements for success in their objective of representing things the way they are."
+      ],
+      "zh": [
+        "我认为这些问题表明，我们需要重新审查我们评估陈述在其表象事物如其所是这一目标上成功与否的方式。"
+      ],
+      "units": 30
+    },
+    {
+      "id": "ch29-u040",
+      "source_ids": [
+        "ch29-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Truth is the form of representational success that we attribute to statements. We understand the kind of success involved in truth to be something that is not graded, not context dependent, not qualified in any way: what earlier I characterized as unqualified truth. Unqualified truth as the proffered form of representational success for statements contrasts with what counts as representational success for analog representations such as maps and pictures. These also achieve success in representing things the way they are. But their success is always something graded, admitting of degrees; and what counts as a satisfactory degree of success is always context dependent."
+      ],
+      "zh": [
+        "真是我们归于陈述的那种表象成功形式。我们把真所涉及的那种成功理解为不分等级、不依赖语境、不带任何限定的东西：即我先前刻画为无条件的真的东西。作为提供给陈述的表象成功形式，无条件的真与地图和图画等类比表象的表象成功标准形成对照。后者也成功地表象事物如其所是。但它们的成功总是分等级的、容许程度的；而什么算令人满意的成功程度总是依赖语境的。"
+      ],
+      "units": 103
+    },
+    {
+      "id": "ch29-u041",
+      "source_ids": [
+        "ch29-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I suggest that truth as we commonly understand it is a kind of idealization that abstracts away from the qualifying features characterizing success for analog representations, and that the problems that I have described",
+        {
+          "type": "note",
+          "id": "ch29-n07",
+          "label": "7"
+        },
+        " are an artifact of neglecting the circumstance that truth involves such an idealization. This approach will in turn suggest an attractive revision for how to think about both truth and knowledge that, among other things, will provide the basis for resolving the enumerated difficulties."
+      ],
+      "zh": [
+        "我提出，我们通常理解的真是一种理想化，它抽象掉了刻画类比表象之成功的那些限定特征，而我所描述的问题",
+        {
+          "type": "note",
+          "id": "ch29-n07",
+          "label": "7"
+        },
+        "源于我们忽略了真这一概念包含理想化。这一进路进而将提示一个有吸引力的修订，关于如何思考真与知识两者，它除其他外将为解决列举的困难提供基础。"
+      ],
+      "units": 78
+    },
+    {
+      "id": "ch29-u042",
+      "source_ids": [
+        "ch29-u042"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "6 Knowledge Is Provisional"
+      ],
+      "zh": [
+        "6 知识是暂定的"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch29-u043",
+      "source_ids": [
+        "ch29-u043"
+      ],
+      "page": "510",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Conventionally we understand knowledge as something known to be true, true in turn understood as unqualifiedly true in the sense explained above.",
+        {
+          "type": "note",
+          "id": "ch29-n08",
+          "label": "8"
+        },
+        " On this reading we know much less than we thought in science: Most of physics fails of complete accuracy.",
+        {
+          "type": "note",
+          "id": "ch29-n09",
+          "label": "9"
+        },
+        " I propose to turn this line of thought on its head. In the spirit of Kant’s attitude towards Hume, let us instead start from the conviction that a great deal of what we have in physics does count as knowledge. Given the foregoing, we can retain this conviction only by reconfiguring what we take to be knowledge, in particular, how we understand its appeal to truth in its content component."
+      ],
+      "zh": [
+        "按惯例，我们把知识理解为被知道为真的东西，真又被理解为上面解释的意义上无条件地真。",
+        {
+          "type": "note",
+          "id": "ch29-n08",
+          "label": "8"
+        },
+        " 按这种读法，我们在科学中知道的比我们以为的少得多：大部分物理学达不到完全准确。",
+        {
+          "type": "note",
+          "id": "ch29-n09",
+          "label": "9"
+        },
+        " 我提议把这个思路颠倒过来。本着康德对休谟的态度，让我们改从这样的确信出发：我们在物理学中拥有的大量东西确实算作知识。鉴于前述，我们只有重新配置我们视为知识的东西——特别是我们如何理解其内容成分中对真的诉求——才能保留这个确信。"
+      ],
+      "units": 111
+    },
+    {
+      "id": "ch29-u044",
+      "source_ids": [
+        "ch29-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To achieve this reconfiguration let us understand the content component of knowledge as advanced as adequate. We will understand “adequate” as context dependent, more specifically as precise, and accurate enough to meet current interests, demands, or standards. We then make the corresponding adjustments in the justification component of knowledge – not justified as (unqualifiedly) true but justified as meeting the standards in play."
+      ],
+      "zh": [
+        "为实现这一重新配置，让我们认为知识的内容成分是以符合相关要求的内容提出的。我们将把“充分的”理解为依赖语境的，更具体地说，足够精确和准确以满足当前的兴趣、要求或标准。然后我们对知识的证成成分作相应调整——不是作为（无条件地）真而得到证成，而是证成的是它符合当下适用的标准。"
+      ],
+      "units": 62
+    },
+    {
+      "id": "ch29-u045",
+      "source_ids": [
+        "ch29-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In effect I am proposing that we understand “known” as “known well enough”. This works smoothly for knowledge how: I know how to ski well enough to safely traverse that slope, I know linear algebra well enough to apply it to this problem. However we are here concerned not with knowledge how but knowledge that. If truth is understood as unqualified, perhaps we can still have an epistemic reading of “known well enough”, in the sense of justified well enough to meet current standards of justification for knowledge. But if knowledge’s content component is understood as requiring unqualified truth, there will be no application of “well enough” to the content component as required to come to terms with the ubiquitous inexactness of epistemic achievements in physics and elsewhere in science."
+      ],
+      "zh": [
+        "实际上我提议我们把“被知道”理解为“被知道得足够好”。这对技能之知（knowledge how）运作顺畅：我的滑雪技术足以让我安全滑过那道坡，我掌握的线性代数也足以用于解决这个问题。然而我们这里关心的不是技能之知而是命题之知（knowledge that）。如果真被理解为无条件的，也许我们仍然可以对“被知道得足够好”作认识论读法，意思是得到足够好的证成以满足当前知识的证成标准。但如果知识的内容成分被理解为要求无条件的真，“足够好”就无法按要求应用于内容成分，以正视物理学及科学其他部分认识成就中无处不在的不精确。"
+      ],
+      "units": 130
+    },
+    {
+      "id": "ch29-u046",
+      "source_ids": [
+        "ch29-u046"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We avoid this impasse by reinterpreting how we understand truth as an evaluation for statements by taking it to work in something like the way the corresponding evaluations work for analog representations. Truth constitutes representational success for statements. We conventionally understand this in an absolute and context-independent manner. But if we understand truth as operating more like representational success for, e.g., maps, “known well enough” will have the needed application to the content as well as to the justification component of knowledge. If we in this way reconfigure knowledge as what is known well enough – as advanced as both adequately justified and adequate in content – we reinstate a vast range of expertise in physics, and throughout science, as knowledge in its own right. This is the reconfiguration of knowledge that I intend when I speak of knowledge as provisional."
+      ],
+      "zh": [
+        "我们通过重新解释我们把真理解为对陈述的评估的方式来避开这个僵局：把真理解为以类似于相应评估对类比表象运作的方式运作。真构成陈述的表象成功。我们按惯例以绝对且独立于语境的方式理解这一点。但如果我们把真理解为更像例如地图的表象成功那样运作，“被知道得足够好”就能按要求既应用于知识的内容成分也应用于证成成分。如果我们这样把知识重新配置为被知道得足够好的东西——作为既得到充分证成又在内容上充分的东西提出的——物理学乃至各门科学中大量专业成果，就可以被视为凭自身条件成立的知识。这就是我说知识是暂定的时所指的知识重新配置。"
+      ],
+      "units": 140
+    },
+    {
+      "id": "ch29-u047",
+      "source_ids": [
+        "ch29-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Traditional knowledge requires unqualified truth, which (completely determinately specified) objects, or kinds of objects, have which (completely determinately specified) properties – e.g., values of a quantity in a precisely specified interval. Provisional knowledge, as I have characterized it, does not provide that kind of representation of an independent world. What is required is not unqualified truth but levels of precision and accuracy that are good enough for us. Does knowledge in this sense count as objective and as pertaining to an independent reality?"
+      ],
+      "zh": [
+        "传统知识要求无条件的真：（完全确定地指定的）对象或对象类具有（完全确定地指定的）性质——例如一个量在精确指定区间内的值。我所刻画的暂定知识不提供那种对独立世界的表象。所要求的不是无条件的真，而是对我们来说足够好的精确与准确水平。这个意义上的知识算客观的吗？算关于独立实在的吗？"
+      ],
+      "units": 83
+    },
+    {
+      "id": "ch29-u048",
+      "source_ids": [
+        "ch29-u048"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A robust sense of objectivity is not here in question. We set the standards. But then it is up to nature to determine whether, or when, a representation meets these standards."
+      ],
+      "zh": [
+        "这里并不质疑强意义上的客观性。我们设定标准。但随后由自然决定一个表象是否、何时满足这些标准。"
+      ],
+      "units": 31
+    },
+    {
+      "id": "ch29-u049",
+      "source_ids": [
+        "ch29-u049"
+      ],
+      "page": "511",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Knowledge that p, in the sense that I am recommending, is objective in the same way that the accuracy of a map is objective, no matter that we set the standards of accuracy required."
+      ],
+      "zh": [
+        "在我推荐的意义上，知道 p 是客观的，其方式正如地图的准确性是客观的，尽管所要求的准确性标准是我们设定的。"
+      ],
+      "units": 34
+    },
+    {
+      "id": "ch29-u050",
+      "source_ids": [
+        "ch29-u050"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But there is still a worry: A map is something that we construct. We cannot, logically cannot, hold a map up against an unrepresented world to see how well it fits. We can only hold it up “against” other representations, perceptual or descriptive. Where, for representation with maps or statements, does an independent reality come in?"
+      ],
+      "zh": [
+        "但仍有一个担忧：地图是我们构造的东西。我们不能——逻辑上不能——把地图同一个未经表象的世界直接比较，看两者有多吻合。我们只能把它同其他表象相比较，无论是知觉表象还是描述表象。对于用地图或陈述的表象，独立实在在哪里进入？"
+      ],
+      "units": 56
+    },
+    {
+      "id": "ch29-u051",
+      "source_ids": [
+        "ch29-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Truth, unqualified truth, was supposed to side step that limitation. It was thought that we could identify unique objects and properties, attach these to terms in our language and then use them to formulate unqualified truths. The scheme of exact denotation and truth might have circumvented many needs for a Kantian approach. But this scheme does not work. In the indefinitely complex world we are never able with perfect determinacy to pick out precise objects and properties.",
+        {
+          "type": "note",
+          "id": "ch29-n10",
+          "label": "10"
+        },
+        " We can always compare what we have with a new level of representation from the point of view of which the prior level can be judged to have failings of precision and/or accuracy. But short of a unique limit of inquiry, we have no absolute standard for comparison. In the present scheme any claimed imprecision and inaccuracy are, of course, understood not in relation to comparison with some unrepresented reality, nor in relation to any standard offered by an ephemeral unique Peircian limit of inquiry. Evaluation with respect to precision and accuracy are always understood in terms of the ubiquitous potential for constructing an alternative representational platform from the point of view of which the prior representational tools can be understood as (relatively) imprecise and/or inaccurate."
+      ],
+      "zh": [
+        "真，无条件的真，被认为可以绕过那个限制。人们认为我们可以识别唯一的对象和性质，把它们附着于我们语言中的词项，然后用它们表述无条件的真。精确指称与真的方案也许本可以避开对康德进路的许多需要。但这个方案不运作。在无限复杂的世界中，我们从来不能以完全的规定性挑出精确的对象和性质。",
+        {
+          "type": "note",
+          "id": "ch29-n10",
+          "label": "10"
+        },
+        " 我们总是可以把我们拥有的东西与一个新的表象层次比较，从后者的观点看，先前层次可以被判断为有精确性和/或准确性上的缺陷。但除非有唯一的探究极限，我们没有绝对的比较标准。在当前方案中，任何声称的不精确与不准确当然都不是相对于与某个未被表象的实在的比较来理解的，也不是相对于那个难以确立的、唯一的皮尔士式探究极限所提供的任何标准来理解的。关于精确与准确的评估总是这样理解：无处不在地存在构建替代表象平台的潜力，从它的观点看，先前的表象工具可以被理解为（相对）不精确和/或不准确。"
+      ],
+      "units": 205
+    },
+    {
+      "id": "ch29-u052",
+      "source_ids": [
+        "ch29-u052"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Human knowledge is no exact mirror of nature but is always a clouded image. We can often sharpen the image but, as a matter of contingent fact, owing to the vast complexity of nature, we can never bring it into perfect focus."
+      ],
+      "zh": [
+        "人类知识不是自然的精确镜子，而总是一幅模糊的影像。我们常常可以把影像锐化，但作为偶然事实，由于自然的巨大复杂性，我们永远不能使它完全聚焦。"
+      ],
+      "units": 42
+    },
+    {
+      "id": "ch29-u053",
+      "source_ids": [
+        "ch29-u053"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "7 Provisional Knowledge, Truth, and Pragmatism"
+      ],
+      "zh": [
+        "7 暂定的知识、真与实用主义"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch29-u054",
+      "source_ids": [
+        "ch29-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "When we reinterpret knowledge as that which is known well enough, and where we took knowledge to require truth, being known well enough will require what is known to be true enough, the “enough” clearly to be understood as relative to current interests and concerns. Can we say more about how to understand “true enough”?"
+      ],
+      "zh": [
+        "当我们把知识重新解释为被知道得足够好的东西，而我们原先认为知识要求真时，被知道得足够好就将要求被知道的东西足够真，“足够”显然要理解为相对于当前的兴趣与关切。关于如何理解“足够真”，我们能说更多吗？"
+      ],
+      "units": 55
+    },
+    {
+      "id": "ch29-u055",
+      "source_ids": [
+        "ch29-u055"
+      ],
+      "page": "512",
+      "canonical_kind": "paragraph",
+      "en": [
+        "What is it for a map to be accurate enough? A map is accurate enough for our needs when the metrical relations that it represents correspond closely enough for our needs to those we experience when we are finding our way around. Oh! That works only for maps intended for use in judging distances and directions. If we are using a subway map we will want the topological relations to correspond to the connections between the stations as we find them. If the map gets wrong the ordering of two very close stations, and we don’t mind the few minutes walk, the map will be topologically accurate enough for our current needs. To summarize with a familiar phrase, for a map to be accurate enough is for it to work well enough when we use it in our endeavors."
+      ],
+      "zh": [
+        "地图足够准确是怎么回事？如果地图所表示的距离和方位与我们实际赶路时遇到的情况足够吻合，地图就能满足这项任务的准确性要求。哦！这只适用于旨在用来判断距离和方向的地图。如果我们用的是地铁图，我们会想要拓扑关系符合我们发现的车站之间的连接。如果地图把把两个相距很近的车站的顺序画反了，而我们不介意多走几分钟，那么地图对我们当前的需要在拓扑上就足够准确。用一个熟悉的短语总结：地图足够准确，就是我们在自己的事务中使用它时它运作得足够好。"
+      ],
+      "units": 139
+    },
+    {
+      "id": "ch29-u056",
+      "source_ids": [
+        "ch29-u056"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This conclusion for maps suggests thinking of being true enough as working well enough, which in turn suggests that the view I am developing may prove to be a form of pragmatism. The few words I have said provide no more than a hint of a connection with pragmatism, but even this hint may be enough for the many who dismiss pragmatism likewise to dismiss the present ideas. Thus it is important for me to explain why the standard objections to pragmatism have no clear-cut application when knowledge and truth are reinterpreted as being known well enough and as being true enough."
+      ],
+      "zh": [
+        "关于地图的这个结论提示把“足够真”理解为“用起来足够有效”，这进而提示我正在发展的观点也许会被证明是实用主义的一种形式。我说的寥寥数语只提供了与实用主义联系的暗示，但即使这个暗示，也许也足以让许多同样拒斥实用主义的人拒斥当前的想法。因此对我来说重要的是解释：当知识与真被重新解释为被知道得足够好与足够真时，为什么对实用主义的标准反驳没有明确的适用。"
+      ],
+      "units": 102
+    },
+    {
+      "id": "ch29-u057",
+      "source_ids": [
+        "ch29-u057"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "One objection is that pragmatism is an epistemic account of truth: Lots of things have been found to work – and so to be assertable with warrant – but are not true. However, finding that a representation has so far functioned well for us is just “induction” writ large, and so concerns the justification component of knowledge, not the content component, not the component that concerns truth. The content component will correspond to working in fact, whether we have been misled so far or not, in the sense that my computer may be in working order though I have not found it to work – being a computer dunce, I have not been able to get it to work for me. Critics also reject working in fact as an account of truth. Lots of representations that systematically and objectively work very well for us are not true as traditionally understood, for example when there are systematic compensating errors. This objection is fatal when one understands truth in the traditional, unqualified way. But when we understand truth in terms of a qualified analog of unqualified truth the objection, at the very least, no longer clearly applies. When, as I have urged, representational success for statements requires sufficient precision and accuracy for the standards in play, and so for our present needs, there is room for error relative to more exact standards that might reflect new needs. Thus truth understood as “true enough” has room for inaccuracies and the objection then, at best, is not clearly correct. Maps work when they help us get around, to places we want to go and to the standards of precision that we have set for the job. ‘True’ applies appropriately to a statement when, in analogy, it “helps” us get around."
+      ],
+      "zh": [
+        "一个反驳是：实用主义是对真的认识论说明：许多东西被发现运作——因而有根据地可断言——但并不真。然而，发现一个表象迄今对我们运作良好，无非是广义上的“归纳”，因而涉及知识的证成成分，而非内容成分，即不涉及与真有关的那个成分。内容成分取决于表象实际上能否起作用，无论我们迄今是否被误导，意思是我的计算机可能处于正常工作状态，尽管我还没发现它运作——作为电脑白痴，我一直没能使它为我运作。批评者也拒斥把事实上运作作为对真的说明。许多系统而客观地对我们运作得很好的表象，按传统理解并不真，例如存在系统性补偿误差时。当一个人以传统的、无条件的方式理解真时，这个反驳是致命的。但当我们以无条件真的带限定类似物来理解真时，这个反驳至少不再明确适用。当如我所主张的，陈述的表象成功要求对当下起作用的标准、因而对我们当前需要足够的精确与准确时，就为相对于可能反映新需要的更精确标准的误差留出了空间。因此理解为“足够真”的真为不准确留出了空间，于是该反驳充其量不是明确正确的。地图在帮助我们到达想去的地方、达到我们为该工作设定的精确标准时运作。“真”在类比意义上“帮助”我们到达时，恰当地适用于一个陈述。"
+      ],
+      "units": 293
+    },
+    {
+      "id": "ch29-u058",
+      "source_ids": [
+        "ch29-u058"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We must say much more here. Words don’t work by themselves. For ‘true’ to apply the range of relevant tasks must not be too narrow. We must develop, not just gesticulate as I have done here, at the map analogy. Pragmatism is a program, an approach, not a one-liner. What we have accomplished here is to see that one requires the present attitude to address the familiar objection to pragmatism."
+      ],
+      "zh": [
+        "我们在这里必须说更多。语词不会自己运作。要使“真”适用，相关任务的范围不能太窄。地图类比还须展开，我在这里只是作了提示。实用主义是一个纲领、一种进路，不是一句俏皮话。我们在这里完成的，是看到需要当前这种态度来应对对实用主义的熟悉反驳。"
+      ],
+      "units": 70
+    },
+    {
+      "id": "ch29-u059",
+      "source_ids": [
+        "ch29-u059"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "8 A Metaphysical Metaphor"
+      ],
+      "zh": [
+        "8 一个形而上学隐喻"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch29-u060",
+      "source_ids": [
+        "ch29-u060"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Having acknowledged the need for details for a substantive pragmatist account, let’s return to my conclusion that any such account needs to be without semantic foundations, without any fixed representational anchor."
+      ],
+      "zh": [
+        "既然承认了实质性实用主义说明需要细节，让我们回到我的结论：这种说明须在没有语义地基、没有固定表象基准的情况下建立。"
+      ],
+      "units": 31
+    },
+    {
+      "id": "ch29-u061",
+      "source_ids": [
+        "ch29-u061"
+      ],
+      "page": "513",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I see no intellectual obligation to address the absence of any representational foundation, but addressing it is intellectually permissible. We are always free to adumbrate the idea of provisional knowledge with a model or way of thinking about it that address the felt need to relate what we know to an independent, unrepresented world. I stress that I offer the following suggestion not as a piece of metaphysics but as a metaphor that one will find attractive according to personal taste."
+      ],
+      "zh": [
+        "我看不出有任何理智义务去处理表象基础的缺失，但处理它在理智上是允许的。我们总是自由地用一个模型或思考方式勾勒暂定知识的轮廓，回应人们希望把已知事物同独立于表象的世界联系起来的需要。我强调，我提出下面的建议不是作为一块形而上学，而是作为一个隐喻，人们将按个人口味觉得它有吸引力。"
+      ],
+      "units": 81
+    },
+    {
+      "id": "ch29-u062",
+      "source_ids": [
+        "ch29-u062"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Think of the world independent of any representation – the noumena, if you will – as constituting a system of potentiality to yield various representational responses when probed with various representational tools. The metaphor is to think of the world independent of any specific representation as a kind of Aristotelian “prime matter”, as “pure potentiality” that is actualized by representational activity. The idea is not to claim (or deny) that any thing distant in time or space from any representing agent exists only in potentiality but has no actuality. So claiming would be actively to represent as merely potential things that, were we to be present, we would represent as actual. Where and when no representation is going on it is representation, not things, that are potential. Rather, the metaphor is a way of acknowledging, with Kant, that there is no thought of any object except of the object as represented, but differing from Kant by noting that there is an unlimited range of representational tools that might be applied, and supplementing views of a neo-Kantian relativized or dynamic a priori by noting that a great deal of the flexibility in our representational tools arises from their limitations with regard both to precision and to accuracy. The world is exceedingly complex, and creatures with radically different representational, in particular with different perceptual and theoretical, powers from those that we possess might well apply representational tools that are strikingly different from ours. The metaphor suggests that what is actual involves an indefinitely complex potentiality to be represented in this way when probed with these representational tools, in that way when probed with those representational tools, all with complete consistency since the differing phenomena, in the Kantian sense, are always relative to the conceptual framework that has been applied."
+      ],
+      "zh": [
+        "把独立于任何表象的世界——如果你愿意，本体（noumena）——思考为构成一个潜能系统，当用各种表象工具探测时，它产生各种表象响应。这个隐喻是把独立于任何特定表象的世界思考为一种亚里士多德式的“原初质料”，作为被表象活动现实化的“纯潜能”。这个想法不是声称（或否认）任何在时间或空间上远离任何表象者的东西只以潜能存在而没有现实性。那样声称就是积极地把那些——如果我们在场就会表象为现实的东西——表象为单纯潜能的。在没有表象发生的地方和时候，仍处于潜在状态的是表象，事物本身可以实际存在。毋宁说，这个隐喻是一种与康德一起承认的方式：除了作为被表象的对象，没有任何对象之思；但它与康德不同之处在于指出可以应用的表象工具范围无限，并且补充新康德主义相对化或动力学先天的观点，指出我们表象工具的大量灵活性来自它们在精确与准确两方面的局限。世界极其复杂，拥有与我们截然不同的表象能力——特别是不同的知觉与理论能力——的生物，完全可能应用与我们的工具显著不同的表象工具。这个隐喻提示：现实的东西涉及一种无限复杂的被表象潜能——用这些表象工具探测时以这种方式被表象，用那些表象工具探测时以那种方式被表象，这一切完全一致，因为康德意义上的不同显象总是相对于已应用的概念框架。"
+      ],
+      "units": 295
+    },
+    {
+      "id": "ch29-u063",
+      "source_ids": [
+        "ch29-u063"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In admitting this much of a role to representing agents do we retain a robust sense of objectivity in our representational activity? When we actively apply various representational tools, various specific responses or realizations occur. Such circumstances about what realizations are possible, what occurs when we probe with specific representational forms, are objective in the sense of being independent of us. That our representational tools are inexact in no way compromises such objective circumstances."
+      ],
+      "zh": [
+        "在承认表象者有这么多作用之后，我们在表象活动中还保留强意义的客观性吗？当我们积极应用各种表象工具时，各种特定响应或实现发生。关于什么实现是可能的、当我们用特定表象形式探测时发生什么的这些情况，是客观的，意思是独立于我们。我们的表象工具虽不精密，却丝毫不损害这些情况的客观性。"
+      ],
+      "units": 74
+    },
+    {
+      "id": "ch29-u064",
+      "source_ids": [
+        "ch29-u064"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Again, to think in terms of a kind of ultimate potentiality for representation provides no more than a metaphor the substantive content of which was wonderfully expressed by Locke:"
+      ],
+      "zh": [
+        "再说一遍，按某种终极表象潜能来思考，提供的不过是一个隐喻，其实质内容被洛克绝妙地表达了出来："
+      ],
+      "units": 29
+    },
+    {
+      "id": "ch29-u065",
+      "source_ids": [
+        "ch29-u065"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "He that will not set himself proudly at the top of all things; but will consider the Immensity of this Fabrick, and the great variety, that is to be found in this little and inconsiderable part of it, which he has to do with, may be apt to think, that in other Mansions of it, there may be other, and different intelligent Beings, of whose Faculties, he has as little Knowledge or Apprehension, as a Worm shut up in one drawer of a Cabinet, hath of the Senses or Understanding of a Man. (Essay: book II, Chapter II, 3)"
+      ],
+      "zh": [
+        "凡不傲慢地自置于万物之巅，而愿考虑此构造之浩瀚、以及在他所打交道的这个渺小而微不足道的部分中所能发现的巨大多样性的人，也许容易想到：在它的其他居所中，可能有其他不同的理智存在者，他对这些存在者的能力所知所悟之少，正如一条被关在橱柜一个抽屉里的蠕虫，对一个人的感官或知性所知之少。（《人类理解论》第二卷第二章第 3 节）"
+      ],
+      "type": "quote",
+      "units": 99
+    },
+    {
+      "id": "ch29-ref001",
+      "source_ids": [
+        "ch29-ref001"
+      ],
+      "page": "514",
+      "canonical_kind": "heading",
+      "en": [
+        "9 Provisional Knowledge"
+      ],
+      "zh": [
+        "9 暂定的知识"
+      ],
+      "type": "subheading",
+      "units": 3
+    },
+    {
+      "id": "ch29-u067",
+      "source_ids": [
+        "ch29-u067"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "When I qualify knowledge as provisional, in the sense that I intend, I am not expressing epistemic caution, that is not saying that what I think is knowledge might not be so. On any familiar conception of knowledge, if such a proviso should be activated, it would transpire that what was provisionally advanced as knowledge was no such thing."
+      ],
+      "zh": [
+        "当我在我所指的意义上把知识限定为暂定的时，我不是在表达认识上的谨慎，即不是说我认为的知识可能不是知识。按任何熟悉的知识构想，如果后来证实这一保留确有必要，结果将是：被暂定地作为知识提出的东西根本不是知识。"
+      ],
+      "units": 59
+    },
+    {
+      "id": "ch29-u068",
+      "source_ids": [
+        "ch29-u068"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Rather the reservation conveyed by ‘provisional’ concerns the standards of precision and accuracy that we put in play in the proffered knowledge. When these standards become more exact, new instances of knowledge must meet the more exacting standards. The prior, provisional knowledge continues to count as knowledge relative to the prior standards: It is the standards that are provisional. We say that knowledge is provisional precisely to acknowledge the eventuality that more exacting standards of precision and accuracy may come into play. In this sense (and possible exceptions in mathematics aside) humanly accessible knowledge is in science, and I believe always, provisional."
+      ],
+      "zh": [
+        "毋宁说，“暂定的”传达的保留涉及我们在所提出的知识中投入使用的精确与准确标准。当这些标准变得更精确时，新的知识实例必须满足更严格的标准。先前的暂定知识相对于先前标准继续算作知识：暂定的是标准。我们说知识是暂定的，恰恰是为了承认更严格的精确与准确标准可能投入使用这一可能性。在这个意义上（数学中可能的例外除外），人类所能获得的科学知识是暂定的。我相信，人类知识一向如此。"
+      ],
+      "units": 102
+    },
+    {
+      "id": "ch29-u066",
+      "source_ids": [
+        "ch29-u066"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch29-bibliography-001",
+      "source_ids": [
+        "ch29-ref004",
+        "ch29-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Auyang, Sunny (1998) Foundations of Complex-Systems Theories in Economics, Evolutionary Biology and Statistical Physics. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Auyang, Sunny (1998) Foundations of Complex-Systems Theories in Economics, Evolutionary Biology and Statistical Physics. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch29-bibliography-002",
+      "source_ids": [
+        "ch29-ref005",
+        "ch29-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Batterman, Robert (2002) The Devil in the Details: Asymptotic Reasoning in Explanation, Reduction and Emergence. Oxford: Oxford University Press."
+      ],
+      "zh": [
+        "Batterman, Robert (2002) The Devil in the Details: Asymptotic Reasoning in Explanation, Reduction and Emergence. Oxford: Oxford University Press."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch29-bibliography-003",
+      "source_ids": [
+        "ch29-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cummins, Robert (1975) “Functional Analysis.” Journal of Philosophy, 72, 741–764."
+      ],
+      "zh": [
+        "Cummins, Robert (1975) “Functional Analysis.” Journal of Philosophy, 72, 741–764."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch29-bibliography-004",
+      "source_ids": [
+        "ch29-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, Michael (2001) The Dynamics of Reason. Stanford, CA: CSLI Publications."
+      ],
+      "zh": [
+        "Friedman, Michael (2001) The Dynamics of Reason. Stanford, CA: CSLI Publications."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch29-bibliography-005",
+      "source_ids": [
+        "ch29-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Giere, Ronald (1999) Science Without Laws. Chicago, IL: University of Chicago Press."
+      ],
+      "zh": [
+        "Giere, Ronald (1999) Science Without Laws. Chicago, IL: University of Chicago Press."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch29-bibliography-006",
+      "source_ids": [
+        "ch29-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Giere, Ronald (2006) Scientific Perspectivism. Chicago, IL: University of Chicago Press."
+      ],
+      "zh": [
+        "Giere, Ronald (2006) Scientific Perspectivism. Chicago, IL: University of Chicago Press."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch29-bibliography-007",
+      "source_ids": [
+        "ch29-ref006",
+        "ch29-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Putnam, Hilary (1975) ‘Philosophy and Our Mental Life’ in Philosophical Papers, Vol. 2. Cambridge: Cambridge University Press, pp. 291–303."
+      ],
+      "zh": [
+        "Putnam, Hilary (1975) ‘Philosophy and Our Mental Life’ in Philosophical Papers, Vol. 2. Cambridge: Cambridge University Press, pp. 291–303."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch29-bibliography-008",
+      "source_ids": [
+        "ch29-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Quine, Willard Van Orman (1981) Theories and Things. Cambridge: Harvard University Press."
+      ],
+      "zh": [
+        "Quine, Willard Van Orman (1981) Theories and Things. Cambridge: Harvard University Press."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch29-bibliography-009",
+      "source_ids": [
+        "ch29-ref007",
+        "ch29-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Teller, Paul (1995) An Interpretive Introduction to Quantum Field Theory. Princeton, NJ: Princeton University Press."
+      ],
+      "zh": [
+        "Teller, Paul (1995) An Interpretive Introduction to Quantum Field Theory. Princeton, NJ: Princeton University Press."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch29-bibliography-010",
+      "source_ids": [
+        "ch29-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Teller, Paul (2004) “How We Dapple the World.” Philosophy of Science, 425–447."
+      ],
+      "zh": [
+        "Teller, Paul (2004) “How We Dapple the World.” Philosophy of Science, 425–447."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch29-bibliography-011",
+      "source_ids": [
+        "ch29-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Teller, Paul (in preparation a) “The truth Idealization.”"
+      ],
+      "zh": [
+        "Teller, Paul (in preparation a) “The truth Idealization.”"
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch29-bibliography-012",
+      "source_ids": [
+        "ch29-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Teller, Paul (in preparation b) “Some Dirty Little Secrets About Truth.”"
+      ],
+      "zh": [
+        "Teller, Paul (in preparation b) “Some Dirty Little Secrets About Truth.”"
+      ],
+      "shared": true,
+      "units": 11
+    }
+  ],
+  "notes": {
+    "ch29-n01": {
+      "number": "1",
+      "en": [
+        "See Quine (1981), p. 98 for a statement of the argument I am about to sketch."
+      ],
+      "zh": [
+        "参见 Quine (1981), p. 98，其中陈述了我即将勾勒的论证。"
+      ]
+    },
+    "ch29-n02": {
+      "number": "2",
+      "en": [
+        "Color and other so-called secondary properties provide a problem for this list. See note 3."
+      ],
+      "zh": [
+        "颜色及其他所谓第二性质给这个清单带来一个问题。见注 3。"
+      ]
+    },
+    "ch29-n03": {
+      "number": "3",
+      "en": [
+        "Practitioners of the scientific revolution were aware that secondary qualities pose a problem for the corpuscularian philosophy. Their response was to treat secondary qualities in terms of primary qualities. Commentators from Berkeley forward have noted that the same difficulties that apply to secondary qualities likewise apply to the primary qualities."
+      ],
+      "zh": [
+        "科学革命的实践者意识到第二性质给微粒哲学带来问题。他们的回应是用第一性质处理第二性质。从贝克莱以降的评论者已经指出，适用于第二性质的同样困难也适用于第一性质。"
+      ]
+    },
+    "ch29-n04": {
+      "number": "4",
+      "en": [
+        "Above I noted that, as described, empiricism assumed a unique function from perceptual evidence to rational conclusions. The collapse of epistemic foundationalism amounts to rejection of that assumption. I here have no space to review this important grist for the Kantian mill."
+      ],
+      "zh": [
+        "上面我指出，如所描述的，经验论假设了从知觉证据到合理结论的唯一函数。认识论基础主义的崩溃等于拒斥该假设。我在此没有篇幅评述这个可以支持康德式论证的重要见解。"
+      ]
+    },
+    "ch29-n05": {
+      "number": "5",
+      "en": [
+        "See Auyang (1998) for a survey and analysis of systematic methods of idealization that are used across the sciences."
+      ],
+      "zh": [
+        "关于各门科学中使用的系统化理想化方法的综述与分析，参见 Auyang (1998)。"
+      ]
+    },
+    "ch29-n06": {
+      "number": "6",
+      "en": [
+        "Teller (in preparation a, in preparation b). For a start, see Teller (2004, 2005)."
+      ],
+      "zh": [
+        "Teller (in preparation a, in preparation b)。入门可参见 Teller (2004, 2005)。"
+      ]
+    },
+    "ch29-n07": {
+      "number": "7",
+      "en": [
+        "As well many other problems. See (Teller, in preparation a)."
+      ],
+      "zh": [
+        "以及许多其他问题。参见 (Teller, in preparation a)。"
+      ]
+    },
+    "ch29-n08": {
+      "number": "8",
+      "en": [
+        "At least in our traditional philosophical usage. Ordinary usage would appear to conform to the characterization that I will propose."
+      ],
+      "zh": [
+        "至少在我们传统的哲学用法中是这样。日常用法似乎符合我将提出的刻画。"
+      ]
+    },
+    "ch29-n09": {
+      "number": "9",
+      "en": [
+        "Elsewhere I will contend that when we do speak of truth in science, it has been purchased by compromising precision (Teller, in preparation b)."
+      ],
+      "zh": [
+        "我将在别处主张：当我们在科学中确实谈论真时，它是以牺牲精确性为代价换来的（Teller, in preparation b）。"
+      ]
+    },
+    "ch29-n10": {
+      "number": "10",
+      "en": [
+        "It is the contingent fact of our representational limitations that absolutely enforces the need for contemporary dynamical Kantian methods."
+      ],
+      "zh": [
+        "正是我们表象局限这一偶然事实，使当代康德主义必须采用能够随认识发展而调整的方法。"
+      ]
+    }
+  }
+}

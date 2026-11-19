@@ -1,0 +1,1842 @@
+{
+  "id": "front",
+  "title": "底本与阅读说明",
+  "originalTitle": "Original Edition and Reading Notes",
+  "outline": [
+    {
+      "anchor": "series",
+      "title": "西安大略大学科学哲学丛书",
+      "originalTitle": "The Western Ontario Series in Philosophy of Science",
+      "level": 1
+    },
+    {
+      "anchor": "series-editors",
+      "title": "丛书主编",
+      "originalTitle": "Managing Editors",
+      "level": 2
+    },
+    {
+      "anchor": "series-board",
+      "title": "丛书编委会",
+      "originalTitle": "Editorial Board",
+      "level": 2
+    },
+    {
+      "anchor": "original-title-page",
+      "title": "原书书名页",
+      "originalTitle": "Original Title Page",
+      "level": 1
+    },
+    {
+      "anchor": "original-imprint",
+      "title": "底本出版信息",
+      "originalTitle": "Publication Details",
+      "level": 1
+    },
+    {
+      "anchor": "source-contents",
+      "title": "原书目录",
+      "originalTitle": "Original Contents",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "edition-notice",
+      "source_ids": [
+        "edition-notice"
+      ],
+      "page": "",
+      "canonical_kind": "notice",
+      "en": [
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "Based on the Springer 2009 edition. Page labels and index locators refer to the printed source. Numbered links lead to the original notes. Editorial notes accompany the Chinese text. Bibliographies and the index retain the original wording. Translation and editing were AI-assisted."
+          ],
+          "centered": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "据 Springer 2009 年版译校。正文旁及原书目录、索引中的数字为底本页码。注号通往原注，校注附于中译。书目和索引保留原文。翻译与校订使用了 AI 辅助。"
+          ],
+          "centered": false
+        }
+      ],
+      "units": 42
+    },
+    {
+      "id": "original-cover",
+      "source_ids": [
+        "original-cover"
+      ],
+      "page": "",
+      "canonical_kind": "figure",
+      "en": [
+        "Cover of the 2009 Springer edition"
+      ],
+      "zh": [
+        "2009 年 Springer 版底本封面"
+      ],
+      "type": "figure",
+      "src": "/writing/constituting-objectivity/assets/original-cover.png",
+      "imageWidth": 556,
+      "imageHeight": 912,
+      "sharedFigure": true,
+      "linkImage": true,
+      "parallelFigureCaption": [
+        "Cover of the 2009 Springer edition",
+        {
+          "type": "break"
+        },
+        "2009 年 Springer 版底本封面"
+      ],
+      "units": 6
+    },
+    {
+      "id": "original-half-title",
+      "source_ids": [
+        "original-half-title"
+      ],
+      "page": "",
+      "canonical_kind": "half_title",
+      "en": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "Constituting Objectivity"
+          ],
+          "centered": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "构成客观性"
+          ],
+          "centered": true
+        }
+      ],
+      "units": 2
+    },
+    {
+      "id": "series",
+      "source_ids": [
+        "series"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "The Western Ontario Series in Philosophy of Science"
+      ],
+      "zh": [
+        "西安大略大学科学哲学丛书"
+      ],
+      "type": "subheading",
+      "units": 8
+    },
+    {
+      "id": "series-description",
+      "source_ids": [
+        "series-description"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Volume 74\nA series of books in philosophy of science, methodology, epistemology, logic, history of science, and related fields"
+      ],
+      "zh": [
+        "第 74 卷\n本丛书涵盖科学哲学、方法论、认识论、逻辑学、科学史及相关领域。"
+      ],
+      "units": 19
+    },
+    {
+      "id": "series-editors",
+      "source_ids": [
+        "series-editors"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "Managing Editors"
+      ],
+      "zh": [
+        "丛书主编"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "series-editor-1",
+      "source_ids": [
+        "series-editor-1"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "William Demopoulos\nDepartment of Philosophy, University of Western Ontario, Canada"
+      ],
+      "zh": [
+        "William Demopoulos\n加拿大西安大略大学哲学系"
+      ],
+      "units": 10
+    },
+    {
+      "id": "series-editor-2",
+      "source_ids": [
+        "series-editor-2"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Robert E. Butts (1980–1997)\nLate, Department of Philosophy, University of Western Ontario, Canada"
+      ],
+      "zh": [
+        "Robert E. Butts (1980–1997)\n已故，原任职于加拿大西安大略大学哲学系"
+      ],
+      "units": 14
+    },
+    {
+      "id": "series-board",
+      "source_ids": [
+        "series-board"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "Editorial Board"
+      ],
+      "zh": [
+        "丛书编委会"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "series-board-members",
+      "source_ids": [
+        "series-board-members"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "John L. Bell · University of Western Ontario\nJeffrey Bub · University of Maryland\nPeter Clark · St Andrews University\nDavid DeVidi · University of Waterloo\nRobert DiSalle · University of Western Ontario\nMichael Friedman · Stanford University\nMichael Hallett · McGill University\nWilliam Harper · University of Western Ontario\nClifford A. Hooker · University of Newcastle\nAusonio Marras · University of Western Ontario\nJürgen Mittelstrass · Universität Konstanz\nWayne C. Myrvold · University of Western Ontario\nThomas Uebfl · University of Manchester\nItamar Pitowsky · Hebrew University"
+      ],
+      "zh": [
+        "John L. Bell · University of Western Ontario\nJeffrey Bub · University of Maryland\nPeter Clark · St Andrews University\nDavid DeVidi · University of Waterloo\nRobert DiSalle · University of Western Ontario\nMichael Friedman · Stanford University\nMichael Hallett · McGill University\nWilliam Harper · University of Western Ontario\nClifford A. Hooker · University of Newcastle\nAusonio Marras · University of Western Ontario\nJürgen Mittelstrass · Universität Konstanz\nWayne C. Myrvold · University of Western Ontario\nThomas Uebfl · University of Manchester\nItamar Pitowsky · Hebrew University"
+      ],
+      "shared": true,
+      "units": 74
+    },
+    {
+      "id": "original-title-page",
+      "source_ids": [
+        "original-title-page"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "Original Title Page"
+      ],
+      "zh": [
+        "原书书名页"
+      ],
+      "type": "subheading",
+      "units": 3
+    },
+    {
+      "id": "original-title",
+      "source_ids": [
+        "original-title"
+      ],
+      "page": "",
+      "canonical_kind": "half_title",
+      "en": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "Constituting Objectivity\nTranscendental Perspectives on Modern Physics\nMichel Bitbol, Pierre Kerszberg, Jean Petitot (Editors)"
+          ],
+          "centered": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "构成客观性\n现代物理学的先验视角\n米歇尔·比托尔、皮埃尔·凯尔茨贝格、让·珀蒂托 编"
+          ],
+          "centered": true
+        }
+      ],
+      "units": 14
+    },
+    {
+      "id": "original-imprint",
+      "source_ids": [
+        "original-imprint"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "Publication Details"
+      ],
+      "zh": [
+        "底本出版信息"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "imprint-editor-1",
+      "source_ids": [
+        "imprint-editor-1"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Michel Bitbol\nCNRS; CREA–Ecole Polytechnique; Paris, France"
+      ],
+      "zh": [
+        "米歇尔·比托尔\n法国国家科研中心（CNRS）、巴黎综合理工学院应用认识论研究中心（CREA），法国巴黎"
+      ],
+      "units": 8
+    },
+    {
+      "id": "imprint-editor-2",
+      "source_ids": [
+        "imprint-editor-2"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Pierre Kerszberg\nUniversité de Toulouse-Le Mirail; Toulouse, France"
+      ],
+      "zh": [
+        "皮埃尔·凯尔茨贝格\n图卢兹勒米拉伊大学，法国图卢兹"
+      ],
+      "units": 8
+    },
+    {
+      "id": "imprint-editor-3",
+      "source_ids": [
+        "imprint-editor-3"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Jean Petitot\nEcole des Hautes Etudes en Sciences Sociales and CREA–Ecole Polytechnique; Paris, France"
+      ],
+      "zh": [
+        "让·珀蒂托\n法国社会科学高等研究院、巴黎综合理工学院应用认识论研究中心（CREA），法国巴黎"
+      ],
+      "units": 15
+    },
+    {
+      "id": "imprint-identifiers",
+      "source_ids": [
+        "imprint-identifiers"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "ISBN 978-1-4020-9509-2\ne-ISBN 978-1-4020-9510-8\nDOI 10.1007/978-1-4020-9510-8\nLibrary of Congress Control Number: 2008944101"
+      ],
+      "zh": [
+        "ISBN 978-1-4020-9509-2\ne-ISBN 978-1-4020-9510-8\nDOI 10.1007/978-1-4020-9510-8\n美国国会图书馆控制号 2008944101"
+      ],
+      "units": 14
+    },
+    {
+      "id": "original-copyright",
+      "source_ids": [
+        "original-copyright"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "© 2009 Springer Science + Business Media B.V.\n\nNo part of this work may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, microfilming, recording or otherwise, without written permission from the Publisher, with the exception of any material supplied specifically for the purpose of being entered and executed on a computer system, for exclusive use by the purchaser of the work.\n\nPrinted on acid-free paper"
+      ],
+      "zh": [
+        "© 2009 Springer Science + Business Media B.V.\n\n未经出版方书面许可，不得以任何形式或手段复制本作的任何部分、将其存入检索系统或加以传播，包括电子、机械、影印、缩微摄影、录制及其他方式。专为在计算机系统中输入和运行而提供、仅供本作购买者使用的材料除外。\n\n以无酸纸印制"
+      ],
+      "units": 75
+    },
+    {
+      "id": "source-contents",
+      "source_ids": [
+        "source-contents"
+      ],
+      "page": "v–viii",
+      "canonical_kind": "heading",
+      "en": [
+        "Original Contents"
+      ],
+      "zh": [
+        "原书目录"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "contents-intro",
+      "source_ids": [
+        "contents-intro"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Introduction"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=intro#intro-u001"
+        },
+        "  ",
+        "1",
+        "\n",
+        "Michel Bitbol, Pierre Kerszberg, and Jean Petitot"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "导论"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=intro#intro-u001"
+        },
+        "  ",
+        "1",
+        "\n",
+        "米歇尔·比托尔、皮埃尔·凯尔茨贝格、让·珀蒂托"
+      ],
+      "indent": 1,
+      "units": 9
+    },
+    {
+      "id": "contents-part1",
+      "source_ids": [
+        "contents-part1"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Part I Historical Survey of Transcendental Readings of Physics"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part1#part1-title"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第一编　物理学的先验解读史"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part1#part1-title"
+        }
+      ],
+      "units": 9
+    },
+    {
+      "id": "contents-part1secA",
+      "source_ids": [
+        "contents-part1secA"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "A Kant and Newtonian Mechanics"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part1secA#part1secA-title"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "A　康德与牛顿力学"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part1secA#part1secA-title"
+        }
+      ],
+      "indent": 1,
+      "units": 5
+    },
+    {
+      "id": "contents-ch01",
+      "source_ids": [
+        "contents-ch01"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Newton and Kant on Absolute Space: From Theology to Transcendental Philosophy"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch01#ch01-u001"
+        },
+        "  ",
+        "35",
+        "\n",
+        "Michael Friedman"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "牛顿与康德论绝对空间：从神学到先验哲学"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch01#ch01-u001"
+        },
+        "  ",
+        "35",
+        "\n",
+        "迈克尔·弗里德曼"
+      ],
+      "indent": 1,
+      "units": 14
+    },
+    {
+      "id": "contents-ch02",
+      "source_ids": [
+        "contents-ch02"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "On Kant’s Transcendental Account of Newtonian Mechanics"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch02#ch02-u001"
+        },
+        "  ",
+        "51",
+        "\n",
+        "Pierre Kerszberg"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "论康德对牛顿力学的先验说明"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch02#ch02-u001"
+        },
+        "  ",
+        "51",
+        "\n",
+        "皮埃尔·凯尔茨贝格"
+      ],
+      "indent": 1,
+      "units": 10
+    },
+    {
+      "id": "contents-part1secB",
+      "source_ids": [
+        "contents-part1secB"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "B The Relativized A Priori: Cassirer and the Founders of Logical Positivism"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part1secB#part1secB-title"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "B　相对化的先天：卡西尔与逻辑实证主义的奠基人"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part1secB#part1secB-title"
+        }
+      ],
+      "indent": 1,
+      "units": 12
+    },
+    {
+      "id": "contents-ch03",
+      "source_ids": [
+        "contents-ch03"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Ernst Cassirer: Open Constitution by Functional A Priori and Symbolical Structuring"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch03#ch03-u001"
+        },
+        "  ",
+        "75",
+        "\n",
+        "Christiane Schmitz-Rigal"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "恩斯特·卡西尔：以功能性先天与象征结构化实现的开放构成"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch03#ch03-u001"
+        },
+        "  ",
+        "75",
+        "\n",
+        "克里斯蒂安娜·施密茨—里加尔"
+      ],
+      "indent": 1,
+      "units": 14
+    },
+    {
+      "id": "contents-ch04",
+      "source_ids": [
+        "contents-ch04"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "On the Transposition of the Substantial into the Functional: Bringing Cassirer’s Philosophy of Quantum Mechanics into the Twenty-First Century"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch04#ch04-u001"
+        },
+        "  ",
+        "95",
+        "\n",
+        "Angelo Cei and Steven French"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "论从实体性到功能性的转变：将卡西尔的量子力学哲学带入二十一世纪"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch04#ch04-u001"
+        },
+        "  ",
+        "95",
+        "\n",
+        "安杰洛·切伊、史蒂文·弗兰奇"
+      ],
+      "indent": 1,
+      "units": 25
+    },
+    {
+      "id": "contents-ch05",
+      "source_ids": [
+        "contents-ch05"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Moritz Schlick: Between Synthetic A Priori Judgment and Conventionalism"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch05#ch05-u001"
+        },
+        "  ",
+        "117",
+        "\n",
+        "Christian Bonnet and Ronan de Calan"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "莫里茨·石里克：在先天综合判断与约定主义之间"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch05#ch05-u001"
+        },
+        "  ",
+        "117",
+        "\n",
+        "克里斯蒂安·博内、罗南·德·卡朗"
+      ],
+      "indent": 1,
+      "units": 16
+    },
+    {
+      "id": "contents-ch06",
+      "source_ids": [
+        "contents-ch06"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Carnap’s Relativised A Priori and Ontology"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch06#ch06-u001"
+        },
+        "  ",
+        "127",
+        "\n",
+        "Paolo Parrini"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "卡尔纳普的相对化先天与本体论"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch06#ch06-u001"
+        },
+        "  ",
+        "127",
+        "\n",
+        "保罗·帕里尼"
+      ],
+      "indent": 1,
+      "units": 9
+    },
+    {
+      "id": "contents-part2",
+      "source_ids": [
+        "contents-part2"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Part II Transcendental Epistemologies and Modern Physics"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2#part2-title"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第二编　先验认识论与现代物理学"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2#part2-title"
+        }
+      ],
+      "units": 7
+    },
+    {
+      "id": "contents-part2secA",
+      "source_ids": [
+        "contents-part2secA"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "A General Issues: Concepts and Principles"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2secA#part2secA-title"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "A　一般问题：概念与原理"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2secA#part2secA-title"
+        }
+      ],
+      "indent": 1,
+      "units": 6
+    },
+    {
+      "id": "contents-ch07",
+      "source_ids": [
+        "contents-ch07"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "The Transcendental Domain of Physics"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch07#ch07-u001"
+        },
+        "  ",
+        "149",
+        "\n",
+        "Rom Harré"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "物理学的先验领域"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch07#ch07-u001"
+        },
+        "  ",
+        "149",
+        "\n",
+        "罗姆·哈雷"
+      ],
+      "indent": 1,
+      "units": 8
+    },
+    {
+      "id": "contents-ch08",
+      "source_ids": [
+        "contents-ch08"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Determinism, Determination, and Objectivity in Modern Physics"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch08#ch08-u001"
+        },
+        "  ",
+        "159",
+        "\n",
+        "Gordon Brittan, Jr."
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "现代物理学中的决定论、规定与客观性"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch08#ch08-u001"
+        },
+        "  ",
+        "159",
+        "\n",
+        "小戈登·布里坦"
+      ],
+      "indent": 1,
+      "units": 11
+    },
+    {
+      "id": "contents-ch09",
+      "source_ids": [
+        "contents-ch09"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "The Constitution of Objects in Classical Physics and in Quantum Physics"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch09#ch09-u001"
+        },
+        "  ",
+        "169",
+        "\n",
+        "Peter Mittelstaedt"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "经典物理学与量子物理学中对象的构成"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch09#ch09-u001"
+        },
+        "  ",
+        "169",
+        "\n",
+        "彼得·米特尔施泰特"
+      ],
+      "indent": 1,
+      "units": 14
+    },
+    {
+      "id": "contents-ch10",
+      "source_ids": [
+        "contents-ch10"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Laws of Nature: The Kantian Approach"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch10#ch10-u001"
+        },
+        "  ",
+        "183",
+        "\n",
+        "Giovanni Boniolo"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "自然规律：康德式进路"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch10#ch10-u001"
+        },
+        "  ",
+        "183",
+        "\n",
+        "乔瓦尼·博尼奥洛"
+      ],
+      "indent": 1,
+      "units": 9
+    },
+    {
+      "id": "contents-ch11",
+      "source_ids": [
+        "contents-ch11"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "The Transcendental Role of the Principle of Anticipations of Perception in Quantum Mechanics"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch11#ch11-u001"
+        },
+        "  ",
+        "203",
+        "\n",
+        "Patricia Kauark-Leite"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "知觉的预测原理在量子力学中的先验作用"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch11#ch11-u001"
+        },
+        "  ",
+        "203",
+        "\n",
+        "帕特里西娅·考阿克-莱特"
+      ],
+      "indent": 1,
+      "units": 16
+    },
+    {
+      "id": "contents-ch12",
+      "source_ids": [
+        "contents-ch12"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Can the Principle of Least Action Be Considered a Relativized A Priori?"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch12#ch12-u001"
+        },
+        "  ",
+        "215",
+        "\n",
+        "Michael Stöltzner"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "最小作用量原理能被视为一种相对化的先天吗？"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch12#ch12-u001"
+        },
+        "  ",
+        "215",
+        "\n",
+        "米夏埃尔·施特尔茨纳"
+      ],
+      "indent": 1,
+      "units": 15
+    },
+    {
+      "id": "contents-ch13",
+      "source_ids": [
+        "contents-ch13"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "A Critical Account of Physical Reality"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch13#ch13-u001"
+        },
+        "  ",
+        "229",
+        "\n",
+        "Brigitte Falkenburg"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "对物理实在的批判性说明"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch13#ch13-u001"
+        },
+        "  ",
+        "229",
+        "\n",
+        "布丽吉特·法尔肯堡"
+      ],
+      "indent": 1,
+      "units": 9
+    },
+    {
+      "id": "contents-part2secB",
+      "source_ids": [
+        "contents-part2secB"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "B The Scientific Revolutions of the Twentieth Century and Beyond"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2secB#part2secB-title"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "B　二十世纪及其后的科学革命"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2secB#part2secB-title"
+        }
+      ],
+      "indent": 1,
+      "units": 10
+    },
+    {
+      "id": "contents-part2secB1",
+      "source_ids": [
+        "contents-part2secB1"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "B.1 Relativity and Cosmology"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2secB1#part2secB1-title"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "B.1　相对论与宇宙学"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2secB1#part2secB1-title"
+        }
+      ],
+      "indent": 1,
+      "units": 5
+    },
+    {
+      "id": "contents-ch14",
+      "source_ids": [
+        "contents-ch14"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Einstein, Kant, and the Relativized A Priori"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch14#ch14-u001"
+        },
+        "  ",
+        "253",
+        "\n",
+        "Michael Friedman"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "爱因斯坦、康德与相对化先天"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch14#ch14-u001"
+        },
+        "  ",
+        "253",
+        "\n",
+        "迈克尔·弗里德曼"
+      ],
+      "indent": 1,
+      "units": 10
+    },
+    {
+      "id": "contents-ch15",
+      "source_ids": [
+        "contents-ch15"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "A Cognizable Universe: Transcendental Arguments in Physical Cosmology"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch15#ch15-u001"
+        },
+        "  ",
+        "269",
+        "\n",
+        "Yuri Balashov"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "可认识的宇宙：物理宇宙学中的先验论证"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch15#ch15-u001"
+        },
+        "  ",
+        "269",
+        "\n",
+        "尤里·巴拉绍夫"
+      ],
+      "indent": 1,
+      "units": 11
+    },
+    {
+      "id": "contents-ch16",
+      "source_ids": [
+        "contents-ch16"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Hermann Weyl and “First Philosophy”: Constituting Gauge Invariance"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch16#ch16-u001"
+        },
+        "  ",
+        "279",
+        "\n",
+        "Thomas Ryckman"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "赫尔曼·魏尔与“第一哲学”：构成规范不变性"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch16#ch16-u001"
+        },
+        "  ",
+        "279",
+        "\n",
+        "托马斯·赖克曼"
+      ],
+      "indent": 1,
+      "units": 11
+    },
+    {
+      "id": "contents-part2secB2",
+      "source_ids": [
+        "contents-part2secB2"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "B.2 Quantum Mechanics: History"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2secB2#part2secB2-title"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "B.2　量子力学：历史"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2secB2#part2secB2-title"
+        }
+      ],
+      "indent": 1,
+      "units": 5
+    },
+    {
+      "id": "contents-ch17",
+      "source_ids": [
+        "contents-ch17"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Old Wine Enriched in New Bottles: Kantian Flavors in Bohr’s Viewpoint of Complementarity"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch17#ch17-u001"
+        },
+        "  ",
+        "301",
+        "\n",
+        "Steen Brock"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "陈酿入新瓶，其味愈醇：玻尔互补性观点中的康德风味"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch17#ch17-u001"
+        },
+        "  ",
+        "301",
+        "\n",
+        "斯滕·布罗克"
+      ],
+      "indent": 1,
+      "units": 16
+    },
+    {
+      "id": "contents-ch18",
+      "source_ids": [
+        "contents-ch18"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "A Transcendental Account of Correspondence and Complementarity"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch18#ch18-u001"
+        },
+        "  ",
+        "317",
+        "\n",
+        "Hernán Pringe"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "对应与互补性的一种先验说明"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch18#ch18-u001"
+        },
+        "  ",
+        "317",
+        "\n",
+        "埃尔南·普林格"
+      ],
+      "indent": 1,
+      "units": 10
+    },
+    {
+      "id": "contents-ch19",
+      "source_ids": [
+        "contents-ch19"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "The Convergence of Transcendental Philosophy and Quantum Physics: Grete Henry-Hermann’s 1935 Pioneering Proposal"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch19#ch19-u001"
+        },
+        "  ",
+        "329",
+        "\n",
+        "Léna Soler"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "先验哲学与量子物理学的汇聚：格雷特·亨利-赫尔曼1935年的开创性提议"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch19#ch19-u001"
+        },
+        "  ",
+        "329",
+        "\n",
+        "莱娜·索莱尔"
+      ],
+      "indent": 1,
+      "units": 16
+    },
+    {
+      "id": "contents-part2secB3",
+      "source_ids": [
+        "contents-part2secB3"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "B.3 Quantum Mechanics: Ideas"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2secB3#part2secB3-title"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "B.3　量子力学：思想"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2secB3#part2secB3-title"
+        }
+      ],
+      "indent": 1,
+      "units": 5
+    },
+    {
+      "id": "contents-ch20",
+      "source_ids": [
+        "contents-ch20"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Decoherence and the Constitution of Objectivity"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch20#ch20-u001"
+        },
+        "  ",
+        "347",
+        "\n",
+        "Michel Bitbol"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "退相干与客观性的构成"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch20#ch20-u001"
+        },
+        "  ",
+        "347",
+        "\n",
+        "米歇尔·比托尔"
+      ],
+      "indent": 1,
+      "units": 9
+    },
+    {
+      "id": "contents-ch21",
+      "source_ids": [
+        "contents-ch21"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "The Entangled Roots of Objective Knowledge"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch21#ch21-u001"
+        },
+        "  ",
+        "359",
+        "\n",
+        "Stefano Osnaghi"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "客观知识的纠缠根源"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch21#ch21-u001"
+        },
+        "  ",
+        "359",
+        "\n",
+        "斯特凡诺·奥斯纳吉"
+      ],
+      "indent": 1,
+      "units": 9
+    },
+    {
+      "id": "contents-ch22",
+      "source_ids": [
+        "contents-ch22"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Can Classical Description of Physical Reality Be Considered Complete?"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch22#ch22-u001"
+        },
+        "  ",
+        "375",
+        "\n",
+        "Gabriel Catren"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "物理实在的经典描述能被认为是完备的吗？"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch22#ch22-u001"
+        },
+        "  ",
+        "375",
+        "\n",
+        "加布里埃尔·卡特伦"
+      ],
+      "indent": 1,
+      "units": 12
+    },
+    {
+      "id": "contents-part2secB4",
+      "source_ids": [
+        "contents-part2secB4"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "B.4 Beyond Relativity and Quantum Mechanics"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2secB4#part2secB4-title"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "B.4　超越相对论与量子力学"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part2secB4#part2secB4-title"
+        }
+      ],
+      "indent": 1,
+      "units": 7
+    },
+    {
+      "id": "contents-ch23",
+      "source_ids": [
+        "contents-ch23"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "A View of the Symbolic Structure of Modern Physics"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch23#ch23-u001"
+        },
+        "  ",
+        "389",
+        "\n",
+        "Ion-Olimpiu Stamatescu"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "现代物理学的符号结构一瞥"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch23#ch23-u001"
+        },
+        "  ",
+        "389",
+        "\n",
+        "扬-奥林皮乌·斯塔马泰斯库"
+      ],
+      "indent": 1,
+      "units": 12
+    },
+    {
+      "id": "contents-ch24",
+      "source_ids": [
+        "contents-ch24"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Symbolic Constructions in Quantum Field Theory"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch24#ch24-u001"
+        },
+        "  ",
+        "403",
+        "\n",
+        "Hans Günter Dosch, Volkhard F. Müller, and Norman Sieroka"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "量子场论中的符号构造"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch24#ch24-u001"
+        },
+        "  ",
+        "403",
+        "\n",
+        "汉斯·京特·多施、福尔克哈德·米勒、诺曼·西罗卡"
+      ],
+      "indent": 1,
+      "units": 16
+    },
+    {
+      "id": "contents-ch25",
+      "source_ids": [
+        "contents-ch25"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Noncommutative Geometry and Transcendental Physics"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch25#ch25-u001"
+        },
+        "  ",
+        "415",
+        "\n",
+        "Jean Petitot"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "非交换几何与先验物理学"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch25#ch25-u001"
+        },
+        "  ",
+        "415",
+        "\n",
+        "让·珀蒂托"
+      ],
+      "indent": 1,
+      "units": 8
+    },
+    {
+      "id": "contents-part3",
+      "source_ids": [
+        "contents-part3"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Part III Debate About the Relevance of Transcendental Epistemology for Modern Physics: Transcendentalism, Empiricism and Realism"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part3#part3-title"
+        }
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "第三编　先验认识论是否适用于现代物理学之争：先验论、经验论与实在论"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=part3#part3-title"
+        }
+      ],
+      "units": 16
+    },
+    {
+      "id": "contents-ch26",
+      "source_ids": [
+        "contents-ch26"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Can Empiricism Leave Its Realism Behind? Toward a Dialogue with Transcendentalists"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch26#ch26-u001"
+        },
+        "  ",
+        "459",
+        "\n",
+        "Bas C. van Fraassen"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "经验论能把它的实在论抛在身后吗？——走向与先验论者的对话"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch26#ch26-u001"
+        },
+        "  ",
+        "459",
+        "\n",
+        "巴斯·C. 范·弗拉森"
+      ],
+      "indent": 1,
+      "units": 16
+    },
+    {
+      "id": "contents-ch27",
+      "source_ids": [
+        "contents-ch27"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "A Physicist’s Approach to Kant"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch27#ch27-u001"
+        },
+        "  ",
+        "481",
+        "\n",
+        "Bernard d’Espagnat"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "一位物理学家如何理解康德"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch27#ch27-u001"
+        },
+        "  ",
+        "481",
+        "\n",
+        "贝尔纳·德·埃斯帕尼亚"
+      ],
+      "indent": 1,
+      "units": 8
+    },
+    {
+      "id": "contents-ch28",
+      "source_ids": [
+        "contents-ch28"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Structural Realism and Abductive-Transcendental Arguments"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch28#ch28-u001"
+        },
+        "  ",
+        "491",
+        "\n",
+        "Holger Lyre"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "结构实在论与溯因—先验论证"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch28#ch28-u001"
+        },
+        "  ",
+        "491",
+        "\n",
+        "霍尔格·吕雷"
+      ],
+      "indent": 1,
+      "units": 8
+    },
+    {
+      "id": "contents-ch29",
+      "source_ids": [
+        "contents-ch29"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Provisional Knowledge"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch29#ch29-u001"
+        },
+        "  ",
+        "503",
+        "\n",
+        "Paul Teller"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "暂定的知识"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=ch29#ch29-u001"
+        },
+        "  ",
+        "503",
+        "\n",
+        "保罗·特勒"
+      ],
+      "indent": 1,
+      "units": 5
+    },
+    {
+      "id": "contents-bibliography",
+      "source_ids": [
+        "contents-bibliography"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Bibliography"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=bibliography#bibliography-0001"
+        },
+        "  ",
+        "515"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "总书目"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=bibliography#bibliography-0001"
+        },
+        "  ",
+        "515"
+      ],
+      "units": 2
+    },
+    {
+      "id": "contents-index",
+      "source_ids": [
+        "contents-index"
+      ],
+      "page": "",
+      "canonical_kind": "contents",
+      "en": [
+        {
+          "type": "link",
+          "children": [
+            "Index"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=index#index-0001"
+        },
+        "  ",
+        "535"
+      ],
+      "zh": [
+        {
+          "type": "link",
+          "children": [
+            "索引"
+          ],
+          "url": "translations/book.html?id=constituting-objectivity&chapter=index#index-0001"
+        },
+        "  ",
+        "535"
+      ],
+      "units": 2
+    }
+  ],
+  "notes": {}
+}

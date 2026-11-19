@@ -1,0 +1,3383 @@
+{
+  "id": "ch26",
+  "title": "经验论能把它的实在论抛在身后吗？——走向与先验论者的对话",
+  "originalTitle": "Can Empiricism Leave Its Realism Behind? Toward a Dialogue with Transcendentalists",
+  "outline": [
+    {
+      "anchor": "ch26-u007",
+      "title": "1 在实在论者眼中能有真正的非实在论吗？",
+      "originalTitle": "1 Can There Be a Real Non-realism in Realist Eyes?",
+      "level": 1
+    },
+    {
+      "anchor": "ch26-u009",
+      "title": "1.1 哲学菜单与平凡化问题",
+      "originalTitle": "1.1 The Philosophical Menu and the Triviality Problem",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u015",
+      "title": "1.2 根本的强制性问题：相似性",
+      "originalTitle": "1.2 The Essential Mandatory Problem: Similarity",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u023",
+      "title": "1.3 古德曼的“绿蓝”与“归纳新问题”",
+      "originalTitle": "1.3 Goodman’s Grue and the ‘New Problem of Induction’",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u031",
+      "title": "2 化解平凡化问题",
+      "originalTitle": "2 Dissolving the Triviality Problem",
+      "level": 1
+    },
+    {
+      "anchor": "ch26-u035",
+      "title": "2.1 “客观”相似性问题",
+      "originalTitle": "2.1 The Problem of ‘Objective’ Similarity",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u040",
+      "title": "2.2 “绿蓝式”困境问题",
+      "originalTitle": "2.2 The Problem of Grue-Some Predicaments",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u047",
+      "title": "2.3 所谓“归纳新谜”",
+      "originalTitle": "2.3 The So-called ‘New Riddle of Induction’",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u052",
+      "title": "3 真正的非实在论，请起立！",
+      "originalTitle": "3 Will the Real Non-realism Please Stand Up?",
+      "level": 1
+    },
+    {
+      "anchor": "ch26-u054",
+      "title": "3.1 自我挫败的非实在论",
+      "originalTitle": "3.1 Self-Defeating Non-realism",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u064",
+      "title": "3.2 索引性认识论转向",
+      "originalTitle": "3.2 The Indexical Epistemic Turn",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u072",
+      "title": "3.3 凭第一人称价值判断的特权化",
+      "originalTitle": "3.3 Privileging by First-Person Value Judgment",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u080",
+      "title": "3.4 这种反实在论可行且自成一说",
+      "originalTitle": "3.4 That This Anti-realism Is Viable and Distinct",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u088",
+      "title": "4 残留的实在论",
+      "originalTitle": "4 Remaining Realism",
+      "level": 1
+    },
+    {
+      "anchor": "ch26-u090",
+      "title": "4.1 一个挑战",
+      "originalTitle": "4.1 A Challenge",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u108",
+      "title": "4.2 进一步的挑战",
+      "originalTitle": "4.2 A Further Challenge",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u114",
+      "title": "4.3 化解挑战",
+      "originalTitle": "4.3 Disarming the Challenge",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u142",
+      "title": "4.4 我残留的实在论",
+      "originalTitle": "4.4 My Remaining Realism",
+      "level": 2
+    },
+    {
+      "anchor": "ch26-u147",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch26-u001",
+      "source_ids": [
+        "ch26-u001"
+      ],
+      "page": "459",
+      "canonical_kind": "chapter_heading",
+      "en": [
+        {
+          "type": "note",
+          "id": "ch26-n01",
+          "label": "1"
+        }
+      ],
+      "zh": [
+        {
+          "type": "note",
+          "id": "ch26-n01",
+          "label": "1"
+        }
+      ],
+      "units": 1
+    },
+    {
+      "id": "ch26-u002",
+      "source_ids": [
+        "ch26-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Bas C. van Fraassen"
+      ],
+      "zh": [
+        "巴斯·C. 范·弗拉森"
+      ],
+      "units": 4
+    },
+    {
+      "id": "ch26-u003",
+      "source_ids": [
+        "ch26-u003"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract Today’s empiricism and transcendentalism both reject metaphysics, but each appears sometimes to the other as actually engaging in the rejected metaphysics. From an empiricist standpoint, transcendentalism seems to grant too much to the knowing subject whereas from a transcendentalist standpoint, empiricism seems to concede too much to realism. The challenge posed for empiricism is to explain how it could make sense, within an empiricist stance, to say that there could be things that are not describable (in our language in use) and hence not knowable, let alone known. The remaining ‘common sense’ realism, that I acknowledge in response, can – I submit – be clearly distinguished from any metaphysical version vulnerable to transcendentalist critique."
+      ],
+      "zh": [
+        "摘要 今天的经验论与先验论都拒斥形而上学，但每一方在对方看来有时却恰恰在从事它所拒斥的那种形而上学。从经验论的立场看，先验论似乎赋予了认识主体过多的东西；而从先验论的立场看，经验论似乎对实在论让步过多。经验论面临的挑战是解释：在经验论立场之内，说可能存在某些我们用现行语言无法描述、因而无从认识，更谈不上已经认识的事物，如何能够是有意义的。作为回应，我承认自己还保有一点“常识”实在论。在我看来，它可以与任何易受先验论批判的形而上学实在论明确区分。"
+      ],
+      "units": 113
+    },
+    {
+      "id": "ch26-u004",
+      "source_ids": [
+        "ch26-u004"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "B.C. van Fraassen Philosophy Department, San Francisco State University, San Francisco, CA 94132, USA"
+      ],
+      "zh": [
+        "B.C. van Fraassen Philosophy Department, San Francisco State University, San Francisco, CA 94132, USA"
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch26-u005",
+      "source_ids": [
+        "ch26-u005"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Empiricists today and transcendental idealists today have two things in common. The first is that we see around us philosophers engaged in the sort of metaphysics that, in our view, was over and done with after Kant’s critique. The second is our positions seem hard to formulate without appearing – at least to the other – to land squarely inside that rejected metaphysics."
+      ],
+      "zh": [
+        "今天的经验论者与今天的先验观念论者有两点共同之处。第一，我们都看到身边一些哲学家仍在做一种在我们看来早已为康德的批判所终结的形而上学。第二，我们的立场似乎很难表述出来而不显得——至少在对方看来——恰好落进了那种被拒斥的形而上学之中。"
+      ],
+      "units": 61
+    },
+    {
+      "id": "ch26-u006",
+      "source_ids": [
+        "ch26-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But the differences between us are not so clear. “Realism” is an accordion word on which many a pretty melody is played. Are the current metaphysical realisms the same as the sorts of metaphysics done away with by Kant’s critique? In my view, empiricism must at least distance itself from the analytic metaphysics now much in vogue. So I will begin by examining a sustained recent attempt in analytic philosophy to classify realist and non-realist positions. I will argue that an aspirant non-realist should escape this classification. The escape I outline may still look quite realist to transcendentalist eyes, but I shall argue that the remaining realism is not metaphysical."
+      ],
+      "zh": [
+        "但我们之间的差异就不那么清楚了。“实在论”是一个手风琴式的词，许多动听的旋律都在它上面演奏。当前的种种形而上学实在论与康德批判所清除的那些形而上学是同一回事吗？在我看来，经验论至少必须与如今大行其道的分析形而上学保持距离。因此我将从考察分析哲学中最近一次持续的努力开始，它试图对实在论与非实在论立场进行分类。我将论证，一个有志于非实在论的人应当逃出这种分类。我所勾勒的这条出路在先验论者眼中也许仍显得相当实在论，但我将论证，残留的实在论并不是形而上学的。"
+      ],
+      "units": 110
+    },
+    {
+      "id": "ch26-u007",
+      "source_ids": [
+        "ch26-u007"
+      ],
+      "page": "460",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Can There Be a Real Non-realism in Realist Eyes?"
+      ],
+      "zh": [
+        "1 在实在论者眼中能有真正的非实在论吗？"
+      ],
+      "type": "subheading",
+      "units": 10
+    },
+    {
+      "id": "ch26-u008",
+      "source_ids": [
+        "ch26-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "When different philosophical traditions ostensibly confront the same problem, they see a different range of alternative possible responses. Once you go along, you are limited to a single ‘menu’ for all possible philosophical positions, nicely exemplified by the sort David Lewis displayed in his Philosophical Papers.",
+        {
+          "type": "note",
+          "id": "ch26-n02",
+          "label": "2"
+        },
+        " So what are the options for realism and non-realism in the frame of analytic metaphysics? I will draw on Lewis’ student Mary Kathryn McGowan’s insightful Realism or Nonrealism; Undecidable in Theory, Decidable in Practice.",
+        {
+          "type": "note",
+          "id": "ch26-n03",
+          "label": "3"
+        }
+      ],
+      "zh": [
+        "当不同的哲学传统表面上面对同一个问题时，它们看到的是一组不同的可选回应。一旦沿着共同预设走下去，你就被限制在一份涵盖一切可能哲学立场的单一“菜单”里，大卫·刘易斯在其《哲学论文集》（Philosophical Papers）中展示的那一类就是很好的例子。",
+        {
+          "type": "note",
+          "id": "ch26-n02",
+          "label": "2"
+        },
+        " 那么在分析形而上学的框架内，实在论与非实在论有哪些选项？我将借助刘易斯的学生玛丽·凯瑟琳·麦高恩富有洞见的《实在论还是非实在论：理论上不可判定，实践上可判定》（Realism or Nonrealism; Undecidable in Theory, Decidable in Practice）。",
+        {
+          "type": "note",
+          "id": "ch26-n03",
+          "label": "3"
+        }
+      ],
+      "units": 80
+    },
+    {
+      "id": "ch26-u009",
+      "source_ids": [
+        "ch26-u009"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1.1 The Philosophical Menu and the Triviality Problem"
+      ],
+      "zh": [
+        "1.1 哲学菜单与平凡化问题"
+      ],
+      "type": "subheading",
+      "units": 9
+    },
+    {
+      "id": "ch26-u010",
+      "source_ids": [
+        "ch26-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "McGowan classifies an array of philosophical positions as united by common basis but divided into “realist” and “non-realist”.",
+        {
+          "type": "note",
+          "id": "ch26-n04",
+          "label": "4"
+        },
+        " What all the positions have in common is that they recognize a common set of “mandatory” problems and take as inescapable a certain type of solution for those problems. These mandatory problems, to be addressed by any philosophy worth its salt, seem to concern something that in the neo-Kantian tradition is discussed under the heading of “constitution”."
+      ],
+      "zh": [
+        "麦高恩把一系列哲学立场分类为：由共同基础联合起来，但又划分为“实在论的”与“非实在论的”。",
+        {
+          "type": "note",
+          "id": "ch26-n04",
+          "label": "4"
+        },
+        " 所有这些立场的共同点在于，它们承认一组共同的“强制性”问题，并把某一类型的解决方案视为不可逃避的。这些强制性问题是任何名副其实的哲学都必须处理的，它们似乎涉及新康德主义传统中在“构成”（constitution）标题下讨论的东西。"
+      ],
+      "units": 75
+    },
+    {
+      "id": "ch26-u011",
+      "source_ids": [
+        "ch26-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. The first and most fundamental problem is to provide a basis for similarity judgments."
+      ],
+      "zh": [
+        "1. 第一个也是最根本的问题，是为相似性判断提供基础。"
+      ],
+      "units": 15
+    },
+    {
+      "id": "ch26-u012",
+      "source_ids": [
+        "ch26-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Specifically, what are the truth conditions or assertability conditions for such statements as “A and B are more similar to each other than to C” or “A is similar to B with respect to color but not with respect to height”?"
+      ],
+      "zh": [
+        "具体地说，诸如“A 与 B 彼此的相似甚于它们与 C 的相似”或“A 与 B 在颜色方面相似但在高度方面不相似”这样的陈述，其真值条件或可断言性条件是什么？"
+      ],
+      "units": 41
+    },
+    {
+      "id": "ch26-u013",
+      "source_ids": [
+        "ch26-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "2. Putnam’s paradox brings out the second mandatory problem, which is to allow for the falsity of at least some ideal theories.\n3. The third mandatory problem is a traditional one: to formulate a coherent inductive rule or policy."
+      ],
+      "zh": [
+        "2. 普特南悖论引出了第二个强制性问题，即允许至少某些理想理论为假。\n3. 第三个强制性问题是一个传统问题：表述一条融贯的归纳规则或策略。"
+      ],
+      "units": 39
+    },
+    {
+      "id": "ch26-u014",
+      "source_ids": [
+        "ch26-u014"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I will leave the second aside here.",
+        {
+          "type": "note",
+          "id": "ch26-n05",
+          "label": "5"
+        },
+        " After presenting the first and third problem, I’ll begin without contesting the basic presuppositions, but then attempt to strike out beyond them."
+      ],
+      "zh": [
+        "我在这里把第二个问题搁置一旁。",
+        {
+          "type": "note",
+          "id": "ch26-n05",
+          "label": "5"
+        },
+        " 在呈现第一和第三个问题之后，我将先不质疑那些基本预设，然后再尝试超出它们另辟蹊径。"
+      ],
+      "units": 29
+    },
+    {
+      "id": "ch26-u015",
+      "source_ids": [
+        "ch26-u015"
+      ],
+      "page": "461",
+      "canonical_kind": "heading",
+      "en": [
+        "1.2 The Essential Mandatory Problem: Similarity"
+      ],
+      "zh": [
+        "1.2 根本的强制性问题：相似性"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch26-u016",
+      "source_ids": [
+        "ch26-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Suppose we begin naively by defining ‘similar’ as ‘having some properties in common’, and allow any properties at all to count in this. Unfortunately it seems that any two things have some properties in common! There is always some description, even if perhaps contrived, which fits both. So by this naive criterion any two things are similar, e basta!"
+      ],
+      "zh": [
+        "假设我们天真地把“相似”定义为“有某些共同性质”，并允许任何性质都算数。不幸的是，任何两个事物似乎都有某些共同性质！总存在某个描述——哪怕是生造出来的——同时适用于两者。于是按这个天真的标准，任何两个事物都相似，如此而已（e basta）！"
+      ],
+      "units": 59
+    },
+    {
+      "id": "ch26-u017",
+      "source_ids": [
+        "ch26-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Consider a statement of form “A is similar to B [with respect to …].” What are its truth conditions? Suppose we reply:"
+      ],
+      "zh": [
+        "考虑一个形如“A 与 B 相似［在……方面］”的陈述。它的真值条件是什么？假设我们回答："
+      ],
+      "units": 21
+    },
+    {
+      "id": "ch26-u021",
+      "source_ids": [
+        "ch26-u021"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "“A is similar to B” is true if and only if A and B have some properties in common. “A is similar to B with respect to color” is true if and only if A and B have some color properties in common."
+      ],
+      "zh": [
+        "“A 与 B 相似”为真，当且仅当 A 与 B 有某些共同性质。“A 与 B 在颜色方面相似”为真，当且仅当 A 与 B 有某些共同的颜色性质。"
+      ],
+      "type": "quote",
+      "units": 43
+    },
+    {
+      "id": "ch26-u018",
+      "source_ids": [
+        "ch26-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "And so forth. Even in the second form, the reply is untenable. For any two familiar things we can describe some color property they share, and for the unfamiliar, we can count having no color as a color property too. The result would be that all the former are similar to each other with respect to color, and color-dissimilar only to the latter. The descriptions drawn on for this result may be baroque from our point of view, even gerrymandered.",
+        {
+          "type": "note",
+          "id": "ch26-n06",
+          "label": "6"
+        },
+        " But what does nature or the WORLD care about what looks baroque to us?",
+        {
+          "type": "note",
+          "id": "ch26-n07",
+          "label": "7"
+        }
+      ],
+      "zh": [
+        "如此等等。即便按第二种形式，这个回答也站不住脚。因为对任何两个熟悉的事物，我们都能描述出它们共有的某个颜色性质；而对不熟悉的事物，我们可以把没有颜色也算作一种颜色性质。结果将是：所有前者在颜色方面彼此相似，而只与后者在颜色上不相似。为得出这一结果所借助的描述，从我们的观点看也许是巴洛克式的繁复雕琢，甚至是刻意拼凑的（gerrymandered）。",
+        {
+          "type": "note",
+          "id": "ch26-n06",
+          "label": "6"
+        },
+        " 但自然或大写的“世界”（WORLD）何曾在乎什么在我们看来显得繁复雕琢？",
+        {
+          "type": "note",
+          "id": "ch26-n07",
+          "label": "7"
+        }
+      ],
+      "units": 94
+    },
+    {
+      "id": "ch26-u019",
+      "source_ids": [
+        "ch26-u019"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If in practice we dismiss cases with a simple “that is a shared property, but not a relevant one” then that shows that in our own reactions we readily discern a sense of privileging seemingly involved in a serious judgment of similarity. David Lewis honored this acknowledgement by postulating that some classifications are naturally privileged: there are natural classes, which ‘carve nature at the joints’ in the ancient phrase. This is the paradigm realist solution in McGowan’s taxonomy of positions."
+      ],
+      "zh": [
+        "如果在实践中我们用一句简单的“那是共有性质，但不是相关性质”把这些情形打发掉，那就表明，在我们自己的反应中，我们不难辨认出一种似乎内含于严肃相似性判断之中的特权化意味。大卫·刘易斯正视了这一承认，设定某些分类天然具有优先地位：存在自然类，用那句古话来说，它们“循着自然本身的关节切分”。这是麦高恩的立场分类中范式性的实在论解决方案。"
+      ],
+      "units": 80
+    },
+    {
+      "id": "ch26-u020",
+      "source_ids": [
+        "ch26-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Call “structure-defining” those properties – whatever they may be – that count in assessments of similarity. The form of solution which provides the common basis for all the philosophical positions McGowan considers is then:"
+      ],
+      "zh": [
+        "我们把那些在相似性评估中算数的性质——无论它们是什么——称为“结构规定的”。于是，为麦高恩所考虑的一切哲学立场提供共同基础的解决方案形式就是："
+      ],
+      "units": 32
+    },
+    {
+      "id": "ch26-u021b",
+      "source_ids": [
+        "ch26-u021b"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Properties are divided into two classes, the privileged and the unprivileged. The privileged are the structure-defining properties. “A is similar to B” is true if and only if A and B have some privileged property in common. “A is similar to B with respect to X” is true if and only if A and B have some privileged X-property in common."
+      ],
+      "zh": [
+        "性质分为两类：特权的与非特权的。特权性质就是结构规定性质。“A 与 B 相似”为真，当且仅当 A 与 B 有某个共同的特权性质。“A 与 B 在 X 方面相似”为真，当且仅当 A 与 B 有某个共同的特权 X 性质。"
+      ],
+      "type": "quote",
+      "units": 61
+    },
+    {
+      "id": "ch26-u022",
+      "source_ids": [
+        "ch26-u022"
+      ],
+      "page": "462",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Although thus any feasible philosophical position must acknowledge such a division between ‘privileged’ and ‘unprivileged’ properties, they will differ on the principle of division. It is in this respect that the positions can be classified as realist or non-realist."
+      ],
+      "zh": [
+        "因此，尽管任何可行的哲学立场都必须承认“特权”性质与“非特权”性质之间的这种划分，各立场却会对划分依据有不同看法。正是在这一点上，各立场可以被分类为实在论的或非实在论的。"
+      ],
+      "units": 39
+    },
+    {
+      "id": "ch26-u023",
+      "source_ids": [
+        "ch26-u023"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1.3 Goodman’s Grue and the ‘New Problem of Induction’"
+      ],
+      "zh": [
+        "1.3 古德曼的“绿蓝”与“归纳新问题”"
+      ],
+      "type": "subheading",
+      "units": 10
+    },
+    {
+      "id": "ch26-u024",
+      "source_ids": [
+        "ch26-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Adapting Nelson Goodman’s famous example, define: an object is grue if it is observed before the year ad 3000 and green, or not observed before the year ad 3000 and blue. Similarly, an object is bleen if it is observed before the year ad 3000 and blue, or not observed before the year ad 3000 and green."
+      ],
+      "zh": [
+        "借用纳尔逊·古德曼的著名例子，定义：一个物体是绿蓝的（grue），如果它在公元 3000 年之前被观察到且是绿的，或者在公元 3000 年之前未被观察到且是蓝的。类似地，一个物体是蓝绿的（bleen），如果它在公元 3000 年之前被观察到且是蓝的，或者在公元 3000 年之前未被观察到且是绿的。"
+      ],
+      "units": 57
+    },
+    {
+      "id": "ch26-u025",
+      "source_ids": [
+        "ch26-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Emeralds are green, we say; but all observations of emeralds so far, on which we could draw for evidence, were before 3000. It is equally true that all emeralds observed so far have been grue. If induction is to be based on the data from observation, why infer that all emeralds are green, rather than that all are grue? The latter conclusion would of course entail that any emeralds brought to light from ad 3000 on will be blue, and somehow we do not believe that."
+      ],
+      "zh": [
+        "我们说，祖母绿是绿的；但迄今为止对祖母绿的一切观察——我们可资为证据的那些——都在 3000 年之前。同样为真的是：迄今观察到的一切祖母绿都是绿蓝的。如果归纳要以观察数据为基础，为什么推出所有祖母绿都是绿的，而不是所有祖母绿都是绿蓝的？后一结论当然会蕴涵：从公元 3000 年起新发现的任何祖母绿都将是蓝的，而我们不知怎么地就是不相信这一点。"
+      ],
+      "units": 86
+    },
+    {
+      "id": "ch26-u026",
+      "source_ids": [
+        "ch26-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "While the ‘grue’ example is in itself only an objection to the naïve sort of numerical induction that Bacon already descried, it can be generalized to a problem for any ampliative rule of inference on the basis of gathered data, when those data are redescribed in some ‘gruesome’ way.",
+        {
+          "type": "note",
+          "id": "ch26-n08",
+          "label": "8"
+        },
+        " But this inductive ambiguity would trivialize the entire enterprise of induction."
+      ],
+      "zh": [
+        "“绿蓝”例子本身只是对培根早已看出问题的那种朴素枚举归纳的反驳，但它可以推广为一个针对任何基于所收集数据的扩展性推理规则的问题——只要这些数据以某种“绿蓝式”（gruesome）的方式被重新描述。",
+        {
+          "type": "note",
+          "id": "ch26-n08",
+          "label": "8"
+        },
+        " 而这种归纳歧义将使整个归纳事业平凡化。"
+      ],
+      "units": 60
+    },
+    {
+      "id": "ch26-u027",
+      "source_ids": [
+        "ch26-u027"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Once again the conclusion here is that any feasible philosophy will acknowledge such a ‘privileging’ distinction among properties. The only way to save the idea of induction is to insist that properties expressed by such contrived ‘gruesome’ predicates do not have the same status as those that should occur in description of the data fed to inductive rules. This is once more a ‘privileging’ solution. Nelson Goodman’s own response took exactly that form, with predicates divided into ‘projectable’ and ‘un-projectable’, associated with historical ‘entrenchment’. This is a prime example of what McGowan calls non-realist. Goodman’s privileging principle refers to actual inductive practice and entrenchment of predicates in actual human use, unlike Lewis’ division into natural and non-natural sets, which purports to refer to a distinction ‘in nature’ rather than in human history."
+      ],
+      "zh": [
+        "这里的结论再一次是：任何可行的哲学都会承认性质之间这种“特权化”区分。拯救归纳观念的唯一途径，是坚持认为那些生造的“绿蓝式”谓词所表达的性质，与应当用来描述归纳所依据的数据的性质，地位不同。这再一次是一种“特权化”解决方案。纳尔逊·古德曼本人的回应正是这种形式：谓词被划分为“可投射的”与“不可投射的”，并与历史上的“固化”（entrenchment）相联系。这是麦高恩所谓非实在论的一个典型例子。古德曼的特权化原则诉诸实际的归纳实践和谓词在实际人类使用中的固化，不同于刘易斯把集合划分为自然的与非自然的——后者声称诉诸“自然中”的区分而非人类历史中的区分。"
+      ],
+      "units": 132
+    },
+    {
+      "id": "ch26-u028",
+      "source_ids": [
+        "ch26-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The putatively inescapable form for any solution links the mandatory problems, so the danger to be averted is the same in each. The basic problem is thus aptly labeled the Triviality Problem: in each case something taken to be non-trivial is trivialized. When we construct a representation, we display a certain structure. The trivializing arguments then come along and appears to tell us:"
+      ],
+      "zh": [
+        "据说不可逃避的解决方案形式把各强制性问题联系在一起，因此每个问题中要避免的危险是相同的。这个基本问题被恰当地命名为平凡化问题：在每种情形中，某个被认为不平凡的东西被平凡化了。当我们构造一个表征时，我们展示了某种结构。于是平凡化论证接踵而至，似乎要告诉我们："
+      ],
+      "units": 63
+    },
+    {
+      "id": "ch26-u029",
+      "source_ids": [
+        "ch26-u029"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Whatever structure you display, we can regard the WORLD as having that structure."
+      ],
+      "zh": [
+        "无论你展示什么结构，我们都可以把大写的“世界”（WORLD）看作具有那个结构。"
+      ],
+      "type": "quote",
+      "units": 13
+    },
+    {
+      "id": "ch26-u030",
+      "source_ids": [
+        "ch26-u030"
+      ],
+      "page": "463",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The realist metaphysician’s reply is that some discernible structure in the world is privileged in some fashion; not just any displayed structure could really be the structure of the WORLD. To stop the trivializing arguments we must show a way of privileging certain properties as alone ‘structure-defining’."
+      ],
+      "zh": [
+        "形而上学实在论者的回答是：世界中某个可辨认的结构以某种方式是特权的；并非任何被展示的结构都能真正是大写“世界”（WORLD）的结构。要阻止平凡化论证，我们必须指出一种把某些性质特权化为唯一“结构规定的”性质的途径。"
+      ],
+      "units": 47
+    },
+    {
+      "id": "ch26-u031",
+      "source_ids": [
+        "ch26-u031"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 Dissolving the Triviality Problem"
+      ],
+      "zh": [
+        "2 化解平凡化问题"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch26-u032",
+      "source_ids": [
+        "ch26-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "McGowan distinguishes two main options with respect to privilege, realist and nonrealist. Each position accepts the privileged/unprivileged distinction but will be characterized in the first place by how it takes the privileging to come about. Realists hold that there is here a division in nature. Non-realists are precisely those who hold that the division is wholly or partly “interest-relative”: that is, dependent in some way on us, our interests, values, goals, practice, history, taxonomies, concepts, acts of classification or the like.",
+        {
+          "type": "note",
+          "id": "ch26-n09",
+          "label": "9"
+        }
+      ],
+      "zh": [
+        "麦高恩就特权区分出两个主要选项：实在论的与非实在论的。每个立场都接受特权/非特权之分，但首先以其对特权化如何发生的理解来刻画。实在论者主张这里存在一种自然中的划分。非实在论者恰恰是那些主张这种划分完全或部分地“兴趣相关”的人：也就是说，以某种方式依赖于我们、我们的兴趣、价值、目标、实践、历史、分类法、概念、分类行为等等。",
+        {
+          "type": "note",
+          "id": "ch26-n09",
+          "label": "9"
+        }
+      ],
+      "units": 82
+    },
+    {
+      "id": "ch26-u033",
+      "source_ids": [
+        "ch26-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "All the positions examined, both realist and non-realist, share the form of solution. They differ on what makes the privileged properties privileged. All agree as to the need for such a distinction in view of the mandatory problems. What if the need is illusory? Then they are all barking up the wrong tree."
+      ],
+      "zh": [
+        "所考察的一切立场，无论实在论的还是非实在论的，都共享这种解决方案形式。它们的分歧在于什么使特权性质成为特权的。鉴于那些强制性问题，它们都同意需要这样一种区分。但如果这种需要是幻觉呢？那它们就全都缘木求鱼了。"
+      ],
+      "units": 53
+    },
+    {
+      "id": "ch26-u034",
+      "source_ids": [
+        "ch26-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "My argument that the need is indeed illusory will indicate a possible parting of the ways. Going one way, we stay solidly within the proffered menu of ‘realist’ and ‘non-realist’ solutions as there conceived. But that road leads to an unreal nonrealism which defeats itself: we find that all the canvassed positions are realisms after all. Going the other way we hope to escape the metaphysical trap."
+      ],
+      "zh": [
+        "我将论证这种需要确实是幻觉，这将指出一条可能的分岔路。走其中一条路，我们仍然稳稳地待在按那里所设想的方式提供的“实在论”与“非实在论”解决方案菜单之内。但那条路通向一种自我挫败的非实在论：我们发现所有被考察的立场终究都是实在论。走另一条路，我们希望逃出形而上学的陷阱。"
+      ],
+      "units": 67
+    },
+    {
+      "id": "ch26-u035",
+      "source_ids": [
+        "ch26-u035"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2.1 The Problem of ‘Objective’ Similarity"
+      ],
+      "zh": [
+        "2.1 “客观”相似性问题"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch26-u036",
+      "source_ids": [
+        "ch26-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The privileging solution does indeed provide a form for the truth conditions of statements of similarity. In any particular case we’ll see an instance of this form. But what is ignored is that these statements may not have context-independent truth-conditions at all. In differing contexts in which a judgment of similarity occurs the speaker and audience may be “privileging” something else, depending on contextual factors."
+      ],
+      "zh": [
+        "特权化解决方案确实为相似性陈述的真值条件提供了一种形式。在任何具体情形中我们都会看到这种形式的一个实例。但被忽略的是：这些陈述也许根本没有语境无关的真值条件。在出现相似性判断的不同语境中，说话者与听众可能正在“特权化”别的东西，这取决于语境因素。"
+      ],
+      "units": 65
+    },
+    {
+      "id": "ch26-u037",
+      "source_ids": [
+        "ch26-u037"
+      ],
+      "page": "464",
+      "canonical_kind": "paragraph",
+      "en": [
+        "That purposes, preoccupations, or salient features play a role in actual examples springs to the eye: for a metal worker a hammer and a wooden mallet are not similar, for the non-specialist they are."
+      ],
+      "zh": [
+        "目的、关注点或显著特征在实际例子中起作用，这是一目了然的：对金属工人来说，锤子和木槌不相似；对非专业人士来说它们相似。"
+      ],
+      "units": 34
+    },
+    {
+      "id": "ch26-u038",
+      "source_ids": [
+        "ch26-u038"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If we are asked to consider an example out of the blue, or in a philosophy seminar, this may not be obvious, and our judgments of similarity and difference may have an air of context-independent privileging. But this we should take as deceptive. In the absence of definite practical concerns, we are likely to judge similarity with respect to familiar purposes or considerations that automatically come to mind if we don’t pay attention to what we have in mind. The idea that there is a contextindependent ‘privileging’ which selects only certain properties as significant structure-defining ones has no support in the phenomena of everyday discourse."
+      ],
+      "zh": [
+        "如果我们被要求凭空考虑一个例子，或在哲学讨论班上考虑例子，这一点可能不明显，我们的相似与相异判断可能带有一种语境无关的特权化的外观。但我们应当把这一点看作假象。在缺乏明确实践关切的情况下，我们很可能按照那些熟悉的用途或考虑来判断相似性——只要我们不注意自己心里想的是什么，这些用途或考虑就会自动浮现。认为存在一种语境无关的“特权化”、只挑选某些性质作为重要的结构规定性质，这种想法在日常话语的现象中得不到任何支持。"
+      ],
+      "units": 105
+    },
+    {
+      "id": "ch26-u039",
+      "source_ids": [
+        "ch26-u039"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "At first blush this reflection establishes that there is no ‘objective’ similarity, if ‘objective’ is meant in the sense of independence of contextual factors such as use, value, practice, history … (i.e. the sense of being not ‘interest-relative’, in our present terminology). Does this simply put is squarely in the class of McGowan’s ‘non-realists’? No – not precisely. Her non-realists offer a basis for contextindependent relations of similarity! The form of solution to the mandatory problems that she describes involves context-independent privileging. The range of alternatives is thereby artificially limited."
+      ],
+      "zh": [
+        "乍看之下，这一反思确立了不存在“客观的”相似性——如果“客观”指的是独立于使用、价值、实践、历史等语境因素的话（即用我们目前的术语说，不是“兴趣相关的”）。这是否就把我们径直归入麦高恩的“非实在论者”之列？不——不完全是。她的非实在论者为语境无关的相似性关系提供了基础！她所描述的强制性问题解决方案形式涉及语境无关的特权化。可选范围由此被人为地限制了。"
+      ],
+      "units": 89
+    },
+    {
+      "id": "ch26-u040",
+      "source_ids": [
+        "ch26-u040"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2.2 The Problem of Grue-Some Predicaments"
+      ],
+      "zh": [
+        "2.2 “绿蓝式”困境问题"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch26-u041",
+      "source_ids": [
+        "ch26-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is not easy to find a principled distinction between “grue” and “green”. As Goodman pointed out, while “grue” and “bleen” are new predicates defined in terms of the familiar “green” and “blue”, it only takes a little logical dexterity to define “green” and “blue” in terms of “grue” and “bleen”."
+      ],
+      "zh": [
+        "要在“绿蓝”（grue）与“绿”（green）之间找到有原则的区分并不容易。正如古德曼指出的，虽然“绿蓝”与“蓝绿”是用熟悉的“绿”与“蓝”定义的新谓词，但只需一点逻辑上的灵巧，就能用“绿蓝”与“蓝绿”反过来定义“绿”与“蓝”。"
+      ],
+      "units": 51
+    },
+    {
+      "id": "ch26-u042",
+      "source_ids": [
+        "ch26-u042"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The typical initial reaction to use of grue–bleen rather than green–blue descriptions, that there is something fundamentally wrong with it, seems simply mistaken to me. We can imagine circumstances in which, for certain purposes, the use of grue–bleen sorts of descriptions would be advantageous. An example is this: a broker in precious stones foresees a sharp change in demand from green to blue stones as of the year 3000. During the year 2999 he asks his sales manager to draw up a list of all mines expected to be good sources of stones which are either observed (dug up) before 3000 and green or not so observed (dug up after 3000) and blue. For brevity, he says “grue stones”, and there is a practical advantage in adopting this terminology. To generalize: every describable property is such that its cognizance is especially advantageous in some circumstances relative to some purpose."
+      ],
+      "zh": [
+        "对使用绿蓝—蓝绿而非绿—蓝描述的典型初始反应——认为这种做法有某种根本性的毛病——在我看来简直是错的。我们可以设想某些情境，在其中出于某些目的，使用绿蓝—蓝绿式的描述反而有利。例如：一位宝石经纪商预见到从 3000 年起买家会突然从偏爱绿色宝石转向偏爱蓝色宝石。在 2999 年，他让销售经理列一张清单，列出所有预期能出产以下宝石的矿：要么在 3000 年之前被观察到（开采出）且是绿的，要么未在 3000 年之前被观察到（3000 年之后开采出）且是蓝的。为简便起见，他说“绿蓝宝石”，而采用这个术语有实际的好处。推广地说：每一个可描述的性质都是如此——相对于某个目的，对它的认知在某些情境中特别有利。"
+      ],
+      "units": 152
+    },
+    {
+      "id": "ch26-u043",
+      "source_ids": [
+        "ch26-u043"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Can we still explain the common reactions in philosophy seminars? Easily, I think. Individual ‘rightness’ judgment is always in terms of circumstances and purposes. That is so even in first-blush reactions in a seminar, but then – as I said above – these circumstances and purposes are the ones that automatically and tacitly come to mind when we pay no attention to what we have in mind. (That is de rigueur in the academic context – one of those quaint features that sets academia truly apart.)"
+      ],
+      "zh": [
+        "那我们还能解释哲学讨论班上的常见反应吗？我想，很容易。个人的“对错”判断总是相对于情境和目的的。即便讨论班上的第一反应也是如此，只是——如我上面所说——这些情境和目的，是当我们不注意自己心里想什么时自动而默然浮现的那些。（这在学术语境中是必须遵守的规矩（de rigueur）——正是这类古怪特征使学术界真正与众不同。）"
+      ],
+      "units": 83
+    },
+    {
+      "id": "ch26-u044",
+      "source_ids": [
+        "ch26-u044"
+      ],
+      "page": "465",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Could this point be parlayed into a ‘non-realist’ or ‘realist’ position on privilege? Turning the relative usefulness into a division of properties generally, we can only single out the humanly describable properties. That certainly will not separate the “grue”-like from the “green”-like. So it will not solve that supposedly mandatory problem. However, that does not really matter. For once we see our tendency to classify “grue” as unheimlich as due only to variable contextual factors, that ‘mandatory’ problem dissolves."
+      ],
+      "zh": [
+        "这一点能否被转化为关于特权的“非实在论”或“实在论”立场？把相对的有用性变成性质的一般划分，我们只能挑出人类可描述的性质。这肯定无法把“绿蓝”类的与“绿”类的分开。所以它解决不了那个据说强制性的问题。不过这其实无关紧要。因为一旦我们看出，我们把“绿蓝”归为诡异（unheimlich）的倾向只是出于可变的语境因素，那个“强制性”问题就消解了。"
+      ],
+      "units": 81
+    },
+    {
+      "id": "ch26-u045",
+      "source_ids": [
+        "ch26-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "What if some describable properties enjoy no such advantage at all, and some less so than others? Perhaps only certain properties actually need to be taken cognizance of in our history, or perhaps some need this much more frequently than others. That could be because we are carbon-based rational beings or because only certain forms of culture actually develop in history or because we live only in certain types of environments.",
+        {
+          "type": "note",
+          "id": "ch26-n10",
+          "label": "10"
+        },
+        " But that is just the sense in which e.g. hammers might be called privileged among tools. In human history as a whole hammers have been much more useful than micrometers or telephones – though the latter might of course win in the long run. Taking cognizance of a property, or using a certain predicate, may be useful in just the same way that use of a hammer may be useful."
+      ],
+      "zh": [
+        "如果某些可描述的性质根本不享有这种优势，而另一些享有的优势少一些呢？也许在我们的历史中实际上只有某些性质需要被认知，也许我们需要注意某些性质的情形比其他性质多得多。这可能是因为我们是以碳为基础的理性存在者，也可能是因为历史上实际只发展出某些文化形式，或者因为我们只生活在某些类型的环境中。",
+        {
+          "type": "note",
+          "id": "ch26-n10",
+          "label": "10"
+        },
+        " 但这恰恰就是在例如锤子可以在工具中被称为特权的那种意义上。在整个人类历史中，锤子比千分尺或电话有用得多——虽然后者从长远看当然可能胜出。认知一个性质，或使用某个谓词，其有用性可能恰如使用一把锤子的有用性。"
+      ],
+      "units": 141
+    },
+    {
+      "id": "ch26-u046",
+      "source_ids": [
+        "ch26-u046"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Such an ordinary statement, as that taking cognizance of a certain property is useful in some situations for some purposes, does not land us in a metaphysical position."
+      ],
+      "zh": [
+        "这样一个平常的陈述——认知某个性质在某些情境中出于某些目的是有用的——并不会使我们落入某种形而上学立场。"
+      ],
+      "units": 28
+    },
+    {
+      "id": "ch26-u047",
+      "source_ids": [
+        "ch26-u047"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2.3 The So-called ‘New Riddle of Induction’"
+      ],
+      "zh": [
+        "2.3 所谓“归纳新谜”"
+      ],
+      "type": "subheading",
+      "units": 8
+    },
+    {
+      "id": "ch26-u048",
+      "source_ids": [
+        "ch26-u048"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The grue/green riddle provided the impetus for Goodman’s new riddle of induction. That induction is not univocal (in that the same evidence can point equally clearly to each of several mutually opposed hypotheses) was not exactly a new point. The ‘grue’ example brings out graphically one feature shared by any form of inference of that sort. With the alternative of describing one’s evidence either in terms of the usual sorts of properties or in terms of their grue- and bleen-like variants, even the most strictly framed extrapolation rule will lead to ambiguous or even contradictory results. A truly neat encapsulation of that old chestnut!"
+      ],
+      "zh": [
+        "绿蓝/绿之谜为古德曼的归纳新谜提供了动力。归纳不是单义的（同一证据可以同样清楚地指向几个相互对立的假说中的每一个），这并不完全是新观点。“绿蓝”例子生动地展示了这类推理的任何形式共有的一个特征。有了这样的选择——要么用通常那类性质、要么用它们的绿蓝式和蓝绿式变体来描述证据——即使最严格表述的外推规则也会导致歧义的甚至矛盾的结果。真是对那个老生常谈的绝妙概括！"
+      ],
+      "units": 105
+    },
+    {
+      "id": "ch26-u049",
+      "source_ids": [
+        "ch26-u049"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Goodman attempted to solve this problem by designating certain predicates as ‘projectable’ – accounted for in terms of historical ‘entrenchment’. That is certainly a ‘privileging’ sort of solution. As we saw, it is a privileging sort of solution of the sort McGowan classifies as non-realist because it refers to our history; we may well take it as the paradigm for this class. But is it right; and is the problem mandatory?"
+      ],
+      "zh": [
+        "古德曼试图通过把某些谓词指定为“可投射的”来解决这个问题——其说明诉诸历史上的“固化”。这当然是一种“特权化”的解决方案。如我们所见，它是麦高恩归类为非实在论的那种特权化解决方案，因为它诉诸我们的历史；我们尽可以把它作为这一类的范式。但它对吗？那个问题是强制性的吗？"
+      ],
+      "units": 70
+    },
+    {
+      "id": "ch26-u050",
+      "source_ids": [
+        "ch26-u050"
+      ],
+      "page": "466",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Goodman’s solution to the riddle has the same form as a realist solution. But all it does is show how a certain besetting ambiguity in the idea of an ampliative inductive rule could be partly or wholly removed. But is this a mandatory problem? Philosophy since Hume is permeated with the idea that there really are canons of right reasoning which give a recipe for induction. To avoid confusion, let’s use ‘induction’ with a small letter “i” to denote just any moves at all to opinions beyond what we have so far. The philosophers’ stone in this area is not that, but the idea of Induction, with a capital “I”, which is a rationally compelling form of inference, that will reliably if not certainly lead to true conclusions beyond its premises. That there is induction is beyond doubt; that there is such a thing as Induction is at best controversial and dubitable."
+      ],
+      "zh": [
+        "古德曼对谜的解答与实在论解决方案形式相同。但它所做的一切，只是表明扩展性归纳规则观念中某种挥之不去的歧义如何能被部分或全部消除。但这是一个强制性问题吗？休谟以来的哲学弥漫着这样的想法：确实存在正确推理的准则，给出归纳的配方。为避免混淆，我们用带小写字母“i”的“induction”来泛指任何超出我们现有看法的推断。这个领域的哲人石不是那个，而是带大写“I”的“Induction”观念：一种在理性上不可抗拒的推理形式，它将可靠地（即便不是确定地）导出超出其前提的真结论。存在 induction（小写归纳）是毋庸置疑的；存在 Induction（大写归纳）这样的东西则充其量是有争议、可怀疑的。"
+      ],
+      "units": 152
+    },
+    {
+      "id": "ch26-u051",
+      "source_ids": [
+        "ch26-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To show that there is nothing mandatory about this form of solution or this take on the so-called Problem of Induction we need only mention De Finetti’s and similar Bayesian or probabilist views. These hold that the proper and rational thing to do is to start where we are, i.e. with our actual prior opinions, and update them by conditionalizing on the evidence received. If that is so then following an ampliative rule of Induction is not rational! Ampliative rules – any form of Induction worthy of that name – are shown to make one vulnerable to Dutch books, or other forms of incoherence.",
+        {
+          "type": "note",
+          "id": "ch26-n11",
+          "label": "11"
+        },
+        " It is therefore not Goodman’s solution, but the problem he offers it for, that I would classify as based on a mistake."
+      ],
+      "zh": [
+        "要表明这种解决方案形式或对所谓归纳问题的这种理解没有任何强制性，我们只需提到德菲内蒂及类似的贝叶斯主义或概率主义观点。这些观点主张，恰当而理性的做法是从我们所在之处出发，即从我们实际的先在意见出发，在获得新证据后以该证据为条件更新看法。如果真是这样，那么遵循一条扩展性的 Induction 规则就不是理性的！扩展性规则——任何配得上 Induction 之名的形式——被证明会使人可能落入荷兰赌局，或产生其他形式的不融贯。",
+        {
+          "type": "note",
+          "id": "ch26-n11",
+          "label": "11"
+        },
+        " 因此，我要归类为基于错误的，不是古德曼的解答，而是他提出该解答所要解决的问题。"
+      ],
+      "units": 125
+    },
+    {
+      "id": "ch26-u052",
+      "source_ids": [
+        "ch26-u052"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Will the Real Non-realism Please Stand Up?"
+      ],
+      "zh": [
+        "3 真正的非实在论，请起立！"
+      ],
+      "type": "subheading",
+      "units": 8
+    },
+    {
+      "id": "ch26-u053",
+      "source_ids": [
+        "ch26-u053"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The felt need for a metaphysically privileged status disappears once we realize that our judgments of similarity are contextual. McGowan’s reply is that this solves the triviality problem for similarity by privileging a certain relation to us and our human contexts, so it is also privileging solution – and she calls this sort ‘non-realist’."
+      ],
+      "zh": [
+        "一旦我们认识到相似性判断是语境性的，对形而上学特权地位的那种需要感就消失了。麦高恩的回答是：这通过特权化与我们及我们人类语境的某种关系而解决了相似性的平凡化问题，所以它也是一种特权化解决方案——她把这一类称为“非实在论的”。"
+      ],
+      "units": 53
+    },
+    {
+      "id": "ch26-u054",
+      "source_ids": [
+        "ch26-u054"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.1 Self-Defeating Non-realism"
+      ],
+      "zh": [
+        "3.1 自我挫败的非实在论"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch26-u055",
+      "source_ids": [
+        "ch26-u055"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Since we are part of the world, and in given contexts bestow a privileged status on certain properties, those properties are privileged because they bear that relation to us and our interests, purposes, etc. Our privileging bestows a privileged status on certain properties. So the non-realist, though purveying some sort of relativism, is in fact also a metaphysician."
+      ],
+      "zh": [
+        "既然我们是世界的一部分，并在给定语境中把特权地位赋予某些性质，那么这些性质之所以是特权的，是因为它们与我们及我们的兴趣、目的等处于那种关系。我们的特权化把特权地位赋予某些性质。所以非实在论者虽然兜售某种相对主义，实际上也是一位形而上学家。"
+      ],
+      "units": 58
+    },
+    {
+      "id": "ch26-u056",
+      "source_ids": [
+        "ch26-u056"
+      ],
+      "page": "467",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The non-realist option is thus presented as offering a relativized version of the realist option. Realist views are views to the effect that what the world is like is, in all but trivial or easily accommodated ways, independent of our practice, values, goals, … that they are not ‘interest-relative’. The realist maintains that there are independent constraints which select the structure-defining properties. The positions classified here as viable non-realist positions offer interest-relative surrogates for those objective constraints. To put it briefly, those properties are privileged which bear a certain relation, call it R, to us."
+      ],
+      "zh": [
+        "于是非实在论选项被呈现为实在论选项的一个相对化版本。实在论观点是这样的观点：世界是什么样子，除了平凡或易于调和的方面之外，独立于我们的实践、价值、目标……也就是说，它们不是“兴趣相关的”。实在论者坚持存在挑选结构规定性质的独立约束。这里被归类为可行非实在论立场的那些立场，为那些客观约束提供了兴趣相关的替代品。简言之，那些与我们处于某种关系（称之为 R）的性质是特权的。"
+      ],
+      "units": 94
+    },
+    {
+      "id": "ch26-u057",
+      "source_ids": [
+        "ch26-u057"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But here we encounter a crucial ambiguity. Pay careful attention to the use of the first person pronouns “we”, and “us” in this division of philosophical positions. Could these be everywhere replaced by common noun clauses such as “human beings”, “the human race”, “rational animals”, “conscious organisms, not necessarily carbon based”, etc.? When a position amounts to something of the form:"
+      ],
+      "zh": [
+        "但在这里我们遇到一个关键的歧义。请仔细注意这种哲学立场划分中第一人称代词“we”和“us”的使用。它们能否在所有地方都被替换为诸如“人类”、“人类种族”、“理性动物”、“有意识的有机体（不必以碳为基础）”等普通名词短语？当一个立场归结为如下形式时："
+      ],
+      "units": 61
+    },
+    {
+      "id": "ch26-u061",
+      "source_ids": [
+        "ch26-u061"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Those properties are privileged which bear a certain relation, call it R, to the human species [carbon based calculating organisms, featherless bipeds, Earthlings, …].",
+        {
+          "type": "note",
+          "id": "ch26-n12",
+          "label": "12"
+        }
+      ],
+      "zh": [
+        "那些与人类物种［以碳为基础的计算有机体、无羽毛的两足动物、地球人……］处于某种关系（称之为 R）的性质是特权的。",
+        {
+          "type": "note",
+          "id": "ch26-n12",
+          "label": "12"
+        }
+      ],
+      "type": "quote",
+      "units": 23
+    },
+    {
+      "id": "ch26-u058",
+      "source_ids": [
+        "ch26-u058"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Then it is indeed quite clearly a realist position!"
+      ],
+      "zh": [
+        "那它确实就清清楚楚是一个实在论立场！"
+      ],
+      "units": 9
+    },
+    {
+      "id": "ch26-u059",
+      "source_ids": [
+        "ch26-u059"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "So construed, those so-called ‘interest-relative’ constraints are then not ‘subjective’ at all, in any non-trivial sense. They are constraints on the properties’ relations to a certain part of the universe (the human race, or the conscious organisms, etc.). Hence they are as much a matter of fact – if a little curiously chosen – as any proffered by the so-called realists. For properties are then privileged if they bear relation R to certain kinds of beings (and/or the events in which those beings are involved) in a presumably small region or perhaps widely dispersed family of small regions of space–time. The privilege may then be linked to the fact that these beings have a certain kind of complexity, qualia, or some other currently trendy feature. Be that as it may, it remains that this is privileging by facts about what the world is like. For it is a fact that light affects the anthropoid in the way it does. So how can we see the division as non-arbitrary, or the resultant sort of position as non-realist?"
+      ],
+      "zh": [
+        "这样理解的话，那些所谓“兴趣相关的”约束就任何非平凡的意义上说都不是“主观的”。它们是对性质与宇宙某一部分（人类，或有意识的有机体等）之关系的约束。因此它们与所谓实在论者提出的任何约束一样是事实问题——尽管选取方式有点奇特。因为性质之所以是特权的，是由于它们与某类存在者（和/或这些存在者所参与的事件）处于关系 R，而这些存在者位于时空中一个想必很小的区域、或一个也许广泛散布的小区域的集合中。这种特权于是可能与如下事实挂钩：这些存在者具有某种复杂性、感受质（qualia）或其他某个时下流行的特征。无论如何，这仍然是根据世界实际是什么样子来赋予某些性质优先地位。因为光以它实际的方式影响类人猿，这是一个事实。那么我们怎么能把这种划分看作非任意的，或把由此产生的立场看作非实在论的呢？"
+      ],
+      "units": 176
+    },
+    {
+      "id": "ch26-u060",
+      "source_ids": [
+        "ch26-u060"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is not surprising if the regular sorts of realists find this astonishing. Recall that in McGowan’s terms, the privileged properties are structure-defining. Hence this sort of realist view (misleadingly called ‘non-realist’) would have a remarkable consequence for world history. The emergence of the relevant sorts of beings, or the relevant sort of complexity, would then have had the effect of changing the universe from a ‘property chaos’ to a finely structured whole",
+        {
+          "type": "note",
+          "id": "ch26-n13",
+          "label": "13"
+        },
+        ":"
+      ],
+      "zh": [
+        "正统的实在论者对此感到惊讶并不奇怪。回想一下，用麦高恩的术语说，特权性质是结构规定的。因此这种实在论观点（被称为“非实在论”，这种叫法具有误导性）将对世界历史产生一个惊人的后果：相关种类的存在者或相关种类的复杂性的出现，竟然会有把宇宙从“性质混沌”变成精细结构整体的效果",
+        {
+          "type": "note",
+          "id": "ch26-n13",
+          "label": "13"
+        },
+        "："
+      ],
+      "units": 73
+    },
+    {
+      "id": "ch26-u068",
+      "source_ids": [
+        "ch26-u068"
+      ],
+      "page": "468",
+      "canonical_kind": "quote",
+      "en": [
+        "In the beginning the WORLD was without form and void, and darkness was upon the face of the deep … But eventually the spirit of the anthropoid stirred near the face of the waters and took notice that there was light. Thus was the light separated from the darkness…."
+      ],
+      "zh": [
+        "起初，大写的“世界”（WORLD）空虚混沌，渊面黑暗……但后来类人猿的灵在水面附近运行，注意到有了光。于是光与暗分开了……"
+      ],
+      "type": "quote",
+      "units": 48
+    },
+    {
+      "id": "ch26-u062",
+      "source_ids": [
+        "ch26-u062"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "McGowan’s non-realists are realists, but of an egregiously implausible sort."
+      ],
+      "zh": [
+        "麦高恩的非实在论者是实在论者，不过是极其难以置信的一种。"
+      ],
+      "units": 10
+    },
+    {
+      "id": "ch26-u063",
+      "source_ids": [
+        "ch26-u063"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "How could fundamental structure of the universe derive from features of such an accidental, late, limited, and indeed ontologically miniscule fragment of it as the human race? Why not the rat race or mouse race or the species inhabiting some other region of the cosmos? Or in fact, why should the cognitive or practical interests of a given species count in some special way at all? Wouldn’t the properties instantiated only at the microphysical or at the global-cosmological level be more reasonably invoked? Of course, we are not sure what those are; but the fact that we know better what humans are like does not count here. There is no rhyme nor reason to it. Hence no matter how hard such a non-realist strives s/he can at best, staying within this context, arrive at a possibly consistent and coherent but egregiously implausible position."
+      ],
+      "zh": [
+        "宇宙的基本结构怎么可能来自它的一个如此偶然、如此晚出、如此有限、在本体论上如此微不足道的碎片——人类——的特征？为什么不是大鼠一族、小鼠一族，或栖居在宇宙其他区域的物种？或者说，究竟为什么某个物种的认知或实践兴趣应当以某种特殊方式算数？只在微观物理尺度或宇宙整体尺度上才呈现的性质，难道不是更合理的诉求对象吗？当然，我们并不确定那些性质是什么；但我们更了解人类是什么样子，这一点在这里不算数。这毫无道理可言。因此无论这样的非实在论者如何努力，只要停留在这个语境之内，他/她充其量只能达到一个也许一致且融贯、但极其难以置信的立场。"
+      ],
+      "units": 144
+    },
+    {
+      "id": "ch26-u064",
+      "source_ids": [
+        "ch26-u064"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.2 The Indexical Epistemic Turn"
+      ],
+      "zh": [
+        "3.2 索引性认识论转向"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch26-u065",
+      "source_ids": [
+        "ch26-u065"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The frequent use of first-person pronouns in formulating “non-realist” ideas should alert us to elements of unacknowledged rhetoric supporting the presentation. Recall that we found this self-defeating option by reading the terms “we” and “us” as everywhere replaceable by such non-indexical terms as “the human race”. Suppose we do not hold to this. Then we can propose an alternative construal of what McGowan points to with the term “non-realist”. Suppose we take this use of “we”, “us”, “our” indexical language seriously. That means: we take seriously the following view:"
+      ],
+      "zh": [
+        "在表述“非实在论”想法时频繁使用第一人称代词，应当提醒我们注意支撑这种表述的未经承认的修辞成分。回想一下，我们是通过把“we”和“us”读作处处可被“人类种族”之类的非索引词替换，才发现这个自我挫败选项的。假设我们不坚持这一点。那么我们可以对麦高恩用“非实在论”一词所指的东西提出另一种理解。假设我们认真看待“we”“us”“our”等索引词在这些话语中的作用。那就是说：我们认真对待如下观点："
+      ],
+      "units": 89
+    },
+    {
+      "id": "ch26-u068b",
+      "source_ids": [
+        "ch26-u068b"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The very discourse of ‘privileging’, ‘base’, ‘classifying’, ‘structure-defining’ is to be understood both as context-dependent and as first-person discourse not equivalent to anything formulated without the use of indexicals."
+      ],
+      "zh": [
+        "“特权化”、“基”、“分类”、“结构规定”这些话语本身，既要被理解为语境依赖的，也要被理解为第一人称话语，不等值于任何不用索引词表述的东西。"
+      ],
+      "type": "quote",
+      "units": 29
+    },
+    {
+      "id": "ch26-u066",
+      "source_ids": [
+        "ch26-u066"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This entails that this discourse cannot be translated into anything sayable by means of what Quine calls “eternal sentences”. If we suppose that, our supposition will at once pre-empt the move:"
+      ],
+      "zh": [
+        "这就蕴涵：这种话语不能被翻译成任何用蒯因所谓“永恒句”所能说的东西。如果我们这样假设，这一假设便排除了如下推论："
+      ],
+      "units": 31
+    },
+    {
+      "id": "ch26-u068c",
+      "source_ids": [
+        "ch26-u068c"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Premise: relation to us = relation to a certain independently specifiable part of the universe,"
+      ],
+      "zh": [
+        "前提：与我们的关系 = 与宇宙的某个可独立指定部分的关系，"
+      ],
+      "type": "quote",
+      "units": 14
+    },
+    {
+      "id": "ch26-u069",
+      "source_ids": [
+        "ch26-u069"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "therefore"
+      ],
+      "zh": [
+        "所以"
+      ],
+      "type": "quote",
+      "units": 1
+    },
+    {
+      "id": "ch26-u070",
+      "source_ids": [
+        "ch26-u070"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Conclusion: the so-called interest-relative constraints are simply one sort of factual constraint."
+      ],
+      "zh": [
+        "结论：所谓兴趣相关的约束只不过是一种事实约束。"
+      ],
+      "type": "quote",
+      "units": 12
+    },
+    {
+      "id": "ch26-u067",
+      "source_ids": [
+        "ch26-u067"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The premise would still be true, in one sense: although the two phrases “privileged by us” and “privileged by human beings” do not have the same meaning, they could have the same extension – and do, if we are precisely the human beings."
+      ],
+      "zh": [
+        "这个前提在某种意义上仍会是真的：虽然“由我们赋予优先地位”与“由人类赋予优先地位”这两个短语意义不同，它们却可以有相同的外延——如果我们恰好就是那些人类，它们的外延就相同。"
+      ],
+      "units": 42
+    },
+    {
+      "id": "ch26-u071",
+      "source_ids": [
+        "ch26-u071"
+      ],
+      "page": "469",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Any aspect at all of the world can also be specified in a context-independent way.",
+        {
+          "type": "note",
+          "id": "ch26-n14",
+          "label": "14"
+        },
+        " It does not follow that sentences of the form “… is thusly related to us” will be in all respects equivalent to, and can everywhere be replaced by ones of form “… is thusly related to X”, where the place of “X” is filled by some context-independent, non-indexical phrase. The conclusion of the above argument is prey to an equivocation: true innocuously and false in what it insinuates."
+      ],
+      "zh": [
+        "世界的任何方面也都可以在语境无关的方式下被指定。",
+        {
+          "type": "note",
+          "id": "ch26-n14",
+          "label": "14"
+        },
+        " 但这并不推出：形如“……与我们有如此这般关系”的句子会在一切方面等值于、并处处可被替换为形如“……与 X 有如此这般关系”的句子，其中“X”的位置由某个语境无关的非索引短语填充。上述论证的结论有歧义。按一种无害的理解，它是真的；按它暗示的意思，它却是假的。"
+      ],
+      "units": 81
+    },
+    {
+      "id": "ch26-u072",
+      "source_ids": [
+        "ch26-u072"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.3 Privileging by First-Person Value Judgment"
+      ],
+      "zh": [
+        "3.3 凭第一人称价值判断的特权化"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch26-u073",
+      "source_ids": [
+        "ch26-u073"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Have we now arrived at the possibility for a radical alternative to metaphysical realism, an anti-realism worthy of the name? The response we can now give to all those ‘mandatory’ philosophical problems amounts simply to this:"
+      ],
+      "zh": [
+        "我们现在是否已经到达了形而上学实在论的一种激进替代的可能——一种名副其实的反实在论？我们现在对所有那些“强制性”哲学问题的回答，归结起来就是："
+      ],
+      "units": 36
+    },
+    {
+      "id": "ch26-u078",
+      "source_ids": [
+        "ch26-u078"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The distinctions we draw are drawn in terms important to us, and the result is that triviality-to-us is averted, no more. But that is enough."
+      ],
+      "zh": [
+        "我们所作的区分是依据我们认为重要的因素来作，结果只是在我们看来，这些区分没有流于平凡，仅此而已。但这就够了。"
+      ],
+      "type": "quote",
+      "units": 25
+    },
+    {
+      "id": "ch26-u074",
+      "source_ids": [
+        "ch26-u074"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Saying this, we do not share the presuppositions concerning similarity, induction, and success in theorizing that created those mandatory problems in the above form. But is this a viable position, and is it stable enough not to collapse into what McGowan classified as non-realism?"
+      ],
+      "zh": [
+        "这样说的时候，我们并不分享那些关于相似性、归纳和理论化成功的预设——正是这些预设以上述形式制造了那些强制性问题。但这是一个可行的立场吗？它足够稳定，不会塌缩成麦高恩所归类的非实在论吗？"
+      ],
+      "units": 44
+    },
+    {
+      "id": "ch26-u075",
+      "source_ids": [
+        "ch26-u075"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Privileging relative to us involves value judgment as well as factual judgment. If in a certain context I say that a hammer is more similar to a wrench than to a T-junction, it is clear that I am counting as relevant not the shape but the function, and that is because in this context, it is the function (as a tool) that is important to me. If in another context I need something heavy as a paperweight I might say that a hammer is more similar to a bottle than to a feather – for there it is weight that is important to me. So the requisite selection of relevant versus irrelevant properties for the similarity judgment is a value judgment made in the first person, for it expresses what is important to me in this particular case, relative to the purpose at hand."
+      ],
+      "zh": [
+        "相对于我们的特权化既涉及事实判断，也涉及价值判断。如果在某个语境中我说锤子与扳手比与 T 形接头更相似，显然我算作相关的不是形状而是功能，那是因为在这个语境中，对我重要的是（作为工具的）功能。如果在另一个语境中我需要某个重的东西当镇纸，我可能会说锤子与瓶子比与羽毛更相似——因为在那里对我重要的是重量。所以，相似性判断所必需的相关与无关性质的挑选，是一个以第一人称作出的价值判断，因为它表达了在这个具体情形中、相对于手头目的对我重要的东西。"
+      ],
+      "units": 143
+    },
+    {
+      "id": "ch26-u076",
+      "source_ids": [
+        "ch26-u076"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In realist eyes, however, our valuings and opinings are both intelligible precisely as attempts to track what reality is like: the privileged properties are the important ones; blessed are they who discern them! Science is successful precisely when its theories – contingently but actually – reveal that privileged structure. In a word, realist epistemology succeeds because it makes its home in realist metaphysics. What does our new anti-realist have to offer in response?"
+      ],
+      "zh": [
+        "然而在实在论者眼中，我们的评价与意见恰恰作为追踪实在是什么样子的尝试才是可理解的：特权性质就是重要的性质；能辨识它们的人有福了！科学恰恰在其理论——偶然地但实际地——揭示那种特权结构时是成功的。一句话，实在论认识论之所以成功，是因为它安家在实在论形而上学之中。我们的新反实在论者能拿出什么来回应？"
+      ],
+      "units": 71
+    },
+    {
+      "id": "ch26-u077",
+      "source_ids": [
+        "ch26-u077"
+      ],
+      "page": "470",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This anti-realist must respond that any privileged status which a property has it receives in our value judgments. It is true that forming opinions that go beyond our evidence typically involves selective attention to some properties rather than others – but the rationality of this practice will consist in its coherence (including coherence with the rest of our practices)."
+      ],
+      "zh": [
+        "这位反实在论者必须回答：性质所具有的任何特权地位，都是在我们的价值判断中获得的。诚然，形成超出证据的意见通常涉及对某些性质而非其他性质的选择性注意——但这种实践的理性将在于它的融贯性（包括与我们其余实践的融贯）。"
+      ],
+      "units": 58
+    },
+    {
+      "id": "ch26-u079",
+      "source_ids": [
+        "ch26-u079"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Clearly the two antagonists are not answering the same question. The realist wants to postulate some fact about the world that explains the success of our practices, and this fact must be something that makes them successful, not simply a generalization of that success. Thus the realist wishes to assert conditions for the success of the practice. But the anti-realist will understand such an assertion as merely extending a practice for which we would like to understand the conditions of rationality."
+      ],
+      "zh": [
+        "显然，两个对手回答的不是同一个问题。实在论者想设定关于世界的某个事实来解释我们实践的成功，而这个事实必须是使实践成功的东西，不能只是对那种成功的概括。因此实在论者想要断言实践成功的条件。但反实在论者会把这样的断言理解为仅仅扩展了一种实践——我们本想理解这种实践的理性条件。"
+      ],
+      "units": 81
+    },
+    {
+      "id": "ch26-u080",
+      "source_ids": [
+        "ch26-u080"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.4 That This Anti-realism Is Viable and Distinct"
+      ],
+      "zh": [
+        "3.4 这种反实在论可行且自成一说"
+      ],
+      "type": "subheading",
+      "units": 9
+    },
+    {
+      "id": "ch26-u081",
+      "source_ids": [
+        "ch26-u081"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The danger in disputation with metaphysics is that one ends up positioning oneself on their turf, and ends up looking like – even becoming – a metaphysician oneself. But the alternative I have introduced as the ‘indexical turn’ is not a variant on any item in the metaphysician’s menu."
+      ],
+      "zh": [
+        "与形而上学争论的危险在于，一个人最终把自己摆到了对方的地盘上，最终看起来像——甚至变成了——一个形而上学家。但我作为“索引性转向”引入的替代方案，不是形而上学家菜单上任何一项的变种。"
+      ],
+      "units": 47
+    },
+    {
+      "id": "ch26-u082",
+      "source_ids": [
+        "ch26-u082"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "What would drive an argument to the contrary is an unreal dilemma. To begin we all agree: there are mountains, trees, rocks, people of various sorts, light, water, lightning and storms, …. So the world is divided up into entities of different sorts."
+      ],
+      "zh": [
+        "会驱动相反论证的，是一个虚假的两难。首先我们都同意：有山、树、岩石、各种各样的人、光、水、闪电和风暴……。所以世界被划分为不同种类的实体。"
+      ],
+      "units": 42
+    },
+    {
+      "id": "ch26-u083",
+      "source_ids": [
+        "ch26-u083"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Fine, but now the metaphysician asks: what accounts for, explains, or grounds this, or any other, such division into sorts? McGowan, following Lewis perhaps, sees a dilemma: either (a) the world or nature itself is structured in a way that has nothing to do with us or our language or thinking, desiring, etc., or else (b) it is structured by us, by our language or thinking, desiring, etc. Above, I pointed out an ambiguity. If we look closely, we discern an implicit assumption when this is seen as an exhaustive bipole dilemma. That is the assumption that the “us” indexical language is not essential – “us” and “our” are replaceable by “humans” and “human”. If we use the words of option (b) but with the indexicality of “us” and “our” given full significance, we are outside the dilemma, and off the menu so to speak.",
+        {
+          "type": "note",
+          "id": "ch26-n15",
+          "label": "15"
+        }
+      ],
+      "zh": [
+        "好，但现在形而上学家问：什么说明、解释或奠定了这种（或任何其他）种类划分？麦高恩也许追随刘易斯，看到一个两难：要么（a）世界或自然本身的结构方式与我们、我们的语言或思维、欲望等毫无关系，要么（b）它是由我们、由我们的语言或思维、欲望等构造的。上面我指出了一个歧义。仔细看就会发现，把这看作穷尽的两极两难时有一个隐含假设，即“us”这种索引语言不是本质性的——“us”和“our”可被“humans”和“human”替换。如果我们使用选项（b）的措辞，但赋予“us”和“our”的索引性以充分意义，我们就处在两难之外，可以说离开了菜单。",
+        {
+          "type": "note",
+          "id": "ch26-n15",
+          "label": "15"
+        }
+      ],
+      "units": 144
+    },
+    {
+      "id": "ch26-u084",
+      "source_ids": [
+        "ch26-u084"
+      ],
+      "page": "471",
+      "canonical_kind": "paragraph",
+      "en": [
+        "No wonder our nouns and adjectives speak loudly of what is pertinent to our tasks – our language grew up in praxis. In that sense we furnished the grounds for how our descriptions are structured. Even the words “world” and “nature” and “thing” belong to the vocabulary that grew up with us in this way. Therefore all we can really say is that there is structure in our descriptions of what we describe – nothing new is added if we replace “what we describe” by “world” or “nature”. The divisions marked in our descriptions – and what other divisions are you asking about? – are those which are important to us. This importance is entirely summarized by saying ‘they are ours’ – ‘a poor thing but our own’.",
+        {
+          "type": "note",
+          "id": "ch26-n16",
+          "label": "16"
+        }
+      ],
+      "zh": [
+        "难怪我们的名词和形容词大声诉说着与我们任务相关的东西——我们的语言是在实践中生长起来的。在那个意义上，是我们为自己的描述如何被构造提供了根据。甚至“世界”、“自然”、“事物”这些词也属于以这种方式与我们一起生长起来的词汇。因此我们真正能说的只是：在我们对所描述之物的描述中有结构——如果把“我们所描述之物”换成“世界”或“自然”，并没有增加任何新东西。我们的描述中标出的划分——你还在问什么别的划分呢？——就是那些对我们重要的划分。这种重要性完全可以用一句话概括：“它们是我们的”——“虽是不起眼的东西，却是我们自己的”（a poor thing but our own）。",
+        {
+          "type": "note",
+          "id": "ch26-n16",
+          "label": "16"
+        }
+      ],
+      "units": 123
+    },
+    {
+      "id": "ch26-u085",
+      "source_ids": [
+        "ch26-u085"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I don’t know how to show a determined fly the way out of the fly-bottle. Or how to exorcize bewitchment by a picture. Except just to carry on, and glory in speaking with the vulgar."
+      ],
+      "zh": [
+        "我不知道如何给一只执意留在瓶里的苍蝇指出出路，也不知道如何解除一幅图景施下的迷惑。除了继续前行，以与常人同语为荣。"
+      ],
+      "units": 35
+    },
+    {
+      "id": "ch26-u086",
+      "source_ids": [
+        "ch26-u086"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In our escape from the metaphysical menu of realists and non-realists, we chose the indexical epistemic turn – perhaps, if it were not hubris, I could have called it a sort of Wittgensteinian turn. Real anti-realism must be a position that can only be expressed in the first person. (Preferably the first person plural ….) Traditional philosophical problems may look very different after the indexical epistemic turn. They can now sometimes appear in their proper “1st person” form, and the solution is then strictly a “1st person” form of solution. The real anti-realism is not any view that could masquerade as a quasi-scientific theory of organisms participating in nature. At the risk of being read once more through the metaphysicians’ glasses, I’ll venture this:"
+      ],
+      "zh": [
+        "在逃离实在论者与非实在论者的形而上学菜单时，我们选择了索引性认识论转向——也许，如果不算僭妄的话，我本可以称之为某种维特根斯坦式转向。真正的反实在论必须是一个只能用第一人称表达的立场。（最好是第一人称复数……）传统哲学问题在索引性认识论转向之后可能看起来很不一样。它们现在有时能以本来的“第一人称”形式出现，而解答于是严格地是“第一人称”形式的解答。真正的反实在论不是任何可以伪装成关于参与自然的有机体的准科学理论的观点。冒着再次被透过形而上学家的眼镜阅读的风险，我斗胆这样说："
+      ],
+      "units": 122
+    },
+    {
+      "id": "ch26-u092",
+      "source_ids": [
+        "ch26-u092"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "It is a view of how things are for us, of what it is to exist in this world in the way we are there."
+      ],
+      "zh": [
+        "这是一种关于事物对我们而言如何的观点，关于以我们所在的方式存在于这个世界之中是怎么回事的观点。"
+      ],
+      "type": "quote",
+      "units": 25
+    },
+    {
+      "id": "ch26-u087",
+      "source_ids": [
+        "ch26-u087"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But it is not a view in the sense of a theory, it is a view in the sense of a way of seeing, an attitude in which to approach the questions we find."
+      ],
+      "zh": [
+        "这里说的“观点”是一种看待事物的方式，一种处理眼前问题的态度，区别于理论意义上的观点。"
+      ],
+      "units": 34
+    },
+    {
+      "id": "ch26-u088",
+      "source_ids": [
+        "ch26-u088"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Remaining Realism"
+      ],
+      "zh": [
+        "4 残留的实在论"
+      ],
+      "type": "subheading",
+      "units": 3
+    },
+    {
+      "id": "ch26-u089",
+      "source_ids": [
+        "ch26-u089"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Metaphysical realism must be distinguished from ‘being realistic’, as Cora Diamond calls it, and (if that is not the same) from ‘common sense realism’. But is the realism that empiricism retains not a metaphysics? I shall attempt to imagine here how such a challenge could come from the side of transcendental idealism."
+      ],
+      "zh": [
+        "形而上学实在论必须与科拉·戴蒙德所说的“讲求实际”（being realistic）区分开来，并且（如果这两者不是一回事的话）与“常识实在论”区分开来。但经验论保留的实在论难道不是一种形而上学吗？我将在这里尝试设想，这样一种挑战如何可能来自先验观念论一方。"
+      ],
+      "units": 52
+    },
+    {
+      "id": "ch26-u090",
+      "source_ids": [
+        "ch26-u090"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4.1 A Challenge"
+      ],
+      "zh": [
+        "4.1 一个挑战"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch26-u091",
+      "source_ids": [
+        "ch26-u091",
+        "ch26-u093"
+      ],
+      "page": "472",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Perhaps the above anti-realist view is stated against a background – within a presupposition – of a thoroughly realist-conceived world picture. Let’s summarize this anti-realist view thus: the properties that count in a specific similarity or",
+        " ",
+        "non-similarity judgments are precisely those which are important for us, important for the very reasons for which we are making that judgment. Count how? Count as determining whether the judgment is correct in that context – and that amounts to, surely, whether what it means there is true."
+      ],
+      "zh": [
+        "也许上述反实在论观点是在一个彻底按实在论构想的世界图景的背景下——在一个预设之内——陈述的。让我们这样概括这个反实在论观点：在特定相似或不相似判断中算数的性质，恰恰是那些对我们重要的性质，",
+        "而它们之所以重要，正是由于我们有理由作出该判断。怎样算数？它们决定该判断在那一语境中是否正确——而这无疑就等于它在那里所意味的东西是否为真。"
+      ],
+      "units": 81
+    },
+    {
+      "id": "ch26-u099",
+      "source_ids": [
+        "ch26-u099"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "CHALLENGE: You do not seem to have gone beyond the sort of realism you wanted to escape. Whether what is meant by that judgment in that context is true: is that not a contextindependent fact? Would that not equally be the case or not the case, even if there were no such context and no such judgment? If so, the supposedly anti-realist view is formulated within a presupposed realist-conceived world picture, and is unintelligible apart from that."
+      ],
+      "zh": [
+        "挑战：你似乎并没有超出你想逃离的那种实在论。那个判断在那个语境中所意味的东西是否为真：这难道不是一个语境无关的事实吗？即使没有这样的语境、没有这样的判断，它难道不照样成立或不成立吗？如果是这样，那个据说是反实在论的观点就是在一个预设的、按实在论构想的世界图景之内表述的，离开它就无法理解。"
+      ],
+      "type": "quote",
+      "units": 77
+    },
+    {
+      "id": "ch26-u094",
+      "source_ids": [
+        "ch26-u094"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I want to concede a bit to the challenge, but then point out a crucial difference that is not taken into account here."
+      ],
+      "zh": [
+        "我想对这个挑战稍作让步，但要指出这里没有考虑到的一个关键差别。"
+      ],
+      "units": 23
+    },
+    {
+      "id": "ch26-u095",
+      "source_ids": [
+        "ch26-u095"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The phrase “what is meant by that judgment in that context” is held up as standing for something that does not depend on the context. To adapt an example due to David Kaplan: imagine that there are a number of ropes lying on the ground. I pick up an end, saying “This is the same rope as” (picking up another end in my other hand) “that one”. I express my judgment in a sentence which is context-dependent, since it involves the demonstratives “this” and “that”. But this situation can also be described quite impersonally: clearly there are just two ends of ropes on which there are hands. If those ends were ends of the same rope then my judgment – which took a distinctly context-dependent form – was true in its context, and otherwise it was not true in that context. So now we have stated the truth conditions for the indexical utterance in a context-independent way."
+      ],
+      "zh": [
+        "“那个判断在那个语境中所意味的东西”这个短语被举出来，代表某种不依赖于语境的东西。借用大卫·卡普兰的一个例子：想象地上放着几根绳子。我拿起一个绳头，说“这个绳头”（用另一只手拿起另一个绳头）“和那个绳头属于同一根绳子”。我用一个语境依赖的句子表达我的判断，因为它包含指示词“这”和“那”。但这个情境也可以完全非个人化地描述：显然只是两个绳头上各有一只手。如果那两个绳头是同一根绳子的两端，那么我的判断——它采取了明显语境依赖的形式——在其语境中为真，否则在那个语境中不为真。于是我们现在以语境无关的方式陈述了这个索引性话语的真值条件。"
+      ],
+      "units": 155
+    },
+    {
+      "id": "ch26-u096",
+      "source_ids": [
+        "ch26-u096"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We can put it like this: the meaning (what Kaplan called the “character”) of the indexical sentence is something sensitive to context, but what is meant is something that can be stated by means of a context-independent sentence, as in fact I just did. What is meant we can identify through the statement’s truth-conditions in that context."
+      ],
+      "zh": [
+        "可以这样说：索引句的意义，即卡普兰所谓的“特性”（character），随语境而定，但它在具体语境中所表达的内容是可以用语境无关的句子陈述的，正如我刚才实际所做的那样。所意味的东西，我们可以通过该陈述在那个语境中的真值条件来识别。"
+      ],
+      "units": 57
+    },
+    {
+      "id": "ch26-u097",
+      "source_ids": [
+        "ch26-u097"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Can we now apply this so nicely illustrated point to the judgment “This is important to me”, made in a context in which we point to the properties that count in a specific similarity or non-similarity judgment?"
+      ],
+      "zh": [
+        "那么，我们能否把这个说明得如此漂亮的要点，应用于在某个语境中作出的判断“这对我重要”——在这个语境中我们指向在特定相似或不相似判断中算数的性质？"
+      ],
+      "units": 37
+    },
+    {
+      "id": "ch26-u098",
+      "source_ids": [
+        "ch26-u098"
+      ],
+      "page": "473",
+      "canonical_kind": "paragraph",
+      "en": [
+        "There is an important dissimilarity with the above examples. To play its role here, this utterance must express a value judgment, not make an (autobiographical) statement. We may indeed add that what I say is correct (in the sense that it does accurately and correctly express my pertinent valuation) if and only if the thing is important by BvF’s evaluation of the matter. To that extent the cases are similar. But the statement that the thing is important by BvF’s evaluation of the matter, is a statement of fact, not an expression of value or opinion. It is precisely what a third person reporting on the situation would say. It can be said using a context-independent sentence. In addition, in that context, having said what I said (and provided I accept “BvF” as denoting myself) I must endorse the third-person statement.",
+        {
+          "type": "note",
+          "id": "ch26-n17",
+          "label": "17"
+        },
+        " But none of this removes the crucial difference between the two. For in saying “This is important to me” my speech act has the role of expressing a valuation, not just of stating a biographical fact."
+      ],
+      "zh": [
+        "与上面的例子有一个重要的不相似之处。要在这里发挥其作用，这个话语必须表达一个价值判断，而不是作出一个（自传性的）陈述。我们确实可以补充说：我所说的话是正确的（在它准确而正确地表达了我相关评价的意义上），当且仅当按 BvF 对此事的评价那东西是重要的。在这个范围内两种情形相似。但“按 BvF 对此事的评价那东西是重要的”这个陈述是一个事实陈述，不是价值或意见的表达。这正是旁观者用第三人称报告该情境时会说的话。它可以用语境无关的句子说出。此外，在那个语境中，说了我所说的话之后（并且只要我接受“BvF”指称我自己），我必须认可那个第三人称陈述。",
+        {
+          "type": "note",
+          "id": "ch26-n17",
+          "label": "17"
+        },
+        " 但这一切都没有消除两者之间的关键差别。因为在说“这对我重要”时，我的言语行为的作用是表达一个评价，而不只是陈述一个传记事实。"
+      ],
+      "units": 177
+    },
+    {
+      "id": "ch26-u100",
+      "source_ids": [
+        "ch26-u100"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To see how this removes the sting from the above Challenge, let’s scrutinize the Challenge one part at a time:"
+      ],
+      "zh": [
+        "要看出这如何消除了上述挑战的锋芒，让我们逐部分细察这个挑战："
+      ],
+      "units": 20
+    },
+    {
+      "id": "ch26-u101",
+      "source_ids": [
+        "ch26-u101"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. Whether what is meant by that judgment in that context is true: is that not a context-independent fact?\n2. Would that not equally be the case or not the case, even if there were no such context and no such judgment?",
+        {
+          "type": "note",
+          "id": "ch26-n18",
+          "label": "18"
+        }
+      ],
+      "zh": [
+        "1. 那个判断在那个语境中所意味的东西是否为真：这难道不是一个语境无关的事实吗？\n2. 即使没有这样的语境、没有这样的判断，它难道不照样成立或不成立吗？",
+        {
+          "type": "note",
+          "id": "ch26-n18",
+          "label": "18"
+        }
+      ],
+      "units": 42
+    },
+    {
+      "id": "ch26-u102",
+      "source_ids": [
+        "ch26-u102"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "3. If so, the anti-realist view is formulated within a presupposed realist-conceived world picture, and is unintelligible apart from that."
+      ],
+      "zh": [
+        "3. 如果是这样，反实在论观点就是在一个预设的、按实在论构想的世界图景之内表述的，离开它就无法理解。"
+      ],
+      "units": 20
+    },
+    {
+      "id": "ch26-u103",
+      "source_ids": [
+        "ch26-u103"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The judgment was made in a certain context, and if there had been no such context then there would not have been such a judgment either. But in Part 2, the word “that” refers not to the judgment-utterance, but to what is meant by that judgment in that context. Would that have been true nevertheless?"
+      ],
+      "zh": [
+        "判断是在某个语境中作出的，如果没有这样的语境，也就不会有这样的判断。但在第 2 部分中，“那”指的不是判断话语，而是那个判断在那个语境中所意味的东西。它难道仍然会是真的吗？"
+      ],
+      "units": 55
+    },
+    {
+      "id": "ch26-u104",
+      "source_ids": [
+        "ch26-u104"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "At first blush, looking only to our simpler examples, the answer is Yes. That the two rope ends belong to the same rope, for example, does not require that the speaker or anyone else says or realizes or thinks, just then, that this is so. But we have to look beyond such simple cases."
+      ],
+      "zh": [
+        "乍看之下，只考虑我们较简单的例子，答案是肯定的。例如，两个绳头属于同一根绳子，并不要求说话者或其他任何人恰好在那时说、意识到或想到这一点。但我们必须看得比这类简单情形更远。"
+      ],
+      "units": 54
+    },
+    {
+      "id": "ch26-u105",
+      "source_ids": [
+        "ch26-u105"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Since our crucial case is one in which the context-dependent sentence must express an evaluation – rather than state an autobiographical fact – we need to ask whether expression of an evaluation has a closer context-dependence than a statement to the effect that one has or endorses that value. Take our initial example: I judge in a certain context that a hammer is more similar to a wrench than to a T-junction. It is clear that I am counting as relevant not the shape but the function, and that is because in this context, it is the function (as a tool) that is important to me. In other contexts, other aspects – such as shape – would be important to the purpose at hand. So does it make sense at all to ask whether the expressed evaluation would have been correct if there had been no such context as this one? Would that not be like asking"
+      ],
+      "zh": [
+        "既然我们的关键情形是语境依赖的句子须承担表达评价的功能，而非报告说话者本人的情况——我们就需要问：评价的表达是否比“某人持有或认可该价值”的陈述有更紧密的语境依赖。拿我们最初的例子来说：我在某个语境中判断锤子与扳手比与 T 形接头更相似。显然我算作相关的不是形状而是功能，那是因为在这个语境中，对我重要的是（作为工具的）功能。在其他语境中，其他方面——比如形状——会对当前目的重要。那么，问所表达的评价在没有这个语境的情况下是否仍然正确，究竟有意义吗？那岂不就像是在问"
+      ],
+      "units": 153
+    },
+    {
+      "id": "ch26-u107",
+      "source_ids": [
+        "ch26-u107"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[I]f you had not needed a tool, what would you have needed? Something that would still have favored some aspects that hammers and wrenches share, but a hammer does not share with a T-junction?"
+      ],
+      "zh": [
+        "如果你当时不需要一件工具，那你当时会需要什么呢？某种仍然偏向锤子与扳手共有、而锤子与 T 形接头不共有的某些方面的东西？"
+      ],
+      "type": "quote",
+      "units": 35
+    },
+    {
+      "id": "ch26-u106",
+      "source_ids": [
+        "ch26-u106"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But who knows and who cares? What I would have needed if I had not been in this situation has nothing to do with whether my evaluation of what is important here is correct here. The question, which makes perfect sense in the ropes example, namely whether what is meant would have been true even if this context had not occurred, makes no sense at all when asked about the expression of this value judgment."
+      ],
+      "zh": [
+        "但谁知道、谁在乎呢？如果我不在这个情境中我会需要什么，与我对这里什么重要的评价在这里是否正确毫无关系。那个在绳子例子中完全有意义的问题——即所意味的东西即使这个语境没有发生是否仍然为真——在问到这个价值判断的表达时就根本没有意义了。"
+      ],
+      "units": 75
+    },
+    {
+      "id": "ch26-u108",
+      "source_ids": [
+        "ch26-u108"
+      ],
+      "page": "474",
+      "canonical_kind": "heading",
+      "en": [
+        "4.2 A Further Challenge"
+      ],
+      "zh": [
+        "4.2 进一步的挑战"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch26-u109",
+      "source_ids": [
+        "ch26-u109"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I am aware that I kept to a way of speaking that seems simply to take it for granted that properties as well as things are there, prior to the sort of privileging that goes on when we make e.g. similarity judgments."
+      ],
+      "zh": [
+        "我意识到我一直坚持一种说话方式，它似乎干脆理所当然地认为：性质与事物一样，在我们作相似性判断并赋予某些性质优先地位之前就已经存在。"
+      ],
+      "units": 43
+    },
+    {
+      "id": "ch26-u112",
+      "source_ids": [
+        "ch26-u112"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "CHALLENGE 2. If a property has privilege of some sort bestowed on it in a given context by value judgments made there, it must be a property that already was there to be noticed. So with respect to the reality of properties, the view advanced is realist."
+      ],
+      "zh": [
+        "挑战 2：如果一个性质在给定语境中由那里作出的价值判断赋予某种特权，那它必须是一个已经在那里可供注意的性质。所以就性质的实在性而言，所提出的观点是实在论的。"
+      ],
+      "type": "quote",
+      "units": 47
+    },
+    {
+      "id": "ch26-u110",
+      "source_ids": [
+        "ch26-u110"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The first part of this statement is fair enough – I can’t value something that I don’t notice. But what of the gloss put on this by the second statement?",
+        {
+          "type": "note",
+          "id": "ch26-n19",
+          "label": "19"
+        },
+        " The question is whether it makes sense to ask what things are like independently of our judgments:"
+      ],
+      "zh": [
+        "这个陈述的第一部分相当公允——我不能评价我没有注意到的东西。但第二个陈述对此所作的引申又如何呢？",
+        {
+          "type": "note",
+          "id": "ch26-n19",
+          "label": "19"
+        },
+        " 问题是：问事物独立于我们的判断是什么样子，是否有意义："
+      ],
+      "units": 46
+    },
+    {
+      "id": "ch26-u112b",
+      "source_ids": [
+        "ch26-u112b"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "CHALLENGE 3. It is rather a matter of questioning any approach at all that neglects the historical and pragmatic conditions of developing knowledge, while presupposing that the objects of knowledge have their determinations independently of the fact that they are represented and of how they are represented.",
+        {
+          "type": "note",
+          "id": "ch26-n20",
+          "label": "20"
+        }
+      ],
+      "zh": [
+        "挑战 3：这毋宁是要质疑任何这样的进路：它忽视知识发展的历史与语用条件，同时预设知识对象的规定性既不取决于它们是否被表征，也不取决于它们如何被表征。",
+        {
+          "type": "note",
+          "id": "ch26-n20",
+          "label": "20"
+        }
+      ],
+      "type": "quote",
+      "units": 47
+    },
+    {
+      "id": "ch26-u111",
+      "source_ids": [
+        "ch26-u111"
+      ],
+      "page": "475",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We have to tread very lightly here, since the transcendentalist position today is not simply Kantianism.",
+        {
+          "type": "note",
+          "id": "ch26-n21",
+          "label": "21"
+        },
+        " Transcendentalists, like empiricists, usually regard what they challenge in other philosophical positions as not making sense rather than as asserting something intelligible but false. So Challenge 3 should not be read to imply the opposite of"
+      ],
+      "zh": [
+        "我们在这里必须如履薄冰，因为今天的先验论立场并不简单地就是康德主义。",
+        {
+          "type": "note",
+          "id": "ch26-n21",
+          "label": "21"
+        },
+        " 先验论者与经验论者一样，通常把他们所挑战的其他哲学立场中的东西看作没有意义，而不是断言了某种可理解但为假的东西。所以挑战 3 不应被读作蕴涵如下东西的反面"
+      ],
+      "units": 52
+    },
+    {
+      "id": "ch26-u112c",
+      "source_ids": [
+        "ch26-u112c"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "(A) “the objects of knowledge have their determinations independently of the fact that they are represented and of how they are represented”."
+      ],
+      "zh": [
+        "（A）“知识对象的规定性既不取决于它们是否被表征，也不取决于它们如何被表征”。"
+      ],
+      "type": "quote",
+      "units": 22
+    },
+    {
+      "id": "ch26-u111b",
+      "source_ids": [
+        "ch26-u111b"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "That opposite would be something like"
+      ],
+      "zh": [
+        "那个反面大致会是"
+      ],
+      "units": 6
+    },
+    {
+      "id": "ch26-u119",
+      "source_ids": [
+        "ch26-u119"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "(Not-A) “what the objects we know are like depends on the fact that we represent them and how we represent them”."
+      ],
+      "zh": [
+        "（非 A）“我们所知道的对象是什么样子，依赖于我们表征它们的事实以及我们表征它们的方式”。"
+      ],
+      "type": "quote",
+      "units": 21
+    },
+    {
+      "id": "ch26-u113",
+      "source_ids": [
+        "ch26-u113"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For if that opposite made sense then so would the opposite of this opposite, i.e. the very idea whose intelligibility is challenged. So we must take it that the transcendentalist would rather be questioning the very sense of any discussion of whether (A) or (Not-A) is the case."
+      ],
+      "zh": [
+        "因为如果那个反面有意义，那么这个反面的反面也就有意义，即其可理解性受到挑战的那个观念本身。所以我们必须认为，先验论者毋宁是在质疑任何关于（A）还是（非 A）成立的讨论本身的意义。"
+      ],
+      "units": 49
+    },
+    {
+      "id": "ch26-u114",
+      "source_ids": [
+        "ch26-u114"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4.3 Disarming the Challenge"
+      ],
+      "zh": [
+        "4.3 化解挑战"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch26-u115",
+      "source_ids": [
+        "ch26-u115"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Instead of countering this challenge, I will support it, and show how an empiricist can agree to what I take to be the implied view. This requires me to make the challenge precise in one particular way; it is possible of course that it is not how a transcendental idealist would make it precise. But my reading of it may provide a basis for discussion."
+      ],
+      "zh": [
+        "我不去反驳这个挑战，而要支持它，并表明经验论者如何能同意我所理解的那个隐含观点。这要求我以一种特定方式把挑战精确化；当然，这可能不是先验观念论者会采用的精确化方式。但我对它的解读也许能提供一个讨论的基础。"
+      ],
+      "units": 65
+    },
+    {
+      "id": "ch26-u116",
+      "source_ids": [
+        "ch26-u116"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The objects of our knowledge are objects we represent, or are able to represent, and I’ll assume we can give verbal representations, that is, descriptions in our language in use. The ideas of dependence and independence I’ll take to be expressible roughly and informally by talk of what would be the case if we were not in a position to give such descriptions. If that is accepted then the above transcendentalist challenge appears to imply (but even this is once again deceptive):"
+      ],
+      "zh": [
+        "我们知识的对象是我们表征的、或能够表征的对象，并且我假设我们能给出语词表征，即用我们现行语言作出的描述。依赖与独立这两个观念，我将认为可以用“如果我们没有能力给出这样的描述，情况会怎样”的说法来大致而非形式地表达。如果接受这一点，那么上述先验论挑战似乎蕴涵（但即便如此这仍然是假象）："
+      ],
+      "units": 82
+    },
+    {
+      "id": "ch26-u119b",
+      "source_ids": [
+        "ch26-u119b"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "It does not make sense to say that there could be things that are not describable (in our language in use) and hence not knowable, and thus also certainly not known."
+      ],
+      "zh": [
+        "说可能存在无法用我们现行语言描述、因而不可认识、从而也肯定未被认识的事物，是没有意义的。"
+      ],
+      "type": "quote",
+      "units": 31
+    },
+    {
+      "id": "ch26-u117",
+      "source_ids": [
+        "ch26-u117"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I can imagine an attempt to reduce this implication to absurdity, which would proceed as follows. Consider the sparrows: we can describe them, and can say (truly or falsely) that there are sparrows, by means of the sentence “There are sparrows”. Now suppose for a moment (something that I will deny below), that"
+      ],
+      "zh": [
+        "我可以设想一种把这个蕴涵归谬的尝试，其过程如下。考虑麻雀：我们能描述它们，并能用英语句子“There are sparrows”（有麻雀）来说（真地或假地）有麻雀。现在暂且假设（我下面会否认这一点）："
+      ],
+      "units": 53
+    },
+    {
+      "id": "ch26-u119c",
+      "source_ids": [
+        "ch26-u119c"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Instances of Tarski’s celebrated equivalence schema ‘A’ is true if and only if A (which is the same as ‘A’ is a true sentence if and only if A) are tautologies in the same sense that any logical truth such as"
+      ],
+      "zh": [
+        "塔尔斯基著名的等值模式“‘A’为真当且仅当 A”（等同于“‘A’是一个真语句当且仅当 A”）的实例是重言式，其意义与任何逻辑真理相同，例如"
+      ],
+      "type": "quote",
+      "units": 41
+    },
+    {
+      "id": "ch26-u120",
+      "source_ids": [
+        "ch26-u120"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "A if and only if (A or A)"
+      ],
+      "zh": [
+        "A 当且仅当（A 或 A）"
+      ],
+      "type": "quote",
+      "units": 8
+    },
+    {
+      "id": "ch26-u121",
+      "source_ids": [
+        "ch26-u121"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "is a tautology."
+      ],
+      "zh": [
+        "是重言式。"
+      ],
+      "type": "quote",
+      "units": 3
+    },
+    {
+      "id": "ch26-u118",
+      "source_ids": [
+        "ch26-u118"
+      ],
+      "page": "476",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In that case"
+      ],
+      "zh": [
+        "在这种情况下"
+      ],
+      "units": 3
+    },
+    {
+      "id": "ch26-u122",
+      "source_ids": [
+        "ch26-u122"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "0. ‘There are sparrows’ is a true sentence"
+      ],
+      "zh": [
+        "0. “There are sparrows”是一个真语句"
+      ],
+      "type": "quote",
+      "units": 8
+    },
+    {
+      "id": "ch26-u123",
+      "source_ids": [
+        "ch26-u123"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "is tautologically equivalent to"
+      ],
+      "zh": [
+        "在重言式上等值于"
+      ],
+      "type": "quote",
+      "units": 4
+    },
+    {
+      "id": "ch26-u124",
+      "source_ids": [
+        "ch26-u124"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "1. there are sparrows"
+      ],
+      "zh": [
+        "1. 有麻雀"
+      ],
+      "type": "quote",
+      "units": 4
+    },
+    {
+      "id": "ch26-u118b",
+      "source_ids": [
+        "ch26-u118b"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "and so 0 and 1 can be substituted for each other in any context in the same language.",
+        {
+          "type": "note",
+          "id": "ch26-n22",
+          "label": "22"
+        },
+        " So then we could infer that the sentence"
+      ],
+      "zh": [
+        "于是 0 和 1 可以在同一语言的任何语境中互相替换。",
+        {
+          "type": "note",
+          "id": "ch26-n22",
+          "label": "22"
+        },
+        " 这样我们就能推出，语句"
+      ],
+      "units": 26
+    },
+    {
+      "id": "ch26-u125",
+      "source_ids": [
+        "ch26-u125"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "2. If we had no such word as ‘sparrow’, then ‘There are sparrows’ would not be a sentence"
+      ],
+      "zh": [
+        "2. 如果我们没有“sparrow”这个词，那么“There are sparrows”就不会是一个语句"
+      ],
+      "type": "quote",
+      "units": 18
+    },
+    {
+      "id": "ch26-u125b",
+      "source_ids": [
+        "ch26-u125b"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "which implies"
+      ],
+      "zh": [
+        "这蕴涵"
+      ],
+      "type": "quote",
+      "units": 2
+    },
+    {
+      "id": "ch26-u126",
+      "source_ids": [
+        "ch26-u126"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "3. If we had no such word as ‘sparrow’, then ‘There are sparrows’ would not be a true sentence"
+      ],
+      "zh": [
+        "3. 如果我们没有“sparrow”这个词，那么“There are sparrows”就不会是一个真语句"
+      ],
+      "type": "quote",
+      "units": 19
+    },
+    {
+      "id": "ch26-u126b",
+      "source_ids": [
+        "ch26-u126b"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "therefore also implies"
+      ],
+      "zh": [
+        "因此也蕴涵"
+      ],
+      "type": "quote",
+      "units": 3
+    },
+    {
+      "id": "ch26-u127",
+      "source_ids": [
+        "ch26-u127"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "4. If we had no such word as ‘sparrow’, then it would not be the case that there are sparrows."
+      ],
+      "zh": [
+        "4. 如果我们没有“sparrow”这个词，那么就不会有麻雀。"
+      ],
+      "type": "quote",
+      "units": 20
+    },
+    {
+      "id": "ch26-u128",
+      "source_ids": [
+        "ch26-u128"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But this conclusion is absurd. What went wrong?"
+      ],
+      "zh": [
+        "但这个结论是荒谬的。哪里出错了？"
+      ],
+      "units": 8
+    },
+    {
+      "id": "ch26-u129",
+      "source_ids": [
+        "ch26-u129"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We know what went wrong. Instances of Tarski’s schemas are not tautologies in the sense of standard logical truths: they are pragmatic tautologies. A language user cannot deny, can only assent to, an instance of Tarski’s schema in the user’s own language.",
+        {
+          "type": "note",
+          "id": "ch26-n23",
+          "label": "23"
+        },
+        " So, given that we do have the word “sparrow”, we cannot but assent to line 0 above. What would be quite egregious is to infer from this reflection that",
+        {
+          "type": "note",
+          "id": "ch26-n24",
+          "label": "24"
+        },
+        ":"
+      ],
+      "zh": [
+        "我们知道哪里出错了。塔尔斯基模式的实例不是标准逻辑真理意义上的重言式：它们是语用重言式。语言使用者不能否认、只能同意他自己语言中塔尔斯基模式的一个实例。",
+        {
+          "type": "note",
+          "id": "ch26-n23",
+          "label": "23"
+        },
+        " 所以，既然我们确实有“sparrow”这个词，我们就不能不同意上面的第 0 行。真正站不住脚的是由此推出",
+        {
+          "type": "note",
+          "id": "ch26-n24",
+          "label": "24"
+        },
+        "："
+      ],
+      "units": 71
+    },
+    {
+      "id": "ch26-u130",
+      "source_ids": [
+        "ch26-u130"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "5. If we had no such word as ‘sparrow’, then we could deny the equivalence of “ ‘There are sparrows’ is a true sentence” and “There are sparrows”"
+      ],
+      "zh": [
+        "5. 如果我们没有“sparrow”这个词，那么我们就能否认“‘There are sparrows’是一个真语句”与“There are sparrows”的等值性"
+      ],
+      "type": "quote",
+      "units": 27
+    },
+    {
+      "id": "ch26-u130b",
+      "source_ids": [
+        "ch26-u130b"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "6. If we had no such word as ‘sparrow’, then we could deny one of the sentences “ ‘There are sparrows’ is a true sentence” and “There are sparrows” while asserting the other."
+      ],
+      "zh": [
+        "6. 如果我们没有“sparrow”这个词，那么我们就能否认“‘There are sparrows’是一个真语句”与“There are sparrows”这两个语句中的一个，同时断言另一个。"
+      ],
+      "type": "quote",
+      "units": 32
+    },
+    {
+      "id": "ch26-u131",
+      "source_ids": [
+        "ch26-u131"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "These are just plain silly: if we had no such word as ‘sparrow’ then we could not deny or assert any sentence containing that word at all!"
+      ],
+      "zh": [
+        "这些简直是愚蠢：如果我们没有“sparrow”这个词，那么我们根本不能否认或断言任何包含这个词的语句！"
+      ],
+      "units": 27
+    },
+    {
+      "id": "ch26-u132",
+      "source_ids": [
+        "ch26-u132"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But now let’s add that in fact we do have the word “sparrow”. Therefore we are in a position to say"
+      ],
+      "zh": [
+        "但现在让我们补充：事实上我们确实有“sparrow”这个词。因此我们有资格说"
+      ],
+      "units": 21
+    },
+    {
+      "id": "ch26-u133",
+      "source_ids": [
+        "ch26-u133"
+      ],
+      "page": "477",
+      "canonical_kind": "quote",
+      "en": [
+        "7. There are sparrows, and even if we did not have the word “sparrow” there would still be sparrows"
+      ],
+      "zh": [
+        "7. 有麻雀，而且即使我们没有“sparrow”这个词，也仍然会有麻雀"
+      ],
+      "type": "quote",
+      "units": 19
+    },
+    {
+      "id": "ch26-u133b",
+      "source_ids": [
+        "ch26-u133b"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "where the latter counterfactual is based solely on the reflection that"
+      ],
+      "zh": [
+        "其中后一个反事实条件句仅仅基于如下反思："
+      ],
+      "units": 11
+    },
+    {
+      "id": "ch26-u134",
+      "source_ids": [
+        "ch26-u134"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The sentence “There are sparrows” does not logically imply “we have the word ‘sparrow’ ”",
+        {
+          "type": "note",
+          "id": "ch26-n25",
+          "label": "25"
+        }
+      ],
+      "zh": [
+        "语句“There are sparrows”在逻辑上不蕴涵“我们有‘sparrow’这个词”",
+        {
+          "type": "note",
+          "id": "ch26-n25",
+          "label": "25"
+        }
+      ],
+      "type": "quote",
+      "units": 14
+    },
+    {
+      "id": "ch26-u135",
+      "source_ids": [
+        "ch26-u135"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "which is an innocuous logical point, with no philosophical or practical implications. We should also note of course that the following is correct:"
+      ],
+      "zh": [
+        "这是一个无害的逻辑要点，没有哲学或实践蕴涵。当然我们也应当注意到，下面是正确的："
+      ],
+      "units": 23
+    },
+    {
+      "id": "ch26-u136",
+      "source_ids": [
+        "ch26-u136"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Under no conditions could we assert “There are sparrows but we do not have the word ‘sparrow’ ”",
+        {
+          "type": "note",
+          "id": "ch26-n26",
+          "label": "26"
+        }
+      ],
+      "zh": [
+        "无论在什么条件下，我们都不能用英语断言“There are sparrows but we do not have the word ‘sparrow’”（有麻雀，但我们没有‘sparrow’这个词）",
+        {
+          "type": "note",
+          "id": "ch26-n26",
+          "label": "26"
+        }
+      ],
+      "type": "quote",
+      "units": 17
+    },
+    {
+      "id": "ch26-u137",
+      "source_ids": [
+        "ch26-u137"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "for the assertion in question would be as much a pragmatic contradiction as the statement “There are no statements”. You cannot use a word and simultaneously refuse to acknowledge it as belonging to your own language. (You could mention it; that is different.)"
+      ],
+      "zh": [
+        "因为该断言与“没有任何陈述”这个陈述一样是语用矛盾。你不能使用一个词，同时拒绝承认它属于你自己的语言。（你可以提及它；那是另一回事。）"
+      ],
+      "units": 43
+    },
+    {
+      "id": "ch26-u138",
+      "source_ids": [
+        "ch26-u138"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Perhaps this is again a Wittgensteinian point. In the words of some commentators (more or less), there is no point of view we can have external to our own language.",
+        {
+          "type": "note",
+          "id": "ch26-n27",
+          "label": "27"
+        },
+        " If you want to specify truth conditions for the statements in your own language in use, you will be doing so in your own language in use – don’t even think of avoiding this circularity.",
+        {
+          "type": "note",
+          "id": "ch26-n28",
+          "label": "28"
+        }
+      ],
+      "zh": [
+        "也许这又是一个维特根斯坦式的要点。用某些评论者的话（大致）说，不存在我们能拥有的、外在于我们自己语言的观点。",
+        {
+          "type": "note",
+          "id": "ch26-n27",
+          "label": "27"
+        },
+        " 如果你想为你自己正在使用的语言里的陈述指定真值条件，你将在你自己正在使用的语言里这样做——别想避免这个循环。",
+        {
+          "type": "note",
+          "id": "ch26-n28",
+          "label": "28"
+        }
+      ],
+      "units": 64
+    },
+    {
+      "id": "ch26-u139",
+      "source_ids": [
+        "ch26-u139"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "So where are we with respect to the transcendental realist? What I wrote in line 7 sounds like one of the transcendental realist’s favorite reflections, and so threaten a dangerously metaphysical commitment:"
+      ],
+      "zh": [
+        "那么相对于先验实在论者我们身处何处？我在第 7 行写的东西听起来像先验实在论者最喜爱的反思之一，因而有陷入危险的形而上学承诺之虞："
+      ],
+      "units": 32
+    },
+    {
+      "id": "ch26-u140",
+      "source_ids": [
+        "ch26-u140"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "8. There are sparrows, and even if we did not have the word “sparrow” there would still be sparrows."
+      ],
+      "zh": [
+        "8. 有麻雀，而且即使我们没有“sparrow”这个词，也仍然会有麻雀。"
+      ],
+      "type": "quote",
+      "units": 19
+    },
+    {
+      "id": "ch26-u140b",
+      "source_ids": [
+        "ch26-u140b"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But we have seen how we can assent to it, with no metaphysical implications at all – after we make clear the pragmatics of language use, the examples have no bite, they are innocuous and support no metaphysical position at all. What fails to make sense is not anything like 7, but rather the gloss put on it when read through metaphysicians’ eyes."
+      ],
+      "zh": [
+        "但我们已经看到我们如何能同意它而没有任何形而上学蕴涵——在我们澄清语言使用的语用学之后，这些例子就没有杀伤力了，它们是无害的，不支持任何形而上学立场。没有意义的不是任何像第 7 行那样的东西，而是透过形而上学家的眼睛阅读时对它所作的引申。"
+      ],
+      "units": 62
+    },
+    {
+      "id": "ch26-u141",
+      "source_ids": [
+        "ch26-u141"
+      ],
+      "page": "478",
+      "canonical_kind": "paragraph",
+      "en": [
+        "So what does this mean for Challenge 3? A philosophical question so often collapses into a logical question and a factual question. Are there objects for which we have no representation? There are numbers for which there are no numerals, and asteroids that have not been, and may never be, given names. But numbers and asteroids are not things that fall under no heading at all in our language. Any attempt to give an example of something that does would have to be done in our language and thus self-defeating. But a logical distinction remains, as it does for the example “There are no statements”. No one could express a truth by saying or writing that, but what it means does not violate logic – and this reflection has no metaphysical implications."
+      ],
+      "zh": [
+        "那么这对挑战 3 意味着什么？一个哲学问题常常分解为一个逻辑问题和一个事实问题。有没有我们没有其表征的对象？存在没有数字符号的数，也有尚未、也许永远不会被命名的小行星。但数和小行星在我们的语言中仍然可以归入某些类别。任何试图给出这类东西的例子的尝试都必须在我们语言中进行，因而是自我挫败的。但一个逻辑区分仍然保留着，正如“没有任何陈述”这个例子一样。没有人能通过说或写那句话来表达一个真理，但它所意味的东西并不违反逻辑——而这个反思没有形而上学蕴涵。"
+      ],
+      "units": 131
+    },
+    {
+      "id": "ch26-u142",
+      "source_ids": [
+        "ch26-u142"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4.4 My Remaining Realism"
+      ],
+      "zh": [
+        "4.4 我残留的实在论"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch26-u143",
+      "source_ids": [
+        "ch26-u143"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Transcendental idealism got off the ground with Kant’s critique of the seventeenth century metaphysics continued in his own century by Wolff and by himself when young. Empiricism today, trying to make good on the promise of logical empiricism, which got its start in neo-Kantian circles, must accept that critique as well-taken (even against its own seventeenth century historical roots). But how shall we go on from here?"
+      ],
+      "zh": [
+        "先验观念论起步于康德对十七世纪形而上学的批判——那种形而上学在他自己的世纪由沃尔夫和他本人年轻时延续着。今天的经验论试图兑现逻辑经验论（它起步于新康德主义圈子）的承诺，也必须接受那个批判是中肯的（哪怕是针对它自己的十七世纪历史根源）。但我们从这里如何继续前进？"
+      ],
+      "units": 67
+    },
+    {
+      "id": "ch26-u144",
+      "source_ids": [
+        "ch26-u144"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In stating his or her own philosophical view the philosopher uses a form of discourse that s/he trusts for that role. Philosophy is carried on in dialogue, not in oblivion of other views. So the form of discourse used purports to be a common basis for participants in the dialogues in which that view is proposed and defended. When that purported common access is missing, then we have warrant for that famous bit of abuse: philosophy is the art of speaking nonsense in language expressly designed for that purpose."
+      ],
+      "zh": [
+        "哲学家在陈述他或她自己的哲学观点时，使用一种他/她信任其能胜任该角色的话语形式。哲学是在对话中进行的，不是在对其他观点的无视中进行的。所以所使用的话语形式声称是参与者们的共同基础——在提出和捍卫那个观点的对话中。如果参与者不能以共同的方式理解这些话语，我们就有理由搬出那句著名的骂人话：哲学是用专为说胡话而设计的语言说胡话的艺术。"
+      ],
+      "units": 90
+    },
+    {
+      "id": "ch26-u145",
+      "source_ids": [
+        "ch26-u145"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The common basis that I assume is language in which reference is unproblematic to trees and mountains, people and books, to lightning and car crashes, as well as to the processes of aging, burning, and flooding. These are all observable, and I emphasize reference; the descriptive terms we use are often theory-laden or culturally parochial; that does not to me make reference problematic. In the language I trust I say for example that there were mountains long before us.",
+        {
+          "type": "note",
+          "id": "ch26-n29",
+          "label": "29"
+        },
+        " To this I could indeed add that it is as much part of the concept of mountain that it is an old geological feature, as it is part of the concept of electron to be electrically charged. But whatever is meant by such additions is not to be something that contradicts the original assertions – nor to take away my assertion of them as literal factual truths. Our reflections about our language and concepts cannot, on pain of incoherence on our own part, contradict what we assert in our language."
+      ],
+      "zh": [
+        "我假设的共同基础是这样一种语言：在其中指称树和山、人和书、闪电和车祸，以及老化、燃烧和洪水等过程，都是没有问题的。这些都是可观察的，而且我强调指称；我们使用的描述用语常带有理论前提，或只通行于特定文化；这在我看来并不使指称成为问题。在我信任的语言中，我例如说，早在我们之前就有山。",
+        {
+          "type": "note",
+          "id": "ch26-n29",
+          "label": "29"
+        },
+        " 对此我确实可以补充说：山是古老的地质特征，这属于山的概念，正如带电荷属于电子的概念。但无论这样的补充意味着什么，它都不能是与原初断言相矛盾的东西——也不能取消我把它们作为字面事实真理的断言。我们关于我们语言和概念的反思，不能与我们在我们语言中断言的东西相矛盾，否则我们自己就不融贯。"
+      ],
+      "units": 168
+    },
+    {
+      "id": "ch26-u146",
+      "source_ids": [
+        "ch26-u146"
+      ],
+      "page": "479",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This is not to set our discourse beyond critique. To see philosophy as always conducted in a trusted language-in-use does not imply seeing it as oblivious of the language it lives in, nor as resistant to language-change. But in this, as elsewhere, we always start from where we are. We can’t step out of where we are into a presupposition-less discourse any more than into a view from nowhere. This trusting start, by us mariners who repair our boat on the high seas, is precisely what is not made explicit when we state our positions. To some extent, the lack of explicitness is inevitable. If we do pay attention to our own language in use, and begin to make its features more explicit, we still do that in a part of this very discourse. Thus we continue to rely on its trustworthiness implicitly in that very act. We can bring only so much of what we are doing to light, for this bringing to light is, after all, a part of what we are doing."
+      ],
+      "zh": [
+        "这不是把我们的话语置于批判之外。把哲学看作总是在一种我们信任并正在使用的语言里进行，并不意味着把它看作无视它赖以生存的语言，也不意味着把它看作抵制语言变化。但在这一点上，正如在其他方面一样，我们总是从我们所在之处出发。我们不可能走出我们所在之处，进入一种无预设的话语，正如不可能获得一种“无位置的视角”（view from nowhere）。我们这班在公海上修补自己船只的水手所采取的这个信任的起点，恰恰是我们陈述自己立场时没有明说的东西。在某种程度上，这种不明说是不可避免的。如果我们确实注意我们自己使用中的语言，并开始把它的特征说得更明白，我们仍须用这种话语本身的一部分来做这件事。因此在那个行为本身中，我们继续隐含地依赖它的可信性。我们只能揭示自身实践的一部分，因为揭示这些做法本身也是实践的一部分。"
+      ],
+      "units": 175
+    },
+    {
+      "id": "ch26-u148",
+      "source_ids": [
+        "ch26-u148"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Description and assessment of both scientific activity and scientific product, as I characterize them, are carried out within that common sense realist discourse – the same that I designated above as the trusted basic discourse in which I formulate my views on constructive empiricism, voluntarism in epistemology, and the like. Is this realism? A kind of realism, certainly, but I think not one that involves us in noxious metaphysics."
+      ],
+      "zh": [
+        "按我的刻画，对科学活动及其成果的描述与评估，都是在那种常识实在论话语之内进行的——就是我上面指定的那种受信任的基本话语，我在其中表述我关于建构经验论、认识论中的意志主义等等的观点。这是实在论吗？当然是某种实在论，但我认为不是使我们卷入有害形而上学的那种。"
+      ],
+      "units": 68
+    },
+    {
+      "id": "ch26-u147",
+      "source_ids": [
+        "ch26-u147"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch26-bibliography-001",
+      "source_ids": [
+        "ch26-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Crary, Alice and Rupert Read (eds.) The New Wittgenstein. New York: Routledge, 2000."
+      ],
+      "zh": [
+        "Crary, Alice and Rupert Read (eds.) The New Wittgenstein. New York: Routledge, 2000."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch26-bibliography-002",
+      "source_ids": [
+        "ch26-ref003",
+        "ch26-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Finch, Alicia “Review of B. van Fraassen, The Empirical Stance”, American Catholic Philosophical Quarterly 77 (2003), 302–307."
+      ],
+      "zh": [
+        "Finch, Alicia “Review of B. van Fraassen, The Empirical Stance”, American Catholic Philosophical Quarterly 77 (2003), 302–307."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch26-bibliography-003",
+      "source_ids": [
+        "ch26-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Lewis, David Kellogg, Philosophical Papers, vol. I. Oxford: Oxford University Press, 1983."
+      ],
+      "zh": [
+        "Lewis, David Kellogg, Philosophical Papers, vol. I. Oxford: Oxford University Press, 1983."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch26-bibliography-004",
+      "source_ids": [
+        "ch26-ref004",
+        "ch26-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Lewis, David Kellogg, “Putnam’s Paradox”, Australasian Journal of Philosophy 62 (1984), 221–236."
+      ],
+      "zh": [
+        "Lewis, David Kellogg, “Putnam’s Paradox”, Australasian Journal of Philosophy 62 (1984), 221–236."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch26-bibliography-005",
+      "source_ids": [
+        "ch26-ref005",
+        "ch26-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "McGowan, Mary Kathryn Realism or Non-realism; Undecidable in Theory, Decidable in Practice. Dissertation, Princeton University, 1996."
+      ],
+      "zh": [
+        "McGowan, Mary Kathryn Realism or Non-realism; Undecidable in Theory, Decidable in Practice. Dissertation, Princeton University, 1996."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch26-bibliography-006",
+      "source_ids": [
+        "ch26-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "McGowan, Mary Kathryn “Privileging Properties”, Philosophical Studies 105 (2001), 1–23."
+      ],
+      "zh": [
+        "McGowan, Mary Kathryn “Privileging Properties”, Philosophical Studies 105 (2001), 1–23."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch26-bibliography-007",
+      "source_ids": [
+        "ch26-ref006",
+        "ch26-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "McGowan, Mary Kathryn “Realism, Reference and Grue: Why Metaphysical Realism Cannot Solve the Grue Paradox,” American Philosophical Quarterly 40 (2003), 47–57."
+      ],
+      "zh": [
+        "McGowan, Mary Kathryn “Realism, Reference and Grue: Why Metaphysical Realism Cannot Solve the Grue Paradox,” American Philosophical Quarterly 40 (2003), 47–57."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch26-bibliography-008",
+      "source_ids": [
+        "ch26-ref007",
+        "ch26-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Putnam, Hilary “Realism and reason” (1976); reprinted pp. 123–140 in his Meaning and the Moral Sciences. New York: Routledge, 1978."
+      ],
+      "zh": [
+        "Putnam, Hilary “Realism and reason” (1976); reprinted pp. 123–140 in his Meaning and the Moral Sciences. New York: Routledge, 1978."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch26-bibliography-009",
+      "source_ids": [
+        "ch26-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Putnam, Hilary The Many Faces of Realism. LaSalle, IL: Open Court, 1987."
+      ],
+      "zh": [
+        "Putnam, Hilary The Many Faces of Realism. LaSalle, IL: Open Court, 1987."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch26-bibliography-010",
+      "source_ids": [
+        "ch26-ref008",
+        "ch26-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "van Fraassen, Bas “Putnam’s Paradox: Metaphysical Realism Revamped and Evaded”, pp. 17–42 in Philosophical Perspectives, vol. 11. Boston, MA: Blackwell, 1997."
+      ],
+      "zh": [
+        "van Fraassen, Bas “Putnam’s Paradox: Metaphysical Realism Revamped and Evaded”, pp. 17–42 in Philosophical Perspectives, vol. 11. Boston, MA: Blackwell, 1997."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch26-bibliography-011",
+      "source_ids": [
+        "ch26-ref009",
+        "ch26-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "van Fraassen, Bas “The False Hopes of Traditional Epistemology”, Philosophy and Phenomenological Research 60 (2000), 253–280."
+      ],
+      "zh": [
+        "van Fraassen, Bas “The False Hopes of Traditional Epistemology”, Philosophy and Phenomenological Research 60 (2000), 253–280."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch26-bibliography-012",
+      "source_ids": [
+        "ch26-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "van Fraassen, Bas The Empirical Stance. New Haven, CT: Yale University Press, 2002."
+      ],
+      "zh": [
+        "van Fraassen, Bas The Empirical Stance. New Haven, CT: Yale University Press, 2002."
+      ],
+      "shared": true,
+      "units": 13
+    }
+  ],
+  "notes": {
+    "ch26-n01": {
+      "number": "1",
+      "en": [
+        "The author wishes to acknowledge gratefully support for this research by NSF grant SES 549002."
+      ],
+      "zh": [
+        "作者谨此感谢 NSF 基金 SES 549002 对本研究的资助。"
+      ]
+    },
+    "ch26-n02": {
+      "number": "2",
+      "en": [
+        "David Lewis, Philosophical Papers, vol. I (Oxford: Oxford University Press, 1983), pp. x–xi. See also the footnotes there."
+      ],
+      "zh": [
+        "David Lewis, Philosophical Papers, vol. I (Oxford: Oxford University Press, 1983), pp. x–xi. 另见该书脚注。"
+      ]
+    },
+    "ch26-n03": {
+      "number": "3",
+      "en": [
+        "McGowan 1996; See further her 2001 and 2003."
+      ],
+      "zh": [
+        "McGowan 1996; 另见她的 2001 和 2003。"
+      ]
+    },
+    "ch26-n04": {
+      "number": "4",
+      "en": [
+        "McGowan’s conclusions are in sympathy with what I shall argue below. According to McGowan, we can opt for one such position as she surveys, but only on the basis of a value judgment. What the enterprise of metaphysics is must presumably be conceived in terms of the criteria of choice: metaphysics’ telos is to produce valuable systems in the appropriate sense. Compare Finch, 2003 for a related conception of metaphysics."
+      ],
+      "zh": [
+        "麦高恩的结论与我下面要论证的观点相呼应。按麦高恩的看法，我们可以选择她所考察的这类立场中的某一个，但只能基于一个价值判断。形而上学这门事业是什么，想必必须根据选择的标准来设想：形而上学的目的（telos）是在恰当的意义上产出有价值的体系。可对照 Finch, 2003 中一种相关的形而上学观。"
+      ]
+    },
+    "ch26-n05": {
+      "number": "5",
+      "en": [
+        "Putnam, 1976; Lewis, 1984. I have addressed this subject at length in my 1997, so will omit discussion here."
+      ],
+      "zh": [
+        "Putnam, 1976; Lewis, 1984. 我在 1997 年的著作中已详细讨论过这个主题，故此处从略。"
+      ]
+    },
+    "ch26-n06": {
+      "number": "6",
+      "en": [
+        "Gerrymandered color similarities would include “both are grue,” “both are warm colors,” or “both have colors loved by the Emperor”. But in fact the color spectrum is such that if two objects are colored at all, there is some part of that spectrum which they both instantiate somewhere, so here at least gerrymandering is not required."
+      ],
+      "zh": [
+        "拼凑划分出来的颜色相似性包括“两者都是绿蓝的”、“两者都是暖色”或“两者都有皇帝喜爱的颜色”。但事实上色谱的本性使得：只要两个物体有颜色，色谱中总有某个部分被它们两者在某个地方共同例示，所以这里至少不需要拼凑划分。"
+      ]
+    },
+    "ch26-n07": {
+      "number": "7",
+      "en": [
+        "I use Putnam’s somewhat disrespectful capitalized “WORLD”; see further my discussion of the question “Does the world exist?” in Chapter 1 of my 2002."
+      ],
+      "zh": [
+        "我沿用普特南那个略带不敬的大写“WORLD”；另见我在 2002 年著作第一章中对“世界存在吗？”这一问题的讨论。"
+      ]
+    },
+    "ch26-n08": {
+      "number": "8",
+      "en": [
+        "This apt use of ‘gruesome’ is due to Catherine Elgin, I believe."
+      ],
+      "zh": [
+        "我认为，“绿蓝式”（gruesome）这个贴切的用法出自凯瑟琳·埃尔金。"
+      ]
+    },
+    "ch26-n09": {
+      "number": "9",
+      "en": [
+        "Details: it is possible for all structure defining properties to supervene on a small family of privileged properties – a base. There may be several bases and distinct, though possibly overlapping, families of structure defining properties that supervene on those bases. In these terms, several options are open to the non-realists. The most obvious non-realist tack may be to identify a ‘subjective’ base (a base selected in terms of human interests, goals, or practices). But that is not the only non-realist option. The selection of bases could be entirely through objective constraints, while the selection of supervening privileged properties be laden with subjective factors."
+      ],
+      "zh": [
+        "细节：所有结构规定性质有可能随附于一小族特权性质——一个基。可能有多个基，以及随附于那些基上的不同（尽管可能重叠）的结构规定性质族。用这些术语来说，非实在论者有几个选项。最明显的非实在论策略也许是确定一个“主观的”基（按人类兴趣、目标或实践来选择的基）。但那不是唯一的非实在论选项。基的选择可以完全通过客观约束来进行，而随附其上的特权性质的选择却可以负载主观因素。"
+      ]
+    },
+    "ch26-n10": {
+      "number": "10",
+      "en": [
+        "Some sorts of realists might have a better candidate, e.g. that certain things about us, some of our needs, purposes, features, or even living conditions are essential to us; but this would also require realism about modalities or essences, hence would not provide a common ground for all parties."
+      ],
+      "zh": [
+        "某些类型的实在论者也许有更好的候选，例如主张关于我们的一些东西——我们的某些需要、目的、特征乃至生存条件——对我们是本质的；但这还需要关于模态或本质的实在论，因此无法为各方提供共同基础。"
+      ]
+    },
+    "ch26-n11": {
+      "number": "11",
+      "en": [
+        "I am not a Bayesian; but from my own (liberal probabilist) point of view the problem of induction is also based on a mistake; in fact, more than one. See my 2000."
+      ],
+      "zh": [
+        "我不是贝叶斯主义者；但从我自己的（自由派概率主义）观点看，归纳问题也基于错误；事实上不止一个错误。见我 2000 年的著作。"
+      ]
+    },
+    "ch26-n12": {
+      "number": "12",
+      "en": [
+        "For my argument to go through R must be describable without the use of indexicals such as “we” and “our”, I agree. If it is meant to rule out relations describable ‘in the space of reasons’, i.e. by norm or value laden terms, then I want to point out that these relations can be construed in two ways as well. A sociologist can describe what is regarded as valuable to a given community in language which is not itself value-laden, without implying for example that in his/her opinion it is indeed valuable for that community. If on the contrary this sociologist forms the judgment that such and such a practice is valuable to that community, then his “valuable” expresses a value judgment of his own, and he could have said “valuable according to us”."
+      ],
+      "zh": [
+        "我同意，要让我的论证成立，R 必须能够不使用“we”、“our”之类的索引词来描述。如果这是要排除那些可在“理由的空间”中描述的关系，即可用规范或价值负载的术语描述的关系，那么我想指出，这些关系同样可以作两种理解。社会学家可以用本身不负载价值的语言描述某个共同体认为有价值的东西，而不必由此暗示例如在他看来那对该共同体确实有价值。相反，如果这位社会学家形成判断说某实践对该共同体有价值，那么他的“有价值”表达的是他自己的价值判断，他本可以说“按我们的看法有价值”。"
+      ]
+    },
+    "ch26-n13": {
+      "number": "13",
+      "en": [
+        "A greater difficulty: how could the position be properly stated at all? Since the attribution of complexity could in this context only be attribution of complexity under some description, not under a description in terms of structure defining properties. But this difficulty (see McGowan, p. 48) belongs exactly to the kind of problems McGowan takes up for her non-realists."
+      ],
+      "zh": [
+        "更大的困难：这个立场究竟如何能被恰当地陈述出来？因为在这个语境中，复杂性的归属只能是在某个描述之下的复杂性归属，而不是在按结构规定性质给出的描述之下的归属。但这个困难（见 McGowan, p. 48）恰恰属于麦高恩为她的非实在论者提出的那类问题。"
+      ]
+    },
+    "ch26-n14": {
+      "number": "14",
+      "en": [
+        "I am not asserting that all statements are equivalent to ‘eternal’ context-independent sentences. The distinction to be made concerns the sense of equivalence. The sentence “I am sitting” is not everywhere replaceable, salva veritate, with “BvF is sitting”: “If I had forgotten my name then I would still know that I am sitting, but not that BvF is sitting” – that is also true. Yet “I am sitting” and “BvF is sitting” must of course have the same truth-value, since I am BvF – in that sense my being sitting can also be described without the use of indexicals."
+      ],
+      "zh": [
+        "我并不是断言一切陈述都等值于“永恒的”语境无关语句。要作的区分涉及等值的意义。“我坐着”这个句子并非处处都可保持真值（salva veritate）地替换为“BvF 坐着”：“如果我忘记了自己的名字，我仍然知道我坐着，但不知道 BvF 坐着”——这也是真的。然而“我坐着”与“BvF 坐着”当然必须有相同的真值，因为我就是 BvF——在那个意义上，我坐着这件事也可以不用索引词来描述。"
+      ]
+    },
+    "ch26-n15": {
+      "number": "15",
+      "en": [
+        "Recall a famous saying by Hilary Putnam: “the mind and the world jointly make up the mind and the world”. This too can be understood in two ways. Putnam is not so naïve, of course: it is clear that he resists a naïve reading of these words: “If one must use metaphorical language, then let the metaphor be this: the mind and the world jointly make up the mind and the world” (Hilary Putnam, Reason, Truth, and History, p. xi. Cited and discussed further in his 1987, Preface, p. 1). In the first lecture in his 1987 he rejects subjective idealism; his aim is to show that common sense realism and conceptual relativism are compatible. I’d like to think that I’m showing something similar, although I would resist the name “conceptual relativism” as misleading, and also insist that any attempt to express the view in third person non-indexical language is self-defeating."
+      ],
+      "zh": [
+        "回想希拉里·普特南的一句名言：“心灵与世界共同构成了心灵与世界”（the mind and the world jointly make up the mind and the world）。这也可以作两种理解。当然，普特南没那么天真：显然他抵制对这句话的天真解读：“如果必须使用隐喻语言，那就让隐喻是这个：心灵与世界共同构成了心灵与世界”（Hilary Putnam, Reason, Truth, and History, p. xi. 在他 1987 年著作的序言 p. 1 中被引用并进一步讨论）。在他 1987 年著作的第一讲中，他拒斥主观观念论；他的目标是表明常识实在论与概念相对主义是相容的。我愿意认为我在表明某种类似的东西，尽管我会抵制“概念相对主义”这个名称，认为它有误导性，并且坚持任何用第三人称非索引语言表达该观点的尝试都是自我挫败的。"
+      ]
+    },
+    "ch26-n16": {
+      "number": "16",
+      "en": [
+        "I suppose this catch-phrase comes from “An ill-favoured thing, sir, but mine own” (Shakespeare, As You Like It. Act v. Sc. 4.)."
+      ],
+      "zh": [
+        "我想这个说法来自“先生，这是个寒碜的东西，但它是我的”（莎士比亚，《皆大欢喜》第五幕第四场）。"
+      ]
+    },
+    "ch26-n17": {
+      "number": "17",
+      "en": [
+        "The point about forced endorsement is also just a point of logic, but at the level of pragmatics. Specifically, I would be pragmatically incoherent if I acknowledged myself to be BvF, expressed my evaluation of something as important, and denied that it was important by BvF’s evaluation of the matter. Such logical points do not tell for or against any philosophical position."
+      ],
+      "zh": [
+        "关于被迫认可的这一点也只是一个逻辑要点，不过在语用学层面。具体地说，如果我承认自己是 BvF，表达了我对某物的重要性的评价，却又否认按 BvF 对此事的评价它是重要的，那我在语用上就不融贯。这类逻辑要点不支持也不反对任何哲学立场。"
+      ]
+    },
+    "ch26-n18": {
+      "number": "18",
+      "en": [
+        "About “would” in this line: the Yes-answer to (2) simply grants a logical point, to the effect that one sentence does not logically imply another one."
+      ],
+      "zh": [
+        "关于这一行中的“would”：对（2）的肯定回答只是承认一个逻辑要点，即一个句子不逻辑地蕴涵另一个句子。"
+      ]
+    },
+    "ch26-n19": {
+      "number": "19",
+      "en": [
+        "If meant as an imputation of platonism, it is another case of an ordinary innocuous statement read through a metaphysician’s glasses. But if a transcendentalist were to say this, the charge would not be platonism."
+      ],
+      "zh": [
+        "如果这是要归咎柏拉图主义，那又是一个透过形而上学家的眼镜阅读平常无害陈述的例子。但如果一位先验论者这样说，指控就不是柏拉图主义。"
+      ]
+    },
+    "ch26-n20": {
+      "number": "20",
+      "en": [
+        "«Il s’agit bien plutôt de mettre en question les approches qui négligent la considération des conditions historiques et pragmatiques du développement de la connaissance en présupposant que les déterminations de l’objet de la connaissance sont indépendantes du fait qu’il soit représenté, et de la manière dont il peut l’être.» (Isabelle Peschard)"
+      ],
+      "zh": [
+        "«Il s’agit bien plutôt de mettre en question les approches qui négligent la considération des conditions historiques et pragmatiques du développement de la connaissance en présupposant que les déterminations de l’objet de la connaissance sont indépendantes du fait qu’il soit représenté, et de la manière dont il peut l’être.» (Isabelle Peschard)"
+      ]
+    },
+    "ch26-n21": {
+      "number": "21",
+      "en": [
+        "To call the challenge here transcendental idealist, and the view opposed, transcendental realist, would be in accord with Kant’ use of the term: “In the transcendental aesthetic we proved that everything intuited in space and time, all objects of a possible experience, are nothing but phenomena, that is, mere representations; and that these, as presented to us – as extended bodies, or as series of changes – have no self-subsistent existence apart from human thought. This doctrine I call Transcendental Idealism.* The realist in the transcendental sense regards these modifications of our sensibility, these mere representations, as things subsisting in themselves.” (Kant, Critique of Pure Reason, Meiklejohn tr.; Transcendental Dialectic Book II, Chapter II. ‘The Antinomy of Pure Reason’; Section VI. ‘Transcendental Idealism as the Key to the Solution of Pure Cosmological Dialectic’, initial paragraph.) At * Kant has a footnote: “I have elsewhere termed this theory formal idealism, to distinguish it from material idealism, which doubts or denies the existence of external things. To avoid ambiguity, it seems advisable in many cases to employ this term instead of that mentioned in the text.”"
+      ],
+      "zh": [
+        "把这里的挑战称为先验观念论的、把对立的观点称为先验实在论的，符合康德对该术语的用法：“在先验感性论中我们证明了，凡是在空间和时间中被直观的东西，一切可能经验的对象，都无非是显象，也就是说，无非是单纯的表象；而这些表象作为被给予我们的东西——作为广延的物体或变化的序列——在人的思想之外没有任何自存的存在。我把这种学说称为先验观念论。* 先验意义上的实在论者把我们感性的这些变状、这些单纯的表象，视为自存的事物。”（康德，《纯粹理性批判》，米克尔约翰英译本；先验辩证论第二卷第二章“纯粹理性的二律背反”第六节“作为解决纯粹宇宙论辩证论之钥匙的先验观念论”，首段。）在 * 处康德有一个脚注：“我曾在别处把这一理论称为形式观念论，以区别于怀疑或否认外部事物存在的质料观念论。为避免歧义，在许多场合似乎宜用这个术语来代替正文中提到的那个术语。”"
+      ]
+    },
+    "ch26-n22": {
+      "number": "22",
+      "en": [
+        "That includes modal and other intensional contexts, but not hyper-intensional contexts, nor occurrence inside quotation marks, and (important for our argument here!) not always in contextdependent or indexical discourse."
+      ],
+      "zh": [
+        "这包括模态语境和其他内涵语境，但不包括超内涵语境，也不包括引号内的出现，并且（对我们这里的论证很重要！）并非总适用于语境依赖的或索引性的话语。"
+      ]
+    },
+    "ch26-n23": {
+      "number": "23",
+      "en": [
+        "See my 1997. I am leaving out some niceties here. Given that the language may have truth value gaps, the schema cannot be read as a material equivalence, but only as indicating that each side can be validly inferred from the other."
+      ],
+      "zh": [
+        "见我 1997 年的著作。我在这里略去了一些细节。鉴于语言可能有真值空缺，该模式不能被读作实质等值，而只能被读作表明两边都可以有效地从另一边推出。"
+      ]
+    },
+    "ch26-n24": {
+      "number": "24",
+      "en": [
+        "I do not accuse anyone of actually making such inferences. Everyone knows that from ‘if A then B’ you cannot infer ‘if not A then not B’. But in this case there is the somewhat subtle distinction between a logical tautology and a pragmatic tautology to be brought into the light of day."
+      ],
+      "zh": [
+        "我并不指责任何人实际作出这样的推理。谁都知道从“如果 A 则 B”不能推出“如果非 A 则非 B”。但在这个情形中，有一个相当微妙的区分需要被揭示出来，即逻辑重言式与语用重言式之间的区分。"
+      ]
+    },
+    "ch26-n25": {
+      "number": "25",
+      "en": [
+        "Nor does the one logically imply the other if we add in all the information we can pertinently keep fixed in this context."
+      ],
+      "zh": [
+        "即使加上我们在这个语境中能恰当地保持固定的一切信息，前者也不逻辑地蕴涵后者。"
+      ]
+    },
+    "ch26-n26": {
+      "number": "26",
+      "en": [
+        "To see the parallel, note that this amounts to: the sentence ‘There are sparrows’ pragmatically implies ‘we have the word “sparrow”’, where X pragmatically implies Y if the language user cannot under any conditions assert X while denying Y."
+      ],
+      "zh": [
+        "要看出平行之处，注意这等于说：语句“There are sparrows”在语用上蕴涵“我们有‘sparrow’这个词”，其中 X 语用地蕴涵 Y，是指语言使用者在任何条件下都不能断言 X 而否认 Y。"
+      ]
+    },
+    "ch26-n27": {
+      "number": "27",
+      "en": [
+        "Crary and Read, The New Wittgenstein, Introduction. Cave! Such an informal statement invites realist construal: if it makes sense to deny that there are points of view we can take external to our own language, then the denial of this denial (the assertion that we can) also makes sense. That is not intended here."
+      ],
+      "zh": [
+        "Crary and Read, The New Wittgenstein, Introduction. 注意！这样一个非形式陈述容易招来实在论解读：如果否认存在我们能采取的外在于我们自己语言的观点是有意义的，那么对这个否认的否认（即断言我们能）也就有意义。这里不是这个意思。"
+      ]
+    },
+    "ch26-n28": {
+      "number": "28",
+      "en": [
+        "Or of going beyond the near-triviality of Tarski’s schema when it comes to truth – a fortiori. I take Kant’s argument, that there cannot be a criterion of truth that is both material and general, to support this point. See Critique of Pure Reason, Second Part. ‘Transcendental Logic’; Introduction. ‘Idea of a Transcendental Logic’.II. Of Transcendental Logic; III. Of the Division of General Logic into Analytic and Dialectic, A58, B 83."
+      ],
+      "zh": [
+        "或者说，在涉及真理时超出塔尔斯基模式的近乎平凡性——更是如此。我认为康德的论证——不可能有一个既是质料的又是普遍的真理标准——支持这一点。见《纯粹理性批判》第二部分“先验逻辑”导言“先验逻辑的理念”II. 论先验逻辑；III. 论普遍逻辑划分为分析论与辩证论，A58，B 83。"
+      ]
+    },
+    "ch26-n29": {
+      "number": "29",
+      "en": [
+        "There would have been mountains even if conscious beings had never existed. On my view of counterfactuals this is true simply because the statement “there are mountains”, even if supplemented with other information that we hold fixed in this context, does not logically imply “conscious beings exist”. Realists of a different sort – realists with respect to modality – will quarrel with both transcendental idealists and empiricists on this issue, insisting on truth-values for counterfactuals that are not determined by such logical and contextual relations."
+      ],
+      "zh": [
+        "即使有意识的存在者从未存在过，也仍然会有山。按我的反事实条件句观点，这是真的，仅仅因为“有山”这个陈述——即使补充上我们在这个语境中保持固定的其他信息——并不逻辑地蕴涵“有意识的存在者存在”。另一类实在论者——关于模态的实在论者——会在这个问题上与先验观念论者和经验论者都发生争执，坚持反事实条件句具有不由这类逻辑与语境关系决定的真值。"
+      ]
+    }
+  }
+}

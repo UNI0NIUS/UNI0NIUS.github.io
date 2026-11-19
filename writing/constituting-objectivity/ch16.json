@@ -1,0 +1,3583 @@
+{
+  "id": "ch16",
+  "title": "赫尔曼·魏尔与“第一哲学”：构成规范不变性",
+  "originalTitle": "Hermann Weyl and “First Philosophy”: Constituting Gauge Invariance",
+  "outline": [
+    {
+      "anchor": "ch16-u003",
+      "title": "1 自然主义的霸权",
+      "originalTitle": "1 Naturalism’s Hegemony",
+      "level": 1
+    },
+    {
+      "anchor": "ch16-u022",
+      "title": "2 第一哲学（胡塞尔）",
+      "originalTitle": "2 First Philosophy (Husserl)",
+      "level": 1
+    },
+    {
+      "anchor": "ch16-u032",
+      "title": "3 第一哲学（魏尔）",
+      "originalTitle": "3 First Philosophy (Weyl)",
+      "level": 1
+    },
+    {
+      "anchor": "ch16-u037",
+      "title": "3.1 第一阶段：连续关联（拓扑学）",
+      "originalTitle": "3.1 First Stage: Continuous Connection (Topology)",
+      "level": 2
+    },
+    {
+      "anchor": "ch16-u039",
+      "title": "3.2 第二阶段：仿射联络流形",
+      "originalTitle": "3.2 Second Stage: Affine Connected Manifold",
+      "level": 2
+    },
+    {
+      "anchor": "ch16-u052",
+      "title": "3.3 第三阶段：度规联络流形",
+      "originalTitle": "3.3 Third Stage: Metrically Connected Manifold",
+      "level": 2
+    },
+    {
+      "anchor": "ch16-u091",
+      "title": "3.4 向物理学的过渡",
+      "originalTitle": "3.4 Transition to Physics",
+      "level": 2
+    },
+    {
+      "anchor": "ch16-ref001",
+      "title": "4 结论",
+      "originalTitle": "4 Conclusion",
+      "level": 1
+    },
+    {
+      "anchor": "ch16-u107",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch16-u001",
+      "source_ids": [
+        "ch16-u001"
+      ],
+      "page": "279",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch16-u002",
+      "source_ids": [
+        "ch16-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Thomas Ryckman"
+      ],
+      "zh": [
+        "托马斯·赖克曼"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch16-u004",
+      "source_ids": [
+        "ch16-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract The current vogue of naturalism – whether of a pragmatist, instrumentalist or realist variety – in philosophy of physics is largely attributable to a fiction promulgated by logical empiricism, but surviving the latter’s demise. It states that relatively theory (especially general relativity) comprised a decisive refutation of Kant, and transcendental idealism more broadly. A closer look at the early years of general relativity reveals a considerably different picture. Here we trace how transcendental idealism informed Weyl’s construction of a “purely infinitesimal geometry” whose additional (gauge) degrees of freedom enabled incorporation of electromagnetism into the spacetime metric."
+      ],
+      "zh": [
+        "摘要 自然主义——无论是实用主义的、工具主义的还是实在论的版本——当今在物理学哲学中的盛行，在很大程度上要归因于逻辑经验论所散布的一个虚构，这个虚构在逻辑经验论消亡之后依然存活着。它宣称，相对论（尤其是广义相对论）构成了对康德、乃至更广泛地对先验观念论的决定性反驳。然而，仔细考察广义相对论的早年岁月，呈现出的却是一幅相当不同的图景。本文将追溯先验观念论如何启发了魏尔对一种“纯粹无穷小几何”的构造，这种几何新增了（规范）自由度，因而可以把电磁相互作用纳入时空度规。"
+      ],
+      "units": 95
+    },
+    {
+      "id": "ch16-u003",
+      "source_ids": [
+        "ch16-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Naturalism’s Hegemony"
+      ],
+      "zh": [
+        "1 自然主义的霸权"
+      ],
+      "type": "subheading",
+      "units": 3
+    },
+    {
+      "id": "ch16-u005",
+      "source_ids": [
+        "ch16-u005"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "T. Ryckman Stanford University, Stanford, California, USA"
+      ],
+      "zh": [
+        "T. Ryckman Stanford University, Stanford, California, USA"
+      ],
+      "shared": true,
+      "units": 7
+    },
+    {
+      "id": "ch16-u006",
+      "source_ids": [
+        "ch16-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "First Philosophy? Most of us will recall Quine’s pronouncements on the subject: First Philosophy is the philosophical disease for which naturalism is the cure. Naturalism, the fifth and final milestone of empiricism, the cap crowning empiricism’s triumphal arch, mandates the “abandonment of the goal of first philosophy”, which is just to say that (Naturalism) sees natural science as an inquiry into reality, fallible and corrigible, but not answerable to any supra-scientific method, and not in need of any justification beyond observation and hypothetico–deductive method.",
+        {
+          "type": "note",
+          "id": "ch16-n01",
+          "label": "1"
+        }
+      ],
+      "zh": [
+        "第一哲学？我们大多数人都会记得蒯因关于这个主题的论断：第一哲学是一种哲学疾病，而自然主义正是它的解药。自然主义，作为经验论的第五个也是最后一个里程碑，作为给经验论的凯旋门加冕的顶石，要求“放弃第一哲学的目标”，这也就是说，（自然主义）把自然科学看作对实在的一种探究，这种探究可能出错，也可以修正，但不受任何凌驾于科学之上的方法裁断，也不需要观察与假设–演绎方法之外的任何辩护。",
+        {
+          "type": "note",
+          "id": "ch16-n01",
+          "label": "1"
+        }
+      ],
+      "units": 85
+    },
+    {
+      "id": "ch16-u007",
+      "source_ids": [
+        "ch16-u007"
+      ],
+      "page": "280",
+      "canonical_kind": "paragraph",
+      "en": [
+        "By implication, First Philosophy subordinates natural science to “supra-scientific method” and to non-empirical constraints of justification. Quine notes that the sources of naturalism, thus understood, are two, and both negative: despair at the failure of attempts to define theoretical terms of science in terms of phenomena, with the resulting surrender of empirical meaning to semantic holism, and secondly, an unregenerate realism, the robust state of mind of the natural scientist who has never felt any qualms beyond the negotiable uncertainties internal to science."
+      ],
+      "zh": [
+        "言下之意，第一哲学把自然科学置于“超科学的方法”之下，置于非经验的辩护约束之下。蒯因指出，如此理解的自然主义有两个来源，而且都是消极的：其一，是用现象来定义科学理论术语的尝试失败了，人们对这种尝试丧失了信心，遂用语义整体论来理解经验意义；其二，是一种不知悔改的实在论，即自然科学家那种强健的心态——除了科学内部那些可以协商的不确定性之外，他从未感到过任何疑虑。"
+      ],
+      "units": 83
+    },
+    {
+      "id": "ch16-u008",
+      "source_ids": [
+        "ch16-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "According to Quinean naturalism, “the scientific epistemologist” has become a deckhand on Neurath’s leaky skiff, adrift in a turbulent sea of incoming sensory stimulation, with only the rough planks hewn by “naturalized epistemology” – empirical psychology, the neurology of perception and of language learning, evolutionary theory, and so on – to keep afloat the ever-shifting cargo of contemporary scientific theory."
+      ],
+      "zh": [
+        "按照蒯因式的自然主义，“科学认识论者”已经成了纽拉特那条漏水小船上的一名水手，在涌入的感觉刺激汇成的汹涌大海中漂流，只能靠“自然化认识论”——经验心理学、知觉与语言学习的神经学、进化论等等——砍削出的粗糙木板，来托住当代科学理论那不断变动的货物，使其不致沉没。"
+      ],
+      "units": 58
+    },
+    {
+      "id": "ch16-u009",
+      "source_ids": [
+        "ch16-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Although few “scientific epistemologists” – if that term accurately describes philosophers of physics – have followed the letter of Quine’s commandment to seek illumination of their perceived problems in the details of cognitive psychology and evolutionary biology, the wider Quinean conception of naturalism has global currency within philosophy of science. To be sure, some have puzzled that Quine should trouble to belabor what had been obvious since the time of Galileo and Newton, that science must not be yoked to an Aristotelian or Cartesian Prima Philosophia. Such objections miss the intended target of Quine’s remarks. Penelope Maddy, in a recent paper enthusiastically endorsing Quinean naturalism, explicitly brings this out, by quoting the master himself."
+      ],
+      "zh": [
+        "尽管几乎没有哪个“科学认识论者”——如果这个词确实能用来描述物理学哲学家的话——按照蒯因诫命的字面要求，到认知心理学和进化生物学的细节中去寻求对其所关注问题的阐明，但更宽泛的蒯因式自然主义观念在科学哲学内部却广为接受。诚然，有人感到困惑：自伽利略和牛顿的时代以来就已显而易见的事情——科学不应被套上亚里士多德式或笛卡尔式第一哲学（Prima Philosophia）的轭具——蒯因何必还要费力重申。这类异议没有击中蒯因言论的本来目标。佩内洛普·麦迪在最近一篇热情赞同蒯因式自然主义的论文中，通过引用大师本人的话，明确地揭示了这一点。"
+      ],
+      "units": 112
+    },
+    {
+      "id": "ch16-u012",
+      "source_ids": [
+        "ch16-u012"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "For the naturalist, there is no higher perspective, where transcendental or other extra-scientific considerations hold sway. The naturalist operates “from the point of view of our own science, which is the only point of view I can offer”.",
+        {
+          "type": "note",
+          "id": "ch16-n02",
+          "label": "2"
+        }
+      ],
+      "zh": [
+        "对自然主义者来说，没有一种可由先验的或其他科学之外的考量来主导的更高视角。自然主义者“从我们自己的科学的立场出发，这是我能提供的唯一观点”。",
+        {
+          "type": "note",
+          "id": "ch16-n02",
+          "label": "2"
+        }
+      ],
+      "type": "quote",
+      "units": 38
+    },
+    {
+      "id": "ch16-u010",
+      "source_ids": [
+        "ch16-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Lest we forget, the non-existent “higher perspective where transcendental or other extra-scientific considerations hold sway” includes the remnants of a “relativized a priori” retained in the logical empiricists’ recognition of non-empirical (“conventional”) elements in scientific theories, in the analytic/synthetic distinction, and in particular in Carnap’s conception of linguistic frameworks as a presupposition of inquiry. In any case, while naturalism would remain a subject of live debate within epistemological discussions per se, principally regarding the nature and sources of normativity, naturalism in Quine’s broader sense, constraining philosophical reflections on science to lie within “the point of view of our own science”, has for a generation been the implicit ideology in much of contemporary philosophy of science and in philosophy of physics."
+      ],
+      "zh": [
+        "唯恐我们忘记：那个并不存在的“先验的或其他超科学的考虑在其中占据支配地位的更高视角”，还包括逻辑经验论者对科学理论中非经验（“约定”）要素的承认、分析/综合区分中所保留的“相对化先天”的残余，尤其是卡尔纳普把语言框架视为探究之预设的构想中所保留的残余。无论如何，虽然自然主义在认识论讨论本身之内——主要围绕规范性的本性与来源——仍然有争论，但蒯因更宽泛意义上的自然主义，即把对科学的哲学反思约束在“我们自己的科学的观点”之内，整整一代人以来一直是当代科学哲学和物理学哲学中大部分工作的隐含意识形态。"
+      ],
+      "units": 121
+    },
+    {
+      "id": "ch16-u011",
+      "source_ids": [
+        "ch16-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "There are, of course, exceptions, of which the program formulated in Michael Friedman’s Dynamics of Reason (2001) is among the most articulated and influential. There, as against Quinean holism and Kuhnian relativism, it is argued that the cumulative and rational character of revolutionary change in mechanics and gravitational theory is grounded in a continuous succession of meta-empirical a priori principles, “relativized” to particular theories. On the other hand, except by implication, within the frame of the Dynamics of Reason an explicit alternative is not posed to scientific realism, itself the inevitable outgrowth of the “unregenerate realism” of natural science that is, for Quine, one of two primary sources of naturalism."
+      ],
+      "zh": [
+        "当然也有例外，其中迈克尔·弗里德曼在《理性的动力学》（2001）中提出的纲领，是表述最充分、影响最大的纲领之一。在那里，与蒯因式整体论和库恩式相对主义相对立，他论证说，力学与引力理论中革命性变革的累积性和合理性，植根于一个连续的超经验先天原理序列，这些原理“相对化”于特定的理论。另一方面，除了隐含的意味之外，《理性的动力学》的框架内并没有对科学实在论提出明确的替代方案；而科学实在论本身，正是自然科学那种“不知悔改的实在论”的必然产物——对蒯因来说，那是自然主义的两个主要来源之一。"
+      ],
+      "units": 110
+    },
+    {
+      "id": "ch16-u013",
+      "source_ids": [
+        "ch16-u013"
+      ],
+      "page": "281",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Merely the briefest perusal of the current literature (at least in English) on scientific realism, both proand con-, returns the verdict of naturalism’s domination. This is readily apparent in the scientific realisms of Richard Boyd and Richard Miller, of Wesley Salmon and of Philip Kitcher, in the so-called “structural realism” of Tian Yu Cao, as well as in the mathematical realism of Penelope Maddy. On the other side of the coin, the principal alternatives to scientific realism similarly presuppose naturalism: van Fraassen’s constructive empiricism, Laudan’s “normative naturalism”, Hilary Putnam’s pragmatism, and Arthur Fine’s “natural ontological attitude” (1984). Even the radical fringe of challenges to scientific realism posed by sociology of science, and by “science studies” are, in the main, motivated from within the naturalistic world view of the primacy of human practice and institutions, of social constraints and political biases. In contrast, non-naturalistic alternatives to scientific realism, such as Duhem’s instrumentalism, have all but disappeared from the scene. Within philosophy of physics, the dominance of naturalism appears perhaps even more monolithic. Following Abner Shimony’s lead in regarding the work of Bell, coupled with earlier work of Gleason, of Kochen and Specker and others, as comprising “near decisive results in experimental metaphysics”, that is, as bringing out the explicit metaphysical content of quantum mechanics, mainstream philosophy of physics (again, at least in English) now comfortably speaks of the interrelatedness of physics and metaphysics in unveiling the ultimate nature of reality.",
+        {
+          "type": "note",
+          "id": "ch16-n03",
+          "label": "3"
+        }
+      ],
+      "zh": [
+        "只要对当前（至少是英语界的）科学实在论文献——无论是支持还是反对的——作最粗略的浏览，就会得出自然主义占据支配地位的判词。这一点在理查德·博伊德和理查德·米勒、韦斯利·萨尔蒙和菲利普·基切尔的科学实在论中，在曹天予所谓的“结构实在论”中，以及在佩内洛普·麦迪的数学实在论中，都显而易见。同样值得注意的是，科学实在论的主要替代方案同样预设了自然主义：范·弗拉森的建构性经验论、劳丹的“规范自然主义”、希拉里·普特南的实用主义，以及阿瑟·法恩的“自然本体论态度”（1984）。甚至科学社会学和“科学研究”对科学实在论提出的那些激进边缘挑战，主要也是从人类实践与制度、社会约束与政治偏见的优先性这一自然主义世界观内部获得动机的。相比之下，非自然主义的科学实在论替代方案，例如迪昂的工具主义，则几乎已从舞台上消失。在物理学哲学内部，自然主义的支配地位显得也许更加铁板一块。追随阿伯纳·希莫尼的引领，把贝尔的工作连同格里森、科亨与斯佩克等人早先的工作，看作构成了“实验形而上学中近乎决定性的结果”，也就是揭示出量子力学的明确形而上学内容，主流物理学哲学（同样，至少是英语界的）如今已经从容地谈论物理学与形而上学在揭示实在的终极本性方面的相互关联。",
+        {
+          "type": "note",
+          "id": "ch16-n03",
+          "label": "3"
+        }
+      ],
+      "units": 239
+    },
+    {
+      "id": "ch16-u014",
+      "source_ids": [
+        "ch16-u014"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In my view, the reasons for the hegemony of naturalism in philosophy of science and philosophy of physics have but little to do with Quine (who at any rate is little read by philosophers of physics) nor with any triumph of naturalism in the arena of debate (which has not occurred) but with historical, and contingent factors that have obscured the existence of any illuminating non-naturalistic alternative. The principal factor responsible for this occlusion is the pervasive and perduring myth that the general theory of relativity comprised an experimentum crucis disconfirming not merely Kant’s Transcendental Aesthetic but all varieties of transcendental philosophy. Moritz Schlick, the éminence gris of logical empiricism, first fashioned this fiction in the early 1920s. Here is Schlick addressing the German Society of Natural Scientists in 1922, the same year he took over Ernst Mach’s old chair in the Philosophy of the Inductive Sciences in Vienna."
+      ],
+      "zh": [
+        "在我看来，自然主义在科学哲学和物理学哲学中取得霸权的原因，与蒯因关系甚小（无论如何，物理学哲学家很少读他），也与自然主义在论辩舞台上的任何胜利无关（这种胜利并未发生），而是与一些历史性的、偶然的因素有关，这些因素遮蔽了任何有启发力的非自然主义替代方案的存在。造成这种遮蔽的主要因素，是一个普遍而持久的神话：广义相对论构成了一个判决性实验（experimentum crucis），不仅否证了康德的先验感性论，而且否证了一切种类的先验哲学。逻辑经验论的幕后权威人物莫里茨·石里克，在 1920 年代初最先编织了这个虚构。下面是石里克 1922 年对德国自然科学家协会的讲话，就在同一年，他接过了恩斯特·马赫在维也纳的归纳科学哲学旧教席。"
+      ],
+      "units": 149
+    },
+    {
+      "id": "ch16-u016",
+      "source_ids": [
+        "ch16-u016"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Now along comes the general theory of relativity, which finds itself obliged to use non-Euclidean geometry in order to describe the (physical) world. Through Einstein, therefore, what Riemann and Helmholtz claimed as a possibility has now become a reality, the Kantian position is untenable, and empiricist philosophy has gained one of its most brilliant triumphs.",
+        {
+          "type": "note",
+          "id": "ch16-n04",
+          "label": "4"
+        }
+      ],
+      "zh": [
+        "如今广义相对论登场了，它发现自己不得不使用非欧几里得几何来描述（物理）世界。因此，通过爱因斯坦，黎曼和亥姆霍兹宣称为可能的事情如今变成了现实，康德立场站不住脚了，经验论哲学赢得了它最辉煌的胜利之一。",
+        {
+          "type": "note",
+          "id": "ch16-n04",
+          "label": "4"
+        }
+      ],
+      "type": "quote",
+      "units": 55
+    },
+    {
+      "id": "ch16-u015",
+      "source_ids": [
+        "ch16-u015"
+      ],
+      "page": "282",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Today, long after logical empiricism’s demise, it is widely assumed that relativity theory had shown the untenability of any “philosophy of the synthetic a priori”, a belief that still finds its way into the curriculum of philosophical instruction. But however rhetorically useful to logical empiricism’s promoted public image, Schlick’s claim that general relativity sounded the death knell of “the Kantian position” can be maintained only if one ignores, as Schlick knowingly and willfully did, not only neo-Kantian refinements of Kant’s thought, but as well several of the most significant developments within general relativity in its first 10 years, i.e., from 1915–1925. Regarding the former, one need only mention the names of Ernst Cassirer and Edmund Husserl, regarding the latter, those of David Hilbert, Hermann Weyl, and Arthur Eddington.",
+        {
+          "type": "note",
+          "id": "ch16-n05",
+          "label": "5"
+        },
+        " While much more about Husserl and Weyl will be said in what follows, I simply cite here but one opinion countering Schlick’s assessment, that of Nobel prize winner and fellow Planck student Max von Laue, from his textbook on general relativity, first published in 1921."
+      ],
+      "zh": [
+        "今天，在逻辑经验论消亡很久之后，人们仍然普遍假定，相对论已经表明任何“关于先天综合的哲学”都是站不住脚的，这一信念甚至仍然进入了哲学教学的课程。但是，无论对逻辑经验论所推销的公众形象来说在修辞上多么有用，石里克所谓广义相对论敲响了“康德立场”丧钟的断言，只有在一个条件下才能维持：像石里克那样有意为之，不仅忽略新康德主义对康德思想的精细化，而且忽略广义相对论最初十年（即 1915–1925 年）内若干最重大的发展。关于前者，只需提到恩斯特·卡西尔和埃德蒙德·胡塞尔的名字；关于后者，只需提到大卫·希尔伯特、赫尔曼·魏尔和阿瑟·爱丁顿的名字。",
+        {
+          "type": "note",
+          "id": "ch16-n05",
+          "label": "5"
+        },
+        " 关于胡塞尔和魏尔，下文还会有很多论述，这里我只引用一种与石里克的评估相反的意见，即诺贝尔奖得主、与石里克同为普朗克学生的马克斯·冯·劳厄的意见，出自他 1921 年首版的广义相对论教科书。"
+      ],
+      "units": 175
+    },
+    {
+      "id": "ch16-u020",
+      "source_ids": [
+        "ch16-u020"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "It is, frankly, an identifying characteristic (Kennzeichen) for a correct epistemology, that it remains invariant against all transformations that the physical world picture experiences in the course of time. We would not conceal our conviction that Kant’s critical idealism (although not every sentence of the “Critique of Pure Reason”) satisfies this requirement even against the general theory of relativity.",
+        {
+          "type": "note",
+          "id": "ch16-n06",
+          "label": "6"
+        }
+      ],
+      "zh": [
+        "坦率地说，一种正确的认识论的标识特征（Kennzeichen）就在于：无论物理学的世界图景如何随时代而变，它始终保持不变。我们不想隐瞒我们的信念：康德的批判观念论（尽管不是《纯粹理性批判》的每一句话）即使面对广义相对论也满足这一要求。",
+        {
+          "type": "note",
+          "id": "ch16-n06",
+          "label": "6"
+        }
+      ],
+      "type": "quote",
+      "units": 59
+    },
+    {
+      "id": "ch16-u017",
+      "source_ids": [
+        "ch16-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Von Laue was both a close personal friend and Berlin colleague of Einstein; his book was the first actual textbook on general relativity, reprinted as recently as 1982. (Neither Weyl’s Raum-Zeit-Materie of 1918, nor Pauli’s Relativitätstheorie of 1921, are books from which general relativity could be readily learnt or taught.)"
+      ],
+      "zh": [
+        "冯·劳厄既是爱因斯坦的密友，也是他在柏林的同事；他的书是第一部真正意义上的广义相对论教科书，直到 1982 年还在重印。（无论是魏尔 1918 年的《空间–时间–物质》，还是泡利 1921 年的《相对论》，都不是可以轻易从中学习或讲授广义相对论的书。）"
+      ],
+      "units": 50
+    },
+    {
+      "id": "ch16-u018",
+      "source_ids": [
+        "ch16-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Like most myths, Schlick’s broad assertion is false, about as completely false as any philosophical claim can be. But why was it so successful? Here I can only point to the fickleness of philosophical fashion, and to the fact that the fundamental contributions to general relativity of Hilbert, Weyl, Eddington, and von Laue were mainly buried in technical works that had little resonance in philosophical circles. In the period in question, only one of them, Hermann Weyl, wrote anything like a comprehensive philosophical work, but Weyl’s book, The Philosophy of Mathematics and Natural Science (1926), though difficult, is without parallel in its genre. As it did not appear in English until 1949, during the rise and consolidation of logical empiricism it was known only to those able to read German. In short, the logical empiricist myth has endured because it was not publicly challenged in the forum of philosophical debate, primarily because those with the expertise to speak with authority on general relativity were, by and large, not philosophers, and their philosophical views are intricately tied up with mathematics that in the 1920s was not widely known or even taught. On the other hand, Cassirer, still widely regarded within analytic philosophy as merely a historian of philosophy, did not attract a noticeable following in philosophy of science. As for Husserl, well, wasn’t he followed by Heidegger?"
+      ],
+      "zh": [
+        "像大多数神话一样，石里克的宽泛断言是假的，其虚假程度几乎达到了任何哲学断言所能达到的极致。但它为什么如此成功？这里我只能指出哲学时尚的反复无常，以及这样一个事实：希尔伯特、魏尔、爱丁顿和冯·劳厄对广义相对论的根本贡献，主要埋没在技术性著作中，这些著作在哲学圈子里几乎没有引起共鸣。在所讨论的时期，他们当中只有一个人——赫尔曼·魏尔——写过任何类似综合性哲学著作的东西，但魏尔的书《数学与自然科学的哲学》（1926）虽然难读，在其体裁中却是无与伦比的。由于它直到 1949 年才出英文版，在逻辑经验论兴起和巩固的时期，只有能读德文的人才知道它。简言之，逻辑经验论的神话之所以延续下来，是因为它没有在哲学论辩的论坛上受到公开挑战，而这主要是因为那些有资格就广义相对论发表权威意见的人大体上不是哲学家，而他们的哲学观点又与 1920 年代尚不为人熟知、甚至尚未进入教学的数学错综复杂地纠缠在一起。另一方面，卡西尔在分析哲学内部仍然普遍只被视为一位哲学史家，没有在科学哲学中吸引到明显的追随者。至于胡塞尔嘛，唉，接他的班的不就是海德格尔吗？"
+      ],
+      "units": 226
+    },
+    {
+      "id": "ch16-u019",
+      "source_ids": [
+        "ch16-u019"
+      ],
+      "page": "283–284",
+      "canonical_kind": "paragraph",
+      "en": [
+        "On account of these historical contingencies, the non-existence of a credible non-naturalistic alternative to scientific realism or to any of the permitted alternatives within the hegemony of naturalism of contemporary philosophy of science and philosophy of physics, is simply an article of faith. As I have suggested, however, such a transcendental idealist alternative exists, at least programmatically, though it is has long remained nearly completely invisible. One key component lay in Cassirer’s (1921) genetic account of general relativity as the latest stage within a historically progressing sequence of mathematical structures constituting “physical objectivity”, a development that has led to the imposition of the requirement of general covariance governing the “constitution” of objects of fundamental physical theory. But here I want to outline a second, and equally crucial, line of approach of a revitalized transcendental idealism, already followed by Husserl in 1910 in opposition to the philosophical naturalism of his day, in the paper “Philosophy as a Rigorous Science” and subsequently in many other writings. If we are to envisage transcendental idealism as a promising alternative to the stalemate over scientific realism, that controversy has to be viewed from a quite unaccustomed standpoint where the salient issue is posed by the transcendental question: How is mathematical natural science possible? In Husserl’s re-phrasing, this is to ask: How are we to understand “the posit of reality” made in mathematical natural science? What can mathematical natural science mean? This is to inquire as to the possible sense and meaning of scientific assertions regarding a nature abstractly conceived as without any relation to consciousness, i.e., as mind-independent. The crucial step, of course, lies in the infamous “phenomenological reduction” that “suspends” or “places out of action” the existential force of the assertions of our best scientific theories. Thus, it is necessary to leave the natural attitude of everyday life and the practice of science where realist assertions do have their ordinary, unquestioned and perfectly acceptable meanings.",
+        {
+          "type": "note",
+          "id": "ch16-n07",
+          "label": "7"
+        },
+        " Having done this, the sense and justification of the “posits of reality” made within the special sciences is then to be disclosed by a decidedly non-naturalistic intentional-analytic investigation, whose aim is to show that the posited ideal objects of theories of mathematical natural science are constituted in acts of sense bestowal. In short, for Husserl, the only legitimate source of meaning of any object of cognition, i.e., any object of an asserted proposition, also in mathematics and physics, is experience, broadly construed as what is actually or potentially present to consciousness, and in particular, within the immediate experience that is directly given in intentional acts of consciousness. As pertains to cognition of nature, this postulate means that mathematically characterized entities of physical theory are, according to their sense, never objects with which “consciousness has nothing to do”; to consider them such is not only misleading but countersense (Widersinn) – an absurdity. Accordingly, the aim of transcendental phenomenological inquiry, as pertains to the claims of theoretical natural science, is to exhibit the sense of the objective world of physics as that of “being for a consciousness”, i.e., a world constituted from what is “given to consciousness”. Here is the program in compressed and schematic outline."
+      ],
+      "zh": [
+        "由于这些历史偶然性，在当代科学哲学和物理学哲学的自然主义霸权之内，不存在任何可信的非自然主义替代方案——无论是替代科学实在论，还是替代霸权所允许的任何其他方案——这种看法已成了信条。然而，正如我所提示的，这样一种先验观念论的替代方案是存在的，至少作为纲领而存在，尽管它长期以来几乎完全不可见。一个关键组成部分在于卡西尔（1921）对广义相对论的发生学说明：他把广义相对论看作构成“物理客观性”的数学结构的历史进步序列中的最新阶段，这一发展导致把广义协变性要求施加于基础物理理论对象的“构成”之上。但在这里，我想勾勒复兴的先验观念论的第二条、同样至关重要的进路；胡塞尔早在 1910 年反对他那个时代的哲学自然主义时，就已经在《哲学作为严格的科学》这篇论文以及随后的许多著作中采取了这条进路。如果我们要把先验观念论设想为科学实在论僵局的一个有希望的替代方案，就必须从一个相当不习惯的立场来看待那场争论，在那里，核心问题由先验问题提出：数学的自然科学如何可能？用胡塞尔的改述来说，这就是问：我们应当如何理解数学的自然科学中所作的“实在设定”？数学化的自然科学能够具有什么意义？这是要探究关于一个被抽象地设想为与意识没有任何关系、即独立于心灵的自然的那些科学断言的可能意义与含义。当然，关键的一步在于那个声名狼藉的“现象学还原”，它“悬置”或“停止使用”我们最好的科学理论之断言的实存效力。因此，必须离开日常生活和科学实践的自然态度，在自然态度中，实在论断言确实具有其日常的、不受质疑的、完全可接受的意义。",
+        {
+          "type": "note",
+          "id": "ch16-n07",
+          "label": "7"
+        },
+        " 做到这一点之后，各门具体科学内部所作“实在设定”的意义与辩护，就要由一种断然非自然主义的意向分析探究来揭示，其目标是表明：数学自然科学理论所设定的理想对象，是在赋予意义的意向活动中构成的。简言之，对胡塞尔来说，任何认识对象——即任何被断言命题的对象，也包括数学和物理学中的对象——的唯一合法意义来源是经验，广义地理解为现实地或潜在地向意识呈现的东西，尤其是由意识的意向活动直接给予的经验。就自然的认识而言，这一公设意味着：物理理论的数学化实体按其意义来说，绝不是“与意识毫不相干”的对象；把它们看作这样的对象，不仅是误导，而且是悖谬（Widersinn）——一种荒谬。因此，先验现象学探究就理论自然科学的主张而言，其目标是把物理学的客观世界的意义展示为“为一个意识而存在”的意义，即一个从“给予意识”的东西构成的世界。下面是这一纲领的压缩而纲要式的轮廓。"
+      ],
+      "units": 527
+    },
+    {
+      "id": "ch16-u025",
+      "source_ids": [
+        "ch16-u025"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The actual world (wirkliche Welt), (that is) each of its components, and all their determinations, is, and can only be, given as intentional objects of conscious acts. Conscious experiences that I have are absolutely given – just as I have them …. The immanent is absolute, that is, it is exactly what it is as I have it and can eventually bring its essence (Wesen) to givenness (Gegebenheit) before me in acts of reflection. … The given to consciousness (Bewußtseins-Gegebene) is the starting point in which we must place ourselves in order to comprehend the sense and the justification of the posit of reality (Wirklichkeitsetzung). … ‘Pure consciousness’ is the seat of the philosophical a priori."
+      ],
+      "zh": [
+        "现实世界（wirkliche Welt），即它的每个组成部分及其一切规定，都是、而且只能作为意识行为的意向对象而被给予。我的意识体验绝对地被给予，完全如我所体验到的那样……。内在者是绝对的。也就是说，它如我所体验到的那样就是它本身，我最终能够在反思活动中让它的本质（Wesen）在我面前得到给予（Gegebenheit）。……意识所予者（Bewußtseins-Gegebene）是我们必须立足的出发点，以便理解实在设定（Wirklichkeitsetzung）的意义与辩护。……“纯粹意识”是哲学先天的所在。"
+      ],
+      "type": "quote",
+      "units": 112
+    },
+    {
+      "id": "ch16-u021",
+      "source_ids": [
+        "ch16-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It usually comes as a surprise to learn that this avowal of transcendental phenomenological method is not by Husserl, but by the mathematician Hermann Weyl, from the “Introduction” to his classic book on general relativity, Raum-Zeit-Materie, first published in Weyl (1918b), and then again in quickly successive editions, culminating in the fifth edition of 1923. Unbeknownst to nearly all contemporary philosophers, relativity physicists, and even historians of science, Weyl actually carried out a rich and detailed development of Husserl’s schematic answer to the problem of naturalism and scientific realism in his writings on general relativity in the period 1918–1923."
+      ],
+      "zh": [
+        "人们通常会惊讶地得知，这一先验现象学方法的宣言不是出自胡塞尔，而是出自数学家赫尔曼·魏尔，出自他那部广义相对论经典著作《空间–时间–物质》的“导言”；该书 1918 年首版（Weyl, 1918b），随后迅速接连再版，至 1923 年的第五版达到顶峰。当代的哲学家、相对论物理学家甚至科学史家，很少有人知道，魏尔实际上在 1918–1923 年间关于广义相对论的著述中，对胡塞尔就自然主义与科学实在论问题给出的纲要式回答，作了丰富而细致的展开。"
+      ],
+      "units": 100
+    },
+    {
+      "id": "ch16-u022",
+      "source_ids": [
+        "ch16-u022"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 First Philosophy (Husserl)"
+      ],
+      "zh": [
+        "2 第一哲学（胡塞尔）"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch16-u023",
+      "source_ids": [
+        "ch16-u023"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To set the stage for Weyl’s achievement, let us first recall the fundamental thesis of transcendental phenomenological idealism, as stated at the end of § 49 of Husserl’s Ideen I (1913)."
+      ],
+      "zh": [
+        "为了说明魏尔的工作为何重要，让我们首先回顾先验现象学观念论的基本论题，即胡塞尔《观念 I》（1913）第 49 节末尾所陈述的论题。"
+      ],
+      "units": 30
+    },
+    {
+      "id": "ch16-u109",
+      "source_ids": [
+        "ch16-u109"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The whole spatiotemporal world, which includes man himself and the human Ego as subordinate single realities is, according to its sense, a merely intentional being, thus one having the merely secondary, relative sense of a being for a consciousness. It is a being consciousness in its experience posits that, in principle, is only determined and intuited as something identical by motivated manifolds of phenomena: beyond that it is nothing."
+      ],
+      "zh": [
+        "整个时空世界，包括人本身以及作为从属个别实在的人类自我，按其意义来说，都是一种纯然意向的存在，因而只具有次要的、相对的意义，即为一个意识而存在的意义。它是意识在其经验中所设定的一种存在，原则上只有经由彼此具有动机关联的诸显象，才会被规定和直观为某个同一的东西：除此之外，它什么也不是。"
+      ],
+      "type": "quote",
+      "units": 69
+    },
+    {
+      "id": "ch16-u024",
+      "source_ids": [
+        "ch16-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "According to Husserl, the sense of the “objectifying” formalisms of theoretical physics, as indeed of logic and pure mathematics, are only to be understood as constituted within transcendental subjectivity, the domain of pure consciousness, with its intentional analytic structure. To show this is to come to a rigorous or presuppositionless knowledge of the world, the kind of knowledge that is attained only in philosophical, and in particular, in phenomenological reflection. A representative statement of that task is given in Husserl’s last work, The Crisis of the European Sciences and Transcendental Phenomenology."
+      ],
+      "zh": [
+        "按照胡塞尔的看法，理论物理学的“客体化”形式体系——实际上还有逻辑和纯粹数学的形式体系——的意义，只有被理解为在先验主体性、即纯粹意识及其意向分析结构的领域中被构成，才能得到理解。展示这一点，就是达到对世界的一种严格的或无预设的知识，这种知识只有在哲学反思、尤其是现象学反思中才能获得。胡塞尔最后一部著作《欧洲科学的危机与先验现象学》给出了这一任务的一个代表性陈述。"
+      ],
+      "units": 91
+    },
+    {
+      "id": "ch16-u031",
+      "source_ids": [
+        "ch16-u031"
+      ],
+      "page": "285",
+      "canonical_kind": "quote",
+      "en": [
+        "Knowing the world in a seriously scientific way, “philosophically,” can have meaning and be possible only if a method can be devised of constructing, systematically and in a sense in advance, the world, the infinitude of causalities, starting from the meager supply of what can be established only relatively in direct experience, and of compellingly verifying this construction in spite of the infinitude [of experience]. How is this thinkable?",
+        {
+          "type": "note",
+          "id": "ch16-n08",
+          "label": "8"
+        }
+      ],
+      "zh": [
+        "以真正科学的方式、“哲学地”认识世界，只有当能够设计出一种方法，从限于直接经验、只能相对确立的少量材料出发，系统地并且在某种意义上先行地构造世界、构造因果性的无限性，并且即便经验无限，仍能确证这一构造时，才可能有意义、才可能实现。这如何可以设想？",
+        {
+          "type": "note",
+          "id": "ch16-n08",
+          "label": "8"
+        }
+      ],
+      "type": "quote",
+      "units": 69
+    },
+    {
+      "id": "ch16-u026",
+      "source_ids": [
+        "ch16-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Husserl’s answer in the Crisis to the latter question is that an “archaeological method” is required, an inquiry directed to uncovering in the accreted layers of formalism in the exact sciences of mathematics and physics, the successive “sedimentations” internally and autonomously generated by algebraic and other formal techniques, primitive symbols whose meanings are ultimately found in what has been directly “given to consciousness”."
+      ],
+      "zh": [
+        "胡塞尔在《危机》中对后一个问题的回答是：需要一种“考古学方法”，一种旨在穿透数学与物理学精确科学中层层堆积的形式主义、发掘由代数及其他形式技术内部自主生成的历次“沉积”的探究；追溯到更原初的符号，其意义最终要在直接“给予意识”的东西中找到。"
+      ],
+      "units": 63
+    },
+    {
+      "id": "ch16-u027",
+      "source_ids": [
+        "ch16-u027"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Is this not to ask the impossible? Obviously, no archaeological excavation can reach to the experience of any particular cognizing subject, let alone to the level of “transcendental solipsism”, the domain of truths that hold exclusively “for me” the residual ego remaining on carrying out the “transcendental-phenomenological reduction” with its universal suspension regarding all worldly affairs that are given beforehand."
+      ],
+      "zh": [
+        "这难道不是在要求不可能之事吗？显然，任何考古学发掘都无法触及任何特定认识主体的经验，更无法触及“先验唯我论”的层面——即在执行“先验–现象学还原”、对一切预先给予的世间事务实行普遍悬置之后，剩余的自我所独享的、仅“对我”有效的真理领域。"
+      ],
+      "units": 60
+    },
+    {
+      "id": "ch16-u028",
+      "source_ids": [
+        "ch16-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But it need not do so. For"
+      ],
+      "zh": [
+        "但它不必如此。因为"
+      ],
+      "units": 7
+    },
+    {
+      "id": "ch16-u116",
+      "source_ids": [
+        "ch16-u116"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "any straightforwardly (geradehin) constituted objectivity… in its essential manner (Wesensart) points back … to a correlative essential form of the manifold actual and possible … intentionality …, which is constitutive for that objectivity. … In the same fashion, the modes of consciousness that can make one aware of some ideal objectivity or other, and can become united as a synthetic consciousness of it, have a definite style, essential to this sort of objectivity.",
+        {
+          "type": "note",
+          "id": "ch16-n09",
+          "label": "9"
+        }
+      ],
+      "zh": [
+        "任何直接地（geradehin）被构成的客观性……按其本质方式（Wesensart）都回溯地指向……多样的现实及可能的……意向性的一种与之关联的本质形式……，这种意向性构成了该客观性。……同样，那些能够使人意识到某个理想客观性、并能作为关于它的综合意识而统一起来的意识样式，具有一种确定的风格，这种风格对这类客观性而言是本质的。",
+        {
+          "type": "note",
+          "id": "ch16-n09",
+          "label": "9"
+        }
+      ],
+      "type": "quote",
+      "units": 69
+    },
+    {
+      "id": "ch16-u029",
+      "source_ids": [
+        "ch16-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In so many words, archeological method can reach the intentional accomplishments underlying the ideal objectivities of logic and mathematics precisely because these objectivities are founded in the ideal or absolute being of eidetic necessity and independence from all factual contingencies that only “pure consciousness” can confer. The lawfully structured conditions of possible human cognition arise within this ideal being through the directed essential analysis of intending acts and their ideal objects. Among the most primitive of these would be the guiding idea of finitism, of the intuitability of finite sequences of symbols and the iterability of basic operations on them. Another would be, as we shall see, the directly evidenced relation of congruence (involving the superposition of figures) and of immediate comparison, involving direct discrimination of two immediately adjacent simple figures, including, in particular, directed magnitudes, or vectors. The evidence for each of these relations is immediately given to me, but is nothing particular to me. For this reason, these relations can be regarded as immediately but essentially perceived by a transcendental subject."
+      ],
+      "zh": [
+        "换句话说，考古学方法之所以能够触及支撑逻辑与数学的理想客观性的意向成就，恰恰是因为这些客观性奠基于本质必然性的理想存在或绝对存在之中，奠基于对一切实事偶然性的独立性之中，而这种必然性与独立性只有“纯粹意识”才能赋予。人类认识之所以可能的条件具有合规律的结构，这些条件，通过对意向行为及其理想对象的有方向的本质分析，在这一理想存在之内产生。其中最原始的，是有限主义的指导观念，即有限符号序列的可直观性以及作用于这些序列的基本运算的可迭代性。另一个是我们将看到的全等关系（涉及图形的叠合）与直接比较关系的直接明证性；直接比较涉及对两个直接相邻的简单图形的直接辨别，尤其包括有向量、即矢量。这些关系各自的明证性都直接给予我，但并非任何为我所独有的东西。因此，这些关系可以被看作由一个先验主体直接地、但本质地知觉到的。"
+      ],
+      "units": 173
+    },
+    {
+      "id": "ch16-u030",
+      "source_ids": [
+        "ch16-u030"
+      ],
+      "page": "286",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As is well known, in the Crisis, Husserl himself sought to disclose the “origin of geometry” in just this way. What is largely unknown is that Weyl himself, already in the period 1918–1923, constructed such an archaeological understanding of the “sense and the justification of the posit of reality” made within Einstein’s theory of general relativity – a theory dating only from late 1915 – by recasting that theory within the new framework of a “purely infinitesimal geometry”. This is a geometry whose objects are built up from a basis of primitive operations directly and immediately evident within a phenomenological intuition localized to the here-and-now. Expressly carrying out this construction, Weyl’s epistemological aim was to showcase how the physical world of general relativity, the framework for the tensor fields of gravitation and of electromagnetism, could be built up from a basis that is “given to consciousness”. In this way, these formalisms acquire their objectifying sense as pertaining to physical objects, from the “given to consciousness”, from what is ultimately immediately given in phenomenological intuition. Weyl would demonstrate that these objects, conceived, and rightly conceived with the natural attitude of theoretical practice as descriptive of a mind-independent nature, nonetheless have, within phenomenological reflection, the “sense of a merely intentional being”, of a “being for a consciousness”. As we have seen, this is precisely what Weyl himself stated in the “Introduction” to Raum-Zeit-Materie (1918). Moreover, as Weyl will show, phenomenological reflection upon the primitive operations underlying the fundamental geometric object of Einstein’s theory, the metric tensor, reveals that it retains an unnecessary residue contrary to field theory’s prohibition of “action-at-a-distance”, removal of which adds new degrees of freedom to its initial characterization (it becomes only conformally invariant) and leads to the requirement that the objects of the theory must not only be generally covariant but also “gauge invariant”, i.e., invariant with respect to freedom to locally chose different units of scale (magnitude)."
+      ],
+      "zh": [
+        "众所周知，胡塞尔本人在《危机》中正是试图以这种方式揭示“几何学的起源”。鲜为人知的是，魏尔本人早在 1918–1923 年间，就已经通过把爱因斯坦的广义相对论——一个直到 1915 年末才诞生的理论——重铸于“纯粹无穷小几何”的新框架之内，对该理论内部所作的“实在设定的意义与辩护”构造了这样一种考古学的理解。这是一种这样的几何：它的对象从一组原始运算的基础上建造起来，这些运算在定位于此时此地的现象学直观中是直接而即时明证的。魏尔明确地执行这一构造，其认识论目标是要展示：广义相对论的物理世界——引力和电磁作用的张量场的框架——如何能够从“给予意识”的基础上建造起来。通过这种方式，这些形式体系从“给予意识”、从最终在现象学直观中直接给予的东西那里，获得了其作为关于物理对象的客体化意义。魏尔将表明，这些对象在理论实践的自然态度中被设想、而且被正当地设想为描述一个独立于心灵的自然的，尽管如此，在现象学反思之内，它们仍具有“纯然意向存在的意义”、“为一个意识而存在的意义”。正如我们已经看到的，这正是魏尔本人在《空间–时间–物质》（1918）“导言”中所陈述的。此外，正如魏尔将展示的，对作为爱因斯坦理论基本几何对象——度规张量——之基础的原始运算所作的现象学反思揭示出：它保留了一个不必要的残余，与场论对“超距作用”的禁令相抵触；去除这一残余，为它最初的刻画增添了新的自由度（它变得仅共形不变），并导致这样的要求：理论的对象不仅必须广义协变，而且必须“规范不变”，即相对于局域地选择不同尺度（量值）单位的自由保持不变。"
+      ],
+      "units": 320
+    },
+    {
+      "id": "ch16-u032",
+      "source_ids": [
+        "ch16-u032"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 First Philosophy (Weyl)"
+      ],
+      "zh": [
+        "3 第一哲学（魏尔）"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch16-u033",
+      "source_ids": [
+        "ch16-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For his geometrical construction, Weyl restricted the homogeneous space of phenomenological intuition, the locus of phenomenological Evidenz, to what is given at, or neighboring, the experiencing ego."
+      ],
+      "zh": [
+        "为了他的几何构造，魏尔把现象学直观的同质空间——现象学明证性（Evidenz）的所在——限制于在进行体验的自我所在之处或其邻近处所给予的东西。"
+      ],
+      "units": 27
+    },
+    {
+      "id": "ch16-u034",
+      "source_ids": [
+        "ch16-u034"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Only the spatio-temporally coinciding and the immediate spatial-temporal neighborhood have a directly clear meaning exhibited in intuition. […] The philosophers may have been correct that our space of intuition bears a Euclidean structure, regardless of what physical experience says. I only insist … that the ego-center (Ich Zentrum) belongs to this space of intuition, and that the coincidences, the relations of the space of intuition to that of physics, becomes vaguer the further one distances oneself from the ego-center.",
+        {
+          "type": "note",
+          "id": "ch16-n10",
+          "label": "10"
+        }
+      ],
+      "zh": [
+        "只有时空上的重合以及直接的时空邻近，才具有在直观中直接显明的意义。［……］ 哲学家们也许是对的：无论物理经验说什么，我们的直观空间都带有欧几里得结构。我只是坚持……自我中心（Ich Zentrum）属于这个直观空间，并且重合——直观空间与物理空间的关系——随着人们离自我中心越远而变得越模糊。",
+        {
+          "type": "note",
+          "id": "ch16-n10",
+          "label": "10"
+        }
+      ],
+      "type": "quote",
+      "units": 77
+    },
+    {
+      "id": "ch16-u035",
+      "source_ids": [
+        "ch16-u035"
+      ],
+      "page": "287",
+      "canonical_kind": "paragraph",
+      "en": [
+        "By delimiting what Husserl termed “the sharply illuminated circle of perfect givenness”, the domain of “eidetic vision”, to the infinitely small homogeneous space of intuition surrounding the “ego-centre”, Weyl could limit his attention to linear relations, since only these need be considered in passing to the tangent space of a point in a manifold. Linearity, in turn, gave the expectation of “uniform elementary laws”.",
+        {
+          "type": "note",
+          "id": "ch16-n11",
+          "label": "11"
+        },
+        " Thus Weyl initially restricted the concept of a coordinate system to the tangent space centering on each manifold point P, essentially assuming a four-dimensional manifold that is Hausdorff, simply connected, and differentiable. Imposition of this local coordinate system is regarded as the original constitutive act of “a pure, sense-giving ego”. A necessary presupposition of any differential structure, a coordinate system always bears an indelible mark of transcendental subjectivity, it is “the unavoidable residue of the ego’s annihilation in that geometrico-physical world which reason sifts from the given under the norm of ‘objectivity’”.",
+        {
+          "type": "note",
+          "id": "ch16-n12",
+          "label": "12"
+        },
+        " In this, Weyl recognized an intimation of the phenomenological postulate that “existence is only given and can only be given as the intentional content of the conscious experience of a pure, sensegiving ego”.",
+        {
+          "type": "note",
+          "id": "ch16-n13",
+          "label": "13"
+        }
+      ],
+      "zh": [
+        "通过把胡塞尔所称的“完全给予的鲜明范围”——“本质直观”的领域——限定于环绕“自我中心”的无穷小同质直观空间，魏尔得以把注意力限制在线性关系上，因为在过渡到流形中一点的切空间时只需考虑这些关系。线性反过来又带来了“统一的初等法则”的期望。",
+        {
+          "type": "note",
+          "id": "ch16-n11",
+          "label": "11"
+        },
+        " 于是魏尔最初把坐标系概念限制于以每个流形点 P 为中心的切空间，实质上预设了一个豪斯多夫、单连通且可微的四维流形。这种局域坐标系的施加，被视为“一个纯粹的、赋予意义的自我”的原初构成行为。作为任何微分结构的必要预设，坐标系总是带有先验主体性的不可磨灭的印记，它是“自我在那个几何–物理世界中被湮灭后不可避免的残余，而那个世界是理性在‘客观性’规范下从所予中筛滤出来的”。",
+        {
+          "type": "note",
+          "id": "ch16-n12",
+          "label": "12"
+        },
+        " 在其中，魏尔从中看到了该现象学公设的迹象：“定在只有作为纯粹的、赋予意义的自我的意识体验的意向内容才被给予，并且只能如此被给予”。",
+        {
+          "type": "note",
+          "id": "ch16-n13",
+          "label": "13"
+        }
+      ],
+      "units": 189
+    },
+    {
+      "id": "ch16-u036",
+      "source_ids": [
+        "ch16-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The next steps concern the immediately evident “purely infinitesimal” relations of comparison of direction and magnitude that depend on a specific choice of coordinates and unit of scale. The construction of purely infinitesimal geometry is laid out as taking place in three distinct stages of “connection”: topological manifold or “continuous connection” (stetiger Zusammenhang), affine connection, and “metric (or, length) connection”. The construction itself, “in which each step is executed in full naturalness, visualizability and necessity” (in voller Natürlichkeit, Anschaulichkeit, und Notwendigkeit), is “in all essential parts the final result” of the renewed investigation of the mathematical foundations of Riemannian geometry opened up by Levi–Civita’s discovery of the concept of infinitesimal parallel displacement.",
+        {
+          "type": "note",
+          "id": "ch16-n14",
+          "label": "14"
+        },
+        " The physical world is then to be distinguished within this “world geometry” through the univocal choice of a gauge invariant action function ",
+        {
+          "type": "math",
+          "tex": "S(g_{\\mu\\nu},\\varphi_\\mu)",
+          "display": false
+        },
+        ", where ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " is the (only conformally invariant) metric tensor and ",
+        {
+          "type": "math",
+          "tex": "\\varphi_\\mu",
+          "display": false
+        },
+        " is the electromagnetic four potential.",
+        {
+          "type": "note",
+          "id": "ch16-n15",
+          "label": "15"
+        },
+        " However, to Weyl’s dismay, it soon became apparent that, despite the restrictive condition of gauge invariance, a number of such functions could be constructed, choice among them being essentially arbitrary.",
+        {
+          "type": "note",
+          "id": "ch16-n16",
+          "label": "16"
+        }
+      ],
+      "zh": [
+        "接下来的步骤涉及方向与量值的直接明证的“纯粹无穷小”比较关系，这些关系依赖于坐标与尺度单位的特定选择。纯粹无穷小几何的构造被安排为经历三个不同的“联络”阶段：拓扑流形或“连续关联”（stetiger Zusammenhang）、仿射联络、以及“度规（或长度）联络”。这一构造本身——“其中每一步都在完全的自然性、直观性与必然性中执行”（in voller Natürlichkeit, Anschaulichkeit, und Notwendigkeit）——是由列维-齐维塔发现无穷小平行位移概念所开启的、对黎曼几何数学基础的重新探究“在所有要点上所得出的最终结果”。",
+        {
+          "type": "note",
+          "id": "ch16-n14",
+          "label": "14"
+        },
+        " 然后，物理世界要在这门“世界几何”之内，通过唯一地选定一个规范不变的作用量函数 ",
+        {
+          "type": "math",
+          "tex": "S(g_{\\mu\\nu},\\varphi_\\mu)",
+          "display": false
+        },
+        " 来确定，其中 ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " 是（仅共形不变的）度规张量，",
+        {
+          "type": "math",
+          "tex": "\\varphi_\\mu",
+          "display": false
+        },
+        " 是电磁四维势。",
+        {
+          "type": "note",
+          "id": "ch16-n15",
+          "label": "15"
+        },
+        " 然而，令魏尔沮丧的是，很快就清楚看出：尽管有规范不变性这一限制条件，仍能构造出若干个这样的函数，在它们之间的选择本质上是任意的。",
+        {
+          "type": "note",
+          "id": "ch16-n16",
+          "label": "16"
+        }
+      ],
+      "units": 190
+    },
+    {
+      "id": "ch16-u037",
+      "source_ids": [
+        "ch16-u037"
+      ],
+      "page": "288",
+      "canonical_kind": "heading",
+      "en": [
+        "3.1 First Stage: Continuous Connection (Topology)"
+      ],
+      "zh": [
+        "3.1 第一阶段：连续关联（拓扑学）"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch16-u038",
+      "source_ids": [
+        "ch16-u038"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Weyl’s several discussions of topology in the context of his geometry add little to topology per se but take over the modern topological concepts of “point” and “neighbourhood”, first clarified in his own 1913 book on Riemann surfaces. There is a clearly identified reason for his reticence in extending phenomenological constitution to the manifold, and so to the concept of “continuous connection” itself. With reference to his discussion in Das Kontinuum of the “deep chasm” separating the intuitive and the mathematical continuum, Weyl observed that a “fully satisfactory analysis of the concept of the n-dimensional manifold is not possible today” in view of the “difficulty of grasping the intuitive essence (anschauliche Wesen) of continuous connection through a purely logical construction”.",
+        {
+          "type": "note",
+          "id": "ch16-n17",
+          "label": "17"
+        },
+        " Setting that task aside, Weyl simply assumed that in the tangent space covering each manifold point P, there is an affine linear space of vectors centered on P in that line elements dx radiating from P are infinitely small vectors. In this way, functions at P and in its neighborhood (in particular, the displacement functions – see below) transform linearly and homogeneously. Weyl’s attention then concentrated on the manifold’s Strukturfeld, its metric, affine (and conformal, and projective) structures, originating the now familiar machinery of connections in a specifically philosophical context."
+      ],
+      "zh": [
+        "魏尔在其几何语境中对拓扑学的几次讨论，对拓扑学本身几乎没有增添什么，但沿用了“点”与“邻域”这两个现代拓扑学概念——它们最先在他自己 1913 年关于黎曼曲面的书中得到澄清。他不愿把现象学构成扩展到流形、从而扩展到“连续关联”概念本身，有一个清楚可辨的原因。参照他在《连续统》中对分隔直观连续统与数学连续统的“深刻鸿沟”的讨论，魏尔指出，鉴于“通过纯粹逻辑构造来把握连续关联的直观本质（anschauliche Wesen）的困难”，“对 n 维流形概念的完全令人满意的分析在今天是不可能的”。",
+        {
+          "type": "note",
+          "id": "ch16-n17",
+          "label": "17"
+        },
+        " 把这项任务搁置一旁，魏尔径直假定：在覆盖每个流形点 P 的切空间中，有一个以 P 为中心的矢量的仿射线性空间，其中从 P 辐射出的线元 dx 是无穷小矢量。这样，P 处及其邻域中的函数（特别是位移函数——见下文）线性且齐次地变换。魏尔的注意力随后集中于流形的结构场（Strukturfeld），即它的度规、仿射（以及共形和射影）结构，从而在一个特定的哲学语境中创立了如今熟悉的联络方法。"
+      ],
+      "units": 209
+    },
+    {
+      "id": "ch16-u039",
+      "source_ids": [
+        "ch16-u039"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.2 Second Stage: Affine Connected Manifold"
+      ],
+      "zh": [
+        "3.2 第二阶段：仿射联络流形"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch16-u040",
+      "source_ids": [
+        "ch16-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The concept of parallel transport of a tangent vector in a Riemannian manifold M was first developed in 1917 by Levi–Civita (and independently by Schouten in 1918). It provided a geometric interpretation – as the parallel displacement of a vector along a path connecting a point P to another point P′ in the infinitesimal neighbourhood (tangent space ",
+        {
+          "type": "math",
+          "tex": "T_P",
+          "display": false
+        },
+        ") of ",
+        {
+          "type": "math",
+          "tex": "P",
+          "display": false
+        },
+        " (",
+        {
+          "type": "math",
+          "tex": "T_{P'}M=T_PM",
+          "display": false
+        },
+        ") – to the hitherto purely analytical Christoffel symbols (of the second kind) of covariant differentiation. This enabled covariant differentiation to be understood as a means of comparing infinitesimal changes in vector or tensor fields with respect to a parallel transported vector or tensor at the point in question. Parallel transport is purely infinitesimal in the sense that directional comparison of vectors at finitely distant points P and Q can be made only by specifying a path of displacement from P to Q and “transporting” to Q a comparison vector defined as “parallel to” the original vector at P. In general, parallel displacement is not integrable, i.e. the new vector arising at Q will depend upon the path taken between P and Q."
+      ],
+      "zh": [
+        "黎曼流形 M 中切矢量的平行移动概念，最先由列维-齐维塔于 1917 年发展出来（斯豪滕于 1918 年独立地给出）。它为协变微分的迄今纯分析的第二类克里斯托费尔符号提供了一个几何解释：即矢量沿着连接点 P 与 P 的无穷小邻域（切空间 ",
+        {
+          "type": "math",
+          "tex": "T_P",
+          "display": false
+        },
+        "，",
+        {
+          "type": "math",
+          "tex": "T_{P'}M=T_PM",
+          "display": false
+        },
+        "）中另一点 P′ 的路径所作的平行位移。这使得协变微分可以被理解为一种手段，用来把矢量场或张量场的无穷小变化与所讨论点处一个平行移动的矢量或张量相比较。平行移动是纯粹无穷小的，其意义在于：有限远两点 P 与 Q 处矢量的方向比较，只有通过指定一条从 P 到 Q 的位移路径、并把一个定义为与 P 处原矢量“平行”的比较矢量“移动”到 Q，才能进行。一般而言，平行位移不可积，即在 Q 处产生的新矢量依赖于 P 与 Q 之间所取的路径。"
+      ],
+      "units": 188
+    },
+    {
+      "id": "ch16-u041",
+      "source_ids": [
+        "ch16-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In Weyl’s assessment, Levi–Civita’s concept marked a significant advance of “simplicity and visualizability (Anschaulichkeit) in the construction of Riemannian infinitesimal geometry.”",
+        {
+          "type": "note",
+          "id": "ch16-n18",
+          "label": "18"
+        },
+        " But whereas Levi–Civita had employed an auxiliary construction, embedding M in a Euclidean space where parallel transport was defined, and then projecting it into the tangent space of M, Weyl gave the first intrinsic characterization in terms of bilinear functions ",
+        {
+          "type": "math",
+          "tex": "\\Gamma(A^\\mu,dx)",
+          "display": false
+        },
+        " since known as the components of a (symmetrical) affine connection.",
+        {
+          "type": "note",
+          "id": "ch16-n19",
+          "label": "19"
+        }
+      ],
+      "zh": [
+        "在魏尔看来，列维-齐维塔的概念标志着“黎曼无穷小几何构造中的简单性与直观性（Anschaulichkeit）”的一个重大进步。",
+        {
+          "type": "note",
+          "id": "ch16-n18",
+          "label": "18"
+        },
+        " 但是，列维-齐维塔采用的是一种辅助构造——把 M 嵌入一个其中定义了平行移动的欧几里得空间，然后再投影到 M 的切空间中——而魏尔则用双线性函数 ",
+        {
+          "type": "math",
+          "tex": "\\Gamma(A^\\mu,dx)",
+          "display": false
+        },
+        " 给出了第一个内禀刻画，这些函数后来被称为（对称）仿射联络的分量。",
+        {
+          "type": "note",
+          "id": "ch16-n19",
+          "label": "19"
+        }
+      ],
+      "units": 77
+    },
+    {
+      "id": "ch16-u042",
+      "source_ids": [
+        "ch16-u042"
+      ],
+      "page": "289",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In general, the change ",
+        {
+          "type": "math",
+          "tex": "\\delta A^\\mu",
+          "display": false
+        },
+        " in a given vector ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " displaced from ",
+        {
+          "type": "math",
+          "tex": "P",
+          "display": false
+        },
+        " to ",
+        {
+          "type": "math",
+          "tex": "P'_{(x^\\nu+dx^\\nu)}",
+          "display": false
+        },
+        " is defined"
+      ],
+      "zh": [
+        "一般而言，给定矢量 ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " 从 ",
+        {
+          "type": "math",
+          "tex": "P",
+          "display": false
+        },
+        " 位移到 ",
+        {
+          "type": "math",
+          "tex": "P'_{(x^\\nu+dx^\\nu)}",
+          "display": false
+        },
+        " 时的变化 ",
+        {
+          "type": "math",
+          "tex": "\\delta A^\\mu",
+          "display": false
+        },
+        " 定义为"
+      ],
+      "units": 24
+    },
+    {
+      "id": "ch16-u043",
+      "source_ids": [
+        "ch16-u043"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\delta A^\\mu=-\\Gamma^\\mu_{\\alpha\\beta}A^\\alpha dx^\\beta,\\tag{1}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\delta A^\\mu=-\\Gamma^\\mu_{\\alpha\\beta}A^\\alpha dx^\\beta,\\tag{1}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch16-u044",
+      "source_ids": [
+        "ch16-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "while the covariant derivative of ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " (a tensor, and so of objective significance) is defined"
+      ],
+      "zh": [
+        "而 ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " 的协变导数（它是一个张量，因而具有客观意义）定义为"
+      ],
+      "units": 16
+    },
+    {
+      "id": "ch16-u045",
+      "source_ids": [
+        "ch16-u045",
+        "ch16-u046"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "A^\\mu_{;\\alpha}=\\frac{\\partial A^\\mu}{\\partial x^\\alpha}+\\Gamma^\\mu_{\\beta\\alpha}A^\\beta.\\tag{2}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "A^\\mu_{;\\alpha}=\\frac{\\partial A^\\mu}{\\partial x^\\alpha}+\\Gamma^\\mu_{\\beta\\alpha}A^\\beta.\\tag{2}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch16-u047",
+      "source_ids": [
+        "ch16-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Parallel transport occurs when the components of the affine connection vanish. Next followed the concept of a manifold with an affine connection. A point P is affinely connected with its immediate neighborhood just in case it is determined, for every vector at P, the vector at P′ to which it gives rise under parallel transport from P to P′. If it is possible to single out a unique affine connection, among all the possible ones at each point P, then M is called a manifold with an affine connection. This is essentially a conception of space as stitched together in linear fashion from infinitely small homogeneous patches. To Weyl, parallel transport was the paradigm comparison relation of infinitesimal geometry for it satisfied the epistemological demand that all integral (and so, not immediately surveyable) relations between finitely separated points cannot be posited but must be constructed from a specified infinitesimal displacement along a given curve connecting them. He also introduced the idea of the curvature of a connection R(Γ), a (1, 3) tensor analogous to the Riemann–Christoffel tensor of Riemannian geometry, and showed that the calculus of tensors could be developed on the basis of the concept of infinitesimal parallel transport, without any reliance on a metric.",
+        {
+          "type": "note",
+          "id": "ch16-n20",
+          "label": "20"
+        },
+        " However, it was Eddington, not Weyl, who first fully exploited this idea in physics.",
+        {
+          "type": "note",
+          "id": "ch16-n21",
+          "label": "21"
+        }
+      ],
+      "zh": [
+        "当仿射联络的分量消失时，就发生平行移动。接下来是带仿射联络的流形概念。点 P 与其直接邻域仿射地联络，恰当且仅当对 P 处的每个矢量，都确定了它从 P 平行移动到 P′ 时在 P′ 处产生的矢量。如果能在每个点 P 处所有可能的仿射联络中挑选出唯一的一个，那么 M 就称为带仿射联络的流形。这实质上是这样一种空间观：空间由无穷小的均质区域以线性方式缝合而成。对魏尔来说，平行移动是无穷小几何的典范比较关系，因为它满足了这一认识论要求：相隔有限距离的两点之间，经积分得到的关系无法直接通览，须沿连接两点的指定曲线，从给定的无穷小位移构造出来。他还引入了联络的曲率 R(Γ) 的观念——一个类似于黎曼几何的黎曼–克里斯托费尔张量的 (1, 3) 张量——并表明张量演算可以在无穷小平行移动概念的基础上发展起来，而不依赖任何度规。",
+        {
+          "type": "note",
+          "id": "ch16-n20",
+          "label": "20"
+        },
+        " 然而，最先在物理学中充分利用这一想法的是爱丁顿，而不是魏尔。",
+        {
+          "type": "note",
+          "id": "ch16-n21",
+          "label": "21"
+        }
+      ],
+      "units": 222
+    },
+    {
+      "id": "ch16-u048",
+      "source_ids": [
+        "ch16-u048",
+        "ch16-u049",
+        "ch16-u051",
+        "ch16-u110a",
+        "ch16-u050"
+      ],
+      "page": "290",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The “essence of parallel displacement” (das Wesen der Parallelverschiebung) is expressed in that, in a given coordinate system covering P and its neighborhood, the components of an arbitrary vector ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " do not change when ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " is parallel-displaced from P to a neighboring point P′.",
+        {
+          "type": "note",
+          "id": "ch16-n22",
+          "label": "22"
+        },
+        " Unaltered displacement accordingly depends on a particular “geodetic” (at P) coordinate system, proleptically referring to the fact that at P the ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " have stationary values, ",
+        {
+          "type": "math",
+          "tex": "\\frac{\\partial g_{\\mu\\nu}}{\\partial x^\\sigma}=0",
+          "display": false
+        },
+        ",",
+        " ",
+        "and so the components of the affine connection vanish. According to the principle of equivalence, such geodetic coordinates at a point always exist. In this dependence on a particular coordinate system, parallel displacement of a vector or tensor without “absolute change” is not an invariant or “objective” relation. But a specifically epistemological and non-conventional meaning is intended for the statement that some vector at P′ is “the same” as a given vector at P. Namely from the original vector at P, a new vector arises at P′ that, in the purely local comparison made, as it were, by a particularly situated consciousness, is affirmed to be “without change”. Despite the subjectivity of the “experienced” condition ",
+        {
+          "type": "math",
+          "tex": "\\frac{\\partial g_{\\mu\\nu}}{\\partial x^\\sigma}=0",
+          "display": false
+        },
+        ",",
+        " ",
+        "required by this construction, such comparison is nonetheless the basis for the invariant relation of covariant differentiation. Obviously, the idea is an analogy formed from Einstein’s theory in which the non-tensorial gravitational field strengths ",
+        {
+          "type": "math",
+          "tex": "\\Gamma^\\sigma_{\\mu\\nu}",
+          "display": false
+        },
+        " (in Weyl’s suggestive terminology, the “guiding field” (Führungsfeld) ) can be locally, but not generally, “transformed away”, an observer-dependent “disappearance” of a gravitational field. At the same time, invariant space–time curvatures are derived from the ",
+        {
+          "type": "math",
+          "tex": "\\Gamma^\\sigma_{\\mu\\nu}",
+          "display": false
+        },
+        " that have an objective significance for all observers."
+      ],
+      "zh": [
+        "“平行位移的本质”（das Wesen der Parallelverschiebung）表达在这一点上：在覆盖 P 及其邻域的给定坐标系中，任意矢量 ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " 从 P 平行位移到邻近点 P′ 时，其分量不发生变化。",
+        {
+          "type": "note",
+          "id": "ch16-n22",
+          "label": "22"
+        },
+        " 因此，无改变的位移依赖于一个特定的“测地”坐标系（在 P 处），这已预示度规的 ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " 在 P 处取驻值 ",
+        {
+          "type": "math",
+          "tex": "\\frac{\\partial g_{\\mu\\nu}}{\\partial x^\\sigma}=0",
+          "display": false
+        },
+        "，",
+        "因而仿射联络的分量消失。按照等效原理，这样的测地坐标在一点处总是存在的。由于这种对特定坐标系的依赖，矢量或张量没有“绝对变化”的平行位移不是一个不变的或“客观的”关系。但是，P′ 处某个矢量与 P 处给定向量“相同”这一陈述，被赋予了一种特定的认识论的、非约定的意义。也就是说，从 P 处的原矢量产生出 P′ 处的一个新矢量，在仿佛由一个处于特定境况的意识所作的纯局域比较中，它被确认为“没有变化”。尽管这一构造所要求的“经验到的”条件 ",
+        {
+          "type": "math",
+          "tex": "\\frac{\\partial g_{\\mu\\nu}}{\\partial x^\\sigma}=0",
+          "display": false
+        },
+        "带有主观性，这种比较仍然是协变微分这一不变关系的基础。显然，这个想法是从爱因斯坦理论形成的一个类比：在爱因斯坦理论中，非张量的引力场强 ",
+        {
+          "type": "math",
+          "tex": "\\Gamma^\\sigma_{\\mu\\nu}",
+          "display": false
+        },
+        "（用魏尔富有启发性的术语来说，即“引导场”（Führungsfeld））可以局域地、但不能一般地“变换掉”，这是引力场的一种依赖于观察者的“消失”。与此同时，由 ",
+        {
+          "type": "math",
+          "tex": "\\Gamma^\\sigma_{\\mu\\nu}",
+          "display": false
+        },
+        " 可以导出不变的时空曲率，时空曲率对所有观察者都具有客观意义。"
+      ],
+      "units": 291
+    },
+    {
+      "id": "ch16-u052",
+      "source_ids": [
+        "ch16-u052"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.3 Third Stage: Metrically Connected Manifold"
+      ],
+      "zh": [
+        "3.3 第三阶段：度规联络流形"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch16-u053",
+      "source_ids": [
+        "ch16-u053"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In Weyl’s estimation:"
+      ],
+      "zh": [
+        "在魏尔看来："
+      ],
+      "units": 3
+    },
+    {
+      "id": "ch16-u060",
+      "source_ids": [
+        "ch16-u060"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[A] truly infinitesimal geometry (wahrhafte Nahegeometrie) should know only a principle of displacement (Übertragung) of a length from one point to another infinitely close by.",
+        {
+          "type": "note",
+          "id": "ch16-n23",
+          "label": "23"
+        }
+      ],
+      "zh": [
+        "一门真正的无穷小几何（wahrhafte Nahegeometrie）应当只认识一条原则：把长度从一个点移置（Übertragung）到另一个无穷邻近的点。",
+        {
+          "type": "note",
+          "id": "ch16-n23",
+          "label": "23"
+        }
+      ],
+      "type": "quote",
+      "units": 25
+    },
+    {
+      "id": "ch16-u054",
+      "source_ids": [
+        "ch16-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As the “essence of space” is metric, the fundamental metrical concept, congruence, also must be conceived “purely infinitesimally”.",
+        {
+          "type": "note",
+          "id": "ch16-n24",
+          "label": "24"
+        },
+        " Enshrined as “the epistemological principle of relativity of magnitude”, a postulate is laid down that direct comparison of vector magnitudes can be immediately made only at a given point P or at infinitesimally nearby points ",
+        {
+          "type": "math",
+          "tex": "P'(P'-P=\\overline{P'P}\\in T(M_p))",
+          "display": false
+        },
+        ". Just as an affine connection governs direct infinitesimal comparisons of orientation, or parallelism, so a length or metric connection is required to determine infinitesimal comparisons of congruence. This also requires a vector to be displaced from P to P′ and, in general, the (square of the) “length” l of the vector is altered. Thus if ",
+        {
+          "type": "math",
+          "tex": "l",
+          "display": false
+        },
+        " is the (squared) length of a vector ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " at ",
+        {
+          "type": "math",
+          "tex": "P_{(x)}",
+          "display": false
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "l_{P(x)}(A^\\mu)=ds^2=g_{\\mu\\nu}A^\\mu A^\\nu",
+          "display": false
+        },
+        ", then on being displaced to P′, the change of length is defined to be a definite fraction of l,"
+      ],
+      "zh": [
+        "由于空间的“本质”是度规的，基本的度规概念——全等——也必须“纯粹无穷小地”来设想。",
+        {
+          "type": "note",
+          "id": "ch16-n24",
+          "label": "24"
+        },
+        " 被尊奉为“量值相对性的认识论原理”，这里确立了一条公设：矢量量值的直接比较，只能在一个给定点 P 处、或在无穷小邻近的点 ",
+        {
+          "type": "math",
+          "tex": "P'",
+          "display": false
+        },
+        " 处（",
+        {
+          "type": "math",
+          "tex": "P'-P=\\overline{P'P}\\in T(M_p)",
+          "display": false
+        },
+        "）即时进行。正如仿射联络支配方向即平行性的直接无穷小比较，长度联络或度规联络则被要求用来确定全等的无穷小比较。这也要求把一个矢量从 P 位移到 P′，而且一般而言，矢量的“长度”（的平方）l 会发生改变。于是，若 ",
+        {
+          "type": "math",
+          "tex": "l",
+          "display": false
+        },
+        " 是 ",
+        {
+          "type": "math",
+          "tex": "P_{(x)}",
+          "display": false
+        },
+        " 处矢量 ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " 的长度平方，即 ",
+        {
+          "type": "math",
+          "tex": "l_{P(x)}(A^\\mu)=ds^2=g_{\\mu\\nu}A^\\mu A^\\nu",
+          "display": false
+        },
+        "，那么位移到 P′ 时，长度的变化被定义为 ",
+        {
+          "type": "math",
+          "tex": "l",
+          "display": false
+        },
+        " 的一定比例："
+      ],
+      "units": 162
+    },
+    {
+      "id": "ch16-u055",
+      "source_ids": [
+        "ch16-u055",
+        "ch16-u056"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\frac{dl}{dx^\\mu}:=-l\\frac{d\\varphi}{dx^\\mu},\\tag{3}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\frac{dl}{dx^\\mu}:=-l\\frac{d\\varphi}{dx^\\mu},\\tag{3}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch16-u057",
+      "source_ids": [
+        "ch16-u057"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "where ",
+        {
+          "type": "math",
+          "tex": "d\\varphi=\\sum_\\mu \\varphi_\\mu dx^\\mu",
+          "display": false
+        },
+        " is a homogeneous function of the coordinate differentials."
+      ],
+      "zh": [
+        "其中 ",
+        {
+          "type": "math",
+          "tex": "d\\varphi=\\sum_\\mu \\varphi_\\mu dx^\\mu",
+          "display": false
+        },
+        " 是坐标微分的齐次函数。"
+      ],
+      "units": 17
+    },
+    {
+      "id": "ch16-u058",
+      "source_ids": [
+        "ch16-u058"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The new vector at P′, corresponding to ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " at P, accordingly has the length"
+      ],
+      "zh": [
+        "于是，P′ 处对应于 P 处 ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " 的新矢量具有长度"
+      ],
+      "units": 15
+    },
+    {
+      "id": "ch16-u059",
+      "source_ids": [
+        "ch16-u059"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "l_{P'_{(x+dx)}}=(1-d\\varphi)(g_{\\mu\\nu}+d g_{\\mu\\nu})A^\\mu A^\\nu,\\tag{4}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "l_{P'_{(x+dx)}}=(1-d\\varphi)(g_{\\mu\\nu}+d g_{\\mu\\nu})A^\\mu A^\\nu,\\tag{4}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch16-u061",
+      "source_ids": [
+        "ch16-u061"
+      ],
+      "page": "291",
+      "canonical_kind": "paragraph",
+      "en": [
+        "where ",
+        {
+          "type": "math",
+          "tex": "1-d\\varphi",
+          "display": false
+        },
+        " is a proportionality factor, arbitrarily close to 1. In analogy to Eq. (1), the change in length of ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " is defined as"
+      ],
+      "zh": [
+        "其中 ",
+        {
+          "type": "math",
+          "tex": "1-d\\varphi",
+          "display": false
+        },
+        " 是一个任意接近 1 的比例因子。类比于式 (1)，",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " 的长度变化定义为"
+      ],
+      "units": 26
+    },
+    {
+      "id": "ch16-u062",
+      "source_ids": [
+        "ch16-u062",
+        "ch16-u063"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\delta l:=\\frac{\\partial l_P}{\\partial x^\\mu}dx^\\mu+l\\,d\\varphi.\\tag{5}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\delta l:=\\frac{\\partial l_P}{\\partial x^\\mu}dx^\\mu+l\\,d\\varphi.\\tag{5}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch16-u064",
+      "source_ids": [
+        "ch16-u064"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Then, just as the vanishing of its covariant derivative means that a vector has been parallel-displaced from P to P′ without “absolute change”, so here the vanishing of ",
+        {
+          "type": "math",
+          "tex": "\\delta l",
+          "display": false
+        },
+        " indicates that ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " has been congruently displaced from P to P′:"
+      ],
+      "zh": [
+        "于是，正如协变导数的消失意味着矢量已从 P 平行位移到 P′ 而没有“绝对变化”，这里 ",
+        {
+          "type": "math",
+          "tex": "\\delta l",
+          "display": false
+        },
+        " 的消失表明 ",
+        {
+          "type": "math",
+          "tex": "A^\\mu",
+          "display": false
+        },
+        " 已从 P 保持全等地移动到 P′："
+      ],
+      "units": 42
+    },
+    {
+      "id": "ch16-u065",
+      "source_ids": [
+        "ch16-u065",
+        "ch16-u066",
+        "ch16-u067"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\delta l=0\\Longleftrightarrow dl=\\frac{\\partial l}{\\partial x^\\mu}dx^\\mu=-l\\,d\\varphi.\\tag{6}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\delta l=0\\Longleftrightarrow dl=\\frac{\\partial l}{\\partial x^\\mu}dx^\\mu=-l\\,d\\varphi.\\tag{6}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch16-u068",
+      "source_ids": [
+        "ch16-u068"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Up to this point, an arbitrary “gauge” (unit of scale) has been assumed. Re-calibrating the unit of length at P through multiplication by ",
+        {
+          "type": "math",
+          "tex": "\\lambda",
+          "display": false
+        },
+        ", an always positive function of the coordinates, multiplies the length ",
+        {
+          "type": "math",
+          "tex": "l_{P(x)}",
+          "display": false
+        },
+        " by ",
+        {
+          "type": "math",
+          "tex": "\\lambda",
+          "display": false
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "l'=\\lambda l",
+          "display": false
+        },
+        ". Then the change in length at P′, ",
+        {
+          "type": "math",
+          "tex": "dl'",
+          "display": false
+        },
+        ", corresponds to a transformation of the “length connection” ",
+        {
+          "type": "math",
+          "tex": "d\\varphi",
+          "display": false
+        },
+        ","
+      ],
+      "zh": [
+        "到目前为止，一直假定了一个任意的“规范”（尺度单位）。通过把 ",
+        {
+          "type": "math",
+          "tex": "P",
+          "display": false
+        },
+        " 处的长度单位乘上坐标的恒正函数 ",
+        {
+          "type": "math",
+          "tex": "\\lambda",
+          "display": false
+        },
+        "，由此重新校准长度单位。长度 ",
+        {
+          "type": "math",
+          "tex": "l_{P(x)}",
+          "display": false
+        },
+        " 也乘上 ",
+        {
+          "type": "math",
+          "tex": "\\lambda",
+          "display": false
+        },
+        "，成为 ",
+        {
+          "type": "math",
+          "tex": "l'=\\lambda l",
+          "display": false
+        },
+        "。于是 P′ 处的长度变化 ",
+        {
+          "type": "math",
+          "tex": "dl'",
+          "display": false
+        },
+        " 对应于“长度联络” ",
+        {
+          "type": "math",
+          "tex": "d\\varphi",
+          "display": false
+        },
+        " 的一个变换："
+      ],
+      "units": 60
+    },
+    {
+      "id": "ch16-u069",
+      "source_ids": [
+        "ch16-u069",
+        "ch16-u070",
+        "ch16-u071",
+        "ch16-u072",
+        "ch16-u073",
+        "ch16-u074"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}dl'&=d(\\lambda l)=l\\,d\\lambda+\\lambda\\,dl=l\\,d\\lambda-\\lambda l\\,d\\varphi\\\\&=-\\lambda l\\left(d\\varphi-\\frac{d\\lambda}{\\lambda}\\right)=-l'\\,d\\varphi',\\end{aligned}\\tag{7}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}dl'&=d(\\lambda l)=l\\,d\\lambda+\\lambda\\,dl=l\\,d\\lambda-\\lambda l\\,d\\varphi\\\\&=-\\lambda l\\left(d\\varphi-\\frac{d\\lambda}{\\lambda}\\right)=-l'\\,d\\varphi',\\end{aligned}\\tag{7}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 35
+    },
+    {
+      "id": "ch16-u075",
+      "source_ids": [
+        "ch16-u075"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "(",
+        {
+          "type": "math",
+          "tex": "d\\lambda/\\lambda=d\\log\\lambda",
+          "display": false
+        },
+        "). A metrically connected manifold is then one in which each point P is metrically connected to every point P′ in its immediate neighborhood through a metric connection. In general, length is not integrable for Eq. (8) follows from Eq. (5) by integration,"
+      ],
+      "zh": [
+        "（",
+        {
+          "type": "math",
+          "tex": "d\\lambda/\\lambda=d\\log\\lambda",
+          "display": false
+        },
+        "）。于是，度规联络的流形就是这样的流形：其中每个点 P 都通过一个度规联络与其直接邻域中的每个点 P′ 度规地联络。一般而言，长度不可积，因为式 (8) 由式 (5) 积分得出："
+      ],
+      "units": 48
+    },
+    {
+      "id": "ch16-u076",
+      "source_ids": [
+        "ch16-u076",
+        "ch16-u077",
+        "ch16-u082"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\log l\\big|_P^Q=-\\int_P^Q\\varphi_\\mu dx^\\mu,\\quad\\text{and so }l_Q=l_Pe^{-\\int_P^Q\\varphi_\\mu dx^\\mu}.\\tag{8}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\log l\\big|_P^Q=-\\int_P^Q\\varphi_\\mu dx^\\mu,\\quad\\text{从而}l_Q=l_Pe^{-\\int_P^Q\\varphi_\\mu dx^\\mu}.\\tag{8}",
+          "display": true
+        }
+      ],
+      "units": 29
+    },
+    {
+      "id": "ch16-u078",
+      "source_ids": [
+        "ch16-u078"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As Pauli demonstrated, displacement of a vector along different paths between finitely separated points P and Q will lead to arbitrarily different results at Q.",
+        {
+          "type": "note",
+          "id": "ch16-n25",
+          "label": "25"
+        },
+        " But when the linear form ",
+        {
+          "type": "math",
+          "tex": "\\varphi_\\mu",
+          "display": false
+        },
+        " vanishes, the magnitude of a vector is independent of the path along which it is displaced, which is just the case of Riemannian geometry. The necessary and sufficient condition for this is the disappearance of the “length curvature” (Streckenkrümmung) of Weyl’s geometry"
+      ],
+      "zh": [
+        "正如泡利所表明的，矢量沿着有限分离的两点 P 与 Q 之间的不同路径位移，会在 Q 处导致任意不同的结果。",
+        {
+          "type": "note",
+          "id": "ch16-n25",
+          "label": "25"
+        },
+        " 但当线性形式 ",
+        {
+          "type": "math",
+          "tex": "\\varphi_\\mu",
+          "display": false
+        },
+        " 消失时，矢量的量值就与它位移所沿的路径无关——这正是黎曼几何的情形。其充要条件是魏尔几何的“长度曲率”（Streckenkrümmung）的消失"
+      ],
+      "units": 74
+    },
+    {
+      "id": "ch16-u079",
+      "source_ids": [
+        "ch16-u079",
+        "ch16-u080",
+        "ch16-u118"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "F_{\\mu\\nu}=\\frac{\\partial\\varphi_\\nu}{\\partial x^\\mu}-\\frac{\\partial\\varphi_\\mu}{\\partial x^\\nu},\\tag{9}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "F_{\\mu\\nu}=\\frac{\\partial\\varphi_\\nu}{\\partial x^\\mu}-\\frac{\\partial\\varphi_\\mu}{\\partial x^\\nu},\\tag{9}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch16-u081",
+      "source_ids": [
+        "ch16-u081"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "just as the vanishing of the Riemann tensor is the necessary and sufficient condition for flat space."
+      ],
+      "zh": [
+        "这正如黎曼张量的消失是空间平坦的充要条件一样。"
+      ],
+      "units": 17
+    },
+    {
+      "id": "ch16-u083",
+      "source_ids": [
+        "ch16-u083"
+      ],
+      "page": "292",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Implementation of the local comparison condition means that the fundamental tensor ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " of Riemannian geometry induces only a local conformal structure on the manifold. There is then an immediate meaning given to the angle between two vectors at a point, or to the ratio of their lengths there, but not to their absolute lengths. These transform at a point ",
+        {
+          "type": "math",
+          "tex": "x",
+          "display": false
+        },
+        " as ",
+        {
+          "type": "math",
+          "tex": "g'_{\\mu\\nu}(x)=\\lambda g_{\\mu\\nu}(x)",
+          "display": false
+        },
+        ". This weakening of the metrical structure has two important ramifications. Such a metric no longer determines a unique linear (affine) connection, but only an equivalence class of connections. Yet Weyl required, as the “fundamental fact” of infinitesimal geometry, that there be unique affine compatibility in the sense that the transport of tangent vectors along curves associated with the connection, i.e. affine geodesics, leave the vectors congruent with themselves with respect to the metric. Weyl showed that a unique connection, coupled to given choice of a metric tensor, is found by incorporating into its definition the linear differential form ",
+        {
+          "type": "math",
+          "tex": "\\varphi",
+          "display": false
+        },
+        " of his length connection. Then, when the components of ",
+        {
+          "type": "math",
+          "tex": "\\varphi",
+          "display": false
+        },
+        " vanish identically at a point, the connection becomes identical to the “Levi–Civita” connection, as can be seen from comparison of the definitions of the two connections in components:"
+      ],
+      "zh": [
+        "局域比较条件的实施意味着，黎曼几何的基本张量 ",
+        {
+          "type": "math",
+          "tex": "g_{\\mu\\nu}",
+          "display": false
+        },
+        " 在流形上只诱导出一个局域共形结构。于是，一点处两个矢量之间的夹角、或它们在该处的长度之比，具有直接的意义，但它们的绝对长度则没有。点 ",
+        {
+          "type": "math",
+          "tex": "x",
+          "display": false
+        },
+        " 处的度规按 ",
+        {
+          "type": "math",
+          "tex": "g'_{\\mu\\nu}(x)=\\lambda g_{\\mu\\nu}(x)",
+          "display": false
+        },
+        " 变换。度规结构的这种弱化有两个重要后果。这样的度规不再确定唯一的线性（仿射）联络，而只确定一个联络等价类。然而魏尔要求，作为无穷小几何的“基本事实”，要有一个唯一的相容仿射联络，使得：切矢量沿着与该联络相关联的曲线——即仿射测地线——的移动，使矢量相对于度规保持与自身全等。魏尔表明，给定度规张量的一个选择，通过把他的长度联络的线性微分形式 ",
+        {
+          "type": "math",
+          "tex": "\\varphi",
+          "display": false
+        },
+        " 纳入联络的定义，就能找到一个与之耦合的唯一联络。于是，当 ",
+        {
+          "type": "math",
+          "tex": "\\varphi",
+          "display": false
+        },
+        " 的分量在一点处恒等于零时，该联络就变得与“列维-齐维塔”联络相同，这可以从两个联络的分量定义的比较中看出："
+      ],
+      "units": 211
+    },
+    {
+      "id": "ch16-u084",
+      "source_ids": [
+        "ch16-u084",
+        "ch16-u085"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\text{Levi-Civita: }\\Gamma^\\sigma_{\\mu\\nu}=\\frac12 g^{\\sigma\\tau}\\left[\\frac{\\partial g_{\\tau\\mu}}{\\partial x^\\nu}+\\frac{\\partial g_{\\nu\\tau}}{\\partial x^\\mu}-\\frac{\\partial g_{\\mu\\nu}}{\\partial x^\\tau}\\right];\\tag{10}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\text{列维–齐维塔}\\quad\\Gamma^\\sigma_{\\mu\\nu}=\\frac12 g^{\\sigma\\tau}\\left[\\frac{\\partial g_{\\tau\\mu}}{\\partial x^\\nu}+\\frac{\\partial g_{\\nu\\tau}}{\\partial x^\\mu}-\\frac{\\partial g_{\\mu\\nu}}{\\partial x^\\tau}\\right];\\tag{10}",
+          "display": true
+        }
+      ],
+      "units": 38
+    },
+    {
+      "id": "ch16-u086",
+      "source_ids": [
+        "ch16-u086",
+        "ch16-u087",
+        "ch16-u090"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}\\text{Weyl: }\\Gamma^\\sigma_{\\mu\\nu}&=\\frac12 g^{\\sigma\\tau}\\left[\\frac{\\partial g_{\\tau\\mu}}{\\partial x^\\nu}+\\frac{\\partial g_{\\nu\\tau}}{\\partial x^\\mu}-\\frac{\\partial g_{\\mu\\nu}}{\\partial x^\\tau}\\right]\\\\&\\quad+\\frac12(g_{\\mu\\sigma}\\varphi^\\nu+g_{\\nu\\sigma}\\varphi^\\mu+g_{\\mu\\nu}\\varphi^\\sigma).\\end{aligned}\\tag{11}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\begin{aligned}\\text{魏尔}\\quad\\Gamma^\\sigma_{\\mu\\nu}&=\\frac12 g^{\\sigma\\tau}\\left[\\frac{\\partial g_{\\tau\\mu}}{\\partial x^\\nu}+\\frac{\\partial g_{\\nu\\tau}}{\\partial x^\\mu}-\\frac{\\partial g_{\\mu\\nu}}{\\partial x^\\tau}\\right]\\\\&\\quad+\\frac12(g_{\\mu\\sigma}\\varphi^\\nu+g_{\\nu\\sigma}\\varphi^\\mu+g_{\\mu\\nu}\\varphi^\\sigma).\\end{aligned}\\tag{11}",
+          "display": true
+        }
+      ],
+      "units": 59
+    },
+    {
+      "id": "ch16-u088",
+      "source_ids": [
+        "ch16-u088"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Given this “Weyl connection”, it is possible to speak of a manifold with an affine connection where, as in the Riemannian case, there is a unique determination of parallel displacement of a vector at every point. Only in the case of “congruent displacement” (kongruente Verpflanzung), or displacement without alteration of length, is parallel displacement possible, and so it is that infinitesimal length or “tract displacement” (Streckenübertragung), the “foundational principle of metric geometry”, brings along also directional displacement (Richtungsübertragung). This is to say, according to Weyl, that “according to its nature, a metric space bears an affine connection.”",
+        {
+          "type": "note",
+          "id": "ch16-n26",
+          "label": "26"
+        }
+      ],
+      "zh": [
+        "给定这个“魏尔联络”，就可以谈论一个带仿射联络的流形，其中正如黎曼情形一样，每一点处矢量的平行位移都以唯一的方式确定。只有在“全等位移”（kongruente Verpflanzung）即长度不变的位移的情形下，平行位移才是可能的；因此，无穷小长度位移即“线段移动”（Streckenübertragung）——“度规几何的基础原理”——也就连带带来了方向移动（Richtungsübertragung）。按魏尔的说法，这就是说：“度规空间按其本性就带有仿射联络。”",
+        {
+          "type": "note",
+          "id": "ch16-n26",
+          "label": "26"
+        }
+      ],
+      "units": 97
+    },
+    {
+      "id": "ch16-u089",
+      "source_ids": [
+        "ch16-u089"
+      ],
+      "page": "293",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Justification for his “essential analysis” of infinitesimal geometry culminated in Weyl’s purely mathematical group-theoretical proof of Riemann’s posit of an “infinitesimal Pythagorean (Euclidean) metric”, the capstone of his efforts to show that the supposition of the purely infinitesimal character of the geometry underlying field physics was not arbitrary.",
+        {
+          "type": "note",
+          "id": "ch16-n27",
+          "label": "27"
+        },
+        " Writing to Husserl on 26 March 1921, Weyl could report that he had finally captured the “a priori essence of space (apriorische Wesen des Raumes), through a notable deepening of its mathematical foundations (eine merkliche Tieferlegung der Fundamente).”",
+        {
+          "type": "note",
+          "id": "ch16-n28",
+          "label": "28"
+        },
+        " This philosophical linkage was publicly announced in a newly appended fourth (1921) edition of RZM. There Weyl declared that his “investigations concerning space … appear to me to be a good example of the essential analysis (Wesenanalyse) striven for by phenomenological philosophy (Husserl)”.",
+        {
+          "type": "note",
+          "id": "ch16-n29",
+          "label": "29"
+        },
+        " Referring to this passage some 30 years later, Weyl observed that he still essentially held to its implicit characterization of the relation between cognition and reflection underlying his method of investigation, one that combined experimentally supported experience, analysis of essence (Wesensanalyse) and mathematical construction.",
+        {
+          "type": "note",
+          "id": "ch16-n30",
+          "label": "30"
+        }
+      ],
+      "zh": [
+        "他对无穷小几何的“本质分析”的辩护，在魏尔用纯数学的群论方法证明黎曼关于“无穷小毕达哥拉斯（欧几里得）度规”的设定时才告完成。他以这一关键成果表明：场物理学所依据的几何的纯粹无穷小特性这一假定并不是任意的。",
+        {
+          "type": "note",
+          "id": "ch16-n27",
+          "label": "27"
+        },
+        " 在 1921 年 3 月 26 日致胡塞尔的信中，魏尔能够报告说，他终于捕获了“空间的先天本质（apriorische Wesen des Raumes），通过对其数学基础的一次显著深化（eine merkliche Tieferlegung der Fundamente）”。",
+        {
+          "type": "note",
+          "id": "ch16-n28",
+          "label": "28"
+        },
+        " 这一哲学关联在《空间–时间–物质》第四版（1921）的新增文字中公开宣布。在那里魏尔宣称，他的“关于空间的研究……在我看来是现象学哲学（胡塞尔）所力求的本质分析（Wesenanalyse）的一个好例子”。",
+        {
+          "type": "note",
+          "id": "ch16-n29",
+          "label": "29"
+        },
+        " 大约 30 年后回顾这段文字时，魏尔指出，他仍然本质上坚持其中隐含的、作为其研究方法之基础的认识与反思之间关系的刻画——一种把有实验支持的经验、本质分析（Wesensanalyse）与数学构造结合起来的关系。",
+        {
+          "type": "note",
+          "id": "ch16-n30",
+          "label": "30"
+        }
+      ],
+      "units": 172
+    },
+    {
+      "id": "ch16-u091",
+      "source_ids": [
+        "ch16-u091"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.4 Transition to Physics"
+      ],
+      "zh": [
+        "3.4 向物理学的过渡"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch16-u092",
+      "source_ids": [
+        "ch16-u092"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Just as Einstein required the invariance of physical laws under arbitrary continuous transformation of the coordinates (general covariance), Weyl additionally demanded their invariance under the “gauge transformations”"
+      ],
+      "zh": [
+        "正如爱因斯坦要求物理定律在坐标的任意连续变换下不变（广义协变性），魏尔还额外要求它们在“规范变换”下不变"
+      ],
+      "units": 27
+    },
+    {
+      "id": "ch16-u093",
+      "source_ids": [
+        "ch16-u093",
+        "ch16-u094",
+        "ch16-u095"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "g\\Rightarrow g'_{\\mu\\nu}=\\lambda g_{\\mu\\nu},\\ \\text{and }\\varphi\\Rightarrow\\varphi'_\\mu=\\varphi_\\mu-\\frac1\\lambda\\frac{\\partial\\lambda}{\\partial x^\\mu}.\\tag{12}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "g\\Rightarrow g'_{\\mu\\nu}=\\lambda g_{\\mu\\nu},\\ \\text{且}\\varphi\\Rightarrow\\varphi'_\\mu=\\varphi_\\mu-\\frac1\\lambda\\frac{\\partial\\lambda}{\\partial x^\\mu}.\\tag{12}",
+          "display": true
+        }
+      ],
+      "units": 27
+    },
+    {
+      "id": "ch16-u096",
+      "source_ids": [
+        "ch16-u096"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "And since the first system of Maxwell’s equations"
+      ],
+      "zh": [
+        "而由于麦克斯韦方程组的第一组方程"
+      ],
+      "units": 8
+    },
+    {
+      "id": "ch16-u097",
+      "source_ids": [
+        "ch16-u097",
+        "ch16-u114",
+        "ch16-u098"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\frac{\\partial F_{\\mu\\nu}}{\\partial x^\\sigma}+\\frac{\\partial F_{\\nu\\sigma}}{\\partial x^\\mu}+\\frac{\\partial F_{\\sigma\\mu}}{\\partial x^\\nu}=0\\tag{13}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\frac{\\partial F_{\\mu\\nu}}{\\partial x^\\sigma}+\\frac{\\partial F_{\\nu\\sigma}}{\\partial x^\\mu}+\\frac{\\partial F_{\\sigma\\mu}}{\\partial x^\\nu}=0\\tag{13}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 27
+    },
+    {
+      "id": "ch16-u099",
+      "source_ids": [
+        "ch16-u099"
+      ],
+      "page": "294",
+      "canonical_kind": "paragraph",
+      "en": [
+        "follows immediately from Eq. (9) on purely formal grounds, Weyl made the obvious identifications of his length curvature ",
+        {
+          "type": "math",
+          "tex": "F_{\\mu\\nu}",
+          "display": false
+        },
+        " with the already gauge-invariant electromagnetic field tensor (of “gauge weight 0”), and his metric connection ",
+        {
+          "type": "math",
+          "tex": "\\varphi_\\mu",
+          "display": false
+        },
+        " with the space–time four potential. As a mathematical consequence of his geometry, Eq. (13) are held to express “the essence of electricity”; they are an “essential law” (Wesensgesetze) whose validity is completely independent of the actual laws of nature.",
+        {
+          "type": "note",
+          "id": "ch16-n31",
+          "label": "31"
+        },
+        " Furthermore, Weyl could show that a vector density and contravariant second rank tensor density follow from the general form of a hypothetical action function invariant under local changes of gauge ",
+        {
+          "type": "math",
+          "tex": "\\lambda=1+\\pi",
+          "display": false
+        },
+        ", where ",
+        {
+          "type": "math",
+          "tex": "\\pi",
+          "display": false
+        },
+        " is an arbitrarily specified infinitesimal scalar field. These are respectively identified with the four current density ",
+        {
+          "type": "math",
+          "tex": "\\mathbf{j}^\\mu",
+          "display": false
+        },
+        " and the electromagnetic field density ",
+        {
+          "type": "math",
+          "tex": "\\mathbf{h}^{\\mu\\nu}",
+          "display": false
+        },
+        ", through the relation"
+      ],
+      "zh": [
+        "纯粹在形式上直接由式 (9) 得出，魏尔便作了顺理成章的等同：把他的长度曲率 ",
+        {
+          "type": "math",
+          "tex": "F_{\\mu\\nu}",
+          "display": false
+        },
+        " 与已经规范不变的电磁场张量（“规范权重为 0”）等同起来，把他的度规联络 ",
+        {
+          "type": "math",
+          "tex": "\\varphi_\\mu",
+          "display": false
+        },
+        " 与时空四维势等同起来。作为他的几何的一个数学推论，式 (13) 被认为表达了“电的本质”；它是一个“本质法则”（Wesensgesetze），其有效性完全独立于现实的自然规律。",
+        {
+          "type": "note",
+          "id": "ch16-n31",
+          "label": "31"
+        },
+        " 此外，魏尔能够表明：从一个在局域规范改变 ",
+        {
+          "type": "math",
+          "tex": "\\lambda=1+\\pi",
+          "display": false
+        },
+        " 下不变的假想作用函数的一般形式——其中 ",
+        {
+          "type": "math",
+          "tex": "\\pi",
+          "display": false
+        },
+        " 是任意指定的无穷小标量场——会得出一个矢量密度和一个逆变二阶张量密度。通过下面的关系可分别把它们认作四维电流密度 ",
+        {
+          "type": "math",
+          "tex": "\\mathbf{j}^\\mu",
+          "display": false
+        },
+        " 和电磁场密度 ",
+        {
+          "type": "math",
+          "tex": "\\mathbf{h}^{\\mu\\nu}",
+          "display": false
+        },
+        "："
+      ],
+      "units": 144
+    },
+    {
+      "id": "ch16-u100",
+      "source_ids": [
+        "ch16-u100",
+        "ch16-u101",
+        "ch16-u104"
+      ],
+      "page": "",
+      "canonical_kind": "equation",
+      "en": [
+        {
+          "type": "math",
+          "tex": "\\frac{\\partial\\mathbf{h}^{\\mu\\nu}}{\\partial x^\\nu}=\\mathbf{j}^\\mu,\\tag{14}",
+          "display": true
+        }
+      ],
+      "zh": [
+        {
+          "type": "math",
+          "tex": "\\frac{\\partial\\mathbf{h}^{\\mu\\nu}}{\\partial x^\\nu}=\\mathbf{j}^\\mu,\\tag{14}",
+          "display": true
+        }
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch16-u102",
+      "source_ids": [
+        "ch16-u102"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "i.e. the second system of Maxwell equations. Thus Weyl claimed that, without having to specify a particular action function, “the entire structure of the Maxwell theory could be read off of gauge invariance”.",
+        {
+          "type": "note",
+          "id": "ch16-n32",
+          "label": "32"
+        },
+        " Again, using only the general form of such a function, he demonstrated that conservation of energy-momentum and of charge follow from the field laws in two distinct ways.",
+        {
+          "type": "note",
+          "id": "ch16-n33",
+          "label": "33"
+        },
+        " Accordingly he asserted that, just as the Einstein theory had shown that the agreement of inertial and gravitational mass was “essentially necessary” (wesensnotwendig), his theory did so in regard to the facts finding expression in the structure of the Maxwell equations, and in the conservation laws. This appeared to him to be “an extraordinarily strong support” for the “hypothesis of the essence of electricity” (Wesen der Elektrizität).",
+        {
+          "type": "note",
+          "id": "ch16-n34",
+          "label": "34"
+        },
+        " The domain of validity of Einstein’s theory of gravitation, with its assumption of a global unit of scale, was originally held to correspond to ",
+        {
+          "type": "math",
+          "tex": "F_\\mu=0",
+          "display": false
+        },
+        ", the vanishing of the electromagnetic field tensor. By 1919, Weyl substituted his own “dynamical” account of the origin of “the natural gauge of the world” noted above. These details of Weyl’s theory will suffice for present purposes; further discussion is available elsewhere.",
+        {
+          "type": "note",
+          "id": "ch16-n35",
+          "label": "35"
+        }
+      ],
+      "zh": [
+        "即麦克斯韦方程组的第二组方程。于是魏尔宣称，无需指定一个特定的作用函数，“麦克斯韦理论的全部结构都可以从规范不变性中读出来”。",
+        {
+          "type": "note",
+          "id": "ch16-n32",
+          "label": "32"
+        },
+        " 再者，仅用这种函数的一般形式，他就表明能量–动量守恒和电荷守恒以两种不同的方式从场定律得出。",
+        {
+          "type": "note",
+          "id": "ch16-n33",
+          "label": "33"
+        },
+        " 据此他断言，正如爱因斯坦理论已经表明惯性质量与引力质量的一致是“本质上必然的”（wesensnotwendig），他的理论对在麦克斯韦方程组的结构中和守恒定律中得到表达的那些事实也表明了同样的东西。这在他看来是对“关于电的本质的假说”（Wesen der Elektrizität）的“一个极其强有力的支持”。",
+        {
+          "type": "note",
+          "id": "ch16-n34",
+          "label": "34"
+        },
+        " 爱因斯坦引力理论带有全局尺度单位的假定，其有效域最初被认为对应于 ",
+        {
+          "type": "math",
+          "tex": "F_\\mu=0",
+          "display": false
+        },
+        "，即电磁场张量的消失。到 1919 年，魏尔用他自己对上文提到的“世界的自然规范”之起源的“动力学”说明取代了这一点。魏尔理论的这些细节对当前的目的来说已经足够；进一步的讨论见别处。",
+        {
+          "type": "note",
+          "id": "ch16-n35",
+          "label": "35"
+        },
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "原书此处写作 ",
+            {
+              "type": "math",
+              "tex": "F_\\mu=0",
+              "display": false
+            },
+            "，同节式（9）及式（13）所用的电磁场张量记号是 ",
+            {
+              "type": "math",
+              "tex": "F_{\\mu\\nu}",
+              "display": false
+            },
+            "。"
+          ]
+        }
+      ],
+      "units": 198
+    },
+    {
+      "id": "ch16-u103",
+      "source_ids": [
+        "ch16-u103"
+      ],
+      "page": "295",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As just seen, guided by phenomenological reflection within a now localized space of phenomenological intuition, Weyl’s “purely infinitesimal” geometrical framework for field physics rests upon two evidentially privileged geometrical relations of comparison: parallel displacement of a vector from one point to an immediately adjacent point, and modeled on this, congruent displacement of a vector magnitude from point to neighboring point. It is the latter relation that enables choice of a unit of scale at each point, and so prohibits “comparisons at a distance” as in Einstein’s’ pseudo-Riemannian general relativity. Weyl’s geometry was therefore a non-Riemannian geometry constructed through a phenomenological “essential analysis” of the two basic comparison relations of vectors and tensors. But it yielded a new geometrical concept, that of a connection, that would come to serve as the new axiomatic basis for differential geometry, and indeed, for general relativity itself. By mandating that the consistency and coherence of all relations field physics permits between magnitudes at P and Q, points at finite separation, arise through integrating a next-to-next relation of comparison along a specific path connecting all points between P and Q, Weyl’s geometry satisfied by construction both field theory’s prohibition against “action at a distance” as well as the requirement of phenomenological Evidenz, that these relations of comparison be immediately inspectable. As a reconstructive epistemological project, it coincided, as Weyl himself noted, with the explicitly metaphysical aspirations of Leibniz and Riemann to “understand the world from its behavior in the infinitesimally small”.",
+        {
+          "type": "note",
+          "id": "ch16-n36",
+          "label": "36"
+        }
+      ],
+      "zh": [
+        "正如刚才所见，在如今已局域化的现象学直观空间之内、在现象学反思的引导下，魏尔为场物理学建立的“纯粹无穷小”几何框架，建立在两种特别明证的几何比较关系之上：矢量从一点到直接相邻点的平行位移，以及以此为模型的矢量量值从一点到邻近点的全等位移。正是后一种关系使得在每一点选择尺度单位成为可能，从而禁止了像爱因斯坦的伪黎曼广义相对论中那样的“远距离比较”。因此，魏尔的几何是一门非黎曼几何，是通过对矢量与张量的两种基本比较关系的现象学“本质分析”构造出来的。但它产生了一个新的几何概念——联络概念，这个概念后来成为微分几何、乃至广义相对论本身的新的公理化基础。魏尔的几何要求：场物理学所允许的、相隔有限距离的点 P 与 Q 处的量值之间的一切关系的融贯性与一致性，都必须通过沿着连接 P 与 Q 之间所有点的特定路径把相邻点间的比较关系逐步积分起来而产生；由此，它的构造本身就既满足了场论对“超距作用”的禁令，也满足了现象学明证性（Evidenz）的要求——这些比较关系必须可以直接检视。作为一个重构性的认识论工程，正如魏尔本人所指出的，它与莱布尼茨和黎曼的明确形而上学抱负相吻合：“从无穷小处的行为来理解世界”。",
+        {
+          "type": "note",
+          "id": "ch16-n36",
+          "label": "36"
+        }
+      ],
+      "units": 245
+    },
+    {
+      "id": "ch16-u105",
+      "source_ids": [
+        "ch16-u105"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is widely, but wrongly, believed that Einstein showed that Weyl’s theory of “gravitation and electromagnetism” was incompatible with the data of observation, in particular, with the sharp spectral lines of the chemical elements. In fact, Weyl made a sustained and detailed response that turned the tables on Einstein, centering on the inconsistency of the independent postulate of rigid rods and perfect clocks that Einstein supposed necessary to link his gravitational theory to experience. Of course, such a posit physically manifests the comparisons of lengths and times “at a distance” that is inconsistent with the spirit of field theory. At the same time, Weyl showed how his theory offered an in-principle dynamical account of the observed behavior of rods and clocks, remarking that his theory, but not Einstein’s, provided the possibility of accounting for this “natural gauge of the world”. In the fifth (1923) edition of Raum-Zeit-Materie, the last to appear in his lifetime, the theory was defended not so much as a physical hypothesis, but as “a theoretically very satisfying amalgamation and interpretation of our whole knowledge of field physics.”",
+        {
+          "type": "note",
+          "id": "ch16-n37",
+          "label": "37"
+        }
+      ],
+      "zh": [
+        "人们广泛地——但错误地——相信，爱因斯坦表明了魏尔的“引力与电磁学”理论与观察数据不相容，特别是与化学元素的锐利谱线不相容。事实上，魏尔作了持续而细致的回应，反将了爱因斯坦一军，其核心是爱因斯坦认为把他的引力理论与经验联系起来所必需的把刚性杆与理想钟另立为公设所造成的不一致。当然，这样一个设定在物理上体现了长度与时间的“远距离”比较，这与场论的精神不一致。与此同时，魏尔表明他的理论如何为杆与钟在观测中呈现的行为提供一种原则上的动力学说明，并指出他的理论——而不是爱因斯坦的理论——提供了说明这种“世界的自然规范”的可能性。在《空间–时间–物质》第五版（1923）——他有生之年出版的最后一版——中，这一理论被辩护，与其说是作为一个物理假设，不如说是作为“对我们关于场物理学的全部知识的一种在理论上非常令人满意的融合与解释”。",
+        {
+          "type": "note",
+          "id": "ch16-n37",
+          "label": "37"
+        }
+      ],
+      "units": 181
+    },
+    {
+      "id": "ch16-u106",
+      "source_ids": [
+        "ch16-u106"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Weyl would abandon his world geometry only in 1928, when he convinced himself that the “epistemological principle of relativity of length” was not valid in the realm of atomic physics. Even so, he retained his principle of “gauge invariance” by reinterpreting gauge as pertaining not to a space–time factor of scale, but where the local gauge transformations are imaginary phase transformations of the complex-valued quantum matter field in the setting of Dirac’s relativistic theory of the electron in 1929. Weyl derived the Maxwell equations from the requirement of local phase invariance, thus coupling charged matter to the electromagnetic field, and so originating the modern understanding of the principle of local gauge invariance (“local symmetries dictate the form of the interaction”) that lies at the basis of contemporary geometrical unification programs in fundamental physics.",
+        {
+          "type": "note",
+          "id": "ch16-n38",
+          "label": "38"
+        },
+        " In sum, the contemporary preference in field theory for theories that are “gauge invariant”, i.e., the viewpoint that local symmetries are the hallmark of physical objectivity, is the final fruit of Weyl’s quest in 1918 to uncover the transcendental subjectivity underlying the sedimented tensor formalism of general relativity."
+      ],
+      "zh": [
+        "魏尔直到 1928 年才放弃他的世界几何，当时他确信“长度相对性的认识论原理”在原子物理学领域无效。即便如此，他仍保留了“规范不变性”原理，办法是重新解释规范：规范不再涉及时空尺度因子。1929 年，魏尔转而以狄拉克的相对论性电子理论为基础，把局域规范变换理解为复值量子物质场的虚相位变换。魏尔从局域相位不变性的要求导出了麦克斯韦方程组，从而把带电物质与电磁场耦合起来，由此开创了局域规范不变性原理的现代理解（“局域对称性决定相互作用的形式”），这一理解位于当代基础物理学中几何统一纲领的基础之处。",
+        {
+          "type": "note",
+          "id": "ch16-n38",
+          "label": "38"
+        },
+        " 总之，当代场论对“规范不变”理论的偏爱，即局域对称性是物理客观性之标志的观点，正是魏尔 1918 年寻求揭示广义相对论层层积累的张量形式体系背后的先验主体性这一探索的最终果实。"
+      ],
+      "units": 183
+    },
+    {
+      "id": "ch16-ref001",
+      "source_ids": [
+        "ch16-ref001"
+      ],
+      "page": "296",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Conclusion"
+      ],
+      "zh": [
+        "4 结论"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch16-u108",
+      "source_ids": [
+        "ch16-u108"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Despite the unearned hegemony of naturalism in philosophy of science, the promise of a non-naturalistic and transcendental alternative to scientific realism and all its ilk is not at all an atavistic illusion, but can be extracted from a close examination of how Hermann Weyl, seeking such an understanding of general relativity, arrived at the postulate that our fundamental theories, our field theories, satisfy an a priori constraint of reasonableness, the requirement of local gauge freedom, or local symmetry. Although Weyl arrived at this conclusion by coupling mathematical construction with the difficult nexus of transcendental phenomenological idealism – or First Philosophy – his example is and remains a canonical demonstration of how and why a priori constraints of reasonableness can govern our best theories of nature, without the proud presumption of scientific realism that these constraints are inherent in nature itself. In a word, this is the program of a transcendental philosophy of science.",
+        {
+          "type": "note",
+          "id": "ch16-n39",
+          "label": "39"
+        }
+      ],
+      "zh": [
+        "尽管自然主义在科学哲学中享有不应得的霸权，但一种非自然主义的、先验的替代方案——替代科学实在论及其一切同类——的前景，绝不是返祖的幻觉，而是可以从如下考察中提炼出来的：仔细考察赫尔曼·魏尔在寻求对广义相对论的这样一种理解时，如何达到了这一公设——我们的基础理论、我们的场论，满足一条先天的合理性约束，即局域规范自由或局域对称性的要求。尽管魏尔是通过把数学构造与先验现象学观念论——即第一哲学——的艰难关联结合起来才得出这一结论，他的工作至今仍是一个典型实例，表明先天的合理性约束如何以及为什么能够支配我们最好的自然理论，而不带有科学实在论那种自以为是的预设，即这些约束是自然本身固有的。一言以蔽之，这就是一种先验科学哲学的纲领。",
+        {
+          "type": "note",
+          "id": "ch16-n39",
+          "label": "39"
+        }
+      ],
+      "units": 151
+    },
+    {
+      "id": "ch16-u107",
+      "source_ids": [
+        "ch16-u107"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch16-bibliography-001",
+      "source_ids": [
+        "ch16-ref003",
+        "ch16-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "K. Brading (2002). “Which Symmetry? Noether, Weyl, and the Conservation of Charge”, Studies in History and Philosophy of Modern Physics, 33, 3–22."
+      ],
+      "zh": [
+        "K. Brading (2002). “Which Symmetry? Noether, Weyl, and the Conservation of Charge”, Studies in History and Philosophy of Modern Physics, 33, 3–22."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch16-bibliography-002",
+      "source_ids": [
+        "ch16-ref004",
+        "ch16-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "K. Brading and T. Ryckman (2008). “Hilbert’s ‘Foundations of Physics’: Gravitation and Electromagnetism within the Axiomatic Method”, Studies in History and Philosophy of Modern Physics, 39, 102–153."
+      ],
+      "zh": [
+        "K. Brading and T. Ryckman (2008). “Hilbert’s ‘Foundations of Physics’: Gravitation and Electromagnetism within the Axiomatic Method”, Studies in History and Philosophy of Modern Physics, 39, 102–153."
+      ],
+      "shared": true,
+      "units": 28
+    },
+    {
+      "id": "ch16-bibliography-003",
+      "source_ids": [
+        "ch16-ref005",
+        "ch16-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "E. Cassirer (1921). Zur Einsteinschen Relativitätstheorie: Erkenntnistheoretische Betrachtungen. Berlin: Bruno Cassirer. Pagination as reprinted in Cassirer, 1957, 1–125. Translated by W. Swabey and M. Swabey as Substance and Function and Einstein’s Theory of Relativity, 1923. Reprint edition, New York: Dover, 1953, 347–460."
+      ],
+      "zh": [
+        "E. Cassirer (1921). Zur Einsteinschen Relativitätstheorie: Erkenntnistheoretische Betrachtungen. Berlin: Bruno Cassirer. Pagination as reprinted in Cassirer, 1957, 1–125. Translated by W. Swabey and M. Swabey as Substance and Function and Einstein’s Theory of Relativity, 1923. Reprint edition, New York: Dover, 1953, 347–460."
+      ],
+      "shared": true,
+      "units": 44
+    },
+    {
+      "id": "ch16-bibliography-004",
+      "source_ids": [
+        "ch16-ref006",
+        "ch16-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "A. Eddington (1923). The Mathematical Theory of Relativity. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "A. Eddington (1923). The Mathematical Theory of Relativity. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch16-bibliography-005",
+      "source_ids": [
+        "ch16-ref007",
+        "ch16-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "A. Fine (1984). “The Natural Ontological Attitude”, in J. Leplin (ed.), Scientific Realism. Berkeley/Los Angeles, CA: University of California Press, 83–107."
+      ],
+      "zh": [
+        "A. Fine (1984). “The Natural Ontological Attitude”, in J. Leplin (ed.), Scientific Realism. Berkeley/Los Angeles, CA: University of California Press, 83–107."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch16-bibliography-006",
+      "source_ids": [
+        "ch16-ref008",
+        "ch16-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "M. Friedman (2001). Dynamics of Reason: The 1999 Kant Lectures at Stanford University. Stanford, CA: Center for the Study of Language and Information Publications."
+      ],
+      "zh": [
+        "M. Friedman (2001). Dynamics of Reason: The 1999 Kant Lectures at Stanford University. Stanford, CA: Center for the Study of Language and Information Publications."
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch16-bibliography-007",
+      "source_ids": [
+        "ch16-ref009",
+        "ch16-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "E. Husserl (1910). “Philosophie als strenge Wissenschaft,” Logos, I, 1910–1911, 289–341. Translated by Q. Lauer as “Philosophy as Rigorous Science,” in E. Husserl (ed.), Phenomenology and the Crisis of Philosophy. New York: Harper & Row, 1965."
+      ],
+      "zh": [
+        "E. Husserl (1910). “Philosophie als strenge Wissenschaft,” Logos, I, 1910–1911, 289–341. Translated by Q. Lauer as “Philosophy as Rigorous Science,” in E. Husserl (ed.), Phenomenology and the Crisis of Philosophy. New York: Harper & Row, 1965."
+      ],
+      "shared": true,
+      "units": 37
+    },
+    {
+      "id": "ch16-bibliography-008",
+      "source_ids": [
+        "ch16-ref010",
+        "ch16-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "E. Husserl (1913). “Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie. Erstes Buch”. Jahrbuch für Philosophie und phänomenologische Forschung, Bd. I. Augmented text with latter insertions edited by W. Biemel, published in Husserliana v. 3. The Hague: M. Nijhoff, 1950. Translated by F. Kersten as Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy. First Book. The Hague: M. Nijhoff, 1983."
+      ],
+      "zh": [
+        "E. Husserl (1913). “Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie. Erstes Buch”. Jahrbuch für Philosophie und phänomenologische Forschung, Bd. I. Augmented text with latter insertions edited by W. Biemel, published in Husserliana v. 3. The Hague: M. Nijhoff, 1950. Translated by F. Kersten as Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy. First Book. The Hague: M. Nijhoff, 1983."
+      ],
+      "shared": true,
+      "units": 63
+    },
+    {
+      "id": "ch16-bibliography-009",
+      "source_ids": [
+        "ch16-ref011",
+        "ch16-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "E. Husserl (1929). “Formale und transzendentale Logik: Versuch einer Kritik der logischen Vernunft”, Jahrbuch für Philosophie und phänomenologische Forschung 10, 1–298. Translated by Dorion Cairns as Formal and Transcendental Logic. The Hague, The Netherlands: Martinus Nijhoff, 1969."
+      ],
+      "zh": [
+        "E. Husserl (1929). “Formale und transzendentale Logik: Versuch einer Kritik der logischen Vernunft”, Jahrbuch für Philosophie und phänomenologische Forschung 10, 1–298. Translated by Dorion Cairns as Formal and Transcendental Logic. The Hague, The Netherlands: Martinus Nijhoff, 1969."
+      ],
+      "shared": true,
+      "units": 38
+    },
+    {
+      "id": "ch16-bibliography-010",
+      "source_ids": [
+        "ch16-ref015",
+        "ch16-ref016"
+      ],
+      "page": "297",
+      "canonical_kind": "reference",
+      "en": [
+        "E. Husserl (1962). Die Krisis der europäischen Wissenschaften und die tranzendentale Phänomenologie. Eine Einleitung in die phänomenologische Philosophie. W. Biemel (hrsg). 2. Auflage. Haag, Martinus Nijhoff, 29–30. Parts originally published in Philosophia, 1(1936). Translated by D. Carr as The Crisis of European Sciences and Transcendental Phenomenology. Evanston, IL: Northwestern University Press, 1970."
+      ],
+      "zh": [
+        "E. Husserl (1962). Die Krisis der europäischen Wissenschaften und die tranzendentale Phänomenologie. Eine Einleitung in die phänomenologische Philosophie. W. Biemel (hrsg). 2. Auflage. Haag, Martinus Nijhoff, 29–30. Parts originally published in Philosophia, 1(1936). Translated by D. Carr as The Crisis of European Sciences and Transcendental Phenomenology. Evanston, IL: Northwestern University Press, 1970."
+      ],
+      "shared": true,
+      "units": 54
+    },
+    {
+      "id": "ch16-bibliography-011",
+      "source_ids": [
+        "ch16-ref016",
+        "ch16-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "D. Laugwitz (1958). “Über eine Vermutung von Hermann Weyl zum Raumproblem”, Archiv der Mathematik, 9, 128–33."
+      ],
+      "zh": [
+        "D. Laugwitz (1958). “Über eine Vermutung von Hermann Weyl zum Raumproblem”, Archiv der Mathematik, 9, 128–33."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch16-bibliography-012",
+      "source_ids": [
+        "ch16-ref017",
+        "ch16-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "P. Maddy (2000). “Naturalism and the A Priori”, in P. Bogohassian and C. Peacocke (eds.), New Essays on the A Priori. New York: Oxford University Press, 92–116."
+      ],
+      "zh": [
+        "P. Maddy (2000). “Naturalism and the A Priori”, in P. Bogohassian and C. Peacocke (eds.), New Essays on the A Priori. New York: Oxford University Press, 92–116."
+      ],
+      "shared": true,
+      "units": 28
+    },
+    {
+      "id": "ch16-bibliography-013",
+      "source_ids": [
+        "ch16-ref018",
+        "ch16-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "W. Pauli, Jr. (1921). Relativitätstheorie, in Encyklopädie der mathematischen Wissenschaften, 19. Leipzig, Germany: B. G. Teubner. Translated as The Theory of Relativity. New York: Pergamon, 1958."
+      ],
+      "zh": [
+        "W. Pauli, Jr. (1921). Relativitätstheorie, in Encyklopädie der mathematischen Wissenschaften, 19. Leipzig, Germany: B. G. Teubner. Translated as The Theory of Relativity. New York: Pergamon, 1958."
+      ],
+      "shared": true,
+      "units": 26
+    },
+    {
+      "id": "ch16-bibliography-014",
+      "source_ids": [
+        "ch16-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "W. Quine (1981), Theories and Things. Cambridge, MA: Harvard University Press."
+      ],
+      "zh": [
+        "W. Quine (1981), Theories and Things. Cambridge, MA: Harvard University Press."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch16-bibliography-015",
+      "source_ids": [
+        "ch16-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "M. Redhead (1995). From Physics to Metaphysics. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "M. Redhead (1995). From Physics to Metaphysics. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch16-bibliography-016",
+      "source_ids": [
+        "ch16-ref019",
+        "ch16-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "T. Ryckman (2005). The Reign of Relativity: Philosophy in Physics 1915–1925. New York: Oxford University Press."
+      ],
+      "zh": [
+        "T. Ryckman (2005). The Reign of Relativity: Philosophy in Physics 1915–1925. New York: Oxford University Press."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch16-bibliography-017",
+      "source_ids": [
+        "ch16-ref020",
+        "ch16-ref021"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "M. Schlick (1922). “Die Relativitätstheorie in der Philosophie”, Verhandlungen der Gesellschaft Deutscher Naturforscher und Ärzte. Leipzig, Germany, 58–69."
+      ],
+      "zh": [
+        "M. Schlick (1922). “Die Relativitätstheorie in der Philosophie”, Verhandlungen der Gesellschaft Deutscher Naturforscher und Ärzte. Leipzig, Germany, 58–69."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch16-bibliography-018",
+      "source_ids": [
+        "ch16-ref021",
+        "ch16-ref022"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "E. Scholz (1994). “Hermann Weyl’s Contribution to Geometry, 1917–1923”, in S. Chikara, S. Mitsuo, and J.W. Dauben (eds.), The Intersection of History and Mathematics, Basel, Switzerland/Boston, MA/Berlin: Birkhäuser Verlag, 203–30."
+      ],
+      "zh": [
+        "E. Scholz (1994). “Hermann Weyl’s Contribution to Geometry, 1917–1923”, in S. Chikara, S. Mitsuo, and J.W. Dauben (eds.), The Intersection of History and Mathematics, Basel, Switzerland/Boston, MA/Berlin: Birkhäuser Verlag, 203–30."
+      ],
+      "shared": true,
+      "units": 35
+    },
+    {
+      "id": "ch16-bibliography-019",
+      "source_ids": [
+        "ch16-ref022",
+        "ch16-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "K. Schuhmann and E. Schuhmann (eds.) (1994). Edmund Husserl Briefwechsel, Vol. 7. Dordrecht, The Netherlands/Boston, MA/London: Kluwer."
+      ],
+      "zh": [
+        "K. Schuhmann and E. Schuhmann (eds.) (1994). Edmund Husserl Briefwechsel, Vol. 7. Dordrecht, The Netherlands/Boston, MA/London: Kluwer."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch16-bibliography-020",
+      "source_ids": [
+        "ch16-ref023",
+        "ch16-ref024"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "A. Shimony (1984). “Contextual Hidden Variables Theories and Bell’s Inequalities”, British Journal for the Philosophy of Science, 35, 25–45."
+      ],
+      "zh": [
+        "A. Shimony (1984). “Contextual Hidden Variables Theories and Bell’s Inequalities”, British Journal for the Philosophy of Science, 35, 25–45."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch16-bibliography-021",
+      "source_ids": [
+        "ch16-ref024",
+        "ch16-ref025"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "M. von Laue (1921). Die Relativitätstheorie. Bd.II. Die Allgemeine Relativitätstheorie and Einsteins Lehre der Schwerkraft. Braunschweig, Germany: Vieweg."
+      ],
+      "zh": [
+        "M. von Laue (1921). Die Relativitätstheorie. Bd.II. Die Allgemeine Relativitätstheorie and Einsteins Lehre der Schwerkraft. Braunschweig, Germany: Vieweg."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch16-bibliography-022",
+      "source_ids": [
+        "ch16-ref025",
+        "ch16-ref026"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "R. Weitzenböck (1920). “Über die Wirkungsfunktion in der Weyl’schen Physik”. Akademie der Wissenschaften in Wien. Sitzungsberichte, Abteilung IIa. Mathematisch-naturwissenschaftliche Klasse, 129, 683–708."
+      ],
+      "zh": [
+        "R. Weitzenböck (1920). “Über die Wirkungsfunktion in der Weyl’schen Physik”. Akademie der Wissenschaften in Wien. Sitzungsberichte, Abteilung IIa. Mathematisch-naturwissenschaftliche Klasse, 129, 683–708."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch16-bibliography-023",
+      "source_ids": [
+        "ch16-ref026",
+        "ch16-ref027"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1918a). Das Kontinuum: Kritische Untersuchungen über die Grundlagen der Analysis. Leipzig, Germany: Veit. Translated by S. Pollard and T. Bowl as The Continuum: A Critical Examination of the Foundations of Analysis (1994). New York: Dover."
+      ],
+      "zh": [
+        "H. Weyl (1918a). Das Kontinuum: Kritische Untersuchungen über die Grundlagen der Analysis. Leipzig, Germany: Veit. Translated by S. Pollard and T. Bowl as The Continuum: A Critical Examination of the Foundations of Analysis (1994). New York: Dover."
+      ],
+      "shared": true,
+      "units": 37
+    },
+    {
+      "id": "ch16-bibliography-024",
+      "source_ids": [
+        "ch16-ref027"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1918b). Raum-Zeit-Materie. Berlin: J. Springer."
+      ],
+      "zh": [
+        "H. Weyl (1918b). Raum-Zeit-Materie. Berlin: J. Springer."
+      ],
+      "shared": true,
+      "units": 7
+    },
+    {
+      "id": "ch16-bibliography-025",
+      "source_ids": [
+        "ch16-ref027",
+        "ch16-ref028"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1918c). “Gravitation und Elektrizität”, Preußische Akademie der Wissenschaften (Berlin) Sitzungsberichte. Physikalisch-Mathematische Klasse, 465–80. Reprinted in Weyl (1968), 2, 29–42."
+      ],
+      "zh": [
+        "H. Weyl (1918c). “Gravitation und Elektrizität”, Preußische Akademie der Wissenschaften (Berlin) Sitzungsberichte. Physikalisch-Mathematische Klasse, 465–80. Reprinted in Weyl (1968), 2, 29–42."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch16-bibliography-026",
+      "source_ids": [
+        "ch16-ref028",
+        "ch16-ref029"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1918d). “Reine Infinitesimalgeometrie”, Mathematische Zeitschrift, 2, 384–411. Reprinted in Weyl (1968), 2, 1–28."
+      ],
+      "zh": [
+        "H. Weyl (1918d). “Reine Infinitesimalgeometrie”, Mathematische Zeitschrift, 2, 384–411. Reprinted in Weyl (1968), 2, 1–28."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch16-bibliography-027",
+      "source_ids": [
+        "ch16-ref029"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1919). Raum-Zeit-Materie, 3rd edn. Berlin: J. Springer."
+      ],
+      "zh": [
+        "H. Weyl (1919). Raum-Zeit-Materie, 3rd edn. Berlin: J. Springer."
+      ],
+      "shared": true,
+      "units": 9
+    },
+    {
+      "id": "ch16-bibliography-028",
+      "source_ids": [
+        "ch16-ref029",
+        "ch16-ref030"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1921a). Raum-Zeit-Materie, 4th edn. Berlin: J. Springer. Translated by H. L. Brose as Space-Time-Matter. London: Methuen, 1922; reprinted, Dover: New York, 1953."
+      ],
+      "zh": [
+        "H. Weyl (1921a). Raum-Zeit-Materie, 4th edn. Berlin: J. Springer. Translated by H. L. Brose as Space-Time-Matter. London: Methuen, 1922; reprinted, Dover: New York, 1953."
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch16-bibliography-029",
+      "source_ids": [
+        "ch16-ref030",
+        "ch16-ref031"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1921b). “Über die physikalischen Grundlagen der erweiterten Relativitätstheorie”. Physikalische Zeitschrift, 22, 473–80. Reprinted in Weyl (1968), 2, 99–112."
+      ],
+      "zh": [
+        "H. Weyl (1921b). “Über die physikalischen Grundlagen der erweiterten Relativitätstheorie”. Physikalische Zeitschrift, 22, 473–80. Reprinted in Weyl (1968), 2, 99–112."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch16-bibliography-030",
+      "source_ids": [
+        "ch16-ref031",
+        "ch16-ref032"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1921c). “Feld und Materie,” Annalen der Physik, 65, 541–63. Reprinted in Weyl (1968), 2, 237–59."
+      ],
+      "zh": [
+        "H. Weyl (1921c). “Feld und Materie,” Annalen der Physik, 65, 541–63. Reprinted in Weyl (1968), 2, 237–59."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch16-bibliography-031",
+      "source_ids": [
+        "ch16-ref032"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1923a). Raum-Zeit-Materie, 5th edn. Berlin: J. Springer."
+      ],
+      "zh": [
+        "H. Weyl (1923a). Raum-Zeit-Materie, 5th edn. Berlin: J. Springer."
+      ],
+      "shared": true,
+      "units": 9
+    },
+    {
+      "id": "ch16-bibliography-032",
+      "source_ids": [
+        "ch16-ref032",
+        "ch16-ref033"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1923b). Mathematische Analyse des Raumproblems: Vorlesungen gehalten in Barcelona und Madrid. Berlin: J. Springer."
+      ],
+      "zh": [
+        "H. Weyl (1923b). Mathematische Analyse des Raumproblems: Vorlesungen gehalten in Barcelona und Madrid. Berlin: J. Springer."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch16-bibliography-033",
+      "source_ids": [
+        "ch16-ref033",
+        "ch16-ref034"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1926). “Philosophie der Mathematik und Naturwissenschaft,” in A. Baeumler and M. Schröter (eds.), Handbuch der Philosophie, Abteilung II. Munich, Germany/Berlin: R. Oldenbourg Verlag. Revised and augmented English edition, Translated by O. Helmer as Philosophy of Mathematics and Natural Science. Princeton, NJ: Princeton University Press, 1949."
+      ],
+      "zh": [
+        "H. Weyl (1926). “Philosophie der Mathematik und Naturwissenschaft,” in A. Baeumler and M. Schröter (eds.), Handbuch der Philosophie, Abteilung II. Munich, Germany/Berlin: R. Oldenbourg Verlag. Revised and augmented English edition, Translated by O. Helmer as Philosophy of Mathematics and Natural Science. Princeton, NJ: Princeton University Press, 1949."
+      ],
+      "shared": true,
+      "units": 48
+    },
+    {
+      "id": "ch16-bibliography-034",
+      "source_ids": [
+        "ch16-ref036",
+        "ch16-ref037"
+      ],
+      "page": "298",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1929). “Elektron und Gravitation”. Zeitschrift für Physik, 56, 330–52. Reprinted in Weyl (1968), 3, 245–67."
+      ],
+      "zh": [
+        "H. Weyl (1929). “Elektron und Gravitation”. Zeitschrift für Physik, 56, 330–52. Reprinted in Weyl (1968), 3, 245–67."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch16-bibliography-035",
+      "source_ids": [
+        "ch16-ref037",
+        "ch16-ref038"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1931). “Geometrie und Physik”, Die Naturwissenschaften, 18, 49–58. Reprinted in Weyl (1968), 3, 336–45."
+      ],
+      "zh": [
+        "H. Weyl (1931). “Geometrie und Physik”, Die Naturwissenschaften, 18, 49–58. Reprinted in Weyl (1968), 3, 336–45."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch16-bibliography-036",
+      "source_ids": [
+        "ch16-ref038",
+        "ch16-ref039"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1955). “Erkenntnis und Besinnung” (Vortrag, gehalten an der Universität Lausanne im Mai 1954). Studia Philosophia (Jahrbuch der Schweizerischen Philosophischen Gesellschaft), 15, 153–71. Reprinted in Weyl (1968), 4, 631–49."
+      ],
+      "zh": [
+        "H. Weyl (1955). “Erkenntnis und Besinnung” (Vortrag, gehalten an der Universität Lausanne im Mai 1954). Studia Philosophia (Jahrbuch der Schweizerischen Philosophischen Gesellschaft), 15, 153–71. Reprinted in Weyl (1968), 4, 631–49."
+      ],
+      "shared": true,
+      "units": 32
+    },
+    {
+      "id": "ch16-bibliography-037",
+      "source_ids": [
+        "ch16-ref039",
+        "ch16-ref040"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1968). Gesammelte Abhandlungen. Bd. 1–4. S. Chandrasekharan (hrsg.). Berlin/ Heidelberg, Germany/New York: Springer."
+      ],
+      "zh": [
+        "H. Weyl (1968). Gesammelte Abhandlungen. Bd. 1–4. S. Chandrasekharan (hrsg.). Berlin/ Heidelberg, Germany/New York: Springer."
+      ],
+      "shared": true,
+      "units": 17
+    }
+  ],
+  "notes": {
+    "ch16-n01": {
+      "number": "1",
+      "en": [
+        "Quine (1981), p. 72."
+      ],
+      "zh": [
+        "Quine (1981), p. 72."
+      ]
+    },
+    "ch16-n02": {
+      "number": "2",
+      "en": [
+        "Maddy (2000), p. 107; citing Quine (1981), p. 181."
+      ],
+      "zh": [
+        "Maddy (2000), p. 107; citing Quine (1981), p. 181."
+      ]
+    },
+    "ch16-n03": {
+      "number": "3",
+      "en": [
+        "Shimony (1984); Redhead (1995)."
+      ],
+      "zh": [
+        "Shimony (1984); Redhead (1995)."
+      ]
+    },
+    "ch16-n04": {
+      "number": "4",
+      "en": [
+        "Schlick (1922), p. 63."
+      ],
+      "zh": [
+        "Schlick (1922), p. 63."
+      ]
+    },
+    "ch16-n05": {
+      "number": "5",
+      "en": [
+        "For details, see Ryckman (2005); Brading and Ryckman (2008)."
+      ],
+      "zh": [
+        "For details, see Ryckman (2005); Brading and Ryckman (2008)."
+      ]
+    },
+    "ch16-n06": {
+      "number": "6",
+      "en": [
+        "Von Laue (1921), p. 42."
+      ],
+      "zh": [
+        "Von Laue (1921), p. 42."
+      ]
+    },
+    "ch16-n07": {
+      "number": "7",
+      "en": [
+        "Fine (1984) has urged that science be “left alone”, that we should take its theoretical pronouncements as they are, without the metaphysical lard of realism or the epistemological embellishment of antirealism. As with Fine’s “Natural Ontological Attitude” (the term, of course, derives from Husserl) we recognize and respect the “natural attitude” of working science and its pronouncements regarding the furniture of the unobserved world, and indeed, as laymen, we take them on faith. Husserl stated this position very clearly, while also pointing out its limitations: “No reasonable person will doubt the objective truth or the objectively grounded probability of the wonderful theories of mathematics and the natural sciences. Here there is, by and large, no room for private ‘opinions’, ‘notions’, or ‘points of view’”. Husserl (1910), 290, Engl. trans. 74 “When it is actually natural science that speaks, we listen gladly and as disciples. But it is not always natural science that speaks when natural scientists are speaking….” Husserl (1913), § 20"
+      ],
+      "zh": [
+        "法恩（1984）力主让科学“自行其是”，直接接受科学理论的陈述，既不添上实在论的形而上学赘余，也不加上反实在论的认识论修饰。正如对待法恩的“自然本体论态度”（这个术语当然源自胡塞尔）一样，我们承认并尊重从事中的科学的“自然态度”及其关于未观察到的世界中存有哪些事物的陈述，而且作为外行，我们确实凭信仰接受它们。胡塞尔非常清楚地陈述了这一立场，同时也指出了它的限度：“任何有理性的人都不会怀疑数学与自然科学那些奇妙理论的客观真理性或有客观根据的概然性。在这里，大体上没有私人‘意见’、‘想法’或‘观点’的余地。”Husserl (1910), 290, 英译本 74。“当真正是自然科学在说话时，我们乐于像学生一样聆听。但当自然科学家在说话时，并不总是自然科学在说话……”Husserl (1913), § 20"
+      ]
+    },
+    "ch16-n08": {
+      "number": "8",
+      "en": [
+        "Husserl (1962), pp. 29–30; Engl. trans., p. 32."
+      ],
+      "zh": [
+        "Husserl (1962), pp. 29–30; Engl. trans., p. 32."
+      ]
+    },
+    "ch16-n09": {
+      "number": "9",
+      "en": [
+        "Husserl (1929), p. 253; Engl. trans., p. 246."
+      ],
+      "zh": [
+        "Husserl (1929), p. 253; Engl. trans., p. 246."
+      ]
+    },
+    "ch16-n10": {
+      "number": "10",
+      "en": [
+        "Weyl (1931), p. 49, 52. In this paper, his W. Rouse Ball lecture at Oxford, Weyl reminisced about his work in relativity theory in the period 1917–1923. In the cited passage, Weyl alludes to the fact that the tangent space at a point P of a Riemannian manifold M is a vector space associated with P, not a part of M itself. However, there is always a neighborhood of any vector in the tangent space to P that can be mapped diffeomorphically onto an open neighborhood of P in M, the socalled exponential mapping, traceable back to Riemann."
+      ],
+      "zh": [
+        "Weyl (1931), p. 49, 52。本文是魏尔在牛津所作的 W. Rouse Ball 讲座，他在其中回忆了自己 1917–1923 年间在相对论方面的工作。在所引段落中，魏尔暗指这样一个事实：黎曼流形 M 上一点 P 处的切空间是与 P 相关联的一个矢量空间，而不是 M 本身的一部分。然而，P 处切空间中任何矢量总有一个邻域，可以微分同胚地映射到 M 中 P 的一个开邻域上，这就是所谓的指数映射，可追溯至黎曼。"
+      ]
+    },
+    "ch16-n11": {
+      "number": "11",
+      "en": [
+        "Weyl (1926), p. 61; Engl. trans., p. 86."
+      ],
+      "zh": [
+        "Weyl (1926), p. 61; Engl. trans., p. 86."
+      ]
+    },
+    "ch16-n12": {
+      "number": "12",
+      "en": [
+        "Weyl (1918a), p. 72; Engl. trans., p. 93: “The coordinate system is the unavoidable residuum of the ego’s annihilation (das unvermeidliche Residuum der Ich-Vernichtung) in that geometricophysical world which reason sifts from the given under the norm of ‘objectivity’ – a final scanty token in this objective sphere that existence (Dasein) is only given and can only be given as the intentional content of the conscious experience of a pure, sense-giving ego.”"
+      ],
+      "zh": [
+        "Weyl (1918a), p. 72; 英译本 p. 93：“坐标系是自我在那个几何–物理世界中被湮灭后不可避免的残余（das unvermeidliche Residuum der Ich-Vernichtung），而那个世界是理性在‘客观性’规范下从所予中筛滤出来的——它是这个客观领域中的一个最后的微薄凭证，表明定在（Dasein）只有作为纯粹的、赋予意义的自我的意识体验的意向内容才被给予，并且只能如此被给予。”"
+      ]
+    },
+    "ch16-n13": {
+      "number": "13",
+      "en": [
+        "Weyl (1918a), p. 72; Engl. trans., p. 94."
+      ],
+      "zh": [
+        "Weyl (1918a), p. 72; Engl. trans., p. 94."
+      ]
+    },
+    "ch16-n14": {
+      "number": "14",
+      "en": [
+        "“Vorwort zur dritten Auflage”, in Weyl (1919), p. vi."
+      ],
+      "zh": [
+        "“Vorwort zur dritten Auflage”, in Weyl (1919), p. vi."
+      ]
+    },
+    "ch16-n15": {
+      "number": "15",
+      "en": [
+        "Weyl (1918d), p. 385; reprinted in (1968), 2, p. 2."
+      ],
+      "zh": [
+        "Weyl (1918d), p. 385; reprinted in (1968), 2, p. 2."
+      ]
+    },
+    "ch16-n16": {
+      "number": "16",
+      "en": [
+        "See Weitzenböck (1920)."
+      ],
+      "zh": [
+        "参见 Weitzenböck (1920)。"
+      ]
+    },
+    "ch16-n17": {
+      "number": "17",
+      "en": [
+        "Weyl (1918d), p. 386; reprinted in (1968), 2, p. 3."
+      ],
+      "zh": [
+        "Weyl (1918d), p. 386; reprinted in (1968), 2, p. 3."
+      ]
+    },
+    "ch16-n18": {
+      "number": "18",
+      "en": [
+        "Weyl (1923b), p. 11."
+      ],
+      "zh": [
+        "Weyl (1923b), p. 11."
+      ]
+    },
+    "ch16-n19": {
+      "number": "19",
+      "en": [
+        "Following Cartan, such a connection is now denominated “without torsion”."
+      ],
+      "zh": [
+        "追随嘉当，这样的联络如今被称为“无挠率的”。"
+      ]
+    },
+    "ch16-n20": {
+      "number": "20",
+      "en": [
+        "Weyl (1923b), p. 17. A metric tensor is needed only to raise or lower indices."
+      ],
+      "zh": [
+        "Weyl (1923b), p. 17。度规张量只用来升降指标。"
+      ]
+    },
+    "ch16-n21": {
+      "number": "21",
+      "en": [
+        "Eddington (1923); for discussion, see Ryckman (2005), Chapter 8."
+      ],
+      "zh": [
+        "Eddington (1923)；讨论见 Ryckman (2005), Chapter 8。"
+      ]
+    },
+    "ch16-n22": {
+      "number": "22",
+      "en": [
+        "Weyl (1923a), p. 113, (1921c), p. 542, reprinted in (1968), 2, p. 238. See also Scholz (1994)."
+      ],
+      "zh": [
+        "Weyl (1923a), p. 113, (1921c), p. 542, reprinted in (1968), 2, p. 238。另见 Scholz (1994)。"
+      ]
+    },
+    "ch16-n23": {
+      "number": "23",
+      "en": [
+        "Weyl (1918c), p. 466; reprinted in (1968), 2, p. 30. Emphasis in original."
+      ],
+      "zh": [
+        "Weyl (1918c), p. 466; reprinted in (1968), 2, p. 30。强调为原文所有。"
+      ]
+    },
+    "ch16-n24": {
+      "number": "24",
+      "en": [
+        "Weyl (1923b), p. 47."
+      ],
+      "zh": [
+        "Weyl (1923b), p. 47."
+      ]
+    },
+    "ch16-n25": {
+      "number": "25",
+      "en": [
+        "Pauli (1921); Eng. trans., pp. 195–156."
+      ],
+      "zh": [
+        "Pauli (1921); Eng. trans., pp. 195–156."
+      ],
+      "editorial": [
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "英译本页码照原书。所列页码的起讫顺序疑有误。"
+          ]
+        }
+      ]
+    },
+    "ch16-n26": {
+      "number": "26",
+      "en": [
+        "Weyl (1923a), p. 124: “ein metrischer Raum tragt von Natur einen affinen Zusammenhang”. Laugwitz (1958) proved this conjecture, showing that this condition singles out infinitesimal Euclidean metrics from the wider class of Finsler metrics."
+      ],
+      "zh": [
+        "Weyl (1923a), p. 124：“ein metrischer Raum tragt von Natur einen affinen Zusammenhang”（度规空间按其本性就带有仿射联络）。劳格维茨（1958）证明了这一猜想，表明该条件从更宽的芬斯勒度规类中挑选出无穷小欧几里得度规。"
+      ]
+    },
+    "ch16-n27": {
+      "number": "27",
+      "en": [
+        "Weyl (1921b), p. 497; reprinted in (1968), 2, p. 235; the full group-theoretic proof appears in Weyl (1923b)."
+      ],
+      "zh": [
+        "Weyl (1921b), p. 497; reprinted in (1968), 2, p. 235；完整的群论证明见 Weyl (1923b)。"
+      ]
+    },
+    "ch16-n28": {
+      "number": "28",
+      "en": [
+        "Schuhmann and Schuhmann (1994), p. 291."
+      ],
+      "zh": [
+        "Schuhmann and Schuhmann (1994), p. 291."
+      ]
+    },
+    "ch16-n29": {
+      "number": "29",
+      "en": [
+        "Weyl (1921a), p. 133; cf. Engl. trans. (1953), p. 148: “The investigations made concerning space in chapter two appear to me to be a good example of the essential analysis (Wesenanalyse) striven for by phenomenological philosophy (Husserl), an example that is typical for such cases where a non-immanent essence is dealt with. We see in the historical development of the problem of space, how difficult it is for us reality-prejudiced humans to hit upon what is decisive. A long mathematical development, the great unfolding of geometrical studies from Euclid to Riemann, the physical exploration of nature and its laws since Galileo, together with all its incessant boosts from empirical data, finally, the genius of singularly great minds – Newton, Gauss, Riemann, Einstein – all were required to tear us loose from the accidental, non-essential characteristics to which we at first remain captive. Certainly, once the true standpoint has been attained, Reason (Vernunft) is flooded with light, recognizing and accepting what is understandable out-of-itself (das ihr aus-sich-selbst Verständliche)”. “The example of space”, Weyl continued, “is most instructive for that question of phenomenology that seems to me particularly decisive: to what extent the delimitation of the essentialities (Wesenheiten) rising up to consciousness express a characteristic structure of the domain of the given itself and to what extent mere convention participates in it.”"
+      ],
+      "zh": [
+        "Weyl (1921a), p. 133；参见英译本 (1953), p. 148：“第二章中关于空间所作的研究，在我看来是现象学哲学（胡塞尔）所力求的本质分析（Wesenanalyse）的一个好例子，一个在处理非内在本质这类情形时具有典型性的例子。我们在空间问题的历史发展中看到，对我们这些总带着实在预设的人来说，要把握真正关键之处是多么困难。一个漫长的数学发展，从欧几里得到黎曼的几何研究的宏大展开，自伽利略以来对自然及其规律的物理探索连同经验数据不断的推动，最后，格外伟大的心灵——牛顿、高斯、黎曼、爱因斯坦——的天才，这一切都是必需的，为的是把我们从最初仍被俘获于其中的偶然的、非本质的特征中挣脱出来。当然，一旦达到了真正的立场，理性（Vernunft）就充满光明，认识并接受从自身出发可理解的东西（das ihr aus-sich-selbst Verständliche）”。“空间的例子”，魏尔继续说，“对于现象学的那个在我看来特别决定性的问题最有教益：上升到意识的诸本质性（Wesenheiten）的界定，在多大程度上表达了所予领域本身的特征结构，又在多大程度上有纯然约定参与其中。”"
+      ]
+    },
+    "ch16-n30": {
+      "number": "30",
+      "en": [
+        "Weyl (1955), p. 161."
+      ],
+      "zh": [
+        "Weyl (1955), p. 161."
+      ]
+    },
+    "ch16-n31": {
+      "number": "31",
+      "en": [
+        "Weyl (1919), p. 244."
+      ],
+      "zh": [
+        "Weyl (1919), p. 244."
+      ]
+    },
+    "ch16-n32": {
+      "number": "32",
+      "en": [
+        "Weyl (1919), p. 251."
+      ],
+      "zh": [
+        "Weyl (1919), p. 251."
+      ]
+    },
+    "ch16-n33": {
+      "number": "33",
+      "en": [
+        "Weyl (1919), p. 251–252; (1923a), p. 314–315; for discussion see Brading (2002)."
+      ],
+      "zh": [
+        "Weyl (1919), p. 251–252; (1923a), p. 314–315; for discussion see Brading (2002)."
+      ]
+    },
+    "ch16-n34": {
+      "number": "34",
+      "en": [
+        "Weyl (1919), p. 253."
+      ],
+      "zh": [
+        "Weyl (1919), p. 253."
+      ]
+    },
+    "ch16-n35": {
+      "number": "35",
+      "en": [
+        "See Ryckman (2005), Chapters 4–6."
+      ],
+      "zh": [
+        "参见 Ryckman (2005), Chapters 4–6。"
+      ]
+    },
+    "ch16-n36": {
+      "number": "36",
+      "en": [
+        "Weyl (1926), p. 61; Engl. trans, p. 86."
+      ],
+      "zh": [
+        "Weyl (1926), p. 61; Engl. trans, p. 86."
+      ]
+    },
+    "ch16-n37": {
+      "number": "37",
+      "en": [
+        "Weyl (1923a), p. 308."
+      ],
+      "zh": [
+        "Weyl (1923a), p. 308."
+      ]
+    },
+    "ch16-n38": {
+      "number": "38",
+      "en": [
+        "Weyl (1929). Weyl’s argument for his correct conclusion is, in fact, flawed, resting on an unnecessary assumption about the representation of spinor matter fields within tetrad formulations of arbitrary curved space–times."
+      ],
+      "zh": [
+        "Weyl (1929)。魏尔为其正确结论所作的论证实际上有缺陷，它依赖于一项关于旋量物质场如何在任意弯曲时空的四标架形式中表示的非必要假定。"
+      ]
+    },
+    "ch16-n39": {
+      "number": "39",
+      "en": [
+        "For further details, see Ryckman (2005)."
+      ],
+      "zh": [
+        "更多细节参见 Ryckman (2005)。"
+      ]
+    }
+  }
+}

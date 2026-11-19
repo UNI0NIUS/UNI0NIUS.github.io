@@ -1,0 +1,1118 @@
+{
+  "id": "ch08",
+  "title": "现代物理学中的决定论、规定与客观性",
+  "originalTitle": "Determinism, Determination, and Objectivity in Modern Physics",
+  "outline": [
+    {
+      "anchor": "ch08-u056",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch08-u001",
+      "source_ids": [
+        "ch08-u001"
+      ],
+      "page": "159",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch08-u002",
+      "source_ids": [
+        "ch08-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Gordon Brittan, Jr."
+      ],
+      "zh": [
+        "小戈登·布里坦"
+      ],
+      "units": 3
+    },
+    {
+      "id": "ch08-u003",
+      "source_ids": [
+        "ch08-u003"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract Kant’s case for the objectivity of at least some of our experience is more threatened by the indeterminate than the indeterministic character of modern physics. Indeterminancy is a complex notion. It can be understood, ultimately, in terms of the failure of a “separability” principle, that objects can be individuated only with respect to non-vanishing spatial-temporal intervals. Its failure seems to follow from the fact that it is indispensable to the derivation of Bell’s Theorem and that the conclusion of the Theorem is incompatible with well-established empirical results. But Kant’s case for objectivity depends on it. The result is unsettling."
+      ],
+      "zh": [
+        "摘要 对康德关于我们的经验至少有一部分具有客观性的论证来说，现代物理学的非确定性特征比其非决定论特征构成更大的威胁。非确定性是一个复杂的概念。归根结底，它可以借助一条“可分离性”原则的失效来理解：只有相对于非零的时空间隔，对象才能被个体化。这条原则的失效似乎来自这样一个事实：它对贝尔定理的推导不可或缺，而该定理的结论与确立已久的经验结果不相容。但康德对客观性的论证恰恰依赖这条原则。结果令人不安。"
+      ],
+      "units": 100
+    },
+    {
+      "id": "ch08-u004",
+      "source_ids": [
+        "ch08-u004"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "G. Brittan Department of History and Philosophy, Montana State Univeristy, Bozeman, MT 59717, USA"
+      ],
+      "zh": [
+        "G. Brittan Department of History and Philosophy, Montana State Univeristy, Bozeman, MT 59717, USA"
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch08-u005",
+      "source_ids": [
+        "ch08-u005"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Much of the controversy about Kant in the perspective of modern physics has to do with the advent of indeterministic theories, and turns on the claim that they involve a “breakdown of causality” which is incompatible with Kant’s argument in the Second Analogy. Since the argument in the Second Analogy sets out an important presupposition of the objectivity of at least some of our experience, it has often been held that indeterministic theories demonstrate that his account of objectivity must be rejected as well."
+      ],
+      "zh": [
+        "从现代物理学的视角看，围绕康德的争论大多与非决定论理论的出现有关，并围绕这样一个主张展开：这些理论涉及“因果性的崩溃”，与康德在第二类比中的论证不相容。由于第二类比中的论证提出了我们的经验至少有一部分具有客观性的一个重要预设，人们常常认为，非决定论理论表明他的客观性说明也必须被拒斥。"
+      ],
+      "units": 84
+    },
+    {
+      "id": "ch08-u006",
+      "source_ids": [
+        "ch08-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In an earlier paper (1994) I argued that there is an interpretation of the quantum theory, and more particularly of the probabilistic operators embedded in its equations, which is compatible with Kant’s account of causality, and, more generally, that indeterministic theories as such do not undermine his account of the objectivity of experience. At the time, I indicated in passing that there were deeper and more difficult problems for Kant in connection with Bell’s Theorem, and as a result of the experiments carried out to test its implications. I now want, once again in a rather schematic and non-technical way, to take up these problems and to indicate, less optimistically than earlier, how they might be resolved. It turns out that indeterminism does not challenge Kant’s position (and its plausible account of objectivity) nearly so much as indeterminacy does, and that indeterminacy is a very complex notion."
+      ],
+      "zh": [
+        "在一篇较早的论文（1994）中，我论证了存在一种对量子理论的解释，更具体地说，是对其方程中嵌入的概率算符的一种解释，它与康德的因果性说明相容；并且更一般地论证了，非决定论理论本身并不损害他关于经验客观性的说明。当时我曾顺便指出，就贝尔定理以及为检验其推论而做的实验而言，康德还面临更深、更困难的问题。现在我想再次以相当概略的、非技术的方式处理这些问题，并以不如先前乐观的态度指出它们可能如何解决。结果表明，非决定论对康德立场（及其对客观性的可信说明）的挑战远不如非确定性那么大，而非确定性是一个非常复杂的概念。"
+      ],
+      "units": 147
+    },
+    {
+      "id": "ch08-u007",
+      "source_ids": [
+        "ch08-u007"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let me begin with some general and uncontroversial remarks, then pass to a very general feature of Kant’s position, and finally isolate the elements of modern physics which are problematic from the perspective of that position."
+      ],
+      "zh": [
+        "让我先作一些一般的、没有争议的评论，然后转向康德立场的一个非常一般的特征，最后分离出现代物理学中从该立场看有问题的那些要素。"
+      ],
+      "units": 36
+    },
+    {
+      "id": "ch08-u008",
+      "source_ids": [
+        "ch08-u008"
+      ],
+      "page": "160",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Judgments are objective in that they are made true or false by the objects to which they refer. Objectivity requires objects, and objects require objective reference. There are some obvious requirements on objective reference. Among them is the fact that the truth or falsity of an objective judgment must be independent of the manner in which the reference is made. A judgment is objective in this sense when the replacement of co-extensive parts (singular terms in particular) does not alter truth-value."
+      ],
+      "zh": [
+        "判断之所以是客观的，在于其真假取决于它们所指的对象。客观性要求对象，对象要求客观的指称。客观指称有一些明显的要求。其中之一是：一个客观判断的真假必须独立于指称作出的方式。当共外延部分（尤其是单称词项）的替换不改变真值时，一个判断在这个意义上就是客观的。"
+      ],
+      "units": 81
+    },
+    {
+      "id": "ch08-u009",
+      "source_ids": [
+        "ch08-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Another way of putting this is to say that objects must be independent of my conception or perception of them, which is just to say that in order to be “independent” (in the appropriate sense) the same objects must be conceivable or perceptible in different ways. But to talk about the same objects is to presuppose a set of well-defined identity conditions for them. The problem of objectivity is, at least in large part, the problem of identity."
+      ],
+      "zh": [
+        "换句话说，对象必须独立于我对它们的构想或知觉，这恰恰是说：为了（在恰当的意义上）“独立”，同样的对象必须能以不同的方式被构想或知觉。但谈论同样的对象，就预设了它们的一组明确定义的同一性条件。客观性问题至少在很大程度上就是同一性问题。"
+      ],
+      "units": 78
+    },
+    {
+      "id": "ch08-u010",
+      "source_ids": [
+        "ch08-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now how is identity to be understood? The classic account, of course, is Leibniz’s. Two objects are identical just in case they have all and only the same properties. Since Leibniz thought that space and time could be construed in terms of relations on objects and events, he understood his Law to read: two objects are identical just in case they have all and only the same non-spatial, non-temporal properties. The application of this Law entails that individual objects properly so-called, “substances” in Leibniz’s preferred vocabulary, are completely determined."
+      ],
+      "zh": [
+        "那么同一性该如何理解？经典的说明当然是莱布尼茨的。两个对象同一，当且仅当它们具有完全相同的全部属性。由于莱布尼茨认为空间和时间可以按对象和事件上的关系来构造，他把自己的定律理解为：两个对象同一，当且仅当它们具有完全相同的全部非空间、非时间属性。这条定律的应用意味着，严格意义上的个体对象——用莱布尼茨偏爱的词汇说，“实体”——是被完全规定的。"
+      ],
+      "units": 89
+    },
+    {
+      "id": "ch08-u014",
+      "source_ids": [
+        "ch08-u014"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "It is in the nature of an individual substance or of a complete being to furnish us a conception so complete that the concept alone suffices to understand and to deduce all of the predicates of which the substance is or will become the subject. (Discours de metaphysique, VII)"
+      ],
+      "zh": [
+        "一个个体实体或一个完备存在者的本性就在于，它为我们提供一个如此完备的概念，以至于单凭这个概念就足以理解并演绎出该实体现在是或将要成为其主词的一切谓词。（《形而上学论》VII）",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "本章引文出处标作《形而上学论》第七节（VII）。依莱布尼茨法文原文，该段见第八节（VIII）。"
+          ]
+        }
+      ],
+      "type": "quote",
+      "units": 49
+    },
+    {
+      "id": "ch08-u011",
+      "source_ids": [
+        "ch08-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We could put this in a slightly more contemporary way by saying that “a complete individual concept is a concept which contains, for every simple attribute, either this attribute or its negation, but never the two together” (Mates, 1986, p. 63). Kant himself puts the principle thus, in terms of the “proposition”, Everything existing is thoroughly determined… (CPR, A 573/B 605; Kant, 1998, p. 554), although, characteristically, he at once reformulates this semantic principle as a cognitive condition: “to know anything completely, we must know every possible [predicate], and must determine it thereby, either affirmatively or negatively.” We can call this the “completeness principle.”"
+      ],
+      "zh": [
+        "我们可以用稍微当代一点的方式表述这一点：“一个完备的个体概念是这样一个概念：对每一个简单属性，它或者包含这个属性，或者包含其否定，但决不同时包含两者”（Mates, 1986, p. 63）。康德本人用“命题”的方式这样表述这条原则：凡实存者皆被完全规定……（CPR, A 573/B 605; Kant, 1998, p. 554），不过，一如其典型做法，他随即把这条语义学原则重新表述为一个认知条件：“要完全地认识任何事物，我们必须认识每一个可能的[谓词]，并借此对它作出规定，或者肯定地，或者否定地。”我们可以把这称为“完备性原则”。"
+      ],
+      "units": 105
+    },
+    {
+      "id": "ch08-u012",
+      "source_ids": [
+        "ch08-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The “completeness principle” is at the core of Kant’s distinction between “transcendental idealism” and “transcendental idealism.” The somewhat complicated line of thought is as follows. “Transcendental idealism,” Kant tells us (CPR, A 369; Kant, 1998, p. 426), is “the doctrine that [appearances] are all together to be regarded as mere representations and not as things in themselves…” If we take “appearances” as the objects of experience, bracket out their (otherwise misleading) identification with “representations,” and assume that we can have knowledge only of those objects we can experience, then it follows that we cannot have knowledge of things in themselves."
+      ],
+      "zh": [
+        "“完备性原则”处于康德在“先验观念论”与“先验实在论”（原文两处均作 transcendental idealism，第二处疑为 transcendental realism 之误）之间所作区分的核心。这条略显复杂的思想路线如下。康德告诉我们（CPR, A 369; Kant, 1998, p. 426），“先验观念论”是“把[显象]统统视为单纯表象而非自在之物的学说……”。如果我们把“显象”理解为经验的对象，把它们与“表象”的（否则会引起误解的）等同悬置起来，并假定我们只能认识我们能经验到的那些对象，那么由此可知，我们不能认识自在之物。"
+      ],
+      "units": 100
+    },
+    {
+      "id": "ch08-u013",
+      "source_ids": [
+        "ch08-u013",
+        "ch08-u015"
+      ],
+      "page": "161",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But what are “things in themselves” and why can they not be objects of experience and hence of knowledge? The most plausible answer is given in the sections added to the Transcendental Aesthetic in the second edition of the Critique of Pure Reason. Kant there indicates that “everything in our [knowledge] that belongs to intuition… contains nothing but mere relations” (CPR, B 66; Kant, 1998, pp. 188–189). Since all of our knowledge involves the having of intuitions, it follows that all of our knowledge is relational in character. “Now through mere relations,”",
+        " ",
+        "Kant continues, “no thing in itself is [known]” (CPR, B 67; Kant, 1998, p. 189). Therefore, things in themselves cannot be known."
+      ],
+      "zh": [
+        "但“自在之物”是什么？为什么它们不能成为经验的对象、从而不能成为知识的对象？最可信的回答见于《纯粹理性批判》第二版为先验感性论增补的几节。康德在那里指出，“我们的[知识]中凡属于直观的东西……所包含的无非是单纯的关系”（CPR, B 66; Kant, 1998, pp. 188–189）。既然我们的一切知识都涉及拥有直观，由此可知，我们的一切知识在性质上都是关系性的。“而通过单纯的关系，”",
+        "康德接着说，“没有任何自在之物[被认识]”（CPR, B 67; Kant, 1998, p. 189）。因此，自在之物不能被认识。"
+      ],
+      "units": 115
+    },
+    {
+      "id": "ch08-u016",
+      "source_ids": [
+        "ch08-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The point is entirely general. To the extent that our knowledge is of the relational properties of objects, it is not of these objects as they are in themselves, but only as they can be compared, and eventually measured. But it applies in particular to our knowledge of the temporal and spatial properties of the objects of experience. On the one hand, the determination of such properties, “longer than” for example, involves a comparison of objects one with another, on the other hand, their determination involves a comparison of objects with our measuring devices. That is to say, the spatial and temporal properties of objects could only be determined if there were at least two objects in the world, and a ruler and a clock (which themselves presuppose our presence as well)."
+      ],
+      "zh": [
+        "这个论点完全是普遍的。就我们的知识是关于对象的关系属性而言，它不是关于这些对象如其自在的样子，而只是关于它们能被比较、并最终被测量的样子。但它尤其适用于我们关于经验对象的时间和空间属性的知识。一方面，这类属性（例如“长于”）的规定涉及对象之间的相互比较；另一方面，其规定涉及对象与我们的测量装置的比较。也就是说，只有当世界中至少有两个对象，并且有一把尺和一个钟（它们本身还预设了我们的在场）时，对象的空间和时间属性才能被规定。"
+      ],
+      "units": 132
+    },
+    {
+      "id": "ch08-u017",
+      "source_ids": [
+        "ch08-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now the concept of a thing in itself is the concept of an object all of whose properties are non-relational in character. A thing in itself has whatever properties it has in independence from anything else; whether the world has one object in it or many or a human presence is indifferent to the properties of anything in it considered as it is in itself."
+      ],
+      "zh": [
+        "而自在之物的概念是这样一个对象的概念：它的一切属性在性质上都是非关系的。自在之物独立于任何其他东西而具有它所具有的属性；世界中有一个对象还是多个对象、有没有人在场，对其中任何被视为自在之物的东西的属性来说都无关紧要。"
+      ],
+      "units": 65
+    },
+    {
+      "id": "ch08-u018",
+      "source_ids": [
+        "ch08-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant’s general point that we can have knowledge only of the relational properties of objects, and therefore not of the objects as they are in themselves, has an important corollary. It is that “appearances,” in so far as their properties are relational, are never completely determined. For the determination of their properties involves, as we have just seen, the comparison of objects and eventually their measurement, and, among other things, these activities of ours cannot be carried out completely in a finite amount of time. It is with this sort of point in mind that Kant asserts that “in the explanation of the appearances of nature,…, much must remain uncertain and many questions insoluble, because what we know about nature is in many cases far from sufficient for what we would explain” (CPR, A 476–477/B 504–B 505; Kant, 1998, pp. 503–504)."
+      ],
+      "zh": [
+        "康德的一般论点——我们只能认识对象的关系属性，因而不能认识对象如其自在的样子——有一个重要推论：就“显象”的属性是关系性的而言，显象永远不是被完全规定的。因为正如我们刚才看到的，其属性的规定涉及对象的比较并最终涉及对它们的测量，而这些活动除其他方面外，不可能在有限的时间内完全完成。正是考虑到这类论点，康德断言：“在解释自然显象时，……必定有许多东西仍不确定，许多问题无法解决，因为我们关于自然的知识在许多情况下远不足以解释我们所要解释的东西”（CPR, A 476–477/B 504–B 505; Kant, 1998, pp. 503–504）。"
+      ],
+      "units": 145
+    },
+    {
+      "id": "ch08-u019",
+      "source_ids": [
+        "ch08-u019"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "“Empirical realism” is the view that we can have knowledge of objects that exist independently of our perception and conception of them. Kant shows that such objects “are never given in themselves, but only in experience, and that they do not exist at all outside it” (CPR, A 492/B 521; Kant, 1998, p. 512). That is to say that such objects are “appearances.” This is the first premise of the argument. But, for the reasons already set out, “appearances” are not completely determined, the second premise. If at this point we invoke the “completeness principle,” the proposition that everything existing is empirically determined, then “appearances” do not exist. But if they do not exist, then empirical realism is impossible."
+      ],
+      "zh": [
+        "“经验实在论”是这样一种观点：我们能认识独立于我们对它们的知觉和构想而存在的对象。康德表明，这样的对象“从来不是自在地被给予的，而只是在经验中被给予的，它们在经验之外根本不存在”（CPR, A 492/B 521; Kant, 1998, p. 512）。也就是说，这样的对象是“显象”。这是论证的第一个前提。但出于已经陈述的理由，“显象”不是被完全规定的，这是第二个前提。如果此时我们援引“完备性原则”，即凡实存者皆被完全规定的命题（原文作 empirically determined，疑为 thoroughly determined 之误），那么“显象”就不存在。但如果它们不存在，经验实在论就不可能。"
+      ],
+      "units": 120
+    },
+    {
+      "id": "ch08-u020",
+      "source_ids": [
+        "ch08-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This argument is evidently valid. Since its second premise, that “appearances” are not completely determined, follows from the way in which the “appearance”/“thing in itself” distinction is spelled out, we must deny its third premise, the “completeness principle,” if we are to avoid its conclusion. This is precisely what Kant does, noting two points in the process."
+      ],
+      "zh": [
+        "这个论证显然是有效的。由于其第二个前提——“显象”不是被完全规定的——来自“显象”/“自在之物”区分的展开方式，我们要想避免其结论，就必须否认其第三个前提，即“完备性原则”。这正是康德所做的，他在此过程中指出了两点。"
+      ],
+      "units": 58
+    },
+    {
+      "id": "ch08-u021",
+      "source_ids": [
+        "ch08-u021"
+      ],
+      "page": "162",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The first point is that “thoroughgoing determination is… a concept that we can never exhibit in concreto in its totality…” (CPR, A 573/B 601; Kant, 1998, p. 554). This is so because the exhibition of a concept in concreto is by way of an intuition which necessarily has spatial-temporal properties, a “sensible” intuition. But as we have seen, spatial-temporal properties are relational in character. From which it follows that they can never be completely determined. Yet we have knowledge only of objects whose concepts can be exhibited in concreto. In other words, if we have knowledge, then the objects of that knowledge cannot satisfy the “completeness principle.” We do have knowledge. Therefore, the “completeness principle” must be rejected."
+      ],
+      "zh": [
+        "第一点是：“完全规定是……一个我们永远不能在其总体性中具体地（in concreto）展示的概念……”（CPR, A 573/B 601; Kant, 1998, p. 554）。这是因为，具体地展示一个概念要借助一个必然具有时空属性的直观，即一个“感性的”直观。但如我们所见，时空属性在性质上是关系性的。由此可知，它们永远不能被完全规定。然而我们只能认识其概念能被具体展示的对象。换句话说，如果我们有知识，那么这种知识的对象就不能满足“完备性原则”。我们确实有知识。因此，“完备性原则”必须被拒斥。"
+      ],
+      "units": 119
+    },
+    {
+      "id": "ch08-u022",
+      "source_ids": [
+        "ch08-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The second point Kant notes about the “completeness principle” is that it can, and should, be reconstrued. Although it is not true, it has an important use. Or, as he would put it, although the “completeness principle” is not “constitutive” with respect to human experience, it is nonetheless “regulative.” In short, it is properly to be taken as an ideal, indeed “the one single genuine [eigentliche]” ideal of which human reason is capable (CPR, 576/B 604; Kant, 1998, p. 556). It enjoins us to pursue the further determination of experience, on the understanding that there are no a priori limits to such further determination. The complete determination of these objects is the goal of all human inquiry. But it is no more than a goal. “The aim of reason with its ideal is… a thoroughgoing determination in accordance with a priori rules; hence it thinks for itself an object that is to be thoroughly determinable in accordance with principles, even though the sufficient conditions for this are absent from experience, and thus the concept itself is transcendent” (CPR, A 571/B 599; Kant, 1998, p. 553)."
+      ],
+      "zh": [
+        "康德关于“完备性原则”指出的第二点是：它可以而且应当被重新构造。虽然它不是真的，却有一个重要的用途。或者用他的话说，虽然“完备性原则”对人类经验不是“构成性的”，它却是“调节性的”。简言之，它应当被恰当地理解为一个理想，而且是人类理性所能拥有的唯一“本真的”（eigentliche）理想（CPR, 576/B 604; Kant, 1998, p. 556）。它责成我们追求对经验的进一步规定，其前提是这种进一步规定没有先天的界限。这些对象的完全规定是一切人类探究的目标。但它不过是一个目标。“理性及其理想的目标是……按照先天规则的完全规定；因此它为自己设想一个应按原则被完全规定的对象，尽管这样做的充分条件在经验中并不具备，因而这个概念本身是超验的”（CPR, A 571/B 599; Kant, 1998, p. 553）。"
+      ],
+      "units": 187
+    },
+    {
+      "id": "ch08-u023",
+      "source_ids": [
+        "ch08-u023"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The upshot is this: if the “completeness principle” were true (as Leibniz and transcendental realists generally hold), then “empirical realism” would be impossible. But the “completeness principle” is false, a corollary of “transcendental idealism.” Therefore, Kant concludes, transcendental idealism makes empirical realism possible (CPR, A 370–371; Kant, 1998, pp. 426–427)."
+      ],
+      "zh": [
+        "结论是：如果“完备性原则”为真（莱布尼茨和一般先验实在论者都这样主张），那么“经验实在论”就不可能。但“完备性原则”为假，这是“先验观念论”的一个推论。因此康德得出结论：先验观念论使经验实在论成为可能（CPR, A 370–371; Kant, 1998, pp. 426–427）。"
+      ],
+      "units": 52
+    },
+    {
+      "id": "ch08-u024",
+      "source_ids": [
+        "ch08-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We are at last in position to take up certain questions concerning determinacy and objectivity in modern [read: contemporary] physics. As we proceed, the character of Kant’s “empirical realism” will have to be made more precise. But it needs to be made clear at the outset that “empirical realism” embraces what is generally referred to as “scientific realism.” Kant is a scientific realist in just this sense, that we have good reasons for thinking that many of the statements made about theoretical objects are true. So much is clear from his remarks about our knowledge of the “magnetic matter pervading all bodies” (CPR, A 226/B 273; Kant, 1998, pp. 325–326), knowledge which rests on an inference from what we do perceive (iron filings being attracted) to what we do not perceive, the “magnetic matter” postulated to explain this attraction. Of particular significance is the fact that these remarks immediately precede his Refutation of [Empirical] Idealism in the second edition of the Critique. The case made for empirical realism is of a piece with his scientific realism. This said, contemporary physics [read: the quantum theory] raises questions about indeterminacy and objectivity on three progressively more difficult levels."
+      ],
+      "zh": [
+        "我们终于有条件来处理现代[读作：当代]物理学中关于确定性与客观性的某些问题了。随着讨论的推进，康德“经验实在论”的性质将需要更精确的刻画。但一开始就需要澄清：“经验实在论”包含了通常所说的“科学实在论”。康德正是在这个意义上是一位科学实在论者：我们有充分理由认为，关于理论对象所作的许多陈述是真的。这一点从他关于我们对“弥漫于一切物体之中的磁性物质”的知识的评论（CPR, A 226/B 273; Kant, 1998, pp. 325–326）中看得很清楚：这种知识基于一个推论，从我们确实知觉到的东西（铁屑被吸引）推到我们没有知觉到的东西，即为解释这种吸引而设定的“磁性物质”。特别有意义的是，这些评论紧接在《批判》第二版中对[经验]观念论的反驳之前。为经验实在论所作的论证与他的科学实在论是一体的。话虽如此，当代物理学[读作：量子理论]在三个难度递增的层面上提出了关于非确定性与客观性的问题。"
+      ],
+      "units": 198
+    },
+    {
+      "id": "ch08-u025",
+      "source_ids": [
+        "ch08-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "On the first level, indeterminacy is very general. Indeed, it is endemic to the concept of what it is, at least in certain paradigm cases, to provide a theoretical explanation. In these cases, to provide a theoretical explanation is to provide a reductive account of the phenomena. Two principles might be thought to characterize such reductive explanations:"
+      ],
+      "zh": [
+        "在第一个层面上，非确定性非常一般。事实上，它内在于“提供理论解释”这一概念本身，至少在某些范例情形中如此。在这些情形中，提供理论解释就是提供对现象的还原说明。可以认为有两条原则刻画了这类还原解释："
+      ],
+      "units": 57
+    },
+    {
+      "id": "ch08-u026",
+      "source_ids": [
+        "ch08-u026"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "P.1 (the principle of micro-reduction): the properties of wholes are to be explained in terms of the properties of their parts."
+      ],
+      "zh": [
+        "P.1（微观还原原则）：整体的属性要用其部分的属性来解释。"
+      ],
+      "type": "quote",
+      "units": 22
+    },
+    {
+      "id": "ch08-u057",
+      "source_ids": [
+        "ch08-u057"
+      ],
+      "page": "163",
+      "canonical_kind": "quote",
+      "en": [
+        "P.2 (the principle of property-reduction): the properties of these parts must differ from those of the wholes they are invoked to explain (for otherwise no genuine “reduction” has been carried out, and the resulting explanations are vacuous)."
+      ],
+      "zh": [
+        "P.2（属性还原原则）：这些部分的属性必须不同于它们被援引来解释的整体的属性（否则就没有实行真正的“还原”，所得的解释便是空洞的）。"
+      ],
+      "type": "quote",
+      "units": 38
+    },
+    {
+      "id": "ch08-u027",
+      "source_ids": [
+        "ch08-u027"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It was in this way that Galileo, for example, explained the temperature of a given volume of gas in terms of the motion of the particles, none of which were hot or cold, comprising it. The intuition involved has quite plausibly been taken as an important source of the persistent search for atomistic theories in science, and of the accompanying belief that the phenomena have not really been explained until such theories have been found. It dates, perhaps, from the time of Democritus. Heisenberg, evidently attempting to rationalize the otherwise puzzling character of the indeterminate character of quantum mechanical entities, expresses it as follows:"
+      ],
+      "zh": [
+        "例如，伽利略正是这样用构成一定体积气体的粒子的运动来解释该气体的温度的，而那些粒子没有一个或热或冷。其中涉及的直觉很有理由被视为科学中持续寻求原子论理论的一个重要来源，也是随之而来的这种信念的来源：在找到这类理论之前，现象并没有真正得到解释。它也许可以追溯到德谟克利特的时代。海森堡显然试图把量子力学实体的非确定性这一本来令人困惑的特征合理化，他这样表述："
+      ],
+      "units": 104
+    },
+    {
+      "id": "ch08-u058",
+      "source_ids": [
+        "ch08-u058"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "It is impossible to explain…quantities of matter except by tracing these back to the behavior of entities which themselves no longer posses these qualities. If atoms are really to explain the origin of color and smell of visible bodies, then they cannot possess properties like color and smell…Atomic theory consistently denies the atom any such perceptible properties. (1937 , p. 119)"
+      ],
+      "zh": [
+        "要解释……物质的性质（原文作 quantities，疑为 qualities 之误），唯一办法是把它们追溯到一些本身不再具有这些性质的实体的行为。如果原子真要解释可见物体的颜色和气味从何而来，那么它们就不能具有颜色和气味之类的属性……原子论一贯否认原子具有任何这样的可知觉属性。（1937, p. 119）",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "本章正文所引海森堡文章年份为1937，章末书目印作1939。美国物理学会所载的海森堡著述目录也将该文列于1937年。"
+          ]
+        }
+      ],
+      "type": "quote",
+      "units": 62
+    },
+    {
+      "id": "ch08-u028",
+      "source_ids": [
+        "ch08-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If we think, as the completeness principle has it, that any existent object must be thoroughly determined, and we grant that any scientific object cannot be so determined if it is to play an explanatory role, then we must conclude that scientific objects do not, because they cannot, exist. To disarm the argument we have only to deny its first premise, as Kant does. To do so is, once again, to maintain the correctness of transcendental idealism, which in this way makes empirical, [now read: scientific] realism possible."
+      ],
+      "zh": [
+        "如果我们像完备性原则所要求的那样，认为任何实存对象都必须被完全规定，并且承认任何科学对象若要起解释作用就不能被如此规定，那么我们就必须得出结论：科学对象不存在，因为它们不可能存在。要化解这个论证，我们只需像康德那样否认其第一个前提。这样做再一次就是坚持先验观念论的正确性，而先验观念论正是以这种方式使经验实在论〔此处即科学实在论〕成为可能。"
+      ],
+      "units": 88
+    },
+    {
+      "id": "ch08-u029",
+      "source_ids": [
+        "ch08-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This is admittedly a very simple and compressed account. But it goes some way toward resolving the difficulties which the indeterminate character of theoretical entities in contemporary physics might otherwise seem, in a general sort of way, to pose for Kant’s account of objective experience. But it leaves the identity conditions for these entities open. What is to be said about them? Kant makes two points in this connection."
+      ],
+      "zh": [
+        "诚然，这是一个非常简单而压缩的说明。但它在一定程度上化解了当代物理学中理论实体的非确定性特征本来似乎会以一般的方式给康德的客观经验说明造成的困难。不过，它把这些实体的同一性条件悬置了起来。关于这些条件该说些什么？康德在这方面提出了两点。"
+      ],
+      "units": 69
+    },
+    {
+      "id": "ch08-u030",
+      "source_ids": [
+        "ch08-u030"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The first point is that Leibniz’s Law sets out neither necessary nor sufficient conditions for the identity of objects. Thus the fact that objects indeterminate with respect to some of their properties fail to satisfy it does not preclude the possibility of their identity nor does the fact that they satisfy it entail that they are in fact identical. In the Amphiboly of Concepts, Kant insists on the fact that “even if there is no difference as regards the concepts,” that is, even if their (non-spatial, non-temporal) descriptions are identical, it is still possible that at least two distinct objects satisfy them, witness the existence of incongruent counterparts."
+      ],
+      "zh": [
+        "第一点是：莱布尼茨定律既没有给出对象同一性的必要条件，也没有给出充分条件。因此，在某些属性上不确定的对象不满足这条定律，并不排除它们同一的可能性；它们满足这条定律，也不意味着它们事实上同一。在“概念的歧义”篇中，康德坚持这样一个事实：“即使在概念方面没有任何差别”，也就是说，即使它们的（非空间、非时间的）描述相同，仍然可能至少有两个不同的对象满足这些描述，不全等对应物的存在就是明证。"
+      ],
+      "units": 108
+    },
+    {
+      "id": "ch08-u031",
+      "source_ids": [
+        "ch08-u031"
+      ],
+      "page": "164",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The second point is that, as once again the example of incongruent counterparts makes clear, the possibility of assigning objects to spatial-temporal locations is enough to distinguish them. In the case of physical objects, spatial-temporal location is necessary as well. Thus two physical objects are distinct just in case they occupy different regions of space at the same time. But to this point in the discussion, it is possible to individuate and identify theoretical entities in this way. Hydrogen atoms are all pretty much alike; if you have seen one, you have seen them all. But some are here and others are there."
+      ],
+      "zh": [
+        "第二点是：正如不全等对应物的例子再次表明的，把对象指派到时空位置的可能性就足以区分它们。就物理对象而言，时空位置也是必要的。因此，两个物理对象不同，当且仅当它们在同一时间占据不同的空间区域。但到讨论的这一步为止，以这种方式个体化和识别理论实体是可能的。氢原子全都差不多；见过一个，就等于见过全部。但有些在这里，有些在那里。"
+      ],
+      "units": 103
+    },
+    {
+      "id": "ch08-u033",
+      "source_ids": [
+        "ch08-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "On the second level, indeterminacy is tied more directly to the quantum theory. It follows from the character of the matrix algebra in which the theory is usually expressed that the values of certain pairs of conjugate properties of objects cannot be determined to a degree of accuracy equal to or greater than a function of Planck’s constant. In the most frequently cited example, a precise and simultaneous determination of the position and momentum of an elementary particle is ruled out in principle. Again, there are two points to make in connection with the sort of indeterminacy at stake here."
+      ],
+      "zh": [
+        "在第二个层面上，非确定性与量子理论的联系更直接。从该理论通常借以表达的矩阵代数的性质可知，对象的某些共轭属性对的值，不能被规定到等于或优于普朗克常数某个函数的精确度。在最常被引用的例子中，对一个基本粒子的位置和动量作精确的同时规定，在原则上被排除。同样，就这里涉及的那种非确定性，有两点要说明。"
+      ],
+      "units": 100
+    },
+    {
+      "id": "ch08-u034",
+      "source_ids": [
+        "ch08-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The first point is that this consequence of the so-called Heisenberg Uncertainty Relations does not preclude the possibility of a determination of an object’s position, both spatial and temporal, to an arbitrary degree of precision. I have already admitted in Kant’s behalf that not all of the properties of an empirical object can be determined, and a fortiori that not all of the properties can be determined precisely and simultaneously."
+      ],
+      "zh": [
+        "第一点是：所谓海森堡不确定关系的这个推论，并不排除把对象的位置——空间的和时间的——规定到任意精确度的可能性。我已经代表康德承认，经验对象并非一切属性都能被规定，更不用说一切属性都能被精确地同时规定。"
+      ],
+      "units": 70
+    },
+    {
+      "id": "ch08-u035",
+      "source_ids": [
+        "ch08-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The second point is that the possibility of individuating objects does not depend on the fact that any of their properties in particular is definite, including their spatial and temporal properties. It is enough that the properties are mathematically well-defined and, as I argued in my 1994 paper, objective. The latter condition requires that whatever indefiniteness is expressed by the use of probability operators to describe states of objects (or systems of such objects) is not to be construed as a measure of our ignorance, but rather reflects certain intrinsic but indefinite properties as propensities. In this respect, I agree with Mittelstaedt (1994, p. 128): on the contemporary interpretation of quantum theory, we have to deal with “unsharp objects,” which are “constituted in an approximate way. However, this restriction does not invalidate the objectivity of physical knowledge.”"
+      ],
+      "zh": [
+        "第二点是：个体化对象的可能性，并不依赖于它们的任何一个特定属性是确定的，包括其空间和时间属性。只要这些属性在数学上有明确定义，并且——如我在1994年论文中所论证的——是客观的，就够了。后一个条件要求：用概率算符描述对象（或此类对象的系统）的状态时所表达的任何不确定性，不应被解释为我们无知的量度，而是反映的是某些内在而未确定的属性，也就是倾向性。在这一点上，我同意米特尔施泰特（1994, p. 128）：按照对量子理论的当代解释，我们必须打交道的是“不锐利的对象”，它们“以近似的方式被构成。然而，这种限制并不使物理知识的客观性失效”。"
+      ],
+      "units": 137
+    },
+    {
+      "id": "ch08-u036",
+      "source_ids": [
+        "ch08-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "On the third and deepest level, indeterminacy is tied to the apparent impossibility of making out any sort of spatial-temporal separability, probabilistic or not, on which the possibility of individuating and identifying objects depends. This impossibility, which stems from reflection on Bell’s Theorem and the experiments designed to test some of its implications, is implicit in the formalism of the quantum theory, but raises more general questions about the very possibility of objectivity."
+      ],
+      "zh": [
+        "在第三个、也是最深的层面上，非确定性与这样一种表面上的不可能性联系在一起：无法确立任何一种时空可分离性，即便在概率意义上也是如此，而个体化和识别对象的可能性正依赖于它。这种不可能性来自对贝尔定理及为检验其某些推论而设计的实验的反思，它隐含在量子理论的形式体系中，却引出了关于客观性本身之可能性的更一般问题。"
+      ],
+      "units": 73
+    },
+    {
+      "id": "ch08-u037",
+      "source_ids": [
+        "ch08-u037"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Put in its very simplest terms, Bell’s Theorem (Bell, 1964) is to the effect that, on certain basic assumptions about what Bell called “locality” and causality, one can derive an inequality concerning the correlations between the spins of two electrons. This inequality is incompatible with the spin correlations predicted by quantum mechanics. Moreover, the spin correlations predicted by quantum mechanics have been verified by a series of very careful experiments. Taken together, the basic assumptions from which Bell’s inequality can be derived characterize what is often called “local realism” [Jarrett, 1989, pp. 61–62]. Given the incompatibility of the predictions to which it leads, first with the well-entrenched quantum theory and, more importantly, with the experimental results, “local realism” must be given up."
+      ],
+      "zh": [
+        "用最简单的话说，贝尔定理（Bell, 1964）的内容是：在关于贝尔所谓“定域性”和因果性的某些基本假定下，可以推导出一个关于两个电子自旋之间关联的不等式。这个不等式与量子力学预言的自旋关联不相容。而且，量子力学预言的自旋关联已被一系列非常精细的实验所证实。合起来看，能从中推出贝尔不等式的那些基本假定，刻画了通常所谓“定域实在论”[Jarrett, 1989, pp. 61–62]。鉴于它导致的预言先是与根基牢固的量子理论、更重要的是与实验结果不相容，“定域实在论”必须被放弃。"
+      ],
+      "units": 123
+    },
+    {
+      "id": "ch08-u038",
+      "source_ids": [
+        "ch08-u038"
+      ],
+      "page": "165",
+      "canonical_kind": "paragraph",
+      "en": [
+        "There are a variety of philosophically perspicuous derivations of the Bell inequality (see Jarrett, 1984; Cushing, 1989; Wessels, 1989). For my purposes, it suffices to list three of its usual premises. They more than the others are constitutive of “local realism.” The first premise is determinism: physical systems (e.g., the two-particle system considered by Bell) are deterministic in the sense that, for any one instant, its state is physically compatible with only one state at each other instant. The second premise is locality (properly so-called): the state of a system is unaffected by events so removed that no light signal could connect them. Locality thus understood rules out the possibility of action-at-a-distance. The third premise is what Howard calls “separability” and Jarrett calls “completeness” (the formal expressions of locality and completeness can be found in Jarrett [1989]). In Howard’s words, “the separability principle asserts that the presence of a nonvanishing spatio-temporal interval is a sufficient [and also necessary] condition for the individuation of physical states, and that the states thus individuated exhaust the reality that physics aims to describe, that physical systems are no more than the ‘sums’ of their parts” (Howard, 1989, p. 226), i.e., that the joint state of two previously interacting systems is simply the product of their separate states. It remains to say something about each of these premises in turn from the perspective of the transcendental philosophy. There is not space to be anything more than schematic."
+      ],
+      "zh": [
+        "贝尔不等式有各种在哲学上清晰的推导（参见 Jarrett, 1984; Cushing, 1989; Wessels, 1989）。就我的目的而言，列出它的三个通常前提就够了。它们比其他前提更能构成“定域实在论”的要素。第一个前提是决定论：物理系统（例如贝尔所考虑的双粒子系统）是决定论的，意思是，对任一时刻，其状态在物理上只与每一其他时刻的一个状态相容。第二个前提是（严格意义上的）定域性：一个系统的状态不受如此遥远的事件影响，以至于任何光信号都无法把它们联系起来。如此理解的定域性排除了超距作用的可能性。第三个前提是霍华德所谓“可分离性”、贾勒特所谓“完备性”（定域性和完备性的形式表述见 Jarrett [1989]）。用霍华德的话说，“可分离性原则断言，非零时空间隔的存在是物理状态个体化的充分[且必要]条件，并且如此个体化的状态穷尽了物理学所要描述的实在，物理系统不过是其各部分的‘总和’”（Howard, 1989, p. 226），也就是说，两个先前相互作用的系统的联合状态，就是它们各自状态的乘积。接下来需要从先验哲学的视角依次谈谈这些前提。篇幅所限，只能作概略的讨论。"
+      ],
+      "units": 244
+    },
+    {
+      "id": "ch08-u039",
+      "source_ids": [
+        "ch08-u039"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Determinism. There are three things to be noted in connection with the determinist premise. First, Bell’s Theorem can be derived without it (indeed, Bell himself did so). The experimental failure of the inequalities does not show that determinism must be given up. Second, the standard quantum-mechanical laws invoked to predict what actually happens in Bell-type situations are indeterministic. But, third, and as already indicated, my 1994 paper makes the case that Kant can accommodate this sort of indeterminism without much difficulty. Just so long as the indeterminacy is placed in the objects of our experience, and not in the uncertainty of our belief with respect to them, the experience itself is objective. Despite the many (to date completely unsuccessful) efforts to save some version of it, determinism is not an issue from the perspective of contemporary physics, nor from Kant’s."
+      ],
+      "zh": [
+        "决定论。关于决定论前提，有三点要注意。第一，没有它也能推出贝尔定理（事实上贝尔本人就是这样做的）。不等式在实验上的失败并不表明必须放弃决定论。第二，被援引来预言贝尔式情形中实际发生之事的标准量子力学定律是非决定论的。但第三，如前所述，我1994年的论文论证了康德可以不太困难地容纳这种非决定论。只要非确定性被置于我们经验的对象中，而不是置于我们对它们的信念的不确定性中，经验本身就是客观的。尽管有许多（迄今完全未成功的）努力想挽救它的某个版本，决定论无论从当代物理学的视角还是从康德的视角看都不是问题所在。"
+      ],
+      "units": 140
+    },
+    {
+      "id": "ch08-u040",
+      "source_ids": [
+        "ch08-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Locality. Until Jarrett’s decisive clarification of the issue, it was commonly thought that there was a deep incompatibility between the Special Theory of Relativity and the Bell results. This is no longer the case (see Howard, 1989, p. 233, note 16). In the appropriate sense, the standard version of quantum mechanics is a “local” theory. Moreover, Einstein, whose thought-experiment was the motive for Bell’s work, did not really put the emphasis on locality. This much is made clear in a later, more careful, statement of the argument."
+      ],
+      "zh": [
+        "定域性。在贾勒特对这个问题作出决定性的澄清之前，人们普遍认为狭义相对论与贝尔结果之间存在深刻的不相容。现在不再如此（参见 Howard, 1989, p. 233, note 16）。在恰当的意义上，标准版本的量子力学是一个“定域的”理论。此外，其思想实验构成贝尔工作动机的爱因斯坦，并没有真正把重点放在定域性上。这一点在他后来对该论证更仔细的表述中看得很清楚。"
+      ],
+      "units": 87
+    },
+    {
+      "id": "ch08-u042",
+      "source_ids": [
+        "ch08-u042"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "…it is characteristic of these physical things that they are conceived of as being in a space–time continuum. Further, it appears to be essential for this arrangement of the things introduced in physics that, at a specific time, these things claim an existence independent of one another, insofar as these things ‘lie in different parts of space.’ (Einstein, 1948)"
+      ],
+      "zh": [
+        "……这些物理事物的特征在于，它们被设想为处于一个时空连续统之中。此外，对于物理学中引入的事物的这种安排来说，下面这一点似乎是本质性的：在特定时刻，这些事物要求彼此独立的存在，就它们“位于空间的不同部分”而言。（Einstein, 1948）"
+      ],
+      "type": "quote",
+      "units": 60
+    },
+    {
+      "id": "ch08-u041",
+      "source_ids": [
+        "ch08-u041"
+      ],
+      "page": "166",
+      "canonical_kind": "paragraph",
+      "en": [
+        "So far as Einstein is concerned, this is what is incompatible with the set-up depicted in his thought-experiment, and it is this (and not “locality”) which captures the essence of “completeness.” Finally, in his unwavering commitment to action-at-a distance (see Kant, 1970, pp. 67ff.), Kant insists that “non-local” phenomena are possible. There is thus, at least initially, no problem for him in reconciling the apparent “non-locality” of the Bell results with his account of the objectivity of experience. At the same time, the ostensibly “local” character of the standard version of quantum mechanics is incompatible with his account."
+      ],
+      "zh": [
+        "就爱因斯坦而言，与他的思想实验所描绘的装置不相容的正是这一点，而正是这一点（而不是“定域性”）抓住了“完备性”的实质。最后，出于对超距作用的坚定承诺（参见 Kant, 1970, pp. 67ff.），康德坚持“非定域的”现象是可能的。因此至少起初，把贝尔结果表面上的“非定域性”与他关于经验客观性的说明调和起来，对他来说没有问题。与此同时，标准版本量子力学表面上的“定域”特征却与他的说明不相容。"
+      ],
+      "units": 98
+    },
+    {
+      "id": "ch08-u043",
+      "source_ids": [
+        "ch08-u043"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Separability. If the Bell inequality derives from the assumption of determinism, locality, and separability, then, since Kant can accommodate indeterminism and non-locality, it follows that for him separability is the issue. But there is more to it. I want to make two points in particular about it. First, the passage already quoted from Einstein continues as follows:"
+      ],
+      "zh": [
+        "可分离性。如果贝尔不等式来自决定论、定域性和可分离性这三个假定，那么既然康德能容纳非决定论和非定域性，对他来说问题就在可分离性。但事情不止于此。我想特别指出两点。第一，前面引用的爱因斯坦那段话接着写道："
+      ],
+      "units": 57
+    },
+    {
+      "id": "ch08-u059",
+      "source_ids": [
+        "ch08-u059"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Without such an assumption [what we are calling separability] of the mutually independent existence… of spatially distant things, an assumption which originates in everyday thought, physical thought in the sense familiar to us would not be possible."
+      ],
+      "zh": [
+        "如果没有这样一个关于空间上遥远事物彼此独立存在的假定[即我们所谓可分离性]——一个源于日常思想的假定——我们所熟悉意义上的物理思想就不可能。"
+      ],
+      "type": "quote",
+      "units": 37
+    },
+    {
+      "id": "ch08-u044",
+      "source_ids": [
+        "ch08-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For Einstein, separability in the intended sense is the presupposition of the formulation and testing, hence of the objectivity, of physical laws. Second, Kant simply makes precise one way in which this claim is to be understood. There is no objectivity without objects. But, given the failure of the completeness principle, there are no objects except on condition that we assign them particular places at particular times. Such location becomes the criterion of their identification. But if such assignment is no longer possible, as seems to be the case in the wake of the Bell results, then there are no objects. To put it briefly, Kant parts company with the standard version of quantum mechanics with respect to locality and separability. But it is the latter which is crucial to his account of objectivity (in fact, the case made for the necessity of action-at-a-distance limps very badly). To the extent that objects are “entangled,” they are no longer objects."
+      ],
+      "zh": [
+        "对爱因斯坦来说，所指意义上的可分离性是物理定律的表述和检验、从而是其客观性的预设。第二，康德只不过是把理解这一主张的一种方式精确化了。没有对象就没有客观性。但既然完备性原则失效，就只有在我们把对象指派到特定时间的特定位置的条件下，才有对象。这种位置指派成为识别它们的判据。但如果这种指派不再可能——贝尔结果之后似乎正是如此——那么就没有对象。简言之，康德在定域性和可分离性上与标准版本的量子力学分道扬镳。但对他的客观性说明至关重要的是后者（事实上，为超距作用之必然性所作的论证十分乏力）。就对象是“纠缠的”而言，它们不再是对象。"
+      ],
+      "units": 159
+    },
+    {
+      "id": "ch08-u045",
+      "source_ids": [
+        "ch08-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I want, finally, to suggest two ways out of the conflict between the transcendental philosophy and the apparent need to give up the separability condition. Neither of them is very attractive."
+      ],
+      "zh": [
+        "最后，我想提出两条出路，以摆脱先验哲学与似乎必须放弃可分离性条件之间的冲突。两条都不怎么有吸引力。"
+      ],
+      "units": 31
+    },
+    {
+      "id": "ch08-u046",
+      "source_ids": [
+        "ch08-u046"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The first is suggested by Linda Wessels. She writes (Wessels, 1989, pp. 95–96):"
+      ],
+      "zh": [
+        "第一条由琳达·韦塞尔斯提示。她写道（Wessels, 1989, pp. 95–96）："
+      ],
+      "units": 14
+    },
+    {
+      "id": "ch08-u060",
+      "source_ids": [
+        "ch08-u060"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "While the results of experimental and philosophical analyses of the Bell inequalities do require a significant departure from the way we standardly model physical objects, they have only minimal consequences for our conception of everyday objects and of most objects studied by science. For the Bell theorems give no reason to doubt that these objects can be studied as bodies… with objective properties… The Bell theorems show only that our traditional models are not satisfied by all objects in nature – in particular, they fail for objects and processes at the microlevel."
+      ],
+      "zh": [
+        "虽然对贝尔不等式的实验分析和哲学分析的结果确实要求我们显著偏离对物理对象的标准建模方式，但它们对我们关于日常对象以及科学所研究的大多数对象的构想只有极小的影响。因为贝尔定理没有给出理由怀疑这些对象可以作为物体……带有客观属性……来研究。贝尔定理只是表明，我们的传统模型并非被自然界中的一切对象所满足——特别是，它们对微观层面的对象和过程失效。"
+      ],
+      "type": "quote",
+      "units": 91
+    },
+    {
+      "id": "ch08-u047",
+      "source_ids": [
+        "ch08-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But Kant rejects this sort of bifurcation of nature in the interests of a thoroughgoing realism. Such is the point made at A 226/B 273 (Kant, 1998, p. 326) of the first Critique, in a passage immediately preceding the “refutation of idealism,” where he declares that “The grossness of our senses does not in any way decide the form of possible experience in general.” There can be, in principle, no distinction to be made between any alleged “micro” and “macro” levels. An empirically realistic position must treat both in exactly the same way, as part of a unified picture of nature. As Kant insists, universality is an indispensable condition of objectivity, in moral as much as in theoretical philosophy."
+      ],
+      "zh": [
+        "但康德为了彻底的实在论而拒斥这种把自然一分为二的做法。这正是《批判》A 226/B 273（Kant, 1998, p. 326）处、紧接“对观念论的反驳”之前的一段话所要表明的，他在那里宣称：“我们感官的粗糙性丝毫不能决定一般可能经验的形式。”原则上不可能在任何所谓“微观”层面与“宏观”层面之间作出区分。经验实在论的立场必须以完全相同的方式对待两者，把它们作为统一的自然图景的一部分。正如康德所坚持的，普遍性是客观性不可或缺的条件，在道德哲学中如此，在理论哲学中亦然。"
+      ],
+      "units": 120
+    },
+    {
+      "id": "ch08-u048",
+      "source_ids": [
+        "ch08-u048"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A second way out of the impasse is suggested by Bohr. “There is no quantum world,” he says, only an abstract quantum description. It is wrong to think that the task of physics is to find out how nature is. Physics concerns only what we can say about nature."
+      ],
+      "zh": [
+        "第二条摆脱僵局的出路由玻尔提示。“没有量子世界，”他说，只有抽象的量子描述。认为物理学的任务是发现自然是怎样的，这是错误的。物理学只关乎我们能对自然说些什么。"
+      ],
+      "units": 49
+    },
+    {
+      "id": "ch08-u050",
+      "source_ids": [
+        "ch08-u050"
+      ],
+      "page": "167",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Insofar as Kant’s idealism is left vague and undefined, he could take this tack. But in fact it is quite precise. At one level, of course, that of things-in-themselves, we cannot find out how nature is, for reasons advanced earlier. At another level, that of nature as usually understood, the task is to find out how nature is, and not merely to describe it. This is the core of Kant’s empirical realism. Indeed, the presupposition of the Critical enterprise is that we do have knowledge of nature (as usually understood, the object of our experience); the question is, how is such knowledge possible?"
+      ],
+      "zh": [
+        "只要康德的观念论被弄得含糊而未加定义，他就可以采取这条路线。但事实上它相当精确。当然，在一个层面上，即自在之物的层面，出于前面给出的理由，我们无法发现自然是怎样的。在另一个层面上，即通常理解的自然的层面，任务是发现自然是怎样的，而不仅仅是描述它。这是康德经验实在论的核心。事实上，批判事业的预设就是我们确实拥有关于自然（按通常的理解，即我们经验的对象）的知识；问题是，这样的知识如何可能？"
+      ],
+      "units": 103
+    },
+    {
+      "id": "ch08-u051",
+      "source_ids": [
+        "ch08-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is possible to be more precise. It is part of Kant’s position concerning the ideality of space and time that spatial and temporal quantities do not exist unless and until we have defined procedures for measuring them; the Categories, which embody certain presuppositions of the measuring procedures, endow space and time with a metric. This position can be generalized; for Kant, I think it is fair to say, there are no quantities in general apart from the procedures (including the instruments) by which we determine them, no quantities without quantifiers. In this respect, not all of the characteristics of various physical entities are “independent of our knowledge of them,” and in this sense “real.” But this is not to say that the properties of objects to which these quantities are ascribed do not exist unless and until they are measured, still less to say that physics is no more than a “description” of these quantities. For Kant it would make no sense that the properties themselves are not properties of objects or that they arise as a result of our interaction with the world. In particular, on his account of “objectivity” the properties which a scientific theory attributes to objects must be properties of those objects (although the way in which these properties are quantified depends on the measuring procedures we employ), and not simply a feature of the stories we tell about them. On Kant’s view, the objectivity of the scientific view of the world is in part a function of the fact that we can distinguish sharply between the objects that we experience and ourselves as subjects of that experience, between reality and our description of it."
+      ],
+      "zh": [
+        "还可以说得更精确。康德关于空间和时间之观念性的立场的一部分是：只有在我们规定了测量程序之后，空间量和时间量才存在；体现测量程序之某些预设的范畴，赋予空间和时间一个度规。这个立场可以推广；我认为可以公平地说，对康德而言，离开我们借以规定量的程序（包括仪器），就一般意义上的量也无从成立，只有通过量化才能有量。在这方面，并非各种物理实体的一切特征都“独立于我们对它们的知识”、并在这个意义上“实在”。但这不是说，用这些量加以描述的对象属性，要等到测量之后才存在，更不是说物理学不过是对这些量的“描述”。对康德来说，属性本身不是对象的属性、或属性是我们与世界相互作用的结果，都是讲不通的。特别是，按他的“客观性”说明，科学理论归属给对象的属性必须是那些对象的属性（尽管这些属性被量化的方式取决于我们采用的测量程序），而不能仅仅是我们关于它们所讲的故事的特征。在康德看来，科学的世界图景的客观性，部分地取决于这样一个事实：我们能严格区分我们经验的对象与作为该经验主体的我们自身，区分实在与我们对它的描述。"
+      ],
+      "units": 280
+    },
+    {
+      "id": "ch08-u052",
+      "source_ids": [
+        "ch08-u052"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Presumably there are ways out of the difficulties that the Bell results pose for Kant’s account of objectivity other than to bifurcate or idealize nature. One which occurs to me (but to none of my more knowledgeable friends) is to re-metricize the space in which the elementary particles at stake in the Bell experiments are located. As just indicated, Kant rejects the view that the metric of space is intrinsic; rather, it is imposed by us, as a condition of the possibility of experience. It might be possible to find a metric on which separability is retained in the face of the Bell results. But I have not yet been able to work out questions concerning the restraints imposed on the choice of possible metrics in the physical situation described by Bell (i.e., in the EPR set-up), and thus have no idea whether it is possible to retain separability in this way."
+      ],
+      "zh": [
+        "除了把自然一分为二或把自然观念化之外，想必还有别的办法摆脱贝尔结果给康德的客观性说明造成的困难。我想到的一个办法（但我那些更有学问的朋友谁也没想到）是：对贝尔实验所涉基本粒子所在的空间重新度量化。如刚才所指出的，康德拒斥空间度规是内在的观点；毋宁说，度规是由我们施加的，作为经验之可能性的一个条件。也许能找到一种度规，使得面对贝尔结果仍可保留可分离性。但我尚未能解决贝尔所描述的物理情形（即 EPR 装置）中对可能度规的选择所施加的限制问题，因此不知道能否以这种方式保留可分离性。"
+      ],
+      "units": 153
+    },
+    {
+      "id": "ch08-u053",
+      "source_ids": [
+        "ch08-u053"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Otherwise, there seems little option to rejecting one of the premises in Kant’s initial argument. We might now re-phrase that argument as follows:"
+      ],
+      "zh": [
+        "否则，似乎除了拒斥康德最初论证中的一个前提之外别无选择。我们现在可以把那个论证重新表述如下："
+      ],
+      "units": 23
+    },
+    {
+      "id": "ch08-u054",
+      "source_ids": [
+        "ch08-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. There is no objectivity without objects\n2. There are no objects without identity conditions for them\n3. There are no identity conditions for objects if the principle of separability is rejected"
+      ],
+      "zh": [
+        "1. 没有对象就没有客观性。\n2. 没有同一性条件就没有对象。\n3. 如果可分离性原则被拒斥，对象就没有同一性条件。"
+      ],
+      "units": 32
+    },
+    {
+      "id": "ch08-u055",
+      "source_ids": [
+        "ch08-u055"
+      ],
+      "page": "168",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Since the Bell results seem to require the rejection of the principle of separability (at least insofar as we want to retain locality, as on the standard version of quantum mechanics), it follows that there is no objectivity. The problem with giving up any of the premises of Kant’s argument is that they are so deeply entrenched. If nothing else, reflection on the transcendental philosophy shows how unsettling the Bell results really are. Taken seriously, they would seem to require a new metaphysics of experience. So far as I know, no serious and systematic contenders for this title have yet appeared."
+      ],
+      "zh": [
+        "既然贝尔结果似乎要求拒斥可分离性原则（至少在我们想要像标准版本量子力学那样保留定域性的情况下），由此可知就没有客观性。放弃康德论证的任何一个前提，问题都在于它们根深蒂固。即便没有别的，对先验哲学的反思也表明贝尔结果实际上多么令人不安。认真对待它们，似乎就要求一种新的经验形而上学。据我所知，还没有出现任何严肃而系统的方案足以成为这样一种经验形而上学。"
+      ],
+      "units": 101
+    },
+    {
+      "id": "ch08-u056",
+      "source_ids": [
+        "ch08-u056"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch08-bibliography-001",
+      "source_ids": [
+        "ch08-ref002"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bell, J.S. 1964. “On the Einstein-Podolsky-Rosen Paradox,” Physics 1:195–200."
+      ],
+      "zh": [
+        "Bell, J.S. 1964. “On the Einstein-Podolsky-Rosen Paradox,” Physics 1:195–200."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch08-bibliography-002",
+      "source_ids": [
+        "ch08-ref002",
+        "ch08-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Brittan , G.G. 1994. “Kant and the Quantum Theory,” in Kant and Contemporary Epistemology, ed. P. Parrini. Dordrecht: Kluwer, pp. 131–155."
+      ],
+      "zh": [
+        "Brittan , G.G. 1994. “Kant and the Quantum Theory,” in Kant and Contemporary Epistemology, ed. P. Parrini. Dordrecht: Kluwer, pp. 131–155."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch08-bibliography-003",
+      "source_ids": [
+        "ch08-ref003",
+        "ch08-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cushing, J.T. 1989. “A Background Essay,” in Philosophical Consequences of Quantum Theory: Reflections on Bell’s Theorem, eds. J.T. Cushing and E. McMullin. Notre Dame, IN: University of Notre Dame, pp. 1–24."
+      ],
+      "zh": [
+        "Cushing, J.T. 1989. “A Background Essay,” in Philosophical Consequences of Quantum Theory: Reflections on Bell’s Theorem, eds. J.T. Cushing and E. McMullin. Notre Dame, IN: University of Notre Dame, pp. 1–24."
+      ],
+      "shared": true,
+      "units": 34
+    },
+    {
+      "id": "ch08-bibliography-004",
+      "source_ids": [
+        "ch08-ref004",
+        "ch08-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Einstein, A. 1948. “Quantemmechanik und Wirklichkeit,” Dialectica 2:320–324. Quoted by Howard, 1989, 233."
+      ],
+      "zh": [
+        "Einstein, A. 1948. “Quantemmechanik und Wirklichkeit,” Dialectica 2:320–324. Quoted by Howard, 1989, 233."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch08-bibliography-005",
+      "source_ids": [
+        "ch08-ref005",
+        "ch08-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Heisenberg, W. 1939. “Gedanken der antiken Naturphilosophie in der modernen Physik,” Die Antike 13:118–124."
+      ],
+      "zh": [
+        "Heisenberg, W. 1939. “Gedanken der antiken Naturphilosophie in der modernen Physik,” Die Antike 13:118–124."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch08-bibliography-006",
+      "source_ids": [
+        "ch08-ref006",
+        "ch08-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Howard, D. 1989. “Holism, Separability, and the Metaphysical Implications of the Bell Experiments,” in Philosophical Consequences of Quantum Theory: Reflections on Bell’s Theorem, eds. J.T. Cushing and E. McmMullin. Notre Dame, IN: University of Notre Dame, pp. 224–253."
+      ],
+      "zh": [
+        "Howard, D. 1989. “Holism, Separability, and the Metaphysical Implications of the Bell Experiments,” in Philosophical Consequences of Quantum Theory: Reflections on Bell’s Theorem, eds. J.T. Cushing and E. McmMullin. Notre Dame, IN: University of Notre Dame, pp. 224–253."
+      ],
+      "shared": true,
+      "units": 40
+    },
+    {
+      "id": "ch08-bibliography-007",
+      "source_ids": [
+        "ch08-ref007",
+        "ch08-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Jarrett, J.P. 1984. “On the Philosophical Significance of the Locality Conditions in the Bell Arguments,” Nous 18, 569–589."
+      ],
+      "zh": [
+        "Jarrett, J.P. 1984. “On the Philosophical Significance of the Locality Conditions in the Bell Arguments,” Nous 18, 569–589."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch08-bibliography-008",
+      "source_ids": [
+        "ch08-ref008",
+        "ch08-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Jarrett, J.P. 1989. “Bell’s Theorem: A Guide to the Implications,” in Philosophical Consequences of Quantum Theory: Reflections on Bell’s Theorem, eds. J.T. Cushing and E. McMullin. Notre Dame, IN: University of Notre Dame, pp. 60–79."
+      ],
+      "zh": [
+        "Jarrett, J.P. 1989. “Bell’s Theorem: A Guide to the Implications,” in Philosophical Consequences of Quantum Theory: Reflections on Bell’s Theorem, eds. J.T. Cushing and E. McMullin. Notre Dame, IN: University of Notre Dame, pp. 60–79."
+      ],
+      "shared": true,
+      "units": 38
+    },
+    {
+      "id": "ch08-bibliography-009",
+      "source_ids": [
+        "ch08-ref009",
+        "ch08-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I. 1970. Metaphysical Foundations of Natural Science, trans. J. Ellington. Indianapolis, IN: The Bobbs-Merrill."
+      ],
+      "zh": [
+        "Kant, I. 1970. Metaphysical Foundations of Natural Science, trans. J. Ellington. Indianapolis, IN: The Bobbs-Merrill."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch08-bibliography-010",
+      "source_ids": [
+        "ch08-ref010",
+        "ch08-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I. 1998. Critique of Pure Reason, trans. P. Guyer and A. Wood. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Kant, I. 1998. Critique of Pure Reason, trans. P. Guyer and A. Wood. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch08-bibliography-011",
+      "source_ids": [
+        "ch08-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Mates, B. 1986. The Philosophy of Leibniz. Oxford: Oxford University Press."
+      ],
+      "zh": [
+        "Mates, B. 1986. The Philosophy of Leibniz. Oxford: Oxford University Press."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch08-bibliography-012",
+      "source_ids": [
+        "ch08-ref011",
+        "ch08-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Mittelstaedt, P. 1994. “The Constitution of Objects in Kant’s Philosophy and in Modern Physics,” in Kant and Contemporary Epistemology, ed. P. Parrini. Dordrecht: Kluwer, pp. 115–130."
+      ],
+      "zh": [
+        "Mittelstaedt, P. 1994. “The Constitution of Objects in Kant’s Philosophy and in Modern Physics,” in Kant and Contemporary Epistemology, ed. P. Parrini. Dordrecht: Kluwer, pp. 115–130."
+      ],
+      "shared": true,
+      "units": 27
+    },
+    {
+      "id": "ch08-bibliography-013",
+      "source_ids": [
+        "ch08-ref012",
+        "ch08-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Wessels, L. 1989. “The Way the World Isn’t: What the Bell Theorems Force Us to Give Up,” in Philosophical Consequences of Quantum Theory: Reflections on Bell’s Theorem, eds. J.T. Cushing and E. McMullin. Notre Dame, IN: University of Notre Dame, pp. 80–96."
+      ],
+      "zh": [
+        "Wessels, L. 1989. “The Way the World Isn’t: What the Bell Theorems Force Us to Give Up,” in Philosophical Consequences of Quantum Theory: Reflections on Bell’s Theorem, eds. J.T. Cushing and E. McMullin. Notre Dame, IN: University of Notre Dame, pp. 80–96."
+      ],
+      "shared": true,
+      "units": 44
+    }
+  ],
+  "notes": {}
+}

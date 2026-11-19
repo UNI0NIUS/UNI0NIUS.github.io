@@ -1,0 +1,1609 @@
+{
+  "id": "ch06",
+  "title": "卡尔纳普的相对化先天与本体论",
+  "originalTitle": "Carnap’s Relativised A Priori and Ontology",
+  "outline": [
+    {
+      "anchor": "ch06-u003",
+      "title": "1 一般性评论",
+      "originalTitle": "1 General Remarks",
+      "level": 1
+    },
+    {
+      "anchor": "ch06-u009",
+      "title": "2 卡尔纳普与新经验论认识论的关系",
+      "originalTitle": "2 Carnap’s Relationship with Neo-empiricistic Epistemology",
+      "level": 1
+    },
+    {
+      "anchor": "ch06-u011",
+      "title": "2.1 对康德先天综合判断理论的否定",
+      "originalTitle": "2.1 The Negation of Kant’s Theory of Synthetic a Priori Judgments",
+      "level": 2
+    },
+    {
+      "anchor": "ch06-u014",
+      "title": "2.2 对激进经验论的拒斥",
+      "originalTitle": "2.2 The Refusal of Radical Empiricism",
+      "level": 2
+    },
+    {
+      "anchor": "ch06-u019",
+      "title": "2.3 历史变化与约定性",
+      "originalTitle": "2.3 Historical Changes and Conventionality",
+      "level": 2
+    },
+    {
+      "anchor": "ch06-u023",
+      "title": "2.4 经验论、还原论、约定主义",
+      "originalTitle": "2.4 Empiricism, Reductionism, Conventionalism",
+      "level": 2
+    },
+    {
+      "anchor": "ch06-u030",
+      "title": "3 客观性与本体论",
+      "originalTitle": "3 Objectivity and Ontology",
+      "level": 1
+    },
+    {
+      "anchor": "ch06-u038",
+      "title": "4 卡尔纳普/蒯因之争与对形而上学绝对主义的拒斥",
+      "originalTitle": "4 The Carnap/Quine Debate and the Refusal of Metaphysical Absolutism",
+      "level": 1
+    },
+    {
+      "anchor": "ch06-u050",
+      "title": "5 卡尔纳普、赖欣巴赫与相对化先天的性质及其本体论意涵",
+      "originalTitle": "5 Carnap, Reichanbach and the Nature of the Relativised a priori. Ontological Implications",
+      "level": 1
+    },
+    {
+      "anchor": "ch06-u057",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch06-u001",
+      "source_ids": [
+        "ch06-u001"
+      ],
+      "page": "127",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch06-u002",
+      "source_ids": [
+        "ch06-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Paolo Parrini"
+      ],
+      "zh": [
+        "保罗·帕里尼"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch06-u004",
+      "source_ids": [
+        "ch06-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract The paper reconstructs Carnap’s epistemological and ontological ideas stressing the link between these ideas and the most general tenets of Logical Empiricism (negation of the Kantian theory of synthetic a priori judgments, linguistic theory of the a priori, influence of Poincaré’s conventionalism, principle of verification, refusal of metaphysical absolutism). From this point of view it also discusses both the Carnap/Quine debate on analyticity and ontology and the difference between Carnap and the ‘young’ Reichenbach on the nature of the relativised a priori."
+      ],
+      "zh": [
+        "摘要 本文重构卡尔纳普的认识论与本体论观念，强调这些观念与逻辑经验论最一般论旨之间的联系（否定康德的先天综合判断理论、关于先天的语言理论、彭加勒约定主义的影响、证实原则、拒斥形而上学绝对主义）。从这个观点出发，本文还讨论卡尔纳普/蒯因关于分析性与本体论的争论，以及卡尔纳普与“青年”赖欣巴赫在相对化先天之本性上的分歧。"
+      ],
+      "units": 84
+    },
+    {
+      "id": "ch06-u003",
+      "source_ids": [
+        "ch06-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 General Remarks"
+      ],
+      "zh": [
+        "1 一般性评论"
+      ],
+      "type": "subheading",
+      "units": 3
+    },
+    {
+      "id": "ch06-u005",
+      "source_ids": [
+        "ch06-u005"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "P. Parrini Department of Philosophy – University of Florence"
+      ],
+      "zh": [
+        "P. Parrini Department of Philosophy – University of Florence"
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch06-u006",
+      "source_ids": [
+        "ch06-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Carnap can be seen as the philosopher who made the most significant contribution to the development of the Neo-empiricistic theory of the relativised a priori, by systematising the standard linguistic version of this conception. Among the essential components of this theory, we find the thesis of the linguistic foundation of logical and mathematical truths and the conviction that it is possible to trace a distinction between analytic statements (coinciding with the a priori ones) and synthetic statements (coinciding with the a posteriori ones); in other words, between sentences whose truth value will depend only on the rules of the language they belong to and sentences whose truth value will depend on language and experience."
+      ],
+      "zh": [
+        "卡尔纳普可以被看作对新经验论相对化先天理论的发展作出最重大贡献的哲学家，因为他把这一构想的以语言为基础的标准版本系统化了。在这个理论的本质成分中，我们看到逻辑与数学真理以语言为基础这一论题，以及这样的信念：可以在分析陈述（与先天陈述重合）与综合陈述（与后天陈述重合）之间划出区分；换言之，在真值仅取决于所属语言规则的句子与真值取决于语言和经验两者的句子之间划出区分。"
+      ],
+      "units": 114
+    },
+    {
+      "id": "ch06-u007",
+      "source_ids": [
+        "ch06-u007"
+      ],
+      "page": "128",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Carnap’s work is particularly relevant for two reasons. Firstly, he had more time than the other Logical Empiricists (ranging from Hahn to Frank, from Schlick to Reichenbach) to develop his views. He could therefore take epistemological holism (already explicitly considered in the Logische Syntax der Sprache [see Parrini, 2001/04]), as well as Quine’s criticism of the analytic/synthetic distinction into consideration. Secondly, Carnap tried to clearly define the relativised a priori within a general theory of formal languages, which was to become the realisation of the Wissenschaftslogik and ‘scientific philosophy’. In the Logische Syntax der Sprache (1934), Carnap tried to formulate this general theory in conventionalisticsyntactic terms. Later on, he introduced the semantic-extensional formulations of Introduction to Semantics (1942), then the semantic-intensional characterizations of Meaning and Necessity (1947), and finally the semantic-pragmatic explications he first evoked in his answers to Church, Quine and Chisholm in the first half of the 1950s (Carnap, 1956, Supplement B, C, D, E, 1963, pp. 919–921). Today, we tend to see the strong attention given to the logical-formal aspect of the problem as a weakness of Carnap’s approach. The trend towards logical formalism leads him to suppose that the analytic/synthetic distinction is purely a formal or logical distinction, and Quine showed that logically speaking all sentences of a given formal system are of equal value. Thus «Carnap’s attempt further to characterize» some components of the system as semantical rules, meaning postulates or analytic sentences «ultimately amounts to nothing more than an otherwise arbitrary label» (Friedman, 2001, p. 49; Parrini, 2001/04, § 5)."
+      ],
+      "zh": [
+        "卡尔纳普的工作之所以特别相关，有两个原因。第一，他比其他逻辑经验论者（从哈恩到弗兰克，从石里克到赖欣巴赫）有更多时间发展自己的观点。因此他能够把认识论整体论（在《语言的逻辑句法》中已被明确考虑〔见 Parrini, 2001/04〕）以及蒯因对分析/综合区分的批评纳入考虑。第二，卡尔纳普试图在一个形式语言的一般理论内明确定义相对化先天，这个理论将成为科学逻辑与“科学哲学”的实现。在《语言的逻辑句法》（1934）中，卡尔纳普试图用约定主义—句法的术语表述这个一般理论。后来，他引入了《语义学导论》（1942）的语义—外延表述，然后是《意义与必然性》（1947）的语义—内涵刻画，最后是他在1950年代上半叶对丘奇、蒯因与齐硕姆的答复中首次唤起的语义—语用阐明（Carnap, 1956, Supplement B, C, D, E, 1963, pp. 919–921）。今天，我们倾向于把对问题的逻辑—形式方面的高度关注看作卡尔纳普进路的一个弱点。走向逻辑形式主义的倾向使他假定分析/综合区分纯粹是形式的或逻辑的区分，而蒯因表明，从逻辑上说，给定形式系统的一切句子仍处于同等地位。于是“卡尔纳普试图进一步把”系统的某些成分刻画为语义规则、意义公设或分析句子，“归根结底不外乎一个在其他方面任意的标签”（Friedman, 2001, p. 49; Parrini, 2001/04, § 5）。"
+      ],
+      "units": 260
+    },
+    {
+      "id": "ch06-u008",
+      "source_ids": [
+        "ch06-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Moreover, in the last few decades it has emerged that the Carnap/Quine debate cannot be exhausted in the question regarding the possibility of providing a purely formal clarification of the theses and distinctions evoked above. Behind such debate, there are also epistemological problems linked to the ideas that, according to the new historical-critical perspectives, should be considered as the main inspirational motives of Logical Empiricism. In order to better highlight this, I will illustrate Carnap’s position whilst putting its logical-formal aspects to one side and instead link it to the general epistemological and ontological issues which those aspects are meant to rigorously express."
+      ],
+      "zh": [
+        "此外，近几十年来已经表明，卡尔纳普/蒯因争论不能穷尽于能否对上述论题与区分给出纯形式澄清的问题。在这个争论背后，还有与一些观念相联系的认识论问题，按照新的历史—批判视角，这些观念应被视为逻辑经验论的主要灵感动机。为了更好地凸显这一点，我将把卡尔纳普立场的逻辑—形式方面放在一边，转而把它与那些方面旨在严格表达的一般认识论与本体论问题联系起来，以此说明他的立场。"
+      ],
+      "units": 104
+    },
+    {
+      "id": "ch06-u009",
+      "source_ids": [
+        "ch06-u009"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 Carnap’s Relationship with Neo-empiricistic Epistemology"
+      ],
+      "zh": [
+        "2 卡尔纳普与新经验论认识论的关系"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch06-u010",
+      "source_ids": [
+        "ch06-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Carnap essentially adheres to the three main epistemological theses that characterise Neo-empiricists’ conception of scientific knowledge and the theory/experience relationship."
+      ],
+      "zh": [
+        "卡尔纳普本质上接受刻画新经验论者科学知识构想与理论/经验关系的三个主要认识论论题。"
+      ],
+      "units": 21
+    },
+    {
+      "id": "ch06-u011",
+      "source_ids": [
+        "ch06-u011"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2.1 The Negation of Kant’s Theory of Synthetic a Priori Judgments"
+      ],
+      "zh": [
+        "2.1 对康德先天综合判断理论的否定"
+      ],
+      "type": "subheading",
+      "units": 12
+    },
+    {
+      "id": "ch06-u012",
+      "source_ids": [
+        "ch06-u012"
+      ],
+      "page": "129",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Carnap accepts the essential nucleus of the Neo-empiricistic position on the a priori, the nucleus already individuated by Schlick in the Allgemeine Erkenntnislehre: «There are no synthetic judgments a priori»: «Apodictic truths about reality go beyond the power of the human faculty of cognition and are not accessible to it» (Schlick, 1918/25, p. 384). This negation of the synthetic a priori – also adopted by Einstein in the famous 1921 essay “Geometrie und Erfahrung” – is taken up by Carnap who adds: «If the whole of Empiricism is to be compressed into a nutshell, this is one way of doing it» (Carnap, 1966/74, p. 180). From the negation of the synthetic a priori he then derives the identification of the a priori with the analytic, and the a posteriori with the synthetic."
+      ],
+      "zh": [
+        "卡尔纳普接受新经验论关于先天立场的本质核心，这个核心已由石里克在《普通认识论》中识别出来：“不存在先天综合判断”：“关于实在的确然真理超出人类认识能力的权限，不为它所通达”（Schlick, 1918/25, p. 384）。对先天综合的这种否定——爱因斯坦在1921年著名文章《几何学与经验》中也采纳了它——被卡尔纳普承接，他补充说：“如果要把整个经验论压缩成一句话，这是一种做法”（Carnap, 1966/74, p. 180）。然后他从对先天综合的否定推出先天与分析的等同、后天与综合的等同。"
+      ],
+      "units": 132
+    },
+    {
+      "id": "ch06-u013",
+      "source_ids": [
+        "ch06-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For Logical Empiricists, saying that synthetic a priori judgments do not exist is tantamount to saying – in line with Hume – that there is no way we can guarantee a priori the possibility of the ‘cognitive synthesis’. As it emerges from the controversy on the philosophical meaning of the theory of relativity between Schlick and Reichenbach, on one side, and Cassirer on the other, the possibility of coordinating concepts to experience – a possibility that is the very condition of knowledge – depends on contingent reasons that cannot be founded a priori on arguments similar to Kant’s transcendental deduction of categories (see Parrini, 1999/2003, pp. 352–356)."
+      ],
+      "zh": [
+        "对逻辑经验论者来说，说先天综合判断不存在，就等于说——与休谟一致——我们无法先天保证“认识综合”的可能性。正如石里克、赖欣巴赫一方与卡西尔另一方关于相对论哲学意义的论战所表明的，把概念协调于经验的可能性——这个可能性正是知识的条件——依赖于偶然的理由，不能先天地奠基于类似康德范畴先验演绎的论证之上（见 Parrini, 1999/2003, pp. 352–356）。"
+      ],
+      "units": 105
+    },
+    {
+      "id": "ch06-u014",
+      "source_ids": [
+        "ch06-u014"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2.2 The Refusal of Radical Empiricism"
+      ],
+      "zh": [
+        "2.2 对激进经验论的拒斥"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch06-u015",
+      "source_ids": [
+        "ch06-u015"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For Carnap and the other Logical Empiricists, the rejection of apodictically certain synthetic judgments must not be pushed as far as to negate the weaker idea that the human mind «can describe natural phenomena only by using a certain pattern, certain forms of thinking that are produced by the observing mind and are not provided by the observed physical objects» (Frank, 1941/49, p. 7)."
+      ],
+      "zh": [
+        "对卡尔纳普与其他逻辑经验论者来说，对确然确定的综合判断的拒斥不应推到否定这个较弱观念的地步：人类心灵“只能使用某种模式、某种由观察的心灵产生而非由被观察的物理对象提供的思维形式来描述自然现象”（Frank, 1941/49, p. 7）。"
+      ],
+      "units": 65
+    },
+    {
+      "id": "ch06-u016",
+      "source_ids": [
+        "ch06-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Similarly to the members of the original Vienna group (see Frank, 1941/49, p. 1 ff.), Schlick and Reichenbach started off by distancing themselves from radical forms of empiricism. Schlick criticised Mach’s sensualism (Schlick, 1921, p. 324), and Reichenbach refused the «naïve» empiricist conception which, neglecting «the problems of conceptualization» (Reichenbach, 1922, p. 37), characterized «all scientific statements indifferently by the notion “derived from experience”» (Reichenbach, 1920, p. 93). In his early works, Carnap had the same approach. In 1921, he wrote an essay on space influenced by Kant’s work and Husserl’s ideas and in the 1923 essay “Über die Aufgabe der Physik”, he stated that «pure empiricism has lost its dominion» since Poincaré and Dingler showed that «the construction of physics» cannot «be sustained exclusively on experiments results»: it must apply «also principles that are not experimental (nichterfahrungsmässige Grundsätze; Festsetzungen)» (Carnap, 1923, p. 90)."
+      ],
+      "zh": [
+        "与最初维也纳小组成员类似（见 Frank, 1941/49, p. 1 ff.），石里克与赖欣巴赫起步时就与激进形式的经验论拉开距离。石里克批评马赫的感觉主义（Schlick, 1921, p. 324），赖欣巴赫拒斥“朴素的”经验论构想，后者忽视“概念化的问题”（Reichenbach, 1922, p. 37），无差别地用“从经验导出”这个概念刻画“一切科学陈述”（Reichenbach, 1920, p. 93）。在早期著作中，卡尔纳普持相同进路。1921年，他写了一篇受康德著作与胡塞尔观念影响的空间论文；在1923年的文章《论物理学的任务》中，他断言“纯粹经验论已经失去其统治”，因为彭加勒与丁格勒表明“物理学的构造”不能“仅靠实验结果支撑”：它还必须应用“非实验的原理（nichterfahrungsmässige Grundsätze; Festsetzungen，非经验性原理；设定）”（Carnap, 1923, p. 90）。"
+      ],
+      "units": 145
+    },
+    {
+      "id": "ch06-u017",
+      "source_ids": [
+        "ch06-u017"
+      ],
+      "page": "130",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Admitting that there are peculiar Festsetzungen that cannot be traced back to experience is even present in Carnap’s work which is closest to reductionism: Der logische Aufbau der Welt (1928). Putting aside some unresolved questions linked to the purely structural notion of objectivity proposed in this work, Carnap undoubtedly undertook his project by presupposing some constitutive rules for attributing qualities to the cosmic point-instants and constructing physical objects. As Quine summarises in “Two Dogmas of Empiricism” (1951), these rules are aimed at maximising some characteristics pertaining to simplicity, compactness, elegance, etc. «in such a way as to achieve the laziest world compatible with our experience». Their application is of a holistic nature in the sense that the judgments on the reality or unreality of something (for instance, of brick houses in Elm Street) depend on «considerations of equilibrium affecting the field as a whole». It is no coincidence that Quine himself recognised that his «Empiricism without the Dogmas» has its roots not only in Duhem’s epistemological holism, but also in the «doctrine of the physical world in the Aufbau» (Quine, 1953/61, pp. 40–43; see Carnap’s example, in Carnap, 1928, p. 274)."
+      ],
+      "zh": [
+        "承认存在不可回溯到经验的特殊设定（Festsetzungen），甚至出现在卡尔纳普最接近还原论的著作《世界的逻辑构造》（1928）中。撇开与这部著作提出的纯粹结构性客观性概念相关的一些未决问题，卡尔纳普无疑是在预设某些构成性规则的前提下开展其计划的，这些规则用于把性质归于宇宙中的时空点并构造物理对象。正如蒯因在《经验论的两个教条》（1951）中总结的，这些规则旨在最大化简单性、紧凑性、优雅性等某些特征，“以达到与我们的经验相容的最省力的世界”。它们的应用具有整体论性质，意思是关于某物实在或不实在的判断（例如榆树街砖房的实在性）取决于“影响整个领域的平衡考虑”。蒯因本人承认他的“没有教条的经验论”不仅植根于迪昂的认识论整体论，也植根于“《构造》中的物理世界学说”，这并非巧合（Quine, 1953/61, pp. 40–43；见卡尔纳普的例子，Carnap, 1928, p. 274）。"
+      ],
+      "units": 193
+    },
+    {
+      "id": "ch06-u018",
+      "source_ids": [
+        "ch06-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Later on, after the discussion on the protocols and the publication of “Testability and Meaning” (1936), which heralded the beginning of the liberalisation process of empiricism, Carnap abandoned the definitional method for the introduction of concepts that he had explicitly used in the Aufbau and instead adopted the partial interpretation method based on postulates, correspondence rules and (bilateral) reduction sentences. In the Preface to the second edition of the Aufbau (1961), though, he underlines that, without being aware of it, he had already implicitly abandoned the definitional method in treating the construction of the physical world in the first edition (Carnap, 1928/61, p. viii f.). The systematic application of the new method led Carnap and Hempel, around the middle of the century, to the full development of the so-called Received view (or Standard conception) of scientific theories, Hempel’s abandonment of the empiricist criterion of cognitive significance and Carnap’s proposal of a new fully relativised formulation of both this criterion and the analytic/synthetic distinction (see Parrini, 2001/04, § 2)."
+      ],
+      "zh": [
+        "后来，在关于记录句的讨论以及《可检验性与意义》（1936）——它预告了经验论自由化进程的开端——发表之后，卡尔纳普放弃了他在《构造》中明确使用的引入概念的定义方法，转而采纳基于公设、对应规则与（双向）还原句的部分解释方法。不过在《构造》第二版序言（1961）中，他强调说，他当时没有意识到，自己在第一版处理物理世界的构造时就已经隐式地放弃了定义方法（Carnap, 1928/61, p. viii f.）。新方法的系统应用使卡尔纳普与亨佩尔在世纪中叶前后充分发展了所谓科学理论的通行观点（或标准构想）、亨佩尔对经验论认识意义判准的放弃，以及卡尔纳普对这个判准与分析/综合区分两者提出的新的完全相对化表述（见 Parrini, 2001/04, § 2）。"
+      ],
+      "units": 170
+    },
+    {
+      "id": "ch06-u019",
+      "source_ids": [
+        "ch06-u019"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2.3 Historical Changes and Conventionality"
+      ],
+      "zh": [
+        "2.3 历史变化与约定性"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch06-u020",
+      "source_ids": [
+        "ch06-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Carnap accepts the Neo-empiristic view according to which the «forms of thinking» presupposed by scientific knowledge: (i) may «change with the advance of science» (Frank, 1941/49, p. 8); (ii) are of a conventional nature. This thesis in its dual aspect was put forward initially by Frank (Frank, 1941/49, pp. 10–12) and Schlick in particular. Schlick defines such forms of thinking as «conventions in Poincaré’s sense» (Schlick, 1921, p. 333) and in the Allgemeine Erkenntnislehre calls the assumptions that establish a connection between the implicitly defined scientific concepts and some aspects of experience «coordinative conventions». At a later stage, this thesis was also fully accepted by Reichenbach, who had only accepted part (i) at the beginning of the 1920s. In the 1920 book Relativitätstheorie und Erkenntnis apriori and in other works published between 1921–1922, he did in fact defend the thesis that Schlick’s «coordinative conventions» had to be considered as «constitutive principles» similar to Kant’s synthetic a priori judgments in every aspect except for eternal and apodictic validity (Reichenbach, 1920, ch. V, 1922, p. 30, pp. 36–41, n. 21). Later on, though, he refers to these principles as coordinative definitions (Reichenbach, 1924, § 2, 1928, § 4)."
+      ],
+      "zh": [
+        "卡尔纳普接受新经验论的观点：科学知识预设的“思维形式”（i）可能“随科学的进步而改变”（Frank, 1941/49, p. 8）；（ii）具有约定的本性。这个论题的双重方面最初由弗兰克（Frank, 1941/49, pp. 10–12）尤其是石里克提出。石里克把这类思维形式定义为“彭加勒意义上的约定”（Schlick, 1921, p. 333），并在《普通认识论》中把在隐式定义的科学概念与经验的某些方面之间建立联系的假设称为“协调约定”。在后期，这个论题也被赖欣巴赫完全接受，而他在1920年代初只接受了（i）部分。在1920年的《相对论与先天知识》一书及1921–1922年间发表的其他著作中，他实际上捍卫了这个论题：石里克的“协调约定”必须被视为“构成性原理”，除了永恒且确然的有效性之外，在一切方面都类似于康德的先天综合判断（Reichenbach, 1920, ch. V, 1922, p. 30, pp. 36–41, n. 21）。不过后来，他把这些原理称为协调定义（Reichenbach, 1924, § 2, 1928, § 4）。"
+      ],
+      "units": 199
+    },
+    {
+      "id": "ch06-u021",
+      "source_ids": [
+        "ch06-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Carnap also asserted the conventional as well as the historically variable nature of several components of knowledge. In the § 103 of the Aufbau, he states that «the general rules of construction could be called a priori rules, since the construction and cognition of the object is logically dependent upon them». At the same time, he specifies that such rules «are not to be designated “a priori knowledge”, for they do not represent knowledge, but postulations (Festsetzungen)» (Carnap, 1928, p. 163)."
+      ],
+      "zh": [
+        "卡尔纳普也断言知识的若干成分具有约定的以及历史上可变的本性。在《构造》第103节中，他说“构造的一般规则可以称为先天规则，因为对象的构造与认识在逻辑上依赖于它们”。同时他指明，这类规则“不应被称为‘先天知识’，因为它们表达的是设定，而非知识（Festsetzungen）”（Carnap, 1928, p. 163）。"
+      ],
+      "units": 80
+    },
+    {
+      "id": "ch06-u022",
+      "source_ids": [
+        "ch06-u022"
+      ],
+      "page": "131",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The utilisation of constitutive rules does not therefore contrast with the general thesis of the § 106 according to which the «statements or theorems of a constructional system are divided» in analytic a priori and in synthetic a posteriori (or empirical) with the exclusion of those «“synthetic judgments a priori” which are essential for Kant’s approach to epistemological problems» (Carnap, 1928, p. 176)."
+      ],
+      "zh": [
+        "因此，构成性规则的运用并不与第106节的一般论题冲突：按照该论题，“构造系统的陈述或定理被划分”为分析先天的与综合后天的（或经验的），排除那些“对康德处理认识论问题至关重要的‘先天综合判断’”（Carnap, 1928, p. 176）。"
+      ],
+      "units": 62
+    },
+    {
+      "id": "ch06-u023",
+      "source_ids": [
+        "ch06-u023"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2.4 Empiricism, Reductionism, Conventionalism"
+      ],
+      "zh": [
+        "2.4 经验论、还原论、约定主义"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch06-u024",
+      "source_ids": [
+        "ch06-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the years following the publication of the Aufbau, Carnap discussed the distinctions between analytic statements and synthetic statements, and between the Realwissenschaften and the Formalwissenschaften (logic and mathematics) using the formal tools of the Wissenschaftslogik, including the Ramsey sentence. In fact, in the 1950s, he was forced to resort to the Ramsey sentence to solve the problem, posited by Hempel, regarding the possibility of keeping «the specification of meanings and the description of facts» separate not only in observational, but also in theoretical language (Hempel, 1963, p. 691; Carnap, 1963, pp. 963–966; see Parrini, 2001/04, § 2). If we set these logical aspects aside, there are two main characteristics in Carnap’s conception which should be highlighted here."
+      ],
+      "zh": [
+        "在《构造》出版以后的岁月里，卡尔纳普使用科学逻辑的形式工具——包括拉姆齐句——讨论分析陈述与综合陈述之间、以及实在科学（Realwissenschaften）与形式科学（Formalwissenschaften，逻辑与数学）之间的区分。事实上，在1950年代，他被迫求助拉姆齐句来解决亨佩尔提出的问题：不仅在观察语言中、而且在理论语言中保持“意义的规定与事实的描述”分离的可能性（Hempel, 1963, p. 691; Carnap, 1963, pp. 963–966；见 Parrini, 2001/04, § 2）。如果把这些逻辑方面放在一边，卡尔纳普的构想中有两个主要特征应当在这里凸显。"
+      ],
+      "units": 119
+    },
+    {
+      "id": "ch06-u025",
+      "source_ids": [
+        "ch06-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "(i) From the years of the Logische Syntax to the last answers given to Quine and Hempel, Carnap has always supported the relative nature of the notion of analyticity (and thus of the a priori). According to him, we can only speak of analytical sentences in relation «to a particular system of assumptions and methods of reasoning (primitive sentences and rules of inference), that is to say, in our terminology, to a particular language» (Carnap, 1934, p. 44, 1963, p. 921). This thesis is linked to the conventionalism theorised in the Logische Syntax and the criticism advanced in this same book against «Wittgenstein’s absolutist conception of language, which leaves out the conventional factor in language-construction» (Carnap, 1934, p. 186). It is important to note that Carnap is not simply saying that what he is interested in elaborating is a relativised conception of analyticity, or more precisely, of logical validity (L-validity). He is making a stronger statement: we should only recognise a relative validity to the notion of analyticity. (ii) Reducing some of the components of knowledge to conventions, coordinative definitions, semantic rules, or meaning postulates is perfectly in line both with the way in which Logical Empiricists had distanced themselves from Kant, and the two dogmas of empiricism as they will be intended and criticised by Quine."
+      ],
+      "zh": [
+        "（i）从《语言的逻辑句法》的岁月到最后对蒯因与亨佩尔的答复，卡尔纳普始终支持分析性概念（从而先天概念）的相对本性。按照他的看法，我们只能相对于“一个特定的假设与推理方法体系（初始句子与推理规则），也就是说，用我们的术语说，相对于一个特定的语言”来谈论分析句子（Carnap, 1934, p. 44, 1963, p. 921）。这个论题与《语言的逻辑句法》中理论化的约定主义相联系，也与同一本书中对“维特根斯坦的绝对主义语言构想——它忽略了语言构造中的约定因素”——提出的批评相联系（Carnap, 1934, p. 186）。重要的是注意，卡尔纳普不只是说他感兴趣的是阐发一种相对化的分析性构想，或更确切地说，逻辑有效性（L-有效性）的构想。他在作一个更强的断言：我们应当只承认分析性概念的相对有效性。（ii）把知识的某些成分归约为约定、协调定义、语义规则或意义公设，既完全符合逻辑经验论者与康德拉开距离的方式，也符合蒯因后来所理解并批评的经验论两个教条。"
+      ],
+      "units": 217
+    },
+    {
+      "id": "ch06-u027",
+      "source_ids": [
+        "ch06-u027"
+      ],
+      "page": "132",
+      "canonical_kind": "paragraph",
+      "en": [
+        "According to Quine, the dogma of reductionism, or better still the dogma of the reductionist interpretation of the verification principle, asserts, in its radical version, that «every meaningful statement is […] translatable into a statement (true or false) about immediate experience», or, in an attenuated form, «that each statement, taken in isolation from its fellows, can admit of confirmation or infirmation at all». The dogma of reductionism and the dogma of analyticity support each other, they are even «at root identical», because if we accept reductionism «it seems significant to speak also of a limiting kind of statement which is vacuously confirmed, ipso facto, come what may; and such a statement is analytic» (Quine, 1953/61, p. 38 f., 41). This formulation of the reductionist thesis suits Carnap’s thought well and finds an almost literal correspondence in the way in which Reichenbach states his position in the paper presented at the Paris Conference on scientific philosophy (1935). In this paper Reichenbach asserts the possibility of allowing for the pragmatic justification (or vindication) of induction and gives the following formulation of his criticism of Kant’s theory of synthetic a priori judgments: «Today’s science does not believe any longer in the legislative capacity of a pure reason. All that we know of the world is taken from experience, and the transformations of empirical data are purely tautological, analytical» (Reichenbach, 1935/36, p. 32)."
+      ],
+      "zh": [
+        "按照蒯因，还原论教条——或更确切地说，对证实原则作还原论解释的教条——在其激进版本中断言“每个有意义的陈述……都可以翻译为关于直接经验的（真或假的）陈述”，或者在弱化形式中断言“每个陈述，孤立地脱离其同伴来看，根本能够接受确证或否证”。还原论教条与分析性教条相互支持，它们甚至“在根本上是同一的”，因为如果我们接受还原论，“谈论一种极限类型的陈述似乎也有意义：无论发生什么，它都空洞地、因此自动地被确证；这样的陈述就是分析的”（Quine, 1953/61, p. 38 f., 41）。还原论论题的这个表述很适合卡尔纳普的思想，并且在赖欣巴赫于巴黎科学哲学会议（1935）提交的论文中表述其立场的方式里找到几乎逐字的对应。在这篇论文中，赖欣巴赫断言容许对归纳作实用证成（或辩护）的可能性，并给出他对康德先天综合判断理论的批评的如下表述：“今天的科学不再相信纯粹理性的立法能力。我们关于世界所知道的一切都取自经验，而经验材料的变换是纯重言式的、分析的”（Reichenbach, 1935/36, p. 32）。"
+      ],
+      "units": 230
+    },
+    {
+      "id": "ch06-u028",
+      "source_ids": [
+        "ch06-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Formulations such as these though, must not make us forget that for Logical Empiricists, anti-Kantianism and the adherence to empiricism does not mean going as far as to deny that the transformations to which empirical data are submitted are ruled not only by logical-mathematical principles, but also by non-empirical assumptions: rules of the Konstitutionssystem, conventions in Poincaré’s sense, coordinative definitions, semantic rules, meaning postulates, and so on. Also in the most reductionist versions of Logical Empiricism, reductionism does not mean denial of the existence, within the cognitive process, of «forms of thought» that cannot be traced back to experience. It only means that these forms of thought are interpreted as assumptions devoid of empirical-factual content; thus their acceptance does not undermine the classification of statements into only two categories, the analytic a priori and synthetic a posteriori."
+      ],
+      "zh": [
+        "不过，这类表述不应使我们忘记：对逻辑经验论者来说，反康德主义与对经验论的坚持并不意味着走到否认这一步——经验材料所受的变换不仅受逻辑—数学原理支配，也受非经验假设支配：构造系统（Konstitutionssystem）的规则、彭加勒意义上的约定、协调定义、语义规则、意义公设，等等。即使在逻辑经验论最还原论的版本中，还原论也不意味着否认认识过程中存在不可回溯到经验的“思维形式”。它只意味着这些思维形式被解释为缺乏经验—事实内容的假设；因此接受它们并不破坏把陈述只划分为两个范畴——分析先天的与综合后天的。"
+      ],
+      "units": 137
+    },
+    {
+      "id": "ch06-u029",
+      "source_ids": [
+        "ch06-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For this reason, Logical Positivism in general, and Carnap’s epistemology in particular, cannot be defined, not even briefly, by H. P. Price’s famous words «Hume plus mathematical logic». In saying this, I do not intend to endorse an interpretation that favours the connection between Logical Empiricism and the Kantian and Neo-Kantian line of thought to such an extent as to leave the empiricist components that connect it with Hume’s philosophy, Mach’s empiriocriticism and some aspects of Russell’s and Wittgenstein’s thought in the shadows. Logical Positivism must be considered as a philosophical movement that tried to synthetize elements coming from all these different traditions in a unitary vision, using conventionalism and in particular Poincaré’s conventionalism as a unifying agent. If Neo-empiricistic philosophy of knowledge, and Carnap’s in particular, cannot be considered as an anachronistic lapse back into seventeenth and eighteenth century Empiricism, it is not because they do not have a genuinely empiricistic inspiration, but because they wanted to construct an empiricism capable of taking into consideration the teachings provided by Kantian, conventionalist and Neo-Kantian epistemology (Parrini, 1983, 2001/03)."
+      ],
+      "zh": [
+        "正因如此，一般逻辑实证主义、尤其是卡尔纳普的认识论，不能用 H. P. 普赖斯的名言“休谟加数理逻辑”来定义，哪怕简短地定义也不行。这样说时，我无意赞成一种解释，它偏重逻辑经验论与康德及新康德思想路线的联系，以至于把将它与休谟哲学、马赫的经验批判主义以及罗素和维特根斯坦思想的某些方面联系起来的经验论成分置于阴影之中。逻辑实证主义必须被视为一场哲学运动，它试图用约定主义、尤其是彭加勒的约定主义作为统一剂，把来自所有这些不同传统的要素综合进一个统一的视野。如果新经验论知识哲学、尤其是卡尔纳普的哲学，不能被视为向十七、十八世纪经验论的不合时宜的倒退，那不是因为它没有真正的经验论灵感，而是因为它想构造一种能够考虑康德主义、约定主义与新康德主义认识论所提供的教益的经验论（Parrini, 1983, 2001/03）。"
+      ],
+      "units": 179
+    },
+    {
+      "id": "ch06-u030",
+      "source_ids": [
+        "ch06-u030"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Objectivity and Ontology"
+      ],
+      "zh": [
+        "3 客观性与本体论"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch06-u031",
+      "source_ids": [
+        "ch06-u031"
+      ],
+      "page": "133",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The link which exists between Carnap’s position and that of Logical Empiricism on the epistemological level, can also be found when problems of the objectivity of knowledge and ontology are considered. For both Carnap and other Neo-empiricists, the presence in science of presupposed forms of thinking, not derived from experience, should not endanger the objective value of knowledge. On the contrary: this presence should allow us to defend an anti-metaphysical conception of objectivity that – as it was in Mach’s desiderata regarding mechanics and mechanicism – frees our discourses on the objects from any form of absolutisation or ontological hypostatization (see Frank, 1941/49, pp. 1–6, 17–19). Rightly, under Carnap’s influence, Schlick comes to fully develop a similar conception by following a path that starts from the Allgemeine Erkenntnislehre (1918/25) and leads to the 1932 essay “Positivismus und Realismus”. Reichenbach expresses the same idea in a way that is more similar to Neo-Kantianism, and then goes in the direction of a peculiar form of realism linked to his views on probability and induction. As he writes in the Philosophie der Raum-Zeit-Lehre for example «The description of nature is not stripped of arbitrariness by naive absolutism, but only by recognition and formulation of the points of arbitrariness. The only path to objective knowledge leads through conscious awareness of the role that subjectivity plays in our methods of research» (Reichenbach, 1928, p. 37)."
+      ],
+      "zh": [
+        "卡尔纳普立场与逻辑经验论立场在认识论层面存在的联系，在考虑知识的客观性与本体论问题时也能找到。对卡尔纳普与其他新经验论者来说，科学中存在预设的、非从经验导出的思维形式，不应危及知识的客观价值。相反：这种存在应使我们能够捍卫一种反形而上学的客观性构想——正如马赫对力学与机械论的期望那样——它把我们关于对象的话语从任何形式的绝对化或本体论实体化中解放出来（见 Frank, 1941/49, pp. 1–6, 17–19）。合乎情理的是，在卡尔纳普的影响下，石里克沿着一条从《普通认识论》（1918/25）出发、通向1932年文章《实证主义与实在论》的道路，充分发展了类似的构想。赖欣巴赫以更接近新康德主义的方式表达同一观念，然后走向一种与他的概率和归纳观点相联系的独特实在论形式。例如他在《时空学说哲学》中写道：“对自然的描述不是靠朴素的绝对主义、而是靠识别并说明哪些方面可以任意选择来摆脱任意性。通往客观知识的唯一道路，经过对主观性在我们的研究方法中所起作用的自觉意识”（Reichenbach, 1928, p. 37）。"
+      ],
+      "units": 232
+    },
+    {
+      "id": "ch06-u032",
+      "source_ids": [
+        "ch06-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Carnap, for his part, tries to develop anti-metaphysical objectivism using the theory of the ontological-metaphysical Neutralität of the Konstitutionssystem. This thesis appeared during the years that saw the preparation of Der logische Aufbau der Welt and Scheinprobleme in der Philosophie, published in 1928 as one volume. In some letters written during the same period, Reichenbach describes Carnap’s aspiration to this ontological-metaphysical Neutralität «ein schöner Traum» and asserts the impossibility of renouncing the «Realitätsaxiom» or «Axiom des Realismus». Carnap’s reply to this is that the «Realitätsaxiom» could not be expressed within the Konstitutionssystem (see Parrini, 2002, p. 290 f.). He remained loyal to this interpretation and in the following years devoted a great deal of effort in showing that, if metaphysically intended, the main ontological and epistemological options are devoid of any cognitive meaning. He did so both in the case of the classical contrapositions such as realism/idealism, materialism/spiritualism, etc., and in the case of contrapositions that have become particularly relevant in the course of the process of liberalisation of empiricism, such as the contrast between scientific realists and instrumentalists regarding the existence of unobservable entities, or the contrast between nominalists and platonic realists regarding the existence of semantic entities (it is well known that this very controversy inspired the 1950 essay “Empiricism, Semantics, and Ontology” [Carnap, 1956, Supplement A, pp. 205–222])."
+      ],
+      "zh": [
+        "卡尔纳普这方面则试图用构造系统（Konstitutionssystem）的本体论—形而上学中立性（Neutralität）理论来发展反形而上学的客观主义。这个论题出现于筹备《世界的逻辑构造》与《哲学中的假问题》的那些年，两书1928年合为一卷出版。在同一时期写的一些信中，赖欣巴赫把卡尔纳普对本体论—形而上学中立性的向往描述为“一个美梦”（ein schöner Traum），并断言不可能放弃“实在性公理”（Realitätsaxiom）或“实在论公理”（Axiom des Realismus）。卡尔纳普对此的答复是：“实在性公理”不能在构造系统内表达（见 Parrini, 2002, p. 290 f.）。他忠于这个解释，并在随后几年投入大量努力表明：如果按形而上学意图理解，主要的本体论与认识论选项都缺乏任何认识意义。他既处理经典对立，如实在论/观念论、唯物主义/唯灵论等，也处理在经验论自由化进程中变得特别相关的对立，如科学实在论者与工具主义者关于不可观察实体存在的对立，或唯名论者与柏拉图式实在论者关于语义实体存在的对立（众所周知，正是这场论战激发了1950年的文章《经验论、语义学与本体论》〔Carnap, 1956, Supplement A, pp. 205–222〕）。"
+      ],
+      "units": 224
+    },
+    {
+      "id": "ch06-u033",
+      "source_ids": [
+        "ch06-u033"
+      ],
+      "page": "134",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Throughout the whole development of his thought, Carnap tried to defend his anti-metaphysical objectivism with ‘clusters’ of variously interrelated arguments that are subjected to changes over the course of time and that also, in more or less contemporary texts, do not always present themselves in the same form. He uses different tools: the verification principle in its more or less strong formulations; the maxim according to which «to be real in the scientific sense means to be an element of the system» and that «hence this concept cannot be meaningfully applied to the system itself» (Carnap, 1956, p. 207); the analytic/synthetic dichotomy; the distinctions between metaphysical reality and empirical reality (Aufbau and Scheinprobleme), between the formal and material way of speaking (Logische Syntax), and between external and internal questions of existence (“Empiricism, Semantics, and Ontology”). As Schlick immediately detected, the fundamental inspiration of this vast network of ideas is clearly permeated by Kant. Schlick draws a parallel between Carnap’s notion of empirical realism and Kant’s teaching that empirical reality and unreality are not things that can immediately be given, but have to do with the possibility of an object becoming a part of a comprehensive set of beliefs governed by rules. In “Positivismus und Realismus” (1932) Schlick uses this idea to criticise both the realist components of the conception he had advanced himself a few years earlier in the Allgemeine Erkenntnislehre (1918/25), and the older positivistic idea of the absoluteness of the experience datum (see Parrini, 1991/94, p. 263 f.)."
+      ],
+      "zh": [
+        "在其思想发展的整个过程中，卡尔纳普试图用各种相互关联的论证“簇”来捍卫他的反形而上学客观主义，这些论证随时间变化，而且在或多或少同时代的文本中也不总是以相同形式呈现。他使用不同的工具：强弱程度不同的证实原则；这条准则——“在科学意义上是实在的，意味着是系统的一个元素”，因此“这个概念不能有意义地应用于系统本身”（Carnap, 1956, p. 207）；分析/综合二分；形而上学实在与经验实在的区分（《构造》与《假问题》）、形式说话方式与质料说话方式的区分（《语言的逻辑句法》）、以及存在的外部问题与内部问题的区分（《经验论、语义学与本体论》）。正如石里克立即察觉的，这个庞大观念网络的根本灵感显然渗透着康德。石里克把卡尔纳普的经验实在论概念与康德的这个教义作类比：经验的实在性与非实在性不是能直接被给予的东西，而关涉一个对象成为受规则支配的包罗性信念集之一部分的可能性。在《实证主义与实在论》（1932）中，石里克用这个观念既批评他自己几年前在《普通认识论》（1918/25）中提出的构想的实在论成分，也批评更古老的实证主义关于经验材料绝对性的观念（见 Parrini, 1991/94, p. 263 f.）。"
+      ],
+      "units": 253
+    },
+    {
+      "id": "ch06-u034",
+      "source_ids": [
+        "ch06-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The fact that Carnap, despite the substantial unity of inspiration of his position, formulated it in many ways using different arguments, led to numerous interpretations that have made the description of his philosophy considerably more complex. Without denying the specific merits of these interpretative analysis – from Quine’s (1951) to the more recent ones by Stroud (1987, ch. V) and Bird (2003) – it seems to me, all things considered, that the truly relevant distinction for Carnap is that between absolute and relative. He essentially intended to support the thesis that the cognitive problems – both the general and the specific or particular ones – regarding the existence and properties of objects are only genuinely theoretical and meaningful when posited as internal questions, i.e. as questions relative to a previously accepted conceptual reference framework. In accordance with the linguistic turn taken by philosophy and the linguistic conception of the a priori, Carnap describes this structure as a language form or linguistic framework (see Parrini, 1991/94, pp. 267–274). It is only by considering the cognitive problems as questions within a linguistic framework, that it is possible to give them answers, whether they be logical-analytical or empirical-factual depending on the question and the issue discussed. In the case of physical entities, for example, it is only within, or relative to, the linguistic reference system through which we can talk about ordinary things or microphysics entities that we can pronounce ourselves regarding the existence and the properties of King Arthur, or the existence and the properties of electrons. In questions such as these, we can see the intervention of «an empirical, scientific, non-metaphysical concept» of reality (Carnap, 1956, p. 207) that must be kept separate from the metaphysical, non-scientific concept that intervenes in external or absolute questions. For Carnap – as Schlick had already understood in the 1930s – «To recognize something as a real thing or event means to succeed in incorporate it into the system of things at a particular space–time position so that it fits together with the other things recognized as real, according to the rules of the framework» (Carnap, 1956, p. 207)."
+      ],
+      "zh": [
+        "尽管卡尔纳普立场的灵感实质统一，他却用不同论证以多种方式表述它，这个事实导致众多解释，使其哲学的描述复杂得多。在不否认这些解释分析——从蒯因（1951）到较晚近的斯特劳德（1987, ch. V）与伯德（2003）——各自价值的前提下，在我看来，考虑一切之后，对卡尔纳普真正相关的区分是绝对与相对之间的区分。他本质上想支持这个论题：关于对象的存在与性质的认识问题——无论一般的还是特殊或个别的——只有作为内部问题提出，即作为相对于事先接受的概念参照框架的问题提出时，才是真正理论性的、有意义的。与哲学的语言转向以及以语言说明先天性的构想一致，卡尔纳普把这个结构描述为语言形式或语言框架（见 Parrini, 1991/94, pp. 267–274）。只有把认识问题看作语言框架内的问题，才可能给它们答案，无论是逻辑—分析的还是经验—事实的，取决于问题与所讨论的议题。例如就物理实体而言，只有在我们借以谈论日常事物或微观物理实体的语言参照系统之内或相对于它，我们才能就亚瑟王的存在与性质、或电子的存在与性质表态。在这类问题中，我们可以看到实在的“一个经验的、科学的、非形而上学的概念”的介入（Carnap, 1956, p. 207），它必须与介入外部或绝对问题的形而上学的、非科学的概念分开。对卡尔纳普来说——正如石里克在1930年代已经理解的——“承认某物为实在的事物或事件，意味着成功地把它安置在事物系统的某一特定时空位置，使它按照框架的规则与其他被承认为实在的事物相契合”（Carnap, 1956, p. 207）。"
+      ],
+      "units": 352
+    },
+    {
+      "id": "ch06-u035",
+      "source_ids": [
+        "ch06-u035"
+      ],
+      "page": "135",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Undoubtedly, external questions also seem to posit problems relating to existence, both of a particular or specific nature (for example, the problem of the existence of number five or King Arthur), and a general nature (for example, the problem of the existence of classes or numbers or physical objects); but, differently from internal questions, external ones pose these problems in an absolute form, non-relative to a given linguistic framework. For Carnap, these external questions can be intended in two different ways: metaphysical or pragmatic. In the first case, they are meant as questions regarding the absolute correctness of a linguistic framework or a statement on entities. In this form, external questions apparently raise problems of truth/ falsity to be solved either by empirical-factual or by logical-analytical means, but they are really metaphysical questions devoid of cognitive meaning. As I said before, for Carnap «To be real in the scientific sense means to be an element of the system; hence this concept cannot be meaningfully applied to the system itself» (Carnap, 1956, p. 207). He had already maintained in the 1932 essay “Überwindung der Metaphysik durch logische Analyse der Sprache” that metaphysical discourse does not refer to the sphere of theoretical elaboration, but serves «for the expression of the general attitude of a person towards life (Lebenseinstellung, Lebensgefühl)» (Carnap, 1932, p. 78)."
+      ],
+      "zh": [
+        "无疑，外部问题似乎也提出关于存在的问题，既有特殊或特定本性的（例如数五或亚瑟王的存在问题），也有一般本性的（例如类、数或物理对象的存在问题）；但与内部问题不同，外部问题以绝对形式、不相对于给定语言框架地提出这些问题。对卡尔纳普来说，这些外部问题可以按两种不同方式理解：形而上学的或实用的。在第一种情形中，它们被理解为关于语言框架或关于实体的陈述的绝对正确性的问题。以这种形式，外部问题表面上提出要用经验—事实手段或逻辑—分析手段解决的真/假问题，但它们实际上是缺乏认识意义的形而上学问题。如我前面所说，对卡尔纳普来说，“在科学意义上是实在的，意味着是系统的一个元素；因此这个概念不能有意义地应用于系统本身”（Carnap, 1956, p. 207）。他在1932年的文章《通过对语言的逻辑分析克服形而上学》中就已经主张，形而上学话语不指涉理论阐发的领域，而是服务于“表达一个人对生活的总体态度（Lebenseinstellung, Lebensgefühl，生活态度、生活感受）”（Carnap, 1932, p. 78）。"
+      ],
+      "units": 221
+    },
+    {
+      "id": "ch06-u036",
+      "source_ids": [
+        "ch06-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But if external questions are intended in a pragmatic sense, they, despite still being empirically and thus cognitively vacuous, can be reformulated as genuine practical problems regarding the suitability of choosing a certain form of language rather than another in relation to our goals. They can be transformed, for example, in the question regarding the suitability of accepting the theoretical language as well as the observational one, or the physicalist language as opposed to the phenomenalist one. In this case, we can also not give external questions an answer of an absolute type, «because various [language] forms have different advantages in different respect» and so «one cannot speak of “the correct language form”» (Carnap, 1963, p. 68). Nevertheless, we can give them a practical-conventional answer. In this respect, Carnap himself is willing to acknowledge that these practicalconventional choices are influenced at various levels by the empirical-factual knowledge we possess, exactly as the answers to the internal questions of an empirical kind are influenced by pragmatic considerations that indicate, for example, which hypothesis it is best to adopt among various alternatives that are all logically admissible and empirically adequate."
+      ],
+      "zh": [
+        "但如果外部问题按实用意义理解，那么尽管它们在经验上从而在认识上仍是空洞的，却可以被重新表述为真正的实践问题：相对于我们的目标，选择某种语言形式而非另一种是否合适。例如，它们可以转化为这个问题：除了观察语言之外还接受理论语言是否合适，或者接受物理主义语言而非现象主义语言是否合适。在这种情况下，我们也不能给外部问题以绝对类型的答案，“因为各种〔语言〕形式在不同方面各有优点”，所以“不能谈论‘正确的语言形式’”（Carnap, 1963, p. 68）。尽管如此，我们可以给它们实践—约定的答案。在这方面，卡尔纳普本人愿意承认，这些实践—约定选择在不同层面受我们拥有的经验—事实知识影响，正如经验类内部问题的答案受实用考虑影响——这些考虑指明例如在各种逻辑上可容许且经验上充分的备选假设中最好采纳哪一个。"
+      ],
+      "units": 188
+    },
+    {
+      "id": "ch06-u037",
+      "source_ids": [
+        "ch06-u037"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The external/internal distinction and this type of anti-absolutism are integral parts of Carnap’s conception of philosophy. For him, the philosopher’s task consists in proposing clear and precise explications of the problematic concepts by means of the invention and articulation of appropriate linguistic frameworks: «Our task is one of planning forms of language. Planning means to envisage the general structure of a system and to make, at different points in the system, a choice among various possibilities, theoretically an infinity of possibilities, in such a way that the various features fit together and the resulting total language system fulfills certain given desiderata» (Carnap, 1963, p. 68)."
+      ],
+      "zh": [
+        "外部问题与内部问题的区分以及这种反绝对主义，是卡尔纳普哲学构想的有机组成部分。对他而言，哲学家的任务在于通过发明和表述适当的语言框架，对那些有问题的概念提出清晰而精确的澄清：“我们的任务是规划语言形式。规划意味着设想一个系统的总体结构，并在系统的不同节点上从各种可能性——理论上是无限多的可能性——中作出选择，使各种特征彼此契合，使最终形成的整个语言系统满足某些给定的要求”（Carnap, 1963, p. 68）。"
+      ],
+      "units": 106
+    },
+    {
+      "id": "ch06-u038",
+      "source_ids": [
+        "ch06-u038"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 The Carnap/Quine Debate and the Refusal of Metaphysical Absolutism"
+      ],
+      "zh": [
+        "4 卡尔纳普/蒯因之争与对形而上学绝对主义的拒斥"
+      ],
+      "type": "subheading",
+      "units": 11
+    },
+    {
+      "id": "ch06-u039",
+      "source_ids": [
+        "ch06-u039"
+      ],
+      "page": "136",
+      "canonical_kind": "paragraph",
+      "en": [
+        "From their first formulations, Carnap’s epistemological and ontological conceptions attracted much criticism about their main theoretical tenets: the verification principle, the axiomatic-formal conception of scientific theories, the dichotomy between theoretical and observational language, the analytic/synthetic distinction and the whole linguistic theory of the relativised a priori. In the 1952 essay “On Carnap’s Views on Ontology” in particular, Quine established a strong connection between Carnap’s ontological and epistemological views, and stated that the abandonment of the dichotomy between analytic and synthetic statements brings with it the abandonment of the distinction between internal and external questions of existence."
+      ],
+      "zh": [
+        "卡尔纳普的认识论和本体论构想从其最初的表述起，就因其主要理论主张而招致大量批评：证实原则、科学理论的公理化—形式化构想、理论语言与观察语言的二分、分析/综合区分，以及相对化先天的整套语言理论。尤其是在1952年的论文《论卡尔纳普的本体论观点》中，蒯因在卡尔纳普的本体论观点与认识论观点之间建立了紧密的联系，并断言：放弃分析陈述与综合陈述的二分，也就随之放弃了存在的内部问题与外部问题的区分。"
+      ],
+      "units": 97
+    },
+    {
+      "id": "ch06-u040",
+      "source_ids": [
+        "ch06-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Quine’s «Empiricism without the Dogmas» was favourably received. Many accepted his refusal of analyticity and the type of realism and naturalism that Quine, from a certain point onwards, linked to such refusal. In truth, many also followed paths he had also criticised. I think, for example, of the retrieval of strong forms of logical and mathematical Platonism, and mainly of that Aristotelic essentialism that, with Kripke, has accompanied the development of quantified modal logic. Moreover, for some scholars Quine’s criticism had the merit to help analytical philosophy in freeing itself of the ‘prohibitions’ of Neo-empiricistic origin «and to sever a main route to rationalism and metaphysics» (Burge, 2003, p. 199)."
+      ],
+      "zh": [
+        "蒯因的“没有教条的经验论”受到了好评。许多人接受了他对分析性的拒斥，以及蒯因从某个时期起与这种拒斥联系在一起的那种实在论和自然主义。事实上，许多人还走上了他也曾批评过的道路。我想到的是例如强形式的逻辑柏拉图主义和数学柏拉图主义的复活，尤其是那种亚里士多德式的本质主义——它随着克里普克的工作，伴随着量化模态逻辑的发展而兴起。此外，在一些学者看来，蒯因的批评有功在于帮助分析哲学摆脱了新经验论渊源的种种“禁令”，“并切断了一条通往理性论和形而上学的主要道路”（Burge, 2003, p. 199）。"
+      ],
+      "units": 110
+    },
+    {
+      "id": "ch06-u041",
+      "source_ids": [
+        "ch06-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "From a strictly historical point of view, this way of positing the question seems correct. Nevertheless, I think that, whilst still remaining in the field of empiricism and anti-metaphysics (as I prefer to do), Quine’s objections to Carnap cannot be considered so conclusive as to mark the ‘end of the story’. I do not want to deny that these objections contributed to corroding a large part of the neo-empiricistic and Carnap’s theses, but rather intend to suggest that they, as well as often depending on a very controversial behaviouristic conception of language, present two weaknesses that considerably undermine their effect."
+      ],
+      "zh": [
+        "从严格的历史观点看，这样提出问题似乎是正确的。然而我认为，只要仍然留在经验论和反形而上学的领域之内（我更愿意这样做），蒯因对卡尔纳普的反驳就不能被认为是结论性的，不能视为给“这个故事画上了句号”。我并不想否认这些反驳曾有助于侵蚀新经验论和卡尔纳普的大部分论题，而是想指出：这些反驳除了往往依赖于一种很有争议的行为主义语言观之外，还存在两个弱点，大大削弱了它们的效力。"
+      ],
+      "units": 100
+    },
+    {
+      "id": "ch06-u042",
+      "source_ids": [
+        "ch06-u042"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The first weakness regards the connection between reductionism and analyticity. Contrarily to Quine’s statement, the two dogmas are not «at root identical». Grice and Strawson showed in 1956 that it is possible to abandon reductionism without renouncing the synonymy and the analytic/synthetic distinction (Grice and Strawson, 1956)."
+      ],
+      "zh": [
+        "第一个弱点涉及还原论与分析性之间的联系。与蒯因的断言相反，两个教条并非“在根本上同一”。格赖斯和斯特劳森在1956年表明，放弃还原论而不放弃同义性和分析/综合区分，是可能的（Grice and Strawson, 1956）。"
+      ],
+      "units": 48
+    },
+    {
+      "id": "ch06-u043",
+      "source_ids": [
+        "ch06-u043"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The second weakness is much more complex and regards the discussion of the ontological problem. In his criticism, Quine interprets the external/internal distinction not only in terms of the analytic/synthetic one, but also in terms of the general/ specific one. From this second point of view, it is enough to reject reductionism to affirm that the external (general) questions are continuous with the internal (particular) ones. If we abandon reductionism, both the answers to the general questions (for example, the choice of an ontology or a canonical notation) and the answers to the specific questions (for example, the existence of brick houses in Elm Street) end up depending on «considerations of equilibrium» of a logical, pragmatic and empirical nature that affect «the field as a whole». As a consequence, Quine is right in saying that there are only differences of degree and not of type: in the case of some questions/answers logical considerations play the most important role, in others pragmatic considerations prevail, and in some others data from experience are most important."
+      ],
+      "zh": [
+        "第二个弱点要复杂得多，涉及本体论问题的讨论。蒯因在批评中不仅用分析/综合区分来解释外部/内部区分，还用一般/特殊区分来解释它。从第二个角度看，只要拒斥还原论，就足以断言外部（一般）问题与内部（特殊）问题是连续的。如果我们放弃还原论，那么对一般问题的回答（例如选择一种本体论或一种规范记法）和对特殊问题的回答（例如榆树街上砖房的存在），最终都取决于影响“整个领域”的逻辑的、实用的和经验的“平衡考虑”。因此，蒯因说只存在程度差别而不存在类型差别，是对的：在某些问题/回答中逻辑考虑起最重要的作用，在另一些中实用考虑占上风，还有一些中来自经验的数据最为重要。"
+      ],
+      "units": 176
+    },
+    {
+      "id": "ch06-u044",
+      "source_ids": [
+        "ch06-u044"
+      ],
+      "page": "137",
+      "canonical_kind": "paragraph",
+      "en": [
+        "However, it also appears true that abandoning reductionism only allows the refusal of Carnap’s position when the external/internal distinction is intended in the general/particular sense, but not when it is intended in the absolute/relative sense. From the point of view of the absolute/relative dichotomy, Quine himself agreed, in the 1950 essay “Identity, Ostension, and Hypostasis” (virtually contemporary to “Two Dogmas of Empiricism”), with one of the main theses at the base of Carnap’s ontological neutrality. For Quine, as for Carnap, we cannot establish in an absolute sense «How much of our science is merely contributed by language and how much is a genuine reflection of reality», because in order to answer that question «we must talk about the world as well as about language, and to talk about the world we must already impose upon the world some conceptual scheme peculiar to our own special language». So «we cannot detach ourselves» from our conceptual scheme «and compare it objectively with an unconceptualized reality. Hence it is meaningless […] to inquire into the absolute correctness of a conceptual scheme as a mirror of reality. Our standard for appraising basic changes of conceptual scheme must be, not a realistic standard of correspondence to reality, but a pragmatic standard» [Quine, 1953/61, p. 78 f.)."
+      ],
+      "zh": [
+        "然而，同样确实的是：只有当外部/内部区分被理解为一般/特殊意义上的区分时，放弃还原论才允许拒斥卡尔纳普的立场；而当它被理解为绝对/相对意义上的区分时则不然。从绝对/相对二分的角度看，蒯因本人在1950年的论文《同一性、实指与实体化》（几乎与《经验论的两个教条》同时）中，就赞同卡尔纳普本体论中立性所依据的主要论题之一。对蒯因如同对卡尔纳普一样，我们无法在绝对的意义上确定“我们的科学中有多少仅仅是语言贡献的，有多少是对实在的真实反映”，因为要回答这个问题，“我们必须既谈论世界又谈论语言，而要谈论世界，我们就必须已经把某种为我们自己的特殊语言所特有的概念图式强加于世界”。因此，“我们无法把自己从”概念图式中“抽离出来，并把它与一个未经概念化的实在作客观的比较。所以，追问一个概念图式作为实在之镜的绝对正确性，是毫无意义的[……]。我们评价概念图式根本变化的标准，必定不是与实在相符合的实在论标准，而是一种实用标准”（Quine, 1953/61, p. 78 f.）。"
+      ],
+      "units": 215
+    },
+    {
+      "id": "ch06-u045",
+      "source_ids": [
+        "ch06-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "After the crisis of the verification principle, it seems difficult to find a meaning for the word “sense” which is consistent with the purpose of considering as senseless or meaningless the question of the absolute correctness of a conceptual scheme or, in Carnap’s terms, of a linguistic form. I also deem that Quine’s philosophical development was not completely coherent with what was stated in the concluding pages of “Identity, Ostension, and Hypostasis”, in that Quine moved more towards realism than pragmatism. The argument, though, still carries a certain weight even when freed from the verification principle, because it presents the advantage of highlighting the problematic nature of talking about reality in ways that are not epistemically conditioned, and therefore the difficulty in comparing our pretended descriptions of reality with reality per se. In this form, the argument is independent of the verification principle, and is very similar to both Kant’s observations on the object of representations and Einstein’s observations on the relationship between physical theories and real world, none of which I can deal with here."
+      ],
+      "zh": [
+        "在证实原则陷入危机之后，似乎很难为“意义”一词找到一种含义，使之与把概念图式（用卡尔纳普的话说，语言形式）的绝对正确性问题视为无意义或无意思的目的相一致。我还认为，蒯因后来的哲学发展并不完全符合《同一性、实指与实体化》结尾几页所表述的立场，因为蒯因更多地走向了实在论而非实用主义。不过，这个论证即使摆脱了证实原则，仍然具有某种分量，因为它的优点在于突出了以不受认识条件制约的方式谈论实在的问题性，从而突出了把我们自称的关于实在的描述与实在本身加以比较的困难。在这种形式下，该论证独立于证实原则，并且与康德关于表象对象的评论以及爱因斯坦关于物理理论与实在世界之关系的评论都非常相似，这两者我都无法在此展开。"
+      ],
+      "units": 176
+    },
+    {
+      "id": "ch06-u046",
+      "source_ids": [
+        "ch06-u046"
+      ],
+      "page": "138",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Naturally, in its non-verificational form, the argument cannot be considered decisive against a metaphysical realist position. The realism/antirealism controversy is extremely multifaceted, and it would be wrong to pass from the assertion that it is not possible to have an epistemic access to reality which is conceptually non-conditioned, to the conclusion of the meaningless nature of the notion of absolute reality and metaphysical realism (see Parrini, 1999/2002). Despite this, such an argument certainly goes in favour of an anti-metaphysical conception, according to which our scientific and cognitive efforts are unable to justify statements regarding a more or less close correspondence between our pretended descriptions of reality and reality as it is. As I said at the beginning of § 3, this aspect was the most characteristic feature of the conception of objectivity that Logical Empiricists and Carnap intended to defend. The objectivity they aimed at was, precisely, an objectivity completely free from the metaphysical idea of the absoluteness, an objectivity that – to quote Reichenbach again – had to pass through the recognition of the role played in the cognitive process by subjective assumptions, historically changeable and dependent on the changing of theories (see Reichenbach, 1928, p. 37)."
+      ],
+      "zh": [
+        "当然，采取不诉诸证实原则的表述时，这个论证不能被认为是对形而上学实在论立场的决定性反驳。实在论/反实在论之争极其多面，从“不可能获得概念上不受制约的对实在的认识通道”这一断言，跳到“绝对实在概念和形而上学实在论是无意义的”这一结论，是错误的（参见 Parrini, 1999/2002）。尽管如此，这个论证无疑有利于一种反形而上学的构想：按照这种构想，我们的科学努力和认知努力无法证成关于我们自称的实在描述与如其所是的实在之间或多或少紧密符合的断言。正如我在第3节开头所说，这一方面正是逻辑经验论者和卡尔纳普所要捍卫的客观性构想的最典型特征。他们所追求的客观性，恰恰是一种完全摆脱了绝对性这一形而上学观念的客观性，一种——再引赖欣巴赫的话——必须经过承认主观假定在认知过程中所起作用的客观性，这些假定在历史上是可变的，并依赖于理论的变化（参见 Reichenbach, 1928, p. 37）。"
+      ],
+      "units": 197
+    },
+    {
+      "id": "ch06-u047",
+      "source_ids": [
+        "ch06-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This brings us back to the question of analyticity and the relativised a priori. In fact, the second serious limitation of Quine’s objections precisely relates to the relative nature of the epistemic justification of our attributions of a truth value, or confirmation or empirical adequacy to the statements regarding the existence of entities and their properties. Despite what Hempel also feared at one point (see Hempel, 1963, p. 705), Quine’s objections did not succeed in showing the full epistemological irrelevance of the analytic/synthetic and a priori/a posteriori distinctions. As time passed, it became increasingly clear that the contrast between Quine and Carnap is linked to two mainly alternative epistemological projects (see Creath, 1991). Both projects seek to eliminate intuition from the basis of epistemic justification, but otherwise, they are profoundly different. Quine’s project is centred mainly on a holistic evaluation of the way in which our set of beliefs changes and calls into question holistically applied considerations regarding empirical adequacy, simplicity and conservation. Carnap’s model, on the contrary, aims at understanding not so much the dynamics of knowledge, but the logical structure of epistemic justification and is centred mainly on the constitution of objectivity. Carnap realises that justification proceeds through ‘outpourings’ of many reasons one after the other, and that there is never the possibility of individuating a point of correspondence between our statements and reality in itself that is not epistemically conditioned. Consequently, he asks himself which other source of justification is available to us in addition to empirical observation and gives an answer that fits in the «semantic tradition» (Coffa, 1991, p. 22): he tries to avoid the defects of the traditional answers based on intuition by calling into question conventions, definitions and semantic rules or meaning postulates."
+      ],
+      "zh": [
+        "这把我们带回分析性和相对化先天的问题。事实上，蒯因反驳的第二个严重局限，恰恰关系到我们对涉及实体的存在及其属性的陈述判定真值、确证程度或经验适当性时，认识证成所具有的相对性质。尽管亨佩尔一度也曾担心（参见 Hempel, 1963, p. 705），蒯因的反驳并未成功地表明分析/综合区分和先天/后天区分在认识论上完全无关紧要。随着时间的推移，越来越清楚的是：蒯因与卡尔纳普的对立联系于两个基本上相互替代的认识论方案（参见 Creath, 1991）。两个方案都力图把直观从认识证成的基础中排除出去，但在其他方面却深刻不同。蒯因的方案主要着眼于对我们的信念集合如何变化作整体论的评估，诉诸整体地运用的关于经验适当性、简单性和保守性的考虑。相反，卡尔纳普的模型所要理解的与其说是知识的动力学，不如说是认识证成的逻辑结构，其核心是客观性的构成。卡尔纳普意识到，证成是通过一个接一个的许多理由的“倾泻”而进行的，永远不可能找到一个我们的陈述与自在实在之间不受认识条件制约的对应点。因此他自问：除经验观察之外，我们还有什么别的证成来源？他给出了一个契合“语义学传统”的回答（Coffa, 1991, p. 22）：他试图通过诉诸约定、定义和语义规则或意义公设，来避免基于直观的传统回答的缺陷。"
+      ],
+      "units": 292
+    },
+    {
+      "id": "ch06-u048",
+      "source_ids": [
+        "ch06-u048"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If we consider the question from this point of view, though, at least the main idea at the root of Carnap’s theory of the relativised a priori seems to survive Quine’s epistemological criticism. From the point of view of epistemic justification, we can even suggest that such an idea has taken a new plausibility rightly because of the developments of the philosophy of science that led to the crisis of the Standard conception of scientific theories. Not only does a relativistic theory of the a priori and analyticity have nothing to fear from the idea that all our statements are susceptible to revision in the light of the developments of experience (Quine’s ‘revision argument’ [see Carnap, 1963, p. 921]), but we can also assert – contra Quine (see, e.g., Quine, 1986, p. 207) – that epistemological holism does not exclude, but demands, the relevance of the distinction between relatively a priori and a posteriori statements."
+      ],
+      "zh": [
+        "不过，如果从这个角度看问题，那么至少卡尔纳普相对化先天理论根部的核心思想，似乎在蒯因的认识论批评之后幸存了下来。从认识证成的角度看，我们甚至可以提出：恰恰是由于导致科学理论标准构想陷入危机的科学哲学的发展，这一思想获得了新的可信性。一种关于先天和分析性的相对化理论，不仅无须惧怕我们的一切陈述都可能随经验的发展而修正这一观念（蒯因的“修正论证”[参见 Carnap, 1963, p. 921]），而且我们还可以断言——与蒯因相反（例如参见 Quine, 1986, p. 207）——认识论整体论非但没有使相对先天陈述与后天陈述的区分失去意义，反而要求保留这一区分。"
+      ],
+      "units": 154
+    },
+    {
+      "id": "ch06-u049",
+      "source_ids": [
+        "ch06-u049"
+      ],
+      "page": "139",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The analysis of the logical structure of experimental testing and the so called “coordinative definitions” (see Parrini, 1976, §§ II/5–6), the analysis of theories such as Newton’s physics and relativistic physics (see, e.g., Friedman, 2000, pp. 374–6), the study of the dynamics of science, as it was developed mainly under the influence of Kuhn, all converge towards the conclusion that the understanding of scientific knowledge requires a functional distinction between the different components of scientific theories. For example, according to Kuhn, the disciplinary matrixes (originally called «paradigms») that characterise the so called «normal science» do not only include manuals and exemplars (or «paradigms» in the strict sense of the term), but also what have been called «paradigmatic propositions». Such propositions «are neither analytic, […] nor eternal truths», «nor empirical in the usual sense» exactly because «they are protected from straightforward empirical refutation. […] They constitute an epistemically distinct class in that they do not fit the traditional division of all propositions into a priori and empirical. Rather, they are propositions which are accepted as a result of scientific experience but which come to have a constitutive role in the structure of scientific thought» (Brown, 1977, p. 105; see Kuhn, 1983, pp. 566–567). There are also obviously some important differences between Carnap’s and Kuhn’s conception of scientific theories, but despite this, we cannot, in both cases, understand the structure and changes of science without taking the presuppositions that provide the framework for the scientific activity into account. Whilst still considering the holistic conception of the theory/experience relationship and the idea of the revisionability of any scientific statement as valid, the two conceptions do not accept as adequate a vision of science that puts all scientific statements on the same level, without setting any functional distinction between those directly dependent on experience and those that depend on it only indirectly and play a presuppositional role."
+      ],
+      "zh": [
+        "对实验检验的逻辑结构和所谓“协调定义”的分析（参见 Parrini, 1976, §§ II/5–6），对牛顿物理学和相对论物理学等理论的分析（例如参见 Friedman, 2000, pp. 374–6），以及主要在库恩影响下发展起来的科学动力学研究，都汇聚到同一个结论：理解科学知识要求对科学理论的不同成分作出功能上的区分。例如，按照库恩的看法，刻画所谓“常规科学”的学科基质（最初称为“范式”），不仅包括教科书和范例（即严格意义上的“范式”），还包括所谓“范式命题”。这类命题“既不是分析的，[……]也不是永恒真理”，“也不是通常意义上的经验命题”，恰恰因为“它们受到保护，免于直接的经验反驳。[……]它们构成一个在认识论上独特的类别，因为它们不符合把所有命题划分为先天的和经验的这一传统二分。毋宁说，它们是作为科学经验的结果而被接受、但随后在科学思想的结构中取得构成性作用的命题”（Brown, 1977, p. 105; 参见 Kuhn, 1983, pp. 566–567）。卡尔纳普与库恩的科学理论构想之间显然也存在一些重要差异，但尽管如此，在两种情况下，我们若不考虑为科学活动提供框架的那些预设，就无法理解科学的结构及其变化。两种构想虽然仍然认为理论/经验关系的整体论构想和任何科学陈述皆可修正的观念是有效的，却都不接受这样一种科学图景：把所有科学陈述置于同一层面，不在直接依赖经验的陈述与只间接依赖经验并起预设作用的陈述之间设立任何功能区分。"
+      ],
+      "units": 316
+    },
+    {
+      "id": "ch06-u050",
+      "source_ids": [
+        "ch06-u050"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "5 Carnap, Reichanbach and the Nature of the Relativised a priori. Ontological Implications"
+      ],
+      "zh": [
+        "5 卡尔纳普、赖欣巴赫与相对化先天的性质及其本体论意涵"
+      ],
+      "type": "subheading",
+      "units": 13
+    },
+    {
+      "id": "ch06-u051",
+      "source_ids": [
+        "ch06-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "If we adopt the epistemic justification point of view, it is thus still possible today to see a validity to Carnap’s (and Neo-empiricistic) theory of the relativised a priori, or more precisely, to the fundamental idea on which this theory is based. I am talking about the fundamental idea, and not the whole theory, because the crisis of reductionism and epistemological holism impose the abandonment of a distinctive component of that theory, i.e. the thesis of the exclusively linguistic (analytic) nature of the relativized a priori statements. This, in its turn, makes it necessary to make more extensive concessions to Kantianism than Carnap and the other Logical Empiricists thought it was necessary, although not extensive enough to trespass that boundary of empiricism that is represented by thesis 2.1 mentioned above: the negation of Kant’s theory of synthetic a priori judgments."
+      ],
+      "zh": [
+        "因此，如果采取认识证成的观点，今天仍然可以看到卡尔纳普的（以及新经验论的）相对化先天理论的有效性，更确切地说，是这一理论所依据的基本思想的有效性。我说的是基本思想，而不是整个理论，因为还原论的危机和认识论整体论迫使我们放弃该理论的一个标志性成分，即相对化先天陈述纯由语言决定、因而属于分析性陈述的论题。这反过来又使得有必要向康德主义作出比卡尔纳普和其他逻辑经验论者所认为的更多的让步，尽管这些让步还不至于越过经验论的那条边界，即上文提到的论题2.1所代表的边界：对康德先天综合判断理论的否定。"
+      ],
+      "units": 142
+    },
+    {
+      "id": "ch06-u052",
+      "source_ids": [
+        "ch06-u052"
+      ],
+      "page": "140",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The concessions to Kantianism that have become necessary today were clearly anticipated in the conception put forward by Reichenbach in his 1920 book, Relativitätstheorie und Erkenntnis apriori and in other essays published during the same period. In these works, Reichenbach states that scientific knowledge needs constitutive principles that, as well as being very similar to Kuhn’s paradigmatic propositions, are distinguished by almost all the main characteristics of Carnap’s relativised a priori: (i) unlike the usual principles of physics, the constitutive or coordinative principles do not act as connectors of specific physical quantities to one another, but as general rules to establish such a connection: «they do not say what is known in the individual case, but how knowledge is obtained; they […] indicate the conditions the logical satisfaction of which leads to knowledge» (Reichenbach, 1920, p. 104); (ii) coordinative principles form a particular group of statements in the sense that, albeit being «determined by experience», «their validity does not depend only upon the judgment of particular experiences, but also upon the possibility of the whole system of knowledge: this is the sense of the a priori» (Reichenbach, 1920, p. 104); (iii) constitutive principles are relative to the state that scientific knowledge assumes at a certain historical moment, and as such, change with the changing of such knowledge under the stimulus of experience: «“A priori” means “before knowledge”, but not “for all time” and not “independent of experience”» (Reichenbach, 1920, p. 105)."
+      ],
+      "zh": [
+        "今天已变得必要的这些向康德主义的让步，在赖欣巴赫1920年的著作《相对论与先天知识》（Relativitätstheorie und Erkenntnis apriori）及同期发表的其他论文所提出的构想中，已被清楚地预见到了。在这些著作中，赖欣巴赫指出，科学知识需要构成性原理；这些原则不仅与库恩的范式命题非常相似，而且具备卡尔纳普相对化先天的几乎全部主要特征：(i) 与通常的物理学原理不同，构成性原理或协调原理并不充当把特定物理量彼此连接起来的连接者，而是充当确立这种连接的一般规则：“它们并不说明在个别情形中已知的是什么，而是说明知识是如何获得的；它们[……]指出哪些条件必须在逻辑上得到满足，才能获得知识”（Reichenbach, 1920, p. 104）；(ii) 协调原理构成一组特殊的陈述，其意义在于：尽管它们“由经验所决定”，“它们的有效性不仅取决于对个别经验的判断，还取决于整个知识系统的可能性：这就是先天的意义”（Reichenbach, 1920, p. 104）；(iii) 构成性原理相对于科学知识在某一历史时刻所处的状态，因而随着这种知识在经验刺激下的变化而变化：“‘先天’意味着‘先于知识’，但不意味着‘对一切时间有效’，也不意味着‘独立于经验’”（Reichenbach, 1920, p. 105）。"
+      ],
+      "units": 240
+    },
+    {
+      "id": "ch06-u053",
+      "source_ids": [
+        "ch06-u053"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Despite these similarities between Reichenbach’s 1920 conception and that defended by Carnap, there is also an important difference. By expressing the prevailing ideas in Logical Empiricism, Carnap maintains the linguistic or logical-analytical nature of all the relativised a priori: this a priori is defined by referring to «semantical rules» or «meaning postulates» that serve the very purpose of constituting the class of meanings and logically valid assertions, i.e. the linguistic tools by means of which we describe the world or reality. Reichenbach’s coordinative principles, on the other hand, are principles that serve to constitute – in Kantian terms – the object of knowledge, i.e. the world or reality as we know them. For this very reason in the early 1920s Reichenbach did not agree with Schlick, who had declared that in science there is no place but for «hypotheses or conventions» and that Reichenbach’s constitutive principles had to be considered «conventions, in Poincaré’s sense» (Schlick, 1921, p. 324, 333). Only in the following years did Reichenbach also adopt the standard Neoempiristic conception of «coordinative definitions» instead of «coordinative or constitutive principles» (see, e.g., Parrini, 2001/03, 2001/04, §§ 5–6; for a different interpretation see Friedman, 2000, 2001, pp. 79–90). We can, therefore, notice how relevant failing to see the differences between Poincaré’s and Duhem’s positions was in the history of Logical Empiricism. In fact, one of the main criticisms made by Duhem to Poincaré aimed precisely at establishing that the aspects of subjectivity present in scientific discourse cannot be reduced – as Poincaré stated – to the linguistic component of that discourse (Parrini, 1983, §§ 2–3). The awareness of the differences between Poincaré and Duhem might ring an important alarm bell for Logical Empiricists!"
+      ],
+      "zh": [
+        "尽管赖欣巴赫1920年的构想与卡尔纳普所捍卫的构想有这些相似之处，两者之间也存在一个重要差异。卡尔纳普表达的是逻辑经验论中的主流观念，他坚持一切相对化先天都具有语言性质，亦即是逻辑—分析性的：这种先天是通过诉诸“语义规则”或“意义公设”来定义的，这些规则或公设的目的正是构成意义类和逻辑上有效的断言类，即我们用来描述世界或实在的语言工具。相反，赖欣巴赫的协调原理是用来构成——用康德的术语说——知识对象的原则，即我们所认识的世界或实在。正因如此，在1920年代初，赖欣巴赫不同意石里克的看法；石里克曾宣称，科学中除了“假说或约定”没有别的位置，赖欣巴赫的构成性原理必须被视为“彭加勒意义上的约定”（Schlick, 1921, p. 324, 333）。只是在随后几年里，赖欣巴赫才也采纳了新经验论的标准构想，用“协调定义”取代“协调原理或构成性原理”（例如参见 Parrini, 2001/03, 2001/04, §§ 5–6；不同的解释见 Friedman, 2000, 2001, pp. 79–90）。因此我们可以看到，未能看清彭加勒与迪昂立场之间的差异，在逻辑经验论的历史上是何等重要。事实上，迪昂对彭加勒的主要批评之一，恰恰旨在确立：科学话语中存在的主观性方面，不能像彭加勒所断言的那样，被还原为该话语的语言成分（Parrini, 1983, §§ 2–3）。对彭加勒与迪昂之间差异的觉察，本可以给逻辑经验论者敲响一记重要的警钟！"
+      ],
+      "units": 285
+    },
+    {
+      "id": "ch06-u054",
+      "source_ids": [
+        "ch06-u054"
+      ],
+      "page": "141",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The different interpretations for the coordinative assumptions given in the 1920s by Schlick and Reichenbach have very important implications for ontology. In Schlick’s Allgemeine Erkenntnislehre, the assimilation of coordinative assumptions to conventions was perfectly in line with his designative, or «semiotic» (Howard, 1991/94, p. 63), conception of knowledge. In fact, Schlick saw in cognitive coordination a form of designation of objects and facts that are already there, independently of the cognitive process, whereas in the Reichenbach of the early 1920s, the interpretation of coordinative assumptions as constitutive principles brought with it the idea that these assumptions are necessary for the constitution of physical reality, of the object of knowledge. According to him, in the cognitive process, one of the two sides of the coordination – «the “real”» or the object of knowledge – is constituted in an ‘immanent’ way with respect to the coordination principles, and its transcendence is simply due to the fact that it is susceptible to a potentially endless number of empirical determinations (Reichenbach, 1920, p. 38, 42; see Parrini, 2001/03, §§ 2–3). Nevertheless, there is an important difference between Kant and Reichenbach. Kant believed in the uniqueness and immutability of constitutive principles, and so thought that «only the determination of a particular concept is an infinite task». Reichenbach, instead states the historical variability of coordinative assumptions, and so maintains that: «even our concepts of the very object of knowledge, that is, of reality and the possibility of its description, can only gradually become more precise» (Reichenbach, 1920, p. 88)."
+      ],
+      "zh": [
+        "石里克和赖欣巴赫在1920年代对协调假定给出的不同解释，对本体论有非常重要的意涵。在石里克的《普通认识论》中，把协调假定同化于约定，与他的指称性的、或“符号学的”（Howard, 1991/94, p. 63）知识构想完全一致。事实上，石里克把认知协调看作对独立于认知过程而已经在那里的对象和事实的一种指称形式；而在1920年代初的赖欣巴赫那里，把协调假定解释为构成性原理，则带来了这样的观念：这些假定对于物理实在、对于知识对象的构成是必要的。按照他的看法，在认知过程中，协调的两端之一——“‘实在’”或知识对象——是相对于协调原理以“内在的”方式被构成的，其超越性仅仅在于它可能接受潜在无穷多的经验规定（Reichenbach, 1920, p. 38, 42; 参见 Parrini, 2001/03, §§ 2–3）。不过，康德与赖欣巴赫之间有一个重要差异。康德相信构成性原理的唯一性和不变性，因而认为“只有对一个特定概念的规定才是无限的任务”。赖欣巴赫则断言协调假定的历史可变性，因而主张：“甚至我们关于知识对象本身的概念，即关于实在及其描述之可能性的概念，也只能逐渐变得更加精确”（Reichenbach, 1920, p. 88）。"
+      ],
+      "units": 253
+    },
+    {
+      "id": "ch06-u055",
+      "source_ids": [
+        "ch06-u055"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The recovery of Duhem’s vision of the theory/experience relationship leads us to reconsider the theory Reichenbach developed in the 1920s. As I said before, if we consider the point of view of epistemic justification, epistemological holism does not exclude, but demands an opportunely relativised distinction between the a priori and the a posteriori; but from the same epistemic justification viewpoint, epistemological holism is incompatible with the idea that all the relatively a priori components can be reduced to assumptions only regarding the linguistic structure of science. The holistic conception asserts that when presented with certain experimental results, we cannot speak of the empirical adequacy or non-adequacy of an individually considered hypothesis, if not relative to a network of collateral assumptions taken for granted, assumptions which do not only apply to the linguistic rules which fix the meaning of the sentence by means of which the considered hypothesis is formulated (see Parrini, 1976, § II/2, 1998, §§ II/2, 5). So, if we continue stating that the ontological questions are subdivided in external and internal questions with respect to a conceptual frame of reference, we must also acknowledge – differently from Carnap – that such a frame cannot be solely constituted by the language in which the questions are formulated. The framework will have to include a more or less wide set of theoretical principles that, in a given context, will work as relatively a priori assumptions of a constitutive nature like Reichenbach’s old coordinative principles."
+      ],
+      "zh": [
+        "对迪昂关于理论/经验关系之构想的重新发掘，引导我们重新考虑赖欣巴赫在1920年代发展的理论。如前所述，如果从认识证成的角度看，认识论整体论并不排除、反而要求一种适当相对化的先天与后天之分；但从同一认识证成的角度看，认识论整体论与这样一种观念不相容：一切相对先天的成分都可以被还原为仅仅关于科学之语言结构的假定。整体论构想断言：面对某些实验结果时，若不相对于一组被视为当然的辅助假定，我们就不能谈论单独考虑的某个假说的经验适当性或不适当性；而这些假定并不只涉及固定语句意义的语言规则——被考虑的假说正是通过该语句来表述的（参见 Parrini, 1976, § II/2, 1998, §§ II/2, 5）。因此，如果我们继续断言本体论问题相对于一个概念参照框架分为外部问题和内部问题，我们就必须同时承认——与卡尔纳普不同——这个框架不能仅仅由表述问题所用的语言构成。该框架必须包括一套或宽或窄的理论原则，它们在给定语境中将充当具有构成性质的相对先天假定，就像赖欣巴赫早年的协调原理那样。"
+      ],
+      "units": 243
+    },
+    {
+      "id": "ch06-u056",
+      "source_ids": [
+        "ch06-u056"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This raises the epistemological problem of relativism. If we state the possibility of having alternative linguistic frameworks and the purely linguistic nature of the relativised a priori, it is possible to state – to paraphrase Reichenbach after the 1920s – that relativity does not regard the objectivity and truth of our descriptions of the world, but only our different formulations of that truth and objectivity (see Reichenbach, 1949, pp. 294–296). If, on the other hand, we talk about constitutive principles of objectivity, and we assert that knowledge also requires subjective assumptions of a theoretical-synthetic nature, the situation changes considerably. The very notions of objectivity and truth run the risk of becoming relative, and the possibility of avoiding relativism requires another set of conceptual tools. These new tools too are of a latu sensu Kantian derivation, but they are different from the ones set up by Carnap and the Logical Empiricists (see Parrini, 1995/98)."
+      ],
+      "zh": [
+        "这就引出了相对主义的认识论问题。如果承认可以采用不同的语言框架，且相对化先天完全是语言性的，那么就可以说——套用1920年代之后赖欣巴赫的话——相对性并不涉及我们对世界的描述的客观性和真理性，而只涉及我们对这种真理性和客观性的不同表述（参见 Reichenbach, 1949, pp. 294–296）。反之，如果我们谈论客观性的构成性原理，并断言知识还需要理论—综合性质的主观假定，情况就大不相同了。客观性和真理概念本身就有变得相对的危险，而避免相对主义的可能性就需要另一套概念工具。这些新工具同样是广义康德主义渊源的，但不同于卡尔纳普和逻辑经验论者所建立的那些工具（参见 Parrini, 1995/98）。"
+      ],
+      "units": 153
+    },
+    {
+      "id": "ch06-u057",
+      "source_ids": [
+        "ch06-u057"
+      ],
+      "page": "142",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch06-bibliography-001",
+      "source_ids": [
+        "ch06-ref002",
+        "ch06-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bird, G., 2003, “Carnap’s Internal and External Questions”, in Language, Truth and Knowledge. Contributions to the Philosophy of R. Carnap, ed. by T. Bonk, Kluwer, Dordrecht, The Netherlands, 97–131"
+      ],
+      "zh": [
+        "Bird, G., 2003, “Carnap’s Internal and External Questions”, in Language, Truth and Knowledge. Contributions to the Philosophy of R. Carnap, ed. by T. Bonk, Kluwer, Dordrecht, The Netherlands, 97–131"
+      ],
+      "shared": true,
+      "units": 30
+    },
+    {
+      "id": "ch06-bibliography-002",
+      "source_ids": [
+        "ch06-ref003",
+        "ch06-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Brown, H. I., 1979, Perception, Theory and Commitment. The New Philosophy of Science, First edn. 1977, The University of Chicago Press, Chicago, IL"
+      ],
+      "zh": [
+        "Brown, H. I., 1979, Perception, Theory and Commitment. The New Philosophy of Science, First edn. 1977, The University of Chicago Press, Chicago, IL"
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch06-bibliography-003",
+      "source_ids": [
+        "ch06-ref004",
+        "ch06-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Burge, T., 2003, “Logic and Analyticity”, in Fifty Years of Quine’s “Two Dogmas”, ed. by H.-J. Glock, K. Glüer and G. Keil, Grazer Philosophische Studien, 66, 199–249"
+      ],
+      "zh": [
+        "Burge, T., 2003, “Logic and Analyticity”, in Fifty Years of Quine’s “Two Dogmas”, ed. by H.-J. Glock, K. Glüer and G. Keil, Grazer Philosophische Studien, 66, 199–249"
+      ],
+      "shared": true,
+      "units": 29
+    },
+    {
+      "id": "ch06-bibliography-004",
+      "source_ids": [
+        "ch06-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Carnap, R., 1923, “Über die Aufgabe der Physik”, Kant-Studien, 28, 90–107"
+      ],
+      "zh": [
+        "Carnap, R., 1923, “Über die Aufgabe der Physik”, Kant-Studien, 28, 90–107"
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch06-bibliography-005",
+      "source_ids": [
+        "ch06-ref005",
+        "ch06-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Carnap, R., 1928/61, Der logische Aufbau der Welt * Scheinprobleme in der Philosophie (Weltkreis-Verlag, Berlin Schlachtensee, 1918; Second edn., Felix Meiner, Hamburg, 1961), English translation, The Logical Structure of the World * Pseudoproblems in Philosophy, University of California Press, Berkeley/Los Angeles, CA, 1967"
+      ],
+      "zh": [
+        "Carnap, R., 1928/61, Der logische Aufbau der Welt * Scheinprobleme in der Philosophie (Weltkreis-Verlag, Berlin Schlachtensee, 1918; Second edn., Felix Meiner, Hamburg, 1961), English translation, The Logical Structure of the World * Pseudoproblems in Philosophy, University of California Press, Berkeley/Los Angeles, CA, 1967"
+      ],
+      "shared": true,
+      "units": 43
+    },
+    {
+      "id": "ch06-bibliography-006",
+      "source_ids": [
+        "ch06-ref006",
+        "ch06-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Carnap, R., 1932, “Überwindung der Metaphysik durch logische Analyse der Sprache” (Erkenntnis, 2), “The Elimination of Metaphysics through Logical Analysis of Language”, in Logical Positivism, ed. by A. J. Ayer, Free Press, New York, 1959, 60–81"
+      ],
+      "zh": [
+        "Carnap, R., 1932, “Überwindung der Metaphysik durch logische Analyse der Sprache” (Erkenntnis, 2), “The Elimination of Metaphysics through Logical Analysis of Language”, in Logical Positivism, ed. by A. J. Ayer, Free Press, New York, 1959, 60–81"
+      ],
+      "shared": true,
+      "units": 37
+    },
+    {
+      "id": "ch06-bibliography-007",
+      "source_ids": [
+        "ch06-ref007",
+        "ch06-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Carnap, R., 1934, Logische Syntax der Sprache (Springer, Wien), English edn., The Logical Syntax of Language, Routledge & Kegan Paul, London, 1937, Third impression, 1951"
+      ],
+      "zh": [
+        "Carnap, R., 1934, Logische Syntax der Sprache (Springer, Wien), English edn., The Logical Syntax of Language, Routledge & Kegan Paul, London, 1937, Third impression, 1951"
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch06-bibliography-008",
+      "source_ids": [
+        "ch06-ref008",
+        "ch06-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Carnap, R., 1956, Meaning and Necessity. A Study in Semantics and Modal Logic, First edn., 1947, University of Chicago Press, Chicago, IL"
+      ],
+      "zh": [
+        "Carnap, R., 1956, Meaning and Necessity. A Study in Semantics and Modal Logic, First edn., 1947, University of Chicago Press, Chicago, IL"
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch06-bibliography-009",
+      "source_ids": [
+        "ch06-ref009",
+        "ch06-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Carnap, R., 1963, “Carnap’s Intellectual Autobiography” * “The Philosopher Replies”, in The Philosophy of Rudolf Carnap, ed. by P. A. Schilpp, Open Court, La Salle (Ill.), 1–84, 857–1013"
+      ],
+      "zh": [
+        "Carnap, R., 1963, “Carnap’s Intellectual Autobiography” * “The Philosopher Replies”, in The Philosophy of Rudolf Carnap, ed. by P. A. Schilpp, Open Court, La Salle (Ill.), 1–84, 857–1013"
+      ],
+      "shared": true,
+      "units": 29
+    },
+    {
+      "id": "ch06-bibliography-010",
+      "source_ids": [
+        "ch06-ref010",
+        "ch06-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Carnap, R., 1966/74, Philosophical Foundations of Physics, Second edn. rev., An Introduction to the Philosophy of Science, ed. by M. Gardner, Basic Books, New York"
+      ],
+      "zh": [
+        "Carnap, R., 1966/74, Philosophical Foundations of Physics, Second edn. rev., An Introduction to the Philosophy of Science, ed. by M. Gardner, Basic Books, New York"
+      ],
+      "shared": true,
+      "units": 26
+    },
+    {
+      "id": "ch06-bibliography-011",
+      "source_ids": [
+        "ch06-ref011",
+        "ch06-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Coffa, A. J., 1991, The Semantic Tradition from Kant to Carnap. To the Vienna Station, ed. by L. Wessels, Cambridge University Press, Cambridge"
+      ],
+      "zh": [
+        "Coffa, A. J., 1991, The Semantic Tradition from Kant to Carnap. To the Vienna Station, ed. by L. Wessels, Cambridge University Press, Cambridge"
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch06-bibliography-012",
+      "source_ids": [
+        "ch06-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Creath, R., 1991, “Every Dogma Has Its Day”, Erkenntnis, 35, 347–89"
+      ],
+      "zh": [
+        "Creath, R., 1991, “Every Dogma Has Its Day”, Erkenntnis, 35, 347–89"
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch06-bibliography-013",
+      "source_ids": [
+        "ch06-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Frank, P., 1941/49, Modern Science and Its Philosophy, Harvard University Press, Cambridge, MA"
+      ],
+      "zh": [
+        "Frank, P., 1941/49, Modern Science and Its Philosophy, Harvard University Press, Cambridge, MA"
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch06-bibliography-014",
+      "source_ids": [
+        "ch06-ref012",
+        "ch06-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M., 2000, “Transcendental Philosophy and A Priori Knowledge: A Neo-Kantian Perspective”, in New Essays on A Priori, ed. by P. Boghossian and C. Peacocke, Clarendon, Oxford, 367–383"
+      ],
+      "zh": [
+        "Friedman, M., 2000, “Transcendental Philosophy and A Priori Knowledge: A Neo-Kantian Perspective”, in New Essays on A Priori, ed. by P. Boghossian and C. Peacocke, Clarendon, Oxford, 367–383"
+      ],
+      "shared": true,
+      "units": 29
+    },
+    {
+      "id": "ch06-bibliography-015",
+      "source_ids": [
+        "ch06-ref013",
+        "ch06-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M., 2001, Dynamics of Reason. The 1999 Kant Lectures at Stanford University, CSLI Publications, Stanford, CA"
+      ],
+      "zh": [
+        "Friedman, M., 2001, Dynamics of Reason. The 1999 Kant Lectures at Stanford University, CSLI Publications, Stanford, CA"
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch06-bibliography-016",
+      "source_ids": [
+        "ch06-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Grice, H.P., P.F. Strawson, “In Defense of a Dogma” Philosophical Review, 65, 141–158"
+      ],
+      "zh": [
+        "Grice, H.P., P.F. Strawson, “In Defense of a Dogma” Philosophical Review, 65, 141–158"
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch06-bibliography-017",
+      "source_ids": [
+        "ch06-ref014",
+        "ch06-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hempel, C. G., 1963, “Implications of Carnap’s Work for the Philosophy of Science”, in The Philosophy of R. Carnap [see Carnap 1963], 685–709"
+      ],
+      "zh": [
+        "Hempel, C. G., 1963, “Implications of Carnap’s Work for the Philosophy of Science”, in The Philosophy of R. Carnap [see Carnap 1963], 685–709"
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch06-bibliography-018",
+      "source_ids": [
+        "ch06-ref015",
+        "ch06-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Howard, D., 1991/94, “Einstein, Kant, and the Origins of Logical Empiricism”, in Logic, Language, and the Structure of Scientific Theories. Proceedings of the Carnap-Reichenbach Centennial, University of Konstanz, 21–24 May, 1991, ed. by W. Salmon and G. Wolters, University of Pittsburgh Press/Universitätsverlag Konstanz, Pittsburgh, PA/Konstanz, Germany 1994, 45–105"
+      ],
+      "zh": [
+        "Howard, D., 1991/94, “Einstein, Kant, and the Origins of Logical Empiricism”, in Logic, Language, and the Structure of Scientific Theories. Proceedings of the Carnap-Reichenbach Centennial, University of Konstanz, 21–24 May, 1991, ed. by W. Salmon and G. Wolters, University of Pittsburgh Press/Universitätsverlag Konstanz, Pittsburgh, PA/Konstanz, Germany 1994, 45–105"
+      ],
+      "shared": true,
+      "units": 53
+    },
+    {
+      "id": "ch06-bibliography-019",
+      "source_ids": [
+        "ch06-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kuhn, T. S., 1983, “Rationality and Theory Choice”, The Journal of Philosophy, 80, 563–570"
+      ],
+      "zh": [
+        "Kuhn, T. S., 1983, “Rationality and Theory Choice”, The Journal of Philosophy, 80, 563–570"
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch06-bibliography-020",
+      "source_ids": [
+        "ch06-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Parrini, P., 1976, Linguaggio e teoria. Due saggi di analisi filosofica, La Nuova Italia, Firenze"
+      ],
+      "zh": [
+        "Parrini, P., 1976, Linguaggio e teoria. Due saggi di analisi filosofica, La Nuova Italia, Firenze"
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch06-bibliography-021",
+      "source_ids": [
+        "ch06-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Parrini, P., 1983, Empirismo logico e convenzionalismo, Angeli, Milano, Italy"
+      ],
+      "zh": [
+        "Parrini, P., 1983, Empirismo logico e convenzionalismo, Angeli, Milano, Italy"
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch06-bibliography-022",
+      "source_ids": [
+        "ch06-ref016",
+        "ch06-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Parrini, P., 1991/94, “With Carnap Beyond Carnap. Metaphysics, Science, and the Realist/ Instrumentalism Controversy”, in Logic, Language, and the Structure of Scientific Theories [see Howard 1994], 255–277 [Italian version in Parrini 2002: V]"
+      ],
+      "zh": [
+        "Parrini, P., 1991/94, “With Carnap Beyond Carnap. Metaphysics, Science, and the Realist/ Instrumentalism Controversy”, in Logic, Language, and the Structure of Scientific Theories [see Howard 1994], 255–277 [Italian version in Parrini 2002: V]"
+      ],
+      "shared": true,
+      "units": 35
+    },
+    {
+      "id": "ch06-bibliography-023",
+      "source_ids": [
+        "ch06-ref017",
+        "ch06-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Parrini, P., 1995/98, Knowledge and Reality. An Essay in Positive Philosophy (English edn. of Conoscenza e realtà. Saggio di filosofia positiva, Laterza, Roma-Bari, 1995), Kluwer, Dordrecht, The Netherlands"
+      ],
+      "zh": [
+        "Parrini, P., 1995/98, Knowledge and Reality. An Essay in Positive Philosophy (English edn. of Conoscenza e realtà. Saggio di filosofia positiva, Laterza, Roma-Bari, 1995), Kluwer, Dordrecht, The Netherlands"
+      ],
+      "shared": true,
+      "units": 29
+    },
+    {
+      "id": "ch06-bibliography-024",
+      "source_ids": [
+        "ch06-ref018",
+        "ch06-ref019",
+        "ch06-ref021"
+      ],
+      "page": "143",
+      "canonical_kind": "reference",
+      "en": [
+        "Parrini, P., 1999/2002, “Realism and Anti-Realism from an Epistemological Point of View”, in The Problem of Realism, ed. by M. Marsonet, Ashgate, Bodmin, UK (Cornwall), 2002, 135–159 [Italian version in P. Parrini, Sapere e interpretare. Per una filosofia e un’oggettività senza fondamenti, Guerini, Milano, Italy, 2002, 67–85]"
+      ],
+      "zh": [
+        "Parrini, P., 1999/2002, “Realism and Anti-Realism from an Epistemological Point of View”, in The Problem of Realism, ed. by M. Marsonet, Ashgate, Bodmin, UK (Cornwall), 2002, 135–159 [Italian version in P. Parrini, Sapere e interpretare. Per una filosofia e un’oggettività senza fondamenti, Guerini, Milano, Italy, 2002, 67–85]"
+      ],
+      "shared": true,
+      "units": 50
+    },
+    {
+      "id": "ch06-bibliography-025",
+      "source_ids": [
+        "ch06-ref021",
+        "ch06-ref022"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Parrini, P., 1999/2003, “Reason and Perception. In Defense of a Non-linguistic Version of Empiricism”, in Logical Empiricism. Historical and Contemporary Perspectives, ed. by P. Parrini, M. Salmon and W. Salmon, University of Pittsburgh Press, Pittsburgh, PA, 2003, 349–374 [Italian version in Parrini 2002: IX]"
+      ],
+      "zh": [
+        "Parrini, P., 1999/2003, “Reason and Perception. In Defense of a Non-linguistic Version of Empiricism”, in Logical Empiricism. Historical and Contemporary Perspectives, ed. by P. Parrini, M. Salmon and W. Salmon, University of Pittsburgh Press, Pittsburgh, PA, 2003, 349–374 [Italian version in Parrini 2002: IX]"
+      ],
+      "shared": true,
+      "units": 46
+    },
+    {
+      "id": "ch06-bibliography-026",
+      "source_ids": [
+        "ch06-ref022",
+        "ch06-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Parrini, P., 2001/03, “On the Formation of Logical Empiricism”, in The Vienna Circle and Logical Empiricism. Re-Evaluation and Future Perspectives, ed. by F. Stadler, Kluwer, Dordrecht, The Netherlands, 2003, 9–20 [Italian, enlarged version in Parrini 2002: VI]"
+      ],
+      "zh": [
+        "Parrini, P., 2001/03, “On the Formation of Logical Empiricism”, in The Vienna Circle and Logical Empiricism. Re-Evaluation and Future Perspectives, ed. by F. Stadler, Kluwer, Dordrecht, The Netherlands, 2003, 9–20 [Italian, enlarged version in Parrini 2002: VI]"
+      ],
+      "shared": true,
+      "units": 39
+    },
+    {
+      "id": "ch06-bibliography-027",
+      "source_ids": [
+        "ch06-ref023",
+        "ch06-ref024"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Parrini, P., 2001/04, “The “Dogma” of Analyticity Fifty Years After”, in Logic and Metaphysics, ed. by M. Marsonet and M. Benzi, Name edizioni, Genova, 103–131 [Italian version in Parrini 2002: X]"
+      ],
+      "zh": [
+        "Parrini, P., 2001/04, “The “Dogma” of Analyticity Fifty Years After”, in Logic and Metaphysics, ed. by M. Marsonet and M. Benzi, Name edizioni, Genova, 103–131 [Italian version in Parrini 2002: X]"
+      ],
+      "shared": true,
+      "units": 33
+    },
+    {
+      "id": "ch06-bibliography-028",
+      "source_ids": [
+        "ch06-ref024"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Parrini, P., 2002, L’empirismo logico. Aspetti storici e prospettive teoriche, Carocci, Roma"
+      ],
+      "zh": [
+        "Parrini, P., 2002, L’empirismo logico. Aspetti storici e prospettive teoriche, Carocci, Roma"
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch06-bibliography-029",
+      "source_ids": [
+        "ch06-ref024",
+        "ch06-ref025"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Quine, W. V., 1951, “On Carnap’s Views on Ontology” (Philosophical Studies, 2), reprinted in W. V. Quine, The Ways of Paradox and Other Essays (1966), Revised and enlarged edition, Harvard University Press, Cambridge, MA, 1976, 203–211"
+      ],
+      "zh": [
+        "Quine, W. V., 1951, “On Carnap’s Views on Ontology” (Philosophical Studies, 2), reprinted in W. V. Quine, The Ways of Paradox and Other Essays (1966), Revised and enlarged edition, Harvard University Press, Cambridge, MA, 1976, 203–211"
+      ],
+      "shared": true,
+      "units": 37
+    },
+    {
+      "id": "ch06-bibliography-030",
+      "source_ids": [
+        "ch06-ref025",
+        "ch06-ref026"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Quine, W. V., 1953/61, From a Logical Point of View. Logico-Philosophical Essays, Harvard University Press, Cambridge, MA, 1953, Second edn., rev., Harper & Row, New York"
+      ],
+      "zh": [
+        "Quine, W. V., 1953/61, From a Logical Point of View. Logico-Philosophical Essays, Harvard University Press, Cambridge, MA, 1953, Second edn., rev., Harper & Row, New York"
+      ],
+      "shared": true,
+      "units": 26
+    },
+    {
+      "id": "ch06-bibliography-031",
+      "source_ids": [
+        "ch06-ref026",
+        "ch06-ref027"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Quine, W. V., 1986, “Reply to Geoffrey Hellman”, in The Philosophy of W. V. Quine, ed. by L. E. Hahn and P. A. Schilpp, La Salle (Ill.), Open Court, 206–208"
+      ],
+      "zh": [
+        "Quine, W. V., 1986, “Reply to Geoffrey Hellman”, in The Philosophy of W. V. Quine, ed. by L. E. Hahn and P. A. Schilpp, La Salle (Ill.), Open Court, 206–208"
+      ],
+      "shared": true,
+      "units": 31
+    },
+    {
+      "id": "ch06-bibliography-032",
+      "source_ids": [
+        "ch06-ref027",
+        "ch06-ref028"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Reichenbach, H., 1920, Relativitätstheorie und Erkenntnis apriori (Springer, Berlin), English edn., The Theory of Relativity and A Priori Knowledge, ed. by M. Reichenbach, University of California Press, Berkeley/Los Angeles, CA, 1965"
+      ],
+      "zh": [
+        "Reichenbach, H., 1920, Relativitätstheorie und Erkenntnis apriori (Springer, Berlin), English edn., The Theory of Relativity and A Priori Knowledge, ed. by M. Reichenbach, University of California Press, Berkeley/Los Angeles, CA, 1965"
+      ],
+      "shared": true,
+      "units": 32
+    },
+    {
+      "id": "ch06-bibliography-033",
+      "source_ids": [
+        "ch06-ref028",
+        "ch06-ref029"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Reichenbach, H., 1922, “Der gegenwärtige Stand der Relativitätsdiskussion” (Logos, 10), English translation, “The Present State of the Discussion on Relativity”, in H. Reichenbach, Selected Writings (1909–1953), Vol. II, ed. by M. Reichenbach and R. S. Cohen, Reidel, Dordrecht, The Netherlands, 1978, 3–47"
+      ],
+      "zh": [
+        "Reichenbach, H., 1922, “Der gegenwärtige Stand der Relativitätsdiskussion” (Logos, 10), English translation, “The Present State of the Discussion on Relativity”, in H. Reichenbach, Selected Writings (1909–1953), Vol. II, ed. by M. Reichenbach and R. S. Cohen, Reidel, Dordrecht, The Netherlands, 1978, 3–47"
+      ],
+      "shared": true,
+      "units": 44
+    },
+    {
+      "id": "ch06-bibliography-034",
+      "source_ids": [
+        "ch06-ref029",
+        "ch06-ref030"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Reichenbach, H., 1924, Axiomatik der relativistischen Raum-Zeit-Lehre (Vieweg, Braunschweig), English translation, Axiomatization of the Theory of Relativity, University of California Press, Berkeley/Los Angeles, CA, 1969"
+      ],
+      "zh": [
+        "Reichenbach, H., 1924, Axiomatik der relativistischen Raum-Zeit-Lehre (Vieweg, Braunschweig), English translation, Axiomatization of the Theory of Relativity, University of California Press, Berkeley/Los Angeles, CA, 1969"
+      ],
+      "shared": true,
+      "units": 26
+    },
+    {
+      "id": "ch06-bibliography-035",
+      "source_ids": [
+        "ch06-ref030",
+        "ch06-ref031"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Reichenbach, H., 1928, Philosophie der Raum-Zeit-Lehre (Walter de Gruyter, Berlin/Leipzig, Germany), English translation, The Philosophy of Space and Time, Dover, New York, 1958"
+      ],
+      "zh": [
+        "Reichenbach, H., 1928, Philosophie der Raum-Zeit-Lehre (Walter de Gruyter, Berlin/Leipzig, Germany), English translation, The Philosophy of Space and Time, Dover, New York, 1958"
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch06-bibliography-036",
+      "source_ids": [
+        "ch06-ref031",
+        "ch06-ref032"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Reichenbach, H., 1935/36, “L’empirisme logistique et la désagrégation de l’a priori”, in Actes du Congrès International de Philosophie Scientifique, Paris 1935, I, Hermann, Paris, 1936, 29–35"
+      ],
+      "zh": [
+        "Reichenbach, H., 1935/36, “L’empirisme logistique et la désagrégation de l’a priori”, in Actes du Congrès International de Philosophie Scientifique, Paris 1935, I, Hermann, Paris, 1936, 29–35"
+      ],
+      "shared": true,
+      "units": 28
+    },
+    {
+      "id": "ch06-bibliography-037",
+      "source_ids": [
+        "ch06-ref032",
+        "ch06-ref033"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Reichenbach, H., 1949, “The Philosophical Significance of the Theory of Relativity”, in Albert Einstein: Philosopher-Scientist, ed. by P.A. Schilpp, Evanston, III, Second edition, Tudor, New York, 1951, 287–311"
+      ],
+      "zh": [
+        "Reichenbach, H., 1949, “The Philosophical Significance of the Theory of Relativity”, in Albert Einstein: Philosopher-Scientist, ed. by P.A. Schilpp, Evanston, III, Second edition, Tudor, New York, 1951, 287–311"
+      ],
+      "shared": true,
+      "units": 30
+    },
+    {
+      "id": "ch06-bibliography-038",
+      "source_ids": [
+        "ch06-ref033",
+        "ch06-ref034"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schlick, M., 1918/25, Allgemeine Erkenntnislehre (Julius Springer, Berlin, 1918, Second edn. rev., 1925); English translation, General Theory of Knowledge, Springer, Wien/New York, 1974"
+      ],
+      "zh": [
+        "Schlick, M., 1918/25, Allgemeine Erkenntnislehre (Julius Springer, Berlin, 1918, Second edn. rev., 1925); English translation, General Theory of Knowledge, Springer, Wien/New York, 1974"
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch06-bibliography-039",
+      "source_ids": [
+        "ch06-ref034",
+        "ch06-ref035"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schlick, M., 1921, “Kritizistische oder empiristiche Deutung der neuen Physik?” (Kant-Studien, 26), English translation, “Critical or Empiricist Interpretation of Modern Physics?”, in M. Schlick, Philosophical Papers, Vol. I (1909–1922), ed. by H. L. Mulder and B. F. B. Van De Velde-Schlick, Reidel, Dordrecht, The Netherlands, 1979, 322–334"
+      ],
+      "zh": [
+        "Schlick, M., 1921, “Kritizistische oder empiristiche Deutung der neuen Physik?” (Kant-Studien, 26), English translation, “Critical or Empiricist Interpretation of Modern Physics?”, in M. Schlick, Philosophical Papers, Vol. I (1909–1922), ed. by H. L. Mulder and B. F. B. Van De Velde-Schlick, Reidel, Dordrecht, The Netherlands, 1979, 322–334"
+      ],
+      "shared": true,
+      "units": 49
+    },
+    {
+      "id": "ch06-bibliography-040",
+      "source_ids": [
+        "ch06-ref035",
+        "ch06-ref036"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schlick, M., 1932, “Positivismus und Realismus” (Erkenntnis, 3), English translation, “Positivism and Realism”, in M. Schlick, Philosophical Papers [see Schlick 1921], Vol. II, 259–284"
+      ],
+      "zh": [
+        "Schlick, M., 1932, “Positivismus und Realismus” (Erkenntnis, 3), English translation, “Positivism and Realism”, in M. Schlick, Philosophical Papers [see Schlick 1921], Vol. II, 259–284"
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch06-bibliography-041",
+      "source_ids": [
+        "ch06-ref036"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Stroud, B., 1987, The Significance of Philosophical Scepticism, Clarendon, Oxford"
+      ],
+      "zh": [
+        "Stroud, B., 1987, The Significance of Philosophical Scepticism, Clarendon, Oxford"
+      ],
+      "shared": true,
+      "units": 10
+    }
+  ],
+  "notes": {}
+}

@@ -1,0 +1,2183 @@
+{
+  "id": "ch19",
+  "title": "先验哲学与量子物理学的汇聚：格雷特·亨利-赫尔曼1935年的开创性提议",
+  "originalTitle": "The Convergence of Transcendental Philosophy and Quantum Physics: Grete Henry-Hermann’s 1935 Pioneering Proposal",
+  "outline": [
+    {
+      "anchor": "ch19-u009",
+      "title": "1 格雷特·亨利-赫尔曼著作中的科学哲学：动机与处境",
+      "originalTitle": "1 The Philosophy of Science in Grete Henry-Hermann’s Work: Motivation and Situation",
+      "level": 1
+    },
+    {
+      "anchor": "ch19-u016",
+      "title": "2 20世纪30年代的物理学与因果性",
+      "originalTitle": "2 Physics and Causality in the 1930s",
+      "level": 1
+    },
+    {
+      "anchor": "ch19-u037",
+      "title": "3 格雷特·亨利-赫尔曼科学哲学著作中值得注意的方面",
+      "originalTitle": "3 Noteworthy Aspects of Grete Henry-Hermann’s Work in the Philosophy of Science",
+      "level": 1
+    },
+    {
+      "anchor": "ch19-u057",
+      "title": "4 格雷特·亨利-赫尔曼独创解释的内核",
+      "originalTitle": "4 The Core of Grete Henry-Hermann’s Original Interpretation",
+      "level": 1
+    },
+    {
+      "anchor": "ch19-u071",
+      "title": "5 格雷特·亨利-赫尔曼解释的优点与弱点",
+      "originalTitle": "5 Strengths and Weaknesses of Grete Henry-Hermann’s interpretation",
+      "level": 1
+    },
+    {
+      "anchor": "ch19-u083",
+      "title": "6 先验哲学与量子物理学的一般比较",
+      "originalTitle": "6 A General Comparison Between Transcendental Philosophy and Quantum Physics",
+      "level": 1
+    },
+    {
+      "anchor": "ch19-u094",
+      "title": "7 结论",
+      "originalTitle": "7 Conclusion",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch19-u001",
+      "source_ids": [
+        "ch19-u001"
+      ],
+      "page": "329",
+      "canonical_kind": "chapter_heading",
+      "en": [
+        {
+          "type": "note",
+          "id": "ch19-n01",
+          "label": "1"
+        }
+      ],
+      "zh": [
+        {
+          "type": "note",
+          "id": "ch19-n01",
+          "label": "1"
+        }
+      ],
+      "units": 1
+    },
+    {
+      "id": "ch19-u002",
+      "source_ids": [
+        "ch19-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Léna Soler"
+      ],
+      "zh": [
+        "莱娜·索莱尔"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch19-u003",
+      "source_ids": [
+        "ch19-u003",
+        "ch19-u005"
+      ],
+      "page": "330",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract In the course of 1934, Grete Henry-Hermann, a young German pupil of Leonard Nelson trained in philosophy as well as in mathematics and physics, visited Heisenberg in Leipzig, with the intention to call Kant before the tribunal of history, hoping to be able to conciliate transcendental philosophy with the new quantum physics. Do Kant’s propositions still hold good for a physics which seemed to break so radically and scandalously with the principles of the physics retrospectively called ‘classical’? Grete Henry-Hermann’s attempt to confront quantum physics with Kantian philosophy is, chronologically, one of the first: she",
+        " ",
+        "was truly a pioneer in engaging in a philosophical interpretation of quantum physics. The paper presents and criticizes the positions of Grete Henry-Hermann, and especially:"
+      ],
+      "zh": [
+        "摘要 1934年间，格雷特·亨利-赫尔曼——伦纳德·纳尔逊的一位年轻德国学生，受过哲学以及数学和物理学的训练——访问了莱比锡的海森堡，意图把康德传唤到历史的法庭面前，希望能够在先验哲学与新的量子物理学之间达成调和。对于一门似乎与后来被称作“经典物理学”的那些原理如此彻底地决裂，令人震惊的物理学来说，康德的命题仍然有效吗？格雷特·亨利-赫尔曼让量子物理学与康德哲学相互检验的尝试，是这一领域最早的尝试之一：她",
+        "确实是从事量子物理学哲学解释的先驱。本文呈现并批评格雷特·亨利-赫尔曼的立场，尤其是："
+      ],
+      "units": 121
+    },
+    {
+      "id": "ch19-u004",
+      "source_ids": [
+        "ch19-u004"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "L. Soler Laboratoire d’Histoire des Sciences et de Philosophie (LHSP) - Archives Henri Poincaré, Nancy, France"
+      ],
+      "zh": [
+        "L. Soler Laboratoire d’Histoire des Sciences et de Philosophie (LHSP) - Archives Henri Poincaré, Nancy, France"
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch19-u006",
+      "source_ids": [
+        "ch19-u006"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "(1) Her original attempt to save the kantian category of causality, by on the one hand retaining the universal validity of the pure concept of causality, while on the other hand accepting, with Bohr and Heisenberg, the definitive character of statistical predictions. Her attempt consists in showing that once a result has been actually obtained, it is possible, by working backwards, to reconstitute, retrospectively and completely, the causal chain which has necessarily produced such a result.\n(2) Her refutation of the so-called von Neumann’s proof. Grete Henry-Hermann’s essay of 1935 contains the first critique of von Neumann’s argument which aimed to demonstrate the impossibility of completing quantum physics by means of hidden parameters, and which has been regarded as firmly established until 1964, that is, until the year Bell published his famous refutation. Yet, reading Grete Henry-Hermann’s essay, one discovers that in 1935, thirty years before Bell, Grete Henry-Hermann had produced a refutation of von Neumann, based on arguments very similar to those of Bell in 1964. Had Grete Henry-Hermann’s refutation not remained a dead letter, the history of the interpretations of quantum physics would certainly have been very different."
+      ],
+      "zh": [
+        "(1) 她拯救康德式因果性范畴的独创尝试：一方面保留因果性纯粹概念的普遍有效性，另一方面与玻尔和海森堡一道接受统计预测的不可更改性。她的尝试在于表明：一旦实际得到某个结果，就能从结果向前追溯，完整重构必然产生该结果的那条因果链条。\n(2) 她对所谓冯·诺伊曼证明的反驳。格雷特·亨利-赫尔曼1935年的论文包含了对冯·诺伊曼论证的首个批判；该论证旨在证明借助隐参数完备化量子物理学是不可能的，并且直到1964年——即贝尔发表其著名反驳的那一年——之前一直被视为牢不可破。然而，阅读格雷特·亨利-赫尔曼的论文，人们会发现：早在1935年，比贝尔早三十年，格雷特·亨利-赫尔曼就已经基于与贝尔1964年的论证非常相似的论据，提出了对冯·诺伊曼的反驳。倘若格雷特·亨利-赫尔曼的反驳不曾沦为一纸空文，量子物理学解释的历史肯定会大不相同。"
+      ],
+      "units": 190
+    },
+    {
+      "id": "ch19-u007",
+      "source_ids": [
+        "ch19-u007"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the 1930s, Grete Henry-Hermann (1901–1984) was a young woman trained in physics, mathematics and philosophy. She was deeply convinced that transcendental philosophy is the best framework to articulate both ethical and epistemological issues. At the time, it was more and more said, here and there in philosophical and scientific circles, that the (then just born) quantum mechanics refuted Kantian philosophy, especially the Kantian table of categories and its concept of causality. Having heard about this, Grete Henry-Hermann decided to tackle the problem. She worked on it more than a year and submitted her proposals to Werner Heisenberg and Carl Von Weizsäcker. At the end she published arguments which aim to show, first that the Kantian category of causality still constitutes a necessary condition of possibility of quantum physics, and second that, more fundamentally, quantum physics and critical philosophy manifest an essential structural convergence that reinforce the strength of transcendental philosophy."
+      ],
+      "zh": [
+        "20世纪30年代，格雷特·亨利-赫尔曼（1901–1984）是一位受过物理学、数学和哲学训练的年轻女性。她深信先验哲学是阐明伦理问题和认识论问题的最佳框架。当时，哲学界和科学界各处越来越多地有人说，（那时刚刚诞生的）量子力学反驳了康德哲学，尤其是康德的范畴表及其因果性概念。格雷特·亨利-赫尔曼听说此事后，决定着手处理这个问题。她研究了一年多，并把她的提议提交给维尔纳·海森堡和卡尔·冯·魏茨泽克。最终她发表了一些论证，旨在表明：第一，康德式因果性范畴仍然构成量子物理学的一个必不可少的可能性条件；第二，更根本地，量子物理学与批判哲学在结构上有根本的相通之处，从而为先验哲学提供了更有力的支持。"
+      ],
+      "units": 152
+    },
+    {
+      "id": "ch19-u008",
+      "source_ids": [
+        "ch19-u008"
+      ],
+      "page": "331",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This paper will present, and sketch the significance, of Grete Henry-Hermann’s interpretation of the relationships between transcendental philosophy and quantum physics.",
+        {
+          "type": "note",
+          "id": "ch19-n02",
+          "label": "2"
+        },
+        " Grete Henry-Hermann’s contributions to the philosophy of physics, although almost unknown, especially outside Germany, will appear very important in an historical perspective, as well as of great philosophical interest from a contemporary point of view, especially for a transcendentally-oriented philosopher."
+      ],
+      "zh": [
+        "本文将呈现格雷特·亨利-赫尔曼对先验哲学与量子物理学之间关系的解释，并勾勒其意义。",
+        {
+          "type": "note",
+          "id": "ch19-n02",
+          "label": "2"
+        },
+        " 格雷特·亨利-赫尔曼对物理学哲学的贡献虽然几乎不为人知——尤其在德国之外——但从历史视角看将显得非常重要，从当代观点看也具有极大的哲学意趣，尤其对一位先验取向的哲学家而言。"
+      ],
+      "units": 61
+    },
+    {
+      "id": "ch19-u009",
+      "source_ids": [
+        "ch19-u009"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 The Philosophy of Science in Grete Henry-Hermann’s Work: Motivation and Situation"
+      ],
+      "zh": [
+        "1 格雷特·亨利-赫尔曼著作中的科学哲学：动机与处境"
+      ],
+      "type": "subheading",
+      "units": 12
+    },
+    {
+      "id": "ch19-u010",
+      "source_ids": [
+        "ch19-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Grete Henry-Hermann was a pupil and great admirer of Leonard Nelson, and she followed her teacher in concerning herself primarily with ethics and political philosophy. Comparatively, her works on the philosophy of science occupy a relatively marginal position. What caused Grete Henry-Hermann to take an interest in physics?"
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼是伦纳德·纳尔逊的学生和热烈仰慕者，她追随老师，主要关注伦理学与政治哲学。相比之下，她关于科学哲学的著作占据相对边缘的位置。是什么使格雷特·亨利-赫尔曼对物理学产生兴趣？"
+      ],
+      "units": 48
+    },
+    {
+      "id": "ch19-u011",
+      "source_ids": [
+        "ch19-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Grete Henry-Hermann, following Nelson, considered Kant’s philosophy, or more precisely its reinterpretation by Fries, to be the basis on which twentieth-century philosophy should unfold. Yet, around the 1930s, a number of participants in the debates concerning quantum mechanics, still a very young science at that time, took the view that the new physics called into question, indeed definitively refuted, some fundamental aspects of the critical philosophy inaugurated by Kant. Given the centrality of transcendental philosophy for Grete Henry-Hermann, it was of crucial importance to her to investigate whether twentieth-century physics does or does not effectively refute the fundamental principles of such philosophy."
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼追随纳尔逊，认为康德哲学——更确切地说弗里斯对它的重新解释——是20世纪哲学应当在其上展开的基础。然而在20世纪30年代前后，参与量子力学（当时还是一门非常年轻的科学）论辩的不少人认为，新物理学质疑了、乃至决定性地反驳了康德所开创的批判哲学的某些基本方面。鉴于先验哲学对格雷特·亨利-赫尔曼的核心地位，探究20世纪物理学究竟是否有效地反驳了这种哲学的基本原理，对她来说至关重要。"
+      ],
+      "units": 102
+    },
+    {
+      "id": "ch19-u012",
+      "source_ids": [
+        "ch19-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The principal published texts in which Grete Henry-Hermann sets out her reflections on this subject are relatively few in number and are confined to a limited period: they correspond to three relatively short essays produced during the years 1934–1937:"
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼阐述她在这个主题上的反思的主要已发表文本，数量相对不多，且集中于一个有限时期：它们对应于1934–1937年间写作的三篇相对短小的论文："
+      ],
+      "units": 40
+    },
+    {
+      "id": "ch19-u013",
+      "source_ids": [
+        "ch19-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. ‘Die naturphilosophischen Grundlagen der Quantenmechanik’ (‘The Philosophic Foundations of Quantum Mechanics’), 1935",
+        {
+          "type": "note",
+          "id": "ch19-n03",
+          "label": "3"
+        }
+      ],
+      "zh": [
+        "1. “Die naturphilosophischen Grundlagen der Quantenmechanik”（《量子力学的哲学基础》），1935",
+        {
+          "type": "note",
+          "id": "ch19-n03",
+          "label": "3"
+        }
+      ],
+      "units": 13
+    },
+    {
+      "id": "ch19-u014",
+      "source_ids": [
+        "ch19-u014"
+      ],
+      "page": "332",
+      "canonical_kind": "paragraph",
+      "en": [
+        "2. Die Bedeutung der modernen Physik für die Theorie der Erkenntnis (‘The Significance of Modern Physics for the Theory of Knowledge), 1937",
+        {
+          "type": "note",
+          "id": "ch19-n04",
+          "label": "4"
+        },
+        "\n3. ‘Über die Grundlagen physikalischer Aussagen in den älteren und der modernen Theorien’ (‘On the Foundations of Physical Statements in Earlier and Modern Theories’), 1937",
+        {
+          "type": "note",
+          "id": "ch19-n05",
+          "label": "5"
+        }
+      ],
+      "zh": [
+        "2. Die Bedeutung der modernen Physik für die Theorie der Erkenntnis（《现代物理学对认识论的意义》），1937",
+        {
+          "type": "note",
+          "id": "ch19-n04",
+          "label": "4"
+        },
+        "\n3. “Über die Grundlagen physikalischer Aussagen in den älteren und der modernen Theorien”（《论较早理论与现代理论中物理陈述的基础》），1937",
+        {
+          "type": "note",
+          "id": "ch19-n05",
+          "label": "5"
+        }
+      ],
+      "units": 47
+    },
+    {
+      "id": "ch19-u015",
+      "source_ids": [
+        "ch19-u015"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The truly major text – the one which contains Grete Henry-Hermann’s fundamental theses and arguments – is that of 1935, which deals with quantum mechanics. The later texts either revisit the developments of 1935 or apply analytical principles similar to those of 1935 to the theory of relativity, and arrive at convergent conclusions.",
+        {
+          "type": "note",
+          "id": "ch19-n06",
+          "label": "6"
+        },
+        " For this reason, the essay of 1935 will form the primary focus of this paper.",
+        {
+          "type": "note",
+          "id": "ch19-n07",
+          "label": "7"
+        }
+      ],
+      "zh": [
+        "真正重要的文本——包含格雷特·亨利-赫尔曼基本论题与论证的那一篇——是1935年论量子力学的那篇。较晚的文本要么重述1935年的论述，要么把类似于1935年的分析原则应用于相对论，得出相互印证的结论。",
+        {
+          "type": "note",
+          "id": "ch19-n06",
+          "label": "6"
+        },
+        " 因此，1935年的论文将构成本文的主要焦点。",
+        {
+          "type": "note",
+          "id": "ch19-n07",
+          "label": "7"
+        }
+      ],
+      "units": 66
+    },
+    {
+      "id": "ch19-u016",
+      "source_ids": [
+        "ch19-u016"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 Physics and Causality in the 1930s"
+      ],
+      "zh": [
+        "2 20世纪30年代的物理学与因果性"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch19-u017",
+      "source_ids": [
+        "ch19-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As we saw, Grete Henry-Hermann’s first concern is the compatibility/incompatibility between transcendental philosophy and twentieth century physics. In the 1935 essay, the reflection is more especially focused on the relationship between causality and quantum physics."
+      ],
+      "zh": [
+        "如我们所见，格雷特·亨利-赫尔曼的首要关切是先验哲学与20世纪物理学之间的相容/不相容。在1935年的论文中，反思尤其聚焦于因果性与量子物理学之间的关系。"
+      ],
+      "units": 36
+    },
+    {
+      "id": "ch19-u018",
+      "source_ids": [
+        "ch19-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Grete Henry-Hermann stated the problem as follows:"
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼把问题陈述如下："
+      ],
+      "units": 7
+    },
+    {
+      "id": "ch19-u019",
+      "source_ids": [
+        "ch19-u019"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● Kant listed the conditions of possibility of knowledge, and therefore, in particular, the conditions of possibility of any future physics."
+      ],
+      "zh": [
+        "● 康德列举了知识的可能性条件，因而尤其列举了任何未来物理学的可能性条件。"
+      ],
+      "units": 20
+    },
+    {
+      "id": "ch19-u020",
+      "source_ids": [
+        "ch19-u020"
+      ],
+      "page": "333",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● These conditions include the category of causality, which seems to indicate that the predictions of any science worthy of the name (for Kant, of any physics) must be strictly deterministic in the following sense: there must be a univocal (one-to-one) connection between cause and effect (between the initial conditions and the final conditions); one and the same cause can produce only one single, well-defined effect."
+      ],
+      "zh": [
+        "● 这些条件包括因果性范畴，它似乎意味着：任何名副其实的科学（就康德而言，即物理学）所给出的预测都必须是严格决定论的，其意义如下：原因与结果之间（初始条件与最终条件之间）必须有一种唯一确定（一对一）的联系；同一个原因只能产生一个单一的、明确确定的结果。"
+      ],
+      "units": 65
+    },
+    {
+      "id": "ch19-u021",
+      "source_ids": [
+        "ch19-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● Now, the predictions of quantum mechanics are statistical: one and the same initial state can be followed by several different final states, and one knows in advance (before any effective experiment) only the probability of each possible result."
+      ],
+      "zh": [
+        "● 然而，量子力学的预测是统计性的：同一个初态可能通向不同的终态，而人们事先（在任何实际实验之前）只知道每个可能结果的概率。"
+      ],
+      "units": 38
+    },
+    {
+      "id": "ch19-u022",
+      "source_ids": [
+        "ch19-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● Should we therefore conclude that the Kantian category of causality is refuted by the new physics? That strict causality is actually not a necessary condition of any physics?"
+      ],
+      "zh": [
+        "● 那么我们是否应当得出结论：康德式因果性范畴被新物理学反驳了？严格因果性实际上并不是任何物理学的必要条件？"
+      ],
+      "units": 28
+    },
+    {
+      "id": "ch19-u023",
+      "source_ids": [
+        "ch19-u023"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Grete Henry-Hermann was not the first to frame the problem in these terms."
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼并不是第一个以这种方式表述问题的人。"
+      ],
+      "units": 13
+    },
+    {
+      "id": "ch19-u024",
+      "source_ids": [
+        "ch19-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The general strategy underlying such a framing was to call Kant before the tribunal of history, according to the following structure of reasoning: in listing the conditions determining the possibility of any future physics, Kant had drawn his inspiration from the physics of his time (that of Newton, retrospectively called ‘classical’); now, do his propositions still hold good for post-kantian physics? Can the kantian conditions of sensibility and understanding be maintained, confronted in particular with twentieth century physics, which seemed to break so radically with the fundamental principles of classical physics?"
+      ],
+      "zh": [
+        "这种表述背后的一般策略，是把康德传唤到历史的法庭面前，其推理结构如下：在列举决定任何未来物理学之可能性的条件时，康德从他那个时代的物理学（牛顿的物理学，被回溯地称为“经典”）中汲取灵感；那么，他的命题对后康德物理学仍然有效吗？康德式的感性条件与知性条件能够维持吗，尤其是面对似乎与经典物理学的基本原理如此激进地决裂的20世纪物理学？"
+      ],
+      "units": 91
+    },
+    {
+      "id": "ch19-u025",
+      "source_ids": [
+        "ch19-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A number of philosophers and physicists had already applied such a line of reasoning to the case of the non-Euclidean geometries and the theory of relativity.",
+        {
+          "type": "note",
+          "id": "ch19-n08",
+          "label": "8"
+        },
+        " They had notably inquired whether relativity theory refuted the conditions of sensibility set out by Kant, equated with Euclidean space and absolute time. With the emergence of quantum physics, it was the turn of the pure concepts of understanding to come under threat. And, at first sight at least, it was primarily the concept of causality which seemed to be refuted."
+      ],
+      "zh": [
+        "不少哲学家和物理学家已经把这种推理路线应用于非欧几何与相对论的情形。",
+        {
+          "type": "note",
+          "id": "ch19-n08",
+          "label": "8"
+        },
+        " 他们尤其追问过：相对论是否反驳了康德所陈述的、被等同于欧几里得空间与绝对时间的感性条件。随着量子物理学的出现，轮到知性的纯粹概念受到威胁了。而且，至少乍看之下，似乎首先是因果性概念被反驳了。"
+      ],
+      "units": 87
+    },
+    {
+      "id": "ch19-u026",
+      "source_ids": [
+        "ch19-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "These were the questions on the side of Kantian philosophers. Now, philosophers were not the only ones to be concerned by causality in the 1930s. Causality was also preoccupying physicists themselves. On their side the debate essentially concerned the so-called ‘hidden variables’, and the corresponding problem was framed through the following alternative:"
+      ],
+      "zh": [
+        "这些是康德式哲学家方面的问题。然而，在20世纪30年代，关注因果性的并不只有哲学家。因果性也困扰着物理学家自己。物理学家的争论主要涉及所谓的“隐变量”，相应的问题通过以下两难来表述："
+      ],
+      "units": 52
+    },
+    {
+      "id": "ch19-u027",
+      "source_ids": [
+        "ch19-u027"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● Should it be admitted that quantum physics and its statistical predictions express no more than a deficiency of human knowledge? Or stated differently, should it be admitted that certain variables, as yet unknown to physicists, do actually exist and univocally determine all measurement results? Are there ‘hidden variables’ – or parameters – which, if known, would enable any given cause to be in a one-to-one correspondence with a single definite effect?"
+      ],
+      "zh": [
+        "● 是否应当承认，量子物理学及其统计预测所表达的不过是人类知识的一种缺陷？或者换一种说法：是否应当承认，某些物理学家尚不知道的变量实际存在，并且唯一确定所有测量的结果？是否存在“隐变量”——或隐参数——它们若被知道，就会使任何给定的原因与一个单一的确定结果一一对应？"
+      ],
+      "units": 69
+    },
+    {
+      "id": "ch19-u028",
+      "source_ids": [
+        "ch19-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● Or should the statistical character of predictions, that is, the association of a plurality of possible effects with a given cause, be recognized as definitive because it expressed a fundamental aspect of phenomena, or a fundamental aspect of the relationship between human beings and the physical world?"
+      ],
+      "zh": [
+        "● 还是应当承认预测的统计特征——即一个给定原因与多个可能结果的关联——是不可更改的，因为它表达了现象的一个基本方面，或人类与物理世界之关系的一个基本方面？"
+      ],
+      "units": 47
+    },
+    {
+      "id": "ch19-u029",
+      "source_ids": [
+        "ch19-u029"
+      ],
+      "page": "334",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Grete Henry-Hermann addressed both the above questions, those of the philosophers as well as those of the physicists. Here are the conclusions she finally reached, briefly summarized:"
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼同时处理了上述两类问题，哲学家的问题以及物理学家的问题。以下是她最终得出的结论的简要概括："
+      ],
+      "units": 27
+    },
+    {
+      "id": "ch19-u030",
+      "source_ids": [
+        "ch19-u030"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● Quantum physics does not refute the category of causality."
+      ],
+      "zh": [
+        "● 量子物理学并不反驳因果性范畴。"
+      ],
+      "units": 9
+    },
+    {
+      "id": "ch19-u031",
+      "source_ids": [
+        "ch19-u031"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● There are no hidden variables; quantum physics is complete and its predictions will remain statistical."
+      ],
+      "zh": [
+        "● 不存在隐变量；量子物理学是完备的，其预测将保持统计性。"
+      ],
+      "units": 15
+    },
+    {
+      "id": "ch19-u032",
+      "source_ids": [
+        "ch19-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Considered in detail, Grete Henry-Hermann’s conclusions, and the arguments supporting them, are complex and subtle. A full understanding of them would require an extensive discussion drawing simultaneously on philosophy, physics and history.",
+        {
+          "type": "note",
+          "id": "ch19-n09",
+          "label": "9"
+        },
+        " In this paper, attention will be confined to the following:"
+      ],
+      "zh": [
+        "细究起来，格雷特·亨利-赫尔曼的结论以及支持它们的论证是复杂而微妙的。要完全理解它们，需要结合哲学、物理学和历史作广泛讨论。",
+        {
+          "type": "note",
+          "id": "ch19-n09",
+          "label": "9"
+        },
+        " 在本文中，讨论将限于以下方面："
+      ],
+      "units": 42
+    },
+    {
+      "id": "ch19-u033",
+      "source_ids": [
+        "ch19-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● Some noteworthy points which give Grete Henry-Hermann’s 1935 essay its major interest (part III)"
+      ],
+      "zh": [
+        "● 使格雷特·亨利-赫尔曼1935年论文具有重大意趣的几个值得注意的要点（第三部分）"
+      ],
+      "units": 14
+    },
+    {
+      "id": "ch19-u034",
+      "source_ids": [
+        "ch19-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● Indications of what makes up the central originality of Hermann’s thesis concerning quantum physics (part IV)"
+      ],
+      "zh": [
+        "● 关于赫尔曼论量子物理学的论题之核心独创性所在的提示（第四部分）"
+      ],
+      "units": 16
+    },
+    {
+      "id": "ch19-u035",
+      "source_ids": [
+        "ch19-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● Some remarks concerning the strengths and weaknesses of Hermann’s interpretation (part V) and"
+      ],
+      "zh": [
+        "● 关于赫尔曼解释之优点与弱点的一些评论（第五部分）；以及"
+      ],
+      "units": 13
+    },
+    {
+      "id": "ch19-u036",
+      "source_ids": [
+        "ch19-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● Some general conclusions of Hermann concerning the relationship between critical philosophy and quantum physics (part VI)"
+      ],
+      "zh": [
+        "● 赫尔曼关于批判哲学与量子物理学之关系的一些一般结论（第六部分）"
+      ],
+      "units": 16
+    },
+    {
+      "id": "ch19-u037",
+      "source_ids": [
+        "ch19-u037"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Noteworthy Aspects of Grete Henry-Hermann’s Work in the Philosophy of Science"
+      ],
+      "zh": [
+        "3 格雷特·亨利-赫尔曼科学哲学著作中值得注意的方面"
+      ],
+      "type": "subheading",
+      "units": 12
+    },
+    {
+      "id": "ch19-u038",
+      "source_ids": [
+        "ch19-u038"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. Grete Henry-Hermann’s attempt to confront quantum physics with Kantian philosophy is, chronologically, one of the first. Philosophers of science are often accused of lagging behind the advancement of science. For once, the accusation does not apply. Grete Henry-Hermann was truly a pioneer in engaging in a philosophical interpretation of quantum physics.",
+        {
+          "type": "note",
+          "id": "ch19-n10",
+          "label": "10"
+        }
+      ],
+      "zh": [
+        "1. 格雷特·亨利-赫尔曼让量子物理学与康德哲学相互检验的尝试，按时间顺序来说是最早的尝试之一。科学哲学家常被指责落后于科学的进展。这一次，这个指责不适用。格雷特·亨利-赫尔曼确实是从事量子物理学哲学解释的一位真正先驱。",
+        {
+          "type": "note",
+          "id": "ch19-n10",
+          "label": "10"
+        }
+      ],
+      "units": 52
+    },
+    {
+      "id": "ch19-u039",
+      "source_ids": [
+        "ch19-u039"
+      ],
+      "page": "335",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Indeed, in 1934 quantum physics was a physical theory worthy of the name for only a few years. Since the Solvay Congress of 1927, the term ‘quantum mechanics’ had referred to something fairly definite and stable: a formalism which was a synthesis of Heisenberg’s matrix mechanics, Schrödinger’s wave mechanics and Dirac’s theory of transformations – together with a global interpretation of this formalism, proposed by Bohr and Heisenberg and later called the ‘Copenhagen interpretation’ or the ‘orthodox interpretation’. Grete Henry-Hermann was to adopt numerous ingredients of this interpretation in her own account: the complementarity of wave and particle representations, and of the conjugate variables of position and velocity; the idea that the results obtained have validity only in relation to an experimental situation, etc."
+      ],
+      "zh": [
+        "的确，1934年时，量子物理学成为一门配得上物理学之名的理论才不过几年。自1927年索尔维会议以来，“量子力学”一词已经指称某种相当确定和稳定的东西：一个形式体系，它是海森堡矩阵力学、薛定谔波动力学与狄拉克变换理论的综合——再加上玻尔和海森堡提出的、后来被称为“哥本哈根解释”或“正统解释”的对这个形式体系的整体解释。格雷特·亨利-赫尔曼在她自己的说明中采纳了这种解释的许多要素：波动表象与粒子表象的互补性，以及位置与速度这对共轭变量的互补性；所得结果只有相对于一个实验情境才有效的观念；等等。"
+      ],
+      "units": 123
+    },
+    {
+      "id": "ch19-u040",
+      "source_ids": [
+        "ch19-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "2. Grete Henry-Hermann had a twofold training, scientific (physics and mathematics) and philosophical. This is uncommon enough to deserve mention, and clearly is not without relevance to her contributions to the philosophy of science. Indeed, Grete Henry-Hermann had sufficient mastery of physics to be able to study in depth the theory and its formalism, and to engage in high-level dialogue with scientists.\n\n3. Grete Henry-Hermann’s text of 1935 is the outcome of discussions she held, during 1 year in Leipzig, with Heisenberg and a group of major physicists who were the originators of quantum physics."
+      ],
+      "zh": [
+        "2. 格雷特·亨利-赫尔曼受过双重训练：科学的（物理学与数学）和哲学的。这足够罕见，值得一提，而且显然与她为科学哲学所作的贡献不无关系。的确，格雷特·亨利-赫尔曼对物理学有足够的掌握，能够深入研究理论及其形式体系，并与科学家进行高层次的对话。\n\n3. 格雷特·亨利-赫尔曼1935年的文本，是她在莱比锡一年间与海森堡以及一批作为量子物理学创始人的重要物理学家讨论的成果。"
+      ],
+      "units": 95
+    },
+    {
+      "id": "ch19-u041",
+      "source_ids": [
+        "ch19-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Leipzig was one of the centres which contributed most, with Göttingen and Copenhagen, not only to the development of quantum theory but to the clarification of its philosophical foundations. Werner Heisenberg, the famous pioneer in this venture, organised a seminar there, bringing together a considerable number of eminent scientists, such as the Swiss Félix Bloch, the Soviet Landau, and from Germany, Peierls, Karl Friedrich Hund and Edward Teller, as well as Carl Friedrich von Weizsäcker who was still very young at that time. The latter, despite his training as a physicist, took a passionate interest in the philosophical questions raised by the new physics, and for this reason, he was to play a leading role in the dialogue with Grete Henry-Hermann."
+      ],
+      "zh": [
+        "莱比锡是与哥廷根和哥本哈根一道，对量子理论的发展及其哲学基础的澄清作出最多贡献的中心之一。这项事业中著名的先驱维尔纳·海森堡在那里组织了一个讨论班，聚集了相当数量的杰出科学家，如瑞士的费利克斯·布洛赫、苏联的朗道，以及来自德国的派尔斯、卡尔·弗里德里希·洪特和爱德华·泰勒，还有当时还很年轻的卡尔·弗里德里希·冯·魏茨泽克。后者虽然受的是物理学家训练，却对新物理学提出的哲学问题怀有热烈的兴趣，因此，他将在与格雷特·亨利-赫尔曼的对话中扮演主要角色。"
+      ],
+      "units": 121
+    },
+    {
+      "id": "ch19-u042",
+      "source_ids": [
+        "ch19-u042"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the course of 1934, Grete Henry-Hermann went to Leipzig in order to participate in Heisenberg’s seminar. It seems that her decision resulted from the following events.",
+        {
+          "type": "note",
+          "id": "ch19-n11",
+          "label": "11"
+        },
+        " G. Hermann wrote a manuscript dealing with causality in quantum physics which she sent to Bohr and Heisenberg. Bohr asked von Weizsäcker to read the manuscript and, possibly, to respond to it. Von Weizsäcker did so, indicating in his letter in what way the theses of the article seemed erroneous to him. Having received a letter with very similar content from Heisenberg, Grete Henry-Hermann decided to travel to Leipzig, to discuss the matter with the two physicists in person."
+      ],
+      "zh": [
+        "1934年间，格雷特·亨利-赫尔曼前往莱比锡参加海森堡的讨论班。她的决定似乎源于以下事件。",
+        {
+          "type": "note",
+          "id": "ch19-n11",
+          "label": "11"
+        },
+        " G. 赫尔曼写了一份论量子物理学中因果性的手稿，寄给玻尔和海森堡。玻尔请冯·魏茨泽克阅读这份手稿，并在可能的情况下作出回应。冯·魏茨泽克这样做了，在信中说明这篇文章的论题在他看来错在何处。格雷特·亨利-赫尔曼收到海森堡一封内容非常相似的信后，决定前往莱比锡，与这两位物理学家当面讨论此事。"
+      ],
+      "units": 106
+    },
+    {
+      "id": "ch19-u043",
+      "source_ids": [
+        "ch19-u043"
+      ],
+      "page": "336",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It was at the end of one year of debate with these prestigious figures that she wrote the essay of 1935. By the end of these discussions it seems that she had succeeded in convincing Heisenberg of her point of view.",
+        {
+          "type": "note",
+          "id": "ch19-n12",
+          "label": "12"
+        },
+        " In his scientific autobiography, Physics and Beyond, Heisenberg devoted an entire chapter to the discussions between Grete Henry-Hermann, von Weizsäcker and himself. This chapter, entitled “Quantum Mechanics and Kantian Philosophy”, presents the content of the arguments and their progress, together with the compromise agreement which emerged from them. His tone at the end is quite positive: “we had the feeling that we had all learned a good deal about the relationship between Kant’s philosophy and modern science”.",
+        {
+          "type": "note",
+          "id": "ch19-n13",
+          "label": "13"
+        }
+      ],
+      "zh": [
+        "正是在与这些显赫人物辩论一年之后，她写出了1935年的论文。到这些讨论结束时，她似乎已经成功地使海森堡信服了她的观点。",
+        {
+          "type": "note",
+          "id": "ch19-n12",
+          "label": "12"
+        },
+        " 海森堡在他的科学自传《物理学与超越》（Physics and Beyond）中，用整整一章篇幅记述格雷特·亨利-赫尔曼、冯·魏茨泽克与他本人之间的讨论。这一章题为“量子力学与康德哲学”，呈现了论证的内容及其进展，以及由此达成的折衷共识。他最后的语气相当积极：“我们都感到，关于康德哲学与现代科学之间的关系，我们大家都学到了很多东西”。",
+        {
+          "type": "note",
+          "id": "ch19-n13",
+          "label": "13"
+        }
+      ],
+      "units": 118
+    },
+    {
+      "id": "ch19-u044",
+      "source_ids": [
+        "ch19-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Von Weizsäcker, for his part, reviewed Grete Henry-Hermann’s essay in highly eulogistic terms in an article published in 1936 in Physikalische Zeitschrift,",
+        {
+          "type": "note",
+          "id": "ch19-n14",
+          "label": "14"
+        },
+        " presenting Grete Henry-Hermann’s essay as the first “positive and indisputable contribution to elucidating the implications of quantum mechanics for the theory of knowledge”, and adding that “a fruitful debate on this subject could hardly be opened in a clearer or more objective manner”. Moreover, in his book The World View of Physics,",
+        {
+          "type": "note",
+          "id": "ch19-n15",
+          "label": "15"
+        },
+        " von Weizsäcker develops a conception of the relationship between critical philosophy and quantum physics which in many respects is akin to that of Grete Henry-Hermann.",
+        {
+          "type": "note",
+          "id": "ch19-n16",
+          "label": "16"
+        }
+      ],
+      "zh": [
+        "冯·魏茨泽克则在1936年发表于 Physikalische Zeitschrift 的一篇文章中，以高度赞扬的措辞评论了格雷特·亨利-赫尔曼的论文，",
+        {
+          "type": "note",
+          "id": "ch19-n14",
+          "label": "14"
+        },
+        " 称其为“对阐明量子力学之于认识论的含意的第一个积极而无可争议的贡献”，并补充说“关于这个主题的一场富有成果的辩论，几乎不可能以更清晰、更客观的方式展开”。此外，在他的《物理学的世界图景》（The World View of Physics）一书中，",
+        {
+          "type": "note",
+          "id": "ch19-n15",
+          "label": "15"
+        },
+        " 冯·魏茨泽克发展了一种关于批判哲学与量子物理学之关系的构想，在许多方面与格雷特·亨利-赫尔曼的构想相近。",
+        {
+          "type": "note",
+          "id": "ch19-n16",
+          "label": "16"
+        }
+      ],
+      "units": 99
+    },
+    {
+      "id": "ch19-u045",
+      "source_ids": [
+        "ch19-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "4. In addition to the original ideas she developed on the relationship between the Kantian category of causality and quantum physics, to which I shall return below, Grete Henry-Hermann’s essay of 1935 contains the first critique of von Neumann’s argument which aimed to demonstrate the impossibility of completing quantum physics by means of hidden parameters.",
+        {
+          "type": "note",
+          "id": "ch19-n17",
+          "label": "17"
+        }
+      ],
+      "zh": [
+        "4. 除了她就康德式因果性范畴与量子物理学之关系发展的独创观念（我下面还要回到这一点）之外，格雷特·亨利-赫尔曼1935年的论文还包含对冯·诺伊曼论证的首个批判；该论证旨在证明用隐参数补全量子物理学是不可能的。",
+        {
+          "type": "note",
+          "id": "ch19-n17",
+          "label": "17"
+        }
+      ],
+      "units": 55
+    },
+    {
+      "id": "ch19-u046",
+      "source_ids": [
+        "ch19-u046"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In 1931, von Neumann claimed to prove that the statistical character of quantum physics was not due to a deficiency in human knowledge, and that it was therefore pointless to hope to discover hidden variables. Quantum mechanics is complete, he claimed, in the sense that the physicist already knows everything there is to be known. According to him, the predictions of quantum physics are statistical, because quantum phenomena themselves are not deterministic (in the sense that given one and the same initial conditions, different final conditions can indeed follow)."
+      ],
+      "zh": [
+        "1931年，冯·诺伊曼声称证明了：量子物理学的统计特征并非由于人类知识的缺陷，因此指望发现隐变量是徒劳的。他声称，量子力学是完备的，其意义是物理学家已经知道了一切可知的事情。按他的看法，量子物理学的预测是统计性的，因为量子现象本身不是决定论的（其意义是：给定同一个初始条件，确实可以跟随不同的最终条件）。"
+      ],
+      "units": 89
+    },
+    {
+      "id": "ch19-u047",
+      "source_ids": [
+        "ch19-u047"
+      ],
+      "page": "337",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Historically, the so-called ‘von Neumann’s proof’ played a very important role. Indeed, up to 1964 it was regarded as firmly established, and between 1931 and 1964, its existence and supposed validity deterred physicists from trying to develop theories of hidden variables. The situation changed in 1964, because in that year, John Bell attacked Neumann’s ‘proof’,",
+        {
+          "type": "note",
+          "id": "ch19-n18",
+          "label": "18"
+        },
+        " which has since then appeared to specialists to have been definitively refuted. Yet in 1935, 30 years before Bell, Grete Henry-Hermann had produced a refutation of von Neumann, based on arguments very similar to those of Bell in 1964."
+      ],
+      "zh": [
+        "从历史上看，所谓的“冯·诺伊曼证明”起了非常重要的作用。的确，直到1964年它都被视为牢不可破；1931年至1964年间，由于普遍相信这个证明有效，物理学家很少尝试发展隐变量理论。情况在1964年改变了，因为那一年约翰·贝尔攻击了诺伊曼的“证明”，",
+        {
+          "type": "note",
+          "id": "ch19-n18",
+          "label": "18"
+        },
+        " 此后它在专家看来已被决定性地反驳。然而早在1935年，比贝尔早30年，格雷特·亨利-赫尔曼就已经基于与贝尔1964年的论证非常相似的论据，提出了对冯·诺伊曼的反驳。",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "原书以 1964 年为贝尔反驳的时间。注 18 所引论文《论量子力学中的隐变量问题》发表于 1966 年。"
+          ]
+        }
+      ],
+      "units": 94
+    },
+    {
+      "id": "ch19-u048",
+      "source_ids": [
+        "ch19-u048"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Indeed, Grete Henry-Hermann identified as problematic the premise of von Neumann’s reasoning on which, 30 years later, John Bell was to base his famous refutation. This premise, the condition of additivity, stipulates that the expectation value of the sum of two physical quantities is equal to the sum of each of their expectation values. Such a property, trivial for variables capable of being measured simultaneously (variables of classical physics or non-conjugate variables of quantum physics) needs to be proved in the case of the conjugate quantities of quantum physics."
+      ],
+      "zh": [
+        "的确，格雷特·亨利-赫尔曼认定为有问题的，正是冯·诺伊曼推理中的那条前提——30年后约翰·贝尔著名反驳所针对的那条前提。这条前提，即可加性条件，规定两个物理量之和的期望值等于它们各自期望值之和。对于能够同时测量的变量（经典物理学的变量或量子物理学的非共轭变量），这种性质是显而易见的；但对于量子物理学的共轭量，则需要加以证明。"
+      ],
+      "units": 89
+    },
+    {
+      "id": "ch19-u049",
+      "source_ids": [
+        "ch19-u049"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Grete Henry-Hermann and Bell both insist on this point. This is really striking when their statements are put side by side."
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼和贝尔都强调这一点。把他们的陈述并列对照时，这一点实在令人瞩目。"
+      ],
+      "units": 21
+    },
+    {
+      "id": "ch19-u050",
+      "source_ids": [
+        "ch19-u050"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In Grete Henry-Hermann’s terms:"
+      ],
+      "zh": [
+        "用格雷特·亨利-赫尔曼的话说："
+      ],
+      "units": 4
+    },
+    {
+      "id": "ch19-u054",
+      "source_ids": [
+        "ch19-u054"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The sum of two of these quantities is by no means immediately definite. Because precise measurement of one of them excludes that of the other, so that these two quantities cannot simultaneously admit precise values, the conventional definition of the sum of two quantities is no longer valid. It is only by means of a detour through certain mathematical operators associated with these quantities that formalism introduces the concept of the sum of such quantities’.",
+        {
+          "type": "note",
+          "id": "ch19-n19",
+          "label": "19"
+        }
+      ],
+      "zh": [
+        "这两个量之和绝不是直接确定的。因为对其中一个的精确测量排斥对另一个的精确测量，所以这两个量不能同时具有精确值，两个量之和的常规定义不再有效。形式体系只能借助与这些量相对应的某些数学算符，间接引入这样的量之和的概念。",
+        {
+          "type": "note",
+          "id": "ch19-n19",
+          "label": "19"
+        }
+      ],
+      "type": "quote",
+      "units": 75
+    },
+    {
+      "id": "ch19-u051",
+      "source_ids": [
+        "ch19-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In John Bell’s terms:"
+      ],
+      "zh": [
+        "用约翰·贝尔的话说："
+      ],
+      "units": 4
+    },
+    {
+      "id": "ch19-u098",
+      "source_ids": [
+        "ch19-u098"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "A measurement of a sum of noncommuting observables cannot be made by combining trivially the results of separate observations on the two terms – it requires a quite distinct experiment. […] The additivity of expectation values […] is a quite peculiar property of quantum mechanical states, not to be expected a priori.",
+        {
+          "type": "note",
+          "id": "ch19-n20",
+          "label": "20"
+        }
+      ],
+      "zh": [
+        "对不对易可观测量之和的测量，不能简单地把分别测量这两项的结果合在一起——它需要一个完全不同的实验。[…] 期望值的可加性[…] 是量子力学状态的一种相当奇特的性质，不能先天地预期。",
+        {
+          "type": "note",
+          "id": "ch19-n20",
+          "label": "20"
+        }
+      ],
+      "type": "quote",
+      "units": 49
+    },
+    {
+      "id": "ch19-u052",
+      "source_ids": [
+        "ch19-u052"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Or again, in the words of Grete Henry-Hermann, von Neumann’s argumentation"
+      ],
+      "zh": [
+        "或者再用格雷特·亨利-赫尔曼的话说，冯·诺伊曼的论证"
+      ],
+      "units": 11
+    },
+    {
+      "id": "ch19-u099",
+      "source_ids": [
+        "ch19-u099"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Although indisputable from a mathematical point of view, introduces into its formal premises, without justifying it, a statement equivalent to the thesis which it is supposed to demonstrate. […] Expressed verbally: The expectation value of a sum of physical quantities is equal to the sum of the expectation values of the two quantities. Von Neumann’s entire demonstration rests on this presupposition and collapses with it.",
+        {
+          "type": "note",
+          "id": "ch19-n21",
+          "label": "21"
+        }
+      ],
+      "zh": [
+        "虽然从数学观点看无可争议，却在其形式前提中引入了一个未经辩护的陈述，该陈述等价于它本应证明的论题。[…] 用语言表达：物理量之和的期望值等于这两个量的期望值之和。冯·诺伊曼的整个证明都建立在这个预设之上，并随这个预设一起坍塌。",
+        {
+          "type": "note",
+          "id": "ch19-n21",
+          "label": "21"
+        }
+      ],
+      "type": "quote",
+      "units": 64
+    },
+    {
+      "id": "ch19-u053",
+      "source_ids": [
+        "ch19-u053"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "And in the words of Bell:"
+      ],
+      "zh": [
+        "再用贝尔的话说："
+      ],
+      "units": 6
+    },
+    {
+      "id": "ch19-u053-continuation",
+      "source_ids": [
+        "ch19-u053-continuation"
+      ],
+      "page": "338",
+      "canonical_kind": "quote",
+      "en": [
+        "Von Neumann’s essential assumption is: Any real, linear combination of any two Hermitian operators represents an observable, and the same linear combination of expectation values is the expectation value of the combination’.",
+        {
+          "type": "note",
+          "id": "ch19-n22",
+          "label": "22"
+        }
+      ],
+      "zh": [
+        "冯·诺伊曼的基本假设是：任意两个厄米算符的任何实线性组合都代表一个可观测量，而期望值的同样线性组合就是该组合的期望值。",
+        {
+          "type": "note",
+          "id": "ch19-n22",
+          "label": "22"
+        }
+      ],
+      "type": "quote",
+      "units": 32
+    },
+    {
+      "id": "ch19-u055",
+      "source_ids": [
+        "ch19-u055"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now, despite this similarity between Hermann and Bell’s arguments, and despite the fact that Bell’s paper rapidly convinced all physicists after its publication in the 1960s, Hermann’s refutation had no impact: in fact it remained entirely unknown – and this is highly surprising if one bears in mind that physicists such as Heisenberg and von Weizsäcker must have known of it."
+      ],
+      "zh": [
+        "然而，尽管赫尔曼与贝尔的论证有这种相似性，尽管贝尔的论文在20世纪60年代发表后迅速说服了所有物理学家，赫尔曼的反驳却没有产生影响，当时几乎无人知晓——如果人们想到海森堡和冯·魏茨泽克这样的物理学家肯定知道它，这就非常令人惊讶了。"
+      ],
+      "units": 60
+    },
+    {
+      "id": "ch19-u056",
+      "source_ids": [
+        "ch19-u056"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Whatever the reasons may be, the fact has important historical implications. Indeed, if Grete Henry-Hermann’s refutation had not remained a dead letter, the history of the interpretations of quantum physics would certainly have been very different. Theories involving hidden variables, which have proliferated since the 1960s, would probably have flourished much earlier, and the Copenhagen interpretation, so long regarded as the only acceptable available interpretation, would perhaps have enjoyed a less exclusive monopoly.",
+        {
+          "type": "note",
+          "id": "ch19-n23",
+          "label": "23"
+        }
+      ],
+      "zh": [
+        "无论原因是什么，这个事实有重要的历史含意。的确，倘若格雷特·亨利-赫尔曼的反驳当时得到重视，量子物理学解释的历史肯定会大不相同。自20世纪60年代以来大量涌现的隐变量理论，很可能会早得多地繁荣起来，而长期被视为唯一可接受的现有解释的哥本哈根解释，或许就不会享有那么排他的垄断地位。",
+        {
+          "type": "note",
+          "id": "ch19-n23",
+          "label": "23"
+        }
+      ],
+      "units": 73
+    },
+    {
+      "id": "ch19-u057",
+      "source_ids": [
+        "ch19-u057"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 The Core of Grete Henry-Hermann’s Original Interpretation"
+      ],
+      "zh": [
+        "4 格雷特·亨利-赫尔曼独创解释的内核"
+      ],
+      "type": "subheading",
+      "units": 8
+    },
+    {
+      "id": "ch19-u058",
+      "source_ids": [
+        "ch19-u058"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let us now turn to Grete Henry-Hermann’s way of conceiving the links between quantum physics and Kantian philosophy. With her refutation of von Neumann’s proof Grete Henry-Hermann had re-opened the door to the possibility of discovering hidden variables. One might therefore believe that she was about to engage in an attempt to save the Kantian category of causality, by invoking, as others had done, the existence of hidden variables determining a unique effect for each cause. But that is not the case. Grete Henry-Hermann set out on another original path: that of retaining the universal validity of the pure concept of causality, while accepting, with Bohr and Heisenberg, the definitive character of statistical predictions."
+      ],
+      "zh": [
+        "现在让我们转向格雷特·亨利-赫尔曼设想量子物理学与康德哲学之联系的方式。通过对冯·诺伊曼证明的反驳，格雷特·亨利-赫尔曼重新打开了发现隐变量之可能性的大门。因此人们可能以为，她即将像其他人所做的那样，通过援引为每个原因决定唯一结果的隐变量的存在，着手尝试拯救康德式因果性范畴。但情况并非如此。格雷特·亨利-赫尔曼踏上了另一条独创的道路：保留因果性纯粹概念的普遍有效性，同时与玻尔和海森堡一道接受统计预测的不可更改性。"
+      ],
+      "units": 114
+    },
+    {
+      "id": "ch19-u059",
+      "source_ids": [
+        "ch19-u059"
+      ],
+      "page": "339",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The original core of her interpretation is, in essence, the following. The results of measurements actually obtained for quantum objects cannot be univocally predicted with certainty. However, after having effectively obtained a quantum measurement, and after having gained knowledge of its result (previously not predictable with certainty), it is possible, by working backwards, to reconstitute, retrospectively and completely, the causal chain which has necessarily produced such a result."
+      ],
+      "zh": [
+        "她的解释的独创内核本质上如下。对量子对象的一次测量，无法预先唯一确定结果。然而，一旦做了测量并知道先前无法确定预测的结果，便可以从结果出发，完整重构必然产生该结果的那条因果链条。"
+      ],
+      "units": 68
+    },
+    {
+      "id": "ch19-u060",
+      "source_ids": [
+        "ch19-u060"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To properly grasp what is meant by these causal chains reconstructed a posteriori, it is necessary to emphasise that the causal chains under consideration connect:"
+      ],
+      "zh": [
+        "要恰当把握这些事后重构的因果链条意味着什么，必须强调：所考虑的因果链条连接的是："
+      ],
+      "units": 25
+    },
+    {
+      "id": "ch19-u061",
+      "source_ids": [
+        "ch19-u061"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● On the one hand, a phenomenon (the phenomenon resulting from measurement – for example, a spot on a screen)"
+      ],
+      "zh": [
+        "● 一方面，一个现象（测量所产生的现象——例如屏幕上的一个斑点）"
+      ],
+      "units": 18
+    },
+    {
+      "id": "ch19-u062",
+      "source_ids": [
+        "ch19-u062"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● And on the other hand, the value of a theoretical variable (for example, the value of the quantity of movement)"
+      ],
+      "zh": [
+        "● 另一方面，一个理论变量的值（例如动量的值）"
+      ],
+      "units": 20
+    },
+    {
+      "id": "ch19-u063",
+      "source_ids": [
+        "ch19-u063"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The effect is the phenomenon resulting from the measurement. The cause is the value of the variable."
+      ],
+      "zh": [
+        "结果是测量所产生的现象。原因是变量的值。"
+      ],
+      "units": 17
+    },
+    {
+      "id": "ch19-u064",
+      "source_ids": [
+        "ch19-u064"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This type of causal chain already plays a part in classical physics. For example, when you measure a weight, the observed phenomenon equated with the effect is the needle movement and its stopping on the scale at a certain graduation mark; and the value of the theoretical variable equated with the cause of such a phenomenon is the determinate weight of the object weighed. The link between the two is a causal scenario of the following kind: the weight causes the vertical displacement of the scale pan, which in turn causes, through a series of specifiable mechanical actions, the deflection of the needle."
+      ],
+      "zh": [
+        "这种类型的因果链条在经典物理学中已经起作用。例如，称量物体时，作为结果的观察现象是指针移动，随后停在刻度盘的某一刻度上；而被等同于这种现象之原因的理论变量的值，是被称物体的确定重量。两者之间的联系是如下种类的因果情景：重量引起秤盘的垂直位移，秤盘又通过一系列可指明的机械作用引起指针的偏转。"
+      ],
+      "units": 103
+    },
+    {
+      "id": "ch19-u065",
+      "source_ids": [
+        "ch19-u065"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Grete Henry-Hermann transposed this classical theory of measurement to the case of quantum measurements. For example, take the case of measuring the quantity of movement of an electron by illuminating this electron under a microscope. Because the electron is illuminated, there is an interaction between the electron and the incident light; this light is then captured on a screen; from it, information about the electron is derived. The effect, the phenomenon resulting from the experiment, is a discrete impact on the screen. The cause is the quantity of movement of the electron at the instant of interaction with the incident light."
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼把这种经典测量理论移植到量子测量的情形。例如，考虑在显微镜下用光照射电子来测量它的动量的情形。因为电子被照亮，电子与入射光之间就有相互作用；这光随后被捕获在屏幕上；从中提取出关于电子的信息。结果，即实验所产生的现象，是屏幕上的一次孤立的撞击。原因是电子与入射光相互作用那一瞬间的动量。"
+      ],
+      "units": 101
+    },
+    {
+      "id": "ch19-u066",
+      "source_ids": [
+        "ch19-u066"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "There are two differences between the quantum and the classical cases:"
+      ],
+      "zh": [
+        "量子情形与经典情形之间有两个差异："
+      ],
+      "units": 11
+    },
+    {
+      "id": "ch19-u067",
+      "source_ids": [
+        "ch19-u067"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. Contrary to the situation in classical physics, in quantum physics the causal scenario cannot be anticipated; it is known only once the measurement has actually been performed and only once the phenomenon obtained has actually been observed.\n2. In quantum physics, although the causal scenario connecting the cause to the effect continues to make use of classical concepts such as wave or particle, it involves, at the same time and with regard to the same object, representations which, according to the classical account, are antagonistic. Here Grete Henry-Hermann reverts to Bohr’s idea of complementarity. The same physical system, depending on the moments of the same scenario, is treated now as a wave, now as a particle. For instance, in our example, the light which interacts with the electron is treated firstly as corpuscular (the situation is represented as an electron–photon collision), secondly as undulatory (after the interaction, the light is seen as a flat wave which passes through the lenses of the microscope and converges at a point on the screen)."
+      ],
+      "zh": [
+        "1. 与经典物理学中的情况相反，在量子物理学中因果情景无法被预先把握；它只有在测量实际执行之后、在所得现象实际被观察之后才能确定。\n2. 在量子物理学中，尽管连接原因与结果的因果情景继续使用波或粒子这样的经典概念，它却同时就同一个对象涉及按经典说明相互对立的表象。这里格雷特·亨利-赫尔曼回到玻尔的互补性观念。同一个物理系统，取决于同一情景的不同环节，时而被当作波处理，时而被当作粒子处理。例如，在我们的例子中，与电子相互作用的光首先被当作微粒处理（情境被表象为一次电子–光子碰撞），其次被当作波动处理（相互作用之后，光被看作穿过显微镜透镜并汇聚于屏幕上一点的平面波）。"
+      ],
+      "units": 173
+    },
+    {
+      "id": "ch19-u068",
+      "source_ids": [
+        "ch19-u068"
+      ],
+      "page": "340",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For every measurement carried out on a quantum object it is possible, according to Grete Henry-Hermann, to reconstitute, a posteriori, a causal chain of this type. In addition, Grete Henry-Hermann proposes a verification procedure, which she calls a “mediate procedure”, for her a posteriori causal reconstitutions. By this procedure, which cannot be discussed at length here,",
+        {
+          "type": "note",
+          "id": "ch19-n24",
+          "label": "24"
+        },
+        " she believed she had proved that her causal scenarios were not only possible, but also necessary."
+      ],
+      "zh": [
+        "按格雷特·亨利-赫尔曼的看法，对量子对象执行的每一次测量，都有可能事后重构一条这种类型的因果链条。此外，格雷特·亨利-赫尔曼为她的后天因果重构提出了一种验证程序，她称之为“中介程序”。通过这种程序——这里无法详细讨论，",
+        {
+          "type": "note",
+          "id": "ch19-n24",
+          "label": "24"
+        },
+        " 她相信自己已经证明：她的因果情景不仅是可能的，而且是必然的。"
+      ],
+      "units": 72
+    },
+    {
+      "id": "ch19-u069",
+      "source_ids": [
+        "ch19-u069"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "From the above elements taken altogether, Grete Henry-Hermann draws the following conclusions:"
+      ],
+      "zh": [
+        "把上述要素合在一起，格雷特·亨利-赫尔曼得出以下结论："
+      ],
+      "units": 12
+    },
+    {
+      "id": "ch19-u070",
+      "source_ids": [
+        "ch19-u070"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. Because the causes of any phenomenon resulting from a quantum measurement can always be univocally determined (albeit only a posteriori); because a single causal scenario continues in quantum physics to connect the phenomena resulting from the measurement to the theoretical variables; then, the Kantian category of causality remains a necessary condition of quantum physics.\n2. Because one is already in possession of all the causes which determine any result of measurement, the hypothesis of possible hidden variables loses all credibility; to seek additional parameters which are supposed to put an end to the statistical character of the quantum description becomes, in principle, pointless."
+      ],
+      "zh": [
+        "1. 因为任何由量子测量产生的现象的原因总能在事后得到唯一确定；因为在量子物理学中仍然有单一的因果情景把测量所产生的现象与理论变量连接起来；所以，康德式因果性范畴仍然是量子物理学的一个必要条件。\n2. 因为人们已经掌握了决定任何测量结果的全部原因，可能隐变量的假设就失去了一切可信度；去寻找据称能终结量子描述之统计特征的附加参数，在原则上变得毫无意义。"
+      ],
+      "units": 104
+    },
+    {
+      "id": "ch19-u071",
+      "source_ids": [
+        "ch19-u071"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "5 Strengths and Weaknesses of Grete Henry-Hermann’s interpretation"
+      ],
+      "zh": [
+        "5 格雷特·亨利-赫尔曼解释的优点与弱点"
+      ],
+      "type": "subheading",
+      "units": 8
+    },
+    {
+      "id": "ch19-u072",
+      "source_ids": [
+        "ch19-u072"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The main strength of Grete Henry-Hermann’s interpretation, the essential point which she establishes, is that, in order to exist, both classical physics and quantum physics require that the physicist be able to establish a one-to-one connection between:"
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼解释的主要优点，她所确立的本质之点，是：为了存在，经典物理学和量子物理学都要求物理学家能够在以下两者之间建立一对一的联系："
+      ],
+      "units": 37
+    },
+    {
+      "id": "ch19-u073",
+      "source_ids": [
+        "ch19-u073"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● The great diversity of phenomena which constitute the results of measurement (impacts on screens, deflections of needles, etc.) and"
+      ],
+      "zh": [
+        "● 构成测量结果的极大多样的现象（屏幕上的撞击、指针的偏转等等）；以及"
+      ],
+      "units": 19
+    },
+    {
+      "id": "ch19-u074",
+      "source_ids": [
+        "ch19-u074"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● The values of a limited number of variables involved in theory (position, velocity, quantity of movement, etc.)."
+      ],
+      "zh": [
+        "● 理论中涉及的有限数量变量的值（位置、速度、动量等等）。"
+      ],
+      "units": 17
+    },
+    {
+      "id": "ch19-u075",
+      "source_ids": [
+        "ch19-u075"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Judiciously, Grete Henry-Hermann places the accent on the only one-to-one connection which remains necessary to the very existence of quantum physics. If the physicist were unable to interpret univocally a given phenomenon resulting from measurement as the definite value of this theoretical variable, the phenomena constituting the results of measurement would lose all meaning, all connection with our theories. With this, Grete Henry-Hermann emphasises something crucial."
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼明智地把重点放在对量子物理学的存在本身仍然必要的那唯一一种一对一联系上。如果物理学家不能把测量产生的某个给定现象唯一地解释为某个理论变量的确定值，构成测量结果的现象就会失去一切意义、失去与我们理论的一切联系。在这一点上，格雷特·亨利-赫尔曼强调了某种关键的东西。"
+      ],
+      "units": 66
+    },
+    {
+      "id": "ch19-u076",
+      "source_ids": [
+        "ch19-u076"
+      ],
+      "page": "341",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The weak point of Grete Henry-Hermann’s thesis, is that she is not content with asserting that the one-to-one character of the connection under consideration is a condition of the possibility of physics. She goes much further in interpreting this one-to-one connection, since she asserts:"
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼论题的弱点在于：她不满足于断言所考虑联系的一对一特征是物理学的可能性条件。她在解释这种一对一联系时走得更远，因为她断言："
+      ],
+      "units": 44
+    },
+    {
+      "id": "ch19-u077",
+      "source_ids": [
+        "ch19-u077"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● That this connection is causal in type"
+      ],
+      "zh": [
+        "● 这种联系是因果联系"
+      ],
+      "units": 7
+    },
+    {
+      "id": "ch19-u078",
+      "source_ids": [
+        "ch19-u078"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● That the concept of causality involved is essentially similar to the Kantian concept of causality and"
+      ],
+      "zh": [
+        "● 所涉及的因果性概念本质上类似于康德式因果性概念；以及"
+      ],
+      "units": 16
+    },
+    {
+      "id": "ch19-u079",
+      "source_ids": [
+        "ch19-u079"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "● That the a posteriori causal scenario is necessary"
+      ],
+      "zh": [
+        "● 事后重构的因果情景是必然的"
+      ],
+      "units": 8
+    },
+    {
+      "id": "ch19-u080",
+      "source_ids": [
+        "ch19-u080"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Each of these three points is open to question."
+      ],
+      "zh": [
+        "这三点中的每一点都可以质疑。"
+      ],
+      "units": 9
+    },
+    {
+      "id": "ch19-u081",
+      "source_ids": [
+        "ch19-u081"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Take the latter one. One can readily imagine, in linking the cause to the effect, other scenarios than the ones proposed by Grete Henry-Hermann. And since there is no means of deciding between the alternative propositions, it undermines the assumed necessity of Henry-Hermann’s scenarios."
+      ],
+      "zh": [
+        "拿最后一点来说。在连接原因与结果时，人们很容易设想不同于格雷特·亨利-赫尔曼所提情景的其他情景。而既然没有办法在这些不同的设想之间作出取舍，亨利-赫尔曼提出的情景是否具有必然性也就成了问题。"
+      ],
+      "units": 44
+    },
+    {
+      "id": "ch19-u082",
+      "source_ids": [
+        "ch19-u082"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Turning to the two other points, one might stress that Grete Henry-Hermann’s causal scenarios connect the phenomena resulting from measurement to only one of the two conjugate variables, and that it remains impossible to bring together, at the same time, two of these causal chains, one of which would culminate in one of the variables (for instance the position) and the other in the conjugate variable (for instance the velocity). Hence Grete Henry-Hermann’s interpretation, in no way allows the conjugate variables to be combined, and therefore, in no way allows the reconstitution of the continuous trajectory of an object. Now, it is precisely on the basis of the possibility of gaining access to such continuous trajectories, that classical physicists conceived causality. For them, causal behaviour meant that the values of two conjugate variables of an object at a given time (position and velocity equated with the cause) univocally determined the subsequent trajectory (position and velocity at a later time equated with the effect). Here one can readily attack Grete Henry-Hermann’s conclusions by claiming that the concept of causality involved is very different from the classical, Kantian concept of causality (or at least cannot be identified with it)."
+      ],
+      "zh": [
+        "转向另外两点，人们可以强调：格雷特·亨利-赫尔曼的因果情景只把测量产生的现象同两个共轭变量中的一个联系起来，而且仍然不可能同时把两条这样的因果链条合在一起——其中一条终止于一个变量（例如位置），另一条终止于共轭变量（例如速度）。因此，格雷特·亨利-赫尔曼的解释绝不允许共轭变量被结合起来，从而绝不允许重构一个对象的连续轨迹。然而，经典物理学家恰恰是在获得这种连续轨迹之可能性的基础上设想因果性的。对他们来说，因果行为意味着：一个对象在给定时间的两个共轭变量的值（被等同于原因的位置与速度）单义地决定随后的轨迹（被等同于结果的较晚时间的位置与速度）。在这里，人们可以很容易地攻击格雷特·亨利-赫尔曼的结论，声称所涉及的因果性概念与经典的、康德式的因果性概念非常不同（或者至少不能与之等同）。"
+      ],
+      "units": 197
+    },
+    {
+      "id": "ch19-u083",
+      "source_ids": [
+        "ch19-u083"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "6 A General Comparison Between Transcendental Philosophy and Quantum Physics"
+      ],
+      "zh": [
+        "6 先验哲学与量子物理学的一般比较"
+      ],
+      "type": "subheading",
+      "units": 10
+    },
+    {
+      "id": "ch19-u084",
+      "source_ids": [
+        "ch19-u084"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Having shown that the category of causality – the Kantian category which seemed the most threatened by the advent of quantum physics – continued to constitute a condition of possibility of quantum physics, Grete Henry-Hermann went on to consider, on the most general level, the question of the relationship between quantum physics and transcendental (or critical) philosophy."
+      ],
+      "zh": [
+        "在表明了因果性范畴——这个似乎最受量子物理学出现威胁的康德式范畴——仍然构成量子物理学的一个可能性条件之后，格雷特·亨利-赫尔曼进而在最一般的层面上考虑量子物理学与先验（或批判）哲学之关系的问题。"
+      ],
+      "units": 55
+    },
+    {
+      "id": "ch19-u085",
+      "source_ids": [
+        "ch19-u085"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Her conclusion is that quantum physics and transcendental philosophy converge with regard to essentials, at least if ‘transcendental philosophy’ is understood to mean, as Grete Henry-Hermann understood it, not the Kantian system taken in its precisely literal form, but Kantian philosophy as re-read, clarified and reinterpreted by Fries."
+      ],
+      "zh": [
+        "她的结论是：量子物理学与先验哲学在根本观点上相通，至少如果“先验哲学”被理解为格雷特·亨利-赫尔曼所理解的意思——不是严格字面形式上的康德体系，而是经弗里斯重读、澄清和重新解释的康德哲学。"
+      ],
+      "units": 48
+    },
+    {
+      "id": "ch19-u086",
+      "source_ids": [
+        "ch19-u086"
+      ],
+      "page": "342",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Grete Henry-Hermann compares the principal assertions of critical philosophy and quantum mechanics on three points: (a) For critical philosophy, the Kantian categories “provide the theoretical schema needed to interpret perception”.",
+        {
+          "type": "note",
+          "id": "ch19-n25",
+          "label": "25"
+        },
+        " Now, in order to interpret the results of measurement, quantum physics must necessarily make use of classical concepts. Thus, in classical physics, as in quantum mechanics, the same fundamental classical concepts mediate the transition from the diverse material of sense data to knowledge of nature, although in the second case their applicability is limited.",
+        {
+          "type": "note",
+          "id": "ch19-n26",
+          "label": "26"
+        },
+        " Quantum physics and classical physics therefore rest, once and for all, on the same conditions of possibility. The a priori forms listed by Kant are not specifically threatened by the advent of quantum physics. (b) What has just been said implies that quantum physics also does not call specifically into question the assertion of critical philosophy that the table of Kantian categories is complete, i.e. that Kant’s twelve pure concepts are sufficient to order the flux of sensations for knowledge. The advent of quantum theory obliges us neither to add a pure concept to the table, nor to remove or modify one. (c) If one subscribes to the clarification, carried out by Fries, then by Nelson, of the true implications of the Kantian theses, critical philosophy also shows that the application of the categories to the diversity of phenomena remains limited, in the sense that the pure concepts are only ideal models which, as “simple analogies”, provide the “guiding thread to the interpretation of perception”.",
+        {
+          "type": "note",
+          "id": "ch19-n27",
+          "label": "27"
+        },
+        " This means that description extends only to the structures of connections, but never, properly speaking, isolates absolute substances, causes or effects. Description therefore remains relative. Nevertheless, the structures of connections represent spatio-temporal relationships which are objective and unequivocally determined."
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼在三个要点上比较批判哲学与量子力学的主要断言：(a) 对批判哲学来说，康德式范畴“提供了解释知觉所需的理论图型”。",
+        {
+          "type": "note",
+          "id": "ch19-n25",
+          "label": "25"
+        },
+        " 然而，为了解释测量结果，量子物理学必须使用经典概念。因此，在经典物理学中正如在量子力学中，同样的基本经典概念充当从感觉材料的杂多到自然知识的过渡的中介，尽管在量子力学中这些概念的适用范围有限。",
+        {
+          "type": "note",
+          "id": "ch19-n26",
+          "label": "26"
+        },
+        " 因此，量子物理学与经典物理学同样以这些条件为成立的前提。康德所列的先天形式并没有特别受到量子物理学出现的威胁。(b) 刚才所说意味着，量子物理学也没有特别质疑批判哲学的这个断言：康德式范畴表是完备的，即康德的十二个纯粹概念足以把感觉之流整理为知识。量子理论的出现既不迫使我们向范畴表添加一个纯粹概念，也不迫使我们删除或修改一个。(c) 如果人们接受弗里斯、继而纳尔逊对康德论题之真实含意所作的澄清，批判哲学也表明：范畴对现象多样性的应用仍然是有限的，其意义是纯粹概念只是理想模型，它们作为“简单类比”提供“解释知觉的引导线索”。",
+        {
+          "type": "note",
+          "id": "ch19-n27",
+          "label": "27"
+        },
+        " 这意味着描述所及只有关联结构。严格说来，描述无法从中隔离出绝对的实体、原因或结果。因此描述仍然是相对的。然而，关联结构表象的是客观的、单义地确定的时空关系。"
+      ],
+      "units": 289
+    },
+    {
+      "id": "ch19-u087",
+      "source_ids": [
+        "ch19-u087"
+      ],
+      "page": "343",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Quantum mechanics confirms the limits of the application of the fundamental concepts which make knowledge possible: the classical concepts, like the categories, are no more than analogies, which should not be understood literally. Classical physics is concerned only with differential equations within which nothing refers properly speaking to substances, causes or effects, although such concepts remain indispensable in guiding research and organising the diversity of perception into a knowledge of macroscopic objects. In the same way, quantum physics does not enable the systems it describes to be identified with waves or particles properly speaking, although it cannot do without such concepts in organising the diverse material of perception into a knowledge of atomic phenomena."
+      ],
+      "zh": [
+        "量子力学证实了使知识成为可能的基本概念之应用的限度：经典概念与范畴一样，不过是不应被字面理解的类比。经典物理学只关心微分方程，其中方程本身并不严格指向实体、原因或结果，尽管这些概念在引导研究、把知觉的多样性组织为关于宏观对象的知识方面仍然不可或缺。同样，量子物理学也无法把它所描述的系统严格等同于波或粒子，尽管它在把知觉的多样材料组织为关于原子现象的知识时离不开这些概念。"
+      ],
+      "units": 114
+    },
+    {
+      "id": "ch19-u088",
+      "source_ids": [
+        "ch19-u088"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In fact, quantum physics goes still further than transcendental philosophy. It confirms that physics has access only to structures of connections, and shows in addition that these structures of connections are in each case relative to the experimental situation by means of which the experimenter gains knowledge of them. This, according to Grete Henry-Hermann, is the major teaching of the philosophy of the new physics: quantum mechanics, far from contradicting the fundamental principles of transcendental philosophy, radicalises them still further."
+      ],
+      "zh": [
+        "事实上，量子物理学比先验哲学走得更远。它证实物理学只能通达关联结构，并且此外表明：这些关联结构每次都相对于一项实验的具体情境，实验者正是通过该情境才认识到这些结构。按格雷特·亨利-赫尔曼的看法，这就是新物理学之哲学的主要教益：量子力学远非与先验哲学的基本原理相矛盾，而是把它们进一步彻底化。"
+      ],
+      "units": 80
+    },
+    {
+      "id": "ch19-u089",
+      "source_ids": [
+        "ch19-u089"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Finally, quantum mechanics, like transcendental philosophy but to a still greater degree, forces us to abandon the dream of a universal science capable of embracing all aspects of reality within a single description. Indeed, not only is knowledge, as Kant’s analysis had already shown, divided into different types of description (psychology, physics, ethics, etc.), which constitute several perspectives on the world; but, in addition, as is shown by quantum theory, the disintegration of truth into a multitude of perspectives is now infiltrating the very heart of physics itself:"
+      ],
+      "zh": [
+        "最后，量子力学与先验哲学一样、但程度更甚地迫使我们放弃一门能在单一描述中囊括实在一切方面的普遍科学的梦想。的确，不仅如康德的分析已经表明的，知识被划分为不同类型的描述（心理学、物理学、伦理学等等），它们构成对世界的几种视角；而且，如量子理论所表明的，真理分解为众多视角的过程如今正在渗入物理学本身的核心："
+      ],
+      "units": 88
+    },
+    {
+      "id": "ch19-u092",
+      "source_ids": [
+        "ch19-u092"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "The novelty introduced by quantum mechanics with regard to the philosophy of nature can be described as follows: the splitting of truth goes further than philosophy and natural science had thus far assumed. It penetrates into the very knowledge which physics has of nature. Instead of just setting a boundary between the latter and other possible ways of apprehending reality [e.g. axiological, ethical, aesthetic, etc.], it also separates different but equally justified representations within the mode of description in physics [e.g. waves and particles inter alia], which cannot be a synthesized single image of nature.",
+        {
+          "type": "note",
+          "id": "ch19-n28",
+          "label": "28"
+        }
+      ],
+      "zh": [
+        "量子力学就自然哲学而言引入的新颖之处可以描述如下：真理的分裂比哲学和自然科学迄今所设想的走得更远。它渗入物理学关于自然的知识本身。它不仅在这种知识与把握实在的其他可能方式[例如价值论的、伦理的、审美的等等]之间划定界限，而且在物理学的描述方式之内区分出不同的、但同样有正当根据的表象[例如波与粒子等等]，这些表象无法被综合为自然的单一图像。",
+        {
+          "type": "note",
+          "id": "ch19-n28",
+          "label": "28"
+        }
+      ],
+      "type": "quote",
+      "units": 97
+    },
+    {
+      "id": "ch19-u090",
+      "source_ids": [
+        "ch19-u090"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Grete Henry-Hermann insists, however, that these convergences between quantum physics and critical philosophy should not mask the independence of the paths followed by each of these two kinds of discourse: quantum description “rests manifestly on the teachings of experiment and is entirely independent of philosophical speculation”, while the critical system “rests integrally on mathematical and philosophical reflections”.",
+        {
+          "type": "note",
+          "id": "ch19-n29",
+          "label": "29"
+        }
+      ],
+      "zh": [
+        "然而格雷特·亨利-赫尔曼坚持：量子物理学与批判哲学之间的这些汇聚，不应掩盖这两种论述各自经由独立的研究路径：量子描述“显然基于实验的教益，完全独立于哲学思辨”，而批判体系“完全基于数学的与哲学的反思”。",
+        {
+          "type": "note",
+          "id": "ch19-n29",
+          "label": "29"
+        }
+      ],
+      "units": 57
+    },
+    {
+      "id": "ch19-u091",
+      "source_ids": [
+        "ch19-u091"
+      ],
+      "page": "344",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But, according to Grete Henry-Hermann, this observation confers still greater value on transcendental philosophy. For her, the fact that these convergences had been achieved at the end of wholly independent approaches based on distinct principles, underlines the credibility of the fundamental principles of transcendental philosophy. Such convergence, she wrote, “signifies, if not a justification, then at any rate a very important empirical corroboration”",
+        {
+          "type": "note",
+          "id": "ch19-n30",
+          "label": "30"
+        },
+        " of this philosophy. In short, the prestige attaching to the exact sciences is to an extent reflected back on critical philosophy."
+      ],
+      "zh": [
+        "但是，按格雷特·亨利-赫尔曼的看法，这个观察赋予先验哲学更大的价值。对她来说，两种进路基于不同原则、彼此完全独立，却得出了相合的结论，这一事实凸显了先验哲学基本原理的可信度。她写道，这些相合之处“即使无法为这种哲学辩护，至少也为它提供了非常重要的经验佐证”",
+        {
+          "type": "note",
+          "id": "ch19-n30",
+          "label": "30"
+        },
+        "。简言之，精密科学的声望在一定程度上也使批判哲学受益。"
+      ],
+      "units": 84
+    },
+    {
+      "id": "ch19-u093",
+      "source_ids": [
+        "ch19-u093"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Grete Henry-Hermann concludes her fundamental essay of 1935, which was to provide the inspiration for all her later writings on the philosophy of science, with these words:"
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼以这些话结束她1935年的那篇基本论文——她后来所有科学哲学著作都将从中汲取灵感："
+      ],
+      "units": 27
+    },
+    {
+      "id": "ch19-u097",
+      "source_ids": [
+        "ch19-u097"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "If the undeniable merit of physical research is to have decisively furthered the understanding of the philosophic foundations of our knowledge of nature, nevertheless such a progress implies as little a break with past philosophy as quantum mechanics does with respect to classical physics. On the contrary, careful examination of the issue shows that, in spite of the obvious discrepancies of quantum mechanics with the apparent conclusions of critical philosophy, the decisive discoveries of quantum mechanics are consistent with the principles of that philosophy, so that the latter illuminate the former in their significance for physical knowledge.",
+        {
+          "type": "note",
+          "id": "ch19-n31",
+          "label": "31"
+        }
+      ],
+      "zh": [
+        "如果说物理研究的不可否认的功绩在于决定性地推进了对我们关于自然之知识的哲学基础的理解，那么这种进步与以往哲学的断裂，并不比量子力学与经典物理学的断裂来得更深。相反，对这个问题的仔细考察表明：尽管量子力学与批判哲学的表面结论有明显分歧，量子力学的决定性发现却与该哲学的原理相一致，以至于后者照亮了前者之于物理知识的意义。",
+        {
+          "type": "note",
+          "id": "ch19-n31",
+          "label": "31"
+        }
+      ],
+      "type": "quote",
+      "units": 97
+    },
+    {
+      "id": "ch19-u094",
+      "source_ids": [
+        "ch19-u094"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "7 Conclusion"
+      ],
+      "zh": [
+        "7 结论"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch19-u095",
+      "source_ids": [
+        "ch19-u095"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This paper is confined to presenting, as faithfully as possible, the central elements of Grete Henry-Hermann’s pioneering contributions to the philosophy of quantum physics. Of course, her conceptions, like any philosophical analyses, are open to criticism from various directions. Now these critiques, which have been barely sketched here, show the fecundity of Grete Henry-Hermann’s position, and they provide an excellent springboard for subtle analyses of the relationships between causality and quantum physics."
+      ],
+      "zh": [
+        "本文仅限于尽可能忠实地呈现格雷特·亨利-赫尔曼对量子物理学哲学之开创性贡献的核心要素。当然，她的构想与任何哲学分析一样，可以从不同角度受到批评。而这些在这里只是粗略勾勒的批评，显示了格雷特·亨利-赫尔曼立场能够推动进一步的探索，也为细致分析因果性与量子物理学的关系提供了出发点。"
+      ],
+      "units": 72
+    },
+    {
+      "id": "ch19-u096",
+      "source_ids": [
+        "ch19-u096"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "All in all, Grete Henry-Hermann provides one of the first contributions to the philosophy of quantum physics – and an original one –, as well as interesting analysis of the relationships between modern physics and Kantian-inspired philosophy. One can only regret that her writings have not been, and are not, better known."
+      ],
+      "zh": [
+        "总而言之，格雷特·亨利-赫尔曼提供了对量子物理学哲学最早的贡献之一——而且是独创的贡献——以及对现代物理学与康德式哲学之关系的有趣分析。人们只能遗憾：她的著作过去不曾、现在也不曾更广为人知。"
+      ],
+      "units": 50
+    }
+  ],
+  "notes": {
+    "ch19-n01": {
+      "number": "1",
+      "en": [
+        "I came to hear about Grete Henry-Hermann’s writings during my DEA study (the university year just before a Ph.D.) devoted to the relationship between Kantian philosophy and quantum mechanics. It was Michel Bitbol, then my DEA supervisor, who drew my attention upon this writings and encouraged me to work on it. I am happy to have the occasion to thank him warmly here, for this indeed but more fundamentally for the inspiration I always found in his way of doing philosophy and for his friendly support. I initiated the translation of Grete Henry-Hermann’s most important text into French and edited it with an introduction and a long critical postface. It was published in 1996, by Vrin (mathesis collection), as Les fondements philosophiques de la mécanique quantique (translation by Alexandre Schnell, presentation by Bernard d’Espagnat). The present paper is based on my analyses in this 1996 book. The English version is largely inspired from a conference speech, delivered on second March 2001 in Bremen (in German thanks to the collaboration of Alexander Schell), at the invitation of the Philosophisch-Politische Akademie on the occasion of the Grete Henry-Hermann Centenary Celebration. A French version of this lecture has been translated in English by Dr Edmund Jephcott (A & G Translations) at the request of the Society for the Furtherance of Critical Philosophy (SFCP). This English translation has been completed by professor Fernando Leal’s translation of some of Grete Henry-Hermann’s original work and has been edited by the SFCP (“The Contributions of Grete Henry-Hermann to the Philosophy of Physics”, Occasional Working Papers in Ethics and the Critical Philosophy, ed. by P. Shipley and H. Mason for the SFCP, vol. 3, December 2004, 23–31. Interested readers can acquire a copy of this volume 3 from Keith Martin, SFCP Administrator, 148 Friern Park, London, N12 9LU)."
+      ],
+      "zh": [
+        "我在攻读 DEA 文凭（博士前一年的大学学业）期间，研究康德哲学与量子力学的关系时，开始了解到格雷特·亨利-赫尔曼的著作。当时我的 DEA 导师米歇尔·比托尔提请我注意这些著作，并鼓励我加以研究。我很高兴有机会在此向他致以热忱的感谢，既为此事，更根本地也为我在他的哲学工作方式中始终获得的启发和他的友好支持。我发起把格雷特·亨利-赫尔曼最重要的文本译成法文，并为之撰写导言和长篇批判性后记。该译本于1996年由 Vrin 出版社（mathesis 丛书）出版，书名为 Les fondements philosophiques de la mécanique quantique（《量子力学的哲学基础》，亚历山大·施内尔翻译，贝尔纳·德·埃斯帕尼亚作序）。本文基于我在这本1996年著作中的分析。英文版在很大程度上取材于2001年3月2日在不来梅发表的一次会议演讲（承亚历山大·舍尔协助以德文发表），那是应哲学–政治学院邀请，在格雷特·亨利-赫尔曼百年诞辰纪念活动上所作的演讲。该演讲的法文版由埃德蒙·杰夫科特博士（A & G Translations）应批判哲学促进会（SFCP）之请译成英文。此英译本又经费尔南多·莱亚尔教授对格雷特·亨利-赫尔曼部分原著的翻译加以补充，并由 SFCP 编辑出版（“The Contributions of Grete Henry-Hermann to the Philosophy of Physics”，Occasional Working Papers in Ethics and the Critical Philosophy，P. 希普利与 H. 梅森为 SFCP 编辑，第3卷，2004年12月，23–31页。有兴趣的读者可向 SFCP 管理员基思·马丁索取该第3卷，地址：148 Friern Park, London, N12 9LU）。"
+      ]
+    },
+    "ch19-n02": {
+      "number": "2",
+      "en": [
+        "For a more detailed account, see my 1996 introduction and postface (from the Vrin reference given in note 1)."
+      ],
+      "zh": [
+        "更详细的说明，见我1996年的导言与后记（Vrin 版本见注1所给文献）。"
+      ]
+    },
+    "ch19-n03": {
+      "number": "3",
+      "en": [
+        "Published in Abhandlungen der Fries’schen Schule, Neue Folge, 1935. Leonard Nelson edited this from 1904 (reviving the enterprise begun by two followers of Fries, Apelt and Schleiden, and which was continued from 1847 to 1849, until being interrupted during the 1848 Revolution because of political disagreements between the editors). A summary of this essay by Grete HenryHermann was also published in Die Naturwissenschaften, 23, no. 42, 1935, 718–721."
+      ],
+      "zh": [
+        "发表于 Abhandlungen der Fries'schen Schule, Neue Folge, 1935。伦纳德·纳尔逊自1904年起编辑该刊（复兴了由弗里斯的两位追随者阿佩尔特与施莱登开创的事业；该事业1847年至1849年间持续，后因编辑之间的政治分歧在1848年革命期间中断）。格雷特·亨利-赫尔曼这篇论文的摘要也发表于 Die Naturwissenschaften, 23, no. 42, 1935, 718–721。"
+      ]
+    },
+    "ch19-n04": {
+      "number": "4",
+      "en": [
+        "Pages 1–44 from G. Hermann, E. May, Th. Vogel, Die Bedeutung der modernen Physik für die Theorie der Erkenntnis: Drei mit dem Richard-Avenarius-Preis ausgezeichnete Arbeiten (The Significance of Modern Physics for the Theory of Knowledge: Three Essays awarded the Richard Avenarius Prize), Verlag von S. Hirzel, Leipzig, 1937."
+      ],
+      "zh": [
+        "G. Hermann, E. May, Th. Vogel, Die Bedeutung der modernen Physik für die Theorie der Erkenntnis: Drei mit dem Richard-Avenarius-Preis ausgezeichnete Arbeiten（《现代物理学对认识论的意义：三篇获理查德·阿芬那留斯奖的论文》），Verlag von S. Hirzel, Leipzig, 1937，第1–44页。"
+      ]
+    },
+    "ch19-n05": {
+      "number": "5",
+      "en": [
+        "Published by Öffentliches Leben, Leipzig 1937; also in: Abhandlungen der Fries’schen Schule, Neue Folge, 6, no. 3/4, 1937, 309–398."
+      ],
+      "zh": [
+        "Published by Öffentliches Leben, Leipzig 1937; also in: Abhandlungen der Fries'schen Schule, Neue Folge, 6, no. 3/4, 1937, 309–398."
+      ]
+    },
+    "ch19-n06": {
+      "number": "6",
+      "en": [
+        "Grete Henry-Hermann’s contributions to the philosophy of science comprise four other articles: The first, from 1935, Physikalische Zeitschrift, 36, 481–482, is a review of the work by Karl Popper The Logic of Scientific Discovery, which was written in 1934 and later became famous. The second is the text of a short talk given in Copenhagen in June 1936, at the Second International Congress for the Unity of Science: ‘Zum Vortrag Schlicks’, Erkenntnis, vol 6, book 5/6, 342. This was a reply to a paper by Moritz Schlick regarding the causal problem, in which Grete HenryHermann brought to bear the theses of 1935. The third, ‘Die Naturphilosophische Bedeutung des Übergangs von der klassischen zur modernen Physik’ (‘The Philosophic Significance of the Transition from Classical to Modern Physics’), represents Grete Henry-Hermann’s contribution to the 9th International Congress of Philosophy, ‘Congrès Descartes’, held in Paris in 1937 (in: Travaux du IXe Congrès International de Philosophie ‘Congrès Descartes’, published by Raymond Bayer, Paris, VII, 99–101); in it the conclusions from the essay of 1935 are again summarised. Finally, an article of about ten pages from 1948, entitled ‘Die Kausalität in der Physik’ (‘Causality in Physics’) (Studium Generale, vol. 1, book 6, pp. 375–383), provides an extremely clear synthesis of Grete Henry-Hermann’s previous works."
+      ],
+      "zh": [
+        "格雷特·亨利-赫尔曼对科学哲学的贡献还包括另外四篇文章：第一篇，1935年，Physikalische Zeitschrift, 36, 481–482，是对卡尔·波普尔《科学发现的逻辑》（The Logic of Scientific Discovery）一书的书评，该书写于1934年，后来成名。第二篇是1936年6月在哥本哈根第二届国际科学统一大会上的一个简短发言的文本：“Zum Vortrag Schlicks”（《论石里克的报告》），Erkenntnis, vol 6, book 5/6, 342。这是对莫里茨·石里克关于因果问题的一篇论文的回应，格雷特·亨利-赫尔曼在其中运用了1935年的论题。第三篇，“Die Naturphilosophische Bedeutung des Übergangs von der klassischen zur modernen Physik”（《从经典物理学向现代物理学过渡的哲学意义》），是格雷特·亨利-赫尔曼对1937年在巴黎举行的第九届国际哲学大会即“笛卡尔大会”的贡献（载于：Travaux du IXe Congrès International de Philosophie ‘Congrès Descartes’，雷蒙·巴耶出版，Paris, VII, 99–101）；文中再次概括了1935年论文的结论。最后，1948年一篇约十页的文章，题为“Die Kausalität in der Physik”（《物理学中的因果性》）（Studium Generale, vol. 1, book 6, pp. 375–383），对格雷特·亨利-赫尔曼此前的工作作了极其清晰的综合。"
+      ]
+    },
+    "ch19-n07": {
+      "number": "7",
+      "en": [
+        "It is this essay that was translated into French in 1996, see note 1."
+      ],
+      "zh": [
+        "1996年被译成法文的正是这篇论文，见注1。"
+      ]
+    },
+    "ch19-n08": {
+      "number": "8",
+      "en": [
+        "See for example M. Schlick, General Theory of Knowledge, Springer, New York, 1974, especially sections 37–40."
+      ],
+      "zh": [
+        "例如参见 M. Schlick, General Theory of Knowledge（《普通认识论》）, Springer, New York, 1974, 尤其第37–40节。"
+      ]
+    },
+    "ch19-n09": {
+      "number": "9",
+      "en": [
+        "See Léna Soler, postface to G. Hermann, Les fondements philosophiques de la mécanique quantique, Vrin, 1996."
+      ],
+      "zh": [
+        "见莱娜·索莱尔为 G. Hermann, Les fondements philosophiques de la mécanique quantique, Vrin, 1996 所作的后记。"
+      ]
+    },
+    "ch19-n10": {
+      "number": "10",
+      "en": [
+        "With a few others, for example: Alexandre Kojève, L’idée du déterminisme dans la physique classique et dans la physique moderne (The Idea of Determinism in Classical and Modern Physics), Paris, Le Livre de Poche (written in 1932, but only published posthumously in 1990); Gaston Bachelard, Le nouvel esprit scientifique, Paris, Presses Universitaires de France, 1934 (published in English as The New Scientific Spirit; Beacon Press, 1986); Ernst Cassirer, ‘Determinismus und Indeterminismus in der modernen Physik’, Göteborgs Högskolas Arssskrift, XLII, 1937, (published in English as ‘Determinism and Indeterminism in Modern Physics’: Historical and Systematic Studies in the Problems of Causality, New Haven, Yale University Press, 1956), etc."
+      ],
+      "zh": [
+        "还有其他几位，例如：亚历山大·科耶夫，L'idée du déterminisme dans la physique classique et dans la physique moderne（《经典物理学与现代物理学中的决定论观念》），Paris, Le Livre de Poche（写于1932年，但直到1990年才身后出版）；加斯东·巴什拉，Le nouvel esprit scientifique（《新科学精神》），Paris, Presses Universitaires de France, 1934（英译本 The New Scientific Spirit; Beacon Press, 1986）；恩斯特·卡西尔，“Determinismus und Indeterminismus in der modernen Physik”，Göteborgs Högskolas Arssskrift, XLII, 1937（英译本 “Determinism and Indeterminism in Modern Physics”: Historical and Systematic Studies in the Problems of Causality, New Haven, Yale University Press, 1956），等等。"
+      ]
+    },
+    "ch19-n11": {
+      "number": "11",
+      "en": [
+        "According to an unpublished interview of von Weizsäcker by T.S. Kuhn, dated 9 July 1963 (for references to this interview, cf. Archives for the History of Quantum Physics, J.L Heilbron and T.S. Kuhn, Sources for the History of Quantum Physics: an Inventory and Report, The American Philosophical Society, Philadelphia, PA, 1967)."
+      ],
+      "zh": [
+        "根据 T.S. 库恩1963年7月9日对冯·魏茨泽克的一次未发表访谈（关于这次访谈的文献，参见 Archives for the History of Quantum Physics, J.L Heilbron and T.S. Kuhn, Sources for the History of Quantum Physics: an Inventory and Report, The American Philosophical Society, Philadelphia, PA, 1967）。"
+      ]
+    },
+    "ch19-n12": {
+      "number": "12",
+      "en": [
+        "To begin with, at least; he seems later to have changed his mind under the influence of Bohr."
+      ],
+      "zh": [
+        "至少起初如此；他后来似乎在玻尔的影响下改变了想法。"
+      ]
+    },
+    "ch19-n13": {
+      "number": "13",
+      "en": [
+        "Werner Heisenberg, Physics and Beyond, London: Allen & Unwin, 1971, 124. Original German published in 1969."
+      ],
+      "zh": [
+        "Werner Heisenberg, Physics and Beyond, London: Allen & Unwin, 1971, 124. 德文原著出版于1969年。"
+      ]
+    },
+    "ch19-n14": {
+      "number": "14",
+      "en": [
+        "C.F von Weizsäcker, review of Grete Henry-Hermann, ‘Die naturphilosophischen Grundlagen der Quantenmechanik’, Physikalische Zeitschrift, 37, 14, 1936, 527–528."
+      ],
+      "zh": [
+        "C.F. von Weizsäcker 对 Grete Henry-Hermann “Die naturphilosophischen Grundlagen der Quantenmechanik” 的书评，Physikalische Zeitschrift, 37, 14, 1936, 527–528。"
+      ]
+    },
+    "ch19-n15": {
+      "number": "15",
+      "en": [
+        "C.F. von Weizsäcker, The World View of Physics, London: Routledge and Kegan Paul, 1952."
+      ],
+      "zh": [
+        "C.F. von Weizsäcker, The World View of Physics, London: Routledge and Kegan Paul, 1952."
+      ]
+    },
+    "ch19-n16": {
+      "number": "16",
+      "en": [
+        "In the 1963 unpublished interview of von Weizsäcker by T.S. Kuhn mentioned above in note 11, von Weizsäcker, addressing the question of the relationship between physics and philosophy, emphasised that around 1933–1934 the Leipzig group formed a unified bloc defending the new ideas associated with physics against attacks by philosophers. He then went on spontaneously to speak of Grete Henry-Hermann, emphasising above all, in the brief account he gave of her, her twofold training in mathematics and philosophy. Von Weizsäcker referred to her as an extremely intelligent person and remarked that her great clarity of mind made discussion with her easy. He added that Grete Henry-Hermann was probably right in maintaining that Kantian philosophy, correctly interpreted, was in no way placed in difficulty by modern physics, itself correctly interpreted. Then he alluded to Hermann’s manuscript dealing with causality in quantum physics."
+      ],
+      "zh": [
+        "在注11提到的1963年 T.S. 库恩对冯·魏茨泽克的未发表访谈中，冯·魏茨泽克谈到物理学与哲学的关系问题时强调，1933–1934年前后，莱比锡小组形成了一个统一的阵营，捍卫与物理学相关的新观念，抵御哲学家们的攻击。随后他自发地谈到格雷特·亨利-赫尔曼，在对她的简短描述中，尤其强调她在数学和哲学方面的双重训练。冯·魏茨泽克称她是一个极其聪明的人，并说她头脑的极大清晰使与她的讨论变得容易。他补充说，格雷特·亨利-赫尔曼主张正确解释的康德哲学绝不会因正确解释的现代物理学而陷入困境，这很可能是对的。然后他提到赫尔曼论量子物理学中因果性的手稿。"
+      ]
+    },
+    "ch19-n17": {
+      "number": "17",
+      "en": [
+        "Max Jammer seems to be the first (and as far as I know the only one) to notice this point. Cf. The Philosophy of Quantum Mechanics, A Wiley-Interscience Publication, 1974, p. 272."
+      ],
+      "zh": [
+        "马克斯·雅默似乎是第一个（而且据我所知是唯一一个）注意到这一点的人。参见 The Philosophy of Quantum Mechanics（《量子力学的哲学》）, A Wiley-Interscience Publication, 1974, p. 272."
+      ]
+    },
+    "ch19-n18": {
+      "number": "18",
+      "en": [
+        "J.S. Bell, ‘On the problem of hidden variables in quantum mechanics’, Review of Modern Physics, 38, 447–452, 1966."
+      ],
+      "zh": [
+        "J.S. Bell, 'On the problem of hidden variables in quantum mechanics', Review of Modern Physics, 38, 447–452, 1966."
+      ]
+    },
+    "ch19-n19": {
+      "number": "19",
+      "en": [
+        "‘Die naturphilosophischen Grundlagen der Quantenmechanik’ (‘The Philosophic Foundations of Quantum Mechanics’), 1935, section 7."
+      ],
+      "zh": [
+        "'Die naturphilosophischen Grundlagen der Quantenmechanik'（《量子力学的哲学基础》），1935，第7节。"
+      ]
+    },
+    "ch19-n20": {
+      "number": "20",
+      "en": [
+        "J.S. Bell, Speakable and Unspeakable in Quantum Mechanics, Cambridge University Press, Cambridge, 1987, p. 4."
+      ],
+      "zh": [
+        "J.S. Bell, Speakable and Unspeakable in Quantum Mechanics, Cambridge University Press, Cambridge, 1987, p. 4."
+      ]
+    },
+    "ch19-n21": {
+      "number": "21",
+      "en": [
+        "Hermann, ibid., section 10."
+      ],
+      "zh": [
+        "Hermann, ibid., section 10."
+      ]
+    },
+    "ch19-n22": {
+      "number": "22",
+      "en": [
+        "Bell, ibid., 4."
+      ],
+      "zh": [
+        "Bell, ibid., 4."
+      ]
+    },
+    "ch19-n23": {
+      "number": "23",
+      "en": [
+        "Even the habits underlying the theoretical practices of physicists, including judgments of simplicity, could perhaps have been substantially transformed (and this is important, since the main argument, today, against the main available theory of hidden variables in quantum physics, namely the Bohmian interpretation of quantum physics, is its alleged lack of simplicity: it is said to be less simple than the standard interpretation of quantum mechanics. I develop this point, in relation to the question of the contingency of our history of science, in Philosophie de la physique: dialogue à plusieurs voix autour de controverses contemporaines et classiques, entre Michel Bitbol, Bernard d’Espagnat, Pascal Engel, Paul Gochet, Léna Soler et Hervé Zwirn, Léna Soler (ed.), L’Harmattan, collection ‘Epistémologie et philosophie des sciences’, 2006. See also James T. Cushing, Quantum Mechanics. Historical Contingency and the Copenhagen Interpretation, The University of Chicago Press, Chicago and London, 1994."
+      ],
+      "zh": [
+        "就连物理学家理论实践背后的习惯，包括简单性判断，也许都会发生实质性的转变（这一点很重要，因为今天反对量子物理学中主要现有隐变量理论——即量子物理学的玻姆解释——的主要论据，就是它所谓的缺乏简单性：据说它不如量子力学的标准解释简单。我在 Philosophie de la physique: dialogue à plusieurs voix autour de controverses contemporaines et classiques（《物理学哲学：围绕当代与经典争论的多声部对话》）一书中，结合我们科学史之偶然性问题展开了这一点；该书作者为 Michel Bitbol, Bernard d'Espagnat, Pascal Engel, Paul Gochet, Léna Soler et Hervé Zwirn，莱娜·索莱尔编，L'Harmattan，“Epistémologie et philosophie des sciences”丛书，2006。另见 James T. Cushing, Quantum Mechanics. Historical Contingency and the Copenhagen Interpretation（《量子力学：历史偶然性与哥本哈根解释》）, The University of Chicago Press, Chicago and London, 1994。"
+      ]
+    },
+    "ch19-n24": {
+      "number": "24",
+      "en": [
+        "See L. Soler, introduction and postface to G. Hermann, Les fondements philosophiques de la mécanique quantique, Vrin, 1996."
+      ],
+      "zh": [
+        "见 L. Soler 为 G. Hermann, Les fondements philosophiques de la mécanique quantique, Vrin, 1996 所作的导言与后记。"
+      ]
+    },
+    "ch19-n25": {
+      "number": "25",
+      "en": [
+        "Hermann, op. cit., section 17."
+      ],
+      "zh": [
+        "Hermann, op. cit., section 17."
+      ]
+    },
+    "ch19-n26": {
+      "number": "26",
+      "en": [
+        "Of course, to conclude from this that the Kantian categories continue to constitute the conditions of possibility of quantum physics, it would also be necessary to have demonstrated that the entire edifice of classical physics does actually rest on such categories. According to Grete HenryHermann, such a demonstration remains to be produced and goes outside the framework of her own essay. Kant apparently believed he had provided such a proof, at least with regard to the physics of his time. In The Metaphysical Foundations of the Science of Nature, 1786 (published as Metaphysical Foundations of Natural Science, London, Bobbs Merill, 1970) he sets out to demonstrate that the twelve categories listed in the Critique of Pure Reason do indeed constitute the necessary conditions of the possibility of physics. The demonstration, when examined, appears to posit, as the foundation of physics, laws which are essentially similar to the fundamental principles of Newtonian physics (conservation of matter, principle of inertia and law of action and reaction). Now, a modern epistemology could hardly have recourse to such a demonstration to prove that the Kantian categories continue to constitute the conditions of the possibility of post-Kantian physics, and this already holds for post-Kantian classical physics (for example electromagnetism)."
+      ],
+      "zh": [
+        "当然，要从这一点得出康德范畴仍然构成量子物理学之可能性条件的结论，还必须已经证明经典物理学的整个大厦确实基于这些范畴。按格雷特·亨利-赫尔曼的看法，这样的证明尚待作出，且超出了她本人论文的框架。康德显然相信自己已经提供了这样的证明，至少就他那个时代的物理学而言。在1786年的《自然科学的形而上学初始根据》（The Metaphysical Foundations of the Science of Nature；以 Metaphysical Foundations of Natural Science 之名出版，London, Bobbs Merill, 1970）中，他着手证明《纯粹理性批判》所列的十二个范畴确实构成物理学之可能性的必要条件。考察起来，这个证明似乎把本质上类似于牛顿物理学基本原理的规律（物质守恒、惯性原理与作用反作用定律）设定为物理学的基础。然而，现代认识论很难求助于这样的证明来表明康德范畴仍然构成后康德物理学的可能性条件，而且这一点对于后康德的经典物理学（例如电磁学）就已经成立了。"
+      ]
+    },
+    "ch19-n27": {
+      "number": "27",
+      "en": [
+        "Hermann, op. cit., section 17."
+      ],
+      "zh": [
+        "Hermann, op. cit., section 17."
+      ]
+    },
+    "ch19-n28": {
+      "number": "28",
+      "en": [
+        "Ibid., section 18. Quotation translated from the original German by Professor Fernando Leal."
+      ],
+      "zh": [
+        "同前引书，第18节。引文由费尔南多·莱亚尔教授自德文原文译出。"
+      ]
+    },
+    "ch19-n29": {
+      "number": "29",
+      "en": [
+        "Ibid, section 18."
+      ],
+      "zh": [
+        "Ibid, section 18."
+      ]
+    },
+    "ch19-n30": {
+      "number": "30",
+      "en": [
+        "Ibid., section 17."
+      ],
+      "zh": [
+        "Ibid., section 17."
+      ]
+    },
+    "ch19-n31": {
+      "number": "31",
+      "en": [
+        "Ibid., section 18. Quotation translated from the original German by Professor Fernando Leal."
+      ],
+      "zh": [
+        "同前引书，第18节。引文由费尔南多·莱亚尔教授自德文原文译出。"
+      ]
+    }
+  }
+}

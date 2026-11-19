@@ -1,0 +1,1704 @@
+{
+  "id": "ch03",
+  "title": "恩斯特·卡西尔：以功能性先天与象征结构化实现的开放构成",
+  "originalTitle": "Ernst Cassirer: Open Constitution by Functional A Priori and Symbolical Structuring",
+  "outline": [
+    {
+      "anchor": "ch03-u003",
+      "title": "1 第二次哥白尼式转向：超越表象主义的构成",
+      "originalTitle": "1 A Second Copernican Turn: Constitution Beyond Representationalism",
+      "level": 1
+    },
+    {
+      "anchor": "ch03-u014",
+      "title": "2 作为象征构形的物理学：超越基础主义的客观性",
+      "originalTitle": "2 Physics as a Symbolic Formation: Objectivity Beyond Foundationalism",
+      "level": 1
+    },
+    {
+      "anchor": "ch03-u030",
+      "title": "3 解释现代物理学：超越过渡形态的先验功能",
+      "originalTitle": "3 Interpreting Modern Physics: Transcendental Functions Beyond Transitory Forms",
+      "level": 1
+    },
+    {
+      "anchor": "ch03-u043",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch03-u001",
+      "source_ids": [
+        "ch03-u001"
+      ],
+      "page": "75",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch03-u002",
+      "source_ids": [
+        "ch03-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Christiane Schmitz-Rigal"
+      ],
+      "zh": [
+        "克里斯蒂安娜·施密茨—里加尔"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch03-u004",
+      "source_ids": [
+        "ch03-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract This article aims at presenting 1. The innovations of Ernst Cassirer’s open epistemological model, transforming the concept of ‘constituting objectivity’ by founding it on the dynamical ‘constitution of meaning’ 2. The entailed conception of physics’ objectivation as a process of ‘symbolic formation’, studying its transcendental functions and their roles for the major tasks of creative constitution and pragmatic justification of knowledge 3. The clarifying and convincing solutions this view offers for the interpretation of relativity theory and quantum mechanics",
+        {
+          "type": "note",
+          "id": "ch03-n01",
+          "label": "1"
+        },
+        " It leads to the conclusion that the transcendental method might be the best way to fulfil the realist’s claim."
+      ],
+      "zh": [
+        "摘要 本文旨在呈现：1. 恩斯特·卡西尔开放认识论模型的创新之处——他把“构成客观性”概念奠基于动态的“意义构成”之上，从而改造了这一概念；2. 由此得出的把物理学的客观化视为“象征构形”过程的构想，研究其先验功能及其在知识的创造性构成与实用证成这两大任务中的作用；3. 这一观点为相对论与量子力学的解释所提供的澄清性且令人信服的解决方案",
+        {
+          "type": "note",
+          "id": "ch03-n01",
+          "label": "1"
+        },
+        "。本文得出结论：先验方法或许是满足实在论者诉求的最佳途径。"
+      ],
+      "units": 99
+    },
+    {
+      "id": "ch03-u003",
+      "source_ids": [
+        "ch03-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 A Second Copernican Turn: Constitution Beyond Representationalism"
+      ],
+      "zh": [
+        "1 第二次哥白尼式转向：超越表象主义的构成"
+      ],
+      "type": "subheading",
+      "units": 8
+    },
+    {
+      "id": "ch03-u005",
+      "source_ids": [
+        "ch03-u005"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "C. Schmitz-Rigal Free researcher, CREA, Paris"
+      ],
+      "zh": [
+        "C. Schmitz-Rigal Free researcher, CREA, Paris"
+      ],
+      "shared": true,
+      "units": 6
+    },
+    {
+      "id": "ch03-u008",
+      "source_ids": [
+        "ch03-u008"
+      ],
+      "page": "76",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Ernst Cassirer’s oeuvre can be seen as a unique, radical and most fertile continuation of the original ideas of transcendentalism. It overcomes the historical forms of the Kantian as well as the Neokantian schemes, even if it is greatly indebted to them and remains entirely truthful to their founding philosophical orientation. The comprehension of physics, especially of relativity theory and quantum mechanics – the challenging contemporary theories of his time – has played a decisive role in the development of his conception. Cassirer has discussed his epistemological views directly with Einstein and Bohr, and it is astounding to see that in the midst of the intellectual uproar caused by their innovations, he was one of the rare thinkers able to receive and to appreciate their revolutionary changes with open arms as a clear confirmation of his own analysis of science and its evolution. He even claimed “that his fundamental outlook could be formulated more precisely and corroborated more successfully than before thanks to the development in modern physics”",
+        {
+          "type": "note",
+          "id": "ch03-n02",
+          "label": "2"
+        },
+        ": a tendency and claim which can be still further substantiated by the latest developments.",
+        {
+          "type": "note",
+          "id": "ch03-n03",
+          "label": "3"
+        },
+        " This remarkable fact deserves attention and confers great credibility to Cassirer’s philosophical position and its explanatory power."
+      ],
+      "zh": [
+        "恩斯特·卡西尔的全部著作可以被看作对先验论原初观念的一种独特、彻底且最富成果的延续。它超越了康德式以及新康德式图式的历史形态，尽管它深受这些图式的惠泽，并始终完全忠实于它们奠基性的哲学取向。对物理学——尤其是相对论与量子力学这些他那个时代充满挑战的当代理论——的理解，在其构想的形成中起了决定性作用。卡西尔曾直接与爱因斯坦和玻尔讨论他的认识论观点；令人惊叹的是，在这些创新引发的思想喧嚣之中，他是极少数能够张开双臂迎接并赏识这些革命性变化的思想家之一，把它们视为对自己关于科学及其演化的分析的明确印证。他甚至声称，“得益于现代物理学的发展，他的基本观点能够比以往表述得更精确、论证得更成功”",
+        {
+          "type": "note",
+          "id": "ch03-n02",
+          "label": "2"
+        },
+        "：这一倾向和主张还可以由最新的发展进一步证实。",
+        {
+          "type": "note",
+          "id": "ch03-n03",
+          "label": "3"
+        },
+        "这一非凡事实值得关注，它赋予卡西尔的哲学立场及其解释力以极大的可信度。"
+      ],
+      "units": 197
+    },
+    {
+      "id": "ch03-u009",
+      "source_ids": [
+        "ch03-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In Cassirer’s view relativity theory and quantum mechanics had touched upon the defining limits of physics as a specific form of objectivation and it was precisely this discovery of their own epistemic preconditions that caused much incomprehension if not refusal – which to some extent lasts until today. It could be held that modern physics had thus reached the stage of ‘transcendental reflection’ by itself, and – as history shows – this crucial change in its auto-appreciation provoked a profound crisis, for it shattered the convictions inherent in the still dominant, representational view of knowledge. Some of its protagonists – like Bohr, Schrödinger or Pauli – fully grasped this epistemological dimension and it is revealing to see how Bohr succeeded in countering all of Einstein’s obstinate efforts to refute quantum mechanics only by elucidating the hidden, highly questionable, often ontological assumptions behind his arguments. “I therefore tried […] to explain [to Einstein] that the only question was an endeavour to clarify the conditions, in each field of knowledge, for the analysis and synthesis of experience”.",
+        {
+          "type": "note",
+          "id": "ch03-n04",
+          "label": "4"
+        },
+        " In Cassirer’s analysis it was to be expected that physics would have to face the task of acknowledging the role played by the conditions of its own possibility as a science and that it had to integrate them explicitly into its reasoning and research."
+      ],
+      "zh": [
+        "在卡西尔看来，相对论与量子力学已经触及物理学作为一种特定客观化形式的界定性界限，而正是对自身认识论前提的这一发现，引起了诸多不解乃至拒斥——这种情形在某种程度上一直延续到今天。可以说，现代物理学由此自行达到了“先验反思”的阶段，而正如历史所表明的，其自我理解中的这一关键转变引发了一场深刻危机，因为它粉碎了仍占主导地位的表象主义知识观所固有的信念。其中一些主角——如玻尔、薛定谔或泡利——充分把握了这一认识论维度；颇具启示意义的是，玻尔之所以能挫败爱因斯坦一再固执地试图反驳量子力学的全部努力，靠的仅仅是阐明其论证背后隐藏的、大可质疑的、往往是本体论的预设。“因此我试图……向〔爱因斯坦〕说明，唯一的问题在于努力澄清每一知识领域中经验之分析与综合的条件。”",
+        {
+          "type": "note",
+          "id": "ch03-n04",
+          "label": "4"
+        },
+        " 按照卡西尔的分析，可以预期物理学将不得不面对这样的任务：承认其自身作为科学的可能性条件所起的作用，并把这些条件明确纳入它的推理与研究之中。"
+      ],
+      "units": 213
+    },
+    {
+      "id": "ch03-u010",
+      "source_ids": [
+        "ch03-u010"
+      ],
+      "page": "77",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Already his early work on the foundations of science – ”Concept of substance and concept of function”",
+        {
+          "type": "note",
+          "id": "ch03-n05",
+          "label": "5"
+        },
+        " – studies science’s inherent tendency to rediscover the open transcendental function – as stability, definiteness or unity – lying behind each of the fixed historical forms – i.e. particular notions of basic ‘entities’, categories or principles – that temporarily succeed in fulfilling them. As long as their use remains unproblematic these forms naturally assume a ‘substantial’, realistic appearance and obscure the open tasks to which they are the momentaneous answer. This is not prejudicial in itself and can help to motivate the research efforts, but it becomes a powerful obstacle, if their transitory status as a ‘working hypothesis’ is entirely forgotten. For the blind belief in them then creates strong resistance to the very change, in which progress inevitably consist and which is necessary to adapt and to assure the fulfilment of these fundamental functions in the constantly evolving context of new evidence. For Cassirer this was exactly what happened regarding relativity theory and quantum mechanics: both theories caused considerable confusion, because they put into question central concepts of classical physics, which seemed to be beyond doubt, as ‘time and space’, and worse even, ‘object’, ‘causality’ and ‘predetermination’. Thus they dared to abandon the classical invariants, which had long served as firm reference points for the system of physics. The resulting destabilisation and disorientation was aggravated by the fact that the new foundations they introduced did not fulfil the needs of immediate perception and diverged from the intuitive world view, safely inscribed into our languages, both of which – according to Cassirer – habitually play the role of the reassuring “mother soil”",
+        {
+          "type": "note",
+          "id": "ch03-n06",
+          "label": "6"
+        },
+        " from which our common understanding grows. In Cassirer’s position these difficulties are a direct consequence of questionable representational and foundationalist expectations, and they can be solved by differentiating and disentangling the conflicting claims between perception, language and physics through a deeper epistemological analysis of their origin."
+      ],
+      "zh": [
+        "他早期关于科学基础的著作——《实体概念与函数概念》",
+        {
+          "type": "note",
+          "id": "ch03-n05",
+          "label": "5"
+        },
+        "——就已经研究了科学的一种内在倾向：在每一个暂时成功履行其职能的固定历史形态——即关于基本“实体”、范畴或原理的特定观念——背后，重新发现那开放的先验功能，如稳定性、确定性或统一性。只要这些形态的使用尚不成问题，它们自然就会呈现一种“实体性的”、实在论的外观，并遮蔽那些仍待探索的任务，而这些形态原本只是对它们的临时解答。这本身并无害处，还可以有助于激发研究努力；但如果它们作为“工作假设”的过渡性地位被完全遗忘，这就会成为强大的障碍。因为对它们的盲目信念会强烈抵制那种变化本身，而进步恰恰必然在于这种变化，并且唯有通过这种变化，才能在不断演化的新证据语境中调适并确保这些基本功能的履行。对卡西尔来说，相对论与量子力学的情形正是如此：这两个理论引起了相当大的混乱，因为它们质疑了经典物理学中似乎不容置疑的核心概念，如“时间与空间”，更有甚者，还有“对象”“因果性”和“预先决定”。它们就这样敢于抛弃长期充当物理学体系稳固参照点的经典不变量。由此造成的动摇与迷失又因下述事实而加剧：它们引入的新基础既不满足直接知觉的需要，也偏离了稳妥地铭刻在我们语言之中的直观世界图景，而这两者——按卡西尔的说法——习惯上扮演着令人安心的“母土”",
+        {
+          "type": "note",
+          "id": "ch03-n06",
+          "label": "6"
+        },
+        "的角色，我们的日常理解从中生长。在卡西尔看来，这些困难是可质疑的表象主义与基础主义期待的直接后果，可以通过对知觉、语言与物理学之起源的更深入的认识论分析，区分并解开它们之间相互冲突的诉求，从而得到解决。"
+      ],
+      "units": 318
+    },
+    {
+      "id": "ch03-u011",
+      "source_ids": [
+        "ch03-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Cassirer’s main epistemological motivation is to grasp, how such a historic process and progress of knowledge is possible, that is, how our knowledge can be inherently changing and contingent on all levels, without loosing its claim of veracity. It seems as insufficient to him to simply separate ‘temporal’ and ‘atemporal’ elements – as the idealist–rationalist version attempts – as it is to merge the two poles of ‘transitoriness and truth’ – so the empiricist–realist tendency – thus dissolving their fruitful tension. He tries to construe a third, intermediate position in which he can fully meet this major epistemological challenge by maintaining their opposition yet explaining, why ‘temporality’ and ‘truth’ are not only compatible, but why they even mutually demand and depend on each other."
+      ],
+      "zh": [
+        "卡西尔主要的认识论动机是把握：知识这样一种历史性的过程与进步如何可能，也就是说，我们的知识如何能在各个层面都随情势变化，具有内在的变动性和偶然性，同时仍能主张为真。在他看来，简单地把“时间性的”与“非时间性的”要素分开——如观念论—理性论版本所尝试的——是不够的，同样，把“短暂性与真理”这两极合并——如经验论—实在论倾向所做的——从而消解它们之间富有成果的张力，也是不够的。他试图构造一个第三种中间立场，在其中他既能保持两者的对立，又能说明为什么“时间性”与“真理”不仅相容，而且甚至相互要求、相互依赖，从而充分应对这一重大的认识论挑战。"
+      ],
+      "units": 122
+    },
+    {
+      "id": "ch03-u012",
+      "source_ids": [
+        "ch03-u012"
+      ],
+      "page": "78",
+      "canonical_kind": "paragraph",
+      "en": [
+        "He finds the key to a solution in a consequent continuation of Kant’s critical effort, reapplying the transcendental search for preconditions onto those elements in the work of their own proponents which still keep a ‘given’, isolated character and carry the traces of the very epistemological dualism and metaphysics they tried to overcome. Fully acknowledging the inexhaustible dimension of temporally open, contingent experience, Cassirer does no longer try to find ‘final’ answers to the perpetually open “problem of knowledge”,",
+        {
+          "type": "note",
+          "id": "ch03-n07",
+          "label": "7"
+        },
+        " but centers on the concrete question how the ‘order’ arises in which our knowledge actually consists. Therein pursuing reflexions from Kant’s ‘Critique of Judgement’ and integrating numerous other philosophical influences – especially Leibnizean, Pragmatist",
+        {
+          "type": "note",
+          "id": "ch03-n08",
+          "label": "8"
+        },
+        " and ‘Gestaltist’ – Cassirer arrives at a thoroughly dynamised view of knowledge which eliminates pretendedly atemporal and absolute components by understanding all formerly fixed conceptual elements – as the form-matter scheme, the categories, judgements and principles of the Kantian a priori – as results of an open process of structuring and organization. Cassirer strives to reveal its functions and presuppositions, its open tasks, thus presenting knowledge almost like an ‘operator’, able to yield different solutions depending on the initial conditions. Thanks to this performative, purely functional and operational perspective he is not only capable to trace back every claim of ‘objectivity’ to its concrete process of objectivation, but he completes the Kantian analysis by revealing the constitutive conditions of the means of constitution themselves. He thus performs a kind of ‘second Copernican turn’ and brings into sight a fundamental aspect of constituting objectivity which has not been discussed by his predecessors: the constitution of meaning. Cassirer claims that “we must conceive the problem of knowledge and the problem of truth as particular cases of the more general problem of meaning”.",
+        {
+          "type": "note",
+          "id": "ch03-n09",
+          "label": "9"
+        },
+        " This crucial turn leads to an innovative, open, inherently plural and holistic model of knowledge which offers maximal adaptability of all of its components – the fundament included – as well as sound safeguards against arbitrariness. And it proposes nothing less than a reconciliation of the traditional dichotomy between idealistic– rationalistic and realist or empirical paradigms."
+      ],
+      "zh": [
+        "他在对康德批判事业的彻底延续中找到了解决的关键：把对前提条件的先验探求重新应用于其倡导者自己的著作中那些仍保持“被给予的”、孤立性质的要素，这些要素带有他们试图克服的认识论二元论与形而上学的痕迹。卡西尔充分承认时间上开放的、偶然的经验那不可穷尽的维度，不再试图为永远开放的“认识问题”",
+        {
+          "type": "note",
+          "id": "ch03-n07",
+          "label": "7"
+        },
+        "寻找“最终的”答案，而是聚焦于一个具体问题：实际构成我们知识的那种“秩序”是如何产生的。在此过程中，他承接康德《判断力批判》中的反思，并整合众多其他哲学影响——尤其是莱布尼茨式的、实用主义的",
+        {
+          "type": "note",
+          "id": "ch03-n08",
+          "label": "8"
+        },
+        "和“格式塔主义的”——达到了一种彻底动态化的知识观：把一切从前固定的概念要素——如形式—质料图式、康德式先天的范畴、判断与原理——都理解为一个开放的结构化与组织化过程的结果，从而消除那些被假定为非时间性的、绝对的成分。卡西尔力图揭示这一过程的功能与预设、它的开放任务，从而把知识呈现得几乎像一个“算子”，能够依初始条件不同而给出不同的解。得益于这种施行性的、纯功能性与操作性的视角，他不仅能把每一“客观性”诉求追溯到其具体的客观化过程，而且通过揭示构成手段本身的构成性条件，完成了康德式的分析。他由此实施了一种“第二次哥白尼式转向”，使构成客观性的一个未被其前辈讨论过的根本方面进入视野：意义的构成。卡西尔主张，“我们必须把认识问题和真理问题理解为更一般的意义问题的特例”",
+        {
+          "type": "note",
+          "id": "ch03-n09",
+          "label": "9"
+        },
+        "。这一关键转向导向一个创新的、开放的、内在地多元且整体论的知识模型，它使其一切成分——包括基础在内——都具有最大的可适应性，同时又提供防止任意性的可靠保障。它提出的不外乎是观念论—理性论范式与实在论或经验论范式之间传统二分的一种和解。"
+      ],
+      "units": 343
+    },
+    {
+      "id": "ch03-u013",
+      "source_ids": [
+        "ch03-u013"
+      ],
+      "page": "79",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is essential to grasp that it is not the recognition of the semiotic dimension in itself that leads to a solution for the epistemological problems of dualism. For as long as symbols are still looked upon as ‘representations of pre-existing predetermined things’ the problematic dualist pattern is simply reproduced on this level, offering no intellectual progress whatsoever. What Cassirer proposes is not a semiotic, but a Copernican turn, because it implies an inversion of the seeming epistemological priorities. His rigorous analysis reveals that it is impossible to justify a ‘symbol’ by referring to the designated, allegedly independent pre-existing ‘entity’ and a bijective relation of ‘cause’ and ‘effect’. But inversely it is in fact the elementary possibility of ‘symbolic reference’ without which we would not be able to refer to ‘some-thing’ as ‘this definite object’ at all. In the same way as Kant solved the inconsistencies of the dogmatic approaches by renouncing direct ontological hopes and founding knowledge humbly on what is truly ours, Cassirer reiterates and completes this critical movement for the means of constitution themselves. We cannot explain ‘symbolic reference’ with reference to other phenomena, we cannot go beyond or behind it, because it is the necessary condition which enables us in the first place to address something as a phenomenon at all. It is what we have to start with. That is why for Cassirer this transcendental condition is a “primary phenomenon” or “primary function”,",
+        {
+          "type": "note",
+          "id": "ch03-n10",
+          "label": "10"
+        },
+        " equivalent to our primary experience of consciousness and phenomenality itself. All ‘consciousness’ is as such ‘symbolic’, in the fundamental sense that it is ‘consciousness of’, ‘of someone’ and ‘of something’; indeed it only is consciousness, insofar as it is this relation, a unity of inseparable, yet clearly distinct poles, the bipolar relation of reference which the symbol is. It is precisely because of this rare and unique structural quality to be as such a unity of unity and difference, an inherently plural, yet inseparable unity, that Cassirer uses his key-term ‘symbol’ as an incorruptible alternative to the omnipresent, Aristotelian ‘form-matter’-scheme and its intrinsic dualism. Even if Bohr, Schrödinger and other ingenious interpreters of quantum mechanics already discovered the level of constitution and meaning and thereby discussed the limits of the predominant ontology and language, they are still standing on its ground and remain its prisoners, because they were lacking a working epistemological alternative to representationalism, able to reveal the liberating dimension of the constitution of meaning. ‘Meaning’ is not ‘given’ by a ‘pre-existing thing’; ‘meaning’ is what enables us to focus and fix reference and to relate to ‘something’ as a ‘thing’. When a full comprehension of this constitutive role of our symbols is reached, the object-intention appears as an integral part of the bipolar structure of reference itself, enabling us to construe productive anticipations of order, which can then be tested and confirmed – or rejected – pragmatically."
+      ],
+      "zh": [
+        "必须把握的是，并不是对符号学维度本身的承认就能为二元论的认识论难题带来解决。因为只要符号仍被看作“对预先存在的、被预先规定的事物的表象”，成问题的二元论模式就只不过在这一层面被复制，丝毫不带来思想上的进步。卡西尔提出的不是一次符号学转向，而是一次哥白尼式转向，因为它意味着对表面上的认识论优先次序的颠倒。他的严格分析揭示：不可能通过诉诸被指称的、据称独立且预先存在的“实体”以及“原因”与“结果”的双射关系来证成一个“符号”。反过来，事实上正是“象征指称”这一基本可能性，才使我们根本上能够把“某物”指称为“这个确定的对象”。正如康德通过放弃直接的本体论期望、谦逊地把知识奠基于真正属于我们的东西之上，解决了独断论进路的不一致，卡西尔对构成手段本身重演并完成了这一批判运动。我们不能借助其他现象来解释“象征指称”，不能越到它背后或超出它之外，因为它正是使我们根本上能够把某物作为一个现象来谈论的必要条件。它是我们必须由以出发的东西。正因如此，对卡西尔来说，这一先验条件是一个“原初现象”或“原初功能”",
+        {
+          "type": "note",
+          "id": "ch03-n10",
+          "label": "10"
+        },
+        "，等同于我们对意识与现象性本身的原初经验。一切“意识”作为意识都是“象征性的”，其根本含义在于：它是“对……的意识”，是“某人的”且“对某物的”意识；的确，它之所以是意识，仅就它是这种关系而言——不可分离却又清晰有别的两极的统一，即符号所是的那种双极指称关系。恰恰因为这种罕见而独特的结构性质——作为统一与差异的统一，一种内在地多元却又不可分离的统一——卡西尔才把他的关键术语“符号”用作对无处不在的亚里士多德式“形式—质料”图式及其内在二元论的一个不受这种二元论牵制的替代概念。即便玻尔、薛定谔和其他量子力学的天才解释者已经发现了构成与意义的层面，并由此讨论了占主导地位的本体论与语言的界限，他们仍然站在其地基上、仍然是它的囚徒，因为他们缺少一个可行的、替代表象主义的认识论方案，能够揭示意义构成的解放性维度。“意义”不是由“预先存在的事物”“给予”的；“意义”是使我们能够聚焦并固定指称、把“某物”作为“事物”来关联的东西。一旦充分理解了我们符号的这种构成性作用，对象意向就显现为指称的双极结构本身的内在部分，使我们能够构造对秩序的生产性预期，这些预期随后可以在实用上被检验和确证——或被否证。"
+      ],
+      "units": 475
+    },
+    {
+      "id": "ch03-u014",
+      "source_ids": [
+        "ch03-u014"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 Physics as a Symbolic Formation: Objectivity Beyond Foundationalism"
+      ],
+      "zh": [
+        "2 作为象征构形的物理学：超越基础主义的客观性"
+      ],
+      "type": "subheading",
+      "units": 9
+    },
+    {
+      "id": "ch03-u015",
+      "source_ids": [
+        "ch03-u015"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "What then – according to Cassirer who proposes such an alternative to representationalism – are the open tasks and constitutive functions that need to be fulfilled in order to make the objectivation of physics possible?"
+      ],
+      "zh": [
+        "那么，按照提出这一取代表象主义方案的卡西尔，要使物理学的客观化成为可能，需要履行哪些开放任务和构成性功能呢？"
+      ],
+      "units": 33
+    },
+    {
+      "id": "ch03-u016",
+      "source_ids": [
+        "ch03-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. Differing from classical epistemologies, Cassirer asserts that an objectivationprocess cannot even begin before a particular aim has been delimited, which defines its direction, provides its driving force and serves as a criterion for its success. So the first open task consists in some sort of symmetry-breaking, in which one aspect, one determinate respect has to be singled out, which is already a product of a first particular constitution of meaning. For Cassirer it is self-contradictory to strive for ‘unconditioned’, ‘absolute’ knowledge, for partiality and interrelatedness describe the very nature of determinateness. In his analysis knowledge is on the contrary on all of its levels a matter of concrete interest, precise determination and engaged choice. It therefore appears as a lack of depth and understanding to imagine physics as ‘a true image of the world in itself’ as the traditional model of correspondence suggests. Instead Cassirer refers to a physicist himself, Henri Poincaré, to specify physics’ particular aim of objectivation: “‘Jean sans terre’ has passed through here: there you have something which is admirable, something for which I would give all theories of the world. That is the way the historian speaks. The physicist would rather say: ‘Jean sans terre’ has passed through here, well, what do I care, for he will not pass again.”",
+        {
+          "type": "note",
+          "id": "ch03-n11",
+          "label": "11"
+        },
+        " Poincaré thus clearly expresses that the physicist is not interested in the unique, individual and unrepeatable aspect of events – even if it is perfectly, even enviably, objectifiable too. On the contrary it restricts its investigation to the repeatability, the regularity and lawfulness of observable physical events – a view of the epistemic range of physics equally shared by Pauli.",
+        {
+          "type": "note",
+          "id": "ch03-n12",
+          "label": "12"
+        }
+      ],
+      "zh": [
+        "1. 与经典认识论不同，卡西尔断言：在一个特定目标被界定之前，客观化过程甚至无法开始；这个目标规定其方向、提供其驱动力，并充当其成功的判准。因此第一个开放任务在于某种对称性破缺：必须单独选出一个方面、一个确定的视角，而这已经是一次特定的意义构成的产物。对卡西尔来说，追求“无条件的”“绝对的”知识是自相矛盾的，因为局部性与相互关联性恰恰是规定性的本质。在他的分析中，知识相反在其一切层面上都是具体旨趣、精确规定和投入性选择的事情。因此，像传统符合论模型所暗示的那样，把物理学想象为“世界自身的一幅真实图像”，显得缺乏深度与理解。卡西尔转而援引一位物理学家本人——亨利·彭加勒——来界定物理学客观化的特定目标：“‘无地王约翰’曾从这里经过：这才是令人赞叹的东西，是我愿意拿世界上全部理论去交换的东西。历史学家是这样说话的。物理学家则宁可说：‘无地王约翰’曾从这里经过，那又与我何干，因为他不会再从这里经过了。”",
+        {
+          "type": "note",
+          "id": "ch03-n11",
+          "label": "11"
+        },
+        " 彭加勒由此清楚地表明：物理学家对事件那独一无二的、个体的、不可重复的方面不感兴趣——即便这个方面同样可以完美地、甚至令人羡慕地被客观化。相反，物理学把它的研究限定于可观察物理事件的可重复性、规则性与规律性——泡利同样持有这种关于物理学认识范围的看法。",
+        {
+          "type": "note",
+          "id": "ch03-n12",
+          "label": "12"
+        }
+      ],
+      "units": 273
+    },
+    {
+      "id": "ch03-u017",
+      "source_ids": [
+        "ch03-u017"
+      ],
+      "page": "80",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Since this initial choice of an aim allows for various diverging directions, it follows that objectivation can take place in a diversity of ways and has actually done so historically. This introduces another significant difference to the representational conception of knowledge. With every different orientation is born what Cassirer calls a ‘Symbolic form’ which is in fact an open ongoing objectifying organization. Science – along with language, history, art, religion, myth, technique, custom etc. – is one of them. In this productive as well as pragmatic view, each of these “different modalities of ‘sense-giving’”,",
+        {
+          "type": "note",
+          "id": "ch03-n13",
+          "label": "13"
+        },
+        " of ‘making sense’, contribute in an irreplaceable manner to our understanding and none of them can pretend to exhaust the notion of ‘reality’. Taking into account this fundamental “multidimensionality of knowledge”",
+        {
+          "type": "note",
+          "id": "ch03-n14",
+          "label": "14"
+        },
+        " Cassirer concretises and widens the one-sided ‘critique of pure reason’ to a plural ‘critique of culture’ which he attempts to accomplish in his main work: ‘The Philosophy of Symbolic forms’.",
+        {
+          "type": "note",
+          "id": "ch03-n15",
+          "label": "15"
+        }
+      ],
+      "zh": [
+        "由于对目标的这一初始选择容许各种分歧的方向，可见客观化能够以多种方式发生，而且历史上确实如此发生过。这引入了与表象主义知识观的另一个重大差别。随着每一种不同的取向，诞生了卡西尔所称的“象征形式”，它实际上是一种开放、持续进行的客观化组织过程。科学——连同语言、历史、艺术、宗教、神话、技术、习俗等等——就是其中之一。在这种既生产性又实用性的观点中，这些“‘赋义’的不同样态”",
+        {
+          "type": "note",
+          "id": "ch03-n13",
+          "label": "13"
+        },
+        "、这些“制造意义”的方式，各自以不可替代的方式贡献于我们的理解，没有哪一种能声称穷尽“实在”概念。考虑到这种根本的“知识的多维性”",
+        {
+          "type": "note",
+          "id": "ch03-n14",
+          "label": "14"
+        },
+        "，卡西尔把片面的“纯粹理性批判”具体化并扩展为多元的“文化批判”，他试图在其主要著作《象征形式的哲学》中完成这一工作。",
+        {
+          "type": "note",
+          "id": "ch03-n15",
+          "label": "15"
+        }
+      ],
+      "units": 153
+    },
+    {
+      "id": "ch03-u018",
+      "source_ids": [
+        "ch03-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "2. The second open, constitutive task of objectivation concerns its means. Cassirer holds that a Symbolic form cannot simply rely on any ‘given, predetermined’ framework of logical, psychological or ontological orders – this impression only occurs, because our main orientation system, the Symbolic form ‘language’, occupies a predominant place in our understanding and seems to furnish unquestionable orders which we can draw from. But even if a Symbolic form can borrow and integrate notions from other forms – as physics has done with language – in the end the physicists have to actively choose, conceive and create all conceptual tools adequate to achieve their specific goal themselves – from the basic notions, the appropriate images and laws to the principles and experimental testing methods. That is in fact what a ‘Symbolic formation’ is and does and it presents another aspect of the permanent ‘constitution of meaning’. Since this applies to any of the different directions of objectivation, it follows that – strictly speaking – each Symbolic form has its own symbolic system and creates its own, particular, irreducible ‘universe of sense’."
+      ],
+      "zh": [
+        "2. 客观化的第二个开放的构成性任务涉及其手段。卡西尔认为，一种象征形式不能简单地依赖任何“被给予的、预先规定的”逻辑的、心理的或本体论的秩序框架——之所以产生这种印象，只是因为我们的主要定向系统即“语言”这一象征形式在我们的理解中占据主导地位，似乎提供了我们可以从中汲取的不容置疑的秩序。但即便一种象征形式可以从其他形式借用并整合概念——正如物理学对语言所做的——归根结底，物理学家必须自己主动选择、构想并创造足以达成其特定目标的一切概念工具：从基本概念、恰当的图像和定律，到原理与实验检验方法。这实际上就是“象征构形”之所是与所为，它呈现了持久的“意义构成”的另一个方面。既然这适用于客观化的任何一个不同方向，可见——严格说来——每种象征形式都有自己的符号系统，都创造自己独特的、不可还原的“意义宇宙”。"
+      ],
+      "units": 175
+    },
+    {
+      "id": "ch03-u019",
+      "source_ids": [
+        "ch03-u019"
+      ],
+      "page": "81",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Investigating concretely how the symbolic articulation of experience takes place that constitutes physics and its objectivity, Cassirer draws our attention to an initial paradox: the very physicality of the phenomena it wants to study actually has to disappear before it can begin its work. For the lawlike, regular relations it is interested in only become visible, once the multitude of dissimilar sensitive observations have been made comparable by finding a common denominator: that is why physics measures and this demonstrates, how the driving aim shapes the symbolic form to be adopted. Cassirer has coined the telling term of “trans-substantiation”",
+        {
+          "type": "note",
+          "id": "ch03-n16",
+          "label": "16"
+        },
+        " to characterize this first necessary step of physics’ objectivation: the seeming sensory ‘substance’ of its observations is completely ‘transfused’ into abstract mathematical concepts, the plural phenomenality of perception is abandoned in favour of the sameness of mere numbers, keeping as only trace of their origin the accompanying dimension-sign. This constitutive step of quantification also implies that from the very beginning – far from our common sense beliefs – the actual ‘objects’ of physics are no longer those of our everyday perception and spatio-temporal intuition which we tend to generalize spontaneously as a model for all objectivity. But analysed thoroughly each of them is nothing more and nothing less than a complex and abstract “notion integrating determinations of number and measure”,",
+        {
+          "type": "note",
+          "id": "ch03-n17",
+          "label": "17"
+        },
+        " a unique focus of attention and intention, inseparable from an entire system of interrelated meanings, known as ‘physics’. The illusion of ‘the same objects’ persists mainly because our habitual structuring of perception and language – unjustly – claims uniqueness and priority, but also because the originally borrowed terms from language – the great majority of physical terms in fact – have preserved the same name, although in their new context and use they no longer have the same meaning at all. Bohr already wondered about this disturbing discrepancy when noticing that “Our basic tool is, of course, plain language, which serves the needs of practical life and social intercourse.”",
+        {
+          "type": "note",
+          "id": "ch03-n18",
+          "label": "18"
+        },
+        " As physics progresses the gap to ordinary experience and its convenient order patterns inevitably widens, for ‘language’ and ‘physics’ do not pursue the same aim. It is hence perfectly natural that finally the physicists have to create their own original notions and orders, being more apt to obey the requirements of their specific quest – like ‘isospin’, ‘CP-violation’, ‘strangeness’ or ‘boson’ – and it is natural too, that they no longer resemble our cherished ‘everyday objects’, for in fact they have never been the same. Nonetheless they are perfectly objective – in a certain sense even more so than ‘sense-objects’ – since they successfully occupy their place within physics’ extremely rigorous, well-experimented and working knowledge system."
+      ],
+      "zh": [
+        "在具体考察构成物理学及其客观性的经验之象征表述如何发生时，卡西尔提请我们注意一个最初的悖论：物理学想要研究的现象的物理性本身，恰恰必须在它开始工作之前消失。因为它所感兴趣的合规律的、规则的关系，只有在众多互不相似的感性观察通过找到共同分母而变得可比之后，才显现出来：这就是物理学为什么要测量，而这表明了驱动性目标如何塑造所采用的象征形式。卡西尔铸造了“实体转化”",
+        {
+          "type": "note",
+          "id": "ch03-n16",
+          "label": "16"
+        },
+        "这一传神的术语来刻画物理学客观化的这第一个必要步骤：其观察的表面感性“实体”被完全“转注”为抽象的数学概念，知觉的多元现象性被放弃，让位于纯然数字的同一性，只留下伴随的量纲符号作为其来源的唯一痕迹。这一量化的构成性步骤还意味着：从一开始——远非我们的常识信念所设想——物理学的实际“对象”就不再是我们日常知觉与时空直观的对象，而我们倾向于自发地把后者推广为一切客观性的模型。但彻底分析起来，它们每一个都只是一个复杂而抽象的“整合了数与量度规定的概念”",
+        {
+          "type": "note",
+          "id": "ch03-n17",
+          "label": "17"
+        },
+        "，一个独特的注意与意向焦点，与一个相互关联的意义整体系统不可分离，这个系统就是所谓的“物理学”。“同一批对象”的幻觉之所以持续，主要是因为我们对知觉与语言的习惯性结构化——不公正地——声称唯一性与优先性，也因为最初从语言借来的术语——事实上物理学术语的绝大多数——保留了相同的名称，尽管在其新语境和新用法中它们已根本不再具有相同的意义。玻尔在注意到“我们的基本工具当然是日常语言，它服务于实际生活和社会交往的需要”",
+        {
+          "type": "note",
+          "id": "ch03-n18",
+          "label": "18"
+        },
+        "时，就已经对这种令人不安的落差感到诧异。随着物理学的进步，它与日常经验及其便利的秩序模式之间的鸿沟不可避免地加宽，因为“语言”与“物理学”并不追求同一目标。因此，物理学家最终不得不创造他们自己的原初概念与秩序，以更适于服从其特定探求的要求——如“同位旋”“CP破坏”“奇异数”或“玻色子”——这是完全自然的；它们不再像我们珍视的“日常对象”，这也是自然的，因为事实上它们从来就不是同一回事。尽管如此，它们仍是完全客观的——在某种意义上甚至比“感性对象”更客观——因为它们成功地在物理学那极其严格、经充分实验检验且运转良好的知识体系中占据了自己的位置。"
+      ],
+      "units": 434
+    },
+    {
+      "id": "ch03-u020",
+      "source_ids": [
+        "ch03-u020"
+      ],
+      "page": "82",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This ‘trans-’ or ‘de-substantiation’ distinguishes physics from other Symbolic formations and confers a particular potential to it, since it entails that physics expresses itself almost exclusively in mathematical terms. Its major symbolical tools are basically two: (1) ‘number’ – resp. vector, matrix, tensor – to unambiguously fix the measuring results and (2) ‘function’ to clearly express their lawful relations. These mathematical terms, free of any material connotations, belong to a specific type of symbol Cassirer calls “signs of pure relation and order”.",
+        {
+          "type": "note",
+          "id": "ch03-n19",
+          "label": "19"
+        },
+        " They introduce a particularly strict, unequivocal type of reference, which does not permit shifting polyvalence and ambiguous suggestiveness and thus differs considerably from ‘image-signs’ or ‘word-signs’, typical of perception and language. Therefore physics is exposed to precise and powerful inner constraints that act as a motor for its perpetual transformation, because they are able to contradict and counter the pressure of our habitual, linguistically laden beliefs – as modern physics has demonstrated so impressively."
+      ],
+      "zh": [
+        "这种“实体转化”或“去实体化”把物理学与其他象征构形区别开来，并赋予它一种特殊的潜能，因为它意味着物理学几乎完全用数学术语来表达自己。它的主要象征工具基本上有两种：（1）“数”——相应地还有向量、矩阵、张量——用来无歧义地确切表示测量结果；（2）“函数”，用来清楚地表达这些结果之间的合规律关系。这些数学术语不带任何质料性含义，属于卡西尔称为“纯粹关系与秩序的符号”",
+        {
+          "type": "note",
+          "id": "ch03-n19",
+          "label": "19"
+        },
+        "的特定符号类型。它们引入一种特别严格、单义的指称类型，不容许游移的多义性和含混的暗示性，因而与知觉和语言所特有的“图像符号”或“词语符号”大不相同。因此，物理学受制于精确而强大的内在约束，这些约束充当其永久变革的发动机，因为它们能够反驳并抵制我们习惯性的、负载着语言的信念的压力——现代物理学已经如此令人印象深刻地表明了这一点。"
+      ],
+      "units": 153
+    },
+    {
+      "id": "ch03-u021",
+      "source_ids": [
+        "ch03-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But he who wants to quantify, first needs a measure. Besides these mathematical tools, physics employs ‘word-signs’ – as ‘mass’, ‘charge’ or ‘temperature’ – which specify the needed respects of measuring. These notions define the actual, presumedly recurrent and stable ‘entities’, the ‘objects’ and ‘qualities’ of physics. They establish the first of three main levels of inner articulation of the knowledge system of physics which Cassirer characterizes as “notions of measure”, “notions of law” and “propositions of principles”.",
+        {
+          "type": "note",
+          "id": "ch03-n20",
+          "label": "20"
+        },
+        " These notions correspond to different epistemological functions that indicate conditions for structuring determination and the constitution of physics’ specific objectivity:"
+      ],
+      "zh": [
+        "但想要量化的人，首先需要量度。除了这些数学工具，物理学还使用“词语符号”——如“质量”“电荷”或“温度”——来明确测量针对的是哪些方面。这些概念定义了物理学中实际的、被假定为反复出现且稳定的“实体”“对象”和“性质”。它们确立了物理学知识体系内部表述的三个主要层次中的第一个，卡西尔把这三个层次刻画为“量度概念”“定律概念”和“原理命题”。",
+        {
+          "type": "note",
+          "id": "ch03-n20",
+          "label": "20"
+        },
+        " 这些概念对应于不同的认识论功能，指明结构化规定以及物理学特定客观性之构成的条件："
+      ],
+      "units": 96
+    },
+    {
+      "id": "ch03-u022",
+      "source_ids": [
+        "ch03-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. The ‘notions of measure’ determine the fundamental reference units, providing the needed stability and basic articulation of the symbolic system. 2. The ‘notions of law’ serve to integrate the measurement results into notions of higher order and thus determine the actually sought relations between the elementary notions. 3. The ‘principles’ anticipate regulatory ideals of coherent unity for a sub-group of these notions or – as the highest heuristic principle – for all of them. Should there be different, competing options how to reach such a unity for the entire symbolic system, then the principles of univocity and simplicity – i.e. explaining a maximum of phenomena with a minimum of principles, “plurima ex paucissimis” as Cassirer formulates with Kepler – specify the notion of unity itself by indicating an extremum. Principles thus serve as criteria for overall orientation and evaluation."
+      ],
+      "zh": [
+        "1. “量度概念”规定基本的参照单位，提供符号系统所需的稳定性和基本表述。2. “定律概念”用来把测量结果整合进更高阶的概念，从而规定基本概念之间实际被寻求的关系。3. “原理”为这些概念的某个子群——或者作为最高的启发式原理，为全部概念——预期融贯统一的调节性理想。如果对于整个符号系统如何达到这种统一存在不同的、相互竞争的方案，那么单义性与简单性原理——即用最少的原理解释最多的现象，用卡西尔借开普勒之口的表述就是“plurima ex paucissimis”（以极少生极多）——通过指明一个极值来规定统一性概念本身。原理因此充当总体定向与评价的判准。"
+      ],
+      "units": 137
+    },
+    {
+      "id": "ch03-u023",
+      "source_ids": [
+        "ch03-u023"
+      ],
+      "page": "83",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In order to arrive at any of these organizing notions we have to make a “leap into the void”,",
+        {
+          "type": "note",
+          "id": "ch03-n21",
+          "label": "21"
+        },
+        " a constructive guess and effort, which anticipates an order that might or might not be confirmed by later experience. Neither can the laws be simply inferred from the measuring results, nor can the principles be deduced from the postulated laws. It requires active ‘Einbildungskraft’ and ‘Urteilskraft’ – which already in Kant’s fine analysis name the same ‘force’, the same capacity of anticipative structuring, of creating ‘sense-units’ – to fill the conceptual gap between these different degrees of order and to generate these orders themselves. In Cassirer’s framework all three types of notions are principally equal: they are ‘symbols’, ‘foci imaginarii’",
+        {
+          "type": "note",
+          "id": "ch03-n22",
+          "label": "22"
+        },
+        " – to use the famous expression that Kant invented for the ‘ideas’ – i.e. imagined centers for our orientation, fixed intentions, organizing anticipations of order, tentatively fulfilling a specific function, yet remaining entirely questionable and transformable. And it makes no difference, what particular function they happen to assume: be it providing the elementary stability of basic units or the integration into highest unity. In either case our use of reason cannot claim to be more than hypothetical. Even if we are ready to admit, that this hypothetical status is applicable for the overall principles – since they ‘only’ extrapolate concrete experience to a horizon of its possible completeness – we are not used to consider ‘laws’ and especially not the basic ‘notions of measure’ in this way. The commonsense belief is that there have to be ‘anchoring’, ‘corresponding’ elements, which connect our symbolic system directly to ‘reality’ and thus guarantee its ‘truthfulness’. It is indubitable that we need operational criteria which guarantee the objectivity of our knowledge. The decisive question is however, how we can really attain them. The tempting idea of ‘direct correspondence’, seeing knowledge as a ‘one-to-one mapping of pregiven ‘elements of reality’ to ‘elements of our symbolic representation’ ’ turns out to be untenable, because it yields no viable criteria. It is natural to charge the notion of ‘reality’ with the most important epistemic function to warrant ‘truth’ and serve as ultimate security against arbitrariness and empty speculation. But it does not help to invoke it with much emphasis and engagement, because it only designates the aim of our investigation, the unknown, and not a given means we could readily employ, and it is not able to assume the crucial role we would like it to play. For Cassirer the classical ‘foundational effort’ – be it through ‘deduction’ or ‘direct correspondence to reality’ – is an integral part of the dualist model of knowledge and its validity stands and falls with it. For as long as we conceive of knowledge as a hierarchical structure, reposing on an untouchable fundament, the linear dependence of its epistemic layers inevitably leads back all claims of ‘truth’ to the foundational basis, which then needs to be justified as ‘true’ in order to assure the legitimacy of the whole structure built on it. Already the habitual metaphors employed – ‘structure’, ‘fundament’, ‘underlying’, ‘build up’ etc. – betray the allpervasiveness of this static epistemological pattern. In this view the entire system and its epistemic value ‘breaks down’ when its fundament changes – which could very well describe the impression of crisis called forth by modern physics."
+      ],
+      "zh": [
+        "为了达到这些组织性概念中的任何一个，我们都必须作一次“跃入虚空”",
+        {
+          "type": "note",
+          "id": "ch03-n21",
+          "label": "21"
+        },
+        "，一种构造性的猜测与努力，它预期一种秩序，而这种秩序可能得到、也可能得不到后来经验的确认。定律既不能从测量结果中简单推出，原理也不能从假定的定律中演绎出来。要填平这些不同秩序等级之间的概念鸿沟并生成这些秩序本身，需要主动的“想象力”（Einbildungskraft）与“判断力”（Urteilskraft）——在康德的精细分析中，这两者已经指同一种“力”，同一种预期性结构化、创造“意义统一体”的能力。在卡西尔的框架中，这三类概念原则上是平等的：它们都是“符号”，都是“想象的焦点”（foci imaginarii）",
+        {
+          "type": "note",
+          "id": "ch03-n22",
+          "label": "22"
+        },
+        "——借用康德为“理念”发明的著名说法——即为我们定向而想象的中心、固定的意向、对秩序的组织性预期，暂时履行某种特定功能，同时仍然可以受到质疑和发生改变。它们恰好承担什么特定功能并无分别：无论是提供基本单位的基本稳定性，还是整合进最高统一。无论哪种情形，我们对理性的使用都不能声称超出假设的地位。即便我们愿意承认这种假设地位适用于总体原理——因为它们“只是”把具体经验外推到其可能完备性的视域——我们却不习惯以这种方式看待“定律”，尤其不习惯这样看待基本的“量度概念”。常识信念认为，必须存在“锚定的”“对应的”要素，把我们的符号系统直接连接到“实在”，从而保证其“真实性”。毫无疑问，我们需要保证知识客观性的操作性判准。但决定性的问题是：我们如何才能真正获得它们。“直接对应”这个诱人的想法——把知识看作“预先给予的‘实在要素’到‘我们象征表象的要素’的一一映射”——被证明是站不住脚的，因为它给不出可行的判准。把“实在”概念委以最重要的认识功能，让它担保“真理”、充当抵御任意性与空洞思辨的最终保障，这是自然的。但再怎么强调、再怎么投入地援引它也无济于事，因为它只标示我们研究的目标、那未知者，而不是我们可以随手取用的被给予的手段，它无法承担我们希望它扮演的关键角色。对卡西尔来说，经典的“奠基努力”——无论通过“演绎”还是“与实在的直接对应”——是二元论知识模型的内在部分，其有效性与之共存亡。因为只要我们仍把知识设想为一个层级结构，安放在不可触动的基础之上，其认识层次的线性依赖就不可避免地把一切“真理”诉求引回奠基性基础，而这个基础又必须被证成为“真”，才能确保建于其上的整个结构的合法性。就连所使用的那些习惯隐喻——“结构”“基础”“底层”“建构”等等——也泄露了这种静态认识论模式的无处不在。在这种观点中，一旦基础改变，整个体系及其认识价值就“崩塌”——这完全可以用来描述现代物理学所唤起的危机印象。"
+      ],
+      "units": 541
+    },
+    {
+      "id": "ch03-u024",
+      "source_ids": [
+        "ch03-u024"
+      ],
+      "page": "84",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In Cassirer’s analysis these ‘foundational’ problems are artificially created by an inadequate model of knowledge, which confuses the separate tasks of ‘constitution’ and ‘justification’, because it violates the symmetry between all elements of any symbolic system, forcing it into a linear order. If we study the concrete symbolic system of physics and e.g. its ‘notions of measure’, we find that they define their ‘basic entities’ by providing a precise definition of how to measure them. So a ‘second’, as a unit of ‘time’, is defined to be 9,192,631,770 times T(¹³³Cs), i.e. the period of a Caesium-maser oscillation. The significance of this basic definition already presupposes nothing less than an understanding of the complex theory of atoms, which itself remains incomprehensible outside the entire system of physics. In fact the three ‘levels’ of articulation – notions of measure, law and principle – cannot be understood as a linear structure, resting on a ‘solid basis’. Instead they turn out to be inseparable, for they mutually define each other and form one, completely interconnected whole, structured internally by different functions of order, none of which can claim to be more important than the other. This reveals the internal symmetry, the principally relational and holistic character of any symbolic system and of ‘meaning’ itself. The determinateness in which individual sense consists can only be constituted as a relational ‘limit’, a ‘relative internal difference’ arising within a network of mutual de-limit-ations and differentiations from which it cannot be abstracted. It is of prime importance to grasp that ‘meaning’ therefore has no independent ‘substantial’ character, based on a mysterious transcendent ‘one-to-one correspondence’ to ‘given entities’, but an interdependent or co-dependent character, based on concrete, rational mutual constitution.",
+        {
+          "type": "note",
+          "id": "ch03-n23",
+          "label": "23"
+        },
+        " To acknowledge this irreducibly holistic character of a symbolic system implies that it does not make sense to formulate the question of ‘truth’ for a single element, but only for the system as a whole."
+      ],
+      "zh": [
+        "在卡西尔的分析中，这些“奠基”问题是由一个不恰当的知识模型人为制造出来的：这个模型混淆了“构成”与“证成”这两项分立的任务，因为它破坏了任何符号系统一切要素之间的对称性，把它强行纳入线性秩序。如果我们研究物理学这个具体的符号系统，例如它的“量度概念”，就会发现它们是通过给出如何测量的精确定义来定义其“基本实体”的。于是，“秒”作为“时间”的单位，被定义为铯微波激射器的振荡周期 T(¹³³Cs) 的 9,192,631,770 倍。这个基本定义的意义已经预设了不外乎对复杂的原子理论的理解，而这个理论本身离开整个物理学体系就不可理解。事实上，表述的三个“层次”——量度概念、定律概念与原理概念——不能被理解为一个安放在“坚实基础”上的线性结构。相反，它们是不可分离的，因为它们相互定义，构成一个完全相互关联的整体，其内部由不同的秩序功能所结构化，没有哪一种功能能声称比另一种更重要。这揭示了任何符号系统以及“意义”本身的内在对称性、原则上的关系性与整体论性质。个别意义的规定性，只能作为一种关系性的“界限”、一种“相对的内部差异”被构成，产生于相互划界与区分之网络内部，无法从中抽离。至关重要的是要把握：“意义”因此不具有独立的“实体性”性质，不以与“被给予实体”的神秘超验“一一对应”为基础，而是具有相互依赖或共同依赖的性质，以具体的、理性的相互构成为基础。",
+        {
+          "type": "note",
+          "id": "ch03-n23",
+          "label": "23"
+        },
+        " 承认符号系统这种不可还原的整体论性质，就意味着对单个要素提出“真理”问题是没有意义的，只能对整个系统提出。"
+      ],
+      "units": 320
+    },
+    {
+      "id": "ch03-u025",
+      "source_ids": [
+        "ch03-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "3. Thanks to this entire internal structuring the physicists can anticipate and calculate theoretically a particular measurement result and invent practical procedures on how to test it as a third open task of objectivation. Now, if the actual result does not coincide with the anticipated one, a tension is introduced into the symbolic system of physics. Since it aims at coherent unity – which is not the case for all Symbolic forms – this disagreement is evaluated as a ‘contradiction’ that needs to be removed. However, the result in itself does not indicate, how to undo the tension, and the system’s holism allows for a multitude of possible changes to dissolve it: so again the physicist’s creativity is challenged to make a clever ‘leap into the void’. Yet the structuring transcendental conditions of his Symbolic form serve him as indispensable guide-lines: so the driving principles of coherence and unity are to be satisfied in such a way, that they allow for a maximally simple integration of the respective basic notions and laws best satisfying the evidence and all disturbing contradictions. But vice versa – diametrically opposed to the Kantian categorical conception – in Cassirer’s holistic view the basic notions and laws can equally be re-conceived and changed in such a way, that they allow for an optimal fulfilment of the principles: it is in fact the productive interaction between the different actual equally important transcendental demands – determinateness, univocity, stability, simplicity, unity – which generates a fertile dynamics and leads to the inner transformations that create new insights. Surprisingly close to recent theories of self-organization Cassirer’s model thus envisages a nonlinear feed-back-loop between all interacting elements of the symbolic system. It gives rise to a movement of self-correction by constantly searching a dynamic equilibrium between these constitutive functional demands in the permanently changing context of new evidence. Relativity theory and quantum mechanics give a striking example for the great catalytic power of these abstract exigencies: intrepidly following the principles of coherence and unification the physicists were driven – even against their personal convictions – to opt for a thoroughly different configuration to find a new equilibrium, which asked to abandon the ancient fix-points of the system, the classical ’entities’ that had so long been able to play the stabilising role, but, given the new situation, could do so no longer."
+      ],
+      "zh": [
+        "3. 得益于这整个内部结构化，物理学家能够从理论上预期并计算特定的测量结果，并发明检验它的实用程序，这是客观化的第三个开放任务。现在，如果实际结果与预期结果不一致，物理学的符号系统中就引入了一种张力。由于它以融贯统一为目标——并非所有象征形式都如此——这种不一致被评价为需要消除的“矛盾”。然而，结果本身并不指明如何解除张力，而系统的整体论容许多种可能的改变来化解它：于是物理学家的创造力再次受到挑战，要作一次巧妙的“跃入虚空”。不过，其象征形式的结构化先验条件为他提供了不可或缺的指导线索：融贯性与统一性这些驱动原理必须以这样的方式得到满足，即容许对最能满足证据、消除一切扰人矛盾的相关基本概念与定律作最大简单性的整合。但反过来——与康德的范畴构想截然相反——在卡西尔的整体论观点中，基本概念与定律同样可以被重新构想和改变，以便最优地履行原理：事实上，正是不同的、实际同等重要的先验要求——规定性、单义性、稳定性、简单性、统一性——之间的生产性互动，形成一种促成内部变革的动力，由此产生新的洞见。卡西尔的模型与晚近的自组织理论惊人地接近，它设想符号系统一切互动要素之间的非线性反馈回路。它引发一种自我修正的运动：在不断变化的新证据语境中，持续在这些构成性功能要求之间寻找动态平衡。相对论与量子力学为这些抽象要求的巨大催化力提供了引人注目的例证：物理学家无畏地遵循融贯与统一原理，被驱使着——甚至违背他们个人的信念——选择一种彻底不同的构型以寻找新的平衡，这要求抛弃体系的古老固定点，即那些长期能够扮演稳定化角色、但在新形势下已不能再如此的经典“实体”。"
+      ],
+      "units": 382
+    },
+    {
+      "id": "ch03-u026",
+      "source_ids": [
+        "ch03-u026"
+      ],
+      "page": "85",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In Cassirer’s model it appears as just another inevitable open constitutive task of each specific objectivation-project to decide and define which should be its most adequate ‘fix-points’, serving as ‘putatively invariant entities’. And the answers depend (1) on the particular objectivation-goal in question, but also (2) on the entire evolving structure of the respective symbolic system – as the history of physics corroborates. The physicist has to advance skilful anticipations, which local choice of ‘stable reference units’ will lead to an optimal transformation of the entire system in direction of the global aim of unification. But he needs to have the humility to leave the judgement about their epistemic value to time, contingency and experience rather than to his personal ontological predilections. For if these notions will be able or not to fulfil this function of ‘invariants’ does not depend on him, but only and entirely on their pragmatic success. It is not the rigid, atemporal fixity of ‘substantial elements’ that will grant us the stability knowledge necessarily requires, but the adaptability and strength of mutually supporting interrelatedness we attain in a concrete symbolic system."
+      ],
+      "zh": [
+        "在卡西尔的模型中，决定并定义哪些应充当其最恰当的“固定点”、作为“被设定的不变实体”，显现为每个特定客观化计划的又一项不可避免的开放构成任务。答案取决于（1）所讨论的特定客观化目标，但也取决于（2）相应符号系统整个演化着的结构——物理学史印证了这一点。物理学家必须提出巧妙的预期：局部选择哪些“稳定参照单位”，将使整个系统朝统一这一全局目标的方向发生最优变换。但他需要有谦逊，把关于它们认识价值的判断留给时间、偶然性与经验，而不是留给他个人的本体论偏好。因为这些概念能否履行“不变量”的功能，不取决于他，而仅仅且完全取决于它们在实用上的成功。授予知识所必需的稳定性的，不是“实体性要素”那种僵硬的、非时间的固定性，而是我们在具体符号系统中获得的相互支持的关联性的适应力与强度。"
+      ],
+      "units": 184
+    },
+    {
+      "id": "ch03-u027",
+      "source_ids": [
+        "ch03-u027"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Cassirer finds this functional view of stability and invariance confirmed in the work of the German mathematician Felix Klein. Working on comparative geometry at the end of the nineteenth century, he outlined that the so-called ‘in-variants’ clearly depend on the type of ‘variation’ one studies: so the invariants of rotation are not the same as those of lateral translation or of a mirroring bijection etc. It seems evident, but is often neglected or ignored that the notion of invariance itself is relational – as all notions are – and that it only makes sense with reference to a specific framework. In the same way, the invariants of our knowledge systems cannot be considered to be absolutes, but they depend on the framework of the specific Symbolic form they are an integral part of. Hence for Cassirer it is not shocking, but even to be expected, that the invariants of our worldly kinaesthetic perceptual orientation and the invariants of the search for the fundamental laws between quantifiable observables are most probably not going to be the same."
+      ],
+      "zh": [
+        "卡西尔发现，德国数学家费利克斯·克莱因的工作印证了这种关于稳定性与不变性的功能观点。克莱因在十九世纪末从事比较几何学研究时指出：所谓“不变量”显然取决于所研究的“变化”的类型：旋转的不变量不同于横向平移的不变量，也不同于镜像双射的不变量，等等。不变量概念本身是关系性的——正如一切概念都是关系性的——只有参照特定框架才有意义，这似乎显而易见，却常被忽视或无视。同样，我们知识系统的不变量不能被视为绝对者，它们依赖于其作为内在部分的特定象征形式的框架。因此对卡西尔来说，我们世俗的、动觉的知觉定向的不变量，与在可量化可观测量之间寻求基本定律的不变量，极有可能不是同一回事——这不令人震惊，甚至是应当预期的。"
+      ],
+      "units": 174
+    },
+    {
+      "id": "ch03-u028",
+      "source_ids": [
+        "ch03-u028"
+      ],
+      "page": "86",
+      "canonical_kind": "paragraph",
+      "en": [
+        "4. Thus we reach the fourth open task of knowledge: its justification. Even if the choices and infinite options of organizing constitution are our task, their actual epistemic value and usefulness, given the chosen aim, then no longer depend on us. It is up to us to formulate the questions, but then we do not decide upon the answers. “The first step: we are free to choose – but on the second and all following steps we are servants.”",
+        {
+          "type": "note",
+          "id": "ch03-n24",
+          "label": "24"
+        },
+        " Thus Cassirer dares to surrender all elements of our symbolic systems without exception – from the anticipations of ‘basic entities’ to the highest formal principles – to the judgement of their pragmatic success, for knowledge cannot pretend to ‘justify itself’ concerning its actual epistemic efficiency. Cassirer’s dynamic view of knowledge liberates the multiple tasks of ‘constitution’ from the unfulfilable constraint of ‘direct correspondence’, but with the same theoretical movement ‘justification’ becomes entirely a matter of pragmatism. An element is justified in its epistemic function, because it is able to fulfil it and as long as it is able to fulfil it: and that is all we have – and all we need. Those who dream about ‘final justification’ by correspondence or deduction adhere to an ‘absolutist’, static vision of knowledge that takes the risk of paralysing itself by clinging to limiting prejudices. For Cassirer the only form of legitimation able to meet future, uncontrollable contingency without restriction is the temporal justification ‘by function and efficiency’. This type of ‘open’ justification is not Cassirer’s own invention, but other than in the pragmatist tradition it can already be found in the ‘Critique of pure reason’, following Kant’s arguments to justify the ‘ideas’. For the critical analysis of the Transcendental Dialectics explores the insoluble incoherencies that arise if one wants to affirm – as the metaphysical tradition before Kant did – that ideas are ‘true’, because they ‘correspond’ to pre-existing entities. Nonetheless it in no way undermines their epistemic value and utility, if one admits that ideas do not possess a categorical, but only a hypothetical and heuristic status. They are still perfectly justified, because they are “an indispensable condition for the practical use of reason”,",
+        {
+          "type": "note",
+          "id": "ch03-n25",
+          "label": "25"
+        },
+        " that is, because they fulfil a transcendental function. One could draw the parallel that the antimetaphysical critique Kant undertook for the ‘ideas’, Cassirer has completed for the categorical ‘basic entities’ and ‘invariants’, showing that both are fundamentally the same: symbols, ‘foci imaginarii’. They are fully objective and justifiable, not because they ‘correspond’ to a given, enigmatic entity, but because they likewise fulfil an indispensable epistemic function which this time is the function of providing adequate stabilising fix-points."
+      ],
+      "zh": [
+        "4. 于是我们达到知识的第四个开放任务：证成。即便组织性构成的种种选择与无限选项是我们的任务，但给定所选目标之后，它们实际的认识价值与用处就不再取决于我们。提出问题由我们，但随后答案不由我们决定。“第一步：我们可以自由选择——但在第二步及其后的一切步骤上，我们都是仆人。”",
+        {
+          "type": "note",
+          "id": "ch03-n24",
+          "label": "24"
+        },
+        " 卡西尔因此敢于把我们符号系统的一切要素毫无例外地——从对“基本实体”的预期到最高的形式原理——交给其实用成功的裁决，因为知识就其实际的认识效力而言不能声称“自我证成”。卡西尔的动态知识观把“构成”的多重任务从“直接对应”这一无法履行的约束中解放出来，但同一个理论运动使“证成”完全成为实用主义的事情。一个要素在其认识功能上得到证成，是因为它能够履行该功能，并且只要它还能履行该功能：这就是我们所有的一切——也是我们需要的一切。那些梦想通过对应或演绎获得“最终证成”的人，执守一种“绝对主义的”静态知识观，冒着的风险是抱住限制性的成见而使自身瘫痪。对卡西尔来说，唯一能够无限制地应对未来的、不可控制的偶然性的合法化形式，是“凭功能与效力”的时间性证成。这种“开放”证成并非卡西尔自己的发明，除了实用主义传统，在《纯粹理性批判》中也已经可以找到它，见于康德为“理念”作证的论证。因为先验辩证论的批判分析探究了：如果像康德之前的形而上学传统那样，想要断言理念是“真的”，因为它们“对应”于预先存在的实体，就会产生无法解决的不一贯。尽管如此，如果承认理念不具有范畴性的、而只具有假设性和启发性的地位，这丝毫不损害它们的认识价值与用处。它们仍然完全得到证成，因为它们是“理性之实践运用不可或缺的条件”",
+        {
+          "type": "note",
+          "id": "ch03-n25",
+          "label": "25"
+        },
+        "，也就是说，因为它们履行一种先验功能。可以作这样的类比：康德对“理念”所作的反形而上学批判，卡西尔对范畴性的“基本实体”与“不变量”完成了，表明两者根本上是同一回事：符号，“想象的焦点”。它们完全客观且可证成，不是因为它们“对应”于某个被给予的神秘实体，而是因为它们同样履行一种不可或缺的认识功能，这一次是提供恰当的稳定化固定点的功能。"
+      ],
+      "units": 433
+    },
+    {
+      "id": "ch03-u029",
+      "source_ids": [
+        "ch03-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The great achievement of this functional approach is that it gives us perfectly concrete criteria to judge. So, if the physicist wants to decide about the epistemic value, about the ‘truth’ of a symbolic element, he can test, whether within his constituted symbolic system (1) it fulfils its own, local function and (2) whether this allows the whole of the system to fulfil its global goal and (3) whether this development shows an overall direction towards greater unification: together these three criteria clearly inform him about the pragmatic success of the knowledge system. “We call a proposition ‘true’ not because it corresponds to a fixed reality beyond all thought and all thinkability, but because it proves a success during the process of thinking itself and because it leads to new fertile consequences. Its actual justification is the effectiveness it unfolds in direction of the progressive unification.”",
+        {
+          "type": "note",
+          "id": "ch03-n26",
+          "label": "26"
+        },
+        " It is this functional and pragmatic conception of ‘truth’ that succeeds in including transitoriness and temporality as its own essential elements."
+      ],
+      "zh": [
+        "这种功能进路的伟大成就在于，它给了我们完全具体的判断判准。于是，如果物理学家想要判定一个符号要素的认识价值、它的“真”，他可以检验：在他所构成的符号系统内，（1）它是否履行其自身的局部功能；（2）这是否使整个系统能够履行其全局目标；（3）这一发展是否显示出朝向更大统一的总体方向：这三条判准合在一起，可以清楚判定这个知识系统的实际成效。“我们称一个命题为‘真’，不是因为它对应于超出一切思维与一切可思维性的固定实在，而是因为它在思维过程本身之中证明自己是成功的，并且导向新的、富有成果的推论。它真正的证成，是它朝渐进统一的方向所展开的效力。”",
+        {
+          "type": "note",
+          "id": "ch03-n26",
+          "label": "26"
+        },
+        " 正是这种功能性的、实用主义的“真理”构想，成功地把短暂性与时间性纳入为它自身的本质要素。"
+      ],
+      "units": 167
+    },
+    {
+      "id": "ch03-u030",
+      "source_ids": [
+        "ch03-u030"
+      ],
+      "page": "87",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Interpreting Modern Physics: Transcendental Functions Beyond Transitory Forms"
+      ],
+      "zh": [
+        "3 解释现代物理学：超越过渡形态的先验功能"
+      ],
+      "type": "subheading",
+      "units": 9
+    },
+    {
+      "id": "ch03-u031",
+      "source_ids": [
+        "ch03-u031"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "One of the finest examples of the transformative power of transcendental reasoning is special relativity. One can hold that Einstein’s ingeniosity resides precisely in the fact that he dared to give absolute priority to the conditions of the possibility of physics, even if this implied apparently ‘unacceptable’ consequences. He did not hesitate to sacrifice the conventional concepts of time and space, although they seemed to be untouchable, in favour of these abstract principles, because he deeply understood that these requirements are the true core value of physics, for without them there would be no physics at all. Hence consciously integrating them and using the transcendental presuppositions as his guide-lines Einstein postulated, or as he himself formulated “elevated the supposition to a presupposition”,",
+        {
+          "type": "note",
+          "id": "ch03-n27",
+          "label": "27"
+        },
+        " that the velocity of light should be a constant, independently of the observational status, and that the ‘principle of relativity’, the claim that all inertial systems are equivalent, should hold. For without this demand of equality and symmetry of all observational situations, the laws of physics would no longer be the same in all domains, and thus the conditions of unity and coherence of physics could no longer be fulfilled. And Einstein reapplied the same method to arrive at general relativity. The consequence of this apparently simple demand was a revolutionary change in our world-view, able to overthrow venerable convictions about the ‘nature’ of time and space. Using this approach he reached a viewpoint in which formerly unconnected, independent ‘substantial’ theoretical items reappear as interdependent observables, as quantifiable aspects of one and the same process of determination of movement: be it time, space, energy or mass. But the fact that they thus lost the ‘last rest of their status of independent objects’, as Einstein himself affirmed,",
+        {
+          "type": "note",
+          "id": "ch03-n28",
+          "label": "28"
+        },
+        " does not in the least threaten their status of ‘objectivity’. The very opposite is the case: for the newly discovered dynamic relations between them concretise, enrich and strengthen the meaning, importance and position of each of them for the whole of physical knowledge and they constitute the specific knowledge-gain, the new objectivation that relativity theory actually consists in. In fact, the claim of ‘time’, ‘space’, ‘energy’ and ‘mass’ to be ‘rational’ or ‘real’ can only be formulated, affirmed and justified thanks to this ‘relational’, ‘relative’ status."
+      ],
+      "zh": [
+        "先验推理之变革力量的最佳例证之一是狭义相对论。可以说，爱因斯坦的天才恰恰在于：他敢于把物理学之可能性条件置于绝对优先地位，即便这意味着表面上“不可接受的”后果。他毫不犹豫地牺牲看似不可触动的时间与空间的约定概念，以成全这些抽象原理，因为他深刻理解这些要求才是物理学真正的核心价值，没有它们就根本不会有物理学。于是，爱因斯坦自觉地把这些条件纳入考虑，以先验预设为指导线索，设定了——或者用他自己的表述，“把猜想提升为前提”",
+        {
+          "type": "note",
+          "id": "ch03-n27",
+          "label": "27"
+        },
+        "——光速应当是一个常量，与观测状态无关，并且“相对性原理”，即一切惯性系等价的主张，应当成立。因为如果没有对一切观测情境的这种平等与对称的要求，物理定律就不再在一切领域中相同，物理学的统一性与融贯性条件也就无法再被履行。爱因斯坦又把同一方法重新应用，得到了广义相对论。这个表面上简单的要求，其后果是我们世界图景中的一场革命性变化，足以推翻关于时间与空间之“本性”的古老信念。借助这一进路，他达到了这样一个观点：从前互不关联、彼此独立的“实体性”理论项，重新显现为相互依赖的可观测量，显现为同一个运动规定过程的可量化方面：无论是时间、空间、能量还是质量。但它们由此失去“其独立对象地位的最后残余”——如爱因斯坦本人所确认的",
+        {
+          "type": "note",
+          "id": "ch03-n28",
+          "label": "28"
+        },
+        "——丝毫不威胁它们的“客观性”地位。情况恰恰相反：它们之间新发现的动态关系，具体化、丰富并加强了每一个对于整个物理知识的意义、重要性与位置，这些新关系正是相对论特有的认识成果，也就是它所实现的新的客观化。事实上，“时间”“空间”“能量”“质量”之为“理性的”或“实在的”这一诉求，只有得益于这种“关系性的”“相对的”地位，才能被提出、被确认和被证成。"
+      ],
+      "units": 374
+    },
+    {
+      "id": "ch03-u032",
+      "source_ids": [
+        "ch03-u032"
+      ],
+      "page": "88",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Provokingly one can even assert that all progress in physics is nothing other than that: relativizing seemingly given ‘absolutes’ by integrating them into a larger context and thus ‘understanding’ them; for that is precisely what ‘com-prehension’ is. The ‘invariants’ of the old theory then appear as dependant and variable with respect to other, more fundamental conditions, now taking on their role of ‘invariants’. Progress thus appears as a “deepening of the foundations”",
+        {
+          "type": "note",
+          "id": "ch03-n29",
+          "label": "29"
+        },
+        " as Hilbert put it, which takes place when we succeed in replacing former fix-points in favour of new, more performing, more encompassing ones, thus expanding the scope of explicable phenomena while concentrating at the same time the theoretical core. In reality the much dreaded or denigrated ‘relativization’ is only the visible sign of a deeper level of understanding, equivalent to the discovery of further preconditions, leading to a fruitful ‘relationalization’, which expresses the very essence of ‘rationalization’, of our fundamental endeavour to ‘com-prehend’. This comprehensive progression describes precisely what the transcendental method actually amounts to and thus we can understand, why it is so apt to analyse the parallel abstract quest of physics."
+      ],
+      "zh": [
+        "甚至可以挑衅性地断言：物理学的一切进步都不外乎此：把看似被给予的“绝对者”相对化，把它们整合进更大的语境，从而“理解”它们；因为这恰恰就是“综—合把握”（com-prehension）之所是。旧理论的“不变量”于是显现为依赖于其他更基本条件、随其可变的，而这些更基本的条件现在承担起“不变量”的角色。进步因此显现为希尔伯特所说的“基础的深化”",
+        {
+          "type": "note",
+          "id": "ch03-n29",
+          "label": "29"
+        },
+        "：当我们成功地用新的、效能更强、涵盖更广的固定点取代从前的固定点时，就发生了这种深化，从而在扩展可解释现象范围的同时集中理论内核。实际上，令人畏惧或遭人贬低的“相对化”，只是更深理解层次的可见标志，等同于发现更多前提条件，导向富有成果的“关系化”，而关系化表达的正是“理性化”的本质、我们“综—合把握”这一根本努力的本质。这种包罗性的进展恰恰刻画了先验方法的实际内容，由此我们就能理解，为什么它如此适于分析物理学平行的抽象探求。"
+      ],
+      "units": 185
+    },
+    {
+      "id": "ch03-u033",
+      "source_ids": [
+        "ch03-u033"
+      ],
+      "page": "89",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In Cassirer’s analysis relativity theory as well as quantum mechanics did not cause a crisis of physics, but rather a crisis of our habitual worldview, inscribed in most of the world’s languages, and a crisis of intuition, for their results could no longer be apprehended within the unity of a unique spatio-temporal picture. But why should it? “It may be remarked that the main object of physical science is not the provision of pictures, but is the formulation of laws governing phenomena and the application of these laws to the discovery of new phenomena.”",
+        {
+          "type": "note",
+          "id": "ch03-n30",
+          "label": "30"
+        },
+        " In accordance with Cassirer Dirac here insists, that above all we have to be aware of the particular objectivation-aim of physics and clearly distinguish it from external, heterogeneous demands. The impression of a crisis disappears when we clarify the epistemological situation thanks to Cassirer’s antimetaphysical ‘Occam’s razor’ par excellence: by searching the actual transcendental functions hidden behind the apparently failing forms. Thus we are able to realize that it is not intuition and imagery, which are put into question, since relativity theory as well as quantum mechanics still successfully use a multitude of images. But it is the function of ‘unity’ and ‘continuity’ which can no longer be fulfilled in a spatio-temporal form. Yet nothing in these abstract demands themselves obliges us to understand them in this way: that is only the form in which they appear under the conditions of our perception. Cassirer teaches us to observe, that ‘continuity’ has not been lost in these theories, but that it only had to be transferred to another, more appropriate theoretical location which allows for its satisfying fulfilment in the new context. Concerning relativity theory the ‘unity’ and ‘uniqueness’ lost on the level of the classical, individual space–timeparameters is restored through the equations of the Lorentz-Transformations, which permit a complete re-integration and transformability, taking into account the new dynamic parameter, their relative velocity. In terms of physics’ symbolical tools the ‘unity’ has thus been elevated from the level of ‘number’ to that of ‘function’, of ‘relation’. In terms of our understanding it has thus been elevated from the level of sense-perception to the level of thought – which is not surprising if we remember its initial goal. In the same way one can analyse the ‘failure’ of strictly determined individual laws, the ‘failure’ of continuous causal relations, the ‘failure’ of continuous space–time paths for particles in quantum mechanics as the expression of a new, successful adaptation and progress, now satisfying the necessary demand for ‘continuity’ by elevating it from the level of mere numbers describing the individual outcomes of single experiments to a higher, more abstract, more encompassing theoretical level: that of the Schrödinger-equation and the evolution of the probabilities for the entire space of possible outcomes. Therein consists in fact the undeniable progress in understanding these theories offer us, demonstrating a degree of coherence, unity, explanatory power and pragmatic success never equalled before."
+      ],
+      "zh": [
+        "在卡西尔的分析中，相对论与量子力学引起的不是物理学的危机，而是我们习惯世界图景的危机——这个图景铭刻在世界大多数语言之中——以及直观的危机，因为它们的结果不再能在唯一的时空图像的统一中被把握。但为什么非要如此呢？“可以指出，物理科学的主要目标不是提供图像，而是表述支配现象的定律，并把这些定律应用于发现新现象。”",
+        {
+          "type": "note",
+          "id": "ch03-n30",
+          "label": "30"
+        },
+        " 狄拉克在这里与卡西尔一致地坚持：我们首先必须意识到物理学特定的客观化目标，并把它与外来的、异质的要求清楚区分开。一旦借助卡西尔那卓越的反形而上学“奥卡姆剃刀”澄清认识论处境，危机的印象就消失了：这把剃刀就是探求隐藏在表面上失效的形态背后的实际先验功能。于是我们能够认识到，被质疑的不是直观与意象，因为相对论与量子力学仍然成功地使用大量图像。被质疑的只是“统一性”与“连续性”的功能不能再以时空形式履行。但这些抽象要求本身并没有任何东西强迫我们以这种方式理解它们：那只是它们在我们知觉条件下显现的形式。卡西尔教我们看到：“连续性”在这些理论中并未丧失，只是不得不转移到另一个更恰当的理论位置，使其在新语境中得到令人满意的履行。就相对论而言，在经典的、个别的时空参数层面上失去的“统一性”与“唯一性”，通过洛伦兹变换方程得到恢复，这些方程考虑到新的动态参数——相对速度——容许完全的再整合与可变换性。用物理学的象征工具来说，“统一性”由此从“数”的层面提升到“函数”、“关系”的层面。用我们的理解来说，它由此从感性知觉的层面提升到思想的层面——如果我们记得它最初的目标，这并不令人惊讶。同样，可以把量子力学中严格决定个体结果的定律的“失效”、连续因果关系的“失效”、粒子连续时空路径的“失效”，分析为一种新的、成功的调适与进步的表达：它现在通过把“连续性”从描述单次实验个别结果的纯然数的层面，提升到更高、更抽象、涵盖更广的理论层面——薛定谔方程以及整个可能结果空间的概率演化——来满足对“连续性”的必要要求。这些理论提供给我们的不可辩驳的理解进步恰恰在于此，它展示了前所未有的融贯性、统一性、解释力与实用成功的程度。"
+      ],
+      "units": 488
+    },
+    {
+      "id": "ch03-u034",
+      "source_ids": [
+        "ch03-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A parallel analysis holds for the so-called ‘Uncertainty-relations’. In spite of their name – betraying above all our ‘classical’ expectations and prejudices – they do not leave us in a deplorable state of uncertainty or indeterminateness, announcing the end of our search for unambiguous scientific determination. On the contrary they constitute a remarkable progress, likewise reached by revealing further conditions of objectivation. For these equations quantify with precision the very limits of possible quantification and thus of objectifiability itself. In this way they succeed in determining the physical core-activity of determination itself: hence they furnish us more, and not less information than classical mechanics."
+      ],
+      "zh": [
+        "对所谓“不确定度关系”可以作平行的分析。尽管其名称——首先泄露的是我们的“经典”期待与成见——如此，它们并没有把我们留在可悲的不确定或无规定状态，宣告我们对无歧义的科学规定之探求的终结。相反，它们构成了一项显著的进步，同样是通过揭示更多客观化条件而达到的。因为这些方程精确地量化了可能的量化本身的界限，从而也量化了可客观化性本身的界限。它们就这样成功地规定了“规定”这一物理学核心活动本身：因此它们提供给我们的信息比经典力学更多，而不是更少。"
+      ],
+      "units": 102
+    },
+    {
+      "id": "ch03-u035",
+      "source_ids": [
+        "ch03-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In Cassirer’s view even the frightening ‘failure’ of the key-notion of ‘localised object’ – which appears though as the very ‘incarnation’ of the scientific project and subject itself, as the guarantor of ‘objectivity’ as such – can be accepted and understood as a liberating achievement. Using again his transcendental ‘Occam’s razor’ we have to determine, what is the constitutive function this notion actually fulfils? Being the prototype of all ‘notions of measure’ it provides the elementary reference units that fix and structure our knowledge. It thus fulfils the basic functions of stability and differentiation and serves the needs of ‘identification’ and ‘re-identification’. Moreover the ‘foci’ it offers can be used as support for further determinations: we ascribe ‘variable qualities’ to ‘invariant objects’. It thus presents a specific pattern of order, conceived to grasp change conceptually, that corresponds to – and most probably stems from – the linguistic schema of ‘subject and predicate’."
+      ],
+      "zh": [
+        "在卡西尔看来，甚至“定域对象”这一关键概念那令人惊恐的“失效”——它似乎正是科学计划及其研究对象的“化身”，是“客观性”本身的担保者——也能被接受并被理解为一项解放性的成就。再次运用他的先验“奥卡姆剃刀”，我们必须确定：这个概念实际履行的构成性功能是什么？作为一切“量度概念”的原型，它提供固定并结构化我们知识的基本参照单位。它由此履行稳定性与区分的基本功能，服务于“识别”与“再识别”的需要。此外，它提供的“焦点”可以用作进一步规定的支撑：我们把“可变的性质”归给“不变的对象”。它由此呈现一种特定的秩序模式，为在概念上把握变化而构想，对应于——并且极有可能源自——“主词与谓词”的语言图式。"
+      ],
+      "units": 148
+    },
+    {
+      "id": "ch03-u036",
+      "source_ids": [
+        "ch03-u036"
+      ],
+      "page": "90",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now the question is, can this specific pattern of order, can this notion of ‘localised object endowed with intrinsic qualities’ still assure its stabilising role as an ‘invariant’ in the light of the quantum mechanical evidence? If we analyse whereupon exactly its use is founded, we find the basic fact, that consecutive measurements can repeat certain localised results. This has led to the assumption, that an invariant, individual ‘carrier’ supports these observable ‘qualities’. But do we really need that particular assumption to account for the evidence? Let us investigate inhowfar the fundamental physical objects, i.e. ‘elementary particles’, still fulfil these epistemic requirements to be stable, differentiable, identifiable and re-identifiable. Most of them show an extremely short life-time, so the claim of ‘stability’ has become a matter of our own arbitrary definition of an ‘appropriate time-span’. We can still differentiate one type of elementary particle from another one, e.g. a K-meson from an electron. But within a certain ‘type’ all particles have identical qualities and can no longer be differentiated from one another and a fortiori cannot be identified or re-identified by internal attributes. We can try to avoid this problem and save our ‘object-idea’ by applying an external differentiation-process using the space–time-coordinates of our particles and following their continuous path and history. But even if this is still working in classical mechanics, it is no longer possible in quantum mechanics, since for consecutive measurements of the conjugate variables the previous results can not be reproduced. That is where and why the – already weakened – concept of the ‘localised, invariant object’ looses its usefulness and plausibility as a stabilising invariant within this domain of experience – which does not mean that it cannot continue to fulfil other helpful functions. Would not the state-vector in HilbertSpace be a more adequate candidate for its vacant vital post in this realm, assuring the needed stability, differentiatedness and unambiguous identifiability? As in the cases we discussed before, for Cassirer it is to be expected that mathematical, relational concepts will take over the role we have assigned to directly perceivable items as a ‘first guess and approximation’, guided by our daily habits and the elementary need to ‘see’ in order to ‘grasp’. But just consider that – following either Bohr or Bohm, Everett or Schrödinger etc. – one can adopt very different ontological ‘colourings’ to understand quantum mechanics. Yet these choices do not alter the equations, nor the physical constants, nor the symmetry-principles and conservation laws. This clearly shows that the ‘basic notions’ – suggesting certain ontological options – are not at all as important as the dualist-representational model tries to make us believe. Instead the true core of physical knowledge consists in these systemic, relational values. This fact can also be confirmed by the way in which we construe physical identity. Take visible light, tangible infrared-heat, imperceptible radiowaves and x-rays: these phenomena incompatible for the witnessing of our senses are all identified by physics as being ‘the same’: electromagnetical waves at different wavelengths. The postulated ‘identity’ is based on a complex mathematical judgement, affirming that these phenomena obey the same laws – Maxwell’s equations – agree in central numerical determinations and fall under the same constant: the velocity of light. Fixing individual ‘identity’ is thus a complex logical achievement which can only take place thanks to the same systemic values and the holistically interrelated network of physics’ symbolic system – and does not in the least give us a simple ‘basis’ of ‘independent substances’ we could start with. It is the whole that constitutes the ‘elements’ and not vice versa.",
+        {
+          "type": "note",
+          "id": "ch03-n31",
+          "label": "31"
+        }
+      ],
+      "zh": [
+        "现在的问题是：面对量子力学的证据，这种特定的秩序模式、这个“具有内在性质的定域对象”概念，还能确保其作为“不变量”的稳定化作用吗？如果我们分析它的使用究竟基于什么，就会发现一个基本事实：相继进行的测量可以复现某些定域结果。这导致了一个假设：有一个不变的、个体的“承载者”支撑着这些可观察的“性质”。但我们真的需要这个特定假设来说明证据吗？让我们考察基本物理对象即“基本粒子”在多大程度上仍满足这些认识要求：稳定、可区分、可识别、可再识别。它们大多数寿命极短，于是“稳定性”诉求已经变成我们自己任意定义“恰当时间跨度”的事情。我们仍然能把一种基本粒子与另一种区分开，例如把 K 介子与电子区分开。但在某一“类型”内部，所有粒子具有全同的性质，不能再相互区分，更谈不上凭内在属性加以识别或再识别。我们可以尝试回避这个问题，借助粒子的时空坐标施加外在的区分过程，追踪其连续的路径与历史，以挽救我们的“对象观念”。但即便这在经典力学中仍然可行，在量子力学中却不再可能，因为对共轭变量相继进行测量时，先前的结果无法复现。正是在这里、正是因此，这个已被削弱的“定域的、不变的对象”概念，在这一经验领域内失去了作为稳定化不变量的用处与可信性——这并不意味着它不能继续履行其他有益的功能。希尔伯特空间中的态向量，难道不是这个领域中接替其空出的关键职位的更恰当候选者，能够确保所需的稳定性、可区分性与无歧义的识别性吗？正如我们前面讨论的情形，对卡西尔来说可以预期：数学的、关系性的概念将接管我们起初分配给可直接知觉的事物的角色——那只是受日常习惯和“看见”才能“把握”的基本需要引导的“第一猜测与近似”。但请想一想：无论跟随玻尔还是玻姆、埃弗雷特还是薛定谔等等，人们可以采纳极不相同的本体论“着色”来理解量子力学。然而这些选择既不改变方程，也不改变物理常数，也不改变对称性原理与守恒定律。这清楚地表明，暗示某些本体论选项的“基本概念”，根本不像二元论—表象主义模型试图让我们相信的那样重要。物理知识的真正内核相反在于这些系统性的、关系性的值。我们构造物理同一性的方式也能印证这一事实。拿可见光、可触的红外热、不可察觉的无线电波与 X 射线来说：这些在我们感官见证下互不相容的现象，全都被物理学认定为“同一个东西”：不同波长的电磁波。被设定的“同一性”基于一个复杂的数学判断，断言这些现象服从相同的定律——麦克斯韦方程组——在关键的数值规定上一致，并归于同一个常量：光速。固定个体的“同一性”因此是一项复杂的逻辑成就，只有得益于同样的系统性值以及物理学符号系统整体论地相互关联的网络才能发生——它丝毫不给我们一个可以由以出发的“独立实体”的简单“基础”。是整体构成“要素”，而不是相反。",
+        {
+          "type": "note",
+          "id": "ch03-n31",
+          "label": "31"
+        }
+      ],
+      "units": 589
+    },
+    {
+      "id": "ch03-u037",
+      "source_ids": [
+        "ch03-u037"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Cassirer’s functional model of the constitution of meaning can thus help us to solve the interpretational problems of modern physics:"
+      ],
+      "zh": [
+        "卡西尔的意义构成功能模型由此能够帮助我们解决现代物理学的解释问题："
+      ],
+      "units": 20
+    },
+    {
+      "id": "ch03-u038",
+      "source_ids": [
+        "ch03-u038"
+      ],
+      "page": "91",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. By differentiating Symbolic forms according to their aim of orientation – as physics, language and the linguistically shaped perception – we can disentangle their diverging claims and admit that their respective symbolic system might differ in any of their components including their fix-points, without any contradiction to other Symbolic forms, each of them being perfectly valid for their respective domain. 2. By becoming aware of the actual constitutive functions of the objectivation process we can distance ourselves from its historically given forms and perceive changes on all levels as a necessary and welcome ingredient of successful and truthful objectivation."
+      ],
+      "zh": [
+        "1. 通过按定向目标区分象征形式——如物理学、语言以及被语言塑造的知觉——我们能够解开它们相互分歧的诉求，承认它们各自的符号系统可以在任何成分上有所不同，包括其固定点，而不与其他象征形式构成任何矛盾，每一种在其各自领域内都完全有效。2. 通过意识到客观化过程的实际构成性功能，我们能够与其历史上被给予的形态拉开距离，把一切层面上的变化视为成功的、真实的客观化的必要且受欢迎的成分。"
+      ],
+      "units": 98
+    },
+    {
+      "id": "ch03-u039",
+      "source_ids": [
+        "ch03-u039"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It would thus be possible to view Cassirer’s pluralistic position as a kind of ‘relativity theory of knowledge’ – it is not by accident that he first mentions his idea of a ‘philosophy of symbolic forms’ in his essay on relativity theory",
+        {
+          "type": "note",
+          "id": "ch03-n32",
+          "label": "32"
+        },
+        " – for his holistic model re-installs (1) the equivalence between all elements – fundament and principles – within a specific knowledge system itself and (2) the equivalence of different types of objectifying knowledge, affirming that their claim of veracity is equally justified, just as Einstein has claimed the equivalence of all possible inertial systems. There as here it is the discovery of deeper preconditions and the underlying dynamics which allows for the unifying, more encompassing view of the ancient parameters."
+      ],
+      "zh": [
+        "于是，可以把卡西尔的多元论立场看作一种“知识的相对论”——他最初是在论相对论的文章中提到“象征形式哲学”构想的，这并非偶然",
+        {
+          "type": "note",
+          "id": "ch03-n32",
+          "label": "32"
+        },
+        "——因为他的整体论模型重新确立了：（1）特定知识系统内部一切要素——基础与原理——之间的等价性；（2）不同类型的客观化知识之间的等价性，断言它们的真理性诉求同等地得到证成，正如爱因斯坦断言一切可能的惯性系等价。彼处如此，此处亦然：正是对更深前提条件及其底层动力学的发现，容许对古老参数作统一的、涵盖更广的看待。"
+      ],
+      "units": 118
+    },
+    {
+      "id": "ch03-u040",
+      "source_ids": [
+        "ch03-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As a summary Cassirer shows that the objectivation of physics presupposes:"
+      ],
+      "zh": [
+        "作为总结，卡西尔表明物理学的客观化预设了："
+      ],
+      "units": 11
+    },
+    {
+      "id": "ch03-u041",
+      "source_ids": [
+        "ch03-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. Symbolic reference as the primary condition which enables the physicist to constitute the differentiatedness, stability, identifiability and re-identifiability without which he would not be able to refer to ‘something’ as ‘this phenomenon’ at all\n2. The choice of a particular aim which provides the direction, the driving force and the criterion for progress\n3. The constitution of the symbolic means that structure and organize its specific symbolic system, fulfilling the transcendental functions of finding adequate fixpoints (constitute ‘basic entities’), of determining their relations and of anticipating a coherent and maximally simple unity of all components\n4. The choice of quantifying experiments that will operate physics’ crucial ‘transsubstantiation’ and can put to test the concrete questions its entire symbolic system allows to anticipate\n5. The search for an equilibrium, driven and guided by the different transcendental demands of its symbolic system – determinateness, univocity, stability, coherence, simplicity, unity – satisfying the measurement results which have been objectified thanks to this entire process of constitution\n6. Concrete criteria for its pragmatic success and justification, given by the functional, transcendental demands of its symbolic system"
+      ],
+      "zh": [
+        "1. 象征指称这一原初条件，它使物理学家能够构成可区分性、稳定性、可识别性与可再识别性，没有这些他就根本不能把“某物”指称为“这个现象”\n2. 对一个特定目标的选择，它提供方向、驱动力与进步的判准\n3. 象征手段的构成，这些手段结构化并组织其特定的符号系统，履行如下先验功能：寻找恰当的固定点（构成“基本实体”）、规定它们的关系、预期一切成分的融贯且最大简单的统一\n4. 对量化实验的选择，这些实验将实施物理学关键的“实体转化”，并能检验其整个符号系统所容许预期的具体问题\n5. 对平衡的寻求，由其符号系统不同的先验要求——规定性、单义性、稳定性、融贯性、简单性、统一性——驱动和引导，满足得益于这整个构成过程而被客观化的测量结果\n6. 其实用成功与证成的具体判准，由其符号系统的功能性先验要求给出。"
+      ],
+      "units": 181
+    },
+    {
+      "id": "ch03-u042",
+      "source_ids": [
+        "ch03-u042"
+      ],
+      "page": "92",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Having thus made the vital, concrete role of the transcendental conditions explicit, Cassirer can liberate us from limiting beliefs, surreptitiously conveyed by language and cultural tradition, and thus set free our full potential of comprehension and objectivation. Physics shows a similar critical potential - sometimes even in spite of itself – because it uses the neutral, prejudiceless language of mathematics following its own unambiguous rules: both can thus be precious allies, leading to an ever more concrete and demystified vision of objectivation. Refining our understanding by tracing back objectivity to objectivation, form to formation and ‘Gestalt’ to ‘Gestaltung’ Cassirer completes the critical ‘desubstantialisation’ of our conceptual means that Kant had begun. He succeeds in fluidifying our cognitive reifications by leading us back to the living source of all knowledge: the non-rationalizable capacity to choose, to give rules, to create orders, and to fearlessly abandon the judgement about their epistemic value to time and the circumstances. Thus Cassirer’s position does not only relate back each structured objectified element to its initial process of open symbolical structuring, but it also relates back abstract epistemology to the concrete situation of the ‘conditio humana’ and its worldliness. In this view knowledge appears as the result of a complex creative ordering process, brought forward by the anthropological need for orientation, driven by different freely chosen aims of objectivation, devising sensitive symbolical tools and order-patterns to achieve these goal and finally exposing the results of all these efforts to their relentless pragmatic testing. The human is thus characterized as an ‘animal symbolicum’,",
+        {
+          "type": "note",
+          "id": "ch03-n33",
+          "label": "33"
+        },
+        " free yet forced to forge his own understanding of himself and the world he experiences, relying on free creativity and honest pragmatism – as well as cultural tradition – to face this fact."
+      ],
+      "zh": [
+        "在这样阐明了先验条件至关重要的具体作用之后，卡西尔能够把我们从语言与文化传统偷偷传递的限制性信念中解放出来，从而释放我们理解与客观化的全部潜能。物理学显示出类似的批判潜能——有时甚至违背它自己的意愿——因为它使用数学这种中性的、无成见的语言，遵循其自身的单义规则：两者因此可以成为宝贵的盟友，导向对客观化日益具体、去神秘化的看待。通过把客观性追溯到客观化、把形式追溯到构形、把“格式塔”（Gestalt）追溯到“构形活动”（Gestaltung）来精炼我们的理解，卡西尔完成了康德已开始的对我们的概念手段的批判性“去实体化”。他使我们在认识中固化为实体的概念重新获得了灵活性，把我们引回一切知识的活源头：那不可理性化的能力——选择、给出规则、创造秩序，并无畏地把关于其认识价值的判断交给时间与处境。于是，卡西尔的立场不仅把每个被结构化的客观化要素回溯到其开放的象征结构化的初始过程，而且把抽象认识论回溯到“人的境况”（conditio humana）及其世界性的具体处境。在这种观点中，知识显现为一个复杂的创造性秩序化过程的结果：由人类学上的定向需要所推动，由自由选择的种种客观化目标所驱动，构想灵敏的象征工具与秩序模式以达成这些目标，最后把所有这些努力的结果交给无情的实用检验。人由此被刻画为“符号的动物”（animal symbolicum）",
+        {
+          "type": "note",
+          "id": "ch03-n33",
+          "label": "33"
+        },
+        "：自由却又不得不锻造他对自己及其所经验世界的理解，依靠自由的创造力与诚实的实用主义——以及文化传统——来面对这一事实。"
+      ],
+      "units": 285
+    },
+    {
+      "id": "ch03-u044",
+      "source_ids": [
+        "ch03-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Interestingly enough it is precisely when we give up the hope of a ‘direct grasp’ of ‘reality as such’, of a ‘final justification’, and when we accept the irremediable openness of the ‘conditio humana’, our ‘being on the way’, that we gain access to a mode of understanding that offers us all we could ask for: perfect determinateness of our objectified knowledge, clarity, unlimited adaptability, testability and concrete criteria for success. Ironically it is when we humbly concentrate on our own indirect symbolic mediation and adopt a standpoint of sober immanence, that we can really enter a process of true discovery of the unknown."
+      ],
+      "zh": [
+        "颇有意思的是，恰恰当我们放弃“直接把握”“实在本身”的希望、放弃“最终证成”的希望，接受“人的境况”那无从消除的开放性、接受我们“在途中”的存在时，我们才获得进入一种理解方式的通道，它提供我们所能要求的一切：我们客观化知识充分明确的规定性、清晰性、无限的适应性、可检验性以及成功的具体判准。具有讽刺意味的是，恰恰当我们谦逊地专注于我们自己的间接象征中介、采取清醒的内在性立场时，我们才能真正进入一个发现未知者的真实过程。"
+      ],
+      "units": 104
+    },
+    {
+      "id": "ch03-u045",
+      "source_ids": [
+        "ch03-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It looks as if the transcendental method is the best way to fulfil the realist’s dream."
+      ],
+      "zh": [
+        "看起来，先验方法正是实现实在论者梦想的最佳途径。"
+      ],
+      "units": 16
+    },
+    {
+      "id": "ch03-u043",
+      "source_ids": [
+        "ch03-u043"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch03-bibliography-001",
+      "source_ids": [
+        "ch03-ref004",
+        "ch03-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N.: The philosophical writings of Niels Bohr, vol II, Essays 1932–1957, Woodbridge, Ox Bow Press 1987"
+      ],
+      "zh": [
+        "Bohr, N.: The philosophical writings of Niels Bohr, vol II, Essays 1932–1957, Woodbridge, Ox Bow Press 1987"
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch03-bibliography-002",
+      "source_ids": [
+        "ch03-ref005",
+        "ch03-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N.: Discussion with Einstein on epistemological problems of atomic physics. In: The philosophical writings of Niels Bohr, Vol II, Essays 1932–1957, Woodbridge 1987"
+      ],
+      "zh": [
+        "Bohr, N.: Discussion with Einstein on epistemological problems of atomic physics. In: The philosophical writings of Niels Bohr, Vol II, Essays 1932–1957, Woodbridge 1987"
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch03-bibliography-003",
+      "source_ids": [
+        "ch03-ref006",
+        "ch03-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N.: Unity of Knowledge. In: The philosophical writings of Niels Bohr, Vol II, Essays 1932–1957, Woodbridge 1987"
+      ],
+      "zh": [
+        "Bohr, N.: Unity of Knowledge. In: The philosophical writings of Niels Bohr, Vol II, Essays 1932–1957, Woodbridge 1987"
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch03-bibliography-004",
+      "source_ids": [
+        "ch03-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E.: SFB: Substanzbegriff und Funktionsbegriff. Berlin 1910"
+      ],
+      "zh": [
+        "Cassirer, E.: SFB: Substanzbegriff und Funktionsbegriff. Berlin 1910"
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch03-bibliography-005",
+      "source_ids": [
+        "ch03-ref010",
+        "ch03-ref011"
+      ],
+      "page": "93",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E.: Erkenntnistheorie nebst den Grenzfragen der Logik und Denkpsychologie, in: Jahrbücher der Philosophie, ed. by Willy Moog, 1927"
+      ],
+      "zh": [
+        "Cassirer, E.: Erkenntnistheorie nebst den Grenzfragen der Logik und Denkpsychologie, in: Jahrbücher der Philosophie, ed. by Willy Moog, 1927"
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch03-bibliography-006",
+      "source_ids": [
+        "ch03-ref011",
+        "ch03-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E.: ZMP: Zur modernen Physik, Darmstadt 1964; (a) Zur Einstein’schen Relativitätstheorie. Erkenntnistheoretische Betrachtungen, Berlin 1921; (b) Determinismus und Indeterminismus in der modernen Physik. Historische und systematische Studien zum Kausalproblem, Göteborg 1936"
+      ],
+      "zh": [
+        "Cassirer, E.: ZMP: Zur modernen Physik, Darmstadt 1964; (a) Zur Einstein’schen Relativitätstheorie. Erkenntnistheoretische Betrachtungen, Berlin 1921; (b) Determinismus und Indeterminismus in der modernen Physik. Historische und systematische Studien zum Kausalproblem, Göteborg 1936"
+      ],
+      "shared": true,
+      "units": 32
+    },
+    {
+      "id": "ch03-bibliography-007",
+      "source_ids": [
+        "ch03-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E.: PSF: Philosophie der symbolischen Formen (1923–1929), Darmstadt 1953/1954"
+      ],
+      "zh": [
+        "Cassirer, E.: PSF: Philosophie der symbolischen Formen (1923–1929), Darmstadt 1953/1954"
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch03-bibliography-008",
+      "source_ids": [
+        "ch03-ref012",
+        "ch03-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E.: Versuch über den Menschen. Einführung in eine Philosophie der Kultur, Frankfurt/M 1990"
+      ],
+      "zh": [
+        "Cassirer, E.: Versuch über den Menschen. Einführung in eine Philosophie der Kultur, Frankfurt/M 1990"
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch03-bibliography-009",
+      "source_ids": [
+        "ch03-ref013",
+        "ch03-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E.: Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit, Darmstadt 1971/1973, 1991"
+      ],
+      "zh": [
+        "Cassirer, E.: Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit, Darmstadt 1971/1973, 1991"
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch03-bibliography-010",
+      "source_ids": [
+        "ch03-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Dirac, P.A.M.: Principles of Quantum Mechanics, Oxford 1958"
+      ],
+      "zh": [
+        "Dirac, P.A.M.: Principles of Quantum Mechanics, Oxford 1958"
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch03-bibliography-011",
+      "source_ids": [
+        "ch03-ref014",
+        "ch03-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Dosch, H.G.: Cassirers Erkenntnistheorie, Kommentar eines Physikers. In: Determinismus – Indeterminismus, ed. by W. Marx, Frankfurt/Main 1990"
+      ],
+      "zh": [
+        "Dosch, H.G.: Cassirers Erkenntnistheorie, Kommentar eines Physikers. In: Determinismus – Indeterminismus, ed. by W. Marx, Frankfurt/Main 1990"
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch03-bibliography-012",
+      "source_ids": [
+        "ch03-ref015",
+        "ch03-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Dosch, H.G.: Renormalized Quantum Field Theory and Cassirer’s Epistemological System, in: Philosophia Naturalis, vol. 28, 1991, part 1"
+      ],
+      "zh": [
+        "Dosch, H.G.: Renormalized Quantum Field Theory and Cassirer’s Epistemological System, in: Philosophia Naturalis, vol. 28, 1991, part 1"
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch03-bibliography-013",
+      "source_ids": [
+        "ch03-ref016",
+        "ch03-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Einstein, A.: Zur Elektrodynamik bewegter Körper, in: The collected papers of Albert Einstein, ed. by J. Stachel, Bd. 2, The Swiss Years: writings 1900–1909, Princeton, NJ 1989"
+      ],
+      "zh": [
+        "Einstein, A.: Zur Elektrodynamik bewegter Körper, in: The collected papers of Albert Einstein, ed. by J. Stachel, Bd. 2, The Swiss Years: writings 1900–1909, Princeton, NJ 1989"
+      ],
+      "shared": true,
+      "units": 28
+    },
+    {
+      "id": "ch03-bibliography-014",
+      "source_ids": [
+        "ch03-ref017",
+        "ch03-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I.: KrV, Kritik der reinen Vernunft (1781/1787), ed. by W. Weischedel, Frankfurt/Main 1968"
+      ],
+      "zh": [
+        "Kant, I.: KrV, Kritik der reinen Vernunft (1781/1787), ed. by W. Weischedel, Frankfurt/Main 1968"
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch03-bibliography-015",
+      "source_ids": [
+        "ch03-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Krois, J. M.: Symbolic Forms and History, New Haven/London 1987"
+      ],
+      "zh": [
+        "Krois, J. M.: Symbolic Forms and History, New Haven/London 1987"
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch03-bibliography-016",
+      "source_ids": [
+        "ch03-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Pauli, W.: Aufsätze und Vorträge über Physik und Erkenntnistheorie, Braunschweig 1961"
+      ],
+      "zh": [
+        "Pauli, W.: Aufsätze und Vorträge über Physik und Erkenntnistheorie, Braunschweig 1961"
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch03-bibliography-017",
+      "source_ids": [
+        "ch03-ref018",
+        "ch03-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Pauli, W.: Phänomen und physikalische Realität. In: Aufsätze und Vorträge über Physik und Erkenntnisthedie, Braunschweig 1961"
+      ],
+      "zh": [
+        "Pauli, W.: Phänomen und physikalische Realität. In: Aufsätze und Vorträge über Physik und Erkenntnisthedie, Braunschweig 1961"
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch03-bibliography-018",
+      "source_ids": [
+        "ch03-ref019",
+        "ch03-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Pauli, W.: Raum, Zeit und Kausalität in der modernen Physik. In: Aufsätze und Vorträge über Physik und Erkenntnisthedie, Braunschweig 1961"
+      ],
+      "zh": [
+        "Pauli, W.: Raum, Zeit und Kausalität in der modernen Physik. In: Aufsätze und Vorträge über Physik und Erkenntnisthedie, Braunschweig 1961"
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch03-bibliography-019",
+      "source_ids": [
+        "ch03-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Poincaré, H.: La science et l’hypothèse, Paris 1968"
+      ],
+      "zh": [
+        "Poincaré, H.: La science et l’hypothèse, Paris 1968"
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch03-bibliography-020",
+      "source_ids": [
+        "ch03-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schmitz-Rigal, C.: Die Kunst offenen Wissens, Hamburg 2002"
+      ],
+      "zh": [
+        "Schmitz-Rigal, C.: Die Kunst offenen Wissens, Hamburg 2002"
+      ],
+      "shared": true,
+      "units": 8
+    }
+  ],
+  "notes": {
+    "ch03-n01": {
+      "number": "1",
+      "en": [
+        "For a detailed discussion of Cassirer’s philosophy and the interpretation of modern physics see C. Schmitz-Rigal, Die Kunst offenen Wissens."
+      ],
+      "zh": [
+        "关于卡西尔哲学及现代物理学解释的详细讨论，见 C. 施密茨—里加尔：《开放知识的艺术》（Die Kunst offenen Wissens）。"
+      ]
+    },
+    "ch03-n02": {
+      "number": "2",
+      "en": [
+        "E. Cassirer, ZMP, 131: “meine Grundanschauung […] auf Grund der Entwicklung der modernen Physik schärfer formulieren und besser begründen zu können als es früher der Fall war” Cp. a. ZMP, 277."
+      ],
+      "zh": [
+        "E. 卡西尔，ZMP，第131页：“meine Grundanschauung […] auf Grund der Entwicklung der modernen Physik schärfer formulieren und besser begründen zu können als es früher der Fall war”（我的基本观点……得益于现代物理学的发展，能够比以往表述得更精确、论证得更好）。另参 ZMP，第277页。"
+      ]
+    },
+    "ch03-n03": {
+      "number": "3",
+      "en": [
+        "See H.G. Dosch: Renormalized Quantum Field Theory and Cassirer’s Epistemological System."
+      ],
+      "zh": [
+        "见 H. G. 多施：《重整化量子场论与卡西尔的认识论体系》（Renormalized Quantum Field Theory and Cassirer's Epistemological System）。"
+      ]
+    },
+    "ch03-n04": {
+      "number": "4",
+      "en": [
+        "N. Bohr: Discussion with Einstein, p. 63, italics C.S."
+      ],
+      "zh": [
+        "N. 玻尔：《与爱因斯坦的讨论》（Discussion with Einstein），第63页，着重号为 C. S. 所加。"
+      ]
+    },
+    "ch03-n05": {
+      "number": "5",
+      "en": [
+        "E. Cassirer: Substanzbegriff und Funktionsbegriff."
+      ],
+      "zh": [
+        "E. 卡西尔：《实体概念与函数概念》（Substanzbegriff und Funktionsbegriff）。"
+      ]
+    },
+    "ch03-n06": {
+      "number": "6",
+      "en": [
+        "E. Cassirer, PSF III, 398: “Mutterboden der Anschauung”, “Mutterboden der Sprache”."
+      ],
+      "zh": [
+        "E. 卡西尔，PSF III，第398页：“Mutterboden der Anschauung”（直观的母土），“Mutterboden der Sprache”（语言的母土）。"
+      ]
+    },
+    "ch03-n07": {
+      "number": "7",
+      "en": [
+        "E. Cassirer: Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit."
+      ],
+      "zh": [
+        "E. 卡西尔：《近代哲学与科学中的认识问题》（Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit）。"
+      ]
+    },
+    "ch03-n08": {
+      "number": "8",
+      "en": [
+        "Cassirer refers to J. Dewey, but particularly to W. James (see f. ex. SFB 319, 382, 388, 424, 441)."
+      ],
+      "zh": [
+        "卡西尔提到 J. 杜威，但尤其是 W. 詹姆斯（例如见 SFB 第319、382、388、424、441页）。"
+      ]
+    },
+    "ch03-n09": {
+      "number": "9",
+      "en": [
+        "E. Cassirer: Erkenntnistheorie nebst den Grenzfragen der Logik und Denkpsychologie, p. 34: “müssen wir […] das Erkenntnisproblem und das Wahrheitsproblem als Sonderfälle des allgemeinen Bedeutungsproblems begreifen”. See also E. Cassirer, PSF III, 229. J.M. Krois also stresses this underestimated fact. Cp: Symbolic Forms and History, p. 44ff."
+      ],
+      "zh": [
+        "E. 卡西尔：《认识论兼论逻辑与思维心理学的边界问题》（Erkenntnistheorie nebst den Grenzfragen der Logik und Denkpsychologie），第34页：“müssen wir […] das Erkenntnisproblem und das Wahrheitsproblem als Sonderfälle des allgemeinen Bedeutungsproblems begreifen”（我们必须……把认识问题和真理问题理解为一般意义问题的特例）。另见 E. 卡西尔，PSF III，第229页。J. M. 克罗斯也强调了这一被低估的事实。参《象征形式与历史》（Symbolic Forms and History），第44页及以下。"
+      ]
+    },
+    "ch03-n10": {
+      "number": "10",
+      "en": [
+        "See E. Cassirer, PSF III, 102 (“Urphänomen”), PSF I, 34 (“Urfunktion”), PSF III, 61 (“Urfaktum”), cp. also PSF III, 117, 229, 462, 458f., 524."
+      ],
+      "zh": [
+        "见 E. 卡西尔，PSF III，第102页（“Urphänomen”，原初现象），PSF I，第34页（“Urfunktion”，原初功能），PSF III，第61页（“Urfaktum”，原初事实）；另参 PSF III，第117、229、462、458页及以下、524页。"
+      ]
+    },
+    "ch03-n11": {
+      "number": "11",
+      "en": [
+        "H. Poincaré: La science et l’hypothèse, p. 158: “Jean sans terre a passé par ici: voilà ce qui est admirable, voilà une réalité pour laquelle je donnerais toutes les théories du monde. C’est là le langage de l’historien. Le physicien dirait plutôt: Jean sans terre a passé par ici; cela m’est bien égal, puisqu’il n’y repassera plus.”"
+      ],
+      "zh": [
+        "H. 彭加勒：《科学与假设》（La science et l'hypothèse），第158页：“Jean sans terre a passé par ici: voilà ce qui est admirable, voilà une réalité pour laquelle je donnerais toutes les théories du monde. C'est là le langage de l'historien. Le physicien dirait plutôt: Jean sans terre a passé par ici; cela m'est bien égal, puisqu'il n'y repassera plus.”（“无地王约翰”曾从这里经过：这才是令人赞叹的东西，是我愿意拿世界上全部理论去交换的实在。这是历史学家的语言。物理学家则宁可说：“无地王约翰”曾从这里经过，那与我何干，因为他不会再从这里经过了。）"
+      ]
+    },
+    "ch03-n12": {
+      "number": "12",
+      "en": [
+        "W. Pauli: Phänomen und physikalische Realität, p. 94."
+      ],
+      "zh": [
+        "W. 泡利：《现象与物理实在》（Phänomen und physikalische Realität），第94页。"
+      ]
+    },
+    "ch03-n13": {
+      "number": "13",
+      "en": [
+        "E. Cassirer, PSF III, 234: “verschiedener Modalitäten der Sinngebung”."
+      ],
+      "zh": [
+        "E. 卡西尔，PSF III，第234页：“verschiedener Modalitäten der Sinngebung”（赋义的不同样态）。"
+      ]
+    },
+    "ch03-n14": {
+      "number": "14",
+      "en": [
+        "Cp. E. Cassirer: Zur Logik der Kulturwissenschaften, p. 101: “Mehrdimensionalität der Erkenntnis”."
+      ],
+      "zh": [
+        "参 E. 卡西尔：《论文化科学的逻辑》（Zur Logik der Kulturwissenschaften），第101页：“Mehrdimensionalität der Erkenntnis”（知识的多维性）。"
+      ]
+    },
+    "ch03-n15": {
+      "number": "15",
+      "en": [
+        "E. Cassirer, PSF I, 11: “Die Kritik der Vernunft wird damit zur Kritik der Kultur.”"
+      ],
+      "zh": [
+        "E. 卡西尔，PSF I，第11页：“Die Kritik der Vernunft wird damit zur Kritik der Kultur.”（理性批判由此成为文化批判。）"
+      ]
+    },
+    "ch03-n16": {
+      "number": "16",
+      "en": [
+        "E. Cassirer, PSF III, 510. Cp. a. 503ff., especially 513."
+      ],
+      "zh": [
+        "E. 卡西尔，PSF III，第510页。另参第503页及以下，尤其第513页。"
+      ]
+    },
+    "ch03-n17": {
+      "number": "17",
+      "en": [
+        "E. Cassirer, PSF III, 510: “Inbegriff von Zahlund Maßbestimmungen”, Cassirer’s italics."
+      ],
+      "zh": [
+        "E. 卡西尔，PSF III，第510页：“Inbegriff von Zahl- und Maßbestimmungen”（数与量度规定的总和），着重号为卡西尔所加。"
+      ]
+    },
+    "ch03-n18": {
+      "number": "18",
+      "en": [
+        "N. Bohr: Unity of Knowledge, p. 67."
+      ],
+      "zh": [
+        "N. 玻尔：《知识的统一》（Unity of Knowledge），第67页。"
+      ]
+    },
+    "ch03-n19": {
+      "number": "19",
+      "en": [
+        "E. Cassirer, PSF III, 389, cp. also 396, 400, 408."
+      ],
+      "zh": [
+        "E. 卡西尔，PSF III，第389页；另参第396、400、408页。"
+      ]
+    },
+    "ch03-n20": {
+      "number": "20",
+      "en": [
+        "E. Cassirer, ZMP, 161–194: “Maßbegriffe”, “Gesetzesbegriffe” und “Prinzipienaussagen”."
+      ],
+      "zh": [
+        "E. 卡西尔，ZMP，第161–194页：“Maßbegriffe”（量度概念）、“Gesetzesbegriffe”（定律概念）与“Prinzipienaussagen”（原理命题）。"
+      ]
+    },
+    "ch03-n21": {
+      "number": "21",
+      "en": [
+        "E. Cassirer, ZMP, 194: “Sprung ins Leere”."
+      ],
+      "zh": [
+        "E. 卡西尔，ZMP，第194页：“Sprung ins Leere”（跃入虚空）。"
+      ]
+    },
+    "ch03-n22": {
+      "number": "22",
+      "en": [
+        "I. Kant, KrV, A 644."
+      ],
+      "zh": [
+        "I. 康德，《纯粹理性批判》，A 644。"
+      ]
+    },
+    "ch03-n23": {
+      "number": "23",
+      "en": [
+        "Even more profoundly it can be shown that it is in fact this holistic structure of mutual constitution, which makes the phenomenon of mutual reference, of symbolic reference possible. For if every element is a function of all the others, it can also stand for another one or for the whole and thus act as the ‘sign of’. Cp. C. Schmitz-Rigal, Die Kunst offenen Wissens, p. 112 – 115."
+      ],
+      "zh": [
+        "还可以更深刻地表明：事实上正是这种相互构成的整体论结构，使相互指称、象征指称的现象成为可能。因为如果每个要素都是所有其他要素的函数，它也就能代表另一个要素或代表整体，从而充当“……的符号”。参 C. 施密茨—里加尔：《开放知识的艺术》（Die Kunst offenen Wissens），第112–115页。"
+      ]
+    },
+    "ch03-n24": {
+      "number": "24",
+      "en": [
+        "E. Cassirer, PSF III, 492 f.: “Das Erste: die Wahl […] steht uns frei – aber beim Zweiten und bei allem Folgenden sind wir Knechte.”"
+      ],
+      "zh": [
+        "E. 卡西尔，PSF III，第492页及以下：“Das Erste: die Wahl […] steht uns frei – aber beim Zweiten und bei allem Folgenden sind wir Knechte.”（第一步：选择……由我们自由决定——但在第二步及其后的一切事情上，我们都是仆人。）"
+      ]
+    },
+    "ch03-n25": {
+      "number": "25",
+      "en": [
+        "I. Kant, KrV, A 328; see also KrV, A 671."
+      ],
+      "zh": [
+        "I. 康德，《纯粹理性批判》，A 328；另见 A 671。"
+      ]
+    },
+    "ch03-n26": {
+      "number": "26",
+      "en": [
+        "E. Cassirer, SFB, 423: “ ‘Wahr’ heißt uns ein Satz, nicht weil er mit einer festen Realität jenseits alles Denkens und aller Denkbarkeit übereinstimmt, sondern weil er sich im Prozeß des Denkens selbst bewährt und zu neuen fruchtbaren Folgerungen hinleitet. Seine eigentliche Rechtfertigung ist die Wirksamkeit, die er in Richtung auf die fortschreitende Vereinheitlichung entfaltet.”"
+      ],
+      "zh": [
+        "E. 卡西尔，SFB，第423页：“‘Wahr’ heißt uns ein Satz, nicht weil er mit einer festen Realität jenseits alles Denkens und aller Denkbarkeit übereinstimmt, sondern weil er sich im Prozeß des Denkens selbst bewährt und zu neuen fruchtbaren Folgerungen hinleitet. Seine eigentliche Rechtfertigung ist die Wirksamkeit, die er in Richtung auf die fortschreitende Vereinheitlichung entfaltet.”（我们称一个命题为“真”，不是因为它与超出一切思维与一切可思维性的固定实在相符合，而是因为它在思维过程本身之中证明自己有效，并导向新的富有成果的推论。它真正的证成，是它朝渐进统一的方向所展开的效力。）"
+      ]
+    },
+    "ch03-n27": {
+      "number": "27",
+      "en": [
+        "A. Einstein: Zur Elektrodynamik bewegter Körper, p. 276f.: “Wir wollen diese Vermutung (deren Inhalt im folgenden ‘Prinzip der Relativität’ genannt werden wird) zur Voraussetzung erheben.”"
+      ],
+      "zh": [
+        "A. 爱因斯坦：《论动体的电动力学》（Zur Elektrodynamik bewegter Körper），第276页及以下：“Wir wollen diese Vermutung (deren Inhalt im folgenden ‘Prinzip der Relativität’ genannt werden wird) zur Voraussetzung erheben.”（我们要把这一猜想——其内容在下文中将被称为“相对性原理”——提升为前提。）"
+      ]
+    },
+    "ch03-n28": {
+      "number": "28",
+      "en": [
+        "Cp. E. Cassirer, ZMP, 71: “letzten Rest physikalischer Gegenständlichkeit”."
+      ],
+      "zh": [
+        "参 E. 卡西尔，ZMP，第71页：“letzten Rest physikalischer Gegenständlichkeit”（物理对象性的最后残余）。"
+      ]
+    },
+    "ch03-n29": {
+      "number": "29",
+      "en": [
+        "Cp. E. Cassirer, ZMP, 179."
+      ],
+      "zh": [
+        "参 E. 卡西尔，ZMP，第179页。"
+      ]
+    },
+    "ch03-n30": {
+      "number": "30",
+      "en": [
+        "P.A.M. Dirac: Principles of Quantum Mechanics, p. 10. W. Pauli defends the same point of view, see ‘Raum, Zeit und Kausalität in der modernen Physik’, p. 68f., 74."
+      ],
+      "zh": [
+        "P. A. M. 狄拉克：《量子力学原理》（Principles of Quantum Mechanics），第10页。W. 泡利持相同观点，见《现代物理学中的空间、时间与因果性》（Raum, Zeit und Kausalität in der modernen Physik），第68页及以下、74页。"
+      ]
+    },
+    "ch03-n31": {
+      "number": "31",
+      "en": [
+        "Cassirer has learned from Leibniz’s struggle to conceptualize dynamical processes mathematically that epistemically speaking the determinateness of the ‘single element’ is the result of a process of discretisation. Therefore Cassirer no longer starts with ‘basic elements’, the seemingly ‘simple’, in order to arrive at a higher order by ‘syn-thesis’ as Kant does. But on the contrary he considers that it is already part of the open ‘problem of knowledge’ to arrive at the determination of something as discrete by differentiation. For we can only rightly claim and reason logical determinateness if it is itself the product of a precise process of determination."
+      ],
+      "zh": [
+        "卡西尔从莱布尼茨把动力学过程数学概念化的努力中学到：就认识而言，“单个要素”的规定性是一个离散化过程的结果。因此卡西尔不再像康德那样从“基本要素”、从看似“简单者”出发，通过“综—合”达到更高秩序。相反，他认为通过区分把某物规定为离散者，这本身已经是开放的“认识问题”的一部分。因为只有当逻辑规定性本身是一个精确的规定过程的产物时，我们才能正当地主张并推论它。"
+      ]
+    },
+    "ch03-n32": {
+      "number": "32",
+      "en": [
+        "E. Cassirer, ZMP, 108–110."
+      ],
+      "zh": [
+        "E. 卡西尔，ZMP，第108–110页。"
+      ]
+    },
+    "ch03-n33": {
+      "number": "33",
+      "en": [
+        "E. Cassirer: Versuch über den Menschen, p. 51."
+      ],
+      "zh": [
+        "E. 卡西尔：《人论》（Versuch über den Menschen），第51页。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1358 @@
+{
+  "id": "ch01",
+  "title": "牛顿与康德论绝对空间：从神学到先验哲学",
+  "originalTitle": "Newton and Kant on Absolute Space: From Theology to Transcendental Philosophy",
+  "outline": [
+    {
+      "anchor": "ch01-u036",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch01-u001",
+      "source_ids": [
+        "ch01-u001"
+      ],
+      "page": "35",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch01-u002",
+      "source_ids": [
+        "ch01-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Michael Friedman"
+      ],
+      "zh": [
+        "迈克尔·弗里德曼"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch01-u003",
+      "source_ids": [
+        "ch01-u003"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract I argue that Einstein’s creation of both special and general relativity instantiates Reichenbach’s conception of the relativized a priori. I do this by showing how the original Kantian conception actually contributes to the development of Einstein’s theories through the intervening philosophical and scientific work of Helmholtz, Mach, and Poincaré."
+      ],
+      "zh": [
+        "摘要　我论证：爱因斯坦创立狭义与广义相对论，例示了赖欣巴赫的相对化先天构想。我的做法是展示原初的康德式构想如何通过亥姆霍兹、马赫和彭加勒承前启后的哲学与科学研究，实际促成了爱因斯坦理论的发展。"
+      ],
+      "units": 50
+    },
+    {
+      "id": "ch01-u004",
+      "source_ids": [
+        "ch01-u004"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "M. Friedman Stanford University"
+      ],
+      "zh": [
+        "M. Friedman Stanford University"
+      ],
+      "shared": true,
+      "units": 4
+    },
+    {
+      "id": "ch01-u005",
+      "source_ids": [
+        "ch01-u005"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In my previous work on Newton and Kant I have primarily emphasized methodological issues: why Kant takes the Newtonian Laws of Motion (as well as certain related propositions of what he calls “pure natural science”) as synthetic a priori constitutive principles rather than mere empirical laws, and how this point is intimately connected, in turn, with Kant’s conception of absolute space as a regulative idea of reason – as the limit point of an empirical constructive procedure rather than a self-subsistent “container” existing prior to and independently of all perceptible matter. I have also argued that these methodological differences explain the circumstance that Kant, unlike Newton, asserts that gravitational attraction must be conceived as an “action at a distance through empty space,” and even formulates a (rare) criticism of Newton for attempting to leave the question of the “true cause” of gravitational attraction entirely open. In this paper I emphasize the importance of metaphysical and theological issues – about God, his creation of the material world in space, and the consequences different views of such creation have for the metaphysical foundations of physics. I argue, in particular, that Kant’s differences with Newton over these issues constitute an essential part of his radical transformation of the very meaning of metaphysics as practiced by his predecessors. I also suggest that the metaphysical and theological issues in question form an essential part of the intellectual context for the methodological issues I have emphasized previously – especially the issue of action at a distance."
+      ],
+      "zh": [
+        "在我此前关于牛顿与康德的研究中，我主要强调方法论问题：康德为什么把牛顿运动定律（以及他所谓“纯粹自然科学”的某些相关命题）视为综合先天的构成性原理而非单纯的经验定律，以及这一点又如何反过来与康德把绝对空间理解为理性的调节性理念——理解为一种经验性构造程序的极限点，而不是先于并独立于一切可感知物质而存在的自存“容器”——密切相关。我还论证过，这些方法论差异解释了如下情形：与牛顿不同，康德断言引力必须被设想为“穿过空无一物的空间而发生的超距作用”，甚至（罕见地）批评牛顿试图把引力的“真正原因”问题完全悬置。在本文中，我强调形而上学与神学问题的重要性——关于上帝、他在空间中创造物质世界、以及对这种创造的不同看法给物理学的形而上学基础带来的后果。我尤其论证：康德与牛顿在这些问题上的分歧，构成他对前辈们所实践的形而上学之意义进行彻底改造的关键部分。我还提出：上述形而上学与神学问题，构成我此前强调的方法论问题——尤其是超距作用问题——的思想语境的关键部分。"
+      ],
+      "units": 247
+    },
+    {
+      "id": "ch01-u006",
+      "source_ids": [
+        "ch01-u006"
+      ],
+      "page": "36",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is now well known that the main target of Newton’s rejection of “relationalism” in favor of an “absolutist” metaphysics of space was Descartes, and the locus classicus for Newton’s own metaphysics of space is his unpublished De Gravitatione.",
+        {
+          "type": "note",
+          "id": "ch01-n01",
+          "label": "1"
+        },
+        " What was most important for Newton was decisively to reject Descartes’s identification of matter with extension and to defend, accordingly, the concept of absolute (empty) space existing prior to and independently of matter. Yet Newton, like Descartes before him, also appropriated philosophical ideas from the neo-Platonic tradition,",
+        {
+          "type": "note",
+          "id": "ch01-n02",
+          "label": "2"
+        },
+        " which he incorporated into his own metaphysics. For Newton, the most salient source of such ideas was the Cambridge Platonism represented especially by Henry More, and Newton employs them in his doctrine that absolute space is neither a substance nor an accident, but what he calls “an emanative effect of God and an affection of every kind of being” (De Grav., p. 21).",
+        {
+          "type": "note",
+          "id": "ch01-n03",
+          "label": "3"
+        },
+        " In particular, absolute space or pure extension is even an affection of God himself, since God is omnipresent or everywhere. God can thereby create matter or body (as something quite distinct from pure extension) by endowing certain determined regions of space with the conditions of mobility, impenetrability, and obedience to the laws of motion. God can do this anywhere in space, in virtue of his omnipresence, by his immediate thought and will, just as our souls can move our bodies by our immediate thought and will. It is essentially this doctrine which surfaces in Newton’s well-known published statements, in the General Scholium to the Principia and the Queries the Optics, that space is the “sensorium” of God.",
+        {
+          "type": "note",
+          "id": "ch01-n04",
+          "label": "4"
+        }
+      ],
+      "zh": [
+        "如今众所周知，牛顿拒斥“关系主义”、转而支持一种“绝对主义”空间形而上学，其主要靶子是笛卡尔；而牛顿本人空间形而上学的经典出处，是他生前未发表的《论引力》（De Gravitatione）。",
+        {
+          "type": "note",
+          "id": "ch01-n01",
+          "label": "1"
+        },
+        "对牛顿而言，最重要的是决定性地拒斥笛卡尔把物质与广延相等同的做法，并相应地捍卫先于并独立于物质而存在的绝对（虚空）空间概念。然而牛顿也像他之前的笛卡尔一样，挪用了新柏拉图主义传统的哲学观念，",
+        {
+          "type": "note",
+          "id": "ch01-n02",
+          "label": "2"
+        },
+        "并把它们纳入自己的形而上学。对牛顿来说，这类观念最显著的来源是以亨利·莫尔为代表的剑桥柏拉图主义；牛顿把它们用于自己的学说：绝对空间既不是实体也不是偶性，而是他所谓“上帝的流溢结果与一切存在者的一种性状”（《论引力》，第21页）。",
+        {
+          "type": "note",
+          "id": "ch01-n03",
+          "label": "3"
+        },
+        "特别地，绝对空间或纯粹广延甚至是上帝自身的一种性状，因为上帝无所不在。由此，上帝可以通过赋予空间的某些确定区域以可动性、不可入性和服从运动定律这些条件，来创造物质或物体（作为与纯粹广延完全不同的东西）。凭借其遍在，上帝可以在空间中任何地方凭其直接的思想与意志做到这一点，正如我们的灵魂能凭我们直接的思想与意志移动我们的身体。本质上正是这一学说，浮现于牛顿著名的已发表陈述中——《原理》的“总释”和《光学》的“疑问”中说空间是上帝的“感觉中枢”（sensorium）。",
+        {
+          "type": "note",
+          "id": "ch01-n04",
+          "label": "4"
+        }
+      ],
+      "units": 266
+    },
+    {
+      "id": "ch01-u007",
+      "source_ids": [
+        "ch01-u007"
+      ],
+      "page": "37",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The sharp differences between Descartes’s and Newton’s metaphysics of space – their different conceptions of the relationships among space, God, and matter – are of fundamental importance. For Descartes, since space is simply identical with matter, God creates matter by creating space itself, and it is precisely this act of creation of space at successive moments of time that is responsible for the laws of motion. In particular, the conservation of what Descartes called the total “quantity of motion” results from the unity and simplicity of God, whereby God continually recreates the entire universe (the whole of pure extension, whose various parts may have different instantaneous tendencies to motion at any given time) at each instant while constantly expressing the very same divine essence. For Newton, by contrast, matter and space have radically different statuses vis-à-vis God’s creation. Space is “an emanative effect of God and an affection of every kind of being,” including God, while matter is the result of God’s creative activity in space, wherein certain determined regions are then endowed with the conditions of mobility, impenetrability, and obedience to the laws of motion. By instituting the laws of motion, in particular, God thereby endows certain regions of space with Newtonian mass or quantity of matter (vis inertiae), and the presence of this quantity, specifically, clearly distinguishes matter from empty space. This not only leads, following earlier work of Wren, Wallis, and Huygens, to a much more adequate formulation of the laws of impact (whereas Descartes’s inadequate formulation had no room for the quantity of mass, and thus no room for momentum or quantity of motion in the Newtonian sense), it eventually leads to the theory of universal gravitation of Book III of the Principia. And this theory, in turn, puts the notions of absolute space, time, and motion to real physical work in determining the center of mass of the solar system as the true “center of the world.”"
+      ],
+      "zh": [
+        "笛卡尔与牛顿的空间形而上学之间的尖锐差异——他们对空间、上帝与物质三者关系的不同构想——具有根本的重要性。对笛卡尔来说，既然空间与物质直接同一，上帝就通过创造空间本身来创造物质，而正是这种在相继的每一时刻创造空间的行动，产生了运动定律。特别地，笛卡尔所谓总“运动量”的守恒，源于上帝的统一性与单纯性：上帝在每一瞬间不断地重新创造整个宇宙（纯粹广延的整体，其各部分在任一给定时刻可以有不同的瞬时运动倾向），同时恒常地表达同一个神圣本质。对牛顿来说则相反，物质与空间相对于上帝的创造具有根本不同的地位。空间是“上帝的流溢结果与一切存在者的一种性状”，包括上帝在内；而物质是上帝在空间中的创造活动的结果，其中某些确定区域被赋予可动性、不可入性和服从运动定律的条件。特别地，通过设立运动定律，上帝由此赋予空间的某些区域以牛顿式质量或物质的量（惯性力，vis inertiae），而正是这个量的在场，清楚地把物质与虚空空间区分开来。这不仅在雷恩、沃利斯和惠更斯先前工作的基础上，导致对碰撞定律远为充分的表述（笛卡尔不充分的表述没有给质量这个量留出位置，因而也没有给牛顿意义上的动量或运动量留出位置），而且最终导致《原理》第三卷的万有引力理论。而这一理论反过来让绝对空间、时间和运动的概念投入真正的物理工作：把太阳系的质心确定为真正的“世界中心”。"
+      ],
+      "units": 320
+    },
+    {
+      "id": "ch01-u008",
+      "source_ids": [
+        "ch01-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Nevertheless, despite these fundamental differences, both Descartes and Newton are using neo-Platonic ideas to support an essentially mathematical approach to physics over the older qualitative approach of Aristotelian physics. For Descartes, the world described by physics is, in its essence, the object of pure geometry. God, in creating this world, not only brings about (what Descartes takes to be) the (mathematical) laws of motion of the new physics, he also, in creating us as mind-body composites located within this world, guarantees that we can use our purely intellectual mathematical knowledge in successively correcting and refining our knowledge of the material world – as we apply pure mathematics, that is, to the initially misleading deliverances of our senses.",
+        {
+          "type": "note",
+          "id": "ch01-n05",
+          "label": "5"
+        },
+        " For Newton, although the world described by physics is not, in its essence, the object of pure geometry, space (which is the object of pure geometry) nonetheless constitutes the “frame of the world” – an emanative effect of the divine existence wherein God then creates matter by an immediate act of his will. The bare existence of space suffices for the existence of all the shapes and figures studied in pure geometry (De Grav., p. 22): “there are everywhere all kinds of figures, everywhere spheres, cubes, triangles, straight lines, everywhere circular, elliptical, parabolical, and all other kinds of figures, and those of all shapes and sizes, even though they are not disclosed to sight.” And thus pure geometry is ipso facto applicable to all material bodies as well (pp. 22–23): “the delineation of any material figure is not a new production of that figure with respect to space, but only a corporeal representation of it, so that what was formerly insensible in space now appears before the senses.” Therefore, in virtue of their (differently) neo-Platonic conceptions of a metaphysics of space, neither Descartes nor Newton has any room for a necessary gap (as there was in Plato’s original “Platonism”) between pure mathematics, on the one side, and the sensible and material world, on the other."
+      ],
+      "zh": [
+        "然而，尽管有这些根本差异，笛卡尔与牛顿都在利用新柏拉图主义观念，支持一种本质上数学化的物理学进路，以对抗亚里士多德物理学较古老的质的进路。对笛卡尔来说，物理学所描述的世界在其本质上就是纯粹几何学的对象。上帝在创造这个世界时，不仅带来（笛卡尔所认为的）新物理学的（数学的）运动定律；他在把我们创造为位于这个世界之中的心身复合体时，还保证我们能够用纯粹理智的数学知识不断纠正和精炼我们对物质世界的认识——也就是把纯粹数学应用于感官最初给出的、可能引人误解的认识材料。",
+        {
+          "type": "note",
+          "id": "ch01-n05",
+          "label": "5"
+        },
+        "对牛顿来说，尽管物理学所描述的世界在其本质上不是纯粹几何学的对象，空间（它是纯粹几何学的对象）却仍构成“世界的框架”——神圣存在的一种流溢结果，上帝随后凭其意志的直接行动在其中创造物质。空间的单纯存在就足以使纯粹几何学所研究的一切形状和图形存在（《论引力》，第22页）：“到处都有各种图形，到处都有球、立方体、三角形、直线，到处都有圆的、椭圆的、抛物线的以及其他一切种类的图形，而且有各种形状和大小，即便它们没有向视觉显露。”因此纯粹几何学也就由此适用于一切物质物体（第22–23页）：“任何物质图形的描画，并非在空间中重新产生该图形，而只是用物体把它表现出来，使得原先在空间中不可感的东西现在出现在感官面前。”因此，凭借他们（各自不同的）新柏拉图主义空间形而上学构想，无论笛卡尔还是牛顿，都不给纯粹数学一方与可感的物质世界另一方之间留下任何必然的鸿沟（而在柏拉图原初的“柏拉图主义”中曾有这种鸿沟）。"
+      ],
+      "units": 331
+    },
+    {
+      "id": "ch01-u009",
+      "source_ids": [
+        "ch01-u009"
+      ],
+      "page": "38",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The significance of this point becomes clearer if we contrast the conceptions of both Descartes and Newton with the quite distinct approach of Leibniz, who was explicitly opposed to both Descartes and Newton in correspondingly different ways. Leibniz began, in fact, by reacting to Descartes’s failure adequately to formulate the basic laws of impact, which were supposed to govern, according to the then dominant paradigm of the mechanical natural philosophy, all phenomena in the material or corporeal world. Leibniz responded to this problem, in his “Brief Demonstration of a Notable Error of Descartes and Others Concerning a Natural Law” (1686), by emphasizing the importance of a new, essentially dynamical quantity, which he called vis viva or living force (in modern terms, mass multiplied by the square of the velocity), where the basic law of motion is now formulated as the conservation of the total quantity of vis viva. Beginning with his Discourse on Metaphysics (written in the same year), Leibniz also strongly emphasized that living force is not purely geometrical or mechanical, so that, in particular, this quantity (unlike Descartes’s purely mechanical “quantity of motion”) reintroduces an element of Aristotelian teleology into the mechanical philosophy. For vis viva, on Leibniz’s view, is the counterpart of the Aristotelian notion of entelechy: namely, that internal (non-spatial) principle by which an ultimate simple substance or monad determines (by a kind of “appetition”) the entire future development of its own internal state. Moreover, in accordance with this same renewed emphasis on Aristotelian teleology, Leibniz then articulated a doctrine of divine creation in terms of God’s choice of the best among all merely logically possible worlds. The distinction between what is logically possible and what is actual – between all merely thinkable worlds available to the divine intellect and the best and most perfect of these worlds as determined by the divine will – thereby corresponds to the distinction between principles of pure mathematics (including geometry) and principles of natural science or physics (the laws of motion). In particular, the laws of motion, unlike the principles of pure mathematics, precisely express the divine wisdom in actualizing or creating the best and most perfect of all possible worlds."
+      ],
+      "zh": [
+        "如果把笛卡尔和牛顿的构想与莱布尼茨颇为不同的进路相对照，这一点的意义会更清楚——莱布尼茨以相应不同的方式明确反对笛卡尔和牛顿两人。事实上，莱布尼茨的起点是回应笛卡尔未能充分表述基本碰撞定律——按照当时占主导的机械论自然哲学范式，这些定律本应支配物质或形体世界的一切现象。莱布尼茨在《对笛卡尔及其他人关于一条自然定律的一个显著错误的简短证明》（1686年）中回应了这一问题：他强调一个新的、本质上动力学性的量的重要性，他称之为 vis viva 即活力（用现代术语说，质量乘以速度的平方），由此基本运动定律被表述为活力总量的守恒。从同年写作的《形而上学论》开始，莱布尼茨还强烈强调活力不是纯粹几何学的或机械的，因此这个量（不同于笛卡尔纯粹机械的“运动量”）尤其把亚里士多德目的论的一个要素重新引入机械论哲学。因为在莱布尼茨看来，vis viva 是亚里士多德隐德莱希概念的对应物：即终极单纯实体或单子借以（通过一种“欲求”）决定其自身内部状态整个未来发展的那个内在（非空间的）原理。此外，依照这种对亚里士多德目的论的重新强调，莱布尼茨随后用上帝在一切仅逻辑上可能的世界中选择最好者，来阐述神圣创造学说。逻辑上可能者与现实者之间的区分——神圣理智所面对的一切仅可设想的世界，与神圣意志所确定的其中最好、最完善的世界之间的区分——由此对应于纯粹数学（包括几何学）原理与自然科学或物理学原理（运动定律）之间的区分。特别地，运动定律不同于纯粹数学原理，恰恰表达了上帝在实现或创造一切可能世界中最好、最完善者时的神圣智慧。"
+      ],
+      "units": 360
+    },
+    {
+      "id": "ch01-u010",
+      "source_ids": [
+        "ch01-u010"
+      ],
+      "page": "39",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Leibniz thereby breaks decisively with Descartes’s metaphysics of space, for the actual world of material substances results from a special act of the divine will which introduces additional non-spatial, and essentially teleological elements into the mechanical laws of motion. Indeed, Leibniz’s break with Descartes on this issue is deeper still, for, on Leibniz’s view, the entire mechanical physical world (including the space in which bodies move) is a secondary appearance or phenomenon (a “well-founded phenomenon” like the rainbow) of an underlying metaphysical reality of mind-like simple substances or monads – substances which, at this level, are not spatial at all, but rather have only purely internal properties and no external relations. This point, in turn, is closely connected with a fundamental disagreement with Descartes about the nature of the intellect: whereas Descartes entirely rejects traditional Aristotelian logic and takes purely intellectual knowledge to be exemplified by the procedure of his new analytic geometry instead, Leibniz self-consciously returns to the idea that purely intellectual knowledge is essentially logical. And, although Leibniz appears to have envisioned some sort of extension of Aristotelian logic capable of embracing the new algebraic methods of his calculus, there is no doubt that the traditional subject-predicate structure of this logic pervades his monadic metaphysics: it is precisely because ultimate metaphysical reality is essentially intellectual in the logical sense that the entire mechanical world, including space, is a merely secondary reality or phenomenon. Thus, although Leibniz, like everyone else in the period, holds that there are exact mathematical laws governing the sensible and material world, he reintroduces a new kind of necessary gap between reality as known by the intellect and this sensible world."
+      ],
+      "zh": [
+        "莱布尼茨由此与笛卡尔的空间形而上学决定性地决裂，因为物质实体的现实世界源于神圣意志的一个特殊行动，它把附加的非空间的、本质上目的论的要素引入机械运动定律。的确，莱布尼茨在这个问题上与笛卡尔的决裂还要更深：因为在莱布尼茨看来，整个机械的物理世界（包括物体在其中运动的空间）都是一种次级的显象或现象（像彩虹那样的“有根据的现象”），其底层是心灵般的单纯实体或单子的形而上学实在——在这一层面上，这些实体根本不是空间性的，而只有纯粹内在的属性，没有外部关系。这一点反过来又与他和笛卡尔关于理智本性的根本分歧密切相关：笛卡尔完全拒斥传统亚里士多德逻辑，转而认为纯粹理智知识以其新解析几何的程序为范例；莱布尼茨则自觉地回到纯粹理智知识本质上是逻辑的这一想法。而且，尽管莱布尼茨似乎设想过对亚里士多德逻辑作某种扩展，使其能够容纳其演算的新代数方法，但毫无疑问，这种逻辑的传统主词—谓词结构贯穿他的单子形而上学：正因为终极形而上学实在在逻辑意义上本质上是理智性的，整个机械世界（包括空间）才只是次级实在或现象。于是，尽管莱布尼茨与那个时代的所有人一样，认为存在支配可感的物质世界的精确数学定律，他却重新引入了一种新的必然鸿沟：理智所认识的实在与这个可感世界之间的鸿沟。"
+      ],
+      "units": 275
+    },
+    {
+      "id": "ch01-u011",
+      "source_ids": [
+        "ch01-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For Newton, by contrast, space – the very space in which bodies exist and move – is metaphysically fundamental, for, as we have seen, it is “an affection of every kind of being,” including God himself. Indeed, Newton puts the point even more strongly several pages later (De Grav., p. 25): “Space is an affection of a being just as a being. No being exists or can exist which is not related to space in some way.” In particular, God, through his omnipresence, creates matter in space by endowing certain determined regions with mass (vis inertiae), and God thereby institutes the (Newtonian) Laws of Motion by singling out momentum (mass multiplied by velocity) as the fundamental dynamical quantity governing all changes of motion of matter. For Newton, moreover, impressed force (vis impressa) is a further dynamical quantity involved in such changes – where this refers to any action on the body in question by which a change of momentum is produced. Impressed force, in the Newtonian sense, is an external action on a body by something else, not an internal principle of change like Leibnizean vis viva, and, what is more, the changes it effects are not intrinsically limited to the condition of contact. On the contrary, the principal instantiation of this concept, in the Principia, is precisely the force of universal gravitation, whereby one body exchanges momentum with another body immediately and at a distance; and it is the theory of universal gravitation, as we have said, which then puts the notions of absolute space, time, and motion to real physical work in determining the true “center of the world.”"
+      ],
+      "zh": [
+        "对牛顿来说则相反，空间——物体在其中存在和运动的那个空间本身——在形而上学上是根本的，因为如我们所见，它是“一切存在者的一种性状”，包括上帝自身。的确，几页之后牛顿把这一点说得更强（《论引力》，第25页）：“空间是存在者之为存在者的一种性状。没有任何存在者存在或能够存在而不以某种方式关联于空间。”特别地，上帝凭借其遍在，通过赋予某些确定区域以质量（vis inertiae）而在空间中创造物质，并且上帝由此通过选定动量（质量乘以速度）作为支配物质一切运动变化的基本动力学量，设立了（牛顿的）运动定律。此外，对牛顿而言，施加力（vis impressa）是参与这类变化的另一个动力学量——它指对所论物体的任何作用，由此产生动量的改变。牛顿意义上的施加力是别的东西对物体的外部作用，而不是像莱布尼茨式 vis viva 那样的内部变化原理；而且，它所造成的变化并不内在地限于接触条件。相反，在《原理》中，这个概念的主要实例恰恰是万有引力：一个物体借此直接地、超距地与另一个物体交换动量；而正如我们说过的，正是万有引力理论随后让绝对空间、时间和运动的概念投入真正的物理工作，以确定真正的“世界中心”。"
+      ],
+      "units": 268
+    },
+    {
+      "id": "ch01-u012",
+      "source_ids": [
+        "ch01-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is by no means surprising, therefore, that Newton also rejects the traditional Aristotelian notion of substance, and replaces it, in effect, with space itself – or, more precisely, with space plus God (De Grav., p. 29): “For the existence of these beings [bodies] it is not necessary that we suppose some unintelligible substance to exist in which as subject there may be an inherent substantial form; extension and an act of the divine will are enough. Extension takes the place of the substantial subject in which the form of the body is conserved by the divine will; and that product of the divine will is the form or formal reason of the body denoting every dimension of space in which the body is to be produced.” For Leibniz, by contrast, space, as we have seen, is a mere “well-founded phenomenon,” and pure intellectual knowledge is explicitly modelled on Aristotelian subject-predicate logic: (a modified version of) the Aristotelian concept of substance must be metaphysically fundamental."
+      ],
+      "zh": [
+        "因此，牛顿也拒斥传统的亚里士多德实体概念，并实际上用空间本身——或更准确地说，用空间加上帝——取而代之，就毫不令人惊讶了（《论引力》，第29页）：“因为对于这些存在者［物体］的存在，我们无须假定某种不可理解的实体作为主体、其中有某种固有的实体形式存在；广延和神圣意志的一个行动就足够了。广延取代了实体性主体的位置，物体的形式借神圣意志在其中得以保存；而神圣意志的那个产物就是物体的形式或形式理由，标示物体将在其中被产生的空间的每个维度。”对莱布尼茨来说则相反，如我们所见，空间只是一个“有根据的现象”，而纯粹理智知识明确以亚里士多德主词—谓词逻辑为模型：（一个修正版的）亚里士多德实体概念必须在形而上学上是根本的。"
+      ],
+      "units": 164
+    },
+    {
+      "id": "ch01-u013",
+      "source_ids": [
+        "ch01-u013"
+      ],
+      "page": "40",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Newton’s struggles with the problem of action at a distance result in significant complications here. Although later Newtonians (including Kant) were happy to conceive gravitation as an immediate action of one body on another body across empty space, Newton himself was seriously troubled. He appeared deliberately to leave it open in the first (1787) edition of the Principia that gravity may ultimately be explained by mechanical impact; and he also speculated in the Optics about an interplanetary aetherial medium as the cause of gravity.",
+        {
+          "type": "note",
+          "id": "ch01-n06",
+          "label": "6"
+        },
+        " Moreover, Newton famously declared that the idea of action at a distance is an “absurdity” in his wellknown letter to Bentley of February 5, 1693 (pp. 102–103):"
+      ],
+      "zh": [
+        "牛顿在超距作用问题上的挣扎，在这里造成了重要的复杂化。虽然后来的牛顿主义者（包括康德）乐于把引力设想为一个物体穿过虚空空间对另一物体的直接作用，牛顿本人却深感困扰。他在《原理》第一版（1787年，原文如此；《原理》第一版实为1687年）中似乎有意保留这样一种可能：引力最终可以用机械碰撞来解释；他还在《光学》中猜测一种行星际以太介质是引力的原因。",
+        {
+          "type": "note",
+          "id": "ch01-n06",
+          "label": "6"
+        },
+        "此外，牛顿在1693年2月5日致本特利的那封著名信件中（第102–103页）宣称超距作用的想法是一种“荒谬”："
+      ],
+      "units": 112
+    },
+    {
+      "id": "ch01-u016",
+      "source_ids": [
+        "ch01-u016"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "It is inconceivable that inanimate brute matter should, without the mediation of something else, which is not material, operate upon and affect other matter without mutual contact, as it must be, if gravitation in the sense of Epicurus, be essential and inherent in it. And this is one reason why I desired you would not ascribe innate gravity to me. That gravity should be innate, inherent, and essential to matter, so that one body may act upon another at a distance through a vacuum without the mediation of anything else, by and through which their action and force may be conveyed from one to another, is to me so great an absurdity, that I believe that no man who has in philosophical matters a competent faculty of thinking can ever fall into it. Gravity must be caused by an agent acting constantly according to certain laws; but whether this agent be material or immaterial, I have left to the consideration of my readers."
+      ],
+      "zh": [
+        "无生命的惰性物质，不经某种非物质性的他物的中介，就能在没有相互接触的情况下作用于并影响其他物质——如果伊壁鸠鲁意义上的引力是物质固有而内在的，就必然如此——这是不可设想的。这也是我希望你不要把内在引力归于我的原因之一。引力是物质天生固有的本质属性，以致一个物体可以穿过真空、不经任何其作用和力可借以从一方传至另一方的他物的中介，就超距地作用于另一物体——这在我看来是如此巨大的荒谬，以至于我相信，任何在哲学问题上有足够思考能力的人都不可能陷入其中。引力必定由一个按照某些定律恒常行动的能动者所引起；但这个能动者是物质的还是非物质的，我留给我的读者去考虑。"
+      ],
+      "type": "quote",
+      "units": 163
+    },
+    {
+      "id": "ch01-u014",
+      "source_ids": [
+        "ch01-u014"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "And what is most striking, from our present point of view, is the suggestion that the true cause of gravity may be an immaterial agent – perhaps even God himself."
+      ],
+      "zh": [
+        "而从我们目前的观点看，最引人注目的是这样的暗示：引力的真正原因可能是一个非物质性的能动者——甚至可能就是上帝本身。"
+      ],
+      "units": 29
+    },
+    {
+      "id": "ch01-u015",
+      "source_ids": [
+        "ch01-u015"
+      ],
+      "page": "41",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is natural, in the first place, that the mediating agent between distantly gravitating bodies be immaterial, for it is essential to Newton’s argument for universal gravitation in Book III of the Principia that such mutually attracting bodies – Jupiter and Saturn, for example – directly and immediately exchange momentum with one another, entirely independently of any other matter that may be located in between. Whatever is playing this mediating role must therefore experience negligible exchanges of momentum with the two attracting bodies themselves, and the most natural way to achieve this, in general, is to conceive the mediating agent as massless or immaterial. Moreover, in the second place, since God exists or is omnipresent everywhere in space, and he thereby creates matter and its fundamental laws by an immediate act of the divine will, it is natural to suppose that the ubiquitous immaterial agent ultimately responsible for gravitational attraction is either God himself or an ubiquitous immaterial spirit directly resulting from God’s own ubiquity.",
+        {
+          "type": "note",
+          "id": "ch01-n07",
+          "label": "7"
+        },
+        " Finally, in the third place, God is described in the General Scholium added to the second edition of the Principia in 1713 as an omnipresent acting substance (p. 91): “God is one and the same God always and everywhere. He is omnipresent not only virtually but also substantially; for action requires substance.”",
+        {
+          "type": "note",
+          "id": "ch01-n08",
+          "label": "8"
+        },
+        " Therefore, Newton does not so much entirely reject the traditional notions of substance and active agency, but reinterprets them in light of his metaphysics of space. He continues to conceive of efficient causality as the (local) action of one substance on another, and God, in particular, is the ultimate substantial agent underlying all causal action in the material world. His true opposition to Descartes concerns the notion of specifically material substance, and he uses his neo-Platonic (Cambridge Platonic) metaphysics of space to craft a further argument against Descartes’s metaphysics from the (apparent) phenomena of gravitational attraction at a distance."
+      ],
+      "zh": [
+        "首先，在超距相互吸引的物体之间起中介作用的能动者是非物质的，这很自然：因为牛顿在《原理》第三卷中论证万有引力的关键在于，这样相互吸引的物体——例如木星和土星——直接而即时地相互交换动量，完全不依赖于可能位于其间的任何其他物质。因此，无论什么在扮演这一中介角色，它与两个吸引物体本身的动量交换都必须可以忽略不计；而一般而言，实现这一点最自然的方式，就是把中介能动者设想为无质量的或非物质的。其次，既然上帝在空间中处处存在或遍在，并由此凭神圣意志的直接行动创造物质及其基本定律，那么很自然可以假定：最终负责引力吸引的那个无处不在的非物质能动者，要么是上帝本身，要么是直接源于上帝自身遍在性的一个无处不在的非物质精神。",
+        {
+          "type": "note",
+          "id": "ch01-n07",
+          "label": "7"
+        },
+        "最后，第三，在1713年《原理》第二版新增的“总释”中，上帝被描述为一个遍在的行动实体（第91页）：“上帝是永远且处处同一的上帝。他不仅以能力而且以实体而遍在；因为行动需要实体。”",
+        {
+          "type": "note",
+          "id": "ch01-n08",
+          "label": "8"
+        },
+        "因此，牛顿并不是完全拒斥传统的实体与能动作用概念，而是依据他的空间形而上学重新解释它们。他继续把动力因意义上的因果作用设想为一个实体对另一个实体的（局域）作用；而上帝尤其是物质世界中一切因果作用背后的终极实体性能动者。他与笛卡尔的真正的分歧在于具体如何理解物质实体；他利用其新柏拉图主义（剑桥柏拉图主义）的空间形而上学，从引力超距吸引的（表面）现象出发，构造了一个反对笛卡尔形而上学的进一步论证。"
+      ],
+      "units": 314
+    },
+    {
+      "id": "ch01-u017",
+      "source_ids": [
+        "ch01-u017"
+      ],
+      "page": "42",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The importance of Newton’s metaphysics of space in underwriting his principled rejection of the mechanical philosophy has not, I believe, been sufficiently appreciated. For, from a post-Newtonian perspective, the requirement that all causal interaction in the material world be limited to the communication of motion by impact may appear as an entirely arbitrary restriction on the basic principles governing the exchange of momentum, and there is then no reason, from this point of view, that a direct (equal and opposite) exchange of momentum at a distance via universal gravitation may not be viewed as a perfectly legitimate example of causal interaction.",
+        {
+          "type": "note",
+          "id": "ch01-n09",
+          "label": "9"
+        },
+        " At the time when Newton was first formulating this theory, however, everyone took it for granted that one substance could act on another by efficient causality only if the one is locally present to the other: this principle was shared by contemporary Aristotelians, by mechanical philosophers, and (as we have just seen) by Newton himself. Everyone also took it for granted that the clearest and most fundamental example of causal agency is the creative activity of God. Newton’s metaphysics of space then made it possible for him to maintain that universal gravitation involves an immediate exchange of momentum across empty space (as his physics requires) while, at the same time, preserving the more traditional ideas of causality and agency he shared with his contemporaries. Indeed, from Newton’s own point of view, his conception of the creation of matter by God makes maximal room for divine creative activity, and thereby avoids the threat of atheism opened up by the Cartesian conception of material substance.",
+        {
+          "type": "note",
+          "id": "ch01-n10",
+          "label": "10"
+        }
+      ],
+      "zh": [
+        "我认为，牛顿的空间形而上学在支撑他有原则地拒斥机械论哲学方面的重要性，尚未得到充分领会。因为从后牛顿的视角看，物质世界中一切因果相互作用必须限于借碰撞传递运动这一要求，可能显得是对支配动量交换的基本原理的一种完全任意的限制；从这个观点看，就没有理由不把经由万有引力的超距直接（等大反向）动量交换视为完全合法的因果相互作用实例。",
+        {
+          "type": "note",
+          "id": "ch01-n09",
+          "label": "9"
+        },
+        "然而在牛顿最初表述这一理论的时代，人人都理所当然地认为：一个实体只有在另一实体所在之处在场，才能作为动力因作用于后者——这条原理为当时的亚里士多德主义者、机械论哲学家以及（如我们刚才所见）牛顿本人所共享。人人也都理所当然地认为，因果能动性最清楚、最根本的范例是上帝的创造活动。于是牛顿的空间形而上学使他能够主张：万有引力包含穿过虚空空间的即时动量交换（如其物理学所要求），同时又保存他与同代人共享的更传统的因果性与能动性观念。的确，从牛顿本人的观点看，他关于上帝创造物质的构想为神圣创造活动留出了最大空间，从而避免了笛卡尔物质实体构想所打开的无神论威胁。",
+        {
+          "type": "note",
+          "id": "ch01-n10",
+          "label": "10"
+        }
+      ],
+      "units": 264
+    },
+    {
+      "id": "ch01-u018",
+      "source_ids": [
+        "ch01-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant, in the pre-critical period, attempts to fashion a direct unification of Leibnizean and Newtonian ideas, by starting with a Leibnizean metaphysics of monads and then building a Newtonian metaphysics of space, as it were, on top of this monadic metaphysics. The primary reality remains a non-spatial realm of ultimate simple substances, but these substances, for Kant, now have both purely internal, intrinsic properties and external or extrinsic relations. Such external relations among the monads are not necessary for them to be the simple substances which they are, but they are necessary for them to exist – or, more precisely, to co-exist – together in a common world. In this way, God’s creative activity has two distinguishable aspects: one act by which the simple substances themselves are created in the first place, and a second by which a number of such simple substances are joined together into a single world. This second act occurs in conformity with what Kant calls a “schema of the divine intellect,” and it is in virtue of just such a schema, in the end, that what we know as the laws of nature then arise. More precisely, what we know as the fundamental forces of matter (attraction and repulsion) – together with the laws that govern them – are a direct expression of the divinely instituted external relations (of co-existence) between monads; and what we know as space is then the phenomenal expression of this same system of divinely instituted relations. Space is thus a secondary reality, derivative from the monads and their external relations, but, since the external relations between monads, for Kant, are just as real as their internal properties, it is a reality nonetheless – and not, as in Leibniz, a merely ideal “well-founded phenomenon.” Indeed, since the fundamental force of attraction, for Kant, is explicitly modelled on Newtonian universal gravitation (as an immediate action at a distance through empty space), Kant explicitly links his pre-critical conception of space with the Newtonian conception of divine omnipresence.",
+        {
+          "type": "note",
+          "id": "ch01-n11",
+          "label": "11"
+        }
+      ],
+      "zh": [
+        "康德在前批判时期试图直接统一莱布尼茨式与牛顿式的观念：从莱布尼茨式的单子形而上学出发，然后仿佛在这一单子形而上学之上建造牛顿式的空间形而上学。首要的实在仍是终极单纯实体的非空间领域，但对康德来说，这些实体现在既有纯粹内在的、固有的属性，也有外部的或外在的关系。单子之间的这类外部关系，对它们成为其所是的单纯实体而言不是必需的，但对它们在一个共同世界中存在——或更准确地说，共在——却是必需的。这样，上帝的创造活动就有两个可区分的方面：一个行动首先创造单纯实体本身，第二个行动把若干这样的单纯实体联结成一个单一世界。这第二个行动依照康德所谓“神圣理智的图式”发生，而我们所知的自然定律，归根到底正是凭这样一个图式产生的。更准确地说，我们所知的物质基本力（吸引与排斥）——连同支配它们的定律——是神所设立的单子间外部（共在）关系的直接表达；而我们所知的空间，则是这同一个神所设立的关系系统的现象性表达。空间因此是次级实在，派生自单子及其外部关系；但由于对康德来说单子间的外部关系与其内在属性同样实在，空间仍然是一种实在——而不像莱布尼茨那里只是观念性的“有根据的现象”。的确，由于对康德来说基本的吸引力明确以牛顿万有引力（作为穿过虚空空间的直接超距作用）为模型，康德明确把他前批判的空间构想与牛顿关于上帝遍在的构想联系起来。",
+        {
+          "type": "note",
+          "id": "ch01-n11",
+          "label": "11"
+        }
+      ],
+      "units": 329
+    },
+    {
+      "id": "ch01-u019",
+      "source_ids": [
+        "ch01-u019"
+      ],
+      "page": "43",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is in the Inaugural Dissertation of 1770 that Kant makes a fundamental break with the Leibnizean philosophy – and, in a somewhat different fashion, with the Newtonian philosophy as well. Kant here first articulates his characteristic distinction between two independent rational faculties of the human mind – the pure understanding or pure intellect, on the one side, and pure sensibility or pure intuition, on the other. The former embodies the traditional categories and concepts of rational (Leibnizean) metaphysics, but it is the latter, for Kant, which now embodies the concepts and principles of pure mathematics. In particular, Kant now holds that mathematical knowledge is in no way purely intellectual, but is rather essentially intuitive or sensible, requiring the forms of pure sensibility, space and time. The world as we know it therefore bifurcates into two: the intellectual world described by traditional metaphysics (the Leibnizean metaphysics of ultimate simple substances as modified by the earlier Kant), and the sensible world as described by mathematics and mathematical physics in space and time. Although something like Newtonian space therefore remains as the foundation of this sensible world, space can no longer be conceived, as in Newton, as the sensorium of God – it is rather, as it were, the form of our sensorium, the form of our pure sensibility. Yet it is an unresolved problem, in the Inaugural Dissertation, how these two worlds are now supposed to be related, and, in particular, how the world described by mathematics and mathematical physics (the world as it appears to us) is related to the ultimate metaphysical reality of the intellectual world."
+      ],
+      "zh": [
+        "正是在1770年的《就职论文》中，康德与莱布尼茨哲学——并以某种不同的方式也与牛顿哲学——发生了根本决裂。康德在这里首次表述了他特有的区分：人类心灵的两种独立的理性能力——一边是纯粹知性或纯粹理智，另一边是纯粹感性或纯粹直观。前者体现理性（莱布尼茨式）形而上学的传统范畴与概念，但对康德来说，现在体现纯粹数学的概念与原理的是后者。特别地，康德现在主张：数学知识绝不是纯粹理智的，而是本质上直观的或感性的，需要纯粹感性的形式——空间与时间。因此，我们所知的世界一分为二：传统形而上学所描述的理智世界（经早期康德修改的终极单纯实体的莱布尼茨式形而上学），以及数学和数学物理学在时空中所描述的可感世界。虽然某种类似牛顿空间的东西因此仍作为这个可感世界的基础保留下来，空间却不能再像牛顿那样被设想为上帝的感觉中枢——它毋宁仿佛是我们感觉中枢的形式、我们纯粹感性的形式。然而在《就职论文》中，这两个世界现在应当如何关联，尤其是数学和数学物理学所描述的世界（向我们显现的世界）与理智世界的终极形而上学实在如何关联，仍是一个未解决的问题。"
+      ],
+      "units": 264
+    },
+    {
+      "id": "ch01-u020",
+      "source_ids": [
+        "ch01-u020"
+      ],
+      "page": "44",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is precisely this problem which finally gives birth to the critical philosophy in 1781. Kant now declares that purely intellectual, metaphysical knowledge – whether of immaterial things like God and the soul or of the ultimate simple substances which (according to both Leibniz and the pre-critical Kant) underlie the material world – is completely impossible, at least from a theoretical point of view. The pure intellect, considered entirely on its own and independently of any possible relation to sensibility, can issue only in the empty logical forms of Aristotelian syllogistic: in what Kant calls the “logical forms of judgement.” And, while it is true that these forms then yield, in what Kant calls the “metaphysical deduction,” the pure concepts or categories of the understanding (substance, causality, community, possibility, actuality, necessity, and so on), such pure concepts of the understanding are themselves entirely empty and without any “relation to an object” (again from a purely theoretical point of view) considered independently of our particular (human) forms of sensibility – space and time.",
+        {
+          "type": "note",
+          "id": "ch01-n12",
+          "label": "12"
+        },
+        " In short, it is only in virtue of spatio-temporal “schemata” produced by our pure intellect that rational knowledge of the phenomenal world is possible, and the task of showing how the pure intellect thereby injects itself into pure sensibility (space and time) so as to apply the pure categories of the understanding to sensible experience then becomes the problem of the transcendental deduction.",
+        {
+          "type": "note",
+          "id": "ch01-n13",
+          "label": "13"
+        },
+        " Such an injection of our pure intellect into our pure forms of sensibility now takes the place, as it were, of Kant’s pre-critical doctrine that a schema of the divine intellect, by an analogue of Newtonian divine omnipresence, is ultimately responsible for the order we perceive in the physical world.",
+        {
+          "type": "note",
+          "id": "ch01-n14",
+          "label": "14"
+        }
+      ],
+      "zh": [
+        "正是这个问题最终在1781年催生了批判哲学。康德现在宣布：纯粹理智的形而上学知识——无论是关于上帝和灵魂这类非物质事物，还是关于（按照莱布尼茨和前批判康德）构成物质世界之基础的终极单纯实体——是完全不可能的，至少从理论观点看如此。纯粹理智若完全就其自身、独立于任何与感性的可能关系来考虑，只能产出亚里士多德三段论的空洞逻辑形式：康德所谓“判断的逻辑形式”。而且，虽然这些形式确实在康德所谓“形而上学演绎”中产出知性的纯粹概念或范畴（实体、因果性、交互作用、可能性、现实性、必然性等等），但这些知性纯粹概念本身若独立于我们特殊的（人类的）感性形式——空间与时间——来考虑，就完全是空洞的，没有任何“与对象的关系”（同样是从纯粹理论观点看）。",
+        {
+          "type": "note",
+          "id": "ch01-n12",
+          "label": "12"
+        },
+        "简言之，只有凭我们纯粹理智所产生的时空“图型”，关于现象世界的理性知识才是可能的；而展示纯粹理智如何由此把自己注入纯粹感性（空间与时间）、以便把知性纯粹范畴应用于感性经验，这一任务于是成为先验演绎的问题。",
+        {
+          "type": "note",
+          "id": "ch01-n13",
+          "label": "13"
+        },
+        "我们纯粹理智向我们纯粹感性形式的这种注入，如今仿佛取代了康德前批判的学说：神圣理智的一个图式，经由与牛顿式神圣遍在的类比，最终为我们在物理世界中知觉到的秩序提供根据。",
+        {
+          "type": "note",
+          "id": "ch01-n14",
+          "label": "14"
+        }
+      ],
+      "units": 282
+    },
+    {
+      "id": "ch01-u021",
+      "source_ids": [
+        "ch01-u021"
+      ],
+      "page": "45",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Pure metaphysical concepts – pure concepts of the understanding – can now be used for genuine (theoretical) knowledge only when applied to spatio-temporal “appearances,” and thus only when “schematized” in terms of space and time: substance in terms of permanence, causality in terms of succession, and so on. When we do this, moreover, we find that specifically outer or spatial intuitions are also necessarily required, so that, in particular, “in order to give something permanent in intuition corresponding to the concept of substance (and thereby to verify the objective reality of this concept), we require an intuition in space (of matter), because space alone is determined as permanent, but time, and thus everything in inner sense, is continually flowing” (B 291). There is no longer any room (among the objects of theoretical knowledge) for mind-like or spiritual substances in the traditional sense, and there is no such room, therefore, for Leibnizean simple substances having only purely internal properties:"
+      ],
+      "zh": [
+        "纯粹的形而上学概念——知性纯粹概念——现在只有被应用于时空“显象”、因而只有按空间与时间被“图型化”时，才能用于真正的（理论）知识：实体按持存性、因果性按相继性来图型化，如此等等。而且，当我们这样做时，会发现其中必不可少的是外部直观，也就是空间直观，因此特别地，“为了在直观中给出与实体概念相应的某种持存的东西（并由此证实这一概念的客观实在性），我们需要一个在空间中的（关于物质的）直观，因为唯有空间被规定为持存的，而时间、因而内感官中的一切，都在不断流动”（B 291）。（在理论知识的对象中）不再有传统意义上心灵般的或精神性实体的位置，因此也不再有只具纯粹内在属性的莱布尼茨式单纯实体的位置："
+      ],
+      "units": 156
+    },
+    {
+      "id": "ch01-u022",
+      "source_ids": [
+        "ch01-u022"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "There is therefore no alternative, if one does not pretend to make them into objective forms of all things, except to make them into subjective forms of our outer and inner mode of intuition. [This kind of intuition] is called sensible, because it is not original – i.e., it is not such that the existence of objects of intuition is itself given through it (which, as far as we can comprehend, can only pertain to the primordial being), but it depends on the existence of the objects, and is thus only possible in so far as the representative faculty of the subject is affected by them.” (All translations from Kant’s writings are my own, and I cite all writings – except for the first Critique – by volume and page numbers of the standard Akademie edition of Kant’s gesammelte Schriften.)."
+      ],
+      "zh": [
+        "因此，如果不主张把时空当作一切事物的客观形式，就没有别的选择，只能把它们做成我们外直观与内直观方式的主观形式。［这种直观］被称为感性的，因为它不是源始的——也就是说，它不是这样一种直观：直观对象的实存本身经由它而被给予（就我们所能理解的而言，这只能属于源始存在者）——而是依赖于对象的实存，因而只有当主体的表象能力被对象所刺激时才可能。”（本文所引康德著作的英译均出自我本人；除第一批判外，我引注所有著作均按标准科学院版《康德全集》的卷次与页码。）"
+      ],
+      "type": "quote",
+      "units": 138
+    },
+    {
+      "id": "ch01-u026",
+      "source_ids": [
+        "ch01-u026"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Only that is internal in an object of pure understanding which has no relation at all (with respect to its existence) to anything different from itself. By contrast, the internal determinations of a substantia phaenomenon in space are nothing but relations, and it itself is nothing but a totality of mere relations. We are only acquainted with substance in space through forces that are active in space, either driving others into [this space] (attraction) or stopping their penetration into it (repulsion and impenetrability). We are acquainted with no other properties constituting the concept of a substance which appears in space and which we call matter. As object of the pure understanding, on the other hand, every substance must have internal determinations and powers, which pertain to [its] internal reality. However, what can I entertain as internal accidents except those which my inner sense presents to me—namely, that which is either itself a thought or is analogous to it? Therefore, Leibniz, after he had taken away everything that may signify an external relation, and therefore also composition, made of all substances, because he represented them as noumena, even the constituents of matter, simple substances with powers of representation—in a word, monads. (A 265–266/B 321–322)"
+      ],
+      "zh": [
+        "在纯粹知性的对象中，唯有（就其实存而言）与任何不同于自身的东西毫无关系的东西才是内在的。相反，空间中一个作为现象的实体（substantia phaenomenon）的内部规定无非是关系，它本身也无非是纯然关系的一个总体。我们只是通过在空间中起作用的力来认识空间中的实体：这些力要么把别的东西拉进［这个空间］（吸引），要么阻止别的东西穿入其中（排斥与不可入性）。对于构成在空间中显现、我们称之为物质的实体之概念，我们不认识任何其他属性。另一方面，作为纯粹知性的对象，每个实体都必须有属于［其］内部实在的内部规定与能力。然而，除了我的内感官向我呈现的东西——即要么是思想本身、要么与之类似的东西——之外，我还能把什么设想为内部偶性呢？因此，莱布尼茨在去掉一切可能表示外部关系、因而也表示复合的东西之后，由于把一切实体、甚至物质的构成成分都表象为本体，就把它们全都做成了具有表象能力的单纯实体——一言以蔽之，单子。（A 265–266/B 321–322）"
+      ],
+      "type": "quote",
+      "units": 208
+    },
+    {
+      "id": "ch01-u023",
+      "source_ids": [
+        "ch01-u023"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The entire conception of the Leibnizean monadology – along with the more traditional conception of purely mental or spiritual substances – is now seen to rest on a fundamental mistake: neglecting the necessary spatio-temporal schematization of the pure concepts of the understanding."
+      ],
+      "zh": [
+        "整个莱布尼茨式单子论构想——连同更传统的纯粹心灵性或精神性实体构想——现在被看作基于一个根本错误：忽视了知性纯粹概念所必需的时空图型化。"
+      ],
+      "units": 40
+    },
+    {
+      "id": "ch01-u024",
+      "source_ids": [
+        "ch01-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But it now follows, similarly, that our basic concepts of action and efficient causality – by which one substance effects a change in another – must also be limited to the necessary conditions of specifically outer or spatial intuition (B 66–67): “[E]verything belonging to intuition in our cognition (and thus excluding the feeling of pleasure and displeasure, and the will, which are certainly not cognitions) contains nothing but mere relations—[relations] of position in an intuition (extension), change of position (motion), and laws in accordance with which this change is determined (moving forces). But what may be present in the position, or what may be active in the thing itself aside from the change of position, is not thereby given.” Aside from the intuitively presented laws governing the spatio-temporal changes of phenomenal substances, in other words, we have absolutely no conception of inter-substantial efficient causality at all – at least, once again, from a purely theoretical point of view."
+      ],
+      "zh": [
+        "但类似地，现在可以推出：我们关于作用与动力因意义上的因果作用的基本概念——一个实体借以在另一实体中造成变化——也必须受制于外部直观、也就是空间直观的必要条件（B 66–67）：“我们认识中属于直观的一切（因而排除愉快与不快的情感和意志，它们当然不是认识）所包含的无非是纯然的关系——一个直观中位置的关系（广延）、位置变化的关系（运动）、以及这种变化据以被规定的定律（动力）。但在这个位置上可能在场的是什么，或者在事物本身之中除位置变化之外可能起作用的是什么，并不由此被给予。”换句话说，除了直观地呈现的、支配现象实体之时空变化的定律之外，我们对实体之间作为动力因的作用绝对没有任何构想——至少，同样是从纯粹理论观点看。"
+      ],
+      "units": 158
+    },
+    {
+      "id": "ch01-u025",
+      "source_ids": [
+        "ch01-u025"
+      ],
+      "page": "46",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is in the Metaphysical Foundations of Natural Science of 1786 (appearing between the first and second editions of the first Critique) that Kant develops the “special metaphysics of corporeal nature” governing matter or material substance.",
+        {
+          "type": "note",
+          "id": "ch01-n15",
+          "label": "15"
+        },
+        " In particular, in the second or Mechanics chapter, the three Analogies of Experience governing the pure categories of substance, causality, and community are here specifically instantiated or realized by what Kant calls the three “laws of mechanics” – the conservation of the total quantity of matter, the law of inertia, and the equality of action and reaction – which Kant takes to be very close to (although not completely identical with) the three Newtonian Laws of Motion. In the case of matter or material substance, therefore, its possible changes and interactions are entirely delimited by these laws, in the sense that what it now means for one (material) substance to exert a causal action on another (so as, in this case, to effect a change of motion in it) is simply for a well-defined exchange of momentum to take place between the two. Thus, if two bodies exchange momentum at a distance across empty space (as, in Newton’s theory of universal gravitation, they must), then they do in fact causally interact with one another at a distance, and there are absolutely no remaining grounds for raising metaphysical or theological objections.",
+        {
+          "type": "note",
+          "id": "ch01-n16",
+          "label": "16"
+        }
+      ],
+      "zh": [
+        "正是在1786年的《自然科学的形而上学初始根据》（出版于第一批判第一版与第二版之间）中，康德发展了支配物质或物质实体的“形体自然的特殊形而上学”。",
+        {
+          "type": "note",
+          "id": "ch01-n15",
+          "label": "15"
+        },
+        "特别地，在第二章即力学章中（原文如此；《自然科学的形而上学初始根据》力学章实为第三章，第二章为动力学章），支配实体、因果性与交互作用这些纯粹范畴的三条经验类比，在这里被康德所谓三条“力学定律”——物质总量的守恒、惯性定律、作用与反作用相等——有了具体体现；康德认为它们与三条牛顿运动定律非常接近（尽管不完全相同）。因此，就物质或物质实体而言，其可能的变化与相互作用完全由这些定律划定：现在，一个（物质）实体对另一个施加因果作用（在此情形中即在其中造成运动变化），其含义无非是二者之间发生一次定义明确的动量交换。于是，如果两个物体穿过虚空空间超距地交换动量（如它们在牛顿万有引力理论中必然如此），那么它们事实上就是在超距地相互进行因果作用，绝对不再有任何理由提出形而上学或神学的反对。",
+        {
+          "type": "note",
+          "id": "ch01-n16",
+          "label": "16"
+        }
+      ],
+      "units": 224
+    },
+    {
+      "id": "ch01-u027",
+      "source_ids": [
+        "ch01-u027"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The second or Dynamics chapter introduces the two fundamental forces of repulsion and attraction – the one responsible for impenetrability, the other for gravitation. Proposition 7 states (Ak. 4, 512): “The attraction essential to all matter is an immediate action of matter on other matter through empty space.” And, in the first remark to this proposition, Kant argues that to confine the activity of matter by the condition of contact would be an entirely arbitrary restriction (Ak. 4, 513):"
+      ],
+      "zh": [
+        "第二章即动力学章引入排斥与吸引两种基本力——前者负责不可入性，后者负责引力。命题7陈述道（科学院版第4卷，第512页）：“一切物质本质上具有的吸引，是物质穿过虚空空间对其他物质的直接作用。”并且，在该命题的第一条附释中，康德论证说，用接触条件限制物质的活动将是一种完全任意的限制（科学院版第4卷，第513页）："
+      ],
+      "units": 78
+    },
+    {
+      "id": "ch01-u030",
+      "source_ids": [
+        "ch01-u030"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[T]o say that matters cannot act immediately on one another at a distance, would amount to saying that they cannot act immediately on one another except through the forces of impenetrability. But this would be as much as to say that repulsive forces are the only ones whereby matter can be active, or that they are at least the necessary conditions under which alone matters can act on one another, which would declare attractive force to be either completely impossible or always dependent on the action of repulsive forces. But these are both groundless assertions."
+      ],
+      "zh": [
+        "说诸物质不能直接超距地相互作用，就等于说它们除了通过不可入性之力外不能直接相互作用。但这无异于说，排斥力是物质借以能动的唯一的力，或者至少是诸物质要能相互作用就必须具备的条件——这就等于宣布吸引力要么完全不可能，要么总是依赖于排斥力的作用。而这两种断言都没有根据。"
+      ],
+      "type": "quote",
+      "units": 96
+    },
+    {
+      "id": "ch01-u028",
+      "source_ids": [
+        "ch01-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Once we conceive both impenetrability and gravitation as impressed forces in the Newtonian sense, governed solely by the Newtonian laws of motion, then there is no longer any reason to take one to be more intrinsically intelligible than the other."
+      ],
+      "zh": [
+        "一旦我们把不可入性与引力都设想为牛顿意义上的施加力、只受牛顿运动定律支配，就不再有理由认为其中一个比另一个在本质上更可理解。"
+      ],
+      "units": 40
+    },
+    {
+      "id": "ch01-u029",
+      "source_ids": [
+        "ch01-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the second remark to the same proposition, however, Kant goes on to make a much stronger claim—that, in explicit opposition to Newton, gravitational attraction must be conceived as an essential active power of matter, operating immediately at a distance through empty space (Ak. 4, 515):"
+      ],
+      "zh": [
+        "然而，在同一命题的第二条附释中，康德接着提出一个强得多的主张——与牛顿明确对立：引力吸引必须被设想为物质的一种本质性的能动力量，穿过虚空空间直接超距地起作用（科学院版第4卷，第515页）："
+      ],
+      "units": 47
+    },
+    {
+      "id": "ch01-u033",
+      "source_ids": [
+        "ch01-u033"
+      ],
+      "page": "47",
+      "canonical_kind": "quote",
+      "en": [
+        "[O]ne cannot adduce this great founder of the theory of attraction as one’s predecessor, if one takes the liberty of substituting an apparent attraction for the true attraction he did assert, and assumes the necessity of an impulsion through impact to explain the phenomenon of [gravitational] approach. He rightly abstracted from all hypotheses purporting to answer the question of the cause of the universal attraction of matter, for this question is physical or metaphysical, but not mathematical. And, even though he says in the advertisement to the second edition of his Optics, “to show that I do not take gravity for an essential property of bodies, I have added one question concerning its cause,” it is clear that the offense taken by his contemporaries, and perhaps even by Newton himself, at the concept of an original attraction set him at variance with himself. For he could not say that the attractive forces of two planets, those of Jupiter and Saturn, for example, manifested at equal distances of their satellites (whose mass is unknown), are proportional to the quantity of matter of these heavenly bodies, if he did not assume that they attracted other matter merely as matter, and thus according to a universal property of matter.",
+        {
+          "type": "note",
+          "id": "ch01-n17",
+          "label": "17"
+        }
+      ],
+      "zh": [
+        "如果人们擅自用一种表面的吸引取代他确实断言过的真正吸引，并假定必须借碰撞的推动来解释［引力］接近的现象，那就不能把吸引理论的这位伟大奠基人引为先驱。他正当地撇开了一切声称回答物质普遍吸引之原因问题的假说，因为这个问题是物理的或形而上学的，而不是数学的。而且，尽管他在《光学》第二版的告示中说，“为表明我并不把重力当作物体的本质属性，我增加了一个关于其原因的疑问”，但很清楚，他的同代人、也许甚至牛顿本人对原初吸引概念的反感，使他与自身相抵牾。因为，如果他不假定两颗行星仅凭其为物质便吸引其他物质，因而依照物质的一种普遍属性施加吸引，他就不能说：例如木星和土星在各自卫星（质量未知）距它们相等远时所表现出来的吸引力，与这两颗行星各自所含的物质量成正比。",
+        {
+          "type": "note",
+          "id": "ch01-n17",
+          "label": "17"
+        }
+      ],
+      "type": "quote",
+      "units": 207
+    },
+    {
+      "id": "ch01-u031",
+      "source_ids": [
+        "ch01-u031"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant’s point here, specifically, is that Newton cannot leave the question of the “true cause” of universal gravitation entirely open, without fatally compromising the fundamental property of this interaction that the mutual accelerations in question are directly proportional to the masses or quantities of matter of the two interacting bodies."
+      ],
+      "zh": [
+        "康德在这里的具体论点是：牛顿不能把万有引力“真正原因”的问题完全悬置，否则就会致命地损害这种相互作用的根本性质——两个物体朝向彼此的加速度，各与对方的质量或物质的量成正比。"
+      ],
+      "units": 50
+    },
+    {
+      "id": "ch01-u032",
+      "source_ids": [
+        "ch01-u032"
+      ],
+      "page": "48",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I have considered Kant’s argument in detail elsewhere,",
+        {
+          "type": "note",
+          "id": "ch01-n18",
+          "label": "18"
+        },
+        " so let me simply state it briefly here. Consider the system consisting of Jupiter, Saturn, and two of their respective moons. Newton’s argument in Book III of the Principia crucially involves the idea that one can determine the masses of the primary bodies in question by the gravitational accelerations produced in their satellites. Newton assumes, in order to make this determination, that there are also gravitational accelerations of Saturn produced by Jupiter and vice versa. Then, in the most important step, Newton applies the equality of action and reaction directly to these two accelerations, so that the acceleration of Jupiter towards Saturn, multiplied by the mass of Jupiter, is equal and opposite to the acceleration of Saturn towards Jupiter, multiplied by the mass of Saturn. Newton assumes, in other words, that we can apply the conservation of momentum directly to this particular exchange, entirely independently of what other matter may or may not be found in between.",
+        {
+          "type": "note",
+          "id": "ch01-n19",
+          "label": "19"
+        },
+        " For Kant, this amounts, from a methodological point of view, to assuming, in effect, that no other matter is in fact involved, and that conservation of momentum within such an exchange is both necessary and sufficient for true causal action. So it is at precisely this point, therefore, that any metaphysical conception of cause pretending to compete with the conservation of momentum must now most definitely fall away.",
+        {
+          "type": "note",
+          "id": "ch01-n20",
+          "label": "20"
+        }
+      ],
+      "zh": [
+        "我已在别处详细考察过康德的论证，",
+        {
+          "type": "note",
+          "id": "ch01-n18",
+          "label": "18"
+        },
+        "所以这里只作简述。考虑由木星、土星及它们的两颗卫星组成的系统。牛顿在《原理》第三卷中的论证关键性地涉及这样一个想法：人们可以通过卫星中产生的引力加速度来确定所论主天体的质量。为了作出这一确定，牛顿假定还存在木星使土星产生的引力加速度，反之亦然。然后，在最关键的一步中，牛顿把作用与反作用相等直接应用于这两个加速度，使得木星朝向土星的加速度乘以木星的质量，与土星朝向木星的加速度乘以土星的质量，等大而反向。换句话说，牛顿假定我们可以把动量守恒直接应用于这次特定的交换，完全不依赖于其间可能存在或不存在什么别的物质。",
+        {
+          "type": "note",
+          "id": "ch01-n19",
+          "label": "19"
+        },
+        "对康德来说，从方法论观点看，这实际上等于假定：事实上没有别的物质参与其中，并且这种交换中的动量守恒对于真正的因果作用既是必要的又是充分的。因此，恰恰在这一点上，任何妄图与动量守恒竞争的关于原因的形而上学构想，现在都必须最明确地退场。",
+        {
+          "type": "note",
+          "id": "ch01-n20",
+          "label": "20"
+        }
+      ],
+      "units": 233
+    },
+    {
+      "id": "ch01-u034",
+      "source_ids": [
+        "ch01-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The importance of this argument is underscored, for Kant, by the circumstance that Newton’s own inductive inference to the law of universal gravitation crucially involves such direct applications of conservation of momentum to gravitational interactions at a distance (in showing, for example, that Saturn’s gravitational acceleration towards Jupiter is proportional to the mass of Jupiter and vice versa).",
+        {
+          "type": "note",
+          "id": "ch01-n21",
+          "label": "21"
+        },
+        " And it is further underscored, in particular, by the fact that the resulting determinations of the masses of the primary bodies in the solar system play a central role in Kant’s parallel constructive procedure, articulated in the fourth chapter or Phenomenology, for arriving at the true motions of bodies from their apparent motions. We begin with our parochial perspective here on earth, from which we can record both the observable phenomena governed by Galileo’s law of fall and the observable relative motions of a variety of satellites in the solar system with respect to their primary bodies (the moon relative to the earth, the planets relative to the sun, the moons of Jupiter and Saturn relative to their planets). The latter are just the phenomena expressed in Kepler’s laws, and what we now find is that we can first determine the true state of rotation of the earth (using small deviations from the law of fall manifesting what we now call Coriolis forces), and we can then determine the masses of all the primary bodies in the solar system (at least those actually having satellites) – with the result (as Newton shows) that the center of mass of the solar system is always very close to the center of the sun."
+      ],
+      "zh": [
+        "对康德来说，这一论证的重要性被如下情形进一步凸显：牛顿本人对万有引力定律的归纳推论，关键性地涉及把动量守恒直接应用于超距引力相互作用（例如在表明土星朝向木星的引力加速度与木星质量成正比、反之亦然时）。",
+        {
+          "type": "note",
+          "id": "ch01-n21",
+          "label": "21"
+        },
+        "而其重要性尤其还被这一事实凸显：由此得到的太阳系主天体质量的确定，在康德于第四章即现象学章中表述的平行构造程序——从物体的视运动达到其真运动——中扮演中心角色。我们从立足地球的局部视角出发，由此既能记录受伽利略落体定律支配的可观察现象，也能记录太阳系中各种卫星相对于其主天体的可观察相对运动（月球相对于地球、行星相对于太阳、木星和土星的卫星相对于它们的行星）。后者正是开普勒定律所表达的现象；而我们如今发现，我们可以先确定地球真实的自转状态（利用落体定律的微小偏差，它们显现我们如今所称的科里奥利力），然后可以确定太阳系中所有主天体（至少是实际拥有卫星的那些）的质量——其结果（如牛顿所示）是太阳系的质心总是非常接近太阳的中心。"
+      ],
+      "units": 268
+    },
+    {
+      "id": "ch01-u035",
+      "source_ids": [
+        "ch01-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hence we can empirically determine, from the observable phenomena themselves, the true center of motion of the solar system, and this thereby counts as an approximation, for Kant, of Newtonian absolute space. However, since it is also true, for Kant, that the solar system itself rotates around the center of the Milky Way galaxy, this galaxy rotates around the center of a larger system of such galaxies, and so on ad infinitum, absolute space (the true center of motion of the entire universe) is in the end what he calls an “idea of reason” – a forever unreachable regulative ideal we can only successively approximate in experience but never fully attain.",
+        {
+          "type": "note",
+          "id": "ch01-n22",
+          "label": "22"
+        }
+      ],
+      "zh": [
+        "于是我们能够从可观察现象本身出发，经验地确定太阳系真正的运动中心，而这在康德看来就算是对牛顿绝对空间的一种逼近。然而，由于对康德来说同样真实的是：太阳系本身绕银河系的中心旋转，这个星系又绕一个更大的此类星系系统的中心旋转，如此以至无穷，绝对空间（整个宇宙真正的运动中心）最终就是他所谓“理性的一个理念”——一个永远不可达到的调节性理想，我们只能在经验中不断逼近它，却永远无法完全达到它。",
+        {
+          "type": "note",
+          "id": "ch01-n22",
+          "label": "22"
+        }
+      ],
+      "units": 110
+    },
+    {
+      "id": "ch01-u038",
+      "source_ids": [
+        "ch01-u038"
+      ],
+      "page": "49",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Finally, since Newtonian absolute space is thus viewed as a regulative idea of reason, there is also an associated reconfiguration, for the critical Kant, of the relationships among space, the interactions of matter, and the idea of God. For the idea of God, too, is a regulative idea of reason. Indeed, there is an important sense in which it is the ultimate such regulative idea, since all human activity, together with the whole of nature, is ultimately subject to the idea of the Highest Good – the idea of a perfect community of all rational beings in a moral realm of ends, for which our only ground even to hope this could actually be achieved in nature (or, more precisely, successively approximated) is the idea of God (or, more precisely, divine providence). Moreover, Kant saw a deep analogy between the community of all rational beings in a moral realm of ends and the thoroughgoing community effected among all material bodies in the universe by universal gravitation, and this is the basis, in fact, for his late (and very striking) re-interpretation of the Newtonian doctrine of divine omnipresence in a footnote appended to the General Remark to the Third Part of Religion Within the Limits of Reason Alone (1793):"
+      ],
+      "zh": [
+        "最后，既然牛顿的绝对空间由此被视为理性的一个调节性理念，对批判的康德来说，空间、物质的相互作用与上帝理念三者之间的关系也随之发生重构。因为上帝理念也是理性的一个调节性理念。的确，在一个重要意义上它是终极的调节性理念，因为一切人类活动连同整个自然，最终都服从至善的理念——一切理性存在者在道德的目的王国中组成完善共同体的理念；而我们能够希望这一点在自然中实际达成（更确切地说，能够逐步逼近），哪怕只抱这样的希望，唯一根据也是上帝理念（或更准确地说，神圣天意）。此外，康德看到道德目的王国中一切理性存在者的共同体，与万有引力在宇宙中所有物体之间建立的普遍相互联系之间，有一种深刻的类比；这事实上正是他晚期（且十分引人注目的）对牛顿神圣遍在学说重新解释的基础——见《单纯理性限度内的宗教》第三篇总附释的一条脚注（1793年）："
+      ],
+      "units": 207
+    },
+    {
+      "id": "ch01-ref002",
+      "source_ids": [
+        "ch01-ref002"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "When Newton represents [the universal gravitation of all matter in the world] as, so to speak, divine universal presence in the appearance (omnipaesentia phenomenon), this is not an attempt to explain it (for the existence of God in space contains a contradiction), but rather a sublime analogy, in which it is viewed merely as the unification of corporeal beings into a world-whole, in so far as we base this upon an incorporeal cause. The same would happen in the attempt to comprehend the self-sufficient principle of the unification of the rational beings in the world into an ethical state and to explain the latter from the former. We know only the duty that draws us towards this; the possibility of the intended effect, even when we obey this [duty], lies entirely beyond the limits of all our insight. (Ak. 6, 138–139)"
+      ],
+      "zh": [
+        "当牛顿把［世界上一切物质的万有引力］表象为仿佛是显象中的神圣普遍临在（omnipaesentia phenomenon）时，这并不是要解释它（因为上帝在空间中的存在包含矛盾），而是一种崇高的类比：在其中它仅仅被视为有形体的存在者统一成一个世界整体，这是就我们以某个非有形体的原因作为这种统一的根据而言的。在试图领会把世界中的理性存在者统一为一个伦理国家的那个自足原理、并从前者解释后者时，也会发生同样的事情。我们只知道那项促使我们追求这一目标的义务；而即便我们服从这一［义务］，所意图的效果的可能性也完全超出我们一切洞见的界限。（科学院版第6卷，第138–139页）"
+      ],
+      "type": "quote",
+      "units": 142
+    },
+    {
+      "id": "ch01-u037",
+      "source_ids": [
+        "ch01-u037"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For the critical Kant, in other words, the only possible meaning the idea of divine omnipresence (and divine providence) can now have is a purely practical meaning, in so far as we unconditionally obey the command of morality to strive to realize the realm of ends here on earth, and, accordingly, we take the whole of that material nature of which we are a part to be in principle capable of such a realization (or, more precisely, its successive approximation). Kant thereby brings the characteristic mode of metaphysical investigation into the relationships among space, God, and matter practiced by his predecessors to a close, and transforms it – without remainder – into transcendental philosophy."
+      ],
+      "zh": [
+        "换句话说，对批判的康德而言，神圣遍在（及神圣天意）理念现在唯一可能具有的意义是纯粹实践的意义：就我们无条件地服从道德的命令、努力在尘世实现目的王国而言，并且相应地，我们认为原则上可以在我们身处其中的整个物质自然中实现这一目标（或更准确地说，对它的逐步逼近）。康德由此终结了其前辈们所实践的、对空间、上帝与物质之间关系的形而上学探究的特有方式，并把它——毫无剩余地——转化为先验哲学。"
+      ],
+      "units": 112
+    },
+    {
+      "id": "ch01-u036",
+      "source_ids": [
+        "ch01-u036"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch01-bibliography-001",
+      "source_ids": [
+        "ch01-ref004",
+        "ch01-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bricker, P. and R. I. G. Hughes, eds. (1990). Philosophical Perspectives on Newtonian Science. Cambridge, MA: MIT Press."
+      ],
+      "zh": [
+        "Bricker, P. and R. I. G. Hughes, eds. (1990). Philosophical Perspectives on Newtonian Science. Cambridge, MA: MIT Press."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch01-bibliography-002",
+      "source_ids": [
+        "ch01-ref005",
+        "ch01-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "DiSalle, R. (2006). Understanding Space–Time: The Philosophical Development of Physics from Newton to Einstein. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "DiSalle, R. (2006). Understanding Space–Time: The Philosophical Development of Physics from Newton to Einstein. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch01-bibliography-003",
+      "source_ids": [
+        "ch01-ref006",
+        "ch01-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M. (1990). “Kant and Newton: Why Gravity is Essential to Matter.” In Bricker and Hughes, pp. 185–202."
+      ],
+      "zh": [
+        "Friedman, M. (1990). “Kant and Newton: Why Gravity is Essential to Matter.” In Bricker and Hughes, pp. 185–202."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch01-bibliography-004",
+      "source_ids": [
+        "ch01-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M. (1992). Kant and the Exact Sciences. Cambridge, MA: Harvard University Press."
+      ],
+      "zh": [
+        "Friedman, M. (1992). Kant and the Exact Sciences. Cambridge, MA: Harvard University Press."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch01-bibliography-005",
+      "source_ids": [
+        "ch01-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M. (1997). “Descartes on the Real Existence of Matter.” Topoi 16: 1–10."
+      ],
+      "zh": [
+        "Friedman, M. (1997). “Descartes on the Real Existence of Matter.” Topoi 16: 1–10."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch01-bibliography-006",
+      "source_ids": [
+        "ch01-ref007",
+        "ch01-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M., ed. (2004). Immanuel Kant: Metaphysical Foundations of Natural Science. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Friedman, M., ed. (2004). Immanuel Kant: Metaphysical Foundations of Natural Science. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch01-bibliography-007",
+      "source_ids": [
+        "ch01-ref010",
+        "ch01-ref011"
+      ],
+      "page": "50",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M. (2008). “Descartes and Galileo: Copernicanism and the Metaphysical Foundations of Physics.” In J. Broughton and J. Carriero, eds. A Companion to Descartes. Oxford: Blackwell."
+      ],
+      "zh": [
+        "Friedman, M. (2008). “Descartes and Galileo: Copernicanism and the Metaphysical Foundations of Physics.” In J. Broughton and J. Carriero, eds. A Companion to Descartes. Oxford: Blackwell."
+      ],
+      "shared": true,
+      "units": 26
+    },
+    {
+      "id": "ch01-bibliography-008",
+      "source_ids": [
+        "ch01-ref011",
+        "ch01-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hall, A. R. and M. B. Hall, eds. (1962). Unpublished Scientific Papers of Isaac Newton. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Hall, A. R. and M. B. Hall, eds. (1962). Unpublished Scientific Papers of Isaac Newton. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch01-bibliography-009",
+      "source_ids": [
+        "ch01-ref012",
+        "ch01-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Janiak, A., ed. (2004). Isaac Newton: Philosophical Writings. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Janiak, A., ed. (2004). Isaac Newton: Philosophical Writings. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch01-bibliography-010",
+      "source_ids": [
+        "ch01-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Koyré, A. (1965). Newtonian Studies. Cambridge, MA: Harvard University Press."
+      ],
+      "zh": [
+        "Koyré, A. (1965). Newtonian Studies. Cambridge, MA: Harvard University Press."
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch01-bibliography-011",
+      "source_ids": [
+        "ch01-ref013",
+        "ch01-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Laywine, A. (1993). Kant’s Early Metaphysics and the Origins of the Critical Philosophy. Atascadero, CA: Ridgeview Press."
+      ],
+      "zh": [
+        "Laywine, A. (1993). Kant’s Early Metaphysics and the Origins of the Critical Philosophy. Atascadero, CA: Ridgeview Press."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch01-bibliography-012",
+      "source_ids": [
+        "ch01-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Menn, S. (1998). Descartes and Augustine. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Menn, S. (1998). Descartes and Augustine. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch01-bibliography-013",
+      "source_ids": [
+        "ch01-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Patrides, C. A., ed. (1980). The Cambridge Platonists. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Patrides, C. A., ed. (1980). The Cambridge Platonists. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch01-bibliography-014",
+      "source_ids": [
+        "ch01-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schönfeld, M. (2000). The Philosophy of the Young Kant. Oxford: Oxford University Press."
+      ],
+      "zh": [
+        "Schönfeld, M. (2000). The Philosophy of the Young Kant. Oxford: Oxford University Press."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch01-bibliography-015",
+      "source_ids": [
+        "ch01-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Stein, H. (1967). “Newtonian Space–Time.” Texas Quarterly 10: 174–200."
+      ],
+      "zh": [
+        "Stein, H. (1967). “Newtonian Space–Time.” Texas Quarterly 10: 174–200."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch01-bibliography-016",
+      "source_ids": [
+        "ch01-ref014",
+        "ch01-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Stein, H. (2002). “Newton’s Metaphysics.” In I. B. Cohen and G. E. Smith, eds. The Cambridge Companion to Newton. Cambridge: Cambridge University Press, pp. 256–307."
+      ],
+      "zh": [
+        "Stein, H. (2002). “Newton’s Metaphysics.” In I. B. Cohen and G. E. Smith, eds. The Cambridge Companion to Newton. Cambridge: Cambridge University Press, pp. 256–307."
+      ],
+      "shared": true,
+      "units": 26
+    },
+    {
+      "id": "ch01-bibliography-017",
+      "source_ids": [
+        "ch01-ref015",
+        "ch01-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Walford, D. and R. Meerbote, eds. (1992). Immanuel Kant: Theoretical Philosophy, 1755–1770. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Walford, D. and R. Meerbote, eds. (1992). Immanuel Kant: Theoretical Philosophy, 1755–1770. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch01-bibliography-018",
+      "source_ids": [
+        "ch01-ref016",
+        "ch01-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Watkins, E. (2005). Kant and the Metaphysics of Causality. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Watkins, E. (2005). Kant and the Metaphysics of Causality. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 13
+    }
+  ],
+  "notes": {
+    "ch01-n01": {
+      "number": "1",
+      "en": [
+        "This point was first made in Stein (1967), and we can now also cite Stein (2002) for an authoritative account of Newton’s metaphysics. De Gravitatione first appeared, together with an English translation, in Hall and Hall (1962). An improved translation by Christian Johnson, made with the assistance of Andrew Janiak, and consulting an earlier unpublished translation by Stein, appears in Janiak (2004): my parenthetical page references to De Grav. – and to Newton’s writings more generally – are to this edition."
+      ],
+      "zh": [
+        "这一点最早由斯坦因（1967年）提出；关于牛顿形而上学的权威论述，现在还可参见 Stein (2002)。《论引力》连同英译首次刊于 Hall and Hall (1962)。克里斯蒂安·约翰逊在安德鲁·贾尼亚克协助下、并参考斯坦因一份更早的未刊译稿所作的改进译本，见于 Janiak (2004)：我括号中对《论引力》乃至一般牛顿著作的页码引注均指这一版本。"
+      ]
+    },
+    "ch01-n02": {
+      "number": "2",
+      "en": [
+        "For Descartes’s appropriation of neo-Platonic metaphysics, as mediated by Augustine, see Menn (1998)."
+      ],
+      "zh": [
+        "关于笛卡尔经由奥古斯丁中介对新柏拉图主义形而上学的挪用，见 Menn (1998)。"
+      ]
+    },
+    "ch01-n03": {
+      "number": "3",
+      "en": [
+        "Some of the most important writings of the Cambridge Platonists are collected in Patrides (1980). For discussion of the idea that space is an emanative effect of God see the exchange between J. E. McGuire and John Carriero in Bricker and Hughes (1990). See also the very careful discussion in Stein (2002, pp. 266–272). In the course of his discussion Stein is led to claim (p. 269) that “the grounds for thinking that Newton’s theory of emanation is neo-Platonic, or ‘Cambridge Platonic,’ are very weak.” Whatever one may think of Stein’s particular reasons for this claim, it seems to me very hard to deny, in any case, that Newton is appropriating neo-Platonic (and, indeed, ‘Cambridge Platonic’) ideas for his own purposes here."
+      ],
+      "zh": [
+        "剑桥柏拉图主义者一些最重要的著作收录于 Patrides (1980)。关于空间是上帝流溢结果这一观念的讨论，见 Bricker and Hughes (1990) 中 J. E. 麦圭尔与约翰·卡列罗的交锋。另见 Stein (2002, pp. 266–272) 中非常细致的讨论。在讨论过程中，斯坦因得出这样的断言（第269页）：“认为牛顿的流溢理论是新柏拉图主义的或‘剑桥柏拉图主义的’，其根据非常薄弱。”无论人们如何看待斯坦因这一断言的具体理由，在我看来，无论如何都很难否认：牛顿在这里是为着自己的目的挪用新柏拉图主义（而且确实是“剑桥柏拉图主义”）的观念。"
+      ]
+    },
+    "ch01-n04": {
+      "number": "4",
+      "en": [
+        "In Query 31, for example, Newton describes God as (p. 138) “a powerful ever-living agent, who being in all places, is more able by his will to move the bodies within his boundless uniform sensorium, and thereby to form and reform the parts of the universe, than we are by our will to move the parts of our own bodies.”"
+      ],
+      "zh": [
+        "例如在疑问31中，牛顿把上帝描述为（第138页）“一个强有力、永生的能动者，他存在于一切地方，因而更能凭其意志移动他那无边而匀一的感觉中枢内的物体，从而形成和改造宇宙的各部分，胜过我们凭意志移动自己身体的各部分。”"
+      ]
+    },
+    "ch01-n05": {
+      "number": "5",
+      "en": [
+        "This, in a nutshell, is how I read the argument for the existence of matter of the Sixth Meditation: see Friedman (1997, 2008)."
+      ],
+      "zh": [
+        "简言之，这就是我解读《第六沉思》中物质存在论证的方式：见 Friedman (1997, 2008)。"
+      ]
+    },
+    "ch01-n06": {
+      "number": "6",
+      "en": [
+        "Thus, for example, in the Scholium to section 11 of Book I of the Principia, after discussing the three-body problem at some length, Newton says (p. 86, my emphasis): “I use the word ‘attraction’ here in a general sense for any endeavor whatever of bodies to approach one another, whether that endeavor occurs as a result of the action of the bodies either drawn toward one another or acting on one another by means of spirits emitted or whether it arises from the action of the aether or air or of any medium whatsoever – whether corporeal or incorporeal – in any way impelling toward one another the bodies floating therein.” However, as explained in note 17 below (which also discusses the aetherial medium proposed in the Optics), Newton definitely appears to exclude mechanical impact from the possible candidates in the second (1713) edition of the Principia."
+      ],
+      "zh": [
+        "例如，在《原理》第一卷第11节的附释中，牛顿在相当详细地讨论三体问题之后说（第86页，强调为我所加）：“我在这里是在一般意义上使用‘吸引’一词，指物体相互接近的任何趋向，无论这种趋向是由于物体被相互拉近的作用、还是由于物体借所发射的精神相互作用的结果，还是由于以太、空气或任何介质——无论有形还是无形——以任何方式把漂浮其中的物体相互推动而产生。”然而，正如下面注17所解释的（该注也讨论《光学》中提出的以太介质），在《原理》第二版（1713年）中，牛顿看来明确把机械碰撞排除出了可能的候选者。"
+      ]
+    },
+    "ch01-n07": {
+      "number": "7",
+      "en": [
+        "In Query 31 to the Optics (unlike De Grav.), Newton suggests that God’s act of creating matter in space is responsible not only for impenetrability and mass (in accordance with the three “passive” laws of motion), but also for specific forces or “active principles,” including gravity (pp. 136–137): “[I]t seems probable to me, that God in the beginning formed matter in solid, massy, hard, impenetrable, moveable particles, of such sizes and figures, and with such other properties, and in such proportion to space, as most conduced to the end for which he formed them;… It seems to me farther, that these particles have not only a vis inertiae, accompanied with such passive laws of motion as naturally result from that force, but also that they are moved by certain active principles, such as that of gravity, and that which causes fermentation, and the cohesion of bodies. These principles I consider, not as occult qualities, supposed to result from the specific forms of things, but as general laws of nature, by which the things themselves are formed; their truth appearing to us by phenomena, though their causes be not yet discovered.” Compare also the passage quoted in note 4 above, which can easily be taken to suggest that God himself “moves” the bodies interacting in accordance with universal gravitation."
+      ],
+      "zh": [
+        "在《光学》疑问31中（不同于《论引力》），牛顿暗示上帝在空间中创造物质的行动不仅负责不可入性与质量（依照三条“被动”运动定律），还负责特定的力或“能动原理”，包括引力（第136–137页）：“在我看来很可能，上帝起初把物质造成为坚实、有质量、坚硬、不可入、可运动的粒子，其大小和形状、其他属性以及与空间的比例，都最有助于他造它们所要达到的目的；……我还觉得，这些粒子不仅有惯性力，伴随着由那种力自然产生的被动运动定律，而且还被某些能动原理所推动，例如引力原理，以及引起发酵和物体内聚的原理。我认为这些原理不是被假定从事物的特定形式产生的隐秘性质，而是自然的一般定律，事物本身借它们而形成；它们的真理由现象向我们显现，尽管其原因尚未发现。”另可对照上面注4所引的段落，它很容易被理解为暗示上帝本身“推动”按万有引力相互作用的物体。"
+      ]
+    },
+    "ch01-n08": {
+      "number": "8",
+      "en": [
+        "Immediately following this passage Newton adds (ibid.): “In him all things are contained and moved, but he does not act on them nor they on him.” And, at the very end of the General Scholium, after pointing out that he has “not yet assigned a cause to gravity,” and that, nonetheless, it is not to be reckoned among the “occult qualities,” but is rather derived by induction from the phenomena, Newton continues (p. 93): “A few things could now be added concerning a certain very subtle spirit pervading gross bodies and lying hidden in them; by its force and actions, the particles of bodies attract one another at very small distances and cohere when they become contiguous; and electrical bodies act at greater distances, repelling as well as attracting neighboring corpuscles;…” If, in accordance with the above passage from Query 31 of the Optics, we suppose that this “very subtle spirit” is also the cause of gravitational attraction, it would follow that it is this (presumably immaterial or massless) “spirit” which mediates gravitational action in line with the letter to Bentley. God’s own active agency would then be confined to creating both matter and the spirit in question, which then interact with one another to produce the phenomena of gravitational attraction."
+      ],
+      "zh": [
+        "紧接这段引文，牛顿补充道（同上）：“万物都在他之中被包含和被推动，但他不作用于它们，它们也不作用于他。”而在“总释”的最末尾，在指出他“尚未给引力指定一个原因”、但它仍不应算入“隐秘性质”、而是由现象经归纳得出之后，牛顿继续写道（第93页）：“现在还可以补充几点，关于某种极其精微的精神，它弥漫于粗糙物体之中并隐藏于其内；凭借它的力和作用，物体的粒子在极小距离上相互吸引，并在接触时内聚；带电物体则在较大距离上起作用，既排斥也吸引邻近的微粒；……”如果依照上文《光学》疑问31的段落，我们假定这种“极其精微的精神”也是引力吸引的原因，那么就可以推出：正是这种（大概是非物质的或无质量的）“精神”，依照致本特利信件的说法，中介着引力作用。于是上帝自身的能动作用就限于创造物质和上述精神，二者随后相互作用以产生引力吸引的现象。"
+      ]
+    },
+    "ch01-n09": {
+      "number": "9",
+      "en": [
+        "This, for example, is how Robert DiSalle views the matter in his excellent recent philosophical history of space-time physics. In particular, according to DiSalle (2006, p. 42): “[I]n the Newtonian view, any interaction is physically intelligible as long as, and just to the extent that, it conforms to the laws of motion.” This, however, was not the view of Newton himself; rather, it is a (certainly very natural) conception arising in a post-Newtonian context where Newton’s physics itself is then taken as a reliable guide to metaphysics – for example, as we shall soon see, in Kant."
+      ],
+      "zh": [
+        "例如，罗伯特·迪萨莱在其晚近出色的时空物理学哲学史中就是这样看的。特别地，按照 DiSalle (2006, p. 42)：“［在］牛顿的观点中，任何相互作用只要符合运动定律，并且恰在其符合运动定律的程度上，就是物理上可理解的。”然而这不是牛顿本人的观点；毋宁说，这是在牛顿之后的语境中产生的（当然非常自然的）构想，在那里牛顿物理学本身被当作形而上学的可靠向导——例如我们很快将在康德那里看到的。"
+      ]
+    },
+    "ch01-n10": {
+      "number": "10",
+      "en": [
+        "Of course Newton’s conception of divine agency is highly unorthodox, and, from a more traditional point of view, one would certainly not constrain God’s creative activity by the requirement of local presence governing the interactions of material substances. From this point of view, it is Newton who opens up the threat of atheism (or rather pantheism) by seeming to materialize God. However, although Leibniz, for example, thus stands on firmer theological ground than Newton, he does not have a competing metaphysics adequate for natural philosophy and physics. Kant’s problem was precisely to construct such a competing metaphysics along broadly Leibnizean lines, while simultaneously doing full justice to Newtonian physics."
+      ],
+      "zh": [
+        "当然，牛顿的神圣能动性构想极不正统；从更传统的观点看，人们当然不会用支配物质实体相互作用的局域在场要求来约束上帝的创造活动。从这个观点看，正是牛顿因似乎把上帝物质化而招致无神论（更确切说，泛神论）的风险。然而，尽管例如莱布尼茨因此在神学上比牛顿站得更稳，他却没有一种足以胜任自然哲学与物理学的竞争性形而上学。康德的问题恰恰是沿着大体莱布尼茨式的路线构造这样一种竞争性形而上学，同时充分公正地对待牛顿物理学。"
+      ]
+    },
+    "ch01-n11": {
+      "number": "11",
+      "en": [
+        "Kant makes this connection in the New Exposition of the First Principles of Metaphysical Cognition and the Universal Natural History and Theory of the Heavens, both appearing in 1755. For discussion, and references, see Friedman (1992, pp. 5–14). As I point out there, an echo of the Newtonian doctrine of divine omnipresence occurs as late as the Scholium to section 22 of the Inaugural Dissertation (1770). (Kant of course had no knowledge of Newton’s unpublished De Gravitatione, but, as observed above, essentially the same metaphysics of space surfaces in such well-known published writings as the General Scholium to the Principia and the Queries to the Optics.) For further recent discussions of Kant’s pre-critical metaphysics see Laywine (1993), Schönfeld (2000), Watkins (2005). A recent volume of translations is Walford and Meerbote (1992)."
+      ],
+      "zh": [
+        "康德在1755年同年出版的《对形而上学认识第一原理的新解释》与《自然通史与天体理论》中建立了这一联系。讨论与文献见 Friedman (1992, pp. 5–14)。正如我在那里指出的，牛顿神圣遍在学说的回声迟至《就职论文》（1770年）第22节的附释中仍可听到。（康德当然不知道牛顿未发表的《论引力》，但如上所述，本质上相同的空间形而上学浮现于《原理》“总释”和《光学》“疑问”这类著名的已发表著作中。）关于康德前批判形而上学的晚近讨论，另见 Laywine (1993)、Schönfeld (2000)、Watkins (2005)。晚近的一部译文集是 Walford and Meerbote (1992)。"
+      ]
+    },
+    "ch01-n12": {
+      "number": "12",
+      "en": [
+        "Kant takes particular pains, in the second (1787) edition of the Critique, to emphasize that his conception of space and time as pure forms of sensibility is the only real alternative to the – theologically disastrous (compare note 10 above) – Newtonian view (B 71–72): “In natural theology, where one thinks an object that is not only no object of sensible intuition for us, but cannot even be an object of sensible intuition for itself, one takes care to remove the conditions of space and time from all of its intuition (for all of it cognition must be intuition and not thought, which is always a manifestation of limitations). But with what right can one do this, if one has previously made both into forms of things in themselves – and, indeed, into forms which, as a priori conditions of the existence of things, even remain when one has annihilated the things themselves? (For, as conditions of all existence in general, they must also be conditions for the existence of God.)",
+        "\n",
+        "There is therefore no alternative, if one does not pretend to make them into objective forms of all things, except to make them into subjective forms of our outer and inner mode of intuition. [This kind of intuition] is called sensible, because it is not original – i.e., it is not such that the existence of objects of intuition is itself given through it (which, as far as we can comprehend, can only pertain to the primordial being), but it depends on the existence of the objects, and is thus only possible in so far as the representative faculty of the subject is affected by them.” (All translations from Kant’s writings are my own, and I cite all writings – except for the first Critique – by volume and page numbers of the standard Akademie edition of Kant’s gesammelte Schriften.)."
+      ],
+      "zh": [
+        "康德在《批判》第二版（1787年）中特别着力强调：他把时空理解为纯粹感性形式的构想，是替代牛顿观点——它在神学上是灾难性的（对照上面注10）——的唯一真实选项（B 71–72）：“在自然神学中，人们思维一个对象，它不仅对我们不是感性直观的对象，甚至对它自己也不可能是感性直观的对象；人们小心地把空间与时间条件从它的一切直观中去除（因为它的一切认识都必须是直观而不是思维，思维总是局限性的表现）。但如果人们事先把两者都做成物自身的形式——而且做成这样的形式：作为事物实存的先天条件，即便人们消灭了事物本身它们仍然留存——那么人们凭什么权利这样做呢？（因为作为一般一切实存的条件，它们也必定是上帝实存的条件。）",
+        "\n",
+        "因此，如果不主张把时空当作一切事物的客观形式，就没有别的选择，只能把它们做成我们外直观与内直观方式的主观形式。［这种直观］被称为感性的，因为它不是源始的——也就是说，它不是这样一种直观：直观对象的实存本身经由它而被给予（就我们所能理解的而言，这只能属于源始存在者）——而是依赖于对象的实存，因而只有当主体的表象能力被对象所刺激时才可能。”（本文所引康德著作的英译均出自我本人；除第一批判外，我引注所有著作均按标准科学院版《康德全集》的卷次与页码。）"
+      ]
+    },
+    "ch01-n13": {
+      "number": "13",
+      "en": [
+        "Since, for Kant, the pure mathematician inscribes figures in space – in the process of Euclidean construction – by this same activity of the understanding, we thereby obtain, at the same time, an explanation of why all empirical objects in the phenomenal world (appearances) are necessarily subject to pure mathematics. This explanation essentially involves the categories of quantity and, in particular, the Axioms of Intuition (A 165–166/B 206): “The synthesis of spaces and time, as the essential form of all intuition, is that which also makes possible the apprehension of the appearance, and thus all outer experience, and therefore all cognition of the objects of experience; and what mathematics in its pure use demonstrates of the former [the essential form of all intuition], it is also necessarily valid for the latter [all outer experience, etc.].” And it is in precisely this way, too, that Kant demonstrates the necessary applicability of mathematics to sensible experience (and forestalls any possible Platonic gap between the two) which Newton secured by his metaphysics of space: compare the paragraph to which note 5 above is appended."
+      ],
+      "zh": [
+        "由于对康德来说，纯粹数学家在欧几里得构造过程中正是借知性的这同一种活动在空间中描画图形，我们由此同时获得了一个解释：为什么现象世界中的一切经验对象（显象）必然服从纯粹数学。这一解释本质上涉及量的范畴，尤其是“直观的公理”（A 165–166/B 206）：“空间与时间的综合，作为一切直观的本质形式，也正是使显象的领会、因而一切外部经验、从而经验对象的一切认识成为可能的东西；而数学在其纯粹运用中对前者［一切直观的本质形式］所证明的，也必然对后者［一切外部经验等］有效。”康德也正是以这种方式证明了数学对感性经验的必然适用性（并预先排除二者之间任何可能的柏拉图式鸿沟）——这正是牛顿凭借其空间形而上学所确保的东西：对照上文注5所附的段落。"
+      ]
+    },
+    "ch01-n14": {
+      "number": "14",
+      "en": [
+        "See note 11 above, together with the paragraph to which it is appended. As I observed, there is an echo of the pre-critical theory of divine omnipresence even in the Inaugural Dissertation, where Kant has already drawn a fundamental distinction between understanding and sensibility. The question Kant raises there (in the Scholium to section 22) concerns precisely the causes of our sensible intuitions, and, in particular, the relationship between our sensible intuitions and the assumed ultimate substances constituting the intelligible world. The answer Kant (tentatively) suggests is that, since both our mind and these “external things” are sustained by a single infinite being, space, as the “sensibly cognized universal and necessary condition for the co-presence of all things” can thus be characterized as (God’s) phenomenal omnipresence. In light of section 22 itself, it appears that Kant is thereby invoking a pre-established harmony (instituted by God) between the purely intellectual reality of ultimate substances and our spatio-temporal sensibility to explain the necessary connection between this reality as it is in itself and as it appears to us. In section 27 of the second edition transcendental deduction, Kant explicitly rejects such an explanation of the agreement between experience and its objects (which he calls a “preformation-system of pure reason”) in favor of his new, critical explanation (which he calls an “epigenesis of pure reason”) – where, as I understand it, the understanding rather creates the a priori order of sensible experience by injecting itself into the pure forms of sensibility."
+      ],
+      "zh": [
+        "见上文注11及其所附段落。如我所说，甚至在《就职论文》中——康德在那里已经划出知性与感性的根本区分——仍有前批判神圣遍在理论的回声。康德在那里（第22节附释中）提出的问题，恰恰关涉我们感性直观的原因，尤其是我们的感性直观与被假定构成理智世界的终极实体之间的关系。康德（试探性地）给出的回答是：既然我们的心灵与这些“外部事物”都由同一个无限存在者所维持，空间作为“为感性所认识的、一切事物共同在场的普遍而必然的条件”，就可以被刻画为（上帝的）现象性遍在。鉴于第22节本身，看来康德由此是在援引（上帝设立的）终极实体的纯粹理智实在与我们时空感性之间的一种前定和谐，来解释这一实在自身所是与其向我们显现之间的必然联系。在第二版先验演绎第27节中，康德明确拒斥这种对经验与其对象之一致的解释（他称之为“纯粹理性的预成系统”），转而支持他新的批判性解释（他称之为“纯粹理性的后生论”）——按我的理解，在其中知性通过把自己注入纯粹感性形式，而毋宁是创造出感性经验的先天秩序。"
+      ]
+    },
+    "ch01-n15": {
+      "number": "15",
+      "en": [
+        "All translations from this work are taken from Friedman (2004)."
+      ],
+      "zh": [
+        "本文引用这部著作时采用的英译均取自 Friedman (2004)。"
+      ]
+    },
+    "ch01-n16": {
+      "number": "16",
+      "en": [
+        "Leibniz’s main theological objection to the Newtonian force of gravity, it will be recalled, was that it would be a “perpetual miracle” if a body could persist in orbital motion (without flying off along the tangent in accordance with the law of inertia) unless the material in a celestial vortex acted upon it by impact or pressure to maintain this orbital motion. Since Newton himself shared the wide-spread rejection of action at a distance at the time, he could not give the straightforward rejoinder later available to Kant: the sun itself causes the planets to persist in their orbits, by precisely its immediate attraction across empty space. Compare notes 9 and 10 above, together with the paragraph to which they are appended."
+      ],
+      "zh": [
+        "回想一下，莱布尼茨对牛顿引力的主要神学反对是：如果没有天体涡旋中的物质通过碰撞或压力维持其轨道，一个物体却还能持续在轨道上运行（而不按惯性定律沿切线飞离），那便是一个“永久的奇迹”。由于牛顿本人也认同当时对超距作用的普遍拒斥，他无法给出后来康德可用的直截了当的反驳：太阳本身正是凭其穿过虚空空间的直接吸引，使行星持续在其轨道上。对照上文注9和注10及其所附段落。"
+      ]
+    },
+    "ch01-n17": {
+      "number": "17",
+      "en": [
+        "The “one question concerning its cause” added to the second edition of the Optics is of course Query 21, where Newton famously speculates that a universal “Aetherial Medium” growing denser at greater distances from the heavenly bodies might explain the gravitational interactions between these bodies. However, this aether does not act by impact (as in the vortex theory favored by the mechanical philosophers), but is rather governed by short-range repulsive forces (between the particles of aether) responsible for its pressure (and thus density). So far, therefore, this particular speculation about a possible cause for gravity is consistent with Newton’s remarks in the General Scholium to the second edition of the Principia (compare note 6 above), where he denies that such a cause can be mechanical (p. 92): [T]his force arises from some cause that penetrates as far as the centers of the sun and the planets without any diminution of its power to act, and that acts not in proportion to the quantity of the surfaces of the particles on which it acts (as mechanical causes are wont to do) but in proportion to the quantity of solid matter, and whose action is extended everywhere to immense distances, always decreasing as the squares of the distances.”"
+      ],
+      "zh": [
+        "《光学》第二版增加的“关于其原因的一个疑问”当然是疑问21，牛顿在其中著名地猜测：一种在离天体越远处越稠密的普遍“以太介质”，也许能解释这些天体之间的引力相互作用。然而，这种以太并不借碰撞起作用（如机械论哲学家青睐的涡旋理论那样），而是受（以太粒子之间的）短程排斥力支配，这些力负责其压力（因而其密度）。因此，到目前为止，这个关于引力可能原因的具体猜测与牛顿在《原理》第二版“总释”中的说法（对照上文注6）是一致的——他在那里否认这样的原因可以是机械的（第92页）：“这种力来自某个原因，它一直穿透到太阳和行星的中心而其作用能力毫无减损；它不与其所作用的粒子表面积成正比（如机械原因惯常那样），而与固体物质的量成正比；它的作用处处延伸到极远的距离，总是随距离的平方反比减弱。”"
+      ]
+    },
+    "ch01-n18": {
+      "number": "18",
+      "en": [
+        "See Friedman (1992, pp. 153–159), and compare Friedman (1990)."
+      ],
+      "zh": [
+        "见 Friedman (1992, pp. 153–159)，并对照 Friedman (1990)。"
+      ]
+    },
+    "ch01-n19": {
+      "number": "19",
+      "en": [
+        "As is well-known, Roger Cotes objected to Newton on this score in their correspondence, and argued that Newton himself must therefore assume that gravitational attraction – as an immediate action at a distance – is in fact essential to matter. See Koyré (1965, chapter 7), and also Stein (1967)."
+      ],
+      "zh": [
+        "众所周知，罗杰·科茨在与牛顿的通信中就这一点提出反对，并论证牛顿本人因此必须假定：引力吸引——作为直接的超距作用——事实上是物质的本质属性。见 Koyré (1965, 第7章)，另见 Stein (1967)。"
+      ]
+    },
+    "ch01-n20": {
+      "number": "20",
+      "en": [
+        "By contrast, for Newton himself, as we have seen, this particular problem is solved by taking the ultimate causal agent here to be immaterial and, indeed, divine (compare again notes 9 and 10 above, together with the paragraph to which they are appended)."
+      ],
+      "zh": [
+        "相反，对牛顿本人来说，如我们所见，这个特定问题的解决方式是把这里的终极因果能动者取为非物质的、而且确实是神圣的（再次对照上文注9和注10及其所附段落）。"
+      ]
+    },
+    "ch01-n21": {
+      "number": "21",
+      "en": [
+        "Thus, Newton’s adherence to a neo-Platonic (Cambridge Platonic) metaphysics of space is not simply an additional (and arbitrary) assumption on his part, one which could easily be dropped. On the contrary, his own inductive argument for universal gravitation, in the context of the prevailing ideas about efficient causation and ultimate (divine) agency, more or less uniquely single out this metaphysics among the available alternatives."
+      ],
+      "zh": [
+        "因此，牛顿对一种新柏拉图主义（剑桥柏拉图主义）空间形而上学的坚持，并不只是他额外（且任意）的一个假定、一个可以轻易放弃的假定。相反，在当时关于动力因的作用与终极（神圣）能动性的流行观念的语境中，他本人对万有引力的归纳论证，使这种形而上学几乎成了当时各种选项中唯一可行的一种。"
+      ]
+    },
+    "ch01-n22": {
+      "number": "22",
+      "en": [
+        "This constructive procedure for approximating absolute space in experience is analogous, in important respects, to the constructive method of Euclidean geometry (compare note 13 above). But the circumstance that the former can never be completed marks an essential difference between the two, closely related to Kant’s view that the mathematical principles of pure understanding are constitutive with respect to intuition while the dynamical principles are merely regulative with respect to intuition (but constitutive with respect to experience): for further discussion see Friedman (1992, pp. 159–164)."
+      ],
+      "zh": [
+        "这种在经验中逼近绝对空间的构造程序，在重要方面类似于欧几里得几何的构造方法（对照上文注13）。但前者永远无法完成这一情形，标志着二者之间的一个本质差别，它与康德的如下观点密切相关：纯粹知性的数学原理对直观是构成性的，而力学性原理对直观只是调节性的（但对经验是构成性的）：进一步讨论见 Friedman (1992, pp. 159–164)。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1825 @@
+{
+  "id": "ch23",
+  "title": "现代物理学的符号结构一瞥",
+  "originalTitle": "A View of the Symbolic Structure of Modern Physics",
+  "outline": [
+    {
+      "anchor": "ch23-u003",
+      "title": "1 论物理理解、符号与实在",
+      "originalTitle": "1 On Physical Understanding, Symbols, and Reality",
+      "level": 1
+    },
+    {
+      "anchor": "ch23-u014",
+      "title": "2 论物理概念的形成、确定性与客观化，以及物理知识的发展",
+      "originalTitle": "2 On Forming Physical Concepts, Certainty and Objectification, and the Development of Physical Knowledge",
+      "level": 1
+    },
+    {
+      "anchor": "ch23-u024",
+      "title": "3 什么是现代物理学？",
+      "originalTitle": "3 What is Modern Physics?",
+      "level": 1
+    },
+    {
+      "anchor": "ch23-u031",
+      "title": "4 我们如何理解物理符号的演化",
+      "originalTitle": "4 How can we Understand the Evolution of Physical Symbols",
+      "level": 1
+    },
+    {
+      "anchor": "ch23-u042",
+      "title": "5 再论必然性、真理与知识的动力学",
+      "originalTitle": "5 More on Necessity, Truth, and the Dynamics of Knowledge",
+      "level": 1
+    },
+    {
+      "anchor": "ch23-u048",
+      "title": "6 批判哲学与物理知识",
+      "originalTitle": "6 Critical Philosophy and Physical Knowledge",
+      "level": 1
+    },
+    {
+      "anchor": "ch23-u058",
+      "title": "参考文献",
+      "originalTitle": "Bibliography",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch23-u001",
+      "source_ids": [
+        "ch23-u001"
+      ],
+      "page": "389",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch23-u002",
+      "source_ids": [
+        "ch23-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Ion-Olimpiu Stamatescu"
+      ],
+      "zh": [
+        "扬-奥林皮乌·斯塔马泰斯库"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch23-u004",
+      "source_ids": [
+        "ch23-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract This essay discusses the character of the concepts used in modern physical theories and the symbolic structure they define. Are these symbols interchangeable free constructs and the theories artificial devices with in and out slots to accomodate observations? Are the symbols “read” up - that is, interpreted - from nature and are the physical theories directly referring to a final reality? Did our reason by itself fix immovable rules to build up these concepts? None of the “fundamentalist” stances hereto appears supported by the scientific process of developing physical knowledge. A more differentiate approach is suggested, which could offer for these questions a sustainable, less strong but may be more fruitful point of view."
+      ],
+      "zh": [
+        "摘要 本文讨论现代物理理论所用概念的特征以及它们所定义的符号结构。这些符号是可以相互替换的自由构造物吗？理论是用来输入和输出观察结果的人造装置吗？这些符号是从自然中“读出”——即解释出来——的、而物理理论直接指涉某个终极实在吗？是我们的理性自身为建构这些概念固定了不可移易的规则吗？科学地发展物理知识的过程似乎不支持这里任何一种“原教旨主义”立场。本文建议一种更有分别的进路，它或许能为这些问题提供一个经得住检验、主张较弱却可能更有成效的观点。"
+      ],
+      "units": 113
+    },
+    {
+      "id": "ch23-u003",
+      "source_ids": [
+        "ch23-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 On Physical Understanding, Symbols, and Reality"
+      ],
+      "zh": [
+        "1 论物理理解、符号与实在"
+      ],
+      "type": "subheading",
+      "units": 7
+    },
+    {
+      "id": "ch23-u005",
+      "source_ids": [
+        "ch23-u005"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "I.-O. Stamatescu FEST, Schmeilweg 5, D-69118 Heidelberg, Germany Institute for Theoretical Physics, University of Heidelberg, Philosophenweg 16, D-69120 Heidelberg, Germany"
+      ],
+      "zh": [
+        "I.-O. Stamatescu FEST, Schmeilweg 5, D-69118 Heidelberg, Germany Institute for Theoretical Physics, University of Heidelberg, Philosophenweg 16, D-69120 Heidelberg, Germany"
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch23-u006",
+      "source_ids": [
+        "ch23-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In discussing modern physics in the perspective of critical philosophy it is necessary to first ask what physical understanding involves. Can the structural scheme provided by transcendental philosophy (which deals with the development and interpretation of physical theories) be used in this discussion, and if so, how?"
+      ],
+      "zh": [
+        "在批判哲学的视角下讨论现代物理学，首先必须问物理理解包含什么。先验哲学（它处理物理理论的发展与解释）提供的结构图式能否用于这场讨论？如果能，又如何使用？"
+      ],
+      "units": 47
+    },
+    {
+      "id": "ch23-u007",
+      "source_ids": [
+        "ch23-u007"
+      ],
+      "page": "390",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The symbolic, conceptual structures of physics are developed in accordance with a process endowed its own dynamics directed to physical knowledge. Periodically during its development physics leaves behind those very worldviews and philosophical schemes that it has contributed to build up. Examples are provided by Newtonian space–time as an a priori objectification frame, or classical mechanics as a guarantee for determinism and continuity. While the dialogue between physics and philosophy is necessary and rewarding, physics would not do its job if its primary concern were to agree with the latter. Hence the following discussion cannot be understood in terms of the simple dichotomy: “does the Kantian system apply; or does it not?” Irreducible incompatibilities must be taken into account, which do not allow a clear-cut answer to that kind of question."
+      ],
+      "zh": [
+        "物理学的符号的、概念的结构，是按照一个被赋予自身动力学、指向物理知识的过程发展起来的。物理学在发展过程中，每隔一段时间就会超越它曾参与建立的世界观和哲学图式。例子包括：作为先天客观化框架的牛顿时空，或作为决定论与连续性之保证的经典力学。虽然物理学与哲学之间的对话是必要且有益的，但如果物理学的首要关切是与哲学保持一致，它就没有尽到自己的职责。因此，下面的讨论不能按简单的二分法来理解：“康德体系适用，还是不适用？”必须考虑到不可还原的不相容性，它们不允许对那类问题给出斩钉截铁的回答。"
+      ],
+      "units": 132
+    },
+    {
+      "id": "ch23-u008",
+      "source_ids": [
+        "ch23-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In this essay some concepts related to physical understanding will be examined. The background of this discussion is modern and contemporary physics. Problems will be raised in relation to objectification, intuition, continuity and realism, justification and truth, where critical philosophy defines questions and provides schemes for analysing the answers. This study is not essentially philosophical since it proceeds from the point of view of physics."
+      ],
+      "zh": [
+        "本文将考察与物理理解相关的一些概念。这场讨论的背景是现代与当代物理学。我们将围绕客观化、直观、连续性与实在论、证成与真理提出问题，其中批判哲学界定问题并提供分析答案的图式。这项研究本质上不是哲学性的，因为它从物理学的观点出发。"
+      ],
+      "units": 65
+    },
+    {
+      "id": "ch23-u009",
+      "source_ids": [
+        "ch23-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In this kind of discussion physicists are sometimes confused by the use of the word reality. Some ideas should be fixed up, even if they sound philosophically trivial. A physicist typically assumes that “reality” (or “nature”) is something external to mind, more or less independent of our cognitive activity, toward which this activity is directed. This is a very simplistic metaphysical assumption; the alternative assumption, according to which everything happens in my own mind, is not very convincing either, and it is even more inconsistent to assert that the real takes place in many minds: what are they to me if there is no external reality? What about the alleged independence? If I am at a party and someone leaves, I observe that the party usually goes on. Then it is natural to assume that if I am to leave the party will equally go on. Some of the future events may depend to a certain degree on my being there and even on what I am thinking about it. And there will be also events for which it seems safe to assume that they do not depend at all on my knowledge about them, such as what will happen to me if I were to fall from a high building. More generally learning the laws of nature is vital for us, and yet it seems indifferent to them."
+      ],
+      "zh": [
+        "在这类讨论中，物理学家有时会被“实在”一词的用法弄糊涂。有些基本想法需要先说清楚，即使它们在哲学上听起来不值一提。物理学家通常假定，“实在”（或“自然”）是心灵之外的某物，或多或少独立于我们的认知活动，而这种活动指向它。这是一个非常简化的形而上学假设；另一种假设——一切都发生在我自己的心灵中——也不很有说服力；而断言实在发生在许多心灵中就更不一致了：如果没有外部实在，它们对我算什么？所谓独立性又如何？如果我在一个聚会上而某人离开了，我观察到聚会通常继续下去。于是很自然地假定，如果我离开，聚会也同样会继续。某些未来事件可能在某种程度上依赖于我在场，甚至依赖于我对它的想法。也会有一些事件，假定它们完全不依赖于我对它们的知识似乎是稳妥的，比如如果我从高楼坠落会发生什么。更一般地说，认识自然规律对我们至关重要，而对它们来说却似乎无关紧要。"
+      ],
+      "units": 229
+    },
+    {
+      "id": "ch23-u010",
+      "source_ids": [
+        "ch23-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "At this point we raise the question of “realism” in the following way: do the concepts that we develop in order to speak about reality (or nature) and our encounter with it have some “things” to which they refer “there”? The safest attitude in this regard seems to be still that of Hertz:"
+      ],
+      "zh": [
+        "在这一点上，我们这样提出“实在论”问题：我们为了谈论实在（或自然）以及我们与它的相遇而发展出来的概念，在“那边”是否有它们所指涉的某些“东西”？在这方面最稳妥的态度似乎仍然是赫兹的态度："
+      ],
+      "units": 53
+    },
+    {
+      "id": "ch23-u011",
+      "source_ids": [
+        "ch23-u011"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "“We construct internal appearances or symbols of external objects, and we make them such that what results by thought-necessity from such symbols will always be a symbol of that, what follows by nature-necessity from the symbolized objects […] – The symbols we speak of are our representations for things; they have with the things the one essential concordance which consists of satisfying the above requirement, but it is not necessary for their scope to have any other concordance with the things.”",
+        {
+          "type": "note",
+          "id": "ch23-n01",
+          "label": "1"
+        }
+      ],
+      "zh": [
+        "“我们构造外部对象的内部显象或符号，并且把它们构造成这样：由这些符号经思维必然性得出的东西，总是那些由被符号化的对象经自然必然性得出的东西的符号……我们所说的符号是我们关于事物的表象；它们与事物只有一种本质的一致，即满足上述要求，但就这些符号的用途而言，不必与事物有任何其他的一致。”",
+        {
+          "type": "note",
+          "id": "ch23-n01",
+          "label": "1"
+        }
+      ],
+      "type": "quote",
+      "units": 79
+    },
+    {
+      "id": "ch23-u012",
+      "source_ids": [
+        "ch23-u012"
+      ],
+      "page": "391",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The perspective associated with this attitude will be called “symbolic stance”. It essentially assumes that there are external things to which concepts refer, that the concepts are not just “images” of these things and that we are free to make them, provided that the resulting conceptual structure parallels the relations in which these things show up. In this context we would speak of “physical understanding” as the development and establishment of theoretical conceptual structures in which symbols assumed to point out onto “things” are bound to phenomena in an interpretational network and to each other in an analytic network. A more extended discussion is provided elsewhere.",
+        {
+          "type": "note",
+          "id": "ch23-n02",
+          "label": "2"
+        },
+        " Here we shall concentrate on the character of the reference relation and the associated questions of necessity and definiteness."
+      ],
+      "zh": [
+        "与这种态度相关联的视角将被称为“符号立场”。它本质上假定：存在着概念所指涉的外部事物；概念不只是这些事物的“图像”；我们可以自由地构造它们，只要由此产生的概念结构与这些事物显现于其中的关系相平行。在这个语境中，我们所说的“物理理解”是指理论概念结构的发展与确立，在其中，被假定指向“事物”的符号在一个解释网络中与现象绑定，在一个分析网络中彼此绑定。更展开的讨论见别处。",
+        {
+          "type": "note",
+          "id": "ch23-n02",
+          "label": "2"
+        },
+        " 这里我们将集中讨论指涉关系的特征以及与之相关的必然性和确定性问题。"
+      ],
+      "units": 125
+    },
+    {
+      "id": "ch23-u013",
+      "source_ids": [
+        "ch23-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the background of what follows the above “symbolic stance” is assumed. This express a bias toward realism since interaction with “reality” is central for shaping our concepts through the “requirement” described by Hertz. Nevertheless the questions raised by the critical philosophy retain their full relevance."
+      ],
+      "zh": [
+        "在下文的背景中，上述“符号立场”被预设。这表达了一种偏向实在论的倾向，因为通过赫兹所描述的“要求”，与“实在”的相互作用对于塑造我们的概念是核心的。尽管如此，批判哲学提出的问题仍然保持其充分的相关性。"
+      ],
+      "units": 46
+    },
+    {
+      "id": "ch23-u014",
+      "source_ids": [
+        "ch23-u014"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 On Forming Physical Concepts, Certainty and Objectification, and the Development of Physical Knowledge"
+      ],
+      "zh": [
+        "2 论物理概念的形成、确定性与客观化，以及物理知识的发展"
+      ],
+      "type": "subheading",
+      "units": 14
+    },
+    {
+      "id": "ch23-u015",
+      "source_ids": [
+        "ch23-u015"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Following Aristotle, “we consider that we know something if we think to know the cause based on which a thing is (and to know that this is its cause) and also to know that it cannot be otherwise”. In order for this to be possible, knowledge must be based on “something which is true and primary and immediate and… which must precede the conclusion and be its cause.”",
+        {
+          "type": "note",
+          "id": "ch23-n03",
+          "label": "3"
+        }
+      ],
+      "zh": [
+        "跟随亚里士多德，“我们认为，当我们想到自己认识了某物据以存在的原因（并且知道这就是它的原因），并且知道它不可能以其他方式存在时，我们就认识了该物”。为了使这成为可能，知识必须基于“某种真实的、首要的、直接的东西……它必须先于结论并且是结论的原因”。",
+        {
+          "type": "note",
+          "id": "ch23-n03",
+          "label": "3"
+        }
+      ],
+      "units": 68
+    },
+    {
+      "id": "ch23-u016",
+      "source_ids": [
+        "ch23-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Philosophy of knowledge has always been concerned with the relevance of these questions: necessity, certainty, reduction to principles, and with their grounding. Physics, on the other hand, as a “knowledge building” enterprise is bound to operate within the frame of such questions which define its praxis and standards. But this also means that philosophical consideration and physical experience imply different perspectives."
+      ],
+      "zh": [
+        "知识哲学一直关切这些问题的相关性：必然性、确定性、向原理的还原，以及它们的根据。另一方面，物理学作为一项“建构知识”的事业，必然在界定其实践与标准的那类问题的框架内运作。但这也意味着，哲学考量与物理经验蕴含着不同的视角。"
+      ],
+      "units": 61
+    },
+    {
+      "id": "ch23-u017",
+      "source_ids": [
+        "ch23-u017"
+      ],
+      "page": "392",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In “Metaphysische Anfangsgründe der Naturwissenschaft” Kant specifies a central epistemological problem. He defines",
+        {
+          "type": "note",
+          "id": "ch23-n04",
+          "label": "4"
+        },
+        " science as apodictictally certain, since only in this way the necessary character of the laws of nature can be secured. The “pure part” of science which grounds this certainty consists of metaphysics, which is “rational knowledge from concepts for themselves”, and mathematics, which is concerned with the construction of concepts from the representation of objects in an “Anschauung a priori” (a priori forms of intuition). The metaphysical system itself is based on the table of categories and the resulting construction operates by means of a tight mathematical basis. Emphasizing the a priori character of mathematics, Kant goes on to argue: “I contend that in every special natural science only so much science is to be found as mathematics can be found in it.”",
+        {
+          "type": "note",
+          "id": "ch23-n05",
+          "label": "5"
+        }
+      ],
+      "zh": [
+        "在《自然科学的形而上学初始根据》（Metaphysische Anfangsgründe der Naturwissenschaft）中，康德明确了一个核心的认识论问题。他认为科学必须具有确然的确定性",
+        {
+          "type": "note",
+          "id": "ch23-n04",
+          "label": "4"
+        },
+        "，因为只有这样才能确保自然规律的必然特征。奠定这种确定性的科学的“纯粹部分”由形而上学——“从概念自身而来的理性知识”——和数学构成，后者关注从对象在“先天直观”（Anschauung a priori，直观的先天形式）中的表象出发构造概念。形而上学体系本身基于范畴表，由此产生的构造借助严密的数学基础运作。康德强调数学的先天特征，进而论证：“我断言，在任何一门特殊的自然科学中，只能找到与其中所能找到的数学一样多的真正科学。”",
+        {
+          "type": "note",
+          "id": "ch23-n05",
+          "label": "5"
+        }
+      ],
+      "units": 136
+    },
+    {
+      "id": "ch23-u018",
+      "source_ids": [
+        "ch23-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant’s strategy provides the adequate framework for discussing the relevance and character of physical knowledge. I will define physical concepts in terms of basic categories, and resort to mathematics to construct them and their relations on the basis of the fundamental forms of intuition which control and order the observations. One arrives in this way to the objectification by which empirical information is taken over into physical knowledge. This process can involve a hierarchy of statements, such as Cassirer’s (data, laws, principles), assuming that their claim to certainty is a feature of this procedure. This does not mean that empirical proof is not required – it only means that empirical information cannot by itself support a positive claim to certainty. As Cassirer observes, the essence of this claim is the general principle of causality (der allgemeine Kausalsatz), which is “ein Sprung in Nichts” (a jump into void)",
+        {
+          "type": "note",
+          "id": "ch23-n06",
+          "label": "6"
+        },
+        " – or “a desperate hope”?",
+        {
+          "type": "note",
+          "id": "ch23-n07",
+          "label": "7"
+        },
+        "–, and its completion resides on clean metaphysics, reliable empirical information and correct mathematics."
+      ],
+      "zh": [
+        "康德的策略为讨论物理知识的相关性与特征提供了恰当的框架。我将借助基本范畴来定义物理概念，并求助于数学，在控制并整理观察的直观基本形式的基础上构造它们及其关系。人们以这种方式达到客观化，经验信息借此被接纳进物理知识。这个过程可以涉及一个陈述的层级，比如卡西尔的层级（数据、定律、原理），并假定它们对确定性的要求是这个程序的一个特征。这不意味着不需要经验证明——它只意味着经验信息本身不能支持对确定性的积极要求。正如卡西尔所观察的，这种要求的本质是普遍因果律（der allgemeine Kausalsatz），它是“跃入虚无”（ein Sprung in Nichts）",
+        {
+          "type": "note",
+          "id": "ch23-n06",
+          "label": "6"
+        },
+        "——或者“绝望的希望”？",
+        {
+          "type": "note",
+          "id": "ch23-n07",
+          "label": "7"
+        },
+        "——要兑现这一要求，还需明确的形而上学根据、可靠的经验信息和正确的数学。"
+      ],
+      "units": 163
+    },
+    {
+      "id": "ch23-u019",
+      "source_ids": [
+        "ch23-u019"
+      ],
+      "page": "393",
+      "canonical_kind": "paragraph",
+      "en": [
+        "However, this beautiful construction has its problems. Both its strength and its weakness rest in its rigidity. Is there a solid basis for it? Thus, for instance, according to Kant Euclidean geometry of space and linear, absolute time determine the a priori structure of the fundamental forms of intuition of space and time. However, already 1879 Helmholtz noticed that “Kant’s teaching of the a priori forms of intuition is a very clear expression of the matters: but these forms must be empty of content and free enough to take in any content which could present itself to the corresponding form of perception.”",
+        {
+          "type": "note",
+          "id": "ch23-n08",
+          "label": "8"
+        },
+        " This is not only a question of empirical adequacy. Indeed, if we declare, e.g., Euclidean geometry and Galilean relativity to be relevant in some way we run into serious contradictions: since the theory provides the instruments of objectification, and the correct theory is Einstein’s relativity, how can contradicting criteria of objectification be acting simultaneously in the same object (some body in space and time)? But even if we reduce the fundamental forms of intuitions to ordering tendencies, with which Helmholtz might agree, we run into problems, since these orderings cannot be trivially achieved throughout: they become intermingled because of relativity effects, and they are limited by quantum effects. Finally, we may try to put them into a hierarchy (in as much as, say, Newtonian mechanics is in some sense a good approximation in the frame of special relativity). But this means a very different understanding of the problem of how to achieve certainty, which in essence is different from that of Kant. The same holds for categories: something like quantum mechanical entanglement, for instance, cannot be set up in a classical scheme. The problem is not that our concepts must be changed, but that even the rules for constructing them evolve as a result of growing physical knowledge. Let us now take a closer look at the perspective brought about by physics itself."
+      ],
+      "zh": [
+        "然而，这个漂亮的构造有它的问题。它的力量与弱点都在于它的刚性。它有坚实的基础吗？例如，按照康德，空间的欧几里得几何和线性的、绝对的时间决定了空间与时间之直观基本形式的先天结构。然而，早在 1879 年亥姆霍兹就注意到，“康德关于先天直观形式的学说是对事实关系非常恰切而清晰的表达；但这些形式必须没有内容，并且足够自由，以接纳任何可能进入相应知觉形式的内容”。",
+        {
+          "type": "note",
+          "id": "ch23-n08",
+          "label": "8"
+        },
+        " 这不仅是一个经验适当性的问题。的确，如果我们宣布例如欧几里得几何和伽利略相对性在某种意义上是相关的，我们就陷入严重的矛盾：既然理论提供客观化的工具，而正确的理论是爱因斯坦的相对论，相互矛盾的客观化判据怎么能同时作用于同一个对象（时空中的某个物体）？但即使我们把直观的基本形式还原为排序倾向——亥姆霍兹可能同意这一点——我们仍然遇到问题，因为这些排序无法在一切情形中直接实现：它们由于相对论效应而相互交织，并且受到量子效应的限制。最后，我们可以尝试把它们排成一个层级（就例如牛顿力学在狭义相对论框架中在某种意义上是好的近似而言）。但这意味着对如何达到确定性这个问题的非常不同的理解，它在本质上不同于康德的理解。范畴也是如此：例如量子力学纠缠这样的东西，无法在经典图式中建立起来。问题不在于我们的概念必须改变，而在于甚至构造它们的规则也随着物理知识的增长而演化。现在让我们更仔细地看看物理学自身带来的视角。"
+      ],
+      "units": 326
+    },
+    {
+      "id": "ch23-u020",
+      "source_ids": [
+        "ch23-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Physics builds up symbolic structures under the constraints of empirical adequacy and mathematical consistency. By this we mean systems of concepts and rules, bound in relational and interpretational networks, in reference to both observations and what lies “behind the phenomena”. We do not “read up” theories from the observations, nor do we construct them arbitrarily by simply summarising observations. Rather, we develop them on the basis of the latter, using mathematics as both a reservoir of concepts and analytic rules. This is a very tight process according to which already acquired knowledge sets theoretical lines allowing for the evolution of established schemes and the emergence of new ones – mostly in contradiction with these lines themselves. Most theoretical developments are evolutions and revolutions at the same time. Thus special relativity uses the relativity principles including homogeneity and isotropy of space but contradicts the simultaneity principle, yet both belong to pre-Einsteinean physics. In the praxis of physics there is no immovable a priori, not tied to the growth of this praxis itself. In as much as intuition is not just “canonization of common sense”",
+        {
+          "type": "note",
+          "id": "ch23-n09",
+          "label": "9"
+        },
+        " it must itself evolve (see also B. Falkenburg, 2002, I.-O. Stamatescu, 1995)."
+      ],
+      "zh": [
+        "物理学在经验适当性与数学一致性的约束下建构符号结构。我们指的是概念与规则的系统，它们在关系网络与解释网络中被绑定，既指涉观察，也指涉“现象背后”的东西。我们不是从观察中“读出”理论，也不是通过简单概括观察而任意构造理论。毋宁说，我们在观察的基础上发展理论，把数学用作概念与分析规则的蓄水池。这是一个约束严密的过程。已有知识为理论发展划定路线，既有图式循此演化，新图式也由此产生——而新图式大多与这些路线本身相矛盾。大多数理论发展同时是演化与革命。因此，狭义相对论使用包括空间均匀性与各向同性在内的相对性原理，却与同时性原理相矛盾，而两者都属于前爱因斯坦物理学。在物理学的实践中，不存在不依赖于这种实践自身成长的、不可移易的先天。就直观不只是“常识的封圣”",
+        {
+          "type": "note",
+          "id": "ch23-n09",
+          "label": "9"
+        },
+        "而言，它自身必须演化（另见 B. Falkenburg, 2002; I.-O. Stamatescu, 1995）。"
+      ],
+      "units": 195
+    },
+    {
+      "id": "ch23-u021",
+      "source_ids": [
+        "ch23-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Thus we understand space by starting from our three-dimensional experience, but then also by extending this experience beyond its immediate limits, both by the use of instruments and by reasoning. There is no reason to feel secure of never needing to deal with higher dimensional spaces. We have already had to deal with “particles” having no well defined trajectories; in a not too distant future we will perhaps have to deal with “paradoxal” relativistic; none of these are daily intuitions. We steadily need to develop new intuitions and this involves observation and reasoning (“welche Reihe von Anschauung und Nachdenken verfolgte ich nicht…” – “what chain of intuitions and reasoning was I not following…”",
+        {
+          "type": "note",
+          "id": "ch23-n10",
+          "label": "10"
+        },
+        ")."
+      ],
+      "zh": [
+        "于是，我们从三维经验出发来理解空间，但随后也通过使用仪器和推理，把这种经验扩展到其直接界限之外。没有理由确信我们永远不需要处理更高维的空间。我们已经不得不处理没有明确定义轨迹的“粒子”；在不远的将来，我们也许将不得不处理相对论中“看似矛盾的”现象；这些都不是日常直观。我们持续需要发展新的直观，而这涉及观察与推理（“welche Reihe von Anschauung und Nachdenken verfolgte ich nicht…”——“我未曾追循过怎样的一连串直观与思索啊……”",
+        {
+          "type": "note",
+          "id": "ch23-n10",
+          "label": "10"
+        },
+        "）。",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "底本此处写作“‘paradoxal’ relativistic”，形容词后缺名词。译文按上下文泛指相对论中的反直觉现象"
+          ]
+        }
+      ],
+      "units": 112
+    },
+    {
+      "id": "ch23-u022",
+      "source_ids": [
+        "ch23-u022"
+      ],
+      "page": "394",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hence the physical concepts are built up under rules which themselves evolve as a result of the need to incorporate empirical accuracy and mathematical consistency in them. Quantum physics, for instance, does not only bring forth new concepts but also new rules for objectification and for categorical analysis. The validation rules are unchanged in their essence – empirical and mathematical correctness – but their realization can become more complex in order to cope with abstract theoretical schemes and the phenomenology."
+      ],
+      "zh": [
+        "因此，物理概念是在一些规则之下建构起来的，而这些规则本身由于需要把经验精确性与数学一致性纳入其中而演化。例如，量子物理学不仅带来新概念，还带来客观化与范畴分析的新规则。验证规则在本质上没有改变——经验的与数学的正确性——但它们的实现可能变得更复杂，以应对抽象的理论图式与有关现象。"
+      ],
+      "units": 78
+    },
+    {
+      "id": "ch23-u023",
+      "source_ids": [
+        "ch23-u023"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This raises the question of continuity. Our knowledge grows not just by accumulation and refinement: we build up increasingly powerful theories, increasingly richer in their structures. We cannot just add a new feature to an old concept or theoretical scheme: this would require arbitrarily many ad hoc procedures, since it would have to be repeated for each phenomenon. It can therefore only be an intermediary step – such was, for instance Bohr’s model of the hydrogen atom. Only when we have achieved to bind the new features in a new theoretical scheme, which then dictates how they have to be assigned to every phenomenon, do we reach a new understanding. Each step extends the horizon of explanations and bases the latter on fewer hypotheses. But this means that the new theories must involve genuinely new concepts and rules. How is the question of continuity in our knowledge process resolved? It turns out that, with few exceptions, the old conceptual structures are recognizable in the new ones, in the sense that the latter provide ways to make a relation to the old ones. The notion of controlled approximation is essential in this connection, by which we mean that we can unequivocally identify the physical situations in which the old theories provide a description which is nearly as good as that provided by the new theory, with “nearly” having a well-defined quantitative meaning. Of course, the reversed question is also raised: how strong is the bound to the old structure; does it not overinfluence the new ones? Is continuity not an artefact of our procedure? Note that the old conceptual scheme is not fully recovered. Only a part of it is recognizable, which will become a feature of the new theory. In fact the new structures are typically not approachable in the frame of the old ones. On the one hand we have to do with real incompatibilities, on the other hand the old concepts appear to be describable in the frame of the new theory in the relative sense now sketched. This seems to be a reasonable basis for identifying true progress in a scientific process. This also means that the conceptual structures are part of the same dynamics as physical knowledge in general. The structural questions of critical philosophy must therefore be treated in the frame of this dynamics."
+      ],
+      "zh": [
+        "这提出了连续性问题。我们的知识不只通过积累与精炼而增长：我们建构越来越强大的理论，其结构越来越丰富。我们不能只是给旧概念或理论图式添加一个新特征：这会要求任意多的特设程序，因为它必须对每个现象重复一遍。因此它只能是一个中间步骤——例如玻尔的氢原子模型就是如此。只有当我们成功地把新特征绑定进一个新的理论图式——由它来规定这些特征如何指派给每一个现象——我们才达到新的理解。每一步都扩展解释的视域，并把解释建立在更少的假设之上。但这意味着新理论必须包含真正新的概念与规则。我们知识过程中的连续性问题如何解决？结果表明，除少数例外，旧的概念结构在新的概念结构中是可辨认的，意思是后者提供了与前者建立联系的方式。受控近似的概念在这方面是本质性的：我们指的是，能够无歧义地识别出那些物理情境，在其中旧理论提供的描述几乎与新理论提供的一样好，而“几乎”具有明确定义的定量意义。当然，反向的问题也被提出：与旧结构的绑定有多强；它会不会过度影响新结构？连续性难道不是我们程序的人为产物？注意，旧的概念图式并没有被完全恢复。只有它的一部分是可辨认的，这部分将成为新理论的一个特征。事实上，新结构通常不能在旧结构的框架内接近。一方面我们面对的是真实的不相容性，另一方面旧概念似乎可以在刚才勾勒的相对意义上在新理论的框架内描述。这似乎是在科学过程中识别真正进步的合理基础。这也意味着概念结构是与一般物理知识相同的动力学的一部分。因此，批判哲学的结构问题必须在这个动力学的框架内处理。"
+      ],
+      "units": 388
+    },
+    {
+      "id": "ch23-u024",
+      "source_ids": [
+        "ch23-u024"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 What is Modern Physics?"
+      ],
+      "zh": [
+        "3 什么是现代物理学？"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch23-u025",
+      "source_ids": [
+        "ch23-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let us recall the general frame of our discussion. This is modern physics, that is, the theories of the standard model of fundamental interactions (SM) and the theory of general relativity (GRT), together with the theories of classical physics which represent general theoretical schemes, some of them being approximations to the more fundamental theories: thermodynamics, classical mechanics and statistical mechanics, electrodynamics."
+      ],
+      "zh": [
+        "让我们回顾讨论的总体框架。这就是现代物理学，即基本相互作用标准模型（SM）的诸理论与广义相对论（GRT），连同代表一般理论图式的经典物理学诸理论——其中一些是更基本理论的近似：热力学、经典力学与统计力学、电动力学。"
+      ],
+      "units": 61
+    },
+    {
+      "id": "ch23-u026",
+      "source_ids": [
+        "ch23-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "These theories can also be viewed from a more global perspective: the structure of matter, space and time, complex systems, fundamental interactions, etc. They cover more or less without gaps the whole known physical universe, from the largest to the smallest observable scales. This does not mean that they explain everything."
+      ],
+      "zh": [
+        "这些理论也可以从更全局的视角来看：物质结构、空间与时间、复杂系统、基本相互作用等等。它们或多或少无缺口地覆盖了整个已知的物理宇宙，从最大到最小的可观察尺度。这不意味着它们解释了一切。"
+      ],
+      "units": 51
+    },
+    {
+      "id": "ch23-u027",
+      "source_ids": [
+        "ch23-u027"
+      ],
+      "page": "395",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Thus it is not meaningful to require them to explain life, etc., but also many physical phenomena remain as yet unexplained, and we do not know whether they can be dealt with in the proper in any foreseeable future. What I mean here is that within their domains of validity they do not seem to be contradicted, and moreover these domains are not disjunct from one another. They may refer to a certain class of phenomena (e.g., electromagnetic, gravitational) or they may be defined as approximations (to other theories) for phenomena fulfilling some conditions (non-relativistic theories for velocities much lower than c, non-quantum theories for “decohering” situations). Nevertheless, within these limits, these theories are understood as generally valid in the following sense: If we find phenomena which do not obey the theory but should belong to its validity domain, this cannot be cured by arbitrarily redefining the validity domain but it has to be taken as a statement for the theory as a whole. So, for instance, before special relativity was established, classical mechanics was claimed valid for all mechanical phenomena. The subsequent restriction of its validity domain implied that the theory itself can only be approximative."
+      ],
+      "zh": [
+        "因此，要求它们解释生命等等是没有意义的，但也有许多物理现象迄今仍未得到解释，而且我们不知道在可预见的将来它们能否以恰当的方式得到处理。我在这里的意思是：在它们的有效域内，它们似乎没有被反驳，而且这些有效域彼此并不分离。它们可以指涉某一类现象（例如电磁的、引力的），也可以被定义为对满足某些条件的现象的（对其他理论的）近似（对远低于 c 的速度的非相对论理论，对“退相干”情境的非量子理论）。尽管如此，在这些限制之内，这些理论在如下意义上被理解为普遍有效的：如果我们发现不服从理论但应属于其有效域的现象，这不能通过任意重新定义有效域来补救，而必须被视为针对理论整体的一个论断。因此，例如在狭义相对论确立之前，经典力学曾被宣称对一切力学现象有效。随后对其有效域的限制意味着理论本身只能是近似的。"
+      ],
+      "units": 198
+    },
+    {
+      "id": "ch23-u028",
+      "source_ids": [
+        "ch23-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Viewed as theoretical schemes all the above-mentioned theories are more or less self-consistent; viewed as knowledge about nature they lead to an open hierarchy. The standard model is a collection of quantum field theories, like Quantum Electrodynamics (QED), which themselves implement consistently the theoretical schemes of quantum mechanics and of the special relativistic, classical field theory such as Electrodynamics (ED). They are theories in space and time concerning all known interactions besides gravity. General relativity, on the other hand, is a theory of space and time, and it incorporates gravity. This hierarchy is open since these theories represent separate, unrelated schemes and therefore they can only apply to phenomena where the effects they describe are independent of each other. However, there are physical situations where this can no longer be expected to hold, and current research is directed toward a unified theoretical scheme. The names GUT (Grand Unified Theory) or FT (Final Theory) are now the current road signs in this enterprise."
+      ],
+      "zh": [
+        "作为理论图式来看，上述所有理论或多或少是自洽的；作为关于自然的知识来看，它们导致一个开放的层级。标准模型是一批量子场论的集合，比如量子电动力学（QED），它们自身一致地实现了量子力学以及狭义相对论性经典场论（如电动力学（ED））的理论图式。它们是在空间与时间中、关于除引力外一切已知相互作用的理论。另一方面，广义相对论是关于空间与时间的理论，它把引力纳入其中。这个层级是开放的，因为这些理论代表彼此分离、互不关联的图式，因此它们只能应用于它们所描述的效应彼此独立的现象。然而，存在不能再指望这一点成立的物理情境，当前的研究正指向一个统一的理论图式。GUT（大统一理论）或 FT（终极理论）这些名称如今是这项事业中的路标。"
+      ],
+      "units": 162
+    },
+    {
+      "id": "ch23-u029",
+      "source_ids": [
+        "ch23-u029"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Since the usual reduction goes from the macroscopic to the microscopic, a theory is typically valid for all length scales larger (or energy scales smaller) than those where it was established, while from the point of view of a theory set up for smaller scales the former may appear as “effective” or approximate. The standard model of elementary particles, for instance, appears valid at all scales between the subnuclear (hadronic) and the cosmological (up to uncertainties such as those concerning the so-called “dark matter”, etc., which cannot be assessed at this time). On the other hand, only an “effective” theory is expected from the point of view of the more fundamental, “grand unified” theories, which we hope to develop in order to describe the phenomena at scales much smaller than the hadronic."
+      ],
+      "zh": [
+        "由于通常的还原是从宏观到微观，一个理论典型地对大于其确立尺度的一切长度尺度（或小于其确立能量尺度的一切能量尺度）有效，而从为更小尺度建立的理论的观点看，前者可能显得是“有效的”或近似的。例如，基本粒子标准模型在亚核（强子的）尺度与宇宙学尺度之间的一切尺度上似乎都有效（但还存在所谓“暗物质”等目前无法评估的不确定因素）。另一方面，从更基本的、我们希望发展出来以描述远小于强子尺度的现象的“大统一”理论的观点看，标准模型只能被视为一种“有效”理论。"
+      ],
+      "units": 132
+    },
+    {
+      "id": "ch23-u030",
+      "source_ids": [
+        "ch23-u030"
+      ],
+      "page": "396",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Is it not the case, however, that the reversed view also holds? Thermodynamic quantities and laws, for instance, emerge when we deal with very many degrees of freedom; some peculiar regularities, such as flow patterns, only appear at large scales. But this does not mean that mechanics is not valid here. It is merely the coherent application of microscopic laws which leads to such peculiar behaviour (“deterministic chaos” for instance). To be sure, this example discloses some limitations to our explanatory model which uses the reduction of large-scale phenomena to microscopic laws; moreover developing concepts dealing directly with complexity cannot be avoided."
+      ],
+      "zh": [
+        "然而，反向的观点难道不也成立吗？例如，当我们处理非常多的自由度时，热力学量与定律就涌现出来；某些特有的规则性，比如流动形态，只在大尺度上出现。但这不意味着力学在这里无效。恰恰是微观定律的连贯应用导致了这种特有行为（例如“确定性混沌”）。诚然，这个例子暴露了我们把大尺度现象还原为微观定律的解释模型的某些局限；此外，发展直接处理复杂性的概念是不可避免的。"
+      ],
+      "units": 102
+    },
+    {
+      "id": "ch23-u031",
+      "source_ids": [
+        "ch23-u031"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 How can we Understand the Evolution of Physical Symbols"
+      ],
+      "zh": [
+        "4 我们如何理解物理符号的演化"
+      ],
+      "type": "subheading",
+      "units": 10
+    },
+    {
+      "id": "ch23-u032",
+      "source_ids": [
+        "ch23-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We have been talking about conceptual dynamics, so let us try to gain some insight into it by considering one example."
+      ],
+      "zh": [
+        "我们一直在讨论概念如何演变，下面用一个例子来看清这个过程。"
+      ],
+      "units": 21
+    },
+    {
+      "id": "ch23-u033",
+      "source_ids": [
+        "ch23-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "What do we mean by the concept of electron? We can call ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        " the thing that electrodynamics speaks about, ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QM}}",
+          "display": false
+        },
+        " the thing quantum mechanics speaks about, and ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " the thing quantum electrodynamics speaks about. They are all (more or less) fixed in their respective symbolic networks; but then they can only be said to point approximately to one thing in the real world, since the “objects” they define do not overlap. Thus ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        " is classical, relativistic particle without spin and with undefined internal structure (if it were point-like its self-energy would be divergent); ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QM}}",
+          "display": false
+        },
+        " is a non-relativistic, point-like quantum particle with spin, and ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " is a relativistic, point-like quantum object with spin, which, in contradiction with the other two, can be created and annihilated."
+      ],
+      "zh": [
+        "我们说电子概念是什么意思？我们可以把电动力学所谈论的东西称为 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        "，把量子力学所谈论的东西称为 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QM}}",
+          "display": false
+        },
+        "，把量子电动力学所谈论的东西称为 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        "。它们都在各自的符号网络中（或多或少）被固定下来；但这样一来，它们只能被说成近似地指向实在世界中的同一个东西，因为它们所定义的“对象”并不重合。因此，",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        " 是没有自旋、内部结构未定的经典相对论性粒子（如果它是点状的，其自能将是发散的）；",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QM}}",
+          "display": false
+        },
+        " 是有自旋的非相对论性点状量子粒子；",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " 是有自旋的相对论性点状量子对象，与前两者相矛盾的是，它可以被产生和湮灭。"
+      ],
+      "units": 142
+    },
+    {
+      "id": "ch23-u034",
+      "source_ids": [
+        "ch23-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The theoretical schemes in which we identify these objects differ quite a lot: not only do we observe different qualities (spin, self-energy) but even the conditions of objectification are incompatible."
+      ],
+      "zh": [
+        "我们在其中识别这些对象的理论图式差别相当大：不仅我们观察到不同的性质（自旋、自能），甚至客观化的条件也是不相容的。"
+      ],
+      "units": 30
+    },
+    {
+      "id": "ch23-u035",
+      "source_ids": [
+        "ch23-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In quantum mechanics we use Galilean relativity and Euclidean geometry, while in the other two cases we have special relativity and Minkowski space-time. In electrodynamics ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        " is a classical, distinguishable particle, with welldefined velocity and position at each point along a continuous trajectory – while of course this no longer holds for the quantum object. And both in electrodynamics and in quantum mechanics we deal with stable particles, while ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " can appear and disappear, in conjunction with a new object, its antiparticle. It is only in the sense of “controlled approximation” as discussed in Section 2 that we can put all these objects into some relation to one another."
+      ],
+      "zh": [
+        "在量子力学中我们使用伽利略相对性和欧几里得几何，而在另外两种情形中我们有狭义相对论和闵可夫斯基时空。在电动力学中，",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        " 是经典的、可分辨的粒子，沿连续轨迹的每一点都有明确定义的速度和位置——当然这对量子对象不再成立。而且在电动力学和量子力学中我们处理的都是稳定粒子，而 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " 可以出现和消失，并伴随一个新对象——它的反粒子。只有在第 2 节讨论的“受控近似”的意义上，我们才能把所有这些对象彼此置于某种关系之中。"
+      ],
+      "units": 114
+    },
+    {
+      "id": "ch23-u036",
+      "source_ids": [
+        "ch23-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now, up to a certain non-definiteness, each of these concepts is effective and justified in well defined physical situations. Moreover we can tune the physical conditions so as to produce gradual changes between the manifestations as ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QM}}",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        ". A Wilson or buble chamber can be used for this purpose. Of course, ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " is the overriding concept since it has a richer structure, and it also ensures the continuity condition referred to in section 2. Hence one may be tempted to designate ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " as the “true” concept, and consider the other two as approximations to two different, limited physical situations. But there is no guarantee that ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " is not itself merely an approximation, an “effective concept”. In fact there is good reason to expect that in the frame of a higher, “grand unified theory” this will be replaced by an ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{GUT}}",
+          "display": false
+        },
+        " or some other, still richer concept."
+      ],
+      "zh": [
+        "现在，在某种非确定性之内，这些概念中的每一个在明确定义的物理情境中都有依据，也都适用。此外，我们可以调节物理条件，以便在作为 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        "、",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QM}}",
+          "display": false
+        },
+        " 和 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        " 的表现之间产生渐变。威尔逊云室或气泡室可用于此目的。当然，",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " 是统摄性的概念，因为它具有更丰富的结构，而且它也确保了第 2 节提到的连续性条件。因此人们可能倾向于把 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " 指定为“真正的”概念，并把另外两个视为对两种不同的、受限的物理情境的近似。但没有保证 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " 自身不是仅仅一个近似、一个“有效概念”。事实上，有充分理由期待，在一个更高的“大统一理论”的框架中，它将被 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{GUT}}",
+          "display": false
+        },
+        " 或某个其他更丰富的概念取代。"
+      ],
+      "units": 169
+    },
+    {
+      "id": "ch23-u037",
+      "source_ids": [
+        "ch23-u037"
+      ],
+      "page": "397",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Do these facts suggest that all we do is construct objects in one or the other theoretical frame? We should not forget that we do not speak of abstract exercises but of very precise physical situations, and that these theories are not merely happy thoughts, but that they are themselves outcomes of our endeavour: They are coherent conceptual systems with empirical basis, constructed such as to include the objects we are speaking of in a consistent symbolic network, and they are constructed in accordance with a growing process. The interesting observation, then, is that these ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{TM}}",
+          "display": false
+        },
+        " appear as marks on a path which seems “to be there” at least for a while, and which we shall simply call Electron. The “track” Electron represents a directed path, in the sense in which one theory overrides the other. The symbol Electron is of a different and much more ambiguous character than ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QM}}",
+          "display": false
+        },
+        " or ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        ", since it is related to all of them in an un-precise way. There may even appear further concepts in the future to which it will be correlated. Nevertheless it shows a “necessity” which in some sense transcends that of ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QM}}",
+          "display": false
+        },
+        " or ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " because it seems to hold beyond the confines of a particular symbolic network. A conceptual path such as Electron seems more directly related to the “alien element” which we need to deal with when we operate in accordance with our symbolic construction. On the one hand this alien element forces us to improve our theories and concepts, because it stays behind the track followed by the theories; on the other hand we put marks of our own in this construction, and it is precisely this which makes us recognize that there is a track to be followed in the first place."
+      ],
+      "zh": [
+        "这些事实是否暗示，我们所做的一切只是在某个理论框架中构造对象？我们不应忘记，我们谈论的不是抽象练习，而是非常精确的物理情境，而且这些理论并非偶然冒出的灵感，它们本身是我们努力的成果：它们是有经验基础的连贯概念系统，被构造得把我们所谈论的对象纳入一个一致的符号网络，而且是按照一个成长过程构造的。于是，有趣的观察是：这些 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{TM}}",
+          "display": false
+        },
+        " 显现为一条路径上的标记，这条路径至少在一段时间内似乎“在那里”，我们将径直称之为 Electron。这条“轨迹” Electron 代表一条有方向的路径，就一个理论统摄另一个理论的意义而言。符号 Electron 与 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        "、",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QM}}",
+          "display": false
+        },
+        " 或 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " 相比具有不同的、含糊得多的特征，因为它以一种不精确的方式与它们全部相关联。将来甚至可能出现它还将与之相关的进一步概念。尽管如此，它显示出一种“必然性”，这种必然性在某种意义上超越了 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        "、",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QM}}",
+          "display": false
+        },
+        " 或 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        " 的必然性，因为它似乎在特定符号网络的界限之外仍然成立。像 Electron 这样的概念路径似乎更直接地关联于那个“异己要素”——当我们按照我们的符号构造运作时需要处理的东西。一方面，这个异己要素迫使我们改进我们的理论与概念，因为它停留在理论所循轨迹的背后；另一方面，我们在这个构造中放入我们自己的标记，而恰恰是这一点使我们认识到，首先存在一条要循的轨迹。"
+      ],
+      "units": 318
+    },
+    {
+      "id": "ch23-u038",
+      "source_ids": [
+        "ch23-u038"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hence the reference relation appears well defined but conditional for each of these ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{TM}}",
+          "display": false
+        },
+        ", while it is unconditional but undefined for the Electron. Of course we could see different “frames” of reality depending on the “scale” we look at, and we may consistently define the physical conditions which support these frames. For example a stone is a most “real” object, typically used in illustrations for the intuition of reality. But if we look at it through an electronic microscope we shall see shadows of atoms, and indeed we shall find those things we describe as atoms in quantum mechanics by “looking” through refined “instruments”, such as electron diffraction or α-ray experiments. At still smaller scales we shall find (in the sense outlined above) the things and interactions taken in by the conceptual structure of the standard model. We can accept the “conditional reality” of each such frame – its reality as constrained at a given scale. The point is, however, that these frames, beyond their “surface” reality, seem to define a directed conceptual flow pointing to a “deeper” reality, one which must be existing, since otherwise there would be no necessary relation between these frames. This “deeper reality” may be accessible to a “final theory”, something like Electron = ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{FT}}",
+          "display": false
+        },
+        ", or even perhaps FT = GUT so that physics would reach its end. But it may also be that a final theory does not exist, or that it cannot consistently associate a metaphysics but only provide a way to relate different, complementary theoretical frames. Thus, beyond accepting the conditional reality of each of these frames it is also interesting to ask about the status of that “deeper reality”, which is only indicated by the fact that it drives the flow recognized by the marks set in each frame of the hierarchy: ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QM}}",
+          "display": false
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        ", ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{GUT}}",
+          "display": false
+        },
+        "."
+      ],
+      "zh": [
+        "因此，对这些 ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{TM}}",
+          "display": false
+        },
+        " 中的每一个而言，指涉关系显得是明确定义但有条件的，而对 Electron 而言则是无条件但未定义的。当然，取决于我们观看的“尺度”，我们可以看到实在的不同“框架”，并且我们可以一致地定义支持这些框架的物理条件。例如，石头是最“实在”的对象，通常被用来说明对实在的直观。但如果我们通过电子显微镜看它，我们将看到原子的影子；而且的确，通过诸如电子衍射或 α 射线实验这样精致的“仪器”来“观看”，我们会找到我们在量子力学中描述为原子的那些东西。在更小的尺度上，我们将找到（在上面勾勒的意义上）被标准模型的概念结构接纳的那些东西与相互作用。我们可以接受每个这样的框架的“条件性实在”——它在给定尺度上受约束的实在性。然而关键在于，这些框架在其“表面”实在之外，似乎定义了一个有方向的概念流，指向一种“更深的”实在，这种实在必定存在，因为否则这些框架之间就不会有必然的关系。这种“更深的实在”也许可以为一个“终极理论”所通达，比如 Electron = ",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{FT}}",
+          "display": false
+        },
+        "，甚至也许 FT = GUT，从而使物理学达到它的终点。但也可能终极理论并不存在，或者它不能一致地关联一种形而上学，而只能提供一种把不同的、互补的理论框架联系起来的方式。因此，除了接受这些框架中每一个的条件性实在之外，追问那种“更深的实在”的地位也是有趣的，它只是由如下事实所指示：它驱动着那个流，而这个流是由层级中每个框架里设置的标记所辨认的：",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{ED}}",
+          "display": false
+        },
+        "、",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QM}}",
+          "display": false
+        },
+        "、",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{QED}}",
+          "display": false
+        },
+        "、",
+        {
+          "type": "math",
+          "tex": "\\mathit{Electron}_{\\mathrm{GUT}}",
+          "display": false
+        },
+        "。"
+      ],
+      "units": 320
+    },
+    {
+      "id": "ch23-u039",
+      "source_ids": [
+        "ch23-u039"
+      ],
+      "page": "398",
+      "canonical_kind": "paragraph",
+      "en": [
+        "These frames are not merely arbitrary choices. Physical situations bring them forth, and the closure of the corresponding theoretical schemes define them in accordance with the criterion of self-consistency. By defining them consistently we mean that we can try to understand how they emerge – mostly a posteriori, using more steps of the theoretical development. So, for instance, in quantum field theory we know that particles can only be produced if the available energies are larger than their masses. This means that we shall not expect quantum field theoretical effects below some energy scale, and thus we can stay in the frame of quantum mechanics if all energies are low. On the other hand, classical, non-quantum physics can be approached from the frame of quantum mechanics within the so-called decoherence program,",
+        {
+          "type": "note",
+          "id": "ch23-n11",
+          "label": "11"
+        },
+        " again in well circumscribed physical conditions. In this way we can define the “conditionality” of the quantum mechanics frame, between classical mechanics and quantum field theory."
+      ],
+      "zh": [
+        "这些框架不只是任意的选择。物理情境把它们产生出来，而相应理论图式的闭合按照自洽性判据定义它们。说一致地定义它们，我们的意思是能够尝试理解它们如何涌现——大多是后验地，借助理论发展的更多步骤。因此，例如在量子场论中我们知道，只有当可用能量大于粒子质量所对应的静能时，粒子才能被产生。这意味着在某个能量尺度以下我们不应期待量子场论效应，因此如果所有能量都低，我们可以停留在量子力学的框架内。另一方面，经典的、非量子的物理学可以在所谓退相干纲领",
+        {
+          "type": "note",
+          "id": "ch23-n11",
+          "label": "11"
+        },
+        "之内从量子力学的框架出发接近，同样是在明确圈定的物理条件下。以这种方式，我们可以定义量子力学框架的“条件性”——介于经典力学与量子场论之间。"
+      ],
+      "units": 156
+    },
+    {
+      "id": "ch23-u040",
+      "source_ids": [
+        "ch23-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The reality status itself evolves as we go from frame to frame. For instance, in order to get to the quantum mechanical concept of system, we had to combine in a nontrivial way the concepts of particle and wave. However, quantum mechanics is not merely such a combination, but is a much richer structure, so that the quantum object lays claim to reality. This object is not only very different from the classical one, but even the status of “reality” described by quantum mechanics is different from that of the classical physics. We cannot distinguish, for instance, identical particles by following their paths, we have no continuous causal space-time chains, etc. Now quantum mechanics itself is not the final theory. We do not even know whether there is such a thing as a “final theory”, and therefore the question of “reality” status for the FT-frame might turn out to be more dramatic than for quantum mechanics."
+      ],
+      "zh": [
+        "实在的地位本身在我们从一个框架走向另一个框架时演化。例如，为了达到量子力学的系统概念，我们不得不以非平凡的方式把粒子与波的概念结合起来。然而，量子力学不只是这样一种结合，而是一个丰富得多的结构，因此我们有理由把量子对象视为实在。这个对象不仅与经典对象非常不同，甚至量子力学所描述的“实在”的地位也不同于经典物理学的。例如，我们不能通过追随路径来分辨全同粒子，我们没有连续的因果时空链条，等等。而量子力学本身也不是终极理论。我们甚至不知道是否存在“终极理论”这样的东西，因此对 FT 框架而言，“实在”地位的问题可能比量子力学的更为剧烈。"
+      ],
+      "units": 156
+    },
+    {
+      "id": "ch23-u041",
+      "source_ids": [
+        "ch23-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This example shows that not only concepts evolve, but so do the corresponding objectification rules and the “reality” status. Objectification cannot be based on an immovable scheme but can only be understood dynamically."
+      ],
+      "zh": [
+        "这个例子表明，不仅概念在演化，相应的客观化规则与“实在”地位也在演化。客观化不能基于一个不可移易的图式，而只能被动态地理解。"
+      ],
+      "units": 33
+    },
+    {
+      "id": "ch23-u042",
+      "source_ids": [
+        "ch23-u042"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "5 More on Necessity, Truth, and the Dynamics of Knowledge"
+      ],
+      "zh": [
+        "5 再论必然性、真理与知识的动力学"
+      ],
+      "type": "subheading",
+      "units": 10
+    },
+    {
+      "id": "ch23-u043",
+      "source_ids": [
+        "ch23-u043"
+      ],
+      "page": "399",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As we have seen the analysis of physical concepts cannot lay claim to an absolute necessity for the association of symbols to things; we should have reached the asymptotic limit of a final theory for this necessity to be enforced! But this does not mean that the requirement for necessity should be left behind; on the contrary, this requirement seems to be an important stabilizing factor in a process based on “proposing and testing hypotheses”, since it forces us to be more restrictive than mere “adequacy” would otherwise require. Also the observed development of science seems to support some concept of necessity as far the choice of theories and the production of hierarchies are concerned. The “conditional reality” of the physical concepts discussed in the last section corresponds to a “conditional necessity” of their association to things. We should be aware that the relations implied by these “necessities” cannot be simple and immovable. They have to be understood in an evolutionary process according to which objects are defined in a theoretical frame and found in the corresponding physical situation. What remains behind this conditional necessity is the agreement of theoretical definition and empirical embedding, the unambiguous and reproducible physical situation and its identification in the theory."
+      ],
+      "zh": [
+        "正如我们所见，对物理概念的分析不能对符号与事物的关联要求绝对的必然性；要断定这种必然性成立，得先到达终极理论这一渐近极限！但这不意味着对必然性的要求应被抛在身后；相反，这个要求似乎是一个基于“提出并检验假说”的过程中的重要稳定因素，因为它迫使我们比单纯的“适当性”所要求的更为严格。就理论的选择与层级的产生而言，观察到的科学发展似乎同样支持某种必然性概念。上一节讨论的物理概念的“条件性实在”对应于它们与事物之关联的“条件性必然性”。我们应当意识到，这些“必然性”所蕴含的关系不可能是简单而不可移易的。它们必须在一个演化过程中被理解，按照这个过程，对象在理论框架中被定义，并在相应的物理情境中被找到。留在这种条件性必然性背后的，是理论定义与经验嵌入的一致，是无歧义且可重复的物理情境及其在理论中的识别。"
+      ],
+      "units": 206
+    },
+    {
+      "id": "ch23-u044",
+      "source_ids": [
+        "ch23-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Similar observations apply to the notion of truth. A philosophical pragmatist may claim to be “suspicious about the distinction between justification and truth, for that distinction makes no difference to my decision about what to do.”",
+        {
+          "type": "note",
+          "id": "ch23-n12",
+          "label": "12"
+        },
+        " A physicist would be inclined to think that surely this distinction makes no difference as far as the decision of an action is concerned, but it may make a great deal of difference to what happens after the action has been performed. If physical theories are justification systems, we should emphasize the following:"
+      ],
+      "zh": [
+        "类似的观察适用于真理概念。一位哲学实用主义者可能声称“对证成与真理之间的区分感到怀疑，因为那个区分对我决定做什么没有影响”。",
+        {
+          "type": "note",
+          "id": "ch23-n12",
+          "label": "12"
+        },
+        " 一位物理学家会倾向于认为，就行动的决定而言，这个区分当然没有影响，但它对行动执行之后发生的事情可能有很大影响。如果物理理论是证成系统，我们应当强调以下几点："
+      ],
+      "units": 89
+    },
+    {
+      "id": "ch23-u045",
+      "source_ids": [
+        "ch23-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "– The anticipation of possible unexpected reactions from the environment is the motivation for research programs.\n– Ongoing research improves our knowledge, in that previously unexpected reactions are accommodated in terms of new justifications.\n– Research programs lead in the long run to ordered justification structures (the previous level is either replaced or incorporated – e.g., recognized as an approximation with a well-defined domain of validity).\n– Competition situations are solved in the long run in an “objective” way, in that the alternative with the best development capacities tends to take over."
+      ],
+      "zh": [
+        "– 对环境可能作出的意外反应的预期，是研究纲领的动机。\n– 持续的研究改进我们的知识，因为先前意外的反应可以在新的证成框架中得到说明。\n– 研究纲领长远来看导致有序的证成结构（先前的层次要么被取代，要么被并入——例如被承认为具有明确定义的有效域的近似）。\n– 竞争情境长远来看以“客观的”方式解决，因为最有发展潜力的方案倾向于胜出。"
+      ],
+      "units": 88
+    },
+    {
+      "id": "ch23-u046",
+      "source_ids": [
+        "ch23-u046"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In particular this is the reason why one continues to test the predictions of even well-established theories: the present “justification network”, as solid as it may appear, can still be defective or it can miss further connections (see, for instance, the important, present day field of quantum mechanics tests)."
+      ],
+      "zh": [
+        "特别是，这就是人们继续检验甚至确立已久的理论的预言的原因：当前的“证成网络”无论显得多么牢固，仍可能有缺陷，或者可能遗漏进一步的联系（参见例如当今重要的量子力学检验领域）。"
+      ],
+      "units": 49
+    },
+    {
+      "id": "ch23-u047",
+      "source_ids": [
+        "ch23-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The expectation of a possible discrepancy between our predictions (based on justifications) and the actual events is therefore pragmatically relevant (it makes us eager to learn). This expectation itself hides in it an “additional norm” besides justification, since we do not expect that whatever was behind the prior discrepancy depends on our improved justification but the other way around. Under the “postulate” of the intelligibility of the world the motor of scientific progress lies in the expectation of something not yet justifiable but in principle intelligible, and this implies in fact a notion of truth. Again, this cannot be understood in an absolute sense, since otherwise we would not be able to set up any theories. Each time an element of truth is to be tracked, as it were, and we can construct on this basis a consistent theory. But, as long as we have not reached the final theory, this procedure is restricted to a certain level, and therefore there must be a “truth” which, though conditional, is effective at this level. Truth, as well as reference, are therefore dynamical concepts. They are, however, robust, that is, well defined, related to reproducible physical situations and pragmatically relevant."
+      ],
+      "zh": [
+        "因此，对我们的预言（基于证成）与实际事件之间可能存在差异的预期，在实用上是相关的（它使我们渴望学习）。这个预期本身在证成之外隐藏着一个“附加规范”，因为我们并不期待先前差异背后的东西依赖于我们改进的证成，而是反过来。在世界可理解性的“公设”之下，科学进步的发动机在于对某种尚不可证成但原则上可理解的东西的期待，而这事实上蕴含着一个真理概念。同样，这不能在绝对的意义上理解，因为否则我们将无法建立任何理论。每一次，都要仿佛追踪一个真理要素，我们才能在此基础上构造一个一致的理论。但是，只要我们还没有达到终极理论，这个程序就限于某个层次，因此必定存在一种“真理”，它虽是有条件的，却在这个层次上有效。因此，真理与指涉一样，都是动态概念。然而它们是稳健的，也就是说，是明确定义的、关联于可重复的物理情境的、在实用上相关的。"
+      ],
+      "units": 198
+    },
+    {
+      "id": "ch23-u048",
+      "source_ids": [
+        "ch23-u048"
+      ],
+      "page": "400",
+      "canonical_kind": "heading",
+      "en": [
+        "6 Critical Philosophy and Physical Knowledge"
+      ],
+      "zh": [
+        "6 批判哲学与物理知识"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch23-u049",
+      "source_ids": [
+        "ch23-u049"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Physical understanding, while always conditioned by the criteria of necessity and universality, as well as by the aim of reducing observations to basic principles, must be ready to accept, precisely for these reasons, developmental changes in its own rules, and even in the definition of how knowledge about the physical world is to be achieved. On the one hand, we can identify and describe the kind of continuity at work in scientific process, and rely on it to define scientific progress. On the other hand the accompanying epistemological process may seem more discontinuous. This may be due to the fact that usually philosophical systems are seen as alternative perspectives, and one is not inclined to accept a notion of progress such as the one that operates in the process of physical knowledge. None of these systems, however, can provide a unique scheme for accompanying the process of physics in all its forms. Nevertheless, via agreements and contradictions, they can help characterize physical understanding."
+      ],
+      "zh": [
+        "物理理解虽然始终受必然性与普遍性判据以及把观察还原为基本原理这一目标的制约，但恰恰由于这些原因，它必须准备好接受其自身规则的发展性变化，甚至接受关于如何获得物理世界知识的定义的变化。一方面，我们可以识别并描述科学过程中起作用的那种连续性，并依靠它来定义科学进步。另一方面，伴随的认识论过程可能显得更不连续。这可能是由于如下事实：哲学体系通常被视为可供取舍的视角，人们不倾向于接受像物理知识过程中起作用的那种进步概念。然而，这些体系中没有一个能为伴随物理学的一切形式的过程提供唯一的图式。尽管如此，通过一致与矛盾，它们可以帮助刻画物理理解。"
+      ],
+      "units": 163
+    },
+    {
+      "id": "ch23-u050",
+      "source_ids": [
+        "ch23-u050"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Ordinarily physicists do not feel overly burdened by philosophical accuracy. This pragmatic attitude is already visible in the realist/idealist alternative:"
+      ],
+      "zh": [
+        "通常，物理学家并不觉得哲学的精确性是过重的负担。这种实用态度在实在论/观念论的取舍中已经可见："
+      ],
+      "units": 21
+    },
+    {
+      "id": "ch23-u051",
+      "source_ids": [
+        "ch23-u051"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "“In natural science the opposing world views of Realism and Idealism designate non-contradictory methodological principles…. We construct [in natural science] an objective world in which simultaneously two principles must hold: A ‘realistic’ principle [which, following Helmholtz, could be described as follows] – ‘a difference in the perceptions reaching us is always due to a difference of the real conditions.’… [further], an ‘idealistic’ principle – ‘the objective picture of the world should allow no differences which could not show up in perception; an existence which by principle is closed to perception is not accepted.’”",
+        {
+          "type": "note",
+          "id": "ch23-n13",
+          "label": "13"
+        }
+      ],
+      "zh": [
+        "“在自然科学中，实在论与观念论这两种对立的世界观标示的是互不矛盾的方法论原则……我们［在自然科学中］构造一个客观世界，其中必须同时成立两条原则：一条‘实在论的’原则［追随亥姆霍兹，可以这样描述］——‘到达我们的知觉之间的差异总是由于实在条件的差异。’……［此外］，一条‘观念论的’原则——‘世界的客观图景不应允许任何不能在知觉中显现的差异；一个原则上对知觉封闭的存在不被接受。’”",
+        {
+          "type": "note",
+          "id": "ch23-n13",
+          "label": "13"
+        }
+      ],
+      "type": "quote",
+      "units": 91
+    },
+    {
+      "id": "ch23-u052",
+      "source_ids": [
+        "ch23-u052"
+      ],
+      "page": "401",
+      "canonical_kind": "paragraph",
+      "en": [
+        "These methodological principles, however, do not determine the character of the theoretical construction. What kind of light is thrown upon the knowledge process of physics in one or the other perspectives? What naive idealism cannot show is why our knowledge works – why we can describe reality and not merely ourselves. What naive realism cannot show is why it may fail – why explanations may be wrong and why we need to allow our concepts to grow. And what empiricism and constructivism cannot show is why there is a progressive scientific process rather than a collection of ad hoc explanations."
+      ],
+      "zh": [
+        "然而，这些方法论原则并不决定理论构造的特征。不同立场各自如何阐明物理学获得知识的过程？朴素观念论不能表明的是，我们的知识为什么起作用——为什么我们能描述实在而不仅仅是我们自己。朴素实在论不能表明的是，它为什么可能失败——为什么解释可能是错的，为什么我们需要允许我们的概念成长。而经验论与建构主义不能表明的是，为什么存在一个进步的科学过程，而不是一堆特设解释的集合。"
+      ],
+      "units": 98
+    },
+    {
+      "id": "ch23-u053",
+      "source_ids": [
+        "ch23-u053"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The “symbolic stance” mentioned in section 1 has been at the basis of our discussion. We have tried to describe a number of features characteristic of the process of developing physical knowledge: a certain kind of directed continuity, what we have called conditional necessity and reality connected to the reference of our concepts to things, a “dynamical” notion of truth. What is the significance of these features from the point of view of critical philosophy?"
+      ],
+      "zh": [
+        "第 1 节提到的“符号立场”一直是我们讨论的基础。我们尝试描述了发展物理知识过程的若干特征：某种有方向的连续性，我们称之为与我们的概念对事物的指涉相联系的条件性必然性与条件性实在，以及一种“动态的”真理概念。从批判哲学的观点看，这些特征的意义是什么？"
+      ],
+      "units": 75
+    },
+    {
+      "id": "ch23-u054",
+      "source_ids": [
+        "ch23-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The Kantian program allows us to raise the questions of objectification and of the construction of concepts. We can in this way at any given moment try to disentangle settings from findings, and this is essential for understanding the evolution of physical concepts and theories and uncover the associated dynamics. We have tried to follow these questions in our discussion. But the Kantian program itself is not compatible with the view of this dynamics which we have suggested here, since it is based on a static scheme separating knowledge and conditions of knowledge. Therefore Kant’s alleged solution to Hume’s problem cannot be accepted either."
+      ],
+      "zh": [
+        "康德纲领允许我们提出客观化与概念构造的问题。以这种方式，我们可以在任何给定时刻尝试区分理论预设与实际发现，这对理解物理概念与理论的演化并揭示相关的动力学是本质性的。我们在讨论中尝试追随了这些问题。但康德纲领本身与我们在这里提示的这种动力学观点不相容，因为它基于一个把知识与知识条件分离开来的静态图式。因此，康德对休谟问题的所谓解决也不能被接受。"
+      ],
+      "units": 104
+    },
+    {
+      "id": "ch23-u055",
+      "source_ids": [
+        "ch23-u055"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Certainty cannot be secured in the way proposed by Kant. A priori forms of intuition as conditions of objectification are themselves included in an evolutionary process, and they are subject to the same rules that are found to be effective for physical knowledge generally. Of course certainty cannot be secured empirically, simply because at no given moment do we have complete information. But do we really need certainty? Popper,",
+        {
+          "type": "note",
+          "id": "ch23-n14",
+          "label": "14"
+        },
+        " for example, renounces certainty while retaining necessity as an operational aspect in the construction of hypotheses: we claim necessity in order to be able to test and judge hypotheses."
+      ],
+      "zh": [
+        "确定性不能以康德提议的方式得到确保。作为客观化条件的先天直观形式自身被纳入一个演化过程，它们服从于那些被发现对一般物理知识有效的同样规则。当然，确定性不能经验地得到确保，原因很简单：在任何给定时刻我们都没有完整的信息。但我们真的需要确定性吗？例如波普尔",
+        {
+          "type": "note",
+          "id": "ch23-n14",
+          "label": "14"
+        },
+        "放弃确定性，同时把必然性保留为假说构造中的一个操作性方面：我们要求必然性，是为了能够检验和评判假说。"
+      ],
+      "units": 98
+    },
+    {
+      "id": "ch23-u056",
+      "source_ids": [
+        "ch23-u056"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Arguably certainty must have the same status as the causality principle on which it eventually depends. Then, under an intelligibility postulate, the conditional reality and necessity we have described, and the progress of the scientific process, would suffice to justify the use of an effective notion of certainty, going therefore beyond Popper’s operational proposition."
+      ],
+      "zh": [
+        "可以说，确定性必须具有与它最终所依赖的因果性原则相同的地位。于是，在一个可理解性公设之下，我们描述的条件性实在与必然性以及科学过程的进步，就足以为采用一种有效的确定性概念提供根据，从而超出波普尔的操作性提议。"
+      ],
+      "units": 54
+    },
+    {
+      "id": "ch23-u057",
+      "source_ids": [
+        "ch23-u057"
+      ],
+      "page": "402",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We began this discussion in the frame of thinking opened up by critical philosophy, and we found that this allowed for a differentiate analysis. But we also found out that we must renounce the rigid scheme of the Kantian program and its unidirectional implication. It is undeniable that some parts of every possible knowledge come from ourselves. But in detail this does not always work. In fact, we are a result of evolution and there should be at least some compatibility between the way nature works and the way our mind works. But this does not mean we are fully aware of either one. This also concerns the analytic part: not only must we choose between various mathematical structures, but every chosen structure seems to close up too early, that is, it cannot reach the definitive truth: when they are mathematically closed, our theories are not yet physically completed. Hence we must admit for the a priori part of knowledge the same rules and the same evolutive character as for the a posteriori part. When they work in tandem something of the structure of the world, lying behind but showing up in the phenomena, can rightly be said to have been disclosed. Part of this is cast in the foundation of our concepts – and this is what we may call a priori – and part of it enters the content of these concepts. The former is the direct reflection of that interaction between the world and living things which we call thinking. It determines the latter (the content of the concepts) but its evolution itself is dependent on its realization as the latter: we would not have changed the rules for organizing events, for instance, were it not for the observations we have made and the theories in space and time that we have devised and tested. This intertwined evolution appears to be specific to the process of physics."
+      ],
+      "zh": [
+        "我们在批判哲学开启的思想框架中开始这场讨论，我们发现它让我们可以细辨问题的不同层次。但我们也发现，我们必须放弃康德纲领的刚性图式及其单向蕴含。不可否认，任何可能知识的某些部分来自我们自身。但在细节上这并不总是行得通。事实上，我们是演化的结果，自然的运作方式与我们心灵的运作方式之间至少应有某种相容性。但这不意味着我们对两者中的任何一个有充分的意识。这也涉及分析的部分：我们不仅必须在各种数学结构之间选择，而且每个被选择的结构似乎都过早闭合，也就是说，它不能达到最终的真理：当我们的理论在数学上闭合时，它们在物理上还没有完成。因此，我们必须对知识的先天部分承认与后天部分相同的规则和相同的演化特征。先天与后天两部分相互配合时，我们才能有根据地说，揭示了隐在现象背后、又通过现象呈现的某些世界结构。其中一部分被铸入我们概念的基础——这就是我们可以称为先天的东西——另一部分进入这些概念的内容。前者是我们称为思维的那种世界与生物之间相互作用的直接反映。它决定后者（概念的内容），但它自身的演化依赖于它作为后者的实现：例如，若非我们已作出的观察以及我们已设计并检验的关于空间与时间的理论，我们就不会改变组织事件的规则。这种交织的演化似乎是物理学过程所特有的。"
+      ],
+      "units": 318
+    },
+    {
+      "id": "ch23-u058",
+      "source_ids": [
+        "ch23-u058"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "Bibliography"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch23-bibliography-001",
+      "source_ids": [
+        "ch23-ref002",
+        "ch23-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "E. Cassirer (1987), “Determinismus und Indeterminismus in der modernen Physik”, in Zur Modernen Physik, Wissenschaftliche Buchgesellschaft, Darmstadt."
+      ],
+      "zh": [
+        "E. Cassirer (1987), “Determinismus und Indeterminismus in der modernen Physik”, in Zur Modernen Physik, Wissenschaftliche Buchgesellschaft, Darmstadt."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch23-bibliography-002",
+      "source_ids": [
+        "ch23-ref003",
+        "ch23-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "E. Joos, H.-D. Zeh, C. Kiefer, D. Giulini, J. Kupsch and I.-O. Stamatescu (2003), Decoherence and the Appearance of a Classical World in Quantum Theory, II-nd ed., Springer, New York/Heidelberg."
+      ],
+      "zh": [
+        "E. Joos, H.-D. Zeh, C. Kiefer, D. Giulini, J. Kupsch and I.-O. Stamatescu (2003), Decoherence and the Appearance of a Classical World in Quantum Theory, II-nd ed., Springer, New York/Heidelberg."
+      ],
+      "shared": true,
+      "units": 33
+    },
+    {
+      "id": "ch23-bibliography-003",
+      "source_ids": [
+        "ch23-ref004",
+        "ch23-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "B. Falkenburg (2002), “Symbol and intuition in modern physics”, in Symbol and Physical Knowledge, M. Ferrari and I.-O. Stamatescu (Eds.), Springer, Heidelberg/New York."
+      ],
+      "zh": [
+        "B. Falkenburg (2002), “Symbol and intuition in modern physics”, in Symbol and Physical Knowledge, M. Ferrari and I.-O. Stamatescu (Eds.), Springer, Heidelberg/New York."
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch23-bibliography-004",
+      "source_ids": [
+        "ch23-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Hertz (1894), Die Prinzipien der Mechanik, Leipzig."
+      ],
+      "zh": [
+        "H. Hertz (1894), Die Prinzipien der Mechanik, Leipzig."
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch23-bibliography-005",
+      "source_ids": [
+        "ch23-ref005",
+        "ch23-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "I. Kant (1957), “Metaphysische Anfangsgründe der Naturwissenschaft. Vorrede”, in Werke, Band V, Wissenschaftliche Buchgesellschaft, Darmstadt."
+      ],
+      "zh": [
+        "I. Kant (1957), “Metaphysische Anfangsgründe der Naturwissenschaft. Vorrede”, in Werke, Band V, Wissenschaftliche Buchgesellschaft, Darmstadt."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch23-bibliography-006",
+      "source_ids": [
+        "ch23-ref006",
+        "ch23-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "C.S.S. Peirce (1991), Notes concerning the “Architecture of Theories”, MS 956, in Charles S. Peirce. Naturordnung und Zeichenprozess, H. Pape (Ed.), Suhrkamp, Frankfurt am Main."
+      ],
+      "zh": [
+        "C.S.S. Peirce (1991), Notes concerning the “Architecture of Theories”, MS 956, in Charles S. Peirce. Naturordnung und Zeichenprozess, H. Pape (Ed.), Suhrkamp, Frankfurt am Main."
+      ],
+      "shared": true,
+      "units": 27
+    },
+    {
+      "id": "ch23-bibliography-007",
+      "source_ids": [
+        "ch23-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "K. Popper (1972), Objective Knowledge, Clarendon Press, Oxford."
+      ],
+      "zh": [
+        "K. Popper (1972), Objective Knowledge, Clarendon Press, Oxford."
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch23-bibliography-008",
+      "source_ids": [
+        "ch23-ref007",
+        "ch23-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Reichenbach (1965), The Theory of Relativity and A Priori Knowledge, University of California Press, Berkeley."
+      ],
+      "zh": [
+        "H. Reichenbach (1965), The Theory of Relativity and A Priori Knowledge, University of California Press, Berkeley."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch23-bibliography-009",
+      "source_ids": [
+        "ch23-ref008",
+        "ch23-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "R. Rorty (1998), “Truth and Progress” in Philosophical papers, vol. 3, Cambridge University Press, Cambridge, p. 19."
+      ],
+      "zh": [
+        "R. Rorty (1998), “Truth and Progress” in Philosophical papers, vol. 3, Cambridge University Press, Cambridge, p. 19."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch23-bibliography-010",
+      "source_ids": [
+        "ch23-ref009",
+        "ch23-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "I.-O. Stamatescu (1995), “Anschauung und wissenschaftliche Erkenntnis” in Kulturkritik nach Ernst Cassirer, E. Rudolph and B.-O. Küppers (Eds.), Felix Meiner Verlag."
+      ],
+      "zh": [
+        "I.-O. Stamatescu (1995), “Anschauung und wissenschaftliche Erkenntnis” in Kulturkritik nach Ernst Cassirer, E. Rudolph and B.-O. Küppers (Eds.), Felix Meiner Verlag."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch23-bibliography-011",
+      "source_ids": [
+        "ch23-ref010",
+        "ch23-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "I.-O. Stamatescu (2002), “On the role and character of symbols in modern physical theories”, in Symbol and Physical Knowledge, M. Ferrari and I.-O. Stamatescu (Eds.), Springer, Heidelberg/New York."
+      ],
+      "zh": [
+        "I.-O. Stamatescu (2002), “On the role and character of symbols in modern physical theories”, in Symbol and Physical Knowledge, M. Ferrari and I.-O. Stamatescu (Eds.), Springer, Heidelberg/New York."
+      ],
+      "shared": true,
+      "units": 31
+    },
+    {
+      "id": "ch23-bibliography-012",
+      "source_ids": [
+        "ch23-ref011",
+        "ch23-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "J. W. von Goethe (1949), “Zur Naturwissenschaft im Allgemeinen”, HA, Bd.13, Chr. Wegner Verlag, Hamburg."
+      ],
+      "zh": [
+        "J. W. von Goethe (1949), “Zur Naturwissenschaft im Allgemeinen”, HA, Bd.13, Chr. Wegner Verlag, Hamburg."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch23-bibliography-013",
+      "source_ids": [
+        "ch23-ref012",
+        "ch23-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. von Helmholtz (1971), “Die Tatsachen in der Wahrnehmung”, Rektoratsrede, in Philosophische Vorträge und Aufsätze, Akademie-Verlag, Berlin."
+      ],
+      "zh": [
+        "H. von Helmholtz (1971), “Die Tatsachen in der Wahrnehmung”, Rektoratsrede, in Philosophische Vorträge und Aufsätze, Akademie-Verlag, Berlin."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch23-bibliography-014",
+      "source_ids": [
+        "ch23-ref013",
+        "ch23-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Weyl (1976), Die Philosophie der Mathematik und der Naturwissenschaften, Oldenbourg, München."
+      ],
+      "zh": [
+        "H. Weyl (1976), Die Philosophie der Mathematik und der Naturwissenschaften, Oldenbourg, München."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch23-bibliography-015",
+      "source_ids": [
+        "ch23-ref014",
+        "ch23-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "H. Wismann and I.-O. Stamatescu (1994), “Questions Concerning theory and Experience and the Role of Mathematics in Physical Science”, in Philosophy, Mathematics and Modern Physics – A Dialogue, E. Rudolph and I.-O. Stamatescu (Eds.), Springer, Heidelberg/New York."
+      ],
+      "zh": [
+        "H. Wismann and I.-O. Stamatescu (1994), “Questions Concerning theory and Experience and the Role of Mathematics in Physical Science”, in Philosophy, Mathematics and Modern Physics – A Dialogue, E. Rudolph and I.-O. Stamatescu (Eds.), Springer, Heidelberg/New York."
+      ],
+      "shared": true,
+      "units": 39
+    }
+  ],
+  "notes": {
+    "ch23-n01": {
+      "number": "1",
+      "en": [
+        "“Wir machen uns innere Scheinbilder oder Symbole der äusseren Gegenstände, und zwar machen wir sie von solcher Art, dass die denknotwendigen Folgen der Bilder stets wieder Bilder seien von den naturnotwendigen Folgen der abgebildeten Gegenstände […] – Die Bilder, von welchen wir reden, sind unsere Vorstellungen von den Dingen; sie haben mit den Dingen die eine wesentliche Übereinstimmung, welche in der Erfüllung der genannten Forderung liegt, aber es ist für ihren Zweck nicht nötig, dass sie irgend eine weitere Übereinstimmung mit den Dingen äe.” Hertz, 1894, p. 1. All translations are ad hoc."
+      ],
+      "zh": [
+        "“Wir machen uns innere Scheinbilder oder Symbole der äusseren Gegenstände, und zwar machen wir sie von solcher Art, dass die denknotwendigen Folgen der Bilder stets wieder Bilder seien von den naturnotwendigen Folgen der abgebildeten Gegenstände […] – Die Bilder, von welchen wir reden, sind unsere Vorstellungen von den Dingen; sie haben mit den Dingen die eine wesentliche Übereinstimmung, welche in der Erfüllung der genannten Forderung liegt, aber es ist für ihren Zweck nicht nötig, dass sie irgend eine weitere Übereinstimmung mit den Dingen äe.” Hertz, 1894, p. 1。引文均由本文作者随文翻译。"
+      ],
+      "editorial": [
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "原注德文引文末尾印作“äe”，按句意应为动词 sein 的形式"
+          ]
+        }
+      ]
+    },
+    "ch23-n02": {
+      "number": "2",
+      "en": [
+        "I.-O. Stamatescu, 2002."
+      ],
+      "zh": [
+        "I.-O. Stamatescu, 2002."
+      ]
+    },
+    "ch23-n03": {
+      "number": "3",
+      "en": [
+        "Analytica posteriora I 2 71b. Aristotle develops these problems in both Physics and Metaphysics, where he discusses the question of “being”, the foundation of knowledge, the role of logic, principles and categories and such basic concepts as “surplus and default” or “attraction and repulsion”. We mention this to remember how old and variate this discussion is."
+      ],
+      "zh": [
+        "《后分析篇》（Analytica posteriora）I 2 71b。亚里士多德在《物理学》和《形而上学》中都发展了这些问题，其中他讨论了“存在”问题、知识的基础、逻辑的作用、原理与范畴，以及“盈余与亏缺”或“吸引与排斥”这样的基本概念。我们提到这一点，是为了提醒这场讨论有多么古老、多么多样。"
+      ]
+    },
+    "ch23-n04": {
+      "number": "4",
+      "en": [
+        "I. Kant, 1957, pp. A V,VI,VII."
+      ],
+      "zh": [
+        "I. Kant, 1957, pp. A V,VI,VII."
+      ]
+    },
+    "ch23-n05": {
+      "number": "5",
+      "en": [
+        "“Ich behaupte aber, daß in jeder besonderen Naturlehre nur so viel eigentliche Wissenschaft angetroffen werden kann, als darin Mathematik anzutreffen ist.” I. Kant, 1957, A VIII, IX. The role of mathematics in natural science is undoubtedly one of the most outstanding questions in the epistemology of science. For some remarks concerning this subject in the context of transcendental philosophy see H. Wismann and I.-O. Stamatescu, 1994."
+      ],
+      "zh": [
+        "“Ich behaupte aber, daß in jeder besonderen Naturlehre nur so viel eigentliche Wissenschaft angetroffen werden kann, als darin Mathematik anzutreffen ist.” I. Kant, 1957, A VIII, IX。数学在自然科学中的作用无疑是科学认识论中最突出的问题之一。关于先验哲学语境中这个问题的若干评论，见 H. Wismann and I.-O. Stamatescu, 1994。"
+      ]
+    },
+    "ch23-n06": {
+      "number": "6",
+      "en": [
+        "E. Cassirer, 1987, p. 200."
+      ],
+      "zh": [
+        "E. Cassirer, 1987, p. 200."
+      ]
+    },
+    "ch23-n07": {
+      "number": "7",
+      "en": [
+        "See Peirce, 1991. For Peirce the understandability of the natural process is a postulate, or, just as well, a “desperate hope”, since only in as far as this holds is knowledge possible."
+      ],
+      "zh": [
+        "参见 Peirce, 1991。对皮尔士来说，自然过程的可理解性是一个公设，或者同样可以说，是一个“绝望的希望”，因为只有就这一点成立而言，知识才是可能的。"
+      ]
+    },
+    "ch23-n08": {
+      "number": "8",
+      "en": [
+        "“Kants Lehre von den a priori gegebenen Formen der Anschauung ist ein sehr glücklicher und klarer Ausdruck des Sachverhältnisses; aber diese Formen müssen inhaltsleer und frei genug sein, um jeden Inhalt, der überhaupt in die betreffende Form der Wahrnehmung eintreten kann, aufzunehmen.” H. von Helmholtz, 1971, p. 299."
+      ],
+      "zh": [
+        "“Kants Lehre von den a priori gegebenen Formen der Anschauung ist ein sehr glücklicher und klarer Ausdruck des Sachverhältnisses; aber diese Formen müssen inhaltsleer und frei genug sein, um jeden Inhalt, der überhaupt in die betreffende Form der Wahrnehmung eintreten kann, aufzunehmen.” H. von Helmholtz, 1971, p. 299."
+      ]
+    },
+    "ch23-n09": {
+      "number": "9",
+      "en": [
+        "H. Reichenbach, 1965, p. 73."
+      ],
+      "zh": [
+        "H. Reichenbach, 1965, p. 73."
+      ]
+    },
+    "ch23-n10": {
+      "number": "10",
+      "en": [
+        "J.W. von Goethe. S.39."
+      ],
+      "zh": [
+        "J.W. von Goethe. S.39."
+      ]
+    },
+    "ch23-n11": {
+      "number": "11",
+      "en": [
+        "See, e.g., E. Joos et al., 2003."
+      ],
+      "zh": [
+        "参见例如 E. Joos et al., 2003。"
+      ]
+    },
+    "ch23-n12": {
+      "number": "12",
+      "en": [
+        "R. Rorty, 1998, p. 19."
+      ],
+      "zh": [
+        "R. Rorty, 1998, p. 19."
+      ]
+    },
+    "ch23-n13": {
+      "number": "13",
+      "en": [
+        "“Innerhalb der Naturwissenschaft bezeichnen die weltanschaulichen Gegensätze von Realismus und Idealismus einander nicht widersprechende methodische Prinzipien…. Wir konstruieren in ihr eine objektive Welt, in der zugleich zwei Prinzipien gelten müssen: Ein ‘realistisches’ Prinzip, [das man mit Helmholtz so darstellen kann]: ‘Eine Verschiedenheit der sich uns aufdrängenden Wahrnehmungen ist stets in einer Verschiedenheit der reellen Bedingungen fundiert.’… [Ferner] ein ‘idealistisches’ Prinzip: ‘das objektive Weltbild darf keine Verschiedenheiten zulassen, die nicht in Verschiedenheiten der Wahrnehmung sich kundgeben können; ein prinzipiell der Wahrnehmung unzugängliches Sein wird nicht zugestanden’” (Weyl, 1976, p. 84.). Of course perception here is meant in a generalized sense: computer registered events in CERN detectors are perceptions, just as well as WMAP data. Even so we do not hesitate some times to introduce concepts which appear necessary to make the theoretical construction consistent, but – at least at a certain level – have no directly observable effects, such as the potentials in QED and gauge theories. One can argue that they have an indirect reality, as components of a successful theory, but this is surely in need of further discussion."
+      ],
+      "zh": [
+        "“Innerhalb der Naturwissenschaft bezeichnen die weltanschaulichen Gegensätze von Realismus und Idealismus einander nicht widersprechende methodische Prinzipien…. Wir konstruieren in ihr eine objektive Welt, in der zugleich zwei Prinzipien gelten müssen: Ein ‘realistisches’ Prinzip, [das man mit Helmholtz so darstellen kann]: ‘Eine Verschiedenheit der sich uns aufdrängenden Wahrnehmungen ist stets in einer Verschiedenheit der reellen Bedingungen fundiert.’… [Ferner] ein ‘idealistisches’ Prinzip: ‘das objektive Weltbild darf keine Verschiedenheiten zulassen, die nicht in Verschiedenheiten der Wahrnehmung sich kundgeben können; ein prinzipiell der Wahrnehmung unzugängliches Sein wird nicht zugestanden’” (Weyl, 1976, p. 84.)。当然，这里的知觉是在广义上说的：CERN 探测器中由计算机记录的事件是知觉，WMAP 数据同样是知觉。即便如此，我们有时仍毫不犹豫地引入一些概念，它们显得是使理论构造保持一致所必需的，但——至少在某个层次上——没有直接可观察的效应，比如 QED 与规范理论中的势。可以论证说，作为一个成功理论的组成部分，它们具有一种间接的实在性，但这无疑需要进一步讨论。"
+      ]
+    },
+    "ch23-n14": {
+      "number": "14",
+      "en": [
+        "K. Popper, 1972."
+      ],
+      "zh": [
+        "K. Popper, 1972."
+      ]
+    }
+  }
+}

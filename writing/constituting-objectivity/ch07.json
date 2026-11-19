@@ -1,0 +1,1382 @@
+{
+  "id": "ch07",
+  "title": "物理学的先验领域",
+  "originalTitle": "The Transcendental Domain of Physics",
+  "outline": [
+    {
+      "anchor": "ch07-u003",
+      "title": "1 科学中的回溯",
+      "originalTitle": "1 Regresses in the Sciences",
+      "level": 1
+    },
+    {
+      "anchor": "ch07-u009",
+      "title": "1.1 同质回溯与异质回溯",
+      "originalTitle": "1.1 Homogeneous and Heterogeneous Regresses",
+      "level": 2
+    },
+    {
+      "anchor": "ch07-u015",
+      "title": "2 因果性与因果力能",
+      "originalTitle": "2 Causality and Causal Powers",
+      "level": 1
+    },
+    {
+      "anchor": "ch07-u019",
+      "title": "2.1 物理学中的本体论考虑",
+      "originalTitle": "2.1 Ontological Considerations in Physics",
+      "level": 2
+    },
+    {
+      "anchor": "ch07-u032",
+      "title": "2.2 倾向概念必须归属于什么逻辑主词？",
+      "originalTitle": "2.2 To What Logical Subject Must Dispositional Concepts Be Ascribed?",
+      "level": 2
+    },
+    {
+      "anchor": "ch07-u046",
+      "title": "2.3 我们为什么应当采纳倾向/力能本体论？",
+      "originalTitle": "2.3 Why Should We Adopt the Dispositions/Powers Ontology?",
+      "level": 2
+    },
+    {
+      "anchor": "ch07-u051",
+      "title": "3 迈克尔·法拉第支持 CA（场作为终端者）的论证",
+      "originalTitle": "3 Michael Faraday’s Arguments for CA or Fields as Terminals",
+      "level": 1
+    },
+    {
+      "anchor": "ch07-u058",
+      "title": "3.1 动力论的形而上学",
+      "originalTitle": "3.1 The Dynamicist Metaphysics",
+      "level": 2
+    },
+    {
+      "anchor": "ch07-u063",
+      "title": "3.2 寻找一个先验论证",
+      "originalTitle": "3.2 Finding a Transcendental Argument",
+      "level": 2
+    },
+    {
+      "anchor": "ch07-u074",
+      "title": "4 结论",
+      "originalTitle": "4 Conclusion",
+      "level": 1
+    },
+    {
+      "anchor": "ch07-u071",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch07-u001",
+      "source_ids": [
+        "ch07-u001"
+      ],
+      "page": "149",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch07-u002",
+      "source_ids": [
+        "ch07-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Rom Harré"
+      ],
+      "zh": [
+        "罗姆·哈雷"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch07-u004",
+      "source_ids": [
+        "ch07-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract The physical sciences display the world as a hierarchy of regresses, in which epistemological levels, observables and unobservables, are integrated with ontological levels, such as part-whole. Homogeneous regresses preserve generic ontologies, while heterogeneous regresses involve radical ontological transitions. Causal explanations map onto these regresses, transcending reference to causal mechanisms by hypothesizing causal powers. Faraday’s physics can be adapted as the basis of a transcendental argument to support the necessity of supposing that the world consists of causal powers. The subject of causal powers attributions can not be the world but the world indissolubly linked to apparatus."
+      ],
+      "zh": [
+        "摘要 物理科学把世界呈现为一个回溯的层级体系，其中认识论层面（可观察者与不可观察者）与本体论层面（如部分—整体）整合在一起。同质回溯保持属类的本体论不变，而异质回溯则涉及根本性的本体论转变。因果解释映射到这些回溯之上，并通过设定因果力能而超越对因果机制的指称。法拉第的物理学可以被改造为一个先验论证的基础，用以支持如下假设的必然性：世界由因果力能构成。因果力能归属的主词不能是世界本身，而是与仪器不可分离地联系在一起的世界。"
+      ],
+      "units": 97
+    },
+    {
+      "id": "ch07-u003",
+      "source_ids": [
+        "ch07-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Regresses in the Sciences"
+      ],
+      "zh": [
+        "1 科学中的回溯"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch07-u005",
+      "source_ids": [
+        "ch07-u005"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "R. Harré Linacre College, Oxford and Georgetown University, Washington D.C."
+      ],
+      "zh": [
+        "R. Harré Linacre College, Oxford and Georgetown University, Washington D.C."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch07-u006",
+      "source_ids": [
+        "ch07-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The sciences have developed by sustaining one level or layer of reality by or on another, and that on yet another and so on. At least that is how the development of the sciences looks to a Realist. Diseases, as displays of symptoms are sustained in being by the activities of bacteria and viruses. The aurora borealis as a visible phenomenon is sustained in being by the solar wind passing through the rarefied gases of the upper atmosphere. Chemical phenomena, like the evolution of hydrogen and oxygen during the electrolysis of water are sustained in being by a flow of ions under a potential gradient. These are familiar regresses. They display relations such as ‘Whole/Part’; ‘Effect/Cause’ and so on. In the preliminary scene-setting stage of this discussion scientific regresses will be examined ontologically, that is in terms of the categories of beings arranged according to the above relations and exemplified in cases like those sketched above."
+      ],
+      "zh": [
+        "科学的发展，一直是靠一个层面或层次的实在支撑另一个层面或层次的实在，后者又靠再一个层面支撑，如此等等。至少在实在论者看来，科学的发展就是如此。疾病作为症状的显现，其存在由细菌和病毒的活动所支撑。北极光作为可见现象，其存在由穿过高层大气稀薄气体的太阳风所支撑。化学现象，例如水电解时氢和氧的析出，其存在由电势梯度下离子的流动所支撑。这些都是人们熟悉的回溯。它们呈现出“整体/部分”“结果/原因”之类的关系。在本讨论开场的背景铺垫阶段，我们将从本体论上考察科学中的回溯，也就是按照上述关系排列、并在上面勾勒的那类事例中得到例示的存在者范畴来考察。"
+      ],
+      "units": 158
+    },
+    {
+      "id": "ch07-u007",
+      "source_ids": [
+        "ch07-u007"
+      ],
+      "page": "150",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It usually happens that the first stage of a regress transcends the boundary of unaided perception, though preserving the kinds and at least some of the determinables characteristic of the observable phenomena. This constraint makes the construction of sense extending instruments appropriate as a research strategy. Later stages of a regress usually transcend the boundary of possible experience. When this level is reached instrumentation is designed to manipulate imperceptible beings indirectly. It may still happen that the hypothetical beings to be pushed around are ontologically conservative, falling under some generic ontological prescription, such as that of the simple material body. For example radically unobservable entities with magnetic fields are manipulated in the Stern–Gerlach experiment. However, larger entities with magnetic fields such as common bar magnets are easily observable, and the shape of their fields made visible by the use of iron filings."
+      ],
+      "zh": [
+        "通常的情形是：回溯的第一阶段越过了无辅助知觉的边界，但仍保留可观察现象特有的种类以及至少某些可规定者。这一约束使得建造延伸感官的仪器成为恰当的研究策略。回溯的较后阶段通常越过可能经验的边界。到达这一层面时，仪器的设计目的在于间接操纵不可知觉的存在者。即便如此，被操纵的那些假设性存在者仍可能在本体论上是保守的，落在某个属类的本体论规定之下，例如简单物质物体的规定。例如在斯特恩—格拉赫实验中，人们操纵的就是具有磁场的根本不可观察的实体。然而，具有磁场的较大实体，如普通的条形磁铁，是容易观察的，其场的形状可以用铁屑显示出来。"
+      ],
+      "units": 143
+    },
+    {
+      "id": "ch07-u008",
+      "source_ids": [
+        "ch07-u008"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "However, in the development of physics the lines of regression sometimes reach as far as beings of kinds not represented, or at least not represented overtly in the domain of common experience. In particular regresses sometimes lead to causal powers, tendencies and capacities. The effects of the activity of a causal power can be observed, but not the power itself. The ontology of powers is complex and will be tackled in detail below."
+      ],
+      "zh": [
+        "然而，在物理学的发展中，回溯的路线有时一直延伸到这样一些存在者：它们的种类在常识经验领域中没有被表征，或至少没有被明确地表征。特别是，回溯有时通向因果力能、趋向和机能。因果力能活动的结果可以观察到，但力能本身不能。力能的本体论是复杂的，下文将详细处理。"
+      ],
+      "units": 73
+    },
+    {
+      "id": "ch07-u009",
+      "source_ids": [
+        "ch07-u009"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1.1 Homogeneous and Heterogeneous Regresses"
+      ],
+      "zh": [
+        "1.1 同质回溯与异质回溯"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch07-u010",
+      "source_ids": [
+        "ch07-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In a homogeneous regress, the ontological type of the beings in the supporting level remains unchanged however far the regress is pursued. Wittgenstein’s examination of the regress of rules supported by yet more rules, convinced him that this progress could not go on ad infinitum, since otherwise action according to a rule would be paralyzed by the need to consult yet more rules. His solution was to declare that forms of life are defined by the normative practices that the local folk carry out without further ado. If asked to justify a certain practice that is foundational for a culture a member can say only ‘This is what I do’. This line of argument was worked out in detail in his last work, On Certainty (Wittgenstein, 1979)."
+      ],
+      "zh": [
+        "在同质回溯中，无论回溯推进多远，支撑层面上存在者的本体论类型保持不变。维特根斯坦对规则由更多规则支撑这一回溯的考察使他确信，这种推进不可能无限进行下去，否则按规则行动就会因为需要查阅更多规则而陷于瘫痪。他的解决办法是宣布：生活形式由当地人们不加迟疑地践行的规范性实践所定义。如果被要求为某种对一种文化具有奠基意义的实践作辩护，其成员只能说“我就是这么做的”。这条论证路线在他最后一部著作《论确定性》中得到了详细展开（Wittgenstein, 1979）。"
+      ],
+      "units": 127
+    },
+    {
+      "id": "ch07-u011",
+      "source_ids": [
+        "ch07-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In heterogeneous regresses, at some level in the regress, the ontological type of the supporting level changes from that of the supported levels to something different. For example, the regress of explanations of an agent’s skilled performance in cognitive psychology proceeds a few steps by invoking unobservable cognitive processes, for example Jerome Bruner’s schemata (Bruner, 1983), such as those we use when judging the value of coins. It is not long before neural processes in the brain are introduced as the mechanism or tool with which an agent acts skillfully."
+      ],
+      "zh": [
+        "在异质回溯中，回溯的某个层面上，支撑层的本体论类型从被支撑层的类型变成了不同的东西。例如，认知心理学对一个行动者熟练表现的解释回溯，起初借助不可观察的认知过程走了几步，例如杰罗姆·布鲁纳的图式（Bruner, 1983），就像我们判断硬币价值时所用的那种图式。但不久就会引入大脑中的神经过程，作为行动者借以熟练行动的机制或工具。"
+      ],
+      "units": 90
+    },
+    {
+      "id": "ch07-u012",
+      "source_ids": [
+        "ch07-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The physical sciences seem to involve initially a homogeneous regress or regresses that are bounded by a descent (to follow the prevailing metaphor) into another homogeneous regress that is heterogeneous with respect to that which depends upon it."
+      ],
+      "zh": [
+        "物理科学似乎起初涉及一个或多个同质回溯，这些回溯的边界是一次下降（沿用流行的隐喻）——下降到另一个同质回溯，而后者相对于依赖它的前者而言是异质的。"
+      ],
+      "units": 38
+    },
+    {
+      "id": "ch07-u013",
+      "source_ids": [
+        "ch07-u013"
+      ],
+      "page": "151",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Chemical reactions among material substances are explained by reference to the causal powers and mutual relations of their constituent material parts, molecules. These causal powers are explained by reference to the causal powers and mutual relations of their constituent material parts, atoms. And so on through further layers of the ‘structure of constituents’ ontology. However, research in physical chemistry soon comes to a boundary between the realm of material beings (Kant’s empirical world) and the realm of charges, poles, fields, potentials and so on. Whatever these are, they are not just more material entities of the everyday sort with versions of everyday properties. Compare this with the fundamental role of Robert Boyle’s ‘corpuscles’ which are defined by four determinables, ‘bulk, figure, texture and motion’. Determinates of these determinables are everywhere to be seen in the world as people perceive it. One strand of physics has always been based on a heterogeneous regress, the physics of Gilbert, Boscovich, Kant and Faraday. I shall refer to the metaphysical basis of this strand of the ontology of physics as ‘dynamism’."
+      ],
+      "zh": [
+        "物质实体之间的化学反应，通过诉诸其构成性物质部分——分子——的因果力能和相互关系来解释。这些因果力能又通过诉诸分子的构成性物质部分——原子——的因果力能和相互关系来解释。如此等等，穿过“构成者结构”本体论的更多层次。然而，物理化学的研究很快就会来到一个边界：物质存在者的领域（康德的经验世界）与电荷、磁极、场、势等等的领域之间的边界。无论这些东西是什么，它们都不是带有日常属性变体的、日常类型的更多物质实体。试与罗伯特·波义耳的“微粒”所起的基础作用相比较：微粒由四个可规定者定义，即“体积、形状、组织和运动”。这些可规定属性的具体表现在人们所知觉的世界中随处可见。物理学的一条脉络始终基于异质回溯，即吉尔伯特、博斯科维奇、康德和法拉第的物理学。我将把物理学本体论中这一脉络的形而上学基础称为“动力论”。"
+      ],
+      "units": 177
+    },
+    {
+      "id": "ch07-u014",
+      "source_ids": [
+        "ch07-u014"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Dynamism has been developed along two distinct lines. The metaphysics of Boscovich and Kant preserved the idea of a corpuscle, though drastically stripped down, and reduced to a continuously existing being with no extension in space, a point-particle individuatable by its location in space and time. Each point-particle was a centre of power, manifested in forces of attraction and repulsion, diagrammed as emanating from these centres. The manifested forces were used to account for the perceptible properties of many kinds of material things, such as size and shape, impenetrability, magnetic and electrical interactions and so on. The metaphysics of Gilbert and Faraday dispensed with even the shadow of corpuscularity retained by Boscovich and Kant. It was based on a world that consisted only of fields, continuously distributed causal powers."
+      ],
+      "zh": [
+        "动力论沿两条不同的路线发展。博斯科维奇和康德的形而上学保留了微粒的观念，尽管对它作了大幅削减，把它还原为一种持续存在、在空间中没有广延的存在者，即一个凭其时空位置而可个体化的点粒子。每个点粒子都是一个力能中心，表现为吸引力和排斥力，图示为从这些中心发出。这些显现出来的力被用来说明许多种物质事物的可知觉属性，如大小和形状、不可入性、磁相互作用和电相互作用等等。吉尔伯特和法拉第的形而上学则连博斯科维奇和康德所保留的那点微粒性影子也抛弃了。它基于一个只由场——连续分布的因果力能——构成的世界。"
+      ],
+      "units": 129
+    },
+    {
+      "id": "ch07-u015",
+      "source_ids": [
+        "ch07-u015"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 Causality and Causal Powers"
+      ],
+      "zh": [
+        "2 因果性与因果力能"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch07-u016",
+      "source_ids": [
+        "ch07-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The line of argument to be followed in this discussion terminates in a sketch of a transcendental argument in favour of ontology of causal powers. However, to reach that point the concept of ‘causal power’ needs to be spelled out."
+      ],
+      "zh": [
+        "本讨论要遵循的论证路线，最终落脚于一个支持因果力能本体论的先验论证的梗概。不过，要到达那一步，需要先阐明“因果力能”概念。"
+      ],
+      "units": 40
+    },
+    {
+      "id": "ch07-u017",
+      "source_ids": [
+        "ch07-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Causal powers are possessed by material particulars continuously, but whether or not they are manifested in occurrent properties of some observable particular, say the orientation of magnetic needle, depends on contexts, as, e.g. in Bohr’s philosophy of experimentation, to be discussed later in detail (Brock, 2003). A material particular that possesses a causal power ‘brings it about that …’ some phenomenon occurs. Events do not possess causal powers, only things and stuffs. The root idea is that of efficacy."
+      ],
+      "zh": [
+        "物质殊相持续地拥有因果力能，但这些力能是否显现为某个可观察殊相的当下属性——比如磁针的指向——则取决于语境，例如玻尔的实验哲学就是这样，后文将详细讨论（Brock, 2003）。拥有因果力能的物质殊相“使得……”某种现象发生。事件不拥有因果力能，只有事物和材料才拥有。其根本观念是效力。"
+      ],
+      "units": 79
+    },
+    {
+      "id": "ch07-u018",
+      "source_ids": [
+        "ch07-u018"
+      ],
+      "page": "152",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Efficacy cannot be analyzed in terms of the occurrent properties of material beings. As Hume long ago pointed out, the results of the activity of a causal power are observable, but not the power itself. Because he thought it must be an unobservable of which we do not have an impression, Hume casts it out. Psychologists have demonstrated that activity, the manifestation of a power, is perceptible, though not, of course, as a determinable property like colour or shape (Michotte, 1963). This explains how we can routinely tell whether some material being is an agent or a patient, acting or acted upon. It is a distinction we can all make in the observable world. We can certainly tell whether something has a causal power, as we watch it in action, though the ‘power itself’ is manifested only in the phenomena. Things start to happen which seem to emanate from some material being. The mist dissipates when the sun’s rays fall upon it. Even though we now know a good deal about the nuclear reactions inside the sun, nevertheless the sun’s power to warm things up gives us an exemplar of an active agent."
+      ],
+      "zh": [
+        "效力不能用物质存在者的当下属性来分析。正如休谟很久以前指出的，因果力能活动的结果可以观察，力能本身却不能。因为休谟认为它必定是一个我们没有相应印象的不可观察者，便把它驱逐了。心理学家已经证明，活动——力能的显现——是可以知觉的，当然不是作为像颜色或形状那样的可规定属性（Michotte, 1963）。这解释了我们何以能日常地判别某个物质存在者是施动者还是受动者，是在作用还是在被作用。这是我们在可观察世界中都能作出的区分。我们当然能判别某物是否具有因果力能，只要我们观看它在活动中的表现，尽管“力能本身”只在现象中显现。事情开始发生，而且似乎是从某个物质存在者那里发出来的。阳光照到雾上，雾就消散了。尽管我们现在对太阳内部的核反应已知道得很多，太阳使物体变暖的力能仍然给我们提供了一个能动施动者的范例。"
+      ],
+      "units": 193
+    },
+    {
+      "id": "ch07-u019",
+      "source_ids": [
+        "ch07-u019"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2.1 Ontological Considerations in Physics"
+      ],
+      "zh": [
+        "2.1 物理学中的本体论考虑"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch07-u020",
+      "source_ids": [
+        "ch07-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The double regress, in which one homogeneous regress is supported in being by another homogenous regress, heterogeneous with the first, poses ontological problems: what are the kinds for beings which ground the second regress? To what sort of beings should fundamental ‘efficacies’ be ascribed?"
+      ],
+      "zh": [
+        "双重回溯——一个同质回溯的存在由另一个与它异质的同质回溯所支撑——提出了本体论问题：为第二个回溯奠基的存在者属于什么种类？基本的“效力”应当归属于何种存在者？"
+      ],
+      "units": 44
+    },
+    {
+      "id": "ch07-u021",
+      "source_ids": [
+        "ch07-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. The second regress terminates in beings (hereafter called ‘terminals’) the nature of which is given by reason, that is by theoretical developments.\n2. In physics ‘terminals’ have a characteristic logical form:"
+      ],
+      "zh": [
+        "1. 第二个回溯终止于一些存在者（以下称为“终端者”），其本性由理性给出，也就是由理论发展给出。\n2. 在物理学中，“终端者”有一种特征性的逻辑形式："
+      ],
+      "units": 32
+    },
+    {
+      "id": "ch07-u022",
+      "source_ids": [
+        "ch07-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "(a) Powerful particulars, e.g. charges (discrete and active) are integrated with\n(b) Distributed dispositions, e.g. fields (continuous and active)\n(c) The ‘energy of the field’ has yet to be found a secure ontological status"
+      ],
+      "zh": [
+        "(a) 有力能的殊相，例如电荷（离散的、能动的），与\n(b) 分布式倾向，例如场（连续的、能动的）整合在一起。\n(c) “场的能量”尚待获得一个稳固的本体论地位。"
+      ],
+      "units": 36
+    },
+    {
+      "id": "ch07-u023",
+      "source_ids": [
+        "ch07-u023"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "3. This suggests a Cartesian space of terminal kinds."
+      ],
+      "zh": [
+        "3. 这提示了一个终端者种类的笛卡尔式空间。"
+      ],
+      "units": 9
+    },
+    {
+      "id": "ch07-u024",
+      "source_ids": [
+        "ch07-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "There are four quadrants, PC, CA, AD, and DP. Since the abandonment of mechanics as the deepest level of Physics, in favour of dynamism, whether it be Boscovichean or Faradayan, the implicit ontology of Physics has favoured AD and CA. In following the development of these ideas in the nineteenth century, we will find that a conflict emerges between them, as the format for the groundwork of physics. The result, in hindsight, was a victory for CA, as argued by Michael Faraday. The Boscovichean discrete point sources of causal efficacy lost out to energetics and field theories. Nevertheless, physics and chemistry, even in the twenty-first century persist with a kind of hybrid ontology in practice, in which powerful particulars and continuous fields are both permitted."
+      ],
+      "zh": [
+        "共有四个象限：PC、CA、AD 和 DP。自从力学不再被视为物理学的最深层面、而让位于动力论（无论是博斯科维奇式的还是法拉第式的）以来，物理学的隐含本体论一直偏爱 AD 和 CA。在追踪这些观念于十九世纪的发展时，我们会发现，作为物理学基础的格式，两者之间出现了冲突。事后看来，结果是迈克尔·法拉第所主张的 CA 获胜。博斯科维奇式的离散点状因果效力源输给了能量学和场论。然而，即便进入二十一世纪，物理学和化学在实践中仍坚持一种混合本体论，其中有力能的殊相和连续场都被允许。"
+      ],
+      "units": 125
+    },
+    {
+      "id": "ch07-u025",
+      "source_ids": [
+        "ch07-u025",
+        "ch07-u026",
+        "ch07-u027",
+        "ch07-u028",
+        "ch07-u029"
+      ],
+      "page": "",
+      "canonical_kind": "figure",
+      "en": [
+        "Four quadrants for terminal kinds. Passive and discrete: DP. Passive and continuous: PC. Active and discrete: AD. Active and continuous: CA."
+      ],
+      "zh": [
+        "终端者类型的四象限。被动、离散为 DP，被动、连续为 PC，主动、离散为 AD，主动、连续为 CA。"
+      ],
+      "type": "figure",
+      "src": "/writing/constituting-objectivity/assets/ch07-u025.png",
+      "imageWidth": 572,
+      "imageHeight": 267,
+      "sharedFigure": true,
+      "linkImage": true,
+      "parallelFigureCaption": [
+        "Four quadrants for terminal kinds. Passive and discrete: DP. Passive and continuous: PC. Active and discrete: AD. Active and continuous: CA.",
+        {
+          "type": "break"
+        },
+        "终端者类型的四象限。被动、离散为 DP，被动、连续为 PC，主动、离散为 AD，主动、连续为 CA。"
+      ],
+      "units": 21
+    },
+    {
+      "id": "ch07-u030",
+      "source_ids": [
+        "ch07-u030"
+      ],
+      "page": "153",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Reading contemporary physical chemistry reveals a cheerful eclecticism, in which Newtonian corpuscular talk, e.g. HCl molecules as vibrating, rotating and translating; fields, e.g. as potential surfaces transcending reactants and products; and Schödinger equations describing the whole set up, crop up on an ad hoc basis. This sort of thing can be seen throughout accounts of the Nobel Prize winning work of John Polanyi (1986), on the use of chemoluminescence to track the intimate details of chemical reactions, and in hundreds of other places."
+      ],
+      "zh": [
+        "阅读当代物理化学文献，会看到一种欢快的折中主义：牛顿式的微粒说法（例如把 HCl 分子说成在振动、转动和平动）、场（例如超越反应物和产物的势能面）、以及描述整个装置的薛定谔方程，都随需要而冒出来。这类东西在关于约翰·波拉尼获诺贝尔奖的工作（1986）——利用化学发光追踪化学反应的细微过程——的记述中随处可见，在其他成百上千处也是如此。"
+      ],
+      "units": 85
+    },
+    {
+      "id": "ch07-u031",
+      "source_ids": [
+        "ch07-u031"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In terms of the above schema we have a mix of concepts from quadrants DP, AD and CA."
+      ],
+      "zh": [
+        "用上面的图式来说，我们得到的是来自 DP、AD 和 CA 象限的概念的混合。"
+      ],
+      "units": 18
+    },
+    {
+      "id": "ch07-u032",
+      "source_ids": [
+        "ch07-u032"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2.2 To What Logical Subject Must Dispositional Concepts Be Ascribed?"
+      ],
+      "zh": [
+        "2.2 倾向概念必须归属于什么逻辑主词？"
+      ],
+      "type": "subheading",
+      "units": 11
+    },
+    {
+      "id": "ch07-u033",
+      "source_ids": [
+        "ch07-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This question can be answered only if we take account of the pervasive phenomenon of ‘complementarity’. This concept is required in order to maintain the rationality of heterogeneous regresses. ‘Complementarity’ is the basis of a third rule for forbidding incompatible predications in the discourse of the sciences, in addition to two kinds of rulings against contradiction. The traditional rules of incompatible predication delineate what complementarity is not."
+      ],
+      "zh": [
+        "只有考虑到“互补性”这一普遍现象，才能回答这个问题。要维持异质回溯的合理性，就需要这个概念。除了两类反矛盾的裁定之外，“互补性”是科学话语中禁止不相容谓述的第三条规则的基础。传统的不相容谓述规则划出了互补性不是什么。"
+      ],
+      "units": 67
+    },
+    {
+      "id": "ch07-u034",
+      "source_ids": [
+        "ch07-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Behind these rules stands the Aristotelian principle of non-contradiction that forbids the joint assertion of P and not-P. However, it is too general to fix the limits of predication for the sciences."
+      ],
+      "zh": [
+        "这些规则背后是亚里士多德的不矛盾律，它禁止同时断言 P 和非 P。然而，它过于一般，无法为科学固定谓述的界限。"
+      ],
+      "units": 32
+    },
+    {
+      "id": "ch07-u035",
+      "source_ids": [
+        "ch07-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The first rule of incompatible predication forbids the joint ascription of more than one determinate under the same determinable. For example, ‘Nothing can be red and green all over’ looks like an empirical claim, but we have learned from Wittgenstein to treat it as a grammatical rule, laying down one of the conventions for using the words ‘red’ and ‘green’. However, this rule is a special case of the general rule that forbids joint predication of determinates under the same determinable, for example joint predication of ‘hues’ like ‘red’, ‘blue’ etc. under ‘colour’ are forbidden."
+      ],
+      "zh": [
+        "第一条不相容谓述规则禁止把同一可规定属性下的多个具体规定同时归于一物。例如，“没有东西能通体既红又绿”看上去像一个经验断言，但我们从维特根斯坦那里学到，应把它当作一条语法规则，它规定了使用“红”和“绿”这两个词的约定之一。不过，这条规则是一般规则的特例：一般规则禁止同时谓述同一可规定属性下的多个具体规定，例如禁止在“颜色”之下联合谓述“红”“蓝”等“色调”。"
+      ],
+      "units": 95
+    },
+    {
+      "id": "ch07-u036",
+      "source_ids": [
+        "ch07-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The second rule is more complex, forbidding the use of certain rules of reasoning beyond the limits of experience. This is the rule of antinomies, a formidable weapon in Kant’s criticism of illegitimate uses of pure reason. It seems we can find grounds for holding that the universe as a whole ‘has a beginning in time and is limited as regards space’, and also that it ‘has no beginning, and no limits in space’; neither a beginning nor an end (Kant, 1787, B 454 –455). The source of the antinomy is the use of a predicate to assign a property appropriate to an empirically given entity to attempt to describe a totality of such entities. The contradiction evident in juxtaposing the two characterizations of the universe remarks throws into doubt the assumption that properties of parts can be attributed to the wholes of which they are parts. As Kant says (1787, B 451–452) ‘This method of provoking a conflict of assertions [is] not for the purposes of deciding for one or the other side, but of investigating whether the object of the controversy is not perhaps a deceptive appearance.’"
+      ],
+      "zh": [
+        "第二条规则更复杂，它禁止在经验界限之外使用某些推理规则。这就是二律背反规则，是康德批判纯粹理性的非法使用的一件利器。似乎我们既能找到根据主张宇宙整体“在时间上有一个开端，在空间上是有限的”，也能找到根据主张它“没有开端，在空间上没有界限”，无始无终（Kant, 1787, B 454–455）。二律背反的根源在于：用一个谓词把适合于经验上被给予实体的属性，指派给此类实体的总体，试图以此描述这个总体。把对宇宙的这两种刻画并列起来所显露的矛盾，使人怀疑这样一个假定：部分的属性可以归属于它们作为其部分的整体。正如康德所说（1787, B 451–452）：“这种挑起断言冲突的方法，[其]目的不是裁决支持哪一方，而是探究争论的对象是否也许只是一个骗人的假象。”"
+      ],
+      "units": 190
+    },
+    {
+      "id": "ch07-u037",
+      "source_ids": [
+        "ch07-u037"
+      ],
+      "page": "154",
+      "canonical_kind": "paragraph",
+      "en": [
+        "‘Complementarity’ is neither the rule of determinates nor the principle of antinomy. It can be defined as follows:"
+      ],
+      "zh": [
+        "“互补性”既不是具体规定的规则，也不是二律背反原则。它可以定义如下："
+      ],
+      "units": 18
+    },
+    {
+      "id": "ch07-u038",
+      "source_ids": [
+        "ch07-u038"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A and B are complementary if"
+      ],
+      "zh": [
+        "若满足以下条件，则 A 与 B 是互补的："
+      ],
+      "units": 6
+    },
+    {
+      "id": "ch07-u039",
+      "source_ids": [
+        "ch07-u039"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. They are determinates, say A and B, each under a different determinable. For example exact position and exact momentum are determinates under different determinables, spatial location and the product of mass and velocity respectively.\n2. The conditions under which A can be realized preclude those under which B can be realized. For example, if an apparatus is set up to determine the exact location of a subatomic particle, it precludes setting up an apparatus at the same time and in the same place to determine the exact momentum of the particle."
+      ],
+      "zh": [
+        "1. 它们是分属两种可规定属性的具体规定，记作 A 和 B。例如，精确位置与精确动量分别是空间位置和质量与速度乘积这两种可规定属性下的具体规定。\n2. A 得以实现的条件排斥 B 得以实现的条件。例如，如果架设了一台仪器来测定亚原子粒子的精确位置，就排斥了同时同地架设另一台仪器来测定该粒子的精确动量。"
+      ],
+      "units": 92
+    },
+    {
+      "id": "ch07-u040",
+      "source_ids": [
+        "ch07-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Complementarity of predicates that cannot be ascribed together however, permits a common unified discourse, provided that predications are segregated with respect to conditions of display of the complementary attributes as they are ascribed to some common system. In this way a complete description of a being to which A and B type predicates are ascribable is possible."
+      ],
+      "zh": [
+        "然而，不能联合归属的谓词之间的互补性，仍允许一种共同的统一话语，条件是：在把互补属性归属于某个共同系统时，按照这些属性的显示条件把谓述隔离开来。这样，对一个可归属 A 型和 B 型谓词的存在者作出完整描述就是可能的。"
+      ],
+      "units": 57
+    },
+    {
+      "id": "ch07-u041",
+      "source_ids": [
+        "ch07-u041"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This account will need to be refined. It is not the attributes that are jointly ascribable, but rather the tendencies to manifest the attributes. The manifestations are actualizations of possibilities, to which probabilities can be assigned. The attributes are tendencies to display such manifestations in the relevant circumstances."
+      ],
+      "zh": [
+        "这个说明还需要细化。可联合归属的不是属性本身，而是显现这些属性的倾向。显现是可能性的实现，可以给这些可能性指派概率。属性则是在相关境况中显示此类显现的倾向。"
+      ],
+      "units": 48
+    },
+    {
+      "id": "ch07-u042",
+      "source_ids": [
+        "ch07-u042"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Two deep questions remain to be resolved. To what kind of beings can complementary predicates be ascribed? In the conditions under which fundamental predicates fall under the Principle of Complementarity what sort of explanatory concepts are permissible?"
+      ],
+      "zh": [
+        "还有两个深层问题有待解决。互补谓词可以归属于何种存在者？在基本谓词落入互补性原则的那些条件下，允许使用什么样的解释概念？"
+      ],
+      "units": 37
+    },
+    {
+      "id": "ch07-u043",
+      "source_ids": [
+        "ch07-u043"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A living brain affords electrical rhythms to an EEG machine and conscious experience to the person whose brain this is. The states of the brain are accessed through different media, so there is no logical conflict between predications according to each point of view. The concepts ‘beta wave’ and ‘conscious’ are complementary in the sense of Niels Bohr. The means of access under which a brain displays periodic electrical activity are incompatible with the means of access under which a brain displays thoughts, images, feelings and so on."
+      ],
+      "zh": [
+        "一个活的大脑向脑电图机提供电节律，向大脑所属的那个人提供意识经验。大脑的状态通过不同的媒介被通达，因此按每种视角作出的谓述之间没有逻辑冲突。“β波”和“有意识的”这两个概念在尼尔斯·玻尔的意义上是互补的。大脑借以显示周期性电活动的通达手段，与大脑借以显示思想、意象、感受等等的通达手段不相容。"
+      ],
+      "units": 88
+    },
+    {
+      "id": "ch07-u044",
+      "source_ids": [
+        "ch07-u044"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "On analysis concepts such as these appear to be relational. They are ascribable only to complex entities, ‘brain/EEG machine’ and ‘brain/person’. Since the phenomena to which the above concepts refer are segregated, ‘conscious’ cannot be ascribed to the complex being ‘brain/EEG machine’. There are no criteria for deciding whether such a predication is appropriate or not. Each of these complex entities is logically independent of the other, though they share the same spatio-temporal location. People could report what they thinking, feeling, hearing and seeing, long before EEG recording was invented."
+      ],
+      "zh": [
+        "分析起来，这类概念似乎是关系性的。它们只能归属于复合实体：“大脑/脑电图机”和“大脑/人”。由于上述概念所指的现象是相互隔离的，“有意识的”不能归属于“大脑/脑电图机”这个复合存在者。没有任何判据可以裁定这样的谓述是否恰当。这两个复合实体在逻辑上彼此独立，尽管它们占据同一时空位置。早在脑电图记录发明之前，人们就能报告自己在想什么、感受什么、听到什么、看到什么。"
+      ],
+      "units": 93
+    },
+    {
+      "id": "ch07-u045",
+      "source_ids": [
+        "ch07-u045"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Each complex entity above can be characterized by a unique set of dispositions. However, the distinguishing dispositions, noting that the entities in question occupy the same spatio-temporal location, have a special character. The conditional clause refers to something available only to a human being. I follow James Gibson (1979) in calling this subclass of dispositions ‘affordances’. This suggests idioms such ‘A brain/EEG machine complex affords alpha, beta, delta, theta etc rhythms’."
+      ],
+      "zh": [
+        "上面每个复合实体都可以用一组独特的倾向来刻画。然而，考虑到所论实体占据同一时空位置，那些起区分作用的倾向具有一种特殊性质：其条件句所指的东西只有人才能获得。我跟随詹姆斯·吉布森（1979），把倾向的这个子类称为“可供性”。这就提示了这样的说法：“一个大脑/脑电图机复合体提供 α、β、δ、θ 等节律。”"
+      ],
+      "units": 72
+    },
+    {
+      "id": "ch07-u046",
+      "source_ids": [
+        "ch07-u046"
+      ],
+      "page": "155",
+      "canonical_kind": "heading",
+      "en": [
+        "2.3 Why Should We Adopt the Dispositions/Powers Ontology?"
+      ],
+      "zh": [
+        "2.3 我们为什么应当采纳倾向/力能本体论？"
+      ],
+      "type": "subheading",
+      "units": 10
+    },
+    {
+      "id": "ch07-u047",
+      "source_ids": [
+        "ch07-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Argument 1: These concepts are already in use in physics and chemistry in well- accepted forms for the transcendent parts of the sciences. Argument 2: By adopting this ontology the paradoxes that arise because of the weak- ness of empirical adequacy as a guide to theory choice can be made up. Argument 3: The standard pattern of scientific explanation by citation of unobserv- able causal processes is retained throughout the domain of physics and chemistry."
+      ],
+      "zh": [
+        "论证一：这些概念已经在物理学和化学中以公认的形式用于科学的超验部分。论证二：采纳这种本体论，可以化解因经验适当性作为理论选择指南的软弱性而产生的悖论。论证三：通过援引不可观察的因果过程来进行科学解释的标准模式，在整个物理学和化学领域得以保留。"
+      ],
+      "units": 75
+    },
+    {
+      "id": "ch07-u048",
+      "source_ids": [
+        "ch07-u048"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "All three arguments are based on local matters of fact about how science has and does proceed."
+      ],
+      "zh": [
+        "这三个论证都基于关于科学过去和现在如何进行的局部事实。"
+      ],
+      "units": 17
+    },
+    {
+      "id": "ch07-u049",
+      "source_ids": [
+        "ch07-u049"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Could we devise a transcendental argument to justify this choice of terminal kinds?"
+      ],
+      "zh": [
+        "我们能否设计一个先验论证，为这种终端者种类的选择作辩护？"
+      ],
+      "units": 13
+    },
+    {
+      "id": "ch07-u050",
+      "source_ids": [
+        "ch07-u050"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "However, we must first resolve the tension between DA and CA above."
+      ],
+      "zh": [
+        "不过，我们必须首先化解上面 AD（原文作 DA，疑为笔误）与 CA 之间的张力。"
+      ],
+      "units": 12
+    },
+    {
+      "id": "ch07-u051",
+      "source_ids": [
+        "ch07-u051"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Michael Faraday’s Arguments for CA or Fields as Terminals"
+      ],
+      "zh": [
+        "3 迈克尔·法拉第支持 CA（场作为终端者）的论证"
+      ],
+      "type": "subheading",
+      "units": 10
+    },
+    {
+      "id": "ch07-u052",
+      "source_ids": [
+        "ch07-u052"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "According to Roger Joseph Boscovich (1763) the world does not consist of extended material substances acting by contact, but of a sea of discrete point-centered powers of attraction and repulsion, in universal mutual interaction. Boscovichean metaphysics still requires atoms as a substantival ground, though ‘matter’ has given way to mutual forces as manifestations of the powers of point atoms. His account of solidity as a secondary quality in which the balance between attractive and repulsive forces is experientially manifested was echoed by Kant (1786). The surface of a solid body is the locus of all points at which the positive and negative forces are in equilibrium."
+      ],
+      "zh": [
+        "按照罗杰·约瑟夫·博斯科维奇（1763）的看法，世界不是由通过接触起作用的有广延的物质实体构成的，而是由一片离散的、以点为中心、具有吸引或排斥效力的力能之海构成的，它们处于普遍的相互作用之中。博斯科维奇式的形而上学仍然需要原子作为实体性的基底，尽管“物质”已让位于相互的力，作为点原子之力能的显现。他把固体性说明为一种第二性质——吸引力和排斥力之间的平衡在其中得到经验上的显现——这一说法得到了康德（1786）的呼应。固体物体的表面就是正负力达到平衡的所有点的集合。"
+      ],
+      "units": 106
+    },
+    {
+      "id": "ch07-u053",
+      "source_ids": [
+        "ch07-u053"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Faraday’s final version of a general metaphysics for natural science needs to be carefully distinguished from that of Boscovich. Faraday had gradually come to believe that only powers were real. Though he was none too careful in keeping the necessary distinction between ‘forces’ as the activity of powers, from the powers themselves, and sometimes uses the word ‘force’ when he clearly means ‘power’, his formulation of the field metaphysics is complete, except for the lack of a mathematical representation (Berkson, 1974)."
+      ],
+      "zh": [
+        "法拉第为自然科学提出的通用形而上学的最终版本，需要与博斯科维奇的版本仔细区分开来。法拉第逐渐相信只有力能才是实在的。尽管他在保持必要的区分——作为力能之活动的“力”与力能本身之间的区分——方面并不十分小心，有时明明指“力能”却用“力”这个词，但他对场形而上学的表述是完整的，只是缺少数学表示（Berkson, 1974）。"
+      ],
+      "units": 81
+    },
+    {
+      "id": "ch07-u054",
+      "source_ids": [
+        "ch07-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Faraday’s introduction of the ‘field’ concept into the metaphysics of electromagnetism, revived ideas popular in the late sixteenth century. William Gilbert (1600) introduced a concept of the magnetic field that is essentially modern. Every magnetic body is surrounded by an orbis virtutis, a sphere of power differently disposed at each point. A compass needle orients to the intrinsic directionality of the orbis at each point. Indeed, Gilbert believed he had shown experimentally that the behaviour of a compass needle could not be explained in terms of the attraction and repulsion between poles."
+      ],
+      "zh": [
+        "法拉第把“场”概念引入电磁学的形而上学，复活了十六世纪末流行的观念。威廉·吉尔伯特（1600）引入了一个本质上是现代的磁场概念。每个磁性物体都被一个 orbis virtutis（力之球域）所环绕，这是一个在每一点上有不同配置的力能球域。罗盘针在每一点上都顺着该球域的内在方向性取向。事实上，吉尔伯特相信他已经用实验表明，罗盘针的行为不能用磁极之间的吸引和排斥来解释。"
+      ],
+      "units": 92
+    },
+    {
+      "id": "ch07-u055",
+      "source_ids": [
+        "ch07-u055"
+      ],
+      "page": "156",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The culmination of Faraday’s theoretical-cum-metaphysical reflections was the paper ‘On the Physical Character of the Lines of Force’ Experimental Researches, section 3244 (1839–1855). Faraday had two main arguments to show that his ‘lines of force’ as continuous curvilinear distributions of powers over a three-dimensional space must be the fundamental constituents of the universe."
+      ],
+      "zh": [
+        "法拉第理论兼形而上学思考的顶点，是论文《论力线的物理特性》，载《电学实验研究》第3244节（1839–1855）。法拉第有两个主要论证，用以表明他的“力线”——力能在三维空间中的连续曲线分布——必定是宇宙的基本构成者。"
+      ],
+      "units": 54
+    },
+    {
+      "id": "ch07-u056",
+      "source_ids": [
+        "ch07-u056"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Lines of force are inherently curved. If their curvature can be displayed by two independent methods of research, this argues for their reality. The alternative, that the curvature is a mere artifact of the method employed, seems to make the agreement of two independent methods too much of a coincidence. The curved lines appear in the effects of a magnet on iron filings spread on a sheet of paper. The second experiment depends on the law that a wire has a current induced in it only when it cuts a line of force. If the wire is moving along the direction of the line of force, no current will be induced in it. Lines can be traced out by following the path of null current. The lines arrived at by this method are also curved. Here is another and independent method of displaying the real curvatures of lines of force."
+      ],
+      "zh": [
+        "力线内在地是弯曲的。如果其曲率能用两种独立的研究方法显示出来，这就支持了它们的实在性。另一种可能——曲率只是所用方法的人为产物——似乎使两种独立方法的一致成了太大的巧合。弯曲的线出现在磁铁对撒在纸上的铁屑的作用效果中。第二个实验依据的是这样一条定律：导线只有在切割力线时才会感应出电流。如果导线沿力线方向运动，其中就不会感应出电流。沿着零电流的路径就可以描出这些线。用这种方法得到的线也是弯曲的。这是显示力线真实曲率的另一种独立方法。"
+      ],
+      "units": 150
+    },
+    {
+      "id": "ch07-u057",
+      "source_ids": [
+        "ch07-u057"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The physical reality of the lines of force is also demonstrated by the fact that when a current is flowing through a wire the magnetic field does not appear instantaneously, nor does it collapse immediately the current is turned off. Faraday drew an explicit parallel with the time dependent propagation of light."
+      ],
+      "zh": [
+        "力线的物理实在性还由以下事实所证明：当电流通过导线时，磁场不是瞬时出现的；电流一关断，磁场也不是立即消失的。法拉第明确地把它与光在时间中的传播作了类比。"
+      ],
+      "units": 52
+    },
+    {
+      "id": "ch07-u058",
+      "source_ids": [
+        "ch07-u058"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.1 The Dynamicist Metaphysics"
+      ],
+      "zh": [
+        "3.1 动力论的形而上学"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch07-u059",
+      "source_ids": [
+        "ch07-u059"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the dynamicist metaphysics three concepts are in play: dispositions (tendencies), forces and powers. The patterning of these concepts is something like this:"
+      ],
+      "zh": [
+        "在动力论的形而上学中有三个概念在起作用：倾向（趋向）、力和力能。这些概念的格局大致如下："
+      ],
+      "units": 23
+    },
+    {
+      "id": "ch07-u060",
+      "source_ids": [
+        "ch07-u060"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Powers are manifested in forces, and their possibilities of action in specific conditions are expressed as dispositions."
+      ],
+      "zh": [
+        "力能显现为力，而力能在特定条件下行动的可能性则表述为倾向。"
+      ],
+      "units": 17
+    },
+    {
+      "id": "ch07-u061",
+      "source_ids": [
+        "ch07-u061"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The simplest mathematical expression of a disposition is a vector. For example in kinematics a vector represents the counterfactual conditional: ‘this is the speed and direction a particle would have taken had it been released from constraint at that point’."
+      ],
+      "zh": [
+        "倾向的最简单数学表达式是矢量。例如在运动学中，一个矢量表示这样一个反事实条件句：“如果粒子在那一点上被解除约束，它就会具有这样的速度和方向。”"
+      ],
+      "units": 40
+    },
+    {
+      "id": "ch07-u062",
+      "source_ids": [
+        "ch07-u062"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A field is a spatial distribution of powers. Powers are manifested as forces, which would cause the phenomena described in the associated dispositions. Vector representation is a natural choice for representing powers. This the force and the direction in which it would act if the relevant releasing conditions were met. Powers are represented as force vectors and displayed in what ever observable effects these forces would have. So Faraday’s ‘lines of force’ should be interpreted as Newtonian fluxions, the locus of instantaneous force vectors modulating according to Maxwell’s Laws."
+      ],
+      "zh": [
+        "场是力能的空间分布。力能显现为力，力将引起相关倾向所描述的现象。矢量表示是表示力能的自然选择。它表示在有关释放条件得到满足时，力的大小和作用方向。力能被表示为力矢量，并显示在这些力将会产生的任何可观察效果中。因此，法拉第的“力线”应当被解释为牛顿式的流数，即由瞬时力矢量勾勒出的曲线，而这些矢量依麦克斯韦定律变化。"
+      ],
+      "units": 89
+    },
+    {
+      "id": "ch07-u063",
+      "source_ids": [
+        "ch07-u063"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.2 Finding a Transcendental Argument"
+      ],
+      "zh": [
+        "3.2 寻找一个先验论证"
+      ],
+      "type": "subheading",
+      "units": 6
+    },
+    {
+      "id": "ch07-u064",
+      "source_ids": [
+        "ch07-u064"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Does this choice of metaphysics reveal a necessary condition for the possibility of physics? We note that both Discrete-Passive and Continuous-Passive are terminal formats for Descartes regress of motions to the creation. The efficacy of moving bodies is not intrinsic. It was ‘injected’ by God, who alone has originating powers."
+      ],
+      "zh": [
+        "这种形而上学选择是否揭示了物理学之可能性的一个必要条件？我们注意到，离散—被动和连续—被动都是笛卡尔把运动回溯到创世的那种回溯的终端格式。运动物体的效力不是内在的。它是由上帝“注入”的，唯有上帝拥有原发的力能。"
+      ],
+      "units": 50
+    },
+    {
+      "id": "ch07-u065",
+      "source_ids": [
+        "ch07-u065"
+      ],
+      "page": "157",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Causal efficacy is displayed by something when removing an inhibition allows a pre-existing activity (potential) to be realized, somehow. It seems that so far either Corpuscularian or Dynamicist metaphysics could serve as the grounding of physics. Neither could claim to express the totality of necessary conditions for the possibility of a rational science of the material world."
+      ],
+      "zh": [
+        "当解除某种抑制使得一个先在的活动（潜能）得以实现时，某物就显示出因果效力。看来，到目前为止，微粒论形而上学和动力论形而上学都可以充当物理学的基底。两者都不能声称表达了关于物质世界的理性科学之可能性的必要条件的全体。"
+      ],
+      "units": 57
+    },
+    {
+      "id": "ch07-u066",
+      "source_ids": [
+        "ch07-u066"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "However, there is an opening for a stronger argument. Events cannot be terminals, that is regresses cannot reach a sea of events as the fundamental constituents of the world. Since events are logically distinct no event could be the effective cause of another. Events are always actual. They do not pre-exist the conditions which release the forces which brings about the changes which constitute events. Since no event can pre-exist its coming to be, so no event could have potentiality. At best, the releasing of a tendency or power could be an event. The released power cannot be an event, since it is presumed to exist before the event that led to its release. The only remaining possibility left from the general scheme set out above is Discrete Active or Continuous Active, that is either powerful particulars or Faradayan fields."
+      ],
+      "zh": [
+        "然而，有一个通向更强论证的缺口。事件不能是终端者，也就是说，回溯不能抵达一片作为世界基本构成者的事件之海。由于事件在逻辑上彼此分立，没有事件能凭自身的效力使另一事件发生。事件总是现实的。它们并不先于那些释放力的条件而存在——正是这些力引起构成事件的变化。既然没有事件能先于其生成而存在，也就没有事件能具有潜在性。充其量，倾向或力能的释放可以是一个事件。被释放的力能不可能是一个事件，因为它被假定先于导致其释放的那个事件而存在。从上面给出的一般图式中剩下的唯一可能，就是离散—主动或连续—主动，即要么是有力能的殊相，要么是法拉第式的场。"
+      ],
+      "units": 140
+    },
+    {
+      "id": "ch07-u067",
+      "source_ids": [
+        "ch07-u067"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "So much for the transcendental domain of classical physics. Can anything similar be developed for the world as it is described by Schrödinger’s Equation? Is there a ‘causal powers’ metaphysics implicit in quantum physics too?"
+      ],
+      "zh": [
+        "经典物理学的先验领域就谈到这里。对于薛定谔方程所描述的世界，能否发展出类似的东西？量子物理学中是否也隐含一种“因果力能”形而上学？"
+      ],
+      "units": 35
+    },
+    {
+      "id": "ch07-u068",
+      "source_ids": [
+        "ch07-u068"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The first point to be noticed is that Schrödinger’s Equation distributes possibilities in time as well as space. Electrons, dispatched one at a time through a small hole, slowly fill out the expected distribution for a diffracted wave. The possibilities represented in solutions to the equation are realized over time."
+      ],
+      "zh": [
+        "首先要注意到的一点是：薛定谔方程不仅在空间中而且在时间中分布可能性。电子一个个地穿过小孔发射出去，所积累的探测结果逐渐呈现预期的衍射波分布。方程的解所表示的可能性是随时间实现的。"
+      ],
+      "units": 50
+    },
+    {
+      "id": "ch07-u069",
+      "source_ids": [
+        "ch07-u069"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "However, Bitbol (1996) and Humphreys (1997) have drawn attention to Schrödinger’s interpretation of ‘quantum entanglements’. According to this interpretation at the level of subatomic behaviour any form of corpuscularianism is untenable (Schrödinger, 1995, pp. 9–36). The reason is simply that there no place among the ‘terminals’, that is among the fundamental constituents of the deepest level of the common regress of physics, for entities individuated at specific locations in space and time, or by a definite trajectory as if of a corpuscle. Schrödinger argued for a continuous manifold, particularly for the case where a whole system is in a pure state, that is fully specified by a Schrödinger Equation, but that the ‘states’ of what we take to be its component parts depend on one another, that is are ‘entangled’. Humphrey is right to treat such systems as emergent wholes. This in turn must rest on a Bohrian account of the practice of experimentation."
+      ],
+      "zh": [
+        "然而，比托尔（1996）和汉弗莱斯（1997）提请注意薛定谔对“量子纠缠”的解释。按照这种解释，在亚原子行为的层面上，任何形式的微粒论都站不住脚（Schrödinger, 1995, pp. 9–36）。理由很简单：在“终端者”中间，也就是在物理学共同回溯最深层面的基本构成者中间，没有位置留给在特定时空位置上个体化的、或凭一条仿佛微粒的确定轨迹而个体化的实体。薛定谔主张一个连续流形，特别是在整个系统处于纯态——即由一个薛定谔方程完全规定——的情形下，而我们视为其组成部分的那些东西的“状态”却彼此依赖，也就是“纠缠”在一起。汉弗莱斯把这类系统当作涌现的整体来处理，是对的。这反过来又必须建立在玻尔式的实验实践说明之上。"
+      ],
+      "units": 155
+    },
+    {
+      "id": "ch07-u070",
+      "source_ids": [
+        "ch07-u070"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Bohr’s analysis of experiments involves the principle that apparatus and the world cannot be separated with respect to the results of a program of experimentation (Bohr, 1958). The phenomena are attributes of an artificial entity, the complex unity formed by the fusion of apparatus and world in the practice of experimentation. It follows that none of the attributes of such phenomena can be projected back on to the world. There are no electrons in the world in the absence of suitable apparatus to bring them into distinctive being. Properties can be ascribed only to apparatus/ world complexes. So while electron trajectories are attributes of cloud chambers, the world/cloud chamber complex can be ascribed no more than a propensity to afford trajectories in cloud chambers. In the absence of all apparatus, the world has no properties that we could recognize. The complex affords that which is realized in a piece of apparatus, as a definite state or perhaps even a corpuscle."
+      ],
+      "zh": [
+        "玻尔对实验的分析包含这样一条原则：就一个实验方案的结果而言，仪器与世界不可分离（Bohr, 1958）。现象是一个人工实体的属性，这个实体就是实验实践中仪器与世界融合而成的复合统一体。由此可知，此类现象的任何属性都不能被投射回世界本身。在没有合适仪器使电子获得独特存在的情况下，世界中没有电子。属性只能归属于仪器/世界复合体。因此，虽然电子径迹是云室的属性，但世界/云室复合体所能被归属的，不过是在云室中提供径迹的一种倾向性。在没有任何仪器的情况下，世界没有我们能识别的属性。复合体提供的是在一件仪器中实现的东西——作为一个确定状态，或许甚至作为一个微粒。"
+      ],
+      "units": 161
+    },
+    {
+      "id": "ch07-u072",
+      "source_ids": [
+        "ch07-u072"
+      ],
+      "page": "158",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is a short step to a new post neo-Kantian transcendental deduction. What are the necessary conditions that an experiment should be possible? That the apparatus/world complex currently in use should afford observable phenomena to those who use it and perhaps to others too. The world of phenomena is largely corpuscularian, while the world of the noumena, the unobservable ground of being, must be a continuous field of potencies, powers coupled with potentialities. The world consists of causal powers. Our apparatus and we ourselves can realize only affordances (Gibson, 1979)."
+      ],
+      "zh": [
+        "由此迈向一种新的后新康德主义先验演绎只有一小步。一个实验之所以可能的必要条件是什么？就是当前使用的仪器/世界复合体应当为其使用者、或许也为其他人提供可观察的现象。现象世界在很大程度上是微粒论的，而本体界——不可观察的存在根据——必定是一个潜能的连续场，是与潜在性耦合的力能。世界由因果力能构成。我们的仪器和我们自己只能实现可供性（Gibson, 1979）。"
+      ],
+      "units": 91
+    },
+    {
+      "id": "ch07-u074",
+      "source_ids": [
+        "ch07-u074"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Conclusion"
+      ],
+      "zh": [
+        "4 结论"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch07-u073",
+      "source_ids": [
+        "ch07-u073"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Bitbol and Humphreys treatment of Schrödinger’s philosophy of physics goes a long way to resolving some of the ontological puzzles of quantum mechanics, but it does not go far enough. Schrödinger’s Equation represents the affordances of various apparatus/world complexes, including, of course those formed by the interaction of the nervous systems of human beings with the world. Just as the world as it manifests in the behaviour of scientific instruments manifests itself more or less in terms of the Kantian categories, so too does the world as manifests itself to people. The world as we know it is emergent from the world as it is. The concept of an ‘affordance’ allows us to carry the insights of Kant’s account of the natural sciences to experience in general. Cloud chambers afford tracks, which are themselves affordances for human beings constituted in certain way."
+      ],
+      "zh": [
+        "比托尔和汉弗莱斯对薛定谔物理哲学的处理，在很大程度上解决了量子力学的一些本体论难题，但走得还不够远。薛定谔方程表示的是各种仪器/世界复合体的可供性，当然也包括由人的神经系统与世界的相互作用构成的那些复合体。正如世界在科学仪器行为中的显现在很大程度上按康德范畴呈现自身，世界向人的显现也是如此。我们所知的世界是从如其所是的世界中涌现出来的。“可供性”概念使我们能把康德关于自然科学的说明中的洞见推广到一般经验。云室提供径迹，而径迹本身又是为以某种方式构成的人所提供的可供性。"
+      ],
+      "units": 143
+    },
+    {
+      "id": "ch07-u071",
+      "source_ids": [
+        "ch07-u071"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch07-bibliography-001",
+      "source_ids": [
+        "ch07-ref004",
+        "ch07-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Berkson, W. (1974) Fields of Force: The Development of a World View from Faraday to Einstein. London: Routledge & Kegan Paul."
+      ],
+      "zh": [
+        "Berkson, W. (1974) Fields of Force: The Development of a World View from Faraday to Einstein. London: Routledge & Kegan Paul."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch07-bibliography-002",
+      "source_ids": [
+        "ch07-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bitbol, M. (1996) Schrödinger’s Philosophy of Quantum Mechanics. London: Kluwer."
+      ],
+      "zh": [
+        "Bitbol, M. (1996) Schrödinger’s Philosophy of Quantum Mechanics. London: Kluwer."
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch07-bibliography-003",
+      "source_ids": [
+        "ch07-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N. (1958) Atomic Physics and Human Knowledge. New York: Wiley."
+      ],
+      "zh": [
+        "Bohr, N. (1958) Atomic Physics and Human Knowledge. New York: Wiley."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch07-bibliography-004",
+      "source_ids": [
+        "ch07-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Boscovich, R. J. (1763) [1966] A Theory of Natural Philosophy. Cambridge, MA: MIT Press."
+      ],
+      "zh": [
+        "Boscovich, R. J. (1763) [1966] A Theory of Natural Philosophy. Cambridge, MA: MIT Press."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch07-bibliography-005",
+      "source_ids": [
+        "ch07-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Brock, S. (2003) Niels Bohr’s Philosophy of Quantum Physics. Berlin: Logos."
+      ],
+      "zh": [
+        "Brock, S. (2003) Niels Bohr’s Philosophy of Quantum Physics. Berlin: Logos."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch07-bibliography-006",
+      "source_ids": [
+        "ch07-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bruner, J. S. (1983) In Search of Mind. New York: Harper & Row."
+      ],
+      "zh": [
+        "Bruner, J. S. (1983) In Search of Mind. New York: Harper & Row."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch07-bibliography-007",
+      "source_ids": [
+        "ch07-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Gibson, J. J. (1979) The Ecological Approach to Visual Perception. New York: Houghton Miflin."
+      ],
+      "zh": [
+        "Gibson, J. J. (1979) The Ecological Approach to Visual Perception. New York: Houghton Miflin."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch07-bibliography-008",
+      "source_ids": [
+        "ch07-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Humphreys, P. (1997) ‘How properties emerge’ Philosophy of Science 64, 1–17."
+      ],
+      "zh": [
+        "Humphreys, P. (1997) ‘How properties emerge’ Philosophy of Science 64, 1–17."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch07-bibliography-009",
+      "source_ids": [
+        "ch07-ref005",
+        "ch07-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I. (1786) [2002] Metaphysical Foundations of Natural Science. Trans. M. Friedman, in: Theoretical Philosophy after 1781, H. Allison, R. Brandt, P. Guyer, R. Meerbote, C. D. Parsons, H. Robinson, J. B. Schneewind, A. W. Wood (eds.), The Cambridge Edition of the Works of Immanuel Kant in Translation. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Kant, I. (1786) [2002] Metaphysical Foundations of Natural Science. Trans. M. Friedman, in: Theoretical Philosophy after 1781, H. Allison, R. Brandt, P. Guyer, R. Meerbote, C. D. Parsons, H. Robinson, J. B. Schneewind, A. W. Wood (eds.), The Cambridge Edition of the Works of Immanuel Kant in Translation. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 52
+    },
+    {
+      "id": "ch07-bibliography-010",
+      "source_ids": [
+        "ch07-ref006",
+        "ch07-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I. (1787) [1999] Critique of Pure Reason. Edited by Paul Guyer & Allen W. Wood, in: H. Allison, R. Brandt, P. Guyer, R. Meerbote, C. D. Parsons, H. Robinson, J. B. Schneewind, A. W. Wood (eds.), The Cambridge Edition of the Works of Immanuel Kant in Translation. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Kant, I. (1787) [1999] Critique of Pure Reason. Edited by Paul Guyer & Allen W. Wood, in: H. Allison, R. Brandt, P. Guyer, R. Meerbote, C. D. Parsons, H. Robinson, J. B. Schneewind, A. W. Wood (eds.), The Cambridge Edition of the Works of Immanuel Kant in Translation. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 51
+    },
+    {
+      "id": "ch07-bibliography-011",
+      "source_ids": [
+        "ch07-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Michotte, A. (1963) The Perception of Causality. London: Methuen."
+      ],
+      "zh": [
+        "Michotte, A. (1963) The Perception of Causality. London: Methuen."
+      ],
+      "shared": true,
+      "units": 9
+    },
+    {
+      "id": "ch07-bibliography-012",
+      "source_ids": [
+        "ch07-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Polanyi, J. (1986) ‘Reaction dynamics’ Science 234, 673."
+      ],
+      "zh": [
+        "Polanyi, J. (1986) ‘Reaction dynamics’ Science 234, 673."
+      ],
+      "shared": true,
+      "units": 8
+    },
+    {
+      "id": "ch07-bibliography-013",
+      "source_ids": [
+        "ch07-ref007",
+        "ch07-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schrödinger, E. (1995) The Interpretation of Quantum Mechanics. M. Bitbol (Ed.) Woodbridge, CT: Oxbow Press."
+      ],
+      "zh": [
+        "Schrödinger, E. (1995) The Interpretation of Quantum Mechanics. M. Bitbol (Ed.) Woodbridge, CT: Oxbow Press."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch07-bibliography-014",
+      "source_ids": [
+        "ch07-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Wittgenstein, L. (1979) On Certainty. Trans D. Paul and G. E. M. Anscombe, Oxford: Blackwell."
+      ],
+      "zh": [
+        "Wittgenstein, L. (1979) On Certainty. Trans D. Paul and G. E. M. Anscombe, Oxford: Blackwell."
+      ],
+      "shared": true,
+      "units": 15
+    }
+  ],
+  "notes": {}
+}

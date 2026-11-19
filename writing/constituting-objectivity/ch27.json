@@ -1,0 +1,487 @@
+{
+  "id": "ch27",
+  "title": "一位物理学家如何理解康德",
+  "originalTitle": "A Physicist’s Approach to Kant",
+  "outline": [],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch27-u001",
+      "source_ids": [
+        "ch27-u001"
+      ],
+      "page": "481",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch27-u002",
+      "source_ids": [
+        "ch27-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Bernard d’Espagnat"
+      ],
+      "zh": [
+        "贝尔纳·德·埃斯帕尼亚"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch27-u003",
+      "source_ids": [
+        "ch27-u003"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract Since Kant’s time considerable developments in physics greatly modified the set of the conceivable world views that are compatible with what we factually know. And this, in turn, was bound to induce substantial changes as regards the relationship between Kantism and physics and the degree of compatibility of the former with the latter. The main changes are examined. As could be expected, it is found that several significant aspects of Kantism, including both arguments in its favor and consequences derived from it, cannot be kept in their original form. On the other hand it turns out that quantum physics as well as the outcomes of recent physical experiments yield strong support to two of its most essential features, the ideality of space (or space-time as now we would preferably say) and the (correlated) fact that, far from being independently existing out there, phenomena are essentially representations in our mind."
+      ],
+      "zh": [
+        "摘要 自康德时代以来，物理学的长足发展极大地改变了我们能设想的、与已知事实相容的世界图景。而这反过来必然引起康德主义与物理学之间关系、以及前者与后者相容程度的重大变化。本文考察这些主要变化。不出所料，我们发现康德主义的若干重要方面——包括支持它的论证和由它导出的结论——无法以其原初形式保留。另一方面，结果表明，量子物理学以及近期物理实验的成果，为康德主义两个最本质的特征提供了有力支持：空间（或按我们现在更愿意说的，时空）的观念性，以及（与之相关的）如下事实：显象远非独立存在于外部，而本质上是我们心灵中的表象。"
+      ],
+      "units": 150
+    },
+    {
+      "id": "ch27-u004",
+      "source_ids": [
+        "ch27-u004"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "B. d’Espagnat Académie des Sciences morales et politiques, 23 Quai Conti, 75006 Paris"
+      ],
+      "zh": [
+        "B. d’Espagnat Académie des Sciences morales et politiques, 23 Quai Conti, 75006 Paris"
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch27-u005",
+      "source_ids": [
+        "ch27-u005"
+      ],
+      "page": "482",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Why is it that women sitting at a tea table all see a teapot standing on it and that later, if asked, all of them agree that they then saw one? Upholders of various philosophical doctrines do not all give the same answer to this question. Adepts of “transcendental realism” (to use Kant’s terminology) – that is, “men-in-the-street”, the overwhelming majority of scientists and you and I when we do not philosophize – just simply answer: “because a teapot was really there, period”. Vienna Circle positivists and very strict neo-Kantians point out that the question is a metaphysical one and that metaphysical questions have no answer. As for Kantians, most of them, I guess, would at least agree with Schrödinger that the realist’s answer is flawed. Erwin Schrödinger was a very great physicist, one of the main founders of quantum mechanics. But at heart he was a philosopher, and in fact one of the very few philosophers who condescended to cast a look at this question, which may be termed “the intersubjective agreement puzzle”. His contention went as follows. He first noted that the realist’s answer obviously rests on the postulated similarity between the real world R and the mental picture each one of the participants (the involved women) has in her head. And he pointed out “Whoever thinks this way forgets that R is not observed.”",
+        {
+          "type": "note",
+          "id": "ch27-n01",
+          "label": "1"
+        },
+        " Of course, Schrödinger had there in mind the fact that to ask “why” is to ask for a cause and that, according to Kantism, causes operate only from phenomena to phenomena. It is true that, at some places Kant himself mentioned what he called the “transcendental object” and claimed that it is the ultimate cause of all that appears to us. But he mentioned it in the singular and immediately stated that this object is forever unknown from us; so, clearly, we are not supposed to identify the teapot with it."
+      ],
+      "zh": [
+        "为什么围坐在茶桌旁的女士们都看见桌上放着一把茶壶，而且后来若被问起，她们都一致说当时看见了？各种哲学学说的拥护者对这个问题给出的答案并不相同。“先验实在论”（借用康德的术语）的信奉者——也就是“普通人”、绝大多数科学家、以及不做哲学思考时的你和我——干脆回答：“因为茶壶真的在那里，就这样。”维也纳学圈的实证主义者和非常严格的新康德主义者则指出，这是一个形而上学问题，而形而上学问题没有答案。至于康德主义者，我猜他们大多数人至少会同意薛定谔的看法：实在论者的回答有缺陷。埃尔温·薛定谔是一位非常伟大的物理学家，量子力学的主要奠基人之一。但他骨子里是一位哲学家，而且实际上是极少数肯费心看一眼这个问题的哲学家之一——这个问题可以称为“主体间一致之谜”。他的论点如下。他首先注意到，实在论者的回答显然依赖于一个设定：实在世界 R 与每个参与者（在场的女士们）头脑中的心理图像相似。他指出：“凡是这样想的人都忘了，R 并不是被观察到的。”",
+        {
+          "type": "note",
+          "id": "ch27-n01",
+          "label": "1"
+        },
+        " 当然，薛定谔这里想到的是：问“为什么”就是问原因，而按康德主义，原因只在显象与显象之间起作用。诚然，康德本人在某些地方提到他所谓的“先验对象”，并声称它是一切向我们显现之物的终极原因。但他用的是单数，并且随即声明这个对象永远不为我们所知；所以显然我们不应把茶壶等同于它。"
+      ],
+      "units": 316
+    },
+    {
+      "id": "ch27-u006",
+      "source_ids": [
+        "ch27-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A closely related difficulty that readers of Kant have to cope with concerns Kant’s theory of the ideality of space. Indeed, while, as a rule, philosophers take this notion to be hardly objectionable (they got accustomed to it to the extent that, not unfrequently, they just forget to mention it when they report on Kantism) most scientists and scientifically oriented people are utterly taken aback by it. “How that – they ask. – Is the distance between us and Sirius, or the fact that Great Britain is an island, just a representation in our heads? In a sense – they grant after reading Berkeley – maybe it is. After all, we are unable to prove it isn’t. But then – they say, falling back on the teapot riddle – how is it that we all agree about contingent facts such as these ones?”. The most inquiring among them turn to Transcendental aesthetics in the hope of finding a clue, but it cannot be said that they find one matching their thirst. True, they read there that space is “pure intuition”, that is, pure form; and that the form of the phenomena – what orders them according to given relationships – is something fully general, a priori present in our mind and ready to apply to any phenomenon in particular. They go so far as to grant that, in a way, this might explain that all of us have, or seem to have, the same general spatial notions. That we understand one another when we speak of circles and triangles. But they fail to grasp in what way it explains that we all agree about our seeing, or not seeing, a teapot on a table. Whereas, of course, if space and objects are considered existing as they are, quite independently of the existence of the human minds, and are knowable by us, the explanation is obvious: we see a teapot there just because a teapot is there."
+      ],
+      "zh": [
+        "康德读者必须应对的一个密切相关的困难，涉及康德的空间观念性理论。的确，哲学家们通常觉得这个观念几乎无可非议（他们已经习惯到这种程度，以至于在介绍康德主义时常常干脆忘了提它），而大多数科学家和具有科学倾向的人却对它大为愕然。“怎么——他们问——我们到天狼星的距离，或者大不列颠是个岛这个事实，难道只是我们头脑中的表象？在某种意义上——他们读过贝克莱之后让步说——也许是的。毕竟我们无法证明它不是。可是——他们退回到茶壶之谜说——我们怎么会对这类偶然事实达成一致呢？”他们中最爱刨根问底的人转向先验感性论希望找到线索，但不能说他们找到了解渴的答案。诚然，他们在那里读到：空间是“纯直观”，即纯形式；显象的形式——即按给定关系安排显象的东西——是某种完全普遍的东西，先天地存在于我们心灵中，随时可应用于任何具体显象。他们甚至让步说，这在某种意义上也许能解释为什么我们都有、或似乎都有相同的普遍空间观念，为什么我们谈到圆和三角形时彼此理解。但他们无法领会这如何解释我们都一致看见或没看见桌上有一把茶壶。而当然，如果把空间和对象看作如其所是地存在、完全独立于人类心灵的存在、并且可为我们所知，解释就显而易见了：我们看见那里有一把茶壶，恰恰因为那里有一把茶壶。"
+      ],
+      "units": 318
+    },
+    {
+      "id": "ch27-u007",
+      "source_ids": [
+        "ch27-u007"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Since this “intersubjective agreement riddle” reveals an aspect of Kantianism that makes physicists uneasy it may constitute a good starting point for entering the “Kant and the physicists” dialectic. In fact, Kant himself seems to have considered the problem nonexistent; I mean, he, apparently, took its solution to be trivial to the extent of not even calling for any explicit examination. If we try to, nevertheless, find out by ourselves his reason for this attitude we may conjecture that, after all, it still was, somehow but implicitly, linked to his notion of a “transcendental object” considered to be the “purely intelligible” cause of phenomena in general. We may remark however that for an explanation along such lines to really hold good concerning contingent facts it is necessary that (contrary, as it seems, to some of Kant’s own assertions) these contingent facts should have some sort of one-to-one correspondence with features within the transcendental object."
+      ],
+      "zh": [
+        "既然这个“主体间一致之谜”揭示了康德主义令物理学家不安的一个方面，它也许可以构成进入“康德与物理学家”辩证关系的一个好起点。事实上，康德本人似乎认为这个问题不存在；我是说，他显然认为它的解答平凡得不值得任何明确的考察。如果我们仍想自己找出他持这种态度的理由，我们可以推测：毕竟它仍以某种隐含的方式与他那个“先验对象”观念相联系——该对象被视为一般显象的“只能由理智思考”的原因。不过我们可以指出，要使沿这种思路的解释对偶然事实真正成立，就必须（似乎与康德本人的某些断言相反）让这些偶然事实与先验对象内部的特征有某种一一对应。"
+      ],
+      "units": 154
+    },
+    {
+      "id": "ch27-u008",
+      "source_ids": [
+        "ch27-u008"
+      ],
+      "page": "483",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I mean: for both you and I to have the impression that the table and the teapot are roughly at the same place it seems necessary that the transcendental object (alias: reality per se) should itself be endowed with some sort of contingent features that, even though not imbedded in space–time and not knowable, still are the causes of our contingent perceptions."
+      ],
+      "zh": [
+        "我是说：要让你和我都觉得桌子和茶壶大致在同一位置，似乎必须先验对象（也就是实在本身）本身具有某种偶然特征，这些特征虽然不嵌入时空、也不可知，却仍是我们偶然知觉的原因。"
+      ],
+      "units": 63
+    },
+    {
+      "id": "ch27-u009",
+      "source_ids": [
+        "ch27-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In theory such an idea is, at least, tenable, in the sense that it is not at variance with any law of logic. At first sight however, as an explanation of the intersubjective agreement it looks far fetched and, what is worse, hopelessly vague. It is understandable that many classical physicists preferred the above-stated simple “realist” explanation: “we see them at the same place because they are at the same place”. I think therefore that if physics had just continued along the conceptual lines fixed up by Galileo, Newton, d’Alembert, Laplace and others, physicists, with but few exceptions, would have gone on considering space to be real rather than ideal and the notion we have of it to be an adequate one, faithfully mirroring reality as it really is."
+      ],
+      "zh": [
+        "理论上这种想法至少是站得住的，即它不违反任何逻辑规律。但乍看之下，作为对主体间一致的解释，它显得牵强，而且更糟的是，无可救药地含糊。可以理解，许多经典物理学家更喜欢上面陈述的那个简单的“实在论”解释：“我们看见它们在同一位置，因为它们就在同一位置。”因此我认为，如果物理学只是沿着伽利略、牛顿、达朗贝尔、拉普拉斯等人确立的概念路线继续走下去，物理学家除了少数例外，会继续认为空间是实在的而非观念的，认为我们关于空间的观念是恰当的，忠实地反映着实在如其所是的样子。"
+      ],
+      "units": 129
+    },
+    {
+      "id": "ch27-u010",
+      "source_ids": [
+        "ch27-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The reason why they could rationally have taken up this standpoint notwithstanding Kant’s objections to it becomes even clearer when we consider in detail the nature of the said objections. Indeed, concerning space Kant’s argument went as follows. For me to be able – he pointed out – to refer my sensations to something external to me (that is, something situated at some place other than where I am); and, correlatively, for me to be able to picture to myself the things as being “outside there” and lying next to one another, and hence as being, not only different but also situated at different places, it is necessary that I should already have some idea of space. Hence this idea cannot be experimentally derived from observed relationships between external phenomena. Now, the argument looks convincing enough but is it really? I consider that, at least to us, who are informed of the evolution of species, it is not, for it ignores the power living beings have of learning by apprenticeship. Clearly neural systems are able to “take notice” of which associations of small gestures and ideas have been useful and which proved inadequate, and progressively favor the first ones. We, who have good reasons (which, admittedly, Kant had not!) for believing in evolution, may we discard the assumption that a “real space” always existed, and that, within living beings, a similar process of trial and error gave rise to the progressive discovery of it? I mean: may we convincingly do so just by means of sound reasoning? As for me, I don’t think we can."
+      ],
+      "zh": [
+        "尽管康德反对，他们仍能理性地采取这一立场，当我们详细考察上述反对意见的性质时，其理由就更清楚了。的确，关于空间，康德的论证如下。他指出，要使我能够把我的感觉关联到我之外的某物（即位于我所在之处以外的某处的某物）；并且相应地，要使我能够把事物设想为“在外面那里”、彼此并列，因而不仅不同而且位于不同位置，就必须我已经有了某种空间观念。因此这个观念不可能从外部显象之间被观察到的关系中经验地导出。这个论证看起来足够令人信服，但它真的令人信服吗？我认为，至少对我们这些了解物种演化的人来说，并非如此，因为它忽略了生物在实践中学习的能力。神经系统显然能够“注意到”哪些小动作与观念的组合曾经有用、哪些被证明不恰当，并逐步偏好前者。我们这些有充分理由（诚然康德没有！）相信演化的人，难道可以抛弃这样的假设：一个“实在空间”始终存在，而在生物内部，类似的试错过程产生了对它的逐步发现？我是说：仅凭健全的推理，我们能令人信服地做到这一点吗？就我而言，我认为不能。"
+      ],
+      "units": 263
+    },
+    {
+      "id": "ch27-u011",
+      "source_ids": [
+        "ch27-u011"
+      ],
+      "page": "484",
+      "canonical_kind": "paragraph",
+      "en": [
+        "On the other hand, it is a fact that physics did not continue along the conceptual lines that had proved so fruitful during its first 2 centuries. New discoveries forced physicists to gradually weaken the rule Descartes had stated, according to which inanimated nature is to be ultimately described exclusively by means of the familiar concepts this author took to be innate. Admittedly, at first this evolution also seemed to speak against Kant’s standpoint. Indeed, the discovery of (special and general) relativity definitely showed that, contrary to one of Kant’s basic axiom, the a priori forms of human sensibility are not, at least concerning space and time, the right concepts with the help of which physics is to be constructed if it is to account for the observed data. But then quantum physics came into being and this changed very much the whole picture. Not, of course, that it restored Kantism in its original form. There could be no question of salvaging Euclidean space and Newtonian universal time as a priori – and therefore ultimate – framework elements of physics! But still, quantum mechanics sort of comforted Kant’s conceptions on such matters, in that it cast serious doubts, if not on the ultimate reality of space itself, at least on the pertinacy of the view that at any time, all the physical objects we are able to discourse on are, by themselves, at definite places in space. It is true that, by demonstrating the inappropriateness of the notion that light is an aether wave, relativity had, in a sense, already paved the way for this rejection, for it is only when waves are viewed as being the motion of some stuff (aether for example) that the idea of strict localization in space remains clear (localization being then attributed to each one of the elements of the said stuff). Being simultaneously present at an infinity of places, fields (electromagnetic and others) assumed to exist by themselves independently of any support obviously do not fall within this category. But, as we shall presently see, quantum mechanics strongly suggested going much farther along this line."
+      ],
+      "zh": [
+        "另一方面，事实是物理学并没有沿着在其最初两个世纪中被证明如此富有成效的概念路线继续走下去。新发现迫使物理学家逐步弱化笛卡尔陈述的规则：无生命的自然最终只能借助这位作者视为天赋的那些熟悉概念来描述。诚然，起初这一演变似乎也不利于康德的立场。的确，（狭义和广义）相对论的发现明确表明，与康德的一个基本公理相反，人类感性的先天形式——至少就空间和时间而言——并不是物理学若要说明观察数据就必须借以构造的正确概念。但随后量子物理学诞生了，这极大地改变了整个图景。当然，这并不是说它恢复了康德主义的原初形式。把欧几里得空间和牛顿的普适时间作为物理学的先天——因而终极——框架要素来拯救，是根本谈不上的！但量子力学还是在这类问题上在一定程度上支持了康德的构想，因为它提出了严重怀疑——如果不是怀疑空间本身的终极实在性，至少是怀疑这种观点的恰当性：在任何时刻，我们能够谈论的一切物理对象都自身处于空间中的确定位置。诚然，相对论通过证明光是以太波这一观念不恰当，在某种意义上已经为这种拒斥铺平了道路，因为只有当波被看作某种材料（例如以太）的运动时，严格空间定域的观念才保持清晰（定域性于是被归于该材料的每个元素）。若认为场（电磁场等）无须任何载体便可独立存在，它就在无穷多个地点同时有值，显然不属于这一类。但正如我们马上会看到的，量子力学强烈暗示沿这条路线走得更远得多。"
+      ],
+      "units": 350
+    },
+    {
+      "id": "ch27-u012",
+      "source_ids": [
+        "ch27-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The point is that in elementary quantum mechanics the wave function notion is the basic one, that when viewed as per se entities, one-particle wave functions are just as incompatible with locality as fields are (with the additional difficulty that measurements “reduce them at a distance”), and that the case of multiparticle wave functions is even worse since speaking of their value at a given point simply makes no sense. Unfortunately, for reasons that cannot be here entered into, more sophisticated descriptive tools that can be substituted to the wave function fare, in this respect, no better. And in fact it is not only on the notion of localized, per se existing objects that quantum mechanics throws discredit. In reality it does so concerning the general notion of individual such objects. It thereby forces clear-sighted quantum physicists to take up a position comparable to Kant’s one in that both he and they deny that we can gain genuine knowledge of what reality-per-se really is (this at least is true regarding the contingent aspects of Reality; the question concerning its law-like structures – known as the “structural realism” question – will be examined below)."
+      ],
+      "zh": [
+        "关键在于：在初等量子力学中，波函数观念是基本的；当被看作自身存在的实体时，单粒子波函数与场一样与定域性不相容（还多了一个困难：测量“在远处使它们坍缩”）；而多粒子波函数的情况更糟，因为谈论它们在给定点的值根本没有意义。不幸的是，由于这里无法展开的原因，可以替代波函数的更复杂的描述工具在这方面也好不到哪里去。而且事实上，量子力学使之丧失信用的不只是定域的、自身存在的对象这个观念。实际上，它也动摇了把这类对象视为一个个独立个体的观念。它由此迫使目光清晰的量子物理学家采取一种与康德相当的立场，因为他和他们否认我们能获得关于实在本身究竟如何的知识（这至少就实在的偶然方面而言是真的；关于其规律性结构的问题——即所谓“结构实在论”问题——将在下面考察）。"
+      ],
+      "units": 191
+    },
+    {
+      "id": "ch27-u013",
+      "source_ids": [
+        "ch27-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It may therefore be claimed that – on the basis of arguments grounded on physical data unknown in Kant’s time and radically differing from Kant’s purely philosophical ones – quantum mechanics sort of leads us towards a conception of the relationship between mind and the world that has rather striking similarities with the Kantian one and seems therefore to back it. And this impression is still reinforced when it is observed that in the process of doing so quantum physics happens to greatly alleviate the main difficulty we noted Kantianism met with (at least in the eyes of a physicist), namely the one of accounting for our intersubjective agreement concerning the (contingent) localization of an object."
+      ],
+      "zh": [
+        "因此可以声称——基于康德时代未知的物理数据、与康德纯粹哲学论证截然不同的论证——量子力学在某种意义上把我们引向一种关于心灵与世界关系的构想，它与康德的构想有相当惊人的相似之处，因而似乎支持它。而当人们注意到，在这个过程中，量子物理学恰好极大地缓解了我们指出的康德主义所遇到的主要困难（至少在物理学家眼中）——即说明为何不同主体会对某个对象落在何处这一偶然事实达成一致——时，这个印象还进一步加强。"
+      ],
+      "units": 114
+    },
+    {
+      "id": "ch27-u014",
+      "source_ids": [
+        "ch27-u014"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To see how this goes let us state again the difficulty in terms of the teapot example. If Alice is a conventional realist she judges that the teapot is really on the table and that Betty therefore also sees it there. Consequently she may predict that when they come to meet their memories of the event (the records, say, in their notebooks) will coincide. Whereas, on the contrary, if, along the line of Kantism, she does not believe the objects really exist “per se”, quite independently of us, she has no obvious reason to conjecture that also Betty sees a teapot on that table. Nothing therefore prompts her to make the prediction in question so that, when the two, later, compare their records the observation that they coincide must appear a fortuitous coincidence. And it then seems miraculous that such coincidences should take place over and over again."
+      ],
+      "zh": [
+        "要看出这是如何进行的，让我们用茶壶例子重新陈述这个困难。如果爱丽丝是一个传统的实在论者，她判断茶壶真的在桌上，因此贝蒂也在那里看见它。于是她可以预言，当她们见面时，她们对该事件的记忆（比如说她们笔记本里的记录）将一致。相反，如果她沿康德主义的路线不相信对象真的“自身”存在、完全独立于我们，她就没有明显的理由推测贝蒂也看见那桌上有一把茶壶。因此没有什么促使她作出上述预言，以至于当两人事后比较记录时，观察到记录一致必定显得是偶然的巧合。而这样的巧合竟然一再发生，就显得像是奇迹了。"
+      ],
+      "units": 148
+    },
+    {
+      "id": "ch27-u015",
+      "source_ids": [
+        "ch27-u015"
+      ],
+      "page": "485",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the foregoing I sketched a reasoning by means of which a Kantian might try to overcome such a difficulty but I also noted that it looks quite vague and artificial. It is therefore worthwhile to observe that in quantum physics the difficulty may be said to vanish, in the sense that the basic quantum laws do predict the intersubjective agreement in question. To show they do, let us imagine replacing the teapot by the pointer of a measuring instrument and assume this pointer may only take one out of two possible positions U and D; and assume further that Alice and Betty both look at this pointer after the instrument was made to interact with some quantum system initially prepared in one of the states the physicists call “quantum superpositions of the two eigenstates corresponding to U and D”. In such circumstances what Alice will see is not predetermined. The formalism just yields the probability for her to have the impression of seeing the pointer at, say, position U. Same of course concerning Betty. But the crucial point is that it yields a probability equal to zero for Alice to see it at U and Betty to see it at D, which indeed shows that intersubjective agreement holds good in this case. Note moreover the most significant point that to get this result there is no need to postulate that the pointer itself “is really” at some definite place independently of whether or not it is looked at. Indeed, the formalism even forbids that this postulate should be made. To repeat: it just yields the probabilities that, when observed, the pointer will be seen to lie either at one well-defined place or at another well-defined place. But in compensation, so to speak, it provides us, as we saw, with the certainty that Alice and Betty will both see the pointer lying at the same place. Admittedly, the difficulty Schrödinger pointed to is, thereby, removed only at the price of taking for granted the predictive laws of quantum mechanics, and some may judge that such predictive laws should, in turn, be somehow explained. On the other hand, everybody agrees that, to avoid infinite regress, the quest for explanation must be stopped at some stage, and it is commonly held that an explanation is valid if it is grounded on sufficiently general laws. Since the predictive quantum laws seem to be quite universal it may be considered that the condition is met and that, consequently, the above stated explanation is a genuine one as it stands. And, in fact, this conclusion is all the more gratifying as (contrary to what is the case in classical physics in which realist interpretations are straightforward) to interpret quantum physics as being a description of “what really exists out there quite independently of us” proves immensely difficult."
+      ],
+      "zh": [
+        "在上面我勾勒了一个康德主义者可能用来克服这种困难的推理，但我也指出它显得相当含糊和人为。因此值得注意到，在量子物理学中这个困难可以说消失了，意思是基本量子定律确实预言了上述主体间一致。为表明这一点，让我们想象把茶壶换成测量仪器的指针，并假设这个指针只能取两个可能位置 U 和 D 之一；再假设爱丽丝和贝蒂都在仪器与某个量子系统发生相互作用之后看这个指针，而该系统最初被制备在物理学家称为“对应于 U 和 D 的两个本征态的量子叠加”的态之一。在这种情况下，爱丽丝将看见什么并不是预先决定的。形式体系只给出她看到指针处于某个位置的概率，例如看到它位于 U 的概率。对贝蒂当然也一样。但关键的一点是：它给出爱丽丝看见它在 U 而贝蒂看见它在 D 的概率等于零，这确实表明主体间一致在这种情形下成立。还要注意最有意义的一点：要得到这个结果，不需要设定指针本身“真的”在某个确定位置，无论它是否被看。的确，形式体系甚至禁止作出这个设定。重复一遍：它只给出观察指针时在两个确定位置上分别看到它的概率。但作为补偿，可以说，它如我们所见地向我们提供了确定性：爱丽丝和贝蒂将都看见指针处于同一位置。诚然，薛定谔指出的困难由此被消除，代价是把量子力学的预言定律视为当然，而有些人可能认为这些预言定律反过来应当以某种方式得到解释。另一方面，大家都同意，为避免无穷倒退，解释的探求必须在某个阶段停下来，而且通常认为，一个解释若基于足够普遍的定律就是有效的。既然预言性量子定律似乎相当普遍，可以认为条件已满足，因而上述解释就其本身而言就是一个真正的解释。而且事实上，这个结论令人格外满意，因为（与经典物理学中实在论解释直截了当的情况相反）把量子物理学解释为对“完全独立于我们而真实存在于外部的东西”的描述，被证明极其困难。"
+      ],
+      "units": 472
+    },
+    {
+      "id": "ch27-u016",
+      "source_ids": [
+        "ch27-u016"
+      ],
+      "page": "486",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The latter point clearly speaks in favor of the idea that the perceived objects are not of the nature of objects per se, and this inference is further backed up by the, relatively recent, discovery of physical nonseparability. Thanks to the Bell theorem, physical nonseparability, alias nonlocality could be experimentally established, quite independently of the quantum mechanical axioms, and it shows that if events took place quite independently of any knowledge we have about them there should exist, between some of them, correlation effects that seem practically impossible to interpret otherwise than by assuming influences between them whose magnitude would be independent of the distance. Since this conclusion is at variance with relativity theory when the latter is also interpreted realistically – and since relativity theory is experimentally well established – we must therefore admit, very much in line with Kant’s views, that the perceived events – hence also the perceived objects – are but “for-us”. That they are products of an “objectivization process”."
+      ],
+      "zh": [
+        "后一点显然有利于这样的想法：被知觉的对象不具有自身对象的性质，而这个推论还得到相对较近的物理不可分离性发现的支持。借助贝尔定理，物理不可分离性，也称非定域性，得以独立于量子力学公理而被实验确立，它表明：如果事件的发生完全独立于我们关于它们的任何知识，那么其中某些事件之间应当存在关联效应，这些效应似乎实际上不可能以别的方式解释，只能假设它们之间存在大小与距离无关的影响。由于这个结论与相对论理论——当后者也被实在论地解释时——相冲突，而且相对论理论在实验上确立良好，我们必须因此承认——与康德的观点非常一致——被知觉的事件（因而还有被知觉的对象）只是“为我们”的。它们是“客观化过程”的产物。"
+      ],
+      "units": 160
+    },
+    {
+      "id": "ch27-u017",
+      "source_ids": [
+        "ch27-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Under these conditions it may at first sight look surprising that, when quantum mechanics first appeared, prominent philosophers and physicists who wrote on Kantism considered that this new theory struck a severe blow to the latter. Heisenberg, in particular, explained to his students that Kant’s approach had to be radically reconsidered. Cassirer expressed similar views. It is worthwhile to examine the reasons they had of judging that way."
+      ],
+      "zh": [
+        "在这种情况下，乍看之下也许令人惊讶：量子力学刚出现时，论述康德主义的著名哲学家和物理学家认为这个新理论给了后者沉重一击。特别是海森堡，向他的学生解释说康德的进路必须彻底重新考虑。卡西尔表达了类似观点。值得考察他们如此判断的理由。"
+      ],
+      "units": 68
+    },
+    {
+      "id": "ch27-u018",
+      "source_ids": [
+        "ch27-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The task is not very easy for, in the texts of such authors that are meant to enumerate which basic conceptions quantum mechanics forces us to give up, criticisms that do have a bearing on Kant’s views often happen to be intimately intermingled with ones that merely concern the classical approach. And, moreover, among those that were explicitly addressed to Kantism some were stated in very general terms, leaving room for ambiguity. On the whole, however, we may consider that the occurrence of all these, generally pertinent, reservations was due to the fact that, in parallel with his rejection of transcendental realism, Kant had built up what, apparently, he took to be a workable substitute to it: a substitute which, presumably, he thought would make it possible to discard radical, Berkeley-like, versions of idealism. However that may be, in the course of the nineteenth century most philosophers and apparently many of the scientists who cared to reflect on the nature of science had found this substitute conceptually reasonable and had adopted it (or, perhaps, reinvented it). In short, it amounted to alleviate the loss of transcendental realism by justifying the use of, at least, a universal objectivist language, a justification that, finally, enabled scientists and laymen alike to quietly think, argue, behave etc. as if transcendental realism were true. Now, as we shall presently check in detail, the advent of quantum mechanics did indeed strike severe blows to this Kantian construction, which of course justifies the reservations then expressed about it and Kantism in general."
+      ],
+      "zh": [
+        "这项任务并不容易，因为在这些作者旨在列举量子力学迫使我们放弃哪些基本构想的文本中，确实针对康德观点的批评常常与仅仅涉及经典进路的批评紧密交织。而且，在明确针对康德主义的那些批评中，有些是以非常一般的措辞陈述的，留下了歧义的空间。但总的来说，我们可以认为，所有这些一般说来中肯的保留意见之所以出现，是因为康德在拒斥先验实在论的同时，建立了他显然视为可行替代品的东西：他大概认为这个替代品可以使我们抛弃贝克莱式的激进观念论版本。无论如何，在十九世纪进程中，大多数哲学家、以及显然许多肯反思科学本性的科学家，都觉得这个替代品在概念上合理并采纳了它（或者也许是重新发明了它）。简言之，它等于通过证成至少有一种普遍适用的客观语言的使用来减轻失去先验实在论的损失，而这种证成最终使科学家和外行都能安然地思考、论证、行事等等，仿佛先验实在论是真的。而正如我们马上要详细核实的，量子力学的出现确实给了这个康德式构造沉重打击，这当然证成了当时对它以及一般康德主义表达的保留意见。"
+      ],
+      "units": 255
+    },
+    {
+      "id": "ch27-u019",
+      "source_ids": [
+        "ch27-u019"
+      ],
+      "page": "487",
+      "canonical_kind": "paragraph",
+      "en": [
+        "One such blow had to do with the combination of causality and space–time description with the help of which the universal objective language substituted to realism had been built up. Language refers to experience. It uses words, most of which designate concepts and, among them, abstract concepts such as substance and causality (called by Kant “categories”). And as for experience, it makes use of such notions as those of (directly or indirectly observable) events, which are intrinsically space–time localized. A universal objectivist language is therefore one in which the said concepts – among which, causality – are susceptible of being applied to everything that might conceivably be observed, that is, essentially, to all events. According to Kant, human imagination then applies them through the procedure that Kant called “schematism”. In particular, the scheme of causality consisted, he stated, in the succession of events in time inasmuch as this succession follows from a rule (as we know, Kant identified causality with Leibniz’ Principle of Sufficient Reason, that is, with determinism). Now, in quantum mechanics there is indeed a rule governing time evolution, and this rule is quite a strict, deterministic one. It is represented by the unitary evolution operator (in nonrelativistic quantum mechanics, by the, more familiar, time-dependent Schrödinger equation). But this rule does not bear on a succession of conceivably observable events. It merely yields – at any given time – the probabilities we have of observing such and such event were we to perform the appropriate manipulations. Moreover, the formal structure of quantum mechanics is such that even just to assume the existence of some (hitherto unknown) succession rule of the type that Kant had in mind is incompatible with it. This is probably what Cassirer meant when he wrote that schematism got finally limited by the advent of quantum mechanics as we may not any more combine causality and spatio-temporal description.",
+        {
+          "type": "note",
+          "id": "ch27-n02",
+          "label": "2"
+        },
+        " And, without explicitly referring to Kant, Bohr expressed similar views when, concerning complementarity, he explained that the latter concept entailed strict incompatibility between spatio-temporal description of phenomena and dynamical conservation laws."
+      ],
+      "zh": [
+        "其中一击涉及因果性与时空描述的结合——替代实在论的普遍客观语言正是借助这种结合建立起来的。语言指涉经验。它使用语词，其中大多数指称概念，其中包括实体和因果性这样的抽象概念（康德称之为“范畴”）。而就经验而言，它使用诸如（直接或间接可观察的）事件这样的观念，这些事件内在地在时空中定域。因此，普遍适用的客观语言具有如下特征：上述概念——其中包括因果性——可以应用于任何可设想被观察的东西，本质上即一切事件。按康德的说法，人类想象力于是通过他称为“图型法”的程序应用它们。具体地说，他陈述，因果性的图型在于遵循规则的事件时间序列（我们知道，康德把因果性等同于莱布尼茨的充足理由律，即决定论）。而在量子力学中确实有一条支配时间演化的规则，而且这条规则是相当严格的决定论规则。它由幺正演化算符表示（在非相对论量子力学中，由更熟悉的含时薛定谔方程表示）。但这条规则并不涉及可设想观察到的事件的相继。它只给出——在任何给定时刻——如果我们执行适当操作，观察到某某事件的概率。此外，量子力学的形式结构使得：哪怕只是假设存在某种（迄今未知的）康德所想类型的事件相继规则，也与它不相容。这大概就是卡西尔的意思，当他写道图型法最终因量子力学的出现而受到限制，因为我们不再能结合因果性与时空描述时。",
+        {
+          "type": "note",
+          "id": "ch27-n02",
+          "label": "2"
+        },
+        " 而玻尔虽然没有明确提到康德，也表达了类似观点：关于互补性，他解释说这个概念蕴涵显象的时空描述与动力学守恒定律之间的严格不相容。"
+      ],
+      "units": 342
+    },
+    {
+      "id": "ch27-u020",
+      "source_ids": [
+        "ch27-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The just reviewed incompatibility between quantum mechanics and Kantianism proper is not the only one in existence. In fact, another one was pointed out, at a rather early stage, in particular by Cassirer (loc.cit.). It differs from the former one in that it does not concern the impossibility of combining space–time description with causality but, more radically in a way, the impossibility of reconciling quantum mechanics, independently of causality problems, just simply with phenomenal space–time descriptions. Or at least with the type of space–time descriptions (involving positions and velocities) that, according to Kant, should in principle be possible. It has to do with what Kant called the “law of complete determination”. Any object, Kant stated (in the Critique of Pure Reason) is subject to this law, according to which: “If all possible predicates are taken together with their contradictory opposites then one of each pair of contradictory opposites must belong to it (the object)”. It is clear from his writings that Kant tightly linked this law with his notion of (empirical) reality. And the incompatibility alluded to consists in the fact that the said law is obviously at variance with Heisenberg’s uncertainty relationships. Incidentally, it is interesting to note that it is also inconsistent with the best known of the so-called “ontologically interpretable” models meant to reproduce the observable predictions from quantum mechanics, namely the one originally sketched by Louis de Broglie, later greatly developed by David Bohm and commonly known as “the Bohm model”. Or, at least, it is so as long as, in Kant’s spirit, we identify “predicate” with “what should, in principle, be measurable”. For, the momentum p of a particle is a predicate in this sense and still, in the model, it is in general not true, concerning some still unobserved particle, that its momentum p either has value a or has not value a. In fact, a statement of this type is correct concerning another physical quantity, π, which, in the model, possesses indeed all the features that, in classical physics, characterise momenta, but π is not observable."
+      ],
+      "zh": [
+        "刚刚考察的量子力学与本来意义上的康德主义之间的不相容并不是唯一存在的。事实上，另一个不相容在相当早的阶段就被指出了，特别是卡西尔（前引书）。它与前一个不同：它不涉及结合时空描述与因果性的不可能性，而是以某种更激进的方式涉及——独立于因果性问题——量子力学与显象的时空描述简单说来无法调和。或者至少与按康德说法原则上应当可能的那类时空描述（涉及位置和速度）无法调和。这与康德所谓的“完全规定律”有关。康德陈述（在《纯粹理性批判》中），任何对象都服从这条定律，按该定律：“如果把一切可能的谓词与其矛盾对立面一起考虑，那么每对矛盾对立面中必有一个属于它（对象）。”从他的著作可以清楚看出，康德把这条定律与他的（经验）实在性观念紧密联系起来。而上述不相容在于：该定律显然与海森堡的不确定性关系相冲突。顺便指出，有趣的是它也与所谓“可作本体论解释的”模型中最著名的一个不一致——这些模型旨在复现量子力学的可观察预言——即最初由路易·德布罗意勾勒、后来由大卫·玻姆大力发展、通常称为“玻姆模型”的那个。或者至少，只要我们按康德的精神把“谓词”等同于“原则上应当可测量的东西”，情况就是如此。因为粒子的动量 p 在这个意义上是一个谓词，然而在模型中，关于某个尚未被观察的粒子，一般不能说它的动量 ",
+        {
+          "type": "math",
+          "tex": "p",
+          "display": false
+        },
+        " 已经确定地等于 ",
+        {
+          "type": "math",
+          "tex": "a",
+          "display": false
+        },
+        " 或确定地不等于 ",
+        {
+          "type": "math",
+          "tex": "a",
+          "display": false
+        },
+        "。事实上，这类陈述对另一个物理量 ",
+        {
+          "type": "math",
+          "tex": "\\pi",
+          "display": false
+        },
+        " 则满足这种确定性。它在模型中具备经典物理学中动量的所有特征，却不可观察。"
+      ],
+      "units": 347
+    },
+    {
+      "id": "ch27-u021",
+      "source_ids": [
+        "ch27-u021"
+      ],
+      "page": "488",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Of course, “orthodox” Kantianism has to face other, better known, difficulties, that add to the two just explained ones. The one concerning relativity theory was already alluded to above. It does not just boil down to the necessity of substituting one concept to two other ones (space–time to both Euclidean space and universal time) a change that, from a philosophical point of view, might be considered inconsiderable. In fact the change in question is philosophically significant, essentially because it forces Kantianists to give up the most basic tenet of Transcendental Aesthetics, namely the principle that human knowledge about things must necessarily fit in the mould of the a priori forms of human sensibility. Another well known mismatch between Kantism and contemporary physics stems from the – above mentioned – fact that Kant believed in strict – that is, deterministic – causality whereas the basic quantum mechanical laws are intrinsically indeterminist. It remains true however that, even though they are quite serious, the two last difficulties, taken by themselves, could be overcome: The one about sensibility by substituting to the mould of human sensibility the mould of human understanding (as neo-Kantians did). And the one about determinism either by substituting – as a requirement – statistical determinism to strict determinism or by substituting the Bohm model (which is determinist) to conventional quantum mechanics. On the other hand, when a would-be Kantianist considers these difficulties together with the two first described ones, he/she may well feel worried. Clearly, this accounts for the feeling that, as above noted, many people had at the time: the feeling that the advent of quantum mechanics bore quite a severe blow to Kantism."
+      ],
+      "zh": [
+        "当然，“正统”康德主义还必须面对其他更为人熟知的困难，它们加在刚刚解释的两个之上。关于相对论理论的那个上面已经提到。它不只是归结为必须用一个概念替代另外两个（用时空替代欧几里得空间和普适时间）——从哲学观点看，这种变化也许被认为无足轻重。事实上，上述变化在哲学上是重要的，本质上因为它迫使康德主义者放弃先验感性论最基本的信条，即人类关于事物的知识必须必然纳入人类感性先天形式的模子这一原则。康德主义与当代物理学之间另一个著名的不匹配，来自上面提到的事实：康德相信严格的——即决定论的——因果性，而基本量子力学定律内在地是非决定论的。然而仍然成立的是：最后两个困难虽然相当严重，但就其本身而言是可以克服的：关于感性的那个，可以用人类知性的模子替代人类感性的模子（如新康德主义者所做的那样）；关于决定论的那个，可以或者用统计决定论替代严格决定论——作为要求——或者用玻姆模型（它是决定论的）替代传统量子力学。另一方面，当一个想成为康德主义者的人把这些困难与最初描述的两个一起考虑时，他/她很可能感到担忧。显然，这解释了上面提到的许多人在当时的感受：量子力学的出现给了康德主义相当沉重的一击。"
+      ],
+      "units": 272
+    },
+    {
+      "id": "ch27-u022",
+      "source_ids": [
+        "ch27-u022"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now then, when all is said and done what opinion should we have concerning the degree of matching or mismatch between Kantism and quantum theory? To try and answer this question we must remember that, at the time when this theory appeared, scientists and philosophers alike had realized that giving up all ontological prejudices, keeping very close to experiment and operationally definable notions, was by far the best procedure for generating reliable knowledge. At the same time however, classical physics had brilliantly developed and conveyed with it a world view implicitly but quite strongly centered on realism. And Kantism had been taken to offer an ingenious way of reconciling these two apparently somewhat opposite features by making it possible to go on reasoning in terms of objectivist realism while keeping quite radically away from ontology. In short, Kantism was essentially considered to be a conception tightly linked with classical physics and making the latter philosophically acceptable. When it became clear that classical physics utterly failed to account for such data as, for example, atomic spectra people immediately realized that in this respect its “Kantian” version fared no better than its naive “ontological” one. And this clearly is what explains the trouble that, as noted above, was expressed upon the advent of quantum mechanics by philosophers and physicists accustomed to the said “Kantian version”."
+      ],
+      "zh": [
+        "那么，说了这么多，关于康德主义与量子理论的匹配或不匹配程度，我们应当持什么看法？要尝试回答这个问题，我们必须记住：在这个理论出现时，科学家和哲学家都已认识到，放弃一切本体论偏见、紧贴实验和可操作定义的概念，是产生可靠知识的最佳程序。但与此同时，经典物理学已辉煌发展，并随之带来了一种隐含但相当强烈地以实在论为中心的世界图景。而康德主义被认为提供了一条巧妙的途径来调和这两个表面上有些对立的特征：它使人能够继续按客观主义实在论推理，同时又相当彻底地远离本体论。简言之，康德主义本质上被视为与经典物理学紧密联系、使后者在哲学上可接受的构想。当人们明白经典物理学完全无法说明原子光谱这类数据时，立刻认识到在这方面它的“康德式”版本并不比其天真的“本体论”版本更好。这显然解释了上面提到的、习惯于上述“康德式版本”的哲学家和物理学家在量子力学出现时表达的不安。"
+      ],
+      "units": 223
+    },
+    {
+      "id": "ch27-u023",
+      "source_ids": [
+        "ch27-u023"
+      ],
+      "page": "489",
+      "canonical_kind": "paragraph",
+      "en": [
+        "However, all this, now, is an old story. It is true that contemporary physics forces us to give up, or at least considerably weaken, schematism and drop the “complete determination” law, both of which were significant, although non central, elements of Kant’s thinking. But it more than compensates this blow by practically compelling us to adopt the idea that was, in fact, at the very core of Kantism and constitutes its truly original contribution to philosophical thinking, to wit, the view that things and events, far from being elements of a “reality per se”, are just phenomena, that is, elements of our experience."
+      ],
+      "zh": [
+        "然而这一切如今都是老故事了。诚然，当代物理学迫使我们放弃或至少大大弱化图型法，并抛弃“完全规定”律，这两者都是康德思想中重要但非核心的要素。但它对这个打击的补偿绰绰有余：它实际上迫使我们接受那个事实上处于康德主义最核心、构成其对哲学思维真正原创贡献的观念，即：事物和事件远非“实在本身”的要素，而只是显象，即我们经验的要素。"
+      ],
+      "units": 103
+    },
+    {
+      "id": "ch27-u024",
+      "source_ids": [
+        "ch27-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "We are therefore finally led, by arguments that are altogether different from those Kant used, to a conception that partakes of Kantism, not, admittedly, as regards details but concerning what, to anybody interested in the question of possible world views, appears as, by far, its most essential feature. Under these conditions it would of course be appropriate to investigate which other features of Kantism physics incites us to keep and which ones it suggests we should drop. However, it turns out that concerning them the indications from physics are far from being as compelling as those are that concern the above considered issue."
+      ],
+      "zh": [
+        "因此我们最终被与康德所用截然不同的论证引向一种与康德主义有共同基础的构想——诚然不是就细节而言，而是就对任何关心可能世界图景问题的人来说显得是其最本质特征的东西而言。在这种情况下，当然应当考察物理学促使我们保留康德主义的哪些其他特征、建议我们抛弃哪些。然而结果表明，关于这些，来自物理学的指示远不如关于上述问题的指示那样有强制力。"
+      ],
+      "units": 103
+    },
+    {
+      "id": "ch27-u025",
+      "source_ids": [
+        "ch27-u025"
+      ],
+      "page": "490",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hence, I shall just – and briefly – consider but one such question, merely touched upon above. It concerns the “reality-per-se” (or “thing-in itself”) concept and, more precisely, the question whether or not the said reality should be taken to have features. A reader of the Critique of Pure Reason may well have the feeling that Kant himself was not completely clear on the issue. True, in general, as noted above, he characterized “reality-per-se” (alias “the transcendental object”) as being fundamentally unique, which seems somehow to imply it has no features. But in the Preface to the Second Edition he explained that even though we cannot know the objects as things-in-themselves, still we can think of them as such (and he even pointed out that it is necessary for us to do so since otherwise we would get to the absurd conclusion that there are phenomena [or appearances] without there being anything that appears). Clearly at that place he mentioned the said objects in the plural, which seems to suggest that reality-in-itself has, after all, some sort of (admittedly unknowable) features, or structures. Now, to some scientifically oriented minds this idea looks attractive. The point is that all scientists are deeply convinced that what they find has to do with a deep reality of some sort. Of course, many of them realize that their findings cannot be interpreted as constituting faithful descriptions of what reality-per-se really is. And quantum physicists are especially aware of this fact since the basic quantum laws, far from being descriptive, are, when all is said and done, merely predictive of observations. But still, they strongly dislike the idea that such laws should be of exclusively human origin; that the whole content of science should finally boiled down to mere words. They feel that there must be some reason for the fact that the, most general, observational predictive laws of quantum physics, which apply to all sorts of domains, always yield correct predictions (even in cases in which these predictions seem to defy common sense!). Indeed, along these lines they might, at first sight, incline toward a form of structural realism according to which the great, mathematically expressed, physical laws – such as the Maxwell equations – faithfully describe structures of reality-per-se. However, what we saw above concerning nonlocality seems to imply that, then, relativity theory would be violated. Since it could be shown that nonlocality does not make it possible to send superluminal messages this most unwelcome consequence can – fortunately! – be avoided. But it is possible to do so only at the price of not considering Maxwell’s equations – and the great physical laws in general – to be faithful descriptions of “reality as it really is”. Hence I think structural realism should be substituted with a conception according to which, even though reality-per-se is still structured, its structures are not knowable as they really are. They act as hidden sources of the physical laws we know."
+      ],
+      "zh": [
+        "因此我将只——简要地——考虑一个上面仅触及的问题。它涉及“实在本身”（或“自在之物”）概念，更准确地说，涉及是否应当认为该实在具有特征的问题。《纯粹理性批判》的读者很可能觉得康德本人对这个问题也不是完全清楚。诚然，总的来说，如上所述，他把“实在本身”（别名“先验对象”）刻画为根本上唯一的，这似乎以某种方式暗示它没有特征。但在第二版序言中他解释说，虽然我们不能把对象作为自在之物来认识，我们仍然可以把它们作为自在之物来思考（他甚至指出我们必须这样做，否则就会得出荒谬的结论：有显象［或显现］却没有任何显现的东西）。显然他在那里用的是复数提到上述对象，这似乎暗示实在本身毕竟有某种（诚然不可知的）特征或结构。而对某些有科学倾向的头脑来说，这个想法显得有吸引力。关键在于：所有科学家都深信他们的发现与某种深层实在有关。当然，他们许多人认识到他们的发现不能被解释为构成对实在本身究竟如何的忠实描述。量子物理学家尤其意识到这一点，因为基本量子定律远非描述性的，说到底是仅仅预言观察的。但他们仍然强烈不喜欢这样的想法：这些定律竟然完全起源于人类；科学的全部内容最终竟然归结为纯粹语词。他们觉得一定有某种理由，使得量子物理学那些最一般的、适用于各种领域的观察预言定律总是给出正确预言（甚至在这些预言似乎违背常识的情形中！）。的确，沿这些思路，他们乍看之下可能倾向于某种形式的结构实在论，按这种实在论，以数学表达的基本物理定律——如麦克斯韦方程组——忠实地描述实在本身的结构。然而，我们上面关于非定域性所看到的似乎暗示那样一来相对论理论就会被违反。由于可以证明非定域性并不使人能发送超光速信息，这个最不受欢迎的后果——幸好！——可以避免。但只有付出这样的代价才能避免：不把麦克斯韦方程组——以及一般伟大的自然定律——视为对“实在如其所是”的忠实描述。因此我认为应当用这样一种构想替代结构实在论：虽然实在本身有结构，我们却无法知道这些结构究竟如何。它们充当着我们所知的自然定律的隐藏来源。"
+      ],
+      "units": 486
+    },
+    {
+      "id": "ch27-u026",
+      "source_ids": [
+        "ch27-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hence, to put it all in a nutshell, the situation seems to me to be as follows. On the one hand present day physical knowledge prohibits us from keeping Kantism in its integrality. We must give up, not only (as has been known for a long time) the notions of Euclidean space and universal time but also schematism, the “complete determination” law and, as it seems, the view that reality-per-se is totally structureless. But on the other hand, the same present-day physical knowledge unexpectedly incites us to adhere to a modified form of Kantism that preserves and enhances those among its features that, a priori, take most scientists aback. The main one among these is, by far, Kant’s basic idea that objects, events etc. are mere phenomena and not in the least elements of a “reality-per-se”. Indeed, quantum mechanics and experimental discoveries related to it have confirmed this Kantian view to such an extent that it has now become very difficult for a well-informed scientist to go on believing that science will ever completely lift the veil of appearances and describe “Reality as it really is”.",
+        {
+          "type": "note",
+          "id": "ch27-n03",
+          "label": "3"
+        },
+        " Philosophers will hardly believe it but in the mind of most scientists this, still nowadays, comes as a most unwelcome surprise and a conceptual revolution quite comparable in its magnitude to the one Copernic subjected astronomy to (Kant hit on the proper image!). On the other hand, should the list of the features of Kantism that should be kept be limited to just his “Copernician revolution”? Personally, I do not think so. For the above stated reasons I consider that, contrary to the claims of neo-Kantians and other radical idealists, also the reality-per-se notion is a most significant one. I am quite convinced that it has to be kept."
+      ],
+      "zh": [
+        "因此，一言以蔽之，情况在我看来如下。一方面，当代物理知识禁止我们完整保留康德主义。我们必须放弃的不仅有（早已为人所知的）欧几里得空间和普适时间观念，还有图型法、“完全规定”律，以及似乎还有实在本身完全无结构的观点。但另一方面，同样的当代物理知识却出人意料地促使我们信奉一种修改形式的康德主义，它保留并加强了康德主义中那些乍听起来最令科学家错愕的特征。其中最主要的、遥遥领先的，是康德的基本观念：对象、事件等等只是显象，丝毫不是“实在本身”的要素。的确，量子力学及与之相关的实验发现如此程度地证实了这个康德式观点，以至于一个消息灵通的科学家现在很难继续相信科学终将完全揭开显象之幕、描述“如其所是的实在”。",
+        {
+          "type": "note",
+          "id": "ch27-n03",
+          "label": "3"
+        },
+        " 哲学家们恐怕难以相信，但在大多数科学家心中，这在今天仍然是一个最不受欢迎的意外，一场在规模上完全可以与哥白尼给天文学带来的革命相媲美的概念革命（康德想到了恰当的比喻！）。另一方面，应当保留的康德主义特征清单是否应仅限于他的“哥白尼式革命”？就我个人而言，我不这么认为。出于上述理由，我认为与新康德主义者和其他激进观念论者的主张相反，实在本身观念也是一个极其重要的观念。我相当确信它必须保留。"
+      ],
+      "units": 295
+    }
+  ],
+  "notes": {
+    "ch27-n01": {
+      "number": "1",
+      "en": [
+        "E. Schrödinger, Mind and Matter, Cambridge University Press, 1958."
+      ],
+      "zh": [
+        "E. Schrödinger, Mind and Matter, Cambridge University Press, 1958."
+      ]
+    },
+    "ch27-n02": {
+      "number": "2",
+      "en": [
+        "E. Cassirer, Determinism and Indeterminism in Modern Physics, New Haven, Yale University Press, 1956, quoted by C. Chevalley, Objectivité et intersubjectivité chez Bohr, Epistémologiques, 1, p. 315 (2000)."
+      ],
+      "zh": [
+        "E. Cassirer, Determinism and Indeterminism in Modern Physics, New Haven, Yale University Press, 1956, quoted by C. Chevalley, Objectivité et intersubjectivité chez Bohr, Epistémologiques, 1, p. 315 (2000)."
+      ]
+    },
+    "ch27-n03": {
+      "number": "3",
+      "en": [
+        "Admittedly this last sentence may raise some surprise for what it states happens not to be a widely popularized truth. Let me therefore comment a little about it. In fact, not only in the articles they write for the general public but also in their properly scientific papers, physicists currently state that electrons “exist” in atoms, that such and such types of quarks have been found to “exist” and so on. This language is not improper (after all, Kant himself often used such words as “real” and “reality” to refer to phenomena, that is, to mere human representations), but it is misleading nevertheless, in that it strongly conveys the idea that such objects may be believed to exist in some absolute sense, whereas, in standard quantum physics, this, in the last analysis, is not a tenable hypothesis. True, also classical physics may be conceived of as only referring to phenomena in a Kantian sense; and this is actually the way Kant interpreted it. But the main conceptual difference between classical and quantum physics is that the basic laws and principles of the former are of such a form as to be interpretable (naively, a kantian would say) as referring to absolutely existing entities. Not so concerning those of quantum physics."
+      ],
+      "zh": [
+        "诚然，最后这句话可能引起一些惊讶，因为它所陈述的恰好尚未成为广为人知的看法。因此让我稍作评论。事实上，物理学家不仅在为公众写的文章中，而且在他们真正的科学论文中，通常都说电子“存在”于原子中，某某类型的夸克已被发现“存在”，等等。这种语言并非不恰当（毕竟康德本人也常用“实在的”和“实在性”这样的词来指显象，即单纯的人类表象），但它仍然有误导性，因为它强烈传达这样的想法：可以相信这些对象在某种绝对意义上存在，而在标准量子物理学中，这归根结底不是一个站得住的假设。诚然，经典物理学也可以被构想为只指涉康德意义上的显象；这实际上正是康德解释它的方式。但经典物理学与量子物理学的主要概念差别在于：前者的基本定律和原理的形式使得它们可以被解释为（一个康德主义者会说，天真地）指涉绝对存在的实体。量子物理学的定律则不然。"
+      ]
+    }
+  }
+}

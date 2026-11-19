@@ -1,0 +1,1685 @@
+{
+  "id": "ch09",
+  "title": "经典物理学与量子物理学中对象的构成",
+  "originalTitle": "The Constitution of Objects in Classical Physics and in Quantum Physics",
+  "outline": [
+    {
+      "anchor": "ch09-u003",
+      "title": "1 引言",
+      "originalTitle": "1 Introduction",
+      "level": 1
+    },
+    {
+      "anchor": "ch09-u007",
+      "title": "2 康德哲学中对对象的认识",
+      "originalTitle": "2 The Cognition of Objects in Kant’s Philosophy",
+      "level": 1
+    },
+    {
+      "anchor": "ch09-u008",
+      "title": "2.1 历史预备",
+      "originalTitle": "2.1 Historical Preliminaries",
+      "level": 2
+    },
+    {
+      "anchor": "ch09-u012",
+      "title": "2.2 康德哲学中对象的构成",
+      "originalTitle": "2.2 The Constitution of Objects in Kant’s Philosophy",
+      "level": 2
+    },
+    {
+      "anchor": "ch09-u021",
+      "title": "3 经典物理学中的对象",
+      "originalTitle": "3 Objects in Classical Physics",
+      "level": 1
+    },
+    {
+      "anchor": "ch09-u022",
+      "title": "3.1 历史预备",
+      "originalTitle": "3.1 Historical Preliminaries",
+      "level": 2
+    },
+    {
+      "anchor": "ch09-u029",
+      "title": "3.2 客观性与不变性",
+      "originalTitle": "3.2 Objectivity and Invariance",
+      "level": 2
+    },
+    {
+      "anchor": "ch09-u033",
+      "title": "3.3 协变性与可观测量",
+      "originalTitle": "3.3 Covariance and Observables",
+      "level": 2
+    },
+    {
+      "anchor": "ch09-u045",
+      "title": "3.4 经典对象",
+      "originalTitle": "3.4 Classical Objects",
+      "level": 2
+    },
+    {
+      "anchor": "ch09-u047",
+      "title": "3.5 个体系统",
+      "originalTitle": "3.5 Individual Systems",
+      "level": 2
+    },
+    {
+      "anchor": "ch09-u049",
+      "title": "4 量子力学中的对象",
+      "originalTitle": "4 Objects in Quantum Mechanics",
+      "level": 1
+    },
+    {
+      "anchor": "ch09-u050",
+      "title": "4.1 一般评论",
+      "originalTitle": "4.1 General Remarks",
+      "level": 2
+    },
+    {
+      "anchor": "ch09-u053",
+      "title": "4.2 客观性与不变性",
+      "originalTitle": "4.2 Objectivity and Invariance",
+      "level": 2
+    },
+    {
+      "anchor": "ch09-u068",
+      "title": "4.3 量子对象",
+      "originalTitle": "4.3 Quantum Objects",
+      "level": 2
+    },
+    {
+      "anchor": "ch09-u070",
+      "title": "4.4 个体量子系统",
+      "originalTitle": "4.4 Individual Quantum Systems",
+      "level": 2
+    },
+    {
+      "anchor": "ch09-u074",
+      "title": "5 结语",
+      "originalTitle": "5 Concluding Remarks",
+      "level": 1
+    },
+    {
+      "anchor": "ch09-u076",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch09-u001",
+      "source_ids": [
+        "ch09-u001"
+      ],
+      "page": "169",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch09-u002",
+      "source_ids": [
+        "ch09-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Peter Mittelstaedt"
+      ],
+      "zh": [
+        "彼得·米特尔施泰特"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch09-u004",
+      "source_ids": [
+        "ch09-u004"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract In quantum physics as well as in classical physics we are usually concerned with observable quantities and their time dependence, but not with objects as carriers of observable properties. However, for establishing objectivity of our cognition in addition to the observable properties objects must be constituted in classical mechanics as well as in quantum mechanics. This problem can be traced back to the critical philosophy of Kant. Surprisingly, it became obvious only in recent years that the way to introduce objects systematically into the physical theories mentioned is essentially an adoption and realization of Kant’s transcendental way of reasoning."
+      ],
+      "zh": [
+        "摘要 在量子物理学和经典物理学中，我们通常关心的是可观测量及其随时间的变化，而不是作为可观察属性承载者的对象。然而，为了确立我们认知的客观性，除了可观察属性之外，无论在经典力学还是量子力学中都必须构成对象。这个问题可以追溯到康德的批判哲学。令人惊讶的是，直到近年才变得清楚：把对象系统地引入上述物理理论的途径，本质上是对康德先验推理方式的采纳和实现。"
+      ],
+      "units": 100
+    },
+    {
+      "id": "ch09-u003",
+      "source_ids": [
+        "ch09-u003"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Introduction"
+      ],
+      "zh": [
+        "1 引言"
+      ],
+      "type": "subheading",
+      "units": 2
+    },
+    {
+      "id": "ch09-u005",
+      "source_ids": [
+        "ch09-u005"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "P. Mittelstaedt University of Cologne, Cologne, Germany"
+      ],
+      "zh": [
+        "P. Mittelstaedt University of Cologne, Cologne, Germany"
+      ],
+      "shared": true,
+      "units": 7
+    },
+    {
+      "id": "ch09-u006",
+      "source_ids": [
+        "ch09-u006"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The present article is concerned with constitution of objects in physics. It leads from Kant’s transcendental arguments in the Critique of Pure Reason to the concept of objects in classical physics and in quantum physics. The investigations are based on the surprising observation, that the method of constituting objects in Kant’s critical philosophy can be applied almost literally to classical physics, and with some small but essential restrictions also to quantum physics. Hence, one could get the impression that there is a strong continuity in the history of the foundations of physics. This is, however, not the case. Neither in the highly developed formulation of classical mechanics in the nineteenth century, nor in the original version of quantum mechanics, which was formulated in 1925–1932, the method of constituting objects was applied. Instead, objects were considered in both cases as elementary entities, as mass points, massive bodies, or particles, and these objects were inserted ad hoc into the already completely formulated theories. Only during the last decades in became obvious how objects can be introduced systematically into the two fields of physics mentioned and that this incorporation is in fact an adoption and realisation of Kant’s original transcendental way of reasoning."
+      ],
+      "zh": [
+        "本文讨论物理学中对象的构成。它从康德在《纯粹理性批判》中的先验论证出发，通向经典物理学和量子物理学中的对象概念。这些研究基于一个令人惊讶的观察：康德批判哲学中构成对象的方法，几乎可以逐字应用于经典物理学，加上一些虽小却本质的限制，也可以应用于量子物理学。因此，人们可能得到这样的印象：物理学基础的历史中存在很强的连续性。然而事实并非如此。无论在十九世纪高度发展的经典力学表述中，还是在1925–1932年间形成的量子力学原初版本中，都没有应用构成对象的方法。相反，在两种情形中，对象都被视为基本实体——质点、有质量的物体或粒子——并被特设地插入已经完整表述的理论之中。只是在最近几十年才变得清楚：对象如何能被系统地引入上述两个物理学领域，以及这种纳入事实上是对康德原初先验推理方式的采纳和实现。"
+      ],
+      "units": 201
+    },
+    {
+      "id": "ch09-u007",
+      "source_ids": [
+        "ch09-u007"
+      ],
+      "page": "170",
+      "canonical_kind": "heading",
+      "en": [
+        "2 The Cognition of Objects in Kant’s Philosophy"
+      ],
+      "zh": [
+        "2 康德哲学中对对象的认识"
+      ],
+      "type": "subheading",
+      "units": 8
+    },
+    {
+      "id": "ch09-u008",
+      "source_ids": [
+        "ch09-u008"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2.1 Historical Preliminaries"
+      ],
+      "zh": [
+        "2.1 历史预备"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch09-u009",
+      "source_ids": [
+        "ch09-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the Critique of pure reason",
+        {
+          "type": "note",
+          "id": "ch09-n01",
+          "label": "1"
+        },
+        " Kant formulated his transcendental philosophy in contrast to two alternative positions, the metaphysics of Leibniz and Wolff, and the empiricism of David Hume and Locke. In particular, for the problem of constituting objects the sceptical philosophy of Hume is most interesting as an opposite project. As to the question whether in addition to our direct perceptions there are objects in the external reality and what we know about these entities, Hume presented his opinion at different places. The importance of this problem becomes obvious, if we realise that the directly observable and usually time dependent qualities or predicates are per se not a criterion of an object, since the various properties are in general different from each other. Accordingly, Hume writes that this difference"
+      ],
+      "zh": [
+        "在《纯粹理性批判》",
+        {
+          "type": "note",
+          "id": "ch09-n01",
+          "label": "1"
+        },
+        "中，康德针对两种替代立场——莱布尼茨和沃尔夫的形而上学，以及大卫·休谟和洛克的经验论——表述了他的先验哲学。特别地，就构成对象的问题而言，休谟的怀疑论哲学作为对立方案最有意思。关于在我们的直接知觉之外外部实在中是否存在对象、以及我们对这些实体知道些什么的问题，休谟在不同地方陈述了他的看法。如果我们意识到，直接可观察的、通常随时间变化的性质或谓词本身并不是对象的判据——因为各种属性一般彼此不同——这个问题的重要性就显而易见了。相应地，休谟写道，这种差异"
+      ],
+      "units": 130
+    },
+    {
+      "id": "ch09-u078",
+      "source_ids": [
+        "ch09-u078"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "obliges the imagination to feign an unknown something, or original substance and matter, as a principle of union an cohesion among these qualities, and as what may give the compound object a title to be call’d one thing […].",
+        {
+          "type": "note",
+          "id": "ch09-n02",
+          "label": "2"
+        }
+      ],
+      "zh": [
+        "迫使想象力虚构一个未知的某物，或原初的实体和质料，作为这些性质之间联合与凝聚的原则，并作为使复合对象有权被称为一个东西的东西[……]。",
+        {
+          "type": "note",
+          "id": "ch09-n02",
+          "label": "2"
+        }
+      ],
+      "type": "quote",
+      "units": 38
+    },
+    {
+      "id": "ch09-u010",
+      "source_ids": [
+        "ch09-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Indeed, the qualities that we observe are first of all completely independent of another and independent of a carrier whose properties they probably are:"
+      ],
+      "zh": [
+        "的确，我们观察到的性质首先是彼此完全独立的，也独立于一个承载者——它们也许正是这个承载者的属性："
+      ],
+      "units": 24
+    },
+    {
+      "id": "ch09-u079",
+      "source_ids": [
+        "ch09-u079"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "Every quality being a distinct thing from another, may be conceiv’d to exist apart, and may exist apart, not only from every other quality, but from that unintelligible chimera of substance.",
+        {
+          "type": "note",
+          "id": "ch09-n03",
+          "label": "3"
+        }
+      ],
+      "zh": [
+        "每个性质既然是与其他性质不同的东西，就可以被设想为分离地存在，而且不仅可以脱离其他一切性质而存在，还可以脱离实体这个不可理解的怪影而存在。",
+        {
+          "type": "note",
+          "id": "ch09-n03",
+          "label": "3"
+        }
+      ],
+      "type": "quote",
+      "units": 31
+    },
+    {
+      "id": "ch09-u011",
+      "source_ids": [
+        "ch09-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hence, we must ask, whether the search for an object is nothing but hunting a chimera. Kant has taken up this question and answered it within the framework of his transcendental philosophy. However, this question must also be answered within the framework of any field of science that claims to be a realistic description of nature."
+      ],
+      "zh": [
+        "因此我们必须问：寻找对象是否无非是在追逐一个怪影？康德接过了这个问题，并在其先验哲学的框架内作了回答。然而，任何声称是对自然的实在论描述的科学领域，也必须在其框架内回答这个问题。"
+      ],
+      "units": 56
+    },
+    {
+      "id": "ch09-u012",
+      "source_ids": [
+        "ch09-u012"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2.2 The Constitution of Objects in Kant’s Philosophy"
+      ],
+      "zh": [
+        "2.2 康德哲学中对象的构成"
+      ],
+      "type": "subheading",
+      "units": 9
+    },
+    {
+      "id": "ch09-u013",
+      "source_ids": [
+        "ch09-u013"
+      ],
+      "page": "171",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Also Kant’s way of reasoning begins with the argument that our perceptions lead per se merely to the cognition of qualities but not to objects whose properties correspond to the observed qualities, and which are the time-independent carriers of time-dependent properties. In this point, Kant agrees with Hume. However, Kant doubts that objects are merely the products of our imagination and he gives two reasons. First, it is not always possible to relate several observed qualities to an object as their referent. This is only the case, if the observed qualities fulfil some necessary conditions. With respect to this argument, Kant is more cautious than Hume. However, if the necessary preconditions mentioned are fulfilled, then, according to Kant, the object that persists in time in contrast to the time-dependent properties is an element of the objective and external reality – and not a “chimera”. Obviously, in this point Kant exceeds Hume’s empiricist position."
+      ],
+      "zh": [
+        "康德的推理方式同样始于这样一个论证：我们的知觉本身只导致对性质的认识，而不导致对对象的认识——对象的属性对应于被观察的性质，并且对象是随时间变化的属性的不随时间变化的承载者。在这一点上，康德同意休谟。然而，康德怀疑对象仅仅是我们想象力的产物，并给出两个理由。第一，并不总是能把若干被观察的性质关联到一个作为其指称的对象上。只有当被观察的性质满足某些必要条件时才行。就这个论证而言，康德比休谟更谨慎。然而，如果上述必要前提得到满足，那么按照康德，与随时间变化的属性相对、在时间中持存的对象，就是客观的外部实在的一个要素——而不是一个“怪影”。显然，在这一点上康德超出了休谟的经验论立场。"
+      ],
+      "units": 152
+    },
+    {
+      "id": "ch09-u015",
+      "source_ids": [
+        "ch09-u015"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The constitution of “objects of experience” from our perceptions and observations starts with the requirement of objectivity. The observed qualities should not refer to the perceiving subject but to the objective, external reality, which is clearly distinguished from the subject. In order to apply this realistic interpretation to our observations, some necessary conditions must be fulfilled. It should be possible to order and to interpret the observed qualities according to some conceptual prescriptions, the categories of substance and causality. It should be possible to consistently relate the time-dependent predicates to a substance as the time-independent carrier of the predicates in question. And in addition, it should be possible to interpreting the temporal changes of the predicates as causal alterations of the properties of the object."
+      ],
+      "zh": [
+        "从我们的知觉和观察出发构成“经验对象”，始于客观性的要求。被观察的性质不应指称知觉主体，而应指称与主体明确区分开的客观外部实在。要把这种实在论解释应用于我们的观察，必须满足一些必要条件。应当有可能按照某些概念规定——实体和因果性范畴——来整理和解释被观察的性质。应当有可能把随时间变化的谓词一致地关联到一个实体上，作为所论谓词的不随时间变化的承载者。此外，还应当有可能把谓词的时间变化解释为对象属性的因果性改变。"
+      ],
+      "units": 125
+    },
+    {
+      "id": "ch09-u016",
+      "source_ids": [
+        "ch09-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant does not state that an interpretation of this kind can always be applied to our perceptions and sensations. But he claims that if this is impossible, then there is no cognition at all.",
+        {
+          "type": "note",
+          "id": "ch09-n04",
+          "label": "4"
+        },
+        " However, if our observations refer to an element of the external reality and not to the observing subject, then the observations in space and time must have been ordered and interpreted according to the categories of substance and causality. In this way, “objects of experience” are constituted and the categories mentioned are necessary preconditions of these objects that – for this reason – fulfil the a priori laws of substance and causality. In other words, there is a time-independent carrier of time-dependent properties, whose temporal alterations obey some causal regularity. Hence, an object of experience is an element of the external reality that is clearly distinguished from the observer. The observable and changeable qualities can be related to this object, which itself is determined by a few unchangeable, permanent features.",
+        {
+          "type": "note",
+          "id": "ch09-n05",
+          "label": "5"
+        }
+      ],
+      "zh": [
+        "康德并没有断言这种解释总能应用于我们的知觉和感觉。但他主张，如果这不可能，那么就根本没有任何认识。",
+        {
+          "type": "note",
+          "id": "ch09-n04",
+          "label": "4"
+        },
+        "然而，如果我们的观察指称外部实在的一个要素而不是观察主体，那么时空中的观察必定已经按照实体和因果性范畴得到了整理和解释。以这种方式，“经验对象”被构成，而上述范畴是这些对象的必要前提——正因如此，这些对象满足实体和因果性的先天规律。换句话说，存在一个随时间变化的属性的不随时间变化的承载者，其时间上的改变服从某种因果规则性。因此，经验对象是与观察者明确区分开的外部实在的一个要素。可观察的、可变的性质可以关联到这个对象上，而对象本身由少数不变的、恒久的特征所规定。",
+        {
+          "type": "note",
+          "id": "ch09-n05",
+          "label": "5"
+        }
+      ],
+      "units": 162
+    },
+    {
+      "id": "ch09-u017",
+      "source_ids": [
+        "ch09-u017"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The categories of substance and causality belong to the necessary preconditions of objects of experience. However, the constitution of objects by means of these categories determines in general merely the kind of objects that are characterised by some permanent properties, but not individuals. For the determination of individual objects, we must extend the formal preconditions of experience, in particular the categories mentioned, by material preconditions of experience. The material preconditions of experience correspond to the material possibilities to perform observations of predicates and they extend the possibilities for constituting objects. In this context, Kant’s “principle of complete determination”, which applies to “things”, becomes relevant:"
+      ],
+      "zh": [
+        "实体和因果性范畴属于经验对象的必要前提。然而，借助这些范畴构成对象，一般只规定了对象的种类——由某些恒久属性刻画的种类——而不是个体。要规定个体对象，我们必须用经验的质料前提来扩充经验的形式前提，尤其是上述范畴。经验的质料前提取决于在物质条件下实际能够观察哪些谓词，它们拓宽了构成对象的可能性。在这个语境中，康德适用于“事物”的“完全规定原则”变得相关起来："
+      ],
+      "units": 104
+    },
+    {
+      "id": "ch09-u080",
+      "source_ids": [
+        "ch09-u080"
+      ],
+      "page": "172",
+      "canonical_kind": "quote",
+      "en": [
+        "Every thing, however, as to its possibility, further stands under the principle of thoroughgoing determination; according to which, among all possible predicates of things, insofar as they are compared with their opposites, one must apply to it.",
+        {
+          "type": "note",
+          "id": "ch09-n06",
+          "label": "6"
+        }
+      ],
+      "zh": [
+        "然而，每一事物就其可能性而言，还服从完全规定原则；按照这条原则，在事物的一切可能谓词中，就它们与其反面相比较而言，必有一个适用于该事物。",
+        {
+          "type": "note",
+          "id": "ch09-n06",
+          "label": "6"
+        }
+      ],
+      "type": "quote",
+      "units": 37
+    },
+    {
+      "id": "ch09-u018",
+      "source_ids": [
+        "ch09-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This principle does not follow from the preconditions of experience. However, if it can be fulfilled, it allows for further determination of objects. In particular, the position property pertains to a “thing” at any time. Objects that possess the position-property at any time will be called here “continuously localizable”."
+      ],
+      "zh": [
+        "这条原则并不从经验的前提推出。然而，如果它能被满足，就允许对对象作进一步规定。特别地，位置属性在任何时间都属于一个“事物”。在任何时间都拥有位置属性的对象，这里称为“连续可定域的”。"
+      ],
+      "units": 49
+    },
+    {
+      "id": "ch09-u019",
+      "source_ids": [
+        "ch09-u019"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Even if we presuppose “continuous localizability”, the determination of individual objects by their positions is not possible in general, since two objects that are equal with respect to all other predicates, could still be at the same place. Hence, for the determination of individual objects we must assume in addition, that objects possess the contingent property of impenetrability. Kant mentioned the possibility of individuation by means of the position property only casually and without taking account of the impenetrability, when he put forward his critique of Leibniz’ “principium identitatis indiscernibilium”:"
+      ],
+      "zh": [
+        "即使我们预设“连续可定域性”，一般也不能凭位置来规定个体对象，因为在所有其他谓词方面都相同的两个对象，仍可能处于同一地点。因此，要规定个体对象，我们还必须假定对象拥有不可入性这一偶然属性。康德在提出他对莱布尼茨“不可分辨者同一性原则”（principium identitatis indiscernibilium）的批评时，只是顺便提到凭位置属性个体化的可能性，而没有考虑不可入性："
+      ],
+      "units": 90
+    },
+    {
+      "id": "ch09-u081",
+      "source_ids": [
+        "ch09-u081"
+      ],
+      "page": "",
+      "canonical_kind": "quote",
+      "en": [
+        "[…] then the issue is not the comparison of concepts, but rather, however identical everything may be in regard to that, the difference of places of these appearances at the same time is still an adequate ground for the numerical difference of the object (of the senses) itself.",
+        {
+          "type": "note",
+          "id": "ch09-n07",
+          "label": "7"
+        }
+      ],
+      "zh": [
+        "[……]那么问题就不是概念的比较，毋宁说，无论一切在那方面如何相同，这些显象在同一时间的位置差异，仍然是判定（感官）对象在数上彼此不同的充分根据。",
+        {
+          "type": "note",
+          "id": "ch09-n07",
+          "label": "7"
+        }
+      ],
+      "type": "quote",
+      "units": 47
+    },
+    {
+      "id": "ch09-u020",
+      "source_ids": [
+        "ch09-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant’s considerations show, which necessary and which contingent preconditions must be fulfilled in order to consistently relate the observed qualities to an object as their carrier. This method of constituting objects at all, and in particular individuals, must be concretised in the various fields of natural sciences. We should not expect, that in these fields, objects can be determined in a less complicated way."
+      ],
+      "zh": [
+        "康德的考虑表明：要把被观察的性质一致地关联到一个作为其承载者的对象上，必须满足哪些必要前提和哪些偶然前提。这种一般地构成对象、特别是构成个体的方法，必须在自然科学的各个领域中具体化。我们不应指望在这些领域中对象能以更简单的方式被规定。"
+      ],
+      "units": 64
+    },
+    {
+      "id": "ch09-u021",
+      "source_ids": [
+        "ch09-u021"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Objects in Classical Physics"
+      ],
+      "zh": [
+        "3 经典物理学中的对象"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch09-u022",
+      "source_ids": [
+        "ch09-u022"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.1 Historical Preliminaries"
+      ],
+      "zh": [
+        "3.1 历史预备"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch09-u023",
+      "source_ids": [
+        "ch09-u023"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant’s reaction to the empiricism of David Hume had shown, in which way cognition of “objects of experience” can be achieved and that in spite of the sceptical arguments mentioned. Hence, one could guess that in classical physics, and in particular in classical mechanics, the Kantian way of reasoning would have been adopted in order to guarantee the objectivity of cognition in physics and to characterise the concept of a mechanical object in the transcendental way. This was, however, not the case."
+      ],
+      "zh": [
+        "康德对大卫·休谟经验论的回应已经表明，尽管有上述怀疑论论证，仍能以何种方式达到对“经验对象”的认识。因此人们可能猜测，在经典物理学、特别是经典力学中，人们会采纳康德的推理方式，以保证物理学中认知的客观性，并以先验的方式刻画力学对象的概念。然而事实并非如此。"
+      ],
+      "units": 82
+    },
+    {
+      "id": "ch09-u024",
+      "source_ids": [
+        "ch09-u024"
+      ],
+      "page": "173",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In 1787, when the Critique of Pure Reason appeared, the most important field of physics was Newton’s mechanics, first published in 1687, and further elaborated by d’Alambert (1758), Lagrange (1788), etc. From a philosophical point of view, this theory was, however, still exposed to the objections against a theory in the sense of empiricism. In particular, this means that objects are not constituted within the theory on the basis of observable qualities, but inserted into the theory of predicates as primitive entities."
+      ],
+      "zh": [
+        "1787年《纯粹理性批判》问世时，物理学最重要的领域是牛顿力学——它于1687年首次发表，后经达朗贝尔（1758）、拉格朗日（1788）等人进一步阐发。然而从哲学观点看，这个理论仍然暴露在经验论意义上对理论的种种反驳之下。这尤其意味着：对象不是在理论内部基于可观察性质被构成的，而是作为原始实体被插入谓词的理论之中。",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "此处1787年指《纯粹理性批判》第二版，第一版于1781年出版。"
+          ]
+        }
+      ],
+      "units": 82
+    },
+    {
+      "id": "ch09-u026",
+      "source_ids": [
+        "ch09-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Since Hume’s scepticism was one of the starting points of Kant’s critical philosophy, a reformulation of classical mechanics on the basis of Kant’s transcendental way of reasoning would have suggested itself. However, this idea is confronted with serious difficulties. Within the framework of Lagrange’s formulation of classical mechanics, the constitution of objects would have been extremely difficult, if not impossible. Only in the new and more advanced formulation of classical mechanics by Hamilton (c 1835), there was some chance for applying the idea of constituting objects in the new “canonical formalism” of mechanics.",
+        {
+          "type": "note",
+          "id": "ch09-n08",
+          "label": "8"
+        },
+        " But even in this “phase– space” formulation of classical mechanics, not all the tools necessary for constituting objects were already available. We mention here, in particular, the theory of “Continuous Groups of Transformations”, which was developed by Sophus Lie not before the end of the nineteenth century."
+      ],
+      "zh": [
+        "由于休谟的怀疑论是康德批判哲学的出发点之一，在康德先验推理方式的基础上重新表述经典力学，本来是顺理成章的。然而，这个想法面临严重的困难。在拉格朗日的经典力学表述框架内，构成对象即使不是不可能，也极其困难。只有在哈密顿（约1835年）对经典力学更新的、更先进的表述中，才有机会在力学新的“正则形式体系”中应用构成对象的想法。",
+        {
+          "type": "note",
+          "id": "ch09-n08",
+          "label": "8"
+        },
+        "但即使在经典力学的这种“相空间”表述中，构成对象所需的全部工具也尚未齐备。这里特别要提到“连续变换群”理论，它直到十九世纪末才由索福斯·李发展出来。"
+      ],
+      "units": 140
+    },
+    {
+      "id": "ch09-u027",
+      "source_ids": [
+        "ch09-u027"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Except from these technical questions, we should mention that the philosophical situation had changed very much in the last decades of the nineteenth century. Neither Hume’s arguments against objects nor Kant’s reaction to this position were seriously discussed in the philosophy of physics. Instead, empiricism and positivism were considered as an adequate philosophical basis of physics. Kant’s critical arguments, and in particular the idea of constituting objects, were almost ignored at that time. For these reasons, it is no surprise that classical mechanics was not reformulated in the sense of Kant’s critical philosophy but considered as a field of science that is based philosophically on empiricism or on positivism."
+      ],
+      "zh": [
+        "除这些技术问题外，还应提到，十九世纪最后几十年哲学状况已发生很大变化。休谟反对对象的论证和康德对这一立场的回应，在物理哲学中都没有得到认真讨论。相反，经验论和实证主义被视为物理学的恰当哲学基础。康德的批判论证，特别是构成对象的想法，当时几乎被忽视。由于这些原因，经典力学没有按康德批判哲学的意义被重新表述，而是被视为一个在哲学上基于经验论或实证主义的科学领域，也就不足为奇了。"
+      ],
+      "units": 109
+    },
+    {
+      "id": "ch09-u028",
+      "source_ids": [
+        "ch09-u028"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The open systematic problem, how we can get objective knowledge of things or objects in physics, was treated not before 1963 and that first as a mathematical problem of quantum mechanics, in spite of the fact that in quantum mechanics the formal problems are even more difficult than in classical mechanics.",
+        {
+          "type": "note",
+          "id": "ch09-n09",
+          "label": "9"
+        },
+        " Here, we will not follow the historical development of physics but investigate first (in Section 3.3) how objects can be constituted in classical mechanics. Kant’s arguments can be applied here almost literally. In a second step (in Section 4.3), we treat the same problem in quantum mechanics and find that we are confronted here with new difficulties unknown in Kant’s philosophy and in classical mechanics."
+      ],
+      "zh": [
+        "我们如何在物理学中获得关于事物或对象的客观知识——这个开放的系统问题，直到1963年才被处理，而且起初是作为量子力学的一个数学问题，尽管量子力学中的形式问题比经典力学中更困难。",
+        {
+          "type": "note",
+          "id": "ch09-n09",
+          "label": "9"
+        },
+        "这里我们不追溯物理学的历史发展，而是先研究（第3.3节）对象如何在经典力学中被构成。康德的论证在这里几乎可以逐字应用。第二步（第4.3节），我们处理量子力学中的同一问题，发现这里面临着康德哲学和经典力学中所未知的新困难。"
+      ],
+      "units": 118
+    },
+    {
+      "id": "ch09-u029",
+      "source_ids": [
+        "ch09-u029"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.2 Objectivity and Invariance"
+      ],
+      "zh": [
+        "3.2 客观性与不变性"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch09-u030",
+      "source_ids": [
+        "ch09-u030"
+      ],
+      "page": "174",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Classical mechanics describes the properties of classical objects and in particular the time dependence of properties. The mathematical framework of mechanics – in the Hamiltonian formulation – is the space of possible states of an object system, the “phase–space”. Observables are then given by convenient functions on this phase–space. In this Hamiltonian formulation, classical mechanics is still exposed to the critique of the empiricism. Since the theory is concerned merely with observables and their time dependence the concept of an object as the carrier of the observable properties is almost void. Indeed, Hume’s critique applies to this theory almost literally since an object is an “unknown something”, a product of our “imagination”, but not an element of the theory."
+      ],
+      "zh": [
+        "经典力学描述经典对象的属性，特别是属性随时间的变化。力学的数学框架——在哈密顿表述中——是一个对象系统的可能状态的空间，即“相空间”。可观测量于是由这个相空间上的适当函数给出。在这种哈密顿表述中，经典力学仍然暴露在经验论的批评之下。由于理论只关心可观测量及其随时间的变化，作为可观察属性承载者的对象概念几乎是空洞的。事实上，休谟的批评几乎可以逐字应用于这个理论，因为对象是一个“未知的某物”，是我们“想象力”的产物，而不是理论的一个要素。"
+      ],
+      "units": 119
+    },
+    {
+      "id": "ch09-u031",
+      "source_ids": [
+        "ch09-u031"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "According to Kant, we start with the requirement of objectivity of our cognition. Similarly, in physics, and in particular in classical mechanics, our goal is the cognition of the external reality and not of the observing subject. Accordingly, observations or measuring results should refer to the external reality, and not to the observer and his impressions. Hence, the cognition of the external reality must be independent in some sense of the preconditions of the observer. The subjective, observer dependent component of an observation or a measurement result is given by the space–time coordinates of the observer. Hence, the requirement of objectivity means that the laws of the external reality must fulfil some invariance properties.",
+        {
+          "type": "note",
+          "id": "ch09-n10",
+          "label": "10"
+        },
+        " If an observer changes his space–time coordinates, then the observations should be changed such that they refer to the same but equivalently changed object. The same changes can also be obtained, if the object is subject of an active transformation that corresponds to a passive transformation of the coordinate system. Weyl illustrates this symmetry of active and passive transformations by a simple geometrical example.",
+        {
+          "type": "note",
+          "id": "ch09-n11",
+          "label": "11"
+        },
+        " For geometrical objects like triangles in the Euclidean plane, we have always symmetry between active and passive transformations. However, for physical objects this symmetry is a necessary precondition of their objectivity."
+      ],
+      "zh": [
+        "按照康德，我们从认知客观性的要求出发。类似地，在物理学、特别是经典力学中，我们的目标是认识外部实在，而不是认识观察主体。相应地，观察或测量结果应指称外部实在，而不是观察者及其印象。因此，对外部实在的认识必须在某种意义上独立于观察者的前提条件。观察或测量结果中主观的、依赖观察者的成分，由观察者的时空坐标给出。因此，客观性要求意味着外部实在的规律必须满足某些不变性。",
+        {
+          "type": "note",
+          "id": "ch09-n10",
+          "label": "10"
+        },
+        "如果观察者改变其时空坐标，那么观察应随之改变，使得它们指称同一个但作了等价改变的对象。如果对象经受一个对应于坐标系被动变换的主动变换，也能得到同样的改变。魏尔用一个简单的几何例子说明了主动变换与被动变换的这种对称性。",
+        {
+          "type": "note",
+          "id": "ch09-n11",
+          "label": "11"
+        },
+        "对于欧几里得平面上的三角形之类的几何对象，主动变换与被动变换之间总是对称的。然而对物理对象来说，这种对称性是它们客观性的一个必要前提。"
+      ],
+      "units": 211
+    },
+    {
+      "id": "ch09-u032",
+      "source_ids": [
+        "ch09-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Within the context of classical mechanics, these relations can be made more explicit. The fundamental laws of classical mechanics are invariant with respect to the transformations of the ten-parameter Galileo group G. For a given inertial frame of reference, these transformations consist of three translations in space, three rotations in space, three changes of the constant velocity of the inertial system and one translation in time. If the observer is “moved” in accordance with a Galileo transformation, then the observations, which refer to the external object, will transform “covariant” with respect to this transformation. Since also the observers, represented by measurement instruments are physical objects, they will be subject to the same invariance laws. This implies a symmetry between active and passive transformations: The transformation of the measurement results does not depend on whether the observer is moved according to a Galileo transformation or whether the object is moved according to the inverse transformation."
+      ],
+      "zh": [
+        "在经典力学的语境中，这些关系可以说得更明确。经典力学的基本规律对十参数伽利略群 G 的变换是不变的。对给定的惯性参考系，这些变换包括三个空间平移、三个空间转动、惯性系速度在三个方向上的改变和一个时间平移。如果观察者按一个伽利略变换被“移动”，那么指称外部对象的观察将相对于这个变换“协变地”变换。由于由测量仪器代表的观察者也是物理对象，它们也服从同样的不变性规律。这意味着主动变换与被动变换之间的对称性：测量结果的变换，不取决于究竟是观察者按伽利略变换被移动，还是对象按逆变换被移动。"
+      ],
+      "units": 154
+    },
+    {
+      "id": "ch09-u033",
+      "source_ids": [
+        "ch09-u033"
+      ],
+      "page": "175",
+      "canonical_kind": "heading",
+      "en": [
+        "3.3 Covariance and Observables"
+      ],
+      "zh": [
+        "3.3 协变性与可观测量"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch09-u034",
+      "source_ids": [
+        "ch09-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The symmetry between active and passive transformations allows for clarification of the concept of an “observable”. Intuitively, an observable is a measurable quantity or a property of an object system S, that belongs to the external reality and that is clearly distinguished from the observer and the apparatus, respectively. “Properties” (or predicates) may pertain to the object or not, and hence they correspond to value definite yes–no propositions Pᵢ or to the most simple observables with only two values 0 and 1, say. The set {Pᵢ} of elementary propositions can be extended by introducing the logical operations ∧, ∨, ¬, and the relation ≤. In this way, we arrive at the full propositional system of classical mechanics, which is given by the complete, atomic and Boolean lattice LC of classical logic."
+      ],
+      "zh": [
+        "主动变换与被动变换之间的对称性，使我们能澄清“可观测量”概念。直观地说，可观测量是一个可测量的量，或对象系统 S 的一个属性，它属于外部实在，与观察者及仪器明确区分开。“属性”（或谓词）可能属于对象，也可能不属于，因此它们对应于真值确定的“是—否”命题 Pᵢ，或者说对应于只有两个值（比如 0 和 1）的最简单可观测量。基本命题的集合 {Pᵢ} 可以通过引入逻辑运算 ∧、∨、¬ 和关系 ≤ 来扩充。这样我们就得到经典力学的完整命题系统，它由经典逻辑的完备、原子、布尔格 LC 给出。"
+      ],
+      "units": 128
+    },
+    {
+      "id": "ch09-u035",
+      "source_ids": [
+        "ch09-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "One can then define an “observable” as a relation between numbers on the reading scale of the apparatus and properties of the object system. Hence, an observable may be considered as a mapping Φ from the Borel sets B(ℜ) of the real numbers ℜ (of the reading scale) to the Boolean lattice LC of propositions. An observable is connected with the group G of Galileo transformations in a twofold way. On the one hand, the properties of the system S are changed by an active transformation, when the transformation group acts on the system and its propositional lattice. On the other hand, the coordinate system of the observer is changed by a passive transformation, when the transformation group acts on the measurement device M, i.e. on the Borel sets of the reading scale."
+      ],
+      "zh": [
+        "于是可以把“可观测量”定义为仪器读数刻度上的数与对象系统属性之间的一种关系。因此，可观测量可以看作一个映射 Φ，从实数集 ℝ（读数刻度）的博雷尔集 B(ℝ) 映到命题的布尔格 LC。可观测量以双重方式与伽利略变换群 G 相联系。一方面，当变换群作用于系统 S 及其命题格时，系统的属性通过主动变换而改变。另一方面，当变换群作用于测量装置 M，即作用于读数刻度的博雷尔集时，观察者的坐标系通过被动变换而改变。"
+      ],
+      "units": 135
+    },
+    {
+      "id": "ch09-u036",
+      "source_ids": [
+        "ch09-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Within this conceptual framework, the symmetry between active and passive transformations leads to the following important covariance postulate (C), which must be fulfilled by an observable Φ that can be interpreted as a property of a really existing object: The properties Φ[B(ℜ)] of the object S that are actively transformed by a representation S(G) of the Galileo group must coincide with the properties Φ[B(ℜ)] that one obtains from Borel sets B(ℜ) (of the reading scale of the apparatus M) that are passively transformed by a representation M(G) of the Galileo group. This means that the diagram in Fig. 1 must “commute”. The covariance postulate (C) determines those functions Φ, which may be considered as “observables” and it shows, how these observables are transformed under a special transformation.",
+        {
+          "type": "note",
+          "id": "ch09-n12",
+          "label": "12"
+        }
+      ],
+      "zh": [
+        "在这个概念框架内，主动变换与被动变换之间的对称性导致如下重要的协变性公设（C），任何能被解释为实际存在对象之属性的可观测量 Φ 都必须满足它：对象 S 的属性 Φ[B(ℝ)]——它们由伽利略群的一个表示 S(G) 主动变换——必须与从博雷尔集 B(ℝ)（仪器 M 的读数刻度）得到的属性 Φ[B(ℝ)] 一致，后者由伽利略群的一个表示 M(G) 被动变换。这意味着图1必须是交换图。协变性公设（C）规定了哪些函数 Φ 可以被视为“可观测量”，并表明这些可观测量在特定变换下如何变换。",
+        {
+          "type": "note",
+          "id": "ch09-n12",
+          "label": "12"
+        }
+      ],
+      "units": 134
+    },
+    {
+      "id": "ch09-u037",
+      "source_ids": [
+        "ch09-u037"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "On the basis of the covariance postulate (C) and the Galileo group, one can now define the fundamental observables p (momentum), q (position) and the observable t (time). In this way, the basic quantities (p, q, t) of the state space can be shown to be “observables” in the sense of the covariance postulate. If an object of classical mechanics is understood as a carrier of properties, then it is obviously sufficient, to require that it is a carrier of the fundamental observables p, q, and t."
+      ],
+      "zh": [
+        "在协变性公设（C）和伽利略群的基础上，现在可以定义基本可观测量 p（动量）、q（位置）和可观测量 t（时间）。这样就能表明，状态空间的基本量 (p, q, t) 是协变性公设意义上的“可观测量”。如果把经典力学的对象理解为属性的承载者，那么显然只需要求它是基本可观测量 p、q、t 的承载者就够了。"
+      ],
+      "units": 87
+    },
+    {
+      "id": "ch09-u039",
+      "source_ids": [
+        "ch09-u039",
+        "ch09-u038",
+        "ch09-u040",
+        "ch09-u041",
+        "ch09-u042",
+        "ch09-u043",
+        "ch09-u044"
+      ],
+      "page": "176",
+      "canonical_kind": "figure",
+      "en": [
+        "Fig. 1 Covariance diagram of classical mechanics"
+      ],
+      "zh": [
+        "图1 经典力学的协变性图"
+      ],
+      "type": "figure",
+      "src": "/writing/constituting-objectivity/assets/ch09-u039.png",
+      "imageWidth": 522,
+      "imageHeight": 325,
+      "sharedFigure": true,
+      "linkImage": true,
+      "parallelFigureCaption": [
+        "Fig. 1 Covariance diagram of classical mechanics",
+        {
+          "type": "break"
+        },
+        "图1 经典力学的协变性图"
+      ],
+      "units": 7
+    },
+    {
+      "id": "ch09-u045",
+      "source_ids": [
+        "ch09-u045"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.4 Classical Objects"
+      ],
+      "zh": [
+        "3.4 经典对象"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch09-u046",
+      "source_ids": [
+        "ch09-u046"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A classical object is a carrier of the properties P ∈ LC, not only in one contingent situation K given by the observers system of coordinates, but also in all other situations K’ that evolve from K by Galileo transformations – where the properties are transformed under these transformations according to the covariance postulate. Mathematically, these objects are representations of the Galileo group. One can further specify this concept by considering different classes. Elementary systems, say, are given by irreducible representations of the Galileo group. For elementary systems that correspond to mass points without geometrical structure, there are no true but only projective representations of the group G. These representations are characterised by one continuous parameter m, which can be interpreted as the “mass” of the object. The next, slightly more general system is a rotating system, with three additional degrees of freedom which correspond to the components of the internal angular momentum.",
+        {
+          "type": "note",
+          "id": "ch09-n13",
+          "label": "13"
+        }
+      ],
+      "zh": [
+        "经典对象是属性 P ∈ LC 的承载者，不仅在由观察者坐标系给出的一个偶然情境 K 中如此，在由 K 经伽利略变换演化出的所有其他情境 K′ 中也是如此——其中属性在这些变换下按协变性公设变换。在数学上，这些对象是伽利略群的表示。考虑不同的类，还可以进一步细化这个概念。例如，基本系统由伽利略群的不可约表示给出。对于对应于没有几何结构的质点的基本系统，群 G 没有真表示，只有射影表示。这些表示由一个连续参数 m 刻画，它可以被解释为对象的“质量”。下一个稍一般的系统是转动系统，它有三个附加自由度，对应于内禀角动量的各分量。",
+        {
+          "type": "note",
+          "id": "ch09-n13",
+          "label": "13"
+        }
+      ],
+      "units": 151
+    },
+    {
+      "id": "ch09-u047",
+      "source_ids": [
+        "ch09-u047"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3.5 Individual Systems"
+      ],
+      "zh": [
+        "3.5 个体系统"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch09-u048",
+      "source_ids": [
+        "ch09-u048"
+      ],
+      "page": "177",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The representations of the Galileo group characterise classes of objects with the same permanent properties. In order to denote an individual system one has to find additional properties that distinguish the system S in question from all the other systems of the same class. Firstly, one has to make clear, whether the triple (p, q, t) is a unique denotation of S, i.e. whether there is only one system with these properties. Secondly, if uniqueness is given, one has to find out in which way the system S defined at time t can be reidentified at some later time t′. In order to guarantee uniqueness of S one needs an additional dynamical principle that excludes that two systems are at the same time t at the same phase point (p, q). Clearly, this postulate is fulfilled if impenetrability in position space is given. In order to guarantee also the reidentifiability of the system S uniquely defined at time t, at a later time value t′, one needs a convenient law which connects the point (p, q)t in phase space (at time t) with the phase point (p, q)t′ (at any other time t′). In classical mechanics, a dynamical law of this kind is given by a Hamiltonian H(p, q) and the canonical equations. This means that an individual system S can be reidentified at any other time value t′ by the (p, q)-values on its dynamical trajectory in phase space. Both requirements for individual objects, the uniqueness and the reidentifyability are usually guaranteed in classical mechanics. Hence, we can name an individual system S permanently by an arbitrary point (pt, qt) on its trajectory."
+      ],
+      "zh": [
+        "伽利略群的表示刻画的是具有相同恒久属性的对象类。要指称一个个体系统，必须找到附加属性，把所论系统 S 与同类的所有其他系统区分开。首先必须澄清，三元组 (p, q, t) 是否是 S 的唯一指称，即是否只有一个系统具有这些属性。其次，如果唯一性成立，就必须弄清在时间 t 定义的系统 S 以何种方式能在较晚时间 t′ 被再识别。要保证 S 的唯一性，需要一个附加的动力学原则，排除两个系统在同一时间 t 处于同一相点 (p, q)。显然，如果位置空间中的不可入性成立，这个公设就得到满足。要保证在时间 t 唯一定义的系统 S 在较晚时刻 t′ 的可再识别性，还需要一条适当的定律，把相空间中（时间 t 的）点 (p, q)ₜ 与（任一其他时间 t′ 的）相点 (p, q)ₜ′ 联系起来。在经典力学中，这类动力学定律由哈密顿量 H(p, q) 和正则方程给出。这意味着，个体系统 S 在任一其他时刻 t′ 都能凭其相空间动力学轨道上的 (p, q) 值被再识别。个体对象的两个要求——唯一性和可再识别性——在经典力学中通常都有保证。因此，我们可以用其轨道上任一点 (pₜ, qₜ) 永久地命名一个个体系统 S。"
+      ],
+      "units": 279
+    },
+    {
+      "id": "ch09-u049",
+      "source_ids": [
+        "ch09-u049"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Objects in Quantum Mechanics"
+      ],
+      "zh": [
+        "4 量子力学中的对象"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch09-u050",
+      "source_ids": [
+        "ch09-u050"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4.1 General Remarks"
+      ],
+      "zh": [
+        "4.1 一般评论"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch09-u051",
+      "source_ids": [
+        "ch09-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In the “Copenhagen interpretation” of quantum mechanics Niels Bohr made use of an empiricist view and considered only measurement results but without assuming that the observed predicates can be attributed to an object as its properties. Bohr used this “Copenhagen interpretation” not for philosophical reasons, but since the assumption of objects, as carriers of properties is – in general – incompatible with quantum mechanics. The reason why the incorporation of objects is impossible is, that quantum systems are not subject to the “principle of complete determination”. Quantum theory of measurement does not allow for determining jointly all possible properties of a given system. In any contingent situation, described by a state Ψ, only a subset PΨ of properties Pi can be measured jointly on the system S. The properties Pi ∈ PΨ are mutually commensurable, i.e. they can be measured in arbitrary sequence without thereby changing the results of the measurements. The measured properties can be related to the object system just as in classical mechanics. Hence, we refer to these properties as the “objective” properties of the system in the state Ψ. However, for any state Ψ there are also non-objective properties Pi ∉ PΨ whose measurement changes the state Ψ of S."
+      ],
+      "zh": [
+        "在量子力学的“哥本哈根解释”中，尼尔斯·玻尔利用了一种经验论观点，只考虑测量结果，而不假定被观察的谓词能作为属性归属于一个对象。玻尔采用这种“哥本哈根解释”不是出于哲学理由，而是因为把对象假定为属性承载者一般与量子力学不相容。对象之所以无法被纳入，是因为量子系统不服从“完全规定原则”。量子测量理论不允许联合规定一个给定系统的所有可能属性。在由态 Ψ 描述的任何偶然情境中，只能在系统 S 上联合测量属性的一个子集 PΨ。属性 Pi ∈ PΨ 是彼此可共测的，即可以按任意顺序测量而不因此改变测量结果。被测量的属性可以像在经典力学中一样关联到对象系统上。因此，我们把这些属性称为系统在态 Ψ 中的“客观”属性。然而，对任何态 Ψ，也存在非客观属性 Pi ∉ PΨ，对它们的测量会改变 S 的态 Ψ。"
+      ],
+      "units": 201
+    },
+    {
+      "id": "ch09-u052",
+      "source_ids": [
+        "ch09-u052"
+      ],
+      "page": "178",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In quantum physics as well as in classical physics for the constitution of objects we to begin with the requirement of objectivity. The observed predicates should refer to an object as its properties. Again, this requirement leads to the necessary preconditions of any objective experience, the categories of substance and causality. However, in the present case the material preconditions of classical experience are not fulfilled, since the systems are not “completely determined”. From these arguments it follows that the causality law in quantum mechanics holds only for the set PΨ of objective properties of the state Ψ(t) at a time value t. The time development of this state is governed by the Schrödinger equation and the state Ψ(t) determines the state Ψ(t′) at any later time t′. However, since the state Ψ corresponds only to the restricted set PΨ of objective properties, at different time values we have different sets of objective properties. Hence, it will in general not be possible to establish a causal connection between a property Pa (t) at time t and the same property Pa (t′) at a later time t′. Consequently, there is only a very limited quantum causality law between the objective properties PΨ and PΨ′ at different time values.",
+        {
+          "type": "note",
+          "id": "ch09-n14",
+          "label": "14"
+        },
+        " Also, Kant’s law of the conservation of substance cannot be valid for “all appearances” and must be restricted to the objective properties PΨ(t)."
+      ],
+      "zh": [
+        "在量子物理学和经典物理学中，构成对象都从客观性要求出发。被观察的谓词应作为属性指称一个对象。同样，这个要求导向任何客观经验的必要前提：实体和因果性范畴。然而在当前情形中，经典经验的质料前提不满足，因为系统不是“完全规定的”。从这些论证可知，量子力学中的因果律只对时刻 t 的态 Ψ(t) 的客观属性集合 PΨ 成立。这个态的时间发展由薛定谔方程支配，态 Ψ(t) 规定任一较晚时间 t′ 的态 Ψ(t′)。然而，由于态 Ψ 只对应于受限的客观属性集合 PΨ，在不同时刻我们有不同的客观属性集合。因此，一般不可能在时刻 t 的属性 Pa(t) 与较晚时刻 t′ 的同一属性 Pa(t′) 之间建立因果联系。结果，在不同时刻的客观属性 PΨ 与 PΨ′ 之间，只有一条非常有限的量子因果律。",
+        {
+          "type": "note",
+          "id": "ch09-n14",
+          "label": "14"
+        },
+        "此外，康德的实体守恒律也不可能对“一切显象”有效，必须限制于客观属性 PΨ(t)。"
+      ],
+      "units": 233
+    },
+    {
+      "id": "ch09-u053",
+      "source_ids": [
+        "ch09-u053"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4.2 Objectivity and Invariance"
+      ],
+      "zh": [
+        "4.2 客观性与不变性"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch09-u054",
+      "source_ids": [
+        "ch09-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In principle, the same way of reasoning which allows for the constitution of objects in classical mechanics can be applied to quantum mechanics. As in classical mechanics, also in quantum mechanics we are interested in the cognition of the external reality and not in the observing subject. This leads again to the requirement of objectivity which means that the fundamental laws of physics are subject to a group of symmetry transformations. Different observers, which are connected by transformations of the invariance group, will then describe the same object of the external reality. The invariance group is again the Galileo group G. The observer corresponds to a classical apparatus, which is associated with a space–time coordinate system. For this reason, the meaning of a passive Galileo transformation is quite similar to the classical case. Different observers are connected by transformations of the Galileo group and the measuring results will then transform “covariant” with respect to these transformations."
+      ],
+      "zh": [
+        "原则上，允许在经典力学中构成对象的那种推理方式，也可以应用于量子力学。与经典力学一样，在量子力学中我们感兴趣的也是认识外部实在，而不是观察主体。这再次导向客观性要求，意味着物理学的基本规律服从一个对称变换群。由不变性群的变换联系起来的不同观察者，于是会描述外部实在的同一个对象。不变性群仍然是伽利略群 G。观察者对应于一个经典仪器，该仪器与一个时空坐标系相联系。因此，被动伽利略变换的意义与经典情形十分相似。不同观察者由伽利略群的变换联系起来，测量结果于是相对于这些变换“协变地”变换。"
+      ],
+      "units": 157
+    },
+    {
+      "id": "ch09-u055",
+      "source_ids": [
+        "ch09-u055"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As in classical mechanics, observables will be characterised by their covariance with respect to the Galileo group. A Galileo covariant observable can be defined as self-adjoint operator or a projection valued measure Φ. Observables of this kind allow for measurements of properties, they are, however, subject to the well-known complementarity restrictions. The properties of a quantum system S at a some time that correspond to yes–no propositions Pᵢ are given by subspaces of the Hilbert space of the system, or by projection operators. If the set {Pᵢ} of propositions is extended by the quantum logical operations ∧, ∨, ¬, and the implication relation ≤, then one arrives at the complete, atomic and orthomodular lattice LQ of Quantum Logic.",
+        {
+          "type": "note",
+          "id": "ch09-n15",
+          "label": "15"
+        }
+      ],
+      "zh": [
+        "与经典力学一样，可观测量将由其相对于伽利略群的协变性来刻画。伽利略协变的可观测量可以定义为自伴算符或投影值测度 Φ。这类可观测量允许测量属性，但受众所周知的互补性限制。量子系统 S 在某一时刻的、对应于“是—否”命题 Pᵢ 的属性，由系统希尔伯特空间的子空间或投影算符给出。如果用量子逻辑运算 ∧、∨、¬ 和蕴涵关系 ≤ 扩充命题集合 {Pᵢ}，就得到量子逻辑的完备、原子、正交模格 LQ。",
+        {
+          "type": "note",
+          "id": "ch09-n15",
+          "label": "15"
+        }
+      ],
+      "units": 115
+    },
+    {
+      "id": "ch09-u056",
+      "source_ids": [
+        "ch09-u056"
+      ],
+      "page": "179",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A quantum mechanical observable Φ is a relation between pointer values Z on the reading scale of the apparatus M and properties of the object system S. Accordingly, an observable is a mapping Φ: B(ℜ) → LQ from the Borel sets B(ℜ) on the real line ℜ to the propositional lattice LQ, i.e. a projection valued measure. An observable is again connected with the invariance group G in a twofold way. The transformation group acts actively on the system changing its properties and it acts passively on the measuring outcomes corresponding to Borel sets B(ℜ). The principle of covariance implies again the equivalence of active and passive transformations.",
+        {
+          "type": "note",
+          "id": "ch09-n16",
+          "label": "16"
+        },
+        {
+          "type": "note",
+          "id": "ch09-n17",
+          "label": "17"
+        }
+      ],
+      "zh": [
+        "量子力学可观测量 Φ 是仪器 M 读数刻度上的指针值 Z 与对象系统 S 的属性之间的一种关系。相应地，可观测量是一个映射 Φ: B(ℝ) → LQ，从实直线 ℝ 上的博雷尔集 B(ℝ) 映到命题格 LQ，即一个投影值测度。可观测量再次以双重方式与不变性群 G 相联系。变换群主动地作用于系统，改变其属性；又被动地作用于对应于博雷尔集 B(ℝ) 的测量结果。协变性原则再次意味着主动变换与被动变换的等价。",
+        {
+          "type": "note",
+          "id": "ch09-n16",
+          "label": "16"
+        },
+        {
+          "type": "note",
+          "id": "ch09-n17",
+          "label": "17"
+        }
+      ],
+      "units": 111
+    },
+    {
+      "id": "ch09-u058",
+      "source_ids": [
+        "ch09-u058",
+        "ch09-u057",
+        "ch09-u059",
+        "ch09-u060",
+        "ch09-u061",
+        "ch09-u062",
+        "ch09-u063",
+        "ch09-u064",
+        "ch09-u065"
+      ],
+      "page": "",
+      "canonical_kind": "figure",
+      "en": [
+        "Fig. 2 Covariance diagram of quantum mechanics"
+      ],
+      "zh": [
+        "图2 量子力学的协变性图"
+      ],
+      "type": "figure",
+      "src": "/writing/constituting-objectivity/assets/ch09-u058.png",
+      "imageWidth": 522,
+      "imageHeight": 325,
+      "sharedFigure": true,
+      "linkImage": true,
+      "parallelFigureCaption": [
+        "Fig. 2 Covariance diagram of quantum mechanics",
+        {
+          "type": "break"
+        },
+        "图2 量子力学的协变性图"
+      ],
+      "units": 7
+    },
+    {
+      "id": "ch09-u066",
+      "source_ids": [
+        "ch09-u066"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hence, the image Φ(Z’) of a transformed pointer value Z’ agrees with the transformed image Φ(Z’) of the pointer value Z, i.e. the diagram in Fig. 2 “commutes”."
+      ],
+      "zh": [
+        "因此，变换后的指针值 Z′ 的像 Φ(Z′)，与对指针值 Z 的像作相应变换所得的结果一致。也就是说，图2是交换图。",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "原印用同一个记号 Φ(Z′) 表示两条路径所得的像。图2右列的含义是先求 Φ(Z)，再作 S(G) 变换。"
+          ]
+        }
+      ],
+      "units": 31
+    },
+    {
+      "id": "ch09-u067",
+      "source_ids": [
+        "ch09-u067"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The difference between the covariance postulates of classical and quantum physics consists in the different propositional systems LC and LQ. The general concept of an observable can again be specified by the fundamental observables q (position), p (momentum) and t (time)."
+      ],
+      "zh": [
+        "经典物理学与量子物理学协变性公设的差别，在于不同的命题系统 LC 和 LQ。可观测量的一般概念可以再次由基本可观测量 q（位置）、p（动量）和 t（时间）来细化。"
+      ],
+      "units": 41
+    },
+    {
+      "id": "ch09-u068",
+      "source_ids": [
+        "ch09-u068"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4.3 Quantum Objects"
+      ],
+      "zh": [
+        "4.3 量子对象"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch09-u069",
+      "source_ids": [
+        "ch09-u069"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A quantum objects is a carrier of the properties P ∈ LQ, not only in one contingent situation K, given by the observers space time coordinates, but also in all other situations K’ that can be obtained from K by Galileo-transformations – where the properties P ∈ LQ, are transformed covariant under these transformations. In spite of the similarities in the method of constitution, between classical objects and quantum objects there are striking differences that come from the different lattices LC and LQ. The propositional system LC is a complete atomic Boolean lattice. Hence, the object S possesses any property P ∈ LC either in the affirmative or in the negative sense, i.e. the object S is completely determined. In contrast to this well known situation, a quantum object S possesses at a certain time t simultaneously only a limited class of commensurable properties given by elements of a Boolean sublattice of LQ. Hence, a quantum system is only carrier of a class of mutually commensurable properties. One can again specify this concept by considering different classes. Elementary quantum systems are given by irreducible unitary representations of the Galileo-group. For elementary objects, there are only projective representations that are characterised by one continuous parameter m which can be interpreted as the mass of the quantum object and which characterises a certain class of objects."
+      ],
+      "zh": [
+        "量子对象是属性 P ∈ LQ 的承载者，不仅在由观察者时空坐标给出的一个偶然情境 K 中如此，在能由 K 经伽利略变换得到的所有其他情境 K′ 中也是如此——其中属性 P ∈ LQ 在这些变换下协变地变换。尽管构成方法相似，经典对象与量子对象之间仍有显著差异，来自不同的格 LC 和 LQ。命题系统 LC 是完备原子布尔格。因此，对象 S 对任何属性 P ∈ LC 或者在肯定意义上、或者在否定意义上拥有它，即对象 S 是完全规定的。与这种众所周知的情形相反，量子对象 S 在某一时刻 t 只同时拥有一类范围受限的可共测属性，由 LQ 的一个布尔子格的元素给出。因此，量子系统只是一个相互可共测的属性类的承载者。考虑不同的类，可以再次细化这个概念。基本量子系统由伽利略群的不可约酉表示给出。对基本对象，只有射影表示，它们由一个连续参数 m 刻画，m 可以被解释为量子对象的质量，并刻画某一类对象。"
+      ],
+      "units": 221
+    },
+    {
+      "id": "ch09-u070",
+      "source_ids": [
+        "ch09-u070"
+      ],
+      "page": "180",
+      "canonical_kind": "heading",
+      "en": [
+        "4.4 Individual Quantum Systems"
+      ],
+      "zh": [
+        "4.4 个体量子系统"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch09-u071",
+      "source_ids": [
+        "ch09-u071"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The characterisation of individual objects in quantum mechanics provides problems, that are different from those discussed by Leibniz, Locke, and Kant. The reasons are that − in contrast to Leibniz − the essential properties are not sufficient for the characterisation of an object and that − in contrast to Locke and Kant − the totality of all accidental properties that were needed for the individualisation is not simultaneously available. Since only some classical properties pertain simultaneously to a quantum system, the determination of quantum systems by their accidental properties is never complete. Hence, the characterisation of individual quantum systems by their permanent properties fails since the permanent properties define classes of objects, and the characterisation of individual systems by their accidental properties cannot be applied, since the accidental properties are not simultaneously available."
+      ],
+      "zh": [
+        "量子力学中个体对象的刻画带来的问题，不同于莱布尼茨、洛克和康德所讨论的问题。原因在于：与莱布尼茨相反，本质属性不足以刻画一个对象；与洛克和康德相反，个体化所需的全部偶然属性无法同时得到。由于只有某些经典属性同时属于一个量子系统，凭偶然属性对量子系统的规定永远是不完全的。因此，凭恒久属性刻画个体量子系统行不通，因为恒久属性定义的是对象类；凭偶然属性刻画个体系统也无法应用，因为偶然属性无法同时得到。"
+      ],
+      "units": 129
+    },
+    {
+      "id": "ch09-u072",
+      "source_ids": [
+        "ch09-u072"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In classical physics, the determination of individuals requires uniqueness and reidentifiability. Uniqueness can be achieved only by a property that is subject to some “generalised impenetrability” which means, that two numerically different objects cannot possess the same value of that property. Reidentifiability means that a measurement of the “individuation property” must be repeatable, since otherwise an object, which was determined by this property at a time t could not be re-identified at a later time t′. Since impenetrability is known to hold for the position observable, in classical physics the position property is used for the determination of individuals. Since repeatability does not provide serious problems, for the permanent characterisation of objects trajectories can be used."
+      ],
+      "zh": [
+        "在经典物理学中，个体的规定要求唯一性和可再识别性。唯一性只能靠一个服从某种“广义不可入性”的属性来达到，意思是两个数目上不同的对象不能拥有该属性的同一个值。可再识别性意味着对“个体化属性”的测量必须可重复，否则在时间 t 凭该属性规定的对象就无法在较晚时间 t′ 被再识别。由于已知不可入性对位置可观测量成立，经典物理学用位置属性来规定个体。由于可重复性不构成严重问题，可以用轨道来永久刻画对象。"
+      ],
+      "units": 116
+    },
+    {
+      "id": "ch09-u073",
+      "source_ids": [
+        "ch09-u073"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In quantum mechanics, the position observable fulfils the impenetrability requirement too and it fulfils the covariance condition with respect to the Euclidean group. However, in the quantum theory of measurement it is well known that repeatability implies discreteness of the measured observable.",
+        {
+          "type": "note",
+          "id": "ch09-n18",
+          "label": "18"
+        },
+        " Since the position observable is continuous, it cannot be measured repeatable and hence it is not possible to re-identify an object by measurement of its position. There are, of course, procedures to discretize a continuous observable. However, a discretization of the position observable would destroy the covariance with respect to the Euclidean group. It is obvious, that the Euclidean covariance must be fulfilled if the position observable shall pertain to the system as an objective property. Hence, individual objects cannot be determined in quantum physics."
+      ],
+      "zh": [
+        "在量子力学中，位置可观测量也满足不可入性要求，并满足相对于欧几里得群的协变性条件。然而，量子测量理论中众所周知：可重复性意味着被测量可观测量的离散性。",
+        {
+          "type": "note",
+          "id": "ch09-n18",
+          "label": "18"
+        },
+        "由于位置可观测量是连续的，它不能被可重复地测量，因此不可能凭位置测量来再识别一个对象。当然，有把连续可观测量离散化的程序。然而，位置可观测量的离散化会破坏相对于欧几里得群的协变性。显然，如果位置可观测量要作为客观属性属于系统，就必须满足欧几里得协变性。因此，在量子物理学中无法规定个体对象。"
+      ],
+      "units": 127
+    },
+    {
+      "id": "ch09-u074",
+      "source_ids": [
+        "ch09-u074"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "5 Concluding Remarks"
+      ],
+      "zh": [
+        "5 结语"
+      ],
+      "type": "subheading",
+      "units": 3
+    },
+    {
+      "id": "ch09-u075",
+      "source_ids": [
+        "ch09-u075"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The transcendental way of reasoning, which was applied by Kant, shows in which way constitution of objects can be achieved. Kant formulated the necessary preconditions that must be fulfilled by the received data if they represent the cognition of an object. We applied these arguments to two different domains."
+      ],
+      "zh": [
+        "康德所应用的先验推理方式表明，对象的构成能以何种方式实现。康德表述了所给材料要能够表达对一个对象的认识，必须满足哪些前提。我们把这些论证应用于两个不同领域。"
+      ],
+      "units": 49
+    },
+    {
+      "id": "ch09-u077",
+      "source_ids": [
+        "ch09-u077"
+      ],
+      "page": "181",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. In the domain of classical physics the transcendental strategy can exactly be applied and it leads to the constitution of classical individual objects, provided these objects are impenetrable or characterised by another uniquely determined property.\n2. In the domain of quantum physics, the same strategy leads to the constitution of quantum objects, but only to classes of the same kind and not to individual objects. In quantum physics, the constitution of individual objects in the strict sense is not possible."
+      ],
+      "zh": [
+        "1. 在经典物理学领域，先验策略可以精确应用，它导致经典个体对象的构成，前提是这些对象不可入，或由另一个唯一确定的属性刻画。\n2. 在量子物理学领域，同一策略导致量子对象的构成，但只导致同一类型对象类的构成，而不是个体对象。在量子物理学中，严格意义上的个体对象的构成是不可能的。"
+      ],
+      "units": 81
+    },
+    {
+      "id": "ch09-u076",
+      "source_ids": [
+        "ch09-u076"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch09-bibliography-001",
+      "source_ids": [
+        "ch09-ref002",
+        "ch09-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Busch, P., Lahti, P. and P. Mittelstaedt (1996), The Quantum Theory of Measurement, 2nd ed., Heidelberg, Germany: Springer."
+      ],
+      "zh": [
+        "Busch, P., Lahti, P. and P. Mittelstaedt (1996), The Quantum Theory of Measurement, 2nd ed., Heidelberg, Germany: Springer."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch09-bibliography-002",
+      "source_ids": [
+        "ch09-ref003",
+        "ch09-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hume, D. (1978), A Treatise of Human Nature, L. A. Selby-Bigge and P. H. Nidditch, eds., Oxford: Clarendon."
+      ],
+      "zh": [
+        "Hume, D. (1978), A Treatise of Human Nature, L. A. Selby-Bigge and P. H. Nidditch, eds., Oxford: Clarendon."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch09-bibliography-003",
+      "source_ids": [
+        "ch09-ref004",
+        "ch09-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I. (1998), Critique of Pure Reason, Translated by P. Guyer and A. W. Wood. Cambridge: Cambridge University Press (Cited: CpR)."
+      ],
+      "zh": [
+        "Kant, I. (1998), Critique of Pure Reason, Translated by P. Guyer and A. W. Wood. Cambridge: Cambridge University Press (Cited: CpR)."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch09-bibliography-004",
+      "source_ids": [
+        "ch09-ref005",
+        "ch09-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Makey, G. (1963), The Mathematical Foundations of Quantum Mechanics, New York: Benjamin."
+      ],
+      "zh": [
+        "Makey, G. (1963), The Mathematical Foundations of Quantum Mechanics, New York: Benjamin."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch09-bibliography-005",
+      "source_ids": [
+        "ch09-ref006",
+        "ch09-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Mittelstaedt, P. (1994), The Constitution of Objects in Kant’s Philosophy and in Modern Physics, in: P. Parrini, ed., Kant and Contemporary Epistemology, Dordrecht, The Netherlands: Kluwer, pp. 115–129."
+      ],
+      "zh": [
+        "Mittelstaedt, P. (1994), The Constitution of Objects in Kant’s Philosophy and in Modern Physics, in: P. Parrini, ed., Kant and Contemporary Epistemology, Dordrecht, The Netherlands: Kluwer, pp. 115–129."
+      ],
+      "shared": true,
+      "units": 29
+    },
+    {
+      "id": "ch09-bibliography-006",
+      "source_ids": [
+        "ch09-ref007",
+        "ch09-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Mittelstaedt, P. (1995), Constitution of Objects in Classical Mechanics and in Quantum Mechanics, International Journal of Theoretical Physics, 34, pp. 1615–1626."
+      ],
+      "zh": [
+        "Mittelstaedt, P. (1995), Constitution of Objects in Classical Mechanics and in Quantum Mechanics, International Journal of Theoretical Physics, 34, pp. 1615–1626."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch09-bibliography-007",
+      "source_ids": [
+        "ch09-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Piron, C. (1976), Foundations of Quantum Physics, Reading, MA: W. A. Benjamin."
+      ],
+      "zh": [
+        "Piron, C. (1976), Foundations of Quantum Physics, Reading, MA: W. A. Benjamin."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch09-bibliography-008",
+      "source_ids": [
+        "ch09-ref008",
+        "ch09-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Sudarshan, E. C. G. and Mukunda, N. (1974), Classical Dynamics: A Modern Perspective, New York: Wiley."
+      ],
+      "zh": [
+        "Sudarshan, E. C. G. and Mukunda, N. (1974), Classical Dynamics: A Modern Perspective, New York: Wiley."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch09-bibliography-009",
+      "source_ids": [
+        "ch09-ref009",
+        "ch09-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Weyl, H. (1927), Philosophie der Mathematik und Naturwissenschaft, English transl.: Philosophy of Mathematics and Natural Sciences (1949), Princeton, NJ: Princeton University Press."
+      ],
+      "zh": [
+        "Weyl, H. (1927), Philosophie der Mathematik und Naturwissenschaft, English transl.: Philosophy of Mathematics and Natural Sciences (1949), Princeton, NJ: Princeton University Press."
+      ],
+      "shared": true,
+      "units": 22
+    }
+  ],
+  "notes": {
+    "ch09-n01": {
+      "number": "1",
+      "en": [
+        "Kant (1998), CpR."
+      ],
+      "zh": [
+        "Kant (1998), CpR."
+      ]
+    },
+    "ch09-n02": {
+      "number": "2",
+      "en": [
+        "Hume (1978) (1748), p. 221"
+      ],
+      "zh": [
+        "Hume (1978) (1748), p. 221"
+      ]
+    },
+    "ch09-n03": {
+      "number": "3",
+      "en": [
+        "Hume (1978) (1748), p. 222"
+      ],
+      "zh": [
+        "Hume (1978) (1748), p. 222"
+      ]
+    },
+    "ch09-n04": {
+      "number": "4",
+      "en": [
+        "Kant (1998), CpR, pp. 227–228."
+      ],
+      "zh": [
+        "Kant (1998), CpR, pp. 227–228."
+      ]
+    },
+    "ch09-n05": {
+      "number": "5",
+      "en": [
+        "Here we could think of the mass, the form, etc. Cf. also Kant (1998), CpR, p. 379."
+      ],
+      "zh": [
+        "这里可以想到质量、形状等等。另参见 Kant (1998), CpR, p. 379。"
+      ]
+    },
+    "ch09-n06": {
+      "number": "6",
+      "en": [
+        "Kant (1998), CpR, p. 553."
+      ],
+      "zh": [
+        "Kant (1998), CpR, p. 553."
+      ]
+    },
+    "ch09-n07": {
+      "number": "7",
+      "en": [
+        "Kant (1998), CpR, p. 368. Cf. also pp. 372–373."
+      ],
+      "zh": [
+        "Kant (1998), CpR, p. 368。另参见 pp. 372–373。"
+      ]
+    },
+    "ch09-n08": {
+      "number": "8",
+      "en": [
+        "It should be added that W.R. Hamilton (1805–1865) was quite familiar with Kant’s Critique of Pure Reason."
+      ],
+      "zh": [
+        "应当补充一点：W. R. 哈密顿（1805–1865）对康德的《纯粹理性批判》相当熟悉。"
+      ]
+    },
+    "ch09-n09": {
+      "number": "9",
+      "en": [
+        "Cf.: Makey, G. (1963); Sudarshan, E.C.G. and Mukunda, N. (1974); Piron, C. (1976)."
+      ],
+      "zh": [
+        "参见：Makey, G. (1963); Sudarshan, E.C.G. and Mukunda, N. (1974); Piron, C. (1976)."
+      ],
+      "editorial": [
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "原印将《量子力学的数学基础》（1963）的作者姓氏写作 Makey。该书署名为 George W. Mackey。"
+          ]
+        }
+      ]
+    },
+    "ch09-n10": {
+      "number": "10",
+      "en": [
+        "This point was emphasised first by Weyl (1927)."
+      ],
+      "zh": [
+        "这一点最早由魏尔（1927）强调。"
+      ]
+    },
+    "ch09-n11": {
+      "number": "11",
+      "en": [
+        "Weyl (1927), pp. 88–89."
+      ],
+      "zh": [
+        "Weyl (1927), pp. 88–89."
+      ]
+    },
+    "ch09-n12": {
+      "number": "12",
+      "en": [
+        "Considerations of this kind can be found in Makey (1963) and in Piron (1976). The connection with Kant’s philosophy is established in Mittelstaedt (1994) and (1995)."
+      ],
+      "zh": [
+        "这类考虑见 Makey (1963) 和 Piron (1976)。与康德哲学的联系建立于 Mittelstaedt (1994) 和 (1995)。"
+      ]
+    },
+    "ch09-n13": {
+      "number": "13",
+      "en": [
+        "For more details cf. Sudarshan et al. (1974), pp. 389ff."
+      ],
+      "zh": [
+        "更多细节参见 Sudarshan et al. (1974), pp. 389ff."
+      ]
+    },
+    "ch09-n14": {
+      "number": "14",
+      "en": [
+        "Cf. Mittelstaedt (1994)."
+      ],
+      "zh": [
+        "参见 Mittelstaedt (1994)."
+      ]
+    },
+    "ch09-n15": {
+      "number": "15",
+      "en": [
+        "Cf. Mittelstaedt (1995)."
+      ],
+      "zh": [
+        "参见 Mittelstaedt (1995)."
+      ]
+    },
+    "ch09-n16": {
+      "number": "16",
+      "en": [
+        "C. Piron (1976) p. 93 ff."
+      ],
+      "zh": [
+        "C. Piron (1976) p. 93 ff."
+      ]
+    },
+    "ch09-n17": {
+      "number": "17",
+      "en": [
+        "Mittelstaedt (1995)."
+      ],
+      "zh": [
+        "Mittelstaedt (1995)."
+      ]
+    },
+    "ch09-n18": {
+      "number": "18",
+      "en": [
+        "Busch et al. (1996)."
+      ],
+      "zh": [
+        "Busch et al. (1996)."
+      ]
+    }
+  }
+}

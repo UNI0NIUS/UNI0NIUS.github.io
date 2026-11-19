@@ -1,0 +1,1441 @@
+{
+  "id": "ch14",
+  "title": "爱因斯坦、康德与相对化先天",
+  "originalTitle": "Einstein, Kant, and the Relativized A Priori",
+  "outline": [
+    {
+      "anchor": "ch14-u033",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch14-u001",
+      "source_ids": [
+        "ch14-u001"
+      ],
+      "page": "253",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch14-u002",
+      "source_ids": [
+        "ch14-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Michael Friedman"
+      ],
+      "zh": [
+        "迈克尔·弗里德曼"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch14-u003",
+      "source_ids": [
+        "ch14-u003"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract I argue that Einstein’s creation of both special and general relativity instantiates Reichenbach’s conception of the relativized a priori. I do this by showing how the original Kantian conception actually contributes to the development of Einstein’s theories through the intervening philosophical and scientific work of Helmholtz, Mach, and Poincaré."
+      ],
+      "zh": [
+        "摘要 我论证，爱因斯坦创立狭义相对论和广义相对论的过程，都是赖欣巴赫所谓相对化先天的实例。我的做法是表明，康德的原初构想如何通过亥姆霍兹、马赫和彭加勒居间的哲学和科学工作，实际促成了爱因斯坦理论的发展。"
+      ],
+      "units": 50
+    },
+    {
+      "id": "ch14-u004",
+      "source_ids": [
+        "ch14-u004"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "M. Friedman Stanford University"
+      ],
+      "zh": [
+        "M. Friedman Stanford University"
+      ],
+      "shared": true,
+      "units": 4
+    },
+    {
+      "id": "ch14-u005",
+      "source_ids": [
+        "ch14-u005"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant’s original version of transcendental philosophy took both Euclidean geometry and the Newtonian laws of motion to be synthetic a priori constitutive principles – which, from Kant’s point of view, function as necessary presuppositions for applying our fundamental concepts of space, time, matter, and motion to our sensible experience of the natural world.",
+        {
+          "type": "note",
+          "id": "ch14-n01",
+          "label": "1"
+        },
+        " Although Kant had very good reasons to view the principles in question as having such a constitutively a priori role, we now know, in the wake of Einstein’s work, that they are not in fact a priori in the stronger sense of being fixed necessary conditions for all human experience in general, eternally valid once and for all. And it is for precisely this reason that Kant’s original version of transcendental philosophy must now be radically reconceived."
+      ],
+      "zh": [
+        "康德原初版本的先验哲学把欧几里得几何和牛顿运动定律都当作先天综合的构成性原理——从康德的观点看，它们是把我们关于空间、时间、物质和运动的基本概念应用于我们对自然世界的感性经验时的必要预设。",
+        {
+          "type": "note",
+          "id": "ch14-n01",
+          "label": "1"
+        },
+        " 尽管康德有很好的理由把上述原理看作具有这种构成性的先天作用，但在爱因斯坦的工作之后我们现在知道，它们事实上并不是更强意义上的先天，即并不是一切人类经验一般而言的固定必要条件，并不是一劳永逸地永远有效。正因如此，康德原初版本的先验哲学现在必须被根本地重新构想。"
+      ],
+      "units": 129
+    },
+    {
+      "id": "ch14-u006",
+      "source_ids": [
+        "ch14-u006"
+      ],
+      "page": "254",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It was Hans Reichenbach, in Relativitätstheorie und Erkenntnis Apriori (1920), who first proposed the idea of relativizing Kantian constitutively a priori principles of geometry and mechanics. Such principles still function, throughout the development from Newton to Einstein, as necessary presuppositions for applying our (changing) conceptions of space, time, and motion to our sensible experience, but they are no longer eternally valid once and for all. Instead of global necessary conditions for all human experience in general, we have merely local necessary conditions for the empirical application of a particular mathematical–physical theory at a given time and in a given historical context. For example, while Euclidean geometry and the Newtonian laws of motion are indeed necessary conditions for giving empirical meaning to the Newtonian theory of universal gravitation, the situation in Einstein’s general theory relativity is quite different. The crucial mediating role between abstract mathematical theory and concrete sensible experience is now played by the light principle and the principle of equivalence, which together insure that Einstein’s revolutionary new description of gravitation by a four-dimensional geometry of variable curvature in fact says something about concrete empirical phenomena: namely, the behavior of light and gravitationally interacting bodies."
+      ],
+      "zh": [
+        "正是汉斯·赖欣巴赫在《相对论与先天认识》（1920）中最先提出了把康德几何学和力学的构成性先天原理相对化的想法。在从牛顿到爱因斯坦的整个发展过程中，这些原理仍然作为把我们（不断变化的）空间、时间和运动概念应用于我们的感性经验的必要预设而起作用，但它们不再一劳永逸地永远有效。我们拥有的不再是一切人类经验一般而言的全局必要条件，而只是在给定时间、给定历史语境中把某个特定数学–物理理论应用于经验时的局部必要条件。例如，尽管欧几里得几何和牛顿运动定律确实是赋予牛顿万有引力理论以经验意义的必要条件，爱因斯坦广义相对论中的情况却相当不同。抽象数学理论与具体感性经验之间的关键中介作用，现在由光速原理和等效原理来承担，它们共同确保爱因斯坦用变曲率四维几何对引力所作的革命性新描述确实适用于具体经验现象，即光的行为以及物体在引力相互作用中的行为。"
+      ],
+      "units": 196
+    },
+    {
+      "id": "ch14-u007",
+      "source_ids": [
+        "ch14-u007"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In my recent book, Dynamics of Reason (2001), I have taken up, and further developed, Reichenbach’s idea. But my implementation of this idea of relativized constitutively a priori principles (of geometry and mechanics) essentially depends on an historical argument describing the developmental process by which the transition from Newton to Einstein actually took place, as mediated, in my view, by the parallel developments in scientific philosophy involving, especially, Hermann von Helmholtz, Ernst Mach, and Henri Poincaré. However, since this argument depends on the concrete details of the actual historical process in question, it would therefore appear to be entirely contingent. How, then, can it possibly be comprehended within a properly transcendental philosophy? Indeed, once we have given up on Kant’s original ambition to delineate in advance the a priori structure of all possible scientific theories, it might easily seem that a properly transcendental argument is impossible. We have no way of anticipating a priori the specific constitutive principles of future theories, and so all we can do, it appears, is wait for the historical process to show us what emerges a posteriori as a matter of fact. So how, more generally, can we develop a philosophical understanding of the evolution of modern science that is at once genuinely historical and properly transcendental?",
+        {
+          "type": "note",
+          "id": "ch14-n02",
+          "label": "2"
+        }
+      ],
+      "zh": [
+        "在我晚近的著作《理性的动力学》（2001）中，我接过并进一步发展了赖欣巴赫的想法。但我将相对化的构成性先天原理应用于几何学和力学，有赖于一项历史论证，说明从牛顿到爱因斯坦的转变实际上是如何发生的；在我看来，这一过程是以科学哲学中的平行发展为中介的，尤其涉及赫尔曼·冯·亥姆霍兹、恩斯特·马赫和亨利·彭加勒。然而，既然这个论证依赖于相关实际历史过程的具体细节，它似乎就完全是偶然的。那么，它怎么可能被纳入一种恰当的先验哲学之中呢？的确，一旦我们放弃了康德预先勾勒一切可能科学理论的先天结构的原初抱负，就很容易显得恰当的先验论证是不可能的。我们无法先天预期未来理论的具体构成性原理，因此我们所能做的似乎只是等待历史过程向我们表明事实上后天出现的东西。那么，更一般地说，我们如何才能发展出一种对现代科学演化的哲学理解，使它既是真正历史的又是恰当先验的？",
+        {
+          "type": "note",
+          "id": "ch14-n02",
+          "label": "2"
+        }
+      ],
+      "units": 212
+    },
+    {
+      "id": "ch14-u008",
+      "source_ids": [
+        "ch14-u008"
+      ],
+      "page": "255",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let us begin by asking how Kant’s original transcendental method is supposed to explain the sense in which certain fundamental principles of geometry and mechanics are, in fact, both a priori and necessary. This method, of course, appeals to Kant’s conception of the two rational faculties of sensibility and understanding. The answer to the question “how is pure mathematics possible?” appeals to the necessary structure of our pure sensibility, as articulated in the Transcendental Aesthetic of the Critique of Pure Reason; the answer to the question “how is pure natural science possible?” appeals to the necessary structure of our pure understanding, as articulated in the Transcendental Analytic. Yet there is an obvious objection to this procedure: how can such proposed transcendental explanations inherit the (assumed) a priori necessity of the sciences whose possibility they purport to explain unless we can also somehow establish that they are the unique such explanations?",
+        {
+          "type": "note",
+          "id": "ch14-n03",
+          "label": "3"
+        },
+        " From our present point of view, for example, it does not appear that Kant’s explanation of the possibility of pure mathematics is uniquely singled out in any way; on the contrary, our greatly expanded conception of purely logical or analytic truth suggests that an appeal to the faculty of pure sensibility may, after all, be entirely superfluous. Indeed, from the point of view of the anti-psychological approach to such questions that dominated much of twentieth-century analytic philosophy, it appears that all consideration of our subjective cognitive faculties is similarly explanatorily superfluous."
+      ],
+      "zh": [
+        "让我们首先问：康德原本的先验方法如何解释，几何学和力学的某些基本原理在哪种意义上既是先天的又是必然的。当然，这个方法诉诸康德关于感性和知性这两种理性官能的构想。对“纯粹数学如何可能？”这个问题的回答诉诸我们纯粹感性的必然结构，如《纯粹理性批判》的“先验感性论”所阐明的那样；对“纯粹自然科学如何可能？”这个问题的回答诉诸我们纯粹知性的必然结构，如“先验分析论”所阐明的那样。然而，对这一程序有一个明显的反驳：除非我们也能以某种方式确立这些先验解释是唯一的此类解释，否则它们如何能继承它们声称要解释其可能性的那些科学的（被假定的）先天必然性？",
+        {
+          "type": "note",
+          "id": "ch14-n03",
+          "label": "3"
+        },
+        " 例如，从我们现在的观点看，康德对纯粹数学之可能性的解释似乎并没有以任何方式被唯一地挑选出来；相反，我们大大扩展了的纯粹逻辑真理或分析真理概念表明，诉诸纯粹感性官能终究可能是完全多余的。的确，从主导了二十世纪分析哲学大部分时期的反心理主义进路的观点看，对我们主观认识官能的一切考虑似乎同样在解释上是多余的。"
+      ],
+      "units": 241
+    },
+    {
+      "id": "ch14-u009",
+      "source_ids": [
+        "ch14-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In Kant’s own intellectual context, however, explanations of scientific knowledge in terms of our cognitive faculties were the norm – for empiricists, rationalists, and (of course) Aristotelians. Everyone agreed, in addition, that the relevant faculties to consider were the senses and the intellect; what was then controversial was the precise nature and relative importance of the two. Empiricist views, which denied the existence of the pure intellect or its importance for scientific knowledge, were, for Kant, simply out of the question, since they make a priori rational knowledge incomprehensible.",
+        {
+          "type": "note",
+          "id": "ch14-n04",
+          "label": "4"
+        },
+        " Moreover, the conception of the pure intellect that was most salient for Kant was that of Leibniz, where the fundamental structure of this faculty is delineated, in effect, by the logical forms of traditional Aristotelian syllogistic. But this conception of the pure intellect, Kant rightly saw, is entirely inadequate for representing, say, the assumed infinite extendibility and divisibility of geometrical space, which had recently proven itself to be both indispensable and extremely fruitful in Newtonian mathematical physics.",
+        {
+          "type": "note",
+          "id": "ch14-n05",
+          "label": "5"
+        },
+        " Nevertheless, Newton’s own conception of space as the divine sensorium was also entirely unacceptable on theological and metaphysical grounds, and so the only live alternative left to Kant was the one he actually came up with: space is a pure form of our sensibility (as opposed to the divine sensibility), wherein both (infinitely iterable) geometrical construction and the perception of spatial objects in nature (like the heavenly bodies) then become first possible.",
+        {
+          "type": "note",
+          "id": "ch14-n06",
+          "label": "6"
+        }
+      ],
+      "zh": [
+        "然而，在康德自己的思想语境中，用我们的认识官能来解释科学知识是常态——对经验论者、理性论者和（当然）亚里士多德主义者来说都是如此。此外，大家都同意，要考虑的相关官能是感官和理智；当时有争议的是两者的确切本性和相对重要性。经验论观点否认纯粹理智的存在或其对科学知识的重要性，对康德来说根本不在考虑之列，因为它们使先天的理性知识变得不可理解。",
+        {
+          "type": "note",
+          "id": "ch14-n04",
+          "label": "4"
+        },
+        " 此外，对康德来说最突出的纯粹理智构想是莱布尼茨的构想，其中这种官能的基本结构实际上是由传统亚里士多德三段论的逻辑形式勾勒的。但康德正确地看到，这种纯粹理智构想完全不足以表征比如几何空间的无限可延伸性和可分性，而后者新近在牛顿数学物理学中已证明自身既不可或缺又极富成果。",
+        {
+          "type": "note",
+          "id": "ch14-n05",
+          "label": "5"
+        },
+        " 尽管如此，牛顿自己关于空间是上帝感知媒介（sensorium）的设想在神学和形而上学上也完全不可接受，因此留给康德的唯一可行选择就是他实际提出的那个：空间是我们人类感性的纯粹形式，有别于神的感性。只有在这种形式中，几何构造（可以无限反复进行）以及对自然中的空间对象（例如天体）的知觉才成为可能。",
+        {
+          "type": "note",
+          "id": "ch14-n06",
+          "label": "6"
+        }
+      ],
+      "units": 237
+    },
+    {
+      "id": "ch14-u010",
+      "source_ids": [
+        "ch14-u010"
+      ],
+      "page": "256",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant’s answers to the questions “how is pure mathematics possible?” and “how is pure natural science possible” therefore operate against the background of an existing set of intellectual resources in a particular historical context. Geometry, for Kant, is limited to the classical system of Euclid; the pure understanding or pure intellect is delimited by the logical forms of Aristotle; the available conceptions of space and time are exhausted by the Leibnizean and Newtonian alternatives; and so on. Kant’s theory of our faculties of sensibility and understanding can only be understood against the background of precisely these resources – mathematical, logical, metaphysical, and theological – as Kant delicately navigates within them and eventually radically transforms them. The revolutionary and completely unexpected result, that space and time are pure forms of our (human) faculty of sensibility and that, considered independently of sensibility, our faculty of understanding yields no (theoretical) cognition at all, then emerges as the practically unique solution to the problem set by the existing intellectual resources: it is the only available conception of our rational faculties that does simultaneous justice to both Newtonian mathematical physics and Leibnizean (as opposed to Newtonian) natural theology and metaphysics."
+      ],
+      "zh": [
+        "因此，康德对“纯粹数学如何可能？”和“纯粹自然科学如何可能？”这两个问题的回答，是以特定历史处境下可利用的思想资源为背景。对康德来说，几何学限于欧几里得的经典体系；纯粹知性或纯粹理智由亚里士多德的逻辑形式划定；可供选择的时空观只有莱布尼茨的和牛顿的两种；如此等等。康德关于我们感性和知性官能的理论，只有恰恰在这些资源——数学的、逻辑的、形而上学的和神学的——的背景下才能被理解，康德在这些资源之间审慎取舍，最终从根本上改造了它们。那个革命性的、完全出人意料的结果——空间和时间是我们（人类的）感性官能的纯粹形式，而独立于感性来考虑，我们的知性官能不产生任何（理论）知识——于是作为既有思想资源所设定问题的实际上唯一的解决方案浮现出来：它是唯一可用的关于我们理性官能的构想，同时兼顾牛顿的数学物理学以及莱布尼茨的（有别于牛顿的）自然神学和形而上学。"
+      ],
+      "units": 193
+    },
+    {
+      "id": "ch14-u011",
+      "source_ids": [
+        "ch14-u011"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is of course entirely contingent that Kant operated against the background of precisely these intellectual resources, just as it is entirely contingent that Kant was born in 1724 and died in 1804. Given these resources, however, and given the problems with which Kant was faced, the solution he came up with is not contingent. On the contrary, the intellectual situation in which he found himself had a definite “inner logic” –mathematical, logical, metaphysical, and theological – which allowed him to triangulate, as it were, on a practically unique (and in this sense necessary) solution."
+      ],
+      "zh": [
+        "当然，康德恰恰在这些思想资源的背景下工作，这完全是偶然的，正如康德生于 1724 年、卒于 1804 年完全是偶然的一样。然而，给定这些资源，给定康德面临的问题，他提出的解决方案就不是偶然的。相反，他发现自己所处的思想形势有一种确定的“内在逻辑”——数学的、逻辑的、形而上学的和神学的——它使他能够好比通过三角测量那样，确定一个在当时实际上唯一的（并在这个意义上必然的）解决方案。"
+      ],
+      "units": 94
+    },
+    {
+      "id": "ch14-u012",
+      "source_ids": [
+        "ch14-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Beginning with this understanding of Kant’s transcendental method and its associated rational necessity, we can then see a way forward for extending this method to post-Kantian developments in both the mathematical exact sciences and transcendental philosophy. We can trace out how the “inner logic” of the relevant intellectual situation evolves and changes after Kant in response to both new developments in the mathematical exact sciences themselves and the manifold and intricate ways in which post-Kantian scientific philosophers attempted to reconfigure Kant’s original version of transcendental philosophy in light of these developments. That each of these successive new intellectual situations has its own “inner logic” implies that the enterprise does not collapse into total contingency; that, in addition, they successively evolve out of, and in light of, Kant’s original system suggests that it may still count as transcendental philosophy. In my reconceived version of transcendental philosophy, therefore, integrated intellectual history of both the exact sciences and scientific philosophy takes over the role of Kant’s original transcendental faculty psychology."
+      ],
+      "zh": [
+        "从这种对康德先验方法及其相伴随的理性必然性的理解出发，我们就能看到一条前进的道路，把这种方法扩展到数学化的精密科学和先验哲学两方面的后康德发展。我们可以追溯相关思想形势的“内在逻辑”在康德之后如何演化和变化，以回应数学化的精密科学本身的新发展，以及后康德科学哲学家们试图根据这些发展重新配置康德原初先验哲学版本的多样而复杂的方式。这些相继的新思想形势每一个都有其自己的“内在逻辑”，这意味着这项事业不会塌缩为彻底的偶然性；此外，它们相继从康德的原初体系中并根据它演化出来，这表明它仍然可以算作先验哲学。因此，在我重新构想的先验哲学版本中，把精密科学与科学哲学结合起来考察的思想史，承担了康德原有的先验官能心理学所起的作用。"
+      ],
+      "units": 167
+    },
+    {
+      "id": "ch14-u013",
+      "source_ids": [
+        "ch14-u013"
+      ],
+      "page": "257",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hermann von Helmholtz’s neo-Kantian scientific epistemology, for example, had deep roots in Kant’s original conception. In particular, Helmholtz developed a distinctive conception of space as a “subjective” and “necessary form of our external intuition” in the sense of Kant; and, while this conception was certainly developed within Helmholtz’s empirical program in sensory psychology and psycho-physics, it nevertheless retained important “transcendental” elements.",
+        {
+          "type": "note",
+          "id": "ch14-n07",
+          "label": "7"
+        },
+        " More specifically, space is “transcendental,” for Helmholtz, in so far as the principle of free mobility (which allows arbitrary continuous motions of rigid bodies) is a necessary condition for the possibility of spatial measurement – and, indeed, for the very existence of space and spatial objects. Moreover, the condition of free mobility represents a natural generalization of Kant’s original (Euclidean) conception of geometrical construction, in the sense that Euclidean constructions with straight-edge and compass, carried out within Kant’s form of spatial intuition, are generated by the group of specifically Euclidean rigid motions (translations and rotations). The essential point, however, is that free mobility also holds for the classical non-Euclidean geometries of constant curvature (hyperbolic and elliptic), and so it is no longer a “transcendental” and “necessary” condition of our spatial intuition, for Helmholtz, that the space constructed from our perception of bodily motion obeys the specific laws of Euclidean geometry. Nevertheless, Helmholtz’s generalization of the Kantian conception of spatial intuition is, in an important sense, the minimal (and in this sense unique) such generalization consistent with the nineteenth-century discovery of non-Euclidean geometries.",
+        {
+          "type": "note",
+          "id": "ch14-n08",
+          "label": "8"
+        }
+      ],
+      "zh": [
+        "例如，赫尔曼·冯·亥姆霍兹的新康德主义科学认识论在康德的原初构想中有深厚的根基。特别是，亥姆霍兹发展了一种独特的空间构想，把空间当作康德意义上的“主观的”和“我们外部直观的必然形式”；尽管这个构想确实是在亥姆霍兹的感觉心理学和心理物理学的经验纲领中发展起来的，它仍然保留了重要的“先验”要素。",
+        {
+          "type": "note",
+          "id": "ch14-n07",
+          "label": "7"
+        },
+        " 更具体地说，对亥姆霍兹来说，空间是“先验的”，因为自由运动性（free mobility）原理（它允许刚体的任意连续运动）是空间测量之可能性的必要条件——而且确实是空间和空间对象之存在的必要条件。此外，自由运动性条件代表了康德原初（欧几里得式）几何构造构想的一种自然推广，其意义在于：在康德的空间直观形式中，以直尺和圆规进行的欧几里得作图，由欧几里得空间特有的刚性运动（平移和旋转）所成的群生成。然而，关键之点在于，自由运动性对经典的常曲率非欧几何（双曲几何和椭圆几何）也成立，因此对亥姆霍兹来说，从我们对物体运动的知觉构造出来的空间服从欧几里得几何的特殊定律，不再是我们空间直观的一个“先验的”和“必然的”条件。尽管如此，亥姆霍兹对康德空间直观构想的推广，在一个重要意义上是与十九世纪非欧几何的发现相一致的最小的（并在这个意义上唯一的）此类推广。",
+        {
+          "type": "note",
+          "id": "ch14-n08",
+          "label": "8"
+        }
+      ],
+      "units": 242
+    },
+    {
+      "id": "ch14-u014",
+      "source_ids": [
+        "ch14-u014"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The great French mathematician Henri Poincaré then transformed Helmholtz’s conception in turn. In particular, Poincaré’s use of the principle of free mobility (which plays a central role in his philosophy of geometry) is explicitly framed by a hierarchical conception of the mathematical sciences, beginning with arithmetic and proceeding through analysis, geometry, mechanics, and empirical physics; and, for Poincaré, it follows that one should thereby explain the application of pure mathematics to our perceptual experience precisely in terms of the hierarchy in question.",
+        {
+          "type": "note",
+          "id": "ch14-n09",
+          "label": "9"
+        }
+      ],
+      "zh": [
+        "伟大的法国数学家亨利·彭加勒进而改造了亥姆霍兹的构想。特别是，彭加勒对自由运动性原理的使用（它在他的几何哲学中起核心作用）明确地由一种数学科学的层级构想所框定，这个层级从算术开始，经过分析、几何、力学，到经验物理学；而且对彭加勒来说，由此应当恰恰用这个层级来解释纯粹数学对我们知觉经验的应用。",
+        {
+          "type": "note",
+          "id": "ch14-n09",
+          "label": "9"
+        }
+      ],
+      "units": 82
+    },
+    {
+      "id": "ch14-u015",
+      "source_ids": [
+        "ch14-u015"
+      ],
+      "page": "258",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Poincaré, to begin with, views pure arithmetic as a synthetic a priori science involving the ineliminable use of an essentially non-logical principle of reasoning by recurrence or mathematical induction. This principle, for Poincaré, rests on the fundamental intuition of indefinitely repeatable succession or iteration – a conception which is very close indeed to Kant’s original philosophy of arithmetic.",
+        {
+          "type": "note",
+          "id": "ch14-n10",
+          "label": "10"
+        },
+        " At the next lower level of the hierarchy is analysis or the theory of mathematical magnitude (also explained with an eye towards its intuitive meaning and perceptual application); and, at a crucial intermediate level, below the sciences of arithmetic and analysis but above the sciences of mechanics and empirical physics, is the science of geometry. In particular, whereas the mathematical structure and empirical meaning of the science of geometry presupposes the existence of the two preceding sciences, it is presupposed, in turn, by the two succeeding ones."
+      ],
+      "zh": [
+        "首先，彭加勒把纯粹算术看作一门先天综合科学，它必须运用本质上非逻辑的递推原理，即数学归纳原理。对彭加勒来说，这个原理基于可以无止境地重复的相继过程或迭代这一基本直观——这个构想确实非常接近康德原初的算术哲学。",
+        {
+          "type": "note",
+          "id": "ch14-n10",
+          "label": "10"
+        },
+        " 层级的下一个较低层次是分析或数学量的理论（也着眼于其直观意义和知觉应用来解释）；而在一个关键的中间层次，低于算术和分析这两门科学但高于力学和经验物理学这两门科学的，是几何学。特别是，几何学的数学结构和经验意义以前两门科学的存在为前提，而它反过来又是后两门科学的前提。"
+      ],
+      "units": 144
+    },
+    {
+      "id": "ch14-u016",
+      "source_ids": [
+        "ch14-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This hierarchical conception of the mathematical sciences underlies Poincaré’s fundamental disagreement with Helmholtz. For Helmholtz, as we have seen, the principle of free mobility expresses the necessary structure of our form of external intuition, and, following Kant, Helmholtz views all empirical investigation as necessarily taking place within this already given form. Helmholtz’s conception is Kantian, that is, in so far as space has a “necessary form” expressed in the condition of free mobility, but it is also empiricist in so far as which of the three possible geometries of constant curvature obtains is then determined by experience. For Poincaré, by contrast, although the principle of free mobility is still fundamental, our actual perceptual experience of bodily “displacements” arising in accordance with this principle is far too imprecise and indefinite to yield the empirical determination of a specific mathematical geometry: our only option, at this point, is to stipulate Euclidean geometry by convention, as the simplest and most convenient idealization of our actual perceptual experience. In particular, experiments with putatively rigid bodies, for Poincaré, involve essentially physical processes at the level of mechanics and experimental physics, and these sciences, in turn, presuppose that the science of geometry is already firmly in place. In the context of Poincaré’s hierarchy, therefore, the principle of free mobility expresses our necessary freedom to choose – by a “convention or definition in disguise” – which of the three classical geometries of constant curvature is the most suitable idealization of physical space."
+      ],
+      "zh": [
+        "这种数学科学的层级构想是彭加勒与亥姆霍兹根本分歧的基础。如我们所见，对亥姆霍兹来说，自由运动性原理表达了我们外部直观形式的必然结构，而且追随康德，亥姆霍兹把一切经验研究看作必然在这个已被给予的形式中进行。亥姆霍兹的构想是康德式的，因为空间具有以自由运动性条件表达的“必然形式”；但它也是经验论的，因为三种可能的常曲率几何中哪一种成立，是由经验决定的。相反，对彭加勒来说，尽管自由运动性原理仍然是基本的，我们实际知觉到的、遵循该原理的物体“位移”太不精确、太不确定，不足以根据经验选定某一种数学几何：在这一点上，我们唯一的选择是通过约定把欧几里得几何规定为我们实际知觉经验的最简单、最方便的理想化。特别是，对彭加勒来说，用假定为刚体的物体做的实验涉及力学和实验物理学层次上本质上是物理的过程，而这些科学又以已经确立的几何学为前提。因此，在彭加勒的层级语境中，自由运动性原理表达了我们必然的选择自由——通过一个“约定或伪装的定义”——选择三种经典常曲率几何中哪一种是对物理空间最合适的理想化。"
+      ],
+      "units": 243
+    },
+    {
+      "id": "ch14-u017",
+      "source_ids": [
+        "ch14-u017"
+      ],
+      "page": "259",
+      "canonical_kind": "paragraph",
+      "en": [
+        "One of the most important applications of Poincaré’s hierarchical conception involves his characteristic perspective on the problem of absolute space and the relativity of motion explained in his discussion of the next lower level in the hierarchy: (classical) mechanics. Poincaré’s key idea is that what he calls the (physical) “law of relativity” rests squarely on the “relativity and passivity of space” and therefore reflects the circumstance, essential to free mobility, that the space constructed from our experience of bodily displacements is both homogeneous and isotropic: all points in space, and all directions through any given point, are, necessarily, geometrically equivalent.",
+        {
+          "type": "note",
+          "id": "ch14-n11",
+          "label": "11"
+        },
+        " Thus, Poincaré’s conception of the relativity of motion depends entirely on his philosophy of geometry, and this is especially significant, from our present point of view, because Poincaré’s ideas on the relativity of motion were also inextricably entangled with the deep problems then afflicting the electrodynamics of moving bodies that were eventually solved (according to our current understanding) by Einstein’s special theory of relativity."
+      ],
+      "zh": [
+        "彭加勒层级构想最重要的应用之一，涉及他对绝对空间问题和运动相对性问题的典型视角，这在他对层级中下一个较低层次即（经典）力学的讨论中得到了阐明。彭加勒的关键想法是，他所谓的（物理的）“相对性定律”完全基于“空间的相对性和被动性”，因此反映了对自由运动性至关重要的情况：从我们对物体位移的经验构造出来的空间既是均匀的又是各向同性的：空间中的一切点，以及通过任何给定点的一切方向，都必然在几何上等价。",
+        {
+          "type": "note",
+          "id": "ch14-n11",
+          "label": "11"
+        },
+        " 因此，彭加勒的运动相对性构想完全依赖于他的几何哲学，而从我们现在的观点看这尤其重要，因为彭加勒关于运动相对性的想法也与当时困扰运动物体电动力学的深层问题不可分割地纠缠在一起，而这些问题最终（按照我们现在的理解）由爱因斯坦的狭义相对论解决了。"
+      ],
+      "units": 164
+    },
+    {
+      "id": "ch14-u018",
+      "source_ids": [
+        "ch14-u018"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "I shall return to Einstein below, but I first want to emphasize that the connection Poincaré makes between his philosophy of geometry and the relativity of motion represents a continuation of a problematic originally prominent in Kant. Helmholtz, as we have seen, transformed Kant’s philosophy of space and geometry, and Ernst Mach, among others, participated in a parallel transformation of Kant’s approach to the relativity of motion – which finally eventuated in the modern concept of an inertial frame of reference.",
+        {
+          "type": "note",
+          "id": "ch14-n12",
+          "label": "12"
+        },
+        " Neither Helmholtz nor Mach, however, established any kind of conceptual connection between the foundations of geometry and the relativity of motion – which, at the time, appeared to be entirely independent of one another. Yet it was an especially central feature of Kant’s original approach to transcendental philosophy that the two were in fact closely connected. While Kant’s answer to the question “how is pure mathematics possible?” essentially involved his distinctive perspective on Euclidean constructive operations, his answer to the question “how is pure natural science possible” involved an analogous constructive procedure by which Newton, from Kant’s point of view, arrived at successive approximations to “absolute space” via a definite sequence of rule-governed operations starting with our parochial perspective here on earth and then proceeding to the center of mass of the solar system, the center of mass of the Milky Way galaxy, the center of mass of a system of such galaxies, and so on ad infinitum.",
+        {
+          "type": "note",
+          "id": "ch14-n13",
+          "label": "13"
+        },
+        " Indeed, the way in which Kant thereby established a connection between the problem of space and geometry and the problem of the relativity of motion was intimately connected, in turn, with both the overarching conception of the relationship between sensibility and understanding that frames his transcendental method and his characteristic perspective, more generally, on the relationship between constitutive and regulative transcendental principles.",
+        {
+          "type": "note",
+          "id": "ch14-n14",
+          "label": "14"
+        }
+      ],
+      "zh": [
+        "我将在下面回到爱因斯坦，但我首先想强调，彭加勒在他的几何哲学和运动相对性之间建立的联系，代表了一个最初在康德那里突出的问题域的延续。如我们所见，亥姆霍兹改造了康德的空间和几何哲学，而恩斯特·马赫等人参与了对康德运动相对性进路的平行改造——这次改造最终产生了现代惯性参考系概念。",
+        {
+          "type": "note",
+          "id": "ch14-n12",
+          "label": "12"
+        },
+        " 然而，亥姆霍兹和马赫都没有在几何学基础与运动相对性之间建立任何概念联系——在当时，两者显得完全相互独立。然而，康德原初先验哲学进路的一个尤其核心的特征是，两者事实上密切相关。康德对“纯粹数学如何可能？”的回答本质上涉及他对欧几里得构造操作的独特视角，而他对“纯粹自然科学如何可能？”的回答涉及一个类似的构造程序：从康德的观点看，牛顿通过这个程序，从我们局限于地球的视角出发，经过一系列确定的受规则支配的操作，相继进展到太阳系的质心、银河系的质心、由这类星系组成的系统的质心，如此等等以至无穷，从而逐步逼近“绝对空间”。",
+        {
+          "type": "note",
+          "id": "ch14-n13",
+          "label": "13"
+        },
+        " 的确，康德由此在空间和几何问题与运动相对性问题之间建立联系的方式，又与框定其先验方法的感性和知性关系的总体构想，以及更一般地说他关于构成性和调节性先验原理之关系的典型视角，密切相连。",
+        {
+          "type": "note",
+          "id": "ch14-n14",
+          "label": "14"
+        }
+      ],
+      "units": 299
+    },
+    {
+      "id": "ch14-u019",
+      "source_ids": [
+        "ch14-u019"
+      ],
+      "page": "260",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Now it was Mach, as I have suggested, who first forged a connection between Kant’s original solution to the problem of “absolute space” and the late nineteenth-century solution based on the concept of an inertial frame of reference.",
+        {
+          "type": "note",
+          "id": "ch14-n15",
+          "label": "15"
+        },
+        " And it is clear, moreover, that Poincaré was familiar with this late nineteenth-century solution as well. However, it is also clear that Poincaré’s attempt to base his discussion of the relativity of motion on his philosophy of geometry runs into serious difficulties at precisely this point; for Poincaré is here forced to distinguish his “law of relativity” from what he calls the “principle of relative motion.” The latter applies only to inertial frames of reference, moving uniformly and rectilinearly with respect to one another, while the latter applies, as well, to non-inertial frames of reference in a state of uniform rotation: it follows from the “relativity and passivity” of space, for Poincaré, that uniform rotations of our coordinate axes should be just as irrelevant to the motions of a physical system as uniform translations. Therefore, the full “law of relativity,” as Poincaré says, “ought to impose itself upon us with the same force” as does the more restricted “principle of relative motion.” Poincaré must also admit, however, that the more extended “law of relativity” does not appear to be in accordance with our experiments (e.g., Newton’s famous rotating bucket experiment).",
+        {
+          "type": "note",
+          "id": "ch14-n16",
+          "label": "16"
+        }
+      ],
+      "zh": [
+        "如我所提示的，正是马赫最先把康德对“绝对空间”问题的原初解决方案与基于惯性参考系概念的十九世纪晚期解决方案联系起来。",
+        {
+          "type": "note",
+          "id": "ch14-n15",
+          "label": "15"
+        },
+        " 而且很清楚，彭加勒也熟悉这个十九世纪晚期的解决方案。然而同样清楚的是，彭加勒试图把他对运动相对性的讨论基于他的几何哲学，恰恰在这一点上遇到了严重困难；因为彭加勒在这里被迫把他的“相对性定律”与他所谓的“相对运动原理”区别开来。后者只适用于相互作匀速直线运动的惯性参考系，而前者也适用于处于匀速旋转状态的非惯性参考系：对彭加勒来说，从空间的“相对性和被动性”得出，我们坐标轴的匀速旋转应当与匀速平移一样与物理系统的运动无关。因此，正如彭加勒所说，完整的“相对性定律”“应当以同样的力量强加于我们”，就像更受限制的“相对运动原理”一样。然而，彭加勒也必须承认，更扩展的“相对性定律”似乎与我们的实验（例如牛顿著名的旋转水桶实验）不一致。",
+        {
+          "type": "note",
+          "id": "ch14-n16",
+          "label": "16"
+        },
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "原书在此连续两次使用 “the latter”，按随后对两种原理适用范围的说明，第二处应指前者，即“相对性定律”。"
+          ]
+        }
+      ],
+      "units": 229
+    },
+    {
+      "id": "ch14-u020",
+      "source_ids": [
+        "ch14-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It is for this reason that Einstein’s appeal to what he calls the “principle of relativity” in his 1905 paper on special relativity is entirely independent of Poincaré’s “law of relativity,” and it is also independent, accordingly, of Poincaré’s “conventionalist” philosophy of geometry. Einstein’s principle is limited, from the beginning, to inertial frames of reference (moving relative to one another with constant velocity and no rotation), and his concern is rather to apply this (limited) principle of relativity to both electro-magnetic and mechanical phenomena. Thus, in particular, whereas Poincaré’s “law of relativity” involves very strong a priori motivations deriving from his philosophy of geometry (based on the “relativity and passivity of space”), Einstein’s “principle of relativity” rests on the emerging experimental evidence suggesting that electro-magnetic and optical phenomena do not in fact distinguish one inertial frame from another. Einstein “conjectures” that this experimentally suggested law holds rigorously (and for all orders), and he proposes to “elevate” it to the status of a presupposition or postulate upon which a consistent electrodynamics of moving bodies may then be erected:"
+      ],
+      "zh": [
+        "正因如此，爱因斯坦在其 1905 年狭义相对论论文中对他所谓的“相对性原理”的诉诸，完全独立于彭加勒的“相对性定律”，因而也独立于彭加勒的“约定主义”几何哲学。爱因斯坦的原理从一开始就限于惯性参考系（相互以恒定速度运动且无旋转），他关心的是把这个（受限的）相对性原理同时应用于电磁现象和力学现象。因此，特别是，彭加勒的“相对性定律”涉及从他的几何哲学（基于“空间的相对性和被动性”）导出的很强的先天动机，而爱因斯坦的“相对性原理”基于当时新出现的实验证据。这些证据表明，从电磁和光学现象无法区分不同的惯性系。爱因斯坦“猜想”这个由实验提示的定律严格成立（在所有近似阶次上都成立），他提议把它“提升”为一个预设或公设的地位，在此基础上可以建立起融贯的运动物体电动力学："
+      ],
+      "units": 177
+    },
+    {
+      "id": "ch14-u023",
+      "source_ids": [
+        "ch14-u023"
+      ],
+      "page": "261",
+      "canonical_kind": "quote",
+      "en": [
+        "Examples of this sort [the relatively moving conductor and magnet—MF], together with the unsuccessful attempts to discover any motion of the earth relative to the “light medium,” suggest that the phenomena of electrodynamics as well as mechanics possess no properties corresponding to the idea of absolute rest. They suggest rather that, as has already been shown to the first order of small quantities, the same laws of electrodynamics and optics will be valid for all frames of reference for which the equations of mechanics are valid. We will elevate [erheben] this conjecture (whose content will be called the “principle of relativity” in what follows) to the status of a postulate [Voraussetzung], and also introduce another postulate, which is only apparently irreconcilable with it, namely, that light is always propagated in empty space with a definite velocity c which is independent of the state of motion of the emitting body. These two postulates suffice for attaining a simple and consistent theory of the electrodynamics of moving bodies based on Maxwell’s theory for stationary bodies. (1905, pp. 891–892, 1923, pp. 37–38)"
+      ],
+      "zh": [
+        "这类例子［相对运动的导体和磁体——MF］，加上旨在探测地球相对于“光介质”的运动却一无所获的各种尝试，表明电动力学和力学的现象都不具有与绝对静止观念相对应的性质。这些事例反而表明，正如在小量的一阶近似下已经证实的那样，同样的电动力学和光学定律对所有力学方程成立的参考系都有效。我们将把这个猜想（其内容在下文中将被称为“相对性原理”）提升［erheben］为一个公设［Voraussetzung］的地位，并且引入另一个只是表面上与它不可调和的公设，即光在真空中总是以确定的速度 c 传播，这个速度与发射体的运动状态无关。这两个公设足以在静止物体的麦克斯韦理论的基础上达到一个简单而融贯的运动物体电动力学理论。（1905, pp. 891–892, 1923, pp. 37–38）"
+      ],
+      "type": "quote",
+      "units": 182
+    },
+    {
+      "id": "ch14-u021",
+      "source_ids": [
+        "ch14-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hence, Einstein’s understanding of the principle of relativity is also entirely independent of Poincaré’s carefully constructed hierarchy of the mathematical sciences, and it is for precisely this reason, I suggest, that Poincaré himself could never accept Einstein’s theory.",
+        {
+          "type": "note",
+          "id": "ch14-n17",
+          "label": "17"
+        }
+      ],
+      "zh": [
+        "因此，爱因斯坦对相对性原理的理解也完全独立于彭加勒精心构造的数学科学层级，而我提出，正因如此，彭加勒本人永远无法接受爱因斯坦的理论。",
+        {
+          "type": "note",
+          "id": "ch14-n17",
+          "label": "17"
+        }
+      ],
+      "units": 38
+    },
+    {
+      "id": "ch14-u022",
+      "source_ids": [
+        "ch14-u022"
+      ],
+      "page": "262",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Nevertheless, it appears overwhelmingly likely that, although Einstein did not embrace Poincaré’s “conventionalist” philosophy of geometry, Einstein’s use of the principle of relativity was explicitly inspired by Poincaré’s more general methodology described in La Science et l’Hypothèse – according to which the fundamental principles of mechanics, in particular, are “conventions or definitions in disguise” arising from “experimental laws” that “have been elevated into principles to which our mind attributes an absolute value.”",
+        {
+          "type": "note",
+          "id": "ch14-n18",
+          "label": "18"
+        },
+        " In Einstein’s case, the experimental law in question comprises the recent results in electrodynamics and optics, and Einstein now proposes to “elevate” both the principle of relativity and the light principle (which together imply that the velocity of light is invariant in all inertial frames) to the status of “presuppositions” or “postulates.” These two postulates together then allow us to “stipulate” a new “definition of simultaneity” (based on the assumed invariance of the velocity of light) implying a radical revision of the classical kinematics of space, time, and motion. In particular, whereas the fundamental kinematical structure of an inertial frame of reference, in classical mechanics, is defined by the Newtonian laws of motion, (a revised version of) this same structure, in Einstein’s theory, is rather defined by his two postulates.",
+        {
+          "type": "note",
+          "id": "ch14-n19",
+          "label": "19"
+        }
+      ],
+      "zh": [
+        "爱因斯坦虽然没有接受彭加勒的“约定主义”几何哲学，他运用相对性原理的方式却极有可能直接得益于彭加勒在《科学与假设》中阐述的更一般的方法论——按照这种方法论，特别是力学的基本原理是“约定或伪装的定义”，它们来自“被提升为我们的心灵赋予其绝对价值的原理”的“实验定律”。",
+        {
+          "type": "note",
+          "id": "ch14-n18",
+          "label": "18"
+        },
+        " 在爱因斯坦的情形中，相关的实验定律包括电动力学和光学的晚近结果，而爱因斯坦现在提议把相对性原理和光速原理（它们共同蕴涵光速在所有惯性系中不变）都“提升”为“预设”或“公设”的地位。于是这两个公设共同允许我们“规定”一个新的“同时性定义”（基于光速不变的假定），它蕴涵对空间、时间和运动的经典运动学的根本修正。特别是，在经典力学中，惯性参考系的基本运动学结构由牛顿运动定律定义，而在爱因斯坦的理论中，这同一个结构（的修正版本）却由他的两个公设定义。",
+        {
+          "type": "note",
+          "id": "ch14-n19",
+          "label": "19"
+        }
+      ],
+      "units": 201
+    },
+    {
+      "id": "ch14-u024",
+      "source_ids": [
+        "ch14-u024"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A central contention of Kant’s original version of transcendental philosophy, as we know, is that the Newtonian laws of motion are not mere empirical laws but a priori constitutive principles on the basis of which alone the Newtonian concepts of space, time, and motion can then have empirical application and meaning. What we have just seen is that Einstein’s two fundamental “presuppositions” or “postulates” play a precisely parallel role in the context of special relativity. But we have also seen significantly more. For Poincaré’s conception of how a mere empirical law can be “elevated” to the status of a “convention or definition in disguise” is a continuation, in turn, of Kant’s original conception of the constitutive a priori. Whereas Helmholtz’s principle of free mobility generalized and extended Kant’s original theory of geometrical construction within our “subjective” and “necessary form of external intuition,” Poincaré’s idea that specifically Euclidean geometry is then imposed on this form by a “convention or definition in disguise” represents an extension or continuation of Helmholtz’s conception. In particular, specifically Euclidean geometry is applied to our experience by precisely such a process of “elevation,” in which the merely empirical fact that this geometry governs, very roughly and approximately, our actual perceptual experience of bodily displacements gives rise to a precise mathematical framework within which alone our properly physical theories can subsequently be formulated.",
+        {
+          "type": "note",
+          "id": "ch14-n20",
+          "label": "20"
+        }
+      ],
+      "zh": [
+        "我们知道，康德原初先验哲学的一个核心主张是，牛顿运动定律不是单纯的经验定律，而是先天构成性原理，只有在此基础上，牛顿的空间、时间和运动概念才能有经验应用和意义。我们刚才看到，爱因斯坦的两个基本“预设”或“公设”在狭义相对论语境中起了恰恰平行的作用。但这一对照还揭示了更多。因为彭加勒关于单纯的经验定律如何能被“提升”为“约定或伪装的定义”的构想，又是康德原初构成性先天构想的延续。亥姆霍兹的自由运动性原理在我们“主观的”和“外部直观的必然形式”之内推广和扩展了康德原初的几何构造理论，而彭加勒关于欧几里得几何这一特定的几何系统然后通过“约定或伪装的定义”被加于这个形式之上的想法，代表了亥姆霍兹构想的扩展或延续。特别是，欧几里得几何这一特定的几何系统正是通过这样一个“提升”过程被应用于我们的经验的：在这个过程中，我们对物体位移的实际知觉经验只在粗略的近似下符合欧几里得几何。借助这一经验事实，我们形成了精确的数学框架，而后只有在这个框架中才能表述真正的物理理论。",
+        {
+          "type": "note",
+          "id": "ch14-n20",
+          "label": "20"
+        }
+      ],
+      "units": 225
+    },
+    {
+      "id": "ch14-u025",
+      "source_ids": [
+        "ch14-u025"
+      ],
+      "page": "263",
+      "canonical_kind": "paragraph",
+      "en": [
+        "This same process of “elevation,” in Einstein’s hands, then makes it clear how an extension or continuation of Kant’s original conception can also accommodate new and surprising empirical facts – in this case, the very surprising empirical discovery (to one or another degree of approximation) that light has the same constant velocity in every inertial frame. It now turns out, in particular, that we can not only impose already familiar and accepted mathematical frameworks (Euclidean geometry) on our rough and approximate perceptual experience, but, in appropriate circumstances, we can also impose entirely unfamiliar ones (the kinematical framework of special relativity). Einstein’s creation of special relativity, from this point of view, thus represents the very first instantiation of a relativized and dynamical conception of the a priori – which, in virtue of precisely its historical origins, has a legitimate claim to be considered as genuinely constitutive in the transcendental sense. And what vindicates this claim, accordingly, is a reconceived version of transcendental philosophy where precisely the kind of integrated intellectual history I have been trying to exemplify takes the place of Kant’s original transcendental faculty psychology: in particular, that the “inner logic” of the successive intellectual situations in question proceeds against the background of, and explicitly in light of, Kant’s original theory is what makes this enterprise properly “transcendental.”"
+      ],
+      "zh": [
+        "于是，这同一个“提升”过程在爱因斯坦手中表明，康德原初构想的扩展或延续如何也能容纳新的、令人惊讶的经验事实——在这里，就是（在某种近似程度上）光在每个惯性系中都有相同的恒定速度这一非常令人惊讶的经验发现。现在特别表明，我们不仅可以把已经熟悉和接受的数学框架（欧几里得几何）加于我们粗略近似的知觉经验之上，而且在适当情况下，我们也可以把完全陌生的框架（狭义相对论的运动学框架）加于其上。从这个观点看，爱因斯坦对狭义相对论的创立代表了相对化的、动力学的先天构想的第一个实例——这个构想恰恰凭借其历史起源，有合法的权利要求被视为真正先验意义上的构成性的。这一主张的根据，在于对先验哲学的重新构想。在这种构想中，康德原有的先验官能心理学的位置，由我一直试图展示的那种整合科学与科学哲学的思想史所取代：特别是，相关相继思想形势的“内在逻辑”以康德的原初理论为背景并明确根据它进展，这一点使这项事业成为恰当“先验的”。"
+      ],
+      "units": 216
+    },
+    {
+      "id": "ch14-u026",
+      "source_ids": [
+        "ch14-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Yet Einstein’s creation of the general theory of relativity in 1915 involved an even more striking engagement with Poincaré’s “conventionalist” methodology, which, I contend, makes the transcendentally constitutive role of this theory’s fundamental postulates (the light principle and the principle of equivalence) even more evident."
+      ],
+      "zh": [
+        "然而，爱因斯坦 1915 年对广义相对论的创立涉及与彭加勒“约定主义”方法论的甚至更引人注目的交锋，我认为，这使这个理论的基本公设（光速原理和等效原理）的先验构成性作用更加明显。"
+      ],
+      "units": 45
+    },
+    {
+      "id": "ch14-u027",
+      "source_ids": [
+        "ch14-u027"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The first point to make, in this connection, is that the principle of equivalence (together with the light principle) plays the same role in the context of the general theory that Einstein’s two fundamental “presuppositions” or “postulates” played in the context of the special theory: namely, they define a new inertial-kinematical structure for describing space, time, and motion. Because Newtonian gravitation theory involves an instantaneous action at a distance (and therefore absolute simultaneity: compare note 18 above), it was necessary after special relativity to develop a new theory of gravitation where the interactions in question propagate with the velocity of light. And Einstein solved this problem, via the principle of equivalence, by defining a new inertial-kinematical structure wherein the freely falling trajectories in a gravitational field replace the inertial trajectories described by free particles affected by no forces at all. The principle of equivalence, in this sense, replaces the classical law of inertia holding in both Newtonian mechanics and special relativity. But the principle of equivalence itself rests on a well-known empirical fact: that gravitational and inertial mass are equal, so that all bodies, regardless of their mass, fall with exactly the same acceleration in a gravitational field. In using the principle of equivalence to define a new inertial-kinematical structure, therefore, Einstein has “elevated” this merely empirical fact (recently verified to a quite high degree of approximation by Lorand von Eötvös) to the status of a “convention or definition in disguise” – just as he had earlier undertaken a parallel “elevation” in the case of the new concept of simultaneity introduced by the special theory.",
+        {
+          "type": "note",
+          "id": "ch14-n21",
+          "label": "21"
+        }
+      ],
+      "zh": [
+        "在这方面要指出的第一点是，等效原理（连同光速原理）在广义相对论语境中起的作用，与爱因斯坦的两个基本“预设”或“公设”在狭义相对论语境中起的作用相同：即它们定义了一个描述空间、时间和运动的新的惯性–运动学结构。因为牛顿引力理论涉及瞬时超距作用（因而涉及绝对同时性：比较上面注 18），在狭义相对论之后就有必要发展一种新的引力理论，其中相关相互作用以光速传播。爱因斯坦通过等效原理解决了这个问题：他定义了一个新的惯性–运动学结构，在其中引力场中的自由下落轨道取代了不受任何力作用的自由粒子所描述的惯性轨道。在这个意义上，等效原理取代了在牛顿力学和狭义相对论中都成立的经典惯性定律。但等效原理本身基于一个众所周知的经验事实：引力质量和惯性质量相等，因此一切物体无论其质量如何，在引力场中都以恰恰相同的加速度下落。因此，在用等效原理定义新的惯性–运动学结构时，爱因斯坦把这个单纯的经验事实（新近由罗兰·冯·厄缶以相当高的近似程度验证）“提升”为“约定或伪装的定义”的地位——正如他早先对狭义相对论引入的新的同时性概念所作的平行“提升”一样。",
+        {
+          "type": "note",
+          "id": "ch14-n21",
+          "label": "21"
+        },
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "正文照原书指向注 18。关于牛顿引力及经典惯性系的绝对同时性的专门说明，见注 19。"
+          ]
+        }
+      ],
+      "units": 264
+    },
+    {
+      "id": "ch14-u028",
+      "source_ids": [
+        "ch14-u028"
+      ],
+      "page": "264",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Nevertheless, Einstein did not reach this understanding of the principle of equivalence all at once. He first operated, instead, within an essentially three-dimensional understanding of special relativity, and he proceeded to develop relativistically acceptable models of the gravitational field by considering the inertial forces (like centrifugal and Coriolis forces) arising in non-inertial frames of reference within this framework.",
+        {
+          "type": "note",
+          "id": "ch14-n22",
+          "label": "22"
+        },
+        " It was in precisely this context, in particular, that Einstein came upon the example of the uniformly rotating frame (the rotating disk), and it is at this point (and only at this point) that he then arrived at the conclusion that the gravitational field may be represented by a non-Euclidean geometry. This use of non-Euclidean geometry, however, was essentially three-dimensional, limited to purely spatial geometry, and Einstein did not arrive at the idea of a four-dimensional non-Euclidean geometry – where space-time geodesics represent freely falling trajectories affected only by gravitation – until he had generalized his conception to what we now call the four-dimensional (semi-)Riemannian geometries of variable curvature.",
+        {
+          "type": "note",
+          "id": "ch14-n23",
+          "label": "23"
+        }
+      ],
+      "zh": [
+        "尽管如此，爱因斯坦并不是一下子达到对等效原理的这种理解的。相反，他最初是在本质上三维的狭义相对论理解中工作的，他通过考虑这个框架内非惯性参考系中出现的惯性力（如离心力和科里奥利力），进而建立与相对论相容的引力场模型。",
+        {
+          "type": "note",
+          "id": "ch14-n22",
+          "label": "22"
+        },
+        " 特别是在恰恰这个语境中，爱因斯坦想到了匀速旋转参考系（旋转圆盘）的例子，而且正是在这一点上（也只有在这一点上），他得出了引力场可以用非欧几何表示的结论。然而，这种对非欧几何的使用本质上是三维的，限于纯粹的空间几何，而爱因斯坦直到把他的构想推广到我们现在所谓的四维（半）黎曼变曲率几何，才达到四维非欧几何的想法——在其中时空测地线表示只受引力影响的自由下落轨道。",
+        {
+          "type": "note",
+          "id": "ch14-n23",
+          "label": "23"
+        }
+      ],
+      "units": 166
+    },
+    {
+      "id": "ch14-u029",
+      "source_ids": [
+        "ch14-u029"
+      ],
+      "page": "265",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It was in precisely the context of this line of thought, finally, that Einstein found that he now had explicitly to oppose Poincaré’s “conventionalist” philosophy of geometry. Yet Einstein’s argument – as described in Geometrie und Erfahrung (1921) – was far from a simple rejection of Poincaré’s methodology in favor of a straightforward “empiricism.”",
+        {
+          "type": "note",
+          "id": "ch14-n24",
+          "label": "24"
+        },
+        " For Einstein also famously says, in the same work, that “sub specie aeterni” Poincaré is actually correct – so that, in particular, Einstein’s reliance on a Helmholtzian conception of “practically rigid bodies” is here merely provisional. I have suggested, therefore, that we can best understand Einstein’s procedure as one of delicately situating himself between Helmholtz and Poincaré. Whereas Einstein had earlier followed Poincaré’s general “conventionalist” methodology in “elevating” the principle of relativity (together with the light principle) to the status of a “presupposition” or “postulate,” he here follows Helmholtz’s “empiricism” in rejecting Poincaré’s more specific philosophy of geometry in favor of “practically rigid bodies.”",
+        {
+          "type": "note",
+          "id": "ch14-n25",
+          "label": "25"
+        },
+        " It does not follow, however, that Einstein is also rejecting his earlier embrace of Poincaré’s general “conventionalist” methodology. Indeed, Einstein had already side-stepped Poincaré’s philosophy of geometry in the case of special relativity, and for essentially the same reason he explicitly opposes it here: Poincaré’s rigid hierarchy of the sciences, in both cases, stands in the way of the radical new innovations Einstein himself proposes to introduce.",
+        {
+          "type": "note",
+          "id": "ch14-n26",
+          "label": "26"
+        }
+      ],
+      "zh": [
+        "最终，正是在这条思路的语境中，爱因斯坦发现他现在必须明确反对彭加勒的“约定主义”几何哲学。然而，爱因斯坦的论证——如《几何学与经验》（1921）中所述——远不是简单地拒斥彭加勒的方法论而赞成一种直截了当的“经验论”。",
+        {
+          "type": "note",
+          "id": "ch14-n24",
+          "label": "24"
+        },
+        " 因为爱因斯坦在同一著作中还著名地说，“从永恒的观点看”（sub specie aeterni）彭加勒实际上是正确的——因此特别是，爱因斯坦在这里对亥姆霍兹式“实际刚性物体”构想的依赖只是暂时的。因此我提出，要理解爱因斯坦的做法，最好看他如何在亥姆霍兹和彭加勒的立场之间审慎取舍。爱因斯坦早先追随彭加勒的一般“约定主义”方法论，把相对性原理（连同光速原理）“提升”为“预设”或“公设”的地位，而他在这里追随亥姆霍兹的“经验论”，拒斥彭加勒更具体的几何哲学而赞成“实际刚性物体”。",
+        {
+          "type": "note",
+          "id": "ch14-n25",
+          "label": "25"
+        },
+        " 然而，这并不推出爱因斯坦也在拒斥他早先对彭加勒一般“约定主义”方法论的接受。的确，爱因斯坦在狭义相对论的情形中就已经绕开了彭加勒的几何哲学，而他在这里明确反对它也是出于本质上同样的理由：在这两种情形中，彭加勒僵硬的科学层级都妨碍了爱因斯坦自己提议引入的根本性创新。",
+        {
+          "type": "note",
+          "id": "ch14-n26",
+          "label": "26"
+        }
+      ],
+      "units": 222
+    },
+    {
+      "id": "ch14-u030",
+      "source_ids": [
+        "ch14-u030"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But why was it necessary, after all, for Einstein to engage in this delicate dance between Helmholtz and Poincaré? The crucial point is that Einstein thereby arrived at a radically new conception of the relationship between the foundations of (physical) geometry and the relativity of space and motion. These two problems, as we have seen, were closely connected in Kant, but they then split apart and were pursued independently in Helmholtz and Mach (compare the paragraph to which note 11 above is appended). In Poincaré, as we have also seen, the two were perceptively reconnected once again, in so far as Poincaré’s hierarchical conception of the mathematical sciences incorporated both a modification of Helmholtz’s philosophy of geometry and a serious engagement with the late nineteenth-century concept of inertial frame (compare note 15 above, together with the paragraph to which it is appended, and also note 19 above). Indeed, it is for precisely this reason, as we now see, that Poincaré’s scientific epistemology was so important to Einstein. Einstein could not simply rest content with Helmholtz’s “empiricist” conception of geometry, because the most important problem with which he was now faced was to connect the foundations of geometry with the relativity of motion. But Einstein could not rest content with Poincaré’s conception either, because his new models of gravitation had suggested that geometry has genuine physical content."
+      ],
+      "zh": [
+        "但爱因斯坦究竟为什么要这样审慎地在亥姆霍兹和彭加勒之间取舍？关键之点在于，爱因斯坦由此达到了对（物理）几何学基础与空间和运动的相对性之间关系的一种根本新的构想。如我们所见，这两个问题在康德那里密切相关，但后来分开了，在亥姆霍兹和马赫那里被独立地推进（比较上面注 11 所附的段落）。如我们也看到的，在彭加勒那里，两者被敏锐地重新连接起来，因为彭加勒的数学科学层级构想既包含对亥姆霍兹几何哲学的修改，也包含与十九世纪晚期惯性系概念的深入探讨（比较上面注 15 及其所附段落，还有上面注 19）。的确，正如我们现在看到的，正因如此，彭加勒的科学认识论对爱因斯坦如此重要。爱因斯坦不能简单地满足于亥姆霍兹的“经验论”几何构想，因为他现在面临的最重要问题就是把几何学基础与运动相对性联系起来。但爱因斯坦也不能满足于彭加勒的构想，因为他的新引力模型已经提示几何学具有真正的物理内容。"
+      ],
+      "units": 226
+    },
+    {
+      "id": "ch14-u031",
+      "source_ids": [
+        "ch14-u031"
+      ],
+      "page": "266",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Einstein’s radically new way of reconfiguring the relationship between the foundations of geometry and the relativity of motion therefore represents a natural (but also entirely unexpected) extension or continuation of the same conception of dynamical and relativized constitutive a priori principles he had first instantiated in the creation of special relativity (compare note 20 above, together with the paragraph to which it is appended and the following paragraph). Just as he had earlier shown how an extension or continuation of Kant’s original conception could accommodate new and surprising empirical facts (the discovery of the invariance of the velocity of light), Einstein here shows how a further extension of this same tradition can do something very similar in facilitating, for the first time, the application of a non-Euclidean geometry to nature. In this case, however, it is not the relevant empirical fact (the well-known equality of gravitational and inertial mass) that is surprising, but the entirely unforeseen connection between this fact and the new geometry. And what makes this connection itself possible, for Einstein, is precisely the principle of equivalence – which thereby constitutively frames the resulting physical space-time geometry of general relativity in just the same sense that Einstein’s two fundamental “presuppositions” or “postulates” had earlier constitutively framed his mathematical description of the electrodynamics of moving bodies in special relativity (within what we now call the geometry of Minkowski space–time). Whereas the particular geometry in a given general relativistic space–time is now determined entirely empirically (by the distribution of mass and energy in accordance with Einstein’s field equation), the principle of equivalence itself is not empirical in this sense. This principle is instead presupposed – as a transcendentally constitutive condition – for any such geometrical description of space–time to have genuine empirical meaning in the first place."
+      ],
+      "zh": [
+        "因此，爱因斯坦重新配置几何学基础与运动相对性之间关系的根本新方式，代表了他在创立狭义相对论时首次例示的同一种动力学的、相对化的构成性先天原理构想的自然（但也完全出人意料）的扩展或延续（比较上面注 20 及其所附段落和下一段）。正如他早先表明的，康德原初构想的扩展或延续如何能容纳新的、令人惊讶的经验事实（光速不变的发现），爱因斯坦在这里表明，这同一个传统的进一步扩展如何能做非常类似的事情：首次促成非欧几何对自然的应用。然而在这里，令人惊讶的不是相关的经验事实（引力质量与惯性质量相等这一众所周知的事实），而是这个事实与新几何之间完全未预见的联系。而对爱因斯坦来说，使这个联系本身成为可能的恰恰是等效原理——它由此以恰恰同样的意义构成性地框定了广义相对论所得的物理时空几何，正如爱因斯坦的两个基本“预设”或“公设”早先构成性地框定了他在狭义相对论中对运动物体电动力学的数学描述（在我们现在所谓的闵可夫斯基时空几何之内）。尽管广义相对论中某个给定时空的具体几何现在完全由经验决定（按照爱因斯坦场方程由质量和能量的分布决定），等效原理本身在这个意义上不是经验的。相反，这个原理被预设为一个先验构成性条件，使任何这样的时空几何描述首先具有真正的经验意义。"
+      ],
+      "units": 297
+    },
+    {
+      "id": "ch14-u034",
+      "source_ids": [
+        "ch14-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The historicized version of transcendental philosophy I am attempting to exemplify therefore sheds striking new light, I believe, on the truly remarkable depth and fruitfulness of Kant’s original version. Kant’s particular way of establishing a connection between the foundations of geometry and the relativity of motion – which, as we have seen, lies at the heart of his transcendental method (compare the paragraph to which note 6 above is appended, together with the following paragraph) – has not only lead, through the intervening philosophical and scientific work of Helmholtz, Mach, and Poincaré, to a new conception of the relativized a priori first instantiated in Einstein’s theories, it has also led, through this same tradition, to a radically new reconfiguration of the connection between geometry and physics in the general theory of relativity itself. There can be no question, of course, of Kant having “anticipated” this theory in any way. The point, rather, is that Kant’s own conception of the relationship between geometry and physics (which was limited, of necessity, to Euclidean geometry and Newtonian physics) then set in motion a remarkable series of successive reconceptualizations of this relationship (in light of profound discoveries in both pure mathematics and the empirical basis of mathematical physics) that finally eventuated in Einstein’s theory."
+      ],
+      "zh": [
+        "因此我相信，我试图展示的这种历史化的先验哲学，使我们重新看到康德原有思想的深度，以及它还能引出多少成果。康德在几何学基础与运动相对性之间建立联系的独特方式——如我们所见，它位于其先验方法的核心（比较上面注 6 所附段落及其后一段）——不仅通过亥姆霍兹、马赫和彭加勒在这段时期所做的哲学和科学工作，导向了首先在爱因斯坦理论中得到例示的相对化先天的新构想，而且通过这同一个传统，导向了广义相对论本身中几何学与物理学之间关系的根本重构。当然，谈不上康德以任何方式“预见”了这个理论。要点毋宁是，康德自己关于几何学与物理学关系的构想（必然限于欧几里得几何和牛顿物理学）启动了一系列引人注目的对这种关系的相继重新构想（根据纯粹数学和数学物理学经验基础两方面的深刻发现），最终产生了爱因斯坦的理论。"
+      ],
+      "units": 208
+    },
+    {
+      "id": "ch14-u033",
+      "source_ids": [
+        "ch14-u033"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch14-bibliography-001",
+      "source_ids": [
+        "ch14-ref003",
+        "ch14-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "DiSalle, R. (1988). Space, Time, and Inertia in the Foundations of Newtonian Physics. Doctoral Dissertation. Chicago, IL: University of Chicago."
+      ],
+      "zh": [
+        "DiSalle, R. (1988). Space, Time, and Inertia in the Foundations of Newtonian Physics. Doctoral Dissertation. Chicago, IL: University of Chicago."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch14-bibliography-002",
+      "source_ids": [
+        "ch14-ref004",
+        "ch14-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "DiSalle, R. (1991). “Conventionalism and the Origins of the Inertial Frame Concept.” PSA 1990 2: 139–147."
+      ],
+      "zh": [
+        "DiSalle, R. (1991). “Conventionalism and the Origins of the Inertial Frame Concept.” PSA 1990 2: 139–147."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch14-bibliography-003",
+      "source_ids": [
+        "ch14-ref007",
+        "ch14-ref008"
+      ],
+      "page": "267",
+      "canonical_kind": "reference",
+      "en": [
+        "DiSalle, R. (2002). “Reconsidering Ernst Mach on Space, Time, and Motion.” In D. Malament, ed. Reading Natural Philosophy: Essays in the History and Philosophy of Science and Mathematics. Chicago, IL: Open Court, pp. 167–191."
+      ],
+      "zh": [
+        "DiSalle, R. (2002). “Reconsidering Ernst Mach on Space, Time, and Motion.” In D. Malament, ed. Reading Natural Philosophy: Essays in the History and Philosophy of Science and Mathematics. Chicago, IL: Open Court, pp. 167–191."
+      ],
+      "shared": true,
+      "units": 35
+    },
+    {
+      "id": "ch14-bibliography-004",
+      "source_ids": [
+        "ch14-ref008",
+        "ch14-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "DiSalle, R. (2006). Understanding Space-Time: The Philosophical Development of Physics from Newton to Einstein. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "DiSalle, R. (2006). Understanding Space-Time: The Philosophical Development of Physics from Newton to Einstein. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch14-bibliography-005",
+      "source_ids": [
+        "ch14-ref009",
+        "ch14-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Einstein, A. (1905). “Zur Elektrodynamik bewegter Körper.” Annalen der Physik 17: 891–921. Translated by G. Jeffrey and W. Perrett (1923) as On the Electrodynamics of Moving Bodies in Lorentz et al. The Principle of Relativity: A Collection of Original Memoirs on the Special and General Theories of Relativity. London: Methuen."
+      ],
+      "zh": [
+        "Einstein, A. (1905). “Zur Elektrodynamik bewegter Körper.” Annalen der Physik 17: 891–921. Translated by G. Jeffrey and W. Perrett (1923) as On the Electrodynamics of Moving Bodies in Lorentz et al. The Principle of Relativity: A Collection of Original Memoirs on the Special and General Theories of Relativity. London: Methuen."
+      ],
+      "shared": true,
+      "units": 51
+    },
+    {
+      "id": "ch14-bibliography-006",
+      "source_ids": [
+        "ch14-ref010",
+        "ch14-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Einstein, A. (1921). Geometrie und Erfahrung. Erweiterte Fassung des Festvortrages gehalten an der Preussischen Akademie der Wissenschaft zu Berlin am 27. Januar 1921. Berlin: Springer. Translated by G. Jeffrey and W. Perrett (1923) as Geometry and Experience in Sidelights on Relativity. London: Methuen."
+      ],
+      "zh": [
+        "Einstein, A. (1921). Geometrie und Erfahrung. Erweiterte Fassung des Festvortrages gehalten an der Preussischen Akademie der Wissenschaft zu Berlin am 27. Januar 1921. Berlin: Springer. Translated by G. Jeffrey and W. Perrett (1923) as Geometry and Experience in Sidelights on Relativity. London: Methuen."
+      ],
+      "shared": true,
+      "units": 43
+    },
+    {
+      "id": "ch14-bibliography-007",
+      "source_ids": [
+        "ch14-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Einstein, A. (1925). “Nichteuklidische Geometrie und Physik.” Die neue Rundschau 36: 16–20."
+      ],
+      "zh": [
+        "Einstein, A. (1925). “Nichteuklidische Geometrie und Physik.” Die neue Rundschau 36: 16–20."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch14-bibliography-008",
+      "source_ids": [
+        "ch14-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Folina, J. (1992). Poincaré and the Philosophy of Mathematics. New York: Macmillan."
+      ],
+      "zh": [
+        "Folina, J. (1992). Poincaré and the Philosophy of Mathematics. New York: Macmillan."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch14-bibliography-009",
+      "source_ids": [
+        "ch14-ref011",
+        "ch14-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M. (1992). Kant and the Exact Sciences. Cambridge, MA: Harvard University Press."
+      ],
+      "zh": [
+        "Friedman, M. (1992). Kant and the Exact Sciences. Cambridge, MA: Harvard University Press."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch14-bibliography-010",
+      "source_ids": [
+        "ch14-ref012",
+        "ch14-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M. (1997). “Helmholtz’s Zeichentheorie and Schlick’s Allgemeine Erkenntnislehre: Early Logical Empiricism and Its Nineteenth-Century Background.” Philosophical Topics 25: 19–50."
+      ],
+      "zh": [
+        "Friedman, M. (1997). “Helmholtz’s Zeichentheorie and Schlick’s Allgemeine Erkenntnislehre: Early Logical Empiricism and Its Nineteenth-Century Background.” Philosophical Topics 25: 19–50."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch14-bibliography-011",
+      "source_ids": [
+        "ch14-ref013",
+        "ch14-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M. (1999). Reconsidering Logical Positivism. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Friedman, M. (1999). Reconsidering Logical Positivism. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch14-bibliography-012",
+      "source_ids": [
+        "ch14-ref014",
+        "ch14-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M. (2000). “Geometry, Construction, and Intuition in Kant and His Successors.” In G. Scher and R. Tieszen, eds. Between Logic and Intuition: Essays in Honor of Charles Parsons. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Friedman, M. (2000). “Geometry, Construction, and Intuition in Kant and His Successors.” In G. Scher and R. Tieszen, eds. Between Logic and Intuition: Essays in Honor of Charles Parsons. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 33
+    },
+    {
+      "id": "ch14-bibliography-013",
+      "source_ids": [
+        "ch14-ref015",
+        "ch14-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M. (2001). Dynamics of Reason. The 1999 Kant Lectures at Stanford University. Stanford: CSLI Publications."
+      ],
+      "zh": [
+        "Friedman, M. (2001). Dynamics of Reason. The 1999 Kant Lectures at Stanford University. Stanford: CSLI Publications."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch14-bibliography-014",
+      "source_ids": [
+        "ch14-ref016",
+        "ch14-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M. (2002). “Geometry as a Branch of Physics: Background and Context for Einstein’s ‘Geometry and Experience.’ ” In D. Malament, ed. Reading Natural Philosophy: Essays in the History and Philosophy of Science and Mathematics. Chicago, IL: Open Court, pp. 193–229."
+      ],
+      "zh": [
+        "Friedman, M. (2002). “Geometry as a Branch of Physics: Background and Context for Einstein’s ‘Geometry and Experience.’ ” In D. Malament, ed. Reading Natural Philosophy: Essays in the History and Philosophy of Science and Mathematics. Chicago, IL: Open Court, pp. 193–229."
+      ],
+      "shared": true,
+      "units": 41
+    },
+    {
+      "id": "ch14-bibliography-015",
+      "source_ids": [
+        "ch14-ref017",
+        "ch14-ref018"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M., trans. & ed. (2004). Immanuel Kant: Metaphysical Foundations of Natural Science. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Friedman, M., trans. & ed. (2004). Immanuel Kant: Metaphysical Foundations of Natural Science. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch14-bibliography-016",
+      "source_ids": [
+        "ch14-ref018",
+        "ch14-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hatfield, G. (1990). The Natural and the Normative: Theories of Spatial Perception from Kant to Helmholtz. Cambridge, MA: MIT Press."
+      ],
+      "zh": [
+        "Hatfield, G. (1990). The Natural and the Normative: Theories of Spatial Perception from Kant to Helmholtz. Cambridge, MA: MIT Press."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch14-bibliography-017",
+      "source_ids": [
+        "ch14-ref019",
+        "ch14-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Norton, J. (1985). “What Was Einstein’s Principle of Equivalence?” Studies in History and Philosophy of Science 16: 203–246. Reprinted in D. Howard and J. Stachel, eds. (1989). Einstein and the History of General Relativity. Boston, MA: Birkhäuser."
+      ],
+      "zh": [
+        "Norton, J. (1985). “What Was Einstein’s Principle of Equivalence?” Studies in History and Philosophy of Science 16: 203–246. Reprinted in D. Howard and J. Stachel, eds. (1989). Einstein and the History of General Relativity. Boston, MA: Birkhäuser."
+      ],
+      "shared": true,
+      "units": 38
+    },
+    {
+      "id": "ch14-bibliography-018",
+      "source_ids": [
+        "ch14-ref020",
+        "ch14-ref021"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Poincaré, H. (1902). La Science et l’Hypothèse. Paris: Flammarion. Translated as Science and Hypothesis in Poincaré (1913b)."
+      ],
+      "zh": [
+        "Poincaré, H. (1902). La Science et l’Hypothèse. Paris: Flammarion. Translated as Science and Hypothesis in Poincaré (1913b)."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch14-bibliography-019",
+      "source_ids": [
+        "ch14-ref021",
+        "ch14-ref022"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Poincaré, H. (1913a). Dernières Pensées. Paris: Flammarion. Translated by J. Buldoc (1963) as Mathematics and Science: Last Essays. New York: Dover."
+      ],
+      "zh": [
+        "Poincaré, H. (1913a). Dernières Pensées. Paris: Flammarion. Translated by J. Buldoc (1963) as Mathematics and Science: Last Essays. New York: Dover."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch14-bibliography-020",
+      "source_ids": [
+        "ch14-ref022",
+        "ch14-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Poincaré, H. (1913b). The Foundations of Science. Translated and edited by G. Halstead. Lancaster: Science Press."
+      ],
+      "zh": [
+        "Poincaré, H. (1913b). The Foundations of Science. Translated and edited by G. Halstead. Lancaster: Science Press."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch14-bibliography-021",
+      "source_ids": [
+        "ch14-ref023",
+        "ch14-ref024"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Reichenbach, H. (1920). Relativitätstheorie und Erkenntnis Apriori. Berlin: Springer. Translated by M. Reichenbach (1965) as The Theory of Relativity and A Priori Knowledge. Berkeley/Los Angeles, CA: University of California Press."
+      ],
+      "zh": [
+        "Reichenbach, H. (1920). Relativitätstheorie und Erkenntnis Apriori. Berlin: Springer. Translated by M. Reichenbach (1965) as The Theory of Relativity and A Priori Knowledge. Berkeley/Los Angeles, CA: University of California Press."
+      ],
+      "shared": true,
+      "units": 31
+    },
+    {
+      "id": "ch14-bibliography-022",
+      "source_ids": [
+        "ch14-ref024",
+        "ch14-ref025"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Ryckman, T. A. (2005). The Reign of Relativity: Philosophy in Physics 1915–1925. Oxford: Oxford University Press."
+      ],
+      "zh": [
+        "Ryckman, T. A. (2005). The Reign of Relativity: Philosophy in Physics 1915–1925. Oxford: Oxford University Press."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch14-bibliography-023",
+      "source_ids": [
+        "ch14-ref025",
+        "ch14-ref026"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Stachel, J. (1980). “Einstein and the Rigidly Rotating Disk.” In A. Held, ed. General Relativity and Gravitation. New York: Plenum. Reprinted as “The Rigidly Rotating Disk as the ‘Missing Link’ in the History of General Relativity” in D. Howard and J. Stachel, eds. (1989). Einstein and the History of General Relativity. Boston, MA: Birkhäuser."
+      ],
+      "zh": [
+        "Stachel, J. (1980). “Einstein and the Rigidly Rotating Disk.” In A. Held, ed. General Relativity and Gravitation. New York: Plenum. Reprinted as “The Rigidly Rotating Disk as the ‘Missing Link’ in the History of General Relativity” in D. Howard and J. Stachel, eds. (1989). Einstein and the History of General Relativity. Boston, MA: Birkhäuser."
+      ],
+      "shared": true,
+      "units": 54
+    }
+  ],
+  "notes": {
+    "ch14-n01": {
+      "number": "1",
+      "en": [
+        "For details on Kant’s understanding of Euclidean geometry and the fundamental principles of Newtonian mechanics see Friedman (1992)."
+      ],
+      "zh": [
+        "关于康德对欧几里得几何和牛顿力学基本原理的理解的细节，参见 Friedman (1992)。"
+      ]
+    },
+    "ch14-n02": {
+      "number": "2",
+      "en": [
+        "I am especially indebted to Charles Parsons for raising this problem of historical contingency and stimulating me to take it very seriously."
+      ],
+      "zh": [
+        "我特别感谢查尔斯·帕森斯提出这个历史偶然性问题，并促使我非常认真地对待它。"
+      ]
+    },
+    "ch14-n03": {
+      "number": "3",
+      "en": [
+        "Kant often makes such claims to explanatory uniqueness, for example, in the Transcendental Exposition of the Concept of Space added to the second [“B”] edition (B 41): “Therefore, only our explanation makes the possibility of geometry as an a priori synthetic cognition comprehensible. Any mode of explanation that does not achieve this, even if it appeared to be similar to ours, can be most securely distinguished from ours by this criterion.” I am indebted to Dagfinn Føllesdal for emphasizing to me the importance of the problem of uniqueness in this connection."
+      ],
+      "zh": [
+        "康德经常提出这种解释唯一性的主张，例如在第二版［“B”版］增加的“空间概念的先验阐明”中（B 41）：“因此，只有我们的解释才使几何学作为一门先天综合知识的可能性变得可理解。任何做不到这一点的解释方式，即使看起来与我们的相似，都可以通过这个标准最可靠地与我们的区别开来。”我感谢达格芬·弗莱斯达尔向我强调唯一性问题在这方面的重要性。"
+      ]
+    },
+    "ch14-n04": {
+      "number": "4",
+      "en": [
+        "Thus, in considering the questions “how is pure mathematics possible?” and “how is pure natural science possible?” in section VI of the Introduction to the second edition of the Critique, Kant simply takes it for granted that the actual existence of these sciences puts the existence of synthetic a priori knowledge entirely beyond all doubt. In particular, in considering Hume’s skepticism concerning the necessity of the causal relation – which then leads to skepticism about the possibility of any a priori metaphysics – Kant blames this result on Hume’s insufficiently general understanding of the problem (B 20): “[H]ume would never have arrived at this assertion, which destroys all pure philosophy, if he had kept our problem before his eyes in its [full] generality; for he would then have seen that, according to his argument, there could also be no pure mathematics (for it certainly contains synthetic a priori propositions), and his good sense would then surely have saved him from this assertion.” Similarly, while considering (in section 14 of the second edition) the circumstance that neither Locke nor Hume posed the problem of the transcendental deduction, and instead attempted a psychological or empirical derivation of the pure concepts of the understanding, Kant concludes (B 127–128): “But the empirical derivation which both fell upon cannot be reconciled with the actuality of the a priori scientific cognition that we have—namely of pure mathematics and universal natural science—and is thus refuted by this fact [Faktum].”"
+      ],
+      "zh": [
+        "因此，在《批判》第二版导言第六节考虑“纯粹数学如何可能？”和“纯粹自然科学如何可能？”这两个问题时，康德径直假定这些科学的实际存在使先天综合知识的存在完全不容置疑。特别是，在考虑休谟对因果关系必然性的怀疑——它进而导致对任何先天形而上学之可能性的怀疑——时，康德把这一结果归咎于休谟未从充分一般的层面提出问题（B 20）：“如果休谟把我们的问题在其［充分的］一般性中保持在眼前，他就绝不会得出这个摧毁一切纯粹哲学的断言；因为那样他就会看到，按照他的论证，纯粹数学也不可能存在（因为它确实包含先天综合命题），而他的健全理智就一定会使他免于这个断言。”类似地，在（第二版第 14 节）考虑洛克和休谟都没有提出先验演绎的问题、而是试图对纯粹知性概念作心理学的或经验的推导这一情况时，康德总结道（B 127–128）：“但两人所陷入的经验推导，与我们所拥有的先天科学知识的现实性——即纯粹数学和普遍自然科学的现实性——无法调和，因此被这一事实［Faktum］所驳斥。”"
+      ]
+    },
+    "ch14-n05": {
+      "number": "5",
+      "en": [
+        "Again, see Friedman (1992, chapters 1 and 2) for details."
+      ],
+      "zh": [
+        "细节仍参见 Friedman (1992, 第 1 章和第 2 章)。"
+      ]
+    },
+    "ch14-n06": {
+      "number": "6",
+      "en": [
+        "See my “Newton and Kant on Absolute Space: From Theology to Transcendental Philosophy” (this volume) for details."
+      ],
+      "zh": [
+        "细节参见我的“牛顿与康德论绝对空间：从神学到先验哲学”（本书）。"
+      ]
+    },
+    "ch14-n07": {
+      "number": "7",
+      "en": [
+        "For Helmholtz’s characteristic combination of empirical (or “naturalistic”) and transcendental (or “normative”) elements see Hatfield (1990). For my reading of Helmholtz’s conception of space and geometry see Friedman (1997, 2000)."
+      ],
+      "zh": [
+        "关于亥姆霍兹对经验（或“自然主义”）要素和先验（或“规范”）要素的典型结合，参见 Hatfield (1990)。关于我对亥姆霍兹空间和几何构想的解读，参见 Friedman (1997, 2000)。"
+      ]
+    },
+    "ch14-n08": {
+      "number": "8",
+      "en": [
+        "Bernhard Riemann’s general theory of manifolds includes spaces of variable curvature not satisfying the condition of free mobility, and it is for precisely this reason that Hermann Weyl later attempted to generalize Helmholtz’s approach to comprehend the (four-dimensional) (semi-) Riemannian geometries of variable curvature used in Einstein’s general theory of relativity. Moreover, as I explain in Friedman (2000, pp. 209–211), Weyl, too, conceived his work as a generalization of Kant’s original theory of space as an (a priori) “form of experience.” The important point here, however, is that Helmholtz is “closer” to Kant’s original theory (in so far as his generalization preserves the possibility of geometrical constructions analogous to Euclid’s), whereas Weyl’s work arises only as a further generalization, in turn, of Helmholtz’s."
+      ],
+      "zh": [
+        "伯恩哈德·黎曼的一般流形理论包括不满足自由运动性条件的变曲率空间，正因如此，赫尔曼·魏尔后来试图推广亥姆霍兹的进路，以涵盖爱因斯坦广义相对论中使用的（四维）（半）黎曼变曲率几何。此外，正如我在 Friedman (2000, pp. 209–211) 中解释的，魏尔也把自己的工作构想为对康德把空间当作（先天）“经验形式”的原初理论的推广。然而，这里的重要之点在于，亥姆霍兹“更接近”康德的原初理论（因为他的推广保留了作类似于欧几里得作图的几何构造的可能性），而魏尔的工作只是作为对亥姆霍兹工作的进一步推广才出现的。"
+      ]
+    },
+    "ch14-n09": {
+      "number": "9",
+      "en": [
+        "This hierarchical conception is developed especially clearly in La Science et l’Hypothèse (1902). For details see Friedman (1999, chapter 4, 2000)."
+      ],
+      "zh": [
+        "这种层级构想在《科学与假设》（1902）中发展得特别清楚。细节参见 Friedman (1999, 第 4 章, 2000)。"
+      ]
+    },
+    "ch14-n10": {
+      "number": "10",
+      "en": [
+        "For Poincaré’s philosophy of arithmetic, in particular, see Folina (1992)."
+      ],
+      "zh": [
+        "关于彭加勒的算术哲学，特别参见 Folina (1992)。"
+      ]
+    },
+    "ch14-n11": {
+      "number": "11",
+      "en": [
+        "The “law of relativity” is first introduced in chapter V, “Experience and Geometry,” of La Science et l’Hypothèse (1902, p. 96, 1913b, p. 83): “The laws of the phenomena which will happen [in a material system of bodies] will depend on the state of these bodies and their mutual distances; but, because of the relativity and passivity of space, they will not depend on the absolute position and orientation of this system. In other words, the state of the bodies and their mutual distances will depend only on the state of the same bodies and their mutual distances at the initial instant, but they will not depend at all on the absolute initial position of the system and its absolute initial orientation. This is what I shall call, for the sake of brevity, the law of relativity.” Moreover, “in order fully to satisfy the mind,” Poincaré continues, the phenomena in question should also be entirely independent of “the velocities of translation and rotation of the system, that is to say, the velocities with which its absolute position and orientation vary” (1902, p. 98, 1913b, p. 85). Thus, because of “the relativity and passivity of space,” the absolute position or orientation of a system of bodies in space can have no physical effect whatsoever, and neither can any change (velocity) of such absolute position or orientation. In emphasizing that Poincaré’s treatment of the relativity of motion rests squarely on his philosophy of space and geometry, I am in very substantial agreement with the excellent discussion in DiSalle (2006, section 3.7)."
+      ],
+      "zh": [
+        "“相对性定律”最先引入于《科学与假设》（1902, p. 96, 1913b, p. 83）第五章“经验与几何”：“［一个物质物体系统中］将发生的现象的定律将依赖于这些物体的状态和它们的相互距离；但是，由于空间的相对性和被动性，它们将不依赖于这个系统的绝对位置和取向。换句话说，物体的状态和它们的相互距离将只依赖于这些物体在初始时刻的状态和它们的相互距离，而完全不依赖于系统的绝对初始位置和绝对初始取向。为了简洁起见，我将把这称为相对性定律。”此外，彭加勒继续说，“为了完全满足心灵”，相关现象还应当完全独立于“系统的平移速度和旋转速度，也就是说，其绝对位置和取向变化的速度”（1902, p. 98, 1913b, p. 85）。因此，由于“空间的相对性和被动性”，空间中物体系统的绝对位置或取向不可能有任何物理效应，这种绝对位置或取向的任何变化（速度）也不可能有任何物理效应。在强调彭加勒对运动相对性的处理完全基于他的空间和几何哲学这一点上，我非常实质性地赞同 DiSalle (2006, 第 3.7 节) 中的出色讨论。"
+      ]
+    },
+    "ch14-n12": {
+      "number": "12",
+      "en": [
+        "For the nineteenth-century development of the concept of an inertial frame see DiSalle (1988, 1991); for Mach’s place in this development see DiSalle (2002)."
+      ],
+      "zh": [
+        "关于惯性系概念在十九世纪的发展，参见 DiSalle (1988, 1991)；关于马赫在这一发展中的位置，参见 DiSalle (2002)。"
+      ]
+    },
+    "ch14-n13": {
+      "number": "13",
+      "en": [
+        "Kant develops this interpretation of “absolute space” in his Metaphysische Anfangsgründe der Naturwissenschaft (1786), published between the first (1781) and second (1787) editions of the Critique of Pure Reason. For details see Friedman (1992, chapters 3 and 4), and also the Introduction to my (2004) translation of Kant’s work."
+      ],
+      "zh": [
+        "康德在《自然科学的形而上学初始根据》（1786）中发展了对“绝对空间”的这种解释，该书出版于《纯粹理性批判》第一版（1781）和第二版（1787）之间。细节参见 Friedman (1992, 第 3 章和第 4 章)，以及我为康德这部著作的（2004）译本所写的导言。"
+      ]
+    },
+    "ch14-n14": {
+      "number": "14",
+      "en": [
+        "In particular, “absolute space,” for Kant, is a regulative idea of reason, defined by the forever unreachable “center of gravity of all matter” which we can only successively approximate but never actually attain."
+      ],
+      "zh": [
+        "特别是，对康德来说，“绝对空间”是一个理性的调节性理念，由永远不可达到的“一切物质的重心”定义，我们只能相继逼近它而永远不能实际达到它。"
+      ]
+    },
+    "ch14-n15": {
+      "number": "15",
+      "en": [
+        "Kant’s construction of “absolute space,” from a modern point of view, yields better and better approximations to a cosmic inertial frame of reference defined by the “center of gravity of all matter.” Such a cosmic frame, in which the fixed starts are necessarily at rest, also counts as a surrogate for Newtonian “absolute space” in Mach’s treatment: for details see again DiSalle (2002)."
+      ],
+      "zh": [
+        "从现代观点看，康德对“绝对空间”的构造产生能够越来越接近由“一切物质的重心”界定的宇宙惯性参考系。这样一个宇宙参考系——在其中恒星必然静止——在马赫的处理中也算作牛顿“绝对空间”的替身：细节仍参见 DiSalle (2002)。"
+      ]
+    },
+    "ch14-n16": {
+      "number": "16",
+      "en": [
+        "Poincaré formulates “the principle of relative motion” in chapter VII, “Relative Motion and Absolute Motion,” of La Science et l’Hypothèse (1902, p. 135, 1913b, p. 107): “The motion of any system whatsoever must obey the same laws, whether it be referred to fixed axes, or to movable axes transported by a rectilinear and uniform motion. This is the principle of relative motion, which imposes itself upon us for two reasons: first, the most common experience confirms it, and second, the contrary hypothesis is singularly repugnant to the mind.” This, of course, is the principle of what we now call Galilean relativity, which was originally formulated by Newton as Corollary V to the Laws of Motion, and then played a central role in the recent literature on inertial frames of reference (see the references cited in note 12 above). However, as Poincaré is well aware, such Galilean relativity holds only for (uniform) rectilinear motions and does not extend, therefore, to the case of (uniform) rotational motion Poincaré also wishes to subsume under his “law of relativity.” Nevertheless, Poincaré says, “it seems that [the principle of relative motion] ought to impose itself upon us with the same force, if the motion is varied, or at least if it reduces to a uniform rotation” (1902, pp. 136–137, 1913b, p. 108). Thus, Poincaré’s a priori commitment to the law of relativity, derived from the homogeneity and isotropy of space, stands in prima facie contradiction with the well-known experimental limitations of the principle of relative motion. (Poincaré presents a sophisticated analysis of this apparent contradiction in the following discussion, which I shall have to pass over here.)"
+      ],
+      "zh": [
+        "彭加勒在《科学与假设》（1902, p. 135, 1913b, p. 107）第七章“相对运动与绝对运动”中表述了“相对运动原理”：“任何系统的运动都必须服从同样的定律，无论它是相对于固定轴，还是相对于作匀速直线运动的一组坐标轴。这就是相对运动原理，它由于两个理由强加于我们：第一，最平常的经验证实它；第二，相反的假设特别令心灵反感。”当然，这就是我们现在所谓的伽利略相对性原理，它最初由牛顿表述为运动定律的推论五，然后在晚近关于惯性参考系的文献中起了核心作用（参见上面注 12 引用的文献）。然而，正如彭加勒充分意识到的，这种伽利略相对性只对（匀速）直线运动成立，因此不扩展到彭加勒也希望归入其“相对性定律”的（匀速）旋转运动的情形。尽管如此，彭加勒说，“如果运动是变化的，或者至少如果它只是匀速旋转，［相对运动原理］似乎应当以同样的力量强加于我们”（1902, pp. 136–137, 1913b, p. 108）。因此，彭加勒从空间的均匀性和各向同性导出的对相对性定律的先天承诺，与相对运动原理众所周知的实验限制表面上相矛盾。（彭加勒在接下来的讨论中对这一表面矛盾给出了精致的分析，我在这里只能略过。）"
+      ]
+    },
+    "ch14-n17": {
+      "number": "17",
+      "en": [
+        "In his 1912 lecture on “Space and Geometry,” appearing in Poincaré (1913a), Poincaré explicitly considers what we now call the four-dimensional geometry of Minkowski space–time, and he clearly states his preference for an alternative formulation of the Lorentzian type – where, in particular, both the Newtonian laws of mechanics and “the relativity and passivity of space” retain a foundational role. Thus, from a modern point of view, while Poincaré’s most fundamental “law of relativity” is a purely geometrical principle, expressing the necessary symmetries of three-dimensional (homogeneous) space, Einstein’s “principle of relativity” expresses the symmetry or invariance properties of the laws of Maxwell–Lorentz electrodynamics – which we now take to be the symmetries of Minkowski space–time. The central problem with Poincaré’s hierarchy, from this point of view, is that it makes the three-dimensional geometry of space prior to the four-dimensional geometry of space–time: compare again DiSalle (2006, section 3.7) for a similar diagnosis."
+      ],
+      "zh": [
+        "在其 1912 年关于“空间与几何”的演讲（收入 Poincaré (1913a)）中，彭加勒明确考虑了我们现在所谓的闵可夫斯基时空的四维几何，他清楚地表明他偏爱一种洛伦兹类型的替代表述——在其中，特别是牛顿力学定律和“空间的相对性和被动性”都保留基础性的作用。因此，从现代观点看，彭加勒最基本的“相对性定律”是一个纯粹几何的原理，表达三维（均匀）空间的必然对称性，而爱因斯坦的“相对性原理”表达麦克斯韦–洛伦兹电动力学定律的对称性或不变性性质——我们现在把它们当作闵可夫斯基时空的对称性。从这个观点看，彭加勒层级的核心问题在于，它使空间的三维几何优先于时空的四维几何：类似的诊断再次参见 DiSalle (2006, 第 3.7 节)。"
+      ]
+    },
+    "ch14-n18": {
+      "number": "18",
+      "en": [
+        "This idea is stated as a key part of Poincaré’s “General Conclusions” to his discussion of (classical) mechanics (1902, p. 165, 1913b, p. 125): “[The fundamental principles of mechanics] are conventions or definitions in disguise. Yet they are drawn from experimental laws; these laws, so to speak, have been elevated [érigées] into principles to which our mind attributes an absolute value.” Later, in Geometrie und Erfahrung (1921), Einstein explicitly uses the language of “elevation” [erheben] in connection with precisely Poincaré’s “conventionalism” (1921, p. 8, 1923, p. 35): “Geometry (G) [according to Poincaré’s standpoint] asserts nothing about the behavior of actual things, but only geometry together with the totality (P) of physical laws. We can say, symbolically, that only the sum (G) + (P) is subject to the control of experience. So (G) can be chosen arbitrarily, and also parts of (P); all of these laws are conventions. In order to avoid contradictions it is only necessary to choose the remainder of (P) in such a way that (G) and the total (P) together do justice to experience. On this conception axiomatic geometry and the part of the laws of nature that have been elevated [erhobene] to conventions appear as epistemologically of equal status.” (I shall return to Geometrie und Erfahrung below.) To the best of my knowledge, this striking language in Einstein’s 1905 paper (together with its reappearance in 1921) has not been previously noted in the literature."
+      ],
+      "zh": [
+        "这个想法作为彭加勒对（经典）力学讨论的“一般结论”的关键部分被陈述（1902, p. 165, 1913b, p. 125）：“［力学的基本原理］是约定或伪装的定义。然而它们是从实验定律引出的；可以说，这些定律被提升［érigées］为我们的心灵赋予其绝对价值的原理。”后来，爱因斯坦在《几何学与经验》（1921）中明确地把“提升”［erheben］的语言恰恰用于彭加勒的“约定主义”（1921, p. 8, 1923, p. 35）：“几何学 (G)［按照彭加勒的立场］对实际事物的行为无所断言，只有几何学连同物理定律的总和 (P) 才有所断言。我们可以用符号说，只有和 (G) + (P) 受经验的检验。因此 (G) 可以任意选择，(P) 的一部分也可以；所有这些定律都是约定。为了避免矛盾，只需要这样选择 (P) 的其余部分，使 (G) 和总的 (P) 一起符合经验。按照这种构想，公理化几何学和被提升［erhobene］为约定的那部分自然定律显得在认识论上具有同等地位。”（我将在下面回到《几何学与经验》。）据我所知，爱因斯坦 1905 年论文中这种引人注目的语言（连同它在 1921 年的重新出现）此前未在文献中被注意到。"
+      ]
+    },
+    "ch14-n19": {
+      "number": "19",
+      "en": [
+        "The crucial point, in this connection, is that Newton’s third law – the equality of action and reaction – implicitly defines the relation of absolute simultaneity in a classical inertial frame, in so far as it allows us to coordinate action-reaction pairs related by the Newtonian law of (instantaneously propagated) gravitation. Einstein’s two postulates take over precisely this role in the case of his new, relativized relation of simultaneity defined by (continuously propagated) electro-magnetic processes."
+      ],
+      "zh": [
+        "在这方面，关键之点在于，牛顿第三定律——作用与反作用相等——隐含地定义了经典惯性系中的绝对同时性关系，因为它允许我们协调由牛顿（瞬时传播的）引力定律联系起来的作用–反作用对。爱因斯坦的两个公设恰恰接管了这一作用，用于他的由（连续传播的）电磁过程定义的新的、相对化的同时性关系。"
+      ]
+    },
+    "ch14-n20": {
+      "number": "20",
+      "en": [
+        "Euclidean geometry is singled out, for Poincaré, in that it is both mathematically simplest and very naturally corresponds – roughly and approximately – to our pre-scientific experience of bodily displacements. Just as Helmholtz’s conception, as I have suggested, is the minimal extension of Kant’s original conception consistent with the discovery of non-Euclidean geometries (compare note 8 above), Poincaré’s conception is the minimal extension of Helmholtz’s consistent with the more sophisticated group-theoretic version of the principle of free mobility due to Sophus Lie, the new perspective on the relativity of motion due to the modern concept of an inertial frame, and, most importantly, the apparently paradoxical new situation in electrodynamics arising in connection with precisely this relativity of motion – where, in particular, Poincaré’s hierarchical conception of the mathematical sciences allows him to retain the foundational role of both Euclidean spatial geometry and the laws of Newtonian mechanics in the face of what we now call Lorentzian (as opposed to Galilean) relativity (compare note 17 above)."
+      ],
+      "zh": [
+        "对彭加勒来说，欧几里得几何被挑选出来，因为它既在数学上最简单，又非常自然地——粗略和近似地——对应于我们对物体位移的前科学经验。正如我所提示的，亥姆霍兹的构想是与非欧几何的发现相一致的康德原初构想的最小扩展（比较上面注 8），彭加勒的构想是与以下各项相一致的亥姆霍兹构想的最小扩展：索福斯·李给出的自由运动性原理的更精致的群论版本，现代惯性系概念带来的运动相对性的新视角，以及最重要的，恰恰与这种运动相对性相关而在电动力学中出现的表面上悖谬的新形势——在其中，特别是，彭加勒的数学科学层级构想使他能够在面对我们现在所谓的洛伦兹式（相对于伽利略式）相对性时，保留欧几里得空间几何和牛顿力学定律两者的基础性作用（比较上面注 17）。"
+      ]
+    },
+    "ch14-n21": {
+      "number": "21",
+      "en": [
+        "Friedman (2001, pp. 86–91) develops more fully the parallel between these two cases of “elevating” a mere empirical fact to the status of a (relativized) a priori principle by first examining the relationship between the invariance of the velocity of light (as recently verified in the Michelson– Morley experiment) and Einstein’s new definition of simultaneity, and then the relationship between the equality of gravitational and inertial mass (as recently verified in the Eötvös experiments) and the principle of equivalence."
+      ],
+      "zh": [
+        "Friedman (2001, pp. 86–91) 更充分地发展了这两种把单纯经验事实“提升”为（相对化）先天原理地位的情形之间的平行关系：先考察光速不变（新近在迈克耳孙–莫雷实验中得到验证）与爱因斯坦新的同时性定义之间的关系，然后考察引力质量与惯性质量相等（新近在厄缶实验中得到验证）与等效原理之间的关系。"
+      ]
+    },
+    "ch14-n22": {
+      "number": "22",
+      "en": [
+        "See Norton (1985) (1989) for the details of Einstein’s early applications of the principle of equivalence."
+      ],
+      "zh": [
+        "关于爱因斯坦早期应用等效原理的细节，参见 Norton (1985) (1989)。"
+      ]
+    },
+    "ch14-n23": {
+      "number": "23",
+      "en": [
+        "I discuss at length the crucial importance of the rotating disk example in the development of Einstein’s thought – following Stachel (1980) (1989) – in Friedman (2001, 2002)."
+      ],
+      "zh": [
+        "我追随 Stachel (1980) (1989)，在 Friedman (2001, 2002) 中详细讨论了旋转圆盘例子在爱因斯坦思想发展中的关键重要性。"
+      ]
+    },
+    "ch14-n24": {
+      "number": "24",
+      "en": [
+        "Compare note 18 above; and again, for a detailed analysis of Geometrie und Erfahrung, against the background of both Helmholtz and Poincaré, see Friedman (2001, 2002)."
+      ],
+      "zh": [
+        "比较上面注 18；关于在亥姆霍兹和彭加勒两者的背景下对《几何学与经验》的详细分析，再次参见 Friedman (2001, 2002)。"
+      ]
+    },
+    "ch14-n25": {
+      "number": "25",
+      "en": [
+        "Einstein does not explicitly mention Helmholtz in Geometrie und Erfahrung. However, in a closely related article on “Non-Euclidean Geometry and Physics,” Einstein makes it perfectly clear that the opposition he has in mind is precisely that between Helmholtz and Poincaré (1925, pp. 18–19): “Either one accepts that the ‘body’ of geometry is realized in principle by the solid bodies of nature, if only certain prescriptions are maintained regarding temperature, mechanical stress, and so on; this is the standpoint of the practicing physicist. Then a natural object corresponds to the ‘interval’ of geometry, and all propositions of geometry thereby attain the character of assertions about real bodies. This standpoint was represented especially clearly by Helmholtz, and one can add that without it establishing the [general—MF] theory of relativity would have been practically impossible. Or, one denies in principle the existence of objects that correspond to the fundamental concepts of geometry. Then geometry alone contains no assertions about objects of reality, but only geometry together with physics. This standpoint, which may be more perfect for the systematic presentation of a completed physics, was represented especially clearly by Poincaré. On this standpoint the total content of geometry is conventional; which geometry is to be preferred depends on how ‘simple’ a physics can, by its use, be established in agreement with experience.” Ryckman (2005, section 3.3) emphasizes the importance of this passage in relation to the earlier argument of Geometrie und Erfahrung."
+      ],
+      "zh": [
+        "爱因斯坦在《几何学与经验》中没有明确提到亥姆霍兹。然而，在一篇密切相关的关于“非欧几何与物理学”的文章中，爱因斯坦非常清楚地表明，他心中想到的对立恰恰是亥姆霍兹与彭加勒之间的对立（1925, pp. 18–19）：“要么人们接受，几何学的‘物体’原则上由自然界的固体实现，只要关于温度、机械应力等等遵守某些规定；这是从事实际研究的物理学家的立场。于是自然对象对应于几何学的‘间隔’，几何学的一切命题由此获得关于实在物体的断言的特征。这个立场由亥姆霍兹特别清楚地代表，而且可以补充说，没有它，建立［广义——MF］相对论实际上是不可能的。要么人们原则上否认存在对应于几何学基本概念的对象。于是单独的几何学不包含关于实在对象的断言，只有几何学连同物理学才包含。这个立场对于已完成的物理学的系统表述可能更完美，由彭加勒特别清楚地代表。按照这个立场，几何学的全部内容都是约定的；应当偏爱哪种几何学，取决于通过使用它能在多大程度上与经验一致地建立起一门‘简单’的物理学。”Ryckman (2005, 第 3.3 节) 强调了这段话相对于《几何学与经验》早先论证的重要性。"
+      ]
+    },
+    "ch14-n26": {
+      "number": "26",
+      "en": [
+        "See note 17 above, together with the paragraph to which it is appended. As I suggested, Einstein could not embrace Poincaré’s philosophy of geometry even in 1905, since it privileges a priori the three-dimensional geometry of space over the de facto symmetries of the laws of motion (which, on our current understanding, express the four-dimensional geometrical symmetries of space– time). Einstein’s divergence from Poincaré on this point is even stronger in general relativity; for, not only do we now use non-Euclidean geometries to describe both space and space–time, but we have also definitively given up (in both cases) the homogeneity and isotropy (constant curvature) of the underlying geometry. Einstein thereby ultimately arrived at a radically new conception of physical geometry envisioned by neither Helmholtz nor Poincaré (compare again note 8 above): for details see again Friedman (2002)."
+      ],
+      "zh": [
+        "参见上面注 17 及其所附段落。如我所提示的，爱因斯坦即使在 1905 年也不能接受彭加勒的几何哲学，因为它先天地把空间的三维几何置于运动定律的事实对称性之上（按照我们现在的理解，这些对称性表达时空的四维几何对称性）。爱因斯坦在这一点上与彭加勒的分歧在广义相对论中更强；因为我们现在不仅用非欧几何描述空间与时空，而且（在两种情形中）都已决定性地放弃了基础几何的均匀性和各向同性（常曲率）。爱因斯坦由此最终达到了亥姆霍兹和彭加勒都未设想的物理几何的根本新构想（再次比较上面注 8）：细节再次参见 Friedman (2002)。"
+      ]
+    }
+  }
+}

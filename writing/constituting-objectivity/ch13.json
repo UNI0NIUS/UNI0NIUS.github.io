@@ -1,0 +1,2746 @@
+{
+  "id": "ch13",
+  "title": "对物理实在的批判性说明",
+  "originalTitle": "A Critical Account of Physical Reality",
+  "outline": [
+    {
+      "anchor": "ch13-u006",
+      "title": "1 经典实在论",
+      "originalTitle": "1 Classical Realism",
+      "level": 1
+    },
+    {
+      "anchor": "ch13-u017",
+      "title": "2 经验论与形而上学",
+      "originalTitle": "2 Empiricism and Metaphysics",
+      "level": 1
+    },
+    {
+      "anchor": "ch13-u029",
+      "title": "3 康德的先天",
+      "originalTitle": "3 Kant’s A Priori",
+      "level": 1
+    },
+    {
+      "anchor": "ch13-u045",
+      "title": "4 量子理论：试金石",
+      "originalTitle": "4 Quantum Theory: The Touchstone",
+      "level": 1
+    },
+    {
+      "anchor": "ch13-u061",
+      "title": "参考文献",
+      "originalTitle": "References",
+      "level": 1
+    }
+  ],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "ch13-u001",
+      "source_ids": [
+        "ch13-u001"
+      ],
+      "page": "229",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "type": "anchor",
+      "units": 1
+    },
+    {
+      "id": "ch13-u002",
+      "source_ids": [
+        "ch13-u002"
+      ],
+      "page": "",
+      "canonical_kind": "author",
+      "en": [
+        "Brigitte Falkenburg"
+      ],
+      "zh": [
+        "布丽吉特·法尔肯堡"
+      ],
+      "units": 2
+    },
+    {
+      "id": "ch13-u003",
+      "source_ids": [
+        "ch13-u003"
+      ],
+      "page": "",
+      "canonical_kind": "abstract",
+      "en": [
+        "Abstract Several methodological a priori assumptions that underlie modern physics are investigated. They are transcendental in Kant’s sense, i.e. necessary conditions of objective physical knowledge, in particular, of theory formation and experimental practice. In the transition from classical physics to quantum physics, their meaning weakened substantially. (1) The general methodological and metaphysical principles behind modern physics were closely related to rationalist metaphysics, above all the belief in knowledge-independent causal agents and fundamental laws of nature. This belief is an essential ingredient of Planck’s and Einstein’s metaphysical realism and of current positions of scientific realism , or what is called classical realism in the paper. (2) Empiricism criticises classical realism. However, this criticism misses the methodological indispensability of nonempirical principles such as the principles of substance, mereological and causal analysis, unity, and simplicity. (3) Kant criticised classical realism. His a priori is compatible with a methodological view of these principles. (4) In twentieth century physics, however, Kant’s a priori turned out to be too strong. The touchstone of his critical account of physical reality is quantum theory. It is shown that a critical account of subatomic reality , which is slightly more liberal, comes close to central ideas of Niels Bohr’s complementarity vi ew of quantum mechanics."
+      ],
+      "zh": [
+        "摘要 本文考察构成现代物理学基础的若干方法论先天预设。它们在康德意义上是先验的，即客观物理知识——尤其是理论构造与实验实践——的必要条件。在从经典物理学向量子物理学的过渡中，这些预设的含义大为弱化。(1) 现代物理学背后的一般方法论与形而上学原理同理性论形而上学密切相关，尤其是相信独立于知识的因果作用体和基本自然定律。这种信念是普朗克与爱因斯坦的形而上学实在论以及当前科学实在论立场（本文称之为经典实在论）的本质成分。(2) 经验论批评经典实在论。然而，这种批评忽视了实体原则、部分与整体分析与因果分析原则、统一性原则和简单性原则等非经验原理在方法论上的不可或缺性。(3) 康德批评了经典实在论。他的先天理论容许从方法论上理解这些原则。(4) 然而在二十世纪物理学中，康德的先天被证明过强。他对物理实在的批判性说明的试金石是量子理论。本文表明，一种稍微宽松一些的亚原子实在的批判性说明，接近尼尔斯·玻尔量子力学互补性观点的核心思想。"
+      ],
+      "units": 205
+    },
+    {
+      "id": "ch13-u004",
+      "source_ids": [
+        "ch13-u004"
+      ],
+      "page": "",
+      "canonical_kind": "affiliation",
+      "en": [
+        "B. Falkenburg TU Dortmund, Germany"
+      ],
+      "zh": [
+        "B. Falkenburg TU Dortmund, Germany"
+      ],
+      "shared": true,
+      "units": 5
+    },
+    {
+      "id": "ch13-u005",
+      "source_ids": [
+        "ch13-u005"
+      ],
+      "page": "230",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In this paper I will investigate several kinds of a priori assumptions that underlie modern physics from its very beginnings. I will discuss their methodological role and show that some of them are indispensable for theory formation and experimental practice. They are necessary conditions of objective physical knowledge, that is, they are transcendental in Kant’s sense. However, their meaning weakens substantially in the transition from classical physics to quantum physics. (1) The general methodological and metaphysical principles that gave rise to modern physics were closely related to rationalist metaphysics. To the metaphysics behind modern physics belongs the belief in knowledge-independent causal agents and fundamental laws of nature. It survived up to the present day, in Planck’s and Einstein’s metaphysical realism as well as in current positions of scientific realism. Since this kind of realism is associated with the concepts of classical physics, I call it classical realism in the following. (2) Empiricism has always been criticising the metaphysical principles of classical realism. However, it misses the methodological indispensability of several non-empirical principles of physics, amongst them principles of substance, mereological and causal analysis, unity, and simplicity. (3) Kant criticised classical realism. His a priori does not miss the methodological character of these principles. In the Critique of Pure Reason and the Metaphysical Foundations of Natural Science, he elaborated a relational view of physics that is strikingly modern. His empirical realism opens a third way between classical realism and empiricism that does not collapse into constructivism. (4) However, in view of twentieth century physics his a priori turned out to be too strong. The touchstone of his critical account of physical reality is quantum theory. It turns out that a critical account of subatomic reality, which is slightly more liberal, comes close to central ideas of Niels Bohr’s complementarity view of quantum mechanics."
+      ],
+      "zh": [
+        "本文将考察从现代物理学发端之初就构成其基础的几类先天预设。我将讨论它们的方法论作用，并表明其中一些对理论构造和实验实践是不可或缺的。它们是客观物理知识的必要条件，也就是说，它们在康德意义上是先验的。然而，在从经典物理学向量子物理学的过渡中，这些预设的含义大为弱化。(1) 催生现代物理学的一般方法论与形而上学原理同理性论形而上学密切相关。现代物理学背后的形而上学包括对独立于知识的因果作用体和基本自然定律的信念。它一直存续到今天，既存在于普朗克与爱因斯坦的形而上学实在论中，也存在于当前的科学实在论立场中。由于这种实在论与经典物理学的概念相关联，我在下文中称之为经典实在论。(2) 经验论一直在批评经典实在论的形而上学原理。然而，它忽视了物理学的若干非经验原理在方法论上的不可或缺性，其中包括实体原则、部分与整体分析与因果分析原则、统一性原则和简单性原则。(3) 康德批评了经典实在论。他的先天理论承认这些原则具有方法论性质。在《纯粹理性批判》和《自然科学的形而上学初始根据》中，他阐述了一种惊人地现代的物理学关系性观点。他的经验实在论在经典实在论与经验论之间开辟了第三条道路，而不会坍缩为建构主义。(4) 然而，面对二十世纪物理学，他的先天被证明过强。他对物理实在的批判性说明的试金石是量子理论。结果表明，一种稍微宽松一些的亚原子实在的批判性说明，接近尼尔斯·玻尔量子力学互补性观点的核心思想。"
+      ],
+      "units": 302
+    },
+    {
+      "id": "ch13-u006",
+      "source_ids": [
+        "ch13-u006"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "1 Classical Realism"
+      ],
+      "zh": [
+        "1 经典实在论"
+      ],
+      "type": "subheading",
+      "units": 3
+    },
+    {
+      "id": "ch13-u007",
+      "source_ids": [
+        "ch13-u007"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Classical realism stems from classical point mechanics and was further elaborated in classical electrodynamics. Both theories were developed in the spirit of rationalist metaphysics. According to them, physical reality is completely determined. On this basis, Einstein was convinced that the quantum mechanical description of physical reality is not complete.",
+        {
+          "type": "note",
+          "id": "ch13-n01",
+          "label": "1"
+        },
+        " Classical realism is based on two presuppositions that are deeply rooted in rational metaphysics. The first is the principle that physical objects are substances. A substance in Descartes’ or Leibniz’ sense is a thing-in-itself, which is explained as follows. It is independent of the rest of the world, it is a carrier of primary qualities, and it can be defined in terms of monadic predicates. The second metaphysical presupposition is the assumption that all physical events and processes are completely determined by the laws of Nature, in accordance with the principle of causality. The traditional principles of substance and causality enter classical physics in terms of interaction-free physical objects and deterministic laws of their interactions."
+      ],
+      "zh": [
+        "经典实在论源于经典质点力学，并在经典电动力学中得到进一步阐发。这两种理论都是在理性论形而上学的精神中发展起来的。按照它们，物理实在是完全被规定的。在此基础上，爱因斯坦确信量子力学对物理实在的描述是不完备的。",
+        {
+          "type": "note",
+          "id": "ch13-n01",
+          "label": "1"
+        },
+        " 经典实在论基于两个深植于理性形而上学的预设。第一个是物理对象即实体的原则。笛卡尔或莱布尼茨意义上的实体是自在之物，其说明如下：它独立于世界的其余部分，它是第一性的质的承载者，并且可以用一元谓词来定义。第二个形而上学预设是如下假定：一切物理事件和过程都按照因果性原则被自然定律完全规定。传统的实体原则与因果性原则以无相互作用的物理对象及其相互作用的确定性规律的形式进入经典物理学。"
+      ],
+      "units": 164
+    },
+    {
+      "id": "ch13-u008",
+      "source_ids": [
+        "ch13-u008"
+      ],
+      "page": "231",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In classical point mechanics, substance and causality come in terms of mass points and their trajectories. Mass points are carriers of physical properties such as mass, momentum, energy and charge. For these properties, conservation laws are valid.",
+        {
+          "type": "note",
+          "id": "ch13-n02",
+          "label": "2"
+        },
+        " A mass point has the following features in common with a substance in the traditional sense. It is regarded as a thing-in-itself that exists on its own and carries its physical properties independently of the rest of the world. This independence is expressed in Newton’s law of inertia. Even though the law of inertia is a specific case of Newton’s law of force (i.e., the case of a vanishing force), the force zero or interaction-free case is methodologically prior. All non-inertial motions are defined as deviations from the inertial motions. (Only Einstein’s general relativity skips this distinction.) Deviations of the inertial trajectory are supposed to be caused by external forces. In a first approach, these forces are described as if they were substance-like entities, too, that act at mechanical bodies. The forces act on a relational dynamic property of a mass point, namely its charge. The charge of gravitation is the gravitational mass (as distinguished from the inertial mass)."
+      ],
+      "zh": [
+        "在经典质点力学中，实体与因果性以质点及其轨道的形式出现。质点是质量、动量、能量和电荷等物理属性的承载者。对这些属性，守恒定律成立。",
+        {
+          "type": "note",
+          "id": "ch13-n02",
+          "label": "2"
+        },
+        " 质点与传统意义上的实体有以下共同特征：它被视为独立自存、不依赖世界其余部分而承载其物理属性的自在之物。这种独立性表现在牛顿惯性定律中。尽管惯性定律是牛顿的力定律的一个特例（即力为零的情形），但零力或无相互作用的情形在方法论上是在先的。一切非惯性运动都被定义为对惯性运动的偏离。（只有爱因斯坦的广义相对论取消了这一区分。）惯性轨道的偏离被假定由外力引起。在初步处理中，这些力也被描述得仿佛它们是实体性的东西，作用于力学物体。力作用于质点的一个关系性动力学属性，即它的荷。引力的荷就是引力质量（与惯性质量相区别）。"
+      ],
+      "units": 197
+    },
+    {
+      "id": "ch13-u009",
+      "source_ids": [
+        "ch13-u009"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "For Newton, the gravitational mass did not belong to the primary qualities of a body. He did not yet have this concept but only the concepts of weight and mass (i.e., the inertial mass). The weight of a body is obviously a relational property. Newton thought that it is proportional to mass, where mass is an absolute quantity defined in terms of the number of atoms per volume.",
+        {
+          "type": "note",
+          "id": "ch13-n03",
+          "label": "3"
+        },
+        " The atoms were Newton’s substances. Today, the charges of other interactions such as the electric charge add to the gravitational mass. For example, they are combined in the law of the classical Lorentz force ",
+        {
+          "type": "math",
+          "tex": "\\mathbf{F}=q/c\\,(\\mathbf{E}+m\\,\\mathbf{v}\\times\\mathbf{B})",
+          "display": false
+        },
+        ", which describes the deflection of massive charged particles in an electric and magnetic field."
+      ],
+      "zh": [
+        "对牛顿来说，引力质量不属于物体的第一性的质。他还没有这个概念，而只有重量和质量（即惯性质量）的概念。物体的重量显然是一个关系性属性。牛顿认为它与质量成正比，而质量是一个按单位体积原子数定义的绝对量。",
+        {
+          "type": "note",
+          "id": "ch13-n03",
+          "label": "3"
+        },
+        " 原子就是牛顿的实体。今天，除引力质量之外，还要计入电荷等其他相互作用的荷。例如，它们合并在经典洛伦兹力定律 ",
+        {
+          "type": "math",
+          "tex": "\\mathbf{F}=q/c\\,(\\mathbf{E}+m\\,\\mathbf{v}\\times\\mathbf{B})",
+          "display": false
+        },
+        " 中，该定律描述有质量带电粒子在电场和磁场中的偏转。",
+        {
+          "type": "block",
+          "kind": "editorial",
+          "children": [
+            "校注　",
+            "式中的 ",
+            {
+              "type": "math",
+              "tex": "m",
+              "display": false
+            },
+            " 及括号外的 ",
+            {
+              "type": "math",
+              "tex": "q/c",
+              "display": false
+            },
+            " 均照原书。系数疑有排印讹误。"
+          ]
+        }
+      ],
+      "units": 129
+    },
+    {
+      "id": "ch13-u010",
+      "source_ids": [
+        "ch13-u010"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In classical electrodynamics, substance comes in terms of space–time points as carriers of the electric and magnetic field strengths and in terms of the solutions of the Maxwell equations, i.e., fields and waves as certain functions of the electromagnetic field strengths. Causality comes in terms of the propagation of these fields and waves. Regarding the relation between substance-like physical objects that are conceived as things-in-themselves and their interactions, Maxwell’s field theory is similar to Newton’s mechanics. The simplest case are the homogeneous Maxwell equations. They describe free fields."
+      ],
+      "zh": [
+        "在经典电动力学中，实体以时空点的形式出现——作为电场强度与磁场强度的承载者——并以麦克斯韦方程组的解的形式出现，即作为电磁场强度的某些函数的场与波。因果性以这些场与波的传播的形式出现。就被设想为自在之物的实体性物理对象与其相互作用之间的关系而言，麦克斯韦场论类似于牛顿力学。最简单的情形是齐次麦克斯韦方程组。它们描述自由场。"
+      ],
+      "units": 90
+    },
+    {
+      "id": "ch13-u011",
+      "source_ids": [
+        "ch13-u011"
+      ],
+      "page": "232",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Classical mechanics and electrodynamics have in common that their basis is the description of non-interacting entities. Interactions between mass points or between matter and fields are taken into account later. Whenever the interactions become too complicated, perturbation theory is used in classical physics (and beyond). It starts from the unperturbed case, i.e., free mass points and uncoupled fields, and approximates their interactions stepwise. In this regard, the metaphysical concept of a substance that is independent of the rest of the world underlies the most familiar idealization of physics, namely the concept of a non-interacting, approximately isolated physical object or system. Every physicist knows that this idealisation is not really justified. The law of inertia neglects the universality of gravitation, i.e., the interaction of any mass point with celestial bodies that make up a non-inertial frame. Classical mechanics is based on the assumption that this idealization is in most cases a prettily good approximation. And perturbation theory is based on the assumption that the deviations from this idealization can be taken into account in a linear approach by a converging series of corrections of decreasing size. In addition, classical mechanics and electrodynamics assume that different kinds of forces or interactions, namely gravitation and electric or magnetic fields, sum up linearly."
+      ],
+      "zh": [
+        "经典力学与电动力学的共同之处在于：它们的基础是对无相互作用实体的描述。质点之间或物质与场之间的相互作用是后来才加以考虑的。每当相互作用变得过于复杂，经典物理学及此后发展的物理理论就会使用微扰论。它从无微扰情形——即自由质点与无耦合场——出发，逐步逼近它们的相互作用。在这方面，独立于世界其余部分的实体这一形而上学概念，构成了物理学最熟悉的理想化的基础，即无相互作用的、近似孤立的物理对象或系统概念。每个物理学家都知道这种理想化并非严格成立。惯性定律忽略了引力的普遍性，即任何质点与构成非惯性参考系的天体之间的相互作用。经典力学基于这样的假定：这种理想化在大多数情形下是相当好的近似。而微扰论基于这样的假定：对这种理想化的偏离可以在线性处理下，通过一个修正项逐次减小的收敛级数来计入。此外，经典力学与电动力学假定不同种类的力或相互作用——即引力与电场或磁场——线性叠加。"
+      ],
+      "units": 211
+    },
+    {
+      "id": "ch13-u012",
+      "source_ids": [
+        "ch13-u012"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hence, classical physics is built on the metaphysical presupposition that physical reality can be analysed in terms of independent objects and forces that sum up linearly to the complex phenomenological properties and interactions of the complex physical phenomena observed in nature. The experimental methods of modern physics, too, are based on this presupposition. Any experiment aims at isolating a physical system from its environment and studying its spatio-temporal and dynamic properties. And any experiment aims at causal analysis, that is, at isolating the relevant causal factors that determine its behaviour."
+      ],
+      "zh": [
+        "因此，经典物理学建立在这样的形而上学预设之上：物理实在可以用独立的对象和力来分析，它们线性叠加成自然界中观察到的复杂物理现象的复杂现象学属性与相互作用。现代物理学的实验方法也基于这一预设。任何实验都旨在把一个物理系统从其环境中隔离出来，研究它的时空属性与动力学属性。并且任何实验都旨在因果分析，即隔离出决定其行为的相关因果因素。"
+      ],
+      "units": 90
+    },
+    {
+      "id": "ch13-u013",
+      "source_ids": [
+        "ch13-u013"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Indeed, the traditional metaphysical concepts of substance and causality are closely related to the methodological principles of Galileo’s resolutive-compositive method, i.e., the assumption that physical phenomena can be decomposed and recomposed by means of experiments and mathematical methods. Newton called this the method of analysis and synthesis. The concept of substance underlies the attempts at analysing the phenomena into components (mereological analysis). For example, the spectral analysis of light by means of a prism results in the spectral decomposition of light, in rainbow colours (analysis). Newton explained it in terms of different light atoms. In addition, he showed how white light may be recomposed from two overlapping spectra (synthesis). Newton would have liked to decompose also matter in its constituent parts, the atoms, but he could not. However, the principles of mereological analysis remained fruitful in modern subatomic physics. Quantum theory explains the results of spectral analysis in terms of light quanta. Analogously, the experiments of atomic, nuclear physics result in analysing matter into its subatomic parts, i.e., in atom and subatomic particles. The concept of causality, in turn, identifies the ‘substances’ of physics with causal agents. Experiments aim at the isolation of causally relevant factors and the causal agents behind them (causal analysis), the mathematical descriptions of which in turn are assumed to combine to the contents of physical explanations."
+      ],
+      "zh": [
+        "的确，传统的实体与因果性形而上学概念同伽利略分解–组合方法的方法论原则密切相关，即物理现象可以借助实验和数学方法加以分解与重组的假定。牛顿称之为分析与综合的方法。实体概念构成了把现象分析为组分（部分与整体分析）的尝试的基础。例如，用棱镜对光作光谱分析，得到光分解为彩虹色的光谱（分析）。牛顿用不同的光原子来解释它。此外，他还表明白光如何可以由两个重叠的光谱重新合成（综合）。牛顿本来也想把物质分解为其组成部分——原子，但他做不到。然而，部分与整体分析的原则在现代亚原子物理学中仍然富有成果。量子理论用光量子解释光谱分析的结果。类似地，原子物理与核物理的实验把物质分析为其亚原子部分，即分析为原子和亚原子粒子。反过来，因果性概念把物理学的“实体”等同于因果作用体。实验旨在隔离因果相关的因素及其背后的因果作用体（因果分析），而对它们的数学描述又被假定组合成物理解释的内容。"
+      ],
+      "units": 223
+    },
+    {
+      "id": "ch13-u014",
+      "source_ids": [
+        "ch13-u014"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Let me summarise these crucial features of classical physics. The classical concept of a non-interacting, isolated physical object or system corresponds to the traditional metaphysical concept of substance. Classical forces and fields are also modelled after this concept. And the interactions between physical objects are described in terms of forces or fields, which are assumed to sum up linearly as independent causal factors. The experimental methods of physics are based on related concepts of an isolated object and the causal analysis of its spatio-temporal and dynamic properties. Hence, the traditional metaphysical concepts of substance and causality are closely related to the mathematical and experimental methods of modern physics. They are indispensable methodological principles of physics. Without them, neither a physical dynamics nor any experimental test of it were possible."
+      ],
+      "zh": [
+        "让我总结经典物理学的这些关键特征。无相互作用的孤立物理对象或系统的经典概念，对应于传统的实体形而上学概念。经典的力与场也按这个概念建模。而物理对象之间的相互作用以力或场来描述，它们被假定作为独立的因果因素线性叠加。物理学的实验方法基于相关的孤立对象概念及其时空属性与动力学属性的因果分析。因此，传统的实体与因果性形而上学概念同现代物理学的数学方法与实验方法密切相关。它们是物理学不可或缺的方法论原则。没有它们，无论是物理动力学还是对它的任何实验检验都不可能。"
+      ],
+      "units": 129
+    },
+    {
+      "id": "ch13-u015",
+      "source_ids": [
+        "ch13-u015"
+      ],
+      "page": "233",
+      "canonical_kind": "paragraph",
+      "en": [
+        "To them add other metaphysical principles of modern physics, such as the principles of the unity of nature and the simplicity of its mathematical structure. Newton expressed them in his Opticks as follows: “Nature will be very conformable to her self and very simple”.",
+        {
+          "type": "note",
+          "id": "ch13-n04",
+          "label": "4"
+        },
+        " These metaphysical assumptions about a rational order of the phenomena lie at the very heart of modern physics. They give rise to the methodological principles of the unity and simplicity of the laws of physics. The latter are closely related. Unification is a central goal of physics. Simplicity is an important principle for the construction of a unified theory. Newton, Maxwell, and Einstein constructed their theories based on them. In addition, these principles give rise to the symmetry principles of physics. Leibniz used them as powerful tools against Newton’s concepts of absolute space and time, in the famous Leibniz–Clarke debate",
+        {
+          "type": "note",
+          "id": "ch13-n05",
+          "label": "5"
+        },
+        "; indeed, they underlie theory construction in physics up to the present day. All the principles mentioned here stem from rationalism. They express the belief that the world is rational. They claim that the physicists are able to decipher the book of Nature because it is written in mathematical letters which may be put in axiomatic terms."
+      ],
+      "zh": [
+        "此外还有现代物理学的其他形而上学原则，如自然统一性原则及其数学结构的简单性原则。牛顿在《光学》中这样表达它们：“自然将与自身非常一致并且非常简单。”",
+        {
+          "type": "note",
+          "id": "ch13-n04",
+          "label": "4"
+        },
+        " 这些关于现象之理性秩序的形而上学假定处于现代物理学的核心。它们催生了物理规律统一性与简单性的方法论原则。后两者密切相关。统一是物理学的核心目标。简单性是构造统一理论的重要原则。牛顿、麦克斯韦和爱因斯坦都基于它们构造自己的理论。此外，这些原则还催生了物理学的对称性原则。莱布尼茨在著名的莱布尼茨–克拉克争论中把它们用作反对牛顿绝对空间与时间概念的有力工具",
+        {
+          "type": "note",
+          "id": "ch13-n05",
+          "label": "5"
+        },
+        "；的确，直到今天它们仍构成物理学理论构造的基础。这里提到的所有原则都源于理性论。它们表达世界是理性的这一信念。这些原则意味着物理学家能读懂自然这本书，因为书写它的数学语言可以用公理来表述。"
+      ],
+      "units": 201
+    },
+    {
+      "id": "ch13-u016",
+      "source_ids": [
+        "ch13-u016"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Classical realism is just the assumption that Nature is really like this. It is the assumption that Nature is constituted by independent physical objects with causal properties that are completely determined by the laws of mathematical physics. Newton, Planck, and Einstein combined this assumption with the belief in the existence of an all-embracing mathematical structure behind the variety of physical phenomena, which may be grasped by universal physical principles and a unified theory of physics. Planck emphasised that the goal of physics is to discover a constant mathematical unity, which is actually the real, behind the phenomena.",
+        {
+          "type": "note",
+          "id": "ch13-n06",
+          "label": "6"
+        },
+        " And Einstein did not accept quantum theory because it violates the ideas of independent causal agents behind the phenomena and of a unified axiomatic description of these agents and their observable effects."
+      ],
+      "zh": [
+        "经典实在论恰恰就是自然确实如此的假定。它是如下假定：自然由独立的物理对象构成，这些对象具有被数学物理规律完全规定的因果属性。牛顿、普朗克和爱因斯坦把这一假定同如下信念结合起来：在物理现象的多样性背后存在一个包罗万象的数学结构，它可以由普遍物理原理和统一的物理理论来把握。普朗克强调，物理学的目标是发现现象背后恒常的数学统一性，它才是真正的实在。",
+        {
+          "type": "note",
+          "id": "ch13-n06",
+          "label": "6"
+        },
+        " 而爱因斯坦不接受量子理论，因为它违反了两项主张：现象背后有独立的因果作用体，而且这些作用体及其可观察效应可以得到统一的公理化描述。"
+      ],
+      "units": 129
+    },
+    {
+      "id": "ch13-u017",
+      "source_ids": [
+        "ch13-u017"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "2 Empiricism and Metaphysics"
+      ],
+      "zh": [
+        "2 经验论与形而上学"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch13-u018",
+      "source_ids": [
+        "ch13-u018"
+      ],
+      "page": "234",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Empiricist philosophers criticise classical realism and the underlying metaphysical principles. This criticism accompanied modern physics almost from its very beginnings. Locke criticised the non-empirical concept of a substance in the sense of an unobservable carrier of observable properties of things. He claimed that our experience of empirical substances only gives rise to the complex idea of empirical properties that constantly go together.",
+        {
+          "type": "note",
+          "id": "ch13-n07",
+          "label": "7"
+        },
+        " Nevertheless, he believed in the existence of unobservable causal agents in nature, and in particular, of atoms. In this point, his views still came close to the metaphysics behind Newton’s physics. Hume was more radical (or consequent). He criticised any principle of causality that attributes the necessity of a law of nature to mere empirical regularities. In taking up their criticism, Kant understood both principles as conditions a priori for the possibility of our experience. He attributed them to the cognitive capacities of our understanding rather than to the structure of a reality that exists independent of our empirical knowledge. Modern empiricism followed Hume and rejected Kant’s a priori. Mach criticised Newton’s concept of force and his atomistic foundation of the concept of mass as metaphysical and expressed Newton’s laws in operational concepts. In view of the twentieth century scientific revolutions, Carnap and Reichenbach criticised Kant’s a priori as bound to a Newtonian metaphysics."
+      ],
+      "zh": [
+        "经验论哲学家批评经典实在论及其背后的形而上学原理。这种批评几乎从现代物理学发端之初就伴随着它。洛克批评了作为事物可观察属性之不可观察承载者的非经验实体概念。他声称，我们对经验实体的经验只产生经常相伴出现的经验属性的复杂观念。",
+        {
+          "type": "note",
+          "id": "ch13-n07",
+          "label": "7"
+        },
+        " 尽管如此，他相信自然界中不可观察的因果作用体——尤其是原子——的存在。在这一点上，他的观点仍接近牛顿物理学背后的形而上学。休谟更激进（或者说更一贯）。他批评任何把自然定律的必然性归于单纯经验规则性的因果性原则。康德在吸收他们的批评时，把这两条原则都理解为我们经验之可能性的先天条件。他把它们归于我们知性的认知能力，而不是归于独立于我们经验知识而存在的实在的结构。现代经验论追随休谟，拒斥康德的先天。马赫批评牛顿的力概念及其质量概念的原子论基础是形而上学的，并用操作概念表达牛顿定律。面对二十世纪的科学革命，卡尔纳普与赖欣巴赫批评康德的先天绑定于牛顿形而上学。"
+      ],
+      "units": 216
+    },
+    {
+      "id": "ch13-u019",
+      "source_ids": [
+        "ch13-u019"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "From an empiricist point of view, any science needs empirical foundations and the quest for any metaphysical foundations of science is at odds with this requirement. Carnap initiated a research program of reconstructing physical theories from concepts with empirical significance. More recently, van Fraassen claimed that only the empirical substructure of a physical theory is a safe description of physical reality.",
+        {
+          "type": "note",
+          "id": "ch13-n08",
+          "label": "8"
+        },
+        " However, twentieth century empiricism failed in its attempts at finding a demarcation between empirical science and metaphysics. The distinction of the empirical and the metaphysical had to be revised, when the search for empiricist demarcation criteria turned out to be in vain. According to the Quine-Duhem thesis, isolated theoretical statements do not unambiguously correspond to isolated empirical data. This gave rise to a liberalised version of empiricism. According to it, an empirical theory may be subject to revision in front of the tribunal of all available empirical data; nevertheless, the principles of physical theories are partially and indirectly testable. Empirical underdeterminacy exists, but it is a philosophical problem rather than a problem of physical practice."
+      ],
+      "zh": [
+        "从经验论观点看，任何科学都需要经验基础，而为科学寻求任何形而上学基础都与这一要求相冲突。卡尔纳普发起了一个从具有经验意义的概念出发重构物理理论的研究纲领。后来，范·弗拉森声称只有物理理论的经验子结构才是对物理实在的可靠描述。",
+        {
+          "type": "note",
+          "id": "ch13-n08",
+          "label": "8"
+        },
+        " 然而，二十世纪经验论在寻找经验科学与形而上学之划界的尝试中失败了。当对经验论划界标准的寻求被证明徒劳时，经验的与形而上学的区分不得不修正。按照蒯因–迪昂论题，孤立的理论陈述并不单义地对应于孤立的经验数据。这催生了经验论的一个宽松版本。按照它，一个经验理论可以在一切可用经验数据的法庭面前接受修正；尽管如此，物理理论的原理是部分地、间接地可检验的。经验欠决定性存在，但它是一个哲学问题，而不是物理实践的问题。"
+      ],
+      "units": 176
+    },
+    {
+      "id": "ch13-u020",
+      "source_ids": [
+        "ch13-u020"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Indeed, closer examination of specific physical theories showed that the architectonics of physics is a complicated many-dimensional network of hierarchical structures. Its empirical and non-empirical elements are in many ways interwoven. One may identify the following three kinds of non-empirical or metaphysical elements in physical theories:"
+      ],
+      "zh": [
+        "的确，对具体物理理论的更细致考察表明，物理学的理论架构是一个由层级结构构成的复杂多维网络。其经验要素与非经验要素以多种方式交织在一起。可以区分出物理理论中以下三类非经验的或形而上学的要素："
+      ],
+      "units": 46
+    },
+    {
+      "id": "ch13-u021",
+      "source_ids": [
+        "ch13-u021"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "(i) Conventional elements: Many physical theories contain quantities which are empirically underdetermined and which can be fixed in favour of a mathematically simple and elegant structure of the theory. A famous example is the convention about the two-way speed of light, upon which Einstein’s famous operational definition of simultaneity is based. In his seminal paper on special relativity, Einstein suggested that, when we synchronise clocks by means of light signals, light travels in both directions with the same speed.",
+        {
+          "type": "note",
+          "id": "ch13-n09",
+          "label": "9"
+        }
+      ],
+      "zh": [
+        "(i) 约定要素：许多物理理论包含一些在经验上欠决定的量，这些量可以为了理论在数学上简单而优雅的结构而被固定下来。一个著名的例子是关于双程光速的约定，爱因斯坦著名的同时性操作定义正是以它为基础的。在其关于狭义相对论的开创性论文中，爱因斯坦提出，当我们借助光信号同步时钟时，光在两个方向上以相同的速度传播。",
+        {
+          "type": "note",
+          "id": "ch13-n09",
+          "label": "9"
+        }
+      ],
+      "units": 79
+    },
+    {
+      "id": "ch13-u022",
+      "source_ids": [
+        "ch13-u022"
+      ],
+      "page": "235",
+      "canonical_kind": "paragraph",
+      "en": [
+        "(ii) The choice of a metric: Measurement presupposes a metric. The choice of a metric, however, presupposes a theory of the measurement devices. Length and time may be measured by means of rigid rods and Newtonian clocks or by means of light signals, that is, with a Galilean or a Lorentzian metric. The same is true of velocity, which may be measured in a Galilean frame or a Lorentz frame.",
+        {
+          "type": "note",
+          "id": "ch13-n10",
+          "label": "10"
+        },
+        " Mass may be measured in classical terms, i.e. with a mass spectrograph which obeys the Lorentz force law, or in non-classical terms, e.g. in terms of the mean energy of the resonance of the decay of an unstable subatomic particle and Einstein’s equivalence of mass and energy.\n\n(iii) Meta-theoretical principles that stem from non-empirical assumptions about the structure of empirical reality and the laws of Nature. They fix classes of theories.",
+        {
+          "type": "note",
+          "id": "ch13-n11",
+          "label": "11"
+        },
+        " To them belong the metaphysical principles discussed in the preceding section, above all, the symmetries of physics. Classical mechanics is invariant under spatial reflection and time reversal. Non-relativistic mechanics is Galilean invariant. Electrodynamics is Lorentz invariant. The assumption that fundamental laws are CPT invariant",
+        {
+          "type": "note",
+          "id": "ch13-n12",
+          "label": "12"
+        },
+        " belongs to physics up to the present day. A basic principle of classical field theory hitherto not mentioned is the locality of interactions, i.e., the assumption that there are no actions-at-a-distance."
+      ],
+      "zh": [
+        "(ii) 度规的选择：测量以度规为前提。然而，度规的选择又以测量仪器的理论为前提。长度和时间可以用刚性杆和牛顿式时钟来测量，也可以用光信号来测量，也就是说，采用伽利略度规或洛伦兹度规。速度同样如此，它可以在伽利略参考系或洛伦兹参考系中测量。",
+        {
+          "type": "note",
+          "id": "ch13-n10",
+          "label": "10"
+        },
+        " 质量可以用经典方式来测量，即使用服从洛伦兹力定律的质谱仪；也可以用非经典方式来测量，例如根据不稳定亚原子粒子衰变共振的平均能量以及爱因斯坦的质能等价关系来测量。\n\n(iii) 元理论原理：它们源于关于经验实在的结构和自然定律的非经验假设。它们规定哪些理论属于同一类。",
+        {
+          "type": "note",
+          "id": "ch13-n11",
+          "label": "11"
+        },
+        " 上一节讨论的形而上学原理，尤其是物理学的对称性，就属于这一类。经典力学在空间反射和时间反演下不变。非相对论力学是伽利略不变的。电动力学是洛伦兹不变的。基本定律具有 CPT 不变性",
+        {
+          "type": "note",
+          "id": "ch13-n12",
+          "label": "12"
+        },
+        "这一假设至今仍是物理学的一部分。经典场论还有一个此前未提到的基本原理，即相互作用的定域性，也就是不存在超距作用的假设。"
+      ],
+      "units": 219
+    },
+    {
+      "id": "ch13-u023",
+      "source_ids": [
+        "ch13-u023"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "All these non-empirical elements of physical theories are closely related. The spatio-temporal symmetry of a theory defines the choice of a Galilean or Lorentzian metric. The choice of the conventional elements of a space–time theory affects the metric, too. To reject the Einstein convention of special relativity means to opt for a very complicated metric.",
+        {
+          "type": "note",
+          "id": "ch13-n13",
+          "label": "13"
+        },
+        " All three kinds of assumptions affect what is called the ontology of a theory, that is, the kind of entities to which a theory commits.",
+        {
+          "type": "note",
+          "id": "ch13-n14",
+          "label": "14"
+        },
+        " To believe in a preferred inertial frame means to re-establish an absolute, neo-Newtonian space–time and to reject Lorentz invariance, and vice versa. To believe in a quantum theory with hidden variables means to re-establish action-at-a-distance, to reject Lorentz invariance, and so on."
+      ],
+      "zh": [
+        "物理理论的这些非经验要素全都密切相关。一个理论的时空对称性决定了伽利略度规或洛伦兹度规的选择。时空理论中约定要素的选择也影响度规。拒绝狭义相对论的爱因斯坦约定，就意味着选择一种非常复杂的度规。",
+        {
+          "type": "note",
+          "id": "ch13-n13",
+          "label": "13"
+        },
+        " 这三类假设都影响所谓理论的本体论，即理论所承诺的实体种类。",
+        {
+          "type": "note",
+          "id": "ch13-n14",
+          "label": "14"
+        },
+        " 相信存在一个优越的惯性系，就意味着重新确立一种绝对的、新牛顿式的时空并拒绝洛伦兹不变性，反之亦然。相信存在带隐变量的量子理论，就意味着重新确立超距作用、拒绝洛伦兹不变性，如此等等。"
+      ],
+      "units": 124
+    },
+    {
+      "id": "ch13-u024",
+      "source_ids": [
+        "ch13-u024"
+      ],
+      "page": "236",
+      "canonical_kind": "paragraph",
+      "en": [
+        "However, for all practical purposes the metaphysical principles (i)–(iii) are empirically testable. The choice of a metric is empirically justified by the operational foundations of a measurement method, the choice of adequate axioms of measurement, and the validity of a representation theorem, as empiricist measurement theory shows.",
+        {
+          "type": "note",
+          "id": "ch13-n15",
+          "label": "15"
+        },
+        " Once the metric is fixed, the conventional elements of physical theories no longer remain arbitrary.",
+        {
+          "type": "note",
+          "id": "ch13-n16",
+          "label": "16"
+        },
+        " And several symmetries as well as the locality assumption of classical field theory were rejected in subatomic physics. The nonlocality of quantum phenomena, parity violation, and CP violations are supported by many experimental results. The experimental tests of symmetries or quantum non-locality have the nice feature that they directly test the respective meta-theoretical principle, by testing a class of theoretical structures rather than a specific theory.",
+        {
+          "type": "note",
+          "id": "ch13-n17",
+          "label": "17"
+        },
+        " In particular, the experiments of Bell’s inequality exclude all hidden variable theories with local coupling."
+      ],
+      "zh": [
+        "然而，就一切实际目的而言，形而上学原理 (i)–(iii) 是可以在经验上检验的。正如经验论测量理论所表明的，度规的选择通过测量方法的操作基础、恰当测量公理的选择以及表示定理的有效性而得到经验辩护。",
+        {
+          "type": "note",
+          "id": "ch13-n15",
+          "label": "15"
+        },
+        " 一旦度规固定下来，物理理论的约定要素就不再是任意的。",
+        {
+          "type": "note",
+          "id": "ch13-n16",
+          "label": "16"
+        },
+        " 而且，若干对称性以及经典场论的定域性假设在亚原子物理学中已被否弃。量子现象的非定域性、宇称不守恒和 CP 破缺得到了许多实验结果的支持。对称性或量子非定域性的实验检验有一个很好的特点：它们通过检验一类理论结构而非某个具体理论，直接检验相应的元理论原理。",
+        {
+          "type": "note",
+          "id": "ch13-n17",
+          "label": "17"
+        },
+        " 特别是，检验贝尔不等式的实验排除了一切具有定域耦合的隐变量理论。"
+      ],
+      "units": 144
+    },
+    {
+      "id": "ch13-u025",
+      "source_ids": [
+        "ch13-u025"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Nevertheless, this nice liberalised empiricist view of physics is not the whole story. Some crucial completely untestable principles of modern physics remain. And they do not only concern the speculative foundations of rival theories that remain empirically underdetermined for principal reasons, like the interpretations of quantum mechanics beyond the probabilistic Born-von Neumann interpretation. Above all, there are the general methodological principles of physics discussed in the preceding section. To them belong the principles of:"
+      ],
+      "zh": [
+        "尽管如此，这种较为宽松的经验论物理学观，只说明了部分情况。现代物理学还留有一些关键的、完全不可检验的原理。而且它们不仅涉及那些原则上无法由经验判定孰是孰非的竞争理论的思辨基础，例如超出概率性的玻恩–冯·诺伊曼诠释之外的量子力学诠释。首要的是上一节讨论的物理学的一般方法论原理。它们包括以下原理："
+      ],
+      "units": 74
+    },
+    {
+      "id": "ch13-u026",
+      "source_ids": [
+        "ch13-u026"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. Substance: Physical objects are (approximately) non-interacting carriers of physical properties (macroscopic matter, particles, forces, fields).\n2. Causality: These carriers of physical properties are causal agents which determine the phenomena completely.\n3. Analysis: The experimental methods of physics aim at isolating these causal agents and their properties. In particular, they aim at mereological and causal analysis.\n4. Synthesis: The properties of the causal agents of physics are assumed to sum up linearly to the properties of complex phenomena.\n5. Unity: The observable phenomena, their constituents, and their composites finally obey the same laws of physics.\n6. Simplicity: Of two given theoretical explanations, the simpler one is preferable as presumably closer to truth."
+      ],
+      "zh": [
+        "1. 实体：物理对象是（近似）无相互作用的物理性质承载者（宏观物质、粒子、力、场）。\n2. 因果性：这些物理性质的承载者是因果作用体，它们完全决定现象。\n3. 分析：物理学的实验方法旨在分离这些因果作用体及其性质。特别是，它们旨在进行部分与整体分析和因果分析。\n4. 综合：假定物理学中因果作用体的性质线性叠加为复杂现象的性质。\n5. 统一性：可观察的现象、它们的组分以及它们的复合体最终服从同样的物理定律。\n6. 简单性：在两个给定的理论解释中，较简单的那个更可取，因为它被推测更接近真理。"
+      ],
+      "units": 112
+    },
+    {
+      "id": "ch13-u027",
+      "source_ids": [
+        "ch13-u027"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "All these principles are methodologically indispensable for physics, from Galileo’s and Newton’s day up to twenty-first century physics. To abandon them means to dispense with physics as an experimental and mathematical science that aims at objective knowledge. They stem from traditional metaphysics, they are non-empirical or a priori, and they are constitutive of physics as the paradigmatic exact empirical science. They constitute physical objects and their interactions in the sense that they make it possible to investigate them. They are transcendental principles of physics in Kant’s sense, that is, conditions of the very possibility of physical experience."
+      ],
+      "zh": [
+        "从伽利略和牛顿的时代直到二十一世纪的物理学，所有这些原理在方法论上对物理学都是不可或缺的。放弃它们，就意味着放弃作为一门以客观知识为目标的实验的和数学的科学的物理学。它们源于传统形而上学，它们是非经验的或先天的，并且对于作为典范性精确经验科学的物理学具有构成性。它们在使物理对象及其相互作用得以被研究的意义上构成这些对象和相互作用。它们是康德意义上的物理学的先验原理，即物理经验之可能性的条件。"
+      ],
+      "units": 97
+    },
+    {
+      "id": "ch13-u028",
+      "source_ids": [
+        "ch13-u028"
+      ],
+      "page": "237",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In twentieth century physics, the causal agents and dynamic processes that underlie physical phenomena turned out to be much less substantial, causal, linear, symmetric, unified, and simple than the founders of modern physics thought. Nevertheless, the belief in the above principles remains indispensable for theory formation and experimental practice in physics. In particular, the quest for unification remains an indispensable methodological principle. Modern philosophy of science emphasises that scientific explanation is unification and simplicity is a crucial criterion for the choice between empirically equivalent theories.",
+        {
+          "type": "note",
+          "id": "ch13-n18",
+          "label": "18"
+        },
+        " A further important point is completely neglected in the philosophy of science. In view of the current axiomatic disunity of classical and quantum physics, the construction of the scales of the fundamental physical quantities is without empirical foundation. In current physics, the length, time, and mass scale are constructed from the Planck scale (",
+        {
+          "type": "math",
+          "tex": "10^{-35}\\,\\mathrm{m}",
+          "display": false
+        },
+        ") over current subatomic physics (",
+        {
+          "type": "math",
+          "tex": "10^{-18}\\,\\mathrm{m}",
+          "display": false
+        },
+        ") and the mesocosmic scale (",
+        {
+          "type": "math",
+          "tex": "10^{-2}",
+          "display": false
+        },
+        "–",
+        {
+          "type": "math",
+          "tex": "10^6\\,\\mathrm{m}",
+          "display": false
+        },
+        ") up to the horizon of the observable universe and beyond. From the quarks to the horizon of the universe, there is a chain of overlapping measurement methods. Each of these measurement methods has well-defined empirical foundations in the sense of the empiricist theory of measurement. However, below the quarks and beyond the horizon is nothing that has been measured. And the unity of the different measurements involved in between is a priori assumed. The chain of measurement methods mentioned above involves measurements with incommensurable theoretical foundations. Its supposed unity rests on two pillars: on the fact that measurement methods with overlapping domains do not give rise to contradictory measurement results and on the metaphysical assumption that the properties of the causal agents in Nature exhibit more unity than the axiomatic theories of current physics.",
+        {
+          "type": "note",
+          "id": "ch13-n19",
+          "label": "19"
+        }
+      ],
+      "zh": [
+        "在二十世纪物理学中，物理现象背后的因果作用体和动力学过程，被证明远不如现代物理学的奠基者们所设想的那样具有实体性、因果性、线性、对称性、统一性和简单性。尽管如此，对上述原理的信念对于物理学中的理论构造和实验实践仍然不可或缺。特别是，对统一的追求仍然是一条不可或缺的方法论原理。现代科学哲学强调，科学解释就是统一，而简单性是在经验等价的理论之间作出选择的关键标准。",
+        {
+          "type": "note",
+          "id": "ch13-n18",
+          "label": "18"
+        },
+        " 还有一个重要的方面在科学哲学中被完全忽视了。鉴于当前经典物理学与量子物理学在公理上的不统一，基本物理量标度的构造是没有经验基础的。在当代物理学中，长度、时间和质量的标度从普朗克标度（",
+        {
+          "type": "math",
+          "tex": "10^{-35}\\,\\mathrm{m}",
+          "display": false
+        },
+        "）经由当前亚原子物理学（",
+        {
+          "type": "math",
+          "tex": "10^{-18}\\,\\mathrm{m}",
+          "display": false
+        },
+        "）和介观标度（",
+        {
+          "type": "math",
+          "tex": "10^{-2}",
+          "display": false
+        },
+        "–",
+        {
+          "type": "math",
+          "tex": "10^6\\,\\mathrm{m}",
+          "display": false
+        },
+        "）一直构造到可观测宇宙的视界乃至更远。从夸克到宇宙视界，存在一条测量方法相互重叠的链条。这些测量方法中的每一种都在经验论测量理论的意义上具有明确定义的经验基础。然而，在夸克以下和视界之外，没有任何东西被测量过。而介于其间的各种不同测量的统一性则是先天假定的。上述测量方法链条涉及具有不可通约的理论基础的测量。其设想的统一性建立在两根支柱上：一是定义域相互重叠的测量方法不产生矛盾的测量结果这一事实，二是自然中因果作用体的性质比当代物理学的公理化理论表现出更多统一性这一形而上学假设。",
+        {
+          "type": "note",
+          "id": "ch13-n19",
+          "label": "19"
+        }
+      ],
+      "units": 294
+    },
+    {
+      "id": "ch13-u029",
+      "source_ids": [
+        "ch13-u029"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "3 Kant’s A Priori"
+      ],
+      "zh": [
+        "3 康德的先天"
+      ],
+      "type": "subheading",
+      "units": 4
+    },
+    {
+      "id": "ch13-u030",
+      "source_ids": [
+        "ch13-u030"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Classical realism as well as empiricism misses the methodological indispensability of the above non-empirical principles of physics. Classical realism assumes that Nature is really like this, i.e., constituted of isolated causal agents with linear properties that completely determine the phenomena. This view claims too much about physical objects, their properties, and their interactions, as quantum physics shows. Empiricism, on the other hand, assumes that Nature is defined in empirically testable terms only. This view does not claim enough about physical objects, their properties, and their interactions, as the above non-empirical principles show."
+      ],
+      "zh": [
+        "经典实在论和经验论都忽视了上述物理学非经验原理在方法论上的不可或缺性。经典实在论假定自然真的就是如此，即由具有线性性质、完全决定现象的孤立因果作用体构成。正如量子物理学所表明的，这种观点对物理对象、它们的性质及其相互作用断言过多。另一方面，经验论假定自然只能用可在经验上检验的术语来定义。正如上述非经验原理所表明的，这种观点对物理对象、它们的性质及其相互作用断言不足。"
+      ],
+      "units": 93
+    },
+    {
+      "id": "ch13-u031",
+      "source_ids": [
+        "ch13-u031"
+      ],
+      "page": "238",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant’s theory of nature is different. It criticises the rationalist metaphysics behind classical physics as follows. Rationalist metaphysics aims at giving a true description of the real world. It is a doctrine of independent entities such as Cartesian substances or Leibnizean monads and it embraces objects such as God or the whole world. According to the Critique of Pure Reason, all these entities are epistemically unaccessable. In particular, it is contradictory to postulate entities that are conceived as independent and as objects of our knowledge at the same time.",
+        {
+          "type": "note",
+          "id": "ch13-n20",
+          "label": "20"
+        },
+        " The first assumption gives to an entity the status of a thing-in-itself that does not belong to empirical reality, whereas according to the second an entity is given by means of experience and measurement. In this sense, rationalist metaphysics claims too much about the objects of our knowledge. In Kant’s view, objective science only investigates the structure of a world of appearances, that is, empirical reality, and not a world of things in themselves. As a consequence, he attributes objective reality only to the objects of possible experience. However, he also emphasises that the claims of empiricism are not sufficient for the justification of objective knowledge. He claims that the structure of scientific experience depends on the principles of pure reason, in particular, on the principles of substance and causality. Indeed, his theory of nature explains the methodological role that these principles play in modern physics. Up to the present day, in particular the following general ideas and principles a priori of Kant’s theory of nature deserve attention.",
+        {
+          "type": "note",
+          "id": "ch13-n21",
+          "label": "21"
+        }
+      ],
+      "zh": [
+        "康德的自然理论则不同。它对经典物理学背后的理性论形而上学作了如下批判。理性论形而上学旨在给出对实在世界的真实描述。它是一种关于独立实体的学说，这些实体如笛卡尔式实体或莱布尼茨式单子，并且它囊括上帝或整个世界这样的对象。按照《纯粹理性批判》，所有这些实体在认识上都是不可通达的。特别是，把一些实体既设想为独立的、又同时设想为我们的知识对象，这是自相矛盾的。",
+        {
+          "type": "note",
+          "id": "ch13-n20",
+          "label": "20"
+        },
+        " 第一个假设赋予实体以自在之物的地位，它不属于经验实在；而按照第二个假设，实体是通过经验和测量被给予的。在这个意义上，理性论形而上学对我们的知识对象断言过多。在康德看来，客观科学只研究显象世界即经验实在的结构，而不研究自在之物的世界。因此，他只把客观实在性归于可能经验的对象。然而，他也强调，经验论的主张不足以辩护客观知识。他主张，科学经验的结构依赖于纯粹理性的原理，特别是实体原理和因果性原理。的确，他的自然理论解释了这些原理在现代物理学中所起的方法论作用。直到今天，康德自然理论的以下一般观念和先天原理尤其值得关注。",
+        {
+          "type": "note",
+          "id": "ch13-n21",
+          "label": "21"
+        }
+      ],
+      "units": 257
+    },
+    {
+      "id": "ch13-u032",
+      "source_ids": [
+        "ch13-u032"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A. Physical reality is structured by our cognitive tools. To them belong the concepts and principles of"
+      ],
+      "zh": [
+        "A. 物理实在由我们的认识工具所构造。这些工具包括以下概念和原理："
+      ],
+      "units": 17
+    },
+    {
+      "id": "ch13-u033",
+      "source_ids": [
+        "ch13-u033"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A.1 Extensive and intensive magnitudes\nA.2 Substance\nA.3 Causality"
+      ],
+      "zh": [
+        "A.1 外延量与内包量\nA.2 实体\nA.3 因果性"
+      ],
+      "units": 12
+    },
+    {
+      "id": "ch13-u034",
+      "source_ids": [
+        "ch13-u034"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "B. Physical reality is thoroughly relational.",
+        {
+          "type": "note",
+          "id": "ch13-n22",
+          "label": "22"
+        },
+        " It is given in terms of relations which hold between"
+      ],
+      "zh": [
+        "B. 物理实在始终以关系的形式给出。",
+        {
+          "type": "note",
+          "id": "ch13-n22",
+          "label": "22"
+        },
+        " 它是通过以下各项之间成立的关系被给予的："
+      ],
+      "units": 16
+    },
+    {
+      "id": "ch13-u035",
+      "source_ids": [
+        "ch13-u035"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "B.1 Appearances\nB.2 Unobservable entities that cause the appearances\nB.3 Experimental data"
+      ],
+      "zh": [
+        "B.1 显象\nB.2 引起显象的不可观察实体\nB.3 实验数据"
+      ],
+      "units": 15
+    },
+    {
+      "id": "ch13-u036",
+      "source_ids": [
+        "ch13-u036"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "C. Physical reality can not be known completely. The idea of complete knowledge of the world only gives rise to regulative principles, in particular of the"
+      ],
+      "zh": [
+        "C. 物理实在不可能被完全认识。关于世界的完备知识的理念只产生调节性原理，特别是关于以下各项的调节性原理："
+      ],
+      "units": 26
+    },
+    {
+      "id": "ch13-u037",
+      "source_ids": [
+        "ch13-u037"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "C.1 Mereological analysis of matter into infinitely many parts\nC.2 Causal analysis in search of a fundamental force of physics\nC.3 Systematicity of nature in its empirical laws"
+      ],
+      "zh": [
+        "C.1 从部分与整体的关系出发，把物质分析成无穷多个部分\nC.2 为寻找物理学的基本力而进行的因果分析\nC.3 自然在其经验定律中的系统性"
+      ],
+      "units": 31
+    },
+    {
+      "id": "ch13-u039",
+      "source_ids": [
+        "ch13-u039"
+      ],
+      "page": "239",
+      "canonical_kind": "paragraph",
+      "en": [
+        "A. According to the Critique of Pure Reason and the Metaphysical Foundations of Natural Science, the a priori concepts of extensive and intensive magnitudes, substance, and causality give rise to indispensable a priori principles of modern physics. These concepts are constitutive for any knowledge of physical objects, their properties, and their interactions. A.1: The extensive and intensive quantities of modern physics are physical quantities such as length, time, mass, momentum, energy, charge, and temperature. The construction of their scales is indeed an indispensable a priori of physics, which is neglected by empiricist philosophy of science.",
+        {
+          "type": "note",
+          "id": "ch13-n23",
+          "label": "23"
+        },
+        " A.2: Kant’s category of substance is not identical with the traditional concept of substances as things-in-themselves. It is more modest. For Kant, substance is only our concept a priori of an entity with some stable, re-identifiable property. For him, the substance of classical mechanics is a physical property (and not a carrier of properties), namely the quantity of momentum. A substance of physics is subject to a conservation law.",
+        {
+          "type": "note",
+          "id": "ch13-n24",
+          "label": "24"
+        },
+        " A.3: Similarly, for him causality is only our concept a priori of a necessary link between subsequent events that helps to establish an objective time order.",
+        {
+          "type": "note",
+          "id": "ch13-n25",
+          "label": "25"
+        }
+      ],
+      "zh": [
+        "A. 按照《纯粹理性批判》和《自然科学的形而上学初始根据》，外延量与内包量、实体和因果性这些先天概念产生了现代物理学不可或缺的先天原理。这些概念对于任何关于物理对象、它们的性质及其相互作用的知识都具有构成性。A.1：现代物理学的外延量和内包量是长度、时间、质量、动量、能量、电荷和温度等物理量。它们的标度的构造确实是物理学不可或缺的先天，而这一点被经验论科学哲学忽视了。",
+        {
+          "type": "note",
+          "id": "ch13-n23",
+          "label": "23"
+        },
+        " A.2：康德的实体范畴不同于把实体当作自在之物的传统概念。它更为节制。对康德来说，实体只是我们关于具有某种稳定的、可重新识别的性质的实体的先天概念。对他来说，经典力学的实体是一种物理性质（而不是性质的承载者），即动量。物理学的实体服从守恒定律。",
+        {
+          "type": "note",
+          "id": "ch13-n24",
+          "label": "24"
+        },
+        " A.3：类似地，对他来说，因果性只是我们关于相继事件之间必然联系的先天概念，这种联系有助于确立客观的时间秩序。",
+        {
+          "type": "note",
+          "id": "ch13-n25",
+          "label": "25"
+        }
+      ],
+      "units": 193
+    },
+    {
+      "id": "ch13-u040",
+      "source_ids": [
+        "ch13-u040"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "B. As a consequence of his criticism of the traditional concept of substance, for Kant empirical reality is a relational structure. It is given in terms of relations that hold between appearances. All appearances are relational entities, too. No appearance has primary qualities like Newton’s atoms or internal properties like Leibniz’ monads: “The inner determinations of a substantia phaenomenon in space[…] are nothing but relations, and it is itself a sum total of mere relations.”",
+        {
+          "type": "note",
+          "id": "ch13-n26",
+          "label": "26"
+        },
+        " Once things-in-themselves are rejected, there remain only objects of physical knowledge related to each other. Things-in-themselves are relationless. They can neither be experienced nor measured and do not belong to empirical reality."
+      ],
+      "zh": [
+        "B. 作为对传统实体概念批判的结果，对康德来说，经验实在是一种关系结构。它是通过显象之间成立的关系被给予的。一切显象也都是关系性实体。没有任何显象具有牛顿原子那样的第一性的质或莱布尼茨单子那样的内部性质：“空间中的显象实体（substantia phaenomenon）的内部规定［……］无非是关系，而它本身就是一个纯粹关系的总和。”",
+        {
+          "type": "note",
+          "id": "ch13-n26",
+          "label": "26"
+        },
+        " 一旦自在之物被拒斥，剩下的就只有相互关联的物理知识对象。自在之物是无关系的。它们既不能被经验也不能被测量，不属于经验实在。"
+      ],
+      "units": 107
+    },
+    {
+      "id": "ch13-u041",
+      "source_ids": [
+        "ch13-u041"
+      ],
+      "page": "240",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Kant admits three kinds of parts of empirical reality or objects of possible experience. The first is straightforward, the second invokes the postulates of empirical thinking, the third admits experimental data. B.1: The basic ingredients of empirical reality are appearances, that is, spatio-temporal objects or events which are immediately perceived and related according to the principles of pure understanding. B.2: In addition, Kant accepts causes of appearances, that is, things connected with appearances according to the three analogies of experience. According to the analogies of experience, the relations between all parts of empirical reality are based on a priori principles of conservation of substance, causality, and universality of interaction. These principles function like a priori guides to inferences to the best explanation. Kant’s own example of the existence of an unobservable part of empirical reality is “the existence of magnetic matter penetrating all bodies” which we infer “from the perception of attracted iron filings, although an immediate perception of this matter is impossible for us given the constitution of our organs”.",
+        {
+          "type": "note",
+          "id": "ch13-n27",
+          "label": "27"
+        },
+        " B.3: Most physical objects are neither immediately perceived nor simply related to perceptions. The appearances of empirical science are obtained by means of experimental investigation and measurement. From Kant’s point of view, experiments are theory-laden in quite another way than any kind of non-scientific experience. For him, an experiment is a specific question put to a specific part of nature (or empirical reality) – “like an appointed judge who compels witnesses to answer the questions he puts to them.”",
+        {
+          "type": "note",
+          "id": "ch13-n28",
+          "label": "28"
+        },
+        " Such a question to nature is put under certain further a priori presuppositions. They add to the general a priori principles of the pure understanding, concerning specific measuring devices and the processes investigated in experiments. Here, perhaps the term “relative a priori” may be employed.",
+        {
+          "type": "note",
+          "id": "ch13-n29",
+          "label": "29"
+        }
+      ],
+      "zh": [
+        "康德承认经验实在（即可能经验的对象）由三类成分组成。第一类可以直接把握，第二类需要诉诸经验思维的公设，第三类包括实验数据。B.1：经验实在的基本成分是显象，即被直接知觉并按照纯粹知性原理相互关联的时空对象或事件。B.2：此外，康德接受显象的原因，即按照经验的三个类比与显象相联系的事物。按照经验的类比，经验实在各部分之间的关系基于实体守恒、因果性和相互作用普遍性这些先天原理。这些原理的作用类似于通往最佳解释的推理所依循的先天指引。康德自己关于经验实在的不可观察部分之存在的例子是“贯穿一切物体的磁性物质的存在”，我们“从被吸引的铁屑的知觉”推出它，“尽管鉴于我们器官的构造，对这种物质的直接知觉对我们来说是不可能的”。",
+        {
+          "type": "note",
+          "id": "ch13-n27",
+          "label": "27"
+        },
+        " B.3：大多数物理对象既不被直接知觉，也不是简单地与知觉相联系。经验科学的显象是通过实验研究和测量获得的。从康德的观点看，实验负载理论的方式与任何非科学经验完全不同。对他来说，实验是向自然（或经验实在）的某个特定部分提出的特定问题——“就像一位被任命的法官，强迫证人回答他向他们提出的问题。”",
+        {
+          "type": "note",
+          "id": "ch13-n28",
+          "label": "28"
+        },
+        " 这种向自然提出的问题是在某些进一步的先天预设之下提出的。它们附加于纯粹知性的一般先天原理之上，涉及特定的测量仪器和实验中研究的过程。在这里，也许可以采用“相对的先天”这个术语。",
+        {
+          "type": "note",
+          "id": "ch13-n29",
+          "label": "29"
+        }
+      ],
+      "units": 297
+    },
+    {
+      "id": "ch13-u042",
+      "source_ids": [
+        "ch13-u042"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "C. According to the doctrine of the antinomy of pure reason, it is impossible to complete the objective knowledge of the empirical world. The speculative idea of the world as a sum total of appearances gives only rise to regulative principles that serve the extension of our empirical knowledge. C.1–2: The concepts of ultimate substances and causes are the ideas that give rise to the methodological principles of analysing matter into smaller and smaller constituent parts and searching for a fundamental force of physics. Due to Kant’s resolution of the second antinomy of reason, empirical reality is a mereological sum of relational parts without least parts. His ontology of appearances is a mereology without atoms.",
+        {
+          "type": "note",
+          "id": "ch13-n30",
+          "label": "30"
+        },
+        " Unrestricted separability of empirical reality into parts is a further a priori assumption of Kant’s theory of nature. Needless to say that it is closely related to the Galilean resolutive–compositive method of empirical science. (However, it is only meaningful to talk about parts of empirical reality if we may assume that we may separate such parts somehow by experimental methods, at least on the basis of well-confirmed theoretical principles.) C.3 To them add the principles of the homogeneity, continuity, and specification of natural kinds and the related principle of the systematic unity of the empirical laws of nature explained in the Critique of Judgement."
+      ],
+      "zh": [
+        "C. 按照纯粹理性二律背反的学说，关于经验世界的客观知识不可能达到完备。把世界当作显象总和的思辨理念只产生服务于扩展我们经验知识的调节性原理。C.1–2：终极实体和终极原因的概念是产生以下方法论原理的理念：把物质分析为越来越小的组成部分，以及寻找物理学的基本力。由于康德对理性第二个二律背反的解决，经验实在是关系性部分的整体，其中没有最小部分。他的显象本体论是一种无原子的部分—整体论。",
+        {
+          "type": "note",
+          "id": "ch13-n30",
+          "label": "30"
+        },
+        " 经验实在可无限制地分离为部分，是康德自然理论的又一个先天假设。不用说，它与经验科学的伽利略式分解–组合方法密切相关。（然而，只有当我们能够假定可以用实验方法以某种方式分离这些部分——至少基于得到充分确证的理论原理——时，谈论经验实在的部分才有意义。）C.3 此外还有自然种类的同质性、连续性和特殊化原理，以及《判断力批判》中阐明的自然的经验定律的系统统一性这一相关原理。"
+      ],
+      "units": 223
+    },
+    {
+      "id": "ch13-u043",
+      "source_ids": [
+        "ch13-u043"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Under (A.2–3) and (C.1–3), we indeed find most of the methodologically indispensable principles of the preceding section. They are put in a different order that employs Kant’s distinction of constitutive and regulative principles. Only the principles of synthesis and simplicity are not explicitly given. However, they would belong to a methodology of experimental and mathematical physics that Kant never worked out in his systematic philosophy. Nevertheless, their methodological status is absolutely clear."
+      ],
+      "zh": [
+        "在 (A.2–3) 和 (C.1–3) 之下，我们确实找到了上一节大多数在方法论上不可或缺的原理。它们被置于一种不同的秩序中，这种秩序运用了康德对构成性原理和调节性原理的区分。只有综合原理和简单性原理没有被明确给出。然而，它们原可归入一套适用于实验和数学物理学的方法论，康德的哲学体系却从未完整发展出这样的方法论。尽管如此，它们的方法论地位是完全清楚的。"
+      ],
+      "units": 76
+    },
+    {
+      "id": "ch13-u044",
+      "source_ids": [
+        "ch13-u044"
+      ],
+      "page": "241",
+      "canonical_kind": "paragraph",
+      "en": [
+        "It remains to identify Kant’s position between classical realism and empiricism. Due to (A.1–3 and B.1), Kant’s view of empirical reality is obviously weaker than classical realism. His substances are methodological relational concepts rather than metaphysical relationless entities. Matter, as the empirical substantia phaenomenon in space, is for him a relational structure of appearances.",
+        {
+          "type": "note",
+          "id": "ch13-n31",
+          "label": "31"
+        },
+        " In this point, he comes close to empiricism. However, regarding the a priori status of the principles of the pure understanding, his position is stronger than empiricism. In particular, according to (B.2) the principle of causality admits the inference to unobservable causes of the phenomena. In this point, his position comes close to causal realism.",
+        {
+          "type": "note",
+          "id": "ch13-n32",
+          "label": "32"
+        },
+        " Concerning (B.3), Kant explains the relation between physical theory and observation in terms of a hypothetical-deductive approach that is strikingly modern. Even though he wanted to explain all physical objects in terms of Euclidean space–time, Newtonian forces, non-atomic relational substances, and an ether-like matter penetrating all bodies, his relational view of empirical reality is quite liberal. It can cope with the modern concepts of field and interaction as well as with complicated ways of tracing back from experimental data to theoretical explanations. In addition it has to be noted that due to (B.3) his view of empirical reality does not collapse into constructivism. The results of experiments are not determined by the principles of pure reason. They are contingent.",
+        {
+          "type": "note",
+          "id": "ch13-n33",
+          "label": "33"
+        }
+      ],
+      "zh": [
+        "剩下的任务是确定康德在经典实在论和经验论之间的位置。由于 (A.1–3 和 B.1)，康德的经验实在观显然弱于经典实在论。他的实体是方法论的关系概念，而不是形而上学的无关系实体。物质作为空间中的经验性显象实体（substantia phaenomenon），对他来说是显象的关系结构。",
+        {
+          "type": "note",
+          "id": "ch13-n31",
+          "label": "31"
+        },
+        " 在这一点上，他接近经验论。然而，就纯粹知性原理的先天地位而言，他的立场强于经验论。特别是，按照 (B.2)，因果性原理允许推断出现象背后的不可观察原因。在这一点上，他的立场接近因果实在论。",
+        {
+          "type": "note",
+          "id": "ch13-n32",
+          "label": "32"
+        },
+        " 关于 (B.3)，康德以一种惊人地现代的假说–演绎进路解释了物理理论与观察之间的关系。尽管他想用欧几里得时空、牛顿式力、非原子的关系性实体以及贯穿一切物体的以太式物质来解释一切物理对象，他的经验实在关系观却相当宽松。它能够应对现代的场和相互作用概念，也能应对从实验数据回溯到理论解释的复杂方式。此外必须指出，由于 (B.3)，他的经验实在观并不塌缩为建构主义。实验的结果不是由纯粹理性的原理决定的。它们是依具体情况而定。",
+        {
+          "type": "note",
+          "id": "ch13-n33",
+          "label": "33"
+        }
+      ],
+      "units": 235
+    },
+    {
+      "id": "ch13-u045",
+      "source_ids": [
+        "ch13-u045"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "4 Quantum Theory: The Touchstone"
+      ],
+      "zh": [
+        "4 量子理论：试金石"
+      ],
+      "type": "subheading",
+      "units": 5
+    },
+    {
+      "id": "ch13-u046",
+      "source_ids": [
+        "ch13-u046"
+      ],
+      "page": "242",
+      "canonical_kind": "paragraph",
+      "en": [
+        "In face of relativity and quantum theory, classical realism turned out to be too strong.",
+        {
+          "type": "note",
+          "id": "ch13-n34",
+          "label": "34"
+        },
+        " In the relativistic domain the traditional concepts of space and time fail, whereas in the quantum domain the traditional concepts of substance and causality no longer apply. In general, the results of quantum measurements are irreducibly contingent. Non-commuting quantum observables such as position and momentum obey Heisenberg’s uncertainty relation and exhibit a non-Boolean algebraic structure. This non-Boolean structure of quantum phenomena replaces the classical construal of physical reality. It is minimal. It dispenses with classical particle trajectories and classical waves. What remains is the probabilistic interpretation of quantum theory developed by Born and von Neumann.",
+        {
+          "type": "note",
+          "id": "ch13-n35",
+          "label": "35"
+        },
+        " It reduces physical reality to the measured values of physical quantities and their probabilities."
+      ],
+      "zh": [
+        "面对相对论和量子理论，经典实在论被证明太强了。",
+        {
+          "type": "note",
+          "id": "ch13-n34",
+          "label": "34"
+        },
+        " 在相对论领域，传统的空间和时间概念失效了；而在量子领域，传统的实体和因果性概念不再适用。一般而言，量子测量结果的偶然性不能还原为更基本的规律。位置和动量等不对易的量子可观测量服从海森堡不确定性关系，并表现出非布尔的代数结构。量子现象的这种非布尔结构取代了对物理实在的经典理解。它是最小限度的。它摒弃了经典的粒子轨道和经典的波。剩下的就是玻恩和冯·诺伊曼发展的量子理论的概率诠释。",
+        {
+          "type": "note",
+          "id": "ch13-n35",
+          "label": "35"
+        },
+        " 它把物理实在还原为物理量的测量值及其概率。"
+      ],
+      "units": 124
+    },
+    {
+      "id": "ch13-u047",
+      "source_ids": [
+        "ch13-u047"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "But Kant’s a priori also turns out to be too strong. In the quantum domain, the causal aspects of whatever realism of physical objects become highly problematic, be it classical metaphysical realism, Kant’s empirical realism, or recent versions of causal realism such as defended by Cartwright or Hacking.",
+        {
+          "type": "note",
+          "id": "ch13-n36",
+          "label": "36"
+        },
+        " Except in the case of repeatable measurements, quantum theory precludes any explanation of individual events or measurement outcomes. Quantum theory commits us to dispense with individual causes.",
+        {
+          "type": "note",
+          "id": "ch13-n37",
+          "label": "37"
+        },
+        " In addition, the conservation laws of a quantum theory give rise to the prediction of non-causal law-like relations between individual events, the so-called EPR (Einstein–Podolsky–Rosen) correlations. EPR correlations are nonlocal. They are non-causal according to the causality condition of Einstein’s special relativity, which tells that no signal can be transmitted over space-like distances. And they are incompatible with Bell’s inequality that derives from the locality assumptions of classical realism.",
+        {
+          "type": "note",
+          "id": "ch13-n38",
+          "label": "38"
+        }
+      ],
+      "zh": [
+        "但康德的先天也被证明太强了。在量子领域，无论哪种物理对象实在论——无论是经典形而上学实在论、康德的经验实在论，还是卡特赖特或哈金所捍卫的晚近因果实在论版本——其关于因果性的主张都面临严重困难。",
+        {
+          "type": "note",
+          "id": "ch13-n36",
+          "label": "36"
+        },
+        " 除了可重复测量的情形，量子理论排除了对个别事件或测量结果的任何解释。量子理论迫使我们放弃个别原因。",
+        {
+          "type": "note",
+          "id": "ch13-n37",
+          "label": "37"
+        },
+        " 此外，量子理论的守恒定律产生对个别事件之间非因果的似律关系的预测，即所谓的 EPR（爱因斯坦–波多尔斯基–罗森）关联。EPR 关联是非定域的。按照爱因斯坦狭义相对论的因果性条件——它告诉我们没有任何信号能在类空间隔上传递——它们是非因果的。而且它们与从经典实在论的定域性假设导出的贝尔不等式不相容。",
+        {
+          "type": "note",
+          "id": "ch13-n38",
+          "label": "38"
+        }
+      ],
+      "units": 146
+    },
+    {
+      "id": "ch13-u048",
+      "source_ids": [
+        "ch13-u048"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Due to these features, since the early days of quantum mechanics the question arose: Does this theory deal with an objective subatomic reality at all or is it grist for the mills of empiricism? Quantum theory is needed in order to explain the contingent events and measurement results of subatomic physics. But it is incompatible with classical realism, above all, with the claim that physical reality is made up of independent causal agents that are individuated and completely determined by their spatio-temporal and dynamic properties.",
+        {
+          "type": "note",
+          "id": "ch13-n39",
+          "label": "39"
+        },
+        " However, the algebraic structure and the probabilistic interpretation of quantum theory are not incompatible with empiricism. Empiricists claim that there are only relative frequencies of measurement outcomes and predictions of conditional probabilities but no subatomic processes underlying them."
+      ],
+      "zh": [
+        "由于这些特征，自量子力学早期就出现了这样的问题：这个理论究竟是否处理客观的亚原子实在，还是它为经验论提供了论据？需要量子理论来解释亚原子物理学的偶然事件和测量结果。但它与经典实在论不相容，尤其与以下主张不相容：物理实在由独立的因果作用体构成，这些作用者由其时空性质和动力学性质个体化并完全决定。",
+        {
+          "type": "note",
+          "id": "ch13-n39",
+          "label": "39"
+        },
+        " 然而，量子理论的代数结构和概率诠释与经验论并不矛盾。经验论者主张，只有测量结果的相对频率和条件概率的预测，而没有作为其基础的亚原子过程。"
+      ],
+      "units": 123
+    },
+    {
+      "id": "ch13-u049",
+      "source_ids": [
+        "ch13-u049"
+      ],
+      "page": "243",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Niels Bohr, however, objected that both options fall short of a satisfactory interpretation of quantum theory. According to his complementarity view of quantum mechanics, any classical construal of subatomic reality in terms of physical objects is impossible, whereas the classical concepts of position, momentum, mass, energy, etc. remain to be indispensable for the description of subatomic phenomena.",
+        {
+          "type": "note",
+          "id": "ch13-n40",
+          "label": "40"
+        },
+        " The diagnosis reminds of Kant’s critical account of empirical reality: Classical realism is too strong to cope with the physical properties of quantum phenomena, whereas empiricism is too weak to admit any subatomic processes that cause the quantum phenomena. Bohr did not dispense with the concept of causality. He only emphasised that the spatio-temporal and causal processes of quantum physics do no longer come together. They are complementary, i.e., they exclude each other depending on the physical quantities that may be measured in a specific experimental situation, but they complement each other insofar as they only together give a complete account of the quantum domain. Some experimental arrangements generate quantum phenomena that only admit of a spatio-temporal description, i.e., in terms of position and time. Most typical is the particle detection by means of a scintillator or a photon counter. Other experimental arrangements generate quantum phenomena that only admit of a dynamic description in terms of momentum and energy. Bohr calls this description “causal”.",
+        {
+          "type": "note",
+          "id": "ch13-n41",
+          "label": "41"
+        },
+        " His example is the energy loss of a photon and the kick-off of an observable electron in the Compton effect, which underlies momentum-energy conservation. However, here one should also think of the interference fringes obtained behind a double slit. Interference is a typical wave phenomenon and it is described in terms of a wavelength that corresponds to a certain momentum and energy of an electron or photon beam."
+      ],
+      "zh": [
+        "然而，尼尔斯·玻尔反驳说，这两种选择都不足以给出对量子理论的令人满意的诠释。按照他的量子力学互补性观点，用物理对象对亚原子实在作任何经典理解都是不可能的，而位置、动量、质量、能量等经典概念对于描述亚原子现象仍然不可或缺。",
+        {
+          "type": "note",
+          "id": "ch13-n40",
+          "label": "40"
+        },
+        " 这一诊断令人想起康德对经验实在的批判性说明：经典实在论太强，无法应对量子现象的物理性质；而经验论太弱，无法承认任何引起量子现象的亚原子过程。玻尔没有摒弃因果性概念。他只是强调，量子物理学的时空过程和因果过程不再一并呈现。它们是互补的，也就是说，它们相互排斥，取决于在特定实验情境中可以测量哪些物理量；但它们又相互补充，因为只有合在一起它们才给出对量子领域的完整说明。有些实验安排产生的量子现象只容许时空描述，即用位置和时间来描述。最典型的是借助闪烁体或光子计数器进行的粒子探测。另一些实验安排产生的量子现象只容许用动量和能量作动力学描述。玻尔把这种描述称为“因果的”。",
+        {
+          "type": "note",
+          "id": "ch13-n41",
+          "label": "41"
+        },
+        " 他的例子是康普顿效应中光子的能量损失和可观察电子的反冲，其基础是动量–能量守恒。然而，在这里人们还应当想到双缝后面得到的干涉条纹。干涉是典型的波动现象，它用波长来描述，而波长对应于电子束或光子束的某个动量和能量。"
+      ],
+      "units": 291
+    },
+    {
+      "id": "ch13-u050",
+      "source_ids": [
+        "ch13-u050"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Before comparing Bohr’s and Kant’s views of physical reality, let me sketch the regards in which the metaphysical assumptions behind classical realism must be weakened in face of quantum theory. At this point, it should be recalled that they give rise to indispensable methodological principles of physics (a fact that empiricism does not take into account, whereas Kant’s theory of nature does). To them belong the crucial principles of (1) substance, (2) causality, (3) analysis, (4) synthesis, (5) unity, and (6) simplicity. What remains of them in the quantum domain?",
+        {
+          "type": "note",
+          "id": "ch13-n42",
+          "label": "42"
+        }
+      ],
+      "zh": [
+        "在比较玻尔和康德的物理实在观之前，让我概述一下面对量子理论必须弱化经典实在论背后的形而上学假设的各个方面。在这一点上应当回想，它们产生了物理学不可或缺的方法论原理（经验论没有考虑这一事实，而康德的自然理论考虑了）。它们包括以下关键原理：(1) 实体，(2) 因果性，(3) 分析，(4) 综合，(5) 统一性，(6) 简单性。在量子领域中它们还剩下什么？",
+        {
+          "type": "note",
+          "id": "ch13-n42",
+          "label": "42"
+        }
+      ],
+      "units": 90
+    },
+    {
+      "id": "ch13-u051",
+      "source_ids": [
+        "ch13-u051"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "1. Substance: Subatomic particles are still conceived as approximately non-interacting carriers of permanent dynamic properties. Quantum mechanics and quantum field theory start with non-interacting quantum waves or fields. Electrons, protons, neutrons, photons, etc. are considered to be collections of dynamic properties such as mass–energy, spin, and charge that obey conservation laws and correspond to the representations of symmetry groups. This results in an operational particle concept, but not in a unified theoretical particle concept."
+      ],
+      "zh": [
+        "1. 实体：亚原子粒子仍然被设想为近似无相互作用的恒久动力学性质的承载者。量子力学和量子场论从无相互作用的量子波或场出发。电子、质子、中子、光子等被认为是质量–能量、自旋和电荷等动力学性质的集合，这些性质服从守恒定律并对应于对称群的表示。这产生了一个操作性的粒子概念，但没有产生统一的理论粒子概念。"
+      ],
+      "units": 75
+    },
+    {
+      "id": "ch13-u052",
+      "source_ids": [
+        "ch13-u052"
+      ],
+      "page": "244",
+      "canonical_kind": "paragraph",
+      "en": [
+        "2. Causality: These collections of dynamic properties are causal agents which determine the phenomena not completely, but at least in several very distinct regards, amongst them:"
+      ],
+      "zh": [
+        "2. 因果性：这些动力学性质的集合是因果作用体。它们无法完全决定现象，却能决定现象中几个截然不同的方面，其中包括："
+      ],
+      "units": 26
+    },
+    {
+      "id": "ch13-u053",
+      "source_ids": [
+        "ch13-u053"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "(i) Conservation laws for momentum–energy, charge, and spin hold for any individual subatomic process (this was Bohr’s use of the term “causal”). In addition, they give rise to sum rules for the way in which matter is built up from quarks and electrons."
+      ],
+      "zh": [
+        "(i) 动量–能量、电荷和自旋的守恒定律对任何个别亚原子过程都成立（这就是玻尔对“因果的”一词的用法）。此外，它们还产生关于物质如何由夸克和电子构成的求和规则。"
+      ],
+      "units": 44
+    },
+    {
+      "id": "ch13-u054",
+      "source_ids": [
+        "ch13-u054"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "(ii) Einstein causality tells that no signalling is possible over space-like distances by means of non-local quantum correlations.\n(iii) The unitary evolution of the wave function according to the Schrödinger equation (or another wave or field equation) only determines the probability of measurement results."
+      ],
+      "zh": [
+        "(ii) 爱因斯坦因果性告诉我们，不可能借助非定域量子关联在类空间隔上传递信号。\n(iii) 波函数按照薛定谔方程（或其他波动方程或场方程）的幺正演化只决定测量结果的概率。"
+      ],
+      "units": 44
+    },
+    {
+      "id": "ch13-u055",
+      "source_ids": [
+        "ch13-u055"
+      ],
+      "page": "245",
+      "canonical_kind": "paragraph",
+      "en": [
+        "3. Analysis: The experimental methods of quantum physics still aim at mereological and causal analysis. But according to Bohr, Planck’s constant is a minimum action that indicates the limitations of experimental analysis.",
+        {
+          "type": "note",
+          "id": "ch13-n43",
+          "label": "43"
+        },
+        " Nevertheless, atomic, nuclear, and particle physics successfully isolate subatomic particles and their dynamic properties. The structure of matter is explained in particle terms down to the quark model of the proton and neutron. However, the smaller parts of matter are investigated the harder is it to isolate them. Quarks can not be isolated. Their existence is inferred from scattering experiments and conservation laws.\n\n4. Synthesis: The dynamic properties of subatomic particles are assumed to sum up according to simple sum rules to the respective properties of quantum mechanical many-particle systems and macroscopic matter. However, quantum theory does not completely explain the spatio-temporal properties of matter. Due to the quantum measurement problem, the top-down approach (mereological analysis) is more successful than the bottom-up approach (mereological synthesis). In addition, in quantum field theory the usual perturbative approach of a physical dynamics does no longer work straightforward. The prize of this approach is the renormalization of the mass and charge of subatomic particles needed in order to remove infinities from higher-order terms.\n\n5. Unity: The observable phenomena, their constituents, and their composites no longer obey the same laws of physics. The unity of physics is still an indispensable regulative principle. But no convincing unified theory of physics is in sight. In the decoherence approach,",
+        {
+          "type": "note",
+          "id": "ch13-n44",
+          "label": "44"
+        },
+        " the quantum measurement problem is only resolved at the probabilistic level. And no quantum gravity is available. In addition, the traditional concept of causality is replaced by several very distinct causal concepts. What remains is the unity of the language of physics, i.e., of the scales of physical quantities such as length, time, and mass. They range from the Planck scale over the size of the quarks up to the event horizon and the age of the universe and beyond.\n\n6. Simplicity: Quantum explanations are not really simple. Nevertheless, the principle remains that of two given theoretical explanations, the simpler one is preferable as presumably closer to truth. And this is a reason to believe in the usual probabilistic standard version of quantum theory rather than in one of the highly speculative interpretations beyond."
+      ],
+      "zh": [
+        "3. 分析：量子物理学的实验方法仍然旨在进行部分与整体分析和因果分析。但按照玻尔，普朗克常数是一个最小作用量，它表明了实验分析的限度。",
+        {
+          "type": "note",
+          "id": "ch13-n43",
+          "label": "43"
+        },
+        " 尽管如此，原子物理学、核物理学和粒子物理学成功地分离出亚原子粒子及其动力学性质。物质的结构用粒子术语一直解释到质子和中子的夸克模型。然而，物质的部分越小，就越难分离它们。夸克不能被分离。它们的存在是从散射实验和守恒定律推出的。\n\n4. 综合：假定亚原子粒子的动力学性质按照简单的求和规则叠加为量子力学多粒子系统和宏观物质的相应性质。然而，量子理论并没有完全解释物质的时空性质。由于量子测量问题，自上而下的进路（部分与整体分析）比自下而上的进路（综合各个部分）更成功。此外，在量子场论中，物理动力学的通常微扰进路不再直接奏效。这种进路的代价是为了从高阶项中消除无穷大而必需的亚原子粒子质量和电荷的重整化。\n\n5. 统一性：可观察的现象、它们的组分和它们的复合体不再服从同样的物理定律。物理学的统一性仍然是一条不可或缺的调节性原理。但看不到任何令人信服的统一物理理论。在退相干进路中，",
+        {
+          "type": "note",
+          "id": "ch13-n44",
+          "label": "44"
+        },
+        " 量子测量问题只在概率层面上得到解决。量子引力理论也尚未建立。此外，传统的因果性概念被几个非常不同的因果概念所取代。剩下的是物理学语言的统一性，即长度、时间和质量等物理量标度的统一性。它们从普朗克标度经由夸克的大小一直到事件视界和宇宙的年龄乃至更远。\n\n6. 简单性：量子解释并不真正简单。尽管如此，以下原理仍然保留：在两个给定的理论解释中，较简单的那个更可取，因为它被推测更接近真理。这也是相信量子理论的通常概率标准版本而不是相信超出它的某种高度思辨诠释的一个理由。"
+      ],
+      "units": 378
+    },
+    {
+      "id": "ch13-u056",
+      "source_ids": [
+        "ch13-u056"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Hence quantum physics goes on with these methodologically indispensable principles, and it does so most successfully. Nevertheless, the structure of quantum phenomena substantially restricts their applicability. What does this mean for a Kantian account of subatomic reality?"
+      ],
+      "zh": [
+        "因此，量子物理学继续使用这些在方法论上不可或缺的原理，而且用得极为成功。尽管如此，量子现象的结构实质性地限制了它们的适用性。这对康德式的亚原子实在说明意味着什么？"
+      ],
+      "units": 37
+    },
+    {
+      "id": "ch13-u057",
+      "source_ids": [
+        "ch13-u057"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "As far as I can see, only Kant’s principle of causality and his distinction of constitutive and regulative principles are affected. Kant’s view of extensive and intensive magnitudes fits in well with the constructive features of the length, time, and mass scale",
+        {
+          "type": "note",
+          "id": "ch13-n45",
+          "label": "45"
+        },
+        " – and, above all, with Bohr’s (and Heisenberg’s) claim that the language of classical physics is indispensable for the physical interpretation of quantum phenomena. The way in which Kant’s principle of substance applies to the conservation laws of physics does absolutely agree with the methodological use of this concept in quantum physics. In addition, Kant’s claim that empirical reality is thoroughly relational agrees with several of Bohr’s views. Subatomic reality is context dependent. The kind of quantum phenomena that is observed (particle detections, interference patterns, or in the recent which way experiments of quantum optics even both) depends on the experimental arrangement. In addition, all quantum phenomena occur in a classical world. And the physical meaning of quantum concepts is only defined relative to classical concepts. All quantum phenomena are finally described in terms of length, time, and mass. According to Bohr, the language of classical physics is indispensable. Bohr’s complementarity view is based on his correspondence principle. For him, complementary quantum phenomena correspond to mutually exclusive classical phenomena, and in order to interpret them the language of classical physics must be employed. Even though this view can not really cope with genuine quantum phenomena without classical correspondence, Bohr’s underlying ideas are valid up to the present day: All measurement results must be expressed in terms of the classical length, time, and mass scales. In addition, the scattering experiments of high energy physics are interpreted relative to classical models of scattering centres, charge distributions, etc.",
+        {
+          "type": "note",
+          "id": "ch13-n46",
+          "label": "46"
+        }
+      ],
+      "zh": [
+        "据我所见，只有康德的因果性原理以及他对构成性原理和调节性原理的区分受到影响。康德的外延量和内包量观点与长度、时间和质量标度的构造特征非常契合",
+        {
+          "type": "note",
+          "id": "ch13-n45",
+          "label": "45"
+        },
+        "——尤其是与玻尔（和海森堡）的主张契合：经典物理学的语言对于量子现象的物理解释不可或缺。康德的实体原理应用于物理学守恒定律的方式，与这个概念在量子物理学中的方法论用法完全一致。此外，康德关于经验实在始终以关系的形式给出主张与玻尔的若干观点一致。亚原子实在依赖于语境。观察到的量子现象的种类（粒子探测、干涉图样，或者在晚近量子光学的路径（which way）实验中甚至两者兼有）取决于实验安排。此外，一切量子现象都发生在一个经典世界中。而且量子概念的物理意义只是相对于经典概念才被定义。一切量子现象最终都用长度、时间和质量来描述。按照玻尔，经典物理学的语言是不可或缺的。玻尔的互补性观点以他的对应原理为基础。对他来说，互补的量子现象对应于相互排斥的经典现象，而为了解释它们必须使用经典物理学的语言。尽管这种观点无法真正应对没有经典对应的本真量子现象，玻尔的基本思想直到今天仍然有效：一切测量结果都必须用经典的长度、时间和质量标度来表达。此外，高能物理学的散射实验是相对于散射中心、电荷分布等经典模型来解释的。",
+        {
+          "type": "note",
+          "id": "ch13-n46",
+          "label": "46"
+        }
+      ],
+      "units": 286
+    },
+    {
+      "id": "ch13-u058",
+      "source_ids": [
+        "ch13-u058"
+      ],
+      "page": "246",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The regulative principles of mereological and causal analysis and the systematic unity of the empirical laws of nature still hold as indispensable methodological principles of physics. But they do no longer succeed in establishing unambiguous physical objects that are described in terms of unified theoretical principles. And Kant’s principle of causality dissolves into various causal concepts that can not be brought together in any obvious way."
+      ],
+      "zh": [
+        "部分与整体分析和因果分析的调节性原理以及自然的经验定律的系统统一性，作为物理学不可或缺的方法论原理仍然成立。但它们不再成功地确立用统一的理论原理描述的无歧义的物理对象。而且康德的因果性原理消解为各种无法以任何明显方式整合在一起的因果概念。"
+      ],
+      "units": 66
+    },
+    {
+      "id": "ch13-u059",
+      "source_ids": [
+        "ch13-u059"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Nevertheless, Kant’s principle of causality requires to ask for the causal agents behind individual quantum measurement results. The description of these causal agents in terms of a quantum mechanical wave function is only capable of explaining conservation laws and quantum probabilities. Individual measurement results occur in an irreversible non-deterministic process, the so-called reduction of the wave function, which is postulated ad hoc rather than explained. In accordance with Kant’s concept of substance, it is assumed that particles are collections of conserved quantities or stable, re-identifiable bundles of properties. The assumption that there is a unique causal agent behind repeated particle detections is not objective, but subjective in Kant’s sense. The physicist’s belief that there is an electron that causes a curved particle track in a bubble chamber is the only “metaphysical glue” that makes the respective collection of properties stick together. It is the belief in a non-local causal agent. In the quantum domain, the transcendental status of such metaphysical belief is substantially weaker than in the classical. In the latter, the principles of substance and causality are constitutive for the knowledge of physical objects with completely determined properties. In the former, they only are regulative ideas that aim at understanding the systematic unity of quantum phenomena.",
+        {
+          "type": "note",
+          "id": "ch13-n47",
+          "label": "47"
+        },
+        " The principles of substance and causality can not be constitutive for the knowledge of quantum objects. They are only constitutive for unifying complementary quantum phenomena generated from the same kind of source, in different experimental arrangements. The unity of the quantum domain is limited. There is neither a unified particle concept nor a unified account of causality. In physical practice, the regulative use of the principles of substance and causality comes together with a plurality of theoretical particle concepts and meanings of causality. Therefore, the ways in which Kant’s principle of causality and his regulative principles apply seem to be empirically restricted, even though their methodological use remains unrestricted."
+      ],
+      "zh": [
+        "尽管如此，康德的因果性原理要求追问个别量子测量结果背后的因果作用体。用量子力学波函数对这些因果作用体的描述只能解释守恒定律和量子概率。个别测量结果发生在一个不可逆的非决定论过程中，即所谓的波函数的约化，此过程只作为临时引入的公设，尚无进一步解释。按照康德的实体概念，假定粒子是守恒量的集合或稳定的、可重新识别的性质束。假定重复的粒子探测背后有一个唯一的因果作用体，这不是客观的，而是康德意义上的主观的。物理学家相信有一个电子在气泡室中引起一条弯曲的粒子径迹，这是使相应性质集合粘合在一起的唯一“形而上学胶水”。这是对非定域因果作用体的信念。在量子领域，这种形而上学信念的先验地位比在经典领域实质性地更弱。在后者中，实体原理和因果性原理对于性质完全被决定的物理对象的知识具有构成性。在前者中，它们只是旨在理解量子现象的系统统一性的调节性理念。",
+        {
+          "type": "note",
+          "id": "ch13-n47",
+          "label": "47"
+        },
+        " 实体原理和因果性原理不可能对量子对象的知识具有构成性。它们只对统一由同一种源在不同实验安排中产生的互补量子现象具有构成性。量子领域的统一性是有限的。既没有统一的粒子概念，也没有对因果性的统一说明。在物理实践中，实体原理和因果性原理的调节性使用与理论粒子概念和因果性意义的多样性并存。因此，康德的因果性原理和他的调节性原理的适用方式似乎在经验上受到限制，但这并不妨碍把它们普遍用作方法论原理。"
+      ],
+      "units": 316
+    },
+    {
+      "id": "ch13-u060",
+      "source_ids": [
+        "ch13-u060"
+      ],
+      "page": "247",
+      "canonical_kind": "paragraph",
+      "en": [
+        "The subjective belief in subatomic processes behind the quantum phenomena, in which certain dynamic quantities are conserved, is stronger than empiricism but weaker than classical realism. The scales of physical quantities, the conservation laws of physics, and the causal assumptions underlying the preparation procedures and the data analysis of quantum experiments belong to physical practice, not to an independent physical reality on its own. The genuine Kantian point is that such an independent reality does not exist for us. Physical reality is conceived to depend on our cognitive tools, and in particular, on the experimental and mathematical methods of physics. According to the critical account suggested here, subatomic reality is not a micro-world on its own but a part of empirical reality that only exists relative to the macroscopic world, in given experimental arrangements and in well-defined physical contexts outside the laboratory. From a realist point of view, there are sufficient reasons to believe that there are entities such as electrons, quarks, and photons in the physics laboratories and in the world beyond. But any scientific realism about subatomic particles should take into account that they do not really behave like independent localized particles but rather like the local effects of non-local quantum processes within a classical world."
+      ],
+      "zh": [
+        "相信量子现象背后有亚原子过程，且有些动力学量在过程中守恒，这种主观信念，强于经验论而弱于经典实在论。物理量的标度、物理学的守恒定律，以及量子实验的制备程序和数据分析背后的因果假设，属于物理实践，而不属于独立自存的物理实在。真正康德式的要点在于：这样一种独立的实在对我们来说并不存在。物理实在被设想为依赖于我们的认识工具，特别是依赖于物理学的实验方法和数学方法。按照这里提出的批判性说明，亚原子实在不是一个独立的微观世界，而是经验实在的一部分，它只相对于宏观世界、在给定的实验安排中以及实验室之外明确定义的物理语境中存在。从实在论的观点看，有充分的理由相信在物理学实验室中以及实验室之外的世界中存在电子、夸克和光子这样的实体。但任何关于亚原子粒子的科学实在论都应当考虑到，它们并不真正表现得像独立的定域粒子，而更像经典世界中非定域量子过程的定域效应。"
+      ],
+      "units": 208
+    },
+    {
+      "id": "ch13-u061",
+      "source_ids": [
+        "ch13-u061"
+      ],
+      "page": "",
+      "canonical_kind": "heading",
+      "en": [
+        "References"
+      ],
+      "zh": [
+        "参考文献"
+      ],
+      "type": "subheading",
+      "units": 1
+    },
+    {
+      "id": "ch13-bibliography-001",
+      "source_ids": [
+        "ch13-ref002",
+        "ch13-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Aspect, A., Grangier, P. and Roger, G., 1982: Experimental Realization of Einstein-Podolsky-Rosen-Bohm Gedankenexperiment. A New Violation of Bell’s Inequalities. Phys. Rev. Lett. 49, 91–94"
+      ],
+      "zh": [
+        "Aspect, A., Grangier, P. and Roger, G., 1982: Experimental Realization of Einstein-Podolsky-Rosen-Bohm Gedankenexperiment. A New Violation of Bell’s Inequalities. Phys. Rev. Lett. 49, 91–94"
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch13-bibliography-002",
+      "source_ids": [
+        "ch13-ref003"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bell, J.S., 1964: On the Einstein-Podolsky-Rosen Paradox. Physics 1, 195–200"
+      ],
+      "zh": [
+        "Bell, J.S., 1964: On the Einstein-Podolsky-Rosen Paradox. Physics 1, 195–200"
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch13-bibliography-003",
+      "source_ids": [
+        "ch13-ref003",
+        "ch13-ref004"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N., 1928: The Quantum Postulate and the Recent Development of Atomic Theory. Nature 121, 580–590. Reprinted in: Wheeler and Zurek 1983, 87–126. Modified version of the Como Lecture (1927). Both versions in: Bohr’s Collected Works 6, 109–158."
+      ],
+      "zh": [
+        "Bohr, N., 1928: The Quantum Postulate and the Recent Development of Atomic Theory. Nature 121, 580–590. Reprinted in: Wheeler and Zurek 1983, 87–126. Modified version of the Como Lecture (1927). Both versions in: Bohr’s Collected Works 6, 109–158."
+      ],
+      "shared": true,
+      "units": 41
+    },
+    {
+      "id": "ch13-bibliography-004",
+      "source_ids": [
+        "ch13-ref004",
+        "ch13-ref005"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N., 1948: On the Notions of Causality and Complementarity. Dialectica 2, 312–318. Reprinted in: Bohr’s Collected Works 7, 330–337."
+      ],
+      "zh": [
+        "Bohr, N., 1948: On the Notions of Causality and Complementarity. Dialectica 2, 312–318. Reprinted in: Bohr’s Collected Works 7, 330–337."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch13-bibliography-005",
+      "source_ids": [
+        "ch13-ref005",
+        "ch13-ref006"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Bohr, N., 1949: Discussion with Einstein on Epistemological Problems of Atomic Physics. In: Schilpp 1949, 115–150. Reprinted in: Wheeler and Zurek 1983, 9–49."
+      ],
+      "zh": [
+        "Bohr, N., 1949: Discussion with Einstein on Epistemological Problems of Atomic Physics. In: Schilpp 1949, 115–150. Reprinted in: Wheeler and Zurek 1983, 9–49."
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch13-bibliography-006",
+      "source_ids": [
+        "ch13-ref006",
+        "ch13-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Born, M., 1926a: Zur Quantenmechanik der Stoßvorgänge. Z. f. Physik 37, 863–867. English translation in: Wheeler and Zurek 1983, 52–55."
+      ],
+      "zh": [
+        "Born, M., 1926a: Zur Quantenmechanik der Stoßvorgänge. Z. f. Physik 37, 863–867. English translation in: Wheeler and Zurek 1983, 52–55."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch13-bibliography-007",
+      "source_ids": [
+        "ch13-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Born, M., 1926b: Quantenmechanik der Stoßvorgänge. Z. f. Physik 38, 803–827."
+      ],
+      "zh": [
+        "Born, M., 1926b: Quantenmechanik der Stoßvorgänge. Z. f. Physik 38, 803–827."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch13-bibliography-008",
+      "source_ids": [
+        "ch13-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Carson, E. and Huber, R. (eds.), 2006: Intuition and the Axiomatic Method. Dordrecht: Springer"
+      ],
+      "zh": [
+        "Carson, E. and Huber, R. (eds.), 2006: Intuition and the Axiomatic Method. Dordrecht: Springer"
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch13-bibliography-009",
+      "source_ids": [
+        "ch13-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cartwright, N., 1983: How the Laws of Physics Lie. Oxford: Clarendon Press."
+      ],
+      "zh": [
+        "Cartwright, N., 1983: How the Laws of Physics Lie. Oxford: Clarendon Press."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch13-bibliography-010",
+      "source_ids": [
+        "ch13-ref007"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cartwright, N., 1989: Nature’s Capacities and their Measurement. Oxford: Clarendon Press"
+      ],
+      "zh": [
+        "Cartwright, N., 1989: Nature’s Capacities and their Measurement. Oxford: Clarendon Press"
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch13-bibliography-011",
+      "source_ids": [
+        "ch13-ref007",
+        "ch13-ref008"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Cassirer, E., 1937: Determinismus und Indeterminismus in der modernen Physik. Göteborg. Reprinted in: H.-W. Wendt (ed.), Zur modernen Physik. Darmstadt: Wissenschaftliche Buchgesellschaft (1957)."
+      ],
+      "zh": [
+        "Cassirer, E., 1937: Determinismus und Indeterminismus in der modernen Physik. Göteborg. Reprinted in: H.-W. Wendt (ed.), Zur modernen Physik. Darmstadt: Wissenschaftliche Buchgesellschaft (1957)."
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch13-bibliography-012",
+      "source_ids": [
+        "ch13-ref008",
+        "ch13-ref009"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Chevalley, C., 1991: Introduction and Glossaire. Analyse et Synthèse. In: Niels Bohr: Physique atomique et connaissance humaine. Paris: Gallimard, 17–144 and 345–567."
+      ],
+      "zh": [
+        "Chevalley, C., 1991: Introduction and Glossaire. Analyse et Synthèse. In: Niels Bohr: Physique atomique et connaissance humaine. Paris: Gallimard, 17–144 and 345–567."
+      ],
+      "shared": true,
+      "units": 24
+    },
+    {
+      "id": "ch13-bibliography-013",
+      "source_ids": [
+        "ch13-ref009",
+        "ch13-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Einstein, A., 1905: Über einen die Erzeugung und Verwandlung des Lichts betreffenden heuristischen Gesichtspunkt. Annalen der Physik 17, 132–148."
+      ],
+      "zh": [
+        "Einstein, A., 1905: Über einen die Erzeugung und Verwandlung des Lichts betreffenden heuristischen Gesichtspunkt. Annalen der Physik 17, 132–148."
+      ],
+      "shared": true,
+      "units": 20
+    },
+    {
+      "id": "ch13-bibliography-014",
+      "source_ids": [
+        "ch13-ref010"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Einstein, A., 1949: Autobiographical Notes. In: Schilpp 1949, 1–94."
+      ],
+      "zh": [
+        "Einstein, A., 1949: Autobiographical Notes. In: Schilpp 1949, 1–94."
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch13-bibliography-015",
+      "source_ids": [
+        "ch13-ref010",
+        "ch13-ref011"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Einstein, A., Podolsky, B. and Rosen, N., 1935: Can Quantum Mechanical Description of Reality Be Considered Complete? Phys. Rev. 47, 777–780."
+      ],
+      "zh": [
+        "Einstein, A., Podolsky, B. and Rosen, N., 1935: Can Quantum Mechanical Description of Reality Be Considered Complete? Phys. Rev. 47, 777–780."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch13-bibliography-016",
+      "source_ids": [
+        "ch13-ref011",
+        "ch13-ref012"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Falkenburg, B., 1988: The unifying role of symmetry principles in particle physics. Ratio (New Series) 1, 113–134."
+      ],
+      "zh": [
+        "Falkenburg, B., 1988: The unifying role of symmetry principles in particle physics. Ratio (New Series) 1, 113–134."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch13-bibliography-017",
+      "source_ids": [
+        "ch13-ref012",
+        "ch13-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Falkenburg, B., 1996: The Analysis of Particle Tracks. A Case for Trust in the Unity of Physics. Stud. Hist. Phil. Mod. Phys. 27, 337–371"
+      ],
+      "zh": [
+        "Falkenburg, B., 1996: The Analysis of Particle Tracks. A Case for Trust in the Unity of Physics. Stud. Hist. Phil. Mod. Phys. 27, 337–371"
+      ],
+      "shared": true,
+      "units": 25
+    },
+    {
+      "id": "ch13-bibliography-018",
+      "source_ids": [
+        "ch13-ref013"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Falkenburg, B., 1997: Incommensurability and Measurement. In: Theoria, 12 (30), 467–491."
+      ],
+      "zh": [
+        "Falkenburg, B., 1997: Incommensurability and Measurement. In: Theoria, 12 (30), 467–491."
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch13-bibliography-019",
+      "source_ids": [
+        "ch13-ref013",
+        "ch13-ref014"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Falkenburg, B., 1998: Bohr’s Principles of Unifying Quantum Disunities. Phil. Nat. 35, 95–120."
+      ],
+      "zh": [
+        "Falkenburg, B., 1998: Bohr’s Principles of Unifying Quantum Disunities. Phil. Nat. 35, 95–120."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch13-bibliography-020",
+      "source_ids": [
+        "ch13-ref014",
+        "ch13-ref015"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Falkenburg, B., 2000: Kants Kosmologie. Die wissenschaftliche Revolution der Naturphilosophie im 18. Jahrhundert. Frankfurt: Klostermann."
+      ],
+      "zh": [
+        "Falkenburg, B., 2000: Kants Kosmologie. Die wissenschaftliche Revolution der Naturphilosophie im 18. Jahrhundert. Frankfurt: Klostermann."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch13-bibliography-021",
+      "source_ids": [
+        "ch13-ref015",
+        "ch13-ref016"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Falkenburg, B., 2006: Functions of Intuition in Quantum Physics. In: Carson and Huber 2006, 267–292."
+      ],
+      "zh": [
+        "Falkenburg, B., 2006: Functions of Intuition in Quantum Physics. In: Carson and Huber 2006, 267–292."
+      ],
+      "shared": true,
+      "units": 16
+    },
+    {
+      "id": "ch13-bibliography-022",
+      "source_ids": [
+        "ch13-ref016",
+        "ch13-ref017"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Falkenburg, B., 2007: Particle Metaphysics. A Critical Account of Subatomic Reality. New York: Springer."
+      ],
+      "zh": [
+        "Falkenburg, B., 2007: Particle Metaphysics. A Critical Account of Subatomic Reality. New York: Springer."
+      ],
+      "shared": true,
+      "units": 14
+    },
+    {
+      "id": "ch13-bibliography-023",
+      "source_ids": [
+        "ch13-ref019"
+      ],
+      "page": "248",
+      "canonical_kind": "reference",
+      "en": [
+        "Franklin, A., 1986: The Neglect of Experiment. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Franklin, A., 1986: The Neglect of Experiment. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch13-bibliography-024",
+      "source_ids": [
+        "ch13-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Friedman, M., 1983: Foundations of Space–Time Theories. Princeton, NJ: Princeton University Press."
+      ],
+      "zh": [
+        "Friedman, M., 1983: Foundations of Space–Time Theories. Princeton, NJ: Princeton University Press."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch13-bibliography-025",
+      "source_ids": [
+        "ch13-ref019"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Hacking, I., 1983: Representing and Intervening. Cambridge: Cambridge University Press."
+      ],
+      "zh": [
+        "Hacking, I., 1983: Representing and Intervening. Cambridge: Cambridge University Press."
+      ],
+      "shared": true,
+      "units": 10
+    },
+    {
+      "id": "ch13-bibliography-026",
+      "source_ids": [
+        "ch13-ref019",
+        "ch13-ref020"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Giulini, D., Joos, E., Kiefer, C., Kupsch, J., Stamatescu, I.-O. and Zeh, H.D., 1996: Decoherence and the Appearance of a Classical World in Quantum Theory. Berlin: Springer. 2nd edition 2003."
+      ],
+      "zh": [
+        "Giulini, D., Joos, E., Kiefer, C., Kupsch, J., Stamatescu, I.-O. and Zeh, H.D., 1996: Decoherence and the Appearance of a Classical World in Quantum Theory. Berlin: Springer. 2nd edition 2003."
+      ],
+      "shared": true,
+      "units": 32
+    },
+    {
+      "id": "ch13-bibliography-027",
+      "source_ids": [
+        "ch13-ref020",
+        "ch13-ref021"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I., 1781/1787: Kritik der reinen Vernunft. Riga: Hartknoch (ed. A/B) English Translation: Guyer, P., and Wood, A.W. (eds.): The Cambridge Edition of the Works of Immanuel Kant. Critique of Pure Reason. Cambridge: Cambridge University Press (1998)."
+      ],
+      "zh": [
+        "Kant, I., 1781/1787: Kritik der reinen Vernunft. Riga: Hartknoch (ed. A/B) English Translation: Guyer, P., and Wood, A.W. (eds.): The Cambridge Edition of the Works of Immanuel Kant. Critique of Pure Reason. Cambridge: Cambridge University Press (1998)."
+      ],
+      "shared": true,
+      "units": 40
+    },
+    {
+      "id": "ch13-bibliography-028",
+      "source_ids": [
+        "ch13-ref021",
+        "ch13-ref022"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Kant, I., 1786: Metaphysische Anfangsgründe der Naturwissenschaft. Riga English Translation: Friedman, M. (ed.): Metaphysical Foundations of Natural Science. Cambridge: Cambridge University Press (2004)."
+      ],
+      "zh": [
+        "Kant, I., 1786: Metaphysische Anfangsgründe der Naturwissenschaft. Riga English Translation: Friedman, M. (ed.): Metaphysical Foundations of Natural Science. Cambridge: Cambridge University Press (2004)."
+      ],
+      "shared": true,
+      "units": 23
+    },
+    {
+      "id": "ch13-bibliography-029",
+      "source_ids": [
+        "ch13-ref022",
+        "ch13-ref023"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Krantz, D.H., Duncan, R., Suppes, L.P., and Tversky, A., 1971: Foundations of Measurement. Vol. 1. San Diego, CA: Academic."
+      ],
+      "zh": [
+        "Krantz, D.H., Duncan, R., Suppes, L.P., and Tversky, A., 1971: Foundations of Measurement. Vol. 1. San Diego, CA: Academic."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch13-bibliography-030",
+      "source_ids": [
+        "ch13-ref023",
+        "ch13-ref024"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Leibniz, G.W. and Clarke, S., 1715/1716: The Leibniz-Clarke Correspondence. Edited with introduction and notes by H.G. Alexander. Manchester: Manchester University Press (1956, Reprinted in 1998)."
+      ],
+      "zh": [
+        "Leibniz, G.W. and Clarke, S., 1715/1716: The Leibniz-Clarke Correspondence. Edited with introduction and notes by H.G. Alexander. Manchester: Manchester University Press (1956, Reprinted in 1998)."
+      ],
+      "shared": true,
+      "units": 28
+    },
+    {
+      "id": "ch13-bibliography-031",
+      "source_ids": [
+        "ch13-ref024",
+        "ch13-ref025"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Locke, J., 1689: An Essay Concerning Human Understanding. London NewNidditch, P.H. (ed.). Oxford: Clarendon Press (1975)."
+      ],
+      "zh": [
+        "Locke, J., 1689: An Essay Concerning Human Understanding. London NewNidditch, P.H. (ed.). Oxford: Clarendon Press (1975)."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch13-bibliography-032",
+      "source_ids": [
+        "ch13-ref025",
+        "ch13-ref026"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Mittelstaedt, P., 2006: The Intuitiveness and Truth of Modern Physics. In: Carson and Huber 2006, 251–266."
+      ],
+      "zh": [
+        "Mittelstaedt, P., 2006: The Intuitiveness and Truth of Modern Physics. In: Carson and Huber 2006, 251–266."
+      ],
+      "shared": true,
+      "units": 17
+    },
+    {
+      "id": "ch13-bibliography-033",
+      "source_ids": [
+        "ch13-ref026",
+        "ch13-ref027"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Newton, I., 1687: Philosophiae naturalis principia mathematica. Londinum. Quoted after the new English translation: The Principia. Mathematical Principles of Natural Philosophy. Translated by I. Bernard Cohen and Anne Whitman with the assistance of Julia Budenz. Berkeley, London: University of California Press (1999)."
+      ],
+      "zh": [
+        "Newton, I., 1687: Philosophiae naturalis principia mathematica. Londinum. Quoted after the new English translation: The Principia. Mathematical Principles of Natural Philosophy. Translated by I. Bernard Cohen and Anne Whitman with the assistance of Julia Budenz. Berkeley, London: University of California Press (1999)."
+      ],
+      "shared": true,
+      "units": 42
+    },
+    {
+      "id": "ch13-bibliography-034",
+      "source_ids": [
+        "ch13-ref027",
+        "ch13-ref028"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Newton, I., 1730: Opticks. London (4th edn.) Reprinted with a Preface by I. B. Cohen. New York: Dover (1979)."
+      ],
+      "zh": [
+        "Newton, I., 1730: Opticks. London (4th edn.) Reprinted with a Preface by I. B. Cohen. New York: Dover (1979)."
+      ],
+      "shared": true,
+      "units": 19
+    },
+    {
+      "id": "ch13-bibliography-035",
+      "source_ids": [
+        "ch13-ref028",
+        "ch13-ref029"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Planck, M., 1908: Die Einheit des physikalischen Weltbildes. In: Planck 1965, 28–51. In: Vorträge und Erinnerungen. Darmstadt: Wissenschaftliche Buchgesellschaft (9th edn.)."
+      ],
+      "zh": [
+        "Planck, M., 1908: Die Einheit des physikalischen Weltbildes. In: Planck 1965, 28–51. In: Vorträge und Erinnerungen. Darmstadt: Wissenschaftliche Buchgesellschaft (9th edn.)."
+      ],
+      "shared": true,
+      "units": 22
+    },
+    {
+      "id": "ch13-bibliography-036",
+      "source_ids": [
+        "ch13-ref029"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Pringe, H., 2007: Critic of the Quantum Power of Judgement. Berlin: de Gruyter."
+      ],
+      "zh": [
+        "Pringe, H., 2007: Critic of the Quantum Power of Judgement. Berlin: de Gruyter."
+      ],
+      "shared": true,
+      "units": 13
+    },
+    {
+      "id": "ch13-bibliography-037",
+      "source_ids": [
+        "ch13-ref029",
+        "ch13-ref030"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Quine, W.v.O., 1951: Two Dogmas of Empiricism. In: From a Logical Point of View. Harvard: Harvard University Press 1953."
+      ],
+      "zh": [
+        "Quine, W.v.O., 1951: Two Dogmas of Empiricism. In: From a Logical Point of View. Harvard: Harvard University Press 1953."
+      ],
+      "shared": true,
+      "units": 21
+    },
+    {
+      "id": "ch13-bibliography-038",
+      "source_ids": [
+        "ch13-ref030",
+        "ch13-ref031"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Schilpp, P.A. (ed.), 1949: Albert Einstein: Philosopher – Scientist. Library of Living Philosophers. Evanston, IL."
+      ],
+      "zh": [
+        "Schilpp, P.A. (ed.), 1949: Albert Einstein: Philosopher – Scientist. Library of Living Philosophers. Evanston, IL."
+      ],
+      "shared": true,
+      "units": 15
+    },
+    {
+      "id": "ch13-bibliography-039",
+      "source_ids": [
+        "ch13-ref031"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Simons, P., 1987: Parts. A Study in Ontology. Oxford: Clarendon Press"
+      ],
+      "zh": [
+        "Simons, P., 1987: Parts. A Study in Ontology. Oxford: Clarendon Press"
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch13-bibliography-040",
+      "source_ids": [
+        "ch13-ref031",
+        "ch13-ref032"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Streater, R.F. and Wightman, A.S., 1964: PCT, Spin and Statistics, and all that. New York: Benjamin"
+      ],
+      "zh": [
+        "Streater, R.F. and Wightman, A.S., 1964: PCT, Spin and Statistics, and all that. New York: Benjamin"
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch13-bibliography-041",
+      "source_ids": [
+        "ch13-ref032"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "van Fraassen, B.C.1980: The Scientific Image. Oxford: Clarendon Press."
+      ],
+      "zh": [
+        "van Fraassen, B.C.1980: The Scientific Image. Oxford: Clarendon Press."
+      ],
+      "shared": true,
+      "units": 11
+    },
+    {
+      "id": "ch13-bibliography-042",
+      "source_ids": [
+        "ch13-ref032",
+        "ch13-ref033"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "von Neumann, J., 1932: Mathematische Grundlagen der Quantenmechanik. Berlin: Springer. Engl. Transl. by R. Beyer: Mathematical Foundation of Quantum Mechanics. Princeton, NJ: Princeton University Press (1955)."
+      ],
+      "zh": [
+        "von Neumann, J., 1932: Mathematische Grundlagen der Quantenmechanik. Berlin: Springer. Engl. Transl. by R. Beyer: Mathematical Foundation of Quantum Mechanics. Princeton, NJ: Princeton University Press (1955)."
+      ],
+      "shared": true,
+      "units": 26
+    },
+    {
+      "id": "ch13-bibliography-043",
+      "source_ids": [
+        "ch13-ref033"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "von Weizsäcker, C.F. 1971: Die Einheit der Natur. München, Wien: Hanser"
+      ],
+      "zh": [
+        "von Weizsäcker, C.F. 1971: Die Einheit der Natur. München, Wien: Hanser"
+      ],
+      "shared": true,
+      "units": 12
+    },
+    {
+      "id": "ch13-bibliography-044",
+      "source_ids": [
+        "ch13-ref033",
+        "ch13-ref034"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Wheeler, J.A. and Zurek, W.H. 1983: Quantum Theory and Measurement. Princeton, NJ/ Guildford: Princeton University Press."
+      ],
+      "zh": [
+        "Wheeler, J.A. and Zurek, W.H. 1983: Quantum Theory and Measurement. Princeton, NJ/ Guildford: Princeton University Press."
+      ],
+      "shared": true,
+      "units": 18
+    },
+    {
+      "id": "ch13-bibliography-045",
+      "source_ids": [
+        "ch13-ref034",
+        "ch13-ref035"
+      ],
+      "page": "",
+      "canonical_kind": "reference",
+      "en": [
+        "Wigner, E.P. 1964: Symmetry and Conservation Laws. Proceedings of the National Academy of Sciences USA 51, 956–965. Reprinted in: Philosophical Reflections and Syntheses. Berlin, Heidelberg: Springer (1997), 297–333."
+      ],
+      "zh": [
+        "Wigner, E.P. 1964: Symmetry and Conservation Laws. Proceedings of the National Academy of Sciences USA 51, 956–965. Reprinted in: Philosophical Reflections and Syntheses. Berlin, Heidelberg: Springer (1997), 297–333."
+      ],
+      "shared": true,
+      "units": 31
+    }
+  ],
+  "notes": {
+    "ch13-n01": {
+      "number": "1",
+      "en": [
+        "Einstein et al. (1935); Einstein (1949)."
+      ],
+      "zh": [
+        "Einstein et al. (1935); Einstein (1949)。"
+      ]
+    },
+    "ch13-n02": {
+      "number": "2",
+      "en": [
+        "In non-relativistic mechanics, the concept of mass splits into inertial and gravitational mass. Gravitational mass is the charge of gravitation. Mass, momentum and energy are conserved separately. In special relativity, inertial mass splits into rest mass and velocity-dependent relativistic mass. The non-relativistic conservation laws are replaced by combined conservation laws for mass–energy and energy–momentum."
+      ],
+      "zh": [
+        "在非相对论力学中，质量概念分裂为惯性质量与引力质量。引力质量是引力的荷。质量、动量和能量分别守恒。在狭义相对论中，惯性质量分裂为静止质量与依赖速度的相对论质量。非相对论守恒定律被质–能与能量–动量的联合守恒定律取代。"
+      ]
+    },
+    "ch13-n03": {
+      "number": "3",
+      "en": [
+        "Newton (1687)."
+      ],
+      "zh": [
+        "Newton (1687)。"
+      ]
+    },
+    "ch13-n04": {
+      "number": "4",
+      "en": [
+        "Newton (1730, p. 397)."
+      ],
+      "zh": [
+        "Newton (1730, p. 397)。"
+      ]
+    },
+    "ch13-n05": {
+      "number": "5",
+      "en": [
+        "Leibniz and Clarke (1715–1716), in particular Leibniz’ third letter."
+      ],
+      "zh": [
+        "Leibniz and Clarke (1715–1716)，尤其是莱布尼茨的第三封信。"
+      ]
+    },
+    "ch13-n06": {
+      "number": "6",
+      "en": [
+        "Planck (1908, p. 49)."
+      ],
+      "zh": [
+        "Planck (1908, p. 49)。"
+      ]
+    },
+    "ch13-n07": {
+      "number": "7",
+      "en": [
+        "Locke (1689, Book II, beginning of chapter XXIII)."
+      ],
+      "zh": [
+        "Locke (1689, Book II, beginning of chapter XXIII)。"
+      ]
+    },
+    "ch13-n08": {
+      "number": "8",
+      "en": [
+        "van Fraassen (1980)."
+      ],
+      "zh": [
+        "van Fraassen (1980)."
+      ]
+    },
+    "ch13-n09": {
+      "number": "9",
+      "en": [
+        "Einstein (1905, p. 894)."
+      ],
+      "zh": [
+        "Einstein (1905, p. 894)."
+      ]
+    },
+    "ch13-n10": {
+      "number": "10",
+      "en": [
+        "Krantz et al. (1971)."
+      ],
+      "zh": [
+        "Krantz et al. (1971)."
+      ]
+    },
+    "ch13-n11": {
+      "number": "11",
+      "en": [
+        "Here, ‘meta-theoretical’ is not used as a linguistic term but following Wigner. Wigner (1964, p. 16), observed “a great similarity between the relation of the laws of nature to the events on one hand, and the relation of symmetry principles to the laws of nature on the other.” See Falkenburg (1988). A meta-theoretical principle fixes a certain structural feature of a theory. It can be expressed in the language of the theory as well as in an informal meta-language."
+      ],
+      "zh": [
+        "这里，“元理论的”不是作为语言学术语使用，而是沿用维格纳的用法。维格纳（1964, p. 16）注意到“自然定律与事件之间的关系，同对称性原理与自然定律之间的关系，二者极为相似”。参见 Falkenburg (1988)。元理论原理固定理论的某种结构特征。它既可以用该理论的语言表达，也可以用非形式的元语言表达。"
+      ]
+    },
+    "ch13-n12": {
+      "number": "12",
+      "en": [
+        "See Streater and Wightman (1964, pp. 142–146). P is the parity transformation, the subatomic analogue of mirroring; C is charge conjugation, the transformation of particles into antiparticles; T is time reversal."
+      ],
+      "zh": [
+        "参见 Streater and Wightman (1964, pp. 142–146)。P 是宇称变换，即镜像反射在亚原子领域的对应物；C 是电荷共轭，即把粒子变换为反粒子的变换；T 是时间反演。"
+      ]
+    },
+    "ch13-n13": {
+      "number": "13",
+      "en": [
+        "See the discussion of non-standard simultaneity relations in Friedman (1983, pp. 165–176), and the related discussion of empirically equivalent theories, loc cit. pp. 266–339."
+      ],
+      "zh": [
+        "参见 Friedman (1983, pp. 165–176) 对非标准同时性关系的讨论，以及同书第 266–339 页对经验等价理论的相关讨论。"
+      ]
+    },
+    "ch13-n14": {
+      "number": "14",
+      "en": [
+        "Quine (1951, p. 15)."
+      ],
+      "zh": [
+        "Quine (1951, p. 15)."
+      ]
+    },
+    "ch13-n15": {
+      "number": "15",
+      "en": [
+        "Krantz et al. (1971)."
+      ],
+      "zh": [
+        "Krantz et al. (1971)."
+      ]
+    },
+    "ch13-n16": {
+      "number": "16",
+      "en": [
+        "Friedman (1983, p. 317), points out “how firmly the standard simultaneity relation is embedded in relativity theory. One can not question the objectivity of this relation without also questioning significant parts of the rest of the theory. In particular, one cannot maintain that distant simultaneity is conventional without also maintaining that such basic quantities as the proper time metric are conventional as well.”"
+      ],
+      "zh": [
+        "Friedman (1983, p. 317) 指出“标准同时性关系多么牢固地嵌入相对论之中。人们不可能质疑这一关系的客观性而不同时质疑该理论其余部分的重要内容。特别是，人们不可能主张异地同时性是约定的，而不同时主张固有时度规这样的基本量也是约定的。”"
+      ]
+    },
+    "ch13-n17": {
+      "number": "17",
+      "en": [
+        "Franklin (1986, pp. 35–38), investigates this feature for the experimental tests of parity violation."
+      ],
+      "zh": [
+        "Franklin (1986, pp. 35–38) 针对宇称不守恒的实验检验考察了这一特点。"
+      ]
+    },
+    "ch13-n18": {
+      "number": "18",
+      "en": [
+        "See Friedman, (1983, pp. 266–271)."
+      ],
+      "zh": [
+        "参见 Friedman (1983, pp. 266–271)。"
+      ]
+    },
+    "ch13-n19": {
+      "number": "19",
+      "en": [
+        "See Falkenburg (1997, 2007, chapter 5)."
+      ],
+      "zh": [
+        "参见 Falkenburg (1997, 2007, 第 5 章)。"
+      ]
+    },
+    "ch13-n20": {
+      "number": "20",
+      "en": [
+        "This is the rationale of Kant’s doctrine of the antinomy of pure reason. For a detailed analysis, see Falkenburg (2000, p. 177ff.)"
+      ],
+      "zh": [
+        "这就是康德纯粹理性二律背反学说的理据。详细分析参见 Falkenburg (2000, p. 177ff.)。"
+      ]
+    },
+    "ch13-n21": {
+      "number": "21",
+      "en": [
+        "I neglect Kant’s theory of space and time as pure intuitions. The role that remains for intuition in quantum physics is discussed in Falkenburg (2006)."
+      ],
+      "zh": [
+        "我略去了康德把空间和时间作为纯粹直观的理论。直观在量子物理学中仍然保留的角色在 Falkenburg (2006) 中有讨论。"
+      ]
+    },
+    "ch13-n22": {
+      "number": "22",
+      "en": [
+        "See Kant (1781/1787, A 265/B 321)."
+      ],
+      "zh": [
+        "参见 Kant (1781/1787, A 265/B 321)。"
+      ]
+    },
+    "ch13-n23": {
+      "number": "23",
+      "en": [
+        "See my above remarks in Section 2, Falkenburg (1997, 2007, chapters 2 and 7)."
+      ],
+      "zh": [
+        "参见我在上文第 2 节的评论，Falkenburg (1997, 2007, 第 2 章和第 7 章)。"
+      ]
+    },
+    "ch13-n24": {
+      "number": "24",
+      "en": [
+        "See Kant (1786, pp. 537–542), and von Weizsäcker (1971, pp. 383–404)."
+      ],
+      "zh": [
+        "参见 Kant (1786, pp. 537–542) 以及 von Weizsäcker (1971, pp. 383–404)。"
+      ]
+    },
+    "ch13-n25": {
+      "number": "25",
+      "en": [
+        "See Kant (1781/1787, A 189–211/B 232–256)."
+      ],
+      "zh": [
+        "参见 Kant (1781/1787, A 189–211/B 232–256)。"
+      ]
+    },
+    "ch13-n26": {
+      "number": "26",
+      "en": [
+        "Kant (1781/1787, A 265/B 321)."
+      ],
+      "zh": [
+        "Kant (1781/1787, A 265/B 321)."
+      ]
+    },
+    "ch13-n27": {
+      "number": "27",
+      "en": [
+        "Kant (1781/1787, A 226/B 273, chapter on the “postulates of empirical thinking”)."
+      ],
+      "zh": [
+        "Kant (1781/1787, A 226/B 273, “经验思维的公设”一章)。"
+      ]
+    },
+    "ch13-n28": {
+      "number": "28",
+      "en": [
+        "Kant (1787, p. XIII)."
+      ],
+      "zh": [
+        "Kant (1787, p. XIII)."
+      ]
+    },
+    "ch13-n29": {
+      "number": "29",
+      "en": [
+        "See Reichenbach’s distinction between Kant’s own a priori of space and time and the a priori of specific physical assumptions about space–time."
+      ],
+      "zh": [
+        "参见赖欣巴赫对康德自己的空间和时间先天与关于时空的特定物理假设的先天的区分。"
+      ]
+    },
+    "ch13-n30": {
+      "number": "30",
+      "en": [
+        "See Falkenburg (2000). For the concepts of mereology, see Simons (1987)."
+      ],
+      "zh": [
+        "参见 Falkenburg (2000)。关于部分—整体论的概念，参见 Simons (1987)。"
+      ]
+    },
+    "ch13-n31": {
+      "number": "31",
+      "en": [
+        "See Kant (1781, p. 265, 1787, p. 321) (quoted above)."
+      ],
+      "zh": [
+        "参见 Kant (1781, p. 265, 1787, p. 321)（上文已引）。"
+      ]
+    },
+    "ch13-n32": {
+      "number": "32",
+      "en": [
+        "Causal realism was first expressed in Newton’s first rule of reasoning (Newton, 1687, p. 794), in a framework of classical metaphysical realism. Today, weaker versions such as Cartwright’s or Hacking’s are prominent. In search of a sufficient criterion for the existence of an entity, Hacking couples causal realism to the requirement of successfully using an entity as a technological device. According to his reality criterion, electrons exist because they can be successfully used as experimental devices with observable effects in a scattering experiment. Or, as Hacking (1983, p. 23), put it, “if you can spray them then they are real”. Cartwright (1983, 1989) defends a version of causal realism according to which nature has causal powers or capacities that are subject to causal analysis. Her account of Nature’s capacities is coupled to belief in the (approximate) truth of phenomenological laws."
+      ],
+      "zh": [
+        "因果实在论最早表达于牛顿的第一条推理规则（Newton, 1687, p. 794），处于经典形而上学实在论的框架之中。今天，卡特赖特或哈金等人的较弱版本更为突出。为了寻找实体存在的充分标准，哈金把因果实在论与成功地把实体用作技术装置的要求结合起来。按照他的实在性标准，电子存在，因为它们可以在散射实验中成功地用作具有可观察效应的实验装置。或者，用哈金（1983, p. 23）的话说，“如果你能把它们喷射出去，它们就是实在的”。卡特赖特（1983, 1989）捍卫一种因果实在论版本，按照这种版本，自然具有服从因果分析的因果能力或本领。她对自然本领的说明与对现象定律（近似）为真的信念结合在一起。"
+      ]
+    },
+    "ch13-n33": {
+      "number": "33",
+      "en": [
+        "This point may be made precise in terms of Kant’s distinction of the real and the actual; see Falkenburg (2007, section 1.3). The real consists in the qualia, in properties. The actual, as distinct from the possible and the necessary, is a modal category. To the real, the pure concept of an intensive quantity belongs, where any intensive quantity has a degree. Kant calls this degree the “real of the sensation”. In empirical reality, the actual degrees of intensive quantities are a posteriori given by the sense data (Kant, 1787, B 207). The mark of the actual is that it is not determined by the categories and principles of pure reason. It is due to something that acts independently of our cognitive capacities. The English term “actual” as well as the German term “wirklich” preserves the idea that something is acting independently of our concepts and theories."
+      ],
+      "zh": [
+        "这一点可以借助康德对“实在的”（real）与“现实的”（actual）的区分来精确表述；参见 Falkenburg (2007, 第 1.3 节)。“实在的”在于感受质（qualia），在于性质。“现实的”作为与可能的和必然的相区别者，是一个模态范畴。内包量的纯粹概念属于“实在的”，任何内包量都有一个度。康德把这个度称为“感觉的实在”。在经验实在中，内包量实际呈现的度是由感觉材料后天地给予的（Kant, 1787, B 207）。现实性的标志在于它不由纯粹理性的范畴和原理决定。它归因于某种独立于我们的认识能力而起作用的东西。英语词“actual”和德语词“wirklich”都保留了某种东西独立于我们的概念和理论而起作用这一观念。"
+      ]
+    },
+    "ch13-n34": {
+      "number": "34",
+      "en": [
+        "In the following, “quantum theory” means any quantum theory currently used in physical practice, i.e., quantum mechanics in the usual probabilistic interpretation as well as the current quantum field theories. Mittelstaedt (2006) shows how special relativity and quantum theory criticise classical realism as an over-determined construal of empirical reality in two respects. Special relativity teaches that the classical concepts of space, time, and simultaneity are not general enough. Quantum theory teaches that the classical concept of substance is too strong."
+      ],
+      "zh": [
+        "在下文中，“量子理论”指当前物理实践中使用的任何量子理论，即通常概率诠释下的量子力学以及当前的量子场论。Mittelstaedt (2006) 表明，狭义相对论和量子理论如何从两方面表明，经典实在论对经验实在作了过强的规定。狭义相对论教导我们，经典的空间、时间和同时性概念不够一般。量子理论教导我们，经典的实体概念太强了。"
+      ]
+    },
+    "ch13-n35": {
+      "number": "35",
+      "en": [
+        "Born (1926a, b), von Neumann (1932, pp. 101–110)."
+      ],
+      "zh": [
+        "Born (1926a, b), von Neumann (1932, pp. 101–110)."
+      ]
+    },
+    "ch13-n36": {
+      "number": "36",
+      "en": [
+        "Cartwright (1983), Hacking (1983)."
+      ],
+      "zh": [
+        "Cartwright (1983), Hacking (1983)."
+      ]
+    },
+    "ch13-n37": {
+      "number": "37",
+      "en": [
+        "Cassirer (1937) suggested that in quantum theory the principle of causality can be maintained only at the probabilistic level of the predictions from the Schrodinger equation, i.e. for the statistical ensemble."
+      ],
+      "zh": [
+        "卡西尔（1937）提出，在量子理论中，因果性原理只能在从薛定谔方程作出的预测的概率层面上，即对统计系综，才能保持。"
+      ]
+    },
+    "ch13-n38": {
+      "number": "38",
+      "en": [
+        "Einstein et al. (1935), Bell (1964), Aspect et al. (1982). In recent experiments, EPR correlations were observed over a distance of 12 km."
+      ],
+      "zh": [
+        "Einstein et al. (1935), Bell (1964), Aspect et al. (1982)。在晚近的实验中，EPR 关联在 12 km 的距离上被观察到。"
+      ]
+    },
+    "ch13-n39": {
+      "number": "39",
+      "en": [
+        "Here, I neglect non-standard interpretations of quantum theory such as a Bohm-type hidden variable approach or the many-worlds interpretation. The former introduces a non-local potential, i.e., an action-at-a-distance that is at odds with special relativity. The latter is highly speculative."
+      ],
+      "zh": [
+        "这里，我略去了量子理论的非标准诠释，例如玻姆式隐变量进路或多世界诠释。前者引入一个非定域势，即一种与狭义相对论相冲突的超距作用。后者是高度思辨的。"
+      ]
+    },
+    "ch13-n40": {
+      "number": "40",
+      "en": [
+        "Bohr (1928, 1948, 1949). See also Falkenburg (1998)."
+      ],
+      "zh": [
+        "Bohr (1928, 1948, 1949)。另参见 Falkenburg (1998)。"
+      ]
+    },
+    "ch13-n41": {
+      "number": "41",
+      "en": [
+        "Bohr (1928)."
+      ],
+      "zh": [
+        "Bohr (1928)."
+      ]
+    },
+    "ch13-n42": {
+      "number": "42",
+      "en": [
+        "For details, see Falkenburg (2007, in particular chapters 5–8)."
+      ],
+      "zh": [
+        "细节参见 Falkenburg (2007, 特别是第 5–8 章)。"
+      ]
+    },
+    "ch13-n43": {
+      "number": "43",
+      "en": [
+        "Bohr emphasised that “the so-called quantum postulate attributes to any atomic process an essential discontinuity, or rather individuality, completely foreign to the classical theories and symbolized by Planck’s quantum of action” (Bohr 1928, p. 580). Since ‘individuality’ for Bohr means ‘indivisibility’, this is closely related to the limitations of the analysis and synthesis of experience he repeatedly stated. See Chevalley (1991, pp. 373–378)."
+      ],
+      "zh": [
+        "玻尔强调“所谓的量子公设赋予任何原子过程一种本质上的不连续性，或更确切地说，一种个体性。这种性质为经典理论所无，以普朗克作用量子为标志”（Bohr 1928, p. 580）。由于“个体性”对玻尔来说意味着“不可分性”，这与他反复陈述的经验分析和综合的限度密切相关。参见 Chevalley (1991, pp. 373–378)。"
+      ]
+    },
+    "ch13-n44": {
+      "number": "44",
+      "en": [
+        "Giulini et al. (1996)."
+      ],
+      "zh": [
+        "Giulini et al. (1996)."
+      ]
+    },
+    "ch13-n45": {
+      "number": "45",
+      "en": [
+        "However, the construction is not arbitrary. As far as overlapping measurement methods and independent semi-empirical tests are available, the scales turn out to be empirically coherent. See Falkenburg (2007, chapter 5)."
+      ],
+      "zh": [
+        "然而，这种构造不是任意的。只要有相互重叠的测量方法和独立的半经验检验可用，这些标度就表现出经验上的融贯。参见 Falkenburg (2007, 第 5 章)。"
+      ]
+    },
+    "ch13-n46": {
+      "number": "46",
+      "en": [
+        "Falkenburg (2007, chapters 4–7)."
+      ],
+      "zh": [
+        "Falkenburg (2007, 第 4–7 章)。"
+      ]
+    },
+    "ch13-n47": {
+      "number": "47",
+      "en": [
+        "See Pringe (2007) and Pringe’s contribution to this volume."
+      ],
+      "zh": [
+        "参见 Pringe (2007) 以及普林格在本书中的文章。"
+      ]
+    }
+  }
+}
