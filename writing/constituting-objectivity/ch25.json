@@ -8760,12 +8760,72 @@
       "page": "441",
       "canonical_kind": "paragraph",
       "en": [
-        "Let E be a finite projective (right) A-module. A connection ∇on E is a collection of morphisms (for every p)"
+        "Let ",
+        {
+          "type": "math",
+          "tex": "\\mathcal E",
+          "display": false
+        },
+        " be a finite projective (right) ",
+        {
+          "type": "math",
+          "tex": "\\mathcal A",
+          "display": false
+        },
+        "-module. A connection ",
+        {
+          "type": "math",
+          "tex": "\\nabla",
+          "display": false
+        },
+        " on ",
+        {
+          "type": "math",
+          "tex": "\\mathcal E",
+          "display": false
+        },
+        " is a collection of morphisms (for every ",
+        {
+          "type": "math",
+          "tex": "p",
+          "display": false
+        },
+        ")"
       ],
       "zh": [
-        "设 E 是有限投射（右）A 模。E 上的联络 ∇ 是一族态射（对每个 p）"
+        "设 ",
+        {
+          "type": "math",
+          "tex": "\\mathcal E",
+          "display": false
+        },
+        " 是有限投射的右 ",
+        {
+          "type": "math",
+          "tex": "\\mathcal A",
+          "display": false
+        },
+        " 模。",
+        {
+          "type": "math",
+          "tex": "\\mathcal E",
+          "display": false
+        },
+        " 上的联络 ",
+        {
+          "type": "math",
+          "tex": "\\nabla",
+          "display": false
+        },
+        " 是一族态射（对每个 ",
+        {
+          "type": "math",
+          "tex": "p",
+          "display": false
+        },
+        "）"
       ],
-      "units": 20
+      "units": 25
     },
     {
       "id": "ch25-u511",
@@ -8799,12 +8859,47 @@
       "page": "",
       "canonical_kind": "paragraph",
       "en": [
-        "satisfying for every ω ∈E ⊗A Ωp (A) and every ρ ∈Ωq (A) the Leibniz rule in E ⊗A Ωp+q+1 (A)"
+        "satisfying for every ",
+        {
+          "type": "math",
+          "tex": "\\omega\\in\\mathcal E\\otimes_\\mathcal A\\Omega^p(\\mathcal A)",
+          "display": false
+        },
+        " and every ",
+        {
+          "type": "math",
+          "tex": "\\rho\\in\\Omega^q(\\mathcal A)",
+          "display": false
+        },
+        " the Leibniz rule in ",
+        {
+          "type": "math",
+          "tex": "\\mathcal E\\otimes_\\mathcal A\\Omega^{p+q+1}(\\mathcal A)",
+          "display": false
+        }
       ],
       "zh": [
-        "对每个 ω ∈E ⊗A Ωp (A) 与每个 ρ ∈Ωq (A)，在 E ⊗A Ωp+q+1 (A) 中满足莱布尼茨法则"
+        "对每个 ",
+        {
+          "type": "math",
+          "tex": "\\omega\\in\\mathcal E\\otimes_\\mathcal A\\Omega^p(\\mathcal A)",
+          "display": false
+        },
+        " 和每个 ",
+        {
+          "type": "math",
+          "tex": "\\rho\\in\\Omega^q(\\mathcal A)",
+          "display": false
+        },
+        "，在 ",
+        {
+          "type": "math",
+          "tex": "\\mathcal E\\otimes_\\mathcal A\\Omega^{p+q+1}(\\mathcal A)",
+          "display": false
+        },
+        " 中满足莱布尼茨法则"
       ],
-      "units": 23
+      "units": 37
     },
     {
       "id": "ch25-u513",
@@ -8851,12 +8946,33 @@
       "page": "",
       "canonical_kind": "paragraph",
       "en": [
-        "∇is determined by its restriction to Ω1 (A)"
+        {
+          "type": "math",
+          "tex": "\\nabla",
+          "display": false
+        },
+        " is determined by its restriction to ",
+        {
+          "type": "math",
+          "tex": "\\Omega^1(\\mathcal A)",
+          "display": false
+        }
       ],
       "zh": [
-        "∇ 由其在 Ω1 (A) 上的限制决定"
+        {
+          "type": "math",
+          "tex": "\\nabla",
+          "display": false
+        },
+        " 由其在 ",
+        {
+          "type": "math",
+          "tex": "\\Omega^1(\\mathcal A)",
+          "display": false
+        },
+        " 上的限制决定"
       ],
-      "units": 8
+      "units": 11
     },
     {
       "id": "ch25-u515",
@@ -8890,12 +9006,48 @@
       "page": "",
       "canonical_kind": "paragraph",
       "en": [
-        "satisfying ∇(ξa) = ∇(ξ)a+ξ ⊗da for ξ ∈E and a ∈A."
+        "satisfying ",
+        {
+          "type": "math",
+          "tex": "\\nabla(\\xi a)=\\nabla(\\xi)a+\\xi\\otimes da",
+          "display": false
+        },
+        " for ",
+        {
+          "type": "math",
+          "tex": "\\xi\\in\\mathcal E",
+          "display": false
+        },
+        " and ",
+        {
+          "type": "math",
+          "tex": "a\\in\\mathcal A",
+          "display": false
+        },
+        "."
       ],
       "zh": [
-        "对 ξ ∈E 与 a ∈A 满足 ∇(ξa) = ∇(ξ)a+ξ ⊗da。"
+        "对 ",
+        {
+          "type": "math",
+          "tex": "\\xi\\in\\mathcal E",
+          "display": false
+        },
+        " 与 ",
+        {
+          "type": "math",
+          "tex": "a\\in\\mathcal A",
+          "display": false
+        },
+        " 满足 ",
+        {
+          "type": "math",
+          "tex": "\\nabla(\\xi a)=\\nabla(\\xi)a+\\xi\\otimes da",
+          "display": false
+        },
+        "。"
       ],
-      "units": 12
+      "units": 20
     },
     {
       "id": "ch25-u517",
@@ -8905,12 +9057,47 @@
       "page": "",
       "canonical_kind": "paragraph",
       "en": [
-        "The curvature θ of ∇is given by ∇2 : E →E ⊗A Ω2 (A). As"
+        "The curvature ",
+        {
+          "type": "math",
+          "tex": "\\theta",
+          "display": false
+        },
+        " of ",
+        {
+          "type": "math",
+          "tex": "\\nabla",
+          "display": false
+        },
+        " is given by ",
+        {
+          "type": "math",
+          "tex": "\\nabla^2:\\mathcal E\\to\\mathcal E\\otimes_\\mathcal A\\Omega^2(\\mathcal A)",
+          "display": false
+        },
+        ". As"
       ],
       "zh": [
-        "∇ 的曲率 θ 由 ∇2 : E →E ⊗A Ω2 (A) 给出。由于"
+        {
+          "type": "math",
+          "tex": "\\nabla",
+          "display": false
+        },
+        " 的曲率 ",
+        {
+          "type": "math",
+          "tex": "\\theta",
+          "display": false
+        },
+        " 由 ",
+        {
+          "type": "math",
+          "tex": "\\nabla^2:\\mathcal E\\to\\mathcal E\\otimes_\\mathcal A\\Omega^2(\\mathcal A)",
+          "display": false
+        },
+        " 给出。由于"
       ],
-      "units": 14
+      "units": 23
     },
     {
       "id": "ch25-u518",
@@ -9017,12 +9204,24 @@
       "page": "",
       "canonical_kind": "paragraph",
       "en": [
-        "is a matrix with elements in Ω2 (A)."
+        "is a matrix with elements in ",
+        {
+          "type": "math",
+          "tex": "\\Omega^2(\\mathcal A)",
+          "display": false
+        },
+        "."
       ],
       "zh": [
-        "是一个元素属于 Ω2 (A) 的矩阵。"
+        "是一个元素属于 ",
+        {
+          "type": "math",
+          "tex": "\\Omega^2(\\mathcal A)",
+          "display": false
+        },
+        " 的矩阵。"
       ],
-      "units": 8
+      "units": 10
     },
     {
       "id": "ch25-u523",
@@ -9032,12 +9231,47 @@
       "page": "",
       "canonical_kind": "paragraph",
       "en": [
-        "Now, ∇defines a connection [∇,•] on EndAE by"
+        "Now, ",
+        {
+          "type": "math",
+          "tex": "\\nabla",
+          "display": false
+        },
+        " defines a connection ",
+        {
+          "type": "math",
+          "tex": "[\\nabla,\\bullet]",
+          "display": false
+        },
+        " on ",
+        {
+          "type": "math",
+          "tex": "\\operatorname{End}_{\\mathcal A}\\mathcal E",
+          "display": false
+        },
+        " by"
       ],
       "zh": [
-        "现在，∇ 通过下式在 EndAE 上定义一个联络 [∇,•]"
+        "现在，",
+        {
+          "type": "math",
+          "tex": "\\nabla",
+          "display": false
+        },
+        " 通过下式在 ",
+        {
+          "type": "math",
+          "tex": "\\operatorname{End}_{\\mathcal A}\\mathcal E",
+          "display": false
+        },
+        " 上定义一个联络 ",
+        {
+          "type": "math",
+          "tex": "[\\nabla,\\bullet]",
+          "display": false
+        }
       ],
-      "units": 7
+      "units": 15
     },
     {
       "id": "ch25-u524",
@@ -9071,12 +9305,36 @@
       "page": "",
       "canonical_kind": "paragraph",
       "en": [
-        "and the curvature θ satisfies the Bianchi identity [∇,θ] = 0."
+        "and the curvature ",
+        {
+          "type": "math",
+          "tex": "\\theta",
+          "display": false
+        },
+        " satisfies the Bianchi identity ",
+        {
+          "type": "math",
+          "tex": "[\\nabla,\\theta]=0",
+          "display": false
+        },
+        "."
       ],
       "zh": [
-        "且曲率 θ 满足比安基恒等式 [∇,θ] = 0。"
+        "且曲率 ",
+        {
+          "type": "math",
+          "tex": "\\theta",
+          "display": false
+        },
+        " 满足比安基恒等式 ",
+        {
+          "type": "math",
+          "tex": "[\\nabla,\\theta]=0",
+          "display": false
+        },
+        "。"
       ],
-      "units": 10
+      "units": 11
     },
     {
       "id": "ch25-u526",
@@ -9086,10 +9344,22 @@
       "page": "",
       "canonical_kind": "paragraph",
       "en": [
-        "A vector potential A is a self-adjoint operator interpreting a 1-form"
+        "A vector potential ",
+        {
+          "type": "math",
+          "tex": "A",
+          "display": false
+        },
+        " is a self-adjoint operator interpreting a 1-form"
       ],
       "zh": [
-        "矢势 A 是解释一个 1 形式的自伴算符"
+        "矢势 ",
+        {
+          "type": "math",
+          "tex": "A",
+          "display": false
+        },
+        " 是表示一个一形式的自伴算符"
       ],
       "units": 11
     },
