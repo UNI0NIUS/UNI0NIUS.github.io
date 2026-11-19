@@ -858,7 +858,21 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "This approach to Marx’s treatment of money’s emergence has been further developed in Lapavitsas 2005b, in the spirit, though not necessarily in the letter, of the Uno School (see also Itoh 1980, and Sekine 1997, and 1999). The original insight regarding the opposition between the relative and the equivalent in commodity exchange comes from the distinction between the active (‘to poioun’) and the passive (‘to paskhon’), which is fundamental to Aristotle’s philosophy (for instance, Aristotle 1926, pp. 280–1)."
+            "This approach to Marx’s treatment of money’s emergence has been further developed in Lapavitsas 2005b, in the spirit, though not necessarily in the letter, of the Uno School (see also Itoh 1980, and Sekine 1997, and 1999). The original insight regarding the opposition between the relative and the equivalent in commodity exchange comes from the distinction between the active (‘",
+            {
+              "type": "em",
+              "children": [
+                "to poioun"
+              ]
+            },
+            "’) and the passive (‘",
+            {
+              "type": "em",
+              "children": [
+                "to paskhon"
+              ]
+            },
+            "’), which is fundamental to Aristotle’s philosophy (for instance, Aristotle 1926, pp. 280–1)."
           ]
         }
       ]
@@ -1206,7 +1220,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "这种实质上的相似性给数据的分类和呈现造成了技术问题，例如图4和图5中日本时间序列的突然跳变就体现了这一点。美国数据中有更剧烈的跳变，不过此处未予报告。这些分类问题并不影响分析的要旨。"
+            "这种实质上的相似性给数据的分类和呈现造成了技术问题，例如图12.4和图12.5中日本时间序列的突然跳变就体现了这一点。美国数据中有更剧烈的跳变，不过此处未予报告。这些分类问题并不影响分析的要旨。"
           ]
         }
       ],
@@ -1416,7 +1430,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "有关这些新近发展的学术研究不多。简述见 Allen 2003，进一步描述和分析见 Porteous 2006 及 Ivatury and Pickens 2006。较新且取材更广的研究尤其关注肯尼亚 M-Pesa 的信任与运作机制，见 Morawcynski and Miscione 2008 以及 Jack and Suri 2011。"
+            "有关这些新近发展的学术研究不多。简述见 Allen 2003，进一步描述和分析见 Porteous 2006 及 Ivatury and Pickens 2006。较新且取材更广的研究尤其考察肯尼亚 M-Pesa 中的信任及其运作机制，见 Morawcynski and Miscione 2008 以及 Jack and Suri 2011。"
           ]
         }
       ],
@@ -1911,7 +1925,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "Financialisation has been stamped by the conscious management of statebacked central bank money through various mechanisms of the state. Central banks have emerged as the leading public institution in the economy, typically under the façade of independence. The command exercised by states over central bank money has made sustained intervention in the field of finance possible throughout the period of financialisation. The importance of control over state-backed credit money was demonstrated in the course of the global crisis of the 2000s."
+            "Financialisation has been stamped by the conscious management of state-backed central bank money through various mechanisms of the state. Central banks have emerged as the leading public institution in the economy, typically under the façade of independence. The command exercised by states over central bank money has made sustained intervention in the field of finance possible throughout the period of financialisation. The importance of control over state-backed credit money was demonstrated in the course of the global crisis of the 2000s."
           ]
         }
       ],
@@ -2059,7 +2073,13 @@
         "2.1 马克思货币论著的意义"
       ],
       "en": [
-        "2.1 The Significance of Marx’s Monetary Writings"
+        "2.1 ",
+        {
+          "type": "em",
+          "children": [
+            "The Significance of Marx’s Monetary Writings"
+          ]
+        }
       ],
       "source_ids": [
         "ch12-u013"
@@ -2195,7 +2215,14 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "The dismissal or one-sided reading of Marx’s monetary writings is also due to the material being inherently disorganised. Much of Marx’s advanced monetary work lies in chaotic form in part five of Volume iii of Capital. It was actually a jumble of notes that Engels found in Marx’s papers after his death, and brought to publishable form through a true labour of love. At first sight it appears to be a medley of theoretical points, empirical observations, long quotes and comments on others. To appreciate its depth it is necessary to persevere and, above all, to place it in the appropriate institutional context, including the development of monetary thought. These steps are far from common among those who comment on Marx’s theory of money."
+            "The dismissal or one-sided reading of Marx’s monetary writings is also due to the material being inherently disorganised. Much of Marx’s advanced monetary work lies in chaotic form in part five of Volume iii of ",
+            {
+              "type": "em",
+              "children": [
+                "Capital"
+              ]
+            },
+            ". It was actually a jumble of notes that Engels found in Marx’s papers after his death, and brought to publishable form through a true labour of love. At first sight it appears to be a medley of theoretical points, empirical observations, long quotes and comments on others. To appreciate its depth it is necessary to persevere and, above all, to place it in the appropriate institutional context, including the development of monetary thought. These steps are far from common among those who comment on Marx’s theory of money."
           ]
         }
       ],
@@ -2253,13 +2280,55 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "The cornerstone of Marx’s published analysis of money can be found in Volume i of Capital. Relevant points are also available in the Grundrisse, though strictly speaking the latter was not prepared for publication by Marx and appeared long after his death.",
+            "The cornerstone of Marx’s published analysis of money can be found in Volume i of",
+            {
+              "type": "em",
+              "children": [
+                " Capital"
+              ]
+            },
+            ". Relevant points are also available in the",
+            {
+              "type": "em",
+              "children": [
+                " Grundrisse"
+              ]
+            },
+            ", though strictly speaking the latter was not prepared for publication by Marx and appeared long after his death.",
             {
               "type": "note",
               "id": "n_ch12_010",
               "label": "10"
             },
-            " Equally important is the Contribution to the Critique of Political Economy, Marx’s first systematic foray into political economy, which was published almost a decade before Capital. In that work Marx put forth one of the earliest surveys of the history of monetary theory, while placing his monetary analytics in appropriate context. Command over the Contribution – and of the work of the theorists surveyed within – is a sine qua non for appreciating Marx’s monetary theory."
+            " Equally important is the",
+            {
+              "type": "em",
+              "children": [
+                " Contribution to the Critique of Political Economy"
+              ]
+            },
+            ", Marx’s first systematic foray into political economy, which was published almost a decade before",
+            {
+              "type": "em",
+              "children": [
+                " Capital"
+              ]
+            },
+            ". In that work Marx put forth one of the earliest surveys of the history of monetary theory, while placing his monetary analytics in appropriate context. Command over the",
+            {
+              "type": "em",
+              "children": [
+                " Contribution"
+              ]
+            },
+            " – and of the work of the theorists surveyed within – is a",
+            {
+              "type": "em",
+              "children": [
+                " sine qua non"
+              ]
+            },
+            " for appreciating Marx’s monetary theory."
           ]
         }
       ],
@@ -2310,7 +2379,21 @@
                 " Grundrisse"
               ]
             },
-            " (but much less the Contribution) for several decades, typically with the aim of developing the labour theory of value. In recent years, for instance, a stream of writings has emerged which treats value as abstract labour that necessarily has a monetary expression, i.e. it necessarily appears as money. The origin of this literature is ultimately Rubin’s Essays on Marx’s Theory of Value published in the Soviet Union in the 1920s. This work has had a strong influence on contemporary writings on value, for instance, through the ‘value-form’ current.",
+            " (but much less the",
+            {
+              "type": "em",
+              "children": [
+                " Contribution"
+              ]
+            },
+            ") for several decades, typically with the aim of developing the labour theory of value. In recent years, for instance, a stream of writings has emerged which treats value as abstract labour that necessarily has a monetary expression, i.e. it necessarily appears as money. The origin of this literature is ultimately Rubin’s",
+            {
+              "type": "em",
+              "children": [
+                " Essays on Marx’s Theory of Value"
+              ]
+            },
+            " published in the Soviet Union in the 1920s. This work has had a strong influence on contemporary writings on value, for instance, through the ‘value-form’ current.",
             {
               "type": "note",
               "id": "n_ch12_011",
@@ -2423,7 +2506,13 @@
         "2.2 马克思主义货币理论与新古典学派、国定论"
       ],
       "en": [
-        "2.2 Marxist Theory of Money Relative to Neoclassicism and Chartalism"
+        "2.2 ",
+        {
+          "type": "em",
+          "children": [
+            "Marxist Theory of Money Relative to Neoclassicism and Chartalism"
+          ]
+        }
       ],
       "source_ids": [
         "ch12-u022"
@@ -2730,7 +2819,14 @@
               "id": "n_ch12_023",
               "label": "23"
             },
-            " One prominent view associates money with non-economic forces of a communal character, deriving from ancient practices of recompense for damage inflicted on others, commonly known as Wergeld. This approach has had considerable influence among social scientists, though not among economists, for obvious reasons. In recent years, it has been forcefully restated by the erudite numismatist Grierson.",
+            " One prominent view associates money with non-economic forces of a communal character, deriving from ancient practices of recompense for damage inflicted on others, commonly known as",
+            {
+              "type": "em",
+              "children": [
+                " Wergeld"
+              ]
+            },
+            ". This approach has had considerable influence among social scientists, though not among economists, for obvious reasons. In recent years, it has been forcefully restated by the erudite numismatist Grierson.",
             {
               "type": "note",
               "id": "n_ch12_024",
@@ -2792,7 +2888,21 @@
               "id": "n_ch12_025",
               "label": "25"
             },
-            " Unlike the Wergeld approach, chartalism has always maintained a toehold in economics.",
+            " Unlike the",
+            {
+              "type": "em",
+              "children": [
+                " Wergeld"
+              ]
+            },
+            " approach, ",
+            {
+              "type": "em",
+              "children": [
+                "chartalism"
+              ]
+            },
+            " has always maintained a toehold in economics.",
             {
               "type": "note",
               "id": "n_ch12_026",
@@ -2930,7 +3040,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "A number of critical points can be made about the approaches to money spawned by the German Historical School. First, it is notable that their strength is also the source of their weakness. Namely, by emphasising the role of noneconomic forces in the emergence of money, theorists are led to seek the origins of money outside the process of exchange, and even outside the sphere of the economy altogether. This is deeply unsatisfactory for a phenomenon that is overwhelmingly economic and closely associated with markets. It is one thing to acknowledge that money has non-economic dimensions, but it is quite another to argue that it derives independently of economic processes."
+            "A number of critical points can be made about the approaches to money spawned by the German Historical School. First, it is notable that their strength is also the source of their weakness. Namely, by emphasising the role of non-economic forces in the emergence of money, theorists are led to seek the origins of money outside the process of exchange, and even outside the sphere of the economy altogether. This is deeply unsatisfactory for a phenomenon that is overwhelmingly economic and closely associated with markets. It is one thing to acknowledge that money has non-economic dimensions, but it is quite another to argue that it derives independently of economic processes."
           ]
         }
       ],
@@ -3069,7 +3179,14 @@
                 "chartalist"
               ]
             },
-            " view go back to Classical Political Economy. Sir James Steuart proposed a welldeveloped version of abstract value measurement shortly before Adam Smith wrote The Wealth of Nations. Steuart suggested that ‘money of account’ is an abstract numeraire that establishes ideal prices, which are then approximated in practice by ‘material money’.",
+            " view go back to Classical Political Economy. Sir James Steuart proposed a well-developed version of abstract value measurement shortly before Adam Smith wrote",
+            {
+              "type": "em",
+              "children": [
+                " The Wealth of Nations"
+              ]
+            },
+            ". Steuart suggested that ‘money of account’ is an abstract numeraire that establishes ideal prices, which are then approximated in practice by ‘material money’.",
             {
               "type": "note",
               "id": "n_ch12_032",
@@ -3138,13 +3255,34 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "Marx’s own analysis of ‘moneyness’ predates those of Neoclassicism and German Historicism. It is profoundly theoretical, though not in the individualist manner of Menger, while incorporating the broad array of money’s functions and relations that concerned the Historical School. Its finished form is found in chapter one of the first volume of Capital, where Marx proudly claimed to have been the first to have solved the riddle of the ‘dazzling money-form’.",
+            "Marx’s own analysis of ‘moneyness’ predates those of Neoclassicism and German Historicism. It is profoundly theoretical, though not in the individualist manner of Menger, while incorporating the broad array of money’s functions and relations that concerned the Historical School. Its finished form is found in chapter one of the first volume of",
+            {
+              "type": "em",
+              "children": [
+                " Capital"
+              ]
+            },
+            ", where Marx proudly claimed to have been the first to have solved the riddle of the ‘dazzling money-form’.",
             {
               "type": "note",
               "id": "n_ch12_034",
               "label": "34"
             },
-            " The Contribution had prepared the ground by examining the dialectics of use value and exchange value, while the Grundrisse had explored the historical and social role of money."
+            " The",
+            {
+              "type": "em",
+              "children": [
+                " Contribution"
+              ]
+            },
+            " had prepared the ground by examining the dialectics of use value and exchange value, while the",
+            {
+              "type": "em",
+              "children": [
+                " Grundrisse"
+              ]
+            },
+            " had explored the historical and social role of money."
           ]
         }
       ],
@@ -3196,7 +3334,14 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "The logical necessity of money’s emergence also has a historical and social dimension, most clearly discussed by Marx in the Grundrisse. To reproduce themselves, all societies must engage in internal exchange of products. However, societies in which production is organised primarily on communal and associational principles need not necessarily turn products into commodities. Customary, hierarchical, moral, political, and other mechanisms could facilitate product exchange, thus excluding money. Marx did not subscribe to Adam Smith’s fallacious abstraction of ‘primitive’ trade. Treating money as the outcome of relations of commodity exchange has nothing to do with assuming that money emerges out of a primordial state of barter."
+            "The logical necessity of money’s emergence also has a historical and social dimension, most clearly discussed by Marx in the ",
+            {
+              "type": "em",
+              "children": [
+                "Grundrisse"
+              ]
+            },
+            ". To reproduce themselves, all societies must engage in internal exchange of products. However, societies in which production is organised primarily on communal and associational principles need not necessarily turn products into commodities. Customary, hierarchical, moral, political, and other mechanisms could facilitate product exchange, thus excluding money. Marx did not subscribe to Adam Smith’s fallacious abstraction of ‘primitive’ trade. Treating money as the outcome of relations of commodity exchange has nothing to do with assuming that money emerges out of a primordial state of barter."
           ]
         }
       ],
@@ -3275,7 +3420,14 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "For Marx, however, it was not enough simply to show that money must necessarily emerge in commodity exchange. The real theoretical difficulty lies in demonstrating the process through which money emerges spontaneously. Put differently, the problem is to specify the essence of ‘moneyness’. Marx’s answer was given in chapter one of Volume i of Capital in analysis of the ‘form of value’ (to be precise, the analysis was added by Marx in the second edition). Money was shown to emerge through the dialectic of the relative and the equivalent forms of value, both of which are inherent to commodity exchange. The relative form stands for the active element, the side which commences the act of exchange; the equivalent form stands for the passive element, the side that responds.",
+            "For Marx, however, it was not enough simply to show that money must necessarily emerge in commodity exchange. The real theoretical difficulty lies in demonstrating the process through which money emerges spontaneously. Put differently, the problem is to specify the essence of ‘moneyness’. Marx’s answer was given in chapter one of Volume i of",
+            {
+              "type": "em",
+              "children": [
+                " Capital"
+              ]
+            },
+            " in analysis of the ‘form of value’ (to be precise, the analysis was added by Marx in the second edition). Money was shown to emerge through the dialectic of the relative and the equivalent forms of value, both of which are inherent to commodity exchange. The relative form stands for the active element, the side which commences the act of exchange; the equivalent form stands for the passive element, the side that responds.",
             {
               "type": "note",
               "id": "n_ch12_037",
@@ -3354,7 +3506,14 @@
               "id": "n_ch12_039",
               "label": "39"
             },
-            " However, his analysis has formidable power for several reasons. For one thing, it shows that money emerges spontaneously as well as necessarily in commodity exchange. Further, it posits the emergence of money as the outcome of the actions of the other commodities, i.e. the universal equivalent is jointly created by the collective relative. Even more crucially, Marx’s analysis pivots on the ‘formal’ aspect of ‘moneyness’. The latter is an essence that arises within the process of exchange without which no theoretical account of money’s emergence would be possible. Commodities are identical qua commodities; if one is to stand aside from all the others, it must possess some extra dimension. For Marx, the extra dimension arises solely and necessarily because of the conduct of other commodities (that is, of commodity owners). ‘Moneyness’, in other words, is not invented by the state or some other non-economic agency; it is a social construct emerging spontaneously out of commodity interactions, and therefore containing an irreducible economic content."
+            " However, his analysis has formidable power for several reasons. For one thing, it shows that money emerges spontaneously as well as necessarily in commodity exchange. Further, it posits the emergence of money as the outcome of the actions of the other commodities, i.e. the universal equivalent is jointly created by the collective relative. Even more crucially, Marx’s analysis pivots on the ‘formal’ aspect of ‘moneyness’. The latter is an essence that arises within the process of exchange without which no theoretical account of money’s emergence would be possible. Commodities are identical",
+            {
+              "type": "em",
+              "children": [
+                " qua"
+              ]
+            },
+            " commodities; if one is to stand aside from all the others, it must possess some extra dimension. For Marx, the extra dimension arises solely and necessarily because of the conduct of other commodities (that is, of commodity owners). ‘Moneyness’, in other words, is not invented by the state or some other non-economic agency; it is a social construct emerging spontaneously out of commodity interactions, and therefore containing an irreducible economic content."
           ]
         }
       ],
@@ -3412,7 +3571,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "These conclusions are a sound foundation for Marxist monetary theory, but they could also be a source of concern since they ostensibly contradict the prevalence of valueless money in contemporary capitalism. Is Marx’s theory of money capable of casting light on the salient monetary aspects of financialisation, namely the ascendancy of private credit money, the pivotal role of statebacked central bank money, and the emergence of the dollar as quasi-worldmoney? The answer is in the affirmative, provided the functions of money are brought to the fore.",
+            "These conclusions are a sound foundation for Marxist monetary theory, but they could also be a source of concern since they ostensibly contradict the prevalence of valueless money in contemporary capitalism. Is Marx’s theory of money capable of casting light on the salient monetary aspects of financialisation, namely the ascendancy of private credit money, the pivotal role of state-backed central bank money, and the emergence of the dollar as quasi-world-money? The answer is in the affirmative, provided the functions of money are brought to the fore.",
             {
               "type": "note",
               "id": "n_ch12_040",
@@ -3450,7 +3609,13 @@
         "3.1 法定货币"
       ],
       "en": [
-        "3.1 Fiat Money"
+        "3.1 ",
+        {
+          "type": "em",
+          "children": [
+            "Fiat Money"
+          ]
+        }
       ],
       "source_ids": [
         "ch12-u050"
@@ -3708,7 +3873,13 @@
         "3.2 私人信用货币与国家支持的中央银行货币"
       ],
       "en": [
-        "3.2 Private Credit Money and State-Backed Central Bank Money"
+        "3.2 ",
+        {
+          "type": "em",
+          "children": [
+            "Private Credit Money and State-Backed Central Bank Money"
+          ]
+        }
       ],
       "source_ids": [
         "ch12-u058"
@@ -3937,7 +4108,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "只有国家才能最终割断商品货币与资本主义流通之间的联系。典型做法是由国家取消中央银行负债兑换货币商品的权利。现代史上，此举由英国政府在1914年第一次世界大战爆发时率先以决定性的方式实施。",
+            "只有国家才能最终割断商品货币与资本主义流通之间的联系。典型做法是由国家停止中央银行负债兑换为货币商品。现代史上，英国政府于1914年第一次世界大战爆发时在这方面采取了决定性的措施。",
             {
               "type": "note",
               "id": "n_ch12_051",
@@ -4168,7 +4339,13 @@
         "4.1 私人信用货币采取电子形式"
       ],
       "en": [
-        "4.1 Private Credit Money Takes Electronic Form"
+        "4.1 ",
+        {
+          "type": "em",
+          "children": [
+            "Private Credit Money Takes Electronic Form"
+          ]
+        }
       ],
       "source_ids": [
         "ch12-u073"
@@ -4249,7 +4426,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "由此可考察20世纪90年代中期到2000年代中期非现金交易的变化。图1、2、3和4分别显示信用卡或借记卡、支票、贷记转账及直接借记占非现金交易总笔数的比例。"
+            "由此可考察20世纪90年代中期到2000年代中期非现金交易的变化。图12.1、12.2、12.3和12.4分别显示信用卡或借记卡、支票、贷记转账及直接借记占非现金交易总笔数的比例。"
           ]
         }
       ],
@@ -4265,7 +4442,8 @@
       "source_ids": [
         "ch12-u076"
       ],
-      "page": "283"
+      "page": "283",
+      "review": "本书英文正文沿用图1至图10，图题编为图12.1至图12.10。译文采用图题编号。"
     },
     {
       "id": "ch12-fig-01",
@@ -4556,7 +4734,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "现在再考察信用卡或借记卡、支票、贷记转账和直接借记占非现金交易总金额的比例，见图5、6、7和8。四国在这方面的差异要小得多（美国数据的突然跳变反映的是分类变化，货币的实际使用并未发生相应的突变）。非现金交易绝大部分金额经由银行账户之间的付款指令流转，美国仍偏好支票这种书面指令。不过，纸质指令的使用仍已开始减少。与此同时，用卡有所增加，尽管经由卡支付的金额只占总量的一小部分。"
+            "现在再考察信用卡或借记卡、支票、贷记转账和直接借记占非现金交易总金额的比例，见图12.5、12.6、12.7和12.8。四国在这方面的差异要小得多（美国数据的突然跳变反映的是分类变化，货币的实际使用并未发生相应的突变）。非现金交易绝大部分金额经由银行账户之间的付款指令流转，美国仍偏好支票这种书面指令。不过，纸质指令的使用仍已开始减少。与此同时，用卡有所增加，尽管经由卡支付的金额只占总量的一小部分。"
           ]
         }
       ],
@@ -4832,7 +5010,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "在这一时期，接入型电子货币很可能对总体盈利能力产生了显著影响，不过幅度难以估量。对银行来说，它使“实时”交易结算更便宜、更便捷。可以推测，它也可能缩短了产业资本和商业资本的周转时间，从而提高盈利能力。在其他条件相同的情况下，企业还可以持有较少的货币储备，盈利能力因而进一步提高。更一般地说，接入型电子货币的普及可能加快了金融机构的运作，从而推动金融化。不过，接入型电子货币在非现金交易中地位的上升，并没有导致现金交易减少。图9显示了银行券与铸币的使用情况。"
+            "在这一时期，接入型电子货币很可能对总体盈利能力产生了显著影响，不过幅度难以估量。对银行来说，它使“实时”交易结算更便宜、更便捷。可以推测，它也可能缩短了产业资本和商业资本的周转时间，从而提高盈利能力。在其他条件相同的情况下，企业还可以持有较少的货币储备，盈利能力因而进一步提高。更一般地说，接入型电子货币的普及可能加快了金融机构的运作，从而推动金融化。不过，接入型电子货币在非现金交易中地位的上升，并没有导致现金交易减少。图12.9显示了银行券与铸币的使用情况。"
           ]
         }
       ],
@@ -4858,7 +5036,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "同样，四国间存在反映历史、制度和文化因素的显著差异。日本和德国通常比美国和英国更多使用现金，不过德国马克由欧元取代，影响了德国数据。图9中最引人注目的是，在整个时期内，所有国家都持续使用现金。在日本，现金使用实际上大幅增加，不过这可能与20世纪90年代和2000年代长期的金融不稳定，以及中央银行为此采取的量化宽松政策有关，第4.3节将进一步讨论。"
+            "同样，四国间存在反映历史、制度和文化因素的显著差异。日本和德国通常比美国和英国更多使用现金，不过德国马克由欧元取代，影响了德国数据。图12.9中最引人注目的是，在整个时期内，所有国家都持续使用现金。在日本，现金使用实际上大幅增加，不过这可能与20世纪90年代和2000年代长期的金融不稳定，以及中央银行为此采取的量化宽松政策有关，第4.3节将进一步讨论。"
           ]
         }
       ],
@@ -4890,7 +5068,7 @@
               "id": "n_ch12_058",
               "label": "58"
             },
-            "看似矛盾的是，现金的持续使用部分是接入型电子货币普及带来的意外结果。银行广泛布设自动柜员机，为使用借记卡和信用卡提供便利，获取小额现金也随之变得更容易、可以更频繁。因此，恰当的问题是：为何流通中对银行券和铸币的需求仍很旺盛？以下三个因素很重要，也有助于阐明货币在金融化资本主义中的作用。"
+            "看似矛盾的是，现金的持续使用部分是接入型电子货币普及带来的意外结果。银行广泛布设自动柜员机，为使用借记卡和信用卡提供便利，也使人们能更方便、更频繁地提取小额现金。因此，恰当的问题是：为何流通中对银行券和铸币的需求仍很旺盛？以下三个因素很重要，也有助于阐明货币在金融化资本主义中的作用。"
           ]
         }
       ],
@@ -5096,7 +5274,13 @@
         "4.2 严格意义上的电子货币：金融化资本主义的一种新货币形式"
       ],
       "en": [
-        "4.2 E-Money Proper: A New Form of Money in Financialised Capitalism"
+        "4.2 ",
+        {
+          "type": "em",
+          "children": [
+            "E-Money Proper: A New Form of Money in Financialised Capitalism"
+          ]
+        }
       ],
       "source_ids": [
         "ch12-u089"
@@ -5277,7 +5461,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "这一复杂的监管框架支持了人们对使用此类货币的信任，因而提高了它的可接受性。然而，严格意义上的电子货币在发达国家的普及程度有限，甚至无须列入上图对货币流通的数量描述。普及有限还因为规定要求人们最初必须用普通货币按面值购买这种电子货币，这使它不适合企业间的大额交易。监管使它只能停留在小额货币的范围，主要在个人收入流通中充当交换手段和贮藏手段。在这个领域，既有货币形式的优势，尤其是银行券和铸币的优势，严重限制了它。"
+            "这一复杂的监管框架支持了人们对使用此类货币的信任，因而提高了它的可接受性。然而，严格意义上的电子货币在发达国家的普及程度有限，前文各图对货币流通所作的量化描述甚至没有提及它。普及有限还因为规定要求人们最初必须用普通货币按面值购买这种电子货币，这使它不适合企业间的大额交易。监管使它只能停留在小额货币的范围，主要在个人收入流通中充当交换手段和贮藏手段。在这个领域，既有货币形式的优势，尤其是银行券和铸币的优势，严重限制了它。"
           ]
         }
       ],
@@ -5286,7 +5470,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "This complex regulatory framework has strengthened the acceptability of e-money proper by supporting trust in its use. Nonetheless, the spread of emoney proper has been limited in developed countries, not even meriting reference in the quantitative description of circulation in the figures given above. Limited spread is also due to the stipulation that e-money proper must be initially purchased at par with ordinary money, which makes it unsuitable for large transactions among enterprises. Regulation has forced e-money proper to remain small-scale money, functioning primarily as means of exchange and hoarding in the circulation of individual income. In that domain it has been heavily constrained by the strength of incumbent forms of money, particularly banknotes and coin."
+            "This complex regulatory framework has strengthened the acceptability of e-money proper by supporting trust in its use. Nonetheless, the spread of e-money proper has been limited in developed countries, not even meriting reference in the quantitative description of circulation in the figures given above. Limited spread is also due to the stipulation that e-money proper must be initially purchased at par with ordinary money, which makes it unsuitable for large transactions among enterprises. Regulation has forced e-money proper to remain small-scale money, functioning primarily as means of exchange and hoarding in the circulation of individual income. In that domain it has been heavily constrained by the strength of incumbent forms of money, particularly banknotes and coin."
           ]
         }
       ],
@@ -5329,7 +5513,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "值得注意的是，金融化资本主义内部的技术和制度变化所带来的自发创造货币的可能性，在发展中国家表现得更充分。严格意义上的电子货币在非洲和亚洲的一批国家兴起，尤其依托电信企业。在发展中国家，移动通信的普及为电子货币的可接受性及其“货币性”奠定了基础。通常，手机用户先支付普通货币购得这类电子货币，以电子单位持有，再通过简单的消息传递。这类电子货币还有相关形式，如“刮刮卡”，即购买附有数字代码的卡以获得电子单位，之后可以用手机消息转移。电信公司也开始允许手机用户将预付通话时长单位用于与电信无关的各种支付。",
+            "值得注意的是，金融化资本主义内部的技术和制度变化所带来的自发创造货币的可能性，在发展中国家表现得更充分。严格意义上的电子货币在非洲和亚洲的一批国家兴起，尤其依托电信企业。在发展中国家，移动通信的普及为电子货币的可接受性及其“货币性”奠定了基础。通常，手机用户先支付普通货币购得这类电子货币，以电子单位持有，再通过简单的消息传递。这类电子货币还有相关形式，如“刮刮卡”，即购买附有数字代码的卡以获得电子单位，之后可以用手机消息转移。电信公司也开始允许手机用户将预付话费额度用于与电信无关的各种支付。",
             {
               "type": "note",
               "id": "n_ch12_064",
@@ -5374,7 +5558,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "Vital in this respect has been the relative weakness of financial systems in developing countries, particularly their limited geographical and economic penetration across the economy, which has reduced the strength of incumbent forms of credit money. In developing countries, access to formal bank accounts is often restricted by physical absence of bank branches, high settingup costs and prohibitive minimum balances. Furthermore, for low-income countries that rely on emigrant remittances, the costs of money transmission through formal financial channels can be prohibitive. Informal mechanisms, on the other hand, could entail significant risks and social obligations."
+            "Vital in this respect has been the relative weakness of financial systems in developing countries, particularly their limited geographical and economic penetration across the economy, which has reduced the strength of incumbent forms of credit money. In developing countries, access to formal bank accounts is often restricted by physical absence of bank branches, high setting-up costs and prohibitive minimum balances. Furthermore, for low-income countries that rely on emigrant remittances, the costs of money transmission through formal financial channels can be prohibitive. Informal mechanisms, on the other hand, could entail significant risks and social obligations."
           ]
         }
       ],
@@ -5501,7 +5685,13 @@
         "4.3 金融化高峰时期国家支持的中央银行货币"
       ],
       "en": [
-        "4.3 State-Backed Central Bank Money at the Peak of Financialisation"
+        "4.3 ",
+        {
+          "type": "em",
+          "children": [
+            "State-Backed Central Bank Money at the Peak of Financialisation"
+          ]
+        }
       ],
       "source_ids": [
         "ch12-u101"
@@ -5518,7 +5708,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "国内无价值货币中，最后一项需要仔细考察的是存放在中央银行的银行准备金。如第3.2节所述，银行准备金是国家支持的信用货币的最重要组成部分，也是国家干预金融领域所依托的支点。下文以图10为基础，简要讨论2007年危机前四国银行准备金的变动。考虑到其中涉及的信用过程很复杂，此处的分析所能得出的结论有限。不过，它可以为进一步讨论中央银行业务和国家干预奠定基础。"
+            "国内无价值货币中，最后一项需要仔细考察的是存放在中央银行的银行准备金。如第3.2节所述，银行准备金是国家支持的信用货币的最重要组成部分，也是国家干预金融领域所依托的支点。下文以图12.10为基础，简要讨论2007年危机前四国银行准备金的变动。考虑到其中涉及的信用过程很复杂，此处的分析所能得出的结论有限。不过，它可以为进一步讨论中央银行业务和国家干预奠定基础。"
           ]
         }
       ],
@@ -5715,7 +5905,14 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "Marx discussed the concept of world money briefly in the first volume of Capital, treating it as part of the composite function of money ‘as money’ which also comprises means of hoarding and means of payment.",
+            "Marx discussed the concept of world money briefly in the first volume of ",
+            {
+              "type": "em",
+              "children": [
+                "Capital"
+              ]
+            },
+            ", treating it as part of the composite function of money ‘as money’ which also comprises means of hoarding and means of payment.",
             {
               "type": "note",
               "id": "n_ch12_067",
@@ -5738,7 +5935,7 @@
           "type": "block",
           "kind": "quote",
           "children": [
-            "世界货币充当一般支付手段、一般购买手段以及财富本身（一般财富）的绝对社会物质化。其主要职能是在结算国际差额时充当支付手段。",
+            "世界货币充当一般支付手段、一般购买手段以及财富本身（一般财富）的绝对社会化身。其主要职能是在结算国际差额时充当支付手段。",
             {
               "type": "note",
               "id": "n_ch12_068",
@@ -5853,7 +6050,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "第三，也正因如此，持有世界货币是世界市场参与者行使权力的手段。拥有世界货币使他们能在关键时刻支付并转移价值，进而塑造潜在的价值创造和流通过程。"
+            "第三，也正因如此，持有世界货币是世界市场参与者行使权力的手段。拥有世界货币使他们能在关键时刻支付并转移价值，进而塑造价值创造和流通的基础过程。"
           ]
         }
       ],
@@ -6053,7 +6250,7 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "基于这些原因，世界货币必须起到协调或组织世界市场的作用，也就是说，必须为国际资本和各国政府普遍接受为贮藏手段（储备）和支付手段。要履行这些任务，它也必须充当公认的价值尺度，适用于计量商品和过去形成的债务义务。最后，它必须有助于国家之间政治和军事权力的行使，体现国家对世界市场的有意识干预。"
+            "基于这些原因，世界货币必须起到协调或组织世界市场的作用，也就是说，必须成为国际资本和各民族国家普遍接受的贮藏手段（储备）和支付手段。要履行这些任务，它也必须充当公认的价值尺度，适用于计量商品和先前形成的义务。最后，它必须有助于国家之间政治和军事权力的行使，体现国家对世界市场的有意识干预。"
           ]
         }
       ],
@@ -6105,7 +6302,14 @@
           "type": "block",
           "kind": "paragraph",
           "children": [
-            "The complexity of the role of world money is clear when one turns to Marx’s analysis of the concrete monetary and commercial conditions of his era, found in several chapters of part five of the third volume of Capital.",
+            "The complexity of the role of world money is clear when one turns to Marx’s analysis of the concrete monetary and commercial conditions of his era, found in several chapters of part five of the third volume of",
+            {
+              "type": "em",
+              "children": [
+                " Capital"
+              ]
+            },
+            ".",
             {
               "type": "note",
               "id": "n_ch12_073",
