@@ -1,0 +1,59 @@
+{
+  "id": "translit",
+  "title": "关于转写与翻译的说明",
+  "originalTitle": "NOTE ON TRANSLITERATION AND TRANSLATION",
+  "outline": [],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "translit-title",
+      "source_ids": [
+        "translit-title"
+      ],
+      "page": "xvii",
+      "canonical_kind": "chapter_heading",
+      "en": [],
+      "zh": [],
+      "units": 1
+    },
+    {
+      "id": "translit-p001",
+      "source_ids": [
+        "translit-p001"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "Japanese-language words in the text are transliterated in the modified Hepburn system, except for the place-names Tokyo and Osaka. The default system for Chinese-language words is Hanyu Pinyin. However, Taiwanese personal and place-names that are commonly transliterated in Wade-Giles or other non-Pinyin systems have been left as I have found them. There is no standard system for transliterating Austronesian personal names. Where possible, I have followed usage from Chou Wan-yao’s ",
+        {
+          "type": "em",
+          "children": [
+            "New Illustrated History of Taiwan"
+          ]
+        },
+        ". Korean words are romanized in the reformed system. The McCune-Reischauer system is used for names of authors and publications that are cataloged under this system."
+      ],
+      "zh": [
+        "正文中的日语词采用修订赫本式罗马字，地名东京（Tokyo）和大阪（Osaka）除外。汉语词一般采用汉语拼音。台湾人名和地名若通常用威妥玛式或其他非汉语拼音系统转写，我保留其通行写法。南岛语人名没有统一转写法，我尽可能沿用周婉窈《台湾历史图说》英译本（A New Illustrated History of Taiwan）的拼写。朝鲜语词采用修订罗马字。作者姓名和出版物题名若按麦坎—赖肖尔式编目，则沿用这种拼法。"
+      ],
+      "units": 100
+    },
+    {
+      "id": "translit-p002",
+      "source_ids": [
+        "translit-p002"
+      ],
+      "page": "",
+      "canonical_kind": "paragraph",
+      "en": [
+        "All translations from Japanese sources are by the author unless otherwise indicated. Chinese translations are the author’s adaptations of translations by research assistants Wu Haotian, Linda Yu, Li Guo, Sun Xiaofei, and Ning Jing."
+      ],
+      "zh": [
+        "除另有说明外，日语资料均由作者翻译。汉语资料的英译由作者根据研究助理吴昊天（Wu Haotian）、琳达·余（Linda Yu）、李果（Li Guo）、孙晓飞（Sun Xiaofei）和宁静（Ning Jing）的译稿改订。"
+      ],
+      "units": 34
+    }
+  ],
+  "notes": {}
+}

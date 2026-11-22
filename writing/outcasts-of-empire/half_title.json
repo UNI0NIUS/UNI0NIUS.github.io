@@ -1,0 +1,42 @@
+{
+  "id": "half_title",
+  "title": "半书名页",
+  "originalTitle": "Half Title",
+  "outline": [],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "half-title-01",
+      "source_ids": [
+        "half-title-01"
+      ],
+      "page": "",
+      "canonical_kind": "half_title",
+      "en": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "Outcasts of Empire"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "half_title",
+          "children": [
+            "帝国的弃民"
+          ],
+          "centered": true,
+          "indented": false
+        }
+      ],
+      "units": 3
+    }
+  ],
+  "notes": {}
+}

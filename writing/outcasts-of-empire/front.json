@@ -1,0 +1,70 @@
+{
+  "id": "front",
+  "title": "版本说明与原书封面",
+  "originalTitle": "Edition Notice and Original Cover",
+  "outline": [],
+  "sourceLanguage": "en",
+  "sourceLanguageLabel": "English",
+  "body": [
+    {
+      "id": "edition-notice",
+      "source_ids": [
+        "edition-notice"
+      ],
+      "page": "",
+      "canonical_kind": "notice",
+      "en": [
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "This reading edition follows the 2018 University of California Press edition. Page numbers follow the original edition. In-text note numbers link to the original endnotes. Editorial notes identify selected discrepancies in dates, figure numbers, and names. Translation and editing were assisted by AI. Rights in the original work remain with their holders."
+          ],
+          "centered": false,
+          "indented": false
+        }
+      ],
+      "zh": [
+        {
+          "type": "block",
+          "kind": "notice",
+          "children": [
+            "据加利福尼亚大学出版社 2018 年版校订。所标页码沿用原书。正文注号指向原注。个别原书年代、图号和专名的校核以校注标明。翻译与校订使用了 AI 辅助。原著权利归原权利人。"
+          ],
+          "centered": false,
+          "indented": false
+        }
+      ],
+      "units": 52
+    },
+    {
+      "id": "original-cover",
+      "source_ids": [
+        "original-cover"
+      ],
+      "page": "",
+      "canonical_kind": "figure",
+      "en": [
+        "Original cover"
+      ],
+      "zh": [
+        "原书封面"
+      ],
+      "type": "figure",
+      "src": "/writing/outcasts-of-empire/assets/original-cover.png",
+      "imageWidth": 864,
+      "imageHeight": 1296,
+      "sharedFigure": true,
+      "linkImage": true,
+      "parallelFigureCaption": [
+        "Original cover",
+        {
+          "type": "break"
+        },
+        "原书封面"
+      ],
+      "units": 2
+    }
+  ],
+  "notes": {}
+}
