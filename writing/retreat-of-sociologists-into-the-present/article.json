@@ -1,0 +1,1203 @@
+{
+  "id": "article",
+  "title": "诺贝特·埃利亚斯一文（1987）：《社会学家退守当下》",
+  "originalTitle": "Un texte de Norbert Elias (1987) : « The Retreat of Sociologists into the Present »",
+  "sourceLanguage": "fr",
+  "body": [
+    {
+      "id": "retreat-of-sociologists-into-the-present-source",
+      "type": "paragraph",
+      "zh": [
+        "据《Genèses》第 52 期（2003）第 133–151 页法译刊本校订。原作诺贝特·埃利亚斯，法译塞巴斯蒂安·肖万，导言弗洛朗丝·韦伯。正文所说的“今天”依作者 1987 年的写作语境。原著、法译与导言的权利归原权利人。中文翻译与校订使用了 AI 辅助。 ",
+        {
+          "type": "link",
+          "url": "https://www.jstor.org/stable/26202819",
+          "children": [
+            "原刊记录"
+          ]
+        }
+      ],
+      "en": [
+        "Édition de lecture d’après Genèses, n° 52, 2003, p. 133–151. Texte de Norbert Elias, traduit de l’anglais par Sébastien Chauvin et présenté par Florence Weber. Les droits du texte original, de la traduction française et de la présentation appartiennent à leurs ayants droit. ",
+        {
+          "type": "link",
+          "url": "https://www.jstor.org/stable/26202819",
+          "children": [
+            "Journal record"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elias-preface-heading",
+      "type": "heading",
+      "zh": [
+        "导言　弗洛朗丝·韦伯",
+        {
+          "type": "note",
+          "id": "elias-note-preface",
+          "label": "*"
+        }
+      ],
+      "en": [
+        "Présenté par Florence Weber",
+        {
+          "type": "note",
+          "id": "elias-note-preface",
+          "label": "*"
+        }
+      ],
+      "page": "133"
+    },
+    {
+      "id": "elias-preface-01",
+      "type": "paragraph",
+      "zh": [
+        "为什么今天还要翻译诺贝特·埃利亚斯最著名的文章之一？乍看之下，它在法国社会科学中似乎已经充分发挥了作用。十五年来，法国社会科学界早已习惯于社会学与历史学的种种交会。早在1983年，埃利亚斯就呼吁社会学家进入历史研究。此后，无论自称从事历史社会学还是社会历史研究（",
+        {
+          "type": "em",
+          "children": [
+            "socio-histoire"
+          ]
+        },
+        "），社会学家都已投身对过去的研究。历史学家也广泛运用社会学概念。《Genèses》充分参与了这些动向。这些动向在一定张力中相互汇合，使学科之间的边界更加开放。说来，社会学家与历史学家只是在延续一场对话。早在两次世界大战之间的法国，这场对话就随着《年鉴》的创办进入了成熟阶段，却被第二次世界大战打断。此后，与历史学对话更多的是人类学，社会学退居其次。我们知道埃利亚斯（1897–1990）有一段非同寻常的经历。他直到20世纪80年代才为同行所发现，早年在两次大战之间的德国社会学传统中受训，后来被排斥在世界学术舞台之外。他身处边缘，却始终忠于自己在20世纪30年代奠定的研究事业，因此得以清醒地看待冷战时期社会学家之间的冲突。这也解释了他的文章何以至今仍出人意料地切合时局。这些文字全写于柏林墙倒塌之前，却仍帮助我们思考这个经历了巨变的世界。"
+      ],
+      "en": [
+        "Pourquoi traduire aujourd’hui l’un des textes les plus célèbres de Norbert Elias ? À première vue, il semble qu’il ait déjà produit tous ses effets dans les sciences sociales françaises, habituées depuis quinze ans à différents croisements entre sociologie et histoire. Comme les y invitait N. Elias dès 1983, les sociologues ont investi le passé, qu’ils se réclament d’une sociologie historique ou d’une socio-histoire, tandis que les historiens, de leur côté, faisaient un large usage des concepts de la sociologie. Genèses a pris toute sa part dans ces mouvements qui convergent, non sans certaines tensions, vers une plus grande porosité entre les disciplines. À vrai dire, sociologues et historiens n’ont fait que reprendre un dialogue déjà arrivé à sa pleine maturité dans la France de l’entre-deux-guerres, avec la naissance des Annales, mais interrompu par la Seconde Guerre mondiale, après laquelle l’histoire a conversé avec l’anthropologie plus qu’avec la sociologie. On connaît la trajectoire singulière de N. Elias (1897-1990) : découvert par ses pairs dans les années 1980, c’est un rescapé de cet entre-deux-guerres, formé dans la tradition de la sociologie allemande puis écarté de la scène académique mondiale. Cette marginalité ainsi que sa fidélité à son œuvre forgée dans les années 1930 expliquent sa lucidité sur les conflits qui opposèrent les sociologues entre eux pendant la guerre froide. Elles expliquent aussi l’étonnante actualité de ses textes, tous écrits avant la chute du mur de Berlin, mais qui nous aident encore aujourd’hui à réfléchir sur un monde bouleversé."
+      ],
+      "page": "133"
+    },
+    {
+      "id": "elias-preface-02",
+      "type": "paragraph",
+      "zh": [
+        "在法国，历史学家和社会学家都广泛翻译、评介埃利亚斯的著作，他的著作也促使两者走近。但有一面很少得到讨论，因为它令双方都感到棘手。埃利亚斯明确主张建立动态模型，历史学家往往从中看到一种天真的进化论。这确实是严格意义上的建模，即构造一个连贯的理论模型，再用人类历史中的经验材料对照检验这个模型。这种建模关注的是过程，即处在运动中的诸种构型。所有人的相互依赖只有偶然才会产生稳定，无论是社会或政治上的稳定，还是地方、国家或全球层面的稳定。机械意义上的因果关系在这个模型中并不起作用。"
+      ],
+      "en": [
+        "L’œuvre d’Elias est largement traduite et commentée en français, par des historiens et des sociologues qu’elle contribue à rapprocher. Un de ses aspects est pourtant largement passé sous silence, parce qu’il gêne les uns et les autres : c’est sa volonté affichée d’une modélisation dynamique, où les historiens voient volontiers un évolutionnisme naïf. Il s’agit bien d’une modélisation au sens fort du terme : modèle théorique cohérent à confronter avec des données empiriques issues de l’histoire de l’humanité. Cette modélisation ne fait pas intervenir une causalité au sens mécanique du terme mais des processus, c’est-à-dire des configurations en mouvement, dans lesquels l’interdépendance de tous ne produit de la stabilité (sociale, politique, locale, nationale, mondiale) que par accident."
+      ],
+      "page": "133"
+    },
+    {
+      "id": "elias-preface-03",
+      "type": "paragraph",
+      "zh": [
+        "埃利亚斯早年学过医学，也乐于承认自己得益于奥古斯特·孔德。他持有一种近乎科学主义的社会科学观念。他将自己的工作看作一个通才的事业，意在提出一种社会的一般理论。事实上，他确实统一了若干在他之前被视为彼此竞争多于互补的理论。在下文提到的四项基本功能背后，我们可以看到卡尔·马克思的研究，尽管埃利亚斯批评他把经济功能置于首位。我们也可以看到马克斯·韦伯的研究，埃利亚斯沿用了他关于群体内部（国家）及群体之间（战争）的暴力控制理论。埃利亚斯也承继了卡尔·曼海姆对知识社会学的重视，这里的知识可以是宗教，也可以是科学。最后，他从西格蒙德·弗洛伊德那里引入了自我约束的概念及对教育的关切。我们今天也许更愿意称之为早期教养或社会化。确切地说，埃利亚斯继承了十九世纪和二十世纪前期整个德国社会学传统，并与法国社会学及英美人类学保持距离。他借助弗洛伊德而非马塞尔·莫斯或伊尼亚斯·梅耶松来理解社会化与集体心理之间的关联，便可见一斑。他也全然没有那种会使比较研究无从开展的文化相对主义倾向。"
+      ],
+      "en": [
+        "Ancien étudiant en médecine et reconnaissant volontiers sa dette à Auguste Comte, N. Elias défend une conception presque scientiste des sciences sociales. Il conçoit son œuvre comme celle d’un généraliste — comme une sorte de théorie générale de la société — et, de fait, il réussit à unifier des théories présentées avant lui comme plus concurrentes que complémentaires. Sous les quatre fonctions élémentaires qu’il évoque dans le texte ci-dessous, on peut retrouver l’œuvre de Karl Marx, dont il critique pourtant le primat accordé aux fonctions économiques, celle de Max Weber dont il reprend la théorie du contrôle de la violence, à l’intérieur des groupes (l’État) comme entre les groupes (la guerre), celle de Karl Mannheim dont il reprend l’insistance sur la sociologie de la connaissance (qu’il s’agisse de religion ou de science), celle de Sigmund Freud enfin d’où il tire la notion d’auto-contrainte et l’intérêt pour l’éducation — nous dirions plutôt prime éducation ou encore socialisation. C’est bien de toute la sociologie allemande du XIXᵉ siècle et du premier XXᵉ siècle qu’Elias est l’héritier, alors qu’il se tient à distance de la sociologie française et de l’anthropologie anglaise et américaine, comme le montrent ses références à S. Freud plutôt qu’à Marcel Mauss ou à Ignace Meyerson pour comprendre les liens entre socialisation et psychologie collective, comme le montre également son absence totale de relativisme culturaliste qui lui interdit la démarche comparative."
+      ],
+      "page": "133–134"
+    },
+    {
+      "id": "elias-preface-04",
+      "type": "paragraph",
+      "zh": [
+        "为历史过程建模，对社会学来说是一种前途可期的新抱负，还是倒退到社会科学的童年，回到孔德或马克思式的历史哲学？除了从中得到一些无法实际应用的思考材料，有哪些经验研究能够以如此广阔的人类历史视野为依据？埃利亚斯的构型社会学有两个面向。其一是民族志的面向，关注过程如何像连锁反应一样自行生成，并从内部改变人们所处的情境，形成恶性或良性循环。其二是宏观历史的面向，勾画经济、国家、知识与社会化如何共同演变。第一个面向启发了他关于当代社会的《排斥的逻辑》，也启发了他关于过去的《宫廷社会》。第二个面向启发了《文明的进程》这一宏大综合，即《文明的风俗》和《西方的动力》，也启发了一些局部的综合研究，例如关于体育或两性之间权力均衡的研究。分析相互依赖有这两个尺度。一个限于彼此认识的人，或至少限于在同一时空中共处的人。另一个从史前的世代链条一直延伸到全球相互依赖的链条。两种尺度之间的张力无疑是这个模型的弱点，也构成了它启发思考的力量。"
+      ],
+      "en": [
+        "Modéliser les processus historiques : s’agit-il là d’une ambition neuve et pleine d’avenir pour la sociologie ou, au contraire, d’une régression vers un stade infantile des sciences sociales, la philosophie de l’histoire d’un Comte ou d’un Marx ? Quels travaux empiriques peuvent-ils se réclamer d’une vision aussi large de l’histoire de l’humanité sinon pour y trouver matière à réflexion sans application possible ? La sociologie configurationnelle d’Elias a deux faces : une face ethnographique, attentive aux processus qui s’autoengendrent en une sorte de réaction en chaîne et transforment les situations de l’intérieur (en cercle vicieux ou en cercle vertueux) ; une face macrohistorique, qui dresse les grandes lignes de la coévolution de l’économie, de l’État, de la connaissance et de la socialisation. La première inspire des ouvrages sur la société contemporaine (",
+        {
+          "type": "em",
+          "children": [
+            "Logiques de l’exclusion"
+          ]
+        },
+        ") comme sur le passé (",
+        {
+          "type": "em",
+          "children": [
+            "La Société de cour"
+          ]
+        },
+        ") ; la seconde inspire la grande synthèse du ",
+        {
+          "type": "em",
+          "children": [
+            "Procès de civilisation"
+          ]
+        },
+        " (",
+        {
+          "type": "em",
+          "children": [
+            "La Civilisation des mœurs"
+          ]
+        },
+        " et ",
+        {
+          "type": "em",
+          "children": [
+            "La Dynamique de l’Occident"
+          ]
+        },
+        ") et des synthèses partielles, comme sur le sport ou sur l’équilibre du pouvoir entre les sexes. La tension entre ces deux échelles d’analyse des interdépendances, l’une réduite à l’interconnaissance ou du moins à la coprésence dans l’espace et le temps, l’autre étendue à la chaîne des générations depuis la préhistoire et à la chaîne des interdépendances mondiales, fait sans nul doute la faiblesse du modèle mais aussi sa force de suggestion."
+      ],
+      "page": "134"
+    },
+    {
+      "id": "elias-main-heading",
+      "type": "heading",
+      "zh": [
+        "社会学家退守当下",
+        {
+          "type": "note",
+          "id": "elias-note-1",
+          "label": "1"
+        }
+      ],
+      "en": [
+        "Le repli des sociologues dans le présent",
+        {
+          "type": "note",
+          "id": "elias-note-1",
+          "label": "1"
+        }
+      ],
+      "page": "135"
+    },
+    {
+      "id": "elias-section-i",
+      "type": "heading",
+      "zh": [
+        "I"
+      ],
+      "en": [
+        "I"
+      ],
+      "page": "135"
+    },
+    {
+      "id": "elias-i-01",
+      "type": "paragraph",
+      "zh": [
+        "社会学家退守当下，很少受到关注。这种退守，这种对过去的逃避，在第二次世界大战后成了社会学的主导趋势。它与学科本身的发展一样，大体是无意间形成的。"
+      ],
+      "en": [
+        "On a peu prêté attention au repli des sociologues dans le présent. Ce retrait, cette fuite hors du passé, est devenu la tendance dominante de la sociologie après la Seconde Guerre mondiale et, tout comme le développement de la discipline elle-même, ne fut pas, pour l’essentiel, le fruit d’un projet conscient."
+      ],
+      "page": "135"
+    },
+    {
+      "id": "elias-i-02",
+      "type": "paragraph",
+      "zh": [
+        "回想早先几代社会学家的工作，就能清楚地看到这的确是一种退守。他们试图阐明人类社会的问题，尤其是自己所处时代的问题，依靠的是对本社会的过去及其他社会早期阶段的广博了解。马克思和韦伯处理社会学问题的方式可以作为例证。马克思把自己的时代呈现为介于过去与种种可能未来之间的一个阶段，借此突出他认为当时最迫切的问题。韦伯也一再从过去的时代以及处于较早发展阶段的社会取证，以阐明一般的社会学问题。"
+      ],
+      "en": [
+        "On peut voir clairement qu’il s’agit d’un repli si l’on songe à la manière dont les sociologues des générations antérieures pour tenter d’éclairer les problèmes des sociétés humaines, notamment ceux de leur propre époque, s’étaient appuyés sur une large connaissance du passé de leur société et des phases antérieures d’autres sociétés. Les approches concernant les problèmes sociologiques de Marx et de Weber, peuvent servir d’exemples. Marx essaya de mettre en relief ce qu’il considérait comme le problème le plus impérieux de son temps en présentant sa propre époque comme une étape entre le passé et des futurs possibles. Weber tenta à plusieurs reprises de clarifier des problèmes sociologiques généraux au moyen de preuves empruntées aux époques passées comme aux sociétés parvenues à un stade de développement antérieur."
+      ],
+      "page": "135"
+    },
+    {
+      "id": "elias-section-ii",
+      "type": "heading",
+      "zh": [
+        "II"
+      ],
+      "en": [
+        "II"
+      ],
+      "page": "135"
+    },
+    {
+      "id": "elias-ii-01",
+      "type": "paragraph",
+      "zh": [
+        "在某些方面，社会学家把注意和兴趣集中到眼前的当下，无疑是这门学科发展的一项进步。今天的社会学家更有能力研究本社会的短期问题，并在一些情况下以相当可靠的方式解决它们。经验社会学调查近乎爆炸式地增长，正是这种关注当代问题的鲜明表现。这些调查有一部分采用统计方法，但远不止于此。",
+        {
+          "type": "note",
+          "id": "elias-note-2",
+          "label": "2"
+        }
+      ],
+      "en": [
+        "Sous certains aspects, la réduction des centres d’attention et d’intérêt des sociologues au présent immédiat représente indubitablement un progrès dans le développement de la discipline. Les sociologues sont maintenant bien plus à même d’étudier et, dans certains cas, de résoudre d’une manière raisonnablement fiable les problèmes de court terme de leur propre société. Cette concentration sur les problèmes contemporains a trouvé une expression frappante dans la prolifération quasi explosive des enquêtes sociologiques empiriques, en partie (mais en aucun cas uniquement) de type statistique",
+        {
+          "type": "note",
+          "id": "elias-note-2",
+          "label": "2"
+        },
+        "."
+      ],
+      "page": "135"
+    },
+    {
+      "id": "elias-section-iii",
+      "type": "heading",
+      "zh": [
+        "III"
+      ],
+      "en": [
+        "III"
+      ],
+      "page": "135"
+    },
+    {
+      "id": "elias-iii-01",
+      "type": "paragraph",
+      "zh": [
+        "然而，社会学家所退守的眼前当下，只是人类漫长发展洪流中有限而短暂的一个阶段。这股洪流从过去流入现在，又奔向种种可能的未来。因此，近来经验社会学调查虽大量涌现，其他方面却同时有所贫乏，这并不令人意外。一个迹象是，绝大多数经验调查和今天被称为社会学理论的研究之间，出现了明显的裂痕。在马克斯·韦伯的著作中，已经可以预见这一裂痕。他在《经济与社会》开篇诸部分阐述的行动理论，往往很难在其经验研究中找到踪迹。曾有一段时间，塔尔科特·帕森斯的理论研究和新马克思主义社会学家的理论研究各领风骚。两派在思想上虽享有显赫地位，却少有相应的经验研究从这两种理论框架获得启发，并检验它们的认知价值。帕森斯主义者和新马克思主义者分成两大阵营。尽管有人尝试调和，双方的对立仍长期塑造了世界各地大学社会学理论教学的大部分内容。这种分裂的实际意义，政治上多于科学上。两种理论其实是整个社会的政治分野在社会科学中的投影，一边是保守派和自由派，另一边是社会主义者和共产主义者。因此，社会学的大量经验研究不参照理论，许多理论讨论也完全不参照经验工作，就不足为奇了。打个比方，这就好像物理学家分成不同派别，有的追随保守派或自由派的物理学理论，有的追随社会主义者或共产主义者的理论。一门科学的主要代表人物要是任由政治偏好支配其科学工作，那显然是这门学科出了问题。社会学中反复出现这样的情形。某场讨论乍看学识渊博、严肃科学，抽象程度也很高。细看之下，它却是一座复杂的上层建筑，意在攻击或维护当代各种社会理想与信念中的某个特定立场。在这种情形下，科学上的超然姿态几乎掩饰不住其背后的党派倾向。科学理论的外观也掩盖不了支撑它的科学之外的立场，虽然常常只有拨开晦涩术语的迷雾，才能辨认出这种立场。"
+      ],
+      "en": [
+        "Cependant le présent immédiat dans lequel se retranchent les sociologues ne constitue qu’une phase restreinte, momentanée, au sein du vaste courant du développement de l’humanité qui, venant du passé, débouche sur le présent et se projette vers des futurs possibles. Il n’est pas surprenant, par conséquent, que la récente abondance d’enquêtes sociologiques empiriques soit allée de pair, sous d’autres aspects, avec un appauvrissement. L’un des symptômes de celui-ci fut le clivage prononcé entre la grande majorité de ces enquêtes empiriques et les travaux que l’on présente maintenant comme relevant de la théorie sociologique. On pouvait déjà présager ce clivage dans les travaux de Max Weber, dont la théorie de l’action, exposée dans les premières parties d’",
+        {
+          "type": "em",
+          "children": [
+            "Économie et Société"
+          ]
+        },
+        ", est souvent à peine repérable dans ses travaux empiriques. Pour un temps, le travail théorique de Talcott Parsons d’une part et celui des sociologues néomarxistes d’autre part ont occupé le devant de la scène théorique. Mais l’éminence intellectuelle de ces deux écoles de pensée n’a pas trouvé son pendant dans des travaux empiriques qui, tout en s’inspirant de ces deux cadres théoriques, auraient été capables de tester leur valeur cognitive. La signification réelle de cette division en deux camps, parsoniens et néomarxistes, qui ont longtemps structuré, par leur opposition, et malgré les quelques tentatives de réconciliation, le gros de l’enseignement des théories sociologiques dans les universités du monde, est plus politique que scientifique. Les deux types de théories représentent en effet une projection dans les sciences sociales de la division politique de la société globale entre d’un côté conservateurs et libéraux, et de l’autre socialistes et communistes. Rien d’étonnant, par conséquent, à ce qu’en sociologie beaucoup de travail empirique se fasse sans référence à la théorie, et que de nombreuses discussions théoriques se déroulent sans aucune référence au travail empirique. C’est comme si les chercheurs en physique étaient divisés entre les disciples d’une théorie conservatrice ou libérale, et une théorie socialiste ou communiste, de la physique. Il y a bien évidemment quelque chose qui ne fonctionne pas dans une discipline scientifique si ses principaux représentants autorisent les préférences politiques à dominer leur travail scientifique. En sociologie, on peut observer de manière récurrente que ce qui semble à première vue être une discussion scientifique érudite et sérieuse menée à un très haut niveau d’abstraction se révèle en fait, à y regarder de près, être une superstructure complexe érigée dans le but d’attaquer ou de soutenir des positions spécifiques sur le spectre contemporain des idéaux et des croyances sociales. Dans de tels cas, le détachement scientifique peut à peine dissimuler l’esprit partisan qu’il recouvre. De même, la façade d’une théorie scientifique ne peut pas cacher l’engagement extrascientifique qui la sous-tend, bien que celui-ci ne puisse souvent être reconnu que si l’on est capable de pénétrer la masse confuse d’une terminologie absconse."
+      ],
+      "page": "135–136"
+    },
+    {
+      "id": "elias-iii-02",
+      "type": "paragraph",
+      "zh": [
+        "帕森斯主义和新马克思主义是当时社会学理论思想中最重要的两大学派。它们在一门学术学科内部展开了一场缓和了的阶级斗争。两派建立的思想体系，还称不上历史更久的科学所说的科学理论。今天人们往往忘记，物理学和生物学也经历了长期斗争，才从科学之外的信念中解脱出来。时至今日，伽利略仍象征着物理学为摆脱强大的科学外观念、尤其是宗教观念而争取自主的斗争。就目前所见，社会学理论乃至更广泛的人文科学理论的代表人物，似乎还很少意识到，他们还要经历一场类似的自主性斗争。在他们这里，这场争取解放的主要斗争，是要摆脱当时社会政治理想的支配，取得自主。"
+      ],
+      "en": [
+        "Ainsi, le parsonisme et le néomarxisme, représentant les deux plus importantes écoles de pensée théorique en sociologie, ont mené une version atténuée de la lutte des classes dans le cadre d’une discipline académique. L'édifice intellectuel de ces deux écoles de pensée ne constituait pas vraiment des théories scientifiques au sens où ce mot est utilisé dans les sciences plus anciennes. Bien que l’on tende souvent à l’oublier aujourd’hui, la physique et la biologie ont elles aussi eu à livrer une longue bataille pour s’émanciper des croyances extrascientifiques. Galilée symbolise encore aujourd’hui la lutte de la physique pour son autonomie vis-à-vis de puissantes idées extrascientifiques, en particulier religieuses. À ce qu’on peut voir, les représentants des théories sociologiques, et plus généralement des théories en sciences humaines, sont pourtant à peine conscients du fait qu’une lutte analogue pour l’autonomie est encore devant eux. Mais dans ce dernier, le principal combat pour l’émancipation prend le caractère d’une lutte pour l’autonomie par rapport aux idéaux politiques et sociaux du moment."
+      ],
+      "page": "136"
+    },
+    {
+      "id": "elias-section-iv",
+      "type": "heading",
+      "zh": [
+        "IV"
+      ],
+      "en": [
+        "IV"
+      ],
+      "page": "136"
+    },
+    {
+      "id": "elias-iv-01",
+      "type": "paragraph",
+      "zh": [
+        "尽管经历了种种起伏，人类人口还是在未经规划的过程中不断增长，这种增长不限于人数。历史上，人类分成不同群体，组成各种生存单位。这些生存单位本身也在扩大。人类最初以二十五至五十人为一小群，也许住在洞穴里，后来组成成百上千人的部落，到今天则愈来愈多地生活在数百万人组成的国家中。这些社会单位规模的变化，改变了它们的结构。一个三十人的社会单位，要存续并维持自身的完整，需要一套控制手段，既有外部控制，也有自我控制。几百万人组成的社会单位，要达到同样的目的，需要的控制手段就不一样。在这个过程中发生变化的是整个人类生活方式。由此可以简要看出，一套取材于二十世纪工业社会各种政治理想的社会理论，如果把自己说成适用于一切人类社会的理论，其认知价值只能很有限。从较小的整合单位向较大的整合单位过渡，就在我们眼前发生。我不认为缺少演化框架的社会学理论，能在理论或经验层面帮助我们澄清这类变化提出的社会学问题。只要占主导地位的理论仍把社会的历时性和动态性撇在一边，这类理论探索与经验社会学研究之间的巨大鸿沟就无法填平。"
+      ],
+      "en": [
+        "La population humaine a connu un processus non planifié de croissance, en un sens qui n’est pas purement numérique, et en dépit de toutes ses fluctuations. À travers l’histoire, elle s’est divisée en différents groupes, en unités de survie d’un type ou d’un autre. Ces unités de survie ont aussi vu leur taille augmenter. Partant de petites bandes de vingt-cinq à cinquante membres, vivant peut-être dans des grottes, les êtres humains se sont regroupés dans des tribus de plusieurs centaines ou plusieurs milliers de membres, et de nos jours, de plus en plus dans des États de plusieurs millions de personnes. Le changement de la taille de ces unités sociales en a modifié la structure. Les moyens de contrôle — de contrôle externe aussi bien que d’autocontrôle — requis pour la survie et l’intégrité d’une unité sociale de trente personnes sont différents des moyens de contrôle nécessaires à la survie et à l’intégrité d’une unité sociale formée de plusieurs millions de personnes. C’est le mode de vie des humains dans son ensemble qui a changé au cours de ce processus. On peut voir ici, en résumé, pourquoi une théorie de la société inspirée par les différents idéaux politiques des sociétés industrielles du XXᵉ siècle et présentée comme une théorie universelle des sociétés humaines ne peut avoir qu’une valeur cognitive très limitée. Une transition entre de petites unités d’intégration et des unités plus grandes se déroule aujourd’hui sous nos propres yeux. Je ne pense pas que des théories sociologiques dépourvues de cadre évolutionniste puissent être d’un grand secours pour élucider les problèmes sociologiques soulevés par de tels changements, que ce soit sur le plan théorique ou sur le plan empirique. Aussi longtemps que domineront des théories qui font abstraction du caractère aussi bien diachronique que dynamique des sociétés, il ne sera pas possible de combler l’énorme fossé qui existe aujourd’hui entre ce genre de projet théorique et la recherche sociologique empirique."
+      ],
+      "page": "136–137"
+    },
+    {
+      "id": "elias-iv-02",
+      "type": "paragraph",
+      "zh": [
+        "在我看来，要理解人类社会，需要能够检验的理论模型，用以帮助确定和解释长期社会过程的结构与方向，归根结底就是解释人类的发展。这类理论的用处也并不限于社会学。如果能建立一个有统合作用、没有嵌入意识形态假设的演化参照框架，例如预先不设定未来必然更好，这个框架也可能对其他人文科学有用。可是，当调查集中于当代问题时，解释的范围便被不当地缩小了。任何现存社会都是由先前的社会演变而来的，又从自身通向种种可能的未来。这一点不能忽视。如果把社会学问题限定在静态类型及静态的结构和功能概念之中，就会忽略人类社会内在的动态。"
+      ],
+      "en": [
+        "La compréhension des sociétés humaines requiert, il me semble, des modèles théoriques testables qui puissent aider à déterminer et à expliquer la structure et la direction de processus sociaux de long terme, c’est-à-dire, en dernier ressort, le développement de l’humanité. En outre, je ne pense pas que les théories de ce type ne puissent être utiles que dans le champ de la sociologie. Un cadre de référence évolutionniste unifiant, sans incrustations idéologiques, par exemple sans postulat préconstruit sur un avenir nécessairement meilleur, pourrait également être utile dans les autres sciences humaines. Or, lorsque les enquêtes se concentrent sur les problèmes contemporains, la portée des explications se trouve indûment réduite. On ne peut ignorer le fait que toute société présente est issue des sociétés précédentes et ouvre au-delà d’elle-même sur une diversité de futurs possibles. Si l’on enferme les problèmes sociologiques dans des typologies statiques et dans les concepts statiques de structure et de fonction, on néglige les dynamiques intrinsèques des sociétés humaines."
+      ],
+      "page": "137"
+    },
+    {
+      "id": "elias-section-v",
+      "type": "heading",
+      "zh": [
+        "V"
+      ],
+      "en": [
+        "V"
+      ],
+      "page": "137"
+    },
+    {
+      "id": "elias-v-01",
+      "type": "paragraph",
+      "zh": [
+        "构建过程模型（",
+        {
+          "type": "em",
+          "children": [
+            "process models"
+          ]
+        },
+        "），也就是人类发展模型，同样需要一些普遍概念，以指出一切社会共有的属性。但是，当研究集中于过程本身时，普遍项的认识价值和地位，与在那些寻求能用定律表述的无时间性规律的研究中有所不同。后一类研究的最终目的是发现普遍项，过程研究则只把普遍项用作建模的辅助工具。此外，研究者必须确定所用的确实是普遍项，既适用于分化程度最低的社会，也适用于分化程度最高的社会。在这里，把规律表述为定律，或者把研究者从观察自身社会得出的类型说成普遍项，帮助都不大。"
+      ],
+      "en": [
+        "La construction de modèles processuels [process models], c’est-à-dire de modèles du développement de l’humanité, requiert-elle aussi un certain nombre de concepts universels indiquant les propriétés communes à toutes les sociétés. Mais lorsque le travail de recherche se concentre sur l’étude des processus en tant que tels, les universaux acquièrent une valeur et un statut cognitifs différents de ceux des travaux qui recherchent des régularités atemporelles énoncées sous forme de lois. Dans ce dernier cas, la découverte des universaux est le but ultime de la recherche, alors que dans le cas des modèles processuels, il ne constitue qu’un outil auxiliaire pour la construction des modèles. De plus, dans le cas des universaux processuels, les chercheurs doivent être certains qu’il s’agit bien d’universaux authentiques, se référant aussi bien aux sociétés les moins différenciées qu’aux plus différenciées. Les régularités présentées sous forme de lois ou les typologies tirées des observations du chercheur sur sa propre société et présentées comme des universaux ne sont pas, dans ce cas, d’une grande utilité."
+      ],
+      "page": "137"
+    },
+    {
+      "id": "elias-section-vi",
+      "type": "heading",
+      "zh": [
+        "VI"
+      ],
+      "en": [
+        "VI"
+      ],
+      "page": "137"
+    },
+    {
+      "id": "elias-vi-01",
+      "type": "paragraph",
+      "zh": [
+        "不妨举一个例子，说明这类在构建过程模型时起核心作用的普遍项。在一切可能的社会中，假如一个群体的成员希望这个被他们称作“我们”的群体继续存在，他们就必须对彼此和对整个群体履行一组确定的基本功能。这里无须考察所有基本功能，我只举几个例子。这些功能通常交织在一起，显然也相互依赖，但人们往往把它们设想为社会发展的不同序列或不同领域。在许多情况下，其中某一种被说成社会发展的唯一动力。把观念看成动力，或把阶级斗争看成动力，都是明显的例子。多功能的模型，也因此是非还原的模型，仍有待建立。在这里，我无法也无须更全面地说明这些功能以何种模式彼此关联，也无须讨论这种关联在整个发展过程中是否始终相同。下面，我将简要辨析其中几种基本功能，并举几个例子，希望能使它们更具体。"
+      ],
+      "en": [
+        "Il est sans doute utile de présenter un exemple de ce type d’universaux qui jouent un rôle central dans la construction des modèles processuels. Dans toutes les sociétés possibles, les gens qui appartiennent à un groupe pour lequel ils disent « nous » doivent remplir un ensemble déterminé de fonctions élémentaires les uns vis-à-vis des autres, et vis-à-vis du groupe dans sa totalité, s’ils veulent survivre en tant que groupe. Je n’ai pas besoin ici de prendre en considération toutes ces fonctions élémentaires, mais je vais en donner quelques exemples. Habituellement entremêlées et certainement interdépendantes, elles sont souvent conceptualisées comme des séquences ou des sphères du développement social. Dans de nombreux cas, l’une d’entre elles est présentée comme le seul moteur du développement social. Les idées comme forces motrices, la lutte des classes comme force motrice, en sont des exemples évidents. Des modèles multifonctionnels et, en ce sens, non-réducteurs, restent encore à élaborer. Je ne peux pas, et je n’ai pas besoin, dans ce contexte, de rendre compte de manière plus complète des divers modèles de leur interrelation. Je n’ai pas besoin non plus ici de débattre de l’affirmation selon laquelle cette interrelation reste toujours la même au cours du développement. Je ferai un court résumé diagnostique de quelques fonctions élémentaires, et je donnerai quelques exemples qui, je l’espère, les rendront vivantes."
+      ],
+      "page": "137–138"
+    },
+    {
+      "id": "elias-vi-02",
+      "type": "paragraph",
+      "zh": [
+        "马克思辨认出了这些基本功能中的第一项。群体成员若希望作为群体生存下去，就必须妥善履行这项功能。传统上，人们称之为“经济”功能。我们也许无须放弃这个惯用说法，但“经济”一词无疑不够精确。如果以长期发展为参照框架，就必须分清两个阶段。一个阶段中，经济功能由专司经济的群体承担。另一个阶段分化程度较低，人人都必须以非专门化的方式承担经济功能。简单说，人类群体最基本的普遍项之一，是供给食物和其他基本生存资源。"
+      ],
+      "en": [
+        "Ce fut Marx qui identifia la première de ces fonctions élémentaires que les membres d’un groupe doivent accomplir correctement s’ils veulent survivre en tant que groupe. Traditionnellement, on l’a appelée la fonction « économique ». S’il n’est peut-être pas nécessaire de rompre avec cette tradition, il ne fait aucun doute que le terme « économique » est imprécis. Si notre cadre de référence est le développement de long terme, il nous faut distinguer très clairement entre un stade de développement dans lequel les fonctions économiques sont remplies par des groupes de spécialistes économiques, et un stade de différentiation moindre, où tout le monde doit remplir des fonctions économiques de manière non spécialisée. Pour l’exprimer plus simplement, on peut dire que l’un des universaux les plus élémentaires des groupes humains est la fourniture de la nourriture et des autres ressources vitales de base."
+      ],
+      "page": "138"
+    },
+    {
+      "id": "elias-vi-03",
+      "type": "paragraph",
+      "zh": [
+        "第二项生存功能是控制暴力，或从稍广的意义上说，是管理冲突。这有两个方面，即控制群体内部的暴力，以及控制不同生存群体之间的暴力。对于经济功能与暴力控制，都应区分社会发展的不同阶段。在一些阶段，履行经济功能的人也履行暴力控制功能，这些功能还没有交给专门人员。在另一些阶段，经济功能与管理冲突的功能由不同人员承担，也就是由专门人员承担。当然，两者之间有许多过渡阶段。不过，当专司暴力控制的人已经完全无须履行其他生存功能，尤其是无须生产食物，他们的核心社会功能局限于控制群体内部及群体之间的暴力和管理冲突时，这种情形大体就相当于我们称为“国家”的社会形态。也许应该补充一句。我关心的是把一个可以证实的事实说清楚。这种专门化的出现好不好，并非这里的问题。社会中出现专司暴力控制的人，是说明人类社会各种生存功能的履行方式如何彼此交织、如何发生转变的好例子。"
+      ],
+      "en": [
+        "La seconde de ces fonctions de survie est celle du contrôle de la violence ou, dans un sens un peu plus large, la fonction de gestion des conflits dans ses deux dimensions : le contrôle de la violence au sein du groupe, et le contrôle de la violence dans les rapports entre différents groupes de survie. Dans le cas des fonctions économiques comme dans celle du contrôle de la violence, il faut distinguer entre les stades du développement social où les personnes qui remplissent les fonctions économiques remplissent aussi les fonctions de contrôle de la violence — où, en d’autres termes, ces fonctions ne sont pas encore remplies par des spécialistes — et les stades de développement où les fonctions économiques d’une part et les fonctions de gestion de conflit de l’autre sont remplies par des personnes différentes, c’est-à-dire par des spécialistes. Il y a, bien sûr, de nombreux stades transitoires. Cependant, on peut dire que lorsque les spécialistes sont entièrement libérés de l’accomplissement des autres fonctions vitales, notamment de la production de nourriture, et que leur fonction sociale centrale est confinée au contrôle de la violence et à la gestion des conflits au sein du groupe et entre les groupes, cette situation s’identifie, en gros, à la formation sociale que nous appelons « État ». Peut-être faut-il ajouter que je ne m'intéresse pas à la question de savoir s’il est bien ou mal qu’une telle spécialisation ait émergé. Je m’intéresse simplement à la clarification d’un fait démontrable. L’émergence de spécialistes sociaux du contrôle de la violence est un bon exemple de l’entremêlement et de la transformation des manières d’accomplir ces fonctions vitales dans les sociétés humaines."
+      ],
+      "page": "138"
+    },
+    {
+      "id": "elias-vi-04",
+      "type": "paragraph",
+      "zh": [
+        "只有当一个社会的食物产量超过生产者及其家庭赖以生存的需要，才可能出现专司暴力控制的人。但是，从长远看，食物生产者要能稳定地产出剩余，就要具备相当高的人身安全。这意味着相关资源必须得到有效保护。无论资源是牲畜、肥沃土地还是渔场，都必须防止外人劫掠。经济功能与暴力控制功能走向专门化，两方面在发展中互为条件。",
+        {
+          "type": "note",
+          "id": "elias-note-3",
+          "label": "3"
+        }
+      ],
+      "en": [
+        "Les spécialistes du contrôle de la violence ne peuvent émerger dans une société que si ses membres produisent plus de nourriture qu’il n’en est besoin pour la survie des producteurs de nourriture et de leur famille. Toutefois, sur le long terme, la production régulière d’un surplus alimentaire requiert pour les producteurs de nourriture un niveau comparativement élevé de sécurité physique. Elle suppose la protection effective des ressources en question, quelles qu’elles soient — bétail, terres fertiles, zones de pêche — contre les maraudeurs. Au cours de leur développement, les avancées vers la spécialisation des fonctions économiques et des fonctions de contrôle de la violence progressent de manière réciproque",
+        {
+          "type": "note",
+          "id": "elias-note-3",
+          "label": "3"
+        },
+        "."
+      ],
+      "page": "138"
+    },
+    {
+      "id": "elias-vi-05",
+      "type": "paragraph",
+      "zh": [
+        "对苏美尔城市的发掘，为重建永久性暴力垄断形成的各个阶段提供了一些线索。可以推测，暴力垄断是在税收垄断同步发展的条件下形成的，而税收垄断在这里必不可少。例如，发掘表明，从某一时期起，苏美尔人的聚居点周围筑起了坚固的城墙，造价无疑极高。",
+        {
+          "type": "note",
+          "id": "elias-note-4",
+          "label": "4"
+        },
+        " 结合其他证据来看，这说明人类社会在这里达到城邦这一组织阶段，而且可能是第一次。这些社会生产的粮食，除了足以供养筑城、守城的人，还能供养庙宇里的祭司。他们是垄断本群体知识储备的专门人员，尤其掌握有关灵界如何运作的知识。",
+        {
+          "type": "note",
+          "id": "elias-note-5",
+          "label": "5"
+        },
+        " 这些粮食也供养宫殿里垄断暴力控制的君主，以及听命于他们、专司使用暴力的武士。武士要履行的任务包括看守田间劳作的人，协调修建和维护易遭破坏的灌溉渠，以及城墙、宫殿和庙宇。我们今天称为苏美尔人的这些群体，起初规模很小，可能是围绕一座庙宇形成的村落国家。它们不断壮大，达到大规模组织的一种早期形态，专门功能的分化程度也更高。各个群体发展成有城墙的城市，每座城市都有一座大庙和一套宫廷组织。苏美尔诸城邦像后世的希腊诸城邦一样，为争夺霸权相持数百年，直到全被外部一个更强的国家征服，并受到它程度不一的支配。"
+      ],
+      "en": [
+        "Les fouilles dans les villes sumériennes offrent un certain nombre d'indices des étapes qui ont conduit au développement de monopoles permanents de la violence. On peut supposer que ces derniers se sont accomplis en conjonction avec le développement parallèle, indispensable dans ce cas, d’un monopole sur les taxes. Les fouilles indiquent par exemple qu’à partir d’une certaine période, les campements sumériens furent entourés de murs solides et sans aucun doute très coûteux",
+        {
+          "type": "note",
+          "id": "elias-note-4",
+          "label": "4"
+        },
+        ". Examiné en commun avec d’autres indices, ce fait indique que c’est là — et, c’est possible, pour la première fois — que les sociétés humaines atteignirent le stade organisationnel de la cité-État. Elles produisirent assez de nourriture non seulement pour subvenir aux besoins de ceux qui construisaient et gardaient les murs, mais également pour nourrir les prêtres dans leurs temples, spécialistes détenteurs du monopole du fonds de connaissances du groupe, et particulièrement de la connaissance des voies du monde spirituel",
+        {
+          "type": "note",
+          "id": "elias-note-5",
+          "label": "5"
+        },
+        ", ainsi que les princes dans leurs palais, détenteurs du monopole du contrôle de la violence, et les guerriers, spécialistes de l’usage de la violence, sous contrôle des précédents. Parmi d’autres tâches, ces derniers devaient garder les travailleurs dans les champs, coordonner la construction et la maintenance de canaux d’irrigation vulnérables, ainsi que des murs de la cité, des palais et des temples. Partant de petits groupements ayant peut-être les caractéristiques de villages-États centrés sur un temple, les groupements que nous connaissons aujourd’hui comme sumériens grossirent pour atteindre un premier type d’organisation à grande échelle, dotée d’une plus haute différentiation de fonctions spécialisées. Ils se transformèrent en cités murées, chacune avec un vaste temple et une organisation de palais. Ces cités-États sumériennes, telles les cités grecques d’une époque ultérieure, menèrent durant des siècles une lutte indécise pour l’hégémonie, jusqu’au jour où elles furent toutes conquises, et dans une certaine mesure soumises à la domination d’un État plus fort venu de l’extérieur."
+      ],
+      "page": "139"
+    },
+    {
+      "id": "elias-vi-06",
+      "type": "paragraph",
+      "zh": [
+        "在我们这个时代发展程度较高的社会中，专司经济的群体是最有权力的群体之一，有时甚至最有权力。专门化的经济活动在许多当代社会居于核心位置，由此产生了一种社会学理论，认为专门化的经济领域始终是社会唯一的基础领域。社会的其他一切方面似乎都能从这个社会的经济发展中得到解释。依照这种理论，专司经济的不同群体之间的冲突，应被视为人类发展的普遍动力。垄断经济功能，也就是垄断生产资料，则可被普遍视为社会权力的首要来源。由此便会推断，在整个人类发展过程中，正如在较近的时代一样，垄断生产资料的经济专门群体始终是社会中最有权力的群体，也是实际上的统治群体。然而，这一诊断对当代工业社会的权力机会（",
+        {
+          "type": "em",
+          "children": [
+            "power chances"
+          ]
+        },
+        "）分布是否成立姑且不论，用它解释较早的国家社会的权力分布，肯定是不对的。在这些社会中，除极少数例外，主要的统治群体是武士和祭司。在国家社会发展的大部分时期里，这两类专门群体以种种形式结盟或相争，并占据统治地位。商人之类的经济专门人员地位一般低于贵族和祭司。直到较近的时期，他们才有可能取得国王或教皇之类统治者的权力和财富，且这种情形仍很少见。在俄国、德国和奥地利等国，这在1914年以前都未曾发生。\n\n人们难免要问，人类社会的哪些结构特征，使武士与祭司这两个专门群体能在大多数国家社会中长期占据主导地位？这个例子说明，把注意力放在当代的短期现象上，会在多大程度上缩窄我们的视野。凡是试图从当下建立普遍社会理论的做法，都会增大失败的可能。发现社会变迁的经济条件是一大进步，但把一切社会变迁都归结为经济条件，却会妨碍研究再向前推进。就社会的权力分配而言，对暴力工具或定向手段的垄断，也就是对知识、尤其是巫术神话知识的垄断，其作用并不亚于对生产资料的垄断。管理和控制暴力的社会功能，以及传递和获得知识的社会功能，都无法简单归结为社会的经济功能，也无法仅靠经济功能来解释。这三类功能，以及这里无须考察的另外几类，都同样基本，无法相互还原。"
+      ],
+      "en": [
+        "Dans les sociétés plus avancées de notre époque, les groupes de spécialistes économiques sont parmi les plus puissants et, dans certains cas, les plus puissants de tous les groupes. La centralité d’activités économiques, spécialisées dans nombre de sociétés contemporaines, a donné lieu à une théorie sociologique selon laquelle la sphère économique spécialisée est de tout temps la seule et unique sphère de base de la société. Tous les autres aspects de la société semblent pouvoir être expliqués à partir du développement économique de celle-ci. D’après cette théorie, les conflits entre les groupes de spécialistes économiques doivent être considérés comme la force motrice universelle du développement de l’humanité, et la monopolisation des fonctions économiques, c’est-à-dire des moyens de production, peut être universellement considérée comme la source principale de pouvoir social. Une telle hypothèse impliquerait que tout au long du développement de l’humanité, tout comme à des époques plus récentes, les spécialistes économiques qui monopolisent les moyens de production constituent le groupe le plus puissant d’une société, son vrai groupe dirigeant. Toutefois, qu’il s’agisse ou non d’un diagnostic juste de la distribution des chances de pouvoir [power chances] dans les sociétés industrielles contemporaines, ce n’est certainement pas une lecture correcte de la distribution du pouvoir dans les sociétés à État plus anciennes. Dans celles-ci, avec très peu d’exceptions, les principaux groupes dirigeants étaient les guerriers et les prêtres. Sous une forme ou sous une autre, ces groupes de spécialistes, alliés ou rivaux, formèrent les groupes dirigeants des sociétés à État durant la plus grande partie de leur développement. Les spécialistes économiques, tels les marchands, étaient généralement classés plus bas que les nobles et les prêtres, et ne pouvaient que rarement, jusqu’à récemment, atteindre le pouvoir et la richesse des groupes dirigeants comme les rois ou les papes (dans les pays comme la Russie, l’Allemagne et l’Autriche, pas avant 1914). On ne peut s'empêcher de se demander quelles caractéristiques structurelles des sociétés humaines sont responsables de la domination durable, au sein de la plupart des sociétés à État, de ces deux groupes de spécialistes, guerriers et prêtres. On voit à travers cet exemple à quel point notre vision est rétrécie par la préoccupation pour des phénomènes contemporains et de court terme. Toute tentative de construction d’une théorie universelle de la société à partir du présent accroît le risque d’échec. Si la découverte des conditions économiques du changement social fut un grand progrès, la réduction de tous les changements sociaux à des conditions économiques constitue un grand obstacle pour de futures avancées. Concernant la distribution du pouvoir dans une société, on peut dire que la monopolisation des instruments de la violence ou des moyens d’orientation, c’est-à-dire de la connaissance et particulièrement des connaissances magico-mythiques, ne joue pas un rôle moins important que la monopolisation des moyens de production. Ni les fonctions sociales de gestion et de contrôle de la violence ni celles de transmission et d’acquisition de la connaissance ne peuvent être simplement réduites aux fonctions économiques d’une société ou expliquées par elles. Toutes les trois, et un nombre d’autres qu’il n’est pas besoin d’étudier ici, sont également fondamentales et irréductibles."
+      ],
+      "page": "139–140"
+    },
+    {
+      "id": "elias-vi-07",
+      "type": "paragraph",
+      "zh": [
+        "这里不妨简谈知识。尤其是知识，自马克思给它规定了一个仅仅作为上层建筑的本体论地位之后，就始终没有真正摆脱这一诅咒。要体会知识在人类社会中的基础作用，只须设想一个“没有知识”的群体，也就是一个没有从先前世代接收到任何知识的群体，便能看清知识的关键社会功能。这样的群体当然只是一个思想实验，却足以说明，人类群体无疑无法在缺少食物或无法防御身体暴力的情况下生存，同样也无法在缺少知识的情况下生存。非人类生物在不同程度上能“凭本能”找到食物，也就是借助先天的行为机制，或许还辅以相对少量的后天知识。相比之下，人类没有后天获得的知识，就完全不能在环境中辨明方向。除了初生婴儿以外，人如果没有习得的知识，就找不到合适的食物，甚至找不到任何食物。换言之，人对知识的需要和对食物的需要同样基本。满足知识需要的手段，同满足其他基本需要的手段一样，可以被垄断。定向手段一旦被垄断，也就是一旦有人独占满足人类知识需求的手段，就可以成为权力不平等的基础。"
+      ],
+      "en": [
+        "Quelques mots sur la connaissance peuvent être utiles ici. La connaissance en particulier ne s’est jamais vraiment remise de la malédiction que lui porta Marx en lui attribuant le statut ontologique d’une simple superstructure. Afin de percevoir son rôle fondamental dans les sociétés humaines, il suffit d’imaginer un groupe « sans connaissance » — c’est-à-dire un groupe auquel aucune connaissance n’a été transmise par les générations précédentes — pour reconnaître la fonction sociale essentielle de la connaissance. L'idée d’un tel groupe est bien sûr une pure expérience de pensée, mais elle démontre assez clairement que les groupes humains, qui incontestablement ne peuvent pas survivre sans nourriture ou protection contre la violence physique, ne peuvent pas survivre non plus sans connaissances. Les organismes non-humains, dans une plus ou moins grande mesure, sont capables de trouver leur nourriture « instinctivement », c’est-à-dire à l’aide de mécanismes de conduite innés, et peut-être en conjonction avec un degré comparativement bas de connaissance acquise. Les êtres humains, par contre, sont complètement incapables de s’orienter sans connaissance acquise : sauf à l’état de nouveau-né, ils ne peuvent trouver la bonne nourriture ou même quelque nourriture que ce soit sans connaissance apprise. Le besoin humain de connaissance, en d’autres termes, est aussi élémentaire que le besoin de nourriture. Tout comme les moyens de satisfaire d’autres besoins élémentaires, ceux qui satisfont les besoins de connaissance peuvent être monopolisés. Sous forme de monopole, les moyens d’orientation, l’appropriation des moyens de satisfaire les exigences humaines de connaissance, peuvent servir de socle aux inégalités de pouvoir."
+      ],
+      "page": "140"
+    },
+    {
+      "id": "elias-vi-08",
+      "type": "paragraph",
+      "zh": [
+        "还需要提到另一项基本功能。其他群居生物有时拥有先天的自我控制机制，使它们能够一起生活在群体中而不毁灭自身或毁灭彼此。人类却没有这类天然的制约。人必须通过与他人接触、接受教养，习得社会生活不可或缺的自我克制模式。因此，个人学习社会上的自我克制模式，或者说经历这样一个文明化过程，也是每个群体都能看到的一项最为基本的生存功能。复杂程度最低的人类群体中，入群仪式是履行这项功能的一种制度，是使群体成员经历文明化的早期形式。群体施加的压力使个人实行自我约束。和前面提到的所有基本功能一样，这项功能也可能被垄断，继而成为取得权力与分化地位的凭借，也就是支配和剥削的手段。例如，入群仪式既可以培养某种特定的自我约束模式，也会成为世代之间公开或隐蔽的权力斗争中的重要事件。这项基本功能同样不可还原。前面提到的其他功能，包括暴力控制，当然必须同时得到保障，个人才可能学会自我约束。反过来，那些功能也需要个人具有相应的自我控制模式。"
+      ],
+      "en": [
+        "Il faudrait mentionner une autre fonction élémentaire. D’autres organismes sociaux possèdent parfois des autocontrôles innés qui leur permettent de vivre ensemble dans des groupes sans se détruire eux-mêmes ni détruire les autres. Mais les êtres humains ne disposent pas de telles limitations naturelles. Il leur faut acquérir, par l’éducation au contact des autres, les modèles d’autorestriction indispensables à la vie sociale. Par conséquent l’apprentissage individuel des modèles sociaux d’autorestriction ou d’un processus de civilisation de ce type est aussi l’une des fonctions de survie les plus élémentaires que l’on rencontre dans chaque groupe humain. On peut trouver l’une des institutions sociales qui accomplit cette fonction dans les rites d’initiation des groupes humains les moins complexes. Ils représentent une première forme de civilisation des membres individuels d’un groupe. Les pressions du groupe vers l’exercice de l’auto-contrainte, comme toutes les autres fonctions élémentaires que j'ai mentionnées, peuvent aussi être monopolisées et ainsi utilisées comme source de pouvoir et de différentiation des statuts, donc comme un moyen de domination et d’exploitation. Les rites d’initiation, par exemple, ne sont pas seulement un moyen de produire un modèle spécifique d’autocontrainte, mais aussi d’importants épisodes dans la lutte de pouvoir larvée ou ouverte entre les générations. Cette fonction élémentaire est, elle aussi, irréductible. L’apprentissage de l’autocontrainte n’est certainement pas possible sans que les autres fonctions mentionnées ci-dessus, y compris le contrôle de la violence, soient simultanément assurées. En revanche, celles-ci requièrent à leur tour des modèles individuels d’autocontrôle."
+      ],
+      "page": "140–141"
+    },
+    {
+      "id": "elias-vi-09",
+      "type": "paragraph",
+      "zh": [
+        "这四项基本功能还没有穷尽一切可能的功能。还有别的功能，我在这里谈到的这几项，是社会发展中可以用经验材料检验、必要时也可以修正的普遍项的例子。"
+      ],
+      "en": [
+        "Ces quatre fonctions élémentaires ne constituent pas à elles seules la gamme de toutes les fonctions possibles. Il y en a d’autres. Celles que j'ai mentionnées fournissent néanmoins des exemples d’universaux du développement social qui peuvent être testés empiriquement et, si nécessaire, corrigés."
+      ],
+      "page": "141"
+    },
+    {
+      "id": "elias-section-vii",
+      "type": "heading",
+      "zh": [
+        "VII"
+      ],
+      "en": [
+        "VII"
+      ],
+      "page": "141"
+    },
+    {
+      "id": "elias-vii-01",
+      "type": "paragraph",
+      "zh": [
+        "我想举一个例子说明“基本社会功能”这一概念的认知价值。马克思尝试依据一个共同要素，在理论上把握社会发展的全部动力。他认为，垄断生产资料，例如垄断满足饥饿的手段，是社会不平等的来源，也是其他一切不平等的根源。在他看来，满足“经济”需要的机会一旦被垄断，便会引发冲突。这类冲突是社会发展的根本动力，甚至可能是唯一的动力。"
+      ],
+      "en": [
+        "Je voudrais illustrer à l’aide d’un exemple la valeur cognitive du concept de « fonctions sociales de base ». Marx a tenté de comprendre théoriquement toute la dynamique du développement social en référence à un seul dénominateur commun. Il voyait la monopolisation des moyens de production — par exemple, les moyens de satisfaire la faim — comme la source des inégalités sociales et la racine de toutes les autres inégalités. Il considérait les conflits issus de cette monopolisation des chances de satisfaire les besoins « économiques » comme la force motrice essentielle et peut-être même exclusive du développement social."
+      ],
+      "page": "141"
+    },
+    {
+      "id": "elias-vii-02",
+      "type": "paragraph",
+      "zh": [
+        "因此，在马克思看来，由封建武士组成的统治阶级，与由商业或工业企业家组成的统治阶级，大体属于同一类型的社会阶层。他没有那么重视两类人的区别。一类人的“经济”权力来自其阶级身份，另一类则凭借资本。不过，法国有句说法 ",
+        {
+          "type": "em",
+          "children": [
+            "nulle terre sans seigneur"
+          ]
+        },
+        "（没有一块土地没有领主）确实是一句阶级口号。",
+        {
+          "type": "note",
+          "id": "elias-note-french",
+          "label": "*"
+        },
+        " 它的意思是，凡是不属于佩剑贵族，因而不具备用身体暴力使人服从的本领的人，就没有权利占有土地。在许多情况下，阶级团结又强化了相关习俗，剥夺了农民和其他非特权群体拥有、使用上层阶级武器的权利。"
+      ],
+      "en": [
+        "Il concevait en conséquence une classe dirigeante faite de guerriers féodaux comme une strate plus ou moins du même type qu’une classe dirigeante d’entrepreneurs du commerce ou de l’industrie. Il n’accordait pas beaucoup d’importance à la distinction entre ceux qui devaient leur pouvoir « économique » à leur classe et ceux qui le devaient à leur capital. Pourtant le slogan français ",
+        {
+          "type": "em",
+          "children": [
+            "nulle terre sans seigneur"
+          ]
+        },
+        {
+          "type": "note",
+          "id": "elias-note-french",
+          "label": "*"
+        },
+        " était bien un slogan de classe. Il signifiait que quiconque n’appartenant pas à la noblesse d’épée, et n’étant donc pas compétent dans l’usage de la violence physique pour assurer l’obéissance, n’avait pas le droit de posséder la terre. Dans un certain nombre de cas, la coutume renforcée par la solidarité de classe déniait aux paysans ainsi qu’à d’autres groupes non privilégiés la possession et l’utilisation des armes propres aux classes supérieures."
+      ],
+      "page": "141"
+    },
+    {
+      "id": "elias-vii-03",
+      "type": "paragraph",
+      "zh": [
+        "认识到结构性冲突是变迁的动力，提高了社会科学研究者的诊断能力。但把这样的冲突限定为一国之内的经济冲突，又成了研究的障碍。"
+      ],
+      "en": [
+        "L'identification du rôle des conflits structuraux comme moteur du changement représenta un progrès pour la capacité de diagnostic des chercheurs en sciences sociales, mais leur restriction à des conflits de nature économique interne aux États fut en même temps un obstacle."
+      ],
+      "page": "141"
+    },
+    {
+      "id": "elias-vii-04",
+      "type": "paragraph",
+      "zh": [
+        "马克思更清楚地看到了封建群体和企业家群体的共同之处，对其结构差异则没有看得那么清楚。他指出，两类群体都能够垄断经济生产资料，也都能借此获得剥削其他群体的权力机会（",
+        {
+          "type": "em",
+          "children": [
+            "power chances"
+          ]
+        },
+        "）。不过，他没有提出这样一个问题，因而也没找到解释它的线索。为什么掌握权力垄断的在一种情形下是武士贵族，在另一种情形下却是相对和平的商人阶级？"
+      ],
+      "en": [
+        "Marx vit ce que les groupes féodaux et entrepreneuriaux avaient en commun plus clairement qu’il ne perçut leurs différences structurelles. Il nota que, puisque tous les deux pouvaient monopoliser les moyens économiques de production, tous les deux acquéraient les chances de pouvoir [power chances] leur permettant d’exploiter d’autres groupes. Cependant il négligea de poser la question et, par conséquent, il ne trouva pas d’éléments pour expliquer pourquoi ceux qui étaient en possession des monopoles de pouvoir furent une noblesse guerrière dans un cas, et une classe marchande relativement pacifiée dans l’autre."
+      ],
+      "page": "141"
+    },
+    {
+      "id": "elias-vii-05",
+      "type": "paragraph",
+      "zh": [
+        "社会学家忽略这类差异，会有违自己的研究目标。例如，他们应该追问，为何专司经济的阶级并非一向在本社会的权力结构中占有今天这样核心的位置。国家社会最早大概出现于古代苏美尔，由前国家社会发展而来。很容易看出，自那时以来，国家社会中处在最高统治位置的群体（",
+        {
+          "type": "em",
+          "children": [
+            "establishment"
+          ]
+        },
+        "）的社会特征，以颇为特定的方式发生过变化。我们可以推知，这些群体掌握着最重要的权力资源。从五六千年前到相当晚近的时期，只有相对少数的例外，两类履行特定社会职能的群体在国家社会的地位等级中居于顶端。他们最有权力，往往也最富有。简单说，这两大统治集团，一是祭司，一是武士，也就是主管庙宇的人和主管宫殿的人。后者包括统率其宫廷的君主、国王和皇帝。他们同贵族武士的寡头集团合作，有时也被这些集团废黜。"
+      ],
+      "en": [
+        "Les sociologues vont à l’encontre de leurs propres objectifs s’ils négligent de telles différences ; s’ils omettent, par exemple, de se demander pourquoi les classes de spécialistes économiques n’ont pas toujours joué le même rôle central dans la structure du pouvoir de leur société qu’ils ne le jouent aujourd’hui. On constate facilement que les caractéristiques sociales de ces groupes qui ont représenté la formation dirigeante [establishment] la plus élevée dans les sociétés à État et dont on peut par conséquent supposer qu’ils possédaient les ressources en pouvoir les plus importantes, ont changé de façon bien spécifique depuis l’époque où, probablement dans l’antiquité sumérienne, des sociétés ayant les caractéristiques d’un Etat émergèrent pour la première fois sur la base de sociétés préétatiques. Depuis cette époque, d’il y a cinq ou six mille ans, jusqu’à des époques passablement plus récentes, deux groupes de fonctionnaires sociaux, avec relativement peu d’exceptions, occupaient la position de groupes les plus élevés, les plus puissants, et souvent les plus riches dans la hiérarchie des statuts au sein des sociétés à État. Ces deux principales formations dirigeantes étaient, pour aller vite, les groupes de prêtres et les groupes de guerriers ; ceux qui dirigeaient le temple et ceux qui dirigeaient le palais (les princes, les rois, et les empereurs à la tête de leur cour en conjonction avec des groupes oligarchiques de guerriers nobles, et parfois déposés par eux)."
+      ],
+      "page": "141–142"
+    },
+    {
+      "id": "elias-vii-06",
+      "type": "paragraph",
+      "zh": [
+        "当然也有例外，其中一种是城邦。腓尼基、希腊的城市，以及后来意大利和荷兰的城市，就是例子。海上国家的主力集中在海军，陆上国家则以陆军为主要军事力量。两类国家的统治集团一般具有不同的社会特征。亨利八世以后的英格兰和荷兰是明显的例子。中国的发展也走了另一条路。帝国朝廷里的文职官员，以及各地担任行政职务的地主阶级，在相对较早的时候便成功地从武士手中夺取了权力。他们有时被称作士绅（",
+        {
+          "type": "em",
+          "children": [
+            "gentry"
+          ]
+        },
+        "），有时被称作官僚（",
+        {
+          "type": "em",
+          "children": [
+            "mandarins"
+          ]
+        },
+        "）。他们在全国形成了一个严密的等级网络，拥有统一的文化传统，并且确信自己比其他所有群体优越。于是，在中国，一个非军事社会集团取代武士，维持了数世纪的统治。这一集团为保有高度的权力与地位，要求成员具备颇强的自我控制。凡武士组成统治集团的地方，他们都会更直接地借助外部压力施行统治，也更直接地受到外部压力的约束。在大体相当于西方中世纪的时期，中国掌权的官员甚至建立了可能是当时最先进的国家组织。后来，这一组织逐渐僵化、衰落。"
+      ],
+      "en": [
+        "Il y eut des exceptions. L’une d’elles fut la cité-État. Les cités phéniciennes, grecques et, plus tard, italiennes et hollandaises, en sont des exemples. Les États maritimes, autrement dit les États dont les principaux effectifs militaires étaient concentrés dans la marine, avaient en général des groupes dirigeants aux caractéristiques sociales différentes des groupes dirigeants des États terrestres, États dont les forces militaires principales étaient les armées de terre. Nous en avons des exemples évidents avec l’Angleterre depuis l’époque d’Henri VIII ou encore avec les Pays-Bas. Le développement de la Chine suivit aussi une autre voie. Les fonctionnaires de l’administration civile à la cour impériale et, à travers le pays, une classe de propriétaires fonciers occupant des fonctions administratives, réussirent relativement tôt à arracher le pouvoir aux guerriers. Parfois appelée ",
+        {
+          "type": "em",
+          "children": [
+            "gentry"
+          ]
+        },
+        ", parfois « mandarins », ils formèrent dans tout le pays un réseau hiérarchique dense doté d’une tradition culturelle unifiée et d’un fort sens de sa propre supériorité par rapport à tous les autres groupes. Ainsi, en Chine une formation sociale non militaire qui, pour le maintien de son haut niveau de pouvoir et de son statut élevé, requérait de ses membres un niveau assez poussé d’autocontrôle, remplaça durant des siècles les guerriers qui, partout où ils formaient le groupe dirigeant, gouvernaient plus directement, et étaient aussi gouvernés plus directement, au moyen de pressions de l’extérieur. Durant la période correspondant, en gros, au Moyen Âge occidental, les fonctionnaires dirigeants de la Chine développèrent même ce qui fut probablement l’organisation étatique la plus avancée de l’époque, qui ensuite se rigidifia lentement et déclina."
+      ],
+      "page": "142"
+    },
+    {
+      "id": "elias-vii-07",
+      "type": "paragraph",
+      "zh": [
+        "不过，在绝大多数国家里，获得权力与地位的最大机会掌握在武士或祭司手中，或者同时掌握在他们双方手中。他们有时是盟友，有时又是对手，有些地方直到二十世纪后期仍是如此。在各方长期占据最高地位的岁月里，两大统治群体的关系始终充满矛盾，又有很大变化。有时他们彼此争权，例如古埃及与中世纪西方的情形。皇帝和教皇之间的斗争便是一例。近一些的还有伊朗国王与毛拉之间的冲突。另一些时候，他们结成同盟，试图让其他群体服从，以此维持秩序。从前，和君主、贵族及高级祭司相比，商人的地位很少高过第二、第三等级。仅凭这一点，大致就可以可靠地推断，商人的权力机会一般比武士和祭司少。十九至二十世纪，越来越多的国家社会中，两类经济专门群体取得了对传统两大统治群体的优势。先是中产阶级企业家和经理人，后来是有组织的工人阶级的代表，后者的优势相对有限。在此之前，凡有按等级组成的会议（",
+        {
+          "type": "em",
+          "children": [
+            "estate assemblies"
+          ]
+        },
+        "），通常由两个传统集团中的一方或双方占主导。今天，以群众性政党形式组织起来的经济专门群体的代表，在国家立法会议（",
+        {
+          "type": "em",
+          "children": [
+            "state assemblies"
+          ]
+        },
+        "）中占了上风，并改变了这种会议的性质。议会取代了等级会议。我们也许不该过早认定下面的问题已经有了答案。在较早的国家社会中，武士、祭司中的一方或双方，曾长期是最有权力、地位最高的统治阶级。到了较晚近的国家社会，贵族和祭司失去了特权地位，两个彼此对立又相互依赖的经济阶级占据了优势。这个演变反映了哪些结构变化？"
+      ],
+      "en": [
+        "Mais dans la majorité des États, les plus grandes chances de pouvoir et de statut, dans certains cas jusqu’à tard au cours du XXᵉ siècle, se trouvaient dans les mains soit des guerriers, soient des prêtres, soit des deux à la fois, comme alliés mais aussi comme rivaux. La relation entre ces deux groupes dirigeants, au cours des longues années de leur suprématie, fut fondamentalement ambivalente et varia beaucoup. À certains moments ils étaient en concurrence pour le pouvoir, comme dans l’Egypte antique et dans l’Occident médiéval, où la lutte entre l’empereur et le pape offre un exemple parlant. Plus récemment, le conflit entre le Shah et les mollahs en Iran en offre un autre. Dans d’autres cas, ils devinrent alliés dans leur effort pour assurer l’ordre par l’obéissance des autres groupes. Comparé au statut des princes, des nobles et des grands prêtres, le statut des marchands dans le passé dépassa rarement le second ou le troisième rang. Ce constat peut, en lui-même, servir d’indication assez fiable du fait que leurs chances de pouvoir étaient en général plus faibles que celles des guerriers et des prêtres. Au cours des XIXᵉ et XXᵉ siècles, deux groupes de spécialistes économiques, d’abord les entrepreneurs et les manageurs de la classe moyenne et, plus tard, dans une moindre mesure, les représentants des classes ouvrières organisées, dans un nombre croissant de sociétés à État, prirent l’ascendant sur les deux groupes dirigeants traditionnels. Avant cette époque, l’un ou l’autre de ces derniers (ou les deux) avait généralement occupé une position dominante dans les assemblées par ordre [estate assemblies] partout où elles existaient. Aujourd’hui, les représentants des groupes de spécialistes économiques organisés sous la forme de partis de masse, ont pris l’ascendant au sein des assemblées législatives [state assemblies], ce qui a changé leur caractère : les assemblées par ordre ont laissé la place aux parlements. On ne devrait peut-être pas refermer trop tôt la question de savoir quels changements structuraux reflètent ce développement depuis les sociétés à Etat où pendant longtemps les guerriers ou les prêtres (ou les deux) formèrent les classes dirigeantes les plus puissantes, occupant les rangs les plus élevés, jusqu’à des sociétés à État plus récentes dans lesquelles les nobles et les prêtres ont perdu leur statut privilégié, et où deux classes économiques antagonistes mais interdépendantes ont pris l’ascendant."
+      ],
+      "page": "142–143"
+    },
+    {
+      "id": "elias-vii-08",
+      "type": "paragraph",
+      "zh": [
+        "此外，最近又出现了一种新的动向。另一类社会特征不同的社会集团，在权力和地位上如今往往超过两类经济专门群体的领导人，但仍常与他们处于潜在的竞争关系中。我说的是那些以政治为职业、身在政党领导层的男女。不论一党制国家还是多元政体，许多国家社会里的职业政治家，也就是政治专门人员，如今都比军人、祭司或经济专门人员更有机会接近国家的中央垄断机构，并取得随之而来的权力机会。在组织程度和自身力量足够高的地方，后面这些群体也会与政党政治家争夺权力。"
+      ],
+      "en": [
+        "En outre, un nouveau mouvement s’est développé dans les périodes très récentes. Une autre formation sociale aux caractéristiques sociales différentes surpasse maintenant fréquemment en pouvoir et en statut les dirigeants des deux groupes de spécialistes économiques, tout en restant souvent dans une position de compétition latente avec eux. Je veux parler des hommes et des femmes qui sont politiciens professionnels et membres de la direction d’un parti. Dans les États à parti unique aussi bien que dans les États pluralistes, les politiciens de carrière (c’est-à-dire les spécialistes politiques) possèdent à présent dans beaucoup de sociétés à Etat une meilleure chance d’accès aux monopoles centraux d’État et aux possibilités concomitantes de pouvoir, que les militaires, les prêtres ou les spécialistes économiques. Ces derniers groupes, là où ils sont assez organisés et puissants, sont en compétition pour le pouvoir avec les politiciens de parti."
+      ],
+      "page": "143"
+    },
+    {
+      "id": "elias-section-viii",
+      "type": "heading",
+      "zh": [
+        "VIII"
+      ],
+      "en": [
+        "VIII"
+      ],
+      "page": "143"
+    },
+    {
+      "id": "elias-viii-01",
+      "type": "paragraph",
+      "zh": [
+        "可以问一问，为什么履行不同职能、因而具有不同社会特征的统治阶级，会在不同时代占据国家社会地位和权力等级的顶端。前面谈到人类社会赖以生存的基本功能，这里可以借此理解这个问题。黑格尔与马克思，一位是历史唯心主义者，一位是历史唯物主义者，都假定只有同一组功能，在整个人类发展过程中始终是居于主导地位的动力。在黑格尔那里是思想功能，在马克思那里是经济领域。实际上，从最早的国家社会到今天都能看到，履行若干不同基本功能的专门人员，在当时权力与地位的等级中由一方或几方共同起主导作用，因而也在权力斗争中占据主导地位。然而，这些履行特定社会职能的群体所能获得的权力资源以及相应的权力机会如何分配，尤其是接近国家中央垄断机构的机会，随社会条件的不同可以有很大变化。因此，他们在社会地位等级中的位置也会发生变化。"
+      ],
+      "en": [
+        "On peut se demander pourquoi des classes dirigeantes aux fonctions distinctes et, par conséquent, aux caractéristiques sociales différentes prirent place au sommet des hiérarchies de statut et de pouvoir au sein des sociétés à État à différentes époques. Les références précédentes aux fonctions de base de la survie dans les sociétés humaines peuvent ici nous aider. Hegel comme Marx, l’idéaliste historique comme le matérialiste historique, supposèrent tous les deux qu’un seul et toujours le même ensemble de fonctions, dans un cas les fonctions intellectuelles, dans un autre la sphère économique, joue le rôle dominant comme force motrice tout au long du développement de l’humanité. En réalité on peut observer, depuis les sociétés à État des origines jusqu’à celles de nos jours, plusieurs fonctions de base dont les spécialistes jouent ou partagent un rôle dominant dans la hiérarchie de pouvoir et de statut, et donc dans les luttes de pouvoir de leur siècle. Mais les ressources et donc la répartition des différentes possibilités de pouvoir accessibles à ces différents groupes de fonctionnaires, et particulièrement leurs chances d’accès aux monopoles centraux d’un Etat peuvent varier considérablement selon les conditions sociales. Ainsi en va-t-il, par conséquent, de leur position dans la hiérarchie de statut des sociétés."
+      ],
+      "page": "143"
+    },
+    {
+      "id": "elias-viii-02",
+      "type": "paragraph",
+      "zh": [
+        "要摆脱一元模型，以涵盖当下和过去的多元社会发展模型取代它，就必须考虑不同需要有多强、多迫切。我们也许可以先作这样一个判断。一个履行社会职能的群体的相对权力，会随着它凭借自身的专门职能所能满足的社会需要的强度与迫切程度而变化。一个群体能够提供、限量供应或撤回满足一个生存单位以及其他群体的社会需要的手段，也就是能够控制这些手段，这种能力正是这个群体权力的主要基础。"
+      ],
+      "en": [
+        "S’émanciper des modèles monistes et les remplacer par des modèles pluralistes de développement social (qui incluent le temps présent autant que le passé) requiert ainsi de prendre en compte les questions de force et d’intensité. De façon provisoire, on peut peut-être dire que le pouvoir relatif d’un groupe de fonctionnaires sociaux varie en rapport avec les variations de la force et de l’intensité des besoins sociaux que ce groupe est à même de satisfaire en vertu de sa spécialisation. La capacité d’un groupe à fournir, à rationner ou à retirer, c’est-à-dire à contrôler les moyens de satisfaire les besoins sociaux d’une unité de survie (et ainsi d’autres groupes) constitue le principal appui du pouvoir de ce groupe."
+      ],
+      "page": "143"
+    },
+    {
+      "id": "elias-viii-03",
+      "type": "paragraph",
+      "zh": [
+        "然而，已经分化并采取国家社会形式的生存单位，对一个或几个专司某种职能的群体，例如祭司或武士，虽然有攸关生存的依赖，这种依赖却从来不是完全单向的。在一定程度上，这些群体也依赖别的群体来满足自身的社会需要。研究国家社会时，通常可以看到不同专门群体之间的需要与满足如何彼此调适，也可以看到相互让步如何形成一种均衡，无论它多么不平等。这也包括负责为国家社会整体作出决定的群体。因此，在这样的社会里，各专门群体，包括统治群体，通常都在进行激烈的明争暗斗，试图使交换与让步的均衡向本群体倾斜。古往今来，除了少数例外，国家社会总是在高度不平等的格局中成形，即使明确以促进完全平等为目标的社会也是如此。各专门群体的交换均衡始终顽固地保持着不平等，尽管在某些多元国家中，这种不平等已经没有以往那么显著。即使经历了这样的功能性民主化，国家社会中的统治群体与被统治者之间，通常仍是相互依赖却高度失衡。"
+      ],
+      "en": [
+        "Cependant, la dépendance vitale d’une unité de survie différenciée ayant la forme d’une société à État, vis-à-vis d’un ou de plusieurs groupes de fonctionnaires spécialisés (tels les prêtres ou les guerriers), n’est jamais totalement à sens unique. Jusqu’à un certain point, ces groupes dépendent à leur tour d’autres groupes pour la satisfaction de besoins sociaux. Ce que l’on peut généralement observer lorsque l’on étudie les sociétés à État est un ajustement réciproque des besoins et des satisfactions, un équilibre des concessions mutuelles, aussi inégal soit-il, entre différents groupes de spécialistes, y compris ceux chargés de la tâche de prendre les décisions pour la société à État en tant que telle. En règle générale, par conséquent, on rencontre dans une telle société une lutte acharnée, ouverte ou latente, entre des groupes spécialisés, y compris les groupes gouvernants, avec pour but de déplacer l’équilibre des échanges et des concessions dans une direction plus favorable à son propre groupe. Et, avec peu d’exceptions, à travers les âges, les sociétés à État, même celles qui visaient explicitement à promouvoir l’égalité complète, prenaient toujours forme dans un moule fait de grandes inégalités. L’équilibre des échanges entre les différents groupes de spécialistes est resté obstinément inégalitaire, même si dans certains États pluralistes, il est devenu un peu moins accentué qu’il ne l’a été. En dépit de cette poussée de démocratisation fonctionnelle, les sociétés à Etat présentent généralement encore une réciprocité fortement déséquilibrée entre les groupes gouvernants et les gouvernés."
+      ],
+      "page": "143–144"
+    },
+    {
+      "id": "elias-viii-04",
+      "type": "paragraph",
+      "zh": [
+        "把今天的情形与过去的情形对照，就更容易理解今天。如果我们对迄今发掘的早期国家社会的解读是正确的，如果古代苏美尔最早的国家型组织，也就是我们已知最早的大规模组织，确实以庙宇为中心，由祭司领导，那么作出下面的推断也许并不算太大胆。在那个阶段，祭司所能满足的国家人口的社会需求，比今天迫切得多。较强的自我约束，也可能帮助祭司取得对被统治人口的优势。后来的时代具有相对较高的世俗化程度，拥有广泛的、可检验并与现实相符的知识（",
+        {
+          "type": "em",
+          "children": [
+            "reality-congruent"
+          ]
+        },
+        "）。今天，成年人良知的形成也较少依赖外部约束，无论这种约束是真实的还是想象的。这些变化可能使人不易理解，在可靠知识储备远比今天有限的发展阶段，人们对巫术神话知识，也就是有关灵界如何运作的知识，有强烈得多的社会需要。正是这类知识构成了祭司职业与使命的核心。因此，祭司拥有更大的权力。"
+      ],
+      "en": [
+        "La situation actuelle s’éclaire lorsqu’on la compare aux situations du passé. En effet, si les lectures contemporaines des premières sociétés à État que nous avons pu mettre au jour jusqu’ici sont correctes, si la première organisation de type étatique de la Sumer antique (la première organisation à grande échelle que nous connaissons) était en fait centrée sur un temple, et dirigée par des prêtres, il n’est peut-être pas excessivement audacieux de conclure que les exigences sociales de la population de l’État que les prêtres pouvaient satisfaire étaient à ce stade bien plus pressantes et impératives qu’aujourd’hui. Un niveau plus élevé d’autocontrainte a également pu aider les prêtres à prendre le dessus sur la population qu’ils gouvernaient. Le niveau relativement élevé de sécularisation, le caractère très étendu du fonds de connaissances testables et valides [reality-congruent] d’une époque ultérieure, et une formation de la conscience qui, chez les adultes, est aujourd’hui devenue moins dépendante des contraintes externes, réelles ou imaginaires, peuvent rendre difficile la compréhension de l’idée qu’à un stade de développement où le fonds de connaissances valides était considérablement plus restreint, le besoin social d’un savoir magico-mythique des voies du monde spirituel (qui forme le cœur de la profession-vocation d’un prêtre) était beaucoup plus fort, et que le pouvoir des prêtres était en conséquence plus grand."
+      ],
+      "page": "144"
+    },
+    {
+      "id": "elias-viii-05",
+      "type": "paragraph",
+      "zh": [
+        "在科学出现以前的国家社会中，祭司一般是保存、发展并传授社会基本定向手段及知识储备的主要专门人员。巫术神话知识也比科学知识容易垄断得多。这样看来，在古代苏美尔的城邦里，祭司成为最有权力的统治群体，或在武士取得优势后成为第二有权力的群体，就不足为奇了。有些群体的社会需要构成了祭司权力的基础。祭司也帮助强化、再生产了这些需要，但这一点不该让我们忽略，在人类发展的那个阶段，这些需要是真实存在的。把当代的需要结构和约束结构投射到以往的时代，会妨碍我们理解以往的时代。当代国家社会高度依赖知识的科学生产，其成员可以借助一整套与现实相符的定向手段。今天的儿童可以轻易学会的知识，在较早的发展阶段往往根本不存在。即便展示给当时社会的人，他们多半也完全无法理解。从某种意义上说，已经知道的人可能觉得，那些不知道的人所处的知识境况难以理解。他们可能很难设身处地地想象那些从前尚不知道的人，或现在还不知道的人，而社会科学研究者总体上没能使这种理解变得容易。他们没有成功充当那些人的解释者，后者的可靠知识也许要细致得多，但范围远没有研究者自己的知识广。今天，人们很少经历无从知道的情形，很少遇到无法命名的事件。人如果不能为事件命名，将事件归入共有的符号储备，从而对它们分类，就无法生存。因此，在可靠知识储备相对有限的漫长时代，人们用经共同体定型的幻想性知识填补这些空缺。另一方面，在我们称为发达的当代社会中，人们往往觉得自己面临的危险太多，所处的不安全状态也太严重，至少同自己的愿望和需要相比是如此。所以他们难以明白，当代工业社会的危险程度比中世纪社会低得多，也比这里谈到的古代美索不达米亚诸国低得多。在这一点上，工业民族国家的成员也往往缺乏想象力。除了少数例外，无论贫富，也无论健康还是患病，他们都享有比较高的安全水平，自己却似乎很少察觉。他们很难理解，较早的国家社会应对各种危险的能力要弱得多。他们试着说明早期社会成员承受约束的方式，包括良知形成的方式，与自己的方式有何不同时，往往找不到恰当的话语。过去的人要控制自己，就必须在更大程度上依靠对外部力量的畏惧，其中包括对神灵的畏惧。"
+      ],
+      "en": [
+        "Dans les sociétés à État préscientifiques, les prêtres étaient généralement les principaux spécialistes de la préservation, du développement et de la transmission des moyens d’orientation de base d’une société, et de son fonds de connaissances. En outre, les connaissances magico-mythiques peuvent beaucoup plus facilement être monopolisées que les connaissances scientifiques. C’est pourquoi, il n’est pas surprenant que dans les cités-États de l’antiquité sumérienne, les prêtres formèrent le groupe dominant le plus puissant ou, après que les guerriers eurent pris l’ascendant sur eux, le deuxième groupe le plus puissant. Le fait que les prêtres aient également contribué à renforcer et à reproduire les besoins sociaux des groupes qui formaient la base de leur pouvoir ne doit pas détourner l’attention de la réalité de ces besoins à ce stade du développement de l’humanité. La projection d’une structure contemporaine de besoins — et de contrainte — sur celle d’époques antérieures empêche la compréhension de ces dernières. Les sociétés à État contemporaines sont extrêmement dépendantes de la production scientifique de connaissances. Leurs membres peuvent s’appuyer sur tout un corps de moyens d’orientation valides. Les connaissances que les enfants apprennent aujourd’hui avec une grande facilité étaient dans beaucoup de cas inexistantes à un stade antérieur de développement, et auraient sans doute été complètement incompréhensibles pour les représentants des sociétés anciennes si elles leur avaient été présentées. D’une certaine manière, les gens qui savent déjà peuvent trouver incompréhensible la situation de connaissance de ceux qui ne savaient pas. Ils peuvent trouver extrêmement difficile de se mettre dans la position de ceux qui ne savaient (ou ne savent) pas encore, et les chercheurs en sciences sociales ont dans l’ensemble échoué à leur rendre plus facile la compréhension de cette situation. Ils n’ont pas réussi à agir comme les interprètes d’êtres humains dont le fonds de connaissances valides, bien que peut-être beaucoup plus détaillé, était beaucoup moins étendu que le leur. Aujourd’hui les gens font rarement l’expérience de ne pas savoir, de rencontrer des événements pour lesquels ils ne disposent d’aucun nom. Les êtres humains ne peuvent survivre s’ils ne peuvent classer les événements en leur donnant un nom, en les replaçant dans leur fonds de symboles communs. Ainsi, durant les longues époques durant lesquelles leur fond de connaissances valides est demeuré comparativement restreint, les gens comblaient ces lacunes avec des connaissances fantasmatiques standardisées par la communauté. Par ailleurs, les membres des sociétés contemporaines que nous appelons avancées trouvent souvent que le niveau d’insécurité et les dangers auxquels ils sont exposés sont beaucoup trop grands, du moins rapportés à leurs propres aspirations et à leurs propres besoins. Par conséquent, ils ne parviennent pas à comprendre que le niveau de danger dans les sociétés industrielles contemporaines est bien inférieur à celui des sociétés médiévales, ou, dans ce cas précis, à celui des États de la Mésopotamie antique. Sous cet aspect, aussi, l’imagination des membres des États-nations industriels fait souvent défaut. À peu d’exceptions, ils jouissent, qu’ils soient malades ou en bonne santé, riches ou pauvres, d’un niveau de sécurité comparativement élevé qu’ils semblent à peine remarquer. Ils comprennent difficilement que dans les sociétés à État antérieures, la capacité de maîtriser les divers dangers était bien moindre. Les mots leur manquent lorsqu’ils essayent de montrer que le modèle de contrainte des membres des sociétés antérieures — y compris la formation de leur conscience — était différent du leur. Pour se contrôler eux-mêmes, il fallait à ces gens du passé compter dans une plus grande mesure sur la crainte de forces extérieures, y compris la crainte des dieux."
+      ],
+      "page": "144–145"
+    },
+    {
+      "id": "elias-viii-06",
+      "type": "paragraph",
+      "zh": [
+        "部落村落逐步发展为城邦，是人类社会发展中最重要的阶段之一。它意味着分化与整合达到了新的程度。美索不达米亚考古学的进展，大大加深了我们对这一过程的理解。具有自身特性的国家构型，是一种新的组织类型，先前各阶段没有这种特性。它的形成无疑经历了很长时间，至少数百年，也许超过一千年。从村落到城邦，是一个包含许多中间阶段的连续过程。"
+      ],
+      "en": [
+        "Le processus qui a vu les villages tribaux se développer en cités-États représenta une des étapes les plus importantes dans le développement des sociétés humaines. Il signifia un nouveau degré de différentiation et d'intégration. Les progrès de l’archéologie mésopotamienne ont considérablement accru notre compréhension de ce processus. Le développement au cours duquel émergea ce nouveau type d’organisation, la configuration nouvelle d’un État avec ses qualités propres qu’on ne retrouve pas aux niveaux précédents, a sans doute pris beaucoup de temps, certainement quelques siècles et peut-être plus de mille ans. Un processus continu comprenant de nombreuses étapes intermédiaires lia le stade du village à celui de la cité-État."
+      ],
+      "page": "145"
+    },
+    {
+      "id": "elias-viii-07",
+      "type": "paragraph",
+      "zh": [
+        "城邦有个很明显的特点。具有国家结构特征的生存单位，把更多的人相互联系起来。这么多人共同生活之所以成为可能，并且成为社会成员不得不接受的现实，是因为他们彼此之间形成了新的构型，尤其是新的生活方式。这要求他们采取新的控制方式，既包括他人的控制，也包括自我控制。统治、集中协调、领导和控制其他一切活动、维持国家内部的和平、保护公民免受外部侵袭，至此都成了常设的专门职能。承担这些社会职能的人免除了大部分其他社会任务，首先是不必再维持自己的生计。这样一来，他们就在地位和权力上同别的所有群体分开了，产生了村落阶段不曾有过的那么大的社会距离。同样，生产粮食或手工制品的人，如今也成了常设的专门人员。在集中治理的职能还没有成为由特定群体、个人或家族垄断的常设专门职能之前，这种意义上的专门人员并不存在。部落或村落阶段，按年龄和性别群体分层是常态。祭司和铁匠是为数不多的专业人员。到了国家阶段，职业分层则渗透各个社会层面。生产粮食如今成了一种常设的、排他的专门职能，这无疑有助于提高农业产出，却也使粮食生产者完全被排除在国家社会的领导、协调与控制职能之外。"
+      ],
+      "en": [
+        "L’une des caractéristiques évidentes de cette dernière était le plus grand nombre de personnes liées les unes aux autres au sein de l’unité de survie disposant des caractères structurels d’un État. Mais vivre ensemble en grand nombre ne fut rendu possible, et ne s’imposa aux membres de ces sociétés, que par la nouvelle configuration qu’ils formaient les uns avec les autres, notamment par un nouveau mode de vie. Il nécessita un nouveau mode de contrôle à la fois par les autres et par soi-même. Le gouvernement, la coordination centralisée, la direction et le contrôle de toutes les autres activités, le maintien de la paix au sein de l’État, et la défense de ses citoyens contre les attaques extérieures devinrent désormais des spécialités permanentes. Ceux qui remplirent ces fonctions sociales furent libérés de la plupart des autres tâches sociales, et par-dessus tout de la nécessité d’assurer leur propre subsistance, ce qui les séparait de tous les autres groupes par des différences de statut et de pouvoir, et produisait ainsi une distance sociale d’une ampleur inconnue au niveau du village. De la même manière, ceux qui produisaient la nourriture ou les biens manufacturés devinrent désormais aussi des spécialistes permanents en un sens qui n’existait pas avant que les fonctions centralisées de gouvernement ne prennent les caractéristiques d’une spécialité permanente monopolisée par certains groupes, certaines personnes, ou certaines familles. Au stade tribal ou villageois, la norme était une stratification en termes de groupes d’âge et de sexe. Parmi les rares spécialistes professionnels, on trouvait les prêtres et les forgerons. Au stade étatique, au contraire, la stratification professionnelle imprègne l’ensemble du tissu social. Le fait que la production de nourriture soit désormais devenue une spécialité permanente et exclusive a sans aucun doute joué un rôle significatif dans l’augmentation du produit agricole, mais il a aussi signifié l’exclusion des producteurs de nourriture de toute participation dans les fonctions de direction, de coordination, et de contrôle d’une société à État."
+      ],
+      "page": "145"
+    },
+    {
+      "id": "elias-viii-08",
+      "type": "paragraph",
+      "zh": [
+        "从前国家的组织水平发展到国家组织水平，这个过程以及许多与它并行的变化，今天在一定程度上被一种概念化方式挡住了，难以得到理解。它相当含混地把社会分成四五个静态领域，以“政治”“经济”“文化”“宗教”等术语来称呼这些领域，并且通常把它们视为一切社会共有的普遍项，和社会的发展程度无关。然而，人们很少能把这类概念准确地联系到各人类群体所履行的专门职能上，而这些职能取决于所属社会的整合与分化阶段。因此，“社会分化”和“职能分工”等术语，尤其是后者较为人熟知的说法“劳动分工”，经常只用来指称被视为社会经济领域的现象。把“社会分化”，尤其是“劳动分工”，用于政治领域，或许显得颇为冒险。中央政府的形成，其实是产生了一组持久分化的职能，却往往因此没有被明确理解为社会进一步分化的过程。"
+      ],
+      "en": [
+        "La compréhension de ce processus de développement d’un niveau préétatique à un niveau étatique d’organisation (et de beaucoup d’autres changements parallèles) est à présent, dans une certaine mesure, bloquée par un mode de conceptualisation qui divise les sociétés, d’une manière plutôt vague, en quatre ou cinq sphères statiques. Celles-ci sont présentées dans des termes tels que « politique », « économique », « culturel » ou « religieux », et sont généralement conçues comme des universaux présents dans toutes les sociétés quel que soit leur niveau de développement. Ils sont cependant rarement reliés avec précision aux fonctions spécialisées accomplies par des groupes humains selon le stade d’intégration et de différentiation de leur société. En conséquence, des termes tels que « différentiation sociale » et « division des fonctions » (cette dernière avant tout sous sa forme mieux connue de « division du travail »), sont souvent restreints à ce qui est considéré comme la sphère économique de la société. Il peut sembler périlleux d’appliquer des termes comme « différenciation sociale » et surtout « division du travail », à la sphère politique, par exemple. C’est pourquoi, l’émergence d’un gouvernement central comme ensemble de fonctions différenciées de façon permanente n’est souvent pas clairement identifiée comme un processus de différenciation croissante des sociétés."
+      ],
+      "page": "145–146"
+    },
+    {
+      "id": "elias-viii-09",
+      "type": "paragraph",
+      "zh": [
+        "较早的研究，特别是戈登·柴尔德的研究，",
+        {
+          "type": "note",
+          "id": "elias-note-6",
+          "label": "6"
+        },
+        " 发现了一个今天已得到广泛承认的事实。苏美尔城邦有许多不自行种植粮食的专门群体。这样的城邦之所以能够出现，是因为农业已发展到一定水平，农村劳动者可以生产农业剩余，所产粮食超过自己和家人的生存需要。人们常把粮食剩余的生产视为城市性聚落形成的条件。这类聚落容纳了很多不自行种植粮食的群体。人们也许没有同样清楚地看到，这些城市也具备国家特征，而这一点十分重要。承认这一点或许令人不快，但不能回避这个事实。在那个阶段，粮食剩余如何生产、如何分配，更广泛地说，社会如何形成资本积累，在很大程度上取决于外部约束采取的形式。起初，这些约束借助人们对女神、男神以及男女祭司的法力的畏惧强加给他们，也可能由军事首领及其追随者强加给他们，而这些人似乎也从诸神那里获得力量。在这些早期阶段，而且事实上延续了很久，统治群体用自己的权力肆意支配和剥削，把许多在田地或灌溉工地上劳动的人压在仅能维持生计的水平。据推测，起初是祭司发明了文字，用来管理大量应献给诸神的粮食和手工制品。这些物品储存在庙宇建筑里，再分配给国家人口的不同阶层。如此庞大的组织，已经无法只靠侍神者的记忆来管理和控制。书面的账目大大简化了对庙宇收支的管理和控制。宫廷和庙宇组织从粮食生产者和工匠手里攫取大量剩余，很可能是苏美尔文化充分繁荣的条件之一。可是，人们常常看不清，当初正是国家中央组织的约束同时促成了剩余的生产与分配，或许因为这一点太令人不快了。因此，所谓城市革命，似乎完全可以从经济上得到解释。人们十分关注大河三角洲土壤的肥沃，也十分关注精巧的灌溉网络带来的农业产量。揭示农业剩余在苏美尔城市发展中的作用，的确是一项科学进步。但这一进步是在一种单因理论的主导下取得的。这种理论把可归为经济的因素视为其他一切发展的唯一根源。"
+      ],
+      "en": [
+        "Des travaux plus anciens, en particulier ceux de Gordon Childe",
+        {
+          "type": "note",
+          "id": "elias-note-6",
+          "label": "6"
+        },
+        ", ont découvert le fait, aujourd’hui largement reconnu, que l’émergence des cités-États sumériennes, avec leur nombre considérable de groupes spécialisés ne cultivant pas leur propre nourriture, a été rendue possible par un développement de l’agriculture à un niveau pour lequel ceux qui travaillaient à la campagne produisaient un surplus agricole, c’est-à-dire plus de nourriture que ce dont ils avaient besoin pour leur propre survie et celle de leurs familles. On a souvent analysé la production d’un surplus alimentaire fut largement perçue comme la condition de l’émergence d’installations humaines ayant les caractéristiques d’une ville, contenant beaucoup de groupes qui ne cultivaient pas leur propre nourriture. Ce qu’on a peut-être vu moins clairement est la signification du fait que les cités possédaient également les caractéristiques d’un État. Il est peut-être désagréable de l’admettre, mais on ne peut pas faire l’impasse sur le fait qu’à ce stade la production et la distribution d’un excédent alimentaire et, plus généralement, la production d’un capital social, dépendait dans une large mesure des formes que prenaient les contraintes externes. Ces contraintes ont d’abord été imposées à la population par la crainte des déesses et des dieux, et des pouvoirs magiques des prêtres et des prêtresses, ou par les seigneurs de la guerre et leurs partisans, qui paraissaient aussi tenir leur puissance des dieux. Durant ces premiers stades, et en fait pour une longue période, ces groupes dirigeants utilisèrent leur pouvoir pour dominer et exploiter sans bornes, confinant beaucoup de ceux qui travaillaient sur la terre ou sur les chantiers d’irrigation à un niveau de pure subsistance. Vraisemblablement, les prêtres inventèrent d’abord l’art de l’écriture comme un moyen de contrôle des grandes quantités de nourriture et de produits manufacturés qui étaient dus aux dieux, stockés dans les bâtiments du temple, et redistribués de là à diverses couches de la population de l’État. Une organisation si gigantesque ne pouvait plus être gérée et contrôlée au seul moyen de la mémoire des serviteurs des dieux. Les comptes écrits facilitèrent grandement la gestion et le contrôle des revenus et des dépenses d’un temple. L’extraction d’un large surplus pris aux producteurs de nourriture et aux artisans par les organisations du palais et du temple fut selon toute probabilité l’une des conditions du riche épanouissement de la culture sumérienne. Mais souvent le fait que les contraintes de l’organisation centralisée de l’État étaient initialement à la racine aussi bien de la production que de la distribution d’un surplus n’est pas clairement perçu, probablement parce qu’il nous est trop désagréable. Pour cette raison, la révolution urbaine, comme on l’a appelée, a paru entièrement explicable en termes économiques. On a prêté beaucoup d’attention à la grande fertilité du sol dans le delta des grands fleuves, et au rendement agricole dû à un ingénieux réseau d’irrigation. La découverte du rôle joué par l’excédent agricole dans le développement des cités sumériennes a représenté un authentique progrès scientifique. Mais celui-ci a été réalisé sous l’égide d’une théorie monocausale considérant les facteurs qui pouvaient être classés comme économiques, comme la seule et unique source de tous les autres développements."
+      ],
+      "page": "146–147"
+    },
+    {
+      "id": "elias-viii-10",
+      "type": "paragraph",
+      "zh": [
+        "前面提过，苏美尔的村落不只发展成了城市，也发展成了城邦。专门化程度之高，尤其是在治理职能方面，为此前的人类社会所未曾达到。土壤肥沃和粮食剩余的生产无疑在这一发展中起了作用，却不足以解释全过程。如果没有可观的回报或强力的约束，自由农民几乎从不会费力年复一年地生产粮食剩余。难以想象古代苏美尔村民是个例外，也就是说，他们主动开始稳定地生产粮食剩余，然后才有了超出农业人口的、从事非农业活动的城市群体。这里不适合用单一的因果关系来解释。如果试着把零散的证据按过程串起来，就会看到一幅不同的图景。于是问题在于，哪些履行社会职能的人拥有足够的权力资源，能迫使粮食生产者从事生产粮食剩余所需的繁重劳动，即便自然条件已经极为有利？哪个群体或哪些群体有权兴建灌溉设施，并控制其建设和维护？谁有权协调劳动力，让粮食剩余能够稳定地产出、运输和分配？现有证据给出了答案。苏美尔城邦围绕着两个核心发展起来。最早是庙宇，那里供奉着神，也是祭司的据点。其次是宫殿，那里是军事首领或国王的驻地，也是他手下武士和行政人员的据点。"
+      ],
+      "en": [
+        "Ce qui arriva à Sumer, comme je l’ai mentionné, fut un développement des villages non seulement en cités, mais aussi en cités-États avec un niveau de spécialisation (particulièrement des fonctions gouvernementales) plus élevé qu’il n’avait jamais été atteint par les humains auparavant. La fertilité du sol et la production d’un surplus alimentaire joua sans aucun doute un rôle dans ce développement, mais ne peut l’expliquer totalement. Des paysans libres ne se donnent pratiquement jamais la peine de produire un surplus alimentaire année après année sans de fortes récompenses ou une forte contrainte. Il est difficilement concevable que les villageois de l’antiquité sumérienne représentaient une exception, en d’autres termes, qu’ils commencèrent à produire un excédent alimentaire régulier qui donna par la suite naissance à un excédent démographique de groupes urbains non-agraires. Une explication moniste en terme de cause et d’effet n’a pas sa place ici. En revanche une image différente ressort si l’on essaie de rassembler les fragments de preuve non pas sous forme causale, mais sous la forme d’un processus. Émerge alors la question de savoir quels fonctionnaires sociaux avaient à leur disposition des ressources de pouvoir suffisantes, pour obliger les producteurs de nourriture à accomplir le dur travail requis pour la production d’un surplus alimentaire même sous les conditions naturelles les plus favorables. Quel groupe (ou quels groupes) avait le pouvoir de développer et de contrôler la construction et le maintien de dispositifs d’irrigation ? Qui avait l’autorité pour coordonner la main-d’œuvre sur laquelle reposaient la production régulière, le transport et la distribution d’un surplus alimentaire ? Les preuves existantes fournissent une réponse. Le noyau autour duquel la cité-État sumérienne se développa fut en premier lieu le temple, siège d’un dieu et bastion des prêtres, et en second lieu le palais, siège d’un seigneur de la guerre ou d’un roi, et bastion de ses guerriers et de ses administrateurs."
+      ],
+      "page": "147"
+    },
+    {
+      "id": "elias-viii-11",
+      "type": "paragraph",
+      "zh": [
+        "有人曾说，在这些早期阶段，占有经济剩余是两个统治群体的主要权力来源。但剩余并非早就存在。它随当时的人类组织一起增长，它本身就是这种组织的一部分。这一组织逐渐具备城邦的特征，起初以庙宇为中心，后来以庙宇和宫殿为两个中心。因果解释会把问题弄得模糊，这类情形更适合用过程来解释。我们只了解这一过程的最后阶段，但这一阶段已经相当清楚地显示了两方面的关系。在压力下生产粮食剩余的耕作者，为非农业城市人口的存在创造了条件。另一方面，粮食剩余要稳定产出，也离不开一种能够协调农业劳动、维护并防卫灌溉设施的国家组织。苏美尔有一处古老而受崇敬的圣所，即埃里都的圣所。以它为中心形成的聚落可能就是这样发展起来的。起初，沼泽或河流的支汊使那里免遭外部的不断袭击，也许还有大圣所的神明能让外部群体心生敬畏。后来，越来越多的城邦争夺霸权，专司战争的群体取得了对祭司的优势。后者原有的自然和巫术特征，也得到人为建造物的补充，或被其取代，尤其是被城市的城墙取代。只要承认城邦的发展与粮食剩余的生产构成一个缓慢的过程，就更容易看清，祭司和武士起初的权力基础，主要来自其专门职能本身的特性。对经济资源的占有没有居于首位。\n\n祭司的权力首先源于他们与诸神的特殊关系，以及他们独占巫术神话式的定向手段。直到世俗知识出现，事实上在那之后很久，祭司始终在社会的地位与权力等级中占据高位。这可以作为衡量整个社会对这类知识的需要有多强、多迫切的经验指标。同样，如果军事首领、国王和他们的军队能维持并控制保障粮食剩余稳定产出的组织，首要原因是，自某个阶段起，定居城市的人群面临的危险已相当严重，例如每天都有遭到劫掠者袭击或与其他人群发生战争的风险。社会成员的人身安全乃至性命，都在很大程度上依赖于那些专司使用暴力或作战的人，也就是军人。几乎在所有地方，军人都形成了一个凭出身与其他群体有别的世袭阶层，在等级中位居最高。正如祭司的例子那样，一个专门群体的高地位，也可以作为衡量其所能满足的社会需要有多强、多迫切的指标。军人一再与某种形式的世袭贵族相联系，这表明几千年来，无论进攻性还是防御性的战争，在人类社会诸种需要中都占有高度优先地位。显然，就算人类社会结构的某些变化已减弱他们所满足的需要的强度和紧迫性，国王和贵族也维持了他们的最高地位。国王和传统武士阶级的后代如何丧失原有职能，这个问题可能值得更多关注。然而，这些专门群体长期位居权力和地位等级的顶端，多数时候远高于商人和其他经济专门群体。这一事实可以用来衡量社会对他们所能垄断的服务需要有多强、多迫切。"
+      ],
+      "en": [
+        "Il a parfois été dit de l’appropriation du surplus économique qu’elle était la principale source de pouvoir des deux groupes dirigeants durant ces premiers temps. Mais le surplus ne préexistait pas. Il grossit avec et fit lui-même partie de l’organisation humaine qui à l’époque prit les caractéristiques d’une cité-État centrée initialement sur le temple, puis sur le couple temple-palais. Une explication causale obscurcit le problème. Dans de tels cas une explication de type processuelle est plus appropriée. Le dernier stade du processus, qui seul nous est connu, montre assez clairement non seulement que l’excédent alimentaire produit sous la pression par ceux qui travaillaient la terre fut la condition de l’existence d’une population urbaine non-agricole, mais également qu’une organisation étatique capable de coordonner le travail agricole aussi bien que l’entretien et la défense des installations d’irrigation fut aussi une condition de la production régulière d’un surplus. Un groupement centré sur un sanctuaire sumérien vieux et vénéré, celui d’Eridu, a pu se développer dans ce sens, initialement protégé contre les attaques étrangères continuelles par les marécages ou par les bras de la rivière, et peut-être par le respect et la crainte que la divinité d’un grand sanctuaire pouvait inspirer à des groupes étrangers. Au fil du temps, de plus en plus de cités-États se trouvèrent en concurrence pour l’hégémonie, et les groupes spécialisés dans la guerre prirent l’ascendant sur les prêtres. Les caractères naturels et magiques de ces derniers furent complétés ou remplacés par des réalisations humaines, particulièrement par les murs de la cité. Une fois admis que le développement d’une cité-État et la production d’un excédent alimentaire, représentèrent un processus lent, il devient plus facile de voir que ce ne fut pas d’abord l’appropriation des ressources économiques qui constitua le fondement du pouvoir des prêtres et des guerriers, mais plutôt les caractéristiques inhérentes à leur spécialisation. Le pouvoir des prêtres dérivait en premier lieu de leur relation particulière avec les dieux, de leur possession exclusive des moyens d’orientation du type magico-mythique. En fait, la position élevée des prêtres dans la hiérarchie de statut et de pouvoir des sociétés jusqu’à l’émergence de connaissances sécularisées (et en réalité bien au-delà) peut servir comme mesure empirique de la force et de l’intensité du besoin de telles connaissances dans la société en général. De la même manière, si les seigneurs de la guerre ou les rois et leurs troupes furent capables de maintenir et de contrôler l’organisation qui assurait la production régulière d’un excédent alimentaire, ce fut d’abord parce qu’à partir d’un certain stade, le danger auquel étaient exposés les groupes humains installés dans les cités — comme le risque quotidien d’une attaque par des maraudeurs ou d’une guerre par des ennemis humains — était tellement important que la dépendance des membres d’une société pour leur sécurité physique (et en fait pour leur survie) vis-à-vis des spécialistes de l’usage de la violence ou de la guerre — en d’autres termes vis-à-vis des militaires — était considérable. Presque partout les militaires prirent le caractère d’une caste séparée des autres groupes par leur naissance, occupant le rang le plus élevé. Comme dans le cas des prêtres, là aussi le statut élevé d’un groupe de spécialistes peut être considéré comme une mesure de la force et de l’intensité des besoins sociaux qu’il peut satisfaire en vertu de sa spécialisation. Le fait qu’une forme de noblesse héréditaire en vint avec une grande régularité à être associée aux militaires est un indice de la grande priorité que représenta pendant des milliers d’années la guerre, défensive ou offensive, parmi les besoins des sociétés humaines. À l’évidence, les rois et les nobles maintinrent leur suprématie même après que des changements spécifiques de la structure des sociétés humaines eurent diminué la force et l’urgence des besoins sociaux qu’ils remplissaient. On est tenté de penser que la question de la défonctionalisation des rois et des descendants des classes guerrières traditionnelles mériterait plus d’attention. Cependant, le fait que ces groupes de spécialistes sociaux occupèrent longtemps la position la plus haute dans la hiérarchie de pouvoir et de statut, la plupart du temps bien supérieure à celle des marchands et autres groupes de spécialistes économiques, peut servir de mesure de la force et de l’urgence de la demande des services qu’ils étaient en mesure de monopoliser."
+      ],
+      "page": "147–148"
+    },
+    {
+      "id": "elias-viii-12",
+      "type": "paragraph",
+      "zh": [
+        "一个完整的、多元的人类社会发展模型，除经济功能之外，还应纳入若干其他功能。相关群体能把其专门职能固定为世袭垄断时，尤其如此。教会常声称自己享有世代相传的权利，可以授予祭司合法身份。贵族则在许多情况下成功主张了独占军队指挥职位的权利。更一般地说，对定向手段和暴力工具的垄断，以及与之相关的权力斗争，应当同对生产资料的垄断及其引发的冲突并列。它们各是社会发展中不可还原的因素。另一个群体是高级官员，这里只能顺带一提。他们相对较大的权力，以垄断取得国家高级职位的途径为基础。最后，正如我已经说过的，在我们这个时代，政党政治家也加入了统治群体的行列。随着功能性民主化，不论在多元国家还是一党制里，群众性政党都能够垄断进入政府职位的途径，进而垄断掌握国家中央垄断机构的途径。"
+      ],
+      "en": [
+        "Un modèle pluraliste exhaustif du développement des sociétés humaines devrait inclure, en plus des fonctions économiques, un certain nombre d’autres fonctions, particulièrement lorsque les groupes concernés furent capables de pérenniser leur spécialisation sous la forme d’un monopole héréditaire. Les églises ont souvent revendiqué le droit héréditaire de légitimer les prêtres, et les nobles ont dans beaucoup de cas revendiqué avec succès l’accès exclusif aux positions de commandement des forces armées. Plus généralement, on peut dire que la monopolisation des moyens d’orientation et des instruments de violence (et les luttes de pouvoir qui leur sont liées) doit être placée côte à côte avec la monopolisation des moyens de production et les conflits en résultant, comme facteurs irréductibles du développement d’une société. Un autre groupe, que je ne peux mentionner qu’en passant, est celui des hauts fonctionnaires, groupe dont le pouvoir relativement élevé est fondé sur un contrôle monopolistique de l’accès aux hauts postes de l’État. Enfin, à notre époque, les politiciens de parti, comme je l’ai déjà mentionné, ont rejoint les rangs des groupes dirigeants. Au cours d’un processus de démocratisation fonctionnelle, les partis de masse, à la fois dans les États pluralistes et dans les systèmes à parti unique, furent capables de monopoliser l’accès aux postes gouvernementaux d’un État, et donc aux monopoles centraux d’État."
+      ],
+      "page": "148"
+    },
+    {
+      "id": "elias-viii-13",
+      "type": "paragraph",
+      "zh": [
+        "社会内部日渐和平，由此带来更大的人身和法律安全。这有助于提高两类经济专门群体的权力潜能（",
+        {
+          "type": "em",
+          "children": [
+            "power potential"
+          ]
+        },
+        "），一类控制资本，一类控制劳动力。在十九和二十世纪经历工业化的大多数国家，这两个相互依赖的群体之间的持久斗争，曾占据社会舞台的中心。这是一个非常重要的过渡阶段。在大部分农工业劳动和一部分服务实现机械化以前，冲突双方谁也不能压倒对方。权力均衡向控制投资手段、因而也控制就业结构的一方倾斜，但这一方的权力优势始终不足以实现他们有时追求的那种无人争议的统治。工人组织的领导者同样无法实现自己的相应目标。工人的职业团体虽大大提高了工人的权力潜能，产业工人阶级作为满足社会基本需要的社会职能承担者（",
+        {
+          "type": "em",
+          "children": [
+            "social functionaries"
+          ]
+        },
+        "），其自身资源仍从未强到足以对其他群体，包括控制资本的群体，取得持久的优势。有些工人代言人把这视为理想，但无论通过暴力还是非暴力手段，都无法实现。以产业工人的名义进行的革命，以牺牲包括产业工人自己在内的一切其他群体的权力为代价，扩大了政党领导层（",
+        {
+          "type": "em",
+          "children": [
+            "party establishments"
+          ]
+        },
+        "）的权力。它让政党领导层取得了对暴力手段和征税手段的控制，也取得了对资本乃至就业机会的控制。此外，政党领导层还获得了对组织和知识的垄断控制。"
+      ],
+      "en": [
+        "La pacification interne croissante et son corollaire, une plus grande sécurité physique et légale, ont aidé à augmenter le potentiel de pouvoir [power potential] de deux groupes de spécialistes économiques, celui qui contrôle le capital et celui qui contrôle le travail. Une lutte prolongée entre ces deux groupes interdépendants a occupé le centre de la scène sociale dans la plupart des pays qui ont connu l’industrialisation au cours du dix-neuvième et vingtième siècle. Ce fut un épisode transitoire de grande importance. Jusqu’à ce que le gros du travail agricole et industriel, et une partie des services devinssent mécanisés, aucun des deux groupes en conflit ne pouvait prendre le dessus. L’équilibre du pouvoir entre eux penchait en faveur des détenteurs du contrôle des moyens d’investissement et donc de la structure de l’emploi, mais leur surplus de pouvoir n’était jamais suffisant pour atteindre la domination incontestée à laquelle ils aspiraient parfois. Le but correspondant n’était pas non plus à la portée des dirigeants des organisations ouvrières. Bien que les associations professionnelles des travailleurs améliorèrent grandement le potentiel de pouvoir de ces derniers, les ressources intrinsèques des classes ouvrières industrielles en tant que groupe de fonctionnaires sociaux [social functionaries] remplissant les besoins de base de la société, ne furent jamais suffisamment importantes pour atteindre une supériorité durable sur les autres groupes, y compris ceux contrôlant le capital. Cet idéal de quelques-uns de leurs porte-parole était aussi inatteignable par des moyens violents que par des moyens non violents. La révolution au nom des travailleurs de l’industrie augmenta le pouvoir des directions de partis politiques [party establishments] aux dépens de tous les autres groupes, y compris les travailleurs de l’industrie eux-mêmes. Elle conféra à la direction du parti, non seulement le contrôle des moyens de violence et de taxation, mais aussi le contrôle du capital et donc des opportunités d’emploi. En outre, la direction gagna aussi le contrôle monopolistique de l’organisation et de la connaissance."
+      ],
+      "page": "148–149"
+    },
+    {
+      "id": "elias-viii-14",
+      "type": "paragraph",
+      "zh": [
+        "前面提到四类基本社会需要，以及能够满足这些需要的专门职能，这个清单并未穷尽所有情形。专司暴力手段、定向手段、资本积累和投资，以及负责组织其他人口群体的人群，曾在不同时期分别掌握国家的中央垄断机构，从而单独或联合履行社会的领导职能。国家内部或国家之间一再发生权力冲突。有时是相互竞争的统治集团之间的冲突，有时是既立群体与局外人之间的冲突。换言之，各种争夺霸权",
+        {
+          "type": "note",
+          "id": "elias-note-7",
+          "label": "7"
+        },
+        "和求取生存的斗争，是社会发展的最强动力之一，也可能就是其中最强的动力。这些冲突本身是盲目的，人们被卷入其中，结果也非其本意。有时结果是一步步、曲折地上升到更高的整合和分化程度，有时是迅速跃升。在别的情形下，结果是降到较低的组织水平，甚至衰落或解体。"
+      ],
+      "en": [
+        "Les quatre types de besoins sociaux de base, et de spécialisations capables de les satisfaire mentionnés ci-dessus, n’en épuisent pas la liste. Les groupes humains spécialisés dans les moyens de violence, d’orientation, d’accumulation du capital et d’investissement, ainsi que dans l’organisation des autres groupes de la population, furent capables, à un moment ou à un autre, de contrôler les monopoles centraux d’un Etat et ainsi, seuls ou en partenariat, de remplir les fonctions de direction de leur société. Les conflits de pouvoir récurrents au sein des Etats ou entre ceux-ci, que ce soit entre des establishments concurrents ou entre les établis et les outsiders — en d’autres termes, les luttes d’hégémonie",
+        {
+          "type": "note",
+          "id": "elias-note-7",
+          "label": "7"
+        },
+        " et de survie de divers types — formèrent l’une des plus puissantes, sinon la plus puissante force motrice du développement des sociétés. En tant que tels, ces conflits étaient aveugles ; ils engagèrent les personnes et débouchèrent sur des résultats non intentionnels. Dans certains cas, ces résultats furent une ascension progressive et accidentée ou parfois une poussée rapide vers un degré plus élevé d’intégration et de différentiation ; dans d’autres il s’est agi d’une descente vers un niveau d’organisation inférieur, de déclin ou de désintégration."
+      ],
+      "page": "149"
+    },
+    {
+      "id": "elias-viii-15",
+      "type": "paragraph",
+      "zh": [
+        "这里以一个可检验的模型简要考察了统治群体的变化。它们所体现的人类结构变化，还有很多细致的研究工作要做。“人类的结构”这个说法，今天听起来也许仍很陌生。但只要看到各社会内部及社会之间的关系结构，其变化在功能上彼此依赖，这个概念就不可或缺了。“人类”只是人类社会总和的另一个名称，也指全部生存单位的构型所经历的变革过程，无论这些单位采取亲属群体、部落还是国家的形式。过去，“人类”往往象征一个过于遥远、超出社会科学调查所能及的理想。今天它已经不那么遥远了，也无须把它当作理想。当世界上不同的部落和所有国家联系得愈来愈紧密时，“人类”越来越可以成为社会学调查的一个可用参照框架，用来考察社会发展的过去和现在。这个概念指向更高层面的综合，体现了人类社会发展的长期连续性，因此成为发现和理解过去与现在的一条必由之路。"
+      ],
+      "en": [
+        "Il reste beaucoup de travail à effectuer de façon détaillée sur les changements de la structure de l’humanité qui trouvent leur expression dans les changements de groupe dirigeant brièvement étudiés ici sous la forme d’un modèle testable. L’expression « structure de l’humanité » peut encore à présent sonner de façon peu familière à nos oreilles. Mais elle devient un concept indispensable si l’on considère que les changements structurels de relations au sein des sociétés et entre celles-ci sont fonctionnellement interdépendants. L’humanité est simplement un autre mot pour désigner la totalité des sociétés humaines, et le processus de transformation des configurations de toutes les unités de survie, que celles-ci aient le caractère de groupes de parenté, de tribus, ou d’États. En d’autres temps le terme « humanité » a souvent servi comme symbole d’un idéal trop éloigné et hors de portée des enquêtes de sciences sociales. Il n’est aujourd’hui plus si éloigné. Et il ne s’agit pas non plus d’un idéal. À une époque où toutes les différentes tribus, tous les États du monde, sont de plus en plus étroitement rassemblés, l’humanité représente de plus en plus un cadre de référence opératoire pour des enquêtes sociologiques sur les phases passées aussi bien que présentes du développement social. Comme symbole d’un haut niveau de synthèse, représentant la continuité de long terme du développement des sociétés humaines, le concept devient une porte d’entrée indispensable pour la découverte et la compréhension du passé comme du présent."
+      ],
+      "page": "149"
+    },
+    {
+      "id": "elias-section-ix",
+      "type": "heading",
+      "zh": [
+        "IX"
+      ],
+      "en": [
+        "IX"
+      ],
+      "page": "150"
+    },
+    {
+      "id": "elias-ix-01",
+      "type": "paragraph",
+      "zh": [
+        "许多问题目前仍待回答。其中之一是，为什么印度—雅利安诸民族的不同分支，似乎相对早地就形成了不同的祭司与武士关系？入侵印度的说雅利安语的群体形成国家的过程中，祭司上升到地位与权力等级的顶端，成为地位最高的种姓，武士种姓次之。同样，在凯尔特人与盖尔人中，被称为德鲁伊的祭司可能也承担某些领导职能，并且在地位与权力等级中占有很高的位置。而在希腊、意大利诸族（",
+        {
+          "type": "em",
+          "children": [
+            "peuples italiques"
+          ]
+        },
+        "）、日耳曼和斯拉夫诸民族形成国家的过程中，武士占了祭司的上风。特别是在希腊，男女祭司虽然在德尔斐等圣所居于主导地位，却似乎输掉了与贵族武士争夺最高权力的斗争，特别是没有争得社会上的主导职位。在荷马史诗中，已经可以看到武士的优势。诸神往往与贵族武士交往，或无须经过祭司居间，就直接支配武士的命运，有时仿佛诸神自己也不过是一个力量更强的贵族种族。假如希腊的武士和祭司之间那场旷日持久的竞争走向与印度相同，也就是祭司同样占了武士的上风，就很难想象古希腊会出现大规模的世俗化，并在罗马人中持续一段时间。中世纪教皇同皇帝争夺最高权力的大斗争也是如此。再次试想，假如组织成教会的祭司占了国王和贵族的上风，而国王和贵族正是旧时武士阶级在职能上的继承者，那么，以自然科学的兴起为突出表现的第二次大规模世俗化，也就很难发生。"
+      ],
+      "en": [
+        "Parmi les nombreuses questions laissées en suspens pour le moment demeure celle de savoir pourquoi des relations différentes entre les prêtres et les guerriers semblent s’être développées relativement tôt dans différentes branches des peuples indo-aryens. Dans le processus de formation étatique des groupes aryanophones qui envahirent l’Inde, les prêtres émergèrent au sommet de la hiérarchie de statut et de pouvoir. Ils formèrent la caste la plus élevée, suivie de celle des guerriers. De même, parmi les peuples celtiques et gaéliques, des prêtres appelés druides ont pu occuper certaines fonctions de direction et une position très élevée dans la hiérarchie de statut et de pouvoir. En revanche, dans les processus de formation étatique des peuples hellénique, italique, germanique et slave, les guerriers prirent l’ascendant sur les prêtres. Chez les Grecs en particulier, les prêtres et les prêtresses, bien qu’ils jouaient un rôle dominant dans certains sanctuaires comme celui de Delphes, semblent avoir perdu la lutte de concurrence pour la suprématie et particulièrement pour les positions dominantes dans la société au profit des guerriers nobles. Déjà, dans Homère, on peut constater la suprématie des guerriers. Les dieux s’y associent souvent avec des guerriers nobles, ou dirigent leurs destins sans l’intermédiaire des prêtres et parfois comme si eux-mêmes étaient simplement une race plus puissante de nobles. Il est difficile d’imaginer qu’une grande poussée de sécularisation puisse avoir eu lieu chez les Grecs anciens et continué pour un temps chez les Romains si la vieille compétition entre guerriers et prêtres y avait pris le même tour qu’en Inde, c’est-à-dire si là aussi les prêtres avaient pris l’ascendant sur les guerriers. On peut dire la même chose de la grande lutte pour la suprématie entre le pape et l’empereur au Moyen Âge. Encore une fois, si les prêtres, organisés en églises, avaient pris l’ascendant sur les rois et les nobles (descendants fonctionnels des vieilles classes guerrières), la deuxième grande poussée de sécularisation représentée par-dessus tout par l’essor des sciences de la nature aurait difficilement pu avoir lieu."
+      ],
+      "page": "150"
+    },
+    {
+      "id": "elias-ix-02",
+      "type": "paragraph",
+      "zh": [
+        "随着时间推移，这两个专门群体的竞争已有所缓和。祭司和军人在大多数当代国家社会的权力与地位等级里，仍处在较高的位置。但与以往相比，社会已不像过去那样需要他们的服务。在许多情况下，经济专门人员和政党领导层已在权力与地位等级的上层超越了他们。科学工作者群体专司生产和传授基础知识，主要由他们向社会提供新的定向手段。因此，他们现在履行的是过去由祭司承担的职能。凭借各自的专长，他们的成员满足了另一种社会需要。不过，科学工作者群体的权力资源远没有经济界和政党领导层充足，这让我们看清了权力均衡的结构。就个人而言，有些科学家可能很有权威。但作为群体，当代科学家远没有形成一个能同前述统治集团相比的权力中心。这里的缘由值得注意。科学家从事的活动需要高度的个体化，也会造成高度的个体化。他们的组织通常比其他那些统治群体松散，集体行动的意愿也较弱。他们并非不知道彼此有共同的职业利益。但他们分散在不同大学和各类其他机构里，教学和研究本身也促使工作方式个体化。这些因素使他们较少投入代表整个职业团体的组织。此外，科学工作的成果很难垄断，长期垄断几乎不可能。巫术神话思维往往能被当作秘传知识来经营，从而成为某个特定群体的独占领地。与现实相符的知识（",
+        {
+          "type": "em",
+          "children": [
+            "reality congruent"
+          ]
+        },
+        "）一经发现，可以暂时秘而不宣，却总可能被其他人重新发现。实际能长期保密的例子很少。这是一个很好的例子，说明各群体垄断满足他人需要的手段的能力有所不同，而这种差异对于权力资源（",
+        {
+          "type": "em",
+          "children": [
+            "power resources"
+          ]
+        },
+        "）的分配很重要。古代苏美尔和埃及的祭司与书记曾长期成功独占大量知识，尤其是阅读和书写的本领。这种知识垄断，是其特权地位的有力基础。我们时代的科学知识纵然最为精深，也会发表，并经图书馆向广大公众开放。科学工作者群体彼此竞争，试图把职位和经费留给自己一派的人。有时，他们把自己关在由外人无法理解的符号筑起的象牙塔里，试图以其晦涩来取得声望与权威。不过，真正的科学知识，也就是与现实相符的知识，他们极少能长期保密。"
+      ],
+      "en": [
+        "Le temps a adouci la rivalité entre ces deux groupes de spécialistes. Les groupes sacerdotaux et militaires restent encore haut placés dans la hiérarchie de pouvoir et de statut de la plupart des sociétés à État contemporaines. Mais par comparaison avec les époques passées le besoin social de ces services a diminué. Dans beaucoup de cas, les spécialistes économiques et les directions de parti les ont dépassés au sommet de la hiérarchie de pouvoir et de statut. Les groupes scientifiques, en tant que spécialistes de la production et de la transmission des connaissances de base, principaux fournisseurs des nouveaux moyens d’orientation dans leurs sociétés, remplissent désormais les fonctions anciennement assurées par les prêtres. En vertu de leur spécialisation, leurs membres répondent à des besoins sociaux d’un autre ordre. Pourtant, les ressources en pouvoir des groupes scientifiques sont bien plus limitées que celles des directions économiques et de parti, ce qui éclaire la structure de l’équilibre du pouvoir. Individuellement, certains scientifiques peuvent disposer d’une grande autorité. Mais en tant que groupe, les scientifiques contemporains sont loin de former un foyer de pouvoir au même sens que les groupes dirigeants préalablement cités. La raison n’en est pas sans intérêt. Les scientifiques sont engagés dans une activité qui à la fois engendre et requiert un niveau élevé d’individualisation. Leur organisation est en général plus relâchée et moins militante que ces autres groupes dirigeants. Bien qu’en aucun cas ignorants de leur communauté d’intérêts professionnels, leur distribution dans différentes universités et dans une variété d’autres institutions, aussi bien que le caractère individualisant de leur travail d’enseignement et de recherche, tend à diminuer l’investissement dans leurs instances de représentation en tant que corps constitué. En outre, il est très difficile, et sur le long terme presque impossible, de monopoliser les résultats du travail scientifique. La pensée magico-mythique peut souvent être traitée avec succès comme un mystère et ainsi comme la chasse gardée d’un groupe humain particulier. Les connaissances valides [reality congruent], une fois découvertes, peuvent être maintenues secrètes pour un temps, mais elles peuvent toujours être découvertes par d’autres et, en pratique, peuvent rarement être tenues secrètes longtemps. C’est un bon exemple de l’importance, dans la distribution des ressources de pouvoir [power resources], de la capacité différentielle à monopoliser des satisfactions dont d’autres ont besoin. Les prêtres et les scribes de l’antiquité sumérienne et égyptienne furent pendant longtemps capables de se réserver avec succès un large corps de connaissances, et notamment l’art de la lecture et de l’écriture. La monopolisation de cette connaissance constitua un socle puissant de leur position privilégiée. À contrario, même la connaissance scientifique la plus sophistiquée de notre temps est publiée et rendue accessible à un large public par les bibliothèques. Les groupes scientifiques sont en concurrence les uns avec les autres et essayent de réserver des postes et des subventions pour leurs propres ouailles. Dans certains cas, ils s’enferment dans une tour d’ivoire faite de symboles incompréhensibles pour l’extérieur, en essayant de gagner du prestige et de l’autorité par leur obscurité. Il est rare, cependant, qu’ils puissent faire longtemps un secret de connaissances scientifiques authentiques, c’est-à-dire conformes à la réalité."
+      ],
+      "page": "150–151"
+    },
+    {
+      "id": "retreat-of-sociologists-into-the-present-editorial",
+      "type": "heading",
+      "shared": true,
+      "zh": [
+        "校注"
+      ],
+      "en": [
+        "Editorial notes（中文）"
+      ]
+    },
+    {
+      "id": "retreat-of-sociologists-into-the-present-editorial-1",
+      "type": "paragraph",
+      "shared": true,
+      "zh": [
+        "第 133 页。底本为 2003 年法译刊本，含弗洛朗丝·韦伯的导言及塞巴斯蒂安·肖万从英文本译出的正文。法译注中以〔法译者注〕标示的内容沿用刊本。"
+      ],
+      "en": [
+        "第 133 页。底本为 2003 年法译刊本，含弗洛朗丝·韦伯的导言及塞巴斯蒂安·肖万从英文本译出的正文。法译注中以〔法译者注〕标示的内容沿用刊本。"
+      ]
+    },
+    {
+      "id": "retreat-of-sociologists-into-the-present-editorial-2",
+      "type": "paragraph",
+      "shared": true,
+      "zh": [
+        "第 135 页。原注 1 首次作 Volka Meja，致谢及第 134 页注作 Volker Meja。法文栏保留该异文。原注 2 最后一句刊本确作 « quantitatif »，译文依底本处理。"
+      ],
+      "en": [
+        "第 135 页。原注 1 首次作 Volka Meja，致谢及第 134 页注作 Volker Meja。法文栏保留该异文。原注 2 最后一句刊本确作 « quantitatif »，译文依底本处理。"
+      ]
+    },
+    {
+      "id": "retreat-of-sociologists-into-the-present-editorial-3",
+      "type": "paragraph",
+      "shared": true,
+      "zh": [
+        "第 146 页。法文刊本的 On a souvent analysé… 一句叠入两个谓语，译文据其上下文还原意思。原注 6 作者姓氏刊作 Chile，正文作 Childe，中文书目采用后者。"
+      ],
+      "en": [
+        "第 146 页。法文刊本的 On a souvent analysé… 一句叠入两个谓语，译文据其上下文还原意思。原注 6 作者姓氏刊作 Chile，正文作 Childe，中文书目采用后者。"
+      ]
+    },
+    {
+      "id": "retreat-of-sociologists-into-the-present-editorial-4",
+      "type": "paragraph",
+      "shared": true,
+      "zh": [
+        "第 149 页。原注 7 德文书名刊作 Beobachtungen sur Entwicklung der Menschheit。中文书目按德文通行书名写作 Beobachtungen zur Entwicklung der Menschheit。"
+      ],
+      "en": [
+        "第 149 页。原注 7 德文书名刊作 Beobachtungen sur Entwicklung der Menschheit。中文书目按德文通行书名写作 Beobachtungen zur Entwicklung der Menschheit。"
+      ]
+    },
+    {
+      "id": "retreat-of-sociologists-into-the-present-editorial-5",
+      "type": "paragraph",
+      "shared": true,
+      "zh": [
+        "第 150 页。原文沿用较宽泛的历史用语 peuples indo-aryens，把不同语族置于同一比较问题下。此处保留作者当时的用词。"
+      ],
+      "en": [
+        "第 150 页。原文沿用较宽泛的历史用语 peuples indo-aryens，把不同语族置于同一比较问题下。此处保留作者当时的用词。"
+      ]
+    }
+  ],
+  "notes": {
+    "elias-note-preface": {
+      "number": "*",
+      "zh": [
+        "本文初刊于福尔克尔·梅亚、迪特尔·米斯格尔德和尼科·施特尔编 ",
+        {
+          "type": "em",
+          "children": [
+            "Modern German Sociology"
+          ]
+        },
+        "（纽约，Columbia University Press，“European perspectives”丛书，1987年），后重刊于美国期刊 ",
+        {
+          "type": "em",
+          "children": [
+            "Theory, Culture & Society"
+          ]
+        },
+        "（SAGE，伦敦、纽伯里帕克、贝弗利希尔斯和新德里），第4卷，1987年，第223–247页。本法文文本由塞巴斯蒂安·肖万从英语译出，经哥伦比亚大学出版社许可发表。〔法译者注〕"
+      ],
+      "en": [
+        "Cet article paru dans Volker Meja, Dieter Misgeld et Nico Stehr (éd.), ",
+        {
+          "type": "em",
+          "children": [
+            "Modern German Sociology"
+          ]
+        },
+        ", New York, Columbia University Press, coll. « European perspectives », 1987 fut réimprimé dans la revue américaine ",
+        {
+          "type": "em",
+          "children": [
+            "Theory, Culture & Society"
+          ]
+        },
+        " (SAGE, London, Newbury Park, Beverly Hills et New Delhi), vol. 4, 1987, pp. 223-247. Le présent texte en français, traduit de l’anglais par Sébastien Chauvin, est publié avec l’autorisation de Columbia University Press [NDT]."
+      ]
+    },
+    "elias-note-1": {
+      "number": "1",
+      "zh": [
+        "本文前半部原用德语写成。史蒂芬·卡尔伯格和福尔卡·梅亚据《论社会学家退守当下》（",
+        {
+          "type": "em",
+          "children": [
+            "Über den Rückzug der Soziologen auf die Gegenwart"
+          ]
+        },
+        "）经过大幅修订、扩充的版本译成英语。该文刊于德国期刊 ",
+        {
+          "type": "em",
+          "children": [
+            "Kölner Zeitschrift für Soziologie und Sozialpsychologie"
+          ]
+        },
+        " 第35卷第1期（1983年），第29–40页。本文后半部（自第VIII节起）由作者用英语写成。致谢：诺贝特·埃利亚斯感谢福尔克尔·梅亚在修订原稿以收入论文集 ",
+        {
+          "type": "em",
+          "children": [
+            "Modern German Sociology"
+          ]
+        },
+        "（纽约，Columbia University Press，1987年）时给予的大力协助。他也感谢助手鲁道夫·凯夫与马尔滕·范博滕堡为本文后半部提供帮助。"
+      ],
+      "en": [
+        "La première moitié du texte, initialement rédigée en allemand, fut traduite en anglais par Stephen Kalberg et Volka Meja à partir d’une version considérablement révisée et augmentée de l’article « Uber den Rückzug der Soziologen auf die Gegenwart » publié dans la revue allemande ",
+        {
+          "type": "em",
+          "children": [
+            "Kölner Zeitschrift für Soziologie und Sozialpsychologie"
+          ]
+        },
+        ", vol. 35, n° 1, 1983, pp. 29-40. La deuxième moitié (à partir du paragraphe VIII) a été rédigée en anglais par l’auteur. Remerciements : Norbert Elias exprime sa gratitude à Volker Meja pour sa grande aide dans la révision du texte original en vue de la publication dans le volume collectif ",
+        {
+          "type": "em",
+          "children": [
+            "Modern German Sociology"
+          ]
+        },
+        " (New York, Columbia University Press, 1987). Il est aussi reconnaissant à ses assistants Rudolf Kijff et Maarten van Bottenburg pour leur aide concernant la deuxième partie de cet article."
+      ]
+    },
+    "elias-note-2": {
+      "number": "2",
+      "zh": [
+        "从社会学的角度看，“定性”在概念上并非“定量”恰当的对项，需要另找一个更合适的术语。非定量的、或不完全定量的经验社会学研究，往往关注人类群体某些静态和动态的特征。作为“定量”的对项，我提议用“构型的”（",
+        {
+          "type": "em",
+          "children": [
+            "figurational"
+          ]
+        },
+        "）。"
+      ],
+      "en": [
+        "Puisque, dans la perspective de la sociologie, « qualitatif » n’est pas un contraire conceptuel adéquat à « quantitatif », il faut chercher un terme plus approprié. Les recherches sociologiques empiriques non-quantitatives, ou non-exclusivement quantitatives, s'intéressent souvent à certains traits statiques et dynamiques des groupes humains. Comme alternative à « quantitatif », je propose « configurationnel » [",
+        {
+          "type": "em",
+          "children": [
+            "figurational"
+          ]
+        },
+        "]."
+      ]
+    },
+    "elias-note-3": {
+      "number": "3",
+      "zh": [
+        "强调经济功能与暴力控制功能以及其他生存功能的互惠关系，也许看起来只是认识上的纯理论进展，实际却具有深远的经验含义。只举一个例子。在苏联，暴力控制形成了垄断性组织，知识控制也是如此。不管人们是否情愿，这一组织与一套得到官方认可的信念体系相伴出现，甚至可以说，它是在这套信念体系的影响下仍然发展起来的。这套体系认为，“经济领域”的发展是社会发展的主要动力，往往甚至是唯一动力。按这种说法，国家组织不过是建在经济基础上的上层建筑。在这个例子中，把经济领域说成社会发展、因而也是权力社会分配的基础，显然与可观察到的事态进程矛盾。这样说反倒掩盖了一个事实。垄断控制物理暴力，与垄断控制经济或知识一样，都可能成为同样强大的社会发展动力。"
+      ],
+      "en": [
+        "L’insistance sur la réciprocité des fonctions économique et de contrôle de la violence (aussi bien que d’autres fonctions vitales) peut peut-être apparaître comme une avancée purement théorique dans la connaissance. Elle a en fait de profondes implications empiriques. Pour n’en citer qu’une : en Union soviétique, une organisation monopolistique du contrôle de la violence - et aussi bien du contrôle de la connaissance — s’est développée, bon gré, mal gré, en association avec, on devrait même dire en dépit d’un système de croyances officiellement sanctionné qui décrit le développement de la « sphère économique » comme la principale, et souvent même comme la seule force motrice du développement social. Ce système représente l’organisation étatique comme une simple superstructure en rapport avec sa base économique. Dans ce cas, la représentation de la sphère économique comme la base du développement social, et donc aussi de la distribution sociale du pouvoir, est évidemment contradictoire avec le cours observable des événements. Elle aide à dissimuler le fait que le contrôle du monopole de la violence physique peut être une force motrice du développement social aussi puissante que le contrôle monopolistique de l’économie ou, en la matière, de la connaissance."
+      ]
+    },
+    "elias-note-4": {
+      "number": "4",
+      "zh": [
+        "保罗·加雷利（Paul Garelli），",
+        {
+          "type": "em",
+          "children": [
+            "Le Proche-Orient Asiatique"
+          ]
+        },
+        "，巴黎，PUF，1969年，第66页。要更好地理解中世纪诸社会内部的和平程度，也许还该想想那时围绕着城市和城堡的墙。"
+      ],
+      "en": [
+        "Paul Garelli, ",
+        {
+          "type": "em",
+          "children": [
+            "Le Proche-Orient Asiatique"
+          ]
+        },
+        ", Paris, Puf, 1969, p. 66. Peut-être devrions-nous aussi nous rappeler les murs autour des villes et des châteaux médiévaux pour mieux comprendre le degré de pacification de ces sociétés."
+      ]
+    },
+    "elias-note-5": {
+      "number": "5",
+      "zh": [
+        "在庙宇组织发展的最早阶段，祭司除履行祭司职能之外，也可能兼管暴力控制，并以武力保护田地和初具规模的灌溉系统。宗教领袖与世俗领袖之间的权力平衡渐渐向后者倾斜之后，后者，也就是军队的首领和军事指挥者，便往往解除一部分祭司的职能，转而亲自履行祭司职能。"
+      ],
+      "en": [
+        "Il n’est pas improbable que les prêtres, durant les phases les plus reculées de la croissance de l’organisation des temples, aient combiné avec leurs fonctions de prêtres celles de contrôle de la violence, de protection militaire des champs et des systèmes d’irrigation naissants. Lorsqu’au fil du temps l’équilibre des pouvoirs entre les dirigeants religieux et séculiers pencha en faveur de ces derniers, de leur côté ceux-ci — les leaders des troupes, les chefs militaires — défonctionnalisèrent souvent certains de leurs prêtres et assumèrent eux-mêmes les fonctions de prétrise."
+      ]
+    },
+    "elias-note-french": {
+      "number": "*",
+      "zh": [
+        "原文即为法语。〔法译者注〕"
+      ],
+      "en": [
+        "En français dans le texte [NDT]."
+      ]
+    },
+    "elias-note-6": {
+      "number": "6",
+      "zh": [
+        "戈登·柴尔德（Gordon Childe），",
+        {
+          "type": "em",
+          "children": [
+            "What Happened in History"
+          ]
+        },
+        "，哈蒙兹沃思，Penguin，1942年。"
+      ],
+      "en": [
+        "Gordon Chile, ",
+        {
+          "type": "em",
+          "children": [
+            "What happened in History"
+          ]
+        },
+        ", Harmondsworth, Penguin, 1942."
+      ]
+    },
+    "elias-note-7": {
+      "number": "7",
+      "zh": [
+        "诺贝特·埃利亚斯，",
+        {
+          "type": "em",
+          "children": [
+            "Humana Conditio. Beobachtungen zur Entwicklung der Menschheit"
+          ]
+        },
+        "，美因河畔法兰克福，Suhrkamp，1985年。"
+      ],
+      "en": [
+        "Norbert Elias, ",
+        {
+          "type": "em",
+          "children": [
+            "Humana Conditio. Beobachtungen sur Entwicklung der Menschheit"
+          ]
+        },
+        ", Francfort-sur-le-Main, Suhrkamp, 1985."
+      ]
+    }
+  }
+}
